@@ -37,7 +37,7 @@ CC-OCR V2 covers 5 major OCR-centric tracks designed to evaluate different aspec
 4. **Key Information Extraction (KIE)**: Evaluating the extraction of structured key information from business transactions, public services, and regulated records.
 5. **Document Question Answering (VQA)**: Assessing the model's understanding of document content through question-answering tasks.
 
-### Sample Showcases
+### Overall Performance
 
 ![Sample 1](./figs/1.png)
 ![Sample 2](./figs/2.png)
