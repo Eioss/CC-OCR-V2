@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+&S_i:\lambda_{n(t,y)+1}\le t^{2\beta}S_i\cdot\lambda_{n(t,y)}\\
+&\beta(\theta)=L_1\cdot\left\|\frac{\partial T(\theta)}{\partial\theta}\right\|_2
++L_0\cdot\left(\left\|\frac{\partial L(\theta)}{\partial\theta}\right\|_2^2L(\theta)\right)\\
+&+\Omega^{(r+1)}\cdot\Omega^{(1)}X_{\ell_1,\ldots,\ell_{r+1}}^{(1,\ldots,r+1)}
+\left\{\sum_{k=1}^{r}(-1)^{r-k}\sigma_{\ell k}^{-1}Y_{11},\ldots,Y_{r-1},X_{\ell r},+\cdots\right\}\\
+&0\to P_n\to\cdots\to P_3\to P_2\to C_i\to B\to0\\
+&x_n=y_n+\sum_{1\le k\le R_0 2^n}\nu(k2^{-n})N_{k2^{-n}}\left(\left(\varphi^{k2^{-n}}\right)y_n\right)\\
+&\left|p-p_n^*\right|\le \frac{K}{|\lambda|^{2\beta}}\\
+&(I-J)D_1PD_1^{-1}I=(I-J)^2D_2PD_2^{-1}I=I
+\end{aligned}
+\]

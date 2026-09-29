@@ -1,0 +1,46 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <td>项目名称</td>
+        <td>2021年道路维修<br>一期一标段</td>
+        <td>施工范围</td>
+        <td>千童大道</td>
+    </tr>
+    <tr>
+        <td>监理单位</td>
+        <td></td>
+        <td>施工单位</td>
+        <td>中安城投建设<br>有限公司</td>
+    </tr>
+    <tr>
+        <td>开工时间</td>
+        <td></td>
+        <td>竣工时间</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="4">竣工报告<br>申请说明</td>
+        <td colspan="3">一、工程概况 千童大道</td>
+    </tr>
+    <tr>
+        <td colspan="3">二、工程现已完工，并自检、初验合格。申<br>请沧州市市政设施管理中心组织竣工验收。</td>
+    </tr>
+    <tr>
+        <td colspan="3"></td>
+    </tr>
+    <tr>
+        <td colspan="3">监理单位盖章                施工单位盖章</td>
+    </tr>
+    <tr>
+        <td>申请单位</td>
+        <td colspan="2">中安城投建设有限公司.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>申请日期</td>
+        <td>2022年5月7日.</td>
+        <td>联系方式</td>
+        <td>150 3076 8706</td>
+    </tr>
+</table>
+```

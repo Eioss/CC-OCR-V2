@@ -1,0 +1,9 @@
+I can see several instances of '0' in this document. Here are the regions for the various '0' characters:
+
+(560, 1496, 580, 1535) # 个人账户支付 area
+
+There are multiple instances of "0" throughout the payment fields. Here are several:
+
+(393, 1496, 410, 1535) # 医保统筹支付 area
+
+The text appears in payment method fields like 支付宝:0, 微信:0, 其他记帐:0, 银行存款:0, etc.

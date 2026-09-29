@@ -1,0 +1,5 @@
+The text 'Lanjin Electronics Information Co., Ltd.' appears twice in the image:
+
+(24, 102, 656, 124) # ISSUER section
+
+(24, 200, 526, 222) # TO section

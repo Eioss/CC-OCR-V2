@@ -1,0 +1,54 @@
+\[
+\langle PN(\operatorname{Id}-\Delta_h)u_N-Pu_{HF},v\rangle
+=
+\langle PN((\operatorname{Id}-\Delta_h)u_N-u_{HF}),\phi\rangle
++
+\langle(P-P_N)u_{HF},\phi\rangle .
+\]
+
+\[
+D_T:=(0,T)\times D,\qquad
+\partial D_T:=(0,T)\times \partial D,\qquad
+\mathbb{R}^n_T:=(0,T)\times \mathbb{R}^n .
+\]
+
+\[
+\liminf_{\varepsilon\to0}\sum_{j=0}^{m}\int_{S_j}\Theta_\varepsilon[[(u_\varepsilon)_T]_{S_j}]\,d\sigma(x)
+\ge
+\sum_{j=0}^{m}G_j;[[u_T]_{S_j}+\gamma_j|Z_\varepsilon(w\times S_j),m(w\times S_j)|.
+\]
+
+\[
+A_\infty
+=
+\lim_{k\to\infty}A_k
+=
+\lim_{k\to\infty}\sum_{i=1}^{d}x_{k_i}^{\otimes m}
+=
+\sum_{i=1}^{d}x_{\infty_i}^{\otimes m}
+\in C^{D^{n,m}}(K),
+\]
+
+\[
+r:=\max\{r_i\}_{i\in\{1,\ldots,m\}}.
+\]
+
+\[
+A\gamma\circ M_x=A_x,\qquad A-x\circ C=A_x.
+\]
+
+\[
+a\{r_n\}=(a_2)\ldots(a_k).
+\]
+
+\[
+V(\varepsilon_1,\varepsilon_2)
+=
+V\setminus\bigl(\{|z|<\varepsilon_1\}\cup\{|\zeta|<\varepsilon_2\}\bigr).
+\]
+
+\[
+\frac{a_2^3}{a_2^3-2/a_3^2}\downarrow-\infty\ \text{as }A\downarrow0,
+\qquad
+\frac{a_3^3}{a_2^3-2/a_3^2}\uparrow1\ \text{as }A\uparrow\infty.
+\]

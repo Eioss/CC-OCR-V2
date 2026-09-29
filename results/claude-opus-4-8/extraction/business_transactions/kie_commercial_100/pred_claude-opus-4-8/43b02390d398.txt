@@ -1,0 +1,3 @@
+```json
+{"order_id": "9063305", "vendor_address": "901 West Bond St., Lincoln, NE 68521", "vendor_name": "xperian", "vendor_tax_id": "13-3015410", "customer_id": "587876", "customer_billing_name": "LORILLARD TOBACCO COMPANY", "customer_billing_address": "714 GREEN VALLEY RD GREENSBORO NC 27408", "customer_delivery_name": "MARIA HOWE", "customer_delivery_address": "EPSILON 50 CAMBRIDGE ST NEW YORK NY 01803", "amount_total_gross": "$3968.40", "amount_due": "$3968.40", "payment_terms": "NET 30 DAYS"}
+```

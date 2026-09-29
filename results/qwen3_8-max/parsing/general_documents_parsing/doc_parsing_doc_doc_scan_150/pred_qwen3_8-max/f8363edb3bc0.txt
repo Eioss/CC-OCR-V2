@@ -1,0 +1,208 @@
+Based on the image provided, here is the transcription of the text into LaTeX format. I have used standard LaTeX formatting to represent the structure, bolding for headers, and appropriate spacing.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{15. The Writs 16. Directive Principles of State Policy 17. Fundamental Duties 18. Procedure for Amending the Constitution 19. The Doctrine of Basic Features 20. Some Important Constitutional Amendment Acts 21. Executive of the Union 22. Emergency Provisions 23. The Vice-President 24. The Prime Minister and The Union Council of Ministers 25. The Attorney-General for India 26. The Comptroller \& Auditor-General of India 27. The Parliament of India 28. Parliamentary Terms 29. The Supreme Court 30. The High Court 31. Centre-State Relations 32. Executive of the States 33. Panchayati Raj 34. Municipalities 35. Inter-State Relations 36. Planning Commission 37. NITI Aayog 38. National Development Council (NDC) 39. National Integration Council 40. Finance Commission 41. Public Service Commissions 42. Election 43. Delimitation Commission of India 44. The Official Languages 45. National Symbols 46. Some Important Comments 47. Some Important Statements 48. Some Important Definitions 49. Some Important Books (Polity) 50. Miscellaneous}
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Indian Economy}} \hfill \textcolor{purple}{\textbf{... 247--297}}
+
+\begin{enumerate}
+    \item[1.] Highlights of Indian Economy
+    \item[2.] Economy and Economics
+    \item[3.] Characteristics of Indian Economy
+    \item[4.] Agriculture and Allied Sector
+    \item[5.] National Income
+    \item[6.] Economic Planning and Development
+    \item[7.] Unemployment and Employment
+    \item[8.] Trade and Commerce
+    \item[9.] New Economic Policy
+    \item[10.] Indian Financial System
+    \item[11.] Indian Fiscal System
+    \item[12.] Money, Banking and Insurance in India
+    \item[13.] Tax System
+    \item[14.] Industry
+    \item[15.] Industrial Performance
+    \item[16.] Foreign Trade
+    \item[17.] Some Noteworthy Facts
+    \item[18.] Some Economic and Financial Terms
+    \item[19.] Miscellaneous
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Physics}} \hfill \textcolor{purple}{\textbf{... 298--323}}
+
+\begin{enumerate}
+    \item[1.] Unit and Dimension
+    \item[2.] Motion
+    \item[3.] Work, Energy and Power
+    \item[4.] Gravitation
+    \item[5.] Pressure
+    \item[6.] Floatation
+    \item[7.] Surface Tension
+    \item[8.] Viscosity
+    \item[9.] Elasticity
+    \item[10.] Simple Harmonic Motion
+    \item[11.] Wave
+    \item[12.] Sound Wave
+    \item[13.] Heat
+    \item[14.] Light
+    \item[15.] Static Electricity
+    \item[16.] Current Electricity
+    \item[17.] Magnetism
+    \item[18.] Atomic \& Nuclear Physics
+    \item[19.] Electronics
+    \item[20.] Scientific Instruments
+    \item[21.] Inventions
+    \item[22.] Important Discoveries in Physics
+    \item[23.] S.I. Units of Physical Quantity
+    \item[24.] Conversion of Units from One System to Another System
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Chemistry}} \hfill \textcolor{purple}{\textbf{... 324--352}}
+
+\begin{enumerate}
+    \item[1.] Introduction
+    \item[2.] Chemical Symbol Formula and Equation
+    \item[3.] Atomic Structure
+    \item[4.] Periodic classification of Elements
+    \item[5.] Chemical Bonding
+    \item[6.] Oxidation \& Reduction
+    \item[7.] Solution
+    \item[8.] Acids, Bases \& Salts
+    \item[9.] Behaviour of Gases \& Energetics
+    \item[10.] Energetics (Thermodynamics)
+    \item[11.] Electrolysis
+    \item[12.] Carbon and its Compounds
+    \item[13.] Fuels
+    \item[14.] Metallurgy
+    \item[15.] Important Facts About Some Metals
+    \item[16.] Non metal
+    \item[17.] Common Facts
+    \item[18.] Man made substances
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Biology}} \hfill \textcolor{purple}{\textbf{... 353--390}}
+
+\begin{enumerate}
+    \item[1.] Introduction
+    \item[2.] What is living ?
+    \item[3.] Classification of Organism
+    \item[4.] Study of Cell---Cytology
+    \item[5.] Genetics
+    \item[6.] Sex Determination in Human
+    \item[7.] Organic Evolution
+\end{enumerate}
+\textbf{BOTANY :} 1. Classification of Plantae 2. Plant Morphology 3. Plant Tissue 4. Photosynthesis 5. Plant Hormones 6. Plant Diseases 7. Ecology 8. Nitrogen cycle 9. Pollution.
+\textbf{ZOOLOGY :} 1. Classification of Animal Kingdom 2. Animal Tissue 3. Human Blood 4. System of the Human Body 5. Nutrients 6. Human Diseases 7. Miscellaneous
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Miscellany}} \hfill \textcolor{purple}{\textbf{... 391--448}}
+
+\begin{enumerate}
+    \item[1.] Firsts in India
+    \item[2.] Firsts in India (Male)
+    \item[3.] Firsts in India (Female)
+    \item[4.] Firsts in the World (Male, Female etc)
+    \item[5.] Superlatives (India)
+    \item[6.] Superlatives (World)
+    \item[7.] Important Monuments/Structures (World)
+    \item[8.] National Emblems of Some Countries
+    \item[9.] National Animals of Some Countries
+    \item[10.] News Agencies of Some Countries
+    \item[11.] Abbreviations
+    \item[12.] International Airlines
+    \item[13.] Some Important Political Parties (World)
+    \item[14.] Intelligence Agencies (World)
+    \item[15.] Parliaments of Some Countries
+    \item[16.] Some Important Signors/Symbols
+    \item[17.] Some Official Books (World)
+    \item[18.] Newspapers \& Place of Publication (World)
+    \item[19.] United Nations
+    \item[20.] World Organisations and their Headquarters
+    \item[21.] Secretary Generals of UNO and their Tenure
+    \item[22.] United Nations International Weeks
+    \item[23.] International Years
+    \item[24.] Important Days (India and World)
+    \item[25.] UNESCO's World Heritage Sites (India)
+    \item[26.] Famous Tourist Spots of India
+    \item[27.] Defence of India
+    \item[28.] Internal Security of India
+    \item[29.] Defence Training Institutions of India
+    \item[30.] Foundation Day of Some States
+    \item[31.] Research Centres of India
+    \item[32.] Nuclear And Space Research Centres in India
+    \item[33.] Health and Medicinal Research Centres in India
+    \item[34.] National Parks (Established after 1998)
+    \item[35.] Famous Musical Instruments and their Exponents
+    \item[36.] Important Classical Dances And Artists
+    \item[37.] States and their Folk Dances
+    \item[38.] Major Art forms of India
+    \item[39.] Cultural Organisations in India
+    \item[40.] Places Associated with Eminent Personalities (World)
+    \item[41.] Crematorium of Famous Persons (India)
+    \item[42.] Famous Nicknames of Eminent Persons
+    \item[43.] Some Great Works of Famous Persons
+    \item[44.] Awards and Honours
+    \item[45.] National and Padma Awards
+    \item[46.] Gallantry Awards
+    \item[47.] Recipients of the Bharatiya Jnanpith Award
+    \item[48.] Recipients of Dada Saheb Phalke Award
+    \item[49.] Nobel Prize
+    \item[50.] Oscar/Academy Award (Motion-Picture Award)
+    \item[51.] Grammy Award (American Music Award)
+    \item[52.] Booker Prize (British Literary Award)
+    \item[53.] Ramon Magsaysay Award
+    \item[54.] The Pulitzer Prize
+    \item[55.] Gandhi Peace Prize
+    \item[56.] UNESCO Kalinga Prize
+    \item[57.] Important Books and Authors
+    \item[58.] Important Committees (India)
+    \item[59.] Committees and Commissions
+    \item[60.] Youth Affairs, Games and Sports
+    \item[61.] Olympic Games
+    \item[62.] Paralympics and Winter Olympics
+    \item[63.] Commonwealth Games
+    \item[64.] Asian Games
+    \item[65.] SAF Games
+    \item[66.] Cricket
+    \item[67.] Football
+    \item[68.] Hockey
+    \item[69.] Some Important Facts
+    \item[70.] Cups and Trophies
+    \item[71.] Famous Stadia and Sports
+    \item[72.] National Games and Sports (world)
+    \item[73.] Court or Field Associated with Sports
+    \item[74.] Number of Players in Some Popular Sports
+    \item[75.] Nicknames of Eminent Players
+    \item[76.] Eminent Sportspersons (India)
+    \item[77.] Eminent International Players (Female)
+    \item[78.] Eminent International Players (Male)
+    \item[79.] Special Awards in Sports
+    \item[80.] Miscellaneous
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent \textcolor{purple}{\textbf{Computer}} \hfill \textcolor{purple}{\textbf{... 449--458}}
+
+\noindent \textbf{Introduction, Five Generations of Computer, Programming Languages of different generations, Some Important Facts related to Computers, Units of Data Measurement, Important Keyboard Shortcuts (Commands), Glossary, Abbreviations associated with Computer, Some Memorable Facts, Some Important Initiatives of the Government, Miscellaneous}
+
+\end{document}
+```

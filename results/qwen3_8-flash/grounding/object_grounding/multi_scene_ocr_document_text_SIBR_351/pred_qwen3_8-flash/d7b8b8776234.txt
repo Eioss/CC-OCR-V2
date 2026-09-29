@@ -1,0 +1,21 @@
+```json
+[
+	{"bbox_2d": [792, 86, 865, 99], "label": "Address"},
+	{"bbox_2d": [490, 281, 573, 296], "label": "Commodity"},
+	{"bbox_2d": [788, 104, 885, 117], "label": "Contract No."},
+	{"bbox_2d": [791, 122, 910, 134], "label": "Date"},
+	{"bbox_2d": [592, 398, 709, 407], "label": "Destination ports"},
+	{"bbox_2d": [593, 363, 902, 376], "label": "Inspection standards"},
+	{"bbox_2d": [380, 282, 447, 295], "label": "Manufactory Code"},
+	{"bbox_2d": [103, 275, 328, 302], "label": "Name"},
+	{"bbox_2d": [593, 436, 702, 446], "label": "Price term"},
+	{"bbox_2d": [618, 283, 646, 295], "label": "Quantity"},
+	{"bbox_2d": [79, 500, 921, 614], "label": "Remark"},
+	{"bbox_2d": [78, 363, 561, 376], "label": "Shipment time"},
+	{"bbox_2d": [150, 83, 345, 98], "label": "Supplier"},
+	{"bbox_2d": [79, 442, 560, 470], "label": "Terms of payment"},
+	{"bbox_2d": [394, 50, 557, 64], "label": "Title"},
+	{"bbox_2d": [859, 281, 932, 295], "label": "Total price (USD)"},
+	{"bbox_2d": [708, 282, 750, 295], "label": "Unit Price (USD)"}
+]
+```

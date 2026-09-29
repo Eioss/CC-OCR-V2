@@ -1,0 +1,39 @@
+```latex
+\begin{center}
+{\LARGE Contents}
+\end{center}
+
+\begin{tabular}{@{}p{0.82\textwidth}r@{}}
+\textbf{FOREWORD} & vii \\[1em]
+\textbf{INTRODUCTION:} Why; Basic Equipment; Raw Materials
+and Where to Get Them; Some Helpful Hints & ix \\[1em]
+\textbf{1. AROUND THE HOUSE} & 17 \\
+\hspace{1.5em}Floor Care & 17 \\
+\hspace{1.5em}Furniture Care and Some Other Treatments for Wood & 24 \\
+\hspace{1.5em}Dishwashing Help & 28 \\
+\hspace{1.5em}Laundry Help & 31 \\
+\hspace{1.5em}Shoes and Leather & 34 \\
+\hspace{1.5em}General Cleaning and Polishing & 35 \\
+\hspace{1.5em}Fires in Their Places and Out of Them & 42 \\
+\hspace{1.5em}Controlling Bugs and Other Pests & 47 \\
+\hspace{1.5em}Paints and Brushes & 50 \\
+\hspace{1.5em}In the Kitchen & 52 \\
+\hspace{1.5em}Miscellaneous Home Goodies & 56 \\[1em]
+\textbf{2. PERSONAL} & 62 \\
+\hspace{1.5em}Making Soap & 62 \\
+\hspace{1.5em}Hair Care & 64 \\
+\hspace{1.5em}Body Things & 68 \\
+\hspace{1.5em}Hands and Face & 73 \\
+\hspace{1.5em}Teeth & 79 \\
+\hspace{1.5em}Eyes & 80 \\
+\hspace{1.5em}Feet & 81 \\[1em]
+\textbf{3. AUTOMOTIVE AND MECHANICAL} & 83 \\
+\hspace{1.5em}Taking Care of the Outside & 84 \\
+\hspace{1.5em}Taking Care of the Inside & 86 \\
+\hspace{1.5em}Cleaning Up & 90
+\end{tabular}
+
+\begin{flushright}
+v
+\end{flushright}
+```

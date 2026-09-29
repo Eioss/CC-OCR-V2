@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "11/18/99",
+    "customer_order_id": "23030",
+    "vendor_name": "IIT RESEARCH INSTITUTE",
+    "vendor_address": "P.O. BOX 92003 CHICAGO, ILLINOIS 60675",
+    "customer_id": "1120-02-000",
+    "customer_billing_name": "Lorillard Tobacco Co. Charles Gaworski, M.S., D.B.A.T.",
+    "customer_billing_address": "P.O. Box 21688 Greensboro, NC 27420",
+    "amount_total_gross": "$143,700.00",
+    "amount_due": "$143,700.00"
+}
+```

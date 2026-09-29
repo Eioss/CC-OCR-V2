@@ -1,0 +1,112 @@
+```latex
+\begin{center}
+    \textbf{REGISTER DETAILED DESCRIPTION}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent $\diamond$ \textbf{Chip ID Register (0x00), default(0x17)}
+
+\vspace{0.2cm}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+\rowcolor{lightgray!30}
+\textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+\hline
+\multicolumn{8}{|l|}{\textbf{Chip ID: “0001 0111”}} \\
+\multicolumn{8}{|l|}{Write 55H To Reset All Registers} \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent $\diamond$ \textbf{Enable Register (0x01), default(0x00)}
+
+\vspace{0.2cm}
+
+\begin{tabular}{|p{2.2cm}|p{2.2cm}|p{2.2cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}|p{1.5cm}|}
+\hline
+\rowcolor{lightgray!30}
+\textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+\hline
+\textbf{Strobe Type} \newline 0=Level Triggered (Default) \newline 1=Edge Triggered & 
+\textbf{Strobe Enable} \newline 0=Disabled (Default) \newline 1=Enabled & 
+\textbf{Mode Bits: M1, M0} \newline 00=Standby (Default) \newline 01=IR Drive \newline 10=Torch \newline 11=Flash & 
+& RFU & 
+\textbf{LED3 Enable} \newline 0=OFF (Default) \newline 1=ON & 
+\textbf{LED2 Enable} \newline 0=OFF (Default) \newline 1=ON & 
+\textbf{LED1 Enable} \newline 0=OFF (Default) \newline 1=ON \\
+\hline
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent \textbf{Note:}
+
+In Edge or Level Strobe Mode, it is recommended that the trigger pulse width be set greater than 1ms to ensure proper turn-on of the device.
+
+\vspace{0.5cm}
+
+\noindent $\diamond$ \textbf{IVFM Register (0x02), default(0xE1)}
+
+\vspace{0.2cm}
+
+\begin{tabular}{|p{2.5cm}|p{2.5cm}|p{2.5cm}|p{2cm}|p{2.5cm}|c|c|p{2cm}|}
+\hline
+\rowcolor{lightgray!30}
+\textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+\hline
+\textbf{LEDX Enable Setting} \newline 0= if LED1 or LED2 is Enabled, LED3 is Disabled Internally \newline 1=No Limitation (Default) & 
+\textbf{LED3 Pin Short Fault Detect} \newline 0=Disabled \newline 1=Enabled (Default) & 
+\textbf{LED1/2 Pin Short Fault Detect} \newline 0=Disabled \newline 1=Enabled (Default) & 
+\textbf{UVLO Enable} \newline 0=Disabled (Default) \newline 1=Enabled & 
+\textbf{IVFM Levels} \newline 000=2.9 V (Default) \newline 001=3.0 V \newline 010=3.1 V \newline 011=3.2 V \newline 100=3.3 V \newline 101=3.4 V \newline 110=3.5 V \newline 111=3.6 V & & & 
+\textbf{IVFM Enable} \newline 0=Disabled \newline 1=Enabled (Default) \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent $\diamond$ \textbf{LED1 Flash Brightness Register (0x03), default(0x7F)}
+
+\vspace{0.2cm}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+\rowcolor{lightgray!30}
+\textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+\hline
+\multicolumn{8}{|l|}{\textbf{LED1 Flash Brightness Levels}} \\
+\multicolumn{8}{|l|}{$I_{FLASH}(\text{mA}) \approx (\text{Brightness Code} * 3.91\text{mA}) + 3.91\text{mA}$} \\
+\multicolumn{8}{|l|}{} \\
+\multicolumn{8}{|l|}{00000000 = 3.91 mA} \\
+\multicolumn{8}{|l|}{..................} \\
+\multicolumn{8}{|l|}{01111111 = 500 mA \quad (Default)} \\
+\multicolumn{8}{|l|}{..................} \\
+\multicolumn{8}{|l|}{11111111 = 1.0 A} \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent $\diamond$ \textbf{LED1 Torch Brightness Register (0x04), default(0x7F)}
+
+\vspace{0.2cm}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+\rowcolor{lightgray!30}
+\textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+\hline
+\multicolumn{8}{|l|}{\textbf{LED1 Torch Brightness Levels}} \\
+\multicolumn{8}{|l|}{$I_{TORCH}(\text{mA}) \approx (\text{Brightness Code} * 1.46\text{mA}) + 1.46\text{mA}$} \\
+\multicolumn{8}{|l|}{} \\
+\multicolumn{8}{|l|}{00000000 = 1.46 mA} \\
+\multicolumn{8}{|l|}{..................} \\
+\multicolumn{8}{|l|}{01111111 = 187.5 mA \quad (Default)} \\
+\multicolumn{8}{|l|}{..................} \\
+\multicolumn{8}{|l|}{11111111 = 375 mA} \\
+\hline
+\end{tabular}
+```

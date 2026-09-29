@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+F_{\pm}&=4\bigl((\Delta_n^{\pm})^2\bigr),\\
+\partial_tu_t(x)&=\frac12\Delta u_t(x)+\sigma(x,u_t(x))\dot W_t(x),
+\qquad t\in[0,T],\ x\in\mathbb R,\\
+\bar u_0(x)&=0,\qquad \forall x\in\mathbb R\setminus\partial D,\\
+A\oplus B&\in SC(X\times X\times\mathbb R),\\
+\limsup_{t\to\infty}t^{\frac12+\frac13}\mathbf1_{[\frac13,1]}(t)
+&\le C\lim_{t\to\infty}\int_0^\infty
+\int_{|w|\ge t^{1/2}}|U_j(w,T)|\,dw\,dr=0,\\
+\sum_{n\ge1}\bigl|u_n^\varepsilon t_n-z_n\bigr|&<\infty.
+\end{aligned}
+\]

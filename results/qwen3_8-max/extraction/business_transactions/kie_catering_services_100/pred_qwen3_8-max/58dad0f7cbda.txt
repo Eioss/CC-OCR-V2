@@ -1,0 +1,19 @@
+```json
+{
+    "menu": [
+        {
+            "name": "1001-Choco Bun",
+            "price": "22.000",
+            "quantity": "x1",
+            "total_price": "22.000"
+        },
+        {
+            "name": "6001-Plastic Bag Small",
+            "price": "0",
+            "quantity": "x1",
+            "total_price": "0"
+        }
+    ],
+    "total": "22.000"
+}
+```

@@ -1,0 +1,47 @@
+Here is the LaTeX transcription of the text and equations from the image:
+
+```latex
+\section*{VERY SHORT ANSWER TYPE QUESTIONS}
+
+1. If one zero of the polynomial $P(x) = 5x^2 + 13x + k$ is reciprocal of the other, then value of $k$ is \\
+(a) 0 \hspace{2cm} (b) 5 \hspace{2cm} (c) $\frac{1}{6}$ \hspace{2cm} (d) 6
+
+2. If $\alpha$ and $\beta$ are the zeroes of the polynomial $p(x) = x^2 - p(x+1) - c$ such that $(\alpha+1)(\beta+1) = 0$, the $c =$ \underline{\hspace{2cm}}.
+
+3. If one zero of the quadratic polynomial $x^2 + 3x + k$ is 2, then the value of $k$ is \\
+(a) 10 \hspace{2cm} (b) $-10$ \hspace{2cm} (c) 5 \hspace{2cm} (d) $-5$
+
+4. If the zeroes of the quadratic polynomial $x^2 + (a+1)x + b$ are 2 and $-3$, then \\
+(a) $a = -7$, $b = -1$ \hspace{3cm} (b) $a = 5$, $b = -1$ \\
+(c) $a = 2$, $b = -6$ \hspace{3cm} (d) $a = 0$, $b = -6$
+
+5. What should be added to the polynomial $x^2 - 5x + 4$, so that 3 is the zero of the resulting polynomial: \\
+(a) 1 \hspace{2cm} (b) 2 \hspace{2cm} (c) 4 \hspace{2cm} (d) 5
+
+6. If $\alpha$ and $\beta$ are the zeroes of the polynomial \\
+\[ f(x) = x^2 + x + 1, \text{ then } \frac{1}{\alpha} + \frac{1}{\beta} = \]
+
+7. If a quadratic polynomial $f(x)$ is not factorizable into linear factors, then it has no real zero. (True/False)
+
+8. If a quadratic polynomial $f(x)$ is a square of a linear polynomial, then its two zeroes are coincident. (True/False).
+
+9. If $p(x) = x^3 - 2x^2 - x + 2 = (x+1)(x-2)(x-d)$ then what is the value of $d$?
+
+10. The quadratic polynomial $ax^2 + bx + c$, $a \neq 0$ is represented by this graph then $a$ is
+\begin{center}
+    % Placeholder for the graph description or tikz code if needed, 
+    % but typically just indicating an image exists here.
+    % Since I cannot generate the actual visual curve perfectly without more complex code, 
+    % I will represent the context of the question which relies on a downward parabola.
+    [Graph of a downward opening parabola intersecting the x-axis at two positive points]
+\end{center}
+(a) Natural no. \quad (b) Whole no. \quad (c) Negative Integer \quad (d) Irrational no.
+
+11. What will be the number of zeroes of a linear polynomial $p(x)$ if its graph $(i)$ passes through the origin. $(ii)$ doesn't intersect or touch $x$-axis at any point?
+
+12. Find the quadratic polynomial whose zeroes are \\
+\[ (5 + 2\sqrt{3}) \text{ and } (5 - 2\sqrt{3}) \]
+
+\vspace{1em}
+\noindent \textbf{Mathematics-X} \hfill \textcircled{13}
+```

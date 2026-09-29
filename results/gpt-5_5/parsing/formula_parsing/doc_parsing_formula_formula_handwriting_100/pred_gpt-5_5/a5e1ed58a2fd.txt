@@ -1,0 +1,28 @@
+\[
+\begin{aligned}
+&\mathbb{E}\int_a^b\int_a^b \left|K_g(t,x)-K_g(s,y)\right|^p\,dt\,dx\,ds\,dy \\
+&=\mathbb{E}\int_a^b\int_a^b \left|
+\int_0^t\int_{\mathbb{R}^d} K(t-r,z)g(x-z)\,dz\,dW(r)
+-\int_0^s\int_{\mathbb{R}^d} K(s-r,z)g(y-z)\,dz\,dW(r)
+\right|^p\,dt\,dx\,ds\,dy \\
+&\leq N(p)\mathbb{E}\int_a^b\int_a^b \left|
+\int_0^s\int_{\mathbb{R}^d} \bigl(K(t-r,z)-K(s-r,z)\bigr)g(y-z)\,dz\,dW(r)
+\right|^p\,dt\,dx\,ds\,dy \\
+&\quad +N(p)\mathbb{E}\int_a^b\int_a^b \left|
+\int_0^s\int_{\mathbb{R}^d} K(t-r,z)\bigl(g(x-z)-g(y-z)\bigr)\,dz\,dW(r)
+\right|^p\,dt\,dx\,ds\,dy \\
+&\quad +N(p)\mathbb{E}\int_a^b\int_a^b \left|
+\int_s^t\int_{\mathbb{R}^d} K(t-r,z)g(x-z)\,dz\,dW(r)
+\right|^p\,dt\,dx\,ds\,dy \\
+&\leq N(p)\mathbb{E}\int_a^b\int_a^b
+\left(\int_0^s \left|\int_{\mathbb{R}^d} \bigl(K(t-r,z)-K(s-r,z)\bigr)g(y-z)\,dz\right|^2\,dr\right)^{\frac p2}
+\,dt\,dx\,ds\,dy \\
+&\quad +N(p)\mathbb{E}\int_a^b\int_a^b
+\left(\int_0^s \left|\int_{\mathbb{R}^d} K(t-r,z)\bigl(g(x-z)-g(y-z)\bigr)\,dz\right|^2\,dr\right)^{\frac p2}
+\,dt\,dx\,ds\,dy \\
+&\quad +N(p)\mathbb{E}\int_a^b\int_a^b
+\left(\int_s^t \left|\int_{\mathbb{R}^d} K(t-r,z)g(x-z)\,dz\right|^2\,dr\right)^{\frac p2}
+\,dt\,dx\,ds\,dy \\
+&=: I_1+I_2+I_3 .
+\end{aligned}
+\]

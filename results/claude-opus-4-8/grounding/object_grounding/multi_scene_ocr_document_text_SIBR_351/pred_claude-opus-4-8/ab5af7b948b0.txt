@@ -1,0 +1,26 @@
+```json
+[
+  {"bbox_2d": [313, 158, 1064, 207], "label": "TITLE"},
+  {"bbox_2d": [1543, 200, 1597, 226], "label": "PAGE NUMBER"},
+  {"bbox_2d": [56, 313, 532, 339], "label": "1.Shipper/Exporter"},
+  {"bbox_2d": [519, 280, 1136, 343], "label": "8.No.&Date of Invoice"},
+  {"bbox_2d": [54, 530, 287, 552], "label": "COMPANY NAME"},
+  {"bbox_2d": [54, 564, 522, 588], "label": "ADDRESS"},
+  {"bbox_2d": [54, 595, 522, 622], "label": "ADDRESS"},
+  {"bbox_2d": [54, 654, 460, 681], "label": "ATTN"},
+  {"bbox_2d": [54, 716, 240, 740], "label": "COMPANY NAME"},
+  {"bbox_2d": [54, 745, 715, 770], "label": "ADDRESS"},
+  {"bbox_2d": [54, 779, 781, 805], "label": "ADDRESS"},
+  {"bbox_2d": [54, 800, 460, 838], "label": "TEL"},
+  {"bbox_2d": [519, 691, 783, 712], "label": "11.No & Date Of Contract or P/O"},
+  {"bbox_2d": [857, 783, 1252, 805], "label": "CUSTOMER NAME"},
+  {"bbox_2d": [857, 815, 1062, 837], "label": "CONTAINER"},
+  {"bbox_2d": [115, 938, 250, 962], "label": "4.Port of loading"},
+  {"bbox_2d": [468, 935, 749, 960], "label": "5.Final Destination"},
+  {"bbox_2d": [468, 1071, 627, 1097], "label": "7.Sailing on or about"},
+  {"bbox_2d": [422, 1213, 1041, 1330], "label": "14.Description of Goods"},
+  {"bbox_2d": [904, 1243, 968, 1268], "label": "15.Quantiy/Unit"},
+  {"bbox_2d": [1085, 1243, 1199, 1268], "label": "16.Unit Price"},
+  {"bbox_2d": [1331, 1243, 1442, 1268], "label": "17.Amount"}
+]
+```

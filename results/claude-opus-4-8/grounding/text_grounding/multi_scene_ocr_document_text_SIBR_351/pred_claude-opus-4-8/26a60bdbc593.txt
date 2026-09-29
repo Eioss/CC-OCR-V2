@@ -1,0 +1,7 @@
+The text '2769.00' appears twice in the receipt.
+
+First occurrence (西药费 row):
+(596, 497, 740, 535)
+
+Second occurrence (合计 row):
+(601, 793, 738, 826)

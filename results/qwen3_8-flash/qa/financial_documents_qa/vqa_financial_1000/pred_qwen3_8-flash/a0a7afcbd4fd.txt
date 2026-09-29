@@ -1,0 +1,22 @@
+Based on the provided table, **TABLE X-25**, the total number of persons examined is clearly stated in two places:
+
+1.  In the title: "PREVALENCE OF INTESTINAL PARASITES IN **1,359** CIVILIANS AND MILITARY DEPENDENTS BY LOCATION..."
+2.  In the row labeled "**Number examined**", under the column "**Total**".
+
+The value listed there is **1,359**.
+
+This can also be verified by summing the numbers for each location:
+*   Johore: 225
+*   Kedah: 159
+*   Kelantan: 225
+*   Selangor: 294
+*   Perak: 217
+*   Pahang: 153
+*   Negri Sembilan: 26
+*   Malacca: 60
+
+Sum = 225 + 159 + 225 + 294 + 217 + 153 + 26 + 60 = **1,359**
+
+---
+
+**Answer: The total number of persons examined is 1,359.**

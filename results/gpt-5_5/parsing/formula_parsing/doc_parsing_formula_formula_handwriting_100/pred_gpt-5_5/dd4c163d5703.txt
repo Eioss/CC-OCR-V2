@@ -1,0 +1,26 @@
+\[
+\begin{aligned}
+\|\Psi(u)-\Psi(v)\|_X
+&\leq \left\|D^{s-\frac12}\left(|u|^{p-1}u\,g(|u|)-|v|^{p-1}v\,g(|v|)\right)\right\|_{W'([0,T_1])} \\
+&\quad + \left\|D^{2-\frac12}\left(|u|^{p-1}u\,g(|u|)-|v|^{p-1}v\,g(|v|)\right)\right\|_{W'([0,T_1])} \\
+&\lesssim g\!\left(\|u\|_{L_t^\infty L_x^\infty([0,T_1])}\right)
+\Bigg(
+\left(\|u\|_{S([0,T_1])}^{p-1}+\|v\|_{S([0,T_1])}^{p-1}\right) \\
+&\qquad \times
+\left(\|D^{s-\frac12}(u-v)\|_{W([0,T_1])}
++\|D^{2-\frac12}(u-v)\|_{W([0,T_1])}\right) \\
+&\qquad +
+\left(\|u\|_{S([0,T_1])}+\|v\|_{S([0,T_1])}\right)
+\left(\|u\|_{S([0,T_1])}^{p-2}+\|v\|_{S([0,T_1])}^{p-2}\right) \\
+&\qquad \times
+\left(
+\|D^{s-\frac12}u\|_{W([0,T_1])}
++\|D^{2-\frac12}u\|_{W([0,T_1])}
++\|D^{s-\frac12}v\|_{W([0,T_1])}
++\|D^{2-\frac12}v\|_{W([0,T_1])}
+\right) \\
+&\qquad \times \|u-v\|_{S([0,T_1])}
+\Bigg) \\
+&\leq \left(g(2CM)(2\delta)^{p-1}+(2\delta)^{p-2}(2CM)\right)\|u-v\|_X .
+\end{aligned}
+\]

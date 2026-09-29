@@ -1,0 +1,19 @@
+Based on the provided **QA Sample Submission Form**, the sample used for identification is:
+
+> **Cane Sugar**
+
+This is clearly written in the field labeled **“Sample Identification:”**.
+
+---
+
+### Additional Context:
+- The form was submitted on **9-19-95**.
+- It relates to a facility in **Mexico** called **La Moderna**.
+- The supplier is **Ingenio Beta San Miguel**.
+- The sample sender is **D. Tuttle - Olm x2131**.
+- The sample is marked as **“Currently Used”** (checked box).
+- QA approval was signed by **R. Wolf** on **10-3-95**.
+
+So, while other details describe the context (supplier, facility, contact), the actual *sample being identified and submitted for QA* is **Cane Sugar**.
+
+✅ Final Answer: **Cane Sugar**

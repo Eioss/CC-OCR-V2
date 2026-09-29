@@ -1,0 +1,40 @@
+\[
+D\circ E(S)
+=
+\begin{pmatrix}
+X_1(\theta-S)\\
+\vdots\\
+X_d(\theta-S)
+\end{pmatrix}
++
+\sum_{m=1}^{\infty}
+\int_{\Delta_{\theta,S}^{m}}
+\left\{
+\nabla b^{n}\!\left(
+\langle x_{S_m}^{n},e_1\rangle
++\varepsilon w_1 B^{H,1}(S_m),\ldots
+\right)
+\right\}
+\begin{pmatrix}
+X_1(\theta-S_m)\\
+\vdots\\
+X_d(\theta-S_m)
+\end{pmatrix}
+\cdot
+\prod_{l=1}^{m-1}
+\nabla b^{n}\!\left(
+\langle x_{S_l}^{n},e_1\rangle
++\varepsilon w_1 B^{H,1}(S_l),\ldots
+\right)
+\begin{pmatrix}
+X_1(S_{l+1}-S_l)\\
+\vdots\\
+X_d(S_{l+1}-S_l)
+\end{pmatrix}
+\begin{pmatrix}
+X_1(S_1-S)\\
+\vdots\\
+X_d(S_1-S)
+\end{pmatrix}
+\,ds_m\cdots ds_1.
+\]

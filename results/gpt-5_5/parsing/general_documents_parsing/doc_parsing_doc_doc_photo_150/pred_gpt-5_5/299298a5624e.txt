@@ -1,0 +1,314 @@
+```latex
+\[
+\textbf{MATHEMATICS RU}
+\]
+
+\section*{Trigonometry}
+
+\subsection*{1) Trigonometry Ratios}
+
+\[
+\operatorname{Sin}\theta=\frac{\operatorname{Opp}}{\operatorname{Hyp}}
+\qquad
+\operatorname{Cos}\theta=\frac{\operatorname{Adj}}{\operatorname{Hyp}}
+\]
+
+\[
+\tan\theta=\frac{\operatorname{Opp}}{\operatorname{Adj}}
+\qquad
+\operatorname{Cot}\theta=\frac{\operatorname{Adj}}{\operatorname{Opp}}
+\]
+
+\[
+\operatorname{Sec}\theta=\frac{\operatorname{Hyp}}{\operatorname{Adj}}
+\qquad
+\operatorname{Cosec}\theta=\frac{\operatorname{Hyp}}{\operatorname{Opp}}
+\]
+
+\subsection*{2) Imp - Results}
+
+\[
+\begin{array}{ll}
+\text{i)} & \operatorname{Sin}\theta \cdot \operatorname{Cosec}\theta=1 \\[2mm]
+\text{ii)} & \operatorname{Cos}\theta \cdot \operatorname{Sec}\theta=1 \\[2mm]
+\text{iii)} & \tan\theta \cdot \operatorname{Cot}\theta=1 \\[2mm]
+\text{iv)} & \tan\theta=\dfrac{\operatorname{Sin}\theta}{\operatorname{Cos}\theta} \\[3mm]
+\text{v)} & \operatorname{Cot}\theta=\dfrac{\operatorname{Cos}\theta}{\operatorname{Sin}\theta} \\[3mm]
+\text{vi)} & \operatorname{Sin}^{2}\theta+\operatorname{Cos}^{2}\theta=1 \\[2mm]
+\text{vii)} & \operatorname{Sec}^{2}\theta=1+\tan^{2}\theta \\[2mm]
+\text{viii)} & \operatorname{Cosec}^{2}\theta=1+\operatorname{Cot}^{2}\theta \\[2mm]
+\text{ix)} & \pi^{c}=180^{\circ} \\[2mm]
+\text{x)} & \text{length of arc } s=r\theta \\[2mm]
+\text{xi)} & \text{Area of sector }=\dfrac{1}{2}r^{2}\theta
+\end{array}
+\]
+
+\subsection*{3) Trigonometry Ratios of Standard Angles}
+
+\[
+\begin{array}{|c|c|c|c|c|c|c|c|c|}
+\hline
+\text{Ratio} & 0^{\circ} & 30^{\circ} & 45^{\circ} & 60^{\circ} & 90^{\circ} & 180^{\circ} & 270^{\circ} & 360^{\circ} \\
+\hline
+\operatorname{Sin} & 0 & \dfrac{1}{2} & \dfrac{1}{\sqrt{2}} & \dfrac{\sqrt{3}}{2} & 1 & 0 & -1 & 0 \\
+\hline
+\operatorname{Cos} & 1 & \dfrac{\sqrt{3}}{2} & \dfrac{1}{\sqrt{2}} & \dfrac{1}{2} & 0 & -1 & 0 & 1 \\
+\hline
+\tan & 0 & \dfrac{1}{\sqrt{3}} & 1 & \sqrt{3} & \infty & 0 & \infty & 0 \\
+\hline
+\end{array}
+\]
+
+\subsection*{3) Sign Convention}
+
+\[
+\begin{array}{|c|c|c|c|}
+\hline
+\text{Quadrant} & \operatorname{Sin} & \operatorname{Cos} & \tan \\
+\hline
+\text{I} & + & + & + \\
+\hline
+\text{II} & + & - & - \\
+\hline
+\text{III} & - & - & + \\
+\hline
+\text{IV} & - & + & - \\
+\hline
+\end{array}
+\]
+
+\[
+\text{The above information can be conveniently remembered with the phrase “Add Sugar To Coffee”.}
+\]
+
+\subsection*{4) Allied - Angles}
+
+\[
+\begin{array}{ll}
+\text{1)} & \operatorname{Sin}(-\theta)=-\operatorname{Sin}\theta \\
+& \operatorname{Cos}(-\theta)=\operatorname{Cos}\theta \\
+& \tan(-\theta)=-\tan\theta \\
+& \operatorname{Cot}(-\theta)=-\operatorname{Cot}\theta \\
+& \operatorname{Sec}(-\theta)=\operatorname{Sec}\theta \\
+& \operatorname{Cosec}(-\theta)=-\operatorname{Cosec}\theta \\[3mm]
+\text{2)} & \operatorname{Sin}(90^{\circ}-\theta)=\operatorname{Cos}\theta \\
+& \operatorname{Cos}(90^{\circ}-\theta)=\operatorname{Sin}\theta \\
+& \tan(90^{\circ}-\theta)=\operatorname{Cot}\theta \\
+& \operatorname{Cot}(90^{\circ}-\theta)=\tan\theta \\
+& \operatorname{Sec}(90^{\circ}-\theta)=\operatorname{Cosec}\theta \\
+& \operatorname{Cosec}(90^{\circ}-\theta)=\sec\theta
+\end{array}
+\]
+
+\subsection*{5) Compound Angles}
+
+\[
+\begin{array}{ll}
+\text{i)} & \operatorname{Sin}(A+B)=\operatorname{Sin}A\operatorname{Cos}B+\operatorname{Cos}A\operatorname{Sin}B \\[2mm]
+\text{ii)} & \operatorname{Sin}(A-B)=\operatorname{Sin}A\operatorname{Cos}B-\operatorname{Cos}A\operatorname{Sin}B \\[2mm]
+\text{iii)} & \operatorname{Cos}(A+B)=\operatorname{Cos}A\operatorname{Cos}B-\operatorname{Sin}A\operatorname{Sin}B \\[2mm]
+\text{iv)} & \operatorname{Cos}(A-B)=\operatorname{Cos}A\operatorname{Cos}B+\operatorname{Sin}A\operatorname{Sin}B \\[2mm]
+\text{v)} & \tan(A+B)=\dfrac{\tan A+\tan B}{1-\tan A\tan B} \\[4mm]
+\text{vi)} & \tan(A-B)=\dfrac{\tan A-\tan B}{1+\tan A\tan B}
+\end{array}
+\]
+
+\subsection*{6) Multiple Angle and Sub Multiple Angle}
+
+\[
+\begin{array}{ll}
+\text{i)} & \operatorname{Sin}2A=2\operatorname{Sin}A\operatorname{Cos}A \\[2mm]
+\text{ii)} & \operatorname{Cos}2A=\operatorname{Cos}^{2}A-\operatorname{Sin}^{2}A \\[2mm]
+\text{iii)} & \tan 2A=\dfrac{2\tan A}{1-\tan^{2}A}
+\end{array}
+\]
+
+\[
+\begin{array}{ll}
+\text{i)} & \operatorname{Sin}A=2\operatorname{Sin}\left(\dfrac{A}{2}\right)\operatorname{Cos}\left(\dfrac{A}{2}\right) \\[3mm]
+\text{ii)} & \operatorname{Cos}A=\operatorname{Cos}^{2}\left(\dfrac{A}{2}\right)-\operatorname{Sin}^{2}\left(\dfrac{A}{2}\right) \\[3mm]
+\text{iii)} & \operatorname{Cos}A=1-2\operatorname{Sin}^{2}\left(\dfrac{A}{2}\right) \\[3mm]
+\text{iv)} & \operatorname{Cos}A=2\operatorname{Cos}^{2}\left(\dfrac{A}{2}\right)-1 \\[3mm]
+\text{v)} & \operatorname{Cos}A=\dfrac{1-\tan^{2}\left(\dfrac{A}{2}\right)}{1+\tan^{2}\left(\dfrac{A}{2}\right)} \\[4mm]
+\text{vi)} & \operatorname{Sin}A=\dfrac{2\tan\left(\dfrac{A}{2}\right)}{1+\tan^{2}\left(\dfrac{A}{2}\right)} \\[4mm]
+\text{vii)} & \tan A=\dfrac{2\tan\left(\dfrac{A}{2}\right)}{1-\tan^{2}\left(\dfrac{A}{2}\right)} \\[4mm]
+\text{viii)} & 1-\operatorname{Cos}A=2\operatorname{Sin}^{2}\left(\dfrac{A}{2}\right)
+\end{array}
+\]
+
+\subsection*{7) Triple Angle Formulae}
+
+\[
+\begin{array}{ll}
+\text{i)} & \sin 3\theta=3\sin\theta-4\sin^{3}\theta \\[2mm]
+\text{ii)} & \cos 3\theta=4\cos^{3}\theta-3\cos\theta \\[2mm]
+\text{iii)} & \tan 3\theta=\dfrac{3\tan\theta-\tan^{3}\theta}{1-3\tan^{2}\theta} \\[4mm]
+\text{iv)} & \cos^{3}\theta=\dfrac{\cos 3\theta+3\cos\theta}{4} \\[4mm]
+\text{v)} & \sin^{3}\theta=\dfrac{3\sin\theta-\sin 3\theta}{4}
+\end{array}
+\]
+
+\subsection*{8) Factorization}
+
+\[
+\begin{array}{ll}
+\text{i.} & \sin C+\sin D=2\sin\left(\dfrac{C+D}{2}\right)\cos\left(\dfrac{C-D}{2}\right) \\[4mm]
+\text{ii.} & \sin C-\sin D=2\sin\left(\dfrac{C+D}{2}\right)\sin\left(\dfrac{C-D}{2}\right) \\[4mm]
+\text{iii.} & \cos C+\cos D=2\cos\left(\dfrac{C+D}{2}\right)\cos\left(\dfrac{C-D}{2}\right) \\[4mm]
+\text{iv.} & \cos C-\cos D=2\sin\left(\dfrac{C+D}{2}\right)\sin\left(\dfrac{D-C}{2}\right)\quad \text{if } C>D \\[4mm]
+& =2\sin\left(\dfrac{C+D}{2}\right)\sin\left(\dfrac{D-C}{2}\right)\quad \text{if } D>C
+\end{array}
+\]
+
+\subsection*{9) Defactorization formulae}
+
+\[
+\begin{array}{ll}
+\text{i.} & 2\sin A\cos B=\sin(A+B)+\sin(A-B) \\[2mm]
+\text{ii.} & 2\cos A\sin B=\sin(A+B)-\sin(A-B) \\[2mm]
+\text{iii.} & 2\cos A\cos B=\cos(A+B)+\cos(A-B) \\[2mm]
+\text{iv.} & 2\sin A\sin B=\cos(A-B)-\cos(A+B)
+\end{array}
+\]
+
+\section*{Co - Ordinate - Geometry (2D)}
+
+\[
+\begin{array}{ll}
+\text{1. Distance Formula:} &
+\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}} \\[4mm]
+
+\text{2. Section Formula:} &
+P(x,y)=
+\left(
+\dfrac{mx_{2}+nx_{1}}{m+n},
+\dfrac{my_{2}+ny_{1}}{m+n}
+\right)
+\quad \text{Internally} \\[5mm]
+
+&
+Q(x,y)=
+\left(
+\dfrac{mx_{2}-nx_{1}}{m-n},
+\dfrac{my_{2}-ny_{1}}{m-n}
+\right)
+\quad \text{Externally} \\[5mm]
+
+\text{3. Mid point Formula:} &
+\left(
+\dfrac{x_{1}+x_{2}}{2},
+\dfrac{y_{1}+y_{2}}{2}
+\right) \\[5mm]
+
+\text{4. Centroid of triangle:} &
+G\left(
+\dfrac{x_{1}+x_{2}+x_{3}}{3},
+\dfrac{y_{1}+y_{2}+y_{3}}{3}
+\right) \\[5mm]
+
+\text{5. Area of triangle:} &
+\triangle=\dfrac{1}{2}
+\left[
+x_{1}(y_{2}-y_{3})+
+x_{2}(y_{3}-y_{1})+
+x_{3}(y_{1}-y_{2})
+\right] \\[5mm]
+
+\text{6. Slope of straight line:} &
+m=\tan\theta \\[3mm]
+
+\text{7. One point Form:} &
+y-y_{1}=m(x-x_{1}) \\[3mm]
+
+\text{8. Slope Intercept form:} &
+y=mx+C \\[3mm]
+
+\text{9. Two point Form:} &
+\dfrac{x-x_{1}}{x_{2}-x_{1}}
+=
+\dfrac{y-y_{1}}{y_{2}-y_{1}} \\[5mm]
+
+\text{10. Intercept Form:} &
+\dfrac{x}{a}+\dfrac{y}{b}=1 \\[5mm]
+
+\text{11. Normal Form:} &
+x\cos\alpha+y\sin\alpha=p \\[3mm]
+
+\text{12. Slope of line } ax+by+c=0 \text{ is} &
+-\dfrac{a}{b}\text{ or }\tan\theta=-\dfrac{a}{b} \\[5mm]
+
+\text{13. Intersection fo two lines:} &
+l_{1}+\lambda l_{2}=0 \\[3mm]
+
+\text{14. Angle between two s.t lines:} &
+\tan\theta=
+\left|
+\dfrac{m_{2}-m_{1}}{1+m_{1}m_{2}}
+\right| \\[5mm]
+
+\text{15. If the lines are parallel:} &
+m_{1}=m_{2} \\[2mm]
+
+\text{If the lines are } \perp: &
+m_{1}m_{2}=-1 \\[3mm]
+
+\text{16. Length of } P \text{ from:} &
+\left|
+\dfrac{ax_{1}+by_{1}+c}{\sqrt{a^{2}+b^{2}}}
+\right| \\[6mm]
+
+\text{17. Bisector Equations:} &
+\dfrac{ax+by+c}{\sqrt{a^{2}+b^{2}}}
+=
+\pm
+\dfrac{a_{1}x+b_{1}y+c_{1}}{\sqrt{a_{1}^{2}+b_{1}^{2}}} \\[6mm]
+
+\text{18. Distance bet parallel lines:} &
+\left|
+\dfrac{c_{1}-c_{2}}{\sqrt{a^{2}+b^{2}}}
+\right| \\[6mm]
+
+\text{19. Homogeneous Equation:} &
+ax^{2}+2hxy+by^{2}=0, \\[2mm]
+
+&
+\tan\theta=
+\dfrac{2\sqrt{h^{2}-ab}}{a+b} \\[6mm]
+
+\text{20. General Equation:} &
+ax^{2}+2hxy+by^{2}+2gx+2fy+c=0
+\end{array}
+\]
+
+\[
+\text{Represents a pair of lines}
+\]
+
+\[
+\text{if } abc+2fgh-af^{2}-bg^{2}-ch^{2}=0
+\]
+
+\[
+\text{Point of intersection }(x,y)=
+\left(
+\dfrac{hf-bg}{ab-h^{2}},
+\dfrac{hg-af}{ab-h^{2}}
+\right)
+\]
+
+\section*{Co - Ordinate - Geometry (3D)}
+
+\[
+\begin{array}{ll}
+\text{1. Distance Formula:} &
+\sqrt{(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}} \\[5mm]
+
+\text{2. Section Formula:} &
+P\left(
+\dfrac{mx_{2}+nx_{1}}{m+n},
+\dfrac{my_{2}+ny_{1}}{m+n},
+\dfrac{mz_{2}+nz_{1}}{m+n}
+\right)
+\end{array}
+\]
+```

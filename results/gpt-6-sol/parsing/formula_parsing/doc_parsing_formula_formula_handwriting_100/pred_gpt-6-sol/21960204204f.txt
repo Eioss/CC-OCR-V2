@@ -1,0 +1,34 @@
+\[
+\begin{aligned}
+&\sum_{\substack{\ell\in\mathbb Z,\ \ell\ne0\\m\ge1\\\ell+m\ne0\\\ell+2m\ne0}}
+\frac{(-1)^\ell x^m e^{i(\ell+2m)\theta}}
+{\ell^p m^s(\ell+m)^q(\ell+2m)^r}\\
+&\quad-2\sum_{j=0}^{p}\phi(p-j)\lambda_{p-j}
+\sum_{\xi=0}^{j}\sum_{\omega=0}^{j-\xi}
+\binom{\omega+r-1}{\omega}(-1)^\omega
+\binom{q-1+j-\xi-\omega}{q-1}(-1)^{j-\xi-\omega}
+\frac{1}{2^{r+\omega}}
+\sum_{m=1}^{\infty}\frac{x^m e^{2im\theta}}{m^{s+q+r+j-\xi}}
+\frac{(i\theta)^\xi}{\xi!}\\
+&\quad+2\sum_{j=0}^{q}\phi(q-j)\lambda_{q-j}
+\sum_{\xi=0}^{j}\sum_{\omega=0}^{j-\xi}
+\binom{\omega+r-1}{\omega}(-1)^\omega
+\binom{p-1+j-\xi-\omega}{p-1}(-1)^{p-1}
+\sum_{m=1}^{\infty}\frac{(-1)^m x^m e^{im\theta}}{m^{s+p+r+j-\xi}}
+\frac{(i\theta)^\xi}{\xi!}\\
+&\quad+2\sum_{j=0}^{r}\phi(r-j)\lambda_{r-j}
+\sum_{\xi=0}^{j}\sum_{\omega=0}^{j-\xi}
+\binom{\omega+j-\xi}{\omega}(-1)^\omega
+\binom{p+q-2-\omega}{q-1}(-1)^{p-1-\omega}
+\frac{1}{2^{j-\xi+\omega+1}}
+\sum_{m=1}^{\infty}\frac{x^m}{m^{s+p+q+j-\xi}}
+\frac{(i\theta)^\xi}{\xi!}\\
+&\quad-2\sum_{j=0}^{r}\phi(r-j)\lambda_{r-j}
+\sum_{\xi=0}^{j}\sum_{\omega=0}^{j-\xi}
+\binom{\omega+j-\xi}{\omega}(-1)^\omega
+\binom{p+q-2-\omega}{p-1}(-1)^{p-1}
+\sum_{m=1}^{\infty}\frac{x^m}{m^{s+p+q+j-\xi}}
+\frac{(i\theta)^\xi}{\xi!}
+=0.
+\end{aligned}
+\]

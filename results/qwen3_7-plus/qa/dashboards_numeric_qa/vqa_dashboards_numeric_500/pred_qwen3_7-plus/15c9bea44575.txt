@@ -1,0 +1,14 @@
+Based on the bar chart titled **"Unemployment Rates by Education Level (%)"** in the infographic:
+
+- The unemployment rate for **Tertiary** education level is **11.2%**
+- The unemployment rate for **National** average is **4.2%**
+
+To find the **combined** unemployment rate, we simply add them:
+
+> **11.2% + 4.2% = 15.4%**
+
+---
+
+✅ **Final Answer: 15.4%**
+
+*(Note: “Combined” here is interpreted as the sum of the two rates, since no weighting or population data is provided to calculate a true weighted average. In context, this likely means adding the two percentages as presented.)*

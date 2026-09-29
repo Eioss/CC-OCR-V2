@@ -1,0 +1,42 @@
+# Exercises
+
+**Concept Check** In Exercises 1–4, decide whether each statement is true or false.
+
+1. The solution set of \(2x+5=x-3\) is \(\{-8\}\).
+2. The equation \(5(x-8)=5x-40\) is an example of an identity.
+3. The equations \(x^2=4\) and \(x+2=4\) are equivalent equations.
+4. It is possible for a linear equation to have exactly two solutions.
+5. Explain the difference between an identity and a conditional equation.
+6. Make a complete list of the steps needed to solve a linear equation. (Some equations will not require every step.)
+7. **Concept Check** Which one is not a linear equation?
+   - A. \(5x+7(x-1)=-3x\)
+   - B. \(9x^2-4x+3=0\)
+   - C. \(7x+8x=13x\)
+   - D. \(0.04x-0.08x=0.40\)
+8. In solving the equation \(3(2x-8)=6x-24\), a student obtains the result \(0=0\) and gives the solution set \(\{0\}\). Is this correct? Explain.
+
+*Solve each equation. See Examples 1 and 2.*
+
+9. \(5x+4=3x-4\)
+10. \(9x+11=7x+1\)
+11. \(6(3x-1)=8-(10x-14)\)
+12. \(4(-2x+1)=6-(2x-4)\)
+13. \(\dfrac{5}{6}x-2x+\dfrac{4}{3}=\dfrac{5}{3}\)
+14. \(\dfrac{7}{4}+\dfrac{1}{5}x-\dfrac{3}{2}=\dfrac{4}{5}x\)
+15. \(3x+5-5(x+1)=6x+7\)
+16. \(5(x+3)+4x-3=-(2x-4)+2\)
+17. \(2[x-(4+2x)+3]=2x+2\)
+18. \(4[2x-(3-x)+5]=-6x-28\)
+19. \(\dfrac{1}{14}(3x-2)=\dfrac{x+10}{10}\)
+20. \(\dfrac{1}{15}(2x+5)=\dfrac{x+2}{9}\)
+21. \(0.2x-0.5=0.1x+7\)
+22. \(0.01x+3.1=2.03x-2.96\)
+23. \(-4(2x-6)+8x=5x+24+x\)
+24. \(-8(3x+4)+6x=4(x-8)+4x\)
+25. \(0.5x+\dfrac{4}{3}x=x+10\)
+26. \(\dfrac{2}{3}x+0.25x=x+2\)
+27. \(0.08x+0.06(x+12)=7.72\)
+28. \(0.04(x-12)+0.06x=1.52\)
+
+*Determine whether each equation is an identity, a conditional equa-  
+tion. Give the solution set. See Example 3.*

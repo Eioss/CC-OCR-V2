@@ -1,0 +1,5 @@
+The text '65.10' appears multiple times in the receipt. Here are the locations:
+
+(764, 478, 845, 506) # Sub-total
+(764, 514, 845, 542) # Total Sales Incl GST
+(764, 549, 845, 576) # Total After Adj Incl GST

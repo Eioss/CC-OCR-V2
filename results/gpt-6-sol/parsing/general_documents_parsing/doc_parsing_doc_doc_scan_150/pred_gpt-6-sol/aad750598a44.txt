@@ -1,0 +1,107 @@
+```latex
+\begin{center}
+\rule{\textwidth}{2pt}
+
+\vspace{1em}
+{\LARGE\bfseries Attention Is All You Need}
+
+\vspace{1em}
+\rule{\textwidth}{0.5pt}
+
+\vspace{4em}
+\begin{tabular}{cccc}
+\begin{tabular}{c}
+\textbf{Ashish Vaswani}\textsuperscript{*}\\
+Google Brain\\
+\texttt{avaswani@google.com}
+\end{tabular}
+&
+\begin{tabular}{c}
+\textbf{Noam Shazeer}\textsuperscript{*}\\
+Google Brain\\
+\texttt{noam@google.com}
+\end{tabular}
+&
+\begin{tabular}{c}
+\textbf{Niki Parmar}\textsuperscript{*}\\
+Google Research\\
+\texttt{nikip@google.com}
+\end{tabular}
+&
+\begin{tabular}{c}
+\textbf{Jakob Uszkoreit}\textsuperscript{*}\\
+Google Research\\
+\texttt{usz@google.com}
+\end{tabular}
+\\[2em]
+\begin{tabular}{c}
+\textbf{Llion Jones}\textsuperscript{*}\\
+Google Research\\
+\texttt{llion@google.com}
+\end{tabular}
+&
+\begin{tabular}{c}
+\textbf{Aidan N. Gomez}\textsuperscript{*\,\dag}\\
+University of Toronto\\
+\texttt{aidan@cs.toronto.edu}
+\end{tabular}
+&
+\begin{tabular}{c}
+\textbf{Lukasz Kaiser}\textsuperscript{*}\\
+Google Brain\\
+\texttt{lukaszkaiser@google.com}
+\end{tabular}
+&
+\\[2em]
+\multicolumn{4}{c}{
+\begin{tabular}{c}
+\textbf{Illia Polosukhin}\textsuperscript{*\,\ddag}\\
+\texttt{illia.polosukhin@gmail.com}
+\end{tabular}
+}
+\end{tabular}
+\end{center}
+
+\begin{abstract}
+The dominant sequence transduction models are based on complex recurrent or
+convolutional neural networks that include an encoder and a decoder. The best
+performing models also connect the encoder and decoder through an attention
+mechanism. We propose a new simple network architecture, the Transformer,
+based solely on attention mechanisms, dispensing with recurrence and convolutions
+entirely. Experiments on two machine translation tasks show these models to
+be superior in quality while being more parallelizable and requiring significantly
+less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-
+to-German translation task, improving over the existing best results, including
+ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task,
+our model establishes a new single-model state-of-the-art BLEU score of 41.0 after
+training for 3.5 days on eight GPUs, a small fraction of the training costs of the
+best models from the literature.
+\end{abstract}
+
+\section{Introduction}
+
+Recurrent neural networks, long short-term memory [12] and gated recurrent [7] neural networks
+in particular, have been firmly established as state of the art approaches in sequence modeling and
+transduction problems such as language modeling and machine translation [29, 2, 5]. Numerous
+efforts have since continued to push the boundaries of recurrent language models and encoder-decoder
+architectures [31, 21, 13].
+
+\noindent\rule{0.36\textwidth}{0.4pt}
+
+\noindent\textsuperscript{*}Equal contribution. Listing order is random. Jakob proposed replacing RNNs with self-attention and started
+the effort to evaluate this idea. Ashish, with Illia, designed and implemented the first Transformer models and
+has been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head
+attention and the parameter-free position representation and became the other person involved in nearly every
+detail. Niki designed, implemented, tuned and evaluated countless model variants in our original codebase and
+tensor2tensor. Llion also experimented with novel model variants, was responsible for our initial codebase, and
+efficient inference and visualizations. Lukasz and Aidan spent countless long days designing various parts of and
+implementing tensor2tensor, replacing our earlier codebase, greatly improving results and massively accelerating
+our research.
+
+\noindent\textsuperscript{\dag}Work performed while at Google Brain.
+
+\noindent\textsuperscript{\ddag}Work performed while at Google Research.
+
+\vspace{1em}
+\noindent 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.
+```

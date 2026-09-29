@@ -1,0 +1,42 @@
+\[
+P_n-P_n^0=\frac{1}{2\pi i}\int_{C_n}\bigl(R(\lambda)-R^0(\lambda)\bigr)\,d\lambda,
+\]
+
+\[
+f_i^-=\min_{x\in\partial J_i}f(x),\qquad
+f_i^+=\max_{x\in\partial J_i}f(x),\qquad
+i=1,\ldots,n_0,\quad \forall f\in C(\overline{\Omega}),
+\]
+
+\[
+\partial_i\bigl(\partial_j(xe_k)\bigr)
+=\partial_i\bigl(D_j(x)e_k+\delta_j(x)e_k+1_j\bigr),
+\]
+
+\[
+S\equiv\int_0^\infty \gamma\,d\tau\,
+e^{\frac{i}{\hbar}\hat H_{\mathrm{eff}}\tau}
+\hat V
+e^{-\frac{i}{\hbar}\hat H_{\mathrm{eff}}\tau}
+=\#,
+\]
+
+\[
+\begin{aligned}
+\Phi_{\mathrm{in}}(\beta_{HA},\beta_{VA},\beta_{HB},\beta_{VB})
+={}&\exp\!\left[
+-\frac{
+\tanh^2\chi\,|\beta_{VA}|^2+
+\tanh^2\chi\,|\beta_{HB}|^2-
+\tanh\chi\bigl(\beta_{VA}\beta_{HB}+\beta_{VA}^*\beta_{HB}^*\bigr)
+}{1-\tanh^2\chi}
+\right]\\
+&\times\exp\!\left[
+-\frac{
+\tanh^2\chi\,|\beta_{HA}|^2+
+\tanh^2\chi\,|\beta_{VB}|^2+
+\tanh\chi\bigl(\beta_{HA}\beta_{VB}+\beta_{HA}^*\beta_{VB}^*\bigr)
+}{1-\tanh^2\chi}
+\right].
+\end{aligned}
+\]

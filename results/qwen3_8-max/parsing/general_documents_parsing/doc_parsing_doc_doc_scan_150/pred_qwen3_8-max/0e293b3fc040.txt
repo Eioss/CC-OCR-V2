@@ -1,0 +1,70 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese character support
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{enumitem}
+
+% Page geometry setup
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm}
+
+% Header and Footer setup
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{信美人寿相互保险社全面预算管理办法}
+\rhead{编号：CW-YS-0001}
+\lfoot{第\thepage 页 /共\pageref{LastPage}页}
+\rfoot{内部资料，注意保密}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Paragraph formatting
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.5em}
+\linespread{1.5}
+
+\begin{document}
+
+\begin{center}
+    \large\textbf{第一章 总 则}
+\end{center}
+
+\textbf{第一条} 为规范和完善信美人寿相互保险社（以下简称“本社”）预算组织体系，明确工作职责及内部管理流程，提升经营管理水平，优化资源配置，建立健全预算管理体系，根据国家有关法规、制度规定，结合本社的实际情况，特制定本管理办法。
+
+\textbf{第二条} 本办法所称全面预算是指围绕本社战略规划，以产品策略为前提，以经营计划为基础，以年度工作任务为目标，通过事前统筹平衡、事中监督控制、事后考核评价，全过程、全方位、全员参与的资源配置系统，整合业务流、资金流、信息流，对本社预算年度内的经营活动进行规划和安排，以有效组织、协调，合理分配本社资源，在有限资源下实现整体收益最大化。
+
+\textbf{第三条} 本社全面预算一般按年度编制，并分解到季度、月度落实。本社的预算年度为每年的1月1日至12月31日。
+
+\textbf{第四条} 本办法适用于总社各中心、部门及各分社的预算管理活动。
+
+\begin{center}
+    \large\textbf{第二章 预算管理原则}
+\end{center}
+
+\textbf{第五条} 本社的预算管理按照内部经济活动的责任权限进行，并遵循以下基本原则：
+
+\begin{enumerate}[label=(\chinese{enumi}), leftmargin=2em]
+    \item \textbf{坚持效益优先原则，贯彻动态平衡预算管理}
+    
+    预算管理以会员利益最大化为目标，结合业务达成节奏进行动态平衡管理，通过资源投入促进业务发展，通过预算管理优化成本结构、投产效率及业务布局，做到业务发展与资源的高匹配，最大限度的提高预算的使用效率。
+
+    \item \textbf{坚持积极稳健原则，加强各项风险控制}
+    
+    预算管理应充分考虑经营活动中的风险与损失，以偿付能力充足为前提进行预算的编制与管控。
+
+    \item \textbf{坚持战略主导原则，依靠资源助力发展}
+    
+    预算管理应以本社总体战略经营目标为出发点，以实现可持续的发展为目标，通过预算的编制、执行、分析、调整和考核，确保本社整体战略目标的分解落实。
+
+    \item \textbf{全员参与，权责清晰，落实责任协作执行}
+    
+    本社预算编报和管理应全员参与，明确管理职责，建立沟通机制，确保目标有效分解，细化预算指标体系和责任主体，落实奖惩机制，实现责权匹配。
+\end{enumerate}
+
+\end{document}
+```

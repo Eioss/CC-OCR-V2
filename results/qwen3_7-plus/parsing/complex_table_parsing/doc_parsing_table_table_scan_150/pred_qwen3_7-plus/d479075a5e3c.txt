@@ -1,0 +1,112 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 8px 12px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th rowspan="2">林地<br/>类型</th>
+    <th colspan="2">1985 年林地</th>
+    <th colspan="2">1995 年林地</th>
+    <th colspan="2">2000 年林地</th>
+    <th rowspan="2">1985 —1995 年<br/>各类型变化</th>
+    <th rowspan="2">1995 —2000 年<br/>各类型变化</th>
+   </tr>
+   <tr>
+    <th>分类面积</th>
+    <th>占总林地比例/ %</th>
+    <th>分类面积</th>
+    <th>占总林地比例/ %</th>
+    <th>分类面积</th>
+    <th>占总林地比例/ %</th>
+   </tr>
+   <tr>
+    <td>有林地</td>
+    <td>13 743. 28</td>
+    <td>60. 94</td>
+    <td>13 566. 23</td>
+    <td>59. 57</td>
+    <td>13 650. 79</td>
+    <td>60. 85</td>
+    <td>- 177. 05</td>
+    <td>84. 56</td>
+   </tr>
+   <tr>
+    <td>灌木林</td>
+    <td>4 834. 12</td>
+    <td>21. 43</td>
+    <td>4 987. 31</td>
+    <td>21. 90</td>
+    <td>4 886. 00</td>
+    <td>21. 78</td>
+    <td>153. 19</td>
+    <td>- 101. 31</td>
+   </tr>
+   <tr>
+    <td>疏林地</td>
+    <td>3 527. 77</td>
+    <td>15. 64</td>
+    <td>3 838. 49</td>
+    <td>16. 85</td>
+    <td>3 498. 41</td>
+    <td>15. 60</td>
+    <td>310. 72</td>
+    <td>- 340. 08</td>
+   </tr>
+   <tr>
+    <td>其他林地</td>
+    <td>447. 49</td>
+    <td>1. 98</td>
+    <td>383. 26</td>
+    <td>1. 68</td>
+    <td>396. 90</td>
+    <td>1. 77</td>
+    <td>- 64. 23</td>
+    <td>13. 64</td>
+   </tr>
+   <tr>
+    <td>合 计</td>
+    <td>22 552. 66</td>
+    <td>100</td>
+    <td>22 775. 29</td>
+    <td>100</td>
+    <td>22 432. 10</td>
+    <td>100</td>
+    <td>222. 63</td>
+    <td>- 343. 19</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

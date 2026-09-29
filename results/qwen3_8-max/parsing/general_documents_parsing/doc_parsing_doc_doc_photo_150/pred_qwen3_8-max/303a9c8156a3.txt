@@ -1,0 +1,68 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{ulem} % For underlining blanks
+
+\geometry{a4paper, margin=2.5cm}
+
+\begin{document}
+
+截至募集说明书签署日，发行人、发行人子公司及其控股子公司无已发行尚未兑付或逾期未兑付的企业（公司）债券、中期票据、短期融资券、资产证券化产品、信托计划、保险债权计划、理财产品，不存在代建回购、融资租赁、售后回租等方式融资情况。
+
+\section*{第十二条 筹集资金用途}
+
+\subsection*{一、募集资金总量及用途}
+
+本期债券募集资金总额为人民币\underline{\hspace{2cm}}万元，其中人民币\underline{\hspace{2cm}}万元用于补充营运资金，占比 20\%；剩余 80\%的募集资金即人民币\underline{\hspace{2cm}}万元拟用于\underline{\hspace{3cm}}项目建设，具体情况如下：
+
+\textbf{募集资金使用情况表}
+
+单位：万元
+
+\begin{center}
+\begin{tabular}{|p{2cm}|p{2cm}|p{1.5cm}|p{3cm}|p{3cm}|p{3cm}|}
+\hline
+\textbf{项目名称} & \textbf{项目建设主体} & \textbf{项目总投资额} & \textbf{拟使用本期债券募集资金} & \textbf{债券资金占项目总投资比例} & \textbf{占本期债券募集资金的比例} \\
+\hline
+项目 & 有限责任公司 & & & & \\
+\hline
+补充营运资金 & & & & & \\
+\hline
+\textbf{合计} & & & & & \textbf{100\%} \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{二、募集资金投资项目概况}
+
+1. \underline{\hspace{3cm}}项目
+
+\begin{enumerate}
+    \item[1.] 项目概况
+    \item[2.] 项目审批情况
+\end{enumerate}
+
+\underline{\hspace{3cm}}项目已经获得相关主管部门的批准，具体批准文件情况如下表所示：
+
+\begin{center}
+\begin{tabular}{|c|p{6cm}|c|p{2.5cm}|p{2cm}|}
+\hline
+\textbf{序号} & \textbf{批准文件} & \textbf{批准部门} & \textbf{文件编号} & \textbf{批准时间} \\
+\hline
+1 & 《关于\hspace{1cm}项目节能评估报告表的批复》 & 发改局 & 发改[\hspace{0.5cm}] 号 & 年 \quad 月 \quad 日 \\
+\hline
+2 & 《建设项目选址意见书》 & 规划局 & 选字第 \hspace{1cm} 号 & 年 \quad 月 \quad 日 \\
+\hline
+3 & 《建设项目选址意见书》 & 规划局 & 选字第 \hspace{1cm} 号 & 年 \quad 月 \quad 日 \\
+\hline
+4 & 《关于\hspace{1cm}项目社会稳定风险评估报告的 & 信访办 & / & 年 \quad 月 \quad 日 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

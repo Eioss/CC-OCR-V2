@@ -1,0 +1,18 @@
+ $$a _ { k , j } = \frac { \mathrm { R e } F ( \lambda _ { k } - \lambda _ { 0 } + i ( \mu _ { j } - \mu _ { k } ) ) } { F ( \lambda _ { k } - \lambda _ { 0 } ) } \quad , \quad b _ { k , j } = \frac { \mathrm { R e } F ( - \lambda _ { 0 } + i ( \mu _ { j } - \mu _ { k } ) ) } { F ( - \lambda _ { 0 } ) }$$
+
+ $$\tilde { A } _ { \epsilon , 0 } ^ { ( k ) } \in C _ { 0 } ^ { \infty } ( \partial \Omega \times \partial \Omega \times \Omega \times \mathbb { R } ^ { n - 1 } ) .$$
+
+ $$\sum _ { j } | E _ { 4 } | \leq C \int _ { 0 } ^ { t } \| u _ { n } - u _ { p } \| _ { B _ { 2 , 2 } ^ { s - 1 } } \| \nabla b _ { n } \| _ { B _ { 2 , 2 } ^ { s - 1 } } \| b _ { n } - b _ { p } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { s } ) } d t ^ { \prime }$$
+
+ $$\leq \frac { 1 } { 4 } \| u _ { n } - u _ { p } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { s } ) } ^ { 2 } + C t \| b _ { n } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { s } ) } ^ { 2 } \| b _ { n } - b _ { p } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { s } ) } ^ { 2 } .$$
+
+ $${ \frac { 1 - \varepsilon / 1 0 } { 2 } } \left( ( 1 - 1 / r ) ^ { j - 1 } \, ( 1 - \varepsilon / 2 ) \, O P T - f ( S ) \right)$$
+
+ $$\partial _ { y _ { 1 } } ^ { 2 } + a y _ { 1 } + \left( 2 i \frac { \partial A ( x ) } { \partial x } - A ^ { * } ( x ) e ^ { i \phi _ { 2 1 } } \right) e ^ { i \tau } + \left( 2 i \frac { \partial A ^ { * } ( x ) } { \partial x } + A ( x ) e ^ { - i \phi _ { 2 1 } } \right) e ^ { - i \tau }$$
+ $$- A ( x ) e ^ { 3 i \tau + i \phi _ { 2 1 } } - A ^ { * } ( x ) e ^ { - 3 i \tau - i \phi _ { 2 1 } } = 0 .$$
+
+ $$\| u _ { \varepsilon , \lambda } - u _ { 0 , \lambda } \| _ { L ^ { 2 } ( \Omega ) } \leq C ( 1 + \lambda ) \varepsilon \{ \| F \| _ { L ^ { 2 } ( \Omega ) } + \| G \| _ { H ^ { 2 } ( \Omega ) } \} ,$$
+
+ $$\delta ( \| r \theta _ { 1 } h \| _ { X ^ { ' } ( 0 < t < \infty ) } ^ { 2 } + \| r \theta _ { 2 } h \| _ { X ^ { ' } ( 0 < t < \infty ) } ^ { 2 } ) = \delta \| h \| _ { X ^ { ' } ( { \mathbb { R } } ^ { 3 } ) } ^ { 2 } + { \mathcal { E } } _ { 5 } ~ ,$$
+
+ $$U _ { f } ( 0 , s ) = \left\{ \begin{array} { l l } { { \exp \big ( - \int _ { s } ^ { 0 } \alpha ( r ) d r \big ) } } & { { \mathrm { i f ~ } s \in [ - 1 , 0 ] \, , } } \\ { { z ( - s - 1 , f _ { s + 1 } , \phi ( f _ { s } ) ) } } & { { \mathrm { i f ~ } s \leq - 1 \, . } } \end{array} \right.$$

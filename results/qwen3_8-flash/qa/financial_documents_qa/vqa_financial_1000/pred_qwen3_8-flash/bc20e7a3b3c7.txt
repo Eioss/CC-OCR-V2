@@ -1,0 +1,7 @@
+Based on the provided table, we need to find the article that meets two criteria:
+1.  It was published in the journal **"Seminars in Oncology"**.
+2.  Its timing is **1Q98** (first quarter of 1998).
+
+Looking at the "Journal" column, we find the row with "Seminars in Oncology". The corresponding "Timing" for this entry is indeed "1Q98". The article listed in that same row under the "Article" column is:
+
+**Relative vs. Absolute Risk in Breast Cancer**

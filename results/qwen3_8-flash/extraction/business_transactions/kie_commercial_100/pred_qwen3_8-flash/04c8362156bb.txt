@@ -1,0 +1,20 @@
+```json
+{
+    "date_issue": "10/29/99",
+    "customer_order_id": "PENDING",
+    "vendor_name": "AAA FLAG & BANNER MFG. CO., INC.",
+    "vendor_address": "8955 NATIONAL BOULEVARD LOS ANGELES, CALIFORNIA 90034 TELEPHONE (310) 836-3341 FAX (310) 836-4144",
+    "customer_id": "0022756",
+    "customer_billing_name": "PHILIP MORRIS U.S.A ATTN: WADDY PLATT",
+    "customer_billing_address": "120 PARK AVENUE NEW YORK NY 10017-5592",
+    "customer_delivery_name": "PHILIP MORRIS U.S.A",
+    "amount_total_net": "3,750.00",
+    "amount_total_tax": "309.38",
+    "amount_total_gross": "4,059.38",
+    "amount_due": "4,059.38",
+    "payment_terms": "NET 30 DAYS",
+    "tax_detail_net": "3,750.00",
+    "tax_detail_tax": "309.38",
+    "tax_detail_gross": "4,059.38"
+}
+```

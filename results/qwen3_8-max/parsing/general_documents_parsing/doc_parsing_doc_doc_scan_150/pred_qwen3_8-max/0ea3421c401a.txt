@@ -1,0 +1,119 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese characters
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=1in}
+
+% Define colors similar to the image
+\definecolor{headerbg}{RGB}{245, 222, 179} % Light beige
+\definecolor{colhighlight}{RGB}{205, 133, 63} % Darker gold/brown for the 2020 column background
+\definecolor{textgold}{RGB}{139, 115, 85} % Gold for section numbers
+
+\begin{document}
+
+\begin{flushright}
+    \huge \textbf{\textcolor{white}{104}} % Page number simulation (usually in a box in the original)
+\end{flushright}
+
+\vspace{1cm}
+
+\begin{flushright}
+    \Large \textbf{財務報表附註} \\
+    \large 於二零二零年十二月三十一日
+\end{flushright}
+
+\vspace{1cm}
+
+\section*{\textcolor{textgold}{15.} 股息}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{l c r r}
+\toprule
+\rowcolor{headerbg}
+& & \textbf{二零二零年} & \textbf{二零一九年} \\
+\rowcolor{headerbg}
+& \textbf{附註} & \textbf{千港元} & \textbf{千港元} \\
+\midrule
+保寶龍集團的分派 & (i) & \cellcolor{colhighlight}\textbf{--} & 259,300 \\
+中期 -- 每股普通股 0.23 港仙 (二零一九年 : 0.42 港仙) & & \cellcolor{colhighlight}\textbf{2,074} & 3,940 \\
+擬派末期 -- 每股普通股 0.66 港仙 (二零一九年 : 0.37 港仙) & (ii) & \cellcolor{colhighlight}\textbf{5,952} & 3,456 \\
+\midrule
+& & \cellcolor{colhighlight}\textbf{8,026} & 266,696 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+\noindent 附註：
+\begin{enumerate}
+    \item[(i)] 如附註 14 所述，保寶龍集團的全部已發行股本已於二零一九年六月二十一日透過實物分派方式分拆完畢。歸屬於保寶龍集團的資產淨值 (須分派予本公司股東) 約為 259,300,000 港元。
+    \item[(ii)] 普通股的建議股息須於股東週年大會上獲批准後方可作實，而於二零二零年十二月三十一日尚未確認為負債。
+\end{enumerate}
+
+\vspace{1cm}
+
+\section*{\textcolor{textgold}{16.} 母公司普通權益持有人應佔每股盈利}
+
+每股基本盈利乃按母公司普通權益持有人應佔年內溢利及年內已發行普通股加權平均數 901,785,000 股 (二零一九年 : 936,094,419 股) 計算。
+
+\vspace{0.5cm}
+
+每股攤薄盈利乃根據母公司普通權益持有人應佔年內溢利計算。計算所用普通股加權平均數為用作計算每股基本盈利的年內已發行普通股加權平均數，以及假設在視作行使或兌換所有潛在攤薄普通股轉為普通股時已無償發行的普通股加權平均數。
+
+\vspace{0.5cm}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{l r r}
+\toprule
+\rowcolor{headerbg}
+& \textbf{二零二零年} & \textbf{二零一九年} \\
+\rowcolor{headerbg}
+& \textbf{千港元} & \textbf{千港元} \\
+\midrule
+\textbf{盈利} & & \\
+用作計算每股基本及攤薄盈利的母公司普通權益持有人應佔溢利 & \cellcolor{colhighlight}\textbf{21,669} & 39,182 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{l r r}
+\toprule
+\rowcolor{headerbg}
+& \multicolumn{2}{c}{\textbf{股份數目}} \\
+\midrule
+\textbf{股份} & & \\
+用作計算每股基本盈利的已發行普通股加權平均數 & \cellcolor{colhighlight}\textbf{901,785,000} & 936,094,419 \\
+& & \\
+攤薄影響 -- 普通股加權平均數： & & \\
+\quad 可換股票據 & \cellcolor{colhighlight}\textbf{494,228,072} & 251,690,222 \\
+\midrule
+用作計算每股攤薄盈利的已發行普通股經調整加權平均數 & \cellcolor{colhighlight}\textbf{1,396,013,072} & 1,187,784,641 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vfill
+
+\begin{center}
+    2020 年報 | 中國鋁罐控股有限公司
+\end{center}
+
+\end{document}
+```

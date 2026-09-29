@@ -1,0 +1,19 @@
+$$( D ^ { i _ { 1 } , i _ { 2 } , \cdots , i _ { p } = 0 , i _ { q } = 1 , \cdots , i _ { N } } ) ^ { \prime } = \frac { 1 } { 1 + | x | ^ { 2 } } \left[ \begin{array} { l } { { D ^ { i _ { 1 } , i _ { 2 } , \cdots , i _ { p } = 0 , i _ { p } = 0 , i _ { q } = 1 , \cdots , i _ { N } } - | x | ^ { 2 } ~ D ^ { i _ { 1 } , i _ { 2 } , \cdots , i _ { p } = 0 , i _ { q } = 0 , \cdots , i _ { N } } } } \\ { { + x ~ D _ { ( A _ { q } ) _ { 0 } } ^ { i _ { 1 } , i _ { 2 } , \cdots , i _ { p } = 0 , \cdots , i _ { q - 1 } , i _ { q + 1 } , \cdots , i _ { N } } - x ^ { * } ~ D _ { ( A _ { q } ) _ { 1 } } ^ { i _ { 1 } , i _ { 2 } , \cdots , i _ { p } = 0 , \dots , i _ { q - 1 } , i _ { q + 1 } , \cdots , i _ { N } } } } \end{array} \right]$$
+
+$$S ( n , k ) = \frac { 1 } { k ! } \sum _ { d _ { 1 } + \cdots + d _ { k } = n } \frac { n ! } { d _ { 1 } ! \cdots d _ { k } ! }$$
+
+$$g _ { 1 } , \cdots , g _ { k } \in G ( A \cup B ) C < A > \cdot < B >$$
+
+$$\eta _ { q } ^ { 2 } \underset { q \rightarrow \infty } { \longrightarrow } v ( k ) | \nabla u | ^ { 2 } \; \; a . e . \; in \Omega$$
+
+$$\eta _ { q } ^ { 2 } \leq v ( k ) | \nabla u | ^ { 2 }$$
+
+$$( 1 - \delta ) \| F _ { j } ( \Delta ) f \| ^ { 2 } \leq \sum _ { V } \sum _ { k } | \langle F _ { j } ( \Delta ) f , \theta _ { V ; j , k } \rangle | ^ { 2 } \leq ( 1 + \delta ) \| F _ { j } ( \Delta ) f \| ^ { 2 }$$
+
+$$| \lambda | > R > \max \{ | \mu ^ { \sigma } | : \mu ^ { \sigma } \in L ^ { \sigma } ( u ) \}$$
+
+$$s _ { \alpha } : = \left\{ \begin{array} { l l } { s } & { \mathrm { i f ~ } \alpha = \alpha _ { 0 } , } \\ { 0 } & { \mathrm { i f ~ } \alpha \neq \alpha _ { 0 } , } \end{array} \right.$$
+
+$$\frac { 1 } { \sqrt { a } } \| v \| _ { x } \leq \| v \| _ { x } ^ { ( 1 ) } \leq C e ^ { \varepsilon k } \| v \| _ { x } , \forall v \in T _ { x } M , \, x \in \Lambda _ { k } , \, \cdots ( 3 . 1 . 2 )$$
+
+$$V _ { d r i f t } = \frac { d < \phi _ { N L } | z | \phi _ { N L } > } { d t } = \frac { < \phi _ { N L } | H | \phi _ { N L } > } { d t }$$

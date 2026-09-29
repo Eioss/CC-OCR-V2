@@ -1,0 +1,12 @@
+```json
+{
+    "date": "30/03/2018",
+    "doc_no_receipt_no": "V201855892C",
+    "seller_address": "AUTOROUTE RABAT MEKNES\n15000 KHEMISSET",
+    "seller_gst_id": "000081241000051",
+    "seller_name": "RELAIS TOTAL OULMES",
+    "seller_phone": "05.22.95.66.66",
+    "total_amount": "56.00",
+    "total_tax": ""
+}
+```

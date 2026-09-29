@@ -1,0 +1,53 @@
+```latex
+\documentclass{article}
+\begin{document}
+
+\noindent X. I. E. \hfill Page No :\\
+Mahim, Mumbai \hfill Date :
+
+\bigskip
+
+\noindent Exam Question : Some people today believe that the world's\\
+increase in population is unsustainable and will eventually lead\\
+to a global crisis. Other people believe that the world population\\
+increase is necessary and beneficial as it creates the\\
+growth of world's economy and society.
+
+\par\medskip
+
+\noindent The population of the world is ever growing. Some people\\
+believe that this increase has created an unsustainable situation\\
+and that it will lead to a global crisis. Other people believe\\
+that only through an increasing population can the world's\\
+economy and society develop.
+
+\par\medskip
+
+\noindent This population increase is not constant around the\\
+world. Population is undergoing significant growth especially\\
+in less developed countries, and the continent of Africa is\\
+predicted to undergo the highest increase. Many people living\\
+in these less developed countries frequently face shortages such as\\
+water, food, heating, cooking fuel and medicines, and people\\
+have to live in substandard living conditions by western standards.\\
+With more inhabitants these difficulties will become exacerbated\\
+and helping these countries might also create strain on the\\
+resources and economies of other countries.
+
+\par\medskip
+
+\noindent On the other hand, many countries are unable to reach their\\
+economic potential due to lack of skilled work forces. For these\\
+countries a growing population can mean a stronger economy and due\\
+to that a better standard of living. Growing populations can also\\
+lead to growing demand for goods, allowing economies to expand.\\
+The problem is however, that the countries that are in need\\
+of labour forces and increasing demand are already the more\\
+developed countries and they meet some of these needs by\\
+immigration and exporting goods.
+
+\bigskip
+\noindent LUXOR
+
+\end{document}
+```

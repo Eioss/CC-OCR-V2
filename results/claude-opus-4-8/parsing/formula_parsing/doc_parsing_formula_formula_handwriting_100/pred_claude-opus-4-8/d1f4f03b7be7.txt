@@ -1,0 +1,6 @@
+$$
+\begin{aligned}
+D_\theta \Xi(S) &= \begin{pmatrix} \chi_1(\theta - S) \\ \vdots \\ \chi_d(\theta - S) \end{pmatrix} + \sum_{m=1}^{\infty} \int_{\Delta_{\theta,S}^m} \left\{ \nabla b^n(\langle x_{S_m}^n, e_1 \rangle + \varepsilon w_1 B^{H_1}(S_m), \cdots) \cdot \begin{pmatrix} \chi_1(\theta - S_m) \\ \vdots \\ \chi_d(\theta - S_m) \end{pmatrix} \right. \\
+&\quad \cdot \prod_{l=1}^{m-1} \nabla b^n(\langle x_{S_l}^n, e_1 \rangle + \varepsilon w_1 B^{H_1}(S_l), \cdots) \cdot \begin{pmatrix} \chi_1(S_{l+1} - S_l) \\ \vdots \\ \chi_d(S_{l+1} - S_l) \end{pmatrix} \right\} \begin{pmatrix} \chi_1(S_1 - S) \\ \vdots \\ \chi_d(S_1 - S) \end{pmatrix} ds_m \cdots ds_1.
+\end{aligned}
+$$

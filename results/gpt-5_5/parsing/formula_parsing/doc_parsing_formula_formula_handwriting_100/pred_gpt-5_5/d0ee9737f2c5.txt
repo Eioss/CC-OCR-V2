@@ -1,0 +1,74 @@
+\[
+\begin{aligned}
+F_{\mathrm{fe}}(\varepsilon_{rnt})
+&= F_{\mathrm{fe}}(\varepsilon_0)
++ \int_0^t rn L_{V_n}^{u_n} F_{\mathrm{fe}}(\varepsilon_{rnr})\,dr
++ M_t \\
+&\le F_{\mathrm{fe}}(\varepsilon_0)
++ \int_0^t 2rn \sum_{x\in E_n} \pi^{(n)}(x)
+\int g_{\mathrm{fe}}(\delta,\varepsilon_{rnr}(x))\,d\mu_n(\delta)\,dr
++ M_t .
+\end{aligned}
+\]
+
+\[
+P(r,t)=\frac{N}{V}\sum_j \mathbf d^{*}\mathbf e_j
+\langle \sigma_{ge}\rangle e^{i(k_j z-\nu_j t)} .
+\]
+
+\[
+u=-\frac{\partial \Psi}{\partial z}
+=u_0\frac{H_1}{H_1-h},
+\qquad
+w=\frac{\partial \Psi}{\partial x}
+=u_0H_1\frac{dh}{dx}\frac{H_1-z}{(H_1-h)^2}.
+\]
+
+\[
+\frac{dh}{dx}
+=-h_0\left[
+\beta\cos^2(\alpha x)\sin(2\beta x)
++\alpha\cos^2(\beta x)\sin(2\alpha x)
+\right].
+\]
+
+\[
+|\psi\rangle_{AB}
+=|\psi\rangle_A\otimes|\phi\rangle_B
+=|\psi\rangle_A\otimes
+\left(\cos\frac{\theta}{2}|0\rangle_B+\sin\frac{\theta}{2}|1\rangle_B\right).
+\]
+
+\[
+\delta\sum_{k=0}^{n}a_k\|x_k-T(x_k)\|^2
+\le
+\|x_0-T(x_0)\|^2-\|x_{n+1}-T(x_{n+1})\|^2
+\le
+\|x_0-T(x_0)\|^2 .
+\]
+
+\[
+\min_{\theta}\operatorname{Tr}(Z^T LZ)
+\quad\text{subject to}\quad
+Z^T DZ=I .
+\]
+
+\[
+\left|
+\sum_{|h|>H}a_{h,H}\sum_{n\sim N}
+e^{2\pi i f_x\left(n+\frac12 h\right)h}
+\right|
+\le
+c\sum_{|h|>H}H\left(Nh^{-3/2}L^{-1/2}+h^{-5/2}L^{1/2}\right)
+\]
+
+\[
+\le
+c\left(NH^{1/2}L^{-1/2}+H^{-1/2}L^{1/2}\right).
+\]
+
+\[
+(\widetilde{\nabla}_{\phi^2 W}\widehat R)(\phi^2X,\phi^2Y)\phi^2Z
+=
+(\widetilde{\nabla}_{W}\widehat R)(\phi^2X,\phi^2Y)\phi^2Z .
+\]

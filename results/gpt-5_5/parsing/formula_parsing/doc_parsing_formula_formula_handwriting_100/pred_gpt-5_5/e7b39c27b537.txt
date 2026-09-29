@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+\{e_i,g\}_{\partial\beta}
+&=\{q_k\cdot f_{i,A+1},g\}_{\partial\beta}
+-\{q_k^{-}\cdot f_{i,A+1}^{\leftarrow},g\}_{\partial\beta}\\
+&=q_k\{f_{i,A+1},g\}_{\partial\beta}
++\{f_{i,A+1},q_k,g\}_{\partial\beta}
+-q_k^{-}\{f_{i,A+1}^{\leftarrow},g\}_{\partial\beta}
+-\{f_{i,A+1}^{\leftarrow},q_k^{-},g\}_{\partial\beta}\\
+&=q_k\{f_{i,A+1},g\}_{\mathcal S_d}
+-\operatorname{lk} f_{i,A+1},g^{+}
++f_{i,A+1}\{q_k,g\}_{\mathcal S_d}
+-q_k^{-}\{f_{i,A+1}^{\leftarrow},g\}_{\mathcal S_d}
+-f_{i,A+1}^{\leftarrow}\{q_k^{-},g\}_{\mathcal S_d}\\
+&=(w_{f_{i,A+1},g}+w_{q_k,g})\operatorname{lk} f_{i,A+1},g
+-(w_{q_k,g}+w_{f_{i,A+1},g}-s_{w\partial\beta}g)\operatorname{lk} q_k^{-}\cdot f_{i,A+1}^{\leftarrow},g .
+\end{aligned}
+\]

@@ -1,0 +1,21 @@
+Based on the donut chart titled **"Scotland’s climate change plans"**, the number of policies and proposals that are **dropped** is:
+
+> **1**
+
+This is shown in the smallest segment of the chart, labeled “Dropped” with the value **1**.
+
+---
+
+### Context from the infographic:
+- The total number of actions tracked is **109** (as stated in the text: *“of the 109 ‘on track’ actions...”* — though note this phrasing may be slightly misleading; the chart actually shows a breakdown of all actions).
+- The chart breaks down the status of these actions as:
+  - **Reported complete**: 27
+  - **Reported on track**: 6
+  - **Reported as on track, but no timescale for delivery**: 103
+  - **Revised / delayed**: 11
+  - **Dropped**: 1
+  - **No response**: 8
+
+So, while 103 actions are reported as “on track” (but without fixed timescales), only **1 action has been dropped**.
+
+✅ **Final Answer: 1**

@@ -1,0 +1,142 @@
+Based on the provided hotel bill from **Hotel Dupont Plaza**, let’s locate the **cafe charges for 12/2**.
+
+Looking at the grid:
+
+- The columns are labeled by date: `11/28/60`, `29`, `30`, `12-1`, `2` (which corresponds to **December 2, 1960**).
+- The row labeled **“CAFE”** has entries under the dates.
+- Under the column for **“2”** (i.e., 12/2), there is a handwritten entry: **138**
+
+Additionally, below that, there are two more numbers in the same column:
+- **72**
+- **214**
+
+These appear to be subtotals or additional cafe-related charges on 12/2. However, since they are listed directly under “CAFE” and aligned with the 12/2 column, it’s likely that **138**, **72**, and **214** are all part of the cafe charges for that day — possibly broken down by meal or item.
+
+But if we look closely, **138** is written first, then **72** and **214** beneath it — this may indicate that **138** is the main charge, and **72 + 214 = 286** might be something else? Wait — actually, looking again:
+
+Actually, **138** is in the first line under CAFE for 12/2.
+
+Then **72** and **214** are written *below* it but still within the CAFE section — perhaps these are separate items or corrections?
+
+However, note that **138** appears again in the next column (12-1) as well — wait no, in 12-1 it's also 138? Let me recheck.
+
+Wait — actually, looking at the image:
+
+Under **CAFE** row:
+
+- Column **12-1**: has **138**
+- Column **2** (12/2): has **138** on top, then **72**, then **214**
+
+This suggests that on **12/2**, there were multiple cafe charges: **138**, **72**, and **214**.
+
+But that would total **138 + 72 + 214 = 424** — which seems high compared to other days.
+
+Alternatively, perhaps **138** is carried over or duplicated? Or maybe **72** and **214** are not both for 12/2?
+
+Wait — looking at alignment:
+
+The number **138** is clearly under the **2** column (12/2).
+
+Below it, **72** and **214** are also under the **2** column — so yes, they belong to 12/2.
+
+But why three numbers?
+
+Possibility: These represent different meals or transactions on 12/2.
+
+However, in many old hotel bills, sometimes numbers are stacked to show breakdowns — e.g., breakfast, lunch, dinner.
+
+So, **cafe charges for 12/2** likely include:
+
+> **138 + 72 + 214 = 424**
+
+But let’s verify if any of these are totals or subtotals.
+
+Notice that under **LOCAL PHONE**, for 12/2, there’s **45** — which is small.
+
+Also, under **ROOM**, for 12/2, there’s **8.50** — very small.
+
+And under **D.C. SALES TAX**, for 12/2, there’s **26** — which matches roughly 5% tax on ~500? Not quite.
+
+Wait — perhaps the **138, 72, 214** are not all additive? Maybe **214** is a subtotal?
+
+Looking at the handwriting: **138** is written, then below it **72**, then **214** — and **214** is larger and bolder? Possibly **214** is the total for cafe on 12/2, and **138** and **72** are components?
+
+But 138 + 72 = 210 — close to 214, but not exact.
+
+Alternatively, maybe **138** is for 12/1, and **72** and **214** are for 12/2? But no — **138** is clearly under the **2** column.
+
+Another possibility: The **138** under 12/2 is a repeat or error? Unlikely.
+
+Let’s check the **TOTAL** row — at the bottom right, under credits, it says **5338** — which is likely the grand total.
+
+If we sum up all the visible charges:
+
+- Brought Forward: 876, 2348, 3805, 5200 — these seem cumulative.
+- Room: 8.50, 14-, 14-, 8.50 — probably $8.50 per day?
+- D.C. Sales Tax: 26, 42, 42, 26 — varies.
+- Cafe: 138 (12/1), then 138, 72, 214 (12/2)
+- Local Phone: 30, 15, 45
+- Cash Disbursed: 1.50
+
+It’s messy.
+
+But focusing strictly on the question: **“What was the cafe charges for 12/2?”**
+
+The most direct answer based on what’s written under the **CAFE** row and **12/2** column is:
+
+> **138, 72, and 214**
+
+But since the user likely wants a single value, and given that **214** is written last and may be the total for that day’s cafe charges (perhaps 138 + 72 = 210, rounded or adjusted to 214?), or maybe it’s a separate charge.
+
+However, looking at standard practice in such bills, when multiple numbers are stacked in one cell, they often represent individual items, and the total is implied or calculated elsewhere.
+
+But here, there’s no explicit total for cafe on 12/2.
+
+Given the ambiguity, the safest answer is to report what is visibly written under **CAFE** for **12/2**:
+
+> **138, 72, and 214**
+
+But if forced to pick one number as “the” cafe charge for 12/2, **214** might be intended as the total, since it’s the largest and last-written.
+
+Alternatively, perhaps **138** is the only correct one, and **72** and **214** are misaligned? But they are clearly under 12/2.
+
+Wait — another idea: Look at the **BROUGHT FORWARD** row — for 12/2, it’s **5200** — which is huge. That can’t be daily charge — it must be cumulative balance.
+
+Similarly, **ROOM** for 12/2 is **8.50** — reasonable.
+
+**D.C. SALES TAX** for 12/2 is **26** — about 5% of 520? Doesn't match.
+
+Perhaps the **cafe charges for 12/2** are just **138**, and **72** and **214** are for something else? But they’re in the CAFE row.
+
+I think the best interpretation is that **on 12/2, the cafe charges were 138, 72, and 214 — totaling 424**.
+
+But let’s see if there’s a clue in the **TOTAL** or **CASH RECEIVED**.
+
+At the bottom, **CASH RECEIVED** is **5338** — which is likely the final amount paid.
+
+If we assume the brought forward balances are cumulative, then the daily charges are added to them.
+
+For example, on 11/28/60, brought forward is blank, room is 8.50, tax 26 — total around 34.50.
+
+On 29th, brought forward 876 — which includes previous days.
+
+This is getting too complex.
+
+For the purpose of answering the question directly:
+
+> **The cafe charges recorded for 12/2 are 138, 72, and 214.**
+
+If you need a single number, **214** is likely the total for that day’s cafe expenses, as it’s the last and largest entry.
+
+But to be precise and accurate based on the document:
+
+✅ **Answer: 138, 72, and 214**
+
+Or if summed: **424**
+
+Given that the question says “charges” plural, listing all three is appropriate.
+
+---
+
+**Final Answer:**
+The cafe charges for 12/2 were **138, 72, and 214** (possibly representing separate transactions or meals). If a single total is required, it may be **214**, but the document lists all three values under the CAFE row for that date.

@@ -1,0 +1,162 @@
+# 文明施工与进度公示牌
+
+## 进度计划 / 现场管理 / 联系方式
+
+**施工/项目名称：** 云栖临澜三期建设项目（虚构）
+
+**单位名称：** 北屿省云栖市云栖临澜物业管理有限公司
+
+**工程地点：** 澄岳省云栖市青松区北屿路119号 3栋
+
+**项目负责人：** 冯欣妍；**安全员：** 陶景行；**联系电话：** 13341326604
+
+文档编号 SG-637141，日期 2024-09-19
+
+https://example.com/doc-77127463
+
+<table>
+<tr><td colspan="9" style="text-align:center;">里程碑计划表</td></tr>
+<tr>
+<td></td>
+<td>日期</td>
+<td>节点编号</td>
+<td>里程碑内容</td>
+<td>责任人</td>
+<td>状态</td>
+<td>备注</td>
+<td>进度验值</td>
+<td>进度数值（含小数）</td>
+</tr>
+<tr>
+<td rowspan="3">A区、B区</td>
+<td>2024-09-20</td>
+<td>MS-1001</td>
+<td>基础施工完成</td>
+<td>王建国</td>
+<td>已完成 ✓</td>
+<td>验收通过</td>
+<td>合格</td>
+<td>95.5%</td>
+</tr>
+<tr>
+<td>2024-10-05</td>
+<td>MS-1002</td>
+<td>主体结构封顶</td>
+<td>李明</td>
+<td>进行中</td>
+<td>加紧施工</td>
+<td>陶景行</td>
+<td>60.2%</td>
+</tr>
+<tr>
+<td>2024-10-25</td>
+<td>MS-1003</td>
+<td>二次结构与砌体</td>
+<td>张伟</td>
+<td>未开始</td>
+<td>计划调整</td>
+<td></td>
+<td>10.0%</td>
+</tr>
+<tr>
+<td rowspan="3">B区</td>
+<td>2024-11-10</td>
+<td>MS-1004</td>
+<td>外立面装饰</td>
+<td>赵敏</td>
+<td>进行中</td>
+<td>材料进场</td>
+<td></td>
+<td>35.8%</td>
+</tr>
+<tr>
+<td>2024-11-30</td>
+<td>MS-1005</td>
+<td>室内精装修</td>
+<td>刘洋</td>
+<td>未开始</td>
+<td>-</td>
+<td>-</td>
+<td>0.0%</td>
+</tr>
+<tr>
+<td>2024-11-30</td>
+<td>MS-1005</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0.0%</td>
+</tr>
+<tr>
+<td>汇总</td>
+<td colspan="2">小计/合计</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>201.5%</td>
+</tr>
+</table>
+
+<table>
+<tr><td colspan="9" style="text-align:center;">现场管理检查记录</td></tr>
+<tr>
+<td rowspan="5">现场管理记录</td>
+<td>检查日期</td>
+<td>检查编号</td>
+<td>问题描述</td>
+<td>整改负责人</td>
+<td>整改期限</td>
+<td>复验结果</td>
+<td>签字确认</td>
+<td>备注</td>
+</tr>
+<tr>
+<td>2024-09-21</td>
+<td>QC-2001</td>
+<td>脚手架搭设不规范</td>
+<td>孙浩</td>
+<td>2024-09-23</td>
+<td>合格</td>
+<td>手写签名（孙浩）</td>
+<td>注意安全，按规范操作</td>
+</tr>
+<tr>
+<td>2024-09-25</td>
+<td>QC-2002</td>
+<td>现场材料堆放混乱</td>
+<td>周凯</td>
+<td>2024-09-27</td>
+<td>复验中</td>
+<td>手写签名（周凯）</td>
+<td>等待清理</td>
+</tr>
+<tr>
+<td>2024-10-02</td>
+<td>QC-2003</td>
+<td>安全帽佩戴不全</td>
+<td>吴强</td>
+<td>2024-10-04</td>
+<td>合格</td>
+<td>手写签名（吴强）</td>
+<td>处罚记录</td>
+</tr>
+<tr>
+<td colspan="8"></td>
+</tr>
+<tr>
+<td>汇总</td>
+<td colspan="8"></td>
+</tr>
+</table>
+
+**备注条款：** 计费规则：按合同约定执行；整改要求：问题限期整改，逾期罚款。条目编码：100035601936363500。
+
+新价格：￥4500.00
+
+https://example.com/doc-77127463
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_2017_1117_2278_1357.jpg" alt="Image" width="8%" /></div>

@@ -1,0 +1,28 @@
+Based on the provided report, the total amount for the **PREVIOUS** column is found in the row labeled **"110 TOTAL"**.
+
+Looking at that row under the "PREVIOUS" column:
+
+> **2,523.29-**
+
+The minus sign indicates it's a credit balance (common in accounting reports).
+
+---
+
+Additionally, you can verify this by summing all individual entries in the "PREVIOUS" column:
+
+- Row 3: `$30` → written as `30.00`
+- All other rows have blank or zero values in the PREVIOUS column except the total line.
+
+But note: The only explicit value entered per transaction in the PREVIOUS column is `$30` next to item #3 (DUPLICATION XEROX), and then the grand total at row 110 shows `2,523.29-`.
+
+This suggests that the `2,523.29-` is carried forward from prior periods (not just current month transactions), which is typical for an account summary report.
+
+Also, at the bottom, under "**ACCOUNT TOTAL ***", the PREVIOUS column shows `0.00`, which likely refers to net change within the reporting period — meaning no new previous-period adjustments were made during January 1974 beyond what was already recorded.
+
+---
+
+✅ So, the **total amount of the previous** as mentioned in the report is:
+
+> **$2,523.29-**
+
+*(Negative/credit balance)*

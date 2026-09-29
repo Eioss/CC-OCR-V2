@@ -1,0 +1,11 @@
+Based on the provided report, there are two places where a "Total" for the "CURRENT MONTH" is shown:
+
+1.  **At the top summary line (ACCT CTL 110 TOTAL):**
+    *   The value under the "CURRENT MONTH" column is **2,029.57**.
+
+2.  **At the bottom of the detailed list (ACCT CTL 130 TOTAL):**
+    *   The value under the "CURRENT MONTH" column is **2,029.57-** (the minus sign likely indicates it's a debit or negative balance in accounting terms).
+
+Both totals match numerically.
+
+Therefore, the total value of the current month as shown in the report is **$2,029.57**.

@@ -1,0 +1,50 @@
+\[
+\begin{gathered}
+\text{NCERT Solutions for class 10 Maths}\\
+\text{chapter 1 - Real Numbers \quad Ex-1.1}
+\end{gathered}
+\]
+
+\[
+\text{1. Express each number as a product of its prime factors:}
+\]
+
+\[
+\begin{aligned}
+\text{(i) }&140\\
+&\text{Prime factors of }140=2,2,5,7\\
+&=2^2\times5\times7\\[6pt]
+\text{(ii) }&156\\
+&\text{Prime factors of }156=2\times2\times3\times13\\
+&=2^2\times3\times13\\[6pt]
+\text{(iii) }&3825\\
+&\text{Prime factors of }3825=3\times3\times5\times5\times17\\
+&=3^2\times5^2\times17\\[6pt]
+\text{(iv) }&5005\\
+&\text{Prime factors of }5005=5\times7\times11\times13\\[6pt]
+\text{(v) }&7429\\
+&\text{Prime factors of }7429=17\times19\times23
+\end{aligned}
+\]
+
+\[
+\begin{gathered}
+\text{2. Find the LCM and HCF of the following pairs of}\\
+\text{integers and verify that LCM}\times\text{HCF}
+=\text{product of the two numbers}
+\end{gathered}
+\]
+
+\[
+\begin{aligned}
+\text{(i) }&26\text{ and }91\\
+&\text{Prime factors of }26=2\times13\\
+&\text{Prime factors of }91=7\times13\\
+&\text{HCF of }26\text{ and }91=13\\
+&\text{LCM of }26\text{ and }91=2\times7\times13\\
+&\hspace{118pt}=182\\[4pt]
+&\text{Product of two numbers}=26\times91=2366\\
+&\text{LCM}\times\text{HCF}=182\times13=2366\\[4pt]
+&\text{So, Product of two numbers}=\text{LCM}\times\text{HCF}
+\end{aligned}
+\]

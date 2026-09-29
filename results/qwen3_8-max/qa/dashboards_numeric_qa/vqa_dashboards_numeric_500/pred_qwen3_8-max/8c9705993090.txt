@@ -1,0 +1,54 @@
+Based on the infographic provided, under the "CASE UPDATES" section and "Worldwide Statistics," it states:
+
+"**Spain** surpasses **Italy**, 2nd most COVID-19 cases in the world."
+
+Therefore, as of April 4, 2020, **Italy** had the second most recorded COVID-19 cases (having just been surpassed by Spain for that position, or depending on interpretation, Spain became 2nd. However, the text explicitly says "Spain surpasses Italy, 2nd most...", which grammatically implies Italy was 2nd and Spain took that spot, OR Spain is now 2nd. Let's re-read carefully: "Spain surpasses Italy, 2nd most COVID-19 cases in the world." This usually means Spain has moved into the 2nd position, surpassing Italy who is now 3rd. But wait, looking at the table below:
+
+*   Spain: 124,736
+*   Italy: 124,632
+
+Spain has slightly more cases than Italy in the table. So Spain is #2, Italy is #3.
+
+The question asks: "which country has the second most recorded Covid cases?"
+
+According to the table data:
+1.  USA (implied top, though not fully visible in snippet, usually US was #1 then) - Actually looking at the table, the top row is cut off but likely US.
+2.  Spain: 124,736
+3.  Italy: 124,632
+
+The text says "Spain surpasses Italy, 2nd most COVID-19 cases in the world." This confirms Spain is now the 2nd most.
+
+Wait, let me re-evaluate the sentence structure. "Spain surpasses Italy, 2nd most COVID-19 cases in the world."
+Does it mean "Spain surpasses Italy [to become the] 2nd most..."? Yes, that is the standard reading.
+Or does it mean "Spain surpasses Italy, [which is the] 2nd most..."? If Italy were 2nd, Spain would be 1st. But the US is usually 1st.
+Let's look at the numbers again.
+Spain: 124,736
+Italy: 124,632
+Spain > Italy.
+So Spain is ahead of Italy.
+If the US is #1 (337,072 in the table? No, that's Canada? Wait.
+Row 1: Canada? No, the first column is Country.
+Row 1: Canada - 13,898? No, the blue table headers are hard to read.
+Let's look at the rows:
+- Canada: 13,898 (Confirmed Cases) -> Wait, the number next to Canada is 13,898? No, looking closely at crop 4...
+Actually, let's look at the main image.
+The table lists:
+- Canada: 13,898 (Wait, that seems low for global rank. Ah, the first column is "COUNTRY", second "CONFIRMED CASES".
+- Row 1: Canada ... 13,898? No, the number is blurry.
+- Row 2: Ontario ... 3,255
+- Row 3: Quebec ... 6,101
+- Row 4: WORLD ... 1,133,755 (Total World)
+- Row 5: USA ... 277,578 (This is likely the US total)
+- Row 6: Spain ... 124,736
+- Row 7: Italy ... 124,632
+
+Okay, so:
+1. USA: ~277k
+2. Spain: ~124.7k
+3. Italy: ~124.6k
+
+So Spain is indeed the 2nd most.
+
+The text "Spain surpasses Italy, 2nd most COVID-19 cases in the world" confirms Spain has taken the 2nd spot.
+
+Answer: **Spain**

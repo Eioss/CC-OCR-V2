@@ -1,0 +1,10 @@
+Based on the data provided in the infographic:
+
+- In **2010**, malware attacks accounted for **.35%** of email attacks.
+- In **2013**, malware attacks accounted for **2%** of email attacks.
+
+Since **2% > .35%**, this indicates that **malware attacks increased** from 2010 to 2013.
+
+> ✅ **Answer: Increased**
+
+*(Note: While other attack types like spam and phishing decreased significantly, malware specifically saw a rise — from 0.35% to 2%.)*

@@ -1,0 +1,33 @@
+\[
+\begin{gathered}
+F_{\pm}=4\left\langle(\Delta\hat n)^2\right\rangle,\\[4pt]
+\partial_t u_t(x)=\frac12\Delta u_t(x)+\sigma\bigl(x,u_t(x)\bigr)\dot W(t,x),
+\quad t\in[0,T],\ x\in\mathbb R,\\[4pt]
+\bar D u(z)=0\quad \forall z\in\Omega\setminus\partial\nu,\\[4pt]
+A\oplus B\in SC(X\times X\times\mathbb R),\\[4pt]
+\limsup_{t\to\infty}t^{z+\frac12}\left|I_3^2(t)\right|
+\le C\lim_{t\to\infty}\int_0^\infty\int_{|w|\ge t^z}\left|U_j(w,T)\right|\,d\mu\,dr=0,\\[4pt]
+\left|e^T S_q e\right|
+=
+\frac{e^T A e}{\left(e^T A^{-1}AA'\,xy\right)\left(c^Tx\right)}
+T(y-x)(y-x)^TCx
+\le
+\frac{e^T A e\,|Cx|+\left|c^Tx\right|\,|c-y|}
+{\left(x^TA\right)^2|A|\,cx},\\[4pt]
+2n\exp(AD_2,D_3)
+=
+m_0\left(i\,d\theta\,id+d\theta\otimes D_2+
+\frac1{H_2^{-1}}\left(e^2D_1^\ast\otimes D_2^\ast\right)\right),\\[4pt]
+\sum_{n\ge2}\left|u_n^\varepsilon T_n-z^\varepsilon\right|<\infty,\\[4pt]
+\Lambda_1
+=
+-\frac{k}{2k\langle\hat p\rangle\phi_t}
+=
+-2k\frac{z_j}{z_i}\left\langle\frac{\lambda}{\varepsilon}\right\rangle\partial_j,\\[4pt]
+\Lambda_2
+=
+\frac{|k|\lambda|z|}{z-3}
+-K+
+\frac{k|z|\cosh|k|}{\omega_2\sinh|k|}.
+\end{gathered}
+\]

@@ -1,0 +1,173 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demonstração Financeira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #fff;
+        }
+        th, td {
+            padding: 8px 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .header-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .numeric {
+            text-align: right;
+        }
+        .indent-1 { padding-left: 20px; }
+        .indent-2 { padding-left: 40px; }
+        .indent-3 { padding-left: 60px; }
+        .indent-4 { padding-left: 80px; }
+    </style>
+</head>
+<body>
+
+    <div class="header-title">(Reais Mil)</div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Código da Conta</th>
+                <th>Descrição da Conta</th>
+                <th class="numeric">Trimestre Atual<br>31/12/2021</th>
+                <th class="numeric">Exercício Anterior<br>30/06/2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ativo Total</td>
+                <td class="numeric">3.332.135</td>
+                <td class="numeric">3.175.389</td>
+            </tr>
+            <tr>
+                <td>1.01</td>
+                <td>Ativo Circulante</td>
+                <td class="numeric">1.151.712</td>
+                <td class="numeric">1.343.135</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.01.01</td>
+                <td class="indent-1">Caixa e Equivalentes de Caixa</td>
+                <td class="numeric">563.794</td>
+                <td class="numeric">867.137</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.01.03</td>
+                <td class="indent-1">Contas a Receber</td>
+                <td class="numeric">234.643</td>
+                <td class="numeric">144.944</td>
+            </tr>
+            <tr>
+                <td class="indent-2">1.01.03.01</td>
+                <td class="indent-2">Clientes</td>
+                <td class="numeric">83.626</td>
+                <td class="numeric">59.153</td>
+            </tr>
+            <tr>
+                <td class="indent-3">1.01.03.01.01</td>
+                <td class="indent-3">Contas a receber e créditos diversos</td>
+                <td class="numeric">83.626</td>
+                <td class="numeric">59.153</td>
+            </tr>
+            <tr>
+                <td class="indent-2">1.01.03.02</td>
+                <td class="indent-2">Outras Contas a Receber</td>
+                <td class="numeric">151.017</td>
+                <td class="numeric">85.791</td>
+            </tr>
+            <tr>
+                <td class="indent-3">1.01.03.02.01</td>
+                <td class="indent-3">Transações com Partes Relacionadas</td>
+                <td class="numeric">151.017</td>
+                <td class="numeric">85.791</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.01.04</td>
+                <td class="indent-1">Estoques</td>
+                <td class="numeric">92.367</td>
+                <td class="numeric">199.254</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.01.05</td>
+                <td class="indent-1">Ativos Biológicos</td>
+                <td class="numeric">240.347</td>
+                <td class="numeric">99.143</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.01.08</td>
+                <td class="indent-1">Outros Ativos Circulantes</td>
+                <td class="numeric">20.561</td>
+                <td class="numeric">32.657</td>
+            </tr>
+            <tr>
+                <td class="indent-2">1.01.08.03</td>
+                <td class="indent-2">Outros</td>
+                <td class="numeric">20.561</td>
+                <td class="numeric">32.657</td>
+            </tr>
+            <tr>
+                <td class="indent-3">1.01.08.03.01</td>
+                <td class="indent-3">Operações com Derivativos</td>
+                <td class="numeric">20.561</td>
+                <td class="numeric">32.657</td>
+            </tr>
+            <tr>
+                <td>1.02</td>
+                <td>Ativo Não Circulante</td>
+                <td class="numeric">2.180.423</td>
+                <td class="numeric">1.832.254</td>
+            </tr>
+            <tr>
+                <td class="indent-1">1.02.01</td>
+                <td class="indent-1">Ativo Realizável a Longo Prazo</td>
+                <td class="numeric">224.435</td>
+                <td class="numeric">188.168</td>
+            </tr>
+            <tr>
+                <td class="indent-2">1.02.01.04</td>
+                <td class="indent-2">Contas a Receber</td>
+                <td class="numeric">15.001</td>
+                <td class="numeric">12.456</td>
+            </tr>
+            <tr>
+                <td class="indent-3">1.02.01.04.03</td>
+                <td class="indent-3">Contas a receber e créditos diversos</td>
+                <td class="numeric">15.001</td>
+                <td class="numeric">12.456</td>
+            </tr>
+            <tr>
+                <td class="indent-2">1.02.01.06</td>
+                <td class="indent-2">Ativos Biológicos</td>
+                <td class="numeric">28.981</td>
+                <td class="numeric">34.585</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+```

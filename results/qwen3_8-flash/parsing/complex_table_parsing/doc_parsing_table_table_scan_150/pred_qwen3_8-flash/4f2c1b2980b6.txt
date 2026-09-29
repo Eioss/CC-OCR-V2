@@ -1,0 +1,13 @@
+```html
+<table border="1" cellspacing="0">
+    <tr> <th> Approach </th> <th> Identical@P1 </th> <th> Relevance@P1 </th> <th> MAP </th> <th> MRR </th> </tr>
+    <tr> <td> DSSM </td> <td> 4.70% </td> <td> 11.48% </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Triplet-I </td> <td> 9.79% </td> <td> 19.36% </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Triplet </td> <td> 9.79% </td> <td> 19.36% </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Triplet-C </td> <td> 1.09% </td> <td> 3.66% </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Ensemble </td> <td> </td> <td> </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Mixer-I </td> <td> </td> <td> </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Mixer-Ens </td> <td> </td> <td> </td> <td> </td> <td> </td> </tr>
+    <tr> <td> Mixer </td> <td> </td> <td> </td> <td> </td> <td> </td> </tr>
+</table>
+```

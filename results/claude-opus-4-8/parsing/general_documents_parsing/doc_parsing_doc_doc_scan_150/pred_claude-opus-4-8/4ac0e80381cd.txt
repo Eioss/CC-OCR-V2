@@ -1,0 +1,97 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{center}
+\textbf{MODEL QUESTION PAPER}
+\end{center}
+
+\noindent CLASS : IV \hfill SUB:MATHS
+
+\vspace{0.3cm}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+COMP & FNC & UBC & AIC & PSA & ORAL & Total & Tr's sign \\
+ & (15) & (20) & (20) & (15) & (30) & (100) & \\
+\hline
+MARKS & & & & & & & \\
+\hline
+GRADE & & & & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\underline{I. FORMING NUMBERS CORRECTLY} (15 marks)
+\end{center}
+
+\noindent (1) \quad Fill in the blanks \hfill (5x1=5)
+
+\begin{enumerate}[label=\alph*.]
+\item Arrange \textbf{5, 3, 7, 2} to form the smallest 4 digit number \underline{\hspace{2cm}} \\
+and the greatest 4 digit number \underline{\hspace{2cm}}
+
+\item $1000 + 300 + 4 =$ \underline{\hspace{2cm}}
+
+\item Expand $4287 = 4000 +$ \underline{\hspace{1.5cm}} $+$ \underline{\hspace{1.5cm}} $+ 7$
+
+\item 1 kilometre = \underline{\hspace{1.5cm}} metres and 1 metre = \underline{\hspace{1cm}} cm
+
+\item A brick has \underline{\hspace{1.5cm}} faces and \underline{\hspace{1.5cm}} edges.
+\end{enumerate}
+
+\noindent \underline{(2) Do as directed} \hfill (5x2= 10)
+
+\noindent (i) \quad Write the place value of \textbf{4} in each number.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+4 & 6 & 0 & 9 \\
+\hline
+\end{tabular}
+\qquad $\longrightarrow$ \qquad \underline{\hspace{3cm}}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+6 & 3 & 4 & 7 \\
+\hline
+\end{tabular}
+\qquad $\longrightarrow$ \qquad \underline{\hspace{3cm}}
+\end{center}
+
+\noindent (ii) \quad Encircle the pairs of numbers which when added makes more than 500?
+
+\begin{enumerate}[label=\alph*.]
+\item 152 and 241
+\item 321 and 192
+\item 420 and 184
+\item 209 and 290
+\end{enumerate}
+
+\noindent (iii) \quad \underline{Express as 24- hours clock time}
+
+\begin{enumerate}[label=\alph*.]
+\item 3.15 a.m \underline{\hspace{3cm}}
+\item 7.40 p.m \underline{\hspace{3cm}}
+\end{enumerate}
+
+\noindent (iv) \quad In a circle , if the lengths of the:
+
+\begin{enumerate}[label=(\alph*)]
+\item Radius is 4 cm, then the Diameter is \underline{\hspace{3cm}}
+\item Diameter is 12 cm, then the Radius is \underline{\hspace{3cm}}
+\end{enumerate}
+
+\end{document}
+```

@@ -1,0 +1,28 @@
+\[
+\begin{gathered}
+\{x\in\partial\Omega:(u)_\beta^*(x)>t\}
+\subset
+\{x\in\partial\Omega:M_{\partial\Omega}(\chi_E)(x)\ge c\},\\[4pt]
+U^*\!\left(\frac{\pi}{2},0,-\frac{\pi}{2}\right)
+=U_z^{ac}(\pi,\pi),\qquad
+U\!\left(\frac{\pi}{2},0,0\right)
+=U_z^{ac}\!\left(\frac{\pi}{2},-\frac{\pi}{2}\right),\\[4pt]
+\int_s^t g_{r*}\,dW_r
+=\sum_{i=1}^{d}\left(
+\int_s^t g_i(r,W_r)\,dW_r^i
++\int_s^t g_i(r,W_r)\,\overleftarrow{dW_r^i}
+\right),\\[4pt]
+\left\{m_k+\sum_{1\le j\le k-1}w_jm_j\cdot k\ge1,\;
+(w_1,\ldots,w_{k-1})\in\{-1,0,1\}^{k-1}\right\},\\[4pt]
+i\partial_t a_q
+=\frac12(2\Delta_c+i\gamma)a_q
++\chi\left(2a_{cl}^*a_{cl}a_q+a_{cl}^{2}a_q^*+a_q^*a_q^{2}\right),\\[4pt]
+g_n:(C_n,M_{C_n})\longrightarrow(X,M_X),\\[4pt]
+|H\cdot S|\le\left(1-\frac{\varepsilon}{2}\right)|G|
++\left(1-\frac{\varepsilon}{2}\right)|H|,\\[4pt]
+L_v(r):=\frac{2}{r}\left(
+\max_{y\in\{2r,-2r\}^{m_1+m_2}}|v(y)|+2|v(0)|
+\right),\\[4pt]
+F'=\chi_j^2\chi_k+\chi_jh_1+h_2.
+\end{gathered}
+\]

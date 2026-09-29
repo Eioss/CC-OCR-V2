@@ -1,0 +1,172 @@
+<table>
+<tr>
+<td colspan="2"><strong>Consolidated balance sheet</strong></td>
+<td></td>
+<td></td>
+<td>2018</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><strong>2019</strong></td>
+<td>Restated *</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Notes</td>
+<td><strong>HK$'000</strong></td>
+<td>HK$'000</td>
+</tr>
+<tr>
+<td colspan="5"><strong>ASSETS</strong></td>
+</tr>
+<tr>
+<td colspan="5"><strong>Non-current assets</strong></td>
+</tr>
+<tr>
+<td colspan="2">Property, plant and equipment</td>
+<td>15</td>
+<td><strong>128,890</strong></td>
+<td>106,994</td>
+</tr>
+<tr>
+<td colspan="2">Right-of-use assets</td>
+<td>15(b)</td>
+<td><strong>9,756</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td colspan="2">Investment properties</td>
+<td>16</td>
+<td><strong>13,300</strong></td>
+<td>10,050</td>
+</tr>
+<tr>
+<td colspan="2">Intangible assets</td>
+<td>17</td>
+<td><strong>24,550</strong></td>
+<td>20,945</td>
+</tr>
+<tr>
+<td colspan="2">Deferred tax assets</td>
+<td>34</td>
+<td><strong>7,849</strong></td>
+<td>5,196</td>
+</tr>
+<tr>
+<td colspan="2">Other assets</td>
+<td>5(h)</td>
+<td><strong>312</strong></td>
+<td>520</td>
+</tr>
+<tr>
+<td colspan="2">Investments accounted for using the equity method</td>
+<td>12(b)</td>
+<td><strong>3,775</strong></td>
+<td>3,275</td>
+</tr>
+<tr>
+<td colspan="2">Financial assets at fair value through other comprehensive income</td>
+<td>20</td>
+<td><strong>6,782</strong></td>
+<td>7,148</td>
+</tr>
+<tr>
+<td colspan="2">Financial assets at fair value through profit or loss</td>
+<td>24</td>
+<td><strong>2,390</strong></td>
+<td>980</td>
+</tr>
+<tr>
+<td colspan="2">Financial assets at amortised cost</td>
+<td>19</td>
+<td><strong>3,496</strong></td>
+<td>2,629</td>
+</tr>
+<tr>
+<td colspan="2">Derivative financial instruments</td>
+<td>21</td>
+<td><strong>308</strong></td>
+<td>712</td>
+</tr>
+<tr>
+<td colspan="2">Total non-current assets</td>
+<td></td>
+<td><strong>201,408</strong></td>
+<td>158,449</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="5"><strong>Current assets</strong></td>
+</tr>
+<tr>
+<td colspan="2">Inventories</td>
+<td>23</td>
+<td><strong>22,153</strong></td>
+<td>19,672</td>
+</tr>
+<tr>
+<td colspan="2">Other current assets</td>
+<td>26(a)</td>
+<td><strong>491</strong></td>
+<td>513</td>
+</tr>
+<tr>
+<td colspan="2">Contract assets</td>
+<td>5(h)</td>
+<td><strong>1,519</strong></td>
+<td>2,561</td>
+</tr>
+<tr>
+<td colspan="2">Trade receivables</td>
+<td>22</td>
+<td><strong>15,662</strong></td>
+<td>8,220</td>
+</tr>
+<tr>
+<td colspan="2">Other financial assets at amortised cost</td>
+<td>19</td>
+<td><strong>1,100</strong></td>
+<td>842</td>
+</tr>
+<tr>
+<td colspan="2">Derivative financial instruments</td>
+<td>21</td>
+<td><strong>1,854</strong></td>
+<td>1,417</td>
+</tr>
+<tr>
+<td colspan="2">Financial assets at fair value through profit or loss</td>
+<td>24</td>
+<td><strong>11,300</strong></td>
+<td>10,915</td>
+</tr>
+<tr>
+<td colspan="2">Cash and cash equivalents (excluding bank overdrafts)</td>
+<td>25</td>
+<td><strong>55,083</strong></td>
+<td>30,299</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td><strong>109,162</strong></td>
+<td>74,439</td>
+</tr>
+<tr>
+<td colspan="2">Assets classified as held for sale</td>
+<td>26(b)</td>
+<td><strong>250</strong></td>
+<td>4,955</td>
+</tr>
+<tr>
+<td colspan="2">Total current assets</td>
+<td></td>
+<td><strong>109,412</strong></td>
+<td>79,394</td>
+</tr>
+</table>

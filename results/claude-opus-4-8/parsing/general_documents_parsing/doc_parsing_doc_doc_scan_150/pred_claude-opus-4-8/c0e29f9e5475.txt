@@ -1,0 +1,93 @@
+# FEA — A Formal English Subset for Algebra/Assertions
+
+I'll transcribe this document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+
+\begin{center}
+-43-
+\end{center}
+
+\begin{center}
+\underline{FEA} \quad -- \quad A Formal English Subset for Algebra/Assertions
+
+Stef. W. Postma\\
+Dept. Computer Science, 247,\\
+Rand Afrikaans University,\\
+PB 524, JHB 2000, South Africa
+\end{center}
+
+\noindent\underline{Introduction.}\\
+The language FEA was developed to facilitate semantic information retrieval on litera\=
+ture about abstract algebra. \quad FEA has since proved useful as a means of stating program
+assertions, and may be used also as a non-procedural programming language.
+
+\noindent The paper is divided into four sections:
+\begin{enumerate}
+    \item An informal introduction to FEA
+    \item The possible use of FEA in information retrieval
+    \item The possible use of FEA in program validation
+    \item The formal definition of FEA.
+\end{enumerate}
+
+\noindent\underline{1. \quad An informal introduction to FEA.}\\
+In this section the language FEA -- Formal English for Algebra (or Assertions) is described
+informally. \quad References to the formal definition in section 4 is given in the form
+(F20 - F22) which refers to the productions numbered F20, F21, F22.
+
+\bigskip
+\noindent FEA is not a programming language. \quad It is a formal, unambiguous language that:
+\begin{enumerate}
+    \item Can be understood by mathematically mature persons.
+    \item Can be used to paraphrase theorems, hypotheses, axioms, rules of inference and
+    (algebraic) facts. \quad These paraphrases are called stellings. \quad (The word stellings
+    is coined to ensure that no confusion with the term `proposition', which is used in
+    logic, can arise).
+    \item Can, in certain cases, be used to construct algorithms automatically.
+\end{enumerate}
+
+\noindent The syntax and most of the semantics of FEA is defined in terms of PLISP. \quad PLISP is a
+high level language for LISP, and is the subject of a paper in preparation. \quad The PLISP
+that is used in this paper is effectively self-explanatory, but notes will be added
+wherever confusion may arise.
+
+\bigskip
+\noindent\underline{Elementary Atoms} (F42 - F45): \quad An atom is a predicate applied to one or more terms.
+A term is a variable, or is a function of one or more terms. \quad The syntax of a term
+will depend on the system in which FEA is embedded. \quad In this \textbf{paper} a term is any
+PLISP expression.\\
+E.g. \quad The following are $\langle$atom$\rangle$'s:
+\begin{align*}
+    &\text{X EQUALS Y} + 1\\
+    &\text{B} \in \text{S2} \cup \text{S3}\\
+    &\text{T3} \subset \text{T25} \cap \text{T15}\\
+    &10 > \text{N} + \text{J} - 6
+\end{align*}
+
+\noindent In general the notation of formal logic is allowed in FEA. \quad This means that \quad $\langle$atom$\rangle$'s
+can be written in the form: \quad $\langle$predicate$\rangle$ \quad ($\langle$termlist$\rangle$)\\
+E.g. \quad REAL(X)
+\begin{align*}
+    &\text{BETWEEN (X; K; W)}\\
+    &\text{IS-RING (T; S; o+; ox)}\\
+    &\text{SUBSETP (B} \cap \text{S;S} \cup \text{B)}
+\end{align*}
+
+\noindent Other forms of $\langle$atom$\rangle$'s that correspond closer to a natural language are also allowed
+in FEA.
+
+\bigskip
+\noindent\underline{Elementary Quantified Formulae} (F1 - F3): \quad A quantified well formed formula is a well
+formed formula with zero or one or more quantifiers preceding it.
+
+\bigskip
+\noindent A quantified well formed formula, or $\langle$qwff$\rangle$ , is the basic unit in a FEA stelling.
+
+\end{document}
+```
+
+I've transcribed the document maintaining its structure, including the hyphenation marker (`\=`), mathematical symbols (∈, ∪, ∩, ⊂, >), and the formatting of atoms, predicates, and quantified formulae as they appear in the original.

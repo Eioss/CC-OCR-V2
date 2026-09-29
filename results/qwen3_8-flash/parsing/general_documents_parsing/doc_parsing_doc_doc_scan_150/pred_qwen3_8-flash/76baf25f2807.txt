@@ -1,0 +1,59 @@
+```latex
+\begin{center}
+    \textbf{\Huge The passive voice}
+\end{center}
+
+\begin{tabular}{|l|l|l|}
+\hline
+ & Active Voice & Passive Voice \\
+\hline
+Present Simple & They serve dinner at 6pm & Dinner is served at 6pm \\
+\hline
+Present Continuous & They are serving dinner now. & Dinner is being served now. \\
+\hline
+Past Simple & They served dinner. & Dinner was served. \\
+\hline
+Past Continuous & They were serving dinner. & Dinner was being served. \\
+\hline
+Future Simple & They will serve dinner. & Dinner will be served. \\
+\hline
+Present Perfect & They have served dinner. & Dinner has been served. \\
+\hline
+Past Perfect & They had served dinner. & Dinner had been served. \\
+\hline
+Future Perfect & They will have served dinner. & Dinner will have been served. \\
+\hline
+Present infinitive & They should serve dinner. & Dinner should be served. \\
+\hline
+Perfect infinitive & They should have served dinner. & Dinner should have been served. \\
+\hline
+-ing form & He likes people serving his dinner & He likes his dinner being served. \\
+\hline
+Perfect-ing form & Having served dinner,... & Dinner havig been served... \\
+\hline
+Modals+ be + p.p. & You must serve dinner. & Dinner must be served. \\
+\hline
+\end{tabular}
+
+\vspace{1cm}
+
+\subsection*{Exercise}
+
+Karen is writing an article about Vivienne Tam for the school newspaper. Help her to complete the article using the correct passive form of the verbs in brackets. One of the verbs is negative.
+
+Fashion designer Vivienne Tam $^{(1)}$ \underline{\hspace{4cm}} (name) 'Yin Yok' when she was born. She $^{(2)}$ \underline{\hspace{4cm}} (give) her English name when she started studying in Hong Kong. She $^{(3)}$ \underline{\hspace{4cm}} (teach) English at school but spoke Cantonese at home. She $^{(4)}$ \underline{\hspace{4cm}} (tell) to always remember her Chinese culture. At the same time, western ideas $^{(5)}$ \underline{\hspace{4cm}} (introduce) to her since people from many cultures were living in Hong Kong. This mix of East and West in her life $^{(6)}$ \underline{\hspace{4cm}} (see) in her designs even now.
+
+Vivienne moved to New York when she was twenty-five. Her new and interesting designs $^{(7)}$ \underline{\hspace{4cm}} (like) by important shops there, so a lot of orders for her clothing $^{(8)}$ \underline{\hspace{4cm}} (place). Today her East-meets-West clothes $^{(9)}$ \underline{\hspace{4cm}} (sell) only in New York, but also in cities around the world.
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textit{Try your best!}
+\end{center}
+
+\vfill
+
+\begin{flushright}
+    ISLCollective.com
+\end{flushright}
+```

@@ -1,0 +1,5 @@
+The text '6440' appears in two places:
+
+(424, 1182, 481, 1212) # In the data row for Net Weight
+
+(424, 1521, 481, 1551) # In the Total row

@@ -1,0 +1,46 @@
+Based on the provided infographic, let's determine which Asian country had the second-highest mobile internet speed in Q2 2016.
+
+### Step-by-Step Analysis:
+
+1. **Identify the relevant section**:  
+   The “TOP SPEED” section at the top of the infographic lists broadband and mobile speeds for several countries/regions. We are interested in **mobile speed (MBPS)**, shown in green bars.
+
+2. **List mobile speeds from the “TOP SPEED” chart**:
+   - South Korea: **11.1 MBPS**
+   - Japan: **5.7 MBPS**
+   - Taiwan: **9.3 MBPS**
+   - Hong Kong: **9.5 MBPS**
+   - Singapore: **8.1 MBPS**
+
+   *(Note: These are the only ones explicitly labeled with both broadband and mobile in this top chart.)*
+
+3. **Rank them by mobile speed (highest to lowest)**:
+   - 1st: **South Korea — 11.1 MBPS**
+   - 2nd: **Hong Kong — 9.5 MBPS**
+   - 3rd: **Taiwan — 9.3 MBPS**
+   - 4th: **Singapore — 8.1 MBPS**
+   - 5th: **Japan — 5.7 MBPS**
+
+4. **Check if any other countries appear elsewhere with higher mobile speeds?**  
+   In the “RUNNERS UP” section, we see additional countries with mobile speeds listed under “MOBILE”:
+   - New Zealand: 9.8 → *But note: New Zealand is not an Asian country.*
+   - Australia: 8.9 → *Not Asian.*
+   - Philippines: 8.5 → *Asian*
+   - China: 6.7 → *Asian*
+   - Indonesia: 6.9 → *Asian*
+   - Sri Lanka: 5 → *Asian*
+   - Vietnam: 2.8 → *Asian*
+   - India: 3.3 → *Asian*
+   - Thailand: 5.8 → *Asian*
+   - Malaysia: 3.4 → *Asian*
+
+   Among these, **Philippines (8.5)** is the highest among non-top-five Asians, but still less than Hong Kong’s 9.5.
+
+   Also, **New Zealand (9.8)** has a higher mobile speed than Hong Kong (9.5), but it is **not an Asian country**, so we exclude it per the question’s scope (“Which **Asian** country...”).
+
+5. **Conclusion**:  
+   Among **Asian countries/regions** shown in the infographic, **Hong Kong** has the **second-highest mobile internet speed** at **9.5 MBPS**, behind South Korea (11.1 MBPS).
+
+---
+
+✅ **Final Answer: Hong Kong**

@@ -1,0 +1,22 @@
+Based on the document provided, under the "Completed By" section and in the first row of the main table:
+
+**BRC = Z40**
+
+This is listed directly next to the label "BRC".
+
+---
+
+### Additional Context (from Helpful Hints at bottom):
+
+The document also provides a hint about what “BRC” might stand for or relate to:
+
+> **Default Event = "BRC" for Flow 2 (Ret/Med/Cont) sources.**
+
+This suggests that **“BRC”** is likely an acronym used internally — possibly standing for something like **“Business Response Code”**, **“Brand Response Code”**, or similar — and it’s being used as a default event code for certain types of marketing flows (Flow 2: Retention/Media/Continuation).
+
+However, **in this specific form**, the value entered for BRC is **Z40**.
+
+---
+
+✅ So, to answer your question directly:  
+**The BRC is Z40.**

@@ -1,0 +1,3 @@
+```json
+{"menu": [{"name": "(TA) NASI GRG TERI MEDAN", "qty": "4", "price": "165,460"}, {"name": "(TA) BIHUN GORENG SEAFOOD", "qty": "1", "price": "40,456"}, {"name": "(TA) KWETIAW SEAFOOD SIRAM", "qty": "1", "price": "42,274"}, {"name": "(TA) NASI GORENG", "qty": "2", "price": "55,456"}], "sub_total": {"items": "8", "subtotal_price": "303,646", "tax": "30,365", "rounding": "-11"}, "total": "334,000"}
+```

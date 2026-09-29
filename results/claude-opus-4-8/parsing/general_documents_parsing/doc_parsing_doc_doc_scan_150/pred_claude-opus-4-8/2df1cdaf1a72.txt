@@ -1,0 +1,79 @@
+# LaTeX Transcription
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{setspace}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\begin{flushright}
+Contract No.:\\
+合同编号：
+\end{flushright}
+
+\vspace{2cm}
+
+\begin{center}
+{\Large xxx \quad engineering \quad contract}
+
+\vspace{0.8cm}
+
+{\LARGE \textbf{xxx 工程合同}}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+Party A: xxxCompany Limited
+
+甲方：xxx 有限公司
+
+Party B:xxx Company Limited
+
+乙方：xxx 有限公司
+\end{center}
+
+\vspace{1cm}
+
+This contract is made and entered into on the \rule{1cm}{0.4pt} day of \rule{1cm}{0.4pt}, 2014 by the following Parties in \rule{1cm}{0.4pt}.
+
+本合同于\underline{\hspace{1.5cm}}年\underline{\hspace{1.5cm}}月\underline{\hspace{1.5cm}}日由以下当事方在\underline{\hspace{1.5cm}}签署。
+
+Party A: xxx Company Limited,
+
+甲方：xxx 有限公司，xxx 经营的公司，住所地为 xxx，（下称``甲方''），法定代表人：xxx
+
+Party B: xxx Company Limited,
+
+乙方：xxx 有限公司，一家 xxx 经营的公司，注册地址是：xxx，（下称``乙方''），法定代表人：xxx
+
+Party A and Party B are called by a joint name of Both Parties under this contract, each of which is called as A Party.
+
+甲方和乙方在本合同项下统称为``双方''，单独称为``一方''。
+
+\begin{enumerate}
+    \item \underline{Work Content and Requirements}
+\end{enumerate}
+
+\begin{enumerate}
+    \item \underline{工作内容、要求}
+\end{enumerate}
+
+\noindent 1.1 \quad In accordance with the items stipulated in this Contract, Party B shall conduct the project as per the Project standard and quality standard stipulated by Ministry of Engineering of the Union of xx.
+
+\vspace{0.3cm}
+
+\noindent 1.1 \quad 依据本合同所限定的条款，乙方应以 xx 工程部规定的建筑标准和质量要求执行本工程。
+
+\begin{enumerate}
+    \setcounter{enumi}{1}
+    \item \underline{Contract Period}
+\end{enumerate}
+
+\end{CJK}
+\end{document}
+```

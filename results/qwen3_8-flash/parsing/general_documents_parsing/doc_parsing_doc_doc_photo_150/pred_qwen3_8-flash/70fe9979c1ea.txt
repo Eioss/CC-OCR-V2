@@ -1,0 +1,72 @@
+```latex
+\begin{center}
+    \textbf{4. Complete the table below with information from the passage.} \\
+    $1 \times 5 = 5$
+\end{center}
+
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i) --- & MA \\
+\hline
+Ahsanullah & 1911 & (ii) --- & \\
+\hline
+(iii) --- & 1914 & & \\
+\hline
+Member of Royal Society & (iv) --- & & \\
+\hline
+& 1919 & & (v) --- \\
+\hline
+\end{tabular}
+
+\vspace{1cm}
+
+\noindent
+\textbf{5.} Write a summary of the passage in no more than 90 to 100 words. \hfill 10
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{6.} Match the parts of sentences given in column 'A' and column 'B' to write five complete sentences. There are more parts of sentences in column 'B' than required. \hfill $1 \times 5 = 5$
+
+\vspace{0.5cm}
+
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{Column 'A'}
+    \begin{enumerate}
+        \renewcommand{\labelenumi}{(\alph{enumi})}
+        \item Man can turn a clean environment
+        \item Clean environment is essential
+        \item Our total environment influences
+        \item When the relationship between things is disturbed, life
+        \item By many unwise acts
+    \end{enumerate}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{Column 'B'}
+    \begin{enumerate}
+        \renewcommand{\labelenumi}{\roman{enumi}.}
+        \item man improves his environment
+        \item man pollutes his environment.
+        \item our way of living.
+        \item really beautiful.
+        \item into a bad polluted one.
+        \item for a healthier and happier life.
+        \item becomes difficult or impossible.
+    \end{enumerate}
+\end{minipage}
+
+\vspace{1cm}
+
+\noindent
+\textbf{7.} Re-arrange the following sentences according to sequence and re-write them in a paragraph. \hfill $1 \times 8 = 8$
+
+\begin{enumerate}
+    \renewcommand{\labelenumi}{(\alph{enumi})}
+    \item The first friend climbed up a tree but the later could not climb.
+    \item Suddenly a bear came there.
+    \item Once upon a time two friends were passing by a forest.
+    \item They were talking about their love for each other.
+\end{enumerate}
+```

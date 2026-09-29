@@ -1,0 +1,18 @@
+Based on the infographic provided, we can determine the percentage of respondents who stopped hiring new staff by looking at the section detailing employment plans.
+
+The relevant data points are:
+-   **32%** expected to make redundancies.
+-   **12%** have no plans to make redundancies.
+-   **8%** continuing to hire new staff.
+
+The question asks for the percentage that *stopped* hiring new staff. The infographic states that **8%** are *continuing* to hire. This implies that the remaining percentage are not continuing to hire (i.e., they have stopped or paused hiring).
+
+To find this, we subtract the percentage continuing to hire from 100%:
+
+$100\% - 8\% = 92\%$
+
+Therefore, **92%** of respondents stopped hiring new staff (or were not continuing to hire).
+
+*(Note: The 32% making redundancies and 12% with no redundancy plans are subsets of those not hiring, but the direct calculation from "continuing to hire" gives the total who are not.)*
+
+**Answer: 92%**

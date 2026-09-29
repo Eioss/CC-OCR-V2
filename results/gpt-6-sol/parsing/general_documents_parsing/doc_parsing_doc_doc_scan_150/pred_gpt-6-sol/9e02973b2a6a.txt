@@ -1,0 +1,59 @@
+\noindent\textit{World Journal of Emergency Surgery} 2007, 2:23
+\hfill \texttt{http://www.wjes.org/content/2/1/23}
+
+\begin{minipage}[t]{0.47\textwidth}
+presenting a sufficiently high diagnostic value: negative LR $\leq 0.25$ for variables with high sensitivity [26]; or positive LR $\geq 4$ for variables with high specificity [26]. A backward stepwise procedure was then used to remove variables so that the final model included only those variables independently associated with haemoperitoneum at or above the median volume at a threshold of $p<0.05$.
+
+The variables selected were then combined with each other and the diagnostic performance of each of the various combinations for prediction of haemoperitoneum equal to or above the median volume was assessed by calculating Se, Sp, positive and negative LR on the basis of the patients in our sample population.
+
+Analyses were carried out using the version 5.0 Statview software package (SAS Corporation).
+
+\section*{Results}
+
+During the study 119 patients were operated on for EP, of whom 30 (25.2\%) were excluded, as no adequate US image were available ($N=15$) or when the haemoperitoneum had not been measured intraoperatively ($N=15$). This left 89 patients to constitute the study population. Baseline characteristics of the population are shown in Table 1.
+
+The median volume of haemoperitoneum measured at the time of surgery was 300 ml. Forty eight (53.9\%) patients had haemoperitoneum $\geq 300$ ml and 41 patients (46.1\%) presented no haemoperitoneum or $<300$ ml (Table 1). Thirty six patients had tubal rupture (40.4\%). The proportion of ruptured ectopics was markedly higher among patients with a haemoperitoneum $\geq 300$ ml (60.4 versus 17.1\%; $p<0.0001$).
+
+\begin{table}[h]
+\caption{Characteristics of the study population ($N=89$)}
+\begin{tabular}{lccc}
+\hline
+Variables & n & Mean $\pm$ SD & Frequency (\%)\\
+\hline
+Age (years) & & $30.2\pm5.6$ &\\
+Gravidity & & $2.9\pm1.6$ &\\
+Gestational age (days) & & $72.9\pm16.2$ &\\
+Laparoscopy & & &\\
+\quad From outset & 76 & & 85.4\\
+\quad Methotrexate failure & 11 & & 12.4\\
+Laparotomy & 2 & & 2.2\\
+Tubal rupture & 36 & & 40.4\\
+Haemoperitoneum (mL) & & &\\
+\quad $<60$ & 21 & & 23.6\\
+\quad $[60\text{--}300]$ & 20 & & 22.5\\
+\quad $[300\text{--}900]$ & 37 & & 41.6\\
+\quad $\geq900$ & 11 & & 12.3\\
+\hline
+\end{tabular}
+
+\smallskip
+SD = standard deviation
+\end{table}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.47\textwidth}
+The crude associations between the studied variables and the existence of massive haemoperitoneum are summarised in Table 2. There was a linear trend between the volume of intraperitoneal fluid at transvaginal scanning of the uterus and the probability of haemoperitoneum $\geq 300$ ml at surgery; indeed, 83.3\% of patients with fluid above the uterine fundus, 70.6 with fluid reaching the uterine body and 24.3\% with fluid under the uterine isthmus or absent had haemoperitoneum $\geq 300$ ml respectively (Chi-square for linear trend = 20.9 with 1 degree of freedom; $p<0.0001$).
+
+The diagnostic performance of the variables associated with haemoperitoneum $\geq 300$ ml in the univariate analysis are shown in Table 3. Three variables had a high sensitivity with sufficiently low negative LR: any pelvic pain, moderate to severe pelvic pain, and the presence of an amount of fluid in the pouch of Douglas (Table 3). Four variables had high specificity and sufficiently high positive LR: a serum haemoglobin concentration $<10$ g/dl, a systolic blood pressure $<100$ mm Hg, fluid above the uterine fundus, and fluid around the ovary (Table 3). As the latter two variables were not inter-connected (Chi-square with 1 degree of freedom = 1.1; $p=$ not significant) and each represented a small number of patients, they were combined into a single variable: fluid above the uterine fundus OR fluid around the ovary.
+
+These variables were then included in multiple regression analysis model. After using the selection procedure, three variables independently predicted the finding of a haemoperitoneum $\geq 300$ ml at surgery: moderate to severe pelvic pain, fluid above the uterine fundus OR fluid around the ovary, and a serum haemoglobin concentra-
+
+\begin{figure}[h]
+\caption{Relationship between the amount of haemoperitoneum (expressed in percentile) and the three variables used in the model.}
+\end{figure}
+\end{minipage}
+
+\vfill
+\noindent\hfill Page 3 of 7
+
+\noindent\hfill\textit{(page number not for citation purposes)}

@@ -1,0 +1,15 @@
+$$\frac{\partial v}{\partial t} - \nu \Delta v + (v \cdot \tilde{\nabla}) v = -\tilde{\nabla} p + f$$
+
+$$\bar{D}_{\bar{x}} \bar{S} - p \bar{x} = (x \dot{h} - \frac{1}{4} g(\chi, c) - x \rho) \partial_t + \frac{x \dot{f}}{f} S + \frac{h \dot{f}}{f} x + D_x S - \rho \chi$$
+
+$$\langle vx, w \rangle = \langle c, w \sigma(x) \rangle$$
+
+$$(\bar{\tau}_{\chi}^{\bar{b}} E) \left[ \sum^{\infty} G / H_+ \right] := \pi_{\chi} (E \wedge G / H_+) \dot{\wedge} G \stackrel{\cong}{=} \pi_{\chi} E \tilde{\wedge} H$$
+
+$$\int_Y r^0 A^0_{\sigma_i} \cdot \nabla \varphi = 0 \quad \forall \varphi \in C^\infty(T^k)$$
+
+$$\langle \beta(\varepsilon) - \beta(\bar{\varepsilon}), \varepsilon - \bar{\varepsilon} \rangle > 0, \text{ for every } \varepsilon, \bar{\varepsilon} \in X \text{ with } \varepsilon \neq \bar{\varepsilon}.$$
+
+$$\int_\Omega (|p^{(n)}|^2 + |\nabla_\sigma u^{(n)}|^2)(x, \tau) dx + \int_0^\tau \int_\Omega (|\nabla_\rho^{(n)}|^2 + \eta |\Delta v^{(n)}|^2 + |\nabla_\sigma u_t^{(n)}|^2)(x, t) dx dt$$
+
+$$+ \int_0^\tau \int_{\partial \Omega} \alpha(x) |p^{(n)}|^2(x, t) ds(x) dt \leq C_R (1 + \int_0^\tau \int_\Omega (|p^{(n)}|^2 + |div u^{(n)}|^2)(x, t) dx dt).$$

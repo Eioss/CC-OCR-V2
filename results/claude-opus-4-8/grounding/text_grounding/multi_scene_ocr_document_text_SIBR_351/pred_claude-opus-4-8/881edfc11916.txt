@@ -1,0 +1,6 @@
+There are multiple instances of '398' in the image. Here are their locations:
+
+1. (940, 380, 1018, 420) - in the consumption amount row
+2. (911, 426, 988, 467) - in the daily consumption (当日消费) row
+3. (913, 631, 996, 674) - in the subtotal (小计) row
+4. (591, 765, 666, 805) - in the total consume (合计) row

@@ -1,0 +1,245 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="2">PARAMETER</th>
+    <th>TEST CONDITION</th>
+    <th>MIN</th>
+    <th>TYP</th>
+    <th>MAX</th>
+    <th>UNIT</th>
+   </tr>
+   <tr>
+    <td colspan="7"><b>INPUT CURRENTS</b></td>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:center;">I<sub>Q</sub></td>
+    <td rowspan="4">Input quiescent current</td>
+    <td>V<sub>IN</sub>=3.3V, V<sub>EN</sub>=3.3V, I<sub>OUT</sub>=0A, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td>12</td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=3.3V, V<sub>EN</sub>=3.3V, I<sub>OUT</sub>=0A, T<sub>A</sub>=85°C</td>
+    <td></td>
+    <td>9</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.5V, V<sub>EN</sub>=5.5V, I<sub>OUT</sub>=0A, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>5</td>
+    <td>25</td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.5V, V<sub>EN</sub>=5.5V, I<sub>OUT</sub>=0A, T<sub>A</sub>=85°C</td>
+    <td></td>
+    <td>10</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td rowspan="9" style="text-align:center;">I<sub>SD</sub></td>
+    <td rowspan="9">Shutdown current from IN to GND</td>
+    <td>V<sub>IN</sub>=1.2V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=1.8V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=3.3V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>4</td>
+    <td>44</td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=4.0V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>7</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=4.5V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>22</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.0V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>62</td>
+    <td>970</td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.0V, V<sub>EN</sub>=0V, T<sub>A</sub>=55°C</td>
+    <td></td>
+    <td>90</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.0V, V<sub>EN</sub>=0V, T<sub>A</sub>=85°C</td>
+    <td></td>
+    <td>350</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=5.5V, V<sub>EN</sub>=0V, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>171</td>
+    <td></td>
+    <td>nA</td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">I<sub>LEAKEN</sub></td>
+    <td>EN pin leakage current</td>
+    <td>V<sub>IN</sub>=0V, V<sub>EN</sub>=5.0V</td>
+    <td></td>
+    <td></td>
+    <td>1.5</td>
+    <td>μA</td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">R<sub>EN</sub></td>
+    <td>EN pin pull down resistor</td>
+    <td>V<sub>EN</sub>=5.0V</td>
+    <td></td>
+    <td>6.85</td>
+    <td></td>
+    <td>MΩ</td>
+   </tr>
+   <tr>
+    <td colspan="7"><b>POWER SWITCH</b></td>
+   </tr>
+   <tr>
+    <td rowspan="6" style="text-align:center;">R<sub>dson</sub></td>
+    <td rowspan="6">Internal switch MOSFET on-state resistance</td>
+    <td>V<sub>IN</sub>=5.5V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>50</td>
+    <td></td>
+    <td rowspan="6" style="text-align:center;">mΩ</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=4.2V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>56</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=3.3V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>64</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=3.0V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>68</td>
+    <td>120</td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=1.8V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>109</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>V<sub>IN</sub>=1.2V, V<sub>EN</sub>=high, I<sub>OUT</sub>=200mA, T<sub>A</sub>=25°C</td>
+    <td></td>
+    <td>225</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">R<sub>DIS</sub></td>
+    <td>Output discharge resistance</td>
+    <td>V<sub>IN</sub>=3.3V, V<sub>EN</sub>=low, T<sub>A</sub>=25°C,<br/>I<sub>OUT</sub>Sinking 2mA</td>
+    <td>50</td>
+    <td>75</td>
+    <td>100</td>
+    <td>Ω</td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">t<sub>R</sub></td>
+    <td>Output rise time</td>
+    <td>V<sub>IN</sub>=3.6V, C<sub>OUT</sub>=1μF, R<sub>OUT</sub>=30Ω</td>
+    <td></td>
+    <td>165</td>
+    <td></td>
+    <td>μs</td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">t<sub>F</sub></td>
+    <td>Output fall time</td>
+    <td>V<sub>IN</sub>=3.6V, C<sub>OUT</sub>=1μF, R<sub>OUT</sub>=30Ω</td>
+    <td></td>
+    <td>42</td>
+    <td></td>
+    <td>μs</td>
+   </tr>
+   <tr>
+    <td style="text-align:center;">t<sub>ON</sub></td>
+    <td>Switch turn on time</td>
+    <td>V<sub>IN</sub>=3.6V, C<sub>OUT</sub>=1μF, R<sub>OUT</sub>=30Ω</td>
+    <td></td>
+    <td>238</td>
+    <td></td>
+    <td>μs</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

@@ -1,0 +1,43 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td colspan="2"><strong>a) Por eventos masivos</strong></td>
+  </tr>
+  <tr>
+    <td>1. Con aforo de hasta 1,000 personas</td>
+    <td>$891.00</td>
+  </tr>
+  <tr>
+    <td>2. Con aforo de hasta 1,001 a 10,000 personas</td>
+    <td>$ 2,003.00</td>
+  </tr>
+  <tr>
+    <td>3. Con aforo de 10,001 personas en adelante</td>
+    <td>20% sobre el número de boletos autorizados por fiscalización y control</td>
+  </tr>
+  <tr>
+    <td><strong>b) Para el establecimiento de giros o actividades industriales, comerciales o de servicios que se encuentren en cualquiera de los siguientes supuestos: empresas de nuevo ingreso; sin actividad comercial durante un año o más: en proceso de construcción y/o remodelación; con visto bueno vencido mayor a dos años.</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1. Construcción</td>
+    <td>$1.07 por M2</td>
+  </tr>
+  <tr>
+    <td>2. Área de estacionamiento y/o maniobras</td>
+    <td>$0.27 por M2</td>
+  </tr>
+  <tr>
+    <td>3. Inspección (incluye tres visitas)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3.1 En giros hasta 400 m2 construidos</td>
+    <td>$334.00</td>
+  </tr>
+  <tr>
+    <td>3.2 En giros hasta de 401 a 1,500 m2 construidos</td>
+    <td>$668.00</td>
+  </tr>
+</table>
+```

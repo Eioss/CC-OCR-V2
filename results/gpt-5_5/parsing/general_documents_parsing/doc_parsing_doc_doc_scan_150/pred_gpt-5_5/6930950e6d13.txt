@@ -1,0 +1,63 @@
+```latex
+\begin{center}
+{\Large \textbf{资源循环代谢性能驱动的城市街区形态生成与优化设计研究}}
+\end{center}
+
+\section*{目录}
+
+\noindent 绪论\dotfill 5
+
+\noindent \textbf{0.1\quad 研究背景}\dotfill 5
+
+\noindent \quad 0.1.1\quad 城市所面临的生态危机\dotfill 5
+
+\noindent \quad 0.1.2\quad 多学科交叉研究\dotfill 5
+
+\noindent \quad 0.1.3\quad 发展循环经济的国家政策导向\dotfill 6
+
+\noindent \quad 0.1.4\quad 计算性设计发展\dotfill 7
+
+\noindent \textbf{0.2\quad 国内外研究现状}\dotfill 8
+
+\noindent \quad 0.2.1\quad 资源循环代谢相关理论与方法研究\dotfill 8
+
+\noindent \quad 0.2.2\quad 城市空间形态与循环潜力的相关研究\dotfill 10
+
+\noindent \quad 0.2.3\quad 性能驱动的数字化生态城市设计研究\dotfill 11
+
+\noindent \quad 0.2.4\quad 研究评述\dotfill 13
+
+\noindent \textbf{0.3\quad 目的意义}\dotfill 13
+
+\noindent \quad 0.3.1\quad 理论意义\dotfill 13
+
+\noindent \quad 0.3.2\quad 方法意义\dotfill 14
+
+\noindent \quad 0.3.3\quad 实践意义\dotfill 14
+
+\noindent \textbf{0.4\quad 论文内容}\dotfill 14
+
+\noindent \quad 0.4.1\quad 循环代谢、微气候和街区空间形态的耦合机制研究\dotfill 14
+
+\noindent \quad 0.4.2\quad 资源代谢分析和潜力挖掘\dotfill 14
+
+\noindent \quad 0.4.3\quad 多智能体形态生成与迭代寻优\dotfill 15
+
+\noindent \quad 0.4.4\quad 数据统计分析与形态优化分析\dotfill 15
+
+\noindent \textbf{0.5\quad 研究方法}\dotfill 15
+
+\noindent \quad 0.5.1\quad 田野调查法\dotfill 15
+
+\noindent \quad 0.5.2\quad 逻辑推演法\dotfill 15
+
+\noindent \quad 0.5.3\quad 模拟运算法\dotfill 15
+
+\noindent \quad 0.5.4\quad 城市收获法（Urban Harvesting/UH）\dotfill 15
+
+\noindent \quad 0.5.5\quad 实证反馈法\dotfill 15
+
+\noindent \quad 0.5.6\quad 物质流分析法\dotfill 15
+
+\noindent \quad 0.5.7\quad 统计分析法\dotfill 15
+```

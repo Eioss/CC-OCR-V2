@@ -1,0 +1,11 @@
+ $$\begin{array} { r l } { Q ( \theta | \theta ^ { ( r ) } ) = \sum _ { k = 1 } ^ { L } \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n _ { i } } w _ { i j k } ^ { ( r ) } \log h _ { k } ( y _ { i j } | x _ { i j } ; \phi _ { k } ) + \sum _ { i = 1 } ^ { m } \sum _ { k = 1 } ^ { L } \log \pi _ { g _ { i k } } \sum _ { j = 1 } ^ { n _ { i } } w _ { i j k } ^ { ( r ) } } & { { } } \\ { \equiv Q _ { 1 } ( \phi | \theta ^ { ( r ) } ) + Q _ { 2 } ( \gamma , \pi | \theta ^ { ( r ) } ) . } \end{array}$$
+
+ $$\begin{array} { l } { \displaystyle \mathcal { E } ( \mu ) \leq \| \frac { v ( x + \mu u ; \xi _ { 1 } ) - v ( x ; \xi _ { 2 } ) } { \mu } u + \frac { \mu L _ { 1 } } { 2 } \| u \| ^ { 2 } u \| ^ { 2 } } \\ { \displaystyle \qquad \leq \big ( \frac { v ( x + \mu u ; \xi _ { 1 } ) - v ( x ; \xi _ { 2 } ) } { \mu } + \frac { \mu L _ { 1 } } { 2 } \| u \| ^ { 2 } \big ) ^ { 2 } \| u \| ^ { 2 } . } \end{array}$$
+
+ $$T ( S ) \leq S + T _ { 1 } ( S ) + T _ { 2 } ( S , 0 ) + ( e + r - 1 ) ^ { 2 } ( { \textstyle { \frac { 1 } { e ^ { 2 } } } } + 2 ) S .$$
+
+ $$G ( z , 0 , T - \triangle , T ) = \int _ { T - \triangle } ^ { T } d t ~ P ( t ) G ( \eta / 2 , 0 , t , T ) , ~ ~ z > \eta / 2 ,$$
+
+ $$x 1 = x , ( x + y ) q = x q + y q , x ( q + s ) = x q + x s , x ( q s ) = ( x q ) s$$
+
+ $$a _ { n } \, ( \hat { a } _ { l o w } ^ { 0 } ( t _ { 3 } , t _ { 4 } ) _ { n } - \hat { a } _ { l o w } ^ { 0 } ( t _ { 1 } , t _ { 2 } ) _ { n } ) \ \ \ \mathrm { c o n v e r g e s ~ i n ~ l a w } ,$$

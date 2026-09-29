@@ -1,0 +1,78 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" class="dataframe">
+   <thead>
+    <tr>
+     <th colspan="5">总用水量</th>
+     <th colspan="5">总供水水量</th>
+     <th rowspan="2">余水量</th>
+     <th rowspan="2">平衡指数</th>
+    </tr>
+    <tr>
+     <th>生活用水</th>
+     <th>工业用水</th>
+     <th>农业用水</th>
+     <th>河道外<br/>生态需水</th>
+     <th>总　计</th>
+     <th colspan="2">地表水</th>
+     <th>地下水</th>
+     <th>中水回用</th>
+     <th>总　计</th>
+    </tr>
+    <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td>河道内生态需水</td>
+     <td>可供水量</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>4 215</td>
+     <td>12 781</td>
+     <td>18 664</td>
+     <td>167</td>
+     <td>35 827</td>
+     <td>4 405</td>
+     <td>21 232</td>
+     <td>13 319</td>
+     <td>1 783</td>
+     <td>36 334</td>
+     <td>507</td>
+     <td>0. 99</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

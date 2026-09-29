@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+\rho_{ij}(\Delta\widetilde V)
+={}&\|H\|^{2}\widetilde V_{ij}
++\|H\|^{2}\sum_{r=1}^{n}\sum_{k=1}^{n}
+\varepsilon_r h_{ik}^{r}\,
+X\wedge e_1\wedge\cdots\wedge\widehat{e_k}\wedge\cdots\wedge e_n\\
+&+2\lambda D_{e_i}H\wedge e_1\wedge\cdots\wedge e_n
++n\sum_{k=1}^{n}\sum_{r=1}^{m}
+\varepsilon_r h_{ik}^{r}\,
+H\wedge e_1\wedge\cdots\wedge\widehat{e_k}\wedge\cdots\wedge e_n
++\underbrace{\cdots}_{\text{remaining terms illegible}}.
+\end{aligned}
+\]

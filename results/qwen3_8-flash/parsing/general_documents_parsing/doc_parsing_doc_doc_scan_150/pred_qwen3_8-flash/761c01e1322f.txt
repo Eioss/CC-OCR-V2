@@ -1,0 +1,109 @@
+```latex
+\begin{tabular}{c c c c c}
+A & 1 & 8 & 9 & 16 \\
+B & 2 & 7 & 10 & 15 \\
+C & 3 & 6 & 11 & 14 \\
+D & 4 & 5 & 12 & 13 \\
+\end{tabular}
+
+\textbf{7.} In which row is the number 600?
+(1) \quad 1st row \qquad (2) \quad 2nd row \qquad (3) \quad 3rd row \qquad (4) \quad 4th row
+
+\textbf{8.} How many columns are there in Row A if 200 is the last number?
+(1) \quad 48 \qquad (2) \quad 50 \qquad (3) \quad 52 \qquad (4) \quad 54
+
+\textbf{9.} Compute the following.
+$37 + 397 + 3997 + 39\,997$
+(1) \quad $42\,284$ \qquad (2) \quad $42\,482$ \qquad (3) \quad $44\,248$ \qquad (4) \quad $44\,428$
+
+\textbf{10.} Compute the following.
+$298 + 2998 + 29\,998 + 299\,998$
+(1) \quad $333\,292$ \qquad (2) \quad $334\,222$ \qquad (3) \quad $334\,292$ \qquad (4) \quad $335\,222$
+
+\textbf{11.} Compute the following.
+$9 + 99 + 999 + 9999 + 99\,999$
+(1) \quad $110\,215$ \qquad (2) \quad $110\,745$ \qquad (3) \quad $110\,995$ \qquad (4) \quad $111\,105$
+
+\textbf{12.} A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?
+(1) \quad 24 \qquad (2) \quad 25 \qquad (3) \quad 26 \qquad (4) \quad 27
+
+\textbf{13.} A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?
+(1) \quad 10 \qquad (2) \quad 11 \qquad (3) \quad 12 \qquad (4) \quad 13
+
+\textbf{14.} Find the values of A and B in the following.
+
+% Diagram representation using tabular for alignment as requested by visual structure
+\begin{minipage}[t]{0.3\textwidth}
+    \centering
+    \begin{tabular}{c}
+        18 \\
+        \rule{0pt}{1.5em} % Space for triangle top
+        \backslash \hspace{1cm} / \\
+        12 \quad 10 \quad 16 \\
+    \end{tabular}
+    % Note: The actual diagram is a large triangle divided into 4 small triangles. 
+    % Top: 18, Middle inverted: 10, Bottom Left: 12, Bottom Right: 16.
+    % Since standard LaTeX drawing is complex without packages like tikz, I will represent the numbers inside a conceptual layout or just list them if strict geometry isn't possible in plain text/tables. 
+    % However, looking at the prompt "transcribe... into latex format", usually implies representing the content. 
+    % Let's try to approximate the visual with simple tables or just transcribe the numbers clearly associated with their positions if possible. 
+    % Actually, the user wants transcription. I will provide the numbers in a way that reflects the image content.
+    
+    % Re-evaluating diagram transcription strategy:
+    % Image shows three triangles.
+    % Triangle 1: Top=18, Center(inverted)=10, BL=12, BR=16
+    % Triangle 2: Top=34, Center(inverted)=A, BL=25, BR=15
+    % Triangle 3: Top=20, Center(inverted)=22, BL=B, BR=18
+    
+    % I will use a simplified table structure to represent the spatial arrangement roughly.
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+    \centering
+    \begin{tabular}{c}
+        34 \\
+        \rule{0pt}{1.5em}
+        \backslash \hspace{1cm} / \\
+        25 \quad A \quad 15 \\
+    \end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+    \centering
+    \begin{tabular}{c}
+        20 \\
+        \rule{0pt}{1.5em}
+        \backslash \hspace{1cm} / \\
+        B \quad 22 \quad 18 \\
+    \end{tabular}
+\end{minipage}
+
+\vspace{1em}
+
+(1) \quad $A = 6, B = 18$ \qquad (2) \quad $A = 6, B = 24$ \\
+(3) \quad $A = 8, B = 20$ \qquad (4) \quad $A = 8, B = 22$
+
+% Alternative cleaner representation for the diagrams if TikZ is not assumed available:
+% Just listing the contents of the triangles might be safer if complex formatting breaks.
+% But let's stick to the numbers visible.
+
+Let's refine the diagram part to be purely textual/tabular based on what's visible.
+
+\section*{Diagrams for Question 14}
+
+\begin{tabular}{ccc}
+    % First Triangle
+    \multicolumn{3}{c}{18} \\
+    \multicolumn{3}{c}{10} \\
+    12 & \multicolumn{2}{r}{16} \\[2ex]
+    
+    % Second Triangle
+    \multicolumn{3}{c}{34} \\
+    \multicolumn{3}{c}{A} \\
+    25 & \multicolumn{2}{r}{15} \\[2ex]
+    
+    % Third Triangle
+    \multicolumn{3}{c}{20} \\
+    \multicolumn{3}{c}{22} \\
+    B & \multicolumn{2}{r}{18} \\
+\end{tabular}
+```

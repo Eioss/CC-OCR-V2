@@ -1,0 +1,19 @@
+$$\left(D^{i_1,i_2\cdots i_p=0,\,i_q=1,\cdots i_N}\right)' = \frac{1}{1+|x|^2}\Big[D^{i_1,i_2\cdots i_p=0,\,i_p=0,\,i_q=1,\cdots i_N} - |x|^2\,D^{i_1,i_2\cdots i_p=0,\,i_q=0,\cdots i_N}$$
+$$+\,x\,D^{i_1,i_2\cdots i_p=0\cdots,\,i_q-1,\,i_{q+1},\cdots i_N}_{(A_q)_0} - x^*\,D^{i_1,i_2\cdots i_p=0,\cdots,\,i_q-1,\,i_{q+1},\cdots i_N}_{(A_q)_1}\Big]$$
+
+$$S(n,k) = \frac{1}{k!}\sum_{d_1+\cdots+d_k=n}\frac{n!}{d_1!\cdots d_k!}$$
+
+$$g_1,\cdots,g_k \in G(A\cup\mathcal{R}) \subset \langle A\rangle\cdot\langle\mathcal{R}\rangle$$
+
+$$\eta_q^2 \xrightarrow[q\to\infty]{} v(k)|\nabla u|^2 \quad a.e.\ in\ \Omega$$
+$$\eta_q^2 \leq v(k)|\nabla u|^2$$
+
+$$(1-\delta)\|F_j(\Delta)f\|^2 \leq \sum_{v}\sum_{k}|\langle F_j(\Delta)f,\theta_{v;j,k}\rangle|^2 \leq (1+\delta)\|F_j(\Delta)f\|^2$$
+
+$$|\lambda| > R > \max\{|\mu^\sigma| : \mu^\sigma \in L^\sigma(\mu)\}$$
+
+$$\underline{S}_\alpha := \begin{cases} S & if\ \alpha=\alpha_0, \\ 0 & if\ \alpha\neq\alpha_0, \end{cases}$$
+
+$$\frac{1}{\sqrt{d}}\|v\|_x \leq \|v\|_x^{(1)} \leq Ce^{\varepsilon k}\|v\|_x, \quad \forall v\in T_xM,\ x\in\Lambda_k, \quad \cdots (3.1.2)$$
+
+$$V_{drift} = \frac{d\langle\phi_{NL}|\hat{x}|\phi_{NL}\rangle}{\langle\phi_{NL}|\phi_{NL}\rangle\,dt}$$

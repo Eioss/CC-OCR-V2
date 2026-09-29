@@ -1,0 +1,37 @@
+```html
+<table>
+  <tr>
+    <th>Dataset</th>
+    <th># sequence</th>
+    <th># user questions</th>
+    <th># databases</th>
+    <th># domain</th>
+    <th># tables</th>
+    <th>Avg. len</th>
+    <th>Vocab</th>
+    <th>Avg. turns</th>
+  </tr>
+  <tr>
+    <td>SParC</td>
+    <td>4,298</td>
+    <td>12,726</td>
+    <td>200</td>
+    <td>138</td>
+    <td>1,020</td>
+    <td>8.1</td>
+    <td>3,794</td>
+    <td>3.0</td>
+  </tr>
+  <tr>
+    <td>CoSQL</td>
+    <td>3,007</td>
+    <td>15,498</td>
+    <td>200</td>
+    <td>138</td>
+    <td>1,020</td>
+    <td>11.2</td>
+    <td>9,585</td>
+    <td>5.2</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,21 @@
+```json
+[
+    {"bbox_2d": [573, 226, 823, 258], "label": "住址 Address"},
+    {"bbox_2d": [290, 444, 461, 483], "label": "入住时间 Check-in time"},
+    {"bbox_2d": [367, 62, 573, 123], "label": "公司名"},
+    {"bbox_2d": [209, 514, 303, 547], "label": "备注 Remarks"},
+    {"bbox_2d": [132, 283, 186, 315], "label": "姓名 Name"},
+    {"bbox_2d": [238, 397, 321, 426], "label": "客人押金 Guest deposit"},
+    {"bbox_2d": [214, 281, 246, 311], "label": "性别 Sex"},
+    {"bbox_2d": [363, 327, 427, 358], "label": "房价 Room Rate"},
+    {"bbox_2d": [554, 313, 620, 346], "label": "房型 Room Type"},
+    {"bbox_2d": [210, 341, 255, 369], "label": "房间号 Room No"},
+    {"bbox_2d": [452, 127, 507, 159], "label": "标题"},
+    {"bbox_2d": [748, 88, 841, 127], "label": "登记单号 Registration number"},
+    {"bbox_2d": [666, 418, 841, 456], "label": "离店时间 Departure"},
+    {"bbox_2d": [211, 562, 270, 591], "label": "联房列表 Linked list"},
+    {"bbox_2d": [350, 261, 536, 297], "label": "证件号码 Certificate No."},
+    {"bbox_2d": [279, 275, 327, 306], "label": "证件类型 Document"},
+    {"bbox_2d": [463, 381, 524, 410], "label": "预授权 Pre licensing"}
+]
+```

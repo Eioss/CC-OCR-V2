@@ -1,0 +1,249 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" data-bbox="17 99 989 912">
+   <tr>
+    <th colspan="2">顺号</th>
+    <th>代号</th>
+    <th>版本</th>
+    <th colspan="2">名称</th>
+    <th>序号</th>
+    <th>数量</th>
+    <th>单位</th>
+    <th colspan="2">材料<br/>标准/规范</th>
+    <th>单重<br/>(kg)</th>
+    <th>对应代号</th>
+    <th colspan="2">备注</th>
+   </tr>
+   <tr>
+    <td rowspan="2">11</td>
+    <td colspan="2">JA00006710G00</td>
+    <td rowspan="2">B</td>
+    <td colspan="2" rowspan="2">设备安装板7组成</td>
+    <td rowspan="2">11</td>
+    <td rowspan="2">1</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2"></td>
+    <td rowspan="2">4.47</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2">借用</td>
+   </tr>
+   <tr>
+    <td colspan="2">JA00006710G00</td>
+   </tr>
+   <tr>
+    <td rowspan="2">12</td>
+    <td colspan="2">AJA1005218G030</td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">元件标签</td>
+    <td rowspan="2">12</td>
+    <td rowspan="2">1</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2">0.3不干胶PVC</td>
+    <td rowspan="2">1.51</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">AJA1005218</td>
+   </tr>
+   <tr>
+    <td rowspan="2">13</td>
+    <td colspan="2">JA00006818G00</td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">接地表</td>
+    <td rowspan="2">13</td>
+    <td rowspan="2">1</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2"></td>
+    <td rowspan="2">0.3</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2">借用</td>
+   </tr>
+   <tr>
+    <td colspan="2">JA00006818G00</td>
+   </tr>
+   <tr>
+    <td rowspan="2">14</td>
+    <td colspan="2">JA00006816G00</td>
+    <td rowspan="2">B</td>
+    <td colspan="2" rowspan="2">第三方设备柜布线示意图</td>
+    <td rowspan="2">14</td>
+    <td rowspan="2">1</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2"></td>
+    <td rowspan="2">7.45</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2">借用</td>
+   </tr>
+   <tr>
+    <td colspan="2">JA00006816G00</td>
+   </tr>
+   <tr>
+    <td rowspan="2">15</td>
+    <td colspan="2">JA00006717G00</td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">右侧导槽组焊</td>
+    <td rowspan="2">15</td>
+    <td rowspan="2">6</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2"></td>
+    <td rowspan="2">1.261</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2">借用</td>
+   </tr>
+   <tr>
+    <td colspan="2">JA00006717G00</td>
+   </tr>
+   <tr>
+    <td rowspan="2">16</td>
+    <td colspan="2"></td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">六角螺母M6</td>
+    <td rowspan="2">16</td>
+    <td rowspan="2">18</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2">8<br/>ISO 4032-2012</td>
+    <td rowspan="2">0.003</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">2821008935</td>
+   </tr>
+   <tr>
+    <td rowspan="2">17</td>
+    <td colspan="2"></td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">平垫圈6</td>
+    <td rowspan="2">17</td>
+    <td rowspan="2">18</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2">200HV-A2<br/>ISO 7089-2000</td>
+    <td rowspan="2">0.001</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">2841008026</td>
+   </tr>
+   <tr>
+    <td rowspan="2">18</td>
+    <td colspan="2"></td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">弹簧垫圈6</td>
+    <td rowspan="2">18</td>
+    <td rowspan="2">18</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2">65Mn<br/>GB/T 93-1987</td>
+    <td rowspan="2">0.001</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">2840000050</td>
+   </tr>
+   <tr>
+    <td rowspan="2">19</td>
+    <td colspan="2"></td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">内六角圆柱头螺钉 M5×25</td>
+    <td rowspan="2">19</td>
+    <td rowspan="2">12</td>
+    <td rowspan="2">PC</td>
+    <td colspan="2" rowspan="2">8.8<br/>ISO 4762-1997</td>
+    <td rowspan="2">0.001</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">2813007688</td>
+   </tr>
+   <tr>
+    <td rowspan="2">20</td>
+    <td colspan="2"></td>
+    <td rowspan="2">A</td>
+    <td colspan="2" rowspan="2">德邦胶</td>
+    <td rowspan="2">20</td>
+    <td rowspan="2">0.00500</td>
+    <td rowspan="2">kg</td>
+    <td colspan="2" rowspan="2">2243 50ml<br/>Q/DBD001-2004</td>
+    <td rowspan="2">1.0</td>
+    <td rowspan="2"></td>
+    <td colspan="2" rowspan="2"></td>
+   </tr>
+   <tr>
+    <td colspan="2">1600001251</td>
+   </tr>
+   <tr>
+    <td colspan="2">标记</td>
+    <td>更改文件号</td>
+    <td colspan="2">签字</td>
+    <td>日期</td>
+    <td>设计</td>
+    <td colspan="2">范志峰</td>
+    <td>2014-12-12</td>
+    <td colspan="2">明细表</td>
+    <td colspan="3">第三方设备柜组成</td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td>主管设计</td>
+    <td colspan="2">范志峰</td>
+    <td>2014-12-12</td>
+    <td colspan="2">160KM客运车</td>
+    <td colspan="2">YHAJA1005077G020</td>
+    <td rowspan="3">A</td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2" rowspan="2">中车株洲电力机车有限公司</td>
+    <td colspan="2">YHAJA1005077</td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="3">共3页 第2页</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

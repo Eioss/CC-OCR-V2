@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "1/23/2020",
+    "order_id": "1620-00003",
+    "vendor_name": "KCDZ Z107.7 FM",
+    "vendor_address": "6448 Hallee Road Joshua Tree, CA 92252",
+    "customer_billing_name": "JEN SLATER",
+    "customer_other_name": "TIM DONNELLY CONGRES",
+    "amount_total_tax": "$ 0.00",
+    "amount_total_gross": "$1,008.00",
+    "amount_due": "$1,008.00",
+    "tax_detail_tax": "$ 0.00",
+    "tax_detail_gross": "$1,008.00"
+}
+```

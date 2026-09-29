@@ -1,0 +1,56 @@
+# Fourier Transform Pairs
+
+Here is the LaTeX transcription of the image:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\begin{center}
+\textbf{\underline{Fourier Transform Pairs}}
+\end{center}
+
+\begin{center}
+$\left( n, t, \omega, a, \omega_o, t_o \text{ are Real numbers} ; \; j = \text{complex number} ; \; n = \text{integer} ; \; \omega = \text{angular frequency} \right)$
+\end{center}
+
+\begin{center}
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{|c|c||c|c|}
+\hline
+\textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} & \textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} \\
+\hline
+$f(t)$ & $\displaystyle\int_{-\infty}^{+\infty} f(t)e^{-j\omega t}\,dt$ & $\displaystyle\frac{1}{2\pi}\int_{-\infty}^{+\infty} F(\omega)e^{j\omega t}\,d\omega$ & $F(\omega)$ \\
+\hline
+$a_1 f_1(t) + a_2 f_2(t)$ & $a_1 F_1(\omega) + a_2 F_2(\omega)$ & $\begin{array}{c} f(a \cdot t) \\ a \neq 0 \end{array}$ & $\dfrac{1}{|a|} F\!\left(\dfrac{\omega}{a}\right)$ \\
+\hline
+$e^{j\omega_o t} f(t)$ & $F(\omega - \omega_o)$ & $f(t - t_o)$ & $e^{-j\omega t_o} F(\omega)$ \\
+\hline
+$\begin{array}{c} \dfrac{d^n[f(t)]}{dt^n} \\ (n>0) \end{array}$ & $(j\omega)^n F(\omega)$ & $\begin{array}{c} (-jt)^n f(t) \\ (n>0) \end{array}$ & $\dfrac{d^n[F(\omega)]}{d\omega^n}$ \\
+\hline
+$\begin{array}{c} e^{-at} u(t) \\ a > 0 \end{array}$ & $\dfrac{1}{a + j\omega}$ & $\begin{array}{c} e^{at} u(-t) \\ a > 0 \end{array}$ & $\dfrac{1}{a - j\omega}$ \\
+\hline
+$\cos(\omega_o t)$ & $\pi[\delta(\omega - \omega_o) + \delta(\omega + \omega_o)]$ & $\sin(\omega_o t)$ & $\dfrac{\pi}{j}[\delta(\omega - \omega_o) - \delta(\omega + \omega_o)]$ \\
+\hline
+$\delta(t)$ & $1$ & $\delta(t - t_o)$ & $e^{-j\omega t_o}$ \\
+\hline
+$1$ & $2\pi \cdot \delta(\omega)$ & $e^{j\omega_o t}$ & $2\pi \cdot \delta(\omega - \omega_o)$ \\
+\hline
+$u(t)$ & $\pi \cdot \delta(\omega) + \dfrac{1}{j\omega}$ & $u(-t)$ & $\pi \cdot \delta(\omega) - \dfrac{1}{j\omega}$ \\
+\hline
+$u(t) - u(-t)$ & $\dfrac{2}{j\omega}$ & $u(t) + u(-t)$ & $2\pi\delta(\omega)$ \\
+\hline
+$\begin{array}{c} t^{(n-1)} \cdot e^{-a \cdot t} \cdot u(t) \\ a > 0 ; \; n > 0 \end{array}$ & $\dfrac{(n-1)!}{(a + j\omega)^n}$ & $\begin{array}{c} t^{(n-1)} \cdot e^{a \cdot t} \cdot u(-t) \\ a > 0 ; \; n > 0 \end{array}$ & $\dfrac{(n-1)!}{(a - j\omega)^n} \cdot (-1)^{n-1}$ \\
+\hline
+$\cos(\omega_o t) \cdot f(t)$ & $\dfrac{1}{2}[F(\omega - \omega_o) + F(\omega + \omega_o)]$ & $\sin(\omega_o t) \cdot f(t)$ & $\dfrac{1}{2j}[F(\omega - \omega_o) - F(\omega + \omega_o)]$ \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

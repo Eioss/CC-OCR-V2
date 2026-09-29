@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+Y_{n+1}(q)Y_{m-1}(q)-Y_n(q)Y_m(q)
+&=\sum_{k\ge0}[r(n+1)+f(k)]T_{n,k}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge0}[r(m)+f(k)]T_{m-1,k}x_k \\
+&\quad+\sum_{k\ge1}[s(n+1)+g(k)]T_{n,k-1}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge1}[s(m)+g(k)]T_{m-1,k-1}x_k \\
+&\quad+\sum_{k\ge2}[t(n+1)+h(k)]T_{n,k-2}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge2}[t(m)+h(k)]T_{m-1,k-2}x_k \\
+&=\left[\sum_{k\ge0}r(n+1)T_{n,k}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge0}r(m)T_{m-1,k}x_k\right] \\
+&\quad+\left[\sum_{k\ge0}f(k)T_{n,k}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge0}f(k)T_{m-1,k}x_k\right] \\
+&\quad+\left[\sum_{k\ge1}s(n+1)T_{n,k-1}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge1}s(m)T_{m-1,k-1}x_k\right] \\
+&\quad+\left[\sum_{k\ge1}g(k)T_{n,k-1}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k\ge1}g(k)T_{m-1,k-1}x_k\right] \\
+&\quad+\left[\sum_{k\ge2}t(n+1)T_{n,k-2}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k=0}^{m}t(m)T_{m-1,k-2}x_k\right] \\
+&\quad+\left[\sum_{k\ge2}h(k)T_{n,k-2}x_k\sum_{k\ge0}T_{m-1,k}x_k
+-\sum_{k\ge0}T_{n,k}x_k\sum_{k=0}^{m}h(k)T_{m-1,k-2}x_k\right].
+\end{aligned}
+\]

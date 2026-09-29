@@ -1,0 +1,42 @@
+# Transcription to LaTeX
+
+Below is the LaTeX transcription of the content shown in the image.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\noindent Factor the difference of two squares.
+
+\[
+(16x^4 - 81)
+\]
+
+\begin{itemize}
+    \item[$\bigcirc$] $(2x + 3)^2(2x - 3)^2$
+    \item[$\bigcirc$] $(4x^2 + 9)(4x^2 + 9)$
+    \item[$\bigcirc$] $(4x^2 + 9)(2x + 3)(2x - 3)$
+    \item[$\bigcirc$] $(4x^2 + 9)(4x^2 - 9)$
+\end{itemize}
+
+\vspace{1cm}
+
+\section*{Question 8}
+
+\noindent Factor using the formula for the sum or difference of two cubes.
+
+\[
+27x^3 + 64
+\]
+
+\begin{itemize}
+    \item[$\bigcirc$] $(3x + 4)(9x^2 + 12x + 16)$
+    \item[$\bigcirc$] $(3x + 4)(9x^2 + 16)$
+    \item[$\bigcirc$] $(3x + 4)(9x^2 - 12x + 16)$
+    \item[$\bigcirc$] $(3x - 4)(9x^2 + 12x + 16)$
+\end{itemize}
+
+\end{document}
+```

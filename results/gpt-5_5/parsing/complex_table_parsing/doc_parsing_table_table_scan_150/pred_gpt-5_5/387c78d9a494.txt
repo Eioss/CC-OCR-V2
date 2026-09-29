@@ -1,0 +1,22 @@
+<table>
+  <tr>
+    <td>Variants</td>
+    <td>STS Avg.</td>
+  </tr>
+  <tr>
+    <td>Baseline</td>
+    <td>77.00</td>
+  </tr>
+  <tr>
+    <td>Substit.</td>
+    <td>77.43</td>
+  </tr>
+  <tr>
+    <td>Re-token.</td>
+    <td>77.70</td>
+  </tr>
+  <tr>
+    <td>Default</td>
+    <td>77.78</td>
+  </tr>
+</table>

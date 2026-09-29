@@ -1,0 +1,64 @@
+```latex
+\[
+48
+\]
+
+\begin{center}
+\underline{The Discriminant}
+\end{center}
+
+The formula for finding the discriminant is derived \\
+from the quadratic equation.
+
+\[
+\text{Discriminant formula: } b^2 - 4ac
+\]
+
+When:
+
+\[
+\ast\ b^2 - 4ac > 0
+\]
+
+\[
+\ast\ \text{there are two unequal real solutions.}
+\]
+
+\[
+\ast\ \text{if the discriminant is a perfect square,}
+\]
+\[
+\text{the solutions are rational.}
+\]
+
+\[
+\ast\ \text{if the discriminant is not a perfect square,}
+\]
+\[
+\text{the solutions are irrational}
+\]
+
+\[
+\ast\ b^2 - 4ac = 0
+\]
+
+\[
+\ast\ \text{there is one solution that is a real number}
+\]
+
+\[
+\ast\ b^2 - 4ac < 0
+\]
+
+\[
+\ast\ \text{there are no real solutions}
+\]
+
+\[
+\ast\ \text{there are two imaginary solutions}
+\]
+
+\[
+\ast\ \text{the solutions are complex conjugates}
+\]
+```

@@ -1,0 +1,111 @@
+# AW32905E Datasheet Transcription
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\definecolor{awinicblue}{RGB}{31,73,125}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+% Header
+\noindent
+\textbf{\textcolor{awinicblue}{\Huge awinic}} \quad
+\textbf{\large 上海艾为电子技术股份有限公司} \hfill
+\textbf{\Large AW32905E}\\
+{\small shanghai awinic technology co., ltd.} \hfill
+{\large Mar. 2023 \quad V1.0}
+
+\vspace{0.3cm}
+\hrule
+\vspace{0.5cm}
+
+% Ordering Information
+\section*{\textcolor{awinicblue}{Ordering Information}}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Part Number} & \textbf{Temperature} & \textbf{Package} & \textbf{Marking} & \makecell{\textbf{Moisture}\\\textbf{Sensitivity}\\\textbf{Level}} & \makecell{\textbf{Environmental}\\\textbf{Information}} & \makecell{\textbf{Delivery}\\\textbf{Form}} \\
+\hline
+AW32905EFCR & $-40^\circ$C $-$ $85^\circ$C & \makecell{FCQFN\\1.3mm$\times$1.8mm\\-12L} & RZR & MSL1 & ROHS+HF & \makecell{3000 units/\\Tape and\\Reel} \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+% Absolute Maximum Ratings
+\section*{\textcolor{awinicblue}{Absolute Maximum Ratings} \textsuperscript{(NOTE 1)}}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|p{4cm}|p{4.5cm}|c|c|c|}
+\hline
+\textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\
+\hline
+$V_{IN}$ & Input voltage & & $-0.3$ & 29 & V \\
+\hline
+$V_{OUT}$ & Output voltage & & $-0.3$ & See\textsuperscript{(NOTE 2)} & V \\
+\hline
+$V_{OVLO}$ & OVLO voltage & & $-0.3$ & 6 & V \\
+\hline
+$V_{\overline{ACOK}}$ & $\overline{\text{ACOK}}$ voltage & & $-0.3$ & 6 & V \\
+\hline
+$V_{\overline{EN}}$ & $\overline{\text{EN}}$ voltage & & $-0.3$ & 6 & V \\
+\hline
+$I_{SW}$ & Continuous current of switch IN-OUT\textsuperscript{(NOTE 3)} & Continuous current on IN and OUT pin & & 5 & A \\
+\hline
+$I_{PEAK}$ & Peak current & Peak input and output current on IN and OUT pin(10ms) & & 8 & A \\
+\hline
+$I_{DIODE}$ & Continuous diode current & Continuous forward current through the nFET body diode & & 1.5 & A \\
+\hline
+$T_A$ & Ambient temperature & & $-40$ & 85 & $^\circ$C \\
+\hline
+$T_J$ & Junction temperature & & $-40$ & 150 & $^\circ$C \\
+\hline
+$T_{STG}$ & Storage temperature & & $-65$ & 150 & $^\circ$C \\
+\hline
+$T_{LEAD}$ & Soldering temperature & At leads, 10 seconds & & 260 & $^\circ$C \\
+\hline
+Surge & Input surge protection & IEC61000-4-5 test with 2$\Omega$ equivalent series resistance & 120 & & V \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.3cm}
+
+\noindent\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\vspace{0.2cm}
+
+\noindent\textit{NOTE2: 29V or V\textsubscript{IN}+0.3V, whichever is smaller.}
+
+\vspace{0.2cm}
+
+\noindent\textit{NOTE3: Limited by thermal design.}
+
+\vspace{1cm}
+\hrule
+\vspace{0.2cm}
+
+% Footer
+\noindent
+{\small www.awinic.com} \hfill
+{\small 5} \hfill
+{\small © 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved}
+
+\end{CJK}
+\end{document}
+```
+
+**Note:** This LaTeX code requires the `makecell` package for multi-line table cells. Add `\usepackage{makecell}` to the preamble for proper compilation.

@@ -1,0 +1,7 @@
+```html
+<html><body>
+<p>表 2 山东半岛城市群地区八大城市经济发展指标体系</p> 
+ <p>Table 2 Economic development index system for the eight cities in grouped cities areas of Shandong peninsula</p> 
+ <div class="table" style="text-align: center"><table><tbody><tr><td style="text-align: left">一级指标</td><td style="text-align: left">二级指标</td><td style="text-align: left">三级指标</td></tr><tr><td rowspan="18" style="text-align: left">经济发展指标</td><td rowspan="7" style="text-align: left">经济发展总体水平</td><td style="text-align: left">人均GDP(元)</td></tr><tr><td style="text-align: left">城镇居民人均可支配收入(元)</td></tr><tr><td style="text-align: left">农民人均纯收入(元)</td></tr><tr><td style="text-align: left">人均消费品零售额(元)</td></tr><tr><td style="text-align: left">人均进出口贸易额(美元)</td></tr><tr><td style="text-align: left">实际利用外资额(亿美元)</td></tr><tr><td style="text-align: left">规模以上工业企业全员劳动生产率(元/人)</td></tr><tr><td rowspan="6" style="text-align: left">经济结构</td><td style="text-align: left">第二产业GDP构成(%)</td></tr><tr><td style="text-align: left">第三产业GDP构成(%)</td></tr><tr><td style="text-align: left">城镇恩格尔系数</td></tr><tr><td style="text-align: left">农村恩格尔系数</td></tr><tr><td style="text-align: left">固定资产投资占GDP的比重(%)</td></tr><tr><td style="text-align: left">GDP增长率(%)</td></tr><tr><td rowspan="4" style="text-align: left">经济发展速度</td><td style="text-align: left">地方财政收入增长率(%)</td></tr><tr><td style="text-align: left">社会消费品零售总额增长率(%)</td></tr><tr><td style="text-align: left">进出口总额增长率(%)</td></tr></tbody></table></div> 
+</body></html>
+```

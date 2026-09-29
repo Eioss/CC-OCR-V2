@@ -1,0 +1,10 @@
+$$\int _ { R ^ { 2 } } \Lambda ^ { \frac { 3 } { 2 } } ( u \cdot \nabla \theta ) \wedge ^ { \frac { 3 } { 2 } } \theta d x = \int _ { R ^ { 2 } } \Lambda ^ { \frac { 3 } { 2 } } ( u \cdot \partial _ { 2 } \theta ) \wedge ^ { \frac { 3 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } \Lambda ( u _ { 2 } \partial _ { 2 } \theta ) \Lambda ^ { \frac { 1 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } [ \Lambda , u _ { 2 } ] \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x + \int _ { R ^ { 2 } } u _ { 2 } \Lambda \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } [ \Lambda , u _ { 2 } ] \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x + \int _ { R ^ { 2 } } \Lambda ^ { \frac { 1 } { 2 } } ( u _ { 2 } \Lambda \partial _ { 2 } \theta ) \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } [ \Lambda , u _ { 2 } ] \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x + \int _ { R ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { 2 } ] \Lambda \partial _ { 2 } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$+ \int _ { R ^ { 2 } } u _ { 2 } \Lambda ^ { \frac { 1 } { 2 } } \Lambda \partial _ { 2 } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } [ \Lambda , u _ { 2 } ] \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x + \int _ { R ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { 2 } ] \Lambda \partial _ { 2 } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$+ \int _ { R ^ { 2 } } u _ { 2 } \partial _ { 2 } \Lambda ^ { \frac { 3 } { 2 } } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$= \int _ { R ^ { 2 } } [ \Lambda , u _ { 2 } ] \partial _ { 2 } \theta \Lambda ^ { \frac { 1 } { 2 } } \theta d x + \int _ { R ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { 2 } ] \Lambda \partial _ { 2 } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+$$合 \dot { I } _ { 1 } + \dot { I } _ { 2 } .$$

@@ -1,0 +1,11 @@
+Based on the provided calendar for **December 2006**:
+
+- The calendar shows that **December 1, 2006** is a **Friday**.
+- Therefore, **December 2, 2006** is a **Saturday**.
+- And **December 3, 2006** is the next day — **Sunday**.
+
+You can also verify this by looking at the grid:  
+The first row under the days of the week has “1” under **Fri** and “2” under **Sat**.  
+The next row starts with “3” under **Sun**.
+
+✅ So, **December 3, 2006** is a **Sunday**.

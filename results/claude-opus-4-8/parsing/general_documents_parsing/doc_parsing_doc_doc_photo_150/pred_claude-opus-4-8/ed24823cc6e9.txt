@@ -1,0 +1,88 @@
+# 民法主观题知识点 + 小案例
+
+```latex
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage{multirow}
+
+\begin{document}
+
+\section*{民法主观题知识点 + 小案例}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{1.5cm}|p{12cm}|}
+\hline
+\multirow{8}{*}{2010年} & 问4：丙公司与戊公司签订房产买卖合同效力如何？为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+ & 问2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？（多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+ & 问6：甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？（被代理人以履行合同的方式追认无权代理） \\
+\cline{2-2}
+ & 问7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？（无权处分不影响买卖合同的效力） \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{第一节\quad 合同的成立}
+
+\begin{center}
+\begin{tikzpicture}[node distance=1cm]
+% 事实判断框
+\node[draw, rectangle, align=left] (fact) at (0,5) 
+{事实判断\\1.当事人\\2.意思表示\\3.标的};
+
+% 价值判断框
+\node[draw, rectangle, align=left] (value) at (4,5) 
+{价值判断\\1.民事行为能力\\2.意思表示真实、自由\\3.不违反强制性规定、\\\quad 不违背公序良俗};
+
+% 民事法律行为
+\node[draw, rectangle] (act) at (-2,1) {民事法律行为};
+
+% 不成立 成立
+\node[draw, rectangle] (nostand) at (1,2) {不成立};
+\node[draw, rectangle] (stand) at (1,0) {成立};
+
+% 有效 效力瑕疵
+\node[draw, rectangle] (valid) at (4,1.5) {有效};
+\node[draw, rectangle] (defect) at (4,-0.5) {效力瑕疵};
+
+% 生效 未生效
+\node[draw, rectangle] (effective) at (7,2.5) {生效};
+\node[draw, rectangle] (uneffective) at (7,0.5) {未生效};
+
+% 大多数合同、婚姻
+\node[draw, rectangle] (most) at (10,2.5) {大多数合同、婚姻};
+
+% 右侧文字
+\node[align=left] at (9.5,0.7) {附延缓条件\\附始期\\需要审批\\遗嘱};
+\node[align=left] at (8.5,-0.5) {无效\\可撤销\\效力待定};
+
+\draw[->] (act) -- (nostand);
+\draw[->] (act) -- (stand);
+\draw[->] (valid) -- (effective);
+\draw[->] (valid) -- (uneffective);
+\draw[->] (effective) -- (most);
+\end{tikzpicture}
+
+\textbf{【民事法律行为成立、有效、生效关系图】}
+\end{center}
+
+\quad 合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\section*{一、合同的订立：要约与承诺}
+
+\subsection*{（一）要约}
+
+\quad 要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+1.向希望与之订立合同的受要约人作出。
+
+2.内容具体且确定：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+3.具有订立合同的目的并表明一经承诺即受拘束的意思。
+
+\end{document}
+```

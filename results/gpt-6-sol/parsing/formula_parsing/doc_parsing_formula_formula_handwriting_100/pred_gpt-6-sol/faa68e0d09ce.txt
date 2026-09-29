@@ -1,0 +1,37 @@
+\[
+\begin{aligned}
+&\frac{1}{2\Delta t}\left\|\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\|_{L^2_{x,v}}^2
++\frac{\delta_1}{\epsilon^2}\left\|\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\|_{L^2_{x,v}(\nu)}^2\\
+&<\frac{\delta_3}{\epsilon^2}\sum_{k=0}^{2}
+\left\|\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\|_{L^2_{x,v}}^2\\
+&\quad+\frac{1}{\epsilon}\sum_{|\beta'|=1}C_\beta^{\beta'}
+\left(
+\partial_v^{\beta'}v\cdot\nabla_x\partial_x^\alpha\partial_v^{\beta-\beta'}(I-P)g^{n+1},
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad-\gamma\left(
+\partial_x^\alpha\partial_v^\beta(I-P)\bigl(\nabla_x\phi^n\cdot\nabla_v(I-P)g^{n+1}\bigr),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad+\gamma\left(
+\partial_x^\alpha\partial_v^\beta(I-P)\bigl(v\cdot\nabla_x\phi^n(I-P)g^{n+1}\bigr),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad+\frac{1}{\epsilon}\left(
+\partial_x^\alpha\partial_v^\beta L(g^n,g^n),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad+\gamma\left(
+\partial_x^\alpha\partial_v^\beta(I-P)\bigl(v\cdot\nabla_x\phi^n Pg^{n+1}\bigr),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad-\frac{1}{\epsilon}\left(
+\partial_x^\alpha\partial_v^\beta(I-P)\bigl(v\cdot\nabla_x Pg^{n+1}\bigr),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}\\
+&\quad+\frac{1}{\epsilon}\left(
+\partial_x^\alpha\partial_v^\beta P\bigl(v\cdot\nabla_x(I-P)g^{n+1}\bigr),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}
+\right)_{L^2_{x,v}}.
+\end{aligned}
+\]

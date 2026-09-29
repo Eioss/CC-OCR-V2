@@ -1,0 +1,114 @@
+```latex
+\documentclass{article}
+\begin{document}
+
+\noindent
+\textbf{12}\quad
+Katy weighed out some sugar from a full 2 kg bag. The mass of the sugar is shown on the scale.
+
+\[
+\text{2 kg Sugar}
+\]
+
+\[
+\begin{array}{ll}
+\text{A} & 1.55\ \text{kg} \\
+\text{B} & 1.65\ \text{kg} \\
+\text{C} & 165\ \text{g} \\
+\text{D} & 155\ \text{g} \\
+\text{E} & 1550\ \text{kg}
+\end{array}
+\]
+
+\vspace{1em}
+
+\noindent
+\textbf{13}\quad
+What is the total cost of 8 rulers and 8 pens?
+
+\[
+\text{Pen: } £1.23
+\qquad
+\text{Ruler: } £1.77
+\]
+
+\[
+\begin{array}{ll}
+\text{A} & £2 \\
+\text{B} & £3 \\
+\text{C} & £16 \\
+\text{D} & £24 \\
+\text{E} & £32
+\end{array}
+\]
+
+\vspace{1em}
+
+\noindent
+\textbf{14}\quad
+Round 7.038 to the nearest hundredth.
+
+\[
+\begin{array}{ll}
+\text{A} & 7.00 \\
+\text{B} & 7.03 \\
+\text{C} & 7.04 \\
+\text{D} & 7.038 \\
+\text{E} & 7.039
+\end{array}
+\]
+
+\vspace{1em}
+
+\noindent
+\textbf{15}\quad
+These shapes are made from 1 cm cubes.
+
+\[
+P \qquad Q \qquad R \qquad S
+\]
+
+\noindent
+Which two shapes have the same volume?
+
+\[
+\begin{array}{ll}
+\text{A} & P\ \text{and}\ Q \\
+\text{B} & P\ \text{and}\ R \\
+\text{C} & P\ \text{and}\ S \\
+\text{D} & Q\ \text{and}\ R \\
+\text{E} & R\ \text{and}\ S
+\end{array}
+\]
+
+\vspace{1em}
+
+\noindent
+\textbf{16}\quad
+Which of these shapes are prisms?
+
+\[
+P \qquad Q \qquad R \qquad S \qquad T
+\]
+
+\[
+\begin{array}{ll}
+\text{A} & P\ \text{and}\ S\ \text{only} \\
+\text{B} & R\ \text{and}\ T\ \text{only} \\
+\text{C} & Q,\ R\ \text{and}\ T \\
+\text{D} & P,\ Q\ \text{and}\ S \\
+\text{E} & \text{Only}\ S
+\end{array}
+\]
+
+\vfill
+
+\noindent
+11+ Maths / 10-11 / / Paper 1
+\hfill
+4
+\hfill
+\copyright\ CGP 2018
+
+\end{document}
+```

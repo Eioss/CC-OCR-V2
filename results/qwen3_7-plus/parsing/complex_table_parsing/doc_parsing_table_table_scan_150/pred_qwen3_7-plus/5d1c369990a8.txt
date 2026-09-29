@@ -1,0 +1,272 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        ignoreHtmlClass: "tex2jax_ignore",
+                        processHtmlClass: "tex2jax_process"
+                        }
+                    };
+  </script>
+  <script crossorigin="anonymous" integrity="sha256-Gj1SgX0K3qYzQ+Z7VvX9wW8yY4Z5a6b7c8d9e0f1g2h=" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_HTMLorMML">
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: "Times New Roman", serif;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 5px 10px;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="7"><b>Table 4. 9 Detailed information of compounds’ corresponding to the characteristic peaks based on HS-GC-IMS analysis</b></th>
+   </tr>
+   <tr>
+    <th>Compound</th>
+    <th>CAS#</th>
+    <th>Formula</th>
+    <th>MW</th>
+    <th>$^{2}$RI</th>
+    <th>$^{1}$Rt [sec]</th>
+    <th>$^{3}$Dt [RIPrel]</th>
+   </tr>
+   <tr>
+    <td>hexanal</td>
+    <td>C66251</td>
+    <td>C<sub>6</sub>H<sub>12</sub>O</td>
+    <td>100.2</td>
+    <td>803.7</td>
+    <td>286.766</td>
+    <td>1.2663</td>
+   </tr>
+   <tr>
+    <td>3-Methyl-3-buten-1-ol</td>
+    <td>C763326</td>
+    <td>C<sub>5</sub>H<sub>10</sub>O</td>
+    <td>86.1</td>
+    <td>731.6</td>
+    <td>183.408</td>
+    <td>1.2479</td>
+   </tr>
+   <tr>
+    <td>3-methylbutanol</td>
+    <td>C123513</td>
+    <td>C<sub>5</sub>H<sub>12</sub>O</td>
+    <td>88.1</td>
+    <td>730.3</td>
+    <td>181.56</td>
+    <td>1.32</td>
+   </tr>
+   <tr>
+    <td>2-Ethylfuran</td>
+    <td>C3208160</td>
+    <td>C<sub>6</sub>H<sub>8</sub>O</td>
+    <td>96.1</td>
+    <td>709.4</td>
+    <td>153.166</td>
+    <td>1.065</td>
+   </tr>
+   <tr>
+    <td>Propyl acetate</td>
+    <td>C109604</td>
+    <td>C<sub>5</sub>H<sub>10</sub>O<sub>2</sub></td>
+    <td>102.1</td>
+    <td>708.8</td>
+    <td>152.375</td>
+    <td>1.161</td>
+   </tr>
+   <tr>
+    <td>Ethyl Acetate</td>
+    <td>C141786</td>
+    <td>C<sub>4</sub>H<sub>8</sub>O<sub>2</sub></td>
+    <td>88.1</td>
+    <td>620.8</td>
+    <td>87.327</td>
+    <td>1.0962</td>
+   </tr>
+   <tr>
+    <td>Ethyl methyl ketone</td>
+    <td>C78933</td>
+    <td>C<sub>4</sub>H<sub>8</sub>O</td>
+    <td>72.1</td>
+    <td>595.8</td>
+    <td>79.755</td>
+    <td>1.2444</td>
+   </tr>
+   <tr>
+    <td>Acetone</td>
+    <td>C67641</td>
+    <td>C<sub>3</sub>H<sub>6</sub>O</td>
+    <td>58.1</td>
+    <td>499.9</td>
+    <td>51.937</td>
+    <td>1.137</td>
+   </tr>
+   <tr>
+    <td>1-Butanol</td>
+    <td>C71363</td>
+    <td>C<sub>4</sub>H<sub>10</sub>O</td>
+    <td>74.1</td>
+    <td>658.3</td>
+    <td>104.567</td>
+    <td>1.1838</td>
+   </tr>
+   <tr>
+    <td>3-Methylbutanal</td>
+    <td>C590863</td>
+    <td>C<sub>5</sub>H<sub>10</sub>O</td>
+    <td>86.1</td>
+    <td>662.4</td>
+    <td>107.104</td>
+    <td>1.4047</td>
+   </tr>
+   <tr>
+    <td>2-Propanol</td>
+    <td>C67630</td>
+    <td>C<sub>3</sub>H<sub>8</sub>O</td>
+    <td>60.1</td>
+    <td>525.3</td>
+    <td>59.322</td>
+    <td>1.2315</td>
+   </tr>
+   <tr>
+    <td>2-Pentanone</td>
+    <td>C107879</td>
+    <td>C<sub>5</sub>H<sub>10</sub>O</td>
+    <td>86.1</td>
+    <td>688.1</td>
+    <td>128.653</td>
+    <td>1.1194</td>
+   </tr>
+   <tr>
+    <td>2,3-Pentanedione</td>
+    <td>C600146</td>
+    <td>C<sub>5</sub>H<sub>8</sub>O<sub>2</sub></td>
+    <td>100.1</td>
+    <td>702.7</td>
+    <td>144.89</td>
+    <td>1.2063</td>
+   </tr>
+   <tr>
+    <td>2-methylpropanol</td>
+    <td>C78831</td>
+    <td>C<sub>4</sub>H<sub>10</sub>O</td>
+    <td>74.1</td>
+    <td>636.8</td>
+    <td>93.32</td>
+    <td>1.1737</td>
+   </tr>
+   <tr>
+    <td>Methylpropanal</td>
+    <td>C78842</td>
+    <td>C<sub>4</sub>H<sub>8</sub>O</td>
+    <td>72.1</td>
+    <td>560</td>
+    <td>69.375</td>
+    <td>1.1109</td>
+   </tr>
+   <tr>
+    <td>2,3-butanedione</td>
+    <td>C431038</td>
+    <td>C<sub>4</sub>H<sub>6</sub>O<sub>2</sub></td>
+    <td>86.1</td>
+    <td>592.1</td>
+    <td>78.689</td>
+    <td>1.1521</td>
+   </tr>
+   <tr>
+    <td>2-methoxyphenol</td>
+    <td>C90051</td>
+    <td>C<sub>7</sub>H<sub>8</sub>O<sub>2</sub></td>
+    <td>124.1</td>
+    <td>1086.2</td>
+    <td>619.655</td>
+    <td>1.2263</td>
+   </tr>
+   <tr>
+    <td>2-Heptanone</td>
+    <td>C110430</td>
+    <td>C<sub>7</sub>H<sub>14</sub>O</td>
+    <td>114.2</td>
+    <td>888.4</td>
+    <td>377.152</td>
+    <td>1.2647</td>
+   </tr>
+   <tr>
+    <td>1-Hexanol</td>
+    <td>C111273</td>
+    <td>C<sub>6</sub>H<sub>14</sub>O</td>
+    <td>102.2</td>
+    <td>876.2</td>
+    <td>366.082</td>
+    <td>1.3302</td>
+   </tr>
+   <tr>
+    <td>propionic acid</td>
+    <td>C79094</td>
+    <td>C<sub>3</sub>H<sub>6</sub>O<sub>2</sub></td>
+    <td>74.1</td>
+    <td>674.6</td>
+    <td>116.311</td>
+    <td>1.2588</td>
+   </tr>
+   <tr>
+    <td>3-Methylbutyl acetate</td>
+    <td>C123922</td>
+    <td>C<sub>7</sub>H<sub>14</sub>O<sub>2</sub></td>
+    <td>130.2</td>
+    <td>877.8</td>
+    <td>367.615</td>
+    <td>1.3097</td>
+   </tr>
+   <tr>
+    <td>Acetoin</td>
+    <td>C513860</td>
+    <td>C4H8O2</td>
+    <td>88.1</td>
+    <td>722</td>
+    <td>169.874</td>
+    <td>1.2056</td>
+   </tr>
+   <tr>
+    <td>Methylpropanal</td>
+    <td>C78842</td>
+    <td>C4H8O</td>
+    <td>72.1</td>
+    <td>560</td>
+    <td>69.375</td>
+    <td>1.1109</td>
+   </tr>
+   <tr>
+    <td colspan="7" style="font-size: smaller;"><sup>1</sup>Represents the retention time in the capillary GC column.</td>
+   </tr>
+   <tr>
+    <td colspan="7" style="font-size: smaller;"><sup>2</sup>Represents the retention index calculated using n-ketones C4–C9 as external standard on FS-SE-54-CB column.</td>
+   </tr>
+   <tr>
+    <td colspan="7" style="font-size: smaller;"><sup>3</sup>Represents the drift time in the drift tube.</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

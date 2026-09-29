@@ -1,0 +1,178 @@
+# MATHEMATICS RULES
+
+## Trigonometry
+
+### 1) Trigonometry Ratios:
+
+Right triangle with vertices A (top), B (bottom left), C (bottom right), Opp side, Hyp (hypotenuse), Adj side.
+
+$$\sin\theta = \frac{\text{Opp}}{\text{Hyp}} \qquad \cos\theta = \frac{\text{Adj}}{\text{Hyp}}$$
+
+$$\tan\theta = \frac{\text{Opp}}{\text{Adj}} \qquad \cot\theta = \frac{\text{Adj}}{\text{Opp}}$$
+
+$$\sec\theta = \frac{\text{Hyp}}{\text{Adj}} \qquad \csc\theta = \frac{\text{Hyp}}{\text{Opp}}$$
+
+### 2) Imp - Results:
+
+i) $\sin\theta \cdot \csc\theta = 1$ \quad ii) $\cos\theta \cdot \sec\theta = 1$
+
+iii) $\tan\theta \cdot \cot\theta = 1$ \quad iv) $\tan\theta = \dfrac{\sin\theta}{\cos\theta}$
+
+v) $\cot\theta = \dfrac{\cos\theta}{\sin\theta}$ \quad vi) $\sin^2\theta + \cos^2\theta = 1$
+
+vii) $\sec^2\theta = 1 + \tan^2\theta$ \quad viii) $\csc^2\theta = 1 + \cot^2\theta$
+
+ix) $\pi^c = 180°$ \quad x) length of arc $s = r\theta$
+
+xi) Area of sector $= \dfrac{1}{2}r^2\theta$
+
+### 3) Trigonometry Ratios of Standard Angles:
+
+| Ratios | 0° | 30° | 45° | 60° | 90° | 180° | 270° | 360° |
+|--------|----|----|----|----|----|------|------|------|
+| Sin | 0 | $\frac{1}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{\sqrt{3}}{2}$ | 1 | 0 | -1 | 0 |
+| Cos | 1 | $\frac{\sqrt{3}}{2}$ | $\frac{1}{\sqrt{2}}$ | $\frac{1}{2}$ | 0 | -1 | 0 | 1 |
+| tan | 0 | $\frac{1}{\sqrt{3}}$ | 1 | $\sqrt{3}$ | $\infty$ | 0 | $\infty$ | 0 |
+
+### 3) Sign Convention:
+
+| | | | Quadrant | Sin | Cos | Tan |
+|---|---|---|----------|-----|-----|-----|
+| Sin | All | | I | + | + | + |
+| | | | II | + | - | - |
+| Tan | Cos | | III | - | - | + |
+| III | IV | | IV | - | + | - |
+
+* The above information can be conveniently remembered with the phrase "Add Sugar To Coffee"
+
+### 4) Allied - Angles:
+
+1) $\sin(-\theta) = -\sin\theta$ \qquad 2) $\sin(90°-\theta) = \cos\theta$
+$\cos(-\theta) = -\cos\theta$ \qquad\quad $\cos(90°-\theta) = \sin\theta$
+$\tan(-\theta) = -\tan\theta$ \qquad\quad $\tan(90°-\theta) = \cot\theta$
+$\cot(-\theta) = -\cot\theta$ \qquad\quad $\cot(90°-\theta) = \tan\theta$
+$\sec(-\theta) = -\sec\theta$ \qquad\quad $\sec(90°-\theta) = \csc\theta$
+$\csc(-\theta) = -\csc\theta$ \qquad\quad $\csc(90°-\theta) = \sec\theta$
+
+### 5) Compound Angles:
+
+i) $\sin(A+B) = \sin A\cos B + \cos A\sin B$
+ii) $\sin(A-B) = \sin A\cos B - \cos A\sin B$
+iii) $\cos(A+B) = \cos A\cos B - \sin A\sin B$
+iv) $\cos(A-B) = \cos A\cos B + \sin A\sin B$
+
+$$\tan(A+B) = \frac{\tan A + \tan B}{1-\tan A\tan B}$$
+
+vi) $\tan(A-B) = \dfrac{\tan A - \tan B}{1 + \tan A\tan B}$
+
+### 6) Multiple Angle and Sub Multiple Angle:
+
+i) $\sin 2A = 2\sin A\cos A$ \quad i) $\sin A = 2\sin\left(\frac{A}{2}\right)\cos\left(\frac{A}{2}\right)$
+
+ii) $\cos 2A = \cos^2 A - \sin^2 A$ \quad ii) $\cos A = \cos^2\left(\frac{A}{2}\right) - \sin^2\left(\frac{A}{2}\right)$
+
+iii) $= 1 - \sin^2 A$ \quad iii) $\cos A = 1 - 2\sin^2\left(\frac{A}{2}\right)$
+
+iv) $\cos 2A = 2\cos^2 A - 1$ \quad iv) $\cos A = 2\cos^2\left(\frac{A}{2}\right) - 1$
+
+v) $\cos A = \dfrac{1-\tan^2\left(\frac{A}{2}\right)}{1+\tan^2\left(\frac{A}{2}\right)}$
+
+vi) $\sin A = \dfrac{2-\tan\left(\frac{A}{2}\right)}{1+\tan^2\left(\frac{A}{2}\right)}$
+
+vii) $\tan A = \dfrac{2-\tan\left(\frac{A}{2}\right)}{1-\tan^2\left(\frac{A}{2}\right)}$
+
+$\cot\dfrac{A}{2} = \dfrac{\tan A}{\tan A}$ \quad viii) $1 - \cos A = 2\sin^2\left(\frac{A}{2}\right)$
+
+$\cos^2\left(\frac{A}{2}\right)$
+
+---
+
+## (Right Column)
+
+### 7) Triple Angle Formulae:
+
+i) $\sin 3\theta = 3\sin\theta - 4\sin^3\theta$ \quad ii) $\cos 3\theta = 4\cos^3\theta - 3\cos\theta$
+
+iii) $\tan 3\theta = \dfrac{3\tan\theta - \tan^3\theta}{1 - 3\tan^2\theta}$
+
+iv) $\cos^3\theta = \dfrac{\cos 3\theta + 3\cos\theta}{4}$ \quad v) $\sin^3\theta = \dfrac{3\sin\theta - \sin 3\theta}{4}$
+
+### 8) Factorization Formulae:
+
+i. $\sin C + \sin D = 2\sin\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)$
+
+ii. $\sin C - \sin D = 2\sin\left(\frac{C+D}{2}\right)\sin\left(\frac{C-D}{2}\right)$
+
+iii. $\cos C + \cos D = 2\cos\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)$
+
+iv. $\cos C - \cos D = 2\sin\left(\frac{C+D}{2}\right)\sin\left(\frac{C-D}{2}\right)$ if $C>D$
+
+$\qquad = 2\sin\left(\frac{C+D}{2}\right)\sin\left(\frac{D-C}{2}\right)$ if $D>C$
+
+### 9) Defactorization formulae:
+
+i. $2\sin A\cos B = \sin(A+B) + \sin(A-B)$
+ii. $2\cos A\sin B = \sin(A+B) - \sin(A-B)$
+iii. $2\cos A\cos B = \cos(A+B) + \cos(A-B)$
+iv. $2\sin A\sin B = \cos(A-B) - \cos(A+B)$
+
+---
+
+## Co - Ordinate - Geometry (2D)
+
+1. Distance Formula: $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
+
+2. Section Formula: $P(x,y) = \left(\dfrac{mx_2+nx_1}{m+n}, \dfrac{my_2+ny_1}{m+n}\right)$
+$\qquad\qquad\qquad$ Internally
+$\quad Q(x,y) = \left(\dfrac{mx_2-nx_1}{m-n}, \dfrac{my_2-ny_1}{m-n}\right)$
+$\qquad\qquad\qquad$ Externally
+
+3. Mid point Formula: $\left(\dfrac{x_1+x_2}{2}, \dfrac{y_1+y_2}{2}\right)$
+
+4. Centroid of triangle: $G\left(\dfrac{x_1+x_2+x_3}{3}, \dfrac{y_1+y_2+y_3}{3}\right)$
+
+5. Area of triangle $\triangle = \dfrac{1}{2}[x_1(y_2-y_3) + x_2(y_3-y_1) + x_3(y_1-y_2)]$
+
+6. Slope of straight line: $m = \tan\theta$
+
+7. One point Form: $y - y_1 = m(x-x_1)$
+
+8. Slope Intercept from: $y = mx + C$
+
+9. Two point Form: $\dfrac{y-y_1}{x-x_1} = \dfrac{y_2-y_1}{x_2-x_1}$
+
+10. Intercept Form: $\dfrac{x}{a} + \dfrac{y}{b} = 1$
+
+11. Normal Form: $x\cos\alpha + y\sin\alpha = p$
+
+12. Slope of line $ax + by + c = 0$ is $-\dfrac{a}{b}$
+
+13. Intersection fo two lines: $L_1 + \lambda L_2 = 0$
+
+14. Angle between two s.t lines: $\tan\theta = \left|\dfrac{m_1+m_2}{1+m_1m_2}\right|$
+
+15. If the lines are parallel: $m_1, m_2$
+$\quad$ If the lines are $1': m_1m_2 = -1$
+
+16. Length of $1'$ form: $\left|\dfrac{ax_1+by_1+c}{\sqrt{a^2+b^2}}\right|$
+
+17. Bisector Equations: $\dfrac{ax_1+by_1+c_1}{\sqrt{a_1^2+b_1^2}} = \pm\dfrac{a_2x_1+b_2y_1+c_2}{\sqrt{a_2^2+b_2^2}}$
+
+18. Distance bet$^n$ parallel lines: $\left|\dfrac{c_1-c_2}{\sqrt{a^2+b^2}}\right|$
+
+19. Homogeneous Equation: $ax^2 - 2hxy + by^2 = 0$
+$\qquad\qquad\qquad \tan\theta = \left|\dfrac{2\sqrt{h^2-ab}}{a+b}\right|$
+
+20. General Equation: $ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$
+$\qquad$ represents a pair of lines
+$\quad$ If $abc + 2fgh - af^2 - bg^2 - ch^2 = 0$
+$\quad$ Point of intersection $(x,y) = \left(\dfrac{hf-bg}{ab-h^2}, \dfrac{hg-af}{ab-h^2}\right)$
+
+---
+
+## Co - Ordinate - Geometry (3D)
+
+1. Distance Formula: $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$
+
+2. Section Formula: $\left(\dfrac{mx_2+nx_1}{m+n}, \dfrac{my_2+ny_1}{m+n}, \dfrac{mz_2+nz_1}{m+n}\right)$
+$\qquad\qquad\qquad$ Internally

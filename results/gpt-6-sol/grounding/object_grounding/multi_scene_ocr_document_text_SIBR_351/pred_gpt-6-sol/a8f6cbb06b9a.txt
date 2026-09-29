@@ -1,0 +1,15 @@
+[
+  {"bbox_2d":[207,8,717,68],"label":"COMPANY NAME"},
+  {"bbox_2d":[43,71,576,86],"label":"ADDRESS"},
+  {"bbox_2d":[307,87,455,102],"label":"TEL"},
+  {"bbox_2d":[525,86,692,102],"label":"FAX"},
+  {"bbox_2d":[159,123,282,166],"label":"INV.NO"},
+  {"bbox_2d":[159,174,251,187],"label":"INV.DATE"},
+  {"bbox_2d":[400,174,475,187],"label":"TITLE"},
+  {"bbox_2d":[694,119,927,162],"label":"S/C NO"},
+  {"bbox_2d":[29,359,62,372],"label":"Marks&Nos."},
+  {"bbox_2d":[165,393,322,409],"label":"Item no.&Description"},
+  {"bbox_2d":[520,394,534,408],"label":"Quantity (PKGS)"},
+  {"bbox_2d":[617,393,689,408],"label":"Unit Price (EURO)"},
+  {"bbox_2d":[791,393,949,408],"label":"Amount (EURO)"}
+]

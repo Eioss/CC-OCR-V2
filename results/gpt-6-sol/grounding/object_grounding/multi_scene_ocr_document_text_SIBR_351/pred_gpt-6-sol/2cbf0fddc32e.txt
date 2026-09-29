@@ -1,0 +1,15 @@
+[
+  {"bbox_2d":[340,119,644,158],"label":"标题"},
+  {"bbox_2d":[257,171,341,190],"label":"客户名称 GUEST NAME"},
+  {"bbox_2d":[730,160,890,198],"label":"入住日期 CHECK IN"},
+  {"bbox_2d":[734,202,886,237],"label":"离店日期 CHECK OUT"},
+  {"bbox_2d":[272,265,360,282],"label":"房号 ROOM NUMBER"},
+  {"bbox_2d":[139,398,272,417],"label":"日期DATE"},
+  {"bbox_2d":[335,395,389,413],"label":"房费"},
+  {"bbox_2d":[447,394,496,413],"label":"摘要 DESCRIPTION"},
+  {"bbox_2d":[703,385,793,404],"label":"金额 AMOUNT"},
+  {"bbox_2d":[452,690,551,710],"label":"合计金额 AMOUNT"},
+  {"bbox_2d":[457,770,552,791],"label":"已收定金 DEPOSIT RECEIVED"},
+  {"bbox_2d":[704,831,808,853],"label":"收款员 CASHIER"},
+  {"bbox_2d":[577,934,774,967],"label":"第二联 The second"}
+]

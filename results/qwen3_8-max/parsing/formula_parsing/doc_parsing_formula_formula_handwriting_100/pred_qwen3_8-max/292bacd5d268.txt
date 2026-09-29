@@ -1,0 +1,6 @@
+ $$\int _ { 0 } ^ { \tau } G ( \tau - s , z ( \tau ) - z ( s ) ) \phi ( z ( s ) ) z ^ { \prime } ( s ) d s$$
+ $$= \sum _ { j = 1 } ^ { J } A _ { j } \int _ { 0 } ^ { \tau } \frac { 1 } { \sqrt { 4 \pi t } } e ^ { - \frac { [ z ( \tau ) - z ( \tau - t ) - k t ] ^ { 2 } } { 4 t } - p t + q _ { j } z ( \tau - t ) z ^ { \prime } ( \tau - t ) } d t$$
+ $$- V k \int _ { 0 } ^ { \tau } \frac { 1 } { \sqrt { 4 \pi t } } e ^ { - \frac { [ z ( \tau ) - z ( \tau - t ) - k t ] ^ { 2 } } { 4 t } - p t + z ( \tau - t ) z ^ { \prime } ( \tau - t ) } d t$$
+ $$= \sum _ { j = 1 } ^ { J } A _ { j } \sqrt { \tau } \int _ { 0 } ^ { 1 } \frac { 1 } { \sqrt { 4 \pi \zeta } } e ^ { - \frac { [ z ( \tau ) - z ( \bar { \zeta } \tau ) - k \zeta \tau ] ^ { 2 } } { 4 \zeta \tau } - p \zeta \tau + q _ { j } z ( \bar { \zeta } \tau ) z ^ { \prime } ( \bar { \zeta } \tau ) } d \zeta$$
+ $$- V k \sqrt { \tau } \int _ { 0 } ^ { 1 } \frac { 1 } { \sqrt { 4 \pi \zeta } } e ^ { - \frac { [ z ( \tau ) - z ( \bar { \zeta } \tau ) - k \zeta \tau ] ^ { 2 } } { 4 \zeta \tau } - p \zeta \tau + z ( \bar { \zeta } \tau ) z ^ { \prime } ( \bar { \zeta } \tau ) } d \zeta$$
+ $$\therefore = ( \text{Term 1} ) + ( \text{Term 2} ).$$

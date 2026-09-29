@@ -1,0 +1,11 @@
+\[
+\begin{aligned}
+\eta^{e}(v)&\geq \eta^{e}(u)+\eta^{e}(v)\eta^{e}(u)=0,
+\qquad \eta^{e}(u)=1,\quad \eta=0,\quad 1\leq e\leq 3,\\
+H^{se}&=-\hbar\bigl(n_H|H\rangle_s\langle H|
++n_V|V\rangle_s\langle V|\bigr)\otimes w(u)e(u)\,dw_3,\\
+\sup_{0\leq t\leq T}\|u^M(t)-u(t)\|
+&=O\!\left(\|u^M(0)-u(0)\|+\|\xi^M-W\|_{p\text{-var}}\right),\\
+C_n(-r)&=(-1)^nC_n(r).
+\end{aligned}
+\]

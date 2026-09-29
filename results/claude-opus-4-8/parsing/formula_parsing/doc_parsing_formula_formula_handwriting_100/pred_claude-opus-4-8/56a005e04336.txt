@@ -1,0 +1,23 @@
+$$\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} |u(s\sigma)|^p \, d\sigma \, dr$$
+
+$$= \int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} \frac{|u(s\sigma)|}{r} \cdot r|u(s\sigma)|^{p-1} \, d\sigma \, dr$$
+
+$$\leq \int_0^\infty r^{N-1} \sup_{0<s\leq r} \left(\int_{S^{N-1}} \frac{|u(s\sigma)|^p}{r^p} \, d\sigma\right)^{\frac{1}{p}} \left(\int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma\right)^{\frac{p-1}{p}} \, dr$$
+
+$$\leq \int_0^\infty r^{N-1} \sup_{0<s\leq r} \left(\int_{S^{N-1}} \frac{|u(s\sigma)|^p}{r^p} \, d\sigma\right)^{\frac{1}{p}} \sup_{0<s\leq r} \left(\int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma\right)^{\frac{p-1}{p}} \, dr$$
+
+$$= \int_0^\infty \left\{ r^{\frac{N-1}{p}} \sup_{0<s\leq r} \left(\int_{S^{N-1}} \frac{|u(s\sigma)|^p}{r^p} \, d\sigma\right)^{\frac{1}{p}} \right\} \times$$
+
+$$\left\{ r^{\frac{(N-1)(p-1)}{p}} \sup_{0<s\leq r} \left(\int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma\right)^{\frac{p-1}{p}} \right\} dr$$
+
+$$\leq \left(\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} \frac{|u(s\sigma)|^p}{r^p} \, d\sigma \, dr\right)^{\frac{1}{p}} \times$$
+
+$$\left(\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma \, dr\right)^{\frac{p-1}{p}}$$
+
+$$\leq \left(\max\left\{\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} \frac{|u(s\sigma)|^p}{r^p} \, d\sigma \, dr, \right.\right.$$
+
+$$\left.\left. \int_0^\infty r^{N-1} \sup_{r\leq s<\infty} \int_{S^{N-1}} \frac{|u(s\sigma)|^p}{s^p} \, d\sigma \, dr\right\}\right)^{\frac{1}{p}} \times$$
+
+$$\left(\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma \, dr\right)^{\frac{p-1}{p}}$$
+
+$$= \left|\frac{p}{N-p}\right| \left(\int_{\mathbb{R}^N} \left|\frac{x}{|x|} \cdot \nabla u(x)\right|^p dx\right)^{\frac{1}{p}} \left(\int_0^\infty r^{N-1} \sup_{0<s\leq r} \int_{S^{N-1}} r^{\frac{p}{p-1}} |u(s\sigma)|^p \, d\sigma \, dr\right)^{\frac{p-1}{p}}$$

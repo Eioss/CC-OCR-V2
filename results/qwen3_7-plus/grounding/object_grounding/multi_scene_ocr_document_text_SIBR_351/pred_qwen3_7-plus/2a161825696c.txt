@@ -1,0 +1,16 @@
+```json
+[
+	{"bbox_2d": [675, 693, 809, 724], "label": "AMOUNT"},
+	{"bbox_2d": [715, 789, 787, 819], "label": "AMOUNT"},
+	{"bbox_2d": [700, 832, 797, 861], "label": "AMOUNT"},
+	{"bbox_2d": [699, 877, 798, 907], "label": "AMOUNT"},
+	{"bbox_2d": [245, 97, 684, 139], "label": "COMPANY NAME"},
+	{"bbox_2d": [329, 192, 640, 260], "label": "TITLE"},
+	{"bbox_2d": [164, 937, 233, 970], "label": "单位"},
+	{"bbox_2d": [153, 691, 323, 747], "label": "合计(大写) TOTAL"},
+	{"bbox_2d": [150, 276, 235, 305], "label": "姓名"},
+	{"bbox_2d": [677, 935, 715, 968], "label": "收款人"},
+	{"bbox_2d": [452, 280, 545, 311], "label": "日期"},
+	{"bbox_2d": [156, 440, 275, 480], "label": "西药 WESTERN MEDICINE"}
+]
+```

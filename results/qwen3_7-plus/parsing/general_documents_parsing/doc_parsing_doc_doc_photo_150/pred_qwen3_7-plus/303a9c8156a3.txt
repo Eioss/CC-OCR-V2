@@ -1,0 +1,53 @@
+```latex
+截至募集说明书签署日,发行人、发行人子公司及其控股子公司无已发行尚未兑付或逾期未兑付的企业(公司)债券、中期票据、短期融资券、资产证券化产品、信托计划、保险债权计划、理财产品,不存在代建回购、融资租赁、售后回租等方式融资情况。
+
+\section*{第十二条 募集资金用途}
+
+\subsection*{一、募集资金总量及用途}
+
+本期债券募集资金总额为人民币 \underline{\hspace{2cm}} 万元,其中人民币 \underline{\hspace{2cm}} 万元用于补充营运资金,占比20\%;剩余80\%的募集资金即人民币 \underline{\hspace{2cm}} 万元拟用于 \underline{\hspace{4cm}} 项目建设,具体情况如下:
+
+募集资金使用情况表
+
+单位:万元
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+项目名称 & 项目建设主体 & 项目总投资额 & 拟使用本期债券募集资金 & 债券资金占项目总投资比例 & 占本期债券募集资金的比例 \\
+\hline
+项目 & 有限责任公司 & & & & \\
+\hline
+补充营运资金 & & & & & \\
+\hline
+合计 & & & & & 100\% \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{二、募集资金投资项目概况}
+
+1. \underline{\hspace{4cm}} 项目
+
+\subsubsection*{1. 项目概况}
+
+\subsubsection*{2. 项目审批情况}
+
+\underline{\hspace{4cm}} 项目已经获得相关主管部门的批准,具体批准文件情况如下表所示:
+
+\begin{center}
+\begin{tabular}{|c|p{6cm}|l|p{3cm}|p{2cm}|}
+\hline
+序号 & 批准文件 & 批准部门 & 文件编号 & 批准时间 \\
+\hline
+1 & 《关于 \underline{\hspace{2cm}} 项目节能评估报告表的批复》 & 发改局 & 发改[ \underline{\hspace{1cm}} ]号 & 年 月 日 \\
+\hline
+2 & 《建设项目选址意见书》 & 规划局 & 选字第 \underline{\hspace{1cm}} 号 & 年 月 日 \\
+\hline
+3 & 《建设项目选址意见书》 & 规划局 & 选字第 \underline{\hspace{1cm}} 号 & 年 月 日 \\
+\hline
+4 & 《关于 \underline{\hspace{2cm}} 项目社会稳定风险评估报告的 & 信访办 & / & 年 月 日 \\
+\hline
+\end{tabular}
+\end{center}
+```

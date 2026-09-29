@@ -1,0 +1,74 @@
+\[
+A_{i+1}=
+\begin{pmatrix}
+0 & \bar{\alpha}_0 & \bar{\alpha}_0 & \cdots & \bar{\alpha}_0\\
+0 & 0 & \bar{\alpha}_1 & \cdots & \bar{\alpha}_1\\
+& & \ddots & & \vdots\\
+& & & 0 & \bar{\alpha}_{i-1}\\
+& & & & 0
+\end{pmatrix},
+\qquad
+B_{i+1}=
+\begin{pmatrix}
+1 & \bar{\beta}_1 & \bar{\beta}_1\bar{\beta}_2 & \cdots & \bar{\beta}_1\bar{\beta}_2\cdots\bar{\beta}_i\\
+1 & \bar{\beta}_2 & \cdots & \bar{\beta}_2\cdots\bar{\beta}_i\\
+& & \ddots & & \vdots\\
+& & & \bar{\beta}_i\\
+\end{pmatrix},
+\]
+\[
+E_{i+1}=
+\begin{pmatrix}
+0 & 0 & 0 & \cdots & 0\\
+& \beta_1 & \cdots & \beta_2 & \cdots & \beta_i\\
+& & \ddots & \vdots & & \vdots\\
+& & & & & \beta_i
+\end{pmatrix},
+\qquad
+P_{i+1}=
+\begin{pmatrix}
+0 & \bar{\omega}_0\beta_1 & \bar{\omega}_0\beta_1\bar{\beta}_2 & \cdots & \bar{\omega}_0\beta_1\bar{\beta}_2\cdots\bar{\beta}_i\\
+0 & 0 & \bar{\omega}_1\beta_2 & \cdots & \bar{\omega}_1\beta_2\cdots\bar{\beta}_i\\
+& & \ddots & & \vdots\\
+& & & \bar{\omega}_{i-1}\beta_i\\
+& & & & 0
+\end{pmatrix},
+\]
+\[
+C_{i+1}=
+\begin{pmatrix}
+0 & \bar{\omega}_0 & \bar{\omega}_0 & \cdots & \bar{\omega}_0\\
+0 & 0 & \bar{\omega}_1 & \cdots & \bar{\omega}_1\\
+& & \ddots & & \vdots\\
+& & & 0 & \bar{\omega}_{i-1}\\
+& & & & 0
+\end{pmatrix},
+\qquad
+D_{i+1}=
+\begin{pmatrix}
+0 & \bar{\omega}_0\bar{\alpha}_0 & \bar{\omega}_0\bar{\alpha}_0 & \cdots & \bar{\omega}_0\bar{\alpha}_0\\
+0 & 0 & \bar{\omega}_1\bar{\alpha}_1 & \cdots & \bar{\omega}_1\bar{\alpha}_1\\
+& & \ddots & & \vdots\\
+& & & 0 & \bar{\omega}_{i-1}\bar{\alpha}_{i-1}\\
+& & & & 0
+\end{pmatrix},
+\]
+\[
+O_{i+1}=
+\begin{pmatrix}
+0 & & & &\\
+& \bar{\omega}_0 & & &\\
+& & \bar{\omega}_1 & &\\
+& & & \ddots &\\
+& & & & \bar{\omega}_{i-1}
+\end{pmatrix},
+\qquad
+U_{i+1}=
+\begin{pmatrix}
+1 & 1 & \cdots & 1 & 1\\
+& 1 & \cdots & 1 & 1\\
+& & \ddots & \vdots & \vdots\\
+& & & 1 & 1\\
+& & & & 1
+\end{pmatrix}.
+\]

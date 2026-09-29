@@ -1,0 +1,47 @@
+Based on the document provided, the amount the retailer pays for racks (fixtures) depends on their **RJR Volume** (cartons per week):
+
+---
+
+### 1. **If RJR Volume is less than 80 cartons per week:**
+> - **RJR makes no future investments.**
+> - **If Retailer wants racks, they pay 100%.**
+
+✅ **Answer: The retailer pays 100% of the cost.**
+
+---
+
+### 2. **If RJR Volume = 80+ Cartons per week and beyond:**
+> - RJR offers a standard Cost Share Program (so other manufacturers help offset fixture cost).
+> - RJR must have no less than EDLP Parity.
+> - Cost Share applies to Vertical and Horizontal load situations due to Volume consideration.
+
+➡️ This implies **cost sharing**, but **does not specify exact percentages** — it’s a “standard” program, likely negotiated or defined elsewhere. So the retailer pays **some portion**, but not necessarily 100%.
+
+---
+
+### 3. **If RJR Volume = 100+ Cartons per week:**
+> - RJR must have Horizontal load on carton and pack fixtures.
+> - RJR must have Exclusive Advertising on RJR fixtures.
+> - RJR must have no less than EDLP Parity.
+> - **If all above conditions are satisfied, RJR will bear all costs for fixtures.**
+
+✅ **Answer: If all conditions are met, the retailer pays $0 — RJR covers 100%.**
+
+---
+
+## ✅ Final Answer:
+
+- **< 80 cartons/week → Retailer pays 100%**
+- **80–99 cartons/week → Retailer pays some share (exact % not specified; part of “standard Cost Share Program”)**
+- **≥ 100 cartons/week + conditions met → Retailer pays $0 (RJR bears all costs)**
+
+So, **if the retailer wants racks and has < 80 cartons/week, they pay 100%.**  
+For higher volumes, payment depends on meeting specific conditions — potentially nothing if ≥100 cartons and requirements are fulfilled.
+
+---
+
+📌 **Shortest direct answer based on most explicit rule:**
+
+> **If the retailer wants racks and sells less than 80 cartons per week, they pay 100%.**
+
+*(This is the only scenario where the document explicitly states “they pay 100%”.)*

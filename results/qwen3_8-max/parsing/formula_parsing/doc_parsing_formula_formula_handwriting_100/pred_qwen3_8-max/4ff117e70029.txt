@@ -1,0 +1,17 @@
+ $$\left\langle \rho _ { N } ( \operatorname { I d } - \Delta _ { - 1 } ) u _ { N } - \rho u _ { H F } , \psi \right\rangle = \left\langle \rho _ { N } ( ( \operatorname { I d } - \Delta _ { - 1 } ) u _ { N } - u _ { H F } ) , \psi \right\rangle + \left\langle \rho - \rho _ { N } , \psi u _ { H F } \right\rangle .$$
+
+ $$D _ { T } : = ( 0 , T ) \times D , \; \partial D _ { T } : = ( 0 , T ) \times \partial D , \; \mathbb { R } _ { T } ^ { n } : = ( 0 , T ) \times \mathbb { R } ^ { n } .$$
+
+ $$\operatorname* { l i m i n f } _ { \varepsilon \to 0 } \sum _ { j = 0 } ^ { m } \int _ { S _ { \varepsilon } ^ { j } } \Theta _ { \varepsilon } ^ { j } \, | [ ( u _ { \varepsilon } ) _ { \tau } ] _ { S _ { \varepsilon } ^ { j } } | \, d \sigma ( x ) \geqslant \sum _ { j = 0 } ^ { m } < G _ { 1 } ^ { j } , | [ U _ { \tau } ] _ { S ^ { j } } + \gamma _ { \tau } ^ { j } | > _ { C _ { e } ( w \times { S ^ { j } } ) , M ( w \times { S ^ { j } } ) }$$
+
+ $${ \mathcal { A } } _ { \infty } = \operatorname* { l i m } _ { k \to \infty } A _ { k } = \operatorname* { l i m } _ { k \to \infty } \sum _ { i = 1 } ^ { d } \, x _ { k ; i } ^ { \otimes m } = \sum _ { i = 1 } ^ { d } \, x _ { \infty ; i } ^ { \otimes m } \in \mathrm { C P } ^ { n , m } ( \mathbb { K } ) ,$$
+
+ $$r : = m a x \{ r _ { i } \} _ { i \in \{ 1 , . . . , m \} }$$
+
+ $$A \gamma \circ M _ { x } = A x \, , \; \; A \_ \cdot \! \! \! - x \circ C = A x$$
+
+ $$a \{ n \} = ( a _ { 2 } ) \dots ( a _ { k } )$$
+
+ $$V ( \varepsilon _ { 1 } , \varepsilon _ { 2 } ) = V \setminus ( \{ | z | < \varepsilon _ { 1 } \} \cup \{ | \zeta | < \varepsilon _ { 2 } \} ) .$$
+
+ $$\frac { \alpha _ { 2 } ^ { 3 } } { \alpha _ { 2 } ^ { 3 } - 2 7 \alpha _ { 3 } ^ { 2 } } \searrow - \infty \mathrm { ~ a s ~ } A \searrow 0 \mathrm { ~ a n d ~ } \frac { \alpha _ { 2 } ^ { 3 } } { \alpha _ { 2 } ^ { 3 } - 2 7 \alpha _ { 3 } ^ { 2 } } \nearrow 1 \mathrm { ~ a s ~ } A \nearrow \infty .$$

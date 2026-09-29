@@ -1,0 +1,117 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{formulas for discrete-time LTI signals and systems}
+\vspace{0.5em}
+
+\begin{tabular}{@{}ll@{}}
+\toprule
+name & formula \\
+\midrule
+area under impulse & $\displaystyle \sum_{n} \delta(n) = 1$ \\[2ex]
+multiplication by impulse & $f(n)\,\delta(n) = f(0)\,\delta(n)$ \\[2ex]
+\quad \dots by shifted impulse & $f(n)\,\delta(n-n_o) = f(n_o)\,\delta(n-n_o)$ \\[2ex]
+convolution & $\displaystyle f(n) * g(n) = \sum_{k} f(k)\,g(n-k)$ \\[2ex]
+\quad \dots with an impulse & $f(n) * \delta(n) = f(n)$ \\[2ex]
+\quad \dots with a shifted impulse & $f(n) * \delta(n-n_o) = f(n-n_o)$ \\[2ex]
+transfer function & $\displaystyle H(z) = \sum_{n} h(n)\,z^{-n}$ \\[2ex]
+frequency response & $\displaystyle H^f(\omega) = \sum_{n} h(n)\,e^{-j\omega n}$ \\[2ex]
+\quad \dots their connection & $H^f(\omega) = H(e^{j\omega})$ \\
+ & \quad provided unit circle $\subset$ ROC \\
+\bottomrule
+\end{tabular}
+
+\vspace{2em}
+
+\textbf{formulas for continuous-time LTI signals and systems}
+\vspace{0.5em}
+
+\begin{tabular}{@{}ll@{}}
+\toprule
+name & formula \\
+\midrule
+area under impulse & $\displaystyle \int \delta(t)\,dt = 1$ \\[2ex]
+multiplication by impulse & $f(t)\,\delta(t) = f(0)\,\delta(t)$ \\[2ex]
+\quad \dots by shifted impulse & $f(t)\,\delta(t-t_o) = f(t_o)\,\delta(t-t_o)$ \\[2ex]
+convolution & $\displaystyle f(t) * g(t) = \int f(\tau)\,g(t-\tau)\,d\tau$ \\[2ex]
+\quad \dots with an impulse & $f(t) * \delta(t) = f(t)$ \\[2ex]
+\quad \dots with a shifted impulse & $f(t) * \delta(t-t_o) = f(t-t_o)$ \\[2ex]
+transfer function & $\displaystyle H(s) = \int h(t)\,e^{-st}\,dt$ \\[2ex]
+frequency response & $\displaystyle H^f(\omega) = \int h(t)\,e^{-j\omega t}\,dt$ \\[2ex]
+\quad \dots their connection & $H^f(\omega) = H(j\omega)$ \\
+ & \quad provided $j\omega$-axis $\subset$ ROC \\
+\bottomrule
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{useful formulas}
+\vspace{0.5em}
+
+\begin{tabular}{@{}ll@{}}
+\toprule
+name & formula \\
+\midrule
+Euler's formula & $e^{j\,\theta} = \cos(\theta) + j\,\sin(\theta)$ \\[2ex]
+\quad \dots for cosine & $\displaystyle \cos(\theta) = \frac{e^{j\,\theta} + e^{-j\,\theta}}{2}$ \\[2ex]
+\quad \dots for sine & $\displaystyle \sin(\theta) = \frac{e^{j\,\theta} - e^{-j\,\theta}}{2\,j}$ \\[2ex]
+Sinc function & $\displaystyle \text{sinc}(\theta) = \frac{\sin(\pi\,\theta)}{\pi\,\theta}$ \\
+\bottomrule
+\end{tabular}
+
+\vspace{2em}
+
+\textbf{Z-transform transform pairs}
+\vspace{0.5em}
+
+\begin{tabular}{@{}lll@{}}
+\toprule
+$x(n)$ & $X(z)$ & ROC \\
+\midrule
+$x(n)$ & $\displaystyle \sum_{n} x(n)\,z^{-n}$ \quad (def.) & \\[2ex]
+$\delta(n)$ & $1$ & all $z$ \\[2ex]
+$u(n)$ & $\displaystyle \frac{z}{z-1}$ & $|z| > 1$ \\[2ex]
+$a^n\,u(n)$ & $\displaystyle \frac{z}{z-a}$ & $|z| > |a|$ \\[2ex]
+$-a^n\,u(-n-1)$ & $\displaystyle \frac{z}{z-a}$ & $|z| < |a|$ \\[2ex]
+$\cos(\omega_o n)\,u(n)$ & $\displaystyle \frac{z^2 - \cos(\omega_o)\,z}{z^2 - 2\,\cos(\omega_o)\,z + 1}$ & $|z| > 1$ \\[2ex]
+$\sin(\omega_o n)\,u(n)$ & $\displaystyle \frac{\sin(\omega_o)\,z}{z^2 - 2\,\cos(\omega_o)\,z + 1}$ & $|z| > 1$ \\[2ex]
+$a^n\,\cos(\omega_o n)\,u(n)$ & $\displaystyle \frac{z^2 - a\,\cos(\omega_o)\,z}{z^2 - 2\,a\,\cos(\omega_o)\,z + a^2}$ & $|z| > |a|$ \\[2ex]
+$a^n\,\sin(\omega_o n)\,u(n)$ & $\displaystyle \frac{a\,\sin(\omega_o)\,z}{z^2 - 2\,a\,\cos(\omega_o)\,z + a^2}$ & $|z| > |a|$ \\
+\bottomrule
+\end{tabular}
+
+\vspace{2em}
+
+\textbf{Z-transform transform properties}
+\vspace{0.5em}
+
+\begin{tabular}{@{}ll@{}}
+\toprule
+$x(n)$ & $X(z)$ \\
+\midrule
+$a\,x(n) + b\,g(n)$ & $a\,X(z) + b\,G(z)$ \\[2ex]
+$x(n-n_o)$ & $z^{-n_o}\,X(z)$ \\[2ex]
+$x(n) * f(n)$ & $X(z)\,F(z)$ \\
+\bottomrule
+\end{tabular}
+\end{minipage}
+
+\vfill
+\begin{center}
+Page 8 of 169
+\end{center}
+
+\end{document}
+```

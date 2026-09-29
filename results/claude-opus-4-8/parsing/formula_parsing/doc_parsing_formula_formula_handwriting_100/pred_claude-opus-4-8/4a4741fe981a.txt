@@ -1,0 +1,19 @@
+I'll transcribe the handwritten mathematical content (the image is upside down).
+
+$$\left|\mathbb{E}\left[F^{BA}(s_t,a_t)\mid \mathcal{F}_t\right]\right| = \gamma\left|\mathbb{E}\left[\min\{Q^B_{t}(s_{t+1},a^*_t), Q^A_t(s_{t+1},a^*_t)\} - \min\{Q^A_t(s_{t+1},b^*_t), Q^B_t(s_{t+1},b^*_t)\}\mid \mathcal{F}_t\right]\right|$$
+
+$$\leq \gamma\left|\mathbb{E}\left[\min\{Q^B_t(s_{t+1},b^*_t), Q^A_t(s_{t+1},a^*_t)\} - \min\{Q^A_t(s_{t+1},b^*_t), Q^B_t(s_{t+1},b^*_t)\}\mid \mathcal{F}_t\right]\right|$$
+
+$$\leq \gamma\left|\mathbb{E}\left[Q^B_t(s_{t+1},b^*_t)\mid \mathcal{F}_t\right] - \gamma\mathbb{E}\left[\min\{Q^A_t(s_{t+1},b^*_t), Q^B_t(s_{t+1},b^*_t)\}\mid \mathcal{F}_t\right]\right|$$
+
+$$= \gamma P\big(Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t)\big)\,\mathbb{E}\left[Q^B_t(s_{t+1},b^*_t)\mid Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t),\ \mathcal{F}_t\right]$$
+
+$$+\ \gamma P\big(Q^B_t(s_{t+1},b^*_t) < Q^A_t(s_{t+1},b^*_t)\big)\,\mathbb{E}\left[Q^B_t(s_{t+1},b^*_t)\mid Q^B_t(s_{t+1},b^*_t) < Q^A_t(s_{t+1},b^*_t),\ \mathcal{F}_t\right]$$
+
+$$-\ \gamma P\big(Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t)\big)\,\mathbb{E}\left[Q^A_t(s_{t+1},b^*_t)\mid Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t),\ \mathcal{F}_t\right]$$
+
+$$-\ \gamma P\big(Q^B_t(s_{t+1},b^*_t) < Q^A_t(s_{t+1},b^*_t)\big)\,\mathbb{E}\left[Q^B_t(s_{t+1},b^*_t)\mid Q^B_t(s_{t+1},b^*_t) < Q^A_t(s_{t+1},b^*_t),\ \mathcal{F}_t\right]$$
+
+$$= \gamma P\big(Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t)\big)\,\mathbb{E}\left[\underbrace{Q^B_t(s_{t+1},b^*_t) - Q^A_t(s_{t+1},b^*_t)}_{\leq \|\Delta_t^{BA}\|}\,\Big|\, Q^B_t(s_{t+1},b^*_t) \geq Q^A_t(s_{t+1},b^*_t),\ \mathcal{F}_t\right]$$
+
+$$\leq \gamma P\big(Q^B_t(s_{t+1},a^*_t) \geq Q^A_t(s_{t+1},a^*_t)\big)\,\|\Delta_t^{BA}\| \leq \gamma\,\|\Delta_t^{BA}\|,$$

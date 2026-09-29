@@ -1,0 +1,36 @@
+\[
+\begin{aligned}
+&\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{\frac1p}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{\frac1q} \\
+&\le \frac1p\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}
++\frac1q\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q} \\
+&\quad-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\frac1p+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right) \\
+&\qquad\times\left(
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{k_j}}
+-
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{k_j+1}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{2^{j-1}-k_j-1}}
+\right)^2 \\
+&\le \frac1p\sum_{j=1}^{n}\left\langle |T_j|^{p}x,y\right\rangle
++\frac1q\sum_{j=1}^{n}\left\langle |T_j^{*}|^{q}x,y\right\rangle \\
+&\quad-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\frac1p+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right) \\
+&\qquad\times\left(
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{k_j}}
+-
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{k_j+1}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{2^{j-1}-k_j-1}}
+\right)^2 \\
+&\le \frac1p\left\langle\left(\sum_{j=1}^{n}|T_j|\right)^{p}x,y\right\rangle
++\frac1q\left\langle\left(\sum_{j=1}^{n}|T_j^{*}|\right)^{q}x,y\right\rangle \\
+&\quad-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\frac1p+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right) \\
+&\qquad\times\left(
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{k_j}}
+-
+\sqrt[2^j]{\left(\sum_{j=1}^{n}\left\langle |T_j|x,y\right\rangle^{p}\right)^{k_j+1}
+\left(\sum_{j=1}^{n}\left\langle |T_j^{*}|x,y\right\rangle^{q}\right)^{2^{j-1}-k_j-1}}
+\right)^2 .
+\end{aligned}
+\]

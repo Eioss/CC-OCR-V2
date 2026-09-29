@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "09-26-20",
+    "Arrival Date": "09-25-20",
+    "Total Amount": "1,650.03",
+    "Name": "王秀梅",
+    "Balance": "0.00",
+    "Address": "516 Hengshan Road Shanghai,200030,China",
+    "Hotel Name": "良诺信息酒店"
+}
+```

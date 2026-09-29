@@ -1,0 +1,121 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="2">Distribution</th>
+      <th rowspan="2">Method</th>
+      <th colspan="4"># Clients = 225</th>
+      <th colspan="4"># Clients = 450</th>
+      <th colspan="4"># Clients = 900</th>
+    </tr>
+    <tr>
+      <th>$\overline{acc}$</th>
+      <th>$\breve{acc}$</th>
+      <th>$\sigma_{acc}$</th>
+      <th>$T_{conv}$</th>
+      <th>$\overline{acc}$</th>
+      <th>$\breve{acc}$</th>
+      <th>$\sigma_{acc}$</th>
+      <th>$T_{conv}$</th>
+      <th>$\overline{acc}$</th>
+      <th>$\breve{acc}$</th>
+      <th>$\sigma_{acc}$</th>
+      <th>$T_{conv}$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" style="font-style: italic;">Near-normal</td>
+      <td>FedAvg</td>
+      <td>70.21</td>
+      <td>54.23</td>
+      <td>13.17</td>
+      <td>0.42</td>
+      <td>74.36</td>
+      <td>55.21</td>
+      <td>13.65</td>
+      <td>1.47</td>
+      <td>75.70</td>
+      <td>57.27</td>
+      <td>13.01</td>
+      <td>1.89</td>
+    </tr>
+    <tr>
+      <td>FT</td>
+      <td>72.62</td>
+      <td>54.05</td>
+      <td>16.24</td>
+      <td>0.76</td>
+      <td>75.16</td>
+      <td>58.82</td>
+      <td>15.05</td>
+      <td>1.72</td>
+      <td>75.36</td>
+      <td>59.38</td>
+      <td>15.22</td>
+      <td>1.96</td>
+    </tr>
+    <tr>
+      <td>FedBABU</td>
+      <td>74.03</td>
+      <td>55.39</td>
+      <td>18.43</td>
+      <td>0.97</td>
+      <td>75.01</td>
+      <td>58.57</td>
+      <td>15.95</td>
+      <td>1.16</td>
+      <td>75.83</td>
+      <td>58.29</td>
+      <td>17.15</td>
+      <td>1.48</td>
+    </tr>
+    <tr>
+      <td rowspan="3" style="font-style: italic;">Homo-device</td>
+      <td>FedAvg</td>
+      <td>71.35</td>
+      <td>54.96</td>
+      <td>15.34</td>
+      <td>0.54</td>
+      <td>73.19</td>
+      <td>55.94</td>
+      <td>13.34</td>
+      <td>1.53</td>
+      <td>75.14</td>
+      <td>59.54</td>
+      <td>12.19</td>
+      <td>1.71</td>
+    </tr>
+    <tr>
+      <td>FT</td>
+      <td>75.43</td>
+      <td>44.50</td>
+      <td>17.79</td>
+      <td>0.62</td>
+      <td>75.28</td>
+      <td>47.02</td>
+      <td>17.12</td>
+      <td>1.76</td>
+      <td>76.61</td>
+      <td>52.81</td>
+      <td>17.00</td>
+      <td>1.25</td>
+    </tr>
+    <tr>
+      <td>FedBABU</td>
+      <td>75.55</td>
+      <td>53.12</td>
+      <td>17.51</td>
+      <td>0.65</td>
+      <td>76.13</td>
+      <td>51.78</td>
+      <td>16.86</td>
+      <td>1.72</td>
+      <td>77.24</td>
+      <td>53.33</td>
+      <td>15.13</td>
+      <td>1.64</td>
+    </tr>
+  </tbody>
+</table>
+```

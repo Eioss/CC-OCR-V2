@@ -1,0 +1,35 @@
+# LaTeX Transcription
+
+## Trigonometric Ratio Definitions
+
+```latex
+\sin C = \frac{\text{side opposite to angle } C}{\text{hypotenuse}} = \frac{p}{h}
+
+\cos C = \frac{\text{side adjacent to angle } C}{\text{hypotenuse}} = \frac{b}{h}
+
+\tan C = \frac{\text{side opposite to angle } C}{\text{side adjacent to angle } C} = \frac{p}{b}
+
+\csc\theta = \frac{1}{\sin\theta}; \quad \sec\theta = \frac{1}{\cos\theta}; \quad \cot\theta = \frac{1}{\tan\theta}; \quad \tan\theta = \frac{\sin\theta}{\cos\theta}
+```
+
+## Trigonometric Table
+
+```latex
+\begin{tabular}{|l|c|c|c|c|c|}
+\hline
+$\angle A$ & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin A$ & $0$ & $\dfrac{1}{2}$ & $\dfrac{1}{\sqrt{2}}$ & $\dfrac{\sqrt{3}}{2}$ & $1$ \\
+\hline
+$\cos A$ & $1$ & $\dfrac{\sqrt{3}}{2}$ & $\dfrac{1}{\sqrt{2}}$ & $\dfrac{1}{2}$ & $0$ \\
+\hline
+$\tan A$ & $0$ & $\dfrac{1}{\sqrt{3}}$ & $1$ & $\sqrt{3}$ & Not defined \\
+\hline
+$\csc A$ & Not defined & $2$ & $\sqrt{2}$ & $\dfrac{2}{\sqrt{3}}$ & $1$ \\
+\hline
+$\sec A$ & $1$ & $\dfrac{2}{\sqrt{3}}$ & $\sqrt{2}$ & $2$ & Not defined \\
+\hline
+$\cot A$ & Not defined & $\sqrt{3}$ & $1$ & $\dfrac{1}{\sqrt{3}}$ & $0$ \\
+\hline
+\end{tabular}
+```

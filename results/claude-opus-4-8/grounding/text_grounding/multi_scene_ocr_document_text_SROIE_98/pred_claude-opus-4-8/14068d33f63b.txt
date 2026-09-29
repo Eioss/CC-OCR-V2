@@ -1,0 +1,5 @@
+The text '31.80' appears multiple times in the receipt. Here are the locations:
+
+(746, 491, 829, 524) # Total Amt Incl. GST
+(746, 558, 829, 591) # Total Amt Payable
+(746, 591, 829, 624) # Paid Amount

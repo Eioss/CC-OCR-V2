@@ -1,0 +1,65 @@
+I'll transcribe the two tables visible in this image.
+
+**Table 1 (Main results table):**
+
+```html
+<table border="1">
+  <tr>
+    <td rowspan="2">Method</td>
+    <td colspan="3">T=20</td>
+    <td colspan="3">T=50</td>
+  </tr>
+  <tr>
+    <td>IPV</td>
+    <td>BL</td>
+    <td>CTR</td>
+    <td>IPV</td>
+    <td>BL</td>
+    <td>CTR</td>
+  </tr>
+  <tr>
+    <td>GREEDY</td>
+    <td>68.06</td>
+    <td>216.38</td>
+    <td><strong>0.31</strong></td>
+    <td>68.23</td>
+    <td>217.93</td>
+    <td><strong>0.31</strong></td>
+  </tr>
+  <tr>
+    <td>Beam Search</td>
+    <td>105.52</td>
+    <td>427.80</td>
+    <td>0.25</td>
+    <td>107.06</td>
+    <td>439.59</td>
+    <td>0.24</td>
+  </tr>
+  <tr>
+    <td>SSP</td>
+    <td><strong>189.11</strong></td>
+    <td>999.51</td>
+    <td>0.19</td>
+    <td><strong>242.77</strong></td>
+    <td>1632.56</td>
+    <td>0.15</td>
+  </tr>
+</table>
+```
+
+**Table 2 (Bottom row, upside-down in image):**
+
+```html
+<table border="1">
+  <tr>
+    <td>n</td>
+    <td>47</td>
+    <td>81</td>
+    <td>77</td>
+    <td>58</td>
+    <td>56</td>
+    <td>78</td>
+    <td>397</td>
+  </tr>
+</table>
+```

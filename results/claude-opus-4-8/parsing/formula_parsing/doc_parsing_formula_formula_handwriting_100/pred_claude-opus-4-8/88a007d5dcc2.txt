@@ -1,0 +1,17 @@
+$$\mathbb{E}\|A^{\eta}[X_1(t)-X_1(s)]\|^2$$
+
+$$\leq \frac{4c_1^2-\rho^{c_1^2}\eta+\rho-\beta}{\rho}\mathbb{E}\|A^{\beta}\xi\|^2\epsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}$$
+
+$$+4\left[\frac{c_1-\rho^{c_1}\eta+\rho B(\beta,1-\eta-\rho)}{\rho}+c_{\eta}B(\eta+\rho,1-\eta)\right]^2$$
+
+$$\times \mathbb{E}\|F_1\|^2_{J\cdot\theta\cdot o}c_{\xi}\epsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}$$
+
+$$+\frac{8c_1^2-\rho^{c_1^2}\eta+\rho c_{F_2}^2 K^2 B(1+2\beta-2\eta,1-\eta-\rho)}{\rho^2(1-\eta-\rho)}$$
+
+$$\times \max\left\{\epsilon^{2(1+\beta-2\eta-\rho)},T_{loc}^{2(1+\beta-2\eta-\rho)}\right\}(t-s)^{2\rho}$$
+
+$$+\frac{8c_1^2-\rho^{c_1^2}\eta+\rho\mathbb{E}\|F_2(0)\|^2}{}T_{loc}^{2(1-\eta-\rho)}(t-s)^{2\rho}$$
+
+$$+8c_{\eta}^2 C_{F_2}^2 K^2 B\left(\frac{1}{2}+\beta,1-2\eta\right)T_{loc}^{\frac{1}{2}+\beta-2\eta}(t-s)^{\frac{3}{2}+\beta-2\eta}$$
+
+$$+\frac{8c_{\eta}^2\mathbb{E}\|F_2(0)\|^2}{1-2\eta}(t-s)^{2(1-\eta)},\quad \epsilon\leq s<t\leq T_{loc}.$$

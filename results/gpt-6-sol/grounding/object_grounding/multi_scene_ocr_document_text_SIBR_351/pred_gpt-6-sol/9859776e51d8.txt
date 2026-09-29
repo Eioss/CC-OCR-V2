@@ -1,0 +1,22 @@
+[
+  {"bbox_2d":[308,68,687,82],"label":"Company Name"},
+  {"bbox_2d":[166,159,260,168],"label":"Attn"},
+  {"bbox_2d":[166,174,265,184],"label":"Tel No."},
+  {"bbox_2d":[636,159,893,168],"label":"From"},
+  {"bbox_2d":[637,145,704,155],"label":"Date"},
+  {"bbox_2d":[163,215,338,226],"label":"Invoice Address"},
+  {"bbox_2d":[166,240,340,250],"label":"Address"},
+  {"bbox_2d":[637,282,727,295],"label":"Project No"},
+  {"bbox_2d":[637,302,726,315],"label":"Client order No"},
+  {"bbox_2d":[613,341,649,353],"label":"CURRENCY"},
+  {"bbox_2d":[90,324,150,338],"label":"Title"},
+  {"bbox_2d":[90,374,314,389],"label":"Description"},
+  {"bbox_2d":[387,375,410,389],"label":"Qty"},
+  {"bbox_2d":[452,375,486,389],"label":"Unit"},
+  {"bbox_2d":[548,376,593,388],"label":"Unit Price"},
+  {"bbox_2d":[745,375,807,389],"label":"Amount"},
+  {"bbox_2d":[211,493,294,505],"label":"SLEW BEARING"},
+  {"bbox_2d":[285,512,352,525],"label":"The estimated shipping date"},
+  {"bbox_2d":[206,527,488,540],"label":"Payment Terms"},
+  {"bbox_2d":[206,540,288,553],"label":"Delivery Terms"}
+]

@@ -1,0 +1,3 @@
+\[
+\Sigma_2=\frac{N_{de}(N_{de}-1)}{N(N-1)}\sum_{i,j\ne i}\Gamma_{ji}
+\]

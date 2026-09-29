@@ -1,0 +1,44 @@
+**Table 3.1 — Short Table of Fourier Transforms**
+
+\[
+\begin{array}{c|l|l|l}
+ & g(t) & G(\omega) & \\ \hline
+1 & e^{-at}u(t) & \dfrac{1}{a+j\omega} & a>0\\[6pt]
+2 & e^{at}u(-t) & \dfrac{1}{a-j\omega} & a>0\\[6pt]
+3 & e^{-a|t|} & \dfrac{2a}{a^{2}+\omega^{2}} & a>0\\[6pt]
+4 & te^{-at}u(t) & \dfrac{1}{(a+j\omega)^{2}} & a>0\\[6pt]
+5 & t^{n}e^{-at}u(t) & \dfrac{n!}{(a+j\omega)^{n+1}} & a>0\\[6pt]
+6 & \delta(t) & 1 & \\[4pt]
+7 & 1 & 2\pi\delta(\omega) & \\[4pt]
+8 & e^{j\omega_{0}t} & 2\pi\delta(\omega-\omega_{0}) & \\[4pt]
+9 & \cos\omega_{0}t
+  & \pi[\delta(\omega-\omega_{0})+\delta(\omega+\omega_{0})] & \\[4pt]
+10 & \sin\omega_{0}t
+   & j\pi[\delta(\omega+\omega_{0})-\delta(\omega-\omega_{0})] & \\[4pt]
+11 & u(t) & \pi\delta(\omega)+\dfrac{1}{j\omega} & \\[6pt]
+12 & \operatorname{sgn}t & \dfrac{2}{j\omega} & \\[6pt]
+13 & \cos\omega_{0}t\,u(t)
+   & \dfrac{\pi}{2}[\delta(\omega-\omega_{0})+\delta(\omega+\omega_{0})]
+     +\dfrac{j\omega}{\omega_{0}^{2}-\omega^{2}} & \\[8pt]
+14 & \sin\omega_{0}t\,u(t)
+   & \dfrac{\pi}{2j}[\delta(\omega-\omega_{0})-\delta(\omega+\omega_{0})]
+     +\dfrac{\omega_{0}}{\omega_{0}^{2}-\omega^{2}} & \\[8pt]
+15 & e^{-at}\sin\omega_{0}t\,u(t)
+   & \dfrac{\omega_{0}}{(a+j\omega)^{2}+\omega_{0}^{2}} & a>0\\[8pt]
+16 & e^{-at}\cos\omega_{0}t\,u(t)
+   & \dfrac{a+j\omega}{(a+j\omega)^{2}+\omega_{0}^{2}} & a>0\\[8pt]
+17 & \operatorname{rect}\!\left(\dfrac{t}{\tau}\right)
+   & \tau\operatorname{sinc}\!\left(\dfrac{\omega\tau}{2}\right) & \\[8pt]
+18 & \dfrac{W}{\pi}\operatorname{sinc}(Wt)
+   & \operatorname{rect}\!\left(\dfrac{\omega}{2W}\right) & \\[8pt]
+19 & \Lambda\!\left(\dfrac{t}{\tau}\right)
+   & \dfrac{\tau}{2}\operatorname{sinc}^{2}\!\left(\dfrac{\omega\tau}{4}\right) & \\[8pt]
+20 & \dfrac{W}{2\pi}\operatorname{sinc}^{2}\!\left(\dfrac{Wt}{2}\right)
+   & \Lambda\!\left(\dfrac{\omega}{2W}\right) & \\[8pt]
+21 & \displaystyle\sum_{n=-\infty}^{\infty}\delta(t-nT)
+   & \displaystyle\omega_{0}\sum_{n=-\infty}^{\infty}\delta(\omega-n\omega_{0})
+   & \displaystyle\omega_{0}=\frac{2\pi}{T}\\[10pt]
+22 & e^{-t^{2}/(2\sigma^{2})}
+   & \sigma\sqrt{2\pi}\,e^{-\sigma^{2}\omega^{2}/2} &
+\end{array}
+\]

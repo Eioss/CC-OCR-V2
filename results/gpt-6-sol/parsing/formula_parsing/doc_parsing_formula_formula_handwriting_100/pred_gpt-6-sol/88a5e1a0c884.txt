@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+(A-\langle A\rangle)|\psi\rangle
+&=\beta(B-\langle B\rangle)|\psi\rangle,\\
+d^2&=-c(a^2+ab+b^2)=-3x^2y^2,\\
+E(D_n)&=\{vu_i\mid 1\le i\le n\}\cup\{u_iw_i\mid 1\le i\le n\},\\
+\int_B \varphi\circ f_t(x)\,\operatorname{Leb}_B(dt)&=\varphi(x),\\
+t^*(\lambda)&=\min\{k\in\mathbb N:d_H(\Delta\nu,N),\ k>4\}
+=\frac{\pi}{\lambda}+O(1),\\
+E_{n,m'}&=
+\frac{-m\lambda^4+32\eta^3\!\left(m'^2+4(1+\eta)^2+(\varepsilon_1+\varepsilon_2)^2
++4\sqrt{m'^2+(\varepsilon_1+\varepsilon_2)^2(1+\eta)}\right)}
+{(\lambda^2-4\eta w)^2}
++\frac{8m\eta w(\lambda^2-2\eta w)}{(\lambda^2-4\eta w)^2},\\
+g_j(x)&:=\lim_{t\to0^+}\left(
+g_j(x+it)-\frac{2\operatorname{arctanh}(1/\sqrt3)}{\pi|C_x|t}
+\Phi M_x^{-1}(j,0)\right),\\
+\widehat L[w]&:=M^-(D^2w)-\widehat b\,|Dw|,
+\qquad
+\widehat b=b+2\mu_2\|Du_0\|_\infty.
+\end{aligned}
+\]

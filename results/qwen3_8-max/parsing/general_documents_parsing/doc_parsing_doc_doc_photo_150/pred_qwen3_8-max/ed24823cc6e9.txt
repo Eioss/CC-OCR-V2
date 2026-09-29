@@ -1,0 +1,131 @@
+Based on the image provided, here is the transcription of the text, tables, and diagrams into LaTeX format.
+
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{tikz}
+\usetikzlibrary{shapes, arrows, positioning, fit, backgrounds}
+\usepackage{amsmath}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{民法主观题知识点 + 小案例}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \begin{tabular}{|c|p{12cm}|}
+        \hline
+         & \textbf{问 4：} 丙公司与戊公司签订房产买卖合同效力如何？为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+        \hline
+        \multirow{3}{*}{2010 年} & \textbf{问 2：} 甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？（多重买卖不影响买卖合同效力） \\
+        \cline{2-2}
+         & \textbf{问 6：} 甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？（被代理人以履行合同的方式追认无权代理） \\
+        \cline{2-2}
+         & \textbf{问 7：} 丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？（无权处分不影响买卖合同的效力） \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+    \Large \textbf{第一节 \quad 合同的成立}
+\end{center}
+
+\vspace{0.5cm}
+
+% Diagram Recreation using TikZ
+\begin{center}
+    \begin{tikzpicture}[
+        node distance=1.5cm and 1cm,
+        box/.style={rectangle, draw, rounded corners, minimum width=2cm, minimum height=1cm, align=center},
+        arrow/.style={->, >=stealth, thick},
+        brace/.style={decorate, decoration={brace, amplitude=10pt}}
+    ]
+
+    % Top Boxes
+    \node[box, text width=3cm] (fact) {事实判断 \\ 1.当事人 \\ 2.意思表示 \\ 3.标的};
+    \node[box, right=of fact, text width=4cm] (value) {价值判断 \\ 1.民事行为能力 \\ 2.意思表示真实、自由 \\ 3.不违反强制性规定、\\ 不违背公序良俗};
+
+    % Middle Layer
+    \node[box, below=2cm of fact] (not_established) {不成立};
+    \node[box, below=of not_established] (established) {成立};
+    
+    \node[box, below=2cm of value] (valid) {有效};
+    \node[box, below=of valid] (defect) {效力瑕疵};
+
+    % Left Label
+    \node[box, left=of established, xshift=-2cm] (civil_act) {民事法律行为};
+
+    % Right Layer (Effective/Not Effective)
+    \node[box, right=of valid, yshift=1cm] (effective) {生效};
+    \node[box, right=of valid, yshift=-1cm] (not_effective) {未生效};
+    
+    \node[box, right=of effective, xshift=1cm] (most_contracts) {大多数合同、婚姻};
+    
+    \node[text width=3cm, align=left, right=of not_effective, xshift=0.5cm] (conditions) {附延缓条件 \\ 附始期 \\ 需要审批 \\ 遗嘱};
+
+    % Defect Sub-nodes
+    \node[text width=2cm, align=left, right=of defect, xshift=0.5cm] (defect_types) {无效 \\ 可撤销 \\ 效力待定};
+
+    % Arrows and Lines
+    \draw[arrow] (fact) -- (not_established);
+    \draw[arrow] (value) -- (valid);
+    
+    % Braces for Civil Act
+    \draw [decorate, decoration={brace, amplitude=10pt}] (not_established.north east) -- (established.south east) node [midway, right, xshift=10pt] {};
+    \draw[arrow] (civil_act) -- ++(2,0) |- (not_established);
+    \draw[arrow] (civil_act) -- ++(2,0) |- (established);
+    
+    % Actually, the diagram shows a brace connecting "Civil Legal Act" to "Not Established" and "Established".
+    % Let's redraw the structure to match the visual flow better.
+    
+    \end{tikzpicture}
+    
+    % Since TikZ can be complex to perfectly match the hand-drawn style braces in a quick transcription, 
+    % I will use a simplified structural representation or describe it if exact visual match is too verbose.
+    % However, the prompt asks for LaTeX format. I will provide a structured text representation 
+    % that captures the logic flow clearly, as exact TikZ replication of the specific brace style 
+    % might be overkill and prone to rendering issues without specific packages.
+    
+    % Alternative: Use a nested list or a simpler flowchart description.
+    % But let's try to make a clean TikZ version that represents the logic.
+\end{center}
+
+% Re-doing the diagram logic more simply for clarity in text-based LaTeX output
+\begin{center}
+    \textbf{【民事法律行为成立、有效、生效关系图】}
+\end{center}
+
+\begin{center}
+    \begin{tabular}{ccc}
+        \begin{tabular}{|c|} \hline 事实判断 \\ 1.当事人 \\ 2.意思表示 \\ 3.标的 \\ \hline \end{tabular} & $\rightarrow$ & \begin{tabular}{c} 民事法律行为 $\rightarrow$ \begin{tabular}{l} 不成立 \\ 成立 \end{tabular} \end{tabular} \\
+        & & $\downarrow$ \\
+        \begin{tabular}{|c|} \hline 价值判断 \\ 1.民事行为能力 \\ 2.意思表示真实、自由 \\ 3.不违反强制性规定、\\ 不违背公序良俗 \\ \hline \end{tabular} & $\rightarrow$ & \begin{tabular}{l} 有效 $\rightarrow$ \begin{tabular}{l} 生效 $\rightarrow$ 大多数合同、婚姻 \\ 未生效 $\rightarrow$ \begin{tabular}{l} 附延缓条件 \\ 附始期 \\ 需要审批 \\ 遗嘱 \end{tabular} \end{tabular} \\ 效力瑕疵 $\rightarrow$ \begin{tabular}{l} 无效 \\ 可撤销 \\ 效力待定 \end{tabular} \end{tabular}
+    \end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\vspace{0.5cm}
+
+\subsection*{一、合同的订立：要约与承诺}
+
+\subsubsection*{（一）要约}
+
+要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+\begin{enumerate}
+    \item 向希望与之订立合同的受要约人作出。
+    \item 内容具体且确定：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+    \item 具有订立合同的目的并表明一经承诺即受拘束的意思。
+\end{enumerate}
+
+\end{document}
+```

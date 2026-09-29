@@ -1,0 +1,55 @@
+\[
+\text{\bfseries Verification of the Formula for Hydrated Salt Data Sheet}
+\]
+
+\[
+\begin{array}{ll}
+\text{Name} & \underline{\hspace{4cm}}\\
+\text{Partner's Name} & \underline{\hspace{4cm}}\\
+\text{Hydrated salt you were given} & \underline{\mathrm{CuSO_4\cdot 2H_2O}}
+\end{array}
+\]
+
+\[
+\begin{array}{|p{6.5cm}|c|c|c|}
+\hline
+ & \text{Trial 1} & \text{Trial 2} & \text{Trial 3}\\ \hline
+\text{Mass of crucible and lid (g)} & 28.366\,\mathrm{g} & 26.247\,\mathrm{g} & \\ \hline
+\text{Mass of crucible, lid, and hydrated salt BEFORE heating (g)}
+ & 33.73\,\mathrm{g} & 30.200\,\mathrm{g} & \\ \hline
+\text{Mass of hydrated salt (g)} & 5.382\,\mathrm{g} & 3.953\,\mathrm{g} & \\ \hline
+\text{Mass of crucible, lid, salt AFTER heating (g)}
+ & 32.656\,\mathrm{g} & 29.630\,\mathrm{g} & \\ \hline
+\text{Mass of anhydrous salt (g)} & 4.33\,\mathrm{g} & 3.143\,\mathrm{g} & \\ \hline
+\text{Moles of anhydrous salt (mole)} & 0.03105 & 0.02530 & \\ \hline
+\text{Mass of water of crystallization removed (g)}
+ & 1.057\,\mathrm{g} & 0.810\,\mathrm{g} & \\ \hline
+\text{Moles of water of crystallization removed (mole)}
+ & 0.0587 & 0.0450 & \\ \hline
+\end{array}
+\]
+
+\[
+\begin{array}{|p{6.5cm}|c|c|c|}
+\hline
+\text{Ratio moles water : moles salt} & ? & ? & \\ \hline
+\end{array}
+\qquad
+\begin{array}{|p{5cm}|c|c|}
+\hline
+ & \text{Individual} & \text{Class}\\ \hline
+\text{Average Ratio} & ? & \\ \hline
+\text{Standard Deviation} & & \times\\ \hline
+\text{Relative Standard Deviation (\%)} & ? & \times\\ \hline
+\end{array}
+\]
+
+\[
+\text{The Chemical Formula for the hydrate is }
+\underline{\hspace{4cm}}\;?
+\]
+
+\[
+\text{This document was prepared by D. Finneran, J. Terney.}
+\qquad 45
+\]

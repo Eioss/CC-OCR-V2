@@ -1,0 +1,93 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="7" style="text-align:center; font-size:20px;">附页</td>
+    <td style="text-align:right;">224820221000057428001</td>
+   </tr>
+   <tr>
+    <th>序号</th>
+    <th>货物品名</th>
+    <th>品牌</th>
+    <th>原产国</th>
+    <th>规格</th>
+    <th>数/重量</th>
+    <th colspan="2">生产日期(批号)</th>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td>冷冻牛骨/冷冻牛肋<br/>眼骨FROZEN BONES<br/>CUBE ROLL BONE</td>
+    <td>***</td>
+    <td>乌拉圭</td>
+    <td>***</td>
+    <td>**4500千克</td>
+    <td colspan="2">(20220216、20220217、<br/>20220218、20220219、<br/>20220221、20220222、<br/>20220223、20220224)</td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>冷冻牛骨/冷冻牛腰<br/>椎骨FROZEN BONES<br/>LUMBAR BONE</td>
+    <td>***</td>
+    <td>乌拉圭</td>
+    <td>***</td>
+    <td>**13500千克</td>
+    <td colspan="2">(20220216、20220217、<br/>20220218、20220219、<br/>20220221、20220222、<br/>20220223)</td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>冷冻牛骨/冷冻牛肩<br/>部脊椎骨FROZEN<br/>BONES CHUCK BONE</td>
+    <td>***</td>
+    <td>乌拉圭</td>
+    <td>***</td>
+    <td>**7000千克</td>
+    <td colspan="2">(20220216、20220217、<br/>20220218、20220219、<br/>20220221、20220222、<br/>20220223)</td>
+   </tr>
+   <tr>
+    <td colspan="8" style="text-align:center;">********</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

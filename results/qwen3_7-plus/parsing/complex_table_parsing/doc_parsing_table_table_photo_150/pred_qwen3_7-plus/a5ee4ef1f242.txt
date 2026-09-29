@@ -1,0 +1,83 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Randell Limited Income Statement</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        .right-align {
+            text-align: right;
+        }
+        .double-underline {
+            border-bottom: 3px double black;
+        }
+        .single-underline {
+            border-bottom: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align: center;">Randell Limited<br>Income Statement<br>For the Year ended December 31, 2018</h2>
+    <table>
+        <tr>
+            <td>Sales</td>
+            <td class="right-align">$ 818,000</td>
+        </tr>
+        <tr>
+            <td>Cost of goods sold</td>
+            <td class="right-align single-underline">$ 438,000</td>
+        </tr>
+        <tr>
+            <td>Gross profit</td>
+            <td class="right-align">$ 380,000</td>
+        </tr>
+        <tr>
+            <td>Less:</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;Depreciation expense</td>
+            <td class="right-align">$ 28,000</td>
+        </tr>
+        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;Selling, general and other admin expenses</td>
+            <td class="right-align single-underline">$ 298,000</td>
+        </tr>
+        <tr>
+            <td>Income from operations</td>
+            <td class="right-align">$ 54,000</td>
+        </tr>
+        <tr>
+            <td>Loss on equipment sale</td>
+            <td class="right-align single-underline">$ 6,000</td>
+        </tr>
+        <tr>
+            <td>Income before income taxes</td>
+            <td class="right-align">$ 48,000</td>
+        </tr>
+        <tr>
+            <td>Income tax expense</td>
+            <td class="right-align single-underline">$ 24,000</td>
+        </tr>
+        <tr>
+            <td>Net Income</td>
+            <td class="right-align double-underline">$ 24,000</td>
+        </tr>
+    </table>
+</body>
+</html>
+```

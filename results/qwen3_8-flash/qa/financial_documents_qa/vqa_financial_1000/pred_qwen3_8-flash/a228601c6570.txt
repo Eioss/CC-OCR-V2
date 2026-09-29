@@ -1,0 +1,7 @@
+Based on the provided report, here is how to find the transaction identification number for telephone charges:
+
+1.  Locate the row with the description **"TELEPHONE CHARGES"** (it is item #10 in the list).
+2.  Follow that row across to the column labeled **"TRANS IDENTIFICATION"**.
+3.  The value listed in that column for that row is **60-000853**.
+
+**Answer:** 60-000853

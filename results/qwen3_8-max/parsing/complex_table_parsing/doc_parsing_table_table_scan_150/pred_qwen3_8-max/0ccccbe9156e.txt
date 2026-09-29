@@ -1,0 +1,59 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: right;">
+  <tr>
+    <td style="text-align: left;"><b>二、投资活动</b></td>
+    <td><b>2018年1月-6月</b></td>
+    <td><b>2017年1月-6月</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">收回投资收到的现金</td>
+    <td>-</td>
+    <td>8, 358, 813</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">取得投资收益收到的现金</td>
+    <td>1, 365, 633</td>
+    <td>4, 902, 030</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">收到的其他与投资活动有关的现金</td>
+    <td>476, 270, 200</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;"><b>投资活动现金流入小计</b></td>
+    <td><u><b>477, 635, 833</b></u></td>
+    <td><u><b>13, 260, 843</b></u></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">购置固定资产、无形资产及其他长期<br>资产支付的现金</td>
+    <td>3, 254, 085</td>
+    <td>7, 411, 605</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">投资支付的现金</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">取得子公司及其他营业单位支付的<br>现金净额</td>
+    <td>-</td>
+    <td>11, 035, 027</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">支付的其他与投资活动有关的现金</td>
+    <td>-</td>
+    <td>538, 401, 300</td>
+  </tr>
+  <tr>
+    <td style="text-align: left;"><b>投资活动现金流出小计</b></td>
+    <td><u><b>3, 254, 085</b></u></td>
+    <td><u><b>556, 847, 932</b></u></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;"><b>投资活动产生的现金流量净额</b></td>
+    <td><u><b>474, 381, 748</b></u></td>
+    <td><u><b>-543, 587, 089</b></u></td>
+  </tr>
+</table>
+```

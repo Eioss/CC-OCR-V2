@@ -1,0 +1,93 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_187_129_234_216.jpg" alt="Image" width="6%" /></div>
+
+<h2 style="text-align: center;">发放批次表 / 场馆预约表</h2>
+<p style="text-align: right;">公示编号/发布日期</p>
+
+<p>单位：岚原省云栖市极光云栖城市运营有限公司<br/>
+负责人：蒋若溪<br/>
+联系电话：15007684690<br/>
+位置/地址：澄岳省北屿市西岭区青岚街226号 13栋</p>
+
+<p style="text-align: right;">文档编号 RB-403913<br/>
+日期 2025-10-06</p>
+
+<table border="1">
+    <tr>
+        <th colspan="7" style="background-color: #4F81BD; color: white;">环境监测公示</th>
+    </tr>
+    <tr>
+        <th colspan="4">环境监测</th>
+        <th colspan="3">监测数据/阈值判定</th>
+    </tr>
+    <tr>
+        <th rowspan="4" style="writing-mode: vertical-rl; text-orientation: upright;">点位监测</th>
+        <th>点位</th>
+        <th>采样时</th>
+        <th>指标</th>
+        <th>数值</th>
+        <th>阈值</th>
+        <th>超标</th>
+    </tr>
+    <tr>
+        <td>河道边</td>
+        <td>16:10</td>
+        <td>TVOC</td>
+        <td>24</td>
+        <td>1.5</td>
+        <td>否</td>
+    </tr>
+    <tr>
+        <td>机房侧</td>
+        <td>08:30</td>
+        <td>浊度</td>
+        <td>24</td>
+        <td>1.5</td>
+        <td>否</td>
+    </tr>
+    <tr>
+        <td>大厅角</td>
+        <td>14:20</td>
+        <td>甲醛</td>
+        <td>0.03</td>
+        <td>0.08</td>
+        <td>否</td>
+    </tr>
+    <tr>
+        <th colspan="7" style="background-color: #4F81BD; color: white;">处置与复测</th>
+    </tr>
+    <tr>
+        <th rowspan="4" style="writing-mode: vertical-rl; text-orientation: upright;">处置闭环</th>
+        <th>处置</th>
+        <th>责任</th>
+        <th>时限</th>
+        <th>复测</th>
+        <th>结果</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td>更换滤芯(QC)</td>
+        <td>运维组</td>
+        <td>当日</td>
+        <td>√</td>
+        <td>通过</td>
+        <td>留痕</td>
+    </tr>
+    <tr>
+        <td>冲洗管线</td>
+        <td>物业</td>
+        <td>当日</td>
+        <td>√</td>
+        <td>待复测</td>
+        <td>留痕</td>
+    </tr>
+    <tr>
+        <td>设备调试</td>
+        <td>厂商ID</td>
+        <td>48h</td>
+        <td>×</td>
+        <td>待定</td>
+        <td>需ETA</td>
+    </tr>
+</table>
+
+<div style="text-align: right;"><img src="imgs/img_in_image_box_742_839_786_923.jpg" alt="QR Code" width="6%" /></div>

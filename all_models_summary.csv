@@ -7,10 +7,16 @@ On-Server LMMs,gpt-5_4-0305-global,72.35,62.59,11.76,57.94,78.82,56.69
 On-Server LMMs,qwen-vl-max-latest,81.77,54.92,3.70,64.40,83.33,57.62
 On-Server LMMs,claude-opus-4-6-20260205,80.74,58.69,7.69,63.00,84.09,58.84
 On-Server LMMs,claude-sonnet-4-6,82.90,61.84,7.87,63.02,83.52,59.83
+On-Server LMMs,claude-opus-4-8,83.01,65.39,2.59,67.10,86.75,60.97
 On-Server LMMs,gemini-3_1-flash-lite-preview,93.61,64.67,7.33,62.17,79.41,61.44
+On-Server LMMs,gpt-5_5,77.05,63.68,41.15,63.46,78.62,64.79
 On-Server LMMs,gemini-3_1-pro-preview,93.99,66.51,37.07,69.38,83.98,70.19
 On-Server LMMs,kimi-k2_6,84.74,67.61,56.70,66.73,88.50,72.86
 On-Server LMMs,doubao-seed-2-0-pro-260215,92.48,66.78,58.67,63.80,83.11,72.97
 On-Server LMMs,kimi-k2_5,87.26,67.94,55.64,67.13,88.74,73.34
+On-Server LMMs,gpt-6-sol,87.31,68.27,74.80,60.39,78.54,73.86
 On-Server LMMs,qwen3_5-plus,91.11,61.92,64.65,68.27,86.75,74.54
+On-Server LMMs,qwen3_8-flash,91.66,63.92,68.54,68.54,86.19,75.77
+On-Server LMMs,qwen3_7-plus,91.23,64.31,69.57,68.53,87.49,76.23
 On-Server LMMs,qwen3_6-plus,92.31,64.97,69.37,68.48,87.34,76.50
+On-Server LMMs,qwen3_8-max,94.10,68.82,76.19,73.27,87.93,80.06

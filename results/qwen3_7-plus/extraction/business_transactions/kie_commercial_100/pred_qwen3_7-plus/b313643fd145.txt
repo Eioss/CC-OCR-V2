@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "10/04/2021",
+    "order_id": "7135649",
+    "vendor_name": "WZID-FM",
+    "vendor_address": "500 COMMERCIAL ST. MANCHESTER, NH 03101",
+    "customer_billing_name": "KATZ MEDIA GROUP",
+    "customer_billing_address": "125 WEST 55TH ST 3RD FL NEW YORK, NY 10019",
+    "amount_total_gross": "$8,025.00",
+    "amount_due": "$6,821.25",
+    "payment_terms": "NET 30 DAYS"
+}
+```

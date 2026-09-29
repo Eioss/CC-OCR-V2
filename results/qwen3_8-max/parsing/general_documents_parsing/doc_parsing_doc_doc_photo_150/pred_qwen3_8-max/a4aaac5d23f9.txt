@@ -1,0 +1,140 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \\
+    \vspace{0.5cm}
+    \textbf{\huge 11} \quad \textbf{th Std.} \hfill \textbf{Standard - 11} \hfill Reg. No \fbox{\phantom{000000}} \\
+    \vspace{0.5cm}
+    \textbf{\large PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent Time Allowed: 2.30 Hours \hfill Maximum Marks: 70
+
+\vspace{0.5cm}
+
+\noindent \textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\noindent \textbf{Answer the following questions:} \hfill \textbf{15$\times$1=15}
+
+\begin{enumerate}
+    \item The \underline{\hspace{1cm}} patterns of questions are commonly known as interrogative sentences.
+    \begin{enumerate}[label=\alph*)]
+        \item 4
+        \item 3
+        \item 2
+        \item 5
+    \end{enumerate}
+
+    \item A cruise is a journey on a \underline{\hspace{1cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item ferry
+        \item ocean lines
+        \item ship
+        \item boat
+    \end{enumerate}
+
+    \item An information paper document is
+    \begin{enumerate}[label=\alph*)]
+        \item brochure
+        \item pamphlet
+        \item itinerary
+        \item notice
+    \end{enumerate}
+
+    \item The pair of words 'united-untied' is an example of
+    \begin{enumerate}[label=\alph*)]
+        \item homograph
+        \item contranyms
+        \item homophones
+        \item antigrams
+    \end{enumerate}
+
+    \item A \underline{\hspace{1cm}} is a short informal performance intended to educate or inform.
+    \begin{enumerate}[label=\alph*)]
+        \item play
+        \item parody
+        \item skit
+        \item drama
+    \end{enumerate}
+
+    \item The association of one word with 'multiple meanings' is known as \underline{\hspace{1cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item polygenesis
+        \item polysemy
+        \item polycentric
+        \item polynomial
+    \end{enumerate}
+
+    \item The process of reading quickly to get the specific information from a given text.
+    \begin{enumerate}[label=\alph*)]
+        \item decoding
+        \item scanning
+        \item encoding
+        \item skimming
+    \end{enumerate}
+
+    \item One who treats old people
+    \begin{enumerate}[label=\alph*)]
+        \item geriatrician
+        \item pediatrician
+        \item neurologist
+        \item pathologist
+    \end{enumerate}
+
+    \item Epistaxis means
+    \begin{enumerate}[label=\alph*)]
+        \item gum disease
+        \item iron deficiency
+        \item nose bleed
+        \item feverishness
+    \end{enumerate}
+
+    \item Bluefin is a type of \underline{\hspace{1cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item bass
+        \item cod
+        \item gold
+        \item tuna
+    \end{enumerate}
+
+    \item Hud Hud cyclone is named after a bird \underline{\hspace{1cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item Hawk
+        \item Heron
+        \item Hoopoe
+        \item Hainan
+    \end{enumerate}
+\end{enumerate}
+
+\vfill
+
+\begin{center}
+    \small \textcolor{blue}{Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com}
+\end{center}
+
+\end{document}
+```

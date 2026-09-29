@@ -1,0 +1,17 @@
+Based on the infographic “Cancer in Women” (March 8th, 2014), we can calculate the percentage of women **over the age of 50** who have incidence of cancer by summing the percentages for the relevant age groups shown in the “Incidence by Age” pie chart:
+
+- **50 to 64 yrs**: 27%
+- **65 to 74 yrs**: 25%
+- **Over 74 yrs**: 30%
+
+Adding these together:
+
+> 27% + 25% + 30% = **82%**
+
+Alternatively, since the chart states that **18% of cancers in women occur before the age of 50**, then the remaining percentage must be for those **aged 50 and over**:
+
+> 100% - 18% = **82%**
+
+---
+
+✅ **Final Answer: 82%**

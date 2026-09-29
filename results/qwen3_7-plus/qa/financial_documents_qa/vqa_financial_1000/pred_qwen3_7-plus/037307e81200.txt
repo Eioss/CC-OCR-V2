@@ -1,0 +1,21 @@
+Based on the provided pay statement image, the amount for **FED. W.T.** (Federal Withholding Tax) is:
+
+**1037.36**
+
+This value is located in the column labeled "FED. W.T." under the section "AND WE HAVE DEDUCTED THE ABOVE AMOUNTS FOR YOU".
+
+---
+
+**Breakdown of relevant columns from left to right:**
+
+- **TOTAL PAY**: 3333.00
+- **SOC. SEC.**: (blank or not filled)
+- **FED. W.T.**: **1037.36**
+- **STATE W.T.**: 80.00
+- **CITY W.T.**: 15.25
+- **NET AMOUNT**: 2200.39
+
+The net amount (2200.39) is consistent with subtracting the deductions from total pay:
+> 3333.00 - 1037.36 - 80.00 - 15.25 = **2200.39**
+
+✅ So, the FED. W.T. amount is **1037.36**.

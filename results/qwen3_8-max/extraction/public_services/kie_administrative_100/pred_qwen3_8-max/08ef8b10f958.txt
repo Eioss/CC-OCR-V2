@@ -1,0 +1,10 @@
+```json
+{
+    "address": "P.O. Box 5979, Boston, MA 02114 P.O. Box 5979, Boston, MA 02114",
+    "date": "10/26/92 10/30/92",
+    "amount_or_value**": "28, 482.00 19, 603.00",
+    "total_expenditures_or_disbursements_on_this_report": "48, 085.00",
+    "total_expenditures_for_disbursements_previously_reported": "508, 789.00",
+    "total_expenditures_or_disbursements_to_date": "556, 874.00"
+}
+```

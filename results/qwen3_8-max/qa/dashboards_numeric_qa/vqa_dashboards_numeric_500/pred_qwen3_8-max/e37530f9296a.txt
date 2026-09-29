@@ -1,0 +1,16 @@
+Based on the information provided in the infographic, the fatality rate is calculated using a specific formula from the Bureau of Labor Statistics.
+
+According to the footnote at the bottom of the image:
+
+> "The fatality rate is per 100,000 full-time workers or equivalent, based on the Bureau of Labor Statistics' formula. The formula is the number of fatal injuries divided by number of hours worked by all employees during the calendar year, then multiplied by 200,000,000."
+
+**In simpler terms:**
+
+1.  Take the total **number of fatal injuries** for a specific occupation or industry in a given year.
+2.  Divide that by the total **number of hours worked** by all employees in that occupation or industry during the same year.
+3.  Multiply the result by **200,000,000**.
+
+This calculation standardizes the rate to represent the number of fatalities per 100,000 full-time equivalent workers (since 200,000,000 hours is approximately the number of hours worked by 100,000 full-time workers in a year, assuming 2,000 hours per worker).
+
+So, the formula is:
+**Fatality Rate = (Number of Fatal Injuries / Total Hours Worked) * 200,000,000**

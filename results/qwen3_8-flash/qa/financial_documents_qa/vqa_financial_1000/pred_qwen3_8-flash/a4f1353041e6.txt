@@ -1,0 +1,6 @@
+Based on the provided image of the American Airlines ticket, the carrier code is **AA**.
+
+This can be seen in several places:
+1.  In the "CARRIER" column for each flight segment (e.g., AA 577Y, AA 232Y).
+2.  The airline name printed prominently is "American Airlines", whose IATA code is AA.
+3.  The logo next to "American Airlines" also shows the letters "AA".

@@ -1,0 +1,19 @@
+Based on the infographic provided, under the section titled **"SEARCH ENGINE BASICS"**, it states:
+
+> "All modern search engines use the same basic approach to organizing websites"
+
+The three approaches shown with icons and descriptions are:
+
+1.  **CRAWLING**  
+    *Search engines follow links to browse the 60 trillion (and growing) pages that make up the web.*
+
+2.  **SORTING**  
+    *Results get sorted by a variety of factors (more on this in a second!)*
+
+3.  **INDEXING**  
+    *Sorted pages get stored in an index so search engines can match queries with results faster.*
+
+---
+
+✅ Therefore, the three basic approaches for organizing a network (specifically, how search engines organize websites) are:  
+**Crawling, Sorting, and Indexing.**

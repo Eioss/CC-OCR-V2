@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "2020-09-25",
+    "Arrival Date": "2020-09-23",
+    "Total Amount": "1,000.00",
+    "Name": "蒋冬梅",
+    "Balance": "1,000.00 CNY",
+    "Address": "天津市沽县南湖钟路J座881612",
+    "Hotel Name": "信诚致远信息酒店"
+}
+```

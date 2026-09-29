@@ -1,0 +1,30 @@
+```html
+<html><body>
+<table border="1" data-bbox="168 152 826 793">
+<tr>
+<td>A. Main Dimensions<br/>(i) LOA (m)<br/>(ii) Length between perpendiculars (m)<br/>(iii) Deadweight capacity (DWT) (mts)<br/>(iv) Design draft (m)</td>
+<td>B. cargo capacity<br/>(i) Cubic capacity<br/>(ii) Rold capacity</td>
+<td>B2. TEU carrying capacity(state number of containers)<br/>(i) Total on deck<br/>a. 20' /40' /45' TEU<br/>b. No. of reefers<br/>(ii) Total under deck<br/>a. 20' /40' /45' TEU<br/>b. No. of reefers</td>
+</tr>
+<tr>
+<td>Main engine<br/>(i) Maker/Type<br/>(ii) Max. continuous rating (kilowatts at MCR)<br/>(iii) RPM at MCR<br/>(iv) Specific Fuel Oil Consumption at MCR</td>
+<td colspan="2">D. Average speed<br/>(i) Service speed (knot)at design draft<br/>E. Other matters (optional )</td>
+</tr>
+<tr>
+<td>5. BUILDER's Hull Number</td>
+<td colspan="2">6. Flag State</td>
+</tr>
+<tr>
+<td>7. Classification Society/Class character</td>
+<td colspan="2">8. Contract Price and Currency<br/>(a) Price<br/>(b) Currency</td>
+</tr>
+<tr>
+<td>9. Contractual Date of Delivery</td>
+<td colspan="2" rowspan="2">10. Payments<br/>1st installment<br/>2nd installment<br/>3rd installment<br/>4th installment</td>
+</tr>
+<tr>
+<td>11. BUILDER's Bank Account Data<br/>Name:<br/>Address:<br/>Country:</td>
+</tr>
+</table>
+</body></html>
+```

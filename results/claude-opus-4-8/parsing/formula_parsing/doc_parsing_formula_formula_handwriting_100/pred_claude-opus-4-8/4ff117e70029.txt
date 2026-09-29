@@ -1,0 +1,17 @@
+$$\langle P_N(\mathrm{Id}-\Delta_{-1})u_N - \rho u_{HF}, \psi \rangle = \langle P_N((\mathrm{Id}-\Delta_{-1})u_N - u_{HF}), \psi \rangle + \langle \rho - P_N, \psi u_{HF} \rangle.$$
+
+$$D_T := (0,T)\times D, \quad \partial D_T := (0,T)\times \partial D, \quad R_T^n := (0,T)\times \mathbb{R}^n.$$
+
+$$\liminf_{\varepsilon \to 0} \sum_{j=0}^{m} \int_{S_\varepsilon^j} G_\varepsilon^j \,|\,[(u_\varepsilon)_T] S_\varepsilon^j\,|\,d\sigma(x) \geqslant \sum_{j=0}^{m} \langle G^j, |[U_T]_{S^j} + \gamma_T^j|\rangle_{C_e(w\times S^j),\, M(w\times S^j)}$$
+
+$$A_\infty = \lim_{k\to\infty} A_k = \lim_{k\to\infty}\sum_{i=1}^{d} x_{ki}^{\otimes m} = \sum_{i=1}^{d} x_{\infty i}^{\otimes m} \in C\mathbb{P}^{n,m}(K),$$
+
+$$\gamma := \max\{r_i\}_{i\in\{1,\cdots,m\}}$$
+
+$$A_\gamma \circ M_x = A_x, \quad A_{-x}\circ C = A_x$$
+
+$$a\{n\} = (a_2)\cdots(a_k)$$
+
+$$V(\varepsilon_1,\varepsilon_2) = V\setminus(\{|z|<\varepsilon_1\}\cup\{|\varsigma|<\varepsilon_2\}).$$
+
+$$\frac{a_2^3}{a_2^3 - 27a_3^2} \searrow -\infty \text{ as } A\searrow 0 \text{ and } \frac{a_2^3}{a_2^3 - 27a_3^2} \nearrow 1 \text{ as } A\nearrow\infty.$$

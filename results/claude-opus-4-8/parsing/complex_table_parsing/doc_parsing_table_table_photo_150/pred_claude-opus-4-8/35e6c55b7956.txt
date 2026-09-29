@@ -1,0 +1,27 @@
+<table>
+  <tr>
+    <td><em>Type</em></td>
+    <td><em>Parametric form</em></td>
+    <td><em>Parameter range</em></td>
+  </tr>
+  <tr>
+    <td>Power exponential</td>
+    <td>C(t) = exp(&minus;&beta;t<sup>&alpha;</sup>)</td>
+    <td>0 &lt; &alpha; &le; 1, &beta; &gt; 0.</td>
+  </tr>
+  <tr>
+    <td>Mat&eacute;rn</td>
+    <td>C(t) = (&beta;t)<sup>&alpha;</sup> K<sub>&alpha;</sub>(&beta;t)</td>
+    <td>0 &lt; &alpha; &le; &frac12;, &beta; &gt; 0.</td>
+  </tr>
+  <tr>
+    <td>Generalized Cauchy</td>
+    <td>C(t) = (&beta;t<sup>&alpha;</sup> + 1)<sup>&minus;&xi;/&alpha;</sup></td>
+    <td>0 &lt; &alpha; &le; 1, &beta;, &xi; &gt; 0.</td>
+  </tr>
+  <tr>
+    <td>Dagum</td>
+    <td>C(t) = [1 &minus; (&beta;t<sup>&alpha;</sup> / (1 + &beta;t<sup>&alpha;</sup>))<sup>&xi;/&alpha;</sup>]</td>
+    <td>0 &lt; &alpha; &le; 1, 0 &lt; &xi; &le; 1, &beta; &gt; 0.</td>
+  </tr>
+</table>

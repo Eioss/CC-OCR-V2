@@ -1,0 +1,233 @@
+```html
+<table>
+  <tr>
+    <td>模型名稱</td>
+    <td>類似位置</td>
+    <td>模型名稱</td>
+    <td>類似位置</td>
+    <td>模型名稱</td>
+    <td>類似位置</td>
+  </tr>
+
+  <tr>
+    <td>BR999-101 成型</td><td>R1-1</td>
+    <td>BR1008-101 下料</td><td>R2-3</td>
+    <td>BR878-102 下料</td><td>R3-4</td>
+  </tr>
+  <tr>
+    <td>BR998-101 下料</td><td>R1-1</td>
+    <td>BR189-101 下料</td><td>R2-3</td>
+    <td>BR878-102 不詳</td><td>R4-1</td>
+  </tr>
+  <tr>
+    <td>BR005-102 挖包</td><td>R1-2</td>
+    <td>BR189-101 下料</td><td>R2-3</td>
+    <td>BR1099-102 下料</td><td>R4-2</td>
+  </tr>
+  <tr>
+    <td>BR003-102 成型</td><td>R1-2</td>
+    <td>BR907-102 下料</td><td>R2-3</td>
+    <td>BR1075-102 成型</td><td>R4-2</td>
+  </tr>
+  <tr>
+    <td>2001-103 捲開窗型</td><td>R1-2</td>
+    <td>BR1025-102 成型</td><td>R2-3</td>
+    <td>BR1035-102 開料</td><td>R4-2</td>
+  </tr>
+  <tr>
+    <td>201389用 接圖角成型</td><td>R1-2</td>
+    <td>BR1035-102 開料</td><td>R2-3</td>
+    <td>BR1035-102 成型</td><td>R4-2</td>
+  </tr>
+  <tr>
+    <td>BR20-101 集合通用成型</td><td>R1-2</td>
+    <td>BR1185-102 成型</td><td>R2-3</td>
+    <td>BR1034-102 成型</td><td>R4-2</td>
+  </tr>
+  <tr>
+    <td>BR322-101 集合通用成型</td><td>R1-2</td>
+    <td>BR1135-102 下料</td><td>R2-3</td>
+    <td>BR1162-102 下料</td><td>R4-3</td>
+  </tr>
+  <tr>
+    <td>BR332-101 集合通用成型</td><td>R1-2</td>
+    <td>BR1135-101 成型</td><td>R2-3</td>
+    <td>BR1035-101 成型</td><td>R4-3</td>
+  </tr>
+  <tr>
+    <td>BR32-101 集合通用成型</td><td>R1-2</td>
+    <td>BR893-102 下料</td><td>R2-4</td>
+    <td>BR160-102 下料</td><td>R4-3</td>
+  </tr>
+  <tr>
+    <td>BR440-101 標準用成型</td><td>R1-3</td>
+    <td>BR893-102 成型</td><td>R2-4</td>
+    <td>BR1023-101 下料</td><td>R4-3</td>
+  </tr>
+  <tr>
+    <td>BR352-101 收邊用成型</td><td>R1-3</td>
+    <td>BR1178-101 成型</td><td>R2-4</td>
+    <td>T9 188 老若異業成型</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>BR1000-101 下料</td><td>R1-3</td>
+    <td>T9 188 老若異業成型</td><td>R2-4</td>
+    <td>T5188 套拉玻成型</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>BR1010-101 成型</td><td>R1-3</td>
+    <td>T5188 套拉玻成型 2</td><td>R2-4</td>
+    <td>BR66-102 下料</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>30-101 標準通用成型</td><td>R1-3</td>
+    <td>BR66-102 下料</td><td>R2-4</td>
+    <td>BR66-102 成型</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>2461212 斜面成型</td><td>R1-3</td>
+    <td>BR66-102 成型</td><td>R2-4</td>
+    <td>BR885-102 下料</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>BR134-102 成型</td><td>R1-4</td>
+    <td>BR885-102 下料</td><td>R2-4</td>
+    <td>BR885-102 成型</td><td>R4-4</td>
+  </tr>
+  <tr>
+    <td>BR181-101 下料</td><td>R1-4</td>
+    <td>BR885-102 成型</td><td>R2-4</td>
+    <td>BR547-102 下料</td><td>R5-1</td>
+  </tr>
+  <tr>
+    <td>BR181-102</td><td>R1-4</td>
+    <td>BR385-102 下料</td><td>R2-4</td>
+    <td>BR772-102 外否成型</td><td>R5-1</td>
+  </tr>
+  <tr>
+    <td>BR179-101 成型</td><td>R1-4</td>
+    <td>BR385-102 成型</td><td>R2-4</td>
+    <td>BR1070-101 門框成型</td><td>R5-1</td>
+  </tr>
+  <tr>
+    <td>BR118-101 下料</td><td>R1-4</td>
+    <td>BR547-102 下料</td><td>R3-1</td>
+    <td>BR1165-102 下料</td><td>R5-1</td>
+  </tr>
+  <tr>
+    <td>BR183-101 成型</td><td>R1-4</td>
+    <td>BR772-102 外否成型</td><td>R3-1</td>
+    <td>BR922-102 下料</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>BR187-101 成型</td><td>R1-4</td>
+    <td>BR1070-101 門框成型</td><td>R3-1</td>
+    <td>BR954-102 下料</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>12 開 接圖用成型</td><td>R1-4</td>
+    <td>BR1165-102 下料</td><td>R3-1</td>
+    <td>BR494-102 成型</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>BR189-102 下料</td><td>R2-1</td>
+    <td>BR922-102 下料</td><td>R3-1</td>
+    <td>BR494-102 成型</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>BR187-102 成型</td><td>R2-1</td>
+    <td>BR290-301 成型</td><td>R3-2</td>
+    <td>BR837-102 成型</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>BR1158-101 下料</td><td>R2-1</td>
+    <td>BR690-301 下料</td><td>R3-2</td>
+    <td>BR143-101 下料</td><td>R5-2</td>
+  </tr>
+  <tr>
+    <td>BR156-101 成型</td><td>R2-1</td>
+    <td>BR690-301 成型一支</td><td>R3-2</td>
+    <td>BR137-101 下料</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR1050-102 下料</td><td>R2-1</td>
+    <td>BR690-401 不詳</td><td>R3-2</td>
+    <td>BR1136-101 下料</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR1051-101 下料</td><td>R2-1</td>
+    <td>BR690-301 成型</td><td>R3-2</td>
+    <td>BR1126-101 成型</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR1051-101 成型</td><td>R2-1</td>
+    <td>BR1024-102 下料</td><td>R3-3</td>
+    <td>BR885-101 成型</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR005-102 成型</td><td>R2-1</td>
+    <td>BR1034-102 成型</td><td>R3-3</td>
+    <td>BR385-101 槽色</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR202-101 下料</td><td>R2-2</td>
+    <td>BR137-101 下料</td><td>R3-3</td>
+    <td>BR385-101 成型</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR204-102 下料</td><td>R2-2</td>
+    <td>BR1136-101 下料</td><td>R3-3</td>
+    <td>BR980-101 成型</td><td>R5-3</td>
+  </tr>
+  <tr>
+    <td>BR159-101 成型</td><td>R2-2</td>
+    <td>BR1126-101 成型</td><td>R3-3</td>
+    <td>BR800-101 切包</td><td>R5-4</td>
+  </tr>
+  <tr>
+    <td>BR159-101 下料</td><td>R2-2</td>
+    <td>BR885-101 成型</td><td>R3-3</td>
+    <td>BR800-101 望口</td><td>R5-4</td>
+  </tr>
+  <tr>
+    <td>BR991-102 成型</td><td>R2-2</td>
+    <td>BR1043-101 成型</td><td>R3-3</td>
+    <td>BR900-101 下料</td><td>R5-4</td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR1043-101 下料</td><td>R3-3</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR780-102 下料</td><td>R3-3</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR1155-101 下料</td><td>R3-4</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR1155-101 成型</td><td>R3-4</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR1154-101 成型</td><td>R3-4</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR972-102 成型</td><td>R3-4</td>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+    <td>BR972-102 下料</td><td>R3-4</td>
+    <td></td><td></td>
+  </tr>
+</table>
+```

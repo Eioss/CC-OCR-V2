@@ -1,0 +1,31 @@
+```json
+[
+	{"bbox_2d": [617, 130, 897, 154], "label": "Address"},
+	{"bbox_2d": [829, 488, 932, 504], "label": "Amount USD"},
+	{"bbox_2d": [194, 787, 538, 800], "label": "Bank Address"},
+	{"bbox_2d": [172, 820, 281, 833], "label": "Bank Key"},
+	{"bbox_2d": [203, 758, 364, 772], "label": "Bank account"},
+	{"bbox_2d": [213, 775, 581, 788], "label": "Bank name"},
+	{"bbox_2d": [615, 113, 902, 127], "label": "Company Name"},
+	{"bbox_2d": [800, 275, 862, 288], "label": "County of Origin"},
+	{"bbox_2d": [791, 291, 880, 305], "label": "Date"},
+	{"bbox_2d": [646, 169, 778, 180], "label": "Fax"},
+	{"bbox_2d": [791, 227, 871, 240], "label": "Invoice No."},
+	{"bbox_2d": [775, 630, 869, 644], "label": "Invoice Total Incl.Tax"},
+	{"bbox_2d": [419, 226, 575, 289], "label": "Invoice to"},
+	{"bbox_2d": [773, 689, 840, 703], "label": "KG Total Gross Weight"},
+	{"bbox_2d": [257, 488, 348, 501], "label": "Novartis Material Code"},
+	{"bbox_2d": [782, 243, 881, 256], "label": "Order No."},
+	{"bbox_2d": [189, 534, 349, 548], "label": "PALLET SIZE"},
+	{"bbox_2d": [677, 156, 846, 168], "label": "Phone"},
+	{"bbox_2d": [711, 488, 765, 501], "label": "Price per Unit USD"},
+	{"bbox_2d": [206, 454, 347, 469], "label": "Product Name"},
+	{"bbox_2d": [555, 488, 652, 502], "label": "Quantity"},
+	{"bbox_2d": [183, 803, 309, 816], "label": "SWIFT code"},
+	{"bbox_2d": [786, 211, 875, 224], "label": "Serial No."},
+	{"bbox_2d": [207, 550, 379, 563], "label": "TOTAL PACKAGES"},
+	{"bbox_2d": [94, 353, 218, 372], "label": "Title"},
+	{"bbox_2d": [773, 669, 840, 683], "label": "Total Net weight KG"},
+	{"bbox_2d": [871, 597, 905, 610], "label": "VAT"}
+]
+```

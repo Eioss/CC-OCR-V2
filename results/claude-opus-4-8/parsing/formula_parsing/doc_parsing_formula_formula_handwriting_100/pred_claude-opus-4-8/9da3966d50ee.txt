@@ -1,0 +1,11 @@
+$$\chi^{j}_{p,\,cyc}\phi\left(\mathcal{L}^{cyc}_{p,\,CM}(\eta)\right)=\Gamma(jt-k\mu,1)\,G(\phi)\frac{p/p^{t}F^{t}}{(-2\pi\sqrt{-1})^{jd}}\cdot\frac{\prod A_{p}(\vartheta(\eta)^{p-st},\phi,j)L(\vartheta(\eta)^{p-st},\phi,j)}{(-\widetilde{\Omega}_{CM,\infty})^{k\mu,2}(-\Omega_{CM,\infty})^{-k\mu,1}}$$
+
+$$y^{T}\mathbb{E}\left[\sum_{r=1}^{m}a_{r}a_{r}^{T}\right]y=\sum_{r=1}^{m}\mathbb{E}\left[\langle a_{r},y\rangle^{2}\right]=\sum_{r=1}^{m}\sum_{j=1}^{d}y_{j}^{2}=\sum_{r=1}^{m}\|y\|^{2}.$$
+
+$$\eta_{T}^{2}:=\left(\sum_{T\in Y}\eta_{T}^{2}\right)^{1/2}\cdot\left(\sum_{T\in Y}h_{T}^{2}\eta_{T}^{2}\right)^{1/2},$$
+
+$$g_{1}\cdots g_{r_{i}}=R_{0}R_{1}\cdots R_{n}$$
+
+$$\nu(\theta,r)=-1 \text{ for } r \text{ near } 0, \quad \nu(\theta,r)=1 \text{ for } r\geqslant Re^{|\theta|}.$$
+
+$$\int_{1}^{\infty}h(y)e^{-\cos^{-1}/(\gamma-1)}\cdot\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}\leq h(1)\int_{1}^{\infty}\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}<\infty,$$

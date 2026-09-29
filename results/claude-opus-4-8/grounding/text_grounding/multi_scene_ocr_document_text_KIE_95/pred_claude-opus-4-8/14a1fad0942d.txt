@@ -1,0 +1,5 @@
+The text '109.70' appears multiple times in this receipt. Here are their locations:
+
+1. Total Inclusive GST 6% line: (684, 1149, 781, 1180)
+2. Rounded Total (highlighted/circled): (672, 1238, 793, 1271)
+3. Cash line: (671, 1310, 766, 1340)

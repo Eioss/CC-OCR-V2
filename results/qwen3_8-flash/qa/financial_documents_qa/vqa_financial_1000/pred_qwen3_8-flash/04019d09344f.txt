@@ -1,0 +1,14 @@
+Based on the provided calendar for **December 2006**:
+
+- The days of the week are labeled across the top: **Sun, Mon, Tue, Wed, Thu, Fri, Sat**.
+- Looking at the first row under these headers:
+  - **Sun** column is empty in the first row.
+  - The first date shown is **Fri 1**, then **Sat 2**.
+- Moving to the next row (second row of dates):
+  - **Sun 3** — this is the first Sunday listed.
+
+✅ Therefore, the **first Sunday in December 2006** is **December 3**.
+
+---
+
+**Answer: 3**

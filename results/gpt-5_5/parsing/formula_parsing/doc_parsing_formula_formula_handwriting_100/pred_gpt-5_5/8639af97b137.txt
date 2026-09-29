@@ -1,0 +1,36 @@
+\[
+\begin{aligned}
+P_{2k,1}(x)T_{0,k}^{2k}
+&=
+\frac{
+\displaystyle \sum_{n=3}^{2k+1}T_{n,1}^{2k}\frac{1}{(n-2)!}x^{n-2}2500\pi x^2
+}{
+\displaystyle \sum_{n=3}^{2k+1}T_{n,1}^{2k}\frac{1}{(n-2)!}x^{n-2}2500\pi x^2-T_{2k+1,1}^{2k}
+} \\[2mm]
+&=
+\frac{
+\displaystyle \sum_{n=3}^{2k}T_{n,1}^{2k}\frac{1}{(n-2)!}x^{n-2}2500\pi x^2
+}{
+\displaystyle 3M\sum_{n=3}^{2k+1}x\frac{x^{n-3}}{(n-3)!}\prod_{i=1}^{n-1}(1+2ck^{-1})
+} \\[2mm]
+&=
+\frac{
+\displaystyle \sum_{n=3}^{2k}T_{n,1}^{2k}\frac{1}{(n-2)!}x^{n-2}2500\pi x^2
+}{
+\displaystyle 3M\sum_{n=3}^{2k+1}x\exp\!\left(\sum_{i=1}^{n-1}\ln(1+2ck^{-1})\right)\frac{x^{n-3}}{(n-3)!}
+} \\[2mm]
+&=
+\frac{
+\displaystyle \sum_{n=3}^{2k}T_{n,1}^{2k}\frac{1}{(n-2)!}x^{n-2}2500\pi x^2
+}{
+\displaystyle 3M\sum_{n=3}^{2k+1}x\exp\!\left(\sum_{i=1}^{n-1}2ck^{-1}-O\!\left((k^{-1})^2\right)\right)\frac{x^{n-3}}{(n-3)!}
+} \\[2mm]
+&<
+\frac{
+\displaystyle \sum_{n=3}^{2k}\exp(2ck^{-1})
+}{
+\displaystyle \sum_{n=3}^{2k+1}\exp\!\left(2cnk^{-1}-2ck^{-1}-O\!\left(n(k^{-1})^2\right)\right)
+} \\[2mm]
+&< \exp(-2ck)(2M)^2\left(e^{y_1+x}-x^2\right).
+\end{aligned}
+\]

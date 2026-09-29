@@ -1,0 +1,161 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\section*{\colorbox{cyan}{\textcolor{white}{\hspace{0.5cm}Secondary 3 Mathematics Set 1\hspace{0.5cm}}}}
+
+\subsection*{PART 1: Multiple-choice questions}
+
+\begin{enumerate}
+    \item[\textcolor{cyan}{1.}] \textbf{(4)}
+    \begin{align*}
+        2x + 3y &= 7 \\
+        2x &= 7 - 3y \\
+        x &= \frac{7}{2} - \frac{3}{2}y \\
+        x &= -\frac{3}{2}y + \frac{7}{2}
+    \end{align*}
+
+    \item[\textcolor{cyan}{2.}] \textbf{(2)}
+    \begin{align*}
+        3x + 4y &= 15 \\
+        6x + 8y &= 2(3x + 4y) \\
+        &= 30 \\
+        15x + 20y &= 5(3x + 4y) \\
+        &= 75
+    \end{align*}
+
+    \item[\textcolor{cyan}{3.}] \textbf{(3)}
+    \begin{align*}
+        4x &\geqslant \frac{1}{2} \\
+        \frac{4x}{4} &\geqslant \frac{\left(\frac{1}{2}\right)}{4} \\
+        x &\geqslant \frac{1}{8}
+    \end{align*}
+
+    \item[\textcolor{cyan}{4.}] \textbf{(3)}
+    \begin{align*}
+        6 - 8x &< -2x \\
+        6 - 8x + 8x &< -2x + 8x \\
+        6 &< 6x \\
+        6x &> 6 \\
+        x &> 1
+    \end{align*}
+
+    \item[\textcolor{cyan}{5.}] \textbf{(2)} \\
+    For rectangle $P$, breadth $= \frac{120}{15}$ \\
+    \phantom{For rectangle $P$, breadth} $= 8 \text{ cm}$ \\
+    Perimeter of $Q = \text{Perimeter of } P$ \\
+    \phantom{Perimeter of $Q$} $= 2(8 + 15)$ \\
+    \phantom{Perimeter of $Q$} $= 46 \text{ cm}$
+
+    \item[\textcolor{cyan}{6.}] \textbf{(4)} \\
+    Circumference of $Y = \text{Circumference of } X$ \\
+    \phantom{Circumference of $Y$} $= 10\pi$ \\
+    \begin{align*}
+        2\pi r &= 10\pi \\
+        r &= 5 \text{ cm}
+    \end{align*}
+    Area of circle $Y = \pi(5^2)$ \\
+    \phantom{Area of circle $Y$} $= 25\pi \text{ cm}^2$
+
+    \item[\textcolor{cyan}{7.}] \textbf{(3)} \\
+    ratio of sides $1 : 10$ \\
+    ratio of area $1 : 100$
+
+    \item[\textcolor{cyan}{8.}] \textbf{(3)} \\
+    ratio of sides $1 : 5$ \\
+    ratio of perimeter $1 : 5$
+
+    \item[\textcolor{cyan}{9.}] \textbf{(3)} \\
+    Let H and h be the heights of the 2 candles. \\
+    Burnt amount at any time: \\
+    H: $\frac{120}{180} \times \text{H} = \frac{2}{3}\text{H}$ \\
+    h: $\frac{120}{300} \times \text{h} = \frac{2}{5}\text{h}$ \\
+    Remaining: \\
+    H: $\text{H} - \frac{2}{3}\text{H} = \frac{1}{3}\text{H}$ \\
+    h: $\text{h} - \frac{2}{5}\text{h} = \frac{3}{5}\text{h}$
+
+    \newpage % Simulating the column break in the image layout roughly, though standard LaTeX flows differently. 
+             % For exact visual replication, a two-column environment or minipages would be better, 
+             % but sequential transcription is usually preferred for content extraction.
+             % I will continue sequentially as per standard transcription unless strict layout is requested.
+             % The prompt asks to transcribe text, tables, equations. I will follow the reading order (left col then right col).
+
+    \item[] The ratio after 2 h is $1 : 1$.
+    \begin{align*}
+        \frac{\frac{1}{3}\text{H}}{\frac{3}{5}\text{h}} &= \frac{1}{1} \\
+        \text{Cross multiply:} & \\
+        \frac{1}{3}\text{H} &= \frac{3}{5}\text{h} \\
+        \text{Cross multiply:} & \\
+        5\text{H} &= 9\text{h} \\
+        \frac{\text{H}}{\text{h}} &= \frac{9}{5} \\
+        \text{H} : \text{h} &= 9 : 5
+    \end{align*}
+
+    \item[\textcolor{cyan}{10.}] \textbf{(1)} \\
+    Height after $n$ min: \\
+    1\textsuperscript{st} : $\frac{n}{180}$ \\
+    2\textsuperscript{nd} : $\frac{n}{240}$ \\
+    Height remaining: \\
+    1\textsuperscript{st} : $1 - \frac{n}{180}$ \\
+    2\textsuperscript{nd} : $1 - \frac{n}{240}$ \\
+    The ratio became $1 : 2$.
+    \begin{align*}
+        \frac{1 - \frac{n}{180}}{1 - \frac{n}{240}} &= \frac{1}{2} \\
+        \text{Cross multiply:} & \\
+        2 - \frac{n}{90} &= 1 - \frac{n}{240} \\
+        \frac{n}{90} - \frac{n}{240} &= 2 - 1 \\
+        \frac{8n - 3n}{720} &= 1 \\
+        5n &= 720 \\
+        n &= 144 \text{ min} = 2 \text{ h } 24 \text{ min}
+    \end{align*}
+    Working backwards: 14 36 h
+
+    \item[\textcolor{cyan}{11.}] \textbf{(2)} \\
+    % Diagram description omitted as per "text, tables, and equations" instruction, 
+    % but context implies a distance problem.
+    \begin{center}
+        A $\rightarrow$ \quad $\leftarrow$ B \\
+        Town X \quad \quad \quad \quad \quad Town Y \\
+        \quad \quad d
+    \end{center}
+    When $B$ meets $C$, the distance between A and C is \\
+    $(50 + 70) \times 2 = 240 \text{ km}$ \\
+    Difference in speed $\rightarrow 60 - 50 = 10 \text{ km/h}$ \\
+    $240 \div 10 = 24 \text{ : h}$ \\
+    $(60 + 70) \times 24 = 3120 \text{ km}$
+
+    \item[\textcolor{cyan}{12.}] \textbf{(4)} \\
+    $15 - 5 = 10 \text{ h}$ \\
+    Consider station S and Town Q \\
+    \begin{center}
+        05 00 h \quad \quad 09 00 h \quad 05 00 h \\
+        P $\longrightarrow$ \quad \quad $\longleftarrow$ \\
+        \quad \quad S \quad \quad \quad \quad \quad Q
+    \end{center}
+    $3 : 2 = 6 : 4$ \\
+    $5 + 4 = 9$ \\
+    Ans: 09 00 h
+
+    \item[\textcolor{cyan}{13.}] \textbf{(1)} \\
+    Total number of faces: \\
+    Original cuboid $\rightarrow 18$ faces \\
+    4 cubes $\rightarrow 6 \times 4 = 24$ faces \\
+    $24 - 18 = 6$ faces \\
+    6 faces $\rightarrow 216 \text{ cm}^2$
+
+\end{enumerate}
+
+\vspace{2cm}
+
+\noindent Solutions to AEIS Practice Tests Secondary 3 Mathematics \hfill \textbf{S1} \\
+\noindent \copyright{} Singapore Asia Publishers Pte Ltd \& Starich Education Pte Ltd \hfill \textcolor{cyan}{Set 1}
+
+\end{document}
+```

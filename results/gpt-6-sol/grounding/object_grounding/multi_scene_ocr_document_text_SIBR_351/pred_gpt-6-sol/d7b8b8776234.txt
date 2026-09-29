@@ -1,0 +1,19 @@
+[
+  {"bbox_2d":[394,50,560,67],"label":"Title"},
+  {"bbox_2d":[149,84,349,99],"label":"Supplier"},
+  {"bbox_2d":[793,87,868,102],"label":"Address"},
+  {"bbox_2d":[792,104,889,120],"label":"Contract No."},
+  {"bbox_2d":[791,122,922,137],"label":"Date"},
+  {"bbox_2d":[103,275,330,302],"label":"Name"},
+  {"bbox_2d":[381,280,448,298],"label":"Manufactory Code"},
+  {"bbox_2d":[491,281,576,298],"label":"Commodity"},
+  {"bbox_2d":[618,281,652,298],"label":"Quantity"},
+  {"bbox_2d":[709,281,756,298],"label":"Unit Price (USD)"},
+  {"bbox_2d":[858,281,940,298],"label":"Total price (USD)"},
+  {"bbox_2d":[78,362,562,378],"label":"Shipment time"},
+  {"bbox_2d":[594,362,907,378],"label":"Inspection standards"},
+  {"bbox_2d":[590,397,710,409],"label":"Destination ports"},
+  {"bbox_2d":[594,434,705,449],"label":"Price term"},
+  {"bbox_2d":[78,439,565,472],"label":"Terms of payment"},
+  {"bbox_2d":[78,498,930,616],"label":"Remark"}
+]

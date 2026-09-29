@@ -1,0 +1,30 @@
+项目管理信息牌
+
+单位信息 / 工程参数 / 监督电话
+
+文档编号：SG-994680  
+日期：2025-12-05
+
+施工/项目名称：青岚·云栖松影综合体  
+单位名称：临澜省澄岳市云栖松影综合服务有限公司  
+工程地点：青岚省澄岳市松影区青岚街104号 11栋  
+项目负责人：卫景行  
+安全员：卫泽宇  
+联系电话：15989688935
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1597_345_1718_467.jpg" alt="二维码" width="7%" /></div>
+
+https://example.com/doc-21611135
+
+问题跟踪/检查记录表
+
+<table>
+<tr><td rowspan="2">检查项</td><td rowspan="2">检查项</td><td rowspan="2">问题描述</td><td colspan="3">责任信息</td><td colspan="3">处理状态</td><td rowspan="2">复核</td></tr>
+<tr><td>责任人</td><td>整改期限</td><td>等级</td><td>状态</td><td>完成日期</td><td>备注</td></tr>
+<tr><td rowspan="2">A区<br>基础工程</td><td>2025-11-20</td><td>桩基钢筋笼焊接不饱满</td><td>李明</td><td>2025-11-25</td><td>严重</td><td>已整改✓</td><td>2025-11-24</td><td>手写备注：已加固</td><td>卫景行（手写签字）</td></tr>
+<tr><td>2025-11-28</td><td>模板支撑架未按方案搭设</td><td>王强</td><td>2025-12-01</td><td>一般</td><td>处理中...</td><td>-</td><td>手写备注：待复验</td><td>-</td></tr>
+<tr><td rowspan="3">B区<br>主体结构</td><td>2025-11-28</td><td>模板支撑架未按方案搭设</td><td>张伟</td><td>2025-12-03</td><td>一般</td><td>未开始×</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>766241146791550139</td><td>混凝土浇筑后养护不足</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>汇总</td><td colspan="2">共发现问题 15 项</td><td colspan="2">整改完成 12 项</td><td>整改率 80%</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+</table>

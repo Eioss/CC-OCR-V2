@@ -1,0 +1,28 @@
+```json
+[
+    {"bbox_2d": [149, 250, 205, 263], "label": "Arrive 入住日期"},
+    {"bbox_2d": [788, 418, 854, 432], "label": "Balance 余额"},
+    {"bbox_2d": [634, 387, 685, 400], "label": "CHARGES 借方"},
+    {"bbox_2d": [806, 391, 857, 403], "label": "CREDITS 贷方"},
+    {"bbox_2d": [819, 207, 888, 219], "label": "Clerk 收银员"},
+    {"bbox_2d": [820, 188, 886, 199], "label": "Confirmation No 确认号"},
+    {"bbox_2d": [96, 343, 148, 369], "label": "DATE 日期"},
+    {"bbox_2d": [195, 346, 337, 374], "label": "DESCRIPTION 项目"},
+    {"bbox_2d": [479, 256, 535, 268], "label": "Depart 离店日期"},
+    {"bbox_2d": [685, 105, 787, 116], "label": "Fax 传真"},
+    {"bbox_2d": [834, 263, 891, 274], "label": "INVOICE # 账单号"},
+    {"bbox_2d": [821, 155, 901, 167], "label": "Marriott Bonvoy 万豪旅享家"},
+    {"bbox_2d": [822, 172, 830, 181], "label": "No.of Guest 住店人数"},
+    {"bbox_2d": [820, 224, 827, 233], "label": "Page #"},
+    {"bbox_2d": [822, 139, 855, 149], "label": "Room 房号"},
+    {"bbox_2d": [638, 260, 674, 270], "label": "TIME 离店时间"},
+    {"bbox_2d": [686, 93, 788, 105], "label": "Tel 电话"},
+    {"bbox_2d": [818, 240, 892, 252], "label": "Time printed"},
+    {"bbox_2d": [306, 254, 342, 264], "label": "Time 入住时间"},
+    {"bbox_2d": [345, 63, 457, 74], "label": "公司名"},
+    {"bbox_2d": [620, 78, 802, 90], "label": "地址"},
+    {"bbox_2d": [103, 108, 256, 121], "label": "标题"},
+    {"bbox_2d": [860, 86, 903, 96], "label": "邮政编码"},
+    {"bbox_2d": [342, 79, 504, 90], "label": "邮箱"}
+]
+```

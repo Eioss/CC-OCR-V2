@@ -1,0 +1,60 @@
+```latex
+\documentclass{article}
+
+\begin{document}
+
+\begin{flushright}
+Phil 109: Modern Logic
+\end{flushright}
+
+\begin{center}
+\textbf{Problem set}
+\end{center}
+
+\noindent \textbf{Problem 1}
+
+\noindent In the lecture ``syntax'' I develop a toy language \textbf{Little English}. It has the following lexicon (each expression belongs to exactly one grammatical category: names, predicates, or connectives).
+
+\begin{quote}
+Names: \textbf{Kate, Billy}
+
+Predicates: \textbf{smokes, sleeps}
+
+Connectives: \textbf{and, or}
+\end{quote}
+
+\noindent Furthermore I define \textbf{well-formed formula} in Little English as follows:
+
+\begin{enumerate}
+    \item If \(\Phi\) is a name, and \(\Psi\) is a predicate, then ``\(\Phi\ \Psi\)'' is a well-formed formula (wff).
+    \item If \(\Phi\) and \(\Psi\) are well-formed formulas, and \(\Omega\) is connective, then \(\Phi\ \Omega\ \Psi\) is a wff.
+    \item Nothing else is a wff.
+\end{enumerate}
+
+\noindent I pointed out that the expression \textbf{Kate sleeps and smokes} is not a wff.
+
+\noindent This is counterintuitive, \textbf{Kate sleeps and smokes} is a perfectly grammatical sentence of English. Fortunately, there is an easy way to fix this. We can add the following condition to the definition of wff.
+
+\begin{quote}
+(C) If \(\Phi\) is a well-formed formula, \(\Psi\) is a predicate, and \(\Omega\) is a connective, then \(\Phi\ \Omega\ \Psi\) is a wff.
+\end{quote}
+
+\noindent Which yields the following revised definition of wff:
+
+\begin{enumerate}
+    \item If \(\Phi\) is a name, and \(\Psi\) is a predicate, then ``\(\Phi\ \Psi\)'' is a well-formed formula (wff).
+    \item If \(\Phi\) and \(\Psi\) are well-formed formulas, and \(\Omega\) is a connective, then \(\Phi\ \Omega\ \Psi\) is a wff.
+    \item If \(\Phi\) is a well-formed formula, \(\Psi\) is a predicate, and \(\Omega\) is a connective, then \(\Phi\ \Omega\ \Psi\) is a wff.
+    \item Nothing else is a wff.
+\end{enumerate}
+
+\begin{enumerate}
+    \item[a)] Using the revised definition, show that \textbf{Kate sleeps and smokes} is a wff.
+    \item[b)] Using the revised definition, show that \textbf{Kate smokes or Bill sleeps and smokes} is a wff.
+    \item[c)] Explain why \textbf{Bill or Kate sleeps} is not a wff under the revised definition.
+    \item[d)] Further revise the revised definition, so that \textbf{Bill or Kate sleeps} counts as a wff. You have to add to it a new condition, like I did with (c) above.
+    \item[e)] Using your new definition, show that \textbf{Bill or Kate sleeps} counts as a wff.
+\end{enumerate}
+
+\end{document}
+```

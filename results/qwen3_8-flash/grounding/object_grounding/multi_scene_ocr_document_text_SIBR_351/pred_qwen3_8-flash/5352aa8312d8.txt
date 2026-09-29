@@ -1,0 +1,27 @@
+```json
+[
+	{"bbox_2d": [256, 193, 537, 202], "label": "ADDRESS"},
+	{"bbox_2d": [254, 298, 900, 310], "label": "ADDRESS"},
+	{"bbox_2d": [254, 119, 479, 130], "label": "ADDRESS"},
+	{"bbox_2d": [254, 100, 632, 112], "label": "ADDRESS"},
+	{"bbox_2d": [840, 548, 912, 561], "label": "AMOUNT(USD)"},
+	{"bbox_2d": [840, 335, 909, 347], "label": "AMOUNT(USD)"},
+	{"bbox_2d": [255, 276, 482, 290], "label": "COMPANY NAME"},
+	{"bbox_2d": [255, 171, 436, 183], "label": "COMPANY NAME"},
+	{"bbox_2d": [255, 81, 435, 94], "label": "COMPANY NAME"},
+	{"bbox_2d": [257, 259, 426, 272], "label": "Contact Person"},
+	{"bbox_2d": [446, 333, 512, 345], "label": "DESCRIPTION(FUNAI)"},
+	{"bbox_2d": [678, 83, 797, 95], "label": "Date"},
+	{"bbox_2d": [676, 227, 811, 237], "label": "EMR."},
+	{"bbox_2d": [256, 136, 472, 149], "label": "GSTLN No"},
+	{"bbox_2d": [257, 241, 416, 252], "label": "Mobile"},
+	{"bbox_2d": [114, 62, 260, 74], "label": "NO"},
+	{"bbox_2d": [130, 330, 242, 343], "label": "P/O NO"},
+	{"bbox_2d": [279, 332, 360, 344], "label": "PARTS NO"},
+	{"bbox_2d": [613, 547, 642, 558], "label": "QTY(PCS)"},
+	{"bbox_2d": [613, 335, 640, 345], "label": "QTY(PCS)"},
+	{"bbox_2d": [472, 38, 581, 58], "label": "TITLE"},
+	{"bbox_2d": [257, 224, 410, 236], "label": "Tel"},
+	{"bbox_2d": [733, 336, 765, 346], "label": "UNIT PRICE(USD)"}
+]
+```

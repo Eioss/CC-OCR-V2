@@ -1,0 +1,28 @@
+```json
+{
+    "menu": [
+        {
+            "name": "(TA) NASI URG TERI MEDAN",
+            "num": "4",
+            "price": "165,460"
+        },
+        {
+            "name": "(TA) BIHUN GORENG SEAFOOD",
+            "num": "1",
+            "price": "40,456"
+        },
+        {
+            "name": "(TA) KWETIAW SEAFOOD SIRAM",
+            "num": "1",
+            "price": "42,274"
+        },
+        {
+            "name": "(TA) NASI GORENG",
+            "num": "2",
+            "price": "55,456"
+        }
+    ],
+    "sub_total": "303,646",
+    "total": "334,000"
+}
+```

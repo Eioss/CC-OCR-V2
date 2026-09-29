@@ -1,0 +1,80 @@
+\[
+R=K[x,y]/\langle x^{2}+y^{2}-1\rangle
+\]
+
+\[
+\begin{cases}
+F(x,t,D^{2}u)-\partial_tu=B\varepsilon(u)u^{\gamma-1}
+&\text{in }\Omega_T,\\
+u=\varphi&\text{on }\partial_p\Omega_T.
+\end{cases}
+\]
+
+\[
+A=\left\{x\in[k]_0^n:\left|\{i:x_i=t\}\right|<m\right\}.
+\]
+
+\[
+\text{data}\mid\lambda\overset d=\operatorname{Poisson}(\lambda),
+\qquad
+\Lambda\mid\theta\overset d=\theta e^{-\lambda\theta},
+\qquad
+\theta\overset d=\operatorname{IS}_{\alpha,\beta}(\theta),
+\qquad \alpha,\beta\text{ known}.
+\]
+
+\[
+\begin{aligned}
+d\hat{\rho}_t={}&-i[\hat H,\hat{\rho}_t]\,dt
+-k_t[\hat{\sigma}_t,[\hat{\sigma}_t,\hat{\rho}_t]]\,dt\\
+&+\sqrt{2k_t}\left[
+\hat{\sigma}_t\hat{\rho}_t+\hat{\rho}_t\hat{\sigma}_t
+-2\operatorname{Tr}(\hat{\sigma}_t\hat{\rho}_t)\hat{\rho}_t
+\right]dW_t.
+\end{aligned}
+\]
+
+\[
+\partial TV(u)=
+\left\{
+\operatorname{div}\varphi:
+\|\varphi\|_{L^\infty(\Omega;\mathbb R^n)}\leq1,\ 
+\varphi\cdot n|_{\partial\Omega}=0,\ 
+\langle\operatorname{div}\varphi,u\rangle_{L^2(\Omega)}=TV(u)
+\right\}.
+\]
+
+\[
+\begin{aligned}
+\delta x_\xi(t)
+&=\left[R-\frac{\xi}{\cos(\omega_rt)}\right]
+\Theta\!\left(x-|\omega_rt|\right),\\
+\delta y_\xi(t)
+&=\xi\left[\frac{\omega_rt\tan(x)}{x}
+-\tan(\omega_rt)\right]
+\Theta\!\left(x-|\omega_rt|\right).
+\end{aligned}
+\]
+
+\[
+\mathcal H^2(\widetilde\Sigma)+T_h(\Sigma,\widetilde\Sigma)
+\leq
+\mathcal H^2(\widetilde\Sigma)+T_h(\Sigma,\widetilde\Sigma)
++\mathcal H^2(\partial B)-c\mathcal H^3(B)
+\leq\mathcal H^2(\Sigma).
+\]
+
+\[
+\begin{aligned}
+\mathbb P(X_n>x)\sim{}&
+\mathbb E(X_0)m_\xi^{n-1}
+\sum_{i=0}^{n-1}m_\xi^{i(\beta-1)}
+\mathbb P(\xi>x)
++m_\xi^{n\beta}\mathbb P(X_0>x)\\
+&+m_\varepsilon\sum_{j=1}^{n-1}m_\xi^{n-j-1}
+\sum_{i=0}^{n-j-1}m_\xi^{i(\beta-1)}
+\mathbb P(\xi>x)
++\sum_{j=1}^{n}m_\xi^{(n-j)\beta}
+\mathbb P(\varepsilon>x).
+\end{aligned}
+\]

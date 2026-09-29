@@ -1,0 +1,58 @@
+```latex
+\begin{center}
+    \textbf{\Large awinic \quad 上海艾为电子技术股份有限公司} \\
+    \small shanghai awinic technology co., ltd.
+\end{center}
+
+\vspace{1cm}
+
+\begin{flushright}
+    \textbf{\Large AW32905E} \\
+    Mar. 2023 V1.0
+\end{flushright}
+
+\hrulefill
+
+\section*{Ordering Information}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Part Number} & \textbf{Temperature} & \textbf{Package} & \textbf{Marking} & \textbf{\begin{tabular}[c]{@{}c@{}}Moisture\\ Sensitivity\\ Level\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Environmental\\ Information\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Delivery\\ Form\end{tabular}} \\ \hline
+AW32905EFCR & -40$^{\circ}$C -- 85$^{\circ}$C & \begin{tabular}[c]{@{}c@{}}FCQFN\\ 1.3mm$\times$1.8mm\\ -12L\end{tabular} & RZR & MSL1 & ROHS+HF & \begin{tabular}[c]{@{}c@{}}3000 units/\\ Tape and\\ Reel\end{tabular} \\ \hline
+\end{tabular}
+\end{center}
+
+\section*{Absolute Maximum Ratings (NOTE 1)}
+
+\begin{center}
+\begin{tabular}{|c|l|l|c|c|c|}
+\hline
+\textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\ \hline
+$V_{IN}$ & Input voltage & & -0.3 & 29 & V \\ \hline
+$V_{OUT}$ & Output voltage & & -0.3 & See(NOTE 2) & V \\ \hline
+$V_{OVLO}$ & OVLO voltage & & -0.3 & 6 & V \\ \hline
+$V_{ACOK}$ & ACOK voltage & & -0.3 & 6 & V \\ \hline
+$V_{EN}$ & EN voltage & & -0.3 & 6 & V \\ \hline
+$I_{SW}$ & \begin{tabular}[c]{@{}l@{}}Continuous current of switch\\ IN-OUT(NOTE 3)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Continuous current on IN and\\ OUT pin\end{tabular} & & 5 & A \\ \hline
+$I_{PEAK}$ & Peak current & \begin{tabular}[c]{@{}l@{}}Peak input and output current\\ on IN and OUT pin(10ms)\end{tabular} & & 8 & A \\ \hline
+$I_{DIODE}$ & Continuous diode current & \begin{tabular}[c]{@{}l@{}}Continuous forward current\\ through the nFET body diode\end{tabular} & & 1.5 & A \\ \hline
+$T_A$ & Ambient temperature & & -40 & 85 & $^{\circ}$C \\ \hline
+$T_J$ & Junction temperature & & -40 & 150 & $^{\circ}$C \\ \hline
+$T_{STG}$ & Storage temperature & & -65 & 150 & $^{\circ}$C \\ \hline
+$T_{LEAD}$ & Soldering temperature & At leads, 10 seconds & & 260 & $^{\circ}$C \\ \hline
+Surge & Input surge protection & \begin{tabular}[c]{@{}l@{}}IEC61000-4-5 test with 2$\Omega$\\ equivalent series resistance\end{tabular} & 120 & & V \\ \hline
+\end{tabular}
+\end{center}
+
+\textit{NOTE1: Conditions out of those ranges listed in “absolute maximum ratings” may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in “recommended operating conditions”. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\textit{NOTE2: 29V or $V_{IN}$+0.3V, whichever is smaller.}
+
+\textit{NOTE3: Limited by thermal design.}
+
+\vspace{2cm}
+
+\hrulefill
+\noindent www.awinic.com \hfill 5 \hfill © 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved
+```

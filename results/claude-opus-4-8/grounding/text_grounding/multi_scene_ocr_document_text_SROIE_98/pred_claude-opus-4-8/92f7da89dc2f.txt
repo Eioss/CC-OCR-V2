@@ -1,0 +1,11 @@
+The text '750.00' appears multiple times in this receipt. Here are the locations:
+
+(412, 678, 530, 715) # Item amount in the OPEN line
+(420, 689, 530, 716) # U. Price area
+(778, 1438, 882, 1474) # Credit Card payment amount
+
+The most prominent occurrences:
+- Unit price: (419, 689, 527, 714)
+- Amount: (737, 678, 845, 713)
+- Rounded Total: (771, 1233, 922, 1281)
+- Credit Card: (778, 1439, 882, 1473)

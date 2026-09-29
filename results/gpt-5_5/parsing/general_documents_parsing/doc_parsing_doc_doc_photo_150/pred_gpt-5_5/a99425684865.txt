@@ -1,0 +1,112 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+\fbox{\Large \textbf{English First Paper}} \hfill Full Marks : 100\\
+\textbf{(Subject code: 107)}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|p{3.2cm}|c|p{6.7cm}|c|}
+\hline
+\textbf{Marks} & \multicolumn{4}{c|}{\textbf{Marks and Test Items Distribution}} \\
+\hline
+ & \textbf{Skills/Areas} & \textbf{Marks} & \textbf{Test Items} & \textbf{Item Marks} \\
+\hline
+\multirow{13}{*}{100}
+& \multirow{3}{=}{\centering \textbf{Section A}\\ Reading Test (Seen Passage)\\ Question 1-3}
+& \multirow{3}{*}{25}
+& 1. \quad Multiple choice questions & \(1 \times 5 = 5\) \\
+\cline{4-5}
+& & & 2. \quad Short questions & \(2 \times 5 = 10\) \\
+\cline{4-5}
+& & & 3. \quad Summarizing & 10 \\
+\cline{2-5}
+& \multirow{6}{=}{\centering Reading Test (Unseen Passage)\\ Question 4 \& 5}
+& \multirow{6}{*}{35}
+& 4. \quad Information transfer & \(1 \times 5 = 5\) \\
+\cline{4-5}
+& & & 5. \quad True/ False & \(1 \times 5 = 5\) \\
+\cline{4-5}
+& & & 6. \quad Fill in the gaps with app. words & \(1 \times 5 = 5\) \\
+\cline{4-5}
+& & & 7. \quad Rearranging sentence & 10 \\
+\cline{4-5}
+& & & 8. \quad Gap filling with clues & \(0.5 \times 10 = 5\) \\
+\cline{4-5}
+& & & 9. \quad Matching sentence parts & \(1 \times 5 = 5\) \\
+\cline{2-5}
+& \multirow{4}{=}{\centering \textbf{Section B}\\ Writing}
+& \multirow{4}{*}{40}
+& 10. \quad Dialogue writing & 10 \\
+\cline{4-5}
+& & & 11. \quad Paragraph writing & 10 \\
+\cline{4-5}
+& & & 12. \quad Completing story & 10 \\
+\cline{4-5}
+& & & 13. \quad Informal letter & 10 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+\fbox{\Large \textbf{English Second Paper}} \hfill Full Marks : 50\\
+\textbf{(Subject code: 108)}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|p{2.6cm}|c|p{8cm}|c|}
+\hline
+\textbf{Marks} & \multicolumn{4}{c|}{\textbf{Marks and Test Items Distribution}} \\
+\hline
+\multirow{8}{*}{50}
+& \multirow{8}{=}{\centering \textbf{Section A}\\ * Grammar}
+& \multirow{8}{*}{30}
+& 1. \quad Gap filling activities with or without clues (use articles) & \(0.5 \times 6 = 03\) \\
+\cline{4-5}
+& & & 2. \quad Gap filling activities with or without clues (prepositions etc) & \(0.5 \times 6 = 03\) \\
+\cline{4-5}
+& & & 3. \quad Substitution table & \(1 \times 4 = 4\) \\
+\cline{4-5}
+& & & 4. \quad Narrative style\\
+& & & \quad (direct to indirect and vice versa) & 4 \\
+\cline{4-5}
+& & & 5. \quad Changing sentences (affirmative to negative and interrogative and vice versa, positive to comparative or comparative to superlative and vice versa, active to passive and vice versa) & \(1 \times 5 = 5\) \\
+\cline{4-5}
+& & & 6. \quad Capitalization and punctuation & \(0.5 \times 6 = 03\) \\
+\cline{4-5}
+& & & 7. \quad Use of suffixes and prefixes & \(0.5 \times 8 = 04\) \\
+\cline{4-5}
+& & & 8. \quad Right forms of verbs & \(0.5 \times 8 = 04\) \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\textbf{* Notes :} Marks distribution for each test item (Reading and Writing) can vary from time to time. No text or test item can be taken directly from the EFT. Test items should be placed within appropriate context.
+
+\begin{center}
+\begin{tabular}{|p{4cm}|p{8.5cm}|c|}
+\hline
+\multirow{2}{=}{\centering \textbf{Section B}\\ *Composition}
+& \multicolumn{1}{c|}{\textbf{Test Items}} & \textbf{Items Marks} \\
+\cline{2-3}
+& \textbullet \quad Formal letter/e-mail & 08 \\
+\cline{2-3}
+& \textbullet \quad Writing composition on personal experience and familiar topics, recent events/ incidents & 12 \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent Curriculum Dissemination Programme, SESDP, NCTB
+
+\end{document}
+```

@@ -1,0 +1,138 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\begin{center}
+\textbf{Prerana Model paper-1 \hspace{1cm} MCQ questions \hspace{1cm} click the correct one}
+\end{center}
+
+\begin{enumerate}
+\item Sum of ``n'' terms of the Arithmetic Progression $1+3+5+7+9+\ldots\ldots\ldots.$ which one is correct
+
+\[
+\text{A) } n(n+1) \qquad
+\text{B) } n^2 \qquad
+\text{C) } 25 \qquad
+\text{D) } 2n
+\]
+
+\item Solutions of the equation $a_1x+b_1y+c_1=0$ and $a_2x+b_2y+c_2=0$ are consistent then the correct form among the following is.
+
+\[
+\text{A) } \frac{a_1}{a_2} \ne \frac{b_1}{b_2}
+\qquad
+\text{B) } \frac{a_1}{a_2} = \frac{b_1}{b_2}
+\qquad
+\text{C) } \frac{a_1}{b_1} = \frac{a_2}{b_2} = \frac{c_2}{c_1}
+\qquad
+\text{D) } \frac{a_1}{a_2} = \frac{b_1}{b_2} \ne \frac{c_1}{c_2}
+\]
+
+\item In a quadratic equation the value of the discriminant is $-33$ then the equation has
+
+\[
+\text{A) Real \& distinct roots}
+\qquad
+\text{B) Real \& equal roots}
+\]
+\[
+\text{C) not real roots}
+\qquad
+\text{D) rational and distinct roots.}
+\]
+
+\item If $\tan A = 1$ then the value A is
+
+\[
+\text{A) } 90^0
+\qquad
+\text{B) } 0^0
+\qquad
+\text{C) } 60^0
+\qquad
+\text{D) } 45^0
+\]
+
+\item When a cone is cut by a plane horizontally, parallel to base of the cone then the part other than smaller cone obtained is called.
+
+\[
+\text{A) Frustum of cone}
+\qquad
+\text{B) cylinder}
+\qquad
+\text{C) major cone}
+\qquad
+\text{D) Hemisphere}
+\]
+
+\item Formula used to find volume of right circular cylinder is
+
+\[
+\text{A) } \pi rh^2
+\qquad
+\text{B) } \frac{2}{3}\pi r^2h
+\qquad
+\text{C) } \frac{1}{3}\pi r^2h
+\qquad
+\text{D) } \pi r^2h
+\]
+
+\item The coordinates of the midpoint of the line joining the points $(3,7)$ and $(5,5)$ is
+
+\[
+\text{A) } (4,6)
+\qquad
+\text{B) } (6,4)
+\qquad
+\text{C) } (2,-2)
+\qquad
+\text{D) } (4,4)
+\]
+
+\item Roots of the quadratic equation $(2x+1)(x+2)=0$ are
+
+\[
+\text{A) } \frac{1}{2} \text{ and } 2
+\qquad
+\text{B) } \frac{-1}{2} \text{ and } -2
+\qquad
+\text{C) } \frac{-1}{2} \text{ and } 2
+\qquad
+\text{D) } \frac{1}{2} \text{ and } -2
+\]
+
+\item $2x^2+3x-5=0$ Discriminant value of this quadratic equation?
+
+\[
+\text{A) } 19
+\qquad
+\text{B) } -49
+\qquad
+\text{C) } -31
+\qquad
+\text{D) } 49
+\]
+
+\item AR, AD, AB, AP \& PC are the tangents of the circle of centre O . which relations is correct?
+
+\[
+\text{A) AP=AR}
+\qquad
+\text{B) AR = RD}
+\qquad
+\text{C) RA = PC}
+\qquad
+\text{D) RA = RB}
+\]
+
+\end{enumerate}
+
+\noindent SUDEESHA BC MYSURU
+
+\noindent LIVEWORKSHEETS
+
+\end{document}
+```

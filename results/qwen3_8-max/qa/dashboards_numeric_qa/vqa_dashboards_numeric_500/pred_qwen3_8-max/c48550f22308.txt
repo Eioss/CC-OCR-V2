@@ -1,0 +1,16 @@
+Based on the provided infographic, specifically in the comparison table at the bottom titled **"VMWARE VSPHERE VS. MICROSOFT HYPER-V"**, we can find the answer.
+
+Look at the row labeled **"Max host processors"** and the columns under **"Microsoft"**.
+
+The values listed for Microsoft Hyper-V are:
+*   **Standard**: 8
+*   **Ent. (Enterprise)**: 4
+*   **DC (Datacenter)**: 64
+
+The question asks for the **minimum** number of host processors that can be connected. Among the Microsoft Hyper-V editions listed, the **Enterprise (Ent.)** edition supports a maximum of **4** host processors, which is the lowest value in that row for Microsoft.
+
+Therefore, the minimum number of host processors that can be connected for a Microsoft Hyper-V edition shown in this chart is **4** (for the Enterprise edition).
+
+*(Note: The table shows "Max host processors", meaning the upper limit for each edition. The minimum *supported* configuration isn't explicitly stated, but among the maximums given, 4 is the smallest value for any Hyper-V edition listed.)*
+
+**Answer: 4**

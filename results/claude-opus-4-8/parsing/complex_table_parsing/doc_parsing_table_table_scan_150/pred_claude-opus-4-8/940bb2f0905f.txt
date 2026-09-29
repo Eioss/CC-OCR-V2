@@ -1,0 +1,100 @@
+<table>
+<tr>
+<td rowspan="2">保证率 /<br>%</td>
+<td rowspan="2">项目</td>
+<td colspan="3">外延式发展模式</td>
+<td colspan="3">革新发展模式</td>
+</tr>
+<tr>
+<td>2010年</td>
+<td>2020年</td>
+<td>2030年</td>
+<td>2010年</td>
+<td>2020年</td>
+<td>2030年</td>
+</tr>
+<tr>
+<td rowspan="3">50</td>
+<td>总需水量 /万 m³</td>
+<td>41 106</td>
+<td>50 209</td>
+<td>61 427</td>
+<td>40 508</td>
+<td>47 256</td>
+<td>52 956</td>
+</tr>
+<tr>
+<td>总供水量 /万 m³</td>
+<td>36 334</td>
+<td>36 334</td>
+<td>36 334</td>
+<td>50 620</td>
+<td>52 283</td>
+<td>53 907</td>
+</tr>
+<tr>
+<td>平衡指数</td>
+<td>1. 13</td>
+<td>1. 38</td>
+<td>1. 69</td>
+<td>0. 80</td>
+<td>0. 90</td>
+<td>0. 98</td>
+</tr>
+<tr>
+<td rowspan="3">75</td>
+<td>总需水量 /万 m³</td>
+<td>41 106</td>
+<td>50 209</td>
+<td>61 427</td>
+<td>40 508</td>
+<td>47 256</td>
+<td>52 956</td>
+</tr>
+<tr>
+<td>总供水量 /万 m³</td>
+<td>28 441</td>
+<td>28 441</td>
+<td>28 441</td>
+<td>38 485</td>
+<td>40 038</td>
+<td>41 618</td>
+</tr>
+<tr>
+<td>平衡指数</td>
+<td>1. 45</td>
+<td>1. 77</td>
+<td>2. 16</td>
+<td>1. 05</td>
+<td>1. 18</td>
+<td>1. 27</td>
+</tr>
+<tr>
+<td rowspan="3">90</td>
+<td>总需水量 /万 m³</td>
+<td>41 106</td>
+<td>50 209</td>
+<td>61 427</td>
+<td>40 508</td>
+<td>47 256</td>
+<td>52 956</td>
+</tr>
+<tr>
+<td>总供水量 /万 m³</td>
+<td>21 118</td>
+<td>21 118</td>
+<td>21 118</td>
+<td>27 397</td>
+<td>28860</td>
+<td>30 388</td>
+</tr>
+<tr>
+<td>平衡指数</td>
+<td>1. 95</td>
+<td>2. 38</td>
+<td>2. 91</td>
+<td>1. 48</td>
+<td>1. 64</td>
+<td>1. 74</td>
+</tr>
+</table>

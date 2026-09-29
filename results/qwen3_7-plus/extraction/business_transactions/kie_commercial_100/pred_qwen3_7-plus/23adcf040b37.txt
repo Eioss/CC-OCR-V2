@@ -1,0 +1,22 @@
+```json
+{
+    "date_issue": "07-APR-1999",
+    "date_due": "07-MAY-1999",
+    "vendor_order_id": "21119",
+    "customer_order_id": "11248",
+    "vendor_name": "BioReliance Testing & Development, Inc.",
+    "vendor_address": "14920 Broschart Road Rockville, MD 20850-3349 USA",
+    "customer_id": "2112",
+    "customer_billing_name": "Lorillard Tobacco Company",
+    "customer_billing_address": "420 English Street P.O. Box 21688 Greensboro, NC, 27420-1688",
+    "customer_delivery_name": "Lorillard Tobacco Company",
+    "customer_delivery_address": "420 English Street P.O. Box 21688 Greensboro, NC, 27420-1688",
+    "amount_total_net": "18,333.70",
+    "amount_total_tax": "0.00",
+    "amount_total_gross": "18,333.70",
+    "amount_due": "18,333.70",
+    "tax_detail_net": "0.00",
+    "tax_detail_tax": "0.00",
+    "tax_detail_gross": "0.00"
+}
+```

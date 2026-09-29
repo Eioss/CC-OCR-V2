@@ -1,0 +1,80 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{flushright}
+$1 \times 5 = 5$
+\end{flushright}
+
+\noindent
+\textbf{4. Complete the table below with information from the passage.}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i) --- & MA \\
+\hline
+Ahsanullah & 1911 & & (ii) \\
+\hline
+(iii) --- & 1914 & & \\
+\hline
+Member of Royal Society & (iv) --- & & \\
+\hline
+ & 1919 & & (v) --- \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\textbf{5. Write a summary of the passage in no more than 90 to 100 words.}
+\hfill
+\textbf{10}
+
+\vspace{1em}
+
+\noindent
+\textbf{6. Match the parts of sentences given in column `A' and column `B' to write five complete sentences. There are more parts of sentences in column `B' than required.}
+\hfill
+\textbf{$1 \times 5 = 5$}
+
+\begin{center}
+\begin{tabular}{|p{0.42\textwidth}|p{0.42\textwidth}|}
+\hline
+\textbf{Column `A'} & \textbf{Column `B'} \\
+\hline
+(a) Man can turn a clean environment & i. man improves his environment. \\
+\hline
+(b) Clean environment is essential & ii. man pollutes his environment. \\
+\hline
+(c) Our total environment influences & iii. our way of living. \\
+\hline
+(d) When the relationship between things is disturbed, life & iv. really beautiful. \\
+\hline
+(e) By many unwise acts & v. into a bad polluted one. \\
+\hline
+ & vi. for a healthier and happier life. \\
+\hline
+ & vii. becomes difficult or impossible. \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\textbf{7. Re-arrange the following sentences according to sequence and re-write them in a paragraph.}
+\hfill
+\textbf{$1 \times 8 = 8$}
+
+\begin{enumerate}[label=(\alph*)]
+    \item The first friend climbed up a tree but the later could not climb.
+    \item Suddenly a bear came there.
+    \item Once upon a time two friends were passing by a forest.
+    \item They were talking about their love for each other.
+\end{enumerate}
+
+\end{document}
+```

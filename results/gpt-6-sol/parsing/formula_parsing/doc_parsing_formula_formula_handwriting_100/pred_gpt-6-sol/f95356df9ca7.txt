@@ -1,0 +1,74 @@
+\[
+\Gamma=\{(x,y):\|x\|=u(y),\ |y|\le d\}.
+\]
+
+\[
+P_{\mathrm{ext}}
+=\frac{4}{3}\,
+\frac{n(\mathcal N_U^P)-n_\infty(\mathcal N_U^P)}
+     {n(\mathcal N_U^P)}.
+\]
+
+\[
+\|\mu\|_{BL}:=\sup_{\psi\in\mathcal L}\int_{\mathbb R_0^+}\psi\,\mu,
+\qquad \mu\in\mathcal M.
+\]
+
+\[
+V:=\left\{
+\tilde\sigma_u\bigl((x_1,s_1),\ldots,(x_l,s_l)\bigr):
+\bigl(u,((x_1,s_1),\ldots,(x_l,s_l)),\pi B\bigr)\in\dot V
+\right\}.
+\]
+
+\[
+\begin{aligned}
+&\frac1h(\eta_{h,i}^{v}-\eta_{h,i-1}^{v},w)_{L^2(\Omega)}
++(\nabla\eta_{h,i}^{v},\nabla w)_{L^2(\Omega)}
++(g(\eta_{h,i}^{v}),w)_{L^2(\Omega)}\\
+&\qquad
++(\alpha'(\eta_{h,i}^{v})\nabla\theta_{h,i-1}^{v},\nabla w)_{L^2(\Omega)}
+=0,
+\qquad\text{for every }w\in H^1(\Omega)\text{ and }i\in\mathbb N.
+\end{aligned}
+\]
+
+\[
+\sum_{i=1}^{\#}\bigl(C_{\mathrm{true}}^{\mathrm{NOCK}(i)}\bigr)^2
+\ge 2(1+\gamma^2)\quad\forall\gamma,
+\qquad
+\sum_{i=1}^{\#}\bigl(C_{\mathrm{true}}^{\mathrm{NO}(i)}\bigr)^2
+\le 2(1+2\gamma^2)\quad\text{for }\gamma\le\frac1{\sqrt2}.
+\]
+
+\[
+\begin{aligned}
+Au,v&=2\mu\bigl(\varepsilon(u),\varepsilon(v)\bigr),
+& Bp,v&=(p,\nabla\cdot v),\\
+cp,q&=(p,q),
+& D\eta,v&=(\eta,v).
+\end{aligned}
+\]
+
+\[
+h_\theta=\theta^\perp
+=\{\chi\in h:a(\chi,\eta)=0\ \forall\eta\in\theta\},
+\qquad
+b_\theta=b_\theta(h_\theta)=\sum g^a,
+\qquad
+\eta_\theta^+=\sum_{a\in I^+}\langle\theta\rangle^a.
+\]
+
+\[
+\begin{aligned}
+&\exp\!\left(\sum_{\xi\in B_0}\chi_{J_0}\xi(t)\right)
+\prod_{\xi\in B_0}\left\|BA_0^{-1}e_{J_0}\wedge e_\xi\right\|\\
+&\quad=
+\exp\!\left(
+|B_0|\sum_{j=0}^{aa}
+\left(\frac{d_j}{l_j}-\frac{d_{j+1}}{l_{j+1}}\right)
+\left(\sum_{i=1}^{j}\chi_{J_0}(t)+\chi_{l_i}(t)\right)
+\right)
+\prod_{\xi\in B_0}\left\|BA_0^{-1}e_{J_0}\wedge e_\xi\right\|.
+\end{aligned}
+\]

@@ -1,0 +1,36 @@
+Based on the provided document, **The Rockefeller University Accounting System Report**, we can find the "TOTAL TO DATE" in two key places:
+
+1.  **In the summary row for account 110 (TOTAL):**
+    *   Under the column **"TOTAL TO DATE"**, the value is listed as **493.72-**.
+    *   The negative sign indicates a credit balance or reduction.
+
+2.  **In the detailed transaction list under account 130:**
+    *   At the bottom of the transactions for account 130, there's a subtotal line labeled **"130 TOTAL"**.
+    *   Under the **"TOTAL TO DATE"** column for this subtotal, the value is **493.72** (without a negative sign).
+
+3.  **At the very bottom of the report:**
+    *   There is a line that says `*** ACCOUNT TOTAL ***`.
+    *   Under the **"TOTAL TO DATE"** column for this grand total, the value is **0.00**.
+
+---
+
+### Interpretation
+
+*   The **account-level total to date** (for account 130) is **$493.72**. This represents the cumulative net activity for that specific account up to the report date.
+*   The **overall system total to date** (`*** ACCOUNT TOTAL ***`) is **$0.00**. This suggests that all debits and credits across all accounts have been balanced out to zero for the period reported (January 1974), which is typical for an accounting system report showing net changes or reconciled balances.
+*   The **summary line for account 110** shows **493.72-**, which likely reflects the same $493.72 but with a negative sign indicating it’s a credit balance or offsetting entry relative to the previous balance.
+
+---
+
+### Final Answer
+
+The most relevant "total amount of to date" depending on context:
+
+*   If referring to the **net activity for the main expense/account group (130)**: **$493.72**
+*   If referring to the **grand total across all accounts**: **$0.00**
+
+Given the structure of the report and common accounting practice, the **$493.72** figure under account 130 is likely the intended “total to date” for the expenses being summarized.
+
+> ✅ **Answer: $493.72**
+
+*(Note: Handwritten notes at the bottom show additional calculations like “Publication Purchases - $30.25”, “Office - $418.01”, totaling $448.26 — these appear to be manual reconciliations or adjustments not reflected in the printed totals.)*

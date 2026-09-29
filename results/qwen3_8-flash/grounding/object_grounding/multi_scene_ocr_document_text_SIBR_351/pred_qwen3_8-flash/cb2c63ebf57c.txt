@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [392, 928, 530, 941], "label": "Address"},
+	{"bbox_2d": [664, 537, 719, 551], "label": "Amount (USD)"},
+	{"bbox_2d": [44, 786, 291, 799], "label": "Bank"},
+	{"bbox_2d": [44, 838, 301, 852], "label": "Beneficiary A/C NUMBER"},
+	{"bbox_2d": [43, 910, 265, 923], "label": "Company Name"},
+	{"bbox_2d": [41, 302, 200, 354], "label": "Customer"},
+	{"bbox_2d": [44, 215, 108, 228], "label": "Customer Reference"},
+	{"bbox_2d": [519, 431, 591, 445], "label": "Customer order number"},
+	{"bbox_2d": [519, 215, 571, 228], "label": "Date"},
+	{"bbox_2d": [268, 303, 438, 355], "label": "Delivery address"},
+	{"bbox_2d": [272, 433, 303, 447], "label": "Delivery method"},
+	{"bbox_2d": [44, 433, 64, 444], "label": "Delivery terms"},
+	{"bbox_2d": [58, 527, 253, 541], "label": "Description"},
+	{"bbox_2d": [43, 945, 164, 958], "label": "Direct"},
+	{"bbox_2d": [311, 537, 387, 551], "label": "Drawing No."},
+	{"bbox_2d": [177, 945, 278, 958], "label": "Fax"},
+	{"bbox_2d": [44, 864, 271, 877], "label": "Nefab Wuxi V.A.T No."},
+	{"bbox_2d": [272, 215, 337, 228], "label": "Nefab Wuxi reference"},
+	{"bbox_2d": [27, 537, 32, 550], "label": "No."},
+	{"bbox_2d": [458, 537, 486, 550], "label": "Order quantity (PCS)"},
+	{"bbox_2d": [43, 812, 184, 825], "label": "SWIFT CODE"},
+	{"bbox_2d": [44, 708, 303, 720], "label": "Statement"},
+	{"bbox_2d": [519, 304, 639, 318], "label": "Terms of payment"},
+	{"bbox_2d": [661, 135, 726, 153], "label": "Title"},
+	{"bbox_2d": [44, 653, 440, 668], "label": "Total say in us dollar"},
+	{"bbox_2d": [582, 537, 627, 550], "label": "Unit price (USD)"}
+]
+```

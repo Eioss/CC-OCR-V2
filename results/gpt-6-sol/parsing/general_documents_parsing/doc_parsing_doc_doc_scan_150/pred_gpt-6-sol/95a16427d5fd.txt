@@ -1,0 +1,91 @@
+```latex
+\begin{center}
+\textit{සියලු හිමිකම් ඇවිරිණි.}\\
+\textit{All Rights Reserved}
+
+\vspace{1em}
+\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}\\
+{\Large\textbf{THIRD TERM TEST - 2020}}\\
+{\LARGE\textbf{ENGLISH LANGUAGE - I}}
+\end{center}
+
+\noindent\textbf{Grade 11}\hfill\textbf{One Hour}
+
+\noindent\fbox{\parbox{0.96\linewidth}{Name / Index No. :}}
+
+\noindent\textbf{Answer all questions on this paper itself.}
+\hrule
+
+\noindent\textbf{Test -1}\quad
+\textbf{Fill in the blanks of the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given.}
+\textit{The first one is done for you.}
+
+\begin{tabular}{p{2.2cm}cp{10.1cm}}
+\textit{Postal clerk} & : & What can I do for you today?\\
+\textit{Anne} & : & I need to mail this (1) \underline{\hspace{0.4cm}(b)\hspace{0.4cm}} to Galle, please.\\
+\textit{Postal clerk} & : & OK, let's see how much it (2) \dotfill\ Well, It's about 350 grams.\\
+\textit{Anne} & : & I need to send it by (3) \dotfill\ mail.\\
+\textit{Postal clerk} & : & If you do so, it will get there (4) \dotfill\ Or you can send it priority and it will get there by Saturday.\\
+\textit{Anne} & : & Saturday is fine. How much will that be?\\
+\textit{Postal clerk} & : & Rs.750. Do you (5) \dotfill\ anything else?\\
+\textit{Anne} & : & Oh, yes! I almost forgot. I need a book of (6) \dotfill, too.\\
+\textit{Postal clerk} & : & OK, your total is Rs.1950.
+\end{tabular}
+
+\begin{flushright}
+\begin{tabular}{|ll|}
+\hline
+(a) & want\\
+(b) & package\\
+(c) & stamps\\
+(d) & weighs\\
+(e) & express\\
+(f) & tomorrow\\
+\hline
+\end{tabular}
+\qquad
+\begin{tabular}{|l|}
+\hline
+Marks\\ \hline
+$1\times5$\\[3em]
+Total\quad 05\\ \hline
+\end{tabular}
+\end{flushright}
+
+\noindent\textbf{Test - 2}\quad
+\textbf{Read the following guidelines given by a hotel to its guests and complete them with the correct prepositions given below.}
+\textit{The first one is done for you.}
+
+\begin{center}
+during,\quad till,\quad for,\quad of,\quad from,\quad on
+\end{center}
+
+\noindent\fbox{\begin{minipage}{0.75\linewidth}
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+The following information will help you to have an enjoyable stay:
+
+\begin{itemize}
+\item[$\blacklozenge$] The restaurant is open daily (1) \dotfill\ \textbf{from}\ \dotfill\ 6.30 a.m. to 9.30 p.m.
+\item[$\blacklozenge$] You can order breakfast in your room by hanging the Menu card (2) \dotfill\ the door.
+\item[$\blacklozenge$] If you need a doctor (3) \dotfill\ the night, please call 100.
+\item[$\blacklozenge$] There is a play room (4) \dotfill\ kids below 10 years
+\item[$\blacklozenge$] There is free wifi in the rooms and the password is given in the back (5) \dotfill\ your room key.
+\item[$\blacklozenge$] The main gate is open (6) \dotfill\ 10.00 p.m.
+\end{itemize}
+\end{minipage}}
+\hfill
+\begin{tabular}{|l|}
+\hline
+Marks\\ \hline
+$1\times5$\\[3em]
+Total\quad 05\\ \hline
+\end{tabular}
+
+\begin{center}
+(01)
+\end{center}
+
+\noindent\textit{[Sinhala text at foot of page]}
+```

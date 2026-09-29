@@ -1,0 +1,74 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <tr>
+    <th style="border-bottom: 2px solid black; padding: 5px;">Account</th>
+    <th style="border-bottom: 2px solid black; padding: 5px; text-align: right;">Balance</th>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Long-term debt</td>
+    <td style="padding: 5px; text-align: right;">$200,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Cash</td>
+    <td style="padding: 5px; text-align: right;">50,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Net sales</td>
+    <td style="padding: 5px; text-align: right;">600,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Fixed assets (net)</td>
+    <td style="padding: 5px; text-align: right;">320,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Tax expense</td>
+    <td style="padding: 5px; text-align: right;">67,500</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Inventory</td>
+    <td style="padding: 5px; text-align: right;">25,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Common stock</td>
+    <td style="padding: 5px; text-align: right;">100,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Interest expense</td>
+    <td style="padding: 5px; text-align: right;">20,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Administrative expense</td>
+    <td style="padding: 5px; text-align: right;">35,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Retained earnings</td>
+    <td style="padding: 5px; text-align: right;">150,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Accounts payable</td>
+    <td style="padding: 5px; text-align: right;">65,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Accounts receivable</td>
+    <td style="padding: 5px; text-align: right;">120,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Cost of goods sold</td>
+    <td style="padding: 5px; text-align: right;">400,000</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Depreciation expense</td>
+    <td style="padding: 5px; text-align: right;">10,000</td>
+  </tr>
+</table>
+
+<br>
+
+<strong>Additional Information:</strong>
+<ul>
+  <li>The opening balance of common stock was $100,000.</li>
+  <li>The opening balance of retained earnings was $82,500.</li>
+  <li>The company had 10,000 common shares outstanding all year.</li>
+  <li>No dividends were paid during the year.</li>
+</ul>
+```

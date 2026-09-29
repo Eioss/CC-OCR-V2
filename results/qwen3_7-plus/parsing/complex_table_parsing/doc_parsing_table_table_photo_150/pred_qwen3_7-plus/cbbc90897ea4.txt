@@ -1,0 +1,191 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="14">一、橱柜-乐活系列延米价格表(标准销售价,单位:元/米)(整单标准率100%的订单价格表)</th>
+   </tr>
+   <tr>
+    <th rowspan="2">序号</th>
+    <th colspan="6">名称款式</th>
+    <th colspan="7">标准柜(元/米)<br/>(标准深度地柜/中立柜/高柜560,吊柜/台上柜330)</th>
+    <th colspan="7">非标准高度柜系列(元/米)<br/>(深度地柜/中立柜/高柜560,吊柜/台上柜330)</th>
+    <th rowspan="2">单独加工橱门<br/>(元/平方米)</th>
+    <th rowspan="2">备注</th>
+   </tr>
+   <tr>
+    <th>产品系列</th>
+    <th>基础配置</th>
+    <th>门板材料</th>
+    <th>门板级别</th>
+    <th>地柜<br/>660/720</th>
+    <th>吊柜<br/>360/420/<br/>450</th>
+    <th>吊柜720</th>
+    <th>吊柜<br/>840/<br/>900</th>
+    <th>台上柜<br/>1380/<br/>1560</th>
+    <th>中立柜<br/>1380/<br/>1440</th>
+    <th>高柜2100<br/>/2160/2220<br/>/2280/2340</th>
+    <th>地柜<br/>H≤360</th>
+    <th>地柜<br/>360&lt;H&lt;720</th>
+    <th>吊柜/台<br/>上柜<br/>H&lt;450</th>
+    <th>吊柜/台<br/>上柜<br/>450&lt;H&lt;900</th>
+    <th>吊柜/台<br/>上柜<br/>900&lt;H&lt;1560</th>
+    <th>中立柜<br/>720&lt;H≤950</th>
+    <th>中立柜<br/>950&lt;H&lt;1440</th>
+    <th>高柜柜<br/>1440&lt;<br/>H≤<br/>2400</th>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td rowspan="5">乐活系列</td>
+    <td rowspan="5">经典配置</td>
+    <td>烤漆</td>
+    <td>靓晶漆</td>
+    <td>1184</td>
+    <td>780</td>
+    <td>1062</td>
+    <td>1194</td>
+    <td>1974</td>
+    <td>2369</td>
+    <td>2961</td>
+    <td>1010</td>
+    <td>1510</td>
+    <td>880</td>
+    <td>1520</td>
+    <td>2520</td>
+    <td>1950</td>
+    <td>3020</td>
+    <td>3780</td>
+    <td>931</td>
+    <td>单面烤漆饰面,背面哑白饰面,基材为中纤板“仅加工平板工艺YMK001、YMK002”,双面烤漆加乘1.3系数</td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>三维膜</td>
+    <td>三维膜C级</td>
+    <td>1100</td>
+    <td>729</td>
+    <td>1001</td>
+    <td>1142</td>
+    <td>1880</td>
+    <td>2200</td>
+    <td>2754</td>
+    <td>940</td>
+    <td>1400</td>
+    <td>820</td>
+    <td>1460</td>
+    <td>2400</td>
+    <td>1810</td>
+    <td>2810</td>
+    <td>3520</td>
+    <td>884</td>
+    <td>正面PVC饰面,背面贴哑白饰面纸</td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>防火板</td>
+    <td>美耐板</td>
+    <td>1025</td>
+    <td>677</td>
+    <td>921</td>
+    <td>1034</td>
+    <td>1711</td>
+    <td>2049</td>
+    <td>2566</td>
+    <td>870</td>
+    <td>1310</td>
+    <td>760</td>
+    <td>1320</td>
+    <td>2180</td>
+    <td>1690</td>
+    <td>2620</td>
+    <td>3280</td>
+    <td>752</td>
+    <td>正面防火板饰面,背面贴带欧派标识的哑白防火板</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>UV超晶板</td>
+    <td>超晶板C级</td>
+    <td>1043</td>
+    <td>682</td>
+    <td>949</td>
+    <td>1067</td>
+    <td>1758</td>
+    <td>2087</td>
+    <td>2613</td>
+    <td>890</td>
+    <td>1330</td>
+    <td>770</td>
+    <td>1360</td>
+    <td>2240</td>
+    <td>1720</td>
+    <td>2660</td>
+    <td>3340</td>
+    <td>743</td>
+    <td>基材为刨花板,单面UV漆饰面</td>
+   </tr>
+   <tr>
+    <td>5</td>
+    <td>爱家板</td>
+    <td>爱家板</td>
+    <td>888</td>
+    <td>583</td>
+    <td>799</td>
+    <td>902</td>
+    <td>1485</td>
+    <td>1777</td>
+    <td>2218</td>
+    <td>760</td>
+    <td>1130</td>
+    <td>660</td>
+    <td>1150</td>
+    <td>1900</td>
+    <td>1460</td>
+    <td>2270</td>
+    <td>2830</td>
+    <td>639</td>
+    <td>饰面纸饰面,PVC封边</td>
+   </tr>
+   <tr>
+    <td colspan="20"><b>备注:</b><br/>1、整单标准化率:单个正常合同订单中(不含补单),所有地柜、吊柜、立柜(非必选)柜体模块、门板布局、尺寸均按标准设计,装饰部件及线材类按工艺标准设计,同时在设计软件中判定为“100%标准化”的正常订单(即整单标准率100%)<br/>2、烟机吊柜高度尺寸为600/620/640/650时按标准吊柜H720延米价格计价,烟机吊柜高度尺寸为760/820时按标准吊柜H900延米价格计价。<br/>3、普通吊柜高度尺寸为600/620/640/650时按标准吊柜H720延米价格*1.1计价,普通吊柜高度尺寸为760/820时按标准吊柜H900延米价格*1.1计价。</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

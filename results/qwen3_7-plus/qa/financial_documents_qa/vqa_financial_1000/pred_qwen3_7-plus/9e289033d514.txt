@@ -1,0 +1,17 @@
+Based on the provided image, which shows both an **Invoice** (left side) and a **Packing List** (right side), we need to look at the **Invoice** section for the subtotal.
+
+On the left-hand side, under the "INVOICE" heading, there is a summary of charges:
+
+- **MERCHANDISE**: $35.00
+- **HANDLING**: $2.00
+- **SUB TOTAL**: **$37.00**
+- **PRE-PAID**: $37.00
+- **BALANCE DUE**: $0.00
+
+The **subtotal** listed on the invoice is **$37.00**.
+
+This amount represents the sum of the merchandise ($35.00) and handling ($2.00).
+
+---
+
+✅ **Final Answer: 37.00**

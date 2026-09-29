@@ -1,0 +1,16 @@
+\[
+M_5=\left\{
+\begin{array}{cccccccccc}
+\binom{1}{0}d & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & S'_1\\
+0 & \binom{2}{1}d & 0 & 0 & 0 & 0 & 0 & 0 & 0 & S'_2\\
+0 & 0 & \binom{3}{2}d & 0 & 0 & 0 & 0 & 0 & 0 & S'_3\\
+0 & 0 & 0 & \binom{4}{3}d & 0 & 0 & 0 & 0 & 0 & S'_4\\
+0 & 0 & 0 & \binom{5}{3}d^2 & \binom{5}{4}d & 0 & 0 & 0 & 0 & S'_5\\
+\vdots & \vdots & \vdots & \vdots & \vdots & \vdots & 0 & 0 & 0 & \vdots\\
+\vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & 0 & 0 & \vdots\\
+\vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & 0 & \vdots\\
+0 & 0 & 0 & \binom{k}{3}d^{k-3} & \cdots & \cdots & \cdots & \cdots & \binom{k}{k-1}d & S'_k\\
+0 & 0 & 0 & \binom{k+1}{3}d^{k-2} & \cdots & \cdots & \cdots & \cdots & \binom{k+1}{k-1}d^2 & S'_{k+1}
+\end{array}
+\right\}
+\]

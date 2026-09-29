@@ -1,0 +1,21 @@
+$$\int \limits _ { B ( 2 6 R _ { x } ^ { - 1 } ) \setminus B ( R ) } \nabla v \nabla p _ { \alpha } d w _ { \alpha } \leq C \| \varphi \| _ { H _ { 1 } ( M ) } ( \int \limits _ { B ( 3 6 R _ { x } ^ { - 1 } ) \setminus B ( R ) } | \nabla v | ^ { 2 } d x ) ^ { \frac { 1 } { 2 } }$$
+
+$$= o ( 1 ) \varphi \Vert _ { H ^ { 2 } ( M ) } \in ( R ) ,$$
+
+$$k _ { Y } ^ { [ j ] } ( u ) = \left\{ \begin{array} { l l } { k _ { X } ^ { [ j ] } ( u ) , } & { i f u \notin ( u _ { a } , u _ { b } ) , } \\ { ( a ( u - u _ { a } ) + k _ { X } ^ { [ j ] } ( u _ { a } ) ) \vee ( b ( u - u _ { b } ) + k _ { X } ^ { [ j ] } ( u _ { b } ) ) , } & { i f u \in ( u _ { a } , u _ { b } ) . } \end{array} \right.$$
+
+$$f ( x ) + f ( y ) = f ( p ( x ) ) + f ( p ( y ) ) \geq f ( p ( x ) \rightarrow p ( y ) ) + f ( p ( y ) \rightarrow p ( x ) ) =$$
+
+$$f ( p ( x \rightarrow y ) ) + f ( p ( y \rightarrow x ) ) = f ( x \rightarrow y ) + f ( y \rightarrow x )$$
+
+$$- g h ^ { \prime } ( \frac { d ( x ) } { \epsilon / 3 } ) + W ^ { \prime \prime } ( q ( \frac { d ( x ) } { \epsilon / 3 } ) ) - 6 \Bigl ( q ( \frac { d ( x ) } { \epsilon / 3 } ) - q ( \frac { d ( x ) } { \epsilon / 3 } ) ^ { 2 } \Bigr ) \Delta d ( x )$$
+
+$$+ 3 0 ( g ( \frac { d ( x ) } { \epsilon / 3 } ) - g ( \frac { d ( x ) } { \epsilon / 3 } ) ^ { 2 } ) ^ { 2 } \lambda _ { 0 } = 0 .$$
+
+$$E _ { n } ( w ) = F _ { n } , n , n = 0 , 1 , 2 , \ldots$$
+
+$$p [ r ( m _ { 1 } ) , p ( m _ { 2 } ) ] = [ r ( m _ { 1 } ) , p ( m _ { 2 } ) ] \neq 0 ,$$
+
+$$v ( t , x , p ) \simeq 1 , \quad a n d \quad | D _ { p } ^ { 6 } v ( t , x , p ) | \lesssim ( p ^ { 0 } ) ^ { - 1 } , | p | > 0 .$$
+
+$$( i w \cdot l - ( d _ { r } ( w , j ) - d _ { r } ( w , k ) ) ) , \underbrace { v _ { j } ^ { k } ( l ) + R _ { j } ^ { k } ( l ) } _ { = : \delta _ { 1 ; j k } ( w ) } = ( [ R ] ) _ { j } ^ { k } ( l ) .$$

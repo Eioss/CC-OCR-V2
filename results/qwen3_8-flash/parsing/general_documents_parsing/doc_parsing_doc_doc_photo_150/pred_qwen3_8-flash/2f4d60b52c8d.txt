@@ -1,0 +1,67 @@
+```latex
+\begin{center}
+    2 \hfill ME 831 \\
+    Score \\
+    SECTION - B
+\end{center}
+
+(Answer any 4 questions from 6 to 10. Each question carries 2 scores.)
+
+\textbf{6.} The molecular mass of water ($H_2O$) is 18.
+\begin{enumerate}
+    \item[(a)] Find the mass of 1 GMM $H_2O$. \hfill 1
+    \item[(b)] How many moles of molecules are there in 180 g of $H_2O$ ? \hfill 1
+\end{enumerate}
+
+\textbf{7.} Haematite is converted into iron by using the blast furnace.
+\begin{enumerate}
+    \item[(a)] Which are the substances fed into the blast furnace along with the ore of iron ? \hfill 1
+    \item[(b)] Which compound acts as the reducing agent in the blast furnace ? \hfill 1
+\end{enumerate}
+
+\textbf{8.} $FeCl_2$ and $FeCl_3$ are two different chlorides of iron.
+[Hint : Atomic number of Fe = 26
+Oxidation state of Cl = (-1)]
+\begin{enumerate}
+    \item[(a)] Find the oxidation state of Fe in $FeCl_2$. \hfill 1
+    \item[(b)] Write down the subshell wise electronic configuration of $Fe^{3+}$. \hfill 1
+\end{enumerate}
+
+\textbf{9.}
+\begin{enumerate}
+    \item[(a)] Which homologous series do the hydrocarbons with general formula $C_nH_{2n}$ belong to ? [alkane, alkene, alkyne] \hfill 1
+    \item[(b)] Write the structural formula of a member of the same homologous series having 3 carbon atoms. \hfill 1
+\end{enumerate}
+
+\textbf{10.} Soaps and detergents are cleansing agents.
+\begin{enumerate}
+    \item[(a)] Name the byproduct in the industrial production of soap. \hfill 1
+    \item[(b)] How does excessive use of detergents destroy aquatic life ? \hfill 1
+\end{enumerate}
+
+\begin{center}
+    SECTION - C
+\end{center}
+
+(Answer any 4 questions from 11 to 15. Each question carries 3 scores.)
+
+\textbf{11.} The relation between the volume and temperature of a fixed mass of gas at constant pressure is shown in the table.
+
+\begin{tabular}{|c|c|}
+\hline
+Volume (V) & Temperature (T) \\
+(L) & (K) \\
+\hline
+600 & 300 \\
+\hline
+400 & (P) \\
+\hline
+(Q) & 500 \\
+\hline
+\end{tabular}
+
+\begin{enumerate}
+    \item[(a)] Find (P) and (Q). \hfill 2
+    \item[(b)] Which gas law is associated with the given relation ? \hfill 1
+\end{enumerate}
+```

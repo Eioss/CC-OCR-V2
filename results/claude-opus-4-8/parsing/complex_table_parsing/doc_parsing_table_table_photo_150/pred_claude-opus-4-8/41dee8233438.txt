@@ -1,0 +1,54 @@
+I'll transcribe the table from this weighing measurement document into HTML format.
+
+```html
+<table border="1">
+  <tr>
+    <td colspan="6" style="text-align:center;">
+      <strong>国能新疆化工有限公司</strong><br>
+      <strong>称重计量单</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">计量单位：吨</td>
+    <td colspan="2">提货单号：TBBU6252900</td>
+    <td colspan="2">No：0320220305055867</td>
+  </tr>
+  <tr>
+    <td>车　号</td>
+    <td>鲁PL2795</td>
+    <td>发货单位</td>
+    <td colspan="3">国家能源集团新疆能源有限责任公司红沙泉煤矿（环线）专用线</td>
+  </tr>
+  <tr>
+    <td>货　名</td>
+    <td>红沙泉煤环线</td>
+    <td>收货单位</td>
+    <td colspan="3">国能新疆化工有限公司</td>
+  </tr>
+  <tr>
+    <td>规　格</td>
+    <td></td>
+    <td>运输单位</td>
+    <td colspan="3">新疆神华中顺物流有限责任公司</td>
+  </tr>
+  <tr>
+    <td>毛　重</td>
+    <td>49.68</td>
+    <td>皮　重</td>
+    <td>17.8</td>
+    <td>净　重</td>
+    <td>31.88</td>
+  </tr>
+  <tr>
+    <td>检斤时间</td>
+    <td>2022-03-05 20:17:36</td>
+    <td>流　向</td>
+    <td>流入</td>
+    <td>司磅员</td>
+    <td>自动过磅</td>
+  </tr>
+  <tr>
+    <td colspan="6">客　户：</td>
+  </tr>
+</table>
+```

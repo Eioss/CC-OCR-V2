@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [239, 95, 547, 106], "label": "ADD"},
+	{"bbox_2d": [100, 231, 324, 265], "label": "ADDRESS"},
+	{"bbox_2d": [536, 401, 609, 411], "label": "Amount (USD)"},
+	{"bbox_2d": [86, 90, 217, 101], "label": "COMPANY NAME"},
+	{"bbox_2d": [464, 232, 511, 244], "label": "Date"},
+	{"bbox_2d": [102, 402, 259, 436], "label": "Description of Goods"},
+	{"bbox_2d": [485, 118, 599, 129], "label": "FAX"},
+	{"bbox_2d": [481, 860, 531, 870], "label": "FOB价"},
+	{"bbox_2d": [171, 879, 236, 888], "label": "H/S-CODE"},
+	{"bbox_2d": [70, 402, 86, 411], "label": "Marks"},
+	{"bbox_2d": [464, 209, 527, 219], "label": "No."},
+	{"bbox_2d": [171, 771, 307, 781], "label": "P/O No."},
+	{"bbox_2d": [331, 401, 361, 411], "label": "Quantity (KGS)"},
+	{"bbox_2d": [354, 118, 464, 129], "label": "TEL"},
+	{"bbox_2d": [280, 166, 421, 182], "label": "TITLE"},
+	{"bbox_2d": [405, 304, 564, 315], "label": "TO"},
+	{"bbox_2d": [471, 281, 614, 291], "label": "Terms of Payment"},
+	{"bbox_2d": [426, 401, 474, 411], "label": "Unit Price (USD/KG)"},
+	{"bbox_2d": [478, 826, 512, 836], "label": "保险费"},
+	{"bbox_2d": [479, 843, 482, 853], "label": "净佣金"},
+	{"bbox_2d": [481, 808, 525, 817], "label": "海运费"},
+	{"bbox_2d": [465, 879, 500, 889], "label": "船期"},
+	{"bbox_2d": [471, 897, 506, 908], "label": "贸易性质"},
+	{"bbox_2d": [481, 790, 530, 799], "label": "陆运费"}
+]
+```

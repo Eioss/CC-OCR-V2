@@ -1,0 +1,125 @@
+Based on the provided infographic, we can determine how many states have the **lowest** average monthly cost of child care by examining the color-coded map and the legend.
+
+### Step 1: Understand the Legend
+The legend on the top left shows a gradient from red (Highest) to green/teal (Lowest). The specific colors are:
+- Red = Highest
+- Orange-red
+- Light orange
+- Yellow
+- Light green
+- Green
+- Teal/Dark green = Lowest
+
+However, the question asks for “how many states have the lowest” — this likely refers to the **minimum value shown**, not necessarily all states in the darkest color category. We should look at the actual dollar amounts labeled on each state.
+
+### Step 2: Scan the Map for the Lowest Dollar Amounts
+Looking at the labeled values across the U.S. map:
+
+- **South Dakota**: $472
+- **Mississippi**: $402
+- **Louisiana**: $479
+- **Arkansas**: $500
+- **Alabama**: $470
+- **Kentucky**: $525
+- **Wyoming**: $545
+- **North Carolina**: $771 (not low)
+- **Idaho**: $600
+- **Montana**: $755
+- **Nebraska**: $661
+- **New Mexico**: $662
+- **Texas**: $730
+- **Oklahoma**: $566
+- **Tennessee**: $488
+- **Georgia**: $637
+- **Florida**: $725
+- **Hawaii**: $690
+- **Alaska**: $913
+- **Maine**: $793
+- **Vermont**: $939
+- **New Hampshire**: $984
+- **Massachusetts**: $1,422
+- **Rhode Island**: $1,072
+- **Connecticut**: $1,157
+- **New Jersey**: $961
+- **Delaware**: $917
+- **Maryland**: $1,161
+- **Washington, D.C.**: $1,886 ← *highest*
+- **Illinois**: $1,080
+- **Indiana**: $743
+- **Ohio**: $748
+- **Michigan**: $824
+- **Wisconsin**: $965
+- **Minnesota**: $1,197
+- **Iowa**: $790
+- **Missouri**: $719
+- **Kansas**: $933
+- **Colorado**: $1,096
+- **Utah**: $720
+- **Arizona**: $786
+- **Nevada**: $821
+- **California**: $985
+- **Oregon**: $944
+- **Washington**: $1,061
+- **Idaho**: $600
+- **Montana**: $755
+- **Wyoming**: $545
+- **North Dakota**: $685
+- **South Dakota**: $472 ← *very low*
+- **Nebraska**: $661
+- **Kansas**: $933
+- **Oklahoma**: $566
+- **Texas**: $730
+- **Arkansas**: $500
+- **Louisiana**: $479
+- **Mississippi**: $402 ← **lowest overall**
+- **Alabama**: $470
+- **Tennessee**: $488
+- **Kentucky**: $525
+- **West Virginia**: $661
+- **Virginia**: $872
+- **North Carolina**: $771
+- **South Carolina**: $540
+- **Georgia**: $637
+- **Florida**: $725
+
+Also note: In the bar chart titled “HOW MANY U.S. FAMILIES CAN AFFORD CHILD CARE?”, South Dakota has the highest percentage of families that can afford childcare (57.7%), which correlates with its very low cost ($472), but Mississippi is even lower at $402.
+
+Wait — let’s double-check **Mississippi**: It says **$402** — that’s the lowest number visible on the entire map.
+
+Is there any other state below $402? Let’s check again...
+
+No. All others are higher.
+
+So if “lowest” means the single minimum value, then only **one state** — **Mississippi** — has the absolute lowest average monthly cost at **$402**.
+
+But perhaps the question intends to ask: How many states fall into the “lowest” *color category*? Looking at the map, the darkest teal/green shades appear in:
+
+- Mississippi ($402)
+- Louisiana ($479)
+- Alabama ($470)
+- South Dakota ($472)
+- Arkansas ($500)
+- Tennessee ($488)
+- Kentucky ($525)
+- Wyoming ($545)
+- North Carolina ($771)? No — too high.
+- Actually, looking closely, the map uses multiple shades. But the legend doesn’t define exact ranges per color — it’s qualitative.
+
+Alternatively, maybe the question expects us to count states with costs under some threshold — but no such threshold is given.
+
+Given ambiguity, the safest interpretation is: **Which state has the numerically lowest cost?**
+
+→ **Mississippi: $402**
+
+Are there ties? Check again:
+
+- Mississippi: $402
+- Next lowest: Alabama $470, South Dakota $472, Louisiana $479 — all significantly higher.
+
+So **only one state** has the lowest average monthly cost.
+
+---
+
+✅ Final Answer: **1**
+
+*(Mississippi, at $402/month)*

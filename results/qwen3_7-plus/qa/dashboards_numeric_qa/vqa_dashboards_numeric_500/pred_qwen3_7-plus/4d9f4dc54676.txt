@@ -1,0 +1,12 @@
+To find the difference between **total cases** and **active cases** in India from the table:
+
+- **Total cases (India)** = **22,68,675**
+- **Active cases (India)** = **6,39,929**
+
+Now subtract active cases from total cases:
+
+> **22,68,675 - 6,39,929 = 16,28,746**
+
+This difference represents the number of **resolved cases** (i.e., recovered + deaths) in India as of August 11, 2020.
+
+✅ **Final Answer: 16,28,746**

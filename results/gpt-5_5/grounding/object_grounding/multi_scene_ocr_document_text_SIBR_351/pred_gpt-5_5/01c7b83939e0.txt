@@ -1,0 +1,17 @@
+[
+  {"bbox_2d": [89, 48, 493, 65], "label": "Company Name"},
+  {"bbox_2d": [91, 73, 514, 87], "label": "Address"},
+  {"bbox_2d": [91, 94, 240, 104], "label": "Tel"},
+  {"bbox_2d": [244, 94, 409, 104], "label": "Fax"},
+  {"bbox_2d": [424, 121, 577, 150], "label": "Title"},
+  {"bbox_2d": [745, 107, 876, 121], "label": "Invoice No."},
+  {"bbox_2d": [87, 163, 523, 177], "label": "To"},
+  {"bbox_2d": [799, 167, 926, 179], "label": "Sales Confirmation No."},
+  {"bbox_2d": [753, 190, 875, 203], "label": "Date"},
+  {"bbox_2d": [211, 222, 378, 235], "label": "From"},
+  {"bbox_2d": [264, 245, 311, 258], "label": "Payment"},
+  {"bbox_2d": [145, 329, 299, 408], "label": "Marks & Numbers"},
+  {"bbox_2d": [484, 329, 581, 408], "label": "Quantities and Descriptions"},
+  {"bbox_2d": [622, 329, 729, 408], "label": "Unit Price"},
+  {"bbox_2d": [781, 329, 909, 430], "label": "Amount"}
+]

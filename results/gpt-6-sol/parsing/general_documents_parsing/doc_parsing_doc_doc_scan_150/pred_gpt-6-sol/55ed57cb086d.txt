@@ -1,0 +1,78 @@
+```latex
+\noindent\underline{\textbf{Argumentative Essay Structure}}
+
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 1: Introduction\\
+- Background\\
+(a) Overview of current situation/ Context based on question\\
+(b) Contextual Definition of key terms (if necessary)\\
+(c) Why this issue is interesting/significant\\
+- Persuasive techniques: Hook (Statistics/ Facts Social trends from credible sources)/ Anecdote\\
+/ Rhetorical question / Relevant Quote/ Astounding statement/ Alliteration/ Addressing reader\\
+in second person pronoun/ Figurative language)\\
+(d) Comparison of different viewpoints (if necessary)\\
+(e) My Stand: Using synonyms (varied vocab) to rephrase question \& defining a boundary for\\
+discussion\\
+(f) Summarised Points (of 3 supporting reasons)
+\end{minipage}}
+
+\medskip
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 2: Point 1 (Most significant/strongest point)\\
+- State Point (topic sentence)\\
+- Give Explanation and Elaboration of Point\\
+- Example 1 to support Point\\
+- Explanation and Elaboration of Example 1\\
+- Example 2 to support Point (if necessary)\\
+- Explanation and Elaboration of Example 2 (if necessary)\\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{minipage}}
+
+\medskip
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 3: Point 2 (Second most significant/ strongest point)\\
+- State Point (topic sentence)\\
+- Give Explanation and Elaboration of Point\\
+- Example 1 to support Point\\
+- Explanation and Elaboration of Example 1\\
+- Example 2 to support Point (if necessary)\\
+- Explanation and Elaboration of Example 2 (if necessary)\\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{minipage}}
+
+\medskip
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 4: Counterargument and Rebuttal\\
+- An argument, usually a popular or common argument, that someone will use to tear down\\
+one of your topic sentence or your stand (addressing the other side of the argument to make it\\
+seem 'balanced')\\
+- A rebuttal to crush/demolish/defeat the counterargument (as a defence of your\\
+stand/supporting points)\\
+- Explanation \& Examples to support and show why your supporting argument/stand is still\\
+stronger\\
+- Link (use synonyms (varied vocab) to re-emphasise stand)
+\end{minipage}}
+
+\medskip
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 5: Point 3 (Third most significant/ strongest point)\\
+- State Point (topic sentence)\\
+- Give Explanation and Elaboration of Point\\
+- Example 1 to support Point\\
+- Explanation and Elaboration of Example 1\\
+- Example 2 to support Point (if necessary)\\
+- Explanation and Elaboration of Example 2 (if necessary)\\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{minipage}}
+
+\medskip
+\noindent\fbox{\begin{minipage}{0.94\textwidth}
+Paragraph 6: Conclusion\\
+- Restate stand (using synonyms (varied vocab) to rephrase question)\\
+- Summarised Points\\
+- End with a bang! - Statistics/ Rhetorical question / Relevant Quote/ Astounding statement/\\
+Alliteration/ Addressing reader in second person pronoun/ figurative language\\
+- Suggest something out of the box (a solution/future possibilities) related to topic/question (if\\
+applicable)
+\end{minipage}}
+```

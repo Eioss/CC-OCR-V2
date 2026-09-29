@@ -1,0 +1,5 @@
+The text '379.00' appears multiple times. Here are the locations:
+
+(193, 1228, 326, 1262) # 房费:379.00
+(495, 1320, 593, 1352) # 379.00 (合计金额/AMOUNT)
+(498, 1453, 595, 1485) # 379.00 (DEPOSIT RECEIVED)

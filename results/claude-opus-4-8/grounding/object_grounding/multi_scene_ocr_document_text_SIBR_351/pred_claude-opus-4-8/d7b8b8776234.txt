@@ -1,0 +1,29 @@
+```json
+[
+  {"bbox_2d": [398, 70, 615, 116], "label": "Title"},
+  {"bbox_2d": [1238, 121, 1389, 152], "label": "Address"},
+  {"bbox_2d": [1238, 161, 1431, 187], "label": "Contract No."},
+  {"bbox_2d": [1238, 196, 1413, 222], "label": "Date"},
+  {"bbox_2d": [199, 197, 558, 232], "label": "Supplier"},
+  {"bbox_2d": [195, 392, 503, 422], "label": "Name"},
+  {"bbox_2d": [560, 392, 715, 423], "label": "Manufactory Code"},
+  {"bbox_2d": [786, 393, 877, 421], "label": "Commodity"},
+  {"bbox_2d": [929, 393, 1018, 419], "label": "Quantity"},
+  {"bbox_2d": [1040, 386, 1170, 419], "label": "Unit Price (USD)"},
+  {"bbox_2d": [1182, 388, 1314, 419], "label": "Total price (USD)"},
+  {"bbox_2d": [110, 438, 552, 484], "label": "Name"},
+  {"bbox_2d": [600, 451, 716, 480], "label": "Manufactory Code"},
+  {"bbox_2d": [777, 451, 919, 480], "label": "Commodity"},
+  {"bbox_2d": [929, 451, 1018, 480], "label": "Quantity"},
+  {"bbox_2d": [1043, 451, 1141, 480], "label": "Unit Price (USD)"},
+  {"bbox_2d": [1186, 451, 1314, 480], "label": "Total price (USD)"},
+  {"bbox_2d": [929, 502, 1018, 531], "label": "Quantity"},
+  {"bbox_2d": [1186, 502, 1314, 531], "label": "Total price (USD)"},
+  {"bbox_2d": [80, 549, 627, 591], "label": "Shipment time"},
+  {"bbox_2d": [654, 549, 855, 581], "label": "Inspection standards"},
+  {"bbox_2d": [638, 591, 768, 642], "label": "Destination ports"},
+  {"bbox_2d": [80, 657, 605, 740], "label": "Terms of payment"},
+  {"bbox_2d": [638, 645, 763, 706], "label": "Price term"},
+  {"bbox_2d": [80, 728, 1314, 945], "label": "Remark"}
+]
+```

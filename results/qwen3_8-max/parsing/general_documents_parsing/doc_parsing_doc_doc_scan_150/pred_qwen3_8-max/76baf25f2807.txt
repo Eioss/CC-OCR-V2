@@ -1,0 +1,75 @@
+Based on the image provided, here is the transcription of the text and table into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{graphicx} % For including images if necessary, though not used for text transcription
+\usepackage{tikz} % For drawing the speech bubble if needed, or just use text
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textbf{\textcolor{purple}{The} \textcolor{orange}{passive} \textcolor{blue}{voice}}}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+    \begin{tabular}{>{\bfseries}l p{6cm} p{6cm}}
+        \toprule
+        & \textbf{Active Voice} & \textbf{Passive Voice} \\
+        \midrule
+        Present Simple & They \textcolor{red}{serve} dinner at 6pm & Dinner \textcolor{red}{is served} at 6pm \\
+        Present Continuous & They \textcolor{red}{are serving} dinner now. & Dinner \textcolor{red}{is being served} now. \\
+        Past Simple & They \textcolor{red}{served} dinner. & Dinner \textcolor{red}{was served}. \\
+        Past Continuous & They \textcolor{red}{were serving} dinner. & Dinner \textcolor{red}{was being served}. \\
+        Future Simple & They \textcolor{red}{will serve} dinner. & Dinner \textcolor{red}{will be served}. \\
+        Present Perfect & They \textcolor{red}{have served} dinner. & Dinner \textcolor{red}{has been served}. \\
+        Past Perfect & They \textcolor{red}{had served} dinner. & Dinner \textcolor{red}{had been served}. \\
+        Future Perfect & They \textcolor{red}{will have served} dinner. & Dinner \textcolor{red}{will have been served}. \\
+        Present infinitive & They \textcolor{red}{should serve} dinner. & Dinner \textcolor{red}{should be served}. \\
+        Perfect infinitive & They \textcolor{red}{should have served} dinner. & Dinner \textcolor{red}{should have been served}. \\
+        -ing form & He likes people \textcolor{red}{serving} his dinner & He likes his dinner \textcolor{red}{being served}. \\
+        Perfect-ing form & \textcolor{red}{Having served} dinner,... & Dinner \textcolor{red}{havign been served}... \\
+        Modals+ be + p.p. & You \textcolor{red}{must serve} dinner. & Dinner \textcolor{red}{must be served}. \\
+        \bottomrule
+    \end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\subsection*{Exercise}
+
+\textit{Karen is writing an article about Vivienne Tam for the school newspaper. Help her to complete the article using the correct passive form of the verbs in brackets. One of the verbs is negative.}
+
+\vspace{0.5cm}
+
+Fashion designer Vivienne Tam $^{(1)}$\underline{\hspace{5cm}} (name) 'Yin Yok' when she was born. She $^{(2)}$\underline{\hspace{5cm}} (give) her English name when she started studying in Hong Kong. She $^{(3)}$\underline{\hspace{5cm}} (teach) English at school but spoke Cantonese at home. She $^{(4)}$\underline{\hspace{5cm}} (tell) to always remember her Chinese culture. At the same time, western ideas $^{(5)}$\underline{\hspace{5cm}} (introduce) to her since people from many cultures were living in Hong Kong. This mix of East and West in her life $^{(6)}$\underline{\hspace{5cm}} (see) in her designs even now.
+
+Vivienne moved to New York when she was twenty-five. Her new and interesting designs $^{(7)}$\underline{\hspace{5cm}} (like) by important shops there, so a lot of orders for her clothing $^{(8)}$\underline{\hspace{5cm}} (place). Today her East-meets-West clothes $^{(9)}$\underline{\hspace{5cm}} (sell) only in New York, but also in cities around the world.
+
+\vspace{1cm}
+
+\begin{center}
+    \begin{tikzpicture}
+        \node[draw, ellipse, dashed, thick, inner sep=10pt] (bubble) at (0,0) {\textbf{\textcolor{blue}{Try your best!}}};
+        \draw[dashed, thick] (bubble.south) -- (-1, -2);
+        \draw[dashed, thick] (bubble.south) -- (1, -2);
+        % Note: The cartoon character is not transcribed as per instructions to focus on text/tables/equations, 
+        % but the speech bubble text is included.
+    \end{tikzpicture}
+\end{center}
+
+\vfill
+\begin{flushright}
+    iSLCollective.com
+\end{flushright}
+
+\end{document}
+```

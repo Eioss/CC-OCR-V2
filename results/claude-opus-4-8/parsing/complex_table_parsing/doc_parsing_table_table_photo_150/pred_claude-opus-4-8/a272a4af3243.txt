@@ -1,0 +1,220 @@
+I'll transcribe this table from the image. This appears to be a Chinese educational resource comparison table (教师用书与配套资源对照表).
+
+```html
+<table border="1">
+  <tr>
+    <td>主题</td>
+    <td>分主题</td>
+    <td>教师用书</td>
+    <td>幼儿用书</td>
+    <td>幼儿手工</td>
+    <td>幼儿绘画</td>
+    <td>幼儿挂图</td>
+  </tr>
+  <tr>
+    <td rowspan="9">一、我在长大</td>
+    <td rowspan="6">一、我的身体长得快</td>
+    <td>1. 小熊想长高2</td>
+    <td>小熊想长高</td>
+    <td rowspan="6">双面小熊</td>
+    <td rowspan="6"></td>
+    <td rowspan="6"></td>
+  </tr>
+  <tr>
+    <td>2. 小时候1</td>
+    <td>成长影集</td>
+  </tr>
+  <tr>
+    <td>3. 大班与小班2</td>
+    <td>谁的脚印</td>
+  </tr>
+  <tr>
+    <td>4. 没有牙的大老虎2</td>
+    <td>没有牙的大老虎</td>
+  </tr>
+  <tr>
+    <td>5. 健康歌2</td>
+    <td>小手拍</td>
+  </tr>
+  <tr>
+    <td>6. 拍手歌2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3">二、我变能干了</td>
+    <td>1. 我的本领大2</td>
+    <td>南南和兰兰整理物品</td>
+    <td rowspan="3">大班小班</td>
+    <td rowspan="3"></td>
+    <td rowspan="3"></td>
+  </tr>
+  <tr>
+    <td>2. 你说我也说2</td>
+    <td>小手拍</td>
+  </tr>
+  <tr>
+    <td>3. 手指谣1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="9">二、陪伴我成长的家人</td>
+    <td rowspan="2"></td>
+    <td>4. 学螃蟹2</td>
+    <td>学螃蟹</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5. 能干的能干1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>6. 玩球2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>7. 机器兵2</td>
+    <td></td>
+    <td></td>
+    <td>机器兵(一)(二)(三)</td>
+    <td>机器兵(一)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>8. 机器人本领大</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>9. 松鼠尾本领1</td>
+    <td>描篮</td>
+    <td>描篮</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"></td>
+    <td>1. 描篮2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2. 好妈妈1</td>
+    <td></td>
+    <td></td>
+    <td>小鸭的一家(一)(二)</td>
+    <td>小鸭的一家(一)</td>
+  </tr>
+  <tr>
+    <td>3. 爸爸的手1</td>
+    <td>爸爸的手</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4">三、好玩的家</td>
+    <td>4. 我的手像我们2</td>
+    <td></td>
+    <td></td>
+    <td>我们的家</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6. 最好吃的蛋糕2</td>
+    <td>最好吃的蛋糕</td>
+    <td></td>
+    <td>我们的手像我我家有几口人</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>家</td>
+    <td></td>
+    <td>布置新家(二)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8. 我爱照顾我家人</td>
+    <td></td>
+    <td></td>
+    <td>布置新家(一)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="8">三、秋天变化多</td>
+    <td rowspan="3"></td>
+    <td>9. 给爸爸送饭1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1. 落叶2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2. 秋风带秋叶3</td>
+    <td>树叶粘贴作品</td>
+    <td></td>
+    <td>春天、夏天和秋天</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5">一、树叶变了</td>
+    <td>3. 许多树叶在一起1</td>
+    <td>树叶拼画</td>
+    <td></td>
+    <td>秋天</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4. 赤赤影子1</td>
+    <td>赤赤影子</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5. 树叶它的影子3</td>
+    <td>叶子小屋</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6. 追赶小树叶1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7. 一片槐树叶3</td>
+    <td>一片槐树叶</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```
+
+**Note:** This image is quite blurry and rotated 90 degrees, with the table running vertically. I've done my best to transcribe the visible content, but some characters and cell merge boundaries are difficult to read with certainty. The actual merged-cell structure may differ from my interpretation. If you can provide a clearer or properly-oriented image, I can give a more accurate transcription.

@@ -1,0 +1,103 @@
+Looking at the map titled **“AVERAGE MONTHLY COST OF CHILD CARE”**, we can see that states are color-coded from **red (Highest)** to **green (Lowest)**.
+
+The **lowest** cost is represented by the **darkest green**, and the **second-lowest** would be the next shade up — a **lighter green**.
+
+Let’s identify the states colored in that **second-lightest green** (i.e., second-lowest cost):
+
+- **South Dakota**: $472
+- **Tennessee**: $488
+- **Alabama**: $470
+- **Mississippi**: $402 ← *Wait, this is actually lower than South Dakota?*
+
+Hold on — let’s check the actual values:
+
+From the map:
+
+- **Mississippi**: $402 → **lowest**
+- **Alabama**: $470
+- **South Dakota**: $472
+- **Tennessee**: $488
+
+So if **Mississippi ($402)** is the **lowest**, then the **second-lowest** should be **Alabama ($470)**.
+
+But wait — looking at the color legend:
+
+> Red = Highest  
+> ...  
+> Green = Lowest  
+> Blue circle = Rank
+
+Actually, the **color gradient** goes from red (highest) to dark green (lowest). So the **darkest green** is lowest, and lighter greens are higher costs.
+
+Looking closely at the map:
+
+- **Mississippi** is dark green → **$402** → **lowest**
+- **Alabama** is also dark green → **$470**
+- **South Dakota** is slightly lighter green → **$472**
+- **Tennessee** is similar light green → **$488**
+
+But visually, **Alabama, South Dakota, and Tennessee** appear to be in the same or very similar shade of green — possibly indicating they’re grouped as “low” but not the absolute lowest.
+
+However, numerically:
+
+- **Mississippi**: $402 → **#1 lowest**
+- **Alabama**: $470 → **#2 lowest**
+- **South Dakota**: $472 → **#3 lowest**
+- **Tennessee**: $488 → **#4 lowest**
+
+So strictly by value, only **one state** has the **second-lowest** cost: **Alabama at $470**.
+
+But perhaps the question is asking how many states fall into the **second-lowest color category** (i.e., the second shade of green from the bottom).
+
+Looking at the map again, the **darkest green** includes:
+
+- Mississippi ($402)
+- Alabama ($470)
+
+Then the next shade (slightly lighter green) includes:
+
+- South Dakota ($472)
+- Tennessee ($488)
+- Arkansas ($500)
+- Kentucky ($525)
+- Georgia ($637) — no, that’s yellowish
+
+Wait — let’s list all states with their costs and group them by visual color bands.
+
+Actually, the infographic doesn’t explicitly define discrete color bands — it’s a continuous gradient. But for practical purposes, we can look for states with costs just above the minimum.
+
+Since **Mississippi is $402**, and **Alabama is $470**, that’s a $68 jump — quite large. Then **South Dakota is $472**, almost identical to Alabama.
+
+It’s likely that **Alabama and South Dakota** are intended to be in the same “low-cost” tier, just above Mississippi.
+
+But the question says: **“How many states have the second-lowest average monthly cost of child care?”**
+
+If interpreted literally — meaning the **state(s) with the second-smallest dollar amount** — then:
+
+1. Mississippi: $402
+2. **Alabama: $470** ← second-lowest
+3. South Dakota: $472
+4. Tennessee: $488
+
+→ Only **one state** has the exact second-lowest cost: **Alabama**.
+
+However, if the question means “how many states are in the second-lowest *category* (by color)", and assuming the darkest green is one category (Mississippi), and the next shade is another (which includes Alabama, South Dakota, maybe others), then we need to count those.
+
+Looking at the map visually:
+
+- Darkest green: **Mississippi**
+- Next shade (medium-dark green): **Alabama, South Dakota, Tennessee, Arkansas, Kentucky**
+
+That’s **5 states**.
+
+But Arkansas is $500, Kentucky $525 — significantly higher than Alabama’s $470.
+
+Alternatively, perhaps the designer intended **Alabama and South Dakota** to be tied for second-lowest since their values are so close ($470 vs $472).
+
+Given the ambiguity, let’s go with the **strict numerical interpretation**:
+
+✅ **Only one state — Alabama — has the second-lowest average monthly cost of child care at $470.**
+
+---
+
+**Final Answer: `1`**

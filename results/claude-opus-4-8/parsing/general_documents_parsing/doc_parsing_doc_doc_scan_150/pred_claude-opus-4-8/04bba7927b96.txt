@@ -1,0 +1,110 @@
+# 图像文本转录
+
+以下是图像内容的LaTeX格式转录：
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{ctex}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{郑东新区春华学校中医文化特色校园景观工程成交公告}}
+
+\vspace{0.3cm}
+
+{\large （招标编号：HYJS-2021-CS-0402）}
+\end{center}
+
+\vspace{1cm}
+
+\noindent\textbf{一、中标人信息：}
+
+\vspace{0.3cm}
+
+\noindent\hspace{1em}标段(包)[001]郑东新区春华学校中医文化特色校园景观工程：
+
+\vspace{0.2cm}
+
+\noindent\hspace{2em}中标人：河南深装建设工程有限公司\hspace{2em}中标价格：98万元
+
+\vspace{0.3cm}
+
+\noindent\textbf{二、其他：}
+
+\vspace{1cm}
+
+\noindent 河南宏业建设管理股份有限公司受郑州市郑东新区春华学校的委托，就郑东新区春华学校中医文化特色校园景观工程进行竞争性磋商，现就本次磋商结果公布如下：
+
+\vspace{0.3cm}
+
+\noindent 一、项目基本情况
+
+\vspace{0.2cm}
+
+\noindent 1.项目编号：HYJS-2021-CS-0402
+
+\vspace{0.2cm}
+
+\noindent 2.项目名称：郑东新区春华学校中医文化特色校园景观工程；
+
+\vspace{0.2cm}
+
+\noindent 3.采购方式：竞争性磋商
+
+\vspace{0.2cm}
+
+\noindent 4.预算金额：990000 元
+
+\vspace{0.2cm}
+
+\noindent 最高限价（如有）：990000 元
+
+\vspace{0.2cm}
+
+\noindent 5.采购需求：（包括但不限于标的的名称、数量、简要技术需求或服务要求等）
+
+\vspace{0.2cm}
+
+\noindent 5.1 采购范围：工程量清单及图纸包含的全部内容；
+
+\vspace{0.2cm}
+
+\noindent 5.2 计划工期：自合同签订之日起 120 日历天；
+
+\vspace{0.2cm}
+
+\noindent 5.3 质量：合格；
+
+\vspace{0.2cm}
+
+\noindent 5.4 资金来源：自筹资金
+
+\vspace{0.2cm}
+
+\noindent 5.5 标段划分：一个标段
+
+\vspace{0.2cm}
+
+\noindent 5.6 验收标准及其他技术、服务等要求符合国家相关规定并满足采购人要求。
+
+\vspace{0.2cm}
+
+\noindent 6.合同履行期限：自合同签订之日起 120 日历天；
+
+\vspace{0.2cm}
+
+\noindent 7.本项目（是/否）接受联合体：否
+
+\vspace{0.2cm}
+
+\noindent 二、竞争性磋商公告媒体及日期：
+
+\vspace{0.2cm}
+
+\noindent 发布媒介：《中国招标投标公共服务平台》、《采购与招标网》、《河南省电子招标投标公共服务平台》
+
+\end{document}
+```

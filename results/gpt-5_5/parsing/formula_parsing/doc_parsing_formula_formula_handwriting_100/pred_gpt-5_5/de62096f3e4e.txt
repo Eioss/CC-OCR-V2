@@ -1,0 +1,54 @@
+\[
+\begin{aligned}
+\left|y_1^*(t)-y_2^*(t)\right|
+&\leq \frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\left(\Psi(t)-\Psi(a)\right)^\mu
++\left|\left(y_a^{(1)}-y_a^{(2)}\right)\Omega_\Psi^\rho(t,a)\right| \\
+&\quad +\int_a^t \sum_{k=1}^{\infty}
+\frac{L^k}{\Gamma(k\mu)}
+\Psi_\Psi^{k\mu}(t,\eta)
+\left(
+\frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\left(\Psi(\eta)-\Psi(a)\right)^\mu
++\left|\left(y_a^{(1)}-y_a^{(2)}\right)\Omega_\Psi^\rho(t,a)\right|
+\right)d\eta \\
+&= \frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\left(\Psi(t)-\Psi(a)\right)^\mu
++\left|\left(y_a^{(1)}-y_a^{(2)}\right)\Omega_\Psi^\rho(t,a)\right| \\
+&\quad +\frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\sum_{k=1}^{\infty}
+L^k I_{a+}^{k\mu;\Psi}
+\left(\Psi(t)-\Psi(a)\right)^\mu \\
+&\quad +\frac{\left|y_a^{(1)}-y_a^{(2)}\right|}{\Gamma(\rho)}
+\sum_{k=1}^{\infty}
+L^k I_{a+}^{k\mu;\Psi}
+\left(\Psi(t)-\Psi(a)\right)^{\rho-1} \\
+&= \frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\left(\Psi(t)-\Psi(a)\right)^\mu
++\left|\left(y_a^{(1)}-y_a^{(2)}\right)\Omega_\Psi^\rho(t,a)\right| \\
+&\quad +\frac{\epsilon_1+\epsilon_2}{\Gamma(\mu+1)}
+\sum_{k=1}^{\infty}
+\frac{L^k\Gamma(\mu+1)}
+{\Gamma((k+1)\mu+1)}
+\left(\Psi(t)-\Psi(a)\right)^{(k+1)\mu} \\
+&\quad +\frac{\left|y_a^{(1)}-y_a^{(2)}\right|}{\Gamma(\rho)}
+\sum_{k=1}^{\infty}
+\frac{L^k\Gamma(\rho)}
+{\Gamma(\rho+k\mu)}
+\left(\Psi(t)-\Psi(a)\right)^{k\mu+\rho-1} \\
+&= (\epsilon_1+\epsilon_2)
+\left(
+\frac{\left(\Psi(t)-\Psi(a)\right)^\mu}{\Gamma(\mu+1)}
++\sum_{k=1}^{\infty}
+\frac{L^k}{\Gamma((k+1)\mu+1)}
+\left(\Psi(t)-\Psi(a)\right)^{(k+1)\mu}
+\right) \\
+&\quad +\left|y_a^{(1)}-y_a^{(2)}\right|
+\left(
+\frac{\left(\Psi(t)-\Psi(a)\right)^{\rho-1}}{\Gamma(\rho)}
++\sum_{k=1}^{\infty}
+\frac{L^k}{\Gamma(\rho+k\mu)}
+\left(\Psi(t)-\Psi(a)\right)^{k\mu+\rho-1}
+\right).
+\end{aligned}
+\]

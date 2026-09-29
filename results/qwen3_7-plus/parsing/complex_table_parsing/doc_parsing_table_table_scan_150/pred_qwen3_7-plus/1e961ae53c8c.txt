@@ -1,0 +1,142 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="7" style="text-align:center; font-size:1.2em;">表1 进口人工晶体和国产人工晶体价格区间</th>
+   </tr>
+   <tr>
+    <th rowspan="2">价格区间<br/>(元)</th>
+    <th rowspan="2">某市使用人工<br/>晶体种类 (n)</th>
+    <th colspan="2">国产人工晶体</th>
+    <th colspan="2">进口人工晶体</th>
+   </tr>
+   <tr>
+    <th>种类 (n)</th>
+    <th>占比 (%)</th>
+    <th>种类 (n)</th>
+    <th>占比 (%)</th>
+   </tr>
+   <tr>
+    <td>1-500</td>
+    <td>7</td>
+    <td>5</td>
+    <td>71.43</td>
+    <td>2</td>
+    <td>28.57</td>
+   </tr>
+   <tr>
+    <td>501-1000</td>
+    <td>12</td>
+    <td>2</td>
+    <td>16.67</td>
+    <td>10</td>
+    <td>83.33</td>
+   </tr>
+   <tr>
+    <td>1001-1500</td>
+    <td>22</td>
+    <td>9</td>
+    <td>40.91</td>
+    <td>13</td>
+    <td>59.09</td>
+   </tr>
+   <tr>
+    <td>1501-2000</td>
+    <td>83</td>
+    <td>34</td>
+    <td>40.96</td>
+    <td>49</td>
+    <td>59.04</td>
+   </tr>
+   <tr>
+    <td>2001-3000</td>
+    <td>52</td>
+    <td>8</td>
+    <td>15.38</td>
+    <td>44</td>
+    <td>84.62</td>
+   </tr>
+   <tr>
+    <td>3001-4000</td>
+    <td>66</td>
+    <td>3</td>
+    <td>4.55</td>
+    <td>63</td>
+    <td>95.45</td>
+   </tr>
+   <tr>
+    <td>4001-10000</td>
+    <td>35</td>
+    <td>1</td>
+    <td>2.86</td>
+    <td>34</td>
+    <td>97.14</td>
+   </tr>
+   <tr>
+    <td>10001-20000</td>
+    <td>14</td>
+    <td>0</td>
+    <td>0.00</td>
+    <td>14</td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td>20001-30000</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0.00</td>
+    <td>3</td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td><b>总计</b></td>
+    <td><b>294</b></td>
+    <td><b>62</b></td>
+    <td><b>21.09</b></td>
+    <td><b>232</b></td>
+    <td><b>78.91</b></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

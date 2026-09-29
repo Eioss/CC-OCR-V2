@@ -1,0 +1,55 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{parskip}
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+And today as First Lady, whenever the term `authentic' is used to describe me, I take it as a tremendous compliment because I know that I am following in the footsteps of great women like Maya Angelou. But really, I am just a beginner. I am baby authentic.
+
+Maya Angelou, now she was the original. She was the master. For at a time when there were such stifling constraints on how black women could exist in the world, she serenely disregarded all the rules with fiercely passionate, unapologetic self. She was comfortable in every inch of her gloriously brown skin.
+
+But for Dr Angelou, her own transition was never enough. You see, she didn't just want to be phenomenal herself. She wanted us all to be phenomenal right alongside her. So that's what she did throughout her lifetime. She gathered so many of us under her wing. I wish I was her daughter. But I was right under that wing --- sharing her wisdom, her genius and her boundless love.
+
+She made me feel like I owned the place, too. She made me feel like I had been born on that stage right next to her. And I remember thinking
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+to myself, ``Maya Angelou knows who I am! And she is rooting for me! So now, I'm good. I can do this. I can do this.''
+
+And that's really true for us all. Because in so many ways, Maya Angelou knew us. She knew our hope, our pain, our ambition, our fear, our anger, our shame. And she assured us that in spite of it all --- in fact, because of it all --- we were good. And in doing so, she paved the way for me and Oprah and so many others just to be our good ol' black women selves. She showed us that, eventually, if we stayed true to who we are, then the world would embrace us.
+
+And she did this not just for black women but for all women. For all human beings. She taught us all that it is okay to be your regular old self, whatever that is. Your poor self, your broken self, your brilliant, bold, phenomenal self. That was Maya Angelou's reach.
+
+She touched me, she touched you, she touched all of you, she touched people all across the globe --- including a young white woman from Kansas who named her daughter after Maya and raised her son to be the first black president of the United States.
+\end{minipage}
+
+\begin{center}
+\small This text has been adapted, for the purpose of assessment, without the author's prior consent.
+\end{center}
+
+\bigskip
+\noindent\textbf{N.B. Candidates may NOT answer Question A and Question B on the same text.}
+
+\bigskip
+\noindent\textbf{QUESTION A -- 50 Marks}
+
+\begin{enumerate}
+\item[(i)] Based on your reading of TEXT 1, what is your impression of Maya Angelou? Support your answer with detailed reference to the text. \hfill (15)
+
+\item[(ii)] In TEXT 1, Michelle Obama credits Angelou's words as being ``so powerful that they carried a little girl from the South Side of Chicago all the way to the White House''. Discuss the extent to which you think words we hear have power to influence the type of person we aspire to be. \hfill (15)
+
+\item[(iii)] With reference to both content and style, identify how Michelle Obama convinces readers of the key role Dr Angelou played in her life. Support your answer with reference to the extract. \hfill (20)
+\end{enumerate}
+
+\bigskip
+\noindent\textbf{QUESTION B -- 50 Marks}
+
+Maya Angelou passed away, but she lives on in her books and poetry. Choose a figure from the past that you find interesting. Write the text of a talk they might give to young people today explaining how they feel about their legacy, what they think of modern lifestyle and what advice they might offer to young people with similar interests today.
+
+\begin{center}
+3
+\end{center}
+
+\end{document}
+```

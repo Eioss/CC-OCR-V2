@@ -1,0 +1,33 @@
+\[
+\begin{gathered}
+h_{\varepsilon_k}\to h \quad \text{uniformly in } \overline{Q}_T,\\[4pt]
+e_i^s H(L)x^{\dagger(s)}e_i^s
+\cong
+\left(\mathcal{O}(T_s)\otimes \operatorname{End}_{\mathbb{C}}(e_i^sV_\omega)\right)^{x^{\dagger(s)}}\\
+\cong
+\bigoplus_{a\in L/H_s}
+\left(\mathcal{O}(T_s)\otimes \operatorname{End}_{\mathbb{C}}(V_\mu)\right)^{x^{(s)}}x^\dagger(\omega,\mu),\\[4pt]
+d=\max\{|F|:F\in\Delta\},\\[4pt]
+K=K(y,s)\\
+=\|u\|_{\infty,Q_d(y,s)\cap Q_T}
++\varepsilon_0^{-1}\sup_{r\le d}
+\left[
+r^{-\alpha}
+\left(
+r^{-(n+2)}
+\int_{Q_r(y,s)\cap Q_T}|f(x,t)|^p\,dx\,dt
+\right)^{1/p}
+\right],\\[4pt]
+\gamma(t)=\int d\omega\,J(\omega)\coth\!\left[\frac{\hbar\omega}{2k_BT}\right]\frac{\sin(\omega t)}{\omega},\\[4pt]
+\widetilde{w}_{t+1}
+=(1-\beta)\bigl[[\widetilde{A}_t^{(1)},\ldots,\widetilde{A}_t^{(N)}]\bigr]
++\beta\sum_{k\in\xi_t}\frac{|D_k|}{\sum_{k\in\xi_t}|D_k|}\,\widetilde{w}_{t,\tau}^k,\\[4pt]
+Q(G,t)=Q(G+xy,t)-Q(G/xy,t)\\
+=\frac{Q(B_1+xy,t)\cdots Q(B_m+xy,t)}
+{t^{m-1}(t-1)^{m-1}}
++\frac{Q(B_1/xy,t)\cdots Q(B_m/xy,t)}
+{t^{m-1}},\\[4pt]
+\dim X\cap T_{N_i}(Z)\le \dim T_{N_i}(Z)=\dim Z\le \dim X-1,\\[4pt]
+P(A_i\mid u(s,x),\,s\le t_{i-1},\,x\in T)\le \gamma^J.
+\end{gathered}
+\]

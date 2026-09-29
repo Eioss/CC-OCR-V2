@@ -1,0 +1,47 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\begin{document}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{3cm}|p{2.5cm}|p{4cm}|}
+\hline
+Perimeter & Square \newline Rectangle & $P = 4a$ \newline $P = 2(l+b)$ \\
+\hline
+Circumference & Circle & $C = 2 \cdot \pi \cdot r$ \\
+\hline
+Area & Square \newline Rectangle \newline Triangle \newline Trapezoid \newline Circle & 
+$A = a^2$ \newline 
+$A = l \cdot b$ \newline 
+$A = bh/2$ \newline 
+$A = (b_1 + b_2)h/2$ \newline 
+$A = \pi \cdot r^2$ \\
+\hline
+Surface Area & Cube \newline Cylinder \newline Cone \newline Sphere & 
+$S = 6a^2$ \newline 
+$S = 2 \cdot \pi \cdot r \cdot h$ \newline 
+$S = \pi \cdot r \cdot l$ \newline 
+$S = 4 \cdot \pi \cdot r^2$ \\
+\hline
+Volume & Cylinder \newline Cone \newline Sphere & 
+$V = bh$ \newline 
+$V = bh/3$ \newline 
+$V = 4 \cdot \pi \cdot r^3 / 3$ \\
+\hline
+Pythagorus Theorem & & $a^2 + b^2 = c^2$ \\
+\hline
+Distance Formula & & $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ \\
+\hline
+Slope of a line & & $m = (y_2 - y_1)/(x_2 - x_1)$ \\
+\hline
+Midpoint Formula & & $M = ((x_1 + x_2)/2, (y_1 + y_2)/2)$ \\
+\hline
+\end{tabular}
+\end{table}
+
+\end{document}
+```

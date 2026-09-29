@@ -1,0 +1,18 @@
+Based on the infographic, under the section **“Best platform aspects and top pain points”**, specifically in the **“Best aspects”** column:
+
+> **Low-cost developer tools:**  
+> - Android (represented by the green robot icon)  
+> - Java ME (represented by the coffee cup icon)
+
+The icons shown next to “Low-cost developer tools” are **Android** and **Java ME**.
+
+**iPhone** is listed under “Great UI in apps”, not low-cost tools.  
+**Windows Mobile** is not mentioned in this category at all.
+
+---
+
+✅ Therefore, among the options you provided — **Windows Mobile, Android, or iPhone** — the platform that supports **low-cost developer tools** is:
+
+> **Android**
+
+*(Note: Java ME also supports it, but it’s not one of your three choices.)*

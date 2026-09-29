@@ -1,0 +1,78 @@
+Based on the image provided, here is the transcription of the text and table into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{Ruijin Hospital Shanghai Jiaotong University School of Medicine} \\
+    \large\textbf{Clinical Laboratory Report}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{2cm}}ll@{}}
+    \textbf{Name :} & [Redacted] & \textbf{Sample Number :} & 17143 \\
+    \textbf{Gender :} & [Redacted] & \textbf{PatientNo/PassportNo :} & 1320021[Redacted] \\
+    \textbf{Age :} & [Redacted] & \textbf{Birthday:} & 1 [Redacted] \\
+    \multicolumn{2}{l}{\textbf{Clinical Diagnosis :} Regular inspection} & \textbf{Sample Type :} & Nasopharynx swab \\
+    \multicolumn{2}{l}{\textbf{Application Section Office :} Ruijin Hospital Shanghai Jiaotong University School of Medicine} & \textbf{Testing Time :} & 2021-08-14 \\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{p{4cm} p{2cm} p{3cm} p{6cm}}
+    \toprule
+    \textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+    \midrule
+    SARS-COV-2 & Neg(-) & \textbf{Neg(-)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    ORF1AB GENE & Neg(-) & \textbf{Neg(-)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    N GENE & Neg(-) & \textbf{Neg(-)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    E GENE & Neg(-) & \textbf{Neg(-)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    \bottomrule
+\end{tabular}
+
+\vspace{1cm}
+
+\noindent\textbf{Statement:}
+\begin{enumerate}
+    \item The testing result may be affected by the sampling time, sampling body part(s) as well as the methodology limitations. The result should be analyzed with clinical manifestations.
+    \item The testing result in this report is only applicable to the delivered specimen.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{1cm}}ll@{}}
+    \textbf{Sampling Time :} & 21-08-14 09:52 & \textbf{Reporting Time :} & 21-08-14 13:26 \\
+    \textbf{Received Time :} & 21-08-14 11:03 & \textbf{Printing Time :} & 21-08-14 07:00 \\
+\end{tabular}
+
+\vspace{0.2cm}
+
+\noindent
+\textbf{Inspector :} [Signature/Stamp] \hfill \textbf{Auditor :} [Signature]
+
+\vspace{0.2cm}
+
+\noindent The test results are just responsible for the sample;and used only for reference by clinical doctors.
+
+\vspace{0.5cm}
+
+\noindent\textbf{add.:}No.197 Ruijin 2 Road,Huangpu district,Shanghai \hfill \textbf{Tel.:} 8621-64370045
+
+\begin{center}
+    \textbf{Sheet 1} \hfill (病毒室)
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,19 @@
+$$a_{k,j} = \frac{\operatorname{Re} F(\lambda_k - \lambda_0 + i(\mu_j - \mu_k))}{F(\lambda_k - \lambda_0)}, \quad b_{k,j} = \frac{\operatorname{Re} F(-\lambda_0 + i(\mu_j - \mu_k))}{F(-\lambda_0)}$$
+
+$$\tilde{A}_{\varepsilon,0}^{(k)} \in C_0^\infty(\partial\Omega \times \partial\Omega \times \Omega \times \mathbb{R}^{q-1}).$$
+
+$$\sum_j |E_4| \leq C \int_0^t \|u_n - u_p\|_{B_{2,2}'} \|\nabla b_n\|_{B_{2,2}^{s-1}} \|b_n - b_p\|_{\tilde{L}_{t'}^\infty(B_{2,2}^\circ)} \, dt'$$
+
+$$\leq \frac{1}{4} \|u_n - u_p\|_{\tilde{L}_t^2(B_{2,2}^\circ)}^2 + C \, t \|b_n\|_{\tilde{L}_t^\infty(B_{2,2}^s)}^2 \|b_n - p\|_{\tilde{L}_t^\infty(B_{2,2}^\circ)}^2.$$
+
+$$\frac{1-\varepsilon/10}{2}\left(\left(1-1/r\right)^{j-1}\left(1-\varepsilon/2\right)OPI - f(S)\right)$$
+
+$$\partial_y^2 y_1 + a y_1 + \left(2i\frac{\partial A(X)}{\partial X} - A^*(X)e^{i\phi_{d2}}\right)e^{i\tau} + \left(2i\frac{\partial A^*(X)}{\partial A} + A(X)e^{-i\phi_{d2}}\right)e^{-i\tau}$$
+
+$$- A(X)e^{3i\tau + i\phi_{d2}} - A^*(X)e^{-3i\tau - i\phi_{d2}} = 0.$$
+
+$$\|u_{\varepsilon,\lambda} - u_{0,\lambda}\|_{L^2(\Omega)}^2 \leq C(1+\lambda)\varepsilon\left\{\|F\|_{L^2(\Omega)}^2 + \|G\|_{H^2(\Omega)}^2\right\},$$
+
+$$g\left(\|r\theta_1 h\|_{X'(0<\tau<\infty)}^2 + \|r\theta_2 h\|_{X'(0<\tau<\infty)}^2\right) = g\|h\|_{X'(\mathbb{R}^2)}^2 + \mathcal{E}_s.$$
+
+$$U_f(0,s) = \begin{cases} \exp\left(-\int_s^0 a(r)\,dr\right) & \text{if } s \in [-1,0], \\ z(-s-1, f_{s+1}, \phi(f_s)) & \text{if } s \leq -1. \end{cases}$$

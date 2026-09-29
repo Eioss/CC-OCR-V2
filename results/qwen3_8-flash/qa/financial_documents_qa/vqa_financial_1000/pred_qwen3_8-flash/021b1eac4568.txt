@@ -1,0 +1,8 @@
+Based on the table titled **"INCIDENCE OF BREAST CANCER REPORTED DURING THE FIRST AND SECOND YEARS OF STUDY 300-US"**, we can find the number of people who underwent placebo treatment during the second year.
+
+1.  Locate the row for **Placebo** under the "Treatment" column.
+2.  Look across to the section labeled **"Second Year"**.
+3.  Under the "Second Year" heading, find the column labeled **"n"** (which represents the number of participants).
+4.  The value in that cell is **120**.
+
+Therefore, the number of people who undergone placebo treatment during the second year is **120**.

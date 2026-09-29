@@ -1,0 +1,8 @@
+Based on the provided document, the **Total** is listed in the bottom right corner of the payment table.
+
+The value for **TOTAL** is **975.00**.
+
+This total represents the sum of the "Total Quarterly Dollar Amount" for the two contract types:
+*   NW PACK--MXP2F: $600.00
+*   NW PK EH--MC: $375.00
+*   **Sum: $600.00 + $375.00 = $975.00**

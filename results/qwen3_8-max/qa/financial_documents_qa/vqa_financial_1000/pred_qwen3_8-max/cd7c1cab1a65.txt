@@ -1,0 +1,5 @@
+Based on the document provided, the value for **GROUP** is **100**.
+
+This is found in the "MARC" section of the form, where:
+*   **SYSTEM**: WSEL
+*   **GROUP**: 100

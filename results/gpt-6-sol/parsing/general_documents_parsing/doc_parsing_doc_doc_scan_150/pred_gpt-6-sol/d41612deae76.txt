@@ -1,0 +1,46 @@
+```latex
+\begin{tabular}{|l|l|l|}
+\hline
+Perimeter &
+\begin{tabular}{l}Square\\Rectangle\end{tabular} &
+\begin{tabular}{l}$P=4a$\\$P=2(l+b)$\end{tabular} \\
+\hline
+Circumference & Circle & $C=2*\mathrm{pi}*r$ \\
+\hline
+Area &
+\begin{tabular}{l}Square\\Rectangle\\Triangle\\Trapezoid\\Circle\end{tabular} &
+\begin{tabular}{l}
+$A=a^2$\\
+$A=l*b$\\
+$A=bh/2$\\
+$A=(b_1+b_2)h/2$\\
+$A=\mathrm{pi}*r^2$
+\end{tabular} \\
+\hline
+Surface Area &
+\begin{tabular}{l}Cube\\Cylinder\\Cone\\Sphere\end{tabular} &
+\begin{tabular}{l}
+$S=6a^2$\\
+$S=2*\mathrm{pi}*r*h$\\
+$S=\mathrm{pi}*r*l$\\
+$S=4*\mathrm{pi}*r^2$
+\end{tabular} \\
+\hline
+Volume &
+\begin{tabular}{l}Cylinder\\Cone\\Sphere\end{tabular} &
+\begin{tabular}{l}
+$V=bh$\\
+$V=bh/3$\\
+$V=4*\mathrm{pi}*r^3/3$
+\end{tabular} \\
+\hline
+Pythagorus Theorem & \multicolumn{2}{c|}{$a^2+b^2=c^2$} \\
+\hline
+Distance Formula & \multicolumn{2}{c|}{$d=\mathrm{sqrt}[(x_2-x_1)^2+(y_2-y_1)^2]$} \\
+\hline
+Slope of a line & \multicolumn{2}{c|}{$m=(y_2-y_1)/(x_2-x_1)$} \\
+\hline
+Midpoint Formula & \multicolumn{2}{c|}{$M=((x_1+x_2)/2,(y_1+y_2)/2)$} \\
+\hline
+\end{tabular}
+```

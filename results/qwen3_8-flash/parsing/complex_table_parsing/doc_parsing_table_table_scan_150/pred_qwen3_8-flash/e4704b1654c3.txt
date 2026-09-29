@@ -1,0 +1,42 @@
+
+	<tr>
+		<td></td>
+		<td colspan="2"></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td rowspan="4">版权归CTIEI所有，<br>严禁复印<br>Copyright Reserved<br>by CTIEI</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td colspan="2"></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td colspan="2"></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td colspan="3">说明 DESCRIPTION</td>
+		<td>设计 DESIGN</td>
+		<td>校对 CHKD.</td>
+		<td>审核 APPR.</td>
+		<td colspan="2">审定 F. APPR.</td>
+		<td>版次 REV.</td>
+	</tr>
+</table>
+```

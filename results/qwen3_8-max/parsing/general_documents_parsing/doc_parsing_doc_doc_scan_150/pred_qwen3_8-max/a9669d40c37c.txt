@@ -1,0 +1,76 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{3}
+\end{center}
+
+\begin{enumerate}
+    \setcounter{enumi}{23}
+    \item Find the value of $\tan^{-1}\left(\tan \frac{3\pi}{5}\right)$.
+    
+    \item Find the condition for the line $y = mx+c$ to be a tangent to the circle $x^2+y^2 = a^2$.
+    
+    \item If $2\hat{i} - \hat{j} + 3\hat{k}$, $3\hat{i} + 2\hat{j} + \hat{k}$, $\hat{i} + m\hat{j} + 4\hat{k}$ are coplanar, find the value of $m$.
+    
+    \item Show that $(2 + i\sqrt{3})^{10} - (2 - i\sqrt{3})^{10}$ is purely imaginary.
+    
+    \item Determine the number of positive and negative roots of the equation $x^9 - 5x^8 - 14x^7 = 0$.
+    
+    \item Find the value of $\cot\left(\sin^{-1}\frac{3}{5} + \sin^{-1}\frac{4}{5}\right)$.
+    
+    \item If the system of linear equation $x+2ay+az = 0$, $x+3by+bz = 0$, $x+4cy+cz = 0$ has a non-trivial solution then show that $a$, $b$, $c$ are in H.P.
+\end{enumerate}
+
+\begin{center}
+    \textbf{PART - III} \\
+    \textbf{Answer any seven questions. Question No. 40 is compulsory. \hfill 7$\times$3=21}
+\end{center}
+
+\begin{enumerate}
+    \setcounter{enumi}{30}
+    \item Find the inverse of the non-singular matrix $A = \begin{bmatrix} 0 & 5 \\ -1 & 6 \end{bmatrix}$, by Gauss Jordan method.
+    
+    \item In a competitive examination, one mark is awarded for every correct answer while $\frac{1}{4}$ mark is deducted for every wrong answer. A student answered 100 questions and got 80 marks. How many questions did he answer correctly? (Use Cramer's rule to solve the problem)
+    
+    \item State and prove triangle inequality.
+    
+    \item Find the condition that the roots of $ax^3+bx^2+cx+d = 0$ are in geometric progression. Assume $a, b, c, d \neq 0$.
+    
+    \item Find the domain of $\sin^{-1}(2-3x^2)$.
+    
+    \item Find the equation of the parabola with vertex $(-1, -2)$, axis parallel to y-axis and passing through $(3, 6)$.
+    
+    \item If the normal at the point '$t_1$' on the parabola $y^2 = 4ax$ meets the parabola again at the point '$t_2$', then prove that $t_2 = -\left(t_1 + \frac{2}{t_1}\right)$.
+    
+    \item If $\hat{a}, \hat{b}, \hat{c}$ are three unit vectors such that $\hat{b}$ and $\hat{c}$ are non parallel and $\hat{a} \times (\hat{b} \times \hat{c}) = \frac{1}{2}\hat{b}$, find the angle between $\hat{a}$ and $\hat{c}$.
+    
+    \item Determine whether the pair of straight lines $\vec{r} = (2\hat{i} + 6\hat{j} + 3\hat{k}) + t(2\hat{i} + 3\hat{j} + 4\hat{k})$, $\vec{r} = (2\hat{j} - 3\hat{k}) + s(\hat{i} + 2\hat{j} + 3\hat{k})$ are parallel. Find the shortest distance between them.
+    
+    \item Prove that $\tan\left(\frac{\pi}{4} + \frac{1}{2}\cos^{-1}\left(\frac{a}{b}\right)\right) + \tan\left(\frac{\pi}{4} - \frac{1}{2}\cos^{-1}\left(\frac{a}{b}\right)\right) = \frac{2b}{a}$.
+\end{enumerate}
+
+\begin{center}
+    \textbf{PART - IV} \\
+    \textbf{Answer all the questions: \hfill 7$\times$5=35}
+\end{center}
+
+\begin{enumerate}
+    \setcounter{enumi}{40}
+    \item 
+    \begin{enumerate}
+        \item[a)] By using Gaussian elimination method, balance the chemical reaction equation: $C_5H_8 + O_2 \rightarrow CO_2 + H_2O$ \hfill \textbf{(OR)}
+        \item[b)] Solve: $6x^4 - 35x^3 + 62x^2 - 35x + 6 = 0$
+    \end{enumerate}
+\end{enumerate}
+
+\end{document}
+```

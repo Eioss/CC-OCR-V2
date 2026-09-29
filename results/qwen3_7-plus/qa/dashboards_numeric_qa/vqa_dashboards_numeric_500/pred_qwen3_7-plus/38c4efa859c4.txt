@@ -1,0 +1,38 @@
+Based on the infographic titled **“Asia’s Internet Speeds”** (Q2 2016 data from Akamai), under the **“TOP SPEED”** section, the countries are ranked by **broadband speed average (Mbps)**:
+
+- **South Korea**: 27 Mbps → **#1**
+- **Singapore**: 17.2 Mbps → **#2**
+- **Hong Kong**: 17.1 Mbps → **#3**
+- **Japan**: 19.5 Mbps → Wait — this is higher than Singapore and Hong Kong!
+
+Hold on — let’s re-examine the chart carefully.
+
+In the bar chart under “TOP SPEED”, the **blue bars represent broadband speed**, and the values listed above them are:
+
+- **South Korea**: 27 Mbps
+- **Japan**: 19.5 Mbps
+- **Singapore**: 17.2 Mbps
+- **Hong Kong**: 17.1 Mbps
+- **Taiwan**: 15.6 Mbps
+
+So although Japan’s bar appears shorter visually than South Korea’s, its labeled value (**19.5 Mbps**) is actually **higher than Singapore’s 17.2 Mbps**.
+
+This suggests a possible visual scaling error in the infographic — but we must go by the **labeled numbers**, not the bar heights.
+
+Therefore, ranking by **broadband speed (Mbps)**:
+
+1. **South Korea** – 27 Mbps  
+2. **Japan** – 19.5 Mbps  
+3. **Singapore** – 17.2 Mbps  
+4. **Hong Kong** – 17.1 Mbps  
+5. **Taiwan** – 15.6 Mbps  
+
+---
+
+✅ So, the Asian country with the **second highest broadband speed** in Q2 2016 was **Japan** at **19.5 Mbps**.
+
+> *Note: The infographic may have misaligned the bar heights for Japan vs. Singapore/Hong Kong, but the text labels are clear.*
+
+---
+
+**Final Answer: 🇯🇵 Japan**

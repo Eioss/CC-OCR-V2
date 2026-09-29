@@ -1,0 +1,14 @@
+Based on the provided infographic, we can determine the percentage of civilian women in UN peacekeeping missions.
+
+1.  **Locate the relevant data:** In the top-left section titled "NUMBER OF FEMALE PERSONNEL IN UN PEACEKEEPING MISSIONS", there is a breakdown for the "PRESENT" day.
+2.  **Identify the numbers:**
+    *   The total number of female personnel is shown in the center circle as **5,160**.
+    *   The number of female **CIVILIAN** personnel is listed on the left as **1,603**.
+    *   (The number of female UNIFORMED personnel is 3,557).
+3.  **Calculate the percentage:** To find the percentage of civilian women out of the total female personnel, we use the formula:
+    `(Number of Civilian Women / Total Number of Female Personnel) * 100`
+
+    Calculation:
+    `(1,603 / 5,160) * 100 ≈ 31.07%`
+
+Therefore, approximately **31%** of the female personnel in UN peacekeeping missions are civilians.

@@ -1,0 +1,10 @@
+$$F _ { \pm } = 4 < ( \Delta q ) ^ { 2 } >$$
+$$\partial _ { t } u _ { k } ( x ) = \frac { 1 } { 2 } \Delta u _ { k } ( x ) + \delta ( x , u _ { k } ( x ) ) \dot { W } _ { k } ( x ) , t \in [ 0 , T ] , x \in R ,$$
+$$\overline { { { u } } } _ { k } ( z ) = 0 v _ { z } \in \Omega \backslash \partial V .$$
+$$A \oplus B \in S C ( X \times X \times R )$$
+$$\operatorname* { l i m } _ { t \rightarrow 0 } \operatorname* { s u p } t ^ { \frac { 1 } { 2 } \mp \frac { 1 } { 4 } } \| I _ { \frac { 1 } { 2 } } ^ { \theta } , \pm ( t ) \| \leq C \operatorname* { l i m } _ { t \rightarrow 0 } \int _ { 0 } ^ { \infty } \int _ { | w | \geq t } \frac { 1 } { \varepsilon } \| \psi _ { \varepsilon } ( w , \tau ) \| \, d w d \tau = 0 .$$
+$$[ E ^ { T } S _ { q } E ] = \frac { E ^ { T } A E } { ( X ^ { T } A _ { 0 } ^ { - 1 } A A _ { 0 } ^ { - 1 } X ) ^ { 2 } } e ^ { [ ( C ^ { T } X ) ^ { T } ( Y - X ) - ( Y - X ) ^ { T } C ] } = \frac { E ^ { T } A E ( ( C X ) + ( C ^ { T } X ) ) ^ { T } E Y } { ( X ^ { T } A _ { 0 } ^ { - 1 } A A _ { 0 } ^ { - 1 } X ) ^ { 2 } }$$
+$$m o \exp ( D _ { 1 } \theta , D _ { 2 } ) = m o ( i \theta B i d + D _ { 1 } \theta D _ { 2 } + \frac { 1 } { H - \theta } ( t ^ { 2 } - D _ { 1 } ^ { 2 } \theta D _ { 2 } ^ { 2 } ) )$$
+$$\sum _ { n \geq 1 } d _ { n } g T _ { m } = 2 c \vert < \infty$$
+$$\lambda _ { 1 } = - 2 h \frac { e ^ { - y } } { f _ { 2 } ( y ) } \partial _ { f } = - 2 h \frac { 2 } { f _ { 1 } } \frac { y _ { 1 } } { f _ { 2 } ( y ) } \partial _ { 2 y } ,$$
+$$\lambda _ { 2 } = \frac { k ^ { 2 } \vert y \vert ^ { 2 } \langle z \rangle - k } { \langle z \rangle ^ { 3 } } + \frac { k \vert y \vert \cos h \vert y \vert } { \langle z \rangle \sin h \vert y \vert }$$

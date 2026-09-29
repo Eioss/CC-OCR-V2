@@ -1,0 +1,11 @@
+$$[ \tilde { \Phi } _ { k } ^ { ( n ) \dagger } \tilde { \Phi } _ { k } ^ { ( n ) } ] | f _ { 0 } \rangle ^ { \otimes _ { n - 1 } } \otimes | f _ { i n } \rangle = d ^ { 2 } \lambda ( i _ { n } , k ) ^ { 2 } | f _ { 0 } \rangle ^ { \otimes _ { n - 1 } } \otimes | f _ { i n } \rangle .$$
+
+$$L _ { [ n + 1 ] } - 1 < L _ { [ n + 1 ] }$$
+
+$$d . L / T = d . M W ( J ( f ) ) \leq M$$
+
+$$\begin{array} { r l } { \displaystyle \sum _ { \gamma = \gamma _ { i } + 1 } ^ { \delta - \delta _ { 0 } + \gamma _ { i } } S ( \eta , \gamma ) = \displaystyle \sum _ { \gamma = \gamma _ { i } + 1 } ^ { \delta - \delta _ { 0 } + \gamma _ { i } } ( - 1 ) ^ { \gamma } \frac { ( \delta - \delta _ { 0 } + \gamma _ { i } - 1 ) ! } { \gamma _ { i } ! ( \gamma - \gamma _ { i } ) ! ( \delta - \delta _ { 0 } + \gamma _ { i } - \gamma ) ! } \left( \begin{array} { c } { { d - d _ { 0 } - 1 } } \\ { { \gamma _ { i } - 1 } } \end{array} \right) ; } & { { } } \\ { = ( - 1 ) ^ { \gamma _ { i } + 1 } { \binom { \delta - \delta _ { 0 } + \gamma _ { i } - 1 } { \gamma _ { i } - 1 } } { \binom { d - d _ { 0 } - 1 } { \gamma _ { i } - 1 } } . } & { { } } \end{array}$$
+
+$$\vec { \kappa } = \kappa , ~ \kappa + \bar { \kappa } = \kappa ( \pi , 1 ) 1 , ~ \kappa \cdot \bar { \kappa } = \bar { \kappa } \cdot \kappa = \kappa ( \pi ) 1 ,$$
+
+$$\eta ^ { \kappa , \kappa + 1 } ( ( \mu _ { j } \to i , \lambda _ { i \to j } ) , ( \mu , \lambda ) ) = q ^ { \mu _ { i + 1 } + \ldots + \mu _ { j - 1 } } \{ \mu _ { j } \} _ { q ^ { 2 } } q ^ { \lambda _ { i + 1 } + \ldots + \lambda _ { j } } \{ \lambda _ { i } \} _ { q ^ { 2 } } q ^ { 2 ( \lambda _ { j + 1 } + \ldots + \lambda _ { n } ) } q ^ { 2 ( \mu _ { t + 1 } + \ldots + \mu _ { t - 1 } ) }$$

@@ -1,0 +1,94 @@
+\[
+\textbf{formulas for discrete-time LTI signals and systems}
+\]
+\[
+\begin{array}{ll}
+\text{name} & \text{formula}\\ \hline
+\text{area under impulse} & \displaystyle\sum_n\delta(n)=1\\
+\text{multiplication by impulse} & f(n)\delta(n)=f(0)\delta(n)\\
+\text{\ldots by shifted impulse} & f(n)\delta(n-n_0)=f(n_0)\delta(n-n_0)\\
+\text{convolution} & \displaystyle f(n)*g(n)=\sum_k f(k)g(n-k)\\
+\text{\ldots with an impulse} & f(n)*\delta(n)=f(n)\\
+\text{\ldots with a shifted impulse} & f(n)*\delta(n-n_0)=f(n-n_0)\\
+\text{transfer function} & \displaystyle H(z)=\sum_n h(n)z^{-n}\\
+\text{frequency response} & \displaystyle H^f(\omega)=\sum_n h(n)e^{-j\omega n}\\
+\text{\ldots their connection} &
+\begin{array}{l}
+H^f(\omega)=H(e^{j\omega})\\
+\text{provided unit circle}\subset\text{ROC}
+\end{array}
+\end{array}
+\]
+
+\[
+\textbf{formulas for continuous-time LTI signals and systems}
+\]
+\[
+\begin{array}{ll}
+\text{name} & \text{formula}\\ \hline
+\text{area under impulse} & \displaystyle\int\delta(t)\,dt=1\\
+\text{multiplication by impulse} & f(t)\delta(t)=f(0)\delta(t)\\
+\text{\ldots by shifted impulse} & f(t)\delta(t-t_0)=f(t_0)\delta(t-t_0)\\
+\text{convolution} & \displaystyle f(t)*g(t)=\int_\tau f(\tau)g(t-\tau)\,d\tau\\
+\text{\ldots with an impulse} & f(t)*\delta(t)=f(t)\\
+\text{\ldots with a shifted impulse} & f(t)*\delta(t-t_0)=f(t-t_0)\\
+\text{transfer function} & \displaystyle H(s)=\int h(t)e^{-st}\,dt\\
+\text{frequency response} & \displaystyle H^f(\omega)=\int h(t)e^{-j\omega t}\,dt\\
+\text{\ldots their connection} &
+\begin{array}{l}
+H^f(\omega)=H(j\omega)\\
+\text{provided }j\omega\text{-axis}\subset\text{ROC}
+\end{array}
+\end{array}
+\]
+
+\[
+\textbf{useful formulas}
+\]
+\[
+\begin{array}{ll}
+\text{name} & \text{formula}\\ \hline
+\text{Euler's formula} & e^{j\theta}=\cos(\theta)+j\sin(\theta)\\
+\text{\ldots for cosine} & \displaystyle\cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}\\
+\text{\ldots for sine} & \displaystyle\sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}\\
+\text{Sinc function} & \displaystyle\operatorname{sinc}(\theta)=\frac{\sin(\pi\theta)}{\pi\theta}
+\end{array}
+\]
+
+\[
+\textbf{Z-transform transform pairs}
+\]
+\[
+\begin{array}{lll}
+x(n) & X(z) & \text{ROC}\\ \hline
+x(n) & \displaystyle\sum_n x(n)z^{-n}\quad(\text{def.}) & \\
+\delta(n) & 1 & \text{all }z\\
+u(n) & \displaystyle\frac{z}{z-1} & |z|>1\\
+a^n u(n) & \displaystyle\frac{z}{z-a} & |z|>|a|\\
+-a^n u(-n-1) & \displaystyle\frac{z}{z-a} & |z|<|a|\\
+\cos(\omega_0n)u(n) &
+\displaystyle\frac{z^2-\cos(\omega_0)z}{z^2-2\cos(\omega_0)z+1} & |z|>1\\
+\sin(\omega_0n)u(n) &
+\displaystyle\frac{\sin(\omega_0)z}{z^2-2\cos(\omega_0)z+1} & |z|>1\\
+a^n\cos(\omega_0n)u(n) &
+\displaystyle\frac{z^2-a\cos(\omega_0)z}{z^2-2a\cos(\omega_0)z+a^2} & |z|>|a|\\
+a^n\sin(\omega_0n)u(n) &
+\displaystyle\frac{a\sin(\omega_0)z}{z^2-2a\cos(\omega_0)z+a^2} & |z|>|a|
+\end{array}
+\]
+
+\[
+\textbf{Z-transform transform properties}
+\]
+\[
+\begin{array}{ll}
+x(n) & X(z)\\ \hline
+a x(n)+b g(n) & aX(z)+bG(z)\\
+x(n-n_0) & z^{-n_0}X(z)\\
+x(n)*f(n) & X(z)F(z)
+\end{array}
+\]
+
+\[
+\text{Page 8 of 169}
+\]

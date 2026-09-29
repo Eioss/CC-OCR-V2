@@ -1,0 +1,20 @@
+Based on the provided form (NYC-1 for 1973), the **Interest-Penalty** is listed as:
+
+> **00.00**
+
+This is shown in the box labeled “INTEREST-PENALTY (SEE INSTRUCTIONS)” on the right side of the form, directly below the “TAX WITHHELD” amount and above the “TOTAL AMOUNT DUE”.
+
+---
+
+### Additional Context:
+
+- The **Tax Withheld** is $28.50.
+- The **Interest-Penalty** is $0.00 — meaning no penalty or interest was assessed for this return.
+- The **Total Amount Due** is therefore also $28.50 (same as tax withheld).
+- The form includes instructions at the bottom left explaining that a 6% annual interest plus a 5% monthly penalty (up to 25%) may apply for late payment or filing — but since the penalty field is zero, it appears this return was filed timely or qualified for waiver.
+
+Also note: The return covers the period **2/1/74 to 2/28/74**, and was signed/executed on **3/11/74**, which is within the typical deadline for such returns (usually due by the 15th of the following month).
+
+---
+
+✅ So, the Interest-Penalty amount is **$0.00**.

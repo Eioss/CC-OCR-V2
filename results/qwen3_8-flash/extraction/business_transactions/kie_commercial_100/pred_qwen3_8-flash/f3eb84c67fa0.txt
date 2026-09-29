@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "04/21/20",
+    "vendor_name": "Eugene COMBO KEZI",
+    "vendor_address": "P. O. BOX 7009 EUGENE, OR 97401",
+    "customer_billing_name": "AL MEDIA",
+    "customer_billing_address": "222 W. ONTARIO ST SUITE 600 CHICAGO, IL 60654",
+    "amount_total_net": "$1,976.25",
+    "amount_total_tax": "",
+    "amount_total_gross": "$2,325.00",
+    "tax_detail_rate": "15.00",
+    "tax_detail_net": "$348.75",
+    "tax_detail_tax": "",
+    "tax_detail_gross": ""
+}
+```

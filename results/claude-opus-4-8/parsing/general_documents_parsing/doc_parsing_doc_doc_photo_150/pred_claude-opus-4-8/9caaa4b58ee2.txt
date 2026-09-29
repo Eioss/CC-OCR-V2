@@ -1,0 +1,25 @@
+I'll transcribe the visible text and equations from this image into LaTeX format.
+
+```latex
+\noindent\hfill \textbf{3.10 HOT AND COLD: REWRITING FORMULAS} \quad 387
+
+\begin{enumerate}
+\item[\textbf{5.}] In statistics, the formula $E = z\sqrt{\dfrac{pq}{n}}$ can be used to calculate the margin of error for a political poll. Solve this formula for $n$, the sample size.
+
+\item[\textbf{6.}] The formula $Z = \dfrac{\text{data value} - \text{mean}}{\text{standard deviation}}$ will be used in Cycle 4 to calculate a z-score. Solve this formula for ``data value.''
+
+\item[\textbf{7.}] The following formula gives the area, $A$, of a trapezoid based on its height, $h$, and the length of its two bases, $b$ and $B$:
+\[
+A = \frac{1}{2}h(b + B)
+\]
+\begin{enumerate}
+    \item[\textbf{a.}] Solve the formula for the height, $h$.
+    \item[\textbf{b.}] Solve the formula for the length of the base $b$.
+    \item[\textbf{c.}] Solve the formula for the length of the base $B$.
+\end{enumerate}
+
+\item[\textbf{8.}] Use the point-slope form of the equation of a line to find the equation of the line that has a slope $m = -5$ through the point $(-1, 7)$. Solve the equation for $y$.
+
+\item[\textbf{9.}] \textbf{Looking Forward, Looking Back} \quad Becky lost 10\% of her body weight and now weighs 153 pounds. Find how much she weighed before she lost weight. Check your answer.
+\end{enumerate}
+```

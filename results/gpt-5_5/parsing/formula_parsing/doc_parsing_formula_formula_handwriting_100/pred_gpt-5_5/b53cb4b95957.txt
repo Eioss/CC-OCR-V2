@@ -1,0 +1,16 @@
+\[
+\hat{\rho}(x):=\frac{1}{\tilde{\lambda}}\phi,\quad \tilde{T}:=T,\quad \tilde{H}:=\tilde{\lambda}T,\quad \tilde{h}=\frac{1}{n}\sum_{j=1}^{m}w_j-z,
+\]
+\[
+L(\phi_n;m_n^*)+L(w_n^*;m_n^*)+L(m_n^*;q_n)-L(m_n;q_n),
+\]
+\[
+I_-^m(L+1)=\inf\left\{I_-^m(l)\mid L<l<X_m\mid L_+^m<l(\ln N)^3\right\},
+\]
+\[
+i\hbar\,\partial_t\psi(x)+\frac{\hbar^2}{2m}\partial_x^2\psi(x)-V(x)\psi(x)=\int d^3y\,K(x,y)\psi(y),
+\]
+\[
+\int_{B_\epsilon(0)}|\gamma(w)|^2\,dy\le \lim_{n\to\infty}\int_{B_\epsilon(0)}|\gamma(w_n)|^2\,dy
+=\lim_{n\to\infty}\int_{B_\epsilon(y_n)}|\gamma(w_n)|^2\,dy\ge \beta>0.
+\]

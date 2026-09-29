@@ -1,0 +1,61 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\begin{document}
+
+I, for one, am far from ready to use online courses for my learning. Don't get me
+\(\overset{1}{\underline{\hspace{1cm}}}\), I am very happy about all the communication
+and learning opportunities the courses have given us. But for me those opportunities
+should not be used to replace classroom activities. In other words, they are only
+\(\overset{2}{\underline{\hspace{1cm}}}\) to help me learn what has already been
+\(\overset{3}{\underline{\hspace{1cm}}}\) in the classroom.
+
+I love the classroom. I love having classmates. There are forty students in my class
+right now, and I think it's great. I even love having classmates who are better than me.
+And, let's \(\overset{4}{\underline{\hspace{1cm}}}\) forget the smell of ink on paper,
+the sound of chalk on a blackboard, the hardness of a wooden bench or the heat inside
+the classroom in early September. I love it all. But most of
+\(\overset{5}{\underline{\hspace{1cm}}}\), I love having a teacher---a ``real live''
+teacher. I get excited when I am in the classroom with a good teacher. I learn in a
+way that has been proven to work. I am given insight not only
+\(\overset{6}{\underline{\hspace{1cm}}}\) a certain subject, but also into the world.
+
+What makes having a classroom teacher so
+\(\overset{7}{\underline{\hspace{1cm}}}\)? A good teacher pushes me to
+\(\overset{8}{\underline{\hspace{1cm}}}\). A good teacher rewards me with praise
+when I have done well and stays \(\overset{9}{\underline{\hspace{1cm}}}\) and gives
+me hope when I am down. I don't believe that a teacher using a virtual classroom can
+\(\overset{10}{\underline{\hspace{1cm}}}\) me in the same way. A teacher communicating
+\(\overset{11}{\underline{\hspace{1cm}}}\) the Internet cannot share the same type
+of \(\overset{12}{\underline{\hspace{1cm}}}\) a classroom teacher and student share.
+
+I guess that I am lucky to have had \(\overset{13}{\underline{\hspace{1cm}}}\) to
+so many excellent classroom teachers. I will never forget the kindness and
+\(\overset{14}{\underline{\hspace{1cm}}}\) that those teachers have shown me. Their
+examples make it hard for me to accept a way of learning that
+\(\overset{15}{\underline{\hspace{1cm}}}\) include them. You can call me
+``old-fashioned'', but as long as there is a classroom, that's where I will be learning.
+
+\bigskip
+
+\begin{tabular}{rlll}
+1.  & A. unhappy       & B. wrong        & C. troubled \\
+2.  & A. tools         & B. terms        & C. directions \\
+3.  & A. served        & B. offered      & C. appeared \\
+4.  & A. don't         & B. not          & C. always \\
+5.  & A. everything    & B. anything     & C. all \\
+6.  & A. at            & B. to           & C. into \\
+7.  & A. virtual       & B. special      & C. favorite \\
+8.  & A. succeed       & B. increase     & C. accept \\
+9.  & A. positive      & B. negative     & C. favorite \\
+10. & A. stay out with & B. reach out to & C. go out with \\
+11. & A. through       & B. to           & C. in \\
+12. & A. relationship  & B. situation    & C. relative \\
+13. & A. path          & B. access       & C. entrance \\
+14. & A. commitment    & B. assignment   & C. companion \\
+15. & A. does          & B. does not     & C. may
+\end{tabular}
+
+\end{document}
+```

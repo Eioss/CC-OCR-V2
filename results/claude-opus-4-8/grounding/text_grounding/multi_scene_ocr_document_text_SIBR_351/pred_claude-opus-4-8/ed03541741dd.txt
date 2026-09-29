@@ -1,0 +1,7 @@
+The text '10/27/20' appears twice in the image.
+
+For the first occurrence (Room Charge row):
+(96, 526, 280, 559)
+
+For the second occurrence (Room VAT 6% row):
+(96, 580, 280, 612)

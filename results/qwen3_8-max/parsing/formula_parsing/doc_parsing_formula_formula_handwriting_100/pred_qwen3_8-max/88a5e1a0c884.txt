@@ -1,0 +1,15 @@
+ $$( A - < A > ) \vert \psi > = \beta ( B - < B > ) \vert \psi >$$
+
+ $$d ^ { 2 } = - ( a ^ { 2 } + a b + b ^ { 2 } ) = - 3 x ^ { 2 } y ^ { 2 }$$
+
+ $$E \left( D n \right) = \left\{ v u _ { i } \mid 1 \leq i \leq n \right\} \cup \left\{ u _ { i } w _ { i } \mid 1 \leq i \leq n \right\}$$
+
+ $$\int _ { B } \varphi \circ f _ { t } ( x ) \, \mathrm { L e b } _ { B } ( d t ) = \varphi ( x )$$
+
+ $$t ^ { \ast } \left( \lambda \right) = \operatorname* { m i n } \left\{ k \in \mathbb { N } : d _ { H } \left( \P \nu , \P N \right) , k > 4 \right\} = \frac { \pi } { \lambda } + O ( 1 ) \, ,$$
+
+ $$\begin{array} { c } { { E _ { n , m } , = \frac { - m \lambda ^ { 4 } + 3 2 \eta ^ { 3 } \left( m ^ { \prime 2 } + 4 ( 1 + n ) ^ { 2 } + ( \varepsilon _ { 1 } + \varepsilon _ { 2 } ) ^ { 2 } + 4 \sqrt { m ^ { \prime 2 } + ( \varepsilon _ { 1 } + \varepsilon _ { 2 } ) ^ { 2 } } ( 1 + n ) \right) } { \left( \lambda ^ { 2 } - 4 \eta w \right) ^ { 2 } } } } \\ { { + \; \frac { 8 m \eta w \left( \lambda ^ { 2 } - 2 \eta w \right) } { \left( \lambda ^ { 2 } - 4 \eta w \right) ^ { 2 } } } } \end{array}$$
+
+ $$g _ { j } ( x ) : = \operatorname * { l i m } _ { t \rightarrow 0 ^ { + } } \Bigl ( g _ { j } ( x + i t ) - { \frac { 2 \mathrm { a r t a n h } ( { \frac { 1 } { \sqrt { 3 } } } ) } { \pi | c _ { x } | t } } \Phi _ { M _ { x } ^ { - 1 } } ( j , 0 ) \Bigr ) ,$$
+
+ $$\hat { L } ^ { - } [ w ] : = \mathcal { M } ^ { - } ( D ^ { 2 } w ) - \hat { b } \, | D w | \, , \; \mathrm { f o r ~ } \hat { b } = b + 2 \, \mu _ { 2 } \| D u _ { 0 } \| _ { \infty } \, ,$$

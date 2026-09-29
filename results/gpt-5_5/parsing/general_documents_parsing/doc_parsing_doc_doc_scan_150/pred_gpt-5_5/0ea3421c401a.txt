@@ -1,0 +1,86 @@
+```latex
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{a4paper, margin=2cm}
+
+\begin{document}
+
+\begin{flushright}
+{\Large 104}
+\end{flushright}
+
+\begin{flushright}
+財務報表附註\\
+於二零二零年十二月三十一日
+\end{flushright}
+
+\section*{15. 股息}
+
+\begin{tabular}{p{8cm}c r r}
+\toprule
+ & 附註 & \begin{tabular}{c}二零二零年\\千港元\end{tabular} & \begin{tabular}{c}二零一九年\\千港元\end{tabular} \\
+\midrule
+保寶龍集團的分派 & (i) & － & 259,300 \\
+中期－每股普通股0.23港仙（二零一九年：0.42港仙） &  & 2,074 & 3,940 \\
+擬派末期－每股普通股0.66港仙（二零一九年：0.37港仙） & (ii) & 5,952 & 3,456 \\
+\midrule
+ &  & 8,026 & 266,696 \\
+\bottomrule
+\end{tabular}
+
+\vspace{1em}
+
+附註：
+
+\begin{tabular}{p{1cm}p{13cm}}
+(i) &
+如附註14所述，保寶龍集團的全部已發行股本已於二零一九年六月二十一日透過實物分派方式分拆完畢。歸屬於保寶龍集團的資產淨值（須分派予本公司股東）約為259,300,000港元。 \\[1em]
+(ii) &
+普通股的建議股息須於股東週年大會上獲批准後方可作實，而於二零二零年十二月三十一日前未確認為負債。 \\
+\end{tabular}
+
+\section*{16. 母公司普通權益持有人應佔每股盈利}
+
+每股基本盈利乃按母公司普通權益持有人應佔年內溢利及年內已發行普通股加權平均數901,785,000股（二零一九年：936,094,419股）計算。
+
+\vspace{1em}
+
+每股攤薄盈利乃根據母公司普通權益持有人應佔年內溢利計算。計算所用普通股加權平均數為用作計算每股基本盈利的年內已發行普通股加權平均數，以及假設在視作行使或兌換所有潛在攤薄普通股為普通股時已無償發行的普通股加權平均數。
+
+\vspace{1em}
+
+\begin{tabular}{p{10cm} r r}
+\toprule
+ & \begin{tabular}{c}二零二零年\\千港元\end{tabular} & \begin{tabular}{c}二零一九年\\千港元\end{tabular} \\
+\midrule
+\textbf{盈利} &  &  \\
+用作計算每股基本及攤薄盈利的母公司普通權益持有人應佔溢利 & 21,669 & 39,182 \\
+\bottomrule
+\end{tabular}
+
+\vspace{1em}
+
+\begin{tabular}{p{10cm} r r}
+\toprule
+ & \multicolumn{2}{c}{股份數目} \\
+\midrule
+\textbf{股份} &  &  \\
+用作計算每股基本盈利的已發行普通股加權平均數 & 901,785,000 & 936,094,419 \\
+攤薄影響－普通股加權平均數： &  &  \\
+\quad 可換股票據 & 494,228,072 & 251,690,222 \\
+\midrule
+用作計算每股攤薄盈利的已發行普通股經調整加權平均數 & 1,396,013,072 & 1,187,784,641 \\
+\bottomrule
+\end{tabular}
+
+\vfill
+
+\begin{center}
+2020 年報 \quad | \quad 中國網絡控股有限公司
+\end{center}
+
+\end{document}
+```

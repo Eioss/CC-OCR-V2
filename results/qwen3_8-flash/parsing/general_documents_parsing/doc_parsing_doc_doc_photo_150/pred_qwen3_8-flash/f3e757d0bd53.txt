@@ -1,0 +1,60 @@
+```latex
+\begin{center}
+    Candidate Statement of Results
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}l l@{\hspace{4em}}l l@{}}
+\textbf{Season:} & Summer 2018 & \textbf{Series:} & (All) \\[1ex]
+\textbf{Name:} & \rule{6cm}{0.4pt} & \textbf{Year:} & 11 \\[1ex]
+\textbf{Candidate Number:} & \rule{3cm}{0.4pt} & \textbf{Reg. Group:} & 11S \\[1ex]
+\textbf{UCI:} & \rule{5cm}{0.4pt} & \textbf{ULN:} & \rule{4cm}{0.4pt} \\
+\end{tabular}
+
+\vspace{2em}
+
+\noindent
+\Large\textbf{Exam Results}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}l l l l l r r r r r@{}}
+\hline
+Board & Level & Element Code & Title & Grd1 & Grd2 & Mark & Equiv & End1 & End2 & Points \\
+\hline
+EDEXL/GV & DIDA/CE2 & GCDA2 & Cert.in Dig.Apps.Level 2 & C & & 41 & & & & 4 \\
+EDEXL/GC & GCSE/9FC & 1MA1H & Mathematics Option H & 4 & & 58 & & & & 4 \\
+EDEXL/GC & GCSE/9FC & 1RA0ZS & Religious Studies A Option ZS & 2 & & 42 & & & & 2 \\
+AQA & GCSE/9FC & 8700 & English Language & 4 & & & P & & & 4 \\
+AQA & GCSE/9FC & 8702 & English Literature & 5 & & & & & & 5 \\
+OCR & GCSE/9FC & J276 & Computer Science & 2 & & & & & & 2 \\
+AQA & GCSE/DA & 8464H & Combined Sci: Trilogy Tier H & 44 & & & & & & 8 \\
+AQA & GCSE/FC & 4688 & Polish & B & & 303 & & & & 5.5 \\
+EDEXL/GV & DIDA/B & DA201 & Digital Applications UN 1 & & & 5 u & & & & \\
+EDEXL/GV & DIDA/B & DA204E & Digital Applications UN 4 Option E & & & 36 b & & & & \\
+AQA & GCSE/B & 46851 & Polish Unit 1 & & & 74 b & & & & \\
+AQA & GCSE/B & 46852 & Polish Unit 2 & & & 78 b & & & & \\
+AQA & GCSE/B & 46853 & Polish Unit 3 & & & 73 b & & & & \\
+AQA & GCSE/B & 46854 & Polish Unit 4 & & & 78 b & & & & \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+
+\noindent
+\Large\textbf{Additional Results}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}l l l l l r@{}}
+\hline
+Board & Level & Subject Code & Title & Grade & Points \\
+\hline
+NCFE & NQF/L2 & HJ1 & NCFE Level 2 Certificate in Health and Fitness & Merit & 5.5 \\
+\hline
+\end{tabular}
+```

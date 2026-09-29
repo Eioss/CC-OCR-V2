@@ -1,0 +1,138 @@
+Based on the image provided, here is the transcription of the text into LaTeX format. I have used standard LaTeX packages to handle the special characters (diacritics) and formatting found in the Assyriological text.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{multicol}
+\usepackage{geometry}
+
+% Custom commands for common Assyriological diacritics and formatting
+\newcommand{\v{s}}{\v{s}}
+\newcommand{\v{S}}{\v{S}}
+\newcommand{\v{t}}{\v{t}}
+\newcommand{\v{g}}{\v{g}}
+\newcommand{\d{u}}{\d{u}}
+\newcommand{\d{S}}{\d{S}}
+\newcommand{\d{N}}{\d{N}}
+\newcommand{\textsubscript}[1]{\textsubscript{#1}} % Requires fixltx2e or newer kernel
+
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+\noindent \textbf{48. Pre-Ur III, dated (Umma).}
+
+Baked clay envelope, still intact and well preserved. Light brown. 42 $\times$ 42 $\times$ 26 mm. Obv. 3 ll.: one on top, one in center and one at bottom. Rev. 2 ll.: one on top and one in center. Covered with seal impression.
+
+\vspace{0.5em}
+\noindent \v{S}ubati document: food provision.
+
+\vspace{0.5em}
+\noindent Month: iti ur (Umma calendar, IX).
+
+\vspace{0.5em}
+\noindent Date formula: mu 4 kam u\v{s}.
+
+\hspace{1em} Month name: \textit{CCTE}, p. 177; d.f.: unidentified: Schneider, 39, 6, f; \textit{CCTE}, p. 175 (I 28).
+
+\hspace{1em} Seal impression: Lugal-ga-mu/dumu Ur-\d{S}ar\'{a}.
+
+\vspace{1.5em}
+\noindent \textbf{49. Ur III, dated (Umma).}
+
+Baked clay tablet. Light reddish brown Complete and well preserved. 22 $\times$ 20 $\times$ 11 mm. Obv. 5 ll. rev. 2 ll.
+
+\vspace{0.5em}
+\noindent Mu-DU document: asses.
+
+\vspace{0.5em}
+\noindent Month: RI (Umma calendar, V).
+
+\vspace{1.5em}
+\noindent \textbf{50. Ur III, dated (Umma ?).}
+
+Baked clay tablet. Light reddish brown. 25 $\times$ 24 $\times$ 12 mm. Complete and fairly well preserved, except for a notch on obverse. Obv. 6 ll., rev. 4 ll.
+
+\vspace{0.5em}
+\noindent Income record: Livestock (ki-x).
+
+\vspace{0.5em}
+\noindent Date formula: Shulgi, 37.
+
+\hspace{1em} Obv. 1: \textsuperscript{r}udu\textsuperscript{7} bar-rug-ga cf. \textit{CCTE}, note 94; \textit{SETU}, 130: 181; obv. 3-4: m\'{a}\v{s} \v{s}u-nir \d{N}in-ur\textsubscript{4}-ra cf. \textit{SETU}, 130 (from Umma) ll. 188--189.
+
+\vspace{1.5em}
+\noindent \textbf{51. Ur III, dated (Umma ?).}
+
+Baked clay tablet. Reddish brown. 45 $\times$ 42 $\times$ 12 mm. Complete and well preserved. Obv. 6 ll., rev. 3 ll. Covered with a seal impression.
+
+\vspace{0.5em}
+\noindent Endorsed assignment of day labourers (ki\v{s}ib; ugula).
+
+\vspace{0.5em}
+\noindent Date formula: \v{S}u-\v{S}in, 7.
+
+\hspace{1em} Cf. parallel, \textit{CCTE}, KK, 11; obv. 3: \v{s}u-\`{u}r-ra cf. \textit{CCTE}, D 24, a.
+
+\hspace{1em} Seal impression: name of scribe is \v{S}\`{a}-nin-g\'{a} dumu lugal-la: (cf. \textit{CCTE}, KK 11: 11; E 21: 8).
+
+\vspace{1.5em}
+\noindent \textbf{52. Ur III, dated (Puzri\v{s}-Dag\={a}n).}
+
+Baked clay tablet. Reddish brown. Complete and well preserved. 32 $\times$ 30 $\times$ 14 mm. Obv. 5 ll., rev. 8 ll.
+
+\vspace{0.5em}
+\noindent Balanced account (n\'{i}g-\v{S}ID-ak) document: grain.
+
+\vspace{0.5em}
+\noindent Months: Ma\v{s}-k\`{u}-k\'{u} and \v{s}e\v{s}-da-k\'{u} (Ur calendar, I-II).
+
+\vspace{0.5em}
+\noindent Date formula: Shulgi, 37 (Schneider 34, Bd).
+
+\hspace{1em} Puzri\v{s}-Dag\={a}n: A. Goetze, \c{S}ellu\v{s}-Dag\={a}n cf. \textit{JCS} 17 (1963), pp. 34--35.
+
+\vspace{1.5em}
+\noindent \textbf{53. Ur III, dated (Puzri\v{s}-Dag\={a}n).}
+
+Baked clay tablet. Light brown. 30 $\times$ 32 $\times$ 15 mm. Obv. 6 ll., rev. 6 ll., Chipped at lower left corner.
+
+\vspace{0.5em}
+\noindent \'{I}-d\'{i}b document: grain-fed oxen.
+
+\vspace{0.5em}
+\noindent Month: ezen An-na (Ur calendar, X).
+
+\vspace{0.5em}
+\noindent Date formula: Shulgi, 46 (Schneider 43, Bd).
+
+\noindent Photo: Pl. 41.
+
+\vspace{1.5em}
+\noindent \textbf{54. Ur III, dated (Puzri\v{s}-Dag\={a}n).}
+
+Baked clay tablet. Bleached white. Complete. 31 $\times$ 27 $\times$ 13 mm. Obv. 6 ll., rev. 7 ll.
+
+\vspace{0.5em}
+\noindent \v{S}ubati document: killed livestock.
+
+\vspace{0.5em}
+\noindent Month: \v{s}e\v{s}-da-k\'{u} (Ur calendar, II).
+
+\vspace{0.5em}
+\noindent Date formula: Shulgi, 47 (Schneider 44 A, a).
+
+\hspace{1em} Rev. 2: Ur-nigin-gar, receiver of killed animals from Shulgi 44 to AMAR-Sin 3, cf. \textit{SETU}, p. 223 (W. W. Hallo, \textit{HUCA} 29 (1959), pp. 80--81); cf. also our Nos. 56, 57.
+
+\end{multicols}
+
+\vfill
+\begin{center}
+    9
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,21 @@
+$$E\left[\sum_a \sum_z \frac{I\{PS=S4\}\ I\{Z=z\}\ I\{A_s=z\}\ a\,(a+z)\,Y_a}{2}\,\middle|\,X\right]$$
+
+$$=\left[\sum_a \sum_z \frac{I\{PS=S4\}\ I\{A_s=a\}\ a\,(a+z)\,Y_a}{2}\right]f(z\mid X)$$
+
+$$\lambda_e-\lambda_{e+1}=\begin{cases} w(c_e)+\delta(c_e,c_{e+1}), & \text{if } c_e \leq 2^{k-1}\\ w(c_e)+\delta(c_e-2^{k-1},c_{e+1}), & \text{if } c_e > 2^{k-1}\end{cases}$$
+
+$$h_{\min}(x^{s-1})>h_{\min}(x^s)>h_{\min}(x^{s+1})>\cdots>h_{\min}(x^{2n}).$$
+
+$$\sum_e \kappa(\tilde{u}_e)\leq \sum_e (\kappa(u_e)-1)\leq \sum_e \kappa(u\,\ell)-d\leq n$$
+
+$$P_o(\bar{k}_r)=P(\beta_{j(r),k(r)}=0,\ \beta_{k(r),j(r)}=0\mid y)$$
+
+$$\leq \min\left\{P(\beta_{j(r),k(r)}=0\mid y),\ P(\beta_{k(r),j(r)}=0\mid y)\right\}$$
+
+$$A_0\lesssim \int_0^T |u^{*k/4}|\,\|L_{xy}^{*-1}\|\,\|D_x^s(u^{k/4}u\,x)\|\,\|z_y^*\,y\|\,dt+\int_0^T \|D_x^s(u^{*k/4})u^{*k/4}u\,x\|\,\|z_y^*\,y\|\,dt$$
+
+$$=A_1+A_2.$$
+
+$$\|Dw\|_{L^2(\Omega)}\geq \|\frac{\lambda(\Omega)}{N}|x-x_o|-|Du|\,\|_{L^2(\partial\Omega)}$$
+
+$$\geq \|\frac{\lambda(\Omega)}{N}|x-x_o|-1\|_{L^2(\partial\Omega)}-\|\,|Du|-1\,\|_{L^2(\partial\Omega)}$$

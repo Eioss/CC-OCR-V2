@@ -1,0 +1,36 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c|l|}
+\hline
+Perimeter & \begin{tabular}{@{}c@{}}Square \\ Rectangle\end{tabular} & \begin{tabular}{@{}l@{}}P = 4a \\ P = 2(l+b)\end{tabular} \\
+\hline
+Circumference & Circle & C = 2*pi*r \\
+\hline
+Area & \begin{tabular}{@{}c@{}}Square \\ Rectangle \\ Triangle \\ Trapezoid \\ Circle\end{tabular} & \begin{tabular}{@{}l@{}}A = a\textsuperscript{2} \\ A = l*b \\ A = bh/2 \\ A = (b\textsubscript{1}+b\textsubscript{2})h/2 \\ A = pi*r\textsuperscript{2}\end{tabular} \\
+\hline
+Surface Area & \begin{tabular}{@{}c@{}}Cube \\ Cylinder \\ Cone \\ Sphere\end{tabular} & \begin{tabular}{@{}l@{}}S = 6a\textsuperscript{2} \\ S = 2*pi*r*h \\ S = pi*r*l \\ S = 4*pi*r\textsuperscript{2}\end{tabular} \\
+\hline
+Volume & \begin{tabular}{@{}c@{}}Cylinder \\ Cone \\ Sphere\end{tabular} & \begin{tabular}{@{}l@{}}V = bh \\ V = bh/3 \\ V = 4 * pi *r\textsuperscript{3}/3\end{tabular} \\
+\hline
+Pythagorus Theorem & \multicolumn{2}{c|}{a\textsuperscript{2}+b\textsuperscript{2} = c\textsuperscript{2}} \\
+\hline
+Distance Formula & \multicolumn{2}{c|}{d = sqrt[(x\textsubscript{2}-x\textsubscript{1})\textsuperscript{2}+(y\textsubscript{2}-y\textsubscript{1})\textsuperscript{2}]} \\
+\hline
+Slope of a line & \multicolumn{2}{c|}{m = (y\textsubscript{2}-y\textsubscript{1})/(x\textsubscript{2}-x\textsubscript{1})} \\
+\hline
+Midpoint Formula & \multicolumn{2}{c|}{M = ((x\textsubscript{1}+x\textsubscript{2})/2,(y\textsubscript{1}+y\textsubscript{2})/2)} \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

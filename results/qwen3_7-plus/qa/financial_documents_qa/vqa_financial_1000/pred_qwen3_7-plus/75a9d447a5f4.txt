@@ -1,0 +1,19 @@
+The title of the chart is:
+
+**Figure 1  
+PERCENT ACTIVE AT ONE YEAR  
+BY EDUCATIONAL LEVEL**
+
+This title appears centered at the top of the image, above the bar chart. It indicates that the graph displays the percentage of individuals who were “active” (likely in a workforce or program) one year after some reference point, broken down by their level of educational attainment.
+
+---
+
+**Breakdown:**
+- **Figure 1**: Identifies this as the first figure in a series.
+- **PERCENT ACTIVE AT ONE YEAR**: The metric being measured — the proportion active after one year.
+- **BY EDUCATIONAL LEVEL**: The categorical variable used to group the data — years of education completed.
+
+The x-axis labels show categories like “<7”, “7–9”, “H.S. Grad.”, “College Grad.”, etc., confirming the breakdown by education level. The y-axis shows "% Active" from 50 to 100.
+
+✅ So, the full title is:  
+**Figure 1 — PERCENT ACTIVE AT ONE YEAR BY EDUCATIONAL LEVEL**

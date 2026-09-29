@@ -1,0 +1,15 @@
+```json
+{
+    "menu": [
+        "1 FL-Xmas 30 Off 68,180",
+        "1 PAKET SLICES 0",
+        "1 » FL Cake - French 0 Vanilla SLC",
+        "1 PAKET SLICES 0",
+        "1 » FL Cake - Green 0 Tea SLC",
+        "1 PAKET SLICES 0",
+        "1 FL Cake - Belgium 0 Choco SLC"
+    ],
+    "sub_total": "68,180",
+    "total": "75,000"
+}
+```

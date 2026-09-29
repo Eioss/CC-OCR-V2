@@ -1,0 +1,7 @@
+Based on the provided document, let's find the weight for the "Available Qty".
+
+1.  Locate the column header **"AVAILABLE QTY"**. This is the third numerical column in the summary section near the top of the page.
+2.  Look down this column to find the row labeled **"WEIGHT..."**.
+3.  The value at the intersection of the "AVAILABLE QTY" column and the "WEIGHT..." row is **3266.6400**.
+
+Therefore, the weight for the Available Qty is **3266.6400**.

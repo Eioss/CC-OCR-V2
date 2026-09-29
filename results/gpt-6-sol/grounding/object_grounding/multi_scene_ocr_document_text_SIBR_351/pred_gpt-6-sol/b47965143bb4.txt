@@ -1,0 +1,16 @@
+[
+  {"bbox_2d":[217,55,565,78],"label":"Company Name"},
+  {"bbox_2d":[268,82,744,95],"label":"Address"},
+  {"bbox_2d":[338,132,667,150],"label":"Title"},
+  {"bbox_2d":[90,168,222,180],"label":"TO"},
+  {"bbox_2d":[816,157,915,170],"label":"Invoice No"},
+  {"bbox_2d":[816,182,909,196],"label":"Sale Contract No"},
+  {"bbox_2d":[815,208,914,222],"label":"Date"},
+  {"bbox_2d":[173,237,316,250],"label":"From"},
+  {"bbox_2d":[532,238,577,250],"label":"To"},
+  {"bbox_2d":[197,266,222,278],"label":"Letter of Credit No."},
+  {"bbox_2d":[227,350,555,364],"label":"Commodities and Descriptions"},
+  {"bbox_2d":[649,357,711,371],"label":"Quantities"},
+  {"bbox_2d":[750,357,835,370],"label":"Unit Price"},
+  {"bbox_2d":[876,357,963,371],"label":"Amount"}
+]

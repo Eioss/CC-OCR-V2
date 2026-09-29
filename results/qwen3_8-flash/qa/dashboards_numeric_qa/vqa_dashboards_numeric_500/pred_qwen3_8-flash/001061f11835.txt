@@ -1,0 +1,15 @@
+Looking at the infographic, we can find the section that mentions:
+
+> “Facebook images that were posted together as a photo album post received **12.9 times** more clicks than single photo posts.”
+
+Below this text, there is a visual representation of cursor arrows (pointing hands) arranged in rows to symbolize clicks.
+
+Let’s count them:
+
+- First row: 5 cursors
+- Second row: 5 cursors
+- Third row: 3 cursors + the number “12.9 times” next to it
+
+So total cursors = 5 + 5 + 3 = **13**
+
+✅ The answer is **13**.

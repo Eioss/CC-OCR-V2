@@ -1,0 +1,30 @@
+```json
+[
+    {"bbox_2d": [54, 53, 310, 104], "label": "Address"},
+    {"bbox_2d": [124, 293, 394, 343], "label": "Address"},
+    {"bbox_2d": [568, 292, 840, 342], "label": "Address"},
+    {"bbox_2d": [49, 40, 309, 50], "label": "Company Name"},
+    {"bbox_2d": [500, 423, 523, 432], "label": "Currency"},
+    {"bbox_2d": [834, 234, 908, 244], "label": "Date"},
+    {"bbox_2d": [762, 408, 821, 417], "label": "Delivery Terms"},
+    {"bbox_2d": [849, 510, 909, 520], "label": "Ext Price"},
+    {"bbox_2d": [163, 176, 250, 185], "label": "Fax"},
+    {"bbox_2d": [136, 222, 183, 234], "label": "Invoice"},
+    {"bbox_2d": [122, 267, 221, 277], "label": "Name"},
+    {"bbox_2d": [565, 266, 664, 276], "label": "Name"},
+    {"bbox_2d": [158, 410, 195, 419], "label": "PO Number"},
+    {"bbox_2d": [158, 438, 187, 447], "label": "Packing List"},
+    {"bbox_2d": [827, 193, 907, 204], "label": "Page"},
+    {"bbox_2d": [94, 511, 644, 535], "label": "Part Number/Description"},
+    {"bbox_2d": [162, 165, 236, 173], "label": "Phone"},
+    {"bbox_2d": [501, 510, 564, 519], "label": "Quantity"},
+    {"bbox_2d": [336, 511, 345, 520], "label": "Revision"},
+    {"bbox_2d": [158, 424, 222, 433], "label": "Sales Rep"},
+    {"bbox_2d": [762, 436, 837, 446], "label": "Ship Date"},
+    {"bbox_2d": [762, 423, 843, 433], "label": "Ship Via"},
+    {"bbox_2d": [500, 410, 551, 418], "label": "Terms"},
+    {"bbox_2d": [470, 205, 547, 219], "label": "Title"},
+    {"bbox_2d": [847, 626, 910, 635], "label": "Total"},
+    {"bbox_2d": [655, 509, 738, 519], "label": "Unit Price"}
+]
+```

@@ -1,0 +1,169 @@
+Of course. Here is the transcription of the physics formula sheet into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{angles, quotes}
+
+\geometry{a4paper, margin=0.5in}
+
+\begin{document}
+
+\begin{center}
+    {\Large\bfseries Physics Formula Sheet}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.74\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        \textbf{Mechanics}
+    \end{center}
+    \hrule
+    \vspace{0.5em}
+    \begin{tabular}{@{} >{$}l<{$} @{\hspace{2em}} >{$}l<{$} @{\hspace{2em}} >{$}l<{$} @{}}
+        x = x_0 + v_{x0}t + \frac{1}{2}a_x t^2 & a_r = \frac{v^2}{r} & |\vec{F}_{\text{spring}}| = k|\vec{x}| \\[1.5ex]
+        v = v_0 + at & \theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2 & PE_{\text{spring}} = \frac{1}{2}kx^2 \\[1.5ex]
+        v_x^2 - v_{x0}^2 = 2a(x - x_0) & \omega = \omega_0 + \alpha t & T_{\text{spring}} = 2\pi\sqrt{\frac{m}{k}} \\[2.5ex]
+        \bar{a} = \frac{\Sigma \vec{F}}{m} = \frac{\vec{F}_{\text{net}}}{m} & T = \frac{2\pi}{\omega} = \frac{1}{f} & T_{\text{pendulum}} = 2\pi\sqrt{\frac{\ell}{g}} \\[2.5ex]
+        |\vec{F}_{\text{friction}}| \le \mu |\vec{F}_{\text{Normal}}| & v = f\lambda & \\[1.5ex]
+        \vec{p} = m\vec{v} & x = A\cos(2\pi ft) & |\vec{F}_{\text{gravity}}| = G\frac{m_1 m_2}{r^2} \\[1.5ex]
+        \Delta \vec{p} = \vec{F}\Delta t & \bar{\alpha} = \frac{\Sigma \vec{\tau}}{I} = \frac{\vec{\tau}_{\text{net}}}{I} & |\vec{F}_{\text{gravity}}| = mg \\[1.5ex]
+        KE = \frac{1}{2}mv^2 & \vec{\tau} = r \times F & PE_{\text{gravity}} = -G\frac{m_1 m_2}{r} \\[1.5ex]
+        \Delta PE = mg\Delta y & L = I\omega & \rho = \frac{m}{V} \\[1.5ex]
+        \Delta E = W = Fd\cos\theta & \Delta L = \tau \Delta t & KE = \frac{1}{2}I\omega^2 \\
+    \end{tabular}
+
+    \vspace{2em}
+
+    \begin{center}
+        \textbf{Electricity}
+    \end{center}
+    \hrule
+    \vspace{0.5em}
+    \begin{tabular}{@{} >{$}l<{$} @{\hspace{2em}} >{$}l<{$} @{\hspace{2em}} >{$}l<{$} @{}}
+        |\vec{F}_E| = k \left| \frac{q_1 q_2}{r^2} \right| & \Delta V = IR & R = \frac{\rho \ell}{A} \\[2.5ex]
+        & I = \frac{\Delta q}{\Delta t} & P = I\Delta V \\[2.5ex]
+        R_{\text{series}} = R_1 + R_2 + \dots + R_n & \multicolumn{2}{>{$}l<{$}}{\frac{1}{R_{\text{parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}} \\
+    \end{tabular}
+
+    \vspace{2em}
+
+    \begin{center}
+        \textbf{Geometry}
+    \end{center}
+    \hrule
+    \vspace{0.5em}
+    \begin{tabular}{@{} l >{$}l<{$} @{\hspace{1.5em}} l >{$}l<{$} @{\hspace{1.5em}} l >{$}l<{$} @{}}
+        Rectangle & A = bh & Rectangular Solid & V = \ell wh & Triangle & A = \frac{1}{2}bh \\[1.5ex]
+        Circle & \begin{aligned}[t] A &= \pi r^2 \\ C &= 2\pi r \end{aligned} & Cylinder & \begin{aligned}[t] V &= \pi r^2 \ell \\ S &= 2\pi r \ell + 2\pi r^2 \end{aligned} & Sphere & \begin{aligned}[t] V &= \frac{4}{3}\pi r^3 \\ S &= 4\pi r^2 \end{aligned} \\
+    \end{tabular}
+
+    \vspace{2em}
+
+    \begin{center}
+        \textbf{Trigonometry}
+    \end{center}
+    \hrule
+    \vspace{0.5em}
+    
+    \noindent
+    \begin{minipage}[c]{0.25\textwidth}
+        \centering
+        \begin{tikzpicture}[scale=1.5]
+            \coordinate (A) at (0,0);
+            \coordinate (B) at (2,0);
+            \coordinate (C) at (2,1);
+            
+            \draw[thick] (A) -- (B) -- (C) -- cycle;
+            \draw (1.8,0) -- (1.8,0.2) -- (2,0.2);
+            
+            \node[below] at (1,0) {b};
+            \node[right] at (2,0.5) {a};
+            \node[above left] at (1,0.5) {c};
+            
+            \pic [draw, angle radius=5mm, "$\theta$"] {angle = B--A--C};
+        \end{tikzpicture}
+    \end{minipage}%
+    \begin{minipage}[c]{0.74\textwidth}
+        \centering
+        $c^2 = a^2 + b^2 \qquad \sin\theta = \frac{a}{c} \quad \cos\theta = \frac{b}{c} \quad \tan\theta = \frac{a}{b}$
+    \end{minipage}
+
+    \vspace{1em}
+
+    \begin{center}
+        \begin{tabular}{c c c c c c c c c}
+            \toprule
+            $\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+            \midrule
+            $\sin\theta$ & 0 & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & 1 \\
+            $\cos\theta$ & 1 & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & 0 \\
+            $\tan\theta$ & 0 & $\sqrt{3}/3$ & $3/4$ & 1 & 1 & $\sqrt{3}$ & $\infty$ \\
+            \bottomrule
+        \end{tabular}
+    \end{center}
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.24\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        \textbf{Variables}
+    \end{center}
+    \hrule
+    \vspace{0.5em}
+    \begin{tabular}{@{} >{$}l<{$} @{} l @{}}
+        a & = acceleration \\
+        A & = amplitude \\
+        A & = Area \\
+        b & = base length \\
+        C & = circumference \\
+        d & = distance \\
+        E & = energy \\
+        f & = frequency \\
+        F & = force \\
+        h & = height \\
+        I & = current \\
+        I & = rotational inertia \\
+        KE & = kinetic energy \\
+        k & = spring constant \\
+        L & = angular momentum \\
+        \ell & = length \\
+        m & = mass \\
+        P & = power \\
+        p & = momentum \\
+        q & = charge \\
+        r & = radius \\
+        R & = resistance \\
+        S & = surface area \\
+        T & = period \\
+        t & = time \\
+        PE & = potential energy \\
+        V & = electric potential \\
+        V & = volume \\
+        v & = velocity \\
+        w & = width \\
+        W & = work \\
+        x & = position \\
+        y & = height \\
+        \alpha & = angular acceleration \\
+        \lambda & = wavelength \\
+        \mu & = coefficient of friction \\
+        v & = wave speed \\
+        \theta & = angle \\
+        \rho & = density \\
+        \rho & = resistivity \\
+        \tau & = torque \\
+        \omega & = angular speed \\
+    \end{tabular}
+\end{minipage}
+
+\end{document}
+```

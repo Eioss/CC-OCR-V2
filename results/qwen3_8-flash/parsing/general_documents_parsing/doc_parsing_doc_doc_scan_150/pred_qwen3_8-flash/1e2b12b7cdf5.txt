@@ -1,0 +1,165 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+
+% Define colors based on the image
+\definecolor{lightpink}{RGB}{250, 230, 235}
+\definecolor{darkred}{RGB}{180, 60, 70}
+\definecolor{graybg}{RGB}{230, 230, 230}
+
+\newcommand{\header}[2]{
+    \begin{center}
+        \textbf{\Large #1} \\
+        \rule{\linewidth}{0.5pt}
+    \end{center}
+}
+
+\newenvironment{grammarbox}[1]
+{
+    \begin{tcolorbox}[colback=lightpink!50!white, colframe=black, title=\textbf{#1}, fonttitle=\bfseries]
+}
+{
+    \end{tcolorbox}
+}
+
+\begin{document}
+
+% Section 3: PRESENT CONTINUOUS
+\section*{3 PRESENT CONTINUOUS}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\rowcolor{lightpink} \textbf{Form} & am, is, or are + verb + ing \\
+\hline
+\rowcolor{lightpink} \textbf{Use} & actions happening now, at the moment of speaking. \\
+\hline
+\rowcolor{lightpink} \textbf{Signal words} & now, at the moment, still, Look! Listen!... \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 1} Find the signal words for present continuous.
+\begin{enumerate}
+    \item Which is a signal word for present continuous? \\ last -- now -- every night
+    \item Which is \textbf{not} a signal word for present continuous? \\ now - already - still
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 2} Put these verbs in present continuous.
+\begin{enumerate}
+    \item They / play \dotfill
+    \item Sara and Leila/ dance \dotfill
+    \item I/ not, speak \dotfill
+    \item He/ to sing \dotfill
+    \item David / not, to write \dotfill
+\end{enumerate}
+
+\noindent\textbf{EXERCISE 3} Put the following verbs in the correct tense.
+\begin{enumerate}
+    \item Now, it (rain) heavily outside. \dotfill
+    \item She (not, speak) French at the moment. \dotfill
+    \item Many people (still, ght) against poverty in Africa. \dotfill
+    \item Mark's children (to play) video games at the moment. \dotfill
+    \item (Sandra, to do) her homework now? \dotfill
+\end{enumerate}
+
+\hrulefill
+
+% Section 4: PAST CONTINUOUS
+\section*{4 PAST CONTINUOUS}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\rowcolor{lightpink} \textbf{Form} & was or were + verb + ing \\
+\hline
+\rowcolor{lightpink} \textbf{Use} & For actions which were in progress in the past. \\
+\hline
+\rowcolor{lightpink} \textbf{Signal words} & when, while + long action in the past \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 1} Find the signal words for past continuous.
+\begin{enumerate}
+    \item Which is a signal word for past continuous? \\ while - by next week - tomorrow
+    \item Which is \textbf{not} a signal word for past continuous? \\ next week -- when - while
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 2} Put these verbs in past continuous.
+\begin{enumerate}
+    \item She/ watch \dotfill
+    \item They/ to play \dotfill
+    \item It/ rain \dotfill
+    \item Many students/ to work \dotfill
+    \item He/ not, to drive \dotfill
+\end{enumerate}
+
+\noindent\textbf{EXERCISE 3} Put the following verbs in the correct tense.
+\begin{enumerate}
+    \item Barbara (to do) her homework yesterday when I came in. \dotfill
+    \item When I (write) the E-mail last time, Mary (to watch) TV. \dotfill
+    \item I saw my teacher yesterday when I (wait) for the bus. \dotfill
+    \item When Sandra (arrive) home yesterday, her father (not, to cook) lunch. \dotfill
+    \item (Your brother, to play) the game when the computer crashed down? \dotfill
+\end{enumerate}
+
+\hrulefill
+
+% Section 5: PRESENT PERFECT
+\section*{5 PRESENT PERFECT}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\rowcolor{lightpink} \textbf{Form} & have or has + Past Participle \\
+\hline
+\rowcolor{lightpink} \textbf{Use} & For actions which started in the past and continued up to the present. \\
+\hline
+\rowcolor{lightpink} \textbf{Signal words} & just, already, yet, for, since, so far, recently, ever... \\
+\hline
+\end{tabular}
+
+\noindent NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give more emphasis on the duration of the action. However, some verbs can't be used in the continuous form such as own, smell, need, belong, cost, agree, contain..., etc.
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 1} Find the signal words for present perfect.
+\begin{enumerate}
+    \item Which is a signal word for present perfect? \\ still -- usually -- since
+    \item Which is \textbf{not} a signal word for present perfect? \\ since -- before -- for
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{EXERCISE 2} Put these verbs in present perfect.
+\begin{enumerate}
+    \item They/ to do \dotfill
+    \item Jack / to publish \dotfill
+    \item He/ not, to have \dotfill
+    \item She/ to study \dotfill
+    \item Mike and Lina / to have \dotfill
+\end{enumerate}
+
+\noindent\textbf{EXERCISE 3} Put the following verbs in the correct tense.
+\begin{enumerate}
+    \item He (just, phone) Sabrina; she is in Chicago now. \dotfill
+    \item I (buy, recently) a laptop to Louis. \dotfill
+    \item The maid (not, cook) the dinner yet. \dotfill
+    \item She (drive) this car for two hours. \dotfill
+    \item He (to be) in prison since 2003. \dotfill
+    \item (you, ever, read) Hemingway's novels? \dotfill
+\end{enumerate}
+
+\end{document}
+```

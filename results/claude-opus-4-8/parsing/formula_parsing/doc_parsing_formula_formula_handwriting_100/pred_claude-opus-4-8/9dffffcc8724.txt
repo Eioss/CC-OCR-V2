@@ -1,0 +1,11 @@
+$$P_n - P_n^o = \frac{1}{2\pi i} \int_{C_n} (R(\lambda) - R^0(\lambda)) \, d\lambda,$$
+
+$$f_j^- = \min_{x \in \overline{\Omega_j}} f(x), \, f_j^+ = \max_{x \in \overline{\Omega_j}} f(x), \, j = 1, \cdots, n_0, \forall f \in C(\overline{\Omega}),$$
+
+$$\partial_i(\partial_j(x e_{\underline{K}})) = \partial_i(D_j(x) e_{\underline{K}} + \delta_j(x) e_{\underline{K}} + \underline{1}_j)$$
+
+$$S \equiv \int_0^\infty r d\tau e^{\frac{i}{\hbar} \hat{H}_{eff}^+ \tau} \hat{V} e^{-\frac{i}{\hbar} \hat{H}_{eff} \tau} = \mathcal{K}$$
+
+$$\Phi_{in}(\beta_{HA}, \beta_{VA}, \beta_{HB}, \beta_{VB}) = \exp\left[\frac{-\tanh^2 \chi |\beta_{VA}|^2 + \tanh^2 \chi |\beta_{HB}|^2 - \tanh \chi (\beta_{VA}\beta_{HB} + \beta_{VA}^*\beta_{HB}^*)}{1 - \tanh^2 \chi}\right]$$
+
+$$\times \exp\left[\frac{-\tanh^2 \chi |\beta_{HA}|^2 + \tanh^2 \chi |\beta_{VB}|^2 + \tanh \chi (\beta_{HA}\beta_{VB} + \beta_{HA}^*\beta_{VB}^*)}{1 - \tanh^2 \chi}\right],$$

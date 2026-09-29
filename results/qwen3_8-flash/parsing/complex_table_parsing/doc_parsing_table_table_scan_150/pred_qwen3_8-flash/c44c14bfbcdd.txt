@@ -1,0 +1,54 @@
+```html
+<table border="1">
+  <tr>
+    <th></th>
+    <th>胸围<br>-cm-</th>
+    <th>腰围<br>-cm-</th>
+    <th>身高<br>-cm-</th>
+    <th>备注</th>
+  </tr>
+  <tr>
+    <td><b>XS</b></td>
+    <td>80</td>
+    <td>63</td>
+    <td>160-170</td>
+    <td rowspan="7">衣服两侧<br>留有2-5cm<br>收缩缝稍有<br>不合身请自<br>行修改</td>
+  </tr>
+  <tr>
+    <td><b>S</b></td>
+    <td>83</td>
+    <td>66</td>
+    <td>160-170</td>
+  </tr>
+  <tr>
+    <td><b>M</b></td>
+    <td>86</td>
+    <td>70</td>
+    <td>160-170</td>
+  </tr>
+  <tr>
+    <td><b>L</b></td>
+    <td>90</td>
+    <td>73</td>
+    <td>160-170</td>
+  </tr>
+  <tr>
+    <td><b>XL</b></td>
+    <td>93</td>
+    <td>76</td>
+    <td>160-170</td>
+  </tr>
+  <tr>
+    <td><b>XXL</b></td>
+    <td>96</td>
+    <td>80</td>
+    <td>160-170</td>
+  </tr>
+  <tr>
+    <td><b>XXXL</b></td>
+    <td>100</td>
+    <td>83</td>
+    <td>160-170</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,21 @@
+$$R = K[x,y]/\langle x^2 + y^2 - 1\rangle$$
+
+$$\begin{cases} F(x,t,D^2u) - \partial_t u = B_\varepsilon(u)u^{\gamma-1} & \text{in } \Omega_T, \\ \quad\quad u = \varphi & \text{on } \partial_p\Omega_T, \end{cases}$$
+
+$$A = \left\{ x \in [k]_0^n : |\{i : x_i = t\}| < m \right\}.$$
+
+$$\text{data} \mid \lambda \overset{d}{=} \text{Poisson}(\lambda),\ \Lambda\mid\theta \overset{d}{=} \theta e^{-\lambda\theta},\ \theta \overset{d}{=} IS_{\alpha,\rho}(\theta),\ \alpha,\rho\text{-known}.$$
+
+$$d\hat{\rho}_t = -i[\hat{H},\hat{\rho}_t]dt - k_t[\hat{\sigma}_t,[\hat{\sigma}_t,\tilde{\rho}_t]]dt$$
+$$+ \sqrt{2k_t}\,[\hat{\sigma}_t\hat{\rho}_t + \hat{\rho}_t\hat{\sigma}_t - 2\text{Tr}(\hat{\sigma}_t\hat{\rho}_t)\hat{\rho}_t]\,dW_t.$$
+
+$$\partial TV(u) = \left\{ \text{div}\varphi \mid \|\varphi\|_{L^\infty(\Omega;\mathbb{R}^n)} \leq 1,\ \varphi\cdot n\mid_{\partial\Omega} = 0,\ \langle\text{div}\varphi,u\rangle_{L^2(\Omega)} = TV(u) \right\},$$
+
+$$\delta x_\xi(t) = [R - \xi/\cos(\omega_r t)]\Theta(x - |\omega_r t|),$$
+
+$$\delta y_\xi(t) = \xi[\omega_r t\tan(x)/x - \tan(\omega_r t)]\Theta(x - |\omega_r t|)$$
+
+$$\mathcal{H}^2(\tilde{\Sigma}) + T_h(\Sigma,\tilde{\Sigma}) \leq \mathcal{H}^2(\tilde{\Sigma}) + T_h(\Sigma,\tilde{\Sigma}) + \mathcal{H}^2(\partial B) - c\mathcal{H}^3(B) \leq \mathcal{H}^2(\Sigma),$$
+
+$$\mathbb{P}(X_n > x) \sim \mathbb{E}(X_0)m_\xi^{n-1}\sum_{i=0}^{n-1} m_\xi^{i(\beta-1)}\mathbb{P}(\xi > x) + m_\xi^{n\beta}\mathbb{P}(X_0 > x)$$
+$$+ m_\varepsilon\sum_{j=1}^{n-1} m_\xi^{n-j-1}\sum_{i=0}^{n-j-1} m_\xi^{i(\beta-1)}\mathbb{P}(\xi > x) + \sum_{j=1}^{n} m_\xi^{(n-j)\beta}(\varepsilon > x)$$

@@ -1,0 +1,60 @@
+\[
+\begin{aligned}
+\left|T X^R\right|_{L_\omega^r L_{[0,T]}^\infty L_x^2}
+&\le \left|X_0\right|_{L_\omega^r L_x^2}
++\left|\int_0^t S_\beta(t,s)\theta_R(X^R)(s)\left|X^R(s)\right|^{20}X^R(s)\,ds\right|_{L_\omega^r L_{[0,T]}^\infty L_x^2} \\
+&\le \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\bar\beta}\left|\theta_R(X^R)\left|X^R\right|^{20+1}\right|_{L_\omega^r L_{[0,T]}^{\gamma'}L_x^{p'}} \\
+&= \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\bar\beta}
+\left|\left(\int_0^T \theta_R(X^R)^{\gamma'}(t)
+\left(\int_\Gamma \left|X^R(t)\right|^{(20+1)p'}\,dx\right)^{\gamma'/p'}dt\right)^{1/\gamma'}\right|_{L_\omega^r}.
+\end{aligned}
+\]
+
+\[
+p'=\frac{20+2}{20+1}
+\]
+
+\[
+\begin{aligned}
+&= \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\bar\beta}
+\left|\left(\int_0^T \theta_R(X^R)^{\gamma'}(t)
+\left|X^R(t)\right|_{L_x^p}^{(20+1)\gamma'}dt\right)^{1/\gamma'}\right|_{L_\omega^r} \\
+&\le \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\bar\beta}
+\left|\left(\int_0^T \left[\theta_R(X^R)(t)\right]^{\gamma/(20+1)}
+\left|X^R(t)\right|_{L_x^p}^{\gamma}dt\right)^{\frac{20+1}{\gamma}}
+T^{\frac{\gamma-\gamma'(20+1)}{\gamma\gamma'}}\right|_{L_\omega^r}.
+\end{aligned}
+\]
+
+\[
+\tilde t(\omega):=\inf\left\{s:\left|X^R(\omega)\right|_{L^\gamma([0,s];L_x^p)}\ge 2R\right\}
+\]
+
+\[
+\begin{aligned}
+&= \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\tilde\beta}
+\left|\left(\int_0^T I_{[0,\tilde t]}
+\left[\theta_R(X^R)(t)\right]^{\gamma/(20+1)}
+\left|X^R(t)\right|_{L_x^p}^{\gamma}dt\right)^{\frac{20+1}{\gamma}}\right|_{L_\omega^r},
+\end{aligned}
+\]
+
+\[
+\tilde\beta=\bar\beta+\frac{\gamma-\gamma'(20+1)}{\gamma\gamma'}>0
+\]
+
+\[
+\begin{aligned}
+&\le \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\tilde\beta}
+\left|\left(\int_0^{\tilde t}\left|X^R(t)\right|_{L_x^p}^{\gamma}dt\right)^{\frac{20+1}{\gamma}}\right|_{L_\omega^r} \\
+&\le \left|X_0\right|_{L_\omega^r L_x^2}
++C_{1,p}T^{\tilde\beta}(2R)^{20}
+\left|X^R\right|_{L_\omega^r L_{[0,T]}^\gamma L_x^p}.
+\end{aligned}
+\]

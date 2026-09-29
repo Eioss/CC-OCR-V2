@@ -1,0 +1,35 @@
+\[
+\begin{aligned}
+\hat{\mathbb E}_t\left[\left(\int_t^T |Z_s|^2\,ds\right)^{q/2}\right]
+&\le C\left(1+\hat{\mathbb E}_t\left[\sup_{s\in[t,T]} |Y_s|^q\right]\right) \\
+&\quad + \left(\hat{\mathbb E}_t\left[\sup_{s\in[t,T]} |Y_s|^q\right]\right)^{1/2}
+\left(\hat{\mathbb E}_t\left[\left(\int_t^T h_s\,ds\right)^q\right]\right)^{1/2},
+\\[0.5em]
+\hat{\mathbb E}_t\left[|A_T-A_t|^q\right]
+&\le C\left\{1+\hat{\mathbb E}_t\left[\sup_{s\in[t,T]} |Y_s|^q\right]
++\hat{\mathbb E}_t\left[\left(\int_t^T h_s\,ds\right)^q\right]\right\},
+\\[1em]
+\mathbb P\left(\bar X_{e(q)}\in dx\right)
+&=\bar a(\rho,\zeta)^T \times \bar v(\zeta,x)\,dx,
+\qquad
+\mathbb P\left(-X_{e(q)}\in dx\right)
+=\bar a(\hat\rho,\hat\zeta)^T \times \bar v(\hat\zeta,x)\,dx,
+\\[1em]
+\sum_{\substack{0\le h<k\le N\\(h,k)=1}}
+\sum_{2a+2b+c=r}
+k\,c(a,b,c)(kT)^a\frac{1}{k\sqrt n}
+\left(\frac{n}{k}\right)^{1/2-a-2c}
+&\ll_{r,T}
+\sum_{k\le N}\sum_{2a+2b+c=r}
+n^{1/2-a-2c}k^{a-1/2+a+2c},
+\\[1em]
+\delta_+&=\delta_0\gamma_+:\Gamma_+\to\Delta,
+\\[1em]
+X_t&=x+Y_t+\int_0^t u(s,X_s)\,ds,\qquad t\in[0,T],
+\\[1em]
+\int_\Omega [A(x)\cdot\nabla T_j(u_n)]\cdot[\nabla\varphi\,S(u_n)]\,dx
+&+\int_\Omega [A(x)\cdot\nabla T_j(u_n)]\cdot\nabla T_j(u_n)\,S'(u_n)\varphi\,dx \\
+&=\int_\Omega H(x,u_n,\nabla T_nu_n)\varphi\,dx
++\int_\Omega (T_n(f)S(u_n))\varphi\,dx.
+\end{aligned}
+\]

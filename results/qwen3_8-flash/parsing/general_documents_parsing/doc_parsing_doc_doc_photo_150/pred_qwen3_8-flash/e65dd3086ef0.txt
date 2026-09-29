@@ -1,0 +1,31 @@
+```latex
+\text{The standard form of a linear line is } y = mx + b \text{ where } m \text{ is the slope and } b \text{ is the y-intercept.}
+
+\text{The questions for this week are, convert the following linear equation into the standard form, and find the y-intercept.}
+
+3x + 5 = 7y
+
+\text{Answer the following:}
+
+1. \text{Suppose you are given two points on the plane, explain briefly how to find the equation of the straight line passing through the two points.}
+
+2. \text{Suppose two straight lines } (y_1 = m_1x + b_1; y_2 = m_2x + b_2) \text{ are perpendicular to each other, what can you say about the slopes?}
+
+\text{Look at an example of a polynomial } 7x^3 - 2x^2 + x - 5. \text{ We say that the degree of this polynomial is 3, which is the highest power.}
+
+\text{For this week's discussion, briefly explain how the degree of a divider is compared to the degree of the remainder. Divide the following expression, and compare the degree of the divider: } x + 3 \text{ and the}
+
+\frac{(7x^3 - 2x^2 + x - 5)}{x + 3} \text{ and the}
+
+\text{degree of the remainder:}
+
+\text{Does a system of linear equations always have a solution? What about the following system?}
+
+x + 3y = 1, 2x + 6y = 3
+
+\text{If we think of the two equations in the above system as two "straight lines" in the plane, can you explain why the system doesn't have a solution?}
+
+\text{Explain how to graph an inequality on the plane? Use the following example: } 9x - 5y \geq 15
+
+\text{What steps are needed to graph it? How would you go about showing someone else how to do it?}
+```

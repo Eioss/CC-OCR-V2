@@ -1,0 +1,93 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Quadratic Formula Assignment}}
+\end{center}
+
+Recite, from memory, the quadratic formula to one teacher,\\
+one family member, and one additional person of your choice.
+
+\vspace{1em}
+
+\noindent \textbf{In Math:}
+
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\vspace{1em}
+
+\noindent \textbf{In English:}
+
+\vspace{0.5em}
+
+\noindent \textbf{X equals negative b plus or minus the square root of b}\\
+\textbf{squared minus 4ac all over 2a.}
+
+\vspace{1.5em}
+
+\noindent
+\begin{tikzpicture}
+\node[
+  draw,
+  dashed,
+  rectangle,
+  inner sep=8pt,
+  text width=\textwidth
+] {
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\vspace{1em}
+
+Signature \underline{\hspace{2.6in}} Date \underline{\hspace{0.9in}}
+};
+\end{tikzpicture}
+
+\vspace{0.2em}
+
+\noindent
+\begin{tikzpicture}
+\node[
+  draw,
+  dashed,
+  rectangle,
+  inner sep=8pt,
+  text width=\textwidth
+] {
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\vspace{1em}
+
+Signature \underline{\hspace{2.6in}} Date \underline{\hspace{0.9in}}
+};
+\end{tikzpicture}
+
+\vspace{0.2em}
+
+\noindent
+\begin{tikzpicture}
+\node[
+  draw,
+  dashed,
+  rectangle,
+  inner sep=8pt,
+  text width=\textwidth
+] {
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\vspace{1em}
+
+Signature \underline{\hspace{2.6in}} Date \underline{\hspace{0.9in}}
+};
+\end{tikzpicture}
+
+\end{document}
+```

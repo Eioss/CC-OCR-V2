@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "2020-11-12 14:00",
+    "Arrival Date": "2020-11-08 22:08",
+    "Total Amount": "1,233.27",
+    "Name": "Mr Carol Lopez",
+    "Balance": "1,233.27",
+    "Address": "新疆维吾尔自治区昌吉市怀柔秦路B座 435726 邮编:310012 5201 Sanders Isle Gonzalezburg, HI 95378 Hangzhou 310012, Zhejiang Province, P.R. China",
+    "Hotel Name": "Holiday Inn Express"
+}
+```

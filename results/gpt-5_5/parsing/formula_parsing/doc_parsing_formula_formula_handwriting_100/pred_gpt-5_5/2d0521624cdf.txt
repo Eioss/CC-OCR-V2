@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+\frac{\partial v}{\partial t}-\nu\Delta v+(v\cdot\nabla)v&=-\nabla p+f,\\
+\bar D_x S&=\rho\dot{x}-[\dot{x}h-fg(X,S)-\tau p]\partial_x+\frac{x^j}{j}S+\frac{kf}{x}x+\rho_xS-\rho^x,\\
+\langle v_x,w\rangle&=\langle c,w\delta(x)\rangle,\\
+(r_H^G E)(\Sigma^\infty G/H_+)&:=\pi_H(E\wedge_G G/H_+)\cong \pi_H E\wedge H,\\
+\int_Y \gamma^0 A\rho_i\cdot\nabla\varphi&=0\qquad \forall\varphi\in C^\infty(T^n),\\
+\langle \beta(\xi)-\beta(\bar{\xi}),\xi-\bar{\xi}\rangle&>0,\qquad \text{for every }\xi,\bar{\xi}\in X\text{ with }\xi\neq\bar{\xi},\\
+\int_\Omega\left(|\nabla u_t^{(n)}|^2+|\nabla u^{(n)}|^2\right)\rho(x,t)\,dx
+&+\int_0^t\int_\Omega\left(|\nabla u_t^{(n)}|^2+\eta|\Delta u^{(n)}|^2+|\nabla u_{tt}^{(n)}|^2\right)\rho(x,s)\,dx\,ds\\
+&+\int_0^t\int_{\partial\Omega}\alpha(x)|u_t^{(n)}|^2\rho(x,t)\,dS(x)\,dt\\
+&\le C_R(t)\int_0^t\int_\Omega\left(|u^{(n)}|^2+\left|\frac{d}{dt}u^{(n)}\right|^2\right)\rho(x,t)\,dx\,dt.
+\end{aligned}
+\]

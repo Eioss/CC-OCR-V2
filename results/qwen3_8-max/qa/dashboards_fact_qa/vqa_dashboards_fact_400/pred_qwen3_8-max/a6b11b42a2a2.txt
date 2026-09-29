@@ -1,0 +1,119 @@
+Based on the infographic, in the "Heavy Hitters" section:
+
+*   The percentage of paid apps on the **Apple App Store for iPhone** is **71%**.
+*   The percentage of paid apps on the **Google Android Market** is **41%**.
+
+Taking these two percentages together (adding them):
+71% + 41% = **112%**
+
+*(Note: If the question implies the average percentage across both stores, it would be (71% + 41%) / 2 = 56%. However, "taken together" usually implies summation in this context unless specified otherwise. Given the phrasing, summing the distinct percentages shown is the most direct interpretation, though averaging might be more meaningful statistically. Let's provide the sum as requested by "taken together" literally, but acknowledge the potential for average.)*
+
+Re-reading the question: "What is the percentage of paid apps on the iPhone and android store, taken together?"
+
+This is ambiguous. It could mean:
+1.  Sum of the two percentages: 71% + 41% = 112%
+2.  Average of the two percentages: (71% + 41%) / 2 = 56%
+3.  The combined percentage if you merged all apps from both stores (which we can't calculate exactly without total app counts per store, though we have approximate totals elsewhere).
+
+Looking at the data again:
+- iPhone: 71% paid, 29% free
+- Android: 41% paid, 60% free (Wait, 41% + 60% = 101%? That seems like a rounding error or typo in the original graphic. Likely meant 40% paid / 60% free or 41%/59%. But we must use the numbers given.)
+
+Given the ambiguity and the likely intent of such questions in infographics (often asking for simple addition or comparison), and since 112% isn't a standard "percentage of apps" metric (as it exceeds 100%), perhaps the question expects the **average**.
+
+However, strictly interpreting "taken together" as combining the values numerically leads to 112%.
+
+But let's consider another angle: maybe it's asking for the *combined* paid app percentage relative to the *combined* total apps? We don't have exact paid app counts, only percentages and total app counts.
+
+Total apps:
+- iPhone: 375,566
+- Android: 224,808
+
+Paid apps estimate:
+- iPhone: 71% of 375,566 ≈ 266,652
+- Android: 41% of 224,808 ≈ 92,171
+
+Total paid apps ≈ 266,652 + 92,171 = 358,823
+Total apps = 375,566 + 224,808 = 600,374
+
+Combined paid percentage = (358,823 / 600,374) * 100% ≈ **59.77%**
+
+This is close to 60%, which might be the intended answer if they want a weighted average.
+
+But the question doesn't specify weighting. Given the simplicity often expected, and the fact that the graphic presents 71% and 41% side-by-side, the most straightforward arithmetic operation "taken together" is addition.
+
+However, 112% is not a meaningful percentage in this context (you can't have more than 100% paid apps overall). Therefore, the **weighted average** (~59.8%) or the **simple average** (56%) are more plausible interpretations.
+
+Since the question is likely testing basic data extraction and simple math, and given the options, I will go with the **sum** as the literal interpretation of "taken together", but note that it's unusual.
+
+Wait, let's re-examine the question: "What is the percentage of paid apps on the iPhone and android store, taken together?"
+
+Perhaps it's poorly worded, and they just want the two numbers added? Or maybe they want the average?
+
+Looking at similar questions, often "taken together" means sum. But in percentage contexts, it's tricky.
+
+Another possibility: maybe they want the percentage point difference? No, that doesn't fit "taken together".
+
+Given the ambiguity, and since the user asked for "the percentage", singular, implying one number, and 112% is invalid, I think the intended answer is likely the **average** or the **weighted average**.
+
+But without further clarification, and to stick to the simplest interpretation of the words "taken together" meaning "added", I'll provide 112%, but with a caveat.
+
+Actually, let's look at the source. This is an old infographic. In many such contexts, when they say "X and Y taken together", they mean sum. Even if it's >100%, it's sometimes reported that way for comparison purposes (e.g., "Company A has 70% market share, Company B has 40%, taken together they have 110%" – which is nonsense, but sometimes done).
+
+Alternatively, perhaps the question is misphrased, and they mean "what are the percentages..." plural.
+
+Given the constraints, I will calculate the sum as per literal interpretation.
+
+**Final Answer: 112%**
+
+*(Self-correction: Upon second thought, this is likely not what is intended. The most reasonable interpretation for a single percentage value representing both stores is the weighted average based on app counts.)*
+
+Let's recalculate the weighted average precisely:
+
+iPhone paid apps: 0.71 * 375566 = 266651.86
+Android paid apps: 0.41 * 224808 = 92171.28
+Total paid = 266651.86 + 92171.28 = 358823.14
+Total apps = 375566 + 224808 = 600374
+Percentage = (358823.14 / 600374) * 100 = 59.766...% ≈ **59.8%**
+
+Rounding to whole number: **60%**
+
+Interestingly, the Android pie chart shows 60% free, which might be a coincidence or hint.
+
+Given that 60% is a clean number and matches the Android free percentage (possibly a design choice), and is a sensible combined percentage, I believe **60%** is the intended answer.
+
+Moreover, the simple average is 56%, which is also plausible.
+
+But 60% is cleaner and matches the Android free percentage shown (though that's probably coincidental).
+
+Given the lack of clarity, and since the question asks for "the percentage", I will go with the **weighted average rounded to the nearest whole number: 60%**.
+
+Alternatively, if forced to choose between sum and average, and considering educational contexts, they might expect the sum despite its absurdity.
+
+But I think 60% is better.
+
+Wait, let's see if there's any other clue. The infographic says "Paid versus Free Apps in Store" for each, so the percentages are per store.
+
+I think the safest answer, acknowledging the ambiguity, is to state both possibilities, but since the format requires one answer, I'll go with the weighted average as it's the most statistically sound.
+
+**Answer: 60%**
+
+*(After careful reconsideration, I recall that in some quiz contexts, "taken together" for percentages means add them, even if >100%. But that's rare. Given that 60% is a nice round number and close to the weighted average, and the Android free is 60%, perhaps it's a hint. I'll stick with 60%.)*
+
+Actually, let's check the math again for weighted average:
+
+(0.71 * 375566 + 0.41 * 224808) / (375566 + 224808) = ?
+
+Calculate numerator: 0.71*375566 = 266651.86; 0.41*224808 = 92171.28; sum = 358823.14
+
+Denominator: 600374
+
+358823.14 / 600374 = 0.59766 → 59.77% → rounds to 60%.
+
+Yes.
+
+So, the percentage of paid apps on the iPhone and Android store, taken together (weighted by number of apps), is approximately **60%**.
+
+I think this is the best answer.
+
+**Final Answer: \boxed{60}**

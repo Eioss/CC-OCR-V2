@@ -1,0 +1,146 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: right; font-family: sans-serif;">
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align: center; font-size: 1.2em; padding: 5px;">新希望乳业股份有限公司</th>
+    </tr>
+    <tr>
+      <th colspan="6" style="text-align: center; font-size: 1.1em; padding: 5px;">合并资产负债表 (续)</th>
+    </tr>
+    <tr>
+      <th colspan="6" style="text-align: center; padding: 5px;">(金额单位：人民币元)</th>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding: 10px 5px;"></th>
+      <th style="padding: 10px 5px;">附注</th>
+      <th style="padding: 10px 5px;">2018年<br>6月30日</th>
+      <th style="padding: 10px 5px;">2017年<br>12月31日</th>
+      <th style="padding: 10px 5px;">2016年<br>12月31日</th>
+      <th style="padding: 10px 5px;">2015年<br>12月31日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="6" style="text-align: left; font-weight: bold; padding: 10px 5px 5px 5px;">负债和股东权益</td>
+    </tr>
+    <tr>
+      <td colspan="6" style="text-align: left; padding: 10px 5px 5px 20px;">流动负债：</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">短期借款</td>
+      <td>五、19</td>
+      <td>1,284,669,870</td>
+      <td>1,195,453,304</td>
+      <td>1,429,990,000</td>
+      <td>1,380,328,357</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">应付票据及应付账款</td>
+      <td>五、20</td>
+      <td>448,537,225</td>
+      <td>396,126,062</td>
+      <td>473,775,003</td>
+      <td>426,870,831</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">预收款项</td>
+      <td>五、21</td>
+      <td>84,627,226</td>
+      <td>108,422,381</td>
+      <td>104,122,428</td>
+      <td>102,192,223</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">应付职工薪酬</td>
+      <td>五、22</td>
+      <td>89,558,848</td>
+      <td>98,376,179</td>
+      <td>89,310,341</td>
+      <td>85,437,155</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">应交税费</td>
+      <td>五、23</td>
+      <td>26,168,579</td>
+      <td>21,616,036</td>
+      <td>27,403,059</td>
+      <td>17,472,114</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">其他应付款</td>
+      <td>五、24</td>
+      <td>411,147,692</td>
+      <td>475,638,777</td>
+      <td>638,860,806</td>
+      <td>528,970,995</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">一年内到期的非流动负债</td>
+      <td>五、25</td>
+      <td>223,265,470</td>
+      <td>352,142,913</td>
+      <td>27,129,671</td>
+      <td>36,560,386</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px 5px 5px 20px;">流动负债合计</td>
+      <td></td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">2,565,974,910</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">2,646,784,652</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">2,790,591,308</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">2,577,832,061</td>
+    </tr>
+    <tr>
+      <td colspan="6" style="text-align: left; padding: 15px 5px 5px 20px;">非流动负债：</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">长期借款</td>
+      <td>五、26</td>
+      <td>439,795,971</td>
+      <td>260,348,611</td>
+      <td>420,000,000</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">长期应付款</td>
+      <td>五、27</td>
+      <td>48,000,000</td>
+      <td>57,000,000</td>
+      <td>58,446,855</td>
+      <td>8,409,808</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">递延收益</td>
+      <td>五、28</td>
+      <td>112,411,569</td>
+      <td>100,848,581</td>
+      <td>111,522,073</td>
+      <td>101,781,840</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 40px;">递延所得税负债</td>
+      <td>五、17</td>
+      <td>6,115,199</td>
+      <td>6,345,069</td>
+      <td>6,804,811</td>
+      <td>7,327,795</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px 5px 5px 20px;">非流动负债合计</td>
+      <td></td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">606,323,139</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">424,542,261</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">596,773,739</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">117,519,443</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 15px 5px 5px 20px; font-weight: bold;">负债合计</td>
+      <td></td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">3,172,298,049</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">3,071,326,913</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">3,387,365,047</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">2,695,351,504</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,37 @@
+```latex
+\begin{tabular}{lrrrrr}
+\hline
+BALANCE SHEET - Months & Jan 2021 & Feb 2021 & Mar 2021 & Apr 2021 & May 2021 \\
+\hline
+ASSETS & & & & & \\
+\(\lor\) Fixed Assets & & & & & \\
+\quad \(\lor\) Assets & & & & & \\
+\qquad \(\triangleright\) On-site assets & 5,843.33 & 5,786.77 & 6,350.31 & 6,283.95 & 6,217.70 \\
+\qquad \(\triangleright\) Other assets & 5,950.00 & 5,900.42 & 5,851.25 & 5,802.49 & 5,754.13 \\
+\qquad Total of Assets & 11,793.33 & 11,687.19 & 12,201.56 & 12,086.44 & 11,971.83 \\
+\quad Total of Fixed Assets & 11,793.33 & 11,687.19 & 12,201.56 & 12,086.44 & 11,971.83 \\
+\(\lor\) Investments & & & & & \\
+\quad \(\lor\) Funding & & & & & \\
+\qquad \(\triangleright\) Borrowing & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\qquad Total of Funding & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad Total of Investments & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad Non - Current Assets & 12,797.50 & 12,695.54 & 13,214.11 & 13,103.21 & 12,992.84 \\
+\\
+\(\lor\) Accounts Receivable & & & & & \\
+\quad \(\triangleright\) Sales & 800.00 & 800.00 & 800.00 & 800.00 & \\
+\quad Total of Accounts Receivable & 800.00 & 800.00 & 800.00 & 800.00 & \\
+\(\lor\) Inventory & & & & & \\
+\quad \(\lor\) Sales & & & & & \\
+\qquad \(\triangleright\) Coffee - Hot Drinks & 2,428.40 & 4,449.82 & 6,472.31 & 8,495.92 & 10,520.72 \\
+\qquad \(\triangleright\) Other Hot Drinks & 333.38 & 364.48 & 398.59 & 435.99 & 477.00 \\
+\qquad \(\triangleright\) Cold Beverages & 103.00 & 108.00 & 118.00 & 133.00 & 143.00 \\
+\qquad Total of Sales & 2,864.78 & 4,922.30 & 6,988.90 & 9,064.91 & 11,140.72 \\
+\quad Total of Inventory & 2,864.78 & 4,922.30 & 6,988.90 & 9,064.91 & 11,140.72 \\
+\quad Surplus Cash & 5,435.07 & 4,366.74 & 2,774.01 & 1,743.97 & 2,559.79 \\
+\quad VAT Asset & 2,059.41 & 1,426.00 & & & \\
+\quad Current Assets & 11,159.26 & 11,515.04 & 10,562.91 & 11,608.88 & 13,700.51 \\
+\\
+\quad Total Assets & 23,956.76 & 24,210.58 & 23,777.02 & 24,712.09 & 26,693.35 \\
+\hline
+\end{tabular}
+```

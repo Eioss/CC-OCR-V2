@@ -1,0 +1,8 @@
+Based on the deposit slip shown in the image:
+
+- In the **CHECK** row, under the **CENTS** column, the value is **39**.
+- The **TOTAL** row also shows **39** cents.
+
+Therefore, **39 cents** are credited.
+
+✅ Final Answer: **39**

@@ -1,0 +1,10 @@
+Based on the hotel bill provided:
+
+- The column for **12-1** (December 1st) shows a charge under the **ROOM** row.
+- The value written in that cell is **8.50**.
+
+Therefore, the room charge for 12/1 was **$8.50**.
+
+*(Note: This appears to be an unusually low room rate for 1960, but it’s what is handwritten on the document. It may represent a partial day, a discount, or a typo — but based strictly on the image, the answer is 8.50.)*
+
+✅ **Final Answer: $8.50**

@@ -1,0 +1,102 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center; font-family: sans-serif;">
+  <!-- 3#楼 Header -->
+  <tr>
+    <th colspan="5" style="background-color: #FFB300; padding: 10px; font-size: 1.2em;">碧桂园津湖源著 3#楼预售详情</th>
+  </tr>
+  <!-- Row 1 -->
+  <tr>
+    <td style="padding: 8px;"><b>住宅总户数</b></td>
+    <td colspan="4" style="padding: 8px;"><b>32套</b></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td style="padding: 8px;"><b>单元</b></td>
+    <td style="padding: 8px;"><b>01单元</b></td>
+    <td style="padding: 8px;"><b>02单元</b></td>
+    <td style="padding: 8px;"><b>03单元</b></td>
+    <td style="padding: 8px;"><b>05单元</b></td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td style="padding: 8px;"><b>建面约</b></td>
+    <td style="padding: 8px;">89.71m²</td>
+    <td style="padding: 8px;">89.71m²</td>
+    <td style="padding: 8px;">89.71m²</td>
+    <td style="padding: 8px;">89.71m²</td>
+  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td style="padding: 8px;"><b>套数</b></td>
+    <td style="padding: 8px;">8</td>
+    <td style="padding: 8px;">8</td>
+    <td style="padding: 8px;">8</td>
+    <td style="padding: 8px;">8</td>
+  </tr>
+  <!-- Row 5 -->
+  <tr>
+    <td style="padding: 8px;"><b>预售单价 (元/m²)</b></td>
+    <td style="padding: 8px;">13763.63</td>
+    <td style="padding: 8px;">13410.75</td>
+    <td style="padding: 8px;">13389.63</td>
+    <td style="padding: 8px;">13537.88</td>
+  </tr>
+  <!-- Row 6 -->
+  <tr>
+    <td style="padding: 8px;"><b>3#楼预售均价</b></td>
+    <td colspan="4" style="padding: 8px; color: red; font-weight: bold; font-size: 1.1em;">13525.47元/m²</td>
+  </tr>
+  
+  <!-- 5#楼 Header -->
+  <tr>
+    <th colspan="5" style="background-color: #FFB300; padding: 10px; font-size: 1.2em;">碧桂园津湖源著 5#楼预售详情</th>
+  </tr>
+  <!-- Row 7 -->
+  <tr>
+    <td style="padding: 8px;"><b>住宅总户数</b></td>
+    <td colspan="4" style="padding: 8px;"><b>56套</b></td>
+  </tr>
+  <!-- Row 8 -->
+  <tr>
+    <td style="padding: 8px;"><b>单元</b></td>
+    <td style="padding: 8px;"><b>01单元</b></td>
+    <td style="padding: 8px;"><b>02单元</b></td>
+    <td style="padding: 8px;"><b>03单元</b></td>
+    <td style="padding: 8px;"><b>05单元</b></td>
+  </tr>
+  <!-- Row 9 -->
+  <tr>
+    <td style="padding: 8px;"><b>建面约</b></td>
+    <td style="padding: 8px;">110.24m²</td>
+    <td style="padding: 8px;">109.93m²</td>
+    <td style="padding: 8px;">109.93m²</td>
+    <td style="padding: 8px;">109.93m²</td>
+  </tr>
+  <!-- Row 10 -->
+  <tr>
+    <td style="padding: 8px;"><b>套数</b></td>
+    <td style="padding: 8px;">14</td>
+    <td style="padding: 8px;">14</td>
+    <td style="padding: 8px;">14</td>
+    <td style="padding: 8px;">14</td>
+  </tr>
+  <!-- Row 11 -->
+  <tr>
+    <td style="padding: 8px;"><b>预售单价 (元/m²)</b></td>
+    <td style="padding: 8px;">13807.50</td>
+    <td style="padding: 8px;">13585.71</td>
+    <td style="padding: 8px;">13533.21</td>
+    <td style="padding: 8px;">13726.93</td>
+  </tr>
+  <!-- Row 12 -->
+  <tr>
+    <td style="padding: 8px;"><b>5#楼预售均价</b></td>
+    <td colspan="4" style="padding: 8px; color: red; font-weight: bold; font-size: 1.1em;">13663.49元/m²</td>
+  </tr>
+  <!-- Row 13 -->
+  <tr>
+    <td style="padding: 8px;"><b>3#楼、5#楼整体预售均价</b></td>
+    <td colspan="4" style="padding: 8px; color: red; font-weight: bold; font-size: 1.1em;">13619.64元/m²</td>
+  </tr>
+</table>
+```

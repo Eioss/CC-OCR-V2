@@ -1,0 +1,18 @@
+$$|TE_r(x,N)| \le c\left(NH^{\frac{1}{2}}L^{-\frac{1}{2}} + L^{\frac{1}{2}}\right)$$
+
+$$\int_{Q_R^{T-R^m,T}} u^p\,dx\,dt > 0.$$
+
+$$\mathcal{L}\left\{R\,\mathfrak{I}_a^{\alpha}\,{}_t^a f(t)\right\} = \sum_{k=0}^{+\infty} \frac{f^{(k)}(a)}{s^{k+-\alpha}}\, e^{-as}\frac{\Gamma(k+d+1,-as)}{\Gamma(k+d+1)},$$
+
+$$\sum_x \left[\frac{\mu}{\lambda}\right]^{-\varepsilon}\left[\frac{\nu}{\lambda}\right]^{-\varepsilon} \lesssim \varepsilon\left(1+\log\left[\frac{\mu}{\nu}\right]\right)\left[\frac{\mu}{\nu}\right]^{-\varepsilon} = c_\mu/\nu.$$
+
+$$x \longmapsto x\tilde{V}'(x) = xV'(x) + \int \frac{x}{x-s}\,dv^*(s)$$
+
+$$\Phi_R + \Phi_R^* = 2\times \operatorname{Re}\{\Phi_R\},$$
+$$\Phi_R - \Phi_R^* = 2i\times \operatorname{Im}\{\Phi_R\},$$
+
+$$\sigma(A_i) = A_i, \quad \sigma(B_i) = B_i + A_i^{e_i}$$
+
+$$\phi(r) = \int_0^r x^2\left(\frac{s}{2R}\right)ds = \int_0^r \psi\left(\frac{s}{2R}\right)ds,$$
+
+$$\frac{1}{b-a}\int_a^b f(x)\,dx \le \min\left\{L\left(f(a), f\left(\tfrac{b}{m}\right)^m\right), L\left(f(b), f\left(\tfrac{a}{m}\right)^m\right)\right\},$$

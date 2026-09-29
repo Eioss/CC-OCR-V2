@@ -1,0 +1,5 @@
+The text '2019' appears in two locations in this receipt:
+
+(709, 369, 813, 412) # In the upper portion near the registration number (挂号)
+
+(729, 1597, 822, 1631) # In the bottom portion with the date/timestamp

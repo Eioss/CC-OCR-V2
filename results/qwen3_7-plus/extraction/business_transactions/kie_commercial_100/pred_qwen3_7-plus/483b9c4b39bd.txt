@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "9/22/2020",
+    "vendor_name": "Katz Communications Katz Media Group Inc",
+    "vendor_address": "125 W. 55th St., New York, New York 10019",
+    "customer_billing_name": "Converging Media",
+    "customer_billing_address": "1225 Franklin Ave Suite 325 Garden City, New York 11530",
+    "customer_other_name": "Converging Media",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$572,757.87",
+    "amount_due": "$572,757.87",
+    "tax_detail_tax": "Sales Tax:",
+    "tax_detail_gross": "$0.00"
+}
+```

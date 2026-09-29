@@ -1,0 +1,88 @@
+```latex
+\begin{center}
+    \includegraphics[width=0.2\textwidth]{awinic_logo.png} \hfill 
+    \begin{minipage}[t]{0.5\textwidth}
+        \centering
+        上海艾为电子技术股份有限公司 \\
+        shanghai awinic technology co., ltd.
+    \end{minipage} \hfill 
+    \begin{minipage}[t]{0.2\textwidth}
+        \raggedleft
+        \textbf{AW36526} \\
+        July 2019 V1.3
+    \end{minipage}
+\end{center}
+
+\vspace{0.5cm}
+\rule{\textwidth}{1pt}
+\vspace{0.5cm}
+
+\begin{center}
+    {\LARGE \textbf{Inductorless, Triple Channel Flash \& Indicator 2in1 LED Driver}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \section*{FEATURES}
+    \begin{itemize}
+        \item Flash and Indicator 2in1 application
+        \item Dual Independent 1.0A LED1/LED2 Current Source
+        \begin{itemize}
+            \item[$\triangleright$] Flash: 3.91mA$\sim$1.0A, 256 levels \newline 3.91mA/level
+            \item[$\triangleright$] Torch: 1.46mA$\sim$375mA, 256 levels \newline 1.46mA/level
+            \item[$\triangleright$] Indicator: 0.37mA$\sim$375mA, 1024 levels \newline 0.37mA/level
+            \item[$\triangleright$] Flash Timeout: 40ms$\sim$1.6s, 16 levels
+        \end{itemize}
+        \item Independent 375 mA LED3 Current Sink
+        \begin{itemize}
+            \item[$\triangleright$] Flash: 1.46mA$\sim$375mA, 256 levels \newline 1.46mA/level
+            \item[$\triangleright$] Torch: 1.46mA$\sim$375mA, 256 levels \newline 1.46mA/level
+            \item[$\triangleright$] Indicator: 0.73mA$\sim$375mA, 512 levels \newline 0.73mA/level
+            \item[$\triangleright$] Flash Timeout: 40ms$\sim$1.6s, 16 levels
+        \end{itemize}
+        \item Optimized Flash LED Current During Low Battery Conditions (IVFM)
+        \item Hardware Strobe Enable (STROBE)
+        \item 400kHz I$^2$C: AW36526 (I$^2$C Address=0x63)
+        \item 0.4mm Pitch, FCQFN-10L Package
+    \end{itemize}
+
+    \section*{APPLICATION}
+    Smartphone Camera Flash
+
+    \section*{TYPICAL APPLICATION CIRCUIT}
+    
+    % Placeholder for the circuit diagram image
+    \vspace{1cm}
+    \noindent\fbox{\parbox[c][6cm][c]{0.9\linewidth}{\centering [Typical Application Circuit Diagram of AW36526]}}
+    \vspace{0.5cm}
+    
+    \begin{center}
+        \textbf{Fig 1} \quad Typical Application Circuit of AW36526
+    \end{center}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \section*{GENERAL DESCRIPTION}
+    The AW36526 is a inductorless triple channel flash \& Indicator 2in1 LED driver that provides a high level of adjustability within a ultra-small solution size. The AW36526 includes two current sources and a current sink which is controlled independently by I$^2$C-compatible interface. The AW36526 provides IVFM protection mode to prevent system reset or shutdown under low battery condition.
+
+    The AW36526 is controlled via an I$^2$C-compatible interface. The main features of the AW36526 include: flash / torch / IR / Indicator current, flash timeout duration, IVFM and breath features. The AW36526 also provides hardware flash pin (STROBE) to control flash event.
+
+    The device operates over a $-$40$^\circ$C to +85$^\circ$C ambient temperature range.
+
+    The AW36526 is available in small 0.4mm pitch 1.6mm$\times$1.2mm FCQFN-10L package.
+\end{minipage}
+
+\vfill
+
+\noindent
+\textit{All trademarks are the property of their respective owners.}
+
+\vspace{0.2cm}
+\rule{\textwidth}{0.5pt}
+\vspace{0.2cm}
+
+\noindent
+www.awinic.com.cn \hfill 1 \hfill Copyright \copyright{} 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD
+```

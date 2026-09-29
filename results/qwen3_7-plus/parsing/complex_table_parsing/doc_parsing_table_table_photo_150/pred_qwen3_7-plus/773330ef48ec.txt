@@ -1,0 +1,419 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="5">浙江牧高笛仓库发货装箱明细汇总表</th>
+   </tr>
+   <tr>
+    <td colspan="2">发货仓库：衢州订货宝</td>
+    <td colspan="2">订单日期：2022/4/8 15:43:12</td>
+    <td>订单号：DH.20220408.9015</td>
+   </tr>
+   <tr>
+    <td colspan="3">店铺名称：北京森琳贸易有限公司(大牧)</td>
+    <td colspan="2">打印时间：2022/4/21 14:42:43</td>
+   </tr>
+   <tr>
+    <td colspan="5">订单备注：安能到付 /严柏祥/13263292921/河北省/廊坊市/永清县/工业区百合路与五纬道交叉口南50米运动户外仓库/|0</td>
+   </tr>
+   <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+   </tr>
+   <tr>
+    <td>19</td>
+    <td>CK0073801</td>
+    <td>NX20671021\迷你充气泵</td>
+    <td>雪地白 F</td>
+    <td>30</td>
+   </tr>
+   <tr>
+    <td>19</td>
+    <td>CK0073801</td>
+    <td>NX20672008I Holiday stars假日星空300地垫</td>
+    <td>夜幕黑 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>19</td>
+    <td>CK0073801</td>
+    <td>NXLQU63007充气靠枕</td>
+    <td>宝蓝 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>20</td>
+    <td>CK0073805</td>
+    <td>NX20671016I多功能挂绳</td>
+    <td>魅力红 F</td>
+    <td>20</td>
+   </tr>
+   <tr>
+    <td>21</td>
+    <td>CK0073803</td>
+    <td>NXLQI71002L吊床</td>
+    <td>天空蓝 F</td>
+    <td>50</td>
+   </tr>
+   <tr>
+    <td>22</td>
+    <td>CK0073802</td>
+    <td>NXLQI71002L吊床</td>
+    <td>天空蓝 F</td>
+    <td>50</td>
+   </tr>
+   <tr>
+    <td>23</td>
+    <td>CK0073804</td>
+    <td>NXL1634002i二人六角地垫</td>
+    <td>杂色 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>24</td>
+    <td>CK0073807</td>
+    <td>NX21671057(氛围三角旗</td>
+    <td>浅沙色 F</td>
+    <td>30</td>
+   </tr>
+   <tr>
+    <td>25</td>
+    <td>CK0073800</td>
+    <td>NX21673010'星云串灯USB版</td>
+    <td>阳光黄 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>25</td>
+    <td>CK0073800</td>
+    <td>NXLQU63007充气靠枕</td>
+    <td>栗棕色 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>26</td>
+    <td>CK0072586</td>
+    <td>NX21672015(纪元双峰150地垫</td>
+    <td>礁石棕 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>27</td>
+    <td>CK0072584</td>
+    <td>MZ092004-A冷山2AIR升级版</td>
+    <td>红色 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>28</td>
+    <td>CK0072585</td>
+    <td>NX20672047I纪元230内帐</td>
+    <td>银河灰 F</td>
+    <td>6</td>
+   </tr>
+   <tr>
+    <td>29</td>
+    <td>CK0072142</td>
+    <td>MZ093005G1冷山2</td>
+    <td>橡果绿 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>30</td>
+    <td>CK0072138</td>
+    <td>NXZQU61017冷山2PLUS</td>
+    <td>红灰色 F</td>
+    <td>24</td>
+   </tr>
+   <tr>
+    <td>31</td>
+    <td>CK0072141</td>
+    <td>NX22671015/星际折叠推车桌板</td>
+    <td>原木色 F</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td>32</td>
+    <td>CK0072139</td>
+    <td>NX20663014(巨蟹双人</td>
+    <td>浅沙色 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>33</td>
+    <td>CK0072140</td>
+    <td>NX20561021I冷山3AIR前厅版</td>
+    <td>天空蓝 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>34</td>
+    <td>CK0074032</td>
+    <td>MZ092004-A冷山2AIR升级版</td>
+    <td>天使蓝 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>34</td>
+    <td>CK0074032</td>
+    <td>NXZQU6101C冷山3AIR升级版</td>
+    <td>熔岩红 F</td>
+    <td>12</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NX20561027I冷山4AIR升级版</td>
+    <td>熔岩红 F</td>
+    <td>12</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NX20663007INT双人蛋槽垫</td>
+    <td>天空蓝 F</td>
+    <td>20</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NX20665020I迷你折叠椅</td>
+    <td>天空蓝 F</td>
+    <td>25</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NX21663001\云霞超声波野餐垫LINE FRIENDS款</td>
+    <td>布朗熊绿印花 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NXLQU65001月亮椅</td>
+    <td>旭日红 F</td>
+    <td>20</td>
+   </tr>
+   <tr>
+    <td>35</td>
+    <td>CK0074034</td>
+    <td>NXZQU6100E冷山3</td>
+    <td>橡果绿 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>MZ092004-A冷山2AIR升级版</td>
+    <td>橡果绿 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>NX20665045/风雪铝合金可伸缩灯架</td>
+    <td>钛色 F</td>
+    <td>15</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>NX21561001\暮光之城涤纶 A塔 LINE FRIENDS</td>
+    <td>布朗熊米白 L</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>NX21561002\纪元涤纶150 LINE FRIENDS款(EF</td>
+    <td>布朗熊棕 F</td>
+    <td>2</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>NX21562023(柔月珊瑚绒睡袋</td>
+    <td>暖沙色 F</td>
+    <td>12</td>
+   </tr>
+   <tr>
+    <td>36</td>
+    <td>CK0073959</td>
+    <td>NX21562023(柔月珊瑚绒睡袋</td>
+    <td>崧石褐 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>37</td>
+    <td>CK0073962</td>
+    <td>NX21663011(波江双人气垫 (Eridanus)</td>
+    <td>暖沙色 F</td>
+    <td>25</td>
+   </tr>
+   <tr>
+    <td>38</td>
+    <td>CK0074033</td>
+    <td>MZ092004-A冷山2AIR升级版</td>
+    <td>荧光黄 F</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>38</td>
+    <td>CK0074033</td>
+    <td>NX20562027(新月磨毛棉睡袋(双人)</td>
+    <td>松露色 F</td>
+    <td>15</td>
+   </tr>
+   <tr>
+    <td>38</td>
+    <td>CK0074033</td>
+    <td>NX21671012(地钉袋</td>
+    <td>暖沙色 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>38</td>
+    <td>CK0074033</td>
+    <td>NX21672024(森塔 230 (牛津版) 地垫</td>
+    <td>礁石棕 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>38</td>
+    <td>CK0074033</td>
+    <td>NX21672026(揽盛地垫</td>
+    <td>灌木棕 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>39</td>
+    <td>CK0073811</td>
+    <td>NX20672008I Holiday stars假日星空300地垫</td>
+    <td>夜幕黑 F</td>
+    <td>1</td>
+   </tr>
+   <tr>
+    <td>39</td>
+    <td>CK0073811</td>
+    <td>NX21562001\逐月睡袋LINE FRIENDS款</td>
+    <td>布朗熊米白 R</td>
+    <td>6</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>EX20674001Y方形水盆</td>
+    <td>芒果黄 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NX20663004I金牛单人气垫</td>
+    <td>玄铁灰 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>nx20663005c金牛双人气垫</td>
+    <td>栗棕色 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NX20663013I巨蟹单人</td>
+    <td>岩石灰 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NX21561039\森塔 230 (牛津版)</td>
+    <td>晨雾白 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NX21671010(多功能地钉袋</td>
+    <td>暖沙色 F</td>
+    <td>10</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NX21672014(纪元260地垫</td>
+    <td>礁石棕 F</td>
+    <td>5</td>
+   </tr>
+   <tr>
+    <td>40</td>
+    <td>CK0073963</td>
+    <td>NXZQU6100E冷山3</td>
+    <td>蓝色 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>41</td>
+    <td>CK0074030</td>
+    <td>MZ093005R1冷山2</td>
+    <td>熔岩红 F</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>41</td>
+    <td>CK0074030</td>
+    <td>NX20663005I金牛双人气垫</td>
+    <td>玄铁灰 F</td>
+    <td>2</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

@@ -1,0 +1,53 @@
+```latex
+朴素贝叶斯法对条件概率分布作了条件独立性的假设. 由于这是一个较强的假设, 朴素贝叶斯法也由此得名. 具体地, 条件独立性假设是
+
+\begin{equation}
+P(X=x|Y=c_k) = P(X^{(1)}=x^{(1)}, \dots, X^{(n)}=x^{(n)} | Y=c_k) 
+= \prod_{j=1}^n P(X^{(j)}=x^{(j)} | Y=c_k)
+\tag{4.3}
+\end{equation}
+
+朴素贝叶斯法实际上学习到生成数据的机制, 所以属于生成模型. 条件独立假设等于是说用于分类的特征在类确定的条件下都是条件独立的. 这一假设使朴素贝叶斯法变得简单, 但有时会牺牲一定的分类准确率.
+
+朴素贝叶斯法分类时, 对给定的输入 $x$, 通过学习到的模型计算后验概率分布 $P(Y=c_k|X=x)$, 将后验概率最大的类作为 $x$ 的类输出. 后验概率计算根据贝叶斯定理进行:
+
+\begin{equation}
+P(Y=c_k|X=x) = \frac{P(X=x|Y=c_k)P(Y=c_k)}{\sum_k P(X=x|Y=c_k)P(Y=c_k)}
+\tag{4.4}
+\end{equation}
+
+将式 (4.3) 代入式 (4.4) 有
+
+\begin{equation}
+P(Y=c_k|X=x) = \frac{P(Y=c_k)\prod_j P(X^{(j)}=x^{(j)}|Y=c_k)}{\sum_k P(Y=c_k)\prod_j P(X^{(j)}=x^{(j)}|Y=c_k)}, \quad k=1,2,\dots,K
+\tag{4.5}
+\end{equation}
+
+这是朴素贝叶斯法分类的基本公式. 于是, 朴素贝叶斯分类器可表示为
+
+\begin{equation}
+y=f(x)=\arg\max_{c_k} \frac{P(Y=c_k)\prod_j P(X^{(j)}=x^{(j)}|Y=c_k)}{\sum_k P(Y=c_k)\prod_j P(X^{(j)}=x^{(j)}|Y=c_k)}
+\tag{4.6}
+\end{equation}
+
+注意到, 在式 (4.6) 中分母对所有 $c_k$ 都是相同的, 所以,
+
+\begin{equation}
+y=\arg\max_{c_k} P(Y=c_k)\prod_j P(X^{(j)}=x^{(j)}|Y=c_k)
+\tag{4.7}
+\end{equation}
+
+\subsubsection{4.1.2 后验概率最大化的含义}
+
+朴素贝叶斯法将实例分到后验概率最大的类中. 这等价于期望风险最小化. 假设选择 0-1 损失函数:
+
+\begin{equation}
+L(Y,f(X)) = \begin{cases} 1, & Y \neq f(X) \\ 0, & Y = f(X) \end{cases}
+\end{equation}
+
+式中 $f(X)$ 是分类决策函数. 这时, 期望风险函数为
+
+\begin{equation}
+R_{\text{exp}}(f) = E[L(Y,f(X))]
+\end{equation}
+```

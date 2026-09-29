@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+\widetilde Q(x)&:=\frac{1}{x}Q,\qquad
+\widetilde T:=T,\qquad
+\widetilde H:=\widetilde H T,\qquad
+\widetilde h=\frac{1}{\pi}\sum_{j=1}^{m}w_j-z,\\[4pt]
+L(p_n,m_n^*)&+L(m_n^*,m_n^*)+L(m_n^*,q_n)=L(m_n,q_n),\\[4pt]
+I^{m_n}-(Lt)&=i\hbar\left\{1^{m_n}-(1)_{1\le i\le l\times m}
+\mid L_n^{m_n}-\left\langle(LnM)^3\right\rangle\right\},\\[4pt]
+i\hbar\,\partial_t\psi(x,t)&=
+\frac{\hbar^2}{2m}\partial_x^2\psi(x,t)-V(x)\psi(x,t)
+=\int d^3y\,K(x,y)\psi(y),\\[4pt]
+\int_{B_r(0)}|\gamma(w)|^2\,dy
+&=\lim_{n\to\infty}\int_{B_r(0)}|\gamma(w_n)|^2\,dy
+=\lim_{n\to\infty}\int_{B_r(y_n)}|\gamma(w_n)|^2\,dy
+\ge\beta>0.
+\end{aligned}
+\]

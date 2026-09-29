@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "12/03/1999",
+    "vendor_name": "TELETIME VIDEO PRODUCTIONS",
+    "vendor_address": "37-39 Watermill Lane. Great Neck, NY 11021 516-466-3882 Fax: 516-773-4575",
+    "customer_id": "GCI-1",
+    "customer_billing_name": "GUILMENOT CONSULTING, INC RICHARD GUILMENOT",
+    "customer_billing_address": "92 GRANDVIEW AVE GREAT NECK NY 11020",
+    "customer_delivery_name": "GUILMENOT CONSULTING, INC RICHARD GUILMENOT",
+    "customer_delivery_address": "92 GRANDVIEW AVE GREAT NECK NY 11020",
+    "amount_total_tax": "$1.95",
+    "amount_paid": "$0.00",
+    "amount_due": "$24.70",
+    "payment_terms": "Upon Receipt"
+}
+```

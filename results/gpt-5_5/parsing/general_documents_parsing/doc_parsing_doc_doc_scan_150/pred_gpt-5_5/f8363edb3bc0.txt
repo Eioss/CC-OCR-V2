@@ -1,0 +1,91 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+\small
+\raggedright
+
+15. The Writs 16. Directive Principles of State Policy 17. Fundamental Duties 18. Procedure for Amending the Constitution\\
+19. The Doctrine of Basic Features 20. Some Important Constitutional Amendment Acts 21. Executive of the Union 22. Emergency\\
+Provisions 23. The Vice-President 24. The Prime Minister and The Union Council of Ministers 25. The Attorney-General for\\
+India 26. The Comptroller \& Auditor-General of India 27. The Parliament of India 28. Parliamentary Terms 29. The Supreme\\
+Court 30. The High Court 31. Centre-State Relations 32. Executive of the States 33. Panchayati Raj 34. Municipalities 35. Inter-\\
+State Relations 36. Planning Commission 37. NITI Aayog 38. National Development Council (NDC) 39. National Integration\\
+Council 40. Finance Commission 41. Public Service Commissions 42. Election 43. Delimitation Commission of India 44. The\\
+Official Languages 45. National Symbols 46. Some Important Comments 47. Some Important Statements 48. Some Important\\
+Definitions 49. Some Important Books (Polity) 50. Miscellaneous
+
+\medskip
+
+\noindent\textbf{Indian Economy}\hfill \textbf{247-297}\\
+1. Highlights of Indian Economy 2. Economy and Economics 3. Characteristics of Indian Economy 4. Agriculture and Allied\\
+Sector 5. National Income 6. Economic Planning and Development 7. Unemployment and Employment 8. Trade and Commerce\\
+9. New Economic Policy 10. Indian Financial System 11. Indian Fiscal System 12. Money, Banking and Insurance in India\\
+13. Tax System 14. Industry 15. Industrial Performance 16. Foreign Trade 17. Some Noteworthy Facts 18. Some Economic and\\
+Financial Terms 19. Miscellaneous
+
+\medskip
+
+\noindent\textbf{Physics}\hfill \textbf{298-323}\\
+1. Unit and Dimension 2. Motion 3. Work, Energy and Power 4. Gravitation 5. Pressure 6. Floatation 7. Surface Tension\\
+8. Viscosity 9. Elasticity 10. Simple Harmonic Motion 11. Wave 12. Sound Wave 13. Heat 14. Light 15. Static Electricity\\
+16. Current Electricity 17. Magnetism 18. Atomic \& Nuclear Physics 19. Electronics 20. Scientific Instruments 21. Inventions\\
+22. Important Discoveries in Physics 23. S.I. Units of Physical Quantity 24. Conversion of Units from One System to Another\\
+System
+
+\medskip
+
+\noindent\textbf{Chemistry}\hfill \textbf{324-352}\\
+1. Introduction 2. Chemical Symbol Formula and Equation 3. Atomic Structure 4. Periodic classification of Elements\\
+5. Chemical Bonding 6. Oxidation \& Reduction 7. Solution 8. Acids, Bases \& Salts 9. Behaviour of Gases \&\\
+Energetics 10. Energetics (Thermodynamics) 11. Electrolysis 12. Carbon and its Compounds 13. Fuels 14. Metallurgy\\
+15. Important Facts About Some Metals 16. Non metal 17. Common Facts 18. Man made substances
+
+\medskip
+
+\noindent\textbf{Biology}\hfill \textbf{353-390}\\
+1. Introduction 2. What is living ? 3. Classification of Organism 4. Study of Cell--Cytology 5. Genetics 6. Sex Determination\\
+in Human 7. Organic Evolution. BOTANY : 1. Classification of Plantae 2. Plant Morphology 3. Plant Tissue 4. Photosynthesis\\
+5. Plant Hormones 6. Plant Diseases 7. Ecology 8. Nitrogen cycle 9. Pollution. ZOOLOGY : 1. Classification of Animal Kingdom\\
+2. Animal Tissue 3. Human Blood 4. System of the Human Body 5. Nutrients 6. Human Diseases 7. Miscellaneous
+
+\medskip
+
+\noindent\textbf{Miscellany}\hfill \textbf{391-448}\\
+1. Firsts in India 2. Firsts in India (Male) 3. Firsts in India (Female) 4. Firsts in the World (Male, Female etc.)\\
+5. Superlatives (India) 6. Superlatives (World) 7. Important Monuments/Structures (World) 8. National Emblems\\
+of Some Countries 9. National Animals of Some Countries 10. News Agencies of Some Countries 11. Abbreviations\\
+12. International Airlines 13. Some Important Political Parties (World) 14. Intelligence Agencies (World)\\
+15. Parliaments of Some Countries 16. Some Important Signs or Symbols 17. Some Official Books (World) 18. Newspapers\\
+\& Place of Publication (World) 19. United Nations 20. World Organisations and their Headquarters 21. Secretary\\
+Generals of UNO and their Tenure 22. United Nations International Weeks 23. International Years 24. Important Days\\
+(India and World) 25. UNESCO's World Heritage Sites (India) 26. Famous Tourist Spots of India 27. Defence of India\\
+28. Internal Security of India 29. Defence Training Institutions of India 30. Foundation Day of Some States 31. Research\\
+Centres of India 32. Nuclear And Space Research Centres in India 33. Health and Medicinal Research Centres in India\\
+34. National Parks (Established after 1998) 35. Famous Musical Instruments and their Exponents 36. Important Classical\\
+Dances And Artists 37. States and their Folk Dances 38. Major Art forms of India 39. Cultural Organisations\\
+in India 40. Places Associated with Eminent Persons (World) 41. Crematorium of Famous Persons (India)\\
+42. Famous Nicknames of Eminent Persons 43. Some Great Work of Famous Persons 44. Awards and\\
+Honours 45. National and Padma Awards 46. Gallantry Awards 47. Recipients of the Bharatiya Jnanpith Award\\
+48. Recipients of Dada Saheb Phalke Award 49. Nobel Prize 50. Oscar/Academy Award (Motion-Picture Award)\\
+51. Grammy Award (American Music Award) 52. Booker Prize (British Literary Award) 53. Ramon Magsaysay\\
+Award, 54. The Pulitzer Prize 55. Gandhi Peace Prize 56. UNESCO Kalinga Prize 57. Important Books and Authors\\
+58. Important Committees (India) 59. Communes and Commissions 60. Youth Affairs, Games and Sports 61.\\
+Olympic Games, 62. Paralympics and Winter Olympics 63. Commonwealth Games 64. Asian Games 65. SAF Games\\
+66. Cricket 67. Football 68. Hockey 69. Some Important Facts 70. Cups and Trophies 71. Famous Stadia and Sports\\
+72. National Games and Sports (world) 73. Court or Field Associated with Sports 74. Number of Players in Some\\
+Popular Sports 75. Nicknames of Eminent Players 76. Eminent Sportspersons (India) 77. Eminent International\\
+Players (Female) 78. Eminent International Players (Male) 79. Special Awards in Sports 80. Miscellaneous
+
+\medskip
+
+\noindent\textbf{Computer}\hfill \textbf{449-458}\\
+Introduction, Five Generations of Computer, Programming Languages of different Generations, Some Important\\
+Facts related to Computers, Units of Data Measurement, Important Keyboard Shortcuts (Commands), Glossary,\\
+Abbreviations associated with Computer, Some Memorable Facts, Some Important Initiatives of the Government,\\
+Miscellaneous
+
+\end{document}
+```

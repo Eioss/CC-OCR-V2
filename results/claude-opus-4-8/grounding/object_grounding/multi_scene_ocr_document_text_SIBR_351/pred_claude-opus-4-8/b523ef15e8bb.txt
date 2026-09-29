@@ -1,0 +1,33 @@
+```json
+[
+  {"bbox_2d": [129, 130, 1131, 254], "label": "COMPANY NAME"},
+  {"bbox_2d": [122, 277, 1207, 348], "label": "ADD"},
+  {"bbox_2d": [200, 380, 1124, 442], "label": "TITLE"},
+  {"bbox_2d": [284, 503, 728, 643], "label": "ADDRESS"},
+  {"bbox_2d": [283, 656, 596, 686], "label": "TEL"},
+  {"bbox_2d": [284, 692, 596, 723], "label": "FAX"},
+  {"bbox_2d": [284, 730, 596, 762], "label": "ATTN"},
+  {"bbox_2d": [284, 845, 728, 968], "label": "ADDRESS"},
+  {"bbox_2d": [285, 980, 596, 1011], "label": "TEL"},
+  {"bbox_2d": [285, 1017, 596, 1048], "label": "FAX"},
+  {"bbox_2d": [285, 1052, 596, 1085], "label": "ATTN"},
+  {"bbox_2d": [635, 1219, 758, 1250], "label": "P/C"},
+  {"bbox_2d": [1140, 482, 1430, 510], "label": "Cinderson Invoice No"},
+  {"bbox_2d": [1140, 517, 1430, 545], "label": "DATE"},
+  {"bbox_2d": [1140, 552, 1430, 580], "label": "DESTINATION"},
+  {"bbox_2d": [1140, 590, 1430, 618], "label": "SHIPMENT TERM"},
+  {"bbox_2d": [1280, 813, 1530, 842], "label": "Delivery Method"},
+  {"bbox_2d": [1280, 920, 1530, 948], "label": "ETD date"},
+  {"bbox_2d": [281, 1402, 651, 1499], "label": "Description of goods"},
+  {"bbox_2d": [955, 1430, 1055, 1465], "label": "Quantity (PCS)"},
+  {"bbox_2d": [1160, 1430, 1265, 1465], "label": "Unit Price (USD)"},
+  {"bbox_2d": [1350, 1430, 1465, 1465], "label": "Amount (USD)"},
+  {"bbox_2d": [97, 1700, 530, 1730], "label": "Packing"},
+  {"bbox_2d": [97, 1735, 510, 1765], "label": "Payment"},
+  {"bbox_2d": [97, 1770, 900, 1800], "label": "Shipping port/ Destination"},
+  {"bbox_2d": [97, 1850, 768, 1880], "label": "Beneficiary Name"},
+  {"bbox_2d": [117, 1925, 845, 1955], "label": "Bank Name"},
+  {"bbox_2d": [117, 1960, 545, 1992], "label": "Bank Account(USD)"},
+  {"bbox_2d": [117, 1997, 480, 2028], "label": "Swift Code"}
+]
+```

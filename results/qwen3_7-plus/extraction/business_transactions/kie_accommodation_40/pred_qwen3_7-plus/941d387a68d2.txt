@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "02-11-20",
+    "Arrival Date": "01-11-20",
+    "Total Amount": "2,599.00",
+    "Name": "Samuel Gutierrez",
+    "Balance": "2,599.00",
+    "Address": "武汉万达瑞华酒店",
+    "Hotel Name": "Feihai Technology Network Hotel"
+}
+```

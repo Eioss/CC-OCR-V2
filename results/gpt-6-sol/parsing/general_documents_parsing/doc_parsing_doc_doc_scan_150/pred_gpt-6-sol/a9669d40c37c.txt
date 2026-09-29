@@ -1,0 +1,76 @@
+```latex
+\begin{center}
+\textbf{3}
+\end{center}
+
+\noindent 24) Find the value of
+\(\tan^{-1}\left(\tan\frac{3\pi}{5}\right)\).
+
+\noindent 25) Find the condition for the line \(y=mx+c\) to be a tangent to the circle \(x^2+y^2=a^2\).
+
+\noindent 26) If \(2\hat{i}-\hat{j}+3\hat{k}\), \(3\hat{i}+2\hat{j}+\hat{k}\), \(\hat{i}+m\hat{j}+4\hat{k}\) are coplanar, find the value of \(m\).
+
+\noindent 27) Show that \((2+i\sqrt{3})^{10}-(2-i\sqrt{3})^{10}\) is purely imaginary.
+
+\noindent 28) Determine the number of positive and negative roots of the equation
+\(x^9-5x^8-14x^7=0\).
+
+\noindent 29) Find the value of
+\(\cot\left(\sin^{-1}\frac{3}{5}+\sin^{-1}\frac{4}{5}\right)\).
+
+\noindent 30) If the system of linear equation \(x+2ay+az=0\), \(x+3by+bz=0\), \(x+4cy+cz=0\) has a non-trivial solution then show that \(a,b,c\) are in H.P.
+
+\begin{center}
+\textbf{PART - III}
+\end{center}
+
+\noindent \textbf{Answer any seven questions. Question No. 40 is compulsory.}
+\hfill \(\mathbf{7\times3=21}\)
+
+\noindent 31) Find the inverse of the non-singular matrix
+\(A=\begin{bmatrix}0&5\\-1&6\end{bmatrix}\), by Gauss Jordan method.
+
+\noindent 32) In a competitive examination, one mark is awarded for every correct answer while \(\frac{1}{4}\) mark is deducted for every wrong answer. A student answered 100 questions and got 80 marks. How many questions did he answer correctly? (Use Cramer's rule to solve the problem)
+
+\noindent 33) State and prove triangle inequality.
+
+\noindent 34) Find the condition that the roots of \(ax^3+bx^2+cx+d=0\) are in geometric progression. Assume \(a,b,c,d\ne0\).
+
+\noindent 35) Find the domain of \(\sin^{-1}(2-3x^2)\).
+
+\noindent 36) Find the equation of the parabola with vertex \((-1,-2)\), axis parallel to y-axis and passing through \((3,6)\).
+
+\noindent 37) If the normal at the point '\(t_1\)' on the parabola \(y^2=4ax\) meets the parabola again at the point '\(t_2\)', then prove that
+\(t_2=-\left(t_1+\frac{2}{t_1}\right)\).
+
+\noindent 38) If \(\hat{a},\hat{b},\hat{c}\) are three unit vectors such that \(\hat{b}\) and \(\hat{c}\) are non parallel and
+\(\hat{a}\times(\hat{b}\times\hat{c})=\frac{1}{2}\hat{b}\),
+find the angle between \(\hat{a}\) and \(\hat{c}\).
+
+\noindent 39) Determine whether the pair of straight lines
+\(\vec{r}=(2\hat{i}+6\hat{j}+3\hat{k})+t(2\hat{i}+3\hat{j}+4\hat{k})\),
+\(\vec{r}=(2\hat{j}-3\hat{k})+s(\hat{i}+2\hat{j}+3\hat{k})\)
+are parallel. Find the shortest distance between them.
+
+\noindent 40) Prove that
+\[
+\tan\left(\frac{\pi}{4}+\frac{1}{2}\cos^{-1}\left(\frac{a}{b}\right)\right)
++\tan\left(\frac{\pi}{4}-\frac{1}{2}\cos^{-1}\left(\frac{a}{b}\right)\right)
+=\frac{2b}{a}.
+\]
+
+\begin{center}
+\textbf{PART - IV}
+\end{center}
+
+\noindent \textbf{Answer all the questions:}
+\hfill \(\mathbf{7\times5=35}\)
+
+\noindent 41) a) By using Gaussian elimination method, balance the chemical reaction equation:
+\(\mathrm{C_5H_8+O_2\rightarrow CO_2+H_2O}\)
+
+\hfill \textbf{(OR)}
+
+\noindent \phantom{41)} b) Solve:
+\(6x^4-35x^3+62x^2-35x+6=0\).
+```

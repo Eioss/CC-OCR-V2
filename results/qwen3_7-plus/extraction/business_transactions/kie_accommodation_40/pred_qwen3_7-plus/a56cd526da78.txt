@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "2020-09-17",
+    "Arrival Date": "2020-09-16",
+    "Total Amount": "398",
+    "Name": "刘欢",
+    "Balance": "398",
+    "Address": "上海市慧市双涞辽阳街Z座917023",
+    "Hotel Name": "LUNG CHUEN INTERNATIONAL HOTEL 龍泉國際大酒店"
+}
+```

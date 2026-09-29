@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+\|H(s)\|_{c_1}
+&=\max_{i=1,\ldots,n}\left(\sum_{j=1}^{m}\|H_{ij}(s)\|_{a_1}\right),\\
+N(x;m,v)
+&=\frac{N(x)}{N_n}+O(x^{1-n}),\\
+P(k_{\mathrm{signal}},\hat{x},T,t)
+&=2\operatorname{Re}\sum_j
+\exp\!\left(i\,2k_{\mathrm{signal}}\cdot r_j\right)
+\sum_{\alpha<\beta}\mu_{\alpha\beta}^{(j)}
+P_{\beta\alpha}^{(j)}(E_j;t),\\
+\varepsilon(u)
+&=\frac12\bigl(Du+(Du)^{T}\bigr)
+=\frac12\bigl(\partial_i u_k+\partial_k u_i\bigr)_{1\leq i,k\leq 2}.
+\end{aligned}
+\]

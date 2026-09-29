@@ -1,0 +1,54 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\begin{document}
+
+The steps to derive the quadratic formula are shown below:
+
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Step 1} & $ax^2 + bx + c = 0$ \\
+\hline
+\textbf{Step 2} & $ax^2 + bx = -c$ \\
+\hline
+\textbf{Step 3} & $x^2 + \dfrac{b}{a}x = -\dfrac{c}{a}$ \\
+\hline
+\textbf{Step 4} & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{c}{a} + \dfrac{b^2}{4a^2}$ \\
+\hline
+\textbf{Step 5} & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{4ac}{4a^2} + \dfrac{b^2}{4a^2}$ \\
+\hline
+\textbf{Step 6} & $\left(x + \dfrac{b}{2a}\right)^2 = \dfrac{b^2 - 4ac}{4a^2}$ \\
+\hline
+\textbf{Step 7} & $\left(x + \dfrac{b}{2a}\right) = \pm\sqrt{\dfrac{b^2 - 4ac}{4a^2}} = \pm\dfrac{\sqrt{b^2 - 4ac}}{4a}$ \\
+\hline
+\textbf{Step 8} & $x = -\dfrac{b}{2a} \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$ \\
+\hline
+\textbf{Step 9} & $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\
+\hline
+\end{tabular}
+\end{center}
+
+Which of the following is the first incorrect step?
+
+\begin{itemize}
+\item[$\boxdot$] Step 4
+\item[$\bigcirc$] Step 6
+\item[$\bigcirc$] Step 7
+\item[$\bigcirc$] Step 8
+\end{itemize}
+
+\end{document}
+```
+
+## Handwritten Annotations (margin notes)
+
+The handwritten notes on the right side appear to read:
+- $\left(\dfrac{b}{2a}\right)^2$ — with an arrow pointing toward Step 7
+- "its $b^2$ 8 b $\overset{2}{2a}$ then square it" (appears to be working notes)
+- $\dfrac{b^2}{4a^2}$
+
+**Note:** The selected answer (filled radio button) is **Step 4**.

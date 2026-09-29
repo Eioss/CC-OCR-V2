@@ -1,0 +1,10 @@
+ $$\int _ { \mathbb { R } ^ { 2 } } \Lambda ^ { \frac { 3 } { 2 } } ( u \cdot \nabla \theta ) \Lambda ^ { \frac { 3 } { 2 } } \theta d x = \int _ { \mathbb { R } ^ { 2 } } \Lambda ^ { \frac { 3 } { 2 } } ( u _ { i } \partial _ { i } \theta ) \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } \Lambda ( u _ { i } \partial _ { i } \theta ) \Lambda ^ { 2 } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } [ \Lambda , u _ { i } ] \partial _ { i } \theta \Lambda ^ { 2 } \theta d x + \int _ { \mathbb { R } ^ { 2 } } u _ { i } \Lambda \partial _ { i } \theta \Lambda ^ { 2 } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } [ \Lambda , u _ { i } ] \partial _ { i } \theta \Lambda ^ { 2 } \theta d x + \int _ { \mathbb { R } ^ { 2 } } \Lambda ^ { \frac { 1 } { 2 } } ( u _ { i } \Lambda \partial _ { i } \theta ) \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } [ \Lambda , u _ { i } ] \partial _ { i } \theta \Lambda ^ { 2 } \theta d x + \int _ { \mathbb { R } ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { i } ] \Lambda \partial _ { i } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$+ \int _ { \mathbb { R } ^ { 2 } } u _ { i } \Lambda ^ { \frac { 1 } { 2 } } \Lambda \partial _ { i } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } [ \Lambda , u _ { i } ] \partial _ { i } \theta \Lambda ^ { 2 } \theta d x + \int _ { \mathbb { R } ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { i } ] \Lambda \partial _ { i } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$+ \int _ { \mathbb { R } ^ { 2 } } u _ { i } \partial _ { i } \Lambda ^ { \frac { 3 } { 2 } } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$= \int _ { \mathbb { R } ^ { 2 } } [ \Lambda , u _ { i } ] \partial _ { i } \theta \Lambda ^ { 2 } \theta d x + \int _ { \mathbb { R } ^ { 2 } } [ \Lambda ^ { \frac { 1 } { 2 } } , u _ { i } ] \Lambda \partial _ { i } \theta \Lambda ^ { \frac { 3 } { 2 } } \theta d x$$
+ $$\triangleq \tilde { \Gamma } _ { 1 } + \tilde { \Gamma } _ { 2 } .$$

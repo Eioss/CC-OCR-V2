@@ -1,0 +1,13 @@
+ $$s _ { 1 } \cdot \lambda _ { n ( t ^ { p } , 1 ) + 1 } \leq t ^ { 2 p } < s _ { 1 } \cdot \lambda _ { n ( t ^ { p } , 1 ) }$$
+
+ $$\beta ( \theta ) = L _ { 1 } \cdot \left\| { \frac { \partial { \mathcal { L } } ( \theta ) } { \partial \theta } } \right\| _ { 2 } + L _ { 0 } \cdot \left( \left\| { \frac { \partial { \mathcal { L } } ( \theta ) } { \partial \theta } } \right\| _ { 2 } ^ { 2 } / { \mathcal { L } } ( \theta ) \right) ~ .$$
+
+ $$+ \Omega ^ { < r + 1 | } \dots \Omega ^ { < 1 | } \, X _ { 1 | \dots | r + 1 > } ^ { < 1 | \dots r | } \, \Bigl ( \sum _ { k = 1 } ^ { r } \, ( - 1 ) ^ { r - k } \, \sigma _ { \leftarrow k } ^ { - 1 } \Bigr ) \, \gamma _ { 1 1 > } \dots \gamma _ { 1 r - 1 > } \, \chi _ { 1 r > } + \dots$$
+
+ $$0 \to P _ { n } \to \dots \to P _ { 3 } \to P _ { 2 } \to G _ { 1 } ^ { ' } \to B \to 0$$
+
+ $$x _ { n } \leq y _ { n } + \textstyle \sum _ { 1 \leq k < R _ { 0 } 2 ^ { n } } v ( k 2 ^ { - n } ) \, N _ { k 2 ^ { - n } } ( \langle \ell ^ { k 2 ^ { - n } } \rangle ) \, y _ { n }$$
+
+ $$\left| p - { \frac { x } { n } } \right| \geq { \frac { K } { | n | ^ { 2 + v } } } \, .$$
+
+ $$( I - J ) D _ { 1 } P D _ { 1 } ^ { - ^ { \prime } } I = ( I - J ) ^ { 2 } D _ { 2 } P D _ { 2 } ^ { - ^ { \prime } } I = I _ { 1 }$$

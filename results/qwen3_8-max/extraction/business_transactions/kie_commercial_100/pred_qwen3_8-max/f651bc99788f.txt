@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "5/26/99",
+    "date_due": "6/10/99",
+    "vendor_name": "AIRBORNE EXPRESS",
+    "vendor_address": "PO BOX 91001 SEATTLE WA 98111",
+    "customer_id": "34637788",
+    "customer_billing_name": "DUKE UNIV BRYAN CTR",
+    "customer_billing_address": "725 BROAD ST DURHAM NC 27705",
+    "customer_other_name": "DUKE UNIV PRIVATE ADJUDICATION CTR",
+    "customer_other_address": "110 SWIFT AVE DURHAM NC 27705-4800",
+    "amount_total_gross": "$38.00",
+    "amount_due": "$38.00"
+}
+```

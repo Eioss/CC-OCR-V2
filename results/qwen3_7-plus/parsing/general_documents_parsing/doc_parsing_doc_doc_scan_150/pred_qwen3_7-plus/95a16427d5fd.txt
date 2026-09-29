@@ -1,0 +1,132 @@
+```latex
+\begin{center}
+    \textit{සියලු හිමිකම් ඇවිරිණි.}\\
+    \textit{All Rights Reserved}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+    \Large{\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}}\\[0.5em]
+    \huge{\textbf{THIRD TERM TEST - 2020}}\\[0.5em]
+    \Huge{\textbf{ENGLISH LANGUAGE - I}}
+\end{center}
+
+\noindent Grade 11 \hfill One Hour
+
+\vspace{0.5cm}
+
+\fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{Name / Index No. : \hrulefill}}
+
+\vspace{0.5cm}
+
+\noindent \textbf{Answer all questions on this paper itself.}
+
+\vspace{1cm}
+
+\noindent \textbf{Test-1} \quad Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given. \textit{The first one is done for you.}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.7\linewidth}
+\begin{tabular}{@{}l l@{}}
+Postal clerk & : What can I do for you today? \\
+Anne & : I need to mail this (1) \underline{\hspace{1.5cm}}(b)\underline{\hspace{1.5cm}} to Galle, please. \\
+Postal clerk & : OK, let's see how much it (2) \underline{\hspace{3cm}}. Well, It's about \\
+& \quad 350 grams. \\
+Anne & : I need to send it by (3) \underline{\hspace{4cm}} mail. \\
+Postal clerk & : If you do so, it will get there (4) \underline{\hspace{3cm}}. Or you can \\
+& \quad send it priority and it will get there by Saturday. \\
+Anne & : Saturday is fine. How much will that be? \\
+Postal clerk & : Rs.750. Do you (5) \underline{\hspace{4cm}} anything else? \\
+Anne & : Oh, yes! I almost forgot. I need a book of (6) \underline{\hspace{3cm}}, too. \\
+Postal clerk & : OK, your total is Rs.1950.
+\end{tabular}
+\end{minipage}%
+\begin{minipage}[t]{0.25\linewidth}
+\begin{tabular}{|c|}
+\hline
+(a) want \\
+(b) package \\
+(c) stamps \\
+(d) weighs \\
+(e) express \\
+(f) tomorrow \\
+\hline
+\end{tabular}
+\vspace{1cm}
+
+\begin{flushright}
+\begin{tabular}{|c|}
+\hline
+Marks \\
+\hline
+1 x 5 \\
+\\
+\\
+\\
+Total \underline{\hspace{1cm}} \\
+05 \\
+\hline
+\end{tabular}
+\end{flushright}
+\end{minipage}
+
+\vspace{1.5cm}
+
+\noindent \textbf{Test-2} \quad Read the following guidelines given by of a hotel to its guests and complete them with the correct prepositions given below. \textit{The first one is done for you.}
+
+\vspace{0.5cm}
+
+\begin{center}
+during, till, for, of, from, on
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.75\linewidth}
+\fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+The following information will help you to have an enjoyable stay:
+\begin{itemize}
+    \item[$\diamond$] The restaurant is open daily (1) \underline{\hspace{2cm}}from\underline{\hspace{2cm}} 6.30 a.m. to 9.30 p.m.
+    \item[$\diamond$] You can order breakfast in your room by hanging the Menu card (2) \underline{\hspace{4cm}} the door.
+    \item[$\diamond$] If you need a doctor (3) \underline{\hspace{4cm}} the night, please call 100.
+    \item[$\diamond$] There is a play room (4) \underline{\hspace{4cm}} kids below 10 years
+    \item[$\diamond$] There is free wifi in the rooms and the password is given in the back (5) \underline{\hspace{4cm}} your room key.
+    \item[$\diamond$] The main gate is open (6) \underline{\hspace{4cm}} 10.00 p.m.
+\end{itemize}
+}}
+\end{minipage}%
+\begin{minipage}[t]{0.2\linewidth}
+\vspace{2cm}
+\begin{flushright}
+\begin{tabular}{|c|}
+\hline
+Marks \\
+\hline
+1 x 5 \\
+\\
+\\
+\\
+Total \underline{\hspace{1cm}} \\
+05 \\
+\hline
+\end{tabular}
+\end{flushright}
+\end{minipage}
+
+\vspace{1cm}
+
+\begin{center}
+(01)
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent මෙම ප්‍රශ්න පත්‍රය සිංහල භාෂාවෙන්ම නිපදවා ඇත. ප්‍රශ්නවලට පිළිතුරු දීමේදී ඉංග්‍රීසි භාෂාව භාවිතා කරන්න. පිළිතුරු ලිවීමේදී අකුරු පැහැදිලිව ලියන්න.
+```

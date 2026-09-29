@@ -1,0 +1,43 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; border-bottom: 2px solid #000;">类别</th>
+      <th style="padding: 8px; border-bottom: 2px solid #000;">数据</th>
+      <th style="padding: 8px; border-bottom: 2px solid #000;">用途</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水文</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">径流量、降雨量、水面蒸发量、取用水量,大断面实测资料、水位 - 流量关系曲线</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">为水生态和质提供水文基础数据</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">闸坝</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">闸坝工程基本情况、运行规则</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水文模拟</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">流域属性</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">流域 DEM、水系、土地利用、土壤数据</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水文模拟</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水环境</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">氨氮、COD等;水质标准;水温;主要供水水源地;主要污染源、废水排放量及污染物类别;水功能区划</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水质模拟</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">河道</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">地形、糙率、流速 深度等</td>
+      <td style="padding: 8px; border-bottom: 1px solid #000;">水生态评价</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 2px solid #000;">水生生物</td>
+      <td style="padding: 8px; border-bottom: 2px solid #000;">藻类、浮游动物、底栖动物、鱼类种类及数量、污染耐受性</td>
+      <td style="padding: 8px; border-bottom: 2px solid #000;">水生态评价</td>
+    </tr>
+  </tbody>
+</table>
+```

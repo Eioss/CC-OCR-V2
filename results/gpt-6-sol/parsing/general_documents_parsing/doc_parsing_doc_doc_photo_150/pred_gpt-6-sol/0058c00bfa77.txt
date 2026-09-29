@@ -1,0 +1,85 @@
+```latex
+\noindent
+4. The given table shows the number of students enrolled in history, liberal arts math, and English during the fall and Spring semesters. If there are 197 full time teaching positions available for apportionment among the three departments based on course enrollment, answer each of the following questions.
+
+\[
+\begin{array}{|l|r|r|}
+\hline
+\text{Subject} & \text{Fall} & \text{Spring} \\
+\hline
+\text{History} & 1902 & 1922 \\
+\hline
+\text{Liberal Arts Math} & 14200 & 14200 \\
+\hline
+\text{English} & 3898 & 3938 \\
+\hline
+\end{array}
+\]
+
+\noindent
+a. Find the number of teaching positions that should be apportioned to each department in the fall using Jefferson’s Method
+
+\[
+\begin{array}{|l|r|r|r|r|r|r|}
+\hline
+\text{Subject} &
+\begin{array}{c}\text{Standard}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Lower}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Modified}\\\text{Quota (if}\\\text{needed)}\end{array} &
+\begin{array}{c}\text{New}\\\text{Lower}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Modified}\\\text{Quota (if}\\\text{needed)}\end{array} &
+\begin{array}{c}\text{New}\\\text{Lowered}\\\text{Quota}\end{array} \\
+\hline
+\text{History} & 18.08 & 18 & 18.99 & 18 & & \\
+\hline
+\text{Liberal Arts Math} & 139.66 & 139 & 141.08 & 141 & & \\
+\hline
+\text{English} & 38.53 & 38 & 38.92 & 38 & & \\
+\hline
+\end{array}
+\]
+
+\noindent
+b. Find the number of teaching positions that should be apportioned to each department in the fall using Hamilton’s Method
+
+\[
+\begin{array}{|l|r|r|r|r|}
+\hline
+\text{Subject} &
+\begin{array}{c}\text{Standard}\\\text{Quota}\end{array} &
+\text{Lower Quota} &
+\begin{array}{c}\text{Additional}\\\text{(based on}\\\text{decimals)}\end{array} &
+\text{Final allocation} \\
+\hline
+\text{History} & 18.08 & 18 & 0 & 18 \\
+\hline
+\text{Liberal Arts Math} & 139.66 & 139 & 1 & 140 \\
+\hline
+\text{English} & 38.53 & 38 & 1 & 39 \\
+\hline
+\end{array}
+\]
+
+\noindent
+c. Find the number of teaching positions that should be apportioned to each department in the fall using Webster’s Method
+
+\[
+\begin{array}{|l|r|r|r|r|r|r|}
+\hline
+\text{Subject} &
+\begin{array}{c}\text{Standard}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Rounded}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Modified}\\\text{Quota (if}\\\text{needed)}\end{array} &
+\begin{array}{c}\text{New}\\\text{Rounded}\\\text{Quota}\end{array} &
+\begin{array}{c}\text{Modified}\\\text{Quota (if}\\\text{needed)}\end{array} &
+\begin{array}{c}\text{New}\\\text{Rounded}\\\text{Quota}\end{array} \\
+\hline
+\text{History} & 18.08 & 18 & & & & \\
+\hline
+\text{Liberal Arts Math} & 139.66 & 140 & & & & \\
+\hline
+\text{English} & 38.53 & 39 & & & & \\
+\hline
+\end{array}
+\]
+```

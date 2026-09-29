@@ -1,0 +1,36 @@
+# CHAPTER 19
+
+## BASIC MATHEMATICS
+
+### 1. NUMBER SYSTEM
+
+*"NUMBER RULES THE UNIVERSE." PYTHAGORAS*
+
+**Natural Numbers**
+
+These are also called *Counting numbers* 1, 2, 3, 4, 5, ... and are known as natural numbers.
+
+The set of all natural numbers can be represented by N.
+$$N = \{1, 2, 3, 4, 5, \ldots\}$$
+
+**Whole Numbers**
+
+If we include 0 among the natural numbers, then the numbers 0, 1, 2, 3, 4, 5, ... are called whole numbers. The set of whole numbers can be represented by w. Clearly, every natural number is a whole number but 0 is a whole number which is not a natural number.
+$$W = \{0, 1, 2, 3, 4, 5, \ldots\}$$
+
+**Integers**
+
+All counting numbers and their negatives including zero are known as integers. Z or I.
+
+The set of integers can be represented by
+$$Z \text{ or } I = \{\ldots -4, -3, -2, -1, 0, 1, 2, 3, 4, \ldots\}$$
+
+- **Positive Integers:** The set $I+ = \{1, 2, 3, 4, \ldots\}$ is the set of all positive integers.
+- **Negative Integers:** The set $I- = \{-1, -2, -3, \ldots\}$ is the set of all negative integers. 0 is neither positive nor negative.
+- **Non-negative Integers:** The set $\{0, 1, 2, 3, \ldots\}$ is the set of all non-negative integers.
+
+**Note:** Only whole numbers are integers. Therefore,: fractions, decimals, percent and exponents can never be integers.
+
+**Rational Numbers**
+
+The numbers of the form p/q, where p and q are integers and $q \neq 0$, are known as rational numbers, e.g. $\dfrac{4}{7}, \dfrac{3}{2}, -\dfrac{5}{8}, \dfrac{0}{1}, -\dfrac{2}{3}$, etc. The set of all rational numbers is denoted by Q.

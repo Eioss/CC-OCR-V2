@@ -1,0 +1,7 @@
+```json
+{
+    "advertiser": "CENTER FORWARD",
+    "flight_from": "9/10/12",
+    "flight_to": "9/16/12"
+}
+```

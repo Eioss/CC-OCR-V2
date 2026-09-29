@@ -1,0 +1,146 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=0.7in]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{setspace}
+
+\begin{document}
+
+\noindent
+{\small සියලු හිමිකම් ඇවිරිණි.}\\
+{\small All Rights Reserved}
+
+\begin{center}
+\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}\\[0.2cm]
+{\Large \textbf{THIRD TERM TEST - 2020}}\\[0.1cm]
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l c r}
+\textbf{Grade 11} & {\LARGE \textbf{ENGLISH LANGUAGE - I}} & \textbf{One Hour}
+\end{tabular*}
+\end{center}
+
+\noindent
+\fbox{\parbox{\textwidth}{Name / Index No. : \hfill}}\\[0.2cm]
+
+\noindent
+\textbf{Answer all questions on this paper itself.}
+
+\vspace{0.2cm}
+\hrule
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{p{0.11\textwidth} p{0.84\textwidth}}
+\textbf{Test-1} &
+\textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given. The first one is done for you.}
+\end{tabular}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{minipage}[t]{0.79\textwidth}
+\begin{tabular}{p{0.18\textwidth} p{0.02\textwidth} p{0.72\textwidth}}
+\textit{Postal clerk} & : & What can I do for you today?\\[0.15cm]
+\textit{Anne} & : & I need to mail this (1) \underline{\hspace{0.7cm}\textbf{(b)}\hspace{0.7cm}} to Galle, please.\\[0.15cm]
+\textit{Postal clerk} & : & OK, let's see how much it (2) \dotfill . Well, It's about 350 grams.\\[0.15cm]
+\textit{Anne} & : & I need to send it by (3) \dotfill mail.\\[0.15cm]
+\textit{Postal clerk} & : & If you do so, it will get there (4) \dotfill . Or you can send it priority and it will get there by Saturday.\\[0.15cm]
+\textit{Anne} & : & Saturday is fine. How much will that be?\\[0.15cm]
+\textit{Postal clerk} & : & Rs.750. Do you (5) \dotfill anything else?\\[0.15cm]
+\textit{Anne} & : & Oh, yes! I almost forgot. I need a book of (6) \dotfill , too.\\[0.15cm]
+\textit{Postal clerk} & : & OK, your total is Rs.1950.
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.18\textwidth}
+\fbox{
+\begin{tabular}{ll}
+(a) & want\\
+(b) & package\\
+(c) & stamps\\
+(d) & weighs\\
+(e) & express\\
+(f) & tomorrow
+\end{tabular}
+}
+
+\vspace{0.7cm}
+
+\begin{flushright}
+\fbox{
+\begin{tabular}{c}
+\textbf{Marks}\\ \hline
+\textbf{1 x 5}\\[1.0cm]
+\textbf{Total}\\ \hline
+\textbf{05}
+\end{tabular}
+}
+\end{flushright}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{p{0.11\textwidth} p{0.84\textwidth}}
+\textbf{Test-2} &
+\textbf{Read the following guidelines given by of a hotel to its guests and complete them with the correct prepositions given below. The first one is done for you.}
+\end{tabular}
+
+\vspace{0.2cm}
+
+\begin{center}
+during,\quad till,\quad for,\quad of,\quad from,\quad on
+\end{center}
+
+\vspace{0.1cm}
+
+\noindent
+\begin{minipage}[t]{0.84\textwidth}
+\begin{center}
+\fbox{
+\begin{minipage}{0.94\textwidth}
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+
+\noindent
+\textbf{The following information will help you to have an enjoyable stay:}
+
+\vspace{0.2cm}
+
+\begin{tabular}{p{0.05\textwidth} p{0.86\textwidth}}
+$\blacklozenge$ & The restaurant is open daily (1) \dotfill \textbf{from} \dotfill\ 6.30 a.m. to 9.30 p.m.\\[0.25cm]
+$\blacklozenge$ & You can order breakfast in your room by hanging the Menu card (2) \dotfill the door.\\[0.25cm]
+$\blacklozenge$ & If you need a doctor (3) \dotfill the night, please call 100.\\[0.25cm]
+$\blacklozenge$ & There is a play room (4) \dotfill kids below 10 years\\[0.25cm]
+$\blacklozenge$ & There is free wifi in the rooms and the password is given in the back (5) \dotfill your room key.\\[0.25cm]
+$\blacklozenge$ & The main gate is open (6) \dotfill 10.00 p.m.
+\end{tabular}
+
+\end{minipage}
+}
+\end{center}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.13\textwidth}
+\vspace{3.8cm}
+\fbox{
+\begin{tabular}{c}
+\textbf{Marks}\\ \hline
+\textbf{1 x 5}\\[1.0cm]
+\textbf{Total}\\ \hline
+\textbf{05}
+\end{tabular}
+}
+\end{minipage}
+
+\vfill
+
+\begin{center}
+(01)
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,65 @@
+# Mathematics Chart
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\begin{center}
+\textbf{\Large Mathematics Chart}
+\end{center}
+
+\begin{tabular}{|p{3cm}|p{2.5cm}|p{7cm}|}
+\hline
+\textbf{Perimeter} & rectangle & $P = 2l + 2w$ \quad or \quad $P = 2(l + w)$ \\
+\hline
+\textbf{Circumference} & circle & $C = 2\pi r$ \quad or \quad $C = \pi d$ \\
+\hline
+\textbf{Area} & rectangle & $A = lw$ \quad or \quad $A = bh$ \\
+ & triangle & $A = \dfrac{1}{2}\, bh$ \quad or \quad $A = \dfrac{bh}{2}$ \\
+ & trapezoid & $A = \dfrac{1}{2}(b_1 + b_2)h$ \quad or \quad $A = \dfrac{(b_1 + b_2)h}{2}$ \\
+ & circle & $A = \pi r^2$ \\
+\hline
+\textbf{Surface Area} & cube & $S = 6s^2$ \\
+ & cylinder (lateral) & $S = 2\pi rh$ \\
+ & cylinder (total) & $S = 2\pi rh + 2\pi r^2$ \quad or \quad $S = 2\pi r(h + r)$ \\
+ & cone (lateral) & $S = \pi rl$ \\
+ & cone (total) & $S = \pi rl + \pi r^2$ \quad or \quad $S = \pi r(l + r)$ \\
+ & sphere & $S = 4\pi r^2$ \\
+\hline
+\textbf{Volume} & prism or cylinder & $V = Bh^*$ \\
+ & pyramid or cone & $V = \dfrac{1}{3}Bh^*$ \\
+ & sphere & $V = \dfrac{4}{3}\pi r^3$ \\
+\hline
+\end{tabular}
+
+\noindent\textit{*B represents the area of the Base of a solid figure.}
+
+\vspace{1em}
+
+\begin{tabular}{|p{4cm}|p{2cm}|p{6cm}|}
+\hline
+\textbf{Pi} & $\pi$ & $\pi \approx 3.14$ \quad or \quad $\pi \approx \dfrac{22}{7}$ \\
+\hline
+\textbf{Pythagorean Theorem} & & $a^2 + b^2 = c^2$ \\
+\hline
+\textbf{Distance Formula} & & $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ \\
+\hline
+\textbf{Slope of a Line} & & $m = \dfrac{y_2 - y_1}{x_2 - x_1}$ \\
+\hline
+\textbf{Midpoint Formula} & & $M = \left(\dfrac{x_1 + x_2}{2},\ \dfrac{y_1 + y_2}{2}\right)$ \\
+\hline
+\textbf{Quadratic Formula} & & $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\
+\hline
+\textbf{Slope-Intercept Form of an Equation} & & $y = mx + b$ \\
+\hline
+\textbf{Point-Slope Form of an Equation} & & $y - y_1 = m(x - x_1)$ \\
+\hline
+\textbf{Standard Form of an Equation} & & $Ax + By = C$ \\
+\hline
+\textbf{Simple Interest Formula} & & $I = prt$ \\
+\hline
+\end{tabular}
+
+\end{document}
+```

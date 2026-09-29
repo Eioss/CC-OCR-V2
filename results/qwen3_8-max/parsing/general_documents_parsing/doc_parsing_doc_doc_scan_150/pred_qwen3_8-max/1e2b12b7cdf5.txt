@@ -1,0 +1,203 @@
+Based on the image provided, here is the transcription of the text, tables, and exercises into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{enumitem}
+\usepackage{amssymb}
+
+\geometry{a4paper, margin=1in}
+
+% Custom colors to match the image roughly
+\definecolor{headerpink}{RGB}{245, 200, 210}
+\definecolor{exercisered}{RGB}{220, 100, 110}
+\definecolor{sectiongrey}{RGB}{150, 150, 150}
+
+% Command for section headers
+\newcommand{\sectionheader}[2]{
+    \vspace{0.5cm}
+    \noindent
+    \begin{tikzpicture}
+        \node[circle, fill=exercisered, text=white, font=\bfseries\Large, minimum size=1cm] at (0,0) {#1};
+        \node[anchor=west, font=\bfseries\Large\sffamily] at (0.8, 0) {#2};
+        \draw[thick, sectiongrey] (4, 0.2) -- (5, 0.2);
+        \draw[thick, sectiongrey] (4, -0.2) -- (5, -0.2);
+        \fill[sectiongrey] (4.8, 0.3) rectangle (5.2, 0.1);
+        \fill[sectiongrey] (4.8, -0.1) rectangle (5.2, -0.3);
+    \end{tikzpicture}
+    \vspace{0.2cm}
+}
+
+% Command for exercise headers
+\newcommand{\exerciseheader}[2]{
+    \vspace{0.3cm}
+    \noindent
+    \begin{tikzpicture}
+        \node[rounded corners, fill=exercisered, text=white, font=\bfseries\small, minimum height=0.6cm, inner xsep=5pt] at (0,0) {EXERCISE};
+        \node[circle, fill=exercisered!70, text=white, font=\bfseries\small, minimum size=0.6cm] at (1.8, 0) {#1};
+        \node[anchor=west, font=\bfseries\small, underline] at (2.4, 0) {#2};
+    \end{tikzpicture}
+    \vspace{0.1cm}
+}
+
+% Underline command for exercise titles
+\newcommand{\underlineex}[1]{\underline{\textbf{#1}}}
+
+\begin{document}
+
+% --- SECTION 3: PRESENT CONTINUOUS ---
+\sectionheader{3}{PRESENT CONTINUOUS}
+
+\noindent
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\rowcolor{headerpink} \textbf{Form} & am, is, or are + verb + ing \\ \hline
+\rowcolor{headerpink} \textbf{Use} & actions happening now, at the moment of speaking. \\ \hline
+\rowcolor{headerpink} \textbf{Signal words} & now, at the moment, still, Look! Listen!... \\ \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{1}{\underlineex{Find the signal words for present continuous.}}
+    \begin{enumerate}[leftmargin=*]
+        \item Which is a signal word for present continuous? \\
+        last -- now -- every night
+        \item Which is \textbf{not} a signal word for present continuous? \\
+        now - already - still
+    \end{enumerate}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{2}{\underlineex{Put these verbs in present continuous.}}
+    \begin{enumerate}[leftmargin=*]
+        \item They / play \dotfill
+        \item Sara and Leila/ dance \dotfill
+        \item I/ not, speak \dotfill
+        \item He/ to sing \dotfill
+        \item David / not, to write \dotfill
+    \end{enumerate}
+    
+    \vspace{0.3cm}
+    
+    \exerciseheader{3}{\underlineex{Put the following verbs in the correct tense.}}
+    \begin{enumerate}[leftmargin=*]
+        \item Now, it (rain) heavily outside. \dotfill
+        \item She (not, speak) French at the moment. \dotfill
+        \item Many people (still, ght) against poverty \dotfill in Africa.
+        \item Mark's children (to play) video games at the moment. \dotfill
+        \item (Sandra, to do) her homework now? \dotfill
+    \end{enumerate}
+\end{minipage}
+
+\vspace{1cm}
+\hrule height 2pt color[rgb]{0.4, 0.4, 0.8} % Blue divider line
+\vspace{1cm}
+
+% --- SECTION 4: PAST CONTINUOUS ---
+\sectionheader{4}{PAST CONTINUOUS}
+
+\noindent
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\rowcolor{headerpink} \textbf{Form} & was or were + verb + ing \\ \hline
+\rowcolor{headerpink} \textbf{Use} & For actions which were in progress in the past. \\ \hline
+\rowcolor{headerpink} \textbf{Signal words} & when, while + long action in the past \\ \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{1}{\underlineex{Find the signal words for past continuous.}}
+    \begin{enumerate}[leftmargin=*]
+        \item Which is a signal word for past continuous? \\
+        while - by next week - tomorrow
+        \item Which is \textbf{not} a signal word for past continuous? \\
+        next week -- when - while
+    \end{enumerate}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{2}{\underlineex{Put these verbs in past continuous.}}
+    \begin{enumerate}[leftmargin=*]
+        \item She/ watch \dotfill
+        \item They/ to play \dotfill
+        \item It/ rain \dotfill
+        \item Many students/ to work \dotfill
+        \item He/ not, to drive \dotfill
+    \end{enumerate}
+    
+    \vspace{0.3cm}
+    
+    \exerciseheader{3}{\underlineex{Put the following verbs in the correct tense.}}
+    \begin{enumerate}[leftmargin=*]
+        \item[1-] Barbara (to do) her homework yesterday \dotfill when I came in.
+        \item[2-] When I (write) the E-mail last time, \dotfill Mary (to watch) TV. \dotfill
+        \item[3-] I saw my teacher yesterday when I (wait) \dotfill for the bus.
+        \item[4-] When Sandra (arrive) home yesterday, her father (not, to cook) lunch. \dotfill
+        \item[5-] (Your brother, to play) the game when the \dotfill computer crashed down?
+    \end{enumerate}
+\end{minipage}
+
+\vspace{1cm}
+\hrule height 2pt color[rgb]{0.4, 0.4, 0.8} % Blue divider line
+\vspace{1cm}
+
+% --- SECTION 5: PRESENT PERFECT ---
+\sectionheader{5}{PRESENT PERFECT}
+
+\noindent
+\begin{tabular}{|p{3cm}|p{8cm}|}
+\hline
+\rowcolor{headerpink} \textbf{Form} & have or has + Past Participle \\ \hline
+\rowcolor{headerpink} \textbf{Use} & For actions which started in the past and continued up to the present. \\ \hline
+\rowcolor{headerpink} \textbf{Signal words} & just, already, yet, for, since, so far, recently, ever... \\ \hline
+\end{tabular}
+
+\vspace{0.2cm}
+\noindent \small NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give more emphasis on the duration of the action. However, some verbs can't be used in the continuous form such as own, smell, need, belong, cost, agree, contain..., etc.
+\normalsize
+\vspace{0.3cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{1}{\underlineex{Find the signal words for present perfect.}}
+    \begin{enumerate}[leftmargin=*]
+        \item Which is a signal word for present perfect? \\
+        still -- usually -- since
+        \item Which is \textbf{not} a signal word for present perfect? \\
+        since -- before -- for
+    \end{enumerate}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \exerciseheader{2}{\underlineex{Put these verbs in present perfect.}}
+    \begin{enumerate}[leftmargin=*]
+        \item They/ to do \dotfill
+        \item Jack / to publish \dotfill
+        \item He/ not, to have \dotfill
+        \item She/ to study \dotfill
+        \item Mike and Lina / to have \dotfill
+    \end{enumerate}
+    
+    \vspace{0.3cm}
+    
+    \exerciseheader{3}{\underlineex{Put the following verbs in the correct tense.}}
+    \begin{enumerate}[leftmargin=*]
+        \item He (just, phone) Sabrina; she is in \dotfill Chicago now.
+        \item I (buy, recently) a laptop to Louis. 
+        \item The maid (not, cook) the dinner yet. 
+        \item She (drive) this car for two hours. 
+        \item He (to be) in prison since 2003. 
+        \item (you, ever, read) Hemingway's novels? \dotfill
+    \end{enumerate}
+\end{minipage}
+
+\end{document}
+```

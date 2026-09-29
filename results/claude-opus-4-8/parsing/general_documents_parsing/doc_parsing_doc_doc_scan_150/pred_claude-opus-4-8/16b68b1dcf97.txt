@@ -1,0 +1,70 @@
+I'll transcribe this Chinese legal exam document into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\geometry{a4paper, margin=2.5cm}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{瑞达三国法组}
+\rhead{三国法 168 解析}
+\cfoot{12}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+科学研究目的，无须办理甲国的出口许可证 \underline{（×，必须有出口许可证）}
+
+\hspace{2em}C.``望湖''野生公园与乙国某科研机构关于 C 种植物标本的转让，尚没有国际法相关规则的限制 \underline{（×，受国际条约限制）}
+
+\hspace{2em}D.上述各类动植物都已被国际法严格禁止跨境转让 \underline{（×）}
+
+\hspace{2em}【答案】A
+
+\vspace{1em}
+
+\hspace{2em}28.根据《中华人民共和国国籍法》，下列哪些人可以因出生获得中国国籍？
+
+\hspace{2em}A.张杰，出生于中国上海，父亲为中国公民，母亲为韩国公民 \underline{（√，中国人}
+
+\underline{的孩子，出生在中国，具有中国国籍）}
+
+\hspace{2em}B.刘丽，出生于德国汉堡，父亲为中国公民，母亲为日本公民 \underline{（√，中国人}
+
+\underline{的孩子，原则上具有中国国籍）}
+
+\hspace{2em}C.赵东，出生于美国费城，父母双方均为中国公民，但 1998 年定居美国（美国采用出生地主义的国籍原则）\underline{（×，中国的父母定居在国外，本人出生具有外}
+
+\underline{国国籍的，不再具有中国国籍）}
+
+\hspace{2em}D.黄斌，出生于中国珠海，父母均为无国籍人 \underline{（×，要求父母定居在中国）}
+
+\hspace{2em}【答案】AB
+
+\vspace{1em}
+
+\hspace{2em}29.中国人胡军自 1995 年到德国工作，1998 年生子胡力送回国内由其祖母抚养。2001 年胡军取得在德国的定居资格，2004 年加入德国国籍。胡力一直与祖母生活在中国，现为中国空军现役军人。2020 年胡军希望胡力去德国生活并加入德国国籍。根据我国《国籍法》的相关规定，请判断下列哪些说法是正确的？
+
+\hspace{2em}A.胡军在加入德国国籍时自动丧失了中国国籍 \underline{（√，定居外国的中国公民，}
+
+\underline{自愿加入或取得外国国籍的，即自动丧失中国国籍）}
+
+\hspace{2em}B.胡军现仍具有中国国籍 \underline{（×）}
+
+\hspace{2em}C.胡力若申请并获得德国国籍，其中国国籍自动丧失 \underline{（×，国家工作人员和}
+
+\underline{现役军人，不得退出中国国籍）}
+
+\hspace{2em}D.胡力可以在获准加入德国国籍之后，向中国有关部门申请退出中国国籍，中国有关部门应当批准 \underline{（×）}
+
+\hspace{2em}【答案】A
+
+\vspace{1em}
+
+\hspace{2em}30.中国女子张颖 1990 年嫁到甲国，1992 年取得在甲国的定居资格。1998 年在甲国生子鲁德（出生时即取得甲国国籍）。2017 年，鲁德向我国有关部门申请加入中国国籍，2019 年 1 月获批准，2 月被选入中国国家冰球队。根据我国《国籍法》，下列哪些判断是正确的？
+
+\end{CJK}
+\end{document}
+```

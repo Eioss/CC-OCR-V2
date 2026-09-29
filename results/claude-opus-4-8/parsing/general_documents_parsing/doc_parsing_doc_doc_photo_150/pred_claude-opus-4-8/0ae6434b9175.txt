@@ -1,0 +1,87 @@
+I'll transcribe this Chinese sales report into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\begin{center}
+{\Large \textbf{蝴蝶里（hudieli）\quad 月销售报表}}
+\end{center}
+
+\noindent 南京河西天街 \quad | \quad 河西天街-5F-22 \hfill 编号：621d2683a441e15f9c0727f2
+
+\vspace{0.5em}
+\hrule
+\vspace{0.5em}
+
+\noindent 销售数据（2022 年 08 月 -- 2022 年 08 月）
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+销售周期 / 类别 & 销售金额 & 月销售笔数 & 计提金额 \\
+\hline
+2022-08-01 到 2022-08-31 & ¥1,041,401.50 & 5,154 & ¥1,041,401.50 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+\hfill 公司/授权签章：
+
+\vspace{2em}
+\noindent 附：销售明细
+
+\begin{center}
+\begin{tabular}{|c|r|c|c|}
+\hline
+日期 & 销售金额 & 日销售笔数 & 上报人 \\
+\hline
+2022 年 08 月 01 日 & ¥27,555.53 & 147 & 徐洋 \\
+2022 年 08 月 02 日 & ¥21,156.02 & 119 & 徐洋 \\
+2022 年 08 月 03 日 & ¥27,131.93 & 149 & 徐洋 \\
+2022 年 08 月 04 日 & ¥52,787.87 & 231 & 徐洋 \\
+2022 年 08 月 05 日 & ¥37,208.17 & 173 & 徐洋 \\
+2022 年 08 月 06 日 & ¥47,855.70 & 223 & 徐洋 \\
+2022 年 08 月 07 日 & ¥44,463.96 & 213 & 徐洋 \\
+2022 年 08 月 08 日 & ¥20,856.42 & 117 & 徐洋 \\
+2022 年 08 月 09 日 & ¥23,901.38 & 134 & 徐洋 \\
+2022 年 08 月 10 日 & ¥24,888.90 & 133 & 徐洋 \\
+2022 年 08 月 11 日 & ¥32,011.27 & 161 & 徐洋 \\
+2022 年 08 月 12 日 & ¥30,475.82 & 156 & 徐洋 \\
+2022 年 08 月 13 日 & ¥52,727.27 & 243 & 徐洋 \\
+2022 年 08 月 14 日 & ¥41,710.20 & 192 & 徐洋 \\
+2022 年 08 月 15 日 & ¥22,200.41 & 121 & 徐洋 \\
+2022 年 08 月 16 日 & ¥22,716.71 & 134 & 徐洋 \\
+2022 年 08 月 17 日 & ¥18,731.60 & 123 & 徐洋 \\
+2022 年 08 月 18 日 & ¥25,510.61 & 136 & 徐洋 \\
+2022 年 08 月 19 日 & ¥34,933.94 & 167 & 徐洋 \\
+2022 年 08 月 20 日 & ¥52,780.03 & 228 & 徐洋 \\
+2022 年 08 月 21 日 & ¥52,653.13 & 242 & 徐洋 \\
+2022 年 08 月 22 日 & ¥26,519.72 & 157 & 徐洋 \\
+2022 年 08 月 23 日 & ¥21,931.63 & 134 & 徐洋 \\
+2022 年 08 月 24 日 & ¥34,727.67 & 155 & 徐洋 \\
+2022 年 08 月 25 日 & ¥25,512.45 & 137 & 徐洋 \\
+2022 年 08 月 26 日 & ¥39,292.33 & 183 & 徐洋 \\
+2022 年 08 月 27 日 & ¥54,662.32 & 240 & 徐洋 \\
+2022 年 08 月 28 日 & ¥46,923.92 & 207 & 徐洋 \\
+2022 年 08 月 29 日 & ¥20,789.00 & 99 & 徐洋 \\
+2022 年 08 月 30 日 & ¥27,087.95 & 136 & 徐洋 \\
+2022 年 08 月 31 日 & ¥29,697.64 & 164 & 徐洋 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{CJK}
+\end{document}
+```
+
+**Note on transcription:** In the original document's detail table, the data rows appear slightly offset from their date labels (the first date "08月01日" has no value next to it, and values begin one row down). I've aligned them in the most logical reading order. The red official seal reads approximately "南京蝴蝶里餐饮有限公司" (Nanjing Hudieli Catering Co., Ltd.) with a central star, which cannot be reproduced in LaTeX text but is noted here for completeness.

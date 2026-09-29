@@ -1,0 +1,44 @@
+Based on the provided infographic, here is how to determine the number of states with the second-lowest average monthly cost of child care:
+
+1.  **Identify the lowest cost:** Looking at the map and the list of state costs, the lowest value is **$402**, which belongs to **Mississippi**. This is the *lowest* (ranked #23 in the "weeks to work" chart, but we are looking for cost rank). The legend shows a color scale from Highest (red) to Lowest (dark green/teal). Mississippi is dark teal.
+
+2.  **Identify the next lowest costs:** We need to find the values just above $402.
+    *   **Louisiana:** $479
+    *   **South Dakota:** $472
+    *   **Tennessee:** $488
+    *   **Alabama:** $470
+    *   **Wyoming:** $545
+    *   **South Carolina:** $540
+    *   **Kentucky:** $525
+    *   **Arkansas:** $500
+
+    Let's sort these low-cost states by their average monthly cost:
+    *   $402 - Mississippi (Lowest)
+    *   $470 - Alabama
+    *   $472 - South Dakota
+    *   $479 - Louisiana
+    *   $488 - Tennessee
+    *   $500 - Arkansas
+    *   $525 - Kentucky
+    *   $540 - South Carolina
+    *   $545 - Wyoming
+
+3.  **Determine the "second-lowest":** The question asks for the number of states that have the *second-lowest* average monthly cost. This phrasing can be interpreted in two ways:
+    *   **Interpretation A:** Which single state has the second-lowest cost? That would be Alabama ($470). In this case, the answer is 1.
+    *   **Interpretation B:** How many states share the *same* cost as the second-lowest value? Looking at the data, no other state shares the exact cost of $470. So even under this interpretation, it's still 1.
+
+    However, let's re-read carefully: "How many states have the second-lowest average monthly cost..." usually implies identifying the specific cost value that ranks #2 and counting how many states hit that mark. Since each state listed has a unique dollar amount on the map, there is only one state per cost level.
+
+    Therefore, the state with the second-lowest cost is **Alabama** at **$470**. Only **one** state holds this position.
+
+    *(Self-Correction/Refinement)*: Sometimes "second-lowest" might refer to the group of states colored with the same shade representing the second-lowest tier in the legend. But the legend doesn't give explicit numerical ranges for colors; it just says "Highest" to "Lowest". The most direct reading of the data presented is numerical ranking.
+
+    Numerical Ranking of Lowest Costs:
+    1.  Mississippi: $402
+    2.  Alabama: $470
+    3.  South Dakota: $472
+    ...
+
+    There is only **1** state with the second-lowest cost.
+
+Answer: **1**

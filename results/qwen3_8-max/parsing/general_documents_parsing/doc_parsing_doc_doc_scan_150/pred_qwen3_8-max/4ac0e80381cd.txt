@@ -1,0 +1,67 @@
+```latex
+\begin{center}
+    \textbf{MODEL QUESTION PAPER} \\
+    \textbf{CLASS : IV \hfill SUB:MATHS}
+\end{center}
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|}
+        \hline
+        \textbf{COMP} & \textbf{FNC} & \textbf{UBC} & \textbf{AIC} & \textbf{FSA} & \textbf{ORAL} & \textbf{Total} & \textbf{Tr's sign} \\
+                      & \textbf{(15)} & \textbf{(20)} & \textbf{(20)} & \textbf{(15)} & \textbf{(30)} & \textbf{(100)} & \\
+        \hline
+        \textbf{MARKS} & & & & & & & \\
+        \hline
+        \textbf{GRADE} & & & & & & & \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\section*{I FORMING NUMBERS CORRECTLY (15 marks)}
+
+\textbf{(1) Fill in the blanks} \hfill (5x1=5)
+\begin{enumerate}
+    \item[a.] Arrange 5, 3, 7, 2 to form the smallest 4 digit number \underline{\hspace{2cm}} and the greatest 4 digit number \underline{\hspace{2cm}}
+    \item[b.] $1000 + 300 + 4 = $ \underline{\hspace{2cm}}
+    \item[c.] Expand $4287 = 4000 + $ \underline{\hspace{2cm}} $ + $ \underline{\hspace{2cm}} $ + 7$
+    \item[d.] 1 kilometre = \underline{\hspace{2cm}} metres and 1 metre = \underline{\hspace{2cm}} cm
+    \item[e.] A brick has \underline{\hspace{2cm}} faces and \underline{\hspace{2cm}} edges.
+\end{enumerate}
+
+\textbf{(2) Do as directed.} \hfill (5x2=10)
+\begin{enumerate}
+    \item[(i)] \underline{Write the place value of \textbf{4} in each number} \\
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        4 & 6 & 0 & 9 \\
+        \hline
+    \end{tabular}
+    $\rightarrow$ \underline{\hspace{4cm}} \\
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        6 & 3 & 4 & 7 \\
+        \hline
+    \end{tabular}
+    $\rightarrow$ \underline{\hspace{4cm}}
+
+    \item[(ii)] \underline{Encircle the pairs of numbers which when added makes more than 500?}
+    \begin{enumerate}
+        \item[a.] 152 and 241
+        \item[b.] 321 and 192
+        \item[c.] 420 and 184
+        \item[d.] 209 and 290
+    \end{enumerate}
+
+    \item[(iii)] \underline{Express as 24- hours clock time}
+    \begin{enumerate}
+        \item[a.] 3.15 a.m \underline{\hspace{4cm}}
+        \item[b.] 7.40 p.m \underline{\hspace{4cm}}
+    \end{enumerate}
+
+    \item[(iv)] \underline{In a circle, if the lengths of the:}
+    \begin{enumerate}
+        \item[(a)] Radius is 4 cm, then the Diameter is \underline{\hspace{3cm}}
+        \item[(b)] Diameter is 12 cm, then the Radius is \underline{\hspace{3cm}}
+    \end{enumerate}
+\end{enumerate}
+```

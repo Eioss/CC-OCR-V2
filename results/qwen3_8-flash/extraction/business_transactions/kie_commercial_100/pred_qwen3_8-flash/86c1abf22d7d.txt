@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "",
+    "date_due": "",
+    "order_id": "",
+    "vendor_name": "Katz Media Group",
+    "vendor_address": "125 West 55th 8th Floor New York, NY 10019-5366 United States",
+    "customer_billing_name": "Waterfront Strategies",
+    "customer_billing_address": "3050 K Street NW, Suite 100 Washington, DC 20007-3606",
+    "amount_total_net": "",
+    "amount_total_gross": "$98,600.00",
+    "amount_due": ""
+}
+```

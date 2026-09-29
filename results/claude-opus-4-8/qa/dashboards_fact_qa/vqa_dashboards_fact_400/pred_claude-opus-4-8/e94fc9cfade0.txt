@@ -1,0 +1,9 @@
+Based on the infographic, the three basic approaches that all modern search engines use to organize websites are:
+
+1. **CRAWLING** - Search engines follow links to browse the 60 trillion (and growing) pages that make up the web
+
+2. **SORTING** - Results are sorted by a variety of factors
+
+3. **INDEXING** - Sorted pages get stored in an index so search engines can match queries with results faster
+
+These three processes work together to enable search engines to locate, organize, and retrieve relevant content from across the web.

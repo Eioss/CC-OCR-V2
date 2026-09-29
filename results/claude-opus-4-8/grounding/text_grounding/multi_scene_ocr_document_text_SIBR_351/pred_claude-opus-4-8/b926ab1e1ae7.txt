@@ -1,0 +1,7 @@
+I can see two instances of '0元' in this receipt:
+
+The first one (in 医保报销:0元):
+(741, 1517, 815, 1574)
+
+The second one (扫码支付:0元 at the top right area):
+(1888, 1338, 1962, 1395)

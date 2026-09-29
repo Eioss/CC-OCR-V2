@@ -1,0 +1,12 @@
+Based on the provided calendar for **December 2006**:
+
+- The days of the week are labeled across the top: **Sun, Mon, Tue, Wed, Thu, Fri, Sat**.
+- December 28 falls in the row that includes dates 24–30.
+- Looking at the column headers and aligning with the date grid:
+  - **Dec 24** is under **Sun**
+  - **Dec 25** is under **Mon** (marked as “Holiday”)
+  - **Dec 26** is under **Tue**
+  - **Dec 27** is under **Wed**
+  - **Dec 28** is under **Thu**
+
+✅ Therefore, **December 28, 2006 was a Thursday**.

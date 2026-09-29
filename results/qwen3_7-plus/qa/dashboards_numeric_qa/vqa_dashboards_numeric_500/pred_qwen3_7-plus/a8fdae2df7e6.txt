@@ -1,0 +1,41 @@
+Based on the provided infographic, **Victoria (VIC)** has the highest head count in 2017.
+
+Looking at the map of Australia with numbered circles representing employee counts by state/territory:
+
+- **VIC (Victoria)** is shown with **1,274** employees.
+- The next highest is **QLD (Queensland)** with **1,545** — wait, let’s double-check.
+
+Actually, looking closely:
+
+- **QLD (Queensland)**: **1,545**
+- **VIC (Victoria)**: **1,274**
+- **NSW (New South Wales)**: **451**
+- **WA (Western Australia)**: **52**
+- **SA (South Australia)**: **36**
+- **ACT**: **25**
+- **TAS (Tasmania)**: **2**
+- **NT (Northern Territory)**: **10**
+
+Wait — there’s a discrepancy. Let me re-examine the image carefully.
+
+In the map, the number **1,545** is placed over **QLD**, and **1,274** is over **VIC**.
+
+But also note: there’s a separate circle labeled **639** near VIC — this may be part of the supply chain or another category? No — looking at the legend:
+
+> - Blue circle = 2017 Boeing Headcount (July)
+> - Orange circle = 2016 Boeing Supply Chain
+
+So the blue numbers are direct Boeing headcounts.
+
+Thus:
+
+- **QLD: 1,545** → Highest
+- **VIC: 1,274**
+- **NSW: 451**
+- etc.
+
+✅ Therefore, **Queensland (QLD)** has the highest Boeing headcount in 2017 with **1,545** employees.
+
+---
+
+**Answer: Queensland (QLD) with 1,545 employees.**

@@ -1,0 +1,95 @@
+# Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\hfill \textbf{\textcolor{red}{Tnkalvi.Net}}
+
+\begin{center}
+\textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019}
+
+\textbf{Standard - 11} \hfill Reg. No. \boxed{\quad}\boxed{1}\boxed{1}\boxed{1}\boxed{4}
+
+\textbf{PART - III - MATHEMATICS}
+\end{center}
+
+Time Allowed: 2.30 Hours \hfill Maximum Marks: 90
+
+\noindent\textbf{Instructions:} 
+\begin{enumerate}
+\item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+\item Use Blue or Black ink to write and underline and pencil to draw diagrams.
+\end{enumerate}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\noindent\textbf{Note:} i) Answer all the questions. \hfill $20 \times 1 = 20$
+
+\hspace{1.2cm} ii) Choose the most appropriate answer from the given four alternatives and write the option code and the corresponding answer.
+
+\bigskip
+
+\noindent 1) The range of the function $\dfrac{1}{1-2\sin x}$ is
+
+\quad a) $(-\infty, -1] \cup \left(\dfrac{1}{3}, \infty\right)$ \hfill b) $\left(-1, \dfrac{1}{3}\right)$
+
+\quad c) $\left[-1, \dfrac{1}{3}\right]$ \hfill d) $(-\infty, -1] \cup \left[\dfrac{1}{3}, \infty\right)$
+
+\bigskip
+
+\noindent 2) The function $f : [0, 2\pi] \to [-1, 1]$ defined by $f(x) = \sin x$ is
+
+\quad a) one-to-one \quad b) onto \quad c) bijection \quad d) cannot be defined
+
+\bigskip
+
+\noindent 3) The solution set of the following inequality $|x-1| \geq |x-3|$ is
+
+\quad a) $[0, 2]$ \quad b) $[2, \infty)$ \quad c) $(0, 2)$ \quad d) $(-\infty, 2)$
+
+\bigskip
+
+\noindent 4) If 3 is the logarithm of 343, then the base is
+
+\quad a) 5 \quad b) 7 \quad c) 6 \quad d) 9
+
+\bigskip
+
+\noindent 5) In a $\triangle ABC$, $\tan\left(\dfrac{A}{2}\right) =$
+
+\quad a) $\sqrt{\dfrac{(s-b)(s-c)}{bc}}$ \hfill b) $\sqrt{\dfrac{s(s-a)}{bc}}$
+
+\quad c) $\sqrt{\dfrac{(s-b)(s-c)}{s(s-a)}}$ \hfill d) $\sqrt{s(s-a)(s-b)(s-c)}$
+
+\bigskip
+
+\noindent 6) There are 10 points in a plane and 4 of them are collinear. The number of straight lines joining any two points is
+
+\quad a) 45 \quad b) 40 \quad c) 39 \quad d) 38
+
+\bigskip
+
+\noindent 7) The $n^{th}$ term of the sequence 1, 2, 4, 7, 11, \ldots\ldots\ldots is
+
+\quad a) $n^3 + 3n^2 + 2n$ \quad b) $n^3 - 3n^2 + 3n$ \quad c) $\dfrac{n(n+1)(n+2)}{3}$ \quad d) $\dfrac{n^2 - n + 2}{2}$
+
+\bigskip
+
+\noindent 8) The slopes of the line which makes an angle $45^\circ$ with the line $3x - y = -5$ are
+
+\quad a) $1, -1$ \quad b) $\dfrac{1}{2}, -2$ \quad c) $1, \dfrac{1}{2}$ \quad d) $2, \dfrac{-1}{2}$
+
+\bigskip
+
+\begin{center}
+\textit{\textcolor{blue}{Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com}}
+\end{center}
+
+\end{document}
+```

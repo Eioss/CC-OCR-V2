@@ -1,0 +1,13 @@
+ $$\frac { \partial v } { \partial t } - \nu \Delta v + ( v . \nabla ) v = - \nabla p + f$$
+
+ $$D _ { k } \tilde { S } - p \tilde { X } = ( x \dot { L } - f f g ( X , C ) - x p ) x _ { k } + \frac { x \dot { f } } { f } S + \frac { h \dot { f } } { f } X + p D _ { k } S - p X$$
+
+ $$\langle v x , w \rangle = \langle c , w \varphi ( x ) \rangle$$
+
+ $$( z _ { G } ^ { k } E ) ( \Sigma ^ { a } G / H _ { 1 } ) : = \pi _ { K } ( E \wedge G / H _ { 1 } ) k _ { G } \cong \pi _ { k } E \tilde { \wedge } H .$$
+
+ $$\textstyle \int _ { Y } Y ^ { 0 } A ^ { 0 } ; , \; \; \forall p = 0 \; \; \; \; \forall p \in C ^ { \infty } ( T ^ { n } ) .$$
+
+ $$< \beta ( \bar { \varepsilon } ) - \beta ( \bar { \bar { \varepsilon } } ) , \varepsilon - \bar { \bar { \varepsilon } } > \, 0 \, , \, f o r \, e v e r y \, \, \bar { \varepsilon } , \, \bar { \bar { \varepsilon } } \epsilon X \, \, w i t h \, \, \bar { \varepsilon } \neq \bar { \bar { \varepsilon } } \, .$$
+
+ $$\begin{array} { l l } { { \int _ { \Omega } ( | \frac { \partial } { t } v ^ { ( m ) } | ^ { 2 } + | \bigtriangledown _ { x } v ^ { ( m ) } | ^ { q } ) ( x , \tau ) d x + \int _ { 0 } ^ { t } \int _ { \Omega } ( | v _ { \rho } ^ { ( m ) } | ^ { 2 } + \eta | \triangle v ^ { ( m ) } | ^ { 2 } + | \bigtriangledla _ { x } v _ { t } ^ { ( m ) } | ^ { 2 } ) ( x , t ) d x d t } } \\ { { + \int _ { 0 } ^ { t } \int _ { \partial \Omega } \alpha ( x ) | \beta ^ { ( m ) } ( x , t ) | d s ( x ) d t \leq C _ { 8 } ( 1 + \int _ { 0 } ^ { t } \int _ { \Omega } ( | \frac { \partial } { t } v ^ { ( m ) } | ^ { 2 } + | d i v a ( \l ) | ^ { 2 } ) ( x , t ) d x d t ) . } } \end{array}$$

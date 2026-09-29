@@ -1,0 +1,131 @@
+```html
+<body data-new-link="#ff0000" link="#0000ee">
+ <table border="1">
+  <thead>
+   <tr>
+    <th colspan="3">Patel</th>
+   </tr>
+   <tr>
+    <th colspan="3">Statement of financial position at 31 December 2014</th>
+   </tr>
+   <tr>
+    <th></th>
+    <th>$</th>
+    <th>$</th>
+   </tr>
+  </thead>
+  <tbody>
+   <tr>
+    <td>ASSETS</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Non-current assets</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Land and buildings</td>
+    <td></td>
+    <td>60000</td>
+   </tr>
+   <tr>
+    <td>Fixtures and fittings</td>
+    <td></td>
+    <td>7000</td>
+   </tr>
+   <tr>
+    <td>Vehicles</td>
+    <td></td>
+    <td>21000</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>88000</td>
+   </tr>
+   <tr>
+    <td>Current assets</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Inventory</td>
+    <td>1010</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Trade receivables</td>
+    <td>1740</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Bank balance</td>
+    <td>1840</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Cash</td>
+    <td>480</td>
+    <td>5070</td>
+   </tr>
+   <tr>
+    <td>Total assets</td>
+    <td></td>
+    <td>93070</td>
+   </tr>
+   <tr>
+    <td>CAPITAL AND LIABILITIES</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Capital</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Capital introduced</td>
+    <td></td>
+    <td>70000</td>
+   </tr>
+   <tr>
+    <td>Add Profit</td>
+    <td></td>
+    <td>23750</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>93750</td>
+   </tr>
+   <tr>
+    <td>Less Drawings</td>
+    <td></td>
+    <td>2170</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>91580</td>
+   </tr>
+   <tr>
+    <td>Current liabilities</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Trade payables</td>
+    <td></td>
+    <td>1490</td>
+   </tr>
+   <tr>
+    <td>Total capital and liabilities</td>
+    <td></td>
+    <td>93070</td>
+   </tr>
+  </tbody>
+ </table>
+</body>
+```

@@ -1,0 +1,190 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        text-align: left;
+        }
+        tr.dashed td {
+        border-bottom: 1px dashed #000;
+        }
+        .attribute {
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        }
+        .method {
+        text-align: center;
+        vertical-align: middle;
+        }
+        .highlight-orange {
+        background-color: #f4a460;
+        color: white;
+        padding: 2px 4px;
+        border-radius: 3px;
+        }
+        .highlight-light-orange {
+        background-color: #ffe4c4;
+        padding: 2px 4px;
+        border-radius: 3px;
+        }
+        .highlight-blue {
+        background-color: #e6e6fa;
+        padding: 2px 4px;
+        border-radius: 3px;
+        }
+        .highlight-green {
+        background-color: #90ee90;
+        padding: 2px 4px;
+        border-radius: 3px;
+        }
+        .highlight-brown {
+        background-color: #a0522d;
+        color: white;
+        padding: 2px 4px;
+        border-radius: 3px;
+        }
+        .bg-negative {
+        background-color: #ffe4e1;
+        }
+        .bg-positive {
+        background-color: #e6e6fa;
+        }
+        .bg-mexican {
+        background-color: #ff8c00;
+        color: white;
+        }
+        .bg-american {
+        background-color: #90ee90;
+        }
+        .bg-asian {
+        background-color: #a0522d;
+        color: white;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th>Attribute</th>
+    <th>Method</th>
+    <th>Generation Results</th>
+   </tr>
+   <tr class="dashed">
+    <td class="attribute bg-negative" rowspan="5">Negative<br>Sentiment</td>
+    <td class="method">Finetune</td>
+    <td><i>Once upon a time</i>, I was very<span class="highlight-light-orange">disappointed</span>. The meat was<span class="highlight-light-orange">bland</span>and the beans tasted as if they had been sitting out all day...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">Adapter</td>
+    <td><i>Once upon a time</i>in the restaurant it was<span class="highlight-light-orange">still dark</span>and people<span class="highlight-light-orange">weren 't</span>even talking...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">PPLM</td>
+    <td><i>Once upon a time</i>, computers would have been able read, interpret and write, and listen, listen and read...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">GeDi</td>
+    <td><i>Once upon a time</i>you either enter base build states or begin switching context switches and magic spells that alter your manifest...</td>
+   </tr>
+   <tr>
+    <td class="method"><b>Tailor<sub>Single</sub></b></td>
+    <td><i>Once upon a time</i>, you had to order your dinner. the food<span class="highlight-light-orange">came out cold</span>with<span class="highlight-light-orange">no</span>seasoning or flavor<span class="highlight-light-orange">whatsoever</span>...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="attribute bg-positive" rowspan="5">Positive<br>Sentiment</td>
+    <td class="method">Finetune</td>
+    <td><i>Once upon a time</i>they were busy but the food was<span class="highlight-blue">amazing</span>and service<span class="highlight-blue">fast</span>.<span class="highlight-blue">highly recommend</span>for date night / evening out...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">Adapter</td>
+    <td><i>Once upon a time</i>I 'd<span class="highlight-blue">like</span>to visit the city of lg, it was atlas!<span class="highlight-blue">great</span>food and<span class="highlight-blue">amazing</span>bartenders...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">PPLM</td>
+    <td><i>Once upon a time</i>in the world in which a<span class="highlight-blue">great</span>deal of the work was done with the work was done in the world in the most...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">GeDi</td>
+    <td><i>Once upon a time</i>, mankind thought of themselves as<span class="highlight-blue">merciful</span>,<span class="highlight-blue">enlightened</span>princes, with<span class="highlight-blue">loving</span>hearts. That prosperity and flourishing...</td>
+   </tr>
+   <tr>
+    <td class="method"><b>Tailor<sub>Single</sub></b></td>
+    <td><i>Once upon a time</i>, I was so<span class="highlight-blue">excited</span>to have my friends and family there that we wanted our food. the staff is<span class="highlight-blue">great</span>! they make us<span class="highlight-blue">feel at home</span>when...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="attribute bg-mexican" rowspan="5">Mexican<br>Food</td>
+    <td class="method">Finetune</td>
+    <td><i>Once upon a time</i>I had the<span class="highlight-orange">carne asada burritos</span>, they looked great. my wife's quesadilla was the only thing that she liked...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">Adapter</td>
+    <td><i>Once upon a time</i>in my family I ordered the<span class="highlight-orange">taco</span>and they came out with two different varieties of beans. when it was finished we were asked...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">PPLM</td>
+    <td><i>Once upon a time</i>the user would use a calculator to get a price for the price of the goods that...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">GeDi</td>
+    <td><i>Once upon a time</i>Mexico had started<span class="highlight-orange">guacamole</span>called empty beans and children with Luis María de Leonos. Juan said he didn't tell a Hispanic what he did...</td>
+   </tr>
+   <tr>
+    <td class="method"><b>Tailor<sub>Single</sub></b></td>
+    <td><i>Once upon a time</i>I was in the area and had one of these<span class="highlight-orange">burritos</span>that were so delicious. we ordered them for...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="attribute bg-american" rowspan="5">American<br>Food</td>
+    <td class="method">Finetune</td>
+    <td><i>Once upon a time</i>I was eating my<span class="highlight-green">burger</span>, the server looked at me and said something to him " you have no idea how bad that is...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">Adapter</td>
+    <td><i>Once upon a time</i>, I ordered the<span class="highlight-green">lobster bbq</span>and we both got no meat. our server had been on call for over an hour before she left after talking to us again...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">PPLM</td>
+    <td><i>Once upon a time</i>there were some people who used the same the machines as they could be to get their hands on and get the best results...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">GeDi</td>
+    <td><i>Once upon a time</i>turkey<span class="highlight-green">sandwiches</span>turned Uhhh ... majestic, religious grunge, weened suburban<span class="highlight-green">ham sandwich</span>— Americans applaud! Dove Bruffer » Briggs atte...</td>
+   </tr>
+   <tr>
+    <td class="method"><b>Tailor<sub>Single</sub></b></td>
+    <td><i>Once upon a time</i>I 'd go to the bbq and it was pretty empty. my friend had our<span class="highlight-green">burger</span>, which we ordered with<span class="highlight-green">fries</span>but not in advance of eating at dinner...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="attribute bg-asian" rowspan="5">Asian<br>Food</td>
+    <td class="method">Finetune</td>
+    <td><i>Once upon a time</i>I've had the<span class="highlight-brown">spicy tofu dish</span>, but that was my only meal. It came out cold and tasted awful...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">Adapter</td>
+    <td><i>Once upon a time</i>I was craving something spicy, it tasted like the best<span class="highlight-brown">Chinese food</span>out there...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">PPLM</td>
+    <td><i>Once upon a time</i>I made a stone of silver ring mail "Garden of the Winds Winds" ...</td>
+   </tr>
+   <tr class="dashed">
+    <td class="method">GeDi</td>
+    <td><i>Once upon a time</i>bamboo<span class="highlight-brown">noodles</span>were the classical medicine and lemongrass fetish...</td>
+   </tr>
+   <tr>
+    <td class="method"><b>Tailor<sub>Single</sub></b></td>
+    <td><i>Once upon a time</i>, I got here for the<span class="highlight-brown">sushi roll</span>. After getting home from work at 4pm and finding...</td>
+   </tr>
+  </table>
+ </body>
+</html>
+```

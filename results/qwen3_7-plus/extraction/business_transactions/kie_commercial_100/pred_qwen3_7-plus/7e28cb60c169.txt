@@ -1,0 +1,17 @@
+```json
+{
+    "date_issue": "2/18/99",
+    "order_id": "9023194",
+    "vendor_address": "901 West Bond St., Lincoln, NE 68521",
+    "vendor_name": "experian",
+    "vendor_tax_id": "#13-3015410",
+    "customer_id": "587876",
+    "customer_billing_name": "LORILLARD TOBACCO COMPANY DONALD DAY",
+    "customer_billing_address": "714 GREEN VALLEY RD GREENSBORO NC 27408",
+    "customer_delivery_name": "NARIA HOWE EPSILON",
+    "customer_delivery_address": "50 CAMBRIDGE ST BURLINGTON MA 01803",
+    "amount_total_gross": "$1485.80",
+    "amount_due": "$1485.80",
+    "payment_terms": "NET 30 DAYS"
+}
+```

@@ -1,0 +1,147 @@
+I'll transcribe this SJSU International Applicant Financial Form into LaTeX format.
+
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\definecolor{sjsublue}{RGB}{0,51,102}
+\definecolor{lightblue}{RGB}{220,230,242}
+
+\begin{document}
+
+\noindent
+{\Huge\textbf{\textcolor{sjsublue}{SJSU}}} \quad {\small SAN JOS\'E STATE\\ \hspace*{4.5em}UNIVERSITY}
+
+\vspace{1em}
+\noindent
+{\LARGE\textbf{\textcolor{sjsublue}{INTERNATIONAL APPLICANT FINANCIAL FORM}}}
+
+\vspace{0.5em}
+\noindent
+International applicants must affirm that they are responsible for paying all tuition, fees and living expenses for the entire period of intended study by completing the Declaration of Finance form. In order to issue your I-20, we are required to collect documentation that shows you have funds available to pay for the total estimated expense for the first year of your academic program. Estimated expenses include tuition, fees, living expenses and health insurance. Actual expenses may vary.
+
+\vspace{1em}
+\noindent
+{\large\textbf{\textcolor{sjsublue}{INSTRUCTIONS}}} \quad $\blacktriangleright$ \textbf{Part I.} Answer questions 1--8 completely.
+
+\hspace{8.5em} $\blacktriangleright$ \textbf{Part II.} Indicate the source(s) of your funding and the amount available from each source; have your sponsor(s) verify
+
+\hspace{10.5em} their sponsorship by signing the form. Submit the required documentation as indicated below to show that you
+
+\hspace{10.5em} and your sponsor(s) have available liquid assets equal to or greater than at least one year's cost.
+
+\vspace{1em}
+\noindent
+{\large\textbf{\textcolor{sjsublue}{ESTIMATED EXPENSES}}}
+
+\vspace{0.5em}
+\begin{tabular}{|>{\columncolor{lightblue}}l|c|c|}
+\hline
+\rowcolor{sjsublue}
+\textcolor{white}{\textbf{Fall 2019-Spring 2020}} & \textcolor{white}{\textbf{Undergraduate}} & \textcolor{white}{\textbf{Graduate}} \\
+\rowcolor{sjsublue}
+\textcolor{white}{\textbf{Academic Year}} & \textcolor{white}{(12 units/semester)} & \textcolor{white}{(9 units/semester)} \\
+\hline
+Tuition Fees & \cellcolor{lightblue}\textbf{\$17,300} & \cellcolor{lightblue}\textbf{\$16,358} \\
+\hline
+Living Expenses & \cellcolor{lightblue}\textbf{\$21,397} & \cellcolor{lightblue}\textbf{\$21,397} \\
+\hline
+Medical Insurance & \cellcolor{lightblue}\textbf{\$1,888} & \cellcolor{lightblue}\textbf{\$1888} \\
+\hline
+\textbf{Total} & \cellcolor{lightblue}\textbf{\$40,585} & \cellcolor{lightblue}\textbf{\$39,643*} \\
+\hline
+\end{tabular}
+\hfill
+\begin{tabular}{|>{\columncolor{lightblue}}l|c|c|}
+\hline
+\rowcolor{sjsublue}
+\textcolor{white}{\textbf{Fall 2018-Spring 2019}} & \textcolor{white}{\textbf{Undergraduate}} & \textcolor{white}{\textbf{Graduate}} \\
+\rowcolor{sjsublue}
+\textcolor{white}{\textbf{Academic Year}} & \textcolor{white}{(12 units/semester)} & \textcolor{white}{(9 units/semester)} \\
+\hline
+Tuition Fees & \cellcolor{lightblue}\textbf{\$17,225} & \cellcolor{lightblue}\textbf{\$16,283} \\
+\hline
+Living Expenses & \cellcolor{lightblue}\textbf{\$20,445} & \cellcolor{lightblue}\textbf{\$20,445} \\
+\hline
+Medical Insurance & \cellcolor{lightblue}\textbf{\$1,529} & \cellcolor{lightblue}\textbf{\$1,529} \\
+\hline
+\textbf{Total} & \cellcolor{lightblue}\textbf{\$39,199} & \cellcolor{lightblue}\textbf{\$38,257*} \\
+\hline
+\end{tabular}
+
+\vspace{0.3em}
+\noindent
+{\small *The Graduate School of Business and Special Session programs have different amounts. Please check program websites for fee information.}
+
+\vspace{0.5em}
+\noindent
+Financial documents that demonstrate proof of funding must be in English and must:
+
+\begin{itemize}[leftmargin=2em, itemsep=0pt]
+    \item Be on official bank letterhead with a stamp/seal and/or bank officer's signature.
+    \item Demonstrate at least the minimum total estimated expenses for one academic year in your academic program.
+    \item Include an issue date that is within the recent 6 months of when you submit your online application.
+    \item Include the account holder's name.
+    \item Include a specific amount in dollars (USD).
+\end{itemize}
+
+\vspace{0.5em}
+\noindent
+{\large\textbf{\textcolor{sjsublue}{DEPENDENT SUPPORT}}}
+
+\vspace{0.3em}
+\noindent
+Students wishing to have a spouse or children accompany them to San Jos\'e State University (SJSU) must be able to provide proof of funding for an additional \$5,000 for each family member. \textbf{A copy of marriage certificate and passport are required for adding a spouse. A copy of birth certificate(s) and passport(s) are required for each child. Additional proof of funding will also be required. *Please note a dependent cannot also be a sponsor.}
+
+\vspace{0.5em}
+\noindent
+{\large\textbf{\textcolor{sjsublue}{FINANCIAL DOCUMENTATION}}}
+
+\vspace{0.5em}
+\begin{tabular}{|>{\columncolor{lightblue}}p{9cm}|c|c|}
+\hline
+\rowcolor{sjsublue}
+\textcolor{white}{\textbf{Type of Documentation*}} & \textcolor{white}{\textbf{Acceptable}} & \textcolor{white}{\textbf{Not Acceptable}} \\
+\hline
+Bank Letters & \checkmark & \\
+\hline
+Bank Statements (Savings or Checking Accounts) & \checkmark & \\
+\hline
+Fixed/Term/Time Deposits - \textbf{must be able to be withdrawn at any time without penalty} & \checkmark & \\
+\hline
+Loan Letters & \checkmark & \\
+\hline
+Scholarship Letters (Private, Government, School, etc.) & \checkmark & \\
+\hline
+Solvency Letter - Bank letter indicating funds immediately available to the individual & \checkmark & \\
+\hline
+Employer Letters / Salary Statements & & x \\
+\hline
+Line of Credit Letters & & x \\
+\hline
+Provident (Retirement) Fund Statements & & x \\
+\hline
+Stock Market, Equity, or Mutual Fund Statements & & x \\
+\hline
+Valuation Statements (Jewelry, Gold, Property) & & x \\
+\hline
+\end{tabular}
+
+\vspace{0.5em}
+\noindent
+\textbf{*This information is required for visa eligibility determination.}
+
+\vspace{1em}
+\noindent
+\hfill {\small\textbf{Revised(s) Sept. 2018}}
+
+\end{document}
+```
+
+I've transcribed the complete form including all headers, instructional text, both estimated expense tables, the bulleted requirements, dependent support section, and the financial documentation table with its checkmarks and X marks preserved as shown in the original.

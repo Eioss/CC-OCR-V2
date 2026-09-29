@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+\mathbb{E}\left[\sum_{j=1}^{n}E_{j\to x_{ij}}\right]^p
+&=O\!\left(\frac{|u|^{2p}}{\delta_x^{4p}}\right)
+ +O\!\left(\frac{|u|^{2p}}{\delta_x^{5p}}\right)
+ +O\!\left(\frac{|u|^{2p}}{\delta_x^{5p}}\right)
+ \leq \phi_i(|u|)\psi_i(\delta_x^T),\\[4pt]
+\nu_i^2\cdot\xi_i
+&=\frac12\left(\alpha_i^\vee+
+3\left(\alpha_{i+1}^\vee+\cdots+\alpha_\ell^\vee\right)\right),\\[4pt]
+J(u)&:=\|T_u-g\|_2^2+2\alpha|D(u)|(\Omega),\\[4pt]
+\sum_{j=0}^{N-1}(H_{ij}-wS_{ij})c_j&=0,
+\qquad i=0,1,\ldots,N-1,\\[4pt]
+H_{ij}&=\int_{a_0}^{\infty}f_i(q)\hat Hf_j(q)\,dq,
+\qquad
+S_{ij}=\int_{a_0}^{\infty}f_i(q)f_j(q)\,dq,\\[4pt]
+\mathbb{E}_{\phi}f(a_0)-f(a_b)
+&\leq\mathbb{E}_{\phi}\left(
+\frac{\pi}{2}\|a-b\|_2\langle\nabla f(X),Y\rangle
+\right).
+\end{aligned}
+\]

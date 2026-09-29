@@ -1,0 +1,13 @@
+$$E \vert \sum \limits _ { i = 1 } ^ { N } E _ { j - 1 } x _ { i j } \vert ^ { p } = O ( \frac { \vert x \vert ^ { 2 p } } { 8 _ { 2 } ^ { 4 p } } ) + O ( \frac { \vert x \vert ^ { 2 p } } { 8 _ { 2 } ^ { 5 p } } ) + O ( \frac { \vert x \vert ^ { 2 p } } { 8 _ { 2 } ^ { 6 p } } ) \leq \phi _ { 1 } ( \vert x \vert ) I E _ { 1 } ( S ^ { - 1 } ) .$$
+
+$$v ^ { 2 } \cdot f _ { 2 } = \frac { 1 } { 2 } ( \alpha _ { 3 } ^ { v } + 3 ( \alpha _ { 4 , 1 } ^ { v } + \ldots + \alpha _ { i } ^ { v } ) ) ,$$
+
+$$J ( u ) : = \| T u - g \| _ { 2 } ^ { 2 } + 2 \alpha \vert D ( u ) \vert ( \Omega ) ,$$
+
+$$\gamma _ { 2 } : = \operatorname* { i n f } _ { v } \frac { ( 1 - p ) [ \pi v ] _ { p , q } ^ { q } ( v - r _ { 1 } ) \xi + [ \pi v ] _ { p , q - 1 } ) - \xi [ 1 + ( v - 1 ) \pi ] ^ { - 1 } } { ( v - p ) ( 1 - \eta ) } \quad ( 1 ) ( v - 1 ) \quad ( v \geq 2 ) .$$
+
+$$\sum _ { j = 0 } ^ { N - 1 } ( H _ { i j } - w S _ { i j } ) G _ { j } = 0 , i = 0 , 1 , \ldots , N - 1$$
+
+$$H _ { i j } = \int _ { a _ { 0 } } ^ { \infty } f _ { i } ( q ) \hat { H } f _ { j } ( q ) d q , S _ { i j } = \int _ { a _ { 0 } } ^ { \infty } f _ { i } ( q ) f _ { j } ( q ) d q$$
+
+$$E _ { \phi } ( f ( G _ { a } ) - f ( G _ { b } ) ) \leq E _ { \phi } ( \frac { \pi } { 2 } | | a - b | | _ { 2 } < \Delta f ( X ) , Y > ) ,$$

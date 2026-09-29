@@ -1,0 +1,15 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Snack Lestari All",
+            "price": "54,000"
+        },
+        {
+            "name": "Bakery Aneka Sisir banana,Pizza,yoko,Mar mer,Daging,abon,keju,cokelat,dll",
+            "price": "14,000"
+        }
+    ],
+    "total": "68,000"
+}
+```

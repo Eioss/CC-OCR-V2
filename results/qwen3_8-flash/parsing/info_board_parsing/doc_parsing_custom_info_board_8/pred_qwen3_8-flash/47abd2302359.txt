@@ -1,0 +1,50 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_745_1062_863_1194.jpg" alt="Image" width="6%" /></div>
+
+**活动排期表 / 空气质量表**
+文档编号 RB-950172
+日期 2024-06-06
+
+单位: 云栖省星港市澄岳松影物业管理有限公司 | 负责人: 赵欣妍 | 联系电话: 13076943992 | 地址: 临澜省皓月市松影区星港大道122号 12栋
+
+<table border="1">
+ <tr>
+  <th rowspan="3">服务点</th>
+  <th colspan="5">站点/窗口服务信息</th>
+ </tr>
+ <tr>
+  <th rowspan="2">事项</th>
+  <th colspan="4">服务信息/咨询方式</th>
+ </tr>
+ <tr>
+  <th>开放</th>
+  <th>限流</th>
+  <th>咨询</th>
+  <th>备注</th>
+ </tr>
+ <tr>
+  <td>A口旁<br>(MTTR: 2h)</td>
+  <td>线路指引</td>
+  <td>全天</td>
+  <td>是</td>
+  <td>二维码</td>
+  <td>无<br>(Status: OK)</td>
+ </tr>
+ <tr>
+  <td>大厅窗口</td>
+  <td>票务咨询</td>
+  <td>10:00-19:00</td>
+  <td>否</td>
+  <td>现场<br>(SLA: 99%)</td>
+  <td>预约<br>(OCR: √)</td>
+ </tr>
+ <tr>
+  <td>便民服务区</td>
+  <td>意见收集</td>
+  <td>周一-周五</td>
+  <td>否</td>
+  <td>电话/线上</td>
+  <td>签字: 赵欣妍<br>(OKR: 完成)</td>
+ </tr>
+</table>
+
+https://example.com/doc-06327909

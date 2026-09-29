@@ -1,0 +1,13 @@
+$$m(\pi,\nu) = \frac{1}{|\mathcal{S}_\psi|} \sum_{\bar{x} \in \mathcal{S}_\psi} e_\psi(\bar{x}) \langle x, \bar{x} \rangle \nu(x)^{-1} \langle \lambda_{n\alpha_n}, x \rangle.$$
+
+$$\mathcal{V}(t_o, \varphi, e) \geq 1 - \exp\left(-c\frac{\delta^2}{(T-t_o)^2}\right), \quad \bar{e} \geq \Lambda + l(T-t_o) + \delta.$$
+
+$$\mathcal{V}(t_o, \varphi, e) \leq \exp\left(-c\frac{\delta^2}{(T-t_o)^2}\right), \quad \bar{e} \leq \Lambda - \delta.$$
+
+$$\mathcal{S}_o(\theta) \leq \mathcal{S}_l(\theta) \leq e^{c(e^{2l\theta}-1)} \mathcal{S}_l(0) \quad \text{for every } \theta.$$
+
+$$(n-1)H^{-\frac{1}{2}}\frac{\Phi_n^H(x)}{H-\frac{1}{2}} \leq \int_0^1 (\nu+n-1)^{-\frac{1}{2}}(\nu+n-1\cdot x)H^{-\frac{3}{2}} d\nu \leq n^{H-\frac{1}{2}}\frac{\Phi_n^H(x)}{H-\frac{1}{2}}.$$
+
+$$\mathcal{V}_{k,\ell}^{(L)}(h_k^{(L)}) = \frac{1}{6}\sigma'''(\xi_{k,\ell}^{(L)}) M_{k,\ell}^{(L)}(h_k^{(L)})^3 + N_{k,\ell}^{(L)}(h_k^{(L)})$$
+
+$$= \frac{1}{6}\sigma'''(\xi_{k,\ell}^{(L)}) M_{k,\ell}^{(L)}(h_k^{(L)})^3 + \frac{1}{2}\sigma''(0)(X_{k,\ell}^{(L)} + Y_{k,\ell}^{(L)} + J_{k,\ell}^{(L)}).$$

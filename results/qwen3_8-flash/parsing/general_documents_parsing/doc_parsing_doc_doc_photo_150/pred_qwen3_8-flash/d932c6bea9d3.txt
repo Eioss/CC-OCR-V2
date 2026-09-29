@@ -1,0 +1,15 @@
+```latex
+\textbf{False Positives and Positive Fallacies}
+
+the added word \textit{husband} proved to be the extent of the clues the kindhearted insurance company was willing to provide about our uninsurability, I went to my doctor on a hunch and took an HIV test. It came back positive. Though I was too shocked initially to quiz him about the odds he quoted, I later learned that he had derived my 1-in-1,000 chance of being healthy from the following statistic: the HIV test produced a positive result when the blood was not infected with the AIDS virus in only 1 in 1,000 blood samples. That might sound like the same message he passed on, but it wasn't. My doctor had confused the chances that I would test positive \textit{if} I was not HIV-positive with the chances that I would not be HIV-positive \textit{if} I tested positive.
+
+To understand my doctor's error, let's employ Bayes's method. The first step is to define the sample space. We could include every-one who has ever taken an HIV test, but we'll get a more accurate result if we employ a bit of additional relevant information about me and consider only heterosexual non-IV-drug-abusing white male Americans who have taken the test. (We'll see later what kind of difference this makes.)
+
+Now that we know whom to include in the sample space, let's classify the members of the space. Instead of boy and girl, here the relevant classes are those who tested positive and are HIV-positive (true positives), those who tested positive but are not positive (false positives), those who tested negative and are HIV-negative (true nega-tives), and those who tested negative but are HIV-positive (false negatives).
+
+Finally, we ask, how many people are there in each of these classes? Suppose we consider an initial population of 10,000. We can estimate, employing statistics from the Centers for Disease Control and Prevention, that in 1989 about 1 in those 10,000 heterosexual non-IV-drug-abusing white male Americans who got tested were infected with HIV.\footnote{\ldots} Assuming that the false-negative rate is near 0, that means that about 1 person out of every 10,000 will test positive due to the presence of the infection. In addition, since the rate of false positives is, as my doctor had quoted, 1 in 1,000, there will be
+
+\begin{center}
+115
+\end{center}
+```

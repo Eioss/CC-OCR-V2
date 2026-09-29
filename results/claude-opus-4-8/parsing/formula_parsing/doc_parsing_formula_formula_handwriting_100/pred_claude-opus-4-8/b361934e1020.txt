@@ -1,0 +1,15 @@
+$$(??) \simeq \int_{|y|<1} |x-y|^{-d+a-1} \frac{\delta_B(y)^{a/2}}{\gamma B(x,y)^a} |y-w|^{-d+a-\beta} \frac{\delta_B(w)^{a/2}}{\gamma B(y,w)^{a/2}} \left(1 \vee \frac{|y-w|^{\beta-a/2}}{\delta_B(y)^{\beta-a/2}}\right) dy$$
+
+$$\leq \int_{|y|<1, |y-w| \geq \delta_B(y)} \frac{\delta_B(w)^{a/2}}{|x-y|^{d-a+1}|w-y|^{d-a+\beta}} \cdot \frac{|w-y|^{\beta-a/2} \delta_B(y)^{a-\beta}}{\gamma B(y,w)^{a/2}} dy$$
+
+$$+ \int_{|y|<1, |y-w|<\delta_B(y)} \frac{\delta_B(w)^{a/2}}{|x-y|^{d-a+1}|w-y|^{d-a+\beta}} \cdot \frac{\delta_B(w)^{a/2}}{\gamma B(x,y)^a \gamma B(y,w)^{a/2}} dy$$
+
+$$\lesssim \delta_B(w)^{a/2} \int_{|y|<1, |y-w| \geq \delta_B(y)} |x-y|^{-d+a-1} |y-w|^{-d+a-\beta} dy$$
+
+$$+ \delta_B(w)^{a/2} \int_{|y|<1, |y-w|<\delta_B(y)} |x-y|^{-d+a-1} |y-w|^{-d+a-\beta} dy$$
+
+$$= \delta_B(w)^{a/2} \int_{|y|<1} |x-y|^{-d+a-1} |y-w|^{-d+a-\beta} dy$$
+
+$$\lesssim \delta_B(w)^{a/2} |x-w|^{-d+(a-1)\wedge(a-\beta)} \int_{|y|<1} \left(|x-y|^{a-1-(a-1)\wedge(a-\beta)} + |y-w|^{a-\beta-(a-1)\wedge(a-\beta)}\right) dy$$
+
+$$\lesssim |x-w|^{-d+(a-1)\wedge(a-\beta)} \delta_B(w)^{a/2}$$

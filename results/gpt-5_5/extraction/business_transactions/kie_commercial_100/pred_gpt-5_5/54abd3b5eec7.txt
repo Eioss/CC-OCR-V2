@@ -1,0 +1,11 @@
+{
+  "date_issue": "12/4/98",
+  "order_id": "8119 (2:2)",
+  "customer_order_id": "AS-98-01",
+  "vendor_name": "Wolf/Altschul/Callahan Inc.",
+  "vendor_address": "60 Madison Ave. NY, NY 10010-1600",
+  "customer_billing_name": "Mr. Harvey Gordin",
+  "customer_billing_address": "RJR\nBowman Gray Technical Ctr. - Bldg. 611-12\nReynold Blvd & Shore Fair\nWinston Salem, NC 27102",
+  "amount_total_gross": "$70,265.00",
+  "amount_due": "$35,265.00"
+}

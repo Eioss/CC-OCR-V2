@@ -1,0 +1,135 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>竣工验收申请报告</title>
+    <style>
+        body {
+            font-family: "SimSun", "Songti SC", serif; /* 使用宋体以匹配公文风格 */
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: normal;
+            letter-spacing: 2px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            border: 2px solid #000; /* 外边框加粗 */
+        }
+        td {
+            border: 1px solid #000;
+            padding: 15px 10px;
+            vertical-align: middle;
+            height: 30px;
+        }
+        .label {
+            text-align: left;
+            width: 15%;
+            font-size: 16px;
+        }
+        .content {
+            text-align: left;
+            font-family: "KaiTi", "STKaiti", cursive; /* 手写体模拟 */
+            font-size: 18px;
+        }
+        .center-text {
+            text-align: center;
+        }
+        .report-section {
+            height: 400px;
+            vertical-align: top;
+            position: relative;
+        }
+        .report-inner {
+            padding: 20px;
+            line-height: 2;
+            font-size: 16px;
+        }
+        .stamps-area {
+            position: absolute;
+            bottom: 30px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 40px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        .handwritten-date {
+            font-family: "KaiTi", "STKaiti", cursive;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>竣工验收申请报告</h1>
+    <table>
+        <!-- Row 1 -->
+        <tr>
+            <td class="label">项目名称</td>
+            <td class="content" colspan="2">2021年道路维修<br>一期一标段</td>
+            <td class="label">施工范围</td>
+            <td class="content">千童大道</td>
+        </tr>
+        <!-- Row 2 -->
+        <tr>
+            <td class="label">监理单位</td>
+            <td class="content" colspan="2"></td>
+            <td class="label">施工单位</td>
+            <td class="content">中安城投建设<br>有限公司</td>
+        </tr>
+        <!-- Row 3 -->
+        <tr>
+            <td class="label">开工时间</td>
+            <td class="content" colspan="2"></td>
+            <td class="label">竣工时间</td>
+            <td class="content"></td>
+        </tr>
+        <!-- Row 4 (Merged Report Section) -->
+        <tr>
+            <td class="label center-text">竣工报告<br>申请说明</td>
+            <td colspan="4" class="report-section">
+                <div class="report-inner">
+                    <p>一、工程概况 &nbsp;&nbsp;<span class="content">千童大道</span></p>
+                    <br>
+                    <p>二、工程现已完工，并自检、初验合格。申<br>请沧州市市政设施管理中心组织竣工验收。</p>
+                </div>
+                <div class="stamps-area">
+                    <span>监理单位盖章</span>
+                    <span>施工单位盖章</span>
+                </div>
+            </td>
+        </tr>
+        <!-- Row 5 -->
+        <tr>
+            <td class="label">申请单位</td>
+            <td class="content" colspan="2">中安城投建设有限公司.</td>
+            <td class="label"></td>
+            <td class="content"></td>
+        </tr>
+        <!-- Row 6 -->
+        <tr>
+            <td class="label">申请日期</td>
+            <td class="content handwritten-date">2022年5月7日.</td>
+            <td class="label">联系方式</td>
+            <td class="content handwritten-date" colspan="2">15030768706</td>
+        </tr>
+    </table>
+</div>
+
+</body>
+</html>
+```

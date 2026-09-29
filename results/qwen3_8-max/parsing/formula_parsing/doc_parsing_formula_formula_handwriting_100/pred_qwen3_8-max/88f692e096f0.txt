@@ -1,0 +1,17 @@
+ $$| T E _ { 1 } ( x , N ) | \leq c ( N H ^ { \frac { 1 } { 2 } } L ^ { - \frac { 1 } { 2 } } + L ^ { \frac { 1 } { 2 } } )$$
+
+ $$\int _ { Q _ { R } ^ { T - R ^ { m } , \pi } } u ^ { p } d x d t > 0 .$$
+
+ $$\mathcal { L } \left\{ _ { a } ^ { R } \mathcal { G } _ { t } ^ { \alpha } f ( t ) \right\} = \sum _ { k = 0 } ^ { + \infty } \frac { f ^ { ( k ) } ( a ) } { s ^ { k + - \alpha } } \; \frac { e ^ { - a s } \gamma ( k + \alpha + 1 , - a s ) } { \Gamma ( k + \alpha + 1 ) } ,$$
+
+ $$\sum _ { \nu } \left[ \frac { \mu } { \nu } \right] ^ { - \varepsilon } \left[ \frac { \nu } { \lambda } \right] ^ { - \varepsilon } \lesssim _ { \varepsilon } \left( 1 + \log \left[ \frac { \mu } { \nu } \right] \right) \left[ \frac { \mu } { \nu } \right] ^ { - \varepsilon } = C _ { \mu / \nu } .$$
+
+ $$x \longmapsto x \tilde { V } ^ { \prime } ( x ) = x V ^ { \prime } ( x ) + \int \frac { x } { x - s } \, d \nu ^ { * } ( s )$$
+
+ $$\begin{array} { r l } { \Phi _ { R } + \Phi _ { R } ^ { * } } & { { } = 2 \times \operatorname { R e } \left\{ \Phi _ { R } \right\} , } \\ { \Phi _ { R } - \Phi _ { R } ^ { * } } & { { } = 2 i \times \operatorname { I m } \left\{ \Phi _ { R } \right\} , } \end{array}$$
+
+ $$\sigma ( A _ { i } ) = A _ { i } \, , \, \, \sigma ( B _ { i } ) = B _ { i } + A _ { i } ^ { e _ { i } }$$
+
+ $$\phi ( r ) = \int _ { 0 } ^ { r } \chi ^ { 2 } ( \frac { s } { 2 R } ) d s = \int _ { 0 } ^ { r } \psi ( \frac { s } { 2 R } ) d s ,$$
+
+ $${ \frac { 1 } { b - a } } \int _ { a } ^ { b } f ( x ) d x \leq \operatorname* { m i n } { \Big \{ } L { \bigg ( } f ( a ) , f { \Big ( } { \frac { b } { m } } { \Big ) } ^ { m } { \bigg ) } , \, L { \bigg ( } f ( b ) , f { \Big ( } { \frac { a } { m } } { \Big ) } ^ { m } { \bigg ) } { \Big \} } ,$$

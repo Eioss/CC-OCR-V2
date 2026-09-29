@@ -1,0 +1,10 @@
+$$\begin{cases}
+\tilde{\gamma}_0(\zeta)(z,w) &= \dfrac{z_0+\bar{z}_0}{2}-t_{z_a}A z_a=0,\\[2mm]
+\tilde{\gamma}_0(\zeta)(z,w) &= i\dfrac{w_0}{\zeta}-i\zeta\overline{w_0}=0,\\[2mm]
+\tilde{\gamma}_2(\zeta)(z,w) &= (w_1-2w_0\partial_{z_1}\gamma(z))+(\overline{w_1-2w_0\partial_{z_1}\gamma(z)})=0,\\
+\vdots & \qquad \vdots\;\vdots\\[1mm]
+\tilde{\gamma}_{n+1}(\zeta)(z,w) &= (w_n-2w_0\partial_{z_n}\gamma(z))+(\overline{w_n-2w_0\partial_{z_n}\gamma(z)})=0,\\[2mm]
+\tilde{\gamma}_{n+2}(\zeta)(z,w) &= i(w_1-2w_0\partial_{z_1}\gamma(z))-i(\overline{w_1-2w_0\partial_{z_1}\gamma(z)})=0,\\
+\vdots & \qquad \vdots\;\vdots\\[1mm]
+\tilde{\gamma}_{2n+1}(\zeta)(z,w) &= i(w_n-2w_0\partial_{z_n}\gamma(z))-i(\overline{w_n-2w_0\partial_{z_n}\gamma(z)})=0,
+\end{cases}$$

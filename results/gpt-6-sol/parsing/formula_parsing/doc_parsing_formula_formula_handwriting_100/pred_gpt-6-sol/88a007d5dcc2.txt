@@ -1,0 +1,31 @@
+\[
+\begin{aligned}
+\mathbb{E}\bigl\|A^\eta[X_i(t)-X_i(s)]\bigr\|^2
+\leq{}&
+\bigl(4l_i^2-\rho_{\eta+\rho+\beta}^{1/2}\bigr)
+\mathbb{E}\|A^\beta\xi\|_\varepsilon^2
+\,\varepsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}\\
+&+4\left[
+\frac{L^{1-\rho}\eta+\rho B(\beta,1-\eta-\rho)}{\rho}
++\bigl(\eta B(\eta+\rho,1-\eta)\bigr)^2
+\right]
+\mathbb{E}\|F_i\|_{B_{0,\varepsilon}}^2
+\,\varepsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}\\
+&+\frac{8l_i^2-\rho^2\eta+\rho C_{F_2}^2k^{-2}
+B(1+2\beta-2\eta,1-\eta-\rho)}
+{\rho^2(1-\eta-\rho)}
+\max\!\left\{\varepsilon^{2(1+\beta-2\eta-\rho)},
+T_{\mathrm{loc}}^{2(1+\beta-2\eta-\rho)}\right\}
+(t-s)^{2\rho}\\
+&+\frac{8l_i^2-\rho^2\eta+\rho\mathbb{E}\|F_2(0)\|^2}
+{1-2\eta}\,
+T_{\mathrm{loc}}^{2(1-\eta-\rho)}(t-s)^{2\rho}\\
+&+8l_i^2\eta^2 C_{F_2}^2k^{-2}
+B\!\left(\tfrac12+\beta,1-2\eta\right)
+T_{\mathrm{loc}}^{\frac12+\beta-2\eta}
+(t-s)^{\frac32+\beta-2\eta}\\
+&+\frac{8l_i^2\eta^2\mathbb{E}\|F_2(0)\|^2}{1-2\eta}
+(t-s)^{2(1-\eta)},
+\qquad \varepsilon\leq s<t\leq T_{\mathrm{loc}}.
+\end{aligned}
+\]

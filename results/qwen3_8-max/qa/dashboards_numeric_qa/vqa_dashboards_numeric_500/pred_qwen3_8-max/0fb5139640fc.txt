@@ -1,0 +1,10 @@
+Based on the infographic provided, under the section **"COVID-19 in China"**:
+
+*   Total reported cases: **75,569**
+*   Cases in Chinese mainland: **75,467** (which is 99% of the total)
+
+To find the number of reported cases *not* from Chinese Mainland, subtract the mainland cases from the total:
+
+75,569 - 75,467 = **102**
+
+Therefore, the number of reported cases which were not from Chinese Mainland was **102**.

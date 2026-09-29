@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+\operatorname{Tr}\!\left[(A_m\otimes A_n)R_{AB}\right]
+&=\operatorname{Tr}\!\left\{(A_m\otimes A_n)
+\left[\left(P_A\otimes\frac{I}{2}\right)E_{AB}
++E_{AB}\left(P_A\otimes\frac{I}{2}\right)\right]\right\}\\
+&=\frac12\left[
+\operatorname{Tr}\!\left((A_mP\otimes A_n)E_{AB}\right)
++\operatorname{Tr}\!\left((A_m\otimes A_n)E_{AB}(P\otimes I)\right)
+\right]\\
+&=\frac12\left[
+\sum_{ij}\operatorname{Tr}(A_mP|i\rangle\langle j|)
+ \operatorname{Tr}\!\left(A_n\xi_{AB}(|i\rangle\langle j|)\right)
++\sum_{ij}\operatorname{Tr}(A_m|i\rangle\langle j|P)
+ \operatorname{Tr}\!\left(A_n\xi_{AB}(|i\rangle\langle j|)\right)
+\right]\\
+&=\frac12\sum_{ij}
+\langle j|(A_mP+PA_m)|i\rangle\,
+\operatorname{Tr}\!\left(A_n\sum_k V_k|i\rangle\langle j|V_k^\dagger\right)\\
+&=\frac12\operatorname{Tr}\!\left[(A_mP+PA_m)
+\sum_k V_k^\dagger A_nV_k\right]\\
+&=\frac12\operatorname{Tr}\!\left[(A_mP+PA_m)\xi_{AB}^{\dagger}(A_n)\right]\\
+&=\langle A_mA_n\rangle_{\mathrm{seq}}.
+\end{aligned}
+\]

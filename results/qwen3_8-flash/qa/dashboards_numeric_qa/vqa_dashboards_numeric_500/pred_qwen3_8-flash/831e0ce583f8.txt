@@ -1,0 +1,21 @@
+Looking at the top section of the infographic, titled **“THE 20 MOST POPULAR BEERS IN AMERICA”**, the beers are arranged in rows of 5.
+
+The **third row** contains:
+
+- #11: Modelo Especial → **can**
+- #12: Keystone Light → **can**
+- #13: Miller High Life → **can** (though it’s often sold in bottles, here it’s depicted as a can)
+- #14: Natural Ice → **can**
+- #15: Bud Light Platinum → **bottle**
+
+So, counting only the **cans** in the third row:
+
+✅ Modelo Especial — can  
+✅ Keystone Light — can  
+✅ Miller High Life — can  
+✅ Natural Ice — can  
+❌ Bud Light Platinum — bottle
+
+---
+
+### ✅ Final Answer: **4 beer cans** in the third row.

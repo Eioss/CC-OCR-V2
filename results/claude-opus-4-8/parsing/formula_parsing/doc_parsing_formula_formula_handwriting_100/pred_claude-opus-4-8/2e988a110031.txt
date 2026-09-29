@@ -1,0 +1,38 @@
+\[
+\int_{\Omega} u + (x)(\Delta a)^{S}\varphi(x)\,dx \leq \int_{\{f \geq 0\}} \bar{r}_{\varepsilon}(u(x))f(x)\varphi(x)\,dx + \int_{\{f < 0\}} \underline{r}_{\varepsilon}(u(x))f(x)\varphi(x)\,dx.
+\]
+
+\[
+W_{\psi}^{H}[f](a,x,\theta) = a^{-1}\int_{\mathbb{R}^{2}} f(x)\, e^{\frac{i}{2b_{1}}(x_{a}^{2}-y_{a}^{2})}\,\overline{\psi(r-\theta\cdot a^{-1}(x-y))}\; e^{\frac{i}{2b_{1}}(x_{1}^{2}-y_{1}^{2})}\,dx.
+\]
+
+\[
+\psi(\rho_{A}) = \frac{-(8\cos^{2}(\alpha_{2})+1)+\delta}{-(8\cos^{2}(\alpha_{2})+1)-\delta} = \frac{tr(U)+1-\delta}{tr(U)+1+\delta} \tag{3.11}
+\]
+
+\[
+\frac{1}{\delta} + \frac{\tau u(\tau)}{4} \leq \frac{\left|\,\mathcal{D}_{t}\left(1,\frac{r^{2}}{128L},\,x_{t}\right)\right|}{\left|\,\mathcal{D}_{t}\left(\frac{r^{2}}{128L},\,x_{t}\right)\right|}
+\]
+
+\[
+\widetilde{V}(t+T_{7},M^{0}) \geq u(t+T_{6},M^{0}) \quad \text{for } t \geq 0,
+\]
+
+\[
+\left(\int_{0}^{t_{1}} s(t_{1}-\tau)\,B u(\tau)\,d\tau, g\right) = \int_{0}^{t_{1}}\left(s(t_{1}-\tau)\,B u(\tau),g\right)d\tau.
+\]
+
+\[
+T_{t}(t) = \alpha_{2}\delta(t)-(\alpha_{t}+1)\left(\frac{\gamma_{S}}{2}+\lambda\Delta_{CLS}\right)
+\]
+\[
+\times\, e^{-t(\omega_{t}+\Delta_{CLS})t_{e}}-\Gamma_{e}t\;\Theta(t),
+\]
+
+\[
+\frac{h_{K}}{\rho_{K}} \leq C_{S} \quad \forall K \in T \text{ and } \forall T \in F,
+\]
+
+\[
+v^{\top}Q^{(k+1,k+1)}v = v^{\top}D^{(k+1,k+1)}v - v^{\top}\beta^{(k+1,k+1)}v + zv^{\top}v - \lambda\left(v^{\top}1\right)^{2}
+\]

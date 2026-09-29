@@ -1,0 +1,13 @@
+Based on the flowchart provided in the image, let's trace the path for "Potential" to find the number for "Potential Remaining in Mailfile".
+
+1.  Start at the top with **MAILFILE: 100,000**.
+2.  Follow the right-hand branch labeled **Potential in MAILFILE: 500**.
+3.  Below that is **Calculated Potential Universe: 3,960**.
+4.  Then comes **Promotion Penetration: 12.6%**.
+5.  Next is **Maximum Allowable: 238**.
+6.  Then it says **Randomly Suppress 262 Potential from Mailfile**.
+7.  Finally, the box below that reads: **Potential Remaining in Mailfile: 238**.
+
+---
+
+The number for the potential remaining in mail file is **238**.

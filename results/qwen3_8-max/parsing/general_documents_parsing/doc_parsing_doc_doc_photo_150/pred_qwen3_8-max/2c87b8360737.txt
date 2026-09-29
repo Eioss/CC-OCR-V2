@@ -1,0 +1,97 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{array}
+
+\begin{document}
+
+(vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+Mother: Why are you looking so worried? \\
+Daughter: My exams are approaching.
+
+In response to the question of the mother, the daughter replied that \underline{\hspace{5cm}}.
+
+\vspace{0.5cm}
+
+(viii) Identify the error in the given sentence:
+
+The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+Use the given format for your response
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+(ix) Ritu and Randeep are talking. Report Ritu's question.
+
+Ritu: Where are you going?
+
+Ritu asked \underline{\hspace{5cm}}.
+
+\vspace{0.5cm}
+
+(x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\underline{\hspace{3cm}} smile and pass it to others.
+
+\begin{tabular}{ll}
+(a) Happy & (b) Short \\
+(c) Always & (d) Humble
+\end{tabular}
+
+\vspace{0.5cm}
+
+(xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+Anil: Where are you going? \\
+Sanjeev: To the airport. \\
+Anil: May I drop you there as I'm going in that direction?
+
+Anil asked Sanjeev where he was going and offered to drop him as \underline{\hspace{5cm}}.
+
+\begin{enumerate}
+    \item[(a)] he could be going in that direction.
+    \item[(b)] he would be going in the direction.
+    \item[(c)] he is going in the direction
+    \item[(d)] he was going in that direction
+\end{enumerate}
+
+\vspace{0.5cm}
+
+(xii) Identify the error in the newspaper headline.
+
+Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+Use the given format for your response:
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\hfill CL X/ PB-I /ENG/PAC
+
+\begin{center}
+\textcircled{6}
+\end{center}
+
+\end{document}
+```

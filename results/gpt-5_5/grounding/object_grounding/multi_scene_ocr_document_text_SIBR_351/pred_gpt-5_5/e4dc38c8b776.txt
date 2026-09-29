@@ -1,0 +1,18 @@
+[
+  {"bbox_2d": [336, 97, 664, 153], "label": "Title"},
+  {"bbox_2d": [225, 203, 493, 218], "label": "Company Name"},
+  {"bbox_2d": [136, 227, 575, 243], "label": "Address"},
+  {"bbox_2d": [792, 207, 881, 220], "label": "CONTRACT NO."},
+  {"bbox_2d": [768, 229, 856, 243], "label": "SIGNED AT"},
+  {"bbox_2d": [705, 249, 849, 263], "label": "DATE"},
+  {"bbox_2d": [229, 282, 530, 300], "label": "SELLERS"},
+  {"bbox_2d": [175, 301, 756, 316], "label": "ADD"},
+  {"bbox_2d": [135, 392, 244, 406], "label": "Description of goods"},
+  {"bbox_2d": [391, 392, 488, 406], "label": "Quantity"},
+  {"bbox_2d": [543, 392, 650, 406], "label": "Price"},
+  {"bbox_2d": [701, 392, 822, 406], "label": "Amount"},
+  {"bbox_2d": [213, 430, 388, 443], "label": "Packing"},
+  {"bbox_2d": [135, 450, 925, 485], "label": "Shipment"},
+  {"bbox_2d": [239, 488, 532, 502], "label": "Insurance"},
+  {"bbox_2d": [221, 509, 389, 522], "label": "Payment"}
+]

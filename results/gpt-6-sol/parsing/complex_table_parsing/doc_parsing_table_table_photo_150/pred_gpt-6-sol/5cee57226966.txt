@@ -1,0 +1,65 @@
+<table>
+  <tr>
+    <td></td>
+    <td>Algorithm</td>
+    <td>Convergence Rate</td>
+    <td>Compression<sup>a</sup></td>
+    <td>Trans. Compl.<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td rowspan="2">LB</td>
+    <td>Theorem 1 + Corollary 1</td>
+    <td>Ω(σ/√(nT) + 1/(δT))</td>
+    <td>Uni/Bidirectional<br>Contractive</td>
+    <td>O(n/δ²)</td>
+  </tr>
+  <tr>
+    <td>Theorem 2 + Corollary 2</td>
+    <td>Ω(σ/√(nT) + (1 + ω)/T)</td>
+    <td>Uni/Bidirectional<br>Unbiased</td>
+    <td>O(n(1 + ω)²)</td>
+  </tr>
+  <tr>
+    <td rowspan="7">UB</td>
+    <td>Theorem 3</td>
+    <td>Õ(σ/√(nT) + 1/(δT))</td>
+    <td>Uni/Bidirectional<br>Contractive</td>
+    <td>Õ(n/δ²)</td>
+  </tr>
+  <tr>
+    <td>Corollary 3</td>
+    <td>Õ(σ/√(nT) + (1 + ω)/T)</td>
+    <td>Uni/Bidirectional<br>Unbiased</td>
+    <td>Õ(n(1 + ω)²)</td>
+  </tr>
+  <tr>
+    <td>Q-SGD [31]</td>
+    <td>O(((1 + ω)σ + ωb²/σ)/√(nT))<sup>†</sup></td>
+    <td>Unidirectional<br>i.i.d. Unbiased</td>
+    <td>–</td>
+  </tr>
+  <tr>
+    <td>MEM-SGD [52]</td>
+    <td>O(σ/√(nT) + G<sup>2/3</sup>/(δ<sup>2/3</sup>T<sup>2/3</sup>) + 1/T)</td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>O(n³/δ⁴)</td>
+  </tr>
+  <tr>
+    <td>Double Squeeze [56]</td>
+    <td>O(1/√(nT) + G<sup>2/3</sup>/(δ<sup>4/3</sup>T<sup>2/3</sup>) + 1/T)</td>
+    <td>Bidirectional°</td>
+    <td>O(n³/δ⁸)</td>
+  </tr>
+  <tr>
+    <td>CSER [61]</td>
+    <td>O(σ/√(nT) + G<sup>2/3</sup>/(δ<sup>2/3</sup>T<sup>2/3</sup>) + 1/T)</td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>O(n³/δ⁴)</td>
+  </tr>
+  <tr>
+    <td>EF21-SGD [24]</td>
+    <td>O(σ/√(δ³T) + 1/(δT))<sup>*</sup></td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>–</td>
+  </tr>
+</table>

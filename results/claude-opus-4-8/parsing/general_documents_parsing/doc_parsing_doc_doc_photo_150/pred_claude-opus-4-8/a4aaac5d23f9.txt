@@ -1,0 +1,94 @@
+# Transcription of Examination Paper
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\begin{document}
+
+\hfill \textbf{Tnkalvi.Net}
+
+\begin{center}
+\textbf{\large 11\textsuperscript{th} COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019}\\[5pt]
+\textbf{Standard - 11} \hfill Reg. No \fbox{~}\fbox{~}\fbox{~}\fbox{~}\fbox{~}\fbox{~}\\[5pt]
+\textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent Time Allowed: 2.30 Hours \hfill Maximum Marks: 70\\
+
+\noindent \textbf{Instructions:}
+\begin{enumerate}[label=\arabic*.]
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline.
+\end{enumerate}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\noindent \textbf{Answer the following questions:} \hfill $15 \times 1 = 15$
+
+\begin{enumerate}[label=\arabic*)]
+    \item The \underline{\hspace{1.5cm}} patterns of questions are commonly known as interrogative sentences.
+    \begin{enumerate}[label=\alph*)]
+        \item 4 \quad b) 3 \quad c) 2 \quad d) 5
+    \end{enumerate}
+    
+    \item A cruise is a journey on a
+    \begin{enumerate}[label=\alph*)]
+        \item ferry \quad b) ocean lines \quad c) ship \quad d) boat
+    \end{enumerate}
+    
+    \item An information paper document is
+    \begin{enumerate}[label=\alph*)]
+        \item brochure \quad b) pamphlet \quad c) itinerary \quad d) notice
+    \end{enumerate}
+    
+    \item The pair of words 'united-untied' is an example of
+    \begin{enumerate}[label=\alph*)]
+        \item homograph \quad b) contranyms \quad c) homophones \quad d) antigrams
+    \end{enumerate}
+    
+    \item A \underline{\hspace{1.5cm}} is a short informal performance intended to educate or inform.
+    \begin{enumerate}[label=\alph*)]
+        \item play \quad b) parody \quad c) skit \quad d) drama
+    \end{enumerate}
+    
+    \item The association of one word with multiple meanings is known as \underline{\hspace{1.5cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item polygenesis \quad b) polysemy \quad c) polycentric \quad d) polynomial
+    \end{enumerate}
+    
+    \item The process of reading quickly to get the specific information from a given text.
+    \begin{enumerate}[label=\alph*)]
+        \item decoding \quad b) scanning \quad c) encoding \quad d) skimming
+    \end{enumerate}
+    
+    \item One who treats old people
+    \begin{enumerate}[label=\alph*)]
+        \item geriatrician \quad b) pediatrician \quad c) neurologist \quad d) pathologist
+    \end{enumerate}
+    
+    \item Epitasis means
+    \begin{enumerate}[label=\alph*)]
+        \item gum disease \quad b) iron deficiency \quad c) nose bleed \quad d) feverishness
+    \end{enumerate}
+    
+    \item Bluefin is a type of \underline{\hspace{1.5cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item bass \quad b) cod \quad c) gold \quad d) tuna
+    \end{enumerate}
+    
+    \item Hud Herd cyclone is named after a bird \underline{\hspace{1.5cm}}.
+    \begin{enumerate}[label=\alph*)]
+        \item Hawk \quad b) Heron \quad c) Hoopoe \quad d) Hainan
+    \end{enumerate}
+\end{enumerate}
+
+\begin{center}
+\footnotesize \textcolor{blue}{Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com}
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,116 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage[margin=2.5cm]{geometry}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\large Argumentative Essay Structure}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 1: Introduction
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] Background
+            \item[-] (a) Overview of current situation/ Context based on question
+            \item[-] (b) Contextual Definition of key terms (if necessary)
+            \item[-] (c) Why this issue is interesting/significant
+            \begin{itemize}[label=-, leftmargin=*, nosep]
+                \item Persuasive techniques: Hook (Statistics/ Facts/ Social trends from credible sources)/ Anecdote / Rhetorical question / Relevant Quote/ Astounding statement/ Alliteration/ Addressing reader in second person pronoun/ Figurative language)
+            \end{itemize}
+            \item[-] (d) Comparison of different viewpoints (if necessary)
+            \item[-] (e) My Stand: Using synonyms (varied vocab) to rephrase question \& defining a boundary for discussion
+            \item[-] (f) Summarised Points (of 3 supporting reasons)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\vspace{1em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 2: Point 1 (Most significant/strongest point)
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] State Point (topic sentence)
+            \item[-] Give Explanation and Elaboration of Point
+            \item[-] Example 1 to support Point
+            \item[-] Explanation and Elaboration of Example 1
+            \item[-] Example 2 to support Point (if necessary)
+            \item[-] Explanation and Elaboration of Example 2 (if necessary)
+            \item[-] Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\vspace{1em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 3: Point 2 (Second most significant/ strongest point)
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] State Point (topic sentence)
+            \item[-] Give Explanation and Elaboration of Point
+            \item[-] Example 1 to support Point
+            \item[-] Explanation and Elaboration of Example 1
+            \item[-] Example 2 to support Point (if necessary)
+            \item[-] Explanation and Elaboration of Example 2 (if necessary)
+            \item[-] Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\vspace{1em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 4: Counterargument and Rebuttal
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] An argument, usually a popular or common argument, that someone will use to tear down one of your topic sentence or your stand (addressing the other side of the argument to make it seem 'balanced')
+            \item[-] A rebuttal to crush/demolish/defeat the counterargument (as a defence of your stand/supporting points)
+            \item[-] Explanation \& Examples to support and show why your supporting argument/stand is still stronger
+            \item[-] Link (use synonyms (varied vocab) to re-emphasise stand)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\vspace{1em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 5: Point 3 (Third most significant/ strongest point)
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] State Point (topic sentence)
+            \item[-] Give Explanation and Elaboration of Point
+            \item[-] Example 1 to support Point
+            \item[-] Explanation and Elaboration of Example 1
+            \item[-] Example 2 to support Point (if necessary)
+            \item[-] Explanation and Elaboration of Example 2 (if necessary)
+            \item[-] Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\vspace{1em}
+
+\noindent\fbox{%
+    \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
+        Paragraph 6: Conclusion
+        \begin{itemize}[leftmargin=*, nosep]
+            \item[-] Restate stand (using synonyms (varied vocab) to rephrase question)
+            \item[-] Summarised Points
+            \item[-] End with a bang! - Statistics /Rhetorical question / Relevant Quote/ Astounding statement/ Alliteration/ Addressing reader in second person pronoun/ figurative language
+            \item[-] Suggest something out of the box (a solution/future possibilities) related to topic/question (if applicable)
+        \end{itemize}
+    \end{minipage}%
+}
+
+\end{document}
+```

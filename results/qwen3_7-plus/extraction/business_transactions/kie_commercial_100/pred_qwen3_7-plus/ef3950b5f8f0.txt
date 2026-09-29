@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "10/11/2020",
+    "order_id": "4569858",
+    "vendor_name": "Strategic Media Placement",
+    "vendor_address": "7669 Stagers Loop Delaware, OH 43015",
+    "customer_billing_name": "David Martin MI House of Reps-R (138831)",
+    "customer_billing_address": "Katz/DC, Washington DC (4022)",
+    "amount_total_gross": "$600.00",
+    "amount_due": "$510.00",
+    "payment_terms": "CIA"
+}
+```

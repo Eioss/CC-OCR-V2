@@ -1,0 +1,18 @@
+```json
+[
+  {"bbox_2d": [798, 95, 838, 117], "label": "Room房号"},
+  {"bbox_2d": [798, 134, 845, 157], "label": "Arrival 入住日期"},
+  {"bbox_2d": [798, 168, 845, 192], "label": "Departure 离店日期"},
+  {"bbox_2d": [797, 240, 847, 264], "label": "Confirmation No 确认号"},
+  {"bbox_2d": [791, 275, 845, 298], "label": "Cashier 收银员"},
+  {"bbox_2d": [790, 314, 838, 336], "label": "lnvoice No 账单号"},
+  {"bbox_2d": [62, 165, 339, 268], "label": "地址"},
+  {"bbox_2d": [62, 297, 247, 326], "label": "人名"},
+  {"bbox_2d": [62, 332, 366, 358], "label": "公司名"},
+  {"bbox_2d": [758, 396, 880, 449], "label": "CHARGES 消费"},
+  {"bbox_2d": [987, 396, 1097, 449], "label": "CREDITS 付款"},
+  {"bbox_2d": [62, 443, 159, 491], "label": "DATE 日期"},
+  {"bbox_2d": [167, 443, 432, 491], "label": "REFERENCE 备注"},
+  {"bbox_2d": [515, 855, 718, 879], "label": "Balance 余额"}
+]
+```

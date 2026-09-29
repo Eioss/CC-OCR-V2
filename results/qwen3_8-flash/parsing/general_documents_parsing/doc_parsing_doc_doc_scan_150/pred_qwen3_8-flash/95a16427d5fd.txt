@@ -1,0 +1,125 @@
+```latex
+\begin{center}
+    \includegraphics[width=1.5cm]{emblem.png} \\ % Placeholder for emblem image
+    PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE \\
+    \textbf{\Large THIRD TERM TEST - 2020} \\
+    \textbf{\huge ENGLISH LANGUAGE - I}
+\end{center}
+
+\noindent
+\textbf{Grade 11} \hfill \textbf{One Hour}
+
+\vspace{0.5em}
+\noindent
+\begin{tabular}{|p{0.95\textwidth}|}
+\hline
+Name / Index No. : \\
+\hline
+Answer all questions on this paper itself. \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent
+\textbf{Test-1} \quad Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given. \textit{The first one is done for you.}
+
+\vspace{0.5em}
+\noindent
+\begin{minipage}[t]{0.75\textwidth}
+Postal clerk : What can I do for you today? \\
+Anne : I need to mail this (1) \underline{\hspace{1cm}} (b) to Galle, please. \\
+Postal clerk : OK, let's see how much it (2) \underline{\hspace{3cm}}. Well, It's about 350 grams. \\
+Anne : I need to send it by (3) \underline{\hspace{3cm}} mail. \\
+Postal clerk : If you do so, it will get there (4) \underline{\hspace{3cm}} Or you can send it priority and it will get there by Saturday. \\
+Anne : Saturday is fine. How much will that be? \\
+Postal clerk : Rs.750. Do you (5) \underline{\hspace{3cm}} anything else? \\
+Anne : Oh, yes! I almost forgot. I need a book of (6) \underline{\hspace{3cm}}, too. \\
+Postal clerk : OK, your total is Rs.1950.
+\end{minipage}%
+\begin{minipage}[t]{0.2\textwidth}
+\begin{tabular}{|l|}
+\hline
+(a) want \\
+(b) package \\
+(c) stamps \\
+(d) weighs \\
+(e) express \\
+(f) tomorrow \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+\begin{tabular}{|c|}
+\hline
+Marks \\
+\hline
+1 x 5 \\
+& \\
+& \\
+& \\
+& \\
+Total & 05 \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\vspace{1em}
+
+\noindent
+\textbf{Test-2} \quad Read the following guidelines given by a hotel to its guests and complete them with the correct prepositions given below. \textit{The first one is done for you.}
+
+\vspace{0.5em}
+\begin{center}
+during, till, for, of, from, on
+\end{center}
+
+\vspace{0.5em}
+\noindent
+\begin{minipage}[t]{0.8\textwidth}
+\begin{tabular}{|p{0.95\linewidth}|}
+\hline
+\multicolumn{1}{|c|}{\textbf{The Moon Hotel}} \\
+\multicolumn{1}{|c|}{The following information will help you to have an enjoyable stay:} \\
+\\
+$\diamond$ The restaurant is open daily (1) \underline{\hspace{2cm}} \textbf{from} 6.30 a.m. to 9.30 p.m. \\
+\\
+$\diamond$ You can order breakfast in your room by hanging the Menu card (2) \underline{\hspace{3cm}} the door. \\
+\\
+$\diamond$ If you need a doctor (3) \underline{\hspace{3cm}} the night, please call 100. \\
+\\
+$\diamond$ There is a play room (4) \underline{\hspace{3cm}} kids below 10 years \\
+\\
+$\diamond$ There is free wifi in the rooms and the password is given in the back (5) \underline{\hspace{3cm}} your room key. \\
+\\
+$\diamond$ The main gate is open (6) \underline{\hspace{3cm}} 10.00 p.m. \\
+\hline
+\end{tabular}
+\end{minipage}%
+\begin{minipage}[t]{0.15\textwidth}
+\begin{tabular}{|c|}
+\hline
+Marks \\
+\hline
+1 x 5 \\
+& \\
+& \\
+& \\
+& \\
+Total & 05 \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\vfill
+
+\begin{center}
+(01)
+\end{center}
+
+\vspace{1em}
+\noindent
+\footnotesize
+සංචාර අංශය ලියුම්කරුගේ නාමයෙන් ප්‍රකාශයට පත් කරන ලදී. මෙහි අඩංගු සියලු දේ සංරක්ෂණ පනත යටතේ ආරක්ෂිත වේ.
+\end{document}
+```

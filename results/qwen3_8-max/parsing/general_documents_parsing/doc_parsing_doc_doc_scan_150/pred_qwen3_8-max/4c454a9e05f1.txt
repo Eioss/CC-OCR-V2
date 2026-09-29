@@ -1,0 +1,127 @@
+Based on the image provided, here is the transcription of the text, tables (code blocks), and formatting into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\geometry{a4paper, margin=1in}
+
+% Define colors for syntax highlighting similar to the image
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{sqlblue}{rgb}{0,0,0.8} % For keywords like SET, SELECT
+\definecolor{sqlstring}{rgb}{0.6,0,0} % For strings
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{sqlblue},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{sqlstring},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=none,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+    frame=single,
+    framerule=0pt,
+    xleftmargin=0pt,
+    xrightmargin=0pt,
+    aboveskip=1em,
+    belowskip=1em
+}
+
+\lstset{style=mystyle}
+
+% Custom command for inline code
+\newcommand{\icode}[1]{\texttt{\color{teal}#1}}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Functions That Modify JSON Values}
+\lfoot{2370}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+
+\begin{center}
+    \rule{0.9\textwidth}{0.5pt} \\
+    \vspace{0.5em}
+    \textbf{Functions That Modify JSON Values}
+    \vspace{0.5em} \\
+    \rule{0.9\textwidth}{0.5pt}
+\end{center}
+
+\vspace{1em}
+
+This function was added in MySQL 8.0.3 as a synonym for \icode{JSON\_MERGE()}. The \icode{JSON\_MERGE()} function is now deprecated, and is subject to removal in a future release of MySQL.
+
+This function is similar to but differs from \icode{JSON\_MERGE\_PATCH()} in significant respects; see \href{https://dev.mysql.com/doc/refman/8.0/en/json-modification-functions.html#function_json-merge-patch}{JSON\_MERGE\_PATCH() compared with JSON\_MERGE\_PRESERVE()}, for more information.
+
+\begin{itemize}
+    \item \textbf{\icode{JSON\_REMOVE(json\_doc, path[, path] ...)}}
+    
+    Removes data from a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL}. An error occurs if the \icode{json\_doc} argument is not a valid JSON document or any \icode{path} argument is not a valid path expression or is \texttt{\$} or contains a \texttt{*} or \texttt{**} wildcard.
+    
+    The \icode{path} arguments are evaluated left to right. The document produced by evaluating one path becomes the new value against which the next path is evaluated.
+    
+    It is not an error if the element to be removed does not exist in the document; in that case, the path does not affect the document.
+
+\begin{lstlisting}[language=SQL]
+mysql> SET @j = '["a", ["b", "c"], "d"]';
+mysql> SELECT JSON_REMOVE(@j, '$[1]');
++-------------------------+
+| JSON_REMOVE(@j, '$[1]') |
++-------------------------+
+| ["a", "d"]              |
++-------------------------+
+\end{lstlisting}
+
+    \item \textbf{\icode{JSON\_REPLACE(json\_doc, path, val[, path, val] ...)}}
+    
+    Replaces existing values in a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL}. An error occurs if the \icode{json\_doc} argument is not a valid JSON document or any \icode{path} argument is not a valid path expression or contains a \texttt{*} or \texttt{**} wildcard.
+    
+    The path-value pairs are evaluated left to right. The document produced by evaluating one pair becomes the new value against which the next pair is evaluated.
+    
+    A path-value pair for an existing path in the document overwrites the existing document value with the new value. A path-value pair for a nonexisting path in the document is ignored and has no effect.
+    
+    In MySQL 8.0.4, the optimizer can perform a partial, in-place update of a \icode{JSON} column instead of removing the old document and writing the new document in its entirety to the column. This optimization can be performed for an update statement that uses the \icode{JSON\_REPLACE()} function and meets the conditions outlined in \href{https://dev.mysql.com/doc/refman/8.0/en/json.html#json-partial-updates}{Partial Updates of JSON Values}.
+    
+    For a comparison of \icode{JSON\_INSERT()}, \icode{JSON\_REPLACE()}, and \icode{JSON\_SET()}, see the discussion of \icode{JSON\_SET()}.
+
+\begin{lstlisting}[language=SQL]
+mysql> SET @j = '{ "a": 1, "b": [2, 3]}';
+mysql> SELECT JSON_REPLACE(@j, '$.a', 10, '$.c', '[true, false]');
++-----------------------------------------------------+
+| JSON_REPLACE(@j, '$.a', 10, '$.c', '[true, false]') |
++-----------------------------------------------------+
+| {"a": 10, "b": [2, 3]}                              |
++-----------------------------------------------------+
+\end{lstlisting}
+
+    \item \textbf{\icode{JSON\_SET(json\_doc, path, val[, path, val] ...)}}
+    
+    Inserts or updates data in a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL} or \icode{path}, if given, does not locate an object. An error occurs if the \icode{json\_doc} argument is not
+
+\end{itemize}
+
+\vfill
+\hrule
+\vspace{0.5em}
+2370
+
+\end{document}
+```

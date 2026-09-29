@@ -1,0 +1,26 @@
+\[
+\begin{gathered}
+S_{\omega}\bigl(Z_{\omega,h}(a)\bigr)-S_{\omega}(\Phi_{\omega})
+=
+\left.
+\frac{a^{2}}{2}\frac{d^{2}}{da^{2}}S_{\omega}\bigl(Z_{\omega}(a,h(a))\bigr)
+\right|_{a=\theta a}
+<0,\quad \forall a\in(-a_{1},a_{1}),\\
+t\to+\infty,\quad \operatorname{Im}(\lambda)\to+\infty,\quad
+\zeta_{0}+\zeta_{1}\to -i(\xi',-j),\\
+\zeta_{0}\cdot\zeta_{1}-\lambda\to -\frac12\left(|\xi'|^{2}+j^{2}\right),\\
+n\cdot \mathbb{E}\left(\mathbf{1}_{X_{0}^{\varepsilon}=1}
+\sum_{1\le j\le p-1}X_{j}^{\varepsilon}\ge 1\right)
+\le
+n\sum_{i\ge p}\mathbb{E}\left\{
+\mathbf{1}^{u}_{B_{r}(q)\times S^{1}}
+\mathbf{1}_{B_{r}(q)\times S^{1}}\circ f^{i}
+\right\},\\
+0\to ]B[{!}\mathcal{F}'\to \mathcal{F}\to ]\alpha[{*}\mathcal{F}'\to 0,\\
+\|V\|_{X,+}=\sup_{x\in[0,X]}e^{\alpha(X-x)}|V(x)|,\\
+\|V\|_{X,-}=\sup_{x\in[-X,0]}e^{\alpha(X+x)}|V(x)|,\\
+d\langle \hat{Q}\rangle=\operatorname{Tr}\bigl[(d\hat{\rho}_{AB})\hat{H}_{AB}\bigr]=0,\\
+\mu_{w}:=i\mu\nu_{z},\\
+\|\psi-\psi^{\varepsilon}\|_{L^{2}(\mathbb{T}^{2})}<\frac{\varepsilon}{4M}.
+\end{gathered}
+\]

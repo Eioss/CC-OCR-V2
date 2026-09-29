@@ -1,0 +1,19 @@
+```json
+{
+    "menu": [
+        {
+            "item": "BAKSO BNGKS",
+            "unitPrice": "",
+            "quantity": "1",
+            "amount": "15,000"
+        },
+        {
+            "item": "GORENGAN",
+            "unitPrice": "",
+            "quantity": "6",
+            "amount": "6,000"
+        }
+    ],
+    "total": "21,000"
+}
+```

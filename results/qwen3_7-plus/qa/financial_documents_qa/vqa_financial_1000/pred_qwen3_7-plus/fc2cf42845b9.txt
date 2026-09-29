@@ -1,0 +1,10 @@
+Based on the provided document, the **Order Status** is:
+
+**ENTERED**
+
+This is clearly stated in the upper left section of the document:
+```
+ORDER STATUS: ENTERED
+```
+
+Additionally, all the individual line items listed (items 13-18) also show a status of "ENTERED" in the rightmost column.

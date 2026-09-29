@@ -1,0 +1,347 @@
+```html
+<body>
+    <h2>Table 1</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Board</th>
+                <th>Level</th>
+                <th>Element Code</th>
+                <th>Title</th>
+                <th>Grd1</th>
+                <th>Grd2</th>
+                <th>Mark Equiv</th>
+                <th>End1</th>
+                <th>End2</th>
+                <th>Points</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>EDEXL/KS</td>
+                <td>BTEC/1&amp;2</td>
+                <td>BTBX2A</td>
+                <td>Business (2018) (Award)</td>
+                <td>M2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>46</td>
+            </tr>
+            <tr>
+                <td>EDEXL/GC</td>
+                <td>GCSE/9FC</td>
+                <td>1AA0H</td>
+                <td>Arabic Option H</td>
+                <td>9</td>
+                <td></td>
+                <td>272</td>
+                <td></td>
+                <td></td>
+                <td>58</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/DA</td>
+                <td>3430QD</td>
+                <td>Science (Double Award) Cash-in</td>
+                <td>*A</td>
+                <td></td>
+                <td>691</td>
+                <td></td>
+                <td></td>
+                <td>110</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/FC</td>
+                <td>3110QS</td>
+                <td>Geography</td>
+                <td>B</td>
+                <td></td>
+                <td>109</td>
+                <td></td>
+                <td></td>
+                <td>46</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/FC</td>
+                <td>3121QS</td>
+                <td>RS (Catholic Theology &amp; Judaism) Cash-in</td>
+                <td>A</td>
+                <td></td>
+                <td>243</td>
+                <td></td>
+                <td></td>
+                <td>52</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/FC</td>
+                <td>3300PH</td>
+                <td>Mathematics Higher</td>
+                <td>A*</td>
+                <td></td>
+                <td>129</td>
+                <td></td>
+                <td></td>
+                <td>58</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/FC</td>
+                <td>3700QS</td>
+                <td>English Language</td>
+                <td>A</td>
+                <td></td>
+                <td>269</td>
+                <td></td>
+                <td></td>
+                <td>52</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/FC</td>
+                <td>3720QS</td>
+                <td>English Literature Cash-in</td>
+                <td>B</td>
+                <td></td>
+                <td>159</td>
+                <td></td>
+                <td></td>
+                <td>46</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>L1L2/L2</td>
+                <td>955001</td>
+                <td>Additional Mat Level 2</td>
+                <td>M</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>49</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCE</td>
+                <td>WBQ/1&amp;2</td>
+                <td>9009Q0</td>
+                <td>Welsh Bacc National/Found Cashin</td>
+                <td>P2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>0</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCE</td>
+                <td>WBQ/1&amp;2</td>
+                <td>90S9PA</td>
+                <td>Skills Challenge Cert N/F Route A</td>
+                <td>B</td>
+                <td></td>
+                <td>234</td>
+                <td></td>
+                <td></td>
+                <td>46</td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3120UF</td>
+                <td>RS Option 1F Cath. Christ. &amp; Judaism</td>
+                <td></td>
+                <td></td>
+                <td>109 b</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3121U3</td>
+                <td>RS Catholic Christ. &amp; Ethical Themes</td>
+                <td></td>
+                <td></td>
+                <td>134 a</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430U7</td>
+                <td>Science Double Practical Assessment</td>
+                <td></td>
+                <td></td>
+                <td>58 b</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UA</td>
+                <td>Science Double Biology 1 Higher</td>
+                <td></td>
+                <td></td>
+                <td>101 a</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UB</td>
+                <td>Science Double Chemistry 1 Higher</td>
+                <td></td>
+                <td></td>
+                <td>111 a*</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UC</td>
+                <td>Science Double Physics 1 Higher</td>
+                <td></td>
+                <td></td>
+                <td>117 a*</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UD</td>
+                <td>Science Double Biology 2 Higher</td>
+                <td></td>
+                <td></td>
+                <td>104 a</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UE</td>
+                <td>Science Double Chemistry 2 Higher</td>
+                <td></td>
+                <td></td>
+                <td>108 a*</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3430UF</td>
+                <td>Science Double Physics 2 Higher</td>
+                <td></td>
+                <td></td>
+                <td>92 b</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3720U4</td>
+                <td>English Lit Shakespeare</td>
+                <td></td>
+                <td></td>
+                <td>48 a*</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCS</td>
+                <td>GCSE/B</td>
+                <td>3720UB</td>
+                <td>Englit Heritage Drama &amp; Prose Higher</td>
+                <td></td>
+                <td></td>
+                <td>61 b</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCE</td>
+                <td>WBQ/1&amp;2</td>
+                <td>90S9U1</td>
+                <td>Welsh Bacc National/Found Project</td>
+                <td></td>
+                <td></td>
+                <td>132 D2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCE</td>
+                <td>WBQ/1&amp;2</td>
+                <td>90S9U2</td>
+                <td>Welsh Bacc N/F Ent &amp; Employability</td>
+                <td></td>
+                <td></td>
+                <td>D2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WJEC/GCE</td>
+                <td>WBQ/1&amp;2</td>
+                <td>90S9U3</td>
+                <td>Welsh Bacc N/F Global Citizenship</td>
+                <td></td>
+                <td></td>
+                <td>34 P2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Additional Results</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Board</th>
+                <th>Level</th>
+                <th>Subject Code</th>
+                <th>Title</th>
+                <th>Grade</th>
+                <th>Points</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>NCFE</td>
+                <td>GNVQ/F</td>
+                <td>PS3</td>
+                <td>NCFE Level 2 Certificate in Equality and Diversity</td>
+                <td>Pass</td>
+                <td>92</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+```

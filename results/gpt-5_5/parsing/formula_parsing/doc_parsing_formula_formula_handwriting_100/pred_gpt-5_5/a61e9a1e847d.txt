@@ -1,0 +1,30 @@
+\[
+\frac{1}{2}
+\begin{bmatrix}
+(X^U)^T & F_1^T
+\end{bmatrix}
+\begin{bmatrix}
+Q^{UU} & Q^{UF_1} \\
+(Q^{UF_1})^T & Q^{F_1F_1}
+\end{bmatrix}
+\begin{bmatrix}
+X^U \\
+F_1
+\end{bmatrix}
++
+\begin{bmatrix}
+(C^U)^T & C^{F_1}
+\end{bmatrix}
+\begin{bmatrix}
+X^U \\
+F_1
+\end{bmatrix}
+=
+\frac{1}{2}(X^U)^TQ^{UU}X^U
++
+(X^U)^TQ^{UF_1}F_1
++
+(C^U)^TX^U
++
+C^{F_1}F_1
+\]

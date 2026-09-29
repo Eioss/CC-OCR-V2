@@ -1,0 +1,5 @@
+The text '77.16' appears multiple times in this receipt. Here are the locations:
+
+(740, 426, 818, 459) # In the 自理自费 column at the top
+(540, 467, 614, 498) # In the 金额 column for the medication item
+(827, 1106, 901, 1138) # Total amount (合计) on the right side

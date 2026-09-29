@@ -1,0 +1,20 @@
+\[
+\begin{aligned}
+\mathbb{E}\!\left[\sup_{j\in J}\left|E_{j\to x_j}\right|^p\right]
+&=O\!\left(\frac{|\mathcal X|^p}{\delta^p}\right)
++O\!\left(\frac{|\mathcal X|^p}{\xi^p}\right)
++O\!\left(\frac{\xi^p}{(d^r|\mathcal X|)^p}\right),\\
+\nabla^2 \xi_i
+&=\frac12\left[d_i^\gamma+3\left(Cd_i^\gamma+\cdots+O_i^\gamma\right)\right],\\
+\mathcal J(\alpha)
+&:=\|T\alpha-g\|_2^2+2\alpha\langle D\alpha\rangle|C(?)|,\\
+F_2
+&:=\arg_y^S\left(\left(\|F^0\|_{HS}^2(\nu-m)+C(t)+(\varepsilon_i)_p+\cdots\right)
+\frac{(-1)^l(3l+(-1)+1)}{\sqrt{v-p}\sqrt l}\right),\\
+\sum_{j=0}^{N-1}(H_{ij}-w\delta_{ij})c_j&=0,\qquad i=0,1,\cdots,N-1,\\
+H_{ij}&=\int_{-\infty}^{\infty}h_i(q)\hat H h_j(q)\,dq,\qquad
+S_{ij}=\int_{-\infty}^{\infty}g_i(q)g_j(q)\,dq,\\
+E_\phi\{f(G_2)-f(G_1)\}
+&<E_\phi\left(\frac{\pi}{2}\|Q-Q'\|\Delta f(X_j)\right).
+\end{aligned}
+\]

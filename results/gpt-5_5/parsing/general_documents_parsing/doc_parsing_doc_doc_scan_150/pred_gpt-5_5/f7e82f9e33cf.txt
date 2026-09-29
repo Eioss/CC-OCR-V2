@@ -1,0 +1,105 @@
+```latex
+\[
+\begin{array}{ll}
+\multicolumn{2}{l}{\text{formulas for discrete-time LTI signals and systems}}\\[2mm]
+\hline
+\text{name} & \text{formula}\\
+\hline
+\text{area under impulse} & \displaystyle \sum_n \delta(n)=1\\[2mm]
+\text{multiplication by impulse} & f(n)\delta(n)=f(0)\delta(n)\\[2mm]
+\ldots\text{ by shifted impulse} & f(n)\delta(n-n_o)=f(n_o)\delta(n-n_o)\\[2mm]
+\text{convolution} & \displaystyle f(n)*g(n)=\sum_k f(k)g(n-k)\\[2mm]
+\ldots\text{ with an impulse} & f(n)*\delta(n)=f(n)\\[2mm]
+\ldots\text{ with shifted impulse} & f(n)*\delta(n-n_o)=f(n-n_o)\\[2mm]
+\text{transfer function} & \displaystyle H(z)=\sum_n h(n)z^{-n}\\[2mm]
+\text{frequency response} & \displaystyle H^f(\omega)=\sum_n h(n)e^{-j\omega n}\\[2mm]
+\ldots\text{ their connection} &
+\begin{array}[t]{l}
+H^f(\omega)=H(e^{j\omega})\\
+\text{provided unit circle }\subset\text{ ROC}
+\end{array}\\
+\hline
+\end{array}
+\]
+
+\[
+\begin{array}{ll}
+\multicolumn{2}{l}{\text{formulas for continuous-time LTI signals and systems}}\\[2mm]
+\hline
+\text{name} & \text{formula}\\
+\hline
+\text{area under impulse} & \displaystyle \int \delta(t)\,dt=1\\[2mm]
+\text{multiplication by impulse} & f(t)\delta(t)=f(0)\delta(t)\\[2mm]
+\ldots\text{ by shifted impulse} & f(t)\delta(t-t_o)=f(t_o)\delta(t-t_o)\\[2mm]
+\text{convolution} & \displaystyle f(t)*g(t)=\int f(\tau)g(t-\tau)\,d\tau\\[2mm]
+\ldots\text{ with an impulse} & f(t)*\delta(t)=f(t)\\[2mm]
+\ldots\text{ with shifted impulse} & f(t)*\delta(t-t_o)=f(t-t_o)\\[2mm]
+\text{transfer function} & \displaystyle H(s)=\int h(t)e^{-st}\,dt\\[2mm]
+\text{frequency response} & \displaystyle H^f(\omega)=\int h(t)e^{-j\omega t}\,dt\\[2mm]
+\ldots\text{ their connection} &
+\begin{array}[t]{l}
+H^f(\omega)=H(j\omega)\\
+\text{provided }j\omega\text{-axis }\subset\text{ ROC}
+\end{array}\\
+\hline
+\end{array}
+\]
+
+\[
+\begin{array}{ll}
+\multicolumn{2}{l}{\text{useful formulas}}\\[2mm]
+\hline
+\text{name} & \text{formula}\\
+\hline
+\text{Euler's formula} & e^{j\theta}=\cos(\theta)+j\sin(\theta)\\[2mm]
+\ldots\text{ for cosine} & \displaystyle \cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}\\[3mm]
+\ldots\text{ for sine} & \displaystyle \sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}\\[3mm]
+\text{Sinc function} & \displaystyle \operatorname{sinc}(\theta)=\frac{\sin(\pi\theta)}{\pi\theta}\\
+\hline
+\end{array}
+\]
+
+\[
+\begin{array}{lll}
+\multicolumn{3}{l}{\text{Z-transform transform pairs}}\\[2mm]
+\hline
+x(n) & X(z) & \text{ROC}\\
+\hline
+x(n) & \displaystyle \sum_n x(n)z^{-n} & \text{(def.)}\\[2mm]
+\delta(n) & 1 & \text{all }z\\[2mm]
+u(n) & \displaystyle \frac{z}{z-1} & |z|>1\\[3mm]
+a^n u(n) & \displaystyle \frac{z}{z-a} & |z|>|a|\\[3mm]
+-a^n u(-n-1) & \displaystyle \frac{z}{z-a} & |z|<|a|\\[3mm]
+\cos(\omega_o n)u(n) &
+\displaystyle \frac{z^2-\cos(\omega_o)z}{z^2-2\cos(\omega_o)z+1} &
+|z|>1\\[4mm]
+\sin(\omega_o n)u(n) &
+\displaystyle \frac{\sin(\omega_o)z}{z^2-2\cos(\omega_o)z+1} &
+|z|>1\\[4mm]
+a^n\cos(\omega_o n)u(n) &
+\displaystyle \frac{z^2-a\cos(\omega_o)z}{z^2-2a\cos(\omega_o)z+a^2} &
+|z|>|a|\\[4mm]
+a^n\sin(\omega_o n)u(n) &
+\displaystyle \frac{a\sin(\omega_o)z}{z^2-2a\cos(\omega_o)z+a^2} &
+|z|>|a|\\
+\hline
+\end{array}
+\]
+
+\[
+\begin{array}{ll}
+\multicolumn{2}{l}{\text{Z-transform transform properties}}\\[2mm]
+\hline
+x(n) & X(z)\\
+\hline
+a\,x(n)+b\,g(n) & a\,X(z)+b\,G(z)\\[2mm]
+x(n-n_o) & z^{-n_o}X(z)\\[2mm]
+x(n)*f(n) & X(z)F(z)\\
+\hline
+\end{array}
+\]
+
+\[
+\text{Page 8 of 169}
+\]
+```

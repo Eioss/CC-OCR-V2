@@ -1,0 +1,46 @@
+\[
+\begin{aligned}
+&\beta_w^*\left\{
+\frac{
+\rho E[(1-\tau)^2]E(\tau+\eta)
+-\rho^2E[\tau(1-\tau)]E[(1-\tau)\tau]E(\tau)
++\bigl(\rho E[\tau^2]E[(\tau+\eta)(1-\tau)]
+-\rho E[\tau(1-\tau)]E[\tau(\tau+\eta)]\bigr)(1-E(\tau))
+}{
+E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]
+}
+-E(\tau+\eta)\right\}\\
+&+\beta_g^*\left\{
+\frac{
+\rho E[(1-\tau)^2]E[\tau(\tau+\eta)]
+-\rho E[\tau(1-\tau)]E[(\tau+\eta)(1-\tau)]E(\tau)
++\bigl(\rho E[\tau^2]E[(1-\tau)(\tau+\eta)]
+-\rho^2E[\tau(1-\tau)]E[\tau(\tau+\eta)]\bigr)(1-E(\tau))
+}{
+E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]
+}
+-(1-E(\tau+\eta))\right\}\\
+={}&\beta_w^*\left\{
+\frac{
+E[(1-\tau)^2]E(\tau^2)
+-\rho^2E[\tau(1-\tau)]E[\tau(1-\tau)]E(\tau)
++\bigl(\rho E[\tau^2]E[\tau(1-\tau)]
+-\rho E[\tau(1-\tau)]E[\tau^2]\bigr)(1-E(\tau))
+}{
+E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]
+}
+-E(\tau)\right\}\\
+&+\beta_g^*\left\{
+\frac{
+\rho E[(1-\tau)^2]E[\tau(1-\tau)]
+-\rho E[\tau(1-\tau)]E[\tau(1-\tau)]E(\tau)
++\bigl(E[\tau^2]E[(1-\tau)^2]
+-\rho^2E[\tau(1-\tau)]E[\tau(1-\tau)]\bigr)(1-E(\tau))
+}{
+E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]
+}
+-(1-E(\tau))\right\}\\
+={}&\beta_w^*\{E(\tau)+0-E(\tau)\}
++\beta_g^*\{0+(1-E(\tau))-(1-E(\tau))\}=0.
+\end{aligned}
+\]

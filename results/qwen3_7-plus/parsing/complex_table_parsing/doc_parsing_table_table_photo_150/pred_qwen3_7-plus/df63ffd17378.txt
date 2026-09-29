@@ -1,0 +1,340 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+   <thead>
+    <tr>
+     <th colspan="2">模具名称</th>
+     <th>模具位置</th>
+     <th colspan="2">模具名称</th>
+     <th>模具位置</th>
+     <th colspan="2">模具名称</th>
+     <th>模具位置</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td colspan="2">BR998-101 成型</td>
+     <td>R1-1</td>
+     <td colspan="2">BR1188-101 下料</td>
+     <td>R2-3</td>
+     <td colspan="2">BR978-102 下料</td>
+     <td>R3-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR998-101 下料</td>
+     <td>R1-1</td>
+     <td colspan="2">BR900-102 下料</td>
+     <td>R2-3</td>
+     <td colspan="2">BR955-102 下料</td>
+     <td>R4-1</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR005-102 拉包</td>
+     <td>R1-2</td>
+     <td colspan="2">BR1189-101 下料</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1109-102 下料</td>
+     <td>R4-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR005-102 成型</td>
+     <td>R1-2</td>
+     <td colspan="2">BR907-102 下料</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1075-102 成型</td>
+     <td>R4-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">22厚侧板通用成型</td>
+     <td>R1-2</td>
+     <td colspan="2">BR1189-101 成型</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1035-102 下料</td>
+     <td>R4-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">26 通用成型</td>
+     <td>R1-2</td>
+     <td colspan="2">BR1135-102 成型</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1049-102 成型</td>
+     <td>R4-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BH 26 侧板通用成型</td>
+     <td>R1-2</td>
+     <td colspan="2">BR1135-102 下料</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1162-102 下料</td>
+     <td>R4-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BH 32 侧板通用成型</td>
+     <td>R1-2</td>
+     <td colspan="2">BR1137-101 成型</td>
+     <td>R2-3</td>
+     <td colspan="2">BR1135-101 下料</td>
+     <td>R4-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR837-102 下料</td>
+     <td>R1-2</td>
+     <td colspan="2">BR939-102 成型</td>
+     <td>R2-4</td>
+     <td colspan="2">BR960-102-2 下料</td>
+     <td>R4-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR32 侧板通用成型(老)</td>
+     <td>R1-3</td>
+     <td colspan="2">BR939-102 下料</td>
+     <td>R2-4</td>
+     <td colspan="2">BR1135-101 成型</td>
+     <td>R4-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR40 侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1178-101 成型</td>
+     <td>R2-4</td>
+     <td colspan="2">TG188左气室支架成型1</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR32 侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1178-101 下料</td>
+     <td>R2-4</td>
+     <td colspan="2">TG188左气室支架成型2</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1179-101 下料</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1177-102 下料</td>
+     <td>R2-4</td>
+     <td colspan="2">BR906-102 下料</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR16 侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1178-102 成型</td>
+     <td>R2-4</td>
+     <td colspan="2">BR906-102 成型</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">30侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1132-102 下料</td>
+     <td>R2-4</td>
+     <td colspan="2">BR885-102 成型</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">26x1.2料厚侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1055-101 下料</td>
+     <td>R3-1</td>
+     <td colspan="2">BR885-102 下料</td>
+     <td>R4-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">36侧板通用成型</td>
+     <td>R1-3</td>
+     <td colspan="2">BR1055-101 成型</td>
+     <td>R3-1</td>
+     <td colspan="2">BR1139-102 下料</td>
+     <td>R5-1</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1181-101 成型</td>
+     <td>R1-4</td>
+     <td colspan="2">BR1050-101 下料</td>
+     <td>R3-1</td>
+     <td colspan="2">BR1167-102 侧板下料</td>
+     <td>R5-1</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1181-102 下料</td>
+     <td>R1-4</td>
+     <td colspan="2">BR1050-101 成型</td>
+     <td>R3-1</td>
+     <td colspan="2">BR1167-102 成型</td>
+     <td>R5-1</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1179-101 成型</td>
+     <td>R1-4</td>
+     <td colspan="2">BR901-301 成型</td>
+     <td>R3-1</td>
+     <td colspan="2">BR922-102 下料</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1181-101 下料</td>
+     <td>R1-4</td>
+     <td colspan="2">BR901-301 下料</td>
+     <td>R3-2</td>
+     <td colspan="2">BR954-102 下料</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1187-101 下料</td>
+     <td>R1-4</td>
+     <td colspan="2">BR901-301 成型 二手</td>
+     <td>R3-2</td>
+     <td colspan="2">BR1049-102 下料</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1187-101 成型</td>
+     <td>R1-4</td>
+     <td colspan="2">BR901-101 下料</td>
+     <td>R3-2</td>
+     <td colspan="2">BR1143-101 成型</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">12侧板通用成型</td>
+     <td>R1-4</td>
+     <td colspan="2">BR901-301 成型</td>
+     <td>R3-2</td>
+     <td colspan="2">BR873-102 下料</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1187-102 下料</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1034-102 下料</td>
+     <td>R3-3</td>
+     <td colspan="2">BR1143-101 下料</td>
+     <td>R5-2</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1187-102 成型</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1034-102 成型</td>
+     <td>R3-3</td>
+     <td colspan="2">BR1137-101 下料</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1156-101 下料</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1188-101 成型</td>
+     <td>R3-3</td>
+     <td colspan="2">BR1136-101 下料</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1156-101 成型</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1052-102 下料</td>
+     <td>R3-3</td>
+     <td colspan="2">BR1136-101 成型</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1050-102 下料</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1043-101 成型</td>
+     <td>R3-3</td>
+     <td colspan="2">BR885-101 切边</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1051-101 下料</td>
+     <td>R2-1</td>
+     <td colspan="2">BR1043-101 下料</td>
+     <td>R3-3</td>
+     <td colspan="2">BR885-101 拉包</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1051-101 成型</td>
+     <td>R2-1</td>
+     <td colspan="2">BR980-102 下料</td>
+     <td>R3-3</td>
+     <td colspan="2">BR885-101 成型</td>
+     <td>R5-3</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR905-102 下料</td>
+     <td>R2-2</td>
+     <td colspan="2">BR1155-101 下料</td>
+     <td>R3-4</td>
+     <td colspan="2">BR980-101 成型</td>
+     <td>R5-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR900-101 成型</td>
+     <td>R2-2</td>
+     <td colspan="2">BR1154-101 下料</td>
+     <td>R3-4</td>
+     <td colspan="2">BR980-101 切边</td>
+     <td>R5-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR901-102 下料</td>
+     <td>R2-2</td>
+     <td colspan="2">BR1155-101 成型</td>
+     <td>R3-4</td>
+     <td colspan="2">BR980-101 拉包</td>
+     <td>R5-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1159-101 成型</td>
+     <td>R2-2</td>
+     <td colspan="2">BR1154-101 成型</td>
+     <td>R3-4</td>
+     <td colspan="2">BR900-101 下料</td>
+     <td>R5-4</td>
+    </tr>
+    <tr>
+     <td colspan="2">BR1159-101 下料</td>
+     <td>R2-2</td>
+     <td colspan="2">BR972-102 成型</td>
+     <td>R3-4</td>
+     <td colspan="2"></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td colspan="2">BR901-102 成型</td>
+     <td>R2-2</td>
+     <td colspan="2">BR972-102 下料</td>
+     <td>R3-4</td>
+     <td colspan="2"></td>
+     <td></td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

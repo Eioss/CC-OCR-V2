@@ -1,0 +1,18 @@
+```json
+{
+    "date_issue": "2/16/2020",
+    "date_due": "2/16/2020",
+    "order_id": "7238271",
+    "vendor_name": "Sinclair Broadcast Group Inc",
+    "vendor_address": "C/O WLOS PO BOX 206270 DALLAS TX 75320-6270",
+    "customer_id": "7041",
+    "customer_billing_name": "WATERFRONT STRATEGIES",
+    "customer_billing_address": "3050 K ST NW #100 WASHINGTON, DC 20007",
+    "amount_total_net": "$2,847.50",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$3,350.00",
+    "amount_due": "$2,847.50",
+    "tax_detail_net": "($502.50)",
+    "tax_detail_tax": "$0.00"
+}
+```

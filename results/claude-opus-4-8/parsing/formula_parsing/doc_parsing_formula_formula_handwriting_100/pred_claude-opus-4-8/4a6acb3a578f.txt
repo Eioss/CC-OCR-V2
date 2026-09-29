@@ -1,0 +1,15 @@
+$$Q(\theta|\theta^{(r)}) = \sum_{k=1}^{L}\sum_{i=1}^{m}\sum_{j=1}^{n_i} w_{ijk}^{(r)} \log h_k(y_{ij}|x_{ij};\phi_k) + \sum_{i=1}^{m}\sum_{k=1}^{L}\log \pi_{gik}\sum_{j=1}^{n_i}w_{ijk}^{(r)}$$
+
+$$\equiv Q_1(\phi|\theta^{(r)}) + Q_2(\gamma,\pi|\theta^{(r)}).$$
+
+$$\mathcal{E}(\mu) \leq \left\|\frac{v(x+\mu u;\xi_1)-v(x;\xi_2)}{\mu}u + \frac{\mu L_1}{2}\|u\|^2 u\right\|^2$$
+
+$$\leq \left(\frac{v(x+\mu u;\xi_1)-v(x;\xi_2)}{\mu} + \frac{\mu L_1}{2}\|u\|^2\right)^2\|u\|^2.$$
+
+$$T(S) \leq S + T_1(S) + T_2(S,0) + (e+r-1)^2\left(\frac{1}{e^2}+2\right)S.$$
+
+$$G(z,0,T-\Delta,T) = \int_{T-\Delta}^{T} dt\, P(t)G(\eta/2,0,t,T), \quad z > \eta/2,$$
+
+$$x1 = x, \quad (x+y)q = xq+yq, \quad x(q+s) = xq+xs, \quad x(qs) = (xq)s$$
+
+$$a_n\left(\hat{a}_{low}^{0}(t_3,t_4)_n - \hat{a}_{low}^{0}(t_1,t_2)_n\right) \quad \text{converges in law.}$$

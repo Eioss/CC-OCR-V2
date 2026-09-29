@@ -1,0 +1,311 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="4">合同号： Z882103002</td>
+    <td colspan="3">客户姓名： 胡汉博</td>
+    <td colspan="2">套餐模板： Z882103002胡汉博桂林市叠彩区国奥城铂湾17栋10层1004号房</td>
+   </tr>
+   <tr>
+    <td colspan="9">施工地址： 桂林市叠彩区国奥城铂湾17栋10层1004号房</td>
+   </tr>
+   <tr>
+    <th>项目名称</th>
+    <th>单位</th>
+    <th>数量</th>
+    <th>施工单价</th>
+    <th>施工金额</th>
+    <th>项目类型</th>
+    <th colspan="3">材料及工艺要求</th>
+   </tr>
+   <tr>
+    <td>基础人工辅料直接费</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>47478.58</b></td>
+    <td></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <td>水电工程</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>16001</b></td>
+    <td></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <td>安装总箱（含暗装配电箱）（标准）</td>
+    <td>项</td>
+    <td>1</td>
+    <td>600.00</td>
+    <td>600.00</td>
+    <td>人工</td>
+    <td colspan="3">;含漏电保护开关(63A)1个，空气开关(10A-32A)8个，连凿孔及水泥灰砂批荡。</td>
+   </tr>
+   <tr>
+    <td>安装弱电箱（通用）</td>
+    <td>项</td>
+    <td>1</td>
+    <td>200.00</td>
+    <td>200.00</td>
+    <td>人工</td>
+    <td colspan="3">;安装弱电箱（含暗装配电箱），限1个</td>
+   </tr>
+   <tr>
+    <td>阳台、卫生间插座防水盖（标准）</td>
+    <td>个</td>
+    <td>3</td>
+    <td>15.00</td>
+    <td>45.00</td>
+    <td>人工</td>
+    <td colspan="3">;防水面盖</td>
+   </tr>
+   <tr>
+    <td>厨房带开关插座差价（新标准）</td>
+    <td>个</td>
+    <td>10</td>
+    <td>10.00</td>
+    <td>100.00</td>
+    <td>人工</td>
+    <td colspan="3">;带开关插座差价</td>
+   </tr>
+   <tr>
+    <td>6分双联内牙弯头（通用）</td>
+    <td>个</td>
+    <td>2</td>
+    <td>35.00</td>
+    <td>70.00</td>
+    <td>人工</td>
+    <td colspan="3">;</td>
+   </tr>
+   <tr>
+    <td>总水阀（通用）</td>
+    <td>个</td>
+    <td>1</td>
+    <td>130.00</td>
+    <td>130.00</td>
+    <td>人工</td>
+    <td colspan="3">;工艺为从离地300MM墙面出来，离墙150-200MM，45度安装水阀</td>
+   </tr>
+   <tr>
+    <td>电视插座专线（红蓝线管）</td>
+    <td>路</td>
+    <td>1</td>
+    <td>180.00</td>
+    <td>180.00</td>
+    <td>人工</td>
+    <td colspan="3">;含面板；一位电视插座,电视线；II型PVC红蓝线管，强弱电“红蓝线管”分色布管工艺.</td>
+   </tr>
+   <tr>
+    <td>网络插座专线（红蓝线管）</td>
+    <td>路</td>
+    <td>1</td>
+    <td>220.00</td>
+    <td>220.00</td>
+    <td>人工</td>
+    <td colspan="3">;含面板；一位电脑插座，网络线；II型PVC红蓝线管，强弱电“红蓝线管”分色布管工艺.</td>
+   </tr>
+   <tr>
+    <td>USB插座</td>
+    <td>个</td>
+    <td>3</td>
+    <td>98.00</td>
+    <td>294.00</td>
+    <td>人工</td>
+    <td colspan="3">;含面板；一位电话插座，电话线;II型PVC红蓝线管，强弱电“红蓝线管”分色布管工艺.</td>
+   </tr>
+   <tr>
+    <td>4mm2空调/电热水器/其它专线插座（标准）</td>
+    <td>路</td>
+    <td>6</td>
+    <td>260.00</td>
+    <td>1,560.00</td>
+    <td>人工</td>
+    <td colspan="3">;含插座面板；插座线路：ZR-BVV4 mm2（铜芯电线）如客户用7000瓦以上电热水器（使用6平方）；II型PVC红蓝线管，“强弱电”红蓝线管”分色布管工艺.</td>
+   </tr>
+   <tr>
+    <td>水位安装(排污管) (标准)</td>
+    <td>M</td>
+    <td>2</td>
+    <td>74.00</td>
+    <td>148.00</td>
+    <td>人工</td>
+    <td colspan="3">;110mm联塑排水管</td>
+   </tr>
+   <tr>
+    <td>水位安装(排水管) (标准)</td>
+    <td>M</td>
+    <td>14</td>
+    <td>36.00</td>
+    <td>504.00</td>
+    <td>人工</td>
+    <td colspan="3">;50mm联塑排水管</td>
+   </tr>
+   <tr>
+    <td>日丰环保冷热6分给水管（标准）</td>
+    <td>M</td>
+    <td>74</td>
+    <td>65.00</td>
+    <td>4,810.00</td>
+    <td>人工</td>
+    <td colspan="3">;免费赠送水管升级为日丰6分管，开单价65元/米</td>
+   </tr>
+   <tr>
+    <td>开关、插座（通用）</td>
+    <td>位</td>
+    <td>51</td>
+    <td>140.00</td>
+    <td>7,140.00</td>
+    <td>人工</td>
+    <td colspan="3">;计算方法：一控一灯算一位，一控多灯按三灯算一位；T5灯带四米算一位，软管灯带按一电源接线头算一位。带开关的插座；开关控制插座时算一位；开关、插座分开时分开算各一位。内容包括：开、补槽、穿线、暗敷设、安装面板。插座线路：ZR-BVV2.5 m2（铜芯电线）。用料：开关使用ZR-BVV2.5m2线，插座使用ZR-BVV2.5m2线,地线使用ZR-BVV2.5m2双色线；II型PVC红蓝线管，强弱电“红蓝线管”分色布管工艺。</td>
+   </tr>
+   <tr>
+    <td>其他工程</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><b>16584.82</b></td>
+    <td></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <td>天花墙身刷乳胶漆（通用）</td>
+    <td>M2</td>
+    <td>235.87</td>
+    <td>37.00</td>
+    <td>8,727.19</td>
+    <td>人工</td>
+    <td colspan="3">;1、此项套餐面漆开单价¥209元/桶（5L装），此价格内任选限居室刷白色漆。2、批灰，打磨，油三遍（含环保腻子、底漆一遍，面漆二遍），如需要油漆调色，每种色20方内按100元/色，超出20方，按5元/方收取。调色乳胶漆位置，不保修。3、底漆使用5升装 开单价155元/桶；4、客户如需另外在我公司超市内选购，超出套餐指定品牌型号的价格要补差价。5、不含原结构铲灰、铲批荡、水泥批荡费用。6、含阴阳角条处理。7、此项套餐根据选料单三选一。包含阳台墙面</td>
+   </tr>
+   <tr>
+    <td>清扫费（标准）</td>
+    <td>套</td>
+    <td>1</td>
+    <td>400.00</td>
+    <td>400.00</td>
+    <td>人工</td>
+    <td colspan="3">;此部分为纯人工。</td>
+   </tr>
+   <tr>
+    <td>装修垃圾搬运费（标准）</td>
+    <td>套</td>
+    <td>1</td>
+    <td>600.00</td>
+    <td>600.00</td>
+    <td>人工</td>
+    <td colspan="3">;若有小区指定地点</td>
+   </tr>
+   <tr>
+    <td>0增项5不限</td>
+    <td>项</td>
+    <td>105</td>
+    <td>20.00</td>
+    <td>2,100.00</td>
+    <td>人工</td>
+    <td colspan="3">;包含烟管砌砖批荡、阳台外墙水路开槽修补、门头梁、水泥砂超厚、封管、门洞修补、砌门垛、厨卫PPR水管（含在以建筑面积/90*60基础上超出的PPR水管数量，不含回水管）</td>
+   </tr>
+   <tr>
+    <td>地面成品保护（标准）</td>
+    <td>元/m2</td>
+    <td>77.39</td>
+    <td>17.00</td>
+    <td>1,315.63</td>
+    <td>人工</td>
+    <td colspan="3">;1、地面成品保护（材料人工），防潮地毯（地面保护使用）；2、大门保护;开关保护盖、阳台保护、阳角保护；3、水电线路表示带、工地区域间划分或警示。</td>
+   </tr>
+   <tr>
+    <td>门口铺门槛石（通用）</td>
+    <td>M</td>
+    <td>1</td>
+    <td>126.00</td>
+    <td>126.00</td>
+    <td>人工</td>
+    <td colspan="3">;客餐厅门槛大理石，桂林区域没有供应商做成人辅，根据完工照片结算</td>
+   </tr>
+   <tr>
+    <td>门口铺门槛石（通用）</td>
+    <td>M</td>
+    <td>1</td>
+    <td>141.00</td>
+    <td>141.00</td>
+    <td>人工</td>
+    <td colspan="3">;厨房门槛大理石，桂林区域没有供应商做成人辅，根据完工照片结算</td>
+   </tr>
+   <tr>
+    <td>门口铺门槛石（通用）</td>
+    <td>M</td>
+    <td>5</td>
+    <td>75.00</td>
+    <td>375.00</td>
+    <td>人工</td>
+    <td colspan="3">;3房2卫门槛大理石，桂林区域没有供应商做成人辅，根据完工照片结算</td>
+   </tr>
+   <tr>
+    <td>各项厂家安装协调费</td>
+    <td>项</td>
+    <td>1</td>
+    <td>400.00</td>
+    <td>400.00</td>
+    <td>人工</td>
+    <td colspan="3">;厂家安装项目的工地现场协调管理费。</td>
+   </tr>
+   <tr>
+    <td>安装窄窗台大理石（标准）</td>
+    <td>M</td>
+    <td>5.4</td>
+    <td>50.00</td>
+    <td>270.00</td>
+    <td>人工</td>
+    <td colspan="3">;此部分为人工加水泥沙。</td>
+   </tr>
+   <tr>
+    <td colspan="9" style="text-align:center;">第2页/共8页</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

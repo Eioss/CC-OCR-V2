@@ -1,0 +1,23 @@
+```json
+[
+	{"bbox_2d": [67, 108, 665, 143], "label": "Address"},
+	{"bbox_2d": [817, 190, 868, 200], "label": "Arrival入住日期"},
+	{"bbox_2d": [911, 379, 953, 389], "label": "Balance CNY"},
+	{"bbox_2d": [810, 346, 851, 355], "label": "Charges"},
+	{"bbox_2d": [315, 110, 426, 127], "label": "Company Name"},
+	{"bbox_2d": [817, 237, 876, 248], "label": "Confirmation No 确认号"},
+	{"bbox_2d": [68, 339, 121, 349], "label": "Date"},
+	{"bbox_2d": [817, 205, 868, 215], "label": "Departure 离店日期"},
+	{"bbox_2d": [165, 338, 223, 351], "label": "Description"},
+	{"bbox_2d": [309, 140, 411, 153], "label": "Fax 传真"},
+	{"bbox_2d": [817, 221, 887, 231], "label": "Loyalty No 会员号码"},
+	{"bbox_2d": [817, 174, 847, 183], "label": "Room No. 房号"},
+	{"bbox_2d": [131, 137, 237, 150], "label": "Tel 电话"},
+	{"bbox_2d": [913, 415, 953, 425], "label": "Total Amount Before Taxes"},
+	{"bbox_2d": [924, 454, 952, 463], "label": "Total Amount Non Taxable"},
+	{"bbox_2d": [909, 476, 952, 486], "label": "Total Amount with Taxes"},
+	{"bbox_2d": [924, 454, 952, 463], "label": "Total VAT"},
+	{"bbox_2d": [451, 115, 656, 129], "label": "Website"},
+	{"bbox_2d": [560, 130, 665, 142], "label": "邮政编码"}
+]
+```

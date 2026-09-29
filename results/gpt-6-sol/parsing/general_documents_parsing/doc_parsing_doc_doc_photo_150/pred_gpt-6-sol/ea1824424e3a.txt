@@ -1,0 +1,25 @@
+\[
+\begin{array}{ll@{\qquad}ll}
+\text{Season:} & \text{Summer Season 2019} & \text{Series:} & \text{(All)}\\
+\text{Name:} & \text{Anisha} & \text{Year:} & 11\\
+\text{UCI:} & & &
+\end{array}
+\]
+
+\textbf{Exam Results}
+
+\[
+\begin{array}{llllcc}
+\text{Board} & \text{Level} & \begin{array}{c}\text{Element}\\\text{Code}\end{array}
+& \text{Title} & \text{Grd1} & \text{Grd2}\\
+\hline
+\text{AQA} & \text{GCSE/9DA} & \text{8464H} & \text{Combined Sci. Trilogy Tier H} & 99 & \\
+\text{EDEXL/GC} & \text{GCSE/9FC} & \text{1GB0} & \text{Geography B} & 9 & \\
+\text{AQA} & \text{GCSE/9FC} & \text{8062BA} & \text{Religious Studies A Option BA} & 9 & \\
+\text{AQA} & \text{GCSE/9FC} & \text{8668H} & \text{German Tier H} & 9 & \\
+\text{AQA} & \text{GCSE/9FC} & \text{8698H} & \text{Spanish Tier H} & 9 & \\
+\text{AQA} & \text{GCSE/9FC} & \text{8700} & \text{English Language} & 9 & \\
+\text{AQA} & \text{GCSE/9FC} & \text{8702} & \text{English Literature} & 9 & \\
+\text{OCR} & \text{GCSE/9FC} & \text{J560H} & \text{Mathematics (Higher Tier)} & 7 &
+\end{array}
+\]

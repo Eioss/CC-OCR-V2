@@ -1,0 +1,28 @@
+```json
+[
+    {"bbox_2d": [128, 153, 810, 190], "label": "ADD"},
+    {"bbox_2d": [128, 240, 763, 276], "label": "ADD"},
+    {"bbox_2d": [764, 409, 845, 423], "label": "Amount"},
+    {"bbox_2d": [774, 474, 844, 488], "label": "Amount"},
+    {"bbox_2d": [132, 115, 624, 132], "label": "COMPANY NAME"},
+    {"bbox_2d": [135, 213, 601, 229], "label": "COMPANY NAME"},
+    {"bbox_2d": [799, 97, 889, 109], "label": "DATE"},
+    {"bbox_2d": [40, 391, 287, 433], "label": "Description"},
+    {"bbox_2d": [39, 455, 288, 497], "label": "Description"},
+    {"bbox_2d": [782, 78, 874, 90], "label": "NO."},
+    {"bbox_2d": [229, 544, 405, 557], "label": "Port of Loading"},
+    {"bbox_2d": [340, 407, 410, 420], "label": "Quantity"},
+    {"bbox_2d": [349, 472, 409, 485], "label": "Quantity"},
+    {"bbox_2d": [217, 700, 351, 712], "label": "SWIFT CODE"},
+    {"bbox_2d": [232, 34, 590, 53], "label": "TITLE"},
+    {"bbox_2d": [770, 520, 850, 533], "label": "TOTAL"},
+    {"bbox_2d": [246, 174, 457, 188], "label": "TaiwanTEI"},
+    {"bbox_2d": [491, 408, 639, 421], "label": "Unit Price"},
+    {"bbox_2d": [491, 473, 639, 486], "label": "Unit Price"},
+    {"bbox_2d": [201, 570, 348, 584], "label": "三、Trade Term"},
+    {"bbox_2d": [263, 518, 472, 531], "label": "二、Port of Destination"},
+    {"bbox_2d": [184, 635, 348, 648], "label": "五、Shipment"},
+    {"bbox_2d": [293, 682, 837, 697], "label": "六、BENEFICIARY BANK"},
+    {"bbox_2d": [178, 595, 518, 609], "label": "四、Payment"}
+]
+```

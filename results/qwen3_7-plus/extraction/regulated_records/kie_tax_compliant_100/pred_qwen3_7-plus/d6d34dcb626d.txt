@@ -1,0 +1,12 @@
+```json
+{
+    "date": "14/MAY/2017",
+    "doc_no_receipt_no": "59581331715",
+    "seller_address": "NO.49, JALAN DINAR G U3/G, SUBANG PERDANA, 40150 SHAH ALAM, SELANGOR D.E.",
+    "seller_gst_id": "001734164480",
+    "seller_name": "BEMED (SP) SDN. BHD.",
+    "seller_phone": "03-7845 8155",
+    "total_amount": "191.20",
+    "total_tax": "10.14"
+}
+```

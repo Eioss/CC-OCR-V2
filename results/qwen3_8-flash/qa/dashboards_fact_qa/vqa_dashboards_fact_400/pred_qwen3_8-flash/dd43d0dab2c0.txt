@@ -1,0 +1,17 @@
+Based on the "SEARCH ENGINE POPULARITY" section of the infographic (dated August 2014), here are the percentages for each search engine:
+
+*   **Google:** 67%
+*   **Bing:** 19%
+*   **Yahoo:** 10%
+*   **Ask Network:** 2%
+*   **AOL, Inc.:** 1%
+
+The question asks for how many have **less than** 10%.
+
+*   Yahoo is exactly 10%, so it does **not** count.
+*   Ask Network (2%) is less than 10%.
+*   AOL, Inc. (1%) is less than 10%.
+
+Therefore, there are **2** search engines with less than 10% popularity.
+
+**Answer: 2**

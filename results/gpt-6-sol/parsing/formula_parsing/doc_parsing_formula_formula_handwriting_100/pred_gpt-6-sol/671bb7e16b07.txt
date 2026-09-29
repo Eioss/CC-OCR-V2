@@ -1,0 +1,76 @@
+\[
+\begin{aligned}
+\pi(k,z,\theta\mid y,\beta,p,\gamma)
+&\propto
+\frac{(2\pi)^{-n/2}}{\nu^{k+1}\sigma^n}
+p^k(1-p)^{n-k+1}
+\prod_{j=1}^{k+1}
+\left(T_j-T_{j-1}+\frac{1}{\nu^2}\right)^{1/2} \\
+&\quad{}\times
+\exp\left\{
+-\frac{1}{2\sigma^2}
+\left(
+SS_j+\frac{\mu_0^2}{\nu^2}
+-\frac{\left(S_j+\frac{\mu_0}{\nu^2}\right)^2}
+{T_j-T_{j-1}+\frac{1}{\nu^2}}
+\right)
+\right\},
+\\[1em]
+R'_n(t)
+&=
+\frac{\gamma(2^n+p_n^N)}{4}
+\left[
+\left(\frac{1+2^{n-1}y_{n+1}^N}{1+2^ny_n^N}\right)^2-1
+\right](p_{n+1}^N-p_n^N) \\
+&\quad{}-
+\bar{\mu}_n\!\left(A^N(A^N(t)),p^N(t)\right)
+\gamma(2^{n+1}+p_{n+1}^N)
+\left(\frac{1+2^{n+1}y_{n+1}^N}{1+2^ny_n^N}-1\right)
+(p_n^N-p_{n+1}^N),
+\\[1em]
+\operatorname{gen}_{H}(f^z)
+&\leq
+\operatorname{gen}_{H}(f^{eq})
++\#\left\{(-u_1,u_2):
+C_1\leq f'(u_1)\leq C_2,\ f'(u_2)=0
+\right\},
+\\[1em]
+P\!\left(T_*\in A\mid\min_{a\leq t\leq b}X(t)>u\right)
+&=
+\frac{
+\displaystyle\int_0^\infty
+\exp\!\left\{-\frac{u\chi}{\sigma_*^2(a,b)}\right\}
+P\!\left(Y\leq\chi,\min_{a\leq t\leq b}X(t)>0,T_*\in A\right)\,d\chi
+}{
+\displaystyle\int_0^\infty
+\exp\!\left\{-\frac{u\chi}{\sigma_*^2(a,b)}\right\}
+P\!\left(Y\leq\chi,\min_{a\leq t\leq b}X(t)>0\right)\,d\chi
+},
+\\[1em]
+S_j
+&\geq
+\frac{(1+9\varepsilon/10)d_j-2^j}{2^j}
+\geq
+\frac{1+9\varepsilon/10}{1+\varepsilon/10}d_j-1
+\geq
+(1+7\varepsilon/10)d_j,
+\\[1em]
+I^{\mathrm{syn}}(a_1\mathbin{\square}a_2)
+&\leq I^{\mathrm{syn}}(a'_1\mathbin{\square}a'_2),
+\qquad
+O^{\mathrm{syn}}(a_1\mathbin{\square}a_2)
+\leq O^{\mathrm{syn}}(a'_1\mathbin{\square}a'_2),
+\\[1em]
+X&=(0,0,\ldots,0,x_{i+1},\ldots,x_n),
+\\[1em]
+\frac{t_i}{64\left(1+t_i d(\partial\alpha_i,\partial B_R)^{-4}\right)}
+f_{k,i}(x,t)
+&\leq
+\frac{t_i+t/\sigma_i^2}
+{1+(t_i+t/\sigma_i^2)d(\alpha_i+x/\sigma_i^2,\partial B_R)^{-4}}
+f_{k,i}(x,t) \\
+&\leq
+\frac{t_i}{1+t_i d(\alpha_i,\partial B_R)^{-4}}
+f_{k,i}(0,0).
+\end{aligned}
+\]

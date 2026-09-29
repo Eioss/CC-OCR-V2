@@ -1,0 +1,57 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" class="dataframe">
+   <thead>
+    <tr style="text-align: right;">
+     <th>No. of Faculty</th>
+     <th>International level</th>
+     <th>National level</th>
+     <th>State level</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>Attended</td>
+     <td>25</td>
+     <td>100</td>
+     <td>2</td>
+    </tr>
+    <tr>
+     <td>Presented papers</td>
+     <td>17</td>
+     <td>128</td>
+     <td>3</td>
+    </tr>
+    <tr>
+     <td>Resource Persons</td>
+     <td>5</td>
+     <td>51</td>
+     <td>2</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

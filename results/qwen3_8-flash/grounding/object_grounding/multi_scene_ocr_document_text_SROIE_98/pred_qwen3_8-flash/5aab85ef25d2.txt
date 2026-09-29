@@ -1,0 +1,12 @@
+```json
+[
+	{"bbox_2d": [356, 179, 564, 194], "label": "address"},
+	{"bbox_2d": [373, 194, 542, 208], "label": "address"},
+	{"bbox_2d": [365, 208, 549, 221], "label": "address"},
+	{"bbox_2d": [365, 166, 556, 180], "label": "company"},
+	{"bbox_2d": [294, 589, 408, 604], "label": "date"},
+	{"bbox_2d": [296, 475, 465, 489], "label": "total"},
+	{"bbox_2d": [296, 462, 380, 476], "label": "total"},
+	{"bbox_2d": [296, 449, 439, 462], "label": "total"}
+]
+```

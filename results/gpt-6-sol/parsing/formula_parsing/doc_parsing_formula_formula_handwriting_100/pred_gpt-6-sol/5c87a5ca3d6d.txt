@@ -1,0 +1,51 @@
+\[
+\int_{\mathbb R_n} f_2\Delta f_2\,dx
++\int_{\mathbb R_n}\frac{1}{\rho}f_2\partial_t f_2\,dx
++\int_{\mathbb R_n}(5-\cot^2\phi)\frac{f_2^2}{\rho^2}\,dx
+=\int_{\mathbb R_n}\frac{f_2^2}{\rho^4}
+\partial_\rho(\rho^4\sin\phi\,\Omega)\,dx.
+\]
+
+\[
+\begin{aligned}
+|\Delta_{n2}|=\Bigg|
+&\int_{\Lambda_n}\Big[
+\mathbb E\phi(f_{n,b}(x))-\phi(f_\theta(x))
+-\big(\mathbb E f_{n,b}(x)-f_\theta(x)\big)\phi'(f_\theta(x))
+\Big]\,dx\\
+&+\int_{\Lambda_n}\Big[
+\phi(f(x))-\phi(f_\theta(x))-f_\theta(x)\phi'(f_\theta(x))
+\Big]\,dx
+\Bigg|.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+I_1
+&\le C\int_0^t\int_0^\infty
+\frac{R\theta v_x^2}{v^3}\,dx\,ds
++C(\varepsilon)\int_0^t\int_0^\infty
+\frac{\kappa v^2(v-1)\theta_x^2}{v\theta^2}
+\cdot\frac{\theta}{\kappa v^2(v-1)}\,dx\\
+&\le C\int_0^t\int_0^\infty
+\frac{R\theta v_x^2}{v^3}\,dx\,ds+C(\varepsilon).
+\end{aligned}
+\]
+
+\[
+T_n\int h(x)\partial_tP(t,x)\,dx
+\simeq\int h(x)\big(P(t+T,x)-P(t,x)\big)\,dx.
+\]
+
+\[
+\overline{\rho T}\,\varphi_\pm\ne e^{i\omega_\pm}\varphi_\pm,
+\qquad
+\overline{\rho T}\,\tilde{\varphi}_\pm
+=e^{i\tilde{\omega}_\pm}\tilde{\varphi}_\pm.
+\]
+
+\[
+(1-t_{11})\overline T
+=\sum_{m\in\mathbb N}c_m t_1^m.
+\]

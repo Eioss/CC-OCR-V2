@@ -1,0 +1,17 @@
+$$\mathcal{L}W \leq -\frac{\dot{\varphi}}{V}\left(C(n,M_0^n,\rho)\iota_{11}\,tr\iota^{kl} - C(n,M_0^n,\rho)\iota_{11} + C(n,M_0^n,\rho)\right)$$
+
+$$-\frac{\dot{\varphi}}{V}\left(C(n,M_0^n,\rho)\,tr\iota^{ij} + C(n,M_0^n,\rho)\right) - \frac{\lambda\dot{\varphi}}{n}\left[(1+|D\varphi|^2)\iota^{ij}\varphi_i\varphi_j - 2|D\varphi|^2\right]$$
+
+$$+\frac{C_\rho\lambda}{n}\dot{\varphi}\,tr\iota^{ij} - 2\lambda\dot{\varphi} - C(M_0^n)(1-\lambda)\dot{\varphi}\iota_{11}$$
+
+$$-\frac{\dot{\varphi}}{n}\left[2\lambda(1-|D\varphi|^2)\iota^{kl}\varphi_k\varphi_l + C(M_0^n,\rho)(tr\iota^{kl}+1) + C(M_0^n,\rho)\lambda\left(\frac{tr\iota^{kl}}{\iota_{11}}+1\right)\right]$$
+
+$$\leq -\frac{\dot{\varphi}}{V}C(n,M_0^n,\rho)\left(\iota_{11}(tr\iota^{kl}-1)+1\right) - \frac{\lambda\dot{\varphi}}{n}\left[3(1-|D\varphi|^2)\iota^{ij}\varphi_i\varphi_j - 2|D\varphi|^2\right]$$
+
+$$+\frac{C_\rho\lambda}{n}\dot{\varphi}\,tr\iota^{ij} - 2\lambda\dot{\varphi} - C(M_0^n)(1-\lambda)\dot{\varphi}\iota_{11} - \frac{\dot{\varphi}}{n}C(M_0^n,\rho)\lambda\left(\frac{tr\iota^{kl}}{\iota_{11}}+1\right)$$
+
+$$\leq -\frac{\dot{\varphi}}{V}C(n,M_0^n,\rho)\left(\iota_{11}(tr\iota^{kl}-1)+1\right) - \frac{C(M_0^n,\rho)\lambda\dot{\varphi}}{n}(\iota_{11}+1) + \frac{C_\rho\lambda}{n}\dot{\varphi}\,tr\iota^{ij}$$
+
+$$-2\lambda\dot{\varphi} - C(M_0^n)\dot{\varphi}(1-\lambda)\iota_{11} - \frac{\dot{\varphi}}{n}C(M_0^n,\rho)\lambda\left(\frac{tr\iota^{kl}}{\iota_{11}}+1\right)$$
+
+$$\leq -\dot{\varphi}\,tr\iota^{kl}\left(\frac{C(M_0^n,\rho)\lambda}{\iota_{11}} + C(n,M_0^n,\rho)\iota_{11} - \frac{C_\rho\lambda}{n}\right) - C(n,M_0^n,\rho)\dot{\varphi}\left(1+\lambda+(1-\tfrac{1}{2}\lambda)\iota_{11}\right)$$

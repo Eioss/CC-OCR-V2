@@ -1,0 +1,102 @@
+```latex
+\documentclass[10pt]{article}
+
+\usepackage[margin=0.5in]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{tabularx}
+
+\definecolor{headerblue}{RGB}{198,215,236}
+
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.25}
+
+\begin{document}
+
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}p{0.18\textwidth}|>{\centering\arraybackslash}p{0.18\textwidth}|>{\centering\arraybackslash}p{0.11\textwidth}|>{\centering\arraybackslash}p{0.32\textwidth}|>{\centering\arraybackslash}p{0.13\textwidth}|}
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Personal Information}} \\
+\hline
+\textbf{Name} & Songxxxx & \textbf{Objective} & Management Trainee & \multirow{7}{*}{（照片）} \\
+\cline{1-4}
+\textbf{Gender} & Male & \textbf{Birth} & 1993 09 & \\
+\cline{1-4}
+\textbf{Political affiliation} & Party Member & \textbf{Nation} & Han & \\
+\cline{1-4}
+\textbf{Cell no.} & 189----7742 & \textbf{Origo} & Heilongjiang Wuchang & \\
+\cline{1-4}
+\textbf{E-mail} & xxxxx & \textbf{School} & Harbin Engineering University & \\
+\cline{1-4}
+\textbf{Degree} & Bachelor & \textbf{Major} & Naval Architecture and Marine Engineering & \\
+\cline{1-4}
+\textbf{Cet 4/6} & \textbf{545/515} & \textbf{Score} & \textbf{85.34} & \\
+\hline
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}p{0.30\textwidth}|>{\centering\arraybackslash}p{0.12\textwidth}|X|}
+\hline
+\multicolumn{3}{|l|}{\cellcolor{headerblue}\textbf{Prizes \& Rewards}} \\
+\hline
+\multirow{2}{*}{\textbf{Academic Skills}} & 2011- 2014 & Awarded second-grade scholarship 4 times \\
+ & 2013.10 & Awarded third-grade scholarship \\
+\hline
+\multirow{2}{*}{\textbf{Creative Ability}} & 2013.04 & Accomplish two University's scientific research projects \\
+ & 2012.10 & The second prize of “WuSi” Science competition \\
+\hline
+\multirow{3}{*}{\textbf{Ideological Morality}} & 2012.10 & “Merit Student” \\
+ & 2013.10 & “Excellent Student Cadre” \\
+ & 2014.05 & “Excellent League Member” \\
+\hline
+\multirow{3}{*}{\textbf{Communicational Ability}} & 2013.05 & “Top Ten Hoster” in campus(4/230) \\
+ & 2012.05 & The First Prize of “student cadres Speech Contest” \\
+ & 2013.04 & The First Prize of “Presentation Contest” \\
+\hline
+\multirow{3}{*}{\textbf{Working attitude}} & 2013.09 & Outstanding worker in anniversary of the founding of school \\
+ & 2012.12 & Outstanding Volunteer of national “TRIZ” Science competition \\
+ & 2013.09 & Outstanding worker of college \\
+\hline
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+\cellcolor{headerblue}\textbf{Associations Experience:} \\
+\hline
+\textbf{2013.6-2014.6 \quad College of shipbuilding engineering \quad Secretary-general of Student union}
+
+\textbf{■Files arrangement:} \quad In charge of the plans of activities and arrangement of files in student union. Familiar with\\
+the use of OFFICE and PHOTOSHOP software.Had accomplished plans of 22 activities,and arranged 135 files of\\
+16 sections in student union.besides, organized 4 events as the leader.
+
+\textbf{■Accounting:} \quad In charge of accounting and applying for reimbursement for cost of student union,which is about\\
+25,000 yuan totally.
+
+\textbf{■Nerve:} \quad In charge of communicating with various sections,and coordinate their work. Under my coordinating,the\\
+student union had accomplished 3 large-scale events. \\
+\hline
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+\cellcolor{headerblue}\textbf{Self Description:} \\
+\hline
+“opportunities always favor the prepared mind”,I regard it as my motto,and One of key words of my character is\\
+plan,I am used to makeing a genral plan before i start my work,there is no doubt taht a good plan could always\\
+save much precious time.
+
+\hspace*{1em}I had a colorful colloege life.i was the Secretargy-general of Student union,in three years work,i learned how to\\
+communicate and cooperation with others and come to realized how important personal sense of responsibility is to\\
+the whole teams success. \\
+\hline
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+\cellcolor{headerblue}\textbf{Personal hobby} \\
+\hline
+harmonicon \qquad football \qquad photography \\
+\hline
+\end{tabularx}
+
+\end{document}
+```

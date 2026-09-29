@@ -1,0 +1,17 @@
+$$\left< P _ { N } ( I d - \Delta - 1 ) u _ { N } - P _ { U H F } , \psi \right> = \left< P _ { N } ( I d - \Delta - 1 ) u _ { N } - u _ { H F } ) , \psi \right> + \left< p - p _ { N } , \phi _ { u H F } \right> .$$
+
+$$D _ { T } : = ( 0 , T ) \times D , \partial D _ { T } : = ( 0 , T ) \times \partial D , R _ { T } ^ { n } : = ( 0 , T ) \times R ^ { n } .$$
+
+$$\operatorname* { l i m } \limits _ { E \rightarrow 0 } \inf \sum \limits _ { j = 0 } ^ { m } \int _ { S _ { E } ^ { j } } G _ { E } ^ { j } [ ( u _ { E } ) _ { T } ] S _ { E } ^ { j } \vert d \sigma ( x ) \geq \sum \limits _ { j = 0 } ^ { m } < G _ { T } ^ { j } , \vert [ u _ { T } ] _ { S ^ { j } } + r _ { T } ^ { j } \vert > _ { C _ { e } ( w \times S ^ { j } ) , M ( w \times S ^ { j } ) }$$
+
+$$A _ { \infty } = \operatorname* { l i m } _ { k \rightarrow \infty } A _ { k } = \operatorname* { l i m } _ { k \rightarrow \infty } \sum _ { i = 1 } ^ { d } x _ { k ; i } ^ { o m } = \sum _ { i = 1 } ^ { d } x _ { \infty ; i } ^ { o m } \epsilon c p ^ { n , m } ( k ) ,$$
+
+$$\gamma : = \max \{ r i \} _ { i \in \{ 1 , \ldots , m \} }$$
+
+$$A _ { Y O M _ { x } } = A _ { x } , A _ { - x ^ { o } C } = A _ { x }$$
+
+$$a \{ n \} = ( a _ { 2 } ) \cdots ( a _ { k } )$$
+
+$$V ( E _ { 1 } , E _ { 2 } ) = V \setminus ( \{ \vert z \vert < E _ { 1 } \} \cup \{ \vert 5 \vert < E _ { 2 } \} ) .$$
+
+$$\frac { a _ { 2 } ^ { 3 } } { a _ { 2 } ^ { 3 } - 2 7 a _ { 3 } ^ { 2 } } \searrow - \infty a s A \searrow 0 a n d \frac { a _ { 2 } ^ { 3 } } { a _ { 2 } ^ { 3 } - 2 7 a _ { 3 } ^ { 2 } } \nearrow 1 a s A \nearrow \infty .$$

@@ -1,0 +1,12 @@
+```json
+{
+    "menu": [
+        "(TA) NASI ORG TERI MEDAN",
+        "(TA) BIHUN GORENG SEAFOOD",
+        "(TA) KWETIAW SEAFOOD SIRAM",
+        "(TA) NASI GORENG"
+    ],
+    "sub_total": "303,646",
+    "total": "334,000"
+}
+```

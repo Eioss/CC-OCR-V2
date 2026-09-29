@@ -1,0 +1,25 @@
+\[
+\begin{gathered}
+A=\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p},
+\qquad
+B=\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q},
+\\[2mm]
+A^{1/p}B^{1/q}
+\leq
+\frac{r}{p}A+\frac{r}{q}B
+-\sum_{j=1}^{N}
+\left(
+(-1)^{r_j}2^{j-1}\frac{r}{p}
++(-1)^{r_j+1}\left\lfloor\frac{r_j+1}{2}\right\rfloor
+\right)
+\frac{
+\left(A^{2^{j-1}-k_j}B^{k_j}
+-A^{2^{j-1}-k_j-1}B^{k_j+1}\right)^2
+}{
+\left(
+\sqrt{A^{2^{j-1}-k_j}B^{k_j}}
++\sqrt{A^{2^{j-1}-k_j-1}B^{k_j+1}}
+\right)^2
+}.
+\end{gathered}
+\]

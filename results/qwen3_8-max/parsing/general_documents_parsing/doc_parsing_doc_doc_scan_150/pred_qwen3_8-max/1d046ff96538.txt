@@ -1,0 +1,89 @@
+Of course. Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+    \underline{\textbf{Fourier Transform Pairs}}
+\end{center}
+
+\begin{center}
+    ($n, t, \omega, a, \omega_o, t_o$ are Real numbers ; $j = \text{complex number}$ ; $n = \text{integer}$ ; $\omega = \text{angular frequency}$)
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{| >{$}c<{$} | >{$}c<{$} |}
+    \hline
+    \textbf{Time Domain} & \textbf{Fourier Transform} \\
+    \hline
+    f(t) & \int_{-\infty}^{+\infty} f(t)e^{-j\omega t} dt \\
+    \hline
+    a_1 f_1(t) + a_2 f_2(t) & a_1 F_1(\omega) + a_2 F_2(\omega) \\
+    \hline
+    e^{j\omega_o t} f(t) & F(\omega - \omega_o) \\
+    \hline
+    \frac{d^n [f(t)]}{dt^n} & (j\omega)^n F(\omega) \\
+    (n>0) & \\
+    \hline
+    e^{-at}u(t) & \frac{1}{a+j\omega} \\
+    a > 0 & \\
+    \hline
+    \cos(\omega_o t) & \pi[\delta(\omega-\omega_o) + \delta(\omega+\omega_o)] \\
+    \hline
+    \delta(t) & 1 \\
+    \hline
+    1 & 2\pi \cdot \delta(\omega) \\
+    \hline
+    u(t) & \pi \cdot \delta(\omega) + \frac{1}{j\omega} \\
+    \hline
+    u(t) - u(-t) & \frac{2}{j\omega} \\
+    \hline
+    t^{(n-1)} \cdot e^{-a \cdot t} \cdot u(t) & \frac{(n-1)!}{(a+j\omega)^n} \\
+    a > 0 ; n > 0 & \\
+    \hline
+    \cos(\omega_o t) \cdot f(t) & \frac{1}{2}[F(\omega-\omega_o) + F(\omega+\omega_o)] \\
+    \hline
+\end{tabular}
+\hfill
+\begin{tabular}{| >{$}c<{$} | >{$}c<{$} |}
+    \hline
+    \textbf{Time Domain} & \textbf{Fourier Transform} \\
+    \hline
+    \frac{1}{2\pi} \int_{-\infty}^{+\infty} F(\omega)e^{j\omega t} d\omega & F(\omega) \\
+    \hline
+    f(a \cdot t) & \frac{1}{|a|} F\left(\frac{\omega}{a}\right) \\
+    a \neq 0 & \\
+    \hline
+    f(t-t_o) & e^{-j\omega t_o} F(\omega) \\
+    \hline
+    (-jt)^n f(t) & \frac{d^n [F(\omega)]}{d\omega^n} \\
+    (n>0) & \\
+    \hline
+    e^{at}u(-t) & \frac{1}{a-j\omega} \\
+    a > 0 & \\
+    \hline
+    \sin(\omega_o t) & \frac{\pi}{j}[\delta(\omega-\omega_o) - \delta(\omega+\omega_o)] \\
+    \hline
+    \delta(t-t_o) & e^{-j\omega t_o} \\
+    \hline
+    e^{j\omega_o t} & 2\pi \cdot \delta(\omega-\omega_o) \\
+    \hline
+    u(-t) & \pi \cdot \delta(\omega) - \frac{1}{j\omega} \\
+    \hline
+    u(t) + u(-t) & 2\pi\delta(\omega) \\
+    \hline
+    t^{(n-1)} \cdot e^{a \cdot t} \cdot u(-t) & \frac{(n-1)!}{(a-j\omega)^n} \cdot (-1)^{n-1} \\
+    a > 0 ; n > 0 & \\
+    \hline
+    \sin(\omega_o t) \cdot f(t) & \frac{1}{2j}[F(\omega-\omega_o) - F(\omega+\omega_o)] \\
+    \hline
+\end{tabular}
+
+\end{document}
+```

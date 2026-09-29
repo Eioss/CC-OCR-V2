@@ -1,0 +1,70 @@
+```latex
+\textbf{Pythagorean identities:} \\
+$\sin^2 x + \cos^2 x = 1$ \\
+$\tan^2 x + 1 = \sec^2 x$ \\
+$1 + \cot^2 x = \csc^2 x$
+
+\textbf{Reciprocal identities:} \\
+$\csc x = \frac{1}{\sin x}$ \\
+$\sec x = \frac{1}{\cos x}$ \\
+$\cot x = \frac{1}{\tan x}$
+
+\textbf{Even - odd identities:} \\
+$\sin(-x) = -\sin x$ \\
+$\cos(-x) = \cos x$ \\
+$\tan(-x) = -\tan x$
+
+\textbf{Product to sum formulas :} \\
+$\sin x \cdot \sin y = \frac{1}{2}[\cos(x-y) - \cos(x+y)]$ \\
+$\cos x \cdot \cos y = \frac{1}{2}[\cos(x-y) + \cos(x+y)]$ \\
+$\sin x \cdot \cos y = \frac{1}{2}[\sin(x+y) + \sin(x-y)]$ \\
+$\cos x \cdot \sin y = \frac{1}{2}[\sin(x+y) - \sin(x-y)]$
+
+\textbf{Sum to product :} \\
+$\sin x \pm \sin y = 2\sin(\frac{x \pm y}{2})\cos(\frac{x \mp y}{2})$ \\
+$\cos x + \cos y = 2\cos(\frac{x+y}{2})\cos(\frac{x-y}{2})$ \\
+$\cos x - \cos y = -2\sin(\frac{x+y}{2})\sin(\frac{x-y}{2})$
+
+\textbf{Double - angle formulas :} \\
+$\sin 2\theta = 2 \cdot \sin\theta\cos\theta$ \\
+$\cos 2\theta = \cos^2\theta - \sin^2\theta = 1 - 2\sin^2\theta = 2\cos^2\theta - 1$ \\
+$\tan 2\theta = \frac{2\tan\theta}{1-\tan^2\theta}$
+
+\textbf{Co - function identities :} \\
+$\cos(\frac{\pi}{2} - x) = \sin x$ \\
+$\sin(\frac{\pi}{2} - x) = \cos x$ \\
+$\tan(\frac{\pi}{2} - x) = \cot x$ \\
+$\cot(\frac{\pi}{2} - x) = \tan x$ \\
+$\csc(\frac{\pi}{2} - x) = \sec x$ \\
+$\sec(\frac{\pi}{2} - x) = \csc x$
+
+\textbf{Periodicity identities :} \\
+$\sin(x \pm 2\pi) = \sin x$ \\
+$\cos(x \pm 2\pi) = \cos x$ \\
+$\tan(x \pm \pi) = \tan x$ \\
+$\cot(x \pm \pi) = \cot x$ \\
+$\sec(x \pm 2\pi) = \sec x$ \\
+$\csc(x \pm 2\pi) = \csc x$
+
+\textbf{Sum and difference formulas :} \\
+$\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y$ \\
+$\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y$ \\
+$\tan(x \pm y) = \frac{\tan x \pm \tan y}{1 \mp \tan x \tan y}$
+
+\textbf{Half - angle formulas :} \\
+$\sin(\frac{x}{2}) = \pm\sqrt{\frac{1-\cos x}{2}}$ \\
+$\cos(\frac{x}{2}) = \pm\sqrt{\frac{1+\cos x}{2}}$ \\
+$\tan(\frac{x}{2}) = \frac{(1-\cos x)}{\sin x}$
+
+\textbf{Law of sines :} \\
+$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$
+
+\textbf{Law of cosines :} \\
+$a^2 = b^2 + c^2 - 2bc \cos A$ \\
+$A = \cos^{-1}\left(\frac{b^2+c^2-a^2}{2bc}\right)$
+
+\textbf{Area of triangle :} \\
+$\frac{1}{2}ab\sin C$ \\
+$\sqrt{s(s-a)(s-b)(s-c)}$, \\
+where $s = \frac{1}{2}(a+b+c)$
+```

@@ -1,0 +1,20 @@
+Based on the provided table, under the **"Total Cost"** section and in the **"Monthly"** column, the value for **Mouse** is:
+
+> **$1629**
+
+---
+
+### Breakdown (for verification):
+
+The yearly total cost for Mouse is calculated as:
+- **Animals**: $7000
+- **Animal Care**: $6300
+- **Food**: $6250  
+→ **Yearly Total = $7000 + $6300 + $6250 = $19,550**
+
+Then, monthly cost = Yearly Total ÷ 12  
+→ $19,550 ÷ 12 ≈ **$1629.17**, which rounds to **$1629** as shown.
+
+---
+
+✅ So, the total monthly cost of Mouse is **$1629**.

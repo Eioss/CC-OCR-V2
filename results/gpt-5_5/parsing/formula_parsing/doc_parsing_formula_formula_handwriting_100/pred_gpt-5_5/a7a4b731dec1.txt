@@ -1,0 +1,15 @@
+\[
+\begin{aligned}
+m(\tau,v)&=\frac{1}{|Q_1|}\sum_{x\in S_\varphi} e_y(\bar{\xi})\left(\langle x,\bar{\xi}\rangle v(x)^{-1}\langle x\wedge nq,x\rangle\right),\\
+\nu(t,t_0,\bar z)&=1-\exp\left(-\frac{\delta^2}{C(t-t_0)^2}\right),\qquad \bar z\ge \Lambda+\ell(t-t_0)+\delta,\\
+\nu(t,t_0,\eta)&\le \exp\left(-\frac{c\eta^2}{(t-t_0)^2}\right),\qquad \bar z\le \Lambda-\delta,\\
+S_\lambda(\theta)&\le S_\mu(\theta)\le e^{C(e^{1/\theta}-1)}S_\lambda(0)\qquad \text{for every }\theta,\\
+\alpha_{n-1}H^{-s}\Phi_H(x)
+&=\frac{H^2}{H-\frac{s}{2}}
+\le \int_0^\infty (v+k-1)H^{-(v+k-1-x)}H^{-s}\,dv
+\le H^{-s}\frac{H-\frac{s}{4}\Phi_H(x)}{H-\frac{s}{2}},\\
+D_{k,\alpha}^{(\ell)}(h_k^{(\ell)})
+&=t_0^{-m}\left(\mathcal E_{k,\alpha}^{(\ell)}M_{k,\alpha}^{(\ell)}(h_k^{(\ell)})^q+N_{k,\alpha}^{(\ell)}(h_k^{(\ell)})\right)\\
+&=t_0^{-m}\left(\mathcal E_{k,\alpha}^{(\ell)}M_{k,\alpha}^{(\ell)}(h_k^{(\ell)})^q+\frac12\delta''(0)\left(X_{k,\alpha}^{(\ell)}+Y_{k,\alpha}^{(\ell)}+J_{k,\alpha}^{(\ell)}\right)\right).
+\end{aligned}
+\]

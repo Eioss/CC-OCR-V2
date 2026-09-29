@@ -1,0 +1,11 @@
+Based on the legend provided in the image, there are **three** types of temperature ranges shown.
+
+Each range is represented by a different shade of blue and a corresponding number of snowflake icons:
+
+1.  **Darkest Blue**: Represented by **5 snowflakes** (❄️❄️❄️❄️❄️) — likely indicating the *coldest* average home temperatures.
+2.  **Medium Blue**: Represented by **3 snowflakes** (❄️❄️❄️) — likely indicating *moderate* or *mid-range* temperatures.
+3.  **Lightest Blue/White**: Represented by **1 snowflake** (❄️) — likely indicating the *warmest* average home temperatures among the categories shown.
+
+> ⚠️ Note: The map’s caption explicitly warns that “the legend doesn’t make sense at the moment because this map does not have proper data.” So while visually there are 3 distinct categories, they may not accurately reflect real-world temperature data without correction.
+
+✅ **Final Answer: 3 types of temperature ranges are shown.**

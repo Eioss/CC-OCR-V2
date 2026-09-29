@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "06/10/18",
+    "order_id": "955281-1",
+    "vendor_order_id": "4044553",
+    "customer_order_id": "1017780",
+    "vendor_name": "Entercom Los Angeles KNX-AM",
+    "vendor_address": "5670 Wilshire Blvd Suite 200 Los Angeles, CA 90036",
+    "customer_id": "DCCC (A)",
+    "customer_billing_name": "Sage Media Planning & Placement Attn: Accounts Payable",
+    "customer_billing_address": "1322 G St SE Washington, DC 20003",
+    "amount_total_gross": "$8,060.00",
+    "amount_due": "$6,851.00",
+    "payment_terms": "Due upon receipt"
+}
+```

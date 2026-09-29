@@ -1,0 +1,84 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent\textsc{Kenneth Lau}\\
+{\footnotesize Equip yourself with the best; equip yourself for the best}
+
+\vspace{1em}
+
+\noindent\textbf{\Huge Paper 4: Speaking} \hfill \texttt{Komplex 01}
+
+\vspace{0.5em}
+
+\noindent\fbox{\parbox{0.5\textwidth}{\footnotesize
+口試練習聲音檔案可以在\\
+kennethlau.com 下載\\
+(登入後在網頁左方欄目\\
+選擇 'Others'，再選擇 'Komplex')
+}}
+
+\vspace{1em}
+
+\begin{center}
+\textbf{Can the U.S. Really Get Astronauts to Mars by 2030?}
+\end{center}
+
+\noindent\fbox{\parbox{\textwidth}{
+In an essay published Tuesday on CNN's website, President Obama renewed his call for American astronauts to visit Mars. ``We have set a clear goal vital to the next chapter of America's story in space: sending humans to Mars by the 2030s and returning them safely to Earth, with the ultimate ambition to one day remain there for an extended time,'' he wrote.
+
+\vspace{0.5em}
+
+In August, NASA awarded contracts to six companies to develop habitats that could eventually sustain astronauts on deep-space missions like Mars. On Tuesday, John P. Holdren, the White House science adviser, and Charles F. Bolden Jr., the NASA administrator, announced that NASA would also allow private companies to hitch their own modules to the International Space Station.
+
+\vspace{0.5em}
+
+In the next decade, the officials added, work aboard the space station will move into a stage in which new technologies will be tested in the stretch of space between Earth and the moon.
+
+\vspace{0.5em}
+
+The main challenge is not technical; it is political and financial. If Congress was to provide steady funding for the next 20 years, NASA could probably finish the task. But changes in presidential administrations have generally led to re-examination and changes in NASA's marching orders.
+}}
+
+\vspace{0.5em}
+
+\noindent\textit{Source}: Adapted from an article by Kenneth Chang and Daniel Victor in the \textit{New York Times}, 11 October, 2016.
+
+\vspace{1em}
+
+\noindent\underline{\textbf{Part A Group Discussion}}
+
+\vspace{0.5em}
+
+\noindent As members of the Space and Science Society, your group is discussing space exploration. Your group would like to write an article about it for the sake of arousing students' interests in science. You may want to talk about:
+
+\begin{itemize}
+    \item the benefits of space exploration
+    \item the drawbacks of space exploration
+    \item what difficulties astronauts will face when performing their duties in space
+    \item anything else you think is important
+\end{itemize}
+
+\vspace{1em}
+
+\noindent\underline{\textbf{Part B Individual Response}}
+
+\begin{itemize}
+    \item Do you like astronauts? Why or why not?
+    \item If you were an astronaut, what would you miss most?
+    \item If you had to become an astronaut or a teacher, which one would you prefer?
+    \item Why should we explore other planets?
+    \item Do you think travelling to Mars is possible?
+\end{itemize}
+
+\end{CJK}
+\end{document}
+```

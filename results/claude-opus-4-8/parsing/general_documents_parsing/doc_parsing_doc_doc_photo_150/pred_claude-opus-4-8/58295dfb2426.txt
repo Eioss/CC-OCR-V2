@@ -1,0 +1,37 @@
+# A Note on the Tea Ceremony, the Backdrop for This Novel
+
+```latex
+\documentclass{book}
+\usepackage{lettrine}
+
+\begin{document}
+
+\chapter*{A Note on the Tea Ceremony, the Backdrop for This Novel}
+
+\lettrine{T}{he beginnings} of the tea cult can be traced to
+the thirteenth century and the beginnings of
+Zen Buddhism in Japan. Early Zen masters recom-
+mended tea as the beverage most excellent for cul-
+tivating the spirit, and in the centuries that followed,
+an elaborate symbolism and a carefully contrived
+ritual encouraged the Zen disciple in his aim to
+achieve imperturbability. Rustic utensils and sur-
+roundings were brought into harmony to remind
+him of the Buddhahood in a clod of earth, and the
+withdrawn repose of the cottage and its garden
+turned his mind to the permanent behind the
+ephemeral---to the intersection of time and eternity.
+If the quiet and restraint of the ideal tea ceremony
+are somewhat lacking in ceremonies described in
+this novel, Mr. Kawabata's characters nonetheless
+seem to pause at the intersection, marked for them
+by the permanence of the old tea vessels and the im-
+permanence of the owners.
+
+The tea ceremony is a stylized way of preparing
+tea from water heated over a charcoal hearth. The
+smallest detail, from the charcoal to the receptacle
+for left-over water, must be carefully planned.
+
+\end{document}
+```

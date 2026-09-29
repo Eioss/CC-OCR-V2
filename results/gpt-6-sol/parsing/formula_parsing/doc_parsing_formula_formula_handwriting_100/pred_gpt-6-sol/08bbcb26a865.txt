@@ -1,0 +1,35 @@
+\[
+\begin{gathered}
+\sum_{x\in S_{n,q}}
+\left(
+q^{-(n+1)/2}
+\sum_{a_1,\ldots,a_n\in\mathbb F_q}
+x\left(1+\sum_i a_i x^i\right)\psi(a_n)
+\right)^m,\\[1ex]
+X_D T_D=U_\pi X_0,
+\qquad
+\bigvee_{n\ge 0}U_\pi^{-n}X_0\mathcal N=L^2(\mathbb T),\\[1ex]
+\hat X_{\mathrm{out}}
+=\hat X_{\mathrm{in}}-(\hat X_A-\hat X_B),
+\qquad
+\hat P_{\mathrm{out}}
+=\hat P_{\mathrm{in}}+(\hat P_A+\hat P_B),\\[1ex]
+\sup_{\mu}\langle\mu,\nabla^2G(z)(\mu,\mu)\rangle
+\quad\text{subject to}\quad
+\mu\in K^*,\quad \nabla G(z)^*\mu=z^*,\\[1ex]
+\frac{d}{dt}\|\psi(t)\|_\mu^2
++\bigl(2A_\mu\psi(t)-(a+2k)B_\mu\psi(t)\bigr)\|\psi(t)\|_\mu^2
++2kB_\mu\psi(t)\|\psi(t)\|_{H^1}^2\\
+=2(1-\alpha)\int_{\mathbb R^d}
+Q_+(v,\psi)(t,\xi)\psi(t,\xi)\langle\xi\rangle^{2k}\,d\xi
+-2\int_{\mathbb R^d}
+Q_-(v,\psi)(t,\xi)\psi(t,\xi)\langle\xi\rangle^{2k}\,d\xi,\\[1ex]
+\frac{\partial L}{\partial w}
+=2\bigl(y-w\hat i_1-(2-w)\hat i_2\bigr)(-\hat i_1+\hat i_2),
+\qquad
+\frac{\partial^2L}{\partial w^2}
+=2(-\hat i_1+\hat i_2)^2>0,\\[1ex]
+G(y)=\sup_{a\le s\le b}
+\left|\sum_{j=1}^{\infty}(y+\Gamma_j)^{-1/\alpha}W_j(s)\right|.
+\end{gathered}
+\]

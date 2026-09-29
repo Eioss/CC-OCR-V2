@@ -1,0 +1,17 @@
+ $$R = K [ x , y ] / \langle x ^ { 2 } + y ^ { 2 } - 1 \rangle$$
+
+ $$\left\{ \begin{aligned} F ( x , t , D ^ { 2 } u ) - \partial _ { t } u & = B _ { \varepsilon } ( u ) u ^ { \gamma - 1 } & & \text{in } \Omega _ { T } , \\ u & = \varphi & & \text{on } \partial _ { p } \Omega _ { T } , \end{aligned} \right.$$
+
+ $$A = \left\{ x \in [ k ] _ { 0 } ^ { n } : | \{ i : x _ { i } = t \} | < m \right\} .$$
+
+ $$\text{data} \mid \lambda \stackrel { d } { = } \text{Poisson} ( \lambda ) , \quad \Lambda \mid \theta \stackrel { d } { = } \theta e ^ { - \lambda \theta } , \quad \Theta \stackrel { d } { = } I S _ { \alpha , P } ( \theta ) , \quad \alpha , P \text{-known} .$$
+
+ $$\begin{aligned} d \hat { \rho } _ { t } = & - i [ \hat { H } , \hat { \rho } _ { t } ] d t - k _ { t } [ \hat { \sigma } _ { t } , [ \hat { \sigma } _ { t } , \tilde { \rho } _ { t } ] ] d t \\ & + \sqrt { 2 k _ { t } } [ \hat { \sigma } _ { t } \hat { \rho } _ { t } + \hat { \rho } _ { t } \hat { \sigma } _ { t } - 2 \operatorname { T r } ( \hat { \sigma } _ { t } \hat { \rho } _ { t } ) \hat { \rho } _ { t } ] d W _ { t } . \end{aligned}$$
+
+ $$\partial T V ( u ) = \left\{ \operatorname { d i v } \varphi \mid \| \varphi \| _ { L ^ { \infty } ( \Omega ; \mathbb { R } ^ { n } ) } \leq 1 , \varphi \cdot n | _ { \partial \Omega } = 0 , \langle \operatorname { d i v } \varphi , u \rangle _ { L ^ { 2 } ( \Omega ) } = T V ( u ) \right\} ,$$
+
+ $$\begin{aligned} & \delta x _ { \xi } ( t ) = [ R - \xi / \cos ( \omega _ { r } t ) ] \Theta ( x - | \omega _ { r } t | ) , \\ & \delta y _ { \xi } ( t ) = \xi [ \omega _ { r } t \tan ( x ) / x - \tan ( \omega _ { r } t ) ] \Theta ( x - | \omega _ { r } t | ) \end{aligned}$$
+
+ $$\mathcal { H } ^ { 2 } ( \tilde { \Sigma } ) + T _ { h } ( \Sigma , \tilde { \Sigma } ) \leq \mathcal { H } ^ { 2 } ( \tilde { \Sigma } ) + T _ { h } ( \Sigma , \tilde { \Sigma } ) + \mathcal { H } ^ { 2 } ( \partial B ) - c \mathcal { H } ^ { 3 } ( B ) \leq \mathcal { H } ^ { 2 } ( \Sigma ) ,$$
+
+ $$\begin{aligned} \mathbb { P } ( X _ { n } > x ) \sim & \mathbb { E } ( X _ { 0 } ) m _ { \xi } ^ { n - 1 } \sum _ { i = 0 } ^ { n - 1 } m _ { \xi } ^ { i ( \beta - 1 ) } \mathbb { P } ( \xi > x ) + m _ { \xi } ^ { n \beta } \mathbb { P } ( X _ { 0 } > x ) \\ & + m _ { \varepsilon } \sum _ { j = 1 } ^ { n - 1 } m _ { \xi } ^ { n - j - 1 } \sum _ { i = 0 } ^ { n - j - 1 } m _ { \xi } ^ { i ( \beta - 1 ) } \mathbb { P } ( \xi > x ) + \sum _ { j = 1 } ^ { n } m _ { \xi } ^ { ( n - j ) \beta } \mathbb { P } ( \varepsilon > x ) \end{aligned}$$

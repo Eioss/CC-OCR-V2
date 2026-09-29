@@ -1,0 +1,7 @@
+$$\begin{aligned} E \Big [ \int _ { 0 } ^ { 1 } | V ( T ^ { - 1 } u ) | ^ { 2 } | \hat { x } | d t d \varphi \Big ] & = E \Big [ \int _ { 0 } ^ { 1 } | V ( r , u ) | ^ { 2 } r d r d \varphi \Big ] \\ & \leq E \Big [ \exp \int _ { 0 } ^ { 1 } | V ( r , u ) | ^ { 2 } r d r d \varphi \Big ) \varphi \Big ] = E \Big [ \frac { 1 } { b ^ { 2 } } \Big ] < \infty \\ & = \sum _ { k \in N _ { + } } \left( 2 v _ { k } ( k ) + 2 v _ { k } ( k ) \right) + \sum _ { k \in N _ { + } } 2 v _ { k } ( k ) \\ \sum _ { k = 1 } ^ { n } \widehat { x } _ { k } ^ { T } u I _ { k } - \sum _ { k = 1 } ^ { n } \widehat { x } _ { k } ^ { T } u \leq \Phi _ { F } ( u , m ) + \sum _ { k = 1 } ^ { n } \frac { \alpha _ { k } ^ { 0 } } { 2 ( 1 - 1 ) ^ { 2 } ( 1 ) } \cdot \frac { \widehat { x } _ { k } ^ { T } u } { \sqrt { n } ( k - 1 ) } . \end{aligned}$$
+
+$$C ^ { h } ( \overline { 2 } ) = \{ f = C ( \overline { 2 } ) / / f / / _ { C ^ { h } ( \overline { 2 } ) } < \infty \} ,$$
+
+$$| | a + ( - x ) | | _ { L ^ { p } } + ( d - 1 ) | | v | | _ { L ^ { p } } + | | ( - x ) | | _ { L ^ { p } } + | ( d - 1 ) | | v | | _ { L ^ { p } } \leq c ( d ) ^ { 1 / p } ,$$
+
+$$\int _ { | k _ { 1 } | \leq | k | \leq \pi } | _ { k } ( k ) d \phi _ { k } ( k ) \leq c ( \int _ { \pi \leq | k | \leq \pi } \frac { | \phi _ { \mu } ( k ) | } { k ^ { 2 } } + \int _ { \pi \leq | k | \leq \pi } \frac { | \phi _ { \mu } ( k ) | } { k ^ { 2 } } + \int _ { | k | \geq \pi } \frac { | \phi _ { \mu } ( k ) | } { k ^ { 2 } } ) ,$$

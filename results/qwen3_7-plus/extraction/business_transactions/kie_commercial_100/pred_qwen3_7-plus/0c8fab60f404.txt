@@ -1,0 +1,18 @@
+```json
+{
+    "date_issue": "6/8/01",
+    "vendor_order_id": "PR06010008",
+    "vendor_name": "The CPS Group",
+    "vendor_address": "40 West 23rd Street New York, NY 10010",
+    "customer_id": "100070 024",
+    "customer_billing_name": "Lorillard Tobacco Co. Inc.",
+    "amount_total_net": "24.00",
+    "amount_total_tax": "1.98",
+    "amount_total_gross": "$25.98",
+    "amount_due": "$25.98",
+    "tax_detail_rate": "8.25%",
+    "tax_detail_net": "24.00",
+    "tax_detail_tax": "1.98",
+    "tax_detail_gross": "$25.98"
+}
+```

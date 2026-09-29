@@ -1,0 +1,113 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{textcomp}
+
+\begin{document}
+
+\begin{center}
+\textbf{English First Paper} \hfill \textbf{Subject code: 107}\\
+\textbf{Full marks : 100} \hfill \textbf{Time: 3 hours}\\
+\textbf{[Answer all the questions. Figures in the margin indicate full marks]}\\[0.5em]
+\textbf{\Large Sample Question}\\
+\textbf{Section-A : (Reading)}
+\end{center}
+
+\noindent
+\textbf{Read the text and answer questions 1, 2 and 3.}
+
+\noindent
+With only 2,500 taka in her pocket, Rona Begum began her small business. She also had a sewing machine from her sister. She attended a six-month vocational training run by the Department of Youth Development before that.
+
+\noindent
+Rona's Utsab Tailors Training and Sales Center began in 1997.
+
+\noindent
+Fifteen years later, she now owns a small production house of fashion garments.
+
+\noindent
+Traditional items, block print work and embroidery are done at her production house. ``Despite serious trouble in my personal life, I worked very hard to survive,'' said Rona.
+
+\noindent
+She supported herself by working at three places. At a time she worked at a local diagnostic centre, at a private medical college, as well as at her own training and boutique centre. She continued this till 2007.
+
+\noindent
+``At first, I got almost no support from my family. Instead, I faced objections. But I'm happy now and busy with my business. The atmosphere at home also changed,'' said Rona.
+
+\noindent
+Ms Rona has just started several more commercial projects with partners. She decided to expand business earlier. But she did not get support from any bank or financial institutions. Then she joined the Women Business Forum (WBF), Sylhet and things started to change. At present, she is the General Secretary of WBF, Sylhet.
+
+\noindent
+In the last 15 years, Rona received much appreciation and a number of awards. Along with other awards, she received Jatiya Juba Padak in 2012. (adapted from The Daily Star)
+
+\begin{enumerate}
+\item \textbf{Guess the meaning of the following words and choose the correct meaning closest to the text.}
+\hfill $1 \times 5 = 5$
+
+\begin{enumerate}
+\item[(i)] \textbf{business}\\
+(a) profession \hfill (b) commerce \hfill (c) trade \hfill (d) production
+
+\item[(ii)] \textbf{traditional}\\
+(a) hereditary \hfill (b) historic \hfill (c) remarkable \hfill (d) habitual
+
+\item[(iii)] \textbf{diagnostic}\\
+(a) picking \hfill (b) detecting \hfill (c) discovering \hfill (d) cornerwise
+
+\item[(iv)] \textbf{atmosphere}\\
+(a) climate \hfill (b) character \hfill (c) context \hfill (d) surroundings
+
+\item[(v)] \textbf{appreciation}\\
+(a) recognition \hfill (b) realization \hfill (c) perception \hfill (d) improvement
+\end{enumerate}
+
+\item \textbf{Answer the following questions :} \hfill $2 \times 5 = 10$
+
+\begin{enumerate}
+\item[(a)] Why did Rona get appreciation and awards?
+\item[(b)] How was vocational training helpful for Rona?
+\item[(c)] How did Rona overcome problems in her personal life?
+\item[(d)] Why did Rona leave the other two jobs?
+\item[(e)] Do you think the initiatives of Rona are examples for the poor? Why?
+\end{enumerate}
+
+\item \textbf{Summarize the text in section A in your own words (around 85 words).} \hfill 10
+\end{enumerate}
+
+\noindent
+\textbf{Read the following text carefully and answer questions 4 and 5.}
+
+\begin{enumerate}
+\setcounter{enumi}{3}
+\item \textbf{Complete the following table with the information given in the passage.}
+\hfill $1 \times 5 = 5$
+\end{enumerate}
+
+\noindent
+The city with the highest temperature yesterday was Singapore. At noon the temperature in Singapore was 33\textdegree C and at midnight the temperature there was 25\textdegree C. Tokyo had the second highest temperature. It was only 2\textdegree C lower than in Singapore at noon. The temperature in Rome at noon was 30\textdegree C, the same as in New York. However, New York's temperature at midnight was one degree lower than Rome's. The noon temperature in Cairo was 29\textdegree C, one degree higher than that in Hong Kong. The temperature at midnight in Paris was 11\textdegree C less than that at noon in Paris yesterday. Although Stockholm's temperature at midnight was the same as the temperature at midnight in Paris, its noon temperature was 14\textdegree C. The coolest city was London, with a temperature of only 22\textdegree C at noon and 13\textdegree C at midnight.
+
+\noindent
+The cities with the highest temperature had a lot of sunshine throughout the day. It was cloudy and dry at Stockholm, but it rained heavily in both London and Hong Kong.
+
+\begin{flushright}
+(Adapted from `Writing English language Tests' edited by J.B Heaton, 1989)
+\end{flushright}
+
+\begin{center}
+\textbf{Yesterday's Weather Around the World}\\
+Clouds: C; Rain: R; Sun: S
+\end{center}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+City & Noon & Midnight & Weather \\
+\hline
+Singapore & 33\textdegree C & (i) \ldots\ldots & S \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

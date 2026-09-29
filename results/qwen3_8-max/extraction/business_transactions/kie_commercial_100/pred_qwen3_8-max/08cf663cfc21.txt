@@ -1,0 +1,11 @@
+```json
+{
+    "customer_billing_name": "OLOMANA LOOMIS ISC",
+    "customer_billing_address": "PIONEER PLAZA STE 1548 900 FORT STREET MALL HONOLULU, HI 96813",
+    "customer_other_name": "SYLVIA LUKE FRIENDS OF (d)",
+    "amount_total_net": "$ 4,648.14",
+    "amount_total_tax": "$ 185.64",
+    "amount_total_gross": "$ 5,250.00",
+    "amount_due": "$ 5,250.00"
+}
+```

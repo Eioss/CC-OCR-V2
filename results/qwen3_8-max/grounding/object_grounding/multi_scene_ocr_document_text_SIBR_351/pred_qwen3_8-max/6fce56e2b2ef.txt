@@ -1,0 +1,31 @@
+```json
+[
+    {"bbox_2d": [316, 48, 649, 57], "label": "Address"},
+    {"bbox_2d": [797, 386, 854, 437], "label": "Amount"},
+    {"bbox_2d": [176, 312, 490, 322], "label": "At"},
+    {"bbox_2d": [172, 26, 787, 46], "label": "Company Name"},
+    {"bbox_2d": [176, 136, 264, 145], "label": "Date"},
+    {"bbox_2d": [488, 386, 596, 437], "label": "Description"},
+    {"bbox_2d": [604, 61, 759, 70], "label": "Email"},
+    {"bbox_2d": [519, 125, 703, 142], "label": "Factory Address"},
+    {"bbox_2d": [520, 111, 795, 121], "label": "Factory Name"},
+    {"bbox_2d": [446, 61, 550, 70], "label": "Fax"},
+    {"bbox_2d": [356, 484, 423, 493], "label": "Gross weight"},
+    {"bbox_2d": [176, 100, 255, 108], "label": "Invoice No"},
+    {"bbox_2d": [176, 258, 270, 268], "label": "L/C #"},
+    {"bbox_2d": [520, 100, 609, 108], "label": "MID#"},
+    {"bbox_2d": [356, 494, 423, 502], "label": "Net Weight"},
+    {"bbox_2d": [176, 377, 198, 384], "label": "PO# Codes"},
+    {"bbox_2d": [377, 521, 434, 529], "label": "Quantity"},
+    {"bbox_2d": [615, 386, 644, 447], "label": "Quantity (PRS)"},
+    {"bbox_2d": [83, 386, 126, 437], "label": "Style No"},
+    {"bbox_2d": [175, 161, 219, 220], "label": "Stylen#"},
+    {"bbox_2d": [229, 60, 396, 69], "label": "Tel"},
+    {"bbox_2d": [388, 79, 576, 91], "label": "Title"},
+    {"bbox_2d": [390, 511, 442, 520], "label": "Total # of CTNS"},
+    {"bbox_2d": [777, 438, 877, 447], "label": "Total Amount"},
+    {"bbox_2d": [701, 386, 733, 437], "label": "Unit Price USD"},
+    {"bbox_2d": [597, 278, 694, 287], "label": "by"},
+    {"bbox_2d": [377, 502, 425, 510], "label": "volume"}
+]
+```

@@ -1,0 +1,20 @@
+[
+  {"bbox_2d":[297,37,441,57],"label":"Title"},
+  {"bbox_2d":[120,79,289,93],"label":"Supplier"},
+  {"bbox_2d":[119,99,343,116],"label":"Buyer"},
+  {"bbox_2d":[616,101,712,117],"label":"Contract No"},
+  {"bbox_2d":[616,120,715,135],"label":"Date"},
+  {"bbox_2d":[58,309,248,324],"label":"Name"},
+  {"bbox_2d":[296,309,347,323],"label":"Manufactory Code"},
+  {"bbox_2d":[376,309,454,323],"label":"Commodity"},
+  {"bbox_2d":[483,309,507,324],"label":"Quantity"},
+  {"bbox_2d":[547,309,594,323],"label":"Unit Price (RMB)"},
+  {"bbox_2d":[615,310,682,324],"label":"Total price (RMB)"},
+  {"bbox_2d":[38,382,107,398],"label":"Shipment time"},
+  {"bbox_2d":[460,381,700,399],"label":"Inspection standard"},
+  {"bbox_2d":[37,428,142,445],"label":"Loading port"},
+  {"bbox_2d":[461,429,587,445],"label":"Destination port"},
+  {"bbox_2d":[37,470,263,486],"label":"Terms of payment"},
+  {"bbox_2d":[459,470,539,484],"label":"Price term"},
+  {"bbox_2d":[38,524,715,718],"label":"Remark"}
+]

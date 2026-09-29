@@ -1,0 +1,27 @@
+<table>
+<tr><td colspan="3" style="text-align:center"><strong>Patel</strong></td></tr>
+<tr><td colspan="3" style="text-align:center"><strong>Statement of financial position at 31 December 2014</strong></td></tr>
+<tr><td></td><td style="text-align:center">$</td><td style="text-align:center">$</td></tr>
+<tr><td><strong>ASSETS</strong></td><td></td><td></td></tr>
+<tr><td><strong>Non-current assets</strong></td><td></td><td></td></tr>
+<tr><td>Land and buildings</td><td></td><td>60 000</td></tr>
+<tr><td>Fixtures and fittings</td><td></td><td>7000</td></tr>
+<tr><td>Vehicles</td><td></td><td>21 000</td></tr>
+<tr><td></td><td></td><td>88 000</td></tr>
+<tr><td><strong>Current assets</strong></td><td></td><td></td></tr>
+<tr><td>Inventory</td><td>1010</td><td></td></tr>
+<tr><td>Trade receivables</td><td>1740</td><td></td></tr>
+<tr><td>Bank balance</td><td>1840</td><td></td></tr>
+<tr><td>Cash</td><td>480</td><td>5070</td></tr>
+<tr><td><strong>Total assets</strong></td><td></td><td>93 070</td></tr>
+<tr><td><strong>CAPITAL AND LIABILITIES</strong></td><td></td><td></td></tr>
+<tr><td><strong>Capital</strong></td><td></td><td></td></tr>
+<tr><td>Capital introduced</td><td></td><td>70 000</td></tr>
+<tr><td><em>Add</em> Profit</td><td></td><td>23 750</td></tr>
+<tr><td></td><td></td><td>93 750</td></tr>
+<tr><td><em>Less</em> Drawings</td><td></td><td>2170</td></tr>
+<tr><td></td><td></td><td>91 580</td></tr>
+<tr><td><strong>Current liabilities</strong></td><td></td><td></td></tr>
+<tr><td>Trade payables</td><td></td><td>1490</td></tr>
+<tr><td><strong>Total capital and liabilities</strong></td><td></td><td>93 070</td></tr>
+</table>

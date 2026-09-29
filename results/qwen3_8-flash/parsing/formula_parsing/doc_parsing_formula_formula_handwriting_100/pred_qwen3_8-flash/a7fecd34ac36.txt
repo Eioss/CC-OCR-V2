@@ -1,0 +1,15 @@
+$$\{ z \in \partial \Omega : ( u ) _ { B } ^ { * } ( z ) > t \} \subset \{ z \in \partial \Omega : M _ { \partial \Omega } ( x E ) ( z ) \geq c \} ,$$
+
+$$U ( \frac { \pi } { 2 } , 0 , - \frac { \pi } { 2 } ) = V _ { 2 } ^ { a c } ( \pi , \pi ) , U ( \frac { \pi } { 2 } , 0 , 0 ) = V _ { 2 } ^ { a c } ( \frac { \pi } { 2 } , - \frac { \pi } { 2 } )$$
+
+$$\int _ { s } ^ { t } g _ { r } * d W _ { r } = \sum _ { i = 1 } ^ { d } \Bigl ( \int _ { s } ^ { t } g _ { i } ( r , w _ { r } ) d W _ { r } ^ { i } + \int _ { s } ^ { t } g _ { i } ( r , w _ { r } ) \overleftarrow { d W _ { r } ^ { i } } \Bigr ) .$$
+
+$$\biggl \{ m _ { k } + \sum _ { 1 \leq j \leq k - 1 } w _ { j } m _ { j } : k \geq 1 , ( w _ { 1 } , \ldots , w _ { k - 1 } ) \in \{ - 1 , 0 , 1 \} ^ { k - 1 } \biggr \}$$
+
+$$i \partial _ { t } a _ { q } = \frac { 1 } { 2 } ( 2 \Delta _ { c } + i \gamma ) a _ { q } + \chi ( 2 a _ { c l } ^ { * } a _ { c l } a _ { q } + a _ { c l } ^ { 2 } a _ { q } ^ { * } + a _ { q } ^ { * } a _ { q } ^ { 2 } ) ,$$
+
+$$\begin{array} { l } { { g _ { n } : ( C _ { n } , M _ { C _ { n } } ) \to ( X , M _ { X } ) } } \\ { { | H \cdot S | \le ( 1 - \varepsilon / 2 ) | S | + ( 1 - \varepsilon / 2 ) | H | \cdot } } \end{array}$$
+
+$$L _ { v } ( r ) : = \frac { 2 } { r } ( \operatorname* { m a x } _ { y \in \{ 2 r , - 2 r \} } \vert v ( y ) \vert + 2 \vert v ( 0 ) \vert ) .$$
+
+$$F ^ { \prime } = x _ { j } ^ { 2 } x _ { k } + x _ { j } h _ { 1 } + h _ { 2 }$$

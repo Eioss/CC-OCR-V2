@@ -1,0 +1,15 @@
+$$P_{\pm} = \frac{\left(\frac{\varphi^+(x^o,0)}{(\beta^+(x^o,0))^2}\right)^{\frac{1}{\gamma+1}}}{\left(\frac{\varphi^-(x^o,0)}{(\beta^-(x^o,0))^2}\right)^{\frac{1}{\gamma+1}} + \left(\frac{\varphi^+(x^o,0)}{(\beta^+(x^o,0))^2}\right)^{\frac{1}{\gamma+1}}}$$
+
+$$\sigma_i = \nu_{1}, \nu_{2}, \ldots, \nu_a \quad \text{and} \quad \sigma_{i+2} = \nu_1, \nu_2, \ldots, \nu_a$$
+
+$$\dim_B(\partial N) < d_o := d - 1 + \delta < d$$
+
+$$P(t) = \sum_{n \geq 0, \, m \geq 0} P_{nm}(t) \, |n\rangle\langle m|_C \otimes |\Phi_n(\gamma,t)\rangle\langle\Phi_m(\gamma,t)|_m$$
+
+$$\|t\| = \|\mathbb{1} \otimes_\mu t\|$$
+
+$$\Phi\left(\frac{1}{2}[\mathbb{1} + w\cdot\sigma]\right) = \frac{1}{2}\left[\mathbb{1} + w_1\lambda_1\sigma_1 + (t + w_3\lambda_3)\sigma_3\right]$$
+
+$$(\widetilde{\nabla}_{X_1}(\nabla T_*))(X_2,X_3) = \nabla_{X_1}^{T^\perp}(\nabla T_*)(X_2,X_3) - (\nabla T_*)(\nabla_{X_1}^{\partial X_2}X_2,X_3) - (\nabla T_*)(X_2,\nabla_{X_1}^{\partial X_3}X_3)$$
+
+$$R_{j\ell}(x) \overset{x\to+\infty}{\simeq} c_\gamma^2(1+\delta_{j\ell})\Psi(j/N)\Psi(\ell/N)\exp(-2\lambda z)$$

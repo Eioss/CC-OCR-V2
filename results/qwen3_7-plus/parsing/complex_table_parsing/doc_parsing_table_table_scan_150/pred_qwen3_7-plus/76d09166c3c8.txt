@@ -1,0 +1,157 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: "Times New Roman", serif;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="4" style="text-align:center; font-weight:bold;">Patel<br/>Statement of financial position at 31 December 2014</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>$</td>
+    <td>$</td>
+   </tr>
+   <tr>
+    <td><b>ASSETS</b></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td><i>Non-current assets</i></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Land and buildings</td>
+    <td></td>
+    <td>60 000</td>
+   </tr>
+   <tr>
+    <td>Fixtures and fittings</td>
+    <td></td>
+    <td>7 000</td>
+   </tr>
+   <tr>
+    <td>Vehicles</td>
+    <td></td>
+    <td>21 000</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>88 000</td>
+   </tr>
+   <tr>
+    <td><i>Current assets</i></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Inventory</td>
+    <td>1 010</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Trade receivables</td>
+    <td>1 740</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Bank balance</td>
+    <td>1 840</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Cash</td>
+    <td>480</td>
+    <td>5 070</td>
+   </tr>
+   <tr>
+    <td>Total assets</td>
+    <td></td>
+    <td>93 070</td>
+   </tr>
+   <tr>
+    <td><b>CAPITAL AND LIABILITIES</b></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td><i>Capital</i></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Capital introduced</td>
+    <td></td>
+    <td>70 000</td>
+   </tr>
+   <tr>
+    <td>Add Profit</td>
+    <td></td>
+    <td>23 750</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>93 750</td>
+   </tr>
+   <tr>
+    <td>Less Drawings</td>
+    <td></td>
+    <td>2 170</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td>91 580</td>
+   </tr>
+   <tr>
+    <td><i>Current liabilities</i></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Trade payables</td>
+    <td></td>
+    <td>1 490</td>
+   </tr>
+   <tr>
+    <td>Total capital and liabilities</td>
+    <td></td>
+    <td>93 070</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

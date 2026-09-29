@@ -1,0 +1,35 @@
+```latex
+\section*{Fourier Transform Pairs}
+
+($n, t, \omega, a, \omega_o, t_o$ are Real numbers ; $j$ = complex number ; $n$ = integer ; $\omega$ = angular frequency)
+
+\begin{tabular}{|c|c||c|c|}
+\hline
+\textbf{Time Domain} & \textbf{Fourier Transform} & \textbf{Time Domain} & \textbf{Fourier Transform} \\
+\hline
+$f(t)$ & $\int_{-\infty}^{+\infty} f(t)e^{-j\omega t} dt$ & $\frac{1}{2\pi} \int_{-\infty}^{+\infty} F(\omega)e^{j\omega t} d\omega$ & $F(\omega)$ \\
+\hline
+$a_1 f_1(t) + a_2 f_2(t)$ & $a_1 F_1(\omega) + a_2 F_2(\omega)$ & $f(a \cdot t)$ \newline $a \neq 0$ & $\frac{1}{|a|} F\left(\frac{\omega}{a}\right)$ \\
+\hline
+$e^{j\omega_o t} f(t)$ & $F(\omega - \omega_o)$ & $f(t - t_o)$ & $e^{-j\omega t_o} F(\omega)$ \\
+\hline
+$\frac{d^n [f(t)]}{dt^n}$ \newline $(n>0)$ & $(j\omega)^n F(\omega)$ & $(-jt)^n f(t)$ \newline $(n>0)$ & $\frac{d^n [F(\omega)]}{d\omega^n}$ \\
+\hline
+$e^{-at} u(t)$ \newline $a > 0$ & $\frac{1}{a + j\omega}$ & $e^{at} u(-t)$ \newline $a > 0$ & $\frac{1}{a - j\omega}$ \\
+\hline
+$\cos(\omega_o t)$ & $\pi [\delta(\omega - \omega_o) + \delta(\omega + \omega_o)]$ & $\sin(\omega_o t)$ & $\frac{\pi}{j} [\delta(\omega - \omega_o) - \delta(\omega + \omega_o)]$ \\
+\hline
+$\delta(t)$ & $1$ & $\delta(t - t_o)$ & $e^{-j\omega t_o}$ \\
+\hline
+$1$ & $2\pi \cdot \delta(\omega)$ & $e^{j\omega_o t}$ & $2\pi \cdot \delta(\omega - \omega_o)$ \\
+\hline
+$u(t)$ & $\pi \cdot \delta(\omega) + \frac{1}{j\omega}$ & $u(-t)$ & $\pi \cdot \delta(\omega) - \frac{1}{j\omega}$ \\
+\hline
+$u(t) - u(-t)$ & $\frac{2}{j\omega}$ & $u(t) + u(-t)$ & $2\pi\delta(\omega)$ \\
+\hline
+$t^{(n-1)} \cdot e^{-at} \cdot u(t)$ \newline $a > 0$ ; $n > 0$ & $\frac{(n-1)!}{(a + j\omega)^n}$ & $t^{(n-1)} \cdot e^{at} \cdot u(-t)$ \newline $a > 0$ ; $n > 0$ & $\frac{(n-1)!}{(a - j\omega)^n} \cdot (-1)^{n-1}$ \\
+\hline
+$\cos(\omega_o t) \cdot f(t)$ & $\frac{1}{2} [F(\omega - \omega_o) + F(\omega + \omega_o)]$ & $\sin(\omega_o t) \cdot f(t)$ & $\frac{1}{2j} [F(\omega - \omega_o) - F(\omega + \omega_o)]$ \\
+\hline
+\end{tabular}
+```

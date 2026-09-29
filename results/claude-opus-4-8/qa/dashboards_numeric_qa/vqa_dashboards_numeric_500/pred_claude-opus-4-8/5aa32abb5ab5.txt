@@ -1,0 +1,10 @@
+Based on the table in the infographic, the **Failover nodes** row shows:
+
+- VMware Standard: 32
+- VMware Enterprise: 32
+- VMware Ent. Plus: 32
+- Microsoft Standard: (blank/none shown)
+- Microsoft Ent.: 16
+- Microsoft DC: 16
+
+**2 Microsoft Hyper-V versions** have Failover nodes equal to 16 (Microsoft Ent. and Microsoft DC).

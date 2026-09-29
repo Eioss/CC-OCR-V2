@@ -1,0 +1,1 @@
+[{"bbox_2d":[229,199,768,224],"label":"seller_name"},{"bbox_2d":[93,250,859,336],"label":"seller_address"},{"bbox_2d":[105,745,266,769],"label":"date"},{"bbox_2d":[722,646,883,666],"label":"total_amount"}]

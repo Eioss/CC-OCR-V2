@@ -1,0 +1,23 @@
+```json
+[
+	{"bbox_2d": [25, 120, 289, 137], "label": "ADD"},
+	{"bbox_2d": [22, 142, 248, 160], "label": "Address"},
+	{"bbox_2d": [24, 229, 223, 246], "label": "Address"},
+	{"bbox_2d": [603, 578, 686, 594], "label": "Amount"},
+	{"bbox_2d": [23, 103, 319, 119], "label": "Company Name"},
+	{"bbox_2d": [20, 208, 263, 223], "label": "Company Name"},
+	{"bbox_2d": [468, 496, 520, 510], "label": "Country of origin of goods"},
+	{"bbox_2d": [572, 320, 636, 336], "label": "Date"},
+	{"bbox_2d": [356, 688, 538, 703], "label": "GROSS WEIGHT"},
+	{"bbox_2d": [411, 320, 478, 335], "label": "Invoice No"},
+	{"bbox_2d": [136, 578, 291, 593], "label": "Numbers and kind of package description of go"},
+	{"bbox_2d": [434, 579, 439, 591], "label": "Quantity"},
+	{"bbox_2d": [434, 624, 439, 635], "label": "Quantity"},
+	{"bbox_2d": [266, 623, 321, 636], "label": "TOTAL"},
+	{"bbox_2d": [411, 443, 434, 455], "label": "Terms of payment"},
+	{"bbox_2d": [419, 189, 655, 208], "label": "Title"},
+	{"bbox_2d": [477, 578, 560, 592], "label": "Unit Price"},
+	{"bbox_2d": [129, 164, 235, 178], "label": "fax"},
+	{"bbox_2d": [25, 164, 125, 178], "label": "tel"}
+]
+```

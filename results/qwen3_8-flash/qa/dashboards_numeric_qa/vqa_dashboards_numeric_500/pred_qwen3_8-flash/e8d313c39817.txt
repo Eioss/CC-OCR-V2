@@ -1,0 +1,8 @@
+The line drawn on the graph is **yellow**.
+
+As stated in the chart’s description:  
+> *“Line represents 7-day rolling average.”*
+
+And visually, that line is clearly **yellow**, not red. It traces a smoother trend over the daily case bars (which are dark blue and light blue for Mondays).
+
+✅ So, the correct answer is: **Yellow**.

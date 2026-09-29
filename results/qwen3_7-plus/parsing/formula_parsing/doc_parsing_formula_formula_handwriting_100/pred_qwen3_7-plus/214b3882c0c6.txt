@@ -1,0 +1,17 @@
+$$\begin{array} { l } { { h _ { \varepsilon _ { k } } \to h \, \, \, \, \mathrm { u n i f o r m l y ~ i n } \, \, \bar { Q } _ { T } . } } \\ { { \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \, \ } } \end{array}$$
+
+ $$\begin{array} { r l } { e _ { i } ^ { s } \mathcal { H } ( L ) ^ { X ^ { L } ( s ) } e _ { i } ^ { s } \cong ( \mathcal { O } ( T _ { s } ) \otimes E n d _ { \mathbb { C } } ( e _ { i } ^ { s } V _ { w } ) ) ^ { X ^ { L } ( s ) } } & { } \\ { \cong \bigoplus _ { a \in [ L / H _ { s } ] } ( \mathcal { O } ( T _ { s } ) \otimes E n d _ { \mathbb { C } } ( V _ { \mu } ) ) ^ { X ^ { L } ( s ) / X ^ { L } ( w , V _ { \mu } ) } . } \end{array}$$
+
+ $$d = \operatorname* { m a x } \{ | F | : F \in \Delta \}$$
+
+ $$\begin{array} { r l } { K = K ( y , s ) } & { { } } \\ { \quad } & { { } = \| u \| _ { L ^ { \infty } \left( Q _ { d } ( y , s ) \cap Q _ { 1 } ^ { + } \right) } + { \frac { 1 } { \epsilon _ { 0 } } } \displaystyle \operatorname* { s u p } _ { r \leq d } \left[ r ^ { 1 - \alpha } \left( r ^ { - ( n + 2 ) } \int _ { Q _ { r } ( y , s ) \cap Q _ { 1 } ^ { + } } | f ( x , t ) | ^ { p ^ { \prime } } d x d t \right) ^ { \frac { 1 } { p ^ { \prime } } } \right] , } \end{array}$$
+
+ $$\gamma ( t ) = \int d \omega J ( \omega ) \coth [ \hbar \omega / 2 k _ { B } T ] \sin ( \omega t ) / \omega ,$$
+
+ $${ \tilde { w } } _ { t + 1 } = ( 1 - \beta ) \left[ \left[ { \tilde { A } } _ { t } ^ { ( 1 ) } , \dots , { \tilde { A } } _ { t } ^ { ( N ) } \right] \right] + \beta \sum _ { k \in S _ { t } } { \frac { | D _ { k } | } { \sum _ { k \in S _ { t } } | D _ { k } | } } { \tilde { w } } _ { t , \tau } ^ { k } .$$
+
+ $$\begin{array} { l } { { Q ( G , t ) = Q ( G + x y , t ) - Q ( G / x y , t ) } } \\ { { \ = \frac { \textstyle Q ( B _ { 1 } + x y , t ) \cdots Q ( B _ { m } + x y , t ) } { \textstyle t ^ { m - 1 } ( t - 1 ) ^ { m - 1 } } + \frac { \textstyle Q ( B _ { 1 } / x y , t ) \cdots Q ( B _ { m } / x y , t ) } { \textstyle t ^ { m - 1 } } . } } \end{array}$$
+
+ $$\dim X \cap T _ { N _ { i } } ( Z ) \leq \dim T _ { N _ { i } } ( Z ) = \dim Z \leq \dim X - 1$$
+
+ $$P ( A _ { i } | u ( s , x ) , s \leq t _ { i - 1 } , x \in T ) \leq \eta ^ { j }$$

@@ -1,0 +1,87 @@
+<table>
+<tr>
+<td colspan="2" rowspan="2">表面活性剂</td>
+<td colspan="5">逆转倍数</td>
+</tr>
+<tr>
+<td>ADM</td>
+<td>DNR</td>
+<td>VCR</td>
+<td>VP-16</td>
+<td>HRT</td>
+</tr>
+<tr>
+<td rowspan="8">K562/A02</td>
+<td>PEG-1000</td>
+<td>1.1 ±0.1</td>
+<td>1.0 ±0.1</td>
+<td>1.3 ±0.2</td>
+<td>0.9 ±0.1</td>
+<td>1.2 ±0.3</td>
+</tr>
+<tr>
+<td>S-40</td>
+<td>15.3 ±0.6</td>
+<td>7.3 ±1.5</td>
+<td>17.4 ±3.2</td>
+<td>4.1 ±0.4</td>
+<td>15.9 ±1.8</td>
+</tr>
+<tr>
+<td>F-68</td>
+<td>34.2 ±1.5</td>
+<td>12.7 ±2.4</td>
+<td>30.3 ±4.9</td>
+<td>8.1 ±1.2</td>
+<td>28.6 ±4.5</td>
+</tr>
+<tr>
+<td>EL-35</td>
+<td>15.8 ±1.2</td>
+<td>8.2 ±2.3</td>
+<td>21.2 ±3.5</td>
+<td>5.4 ±0.9</td>
+<td>17.7 ±1.6</td>
+</tr>
+<tr>
+<td>T-60</td>
+<td>3.1 ±0.7</td>
+<td>6.2 ±1.1</td>
+<td>16.9 ±2.7</td>
+<td>4.8 ±0.9</td>
+<td>16.1 ±2.0</td>
+</tr>
+<tr>
+<td>Triton-100</td>
+<td>13.4 ±4.1</td>
+<td>10.6 ±1.5</td>
+<td>23.5 ±2.4</td>
+<td>6.4 ±0.9</td>
+<td>19.0 ±1.8</td>
+</tr>
+<tr>
+<td>CTAB</td>
+<td>0.9 ±0.2</td>
+<td>1.0 ±0.0</td>
+<td>0.9 ±0.1</td>
+<td>0.9 ±0.0</td>
+<td>1.0 ±0.2</td>
+</tr>
+<tr>
+<td>Ver</td>
+<td>12.3 ±2.8</td>
+<td>7.1 ±2.1</td>
+<td>19.3 ±2.4</td>
+<td>6.0 ±0.9</td>
+<td>11.2 ±1.9</td>
+</tr>
+<tr>
+<td>K562/S</td>
+<td>F-68</td>
+<td>1.0 ±0.0</td>
+<td>0.9 ±0.1</td>
+<td>1.0 ±0.2</td>
+<td>0.9 ±0.1</td>
+<td>1.1 ±0.1</td>
+</tr>
+</table>

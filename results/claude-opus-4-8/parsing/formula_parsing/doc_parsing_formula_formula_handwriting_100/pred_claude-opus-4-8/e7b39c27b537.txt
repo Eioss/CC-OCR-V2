@@ -1,0 +1,9 @@
+$$\begin{aligned}
+\{\theta_\mu, g\}_{\alpha\beta} &= \{q_\mu \cdot f_{1,\beta+1}, g\}_{\alpha\beta} - \{\overleftarrow{q_\mu} \cdot \overrightarrow{f_{1,\beta+1}}, g\}_{\alpha\beta} \\
+&= q_\mu \{f_{1,\beta+1}, g\}_{\alpha\beta} + f_{1,\beta+1}\{q_\mu, g\}_{\alpha\beta} \\
+&\quad - \overleftarrow{q_\mu}\{\overrightarrow{f_{1,\beta+1}}, g\}_{\alpha\beta} - \overrightarrow{f_{1,\beta+1}}\{\overleftarrow{q_\mu}, g\}_{\alpha\beta} \\
+&= q_\mu \{f_{1,\beta+1}, g\}_{std} - q_\mu \overleftarrow{f_{1,\beta+1}}, \overrightarrow{g} + f_{1,\beta+1}\{q_\mu, g\}_{std} \\
+&\quad - \overleftarrow{q_\mu}\{\overrightarrow{f_{1,\beta+1}}, g\}_{std} - \overrightarrow{f_{1,\beta+1}}\{\overleftarrow{q_\mu}, g\}_{std} \\
+&= (\omega_{f_{1,\beta+1},g} + \omega_{q_\mu\beta})\, q_\mu \cdot f_{1,\beta+1}\, g \\
+&\quad - (\omega_{q_\mu, g} + \omega_{f_{1,\beta+1},g} - s\omega_{\alpha\beta}(g))\, \overleftarrow{q_\mu} \cdot \overrightarrow{f_{1,\beta+1}}\, g
+\end{aligned}$$

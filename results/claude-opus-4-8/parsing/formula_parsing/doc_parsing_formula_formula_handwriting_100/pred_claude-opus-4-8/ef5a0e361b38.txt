@@ -1,0 +1,14 @@
+$$e^{-i\eta}R_{2,1}-R_{2,1}R_{1,2}\left[u_{2,1},\psi_a\right](a)$$
+$$+R_{1,1}R_{2,2}\left[u_{2,1},\psi_a\right](a)+R_{2,2}R_{1,2}\left[u_{2,2},\psi_a\right](a)\left[u_{2,1},\psi_a\right](a)$$
+$$+e^{-i\eta}R_{2,2}\left[u_{2,2},\psi_a\right](a)-R_{2,1}R_{1,2}\left[u_{2,1},\psi_a\right](a)\left[u_{2,2},\psi_a\right](a)$$
+$$-e^{-i\eta}\left[R_{2,2}-R_{1,2}\left[u_{2,1},\psi_b\right](b)\right]\left[\frac{R_{1,1}}{R_{1,2}}+\left[u_{2,2},\psi_a\right](a)\right]$$
+$$+e^{-i\eta}\left[-e^{-i\eta}+R_{1,2}\left[u_{2,1},\psi_a\right](a)\right]\left[-\frac{e^{-i\eta}}{R_{1,2}}-\left[u_{2,2},\psi_b\right](b)\right]$$
+$$-e^{-i\eta}R_{1,1}\left[u_{2,1},\psi_b\right](b)-e^{-i\eta}R_{1,2}\left[u_{2,2},\psi_a\right](a)\left[u_{2,1},\psi_b\right](b)-e^{-2i\eta}\left[u_{2,2},\psi_b\right](b)$$
+$$+e^{-i\eta}R_{1,2}\left[u_{2,1},\psi_a\right](a)\left[u_{2,2},\psi_b\right](b)$$
+$$=e^{-i\eta}\left(\frac{R_{1,1}R_{2,2}-1}{R_{1,2}}\right)+(R_{1,1}R_{2,2}-R_{2,1}R_{1,2})\left[u_{2,1},\psi_a\right](a)$$
+$$+e^{-i\eta}R_{2,2}\left[u_{2,2},\psi_a\right](a)-e^{-i\eta}\frac{R_{2,2}R_{1,1}}{R_{1,2}}-e^{-i\eta}R_{2,2}\left[u_{2,2},\psi_a\right](a)$$
+$$+e^{-i\eta}R_{1,1}\left[u_{2,1},\psi_b\right](b)+e^{-i\eta}R_{1,2}\left[u_{2,1},\psi_b\right](b)\left[u_{2,2},\psi_a\right](a)+\frac{e^{-i\eta}}{R_{1,2}}$$
+$$+e^{-2i\eta}\left[u_{2,2},\psi_b\right](b)-\left[u_{2,1},\psi_a\right](a)-e^{-i\eta}R_{1,2}\left[u_{2,1},\psi_a\right](a)\left[u_{2,2},\psi_b\right](b)$$
+$$-e^{-i\eta}R_{1,1}\left[u_{2,1},\psi_b\right](b)-e^{-i\eta}R_{1,2}\left[u_{2,2},\psi_a\right](a)\left[u_{2,1},\psi_b\right](b)-e^{-2i\eta}\left[u_{2,2},\psi_b\right](b)$$
+$$+e^{-i\eta}R_{1,2}\left[u_{2,1},\psi_a\right](a)\left[u_{2,2},\psi_b\right](b)$$
+$$=0.$$

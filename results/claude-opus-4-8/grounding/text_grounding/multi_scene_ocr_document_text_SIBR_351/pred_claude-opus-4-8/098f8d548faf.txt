@@ -1,0 +1,6 @@
+There are multiple instances of '0.00' in the image. Here are their locations:
+
+(396, 1126, 504, 1167)
+(657, 1126, 762, 1167)
+(341, 1188, 446, 1228)
+(620, 1188, 725, 1228)

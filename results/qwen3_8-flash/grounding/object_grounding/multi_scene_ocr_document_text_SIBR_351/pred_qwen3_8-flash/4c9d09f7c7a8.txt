@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [98, 101, 870, 123], "label": "Address"},
+	{"bbox_2d": [234, 274, 501, 286], "label": "Address"},
+	{"bbox_2d": [230, 292, 374, 302], "label": "Address"},
+	{"bbox_2d": [674, 288, 932, 300], "label": "Address"},
+	{"bbox_2d": [670, 308, 909, 321], "label": "Address"},
+	{"bbox_2d": [671, 328, 888, 339], "label": "Address"},
+	{"bbox_2d": [798, 523, 927, 537], "label": "Amount(USD)"},
+	{"bbox_2d": [799, 630, 928, 643], "label": "Amount(USD)"},
+	{"bbox_2d": [133, 60, 844, 86], "label": "Company Name"},
+	{"bbox_2d": [230, 249, 537, 261], "label": "Company Name"},
+	{"bbox_2d": [231, 226, 319, 239], "label": "Contract No"},
+	{"bbox_2d": [774, 227, 859, 240], "label": "Date"},
+	{"bbox_2d": [273, 332, 475, 344], "label": "Email"},
+	{"bbox_2d": [501, 136, 729, 151], "label": "FAX"},
+	{"bbox_2d": [676, 368, 876, 382], "label": "FAX"},
+	{"bbox_2d": [125, 452, 251, 465], "label": "HS Code"},
+	{"bbox_2d": [252, 523, 343, 536], "label": "Item No"},
+	{"bbox_2d": [416, 523, 458, 536], "label": "Net Weight(KG)"},
+	{"bbox_2d": [417, 630, 459, 642], "label": "Net Weight(KG)"},
+	{"bbox_2d": [600, 523, 670, 536], "label": "PO.NO"},
+	{"bbox_2d": [52, 494, 200, 565], "label": "Product Name"},
+	{"bbox_2d": [521, 523, 582, 536], "label": "Quantity"},
+	{"bbox_2d": [522, 629, 583, 642], "label": "Quantity"},
+	{"bbox_2d": [263, 133, 486, 151], "label": "TEL"},
+	{"bbox_2d": [675, 348, 875, 362], "label": "TEL"},
+	{"bbox_2d": [233, 312, 395, 326], "label": "Tel"},
+	{"bbox_2d": [344, 170, 650, 190], "label": "Title"},
+	{"bbox_2d": [682, 523, 766, 536], "label": "Unit price(USD"}
+]
+```

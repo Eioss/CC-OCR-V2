@@ -1,0 +1,8 @@
+[
+  {"bbox_2d":[184,170,779,190],"label":"seller_name"},
+  {"bbox_2d":[114,211,837,274],"label":"seller_address"},
+  {"bbox_2d":[205,274,753,296],"label":"seller_gst_id"},
+  {"bbox_2d":[755,653,936,676],"label":"total_amount"},
+  {"bbox_2d":[776,758,874,779],"label":"total_tax"},
+  {"bbox_2d":[51,821,231,842],"label":"date"}
+]

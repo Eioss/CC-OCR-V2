@@ -1,0 +1,57 @@
+```latex
+\begin{flushright}
+Contract No. :\\
+合同编号：
+\end{flushright}
+
+\begin{center}
+{\Large xxx engineering contract}\\[1em]
+{\Large xxx 工程合同}\\[2em]
+Party A: xxxCompany Limited\\
+甲方：xxx 有限公司\\[1em]
+Party B:xxx Company Limited\\
+乙方：xxx 有限公司
+\end{center}
+
+\noindent
+This contract is made and entered into on the \underline{\hspace{2cm}} day of
+\underline{\hspace{2cm}}, 2014 by the following Parties in
+\underline{\hspace{2cm}}.
+
+\noindent
+本合同于\underline{\hspace{2cm}}年\underline{\hspace{2cm}}月
+\underline{\hspace{2cm}}日由以下当事方在\underline{\hspace{2cm}}签署。
+
+\noindent
+Party A: xxx Company Limited,
+
+\noindent
+甲方：xxx 有限公司，xxx 经营的公司，住所地为 xxx，（下称“甲方”），法定代表人：xxx
+
+\noindent
+Party B: xxx Company Limited,
+
+\noindent
+乙方：xxx 有限公司，一家 xxx 经营的公司，注册地址是：xxx，（下称“乙方”），法定代表人：xxx
+
+\noindent
+Party A and Party B are called by a joint name of Both Parties under this contract,
+each of which is called as A Party.
+
+\noindent
+甲方和乙方在本合同项下统称为“双方”，单独称为“一方”。
+
+\begin{enumerate}
+\item \underline{Work Content and Requirements}
+
+\item[] 1.\quad \underline{工作内容、要求}
+
+\item[] 1.1\quad In accordance with the items stipulated in this Contract, Party B shall conduct
+the project as per the Project standard and quality standard stipulated by
+Ministry of Engineering of the Union of xx.
+
+\item[] 1.1\quad 依据本合同所限定的条款，乙方应以 xx 工程部规定的建筑标准和质量要求执行本工程。
+
+\item[2.] \underline{Contract Period}
+\end{enumerate}
+```

@@ -1,0 +1,13 @@
+ $$\mathbb { E } \Big | \sum _ { j = 1 } ^ { n } \mathbb { E } _ { j - 1 } X _ { n j } \Big | ^ { p } = O \big ( \frac { | z | ^ { 2 p } } { \delta _ { z } ^ { p } } \big ) + O \big ( \frac { | z | ^ { 2 p } } { \delta _ { z } ^ { 3 p } } \big ) + O \big ( \frac { | z | ^ { 2 p } } { \delta _ { z } ^ { 5 z } } \big ) \leq \phi _ { 1 } ( | z | ) \phi _ { 1 } ( \delta _ { z } ^ { - 1 } ) .$$
+
+ $$v ^ { i } \cdot \xi _ { i } = \frac { 1 } { 2 } \, ( \alpha _ { i } ^ { v } + 3 \, ( \alpha _ { i + 1 } ^ { v } + \cdot \cdot \cdot + \alpha _ { i } ^ { v } ) ) ,$$
+
+ $$J ( u ) : = \| T u - g \| _ { 2 } ^ { 2 } + 2 \alpha \| D ( u ) \| ( \Omega ) ,$$
+
+ $$r _ { \varepsilon } : = i n f \{ \frac { ( 1 - p ) [ v ] _ { p , q } ^ { k } ( v - \eta ) \{ 1 + ( [ v ] _ { p , q } - 1 ) + \} [ 1 + ( v - 1 ) + ] \varepsilon \} ^ { 1 / ( v - 1 ) } } { ( v - p ) ( 1 - \eta ) } \quad ( v \geq 2 ) .$$
+
+ $$\sum _ { j = 0 } ^ { N - 1 } ( H _ { i j } - w S _ { i j } ) c _ { j } = 0 , i = 0 , 1 , \dots , N - 1$$
+
+ $$H _ { i j } = \int _ { - \infty } ^ { \infty } f _ { i } ( q ) \hat { H } f _ { j } ( q ) d q , S _ { i j } = \int _ { - \infty } ^ { \infty } f _ { i } ( q ) f _ { j } ( q ) d q$$
+
+ $$\mathbb { E } \phi ( f ( G _ { a } ) - f ( G _ { b } ) ) \leq \mathbb { E } \phi ( \frac { \pi } { 2 } | | a - b | | _ { 2 } < \nabla f ( X ) , Y > ) ,$$

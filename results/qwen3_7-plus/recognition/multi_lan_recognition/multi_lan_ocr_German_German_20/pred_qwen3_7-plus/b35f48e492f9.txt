@@ -1,0 +1,39 @@
+133
+bb. Die Verschlüsselung der über die Telefonnetze mitgeteilten Daten der Kunden
+
+Eine für die Zulassung des Anscheinsbeweises erforderliche Sicherheit kann im Bereich des
+Telefon-Banking nur erreicht werden, wenn die für das rechtsgeschäftliche Handeln im Tele-
+fon-Banking-Verkehr erforderlichen Legitimationsmittel nicht im Telefonnetz abgehört wer-
+den können434. Deshalb ist es erforderlich, daß zumindest die zugangsrelevanten Daten der
+Kunden (Geheimzahl bzw. Geheimwort und sonstige Legitimationsmittel) im Telefon-
+Banking-Verkehr zur Vermeidung der Abhörbarkeit der Telefonnetze verschlüsselt werden,
+bevor (oder während) sie den Geldinstituten von den Kunden über das Telefon mitgeteilt wer-
+den435.
+
+Zur Sicherung der über die Telefonnetze mitgeteilten Daten der Kunden kann bereits mit der
+heute vorhandenen Technik - wie beim vergleichbaren Btx-Verkehr - eine Verschlüsselung
+der Legitimationsdaten der Kunden mittels eines Codiergeräts in Form einer scheckkartengro-
+ßen, taschenrechnerähnlichen Box erfolgen436.
+Dieses Codiergerät, das über spezielle Funktionstasten für die PIN und TIN (Transaktions-
+Identifikations-Nummern437) und einen kundenspezifischen, nur dem Kreditinstitut bekannten
+Algorithmus verfügt, könnte im Telefon-Banking-Verkehr wie folgt eingesetzt werden:
+Zusammen mit einer vom Computer des Geldinstituts vergebenen Zusatzzahl und der Ge-
+heimnummer des Kunden würde dieses Codiergerät über den Algorithmus eine persönliche
+Identifikations-Codenummer (PIC) errechnen; anschließend würde diese PIC und die Konto-
+nummer vom Telefon-Banking-Girokonto über seine Telefontastatur an den Computer des
+Kreditinstituts übermittelt werden, der in der Zwischenzeit ebenfalls die Codenummer-
+Berechnung vorgenommen hätte und daher die von der Box herrührende Codenummer bereits
+kennen würde438.
+
+434 So auch Krebs, Betriebswirtschaftliche Blätter 1994, S. 231, 232; Borsum/Hoffmeister, NJW 1985, S. 1205,
+1206 für den vergleichbaren Btx-Verkehr.
+435 Zu den Möglichkeiten der Chiffrierung und Dechiffrierung der über Telefonleitungen übertragenen Daten
+vgl. Adam, a.a.O., S. 291 ff.; Kaufman/Perlman/Speciner, Network Security, 1995, S. 45 ff.; Ches-
+wick/Bellovin, a.a.O., S. 255; Straub, Sicherheit im Electronic Banking, in: FS Kleiner, Banken und
+Bankrecht im Wandel, 1993, S. 69, 79 ff.; Streitz, Datenfernübertragung, NJW-CoR 1996, S. 90 ff.; Kuner,
+Digitale Unterschrift im Internet-Zahlungsverkehr: Rechtliches in Deutschland und U.S.A., NJW-CoR 1996,
+S. 108 ff..
+436 Vgl. hierzu Straub, a.a.O., S. 69, 79.
+437 Zum Btx-Verkehr vgl. Blaurock, CR 1989, S. 561, 563; Wettstein, a.a.O., S. 91 f.; Canaris, Bankvertrags-
+recht, Rn. 527 ff.; Kümpel, a.a.O., Rn. 4.372.
+438 Vgl. Straub, a.a.O., S. 69, 83; Ewe, Digital klingt ganz normal, Bank Magazin, Heft 1/1994, S. 44, 47.

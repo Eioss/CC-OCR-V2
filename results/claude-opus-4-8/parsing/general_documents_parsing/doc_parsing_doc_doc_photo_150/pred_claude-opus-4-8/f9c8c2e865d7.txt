@@ -1,0 +1,72 @@
+# 7. Singular – Plural
+
+\begin{table}[h]
+\centering
+\begin{tabular}{llllll}
+\hline
+\textbf{Singular} & & & & & \\
+\hline
+axis & crisis & analysis & basis & thesis & criterion \\
+axes & crises & analyses & bases & theses & criteria \\
+\hline
+datum & medium & erratum & stratum & memorandum & agendum \\
+data & media & errata & strata & memoranda & agenda \\
+\hline
+alumna & formula & antenna & bacterium & aquarium & \\
+alumnae & formulae & antennae & bacteria & aquaria & \\
+\hline
+focus & locus & terminus & alumnus & fungus & \\
+foci & loci & termini & alumni & fungi & \\
+\hline
+syllabus & radius & stimulus & tooth & foot & goose \\
+syllabi & radii & stimuli & teeth & feet & geese \\
+\hline
+matrix & index & appendix & apex & vertex & genie \\
+matrices & indices & appendices & apices & vertices & genies \\
+\hline
+cupful & dining room & grown up & spoonful & daughter-in-law & \\
+cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law & \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lllllll}
+\hline
+son-in-law & runner-up & governor-general & army & baby & boy & toy \\
+sons-in-law & runners-up & governors-general & armies & babies & boys & toys \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Additional examples:}
+
+\begin{itemize}
+    \item buffalo $\rightarrow$ buffaloes
+    \item man $\rightarrow$ men
+    \item woman $\rightarrow$ women
+    \item child $\rightarrow$ children
+    \item leaf $\rightarrow$ leaves
+    \item thief $\rightarrow$ thieves
+    \item knife $\rightarrow$ knives
+    \item wife $\rightarrow$ wives
+    \item life $\rightarrow$ lives
+    \item man-servant $\rightarrow$ men-servants
+\end{itemize}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lllllll}
+\hline
+virus & photo & sheep & deer & aircraft & furniture & cattle \\
+viruses & photos & sheep & deer & aircraft & furniture & cattle \\
+\hline
+corps & species & spectacles & means & premises & series & \\
+corps & species & spectacles & means & premises & series & \\
+\hline
+innings & pants & & & & & \\
+innings & pants & & & & & \\
+\hline
+\end{tabular}
+\end{table}

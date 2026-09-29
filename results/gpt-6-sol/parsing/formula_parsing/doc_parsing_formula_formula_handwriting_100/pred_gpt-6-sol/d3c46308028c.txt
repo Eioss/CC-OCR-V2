@@ -1,0 +1,21 @@
+\[
+\begin{aligned}
+\frac{C_1}{K_{n,j+1}^{2}}
+&\le
+\left|
+\int
+\frac{Q_{n,j+1}^{2}(x)}{z-x}
+\frac{H_{n,j+1}(x)\,d\sigma_{j+1}(x)}
+{Q_{n,j}(x)Q_{n,j+1}(x)}
+\right|
+\le \frac{C_2}{K_{n,j+1}^{2}},\\[6pt]
+E_v[D_\Lambda(w;v)]
+&\le E_v[D_\Lambda(\bar w;v)]+\epsilon,\\[6pt]
+\lVert h^m\rVert_{L^2(0,T;H^1(\Omega))}^{2}
+&\le C\lVert\Delta^2h^m\rVert_{L^2(0,T;L^2(\Omega))}^{2},\\[6pt]
+\langle P_{i,\Lambda},P_{j,\Lambda}\rangle
+&=-1=\langle P_{j,\Lambda'},P_{j,\Lambda'}\rangle,\\[6pt]
+\bigl(x_{[k-1]\setminus\{d\}},\,y_d^i-t_da_k\bigr)
+&\in V.
+\end{aligned}
+\]

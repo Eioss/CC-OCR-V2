@@ -1,0 +1,98 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{booktabs}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{English First Paper} \hfill Full Marks : 100 \\
+    \large (Subject code: 107)
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|c|p{4.5cm}|c|p{6cm}|c|}
+    \hline
+    \textbf{Marks} & \multicolumn{4}{c|}{\textbf{Marks and Test Items Distribution}} \\
+    \hline
+    & \centering\textbf{Skills/Areas} & \textbf{Marks} & \centering\textbf{Test Items} & \textbf{Item Marks} \\
+    \hline
+    \multirow{13}{*}{100} & \multirow{3}{4.5cm}{\centering \textbf{Section A} \\ Reading Test (Seen Passage) \\ Question 1-3} & \multirow{3}{*}{25} & 1. Multiple choice questions & $1 \times 5 = 5$ \\
+    \cline{4-5}
+    & & & 2. Short questions & $2 \times 5 = 10$ \\
+    \cline{4-5}
+    & & & 3. Summarizing & 10 \\
+    \cline{2-5}
+    & \multirow{6}{4.5cm}{\centering Reading Test (Unseen Passage) Question 4 \& 5} & \multirow{6}{*}{35} & 4. Information transfer & $1 \times 5 = 5$ \\
+    \cline{4-5}
+    & & & 5. True/ False & $1 \times 5 = 5$ \\
+    \cline{4-5}
+    & & & 6. Fill in the gaps with app. words & $1 \times 5 = 5$ \\
+    \cline{4-5}
+    & & & 7. Rearranging sentence & 10 \\
+    \cline{4-5}
+    & & & 8. Gap filling with clues & $0.5 \times 10 = 5$ \\
+    \cline{4-5}
+    & & & 9. Matching sentence parts & $1 \times 5 = 5$ \\
+    \cline{2-5}
+    & \multirow{4}{4.5cm}{\centering \textbf{Section B} \\ Writing} & \multirow{4}{*}{40} & 10. Dialogue writing & 10 \\
+    \cline{4-5}
+    & & & 11. Paragraph writing & 10 \\
+    \cline{4-5}
+    & & & 12. Completing story & 10 \\
+    \cline{4-5}
+    & & & 13. Informal letter & 10 \\
+    \hline
+\end{tabular}
+
+\vspace{1cm}
+
+\begin{center}
+    \Large\textbf{English Second Paper} \hfill Full Marks : 50 \\
+    \large (Subject code: 108)
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|c|p{2.5cm}|c|p{8cm}|c|}
+    \hline
+    \textbf{Marks} & \multicolumn{4}{c|}{\textbf{Marks and Test Items Distribution}} \\
+    \hline
+    \multirow{8}{*}{50} & \multirow{8}{2.5cm}{\centering \textbf{Section A} \\ * Grammar} & \multirow{8}{*}{30} & 1. Gap filling activities with or without clues (use articles) & $0.5 \times 6 = 03$ \\
+    \cline{4-5}
+    & & & 2. Gap filling activities with or without clues (prepositions etc) & $0.5 \times 6 = 03$ \\
+    \cline{4-5}
+    & & & 3. Substitution table & $1 \times 4 = 4$ \\
+    \cline{4-5}
+    & & & 4. Narrative style \newline (direct to indirect and vice versa) & 4 \\
+    \cline{4-5}
+    & & & 5. Changing sentences (affirmative to negative and interrogative and vice versa, positive to comparative or comparative to superlative and vice versa, active to passive and vice versa) & $1 \times 5 = 5$ \\
+    \cline{4-5}
+    & & & 6. Capitalization and punctuation & $0.5 \times 6 = 03$ \\
+    \cline{4-5}
+    & & & 7. Use of suffixes and prefixes & $0.5 \times 8 = 04$ \\
+    \cline{4-5}
+    & & & 8. Right forms of verbs & $0.5 \times 8 = 04$ \\
+    \hline
+    \multicolumn{5}{|p{17cm}|}{\textbf{* Notes :} Marks distribution for each test item (Reading and Writing) can vary from time to time. No text or test item can be taken directly from the EFT. Test items should be placed within appropriate context.} \\
+    \hline
+    & \multirow{2}{2.5cm}{\centering \textbf{Section B} \\ *Composition} & \multirow{2}{*}{20} & \multicolumn{1}{c|}{\textbf{Test Items}} & \textbf{Items Marks} \\
+    \cline{4-5}
+    & & & \begin{itemize} \item Formal letter/e-mail \item Writing \textbf{composition} on personal experience and familiar topics, recent events/ incidents \end{itemize} & \begin{tabular}{c} 08 \\ 12 \end{tabular} \\
+    \hline
+\end{tabular}
+
+\vspace{0.2cm}
+\noindent Curriculum Dissemination Programme, SESDP, NCTB
+
+\end{document}
+```

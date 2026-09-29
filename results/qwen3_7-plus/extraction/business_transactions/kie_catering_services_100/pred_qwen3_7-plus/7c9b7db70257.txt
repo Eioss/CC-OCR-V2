@@ -1,0 +1,60 @@
+```json
+{
+    "menu": [
+        {
+            "name": "UDANG RE",
+            "price": "432,000"
+        },
+        {
+            "name": "=*LARGE*==",
+            "price": ""
+        },
+        {
+            "name": "AYM GR JUN NJAN",
+            "price": "108,000"
+        },
+        {
+            "name": "=*MEDIUM*=",
+            "price": ""
+        },
+        {
+            "name": "SAPO TH SEAFOOD",
+            "price": "172,000"
+        },
+        {
+            "name": "=*LARGE*==",
+            "price": ""
+        },
+        {
+            "name": "POCAI 3",
+            "price": "222,000"
+        },
+        {
+            "name": "=*MEDIUM*=",
+            "price": ""
+        },
+        {
+            "name": "GURAME FILLET M ASAM MANIS",
+            "price": "163,000"
+        },
+        {
+            "name": "BIHUN GORENG JJ",
+            "price": "116,000"
+        },
+        {
+            "name": "=*LARGE*==",
+            "price": ""
+        },
+        {
+            "name": "ICED TEA",
+            "price": "60,000"
+        },
+        {
+            "name": "NASI PUTIH",
+            "price": "70,000"
+        }
+    ],
+    "sub_total": "1,343,000",
+    "total": "1,565,938"
+}
+```

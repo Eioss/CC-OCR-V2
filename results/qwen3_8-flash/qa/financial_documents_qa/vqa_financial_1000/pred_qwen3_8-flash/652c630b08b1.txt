@@ -1,0 +1,9 @@
+Based on the provided image of the airline ticket, we can identify the point of origin by examining the flight details.
+
+The ticket shows a multi-leg journey for passenger Dr. William Darby. The first leg of the trip is listed as:
+-   **FROM:** LAGUARDIA
+-   **TO:** NASHVILLE
+
+This indicates that the journey begins at LaGuardia Airport. Additionally, the "ORIGIN" field near the top of the ticket also has "LGA" handwritten in it, which is the airport code for LaGuardia.
+
+Therefore, the point of origin is **LaGuardia (LGA)**.

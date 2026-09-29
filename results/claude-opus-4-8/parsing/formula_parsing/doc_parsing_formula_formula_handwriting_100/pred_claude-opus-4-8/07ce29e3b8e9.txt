@@ -1,0 +1,13 @@
+$$\left| \int_{t_n}^t \int_{-\infty}^\infty \frac{u^2(s,\tau)}{2} \left( G_x(x,t;s,\tau) h_\alpha'(s) + G_{sx}(x,t;s,\tau) h_\alpha(s) \right) ds d\tau \right|$$
+
+$$\leq \frac{(\|u_0\|_\infty + 1)^2}{2} \|h_\alpha'\|_\infty \int_{t_n}^t \frac{1}{\sqrt{t(t-\tau)}} \, d\tau$$
+
+$$+ \left| \int_{t_n}^t \int_{-\infty}^\infty \left( u^2(x + 2\sqrt{t-\tau}\,\lambda, \tau) h_\alpha\left(x + 2\sqrt{t-\tau}\,\lambda\right) - u^2(x,\tau) h_\alpha(x) \right) \right.$$
+
+$$\left. \times \frac{(\lambda^2 - 1/2)}{\sqrt{\tau}\,(t-\tau)} \, e^{-\lambda^2} ds d\tau \right|$$
+
+$$\leq c \left( \|u_0\|_\infty, \alpha \right) (2n)^{-1/2}$$
+
+$$+ \int_{t_n}^t \int_{-\infty}^\infty c \left( \|u_0\|_\infty, \alpha, \beta \right) \left( \frac{\sqrt{t-\tau}\,|\lambda|}{\sqrt{\tau}} \right)^\beta |\lambda^2 - 1/2| \frac{1}{(t-\tau)} e^{-\lambda^2} \, d\lambda d\tau$$
+
+$$\leq c \left( \|u_0\|_\infty, \alpha, \beta \right) (2n)^{-1/2} + \int_{t-1/(2n)}^t \frac{1}{q^{\beta/2}(1-q)^{1-\beta/2}} \, dq$$

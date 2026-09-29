@@ -1,0 +1,16 @@
+As of **4/12/2020**, according to the provided dashboard:
+
+> **State Lab**: **160**
+
+This number appears under the section **“COVID-19 Cases by Laboratory Type”**, which breaks down cases based on where the test was processed.
+
+⚠️ **Important Clarification**:  
+The value **160** refers to the **number of confirmed COVID-19 cases** that were identified through testing conducted at the **Arizona State Laboratory**, **not** the total number of tests performed there.
+
+Dashboards like this typically report **confirmed cases by lab type**, not total tests administered. There is no data in this image showing the total number of tests (including negative or pending results) done at the state lab — only the number of *positive cases* attributed to it.
+
+---
+
+✅ **Final Answer**:  
+**160 confirmed cases** were reported from tests processed at the Arizona State Laboratory as of 4/12/2020.  
+*(Not the total number of tests performed.)*

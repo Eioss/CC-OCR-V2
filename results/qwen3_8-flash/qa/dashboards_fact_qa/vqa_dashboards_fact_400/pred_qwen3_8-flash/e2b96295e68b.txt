@@ -1,0 +1,11 @@
+Based on the provided infographic, under the **"Go-to-market"** section, there is a pie chart specifically for **Android**.
+
+In that Android pie chart:
+- The dark green segment represents the **App Store** (as indicated by the legend).
+- This segment is labeled with **53%**.
+
+Therefore, according to the data shown in the image, **App Store is the primary market channel for 53% of Android developers**.
+
+*(Note: While this might seem counterintuitive since Android apps are typically distributed via Google Play, the infographic explicitly labels the "App Store" category as 53% for Android. It's possible the term "App Store" here is being used generically to mean the official platform store, i.e., Google Play, or it reflects developer perception/survey wording from 2010.)*
+
+✅ Final Answer: **53%**

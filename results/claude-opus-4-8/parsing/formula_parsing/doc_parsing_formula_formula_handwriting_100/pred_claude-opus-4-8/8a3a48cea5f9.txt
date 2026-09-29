@@ -1,0 +1,23 @@
+$$\left(\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{p}\right)^{\frac{1}{p}}\left(\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q}\right)^{\frac{1}{q}}\leq\frac{r}{p}\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{p}+\frac{r}{q}\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q}$$
+
+$$-\sum_{j=1}^{N}(-1)^{k_{j}}2^{j-1}(\frac{r}{p})+(-1)^{k_{j}+1}[\frac{k_{j}+1}{2}])$$
+
+$$\times\left(\sqrt[2]{\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{p}}\right)^{k_{j}}+|(\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{q})^{2j-1-k_{j}-1)^{2}}$$
+
+$$\leq\frac{r}{p}\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle+\frac{r}{q}\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle-\qquad(\text{by }(??))$$
+
+$$-\sum_{j=1}^{N}((-1)^{k_{j}}2^{j-1}(\frac{r}{p})+(-1)^{k_{j}+1}[\frac{k_{j}+1}{2}])$$
+
+$$\times(\sqrt[2]{\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q}})^{2j-1-k_{j}})^{2}$$
+
+$$-2j[(\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{p})^{k_{j}}+|(\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{q})^{2j-1-k_{j}}-1)^{2}}$$
+
+$$\times(\sqrt[2]{\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q}})^{2j-1-k_{j}})^{2}$$
+
+$$=\frac{r}{p}(\sum_{j=1}^{n}\langle|T_{j}||^{p}|x,y\rangle+\frac{r}{q}\langle(\sum_{j=1}^{n}|T_{j}|^{q})|x,y\rangle\quad(\text{by Lemma }(??),(\mathfrak{a}))$$
+
+$$-\sum_{j=1}^{N}((-1)^{k_{j}}2^{j-1}(\frac{r}{p})+(-1)^{k_{j}+1}[\frac{k_{j}+1}{2}])$$
+
+$$\times(\sqrt[2]{\sum_{j=1}^{n}\langle|T_{j}||x,y\rangle^{p})^{k_{j}}+|(\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q})^{2j-1-k_{j}}}-1)^{2}}$$
+
+$$-2j[(\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{p})^{k_{j}}+|(\sum_{j=1}^{n}\langle|T_{j}^{*}||x,y\rangle^{q})^{2j-1-k_{j}}-1)^{2}}$$

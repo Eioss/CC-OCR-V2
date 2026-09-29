@@ -1,0 +1,32 @@
+<table>
+  <tr>
+    <td>Type/Tput(MOPS)</td>
+    <td>Alloc</td>
+    <td>Free</td>
+  </tr>
+  <tr>
+    <td>Glibc</td>
+    <td>21.0</td>
+    <td>57.0</td>
+  </tr>
+  <tr>
+    <td>Pmem</td>
+    <td>1.42</td>
+    <td>1.38</td>
+  </tr>
+  <tr>
+    <td>RPC allocator</td>
+    <td>0.33</td>
+    <td>0.88</td>
+  </tr>
+  <tr>
+    <td>Two-tier allocator (slab-size: 128 Bytes)</td>
+    <td>1.33</td>
+    <td>2.41</td>
+  </tr>
+  <tr>
+    <td>Two-tier allocator (slab-size: 1024 Bytes)</td>
+    <td>6.42</td>
+    <td>13.90</td>
+  </tr>
+</table>

@@ -1,0 +1,16 @@
+Based on the provided table, **Table 2. Estrogen Therapy and Secondary Prevention of Cardiovascular Events in Postmenopausal Women**, we can find the row for **Hulley et al., 1998**.
+
+Looking across that row to the column labeled **RR** (Relative Risk), the value listed is:
+
+> **0.99†**
+
+---
+
+### Additional Context from the Table:
+- The † symbol indicates this RR refers to **“Coronary sudden death, fatal and nonfatal acute myocardial infarction.”**
+- The 95% CI for this study is **0.80–1.22**.
+- The study design was **Randomized prospective**.
+
+---
+
+✅ So, the RR value for Hulley et al., 1998 is **0.99**.

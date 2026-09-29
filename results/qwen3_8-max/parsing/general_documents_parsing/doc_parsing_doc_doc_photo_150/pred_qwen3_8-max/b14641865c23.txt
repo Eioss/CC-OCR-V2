@@ -1,0 +1,73 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\section*{SECTION II \hfill THE COMPARATIVE STUDY (70 marks)}
+
+Candidates must answer \textbf{one} question from \textbf{either} A -- Theme or Issue \textbf{or} B -- Literary Genre, \textbf{or} C -- General Vision and Viewpoint.
+
+\vspace{0.5cm}
+
+Candidates who answer a question in \textbf{SECTION I} -- The Single Text, may not refer to the same text in answer to questions in this section.
+
+\vspace{0.5cm}
+
+All texts used in this section must be prescribed for comparative study for this year's examination. Candidates may refer to only one film in the course of their answers.
+
+\vspace{0.5cm}
+
+Please note:
+\begin{itemize}
+    \item Questions in this section use the word \textbf{text} to refer to all the different kinds of texts available for study on this course.
+    \item When used, the word \textbf{reader} includes viewers of films and theatre audiences.
+    \item When used, the term \textbf{technique} is taken to include techniques employed by all writers and directors of films.
+    \item When used, the word \textbf{author} is taken to include all writers and directors of films.
+    \item When used, the word \textbf{character} is understood to refer to both real people and fictional characters in texts.
+\end{itemize}
+
+\vspace{1cm}
+
+\begin{tcolorbox}[colback=purple!10!white, colframe=purple!50!black, title=\textbf{A \quad THEME OR ISSUE}]
+
+\begin{enumerate}[label=\textbf{1.}, leftmargin=*]
+    \item ``There are many reasons why the exploration of the same theme or issue can be more captivating in some texts than in others.''
+    
+    \vspace{0.5cm}
+    
+    Compare the reasons why you found the exploration of the same theme or issue more captivating in some texts than in others. Support your answer with reference to \textbf{at least two} texts on your comparative course. \hfill (70)
+\end{enumerate}
+
+\vspace{0.5cm}
+\begin{center}
+    \textbf{OR}
+\end{center}
+\vspace{0.5cm}
+
+\begin{enumerate}[label=\textbf{2.}, leftmargin=*]
+    \item ``Studying a theme or issue in a text can enable us to contemplate and evaluate aspects of the human condition.''
+    
+    \vspace{0.5cm}
+    
+    \begin{enumerate}[label=(\alph*), leftmargin=*]
+        \item In relation to \textbf{one} text on your comparative course, discuss the extent to which your chosen theme or issue is relevant to the evaluation of the human condition. Support your answer with reference to the text. \hfill (30)
+        
+        \vspace{0.5cm}
+        
+        \item In relation to \textbf{two other} texts on your comparative course, compare the extent to which your chosen theme or issue is relevant to the human condition. \hfill (40)
+    \end{enumerate}
+\end{enumerate}
+
+\end{tcolorbox}
+
+\end{document}
+```

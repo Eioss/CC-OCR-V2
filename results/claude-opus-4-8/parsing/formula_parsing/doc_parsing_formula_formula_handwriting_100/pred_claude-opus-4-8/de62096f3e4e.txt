@@ -1,0 +1,12 @@
+$$\begin{aligned}
+&\left|y_1^*(t)-y_2^*(t)\right| \\
+&\leq \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}(\Psi(t)-\Psi(a))^\mu + \left|(y_a^{(1)}-y_a^{(2)})\Omega_\Psi^\rho(t,a)\right| \\
+&\quad + \int_a^t \sum_{k=1}^\infty \frac{L^k}{\Gamma(k\mu)} \mathcal{L}_\Psi^{k\mu}(t,\eta)\left(\frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}(\Psi(\eta)-\Psi(a))^\mu + \left|(y_a^u-y_a^{(2)})\Omega_\Psi^\rho(t,\alpha)\right|\right)d\eta \\
+&= \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}(\Psi(t)-\Psi(a))^\mu + \left|(y_a^{(1)}-y_a^{(2)})\Omega_\Psi^\rho(t,\alpha)\right| \\
+&\quad + \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}\sum_{k=1}^\infty L^k I_{a^+}^{k\mu;\Psi}(\Psi(t)-\Psi(a))^\mu + \frac{|y_a^{(1)}-y_a^{(2)}|}{\Gamma(\rho)}\sum_{k=1}^\infty L^k I_{a^+}^{k\mu;\Psi}(\Psi(t)-\Psi(a))^{\rho-1} \\
+&= \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}(\Psi(t)-\Psi(a))^\mu + \left|y_a^{(1)}-y_a^{(2)}\right|\Omega_\Psi^\rho(t,\alpha) \\
+&\quad + \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)}\sum_{k=1}^\infty L^k \frac{\Gamma(\mu+1)}{\Gamma((k+1)\mu+1)}(\Psi(t)-\Psi(a))^{(k+1)\mu} \\
+&\quad + \frac{|y_a^{(1)}-y_a^{(2)}|}{\Gamma(\rho)}\sum_{k=1}^\infty \frac{L^k\Gamma(\rho)}{\Gamma(\rho+k\mu)}(\Psi(t)-\Psi(a))^{k\mu+\rho-1} \\
+&= (\epsilon_1+\epsilon_2)\left(\frac{(\Psi(t)-\Psi(a))^\mu}{\Gamma(\mu+1)} + \sum_{k=1}^\infty \frac{L^k}{\Gamma((k+1)\mu+1)}(\Psi(t)-\Psi(a))^{(k+1)\mu}\right) \\
+&\quad + \left|y_a^{(1)}-y_a^{(2)}\right|\left(\frac{(\Psi(t)-\Psi(a))^{\rho-1}}{\Gamma(\rho)} + \sum_{k=1}^\infty \frac{L^k}{\Gamma(\rho+k\mu)}(\Psi(t)-\Psi(a))^{k\mu+\rho-1}\right)
+\end{aligned}$$

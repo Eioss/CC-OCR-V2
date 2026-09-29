@@ -1,0 +1,85 @@
+\[
+\begin{aligned}
+E\left[
+\left.
+\sum_a z\,
+\frac{
+I\{PS=S^a\}I\{Z_i=z\}I\{A_s=z\}\,a(a+z)/Y_a
+}{
+\sum_a I\{PS=S^a\}I\{A_s=z\}\,a(a+z)/Y_a
+}
+\right|X
+\right]
+&=
+\frac{
+\sum_a z\,I\{PS=S^a\}I\{A_s=z\}\,a(a+z)/Y_a
+}{
+\sum_a I\{PS=S^a\}I\{A_s=z\}\,a(a+z)/Y_a
+}
+f(z\mid X),
+\\[1em]
+\lambda_k-\lambda_{k+1}
+&\ge
+\begin{cases}
+w(c_1)+\delta(c_2,c_{k+1}), & \text{if } c_2\le 2^{k-1},\\
+w(c_1)+\delta(c_k-x_{k-1},c_{k+1}), & \text{if } c_2>2^{k-1},
+\end{cases}
+\\[1em]
+h_{\min}(x^{s-1})
+&>
+h_{\min}(x^s)
+>
+h_{\min}(x^{t+1})
+>
+\cdots
+>
+h_{\min}(x^{2n}),
+\\[1em]
+\sum_\ell k(\hat{u}_\ell)
+&\le
+\sum_\ell \bigl(k(u_\ell)-1\bigr)
+\le
+\sum_\ell k(u_\ell)-d
+\le n,
+\\[1em]
+P_0(\bar{k}_Y)
+&=
+P\bigl(B_y(r),\,k(Y)=0,\,B_{k(Y)}(y)=0\mid y\bigr)
+\\
+&\le
+\min\left\{
+P\bigl(B_y(r),\,k(Y)=0\mid y\bigr),
+P\bigl(B_{k(Y)}(y)=0\mid y\bigr)
+\right\},
+\\[1em]
+A_0
+&\lesssim
+\int_0^T
+\|u^{k/4}\|_{L^\infty_{xy}}
+\|u_x^s\|_{L^\infty_{xy}}
+\left\|D_x^s\left(u^{k/4}u_x\right)\right\|_{L^2_{xy}}
+\,dt
+\\
+&\quad+
+\int_0^T
+\left\|
+D_x^s\left(u^{k/4}u_x\right)u^{k/4}u_x
+\right\|_{L_x^\infty L_y^2}
+\,dt
+=
+A_1+A_2,
+\\[1em]
+\|Du\|_{L^2(\partial\Omega)}
+&\ge
+\frac{|\Omega|}{N}|x-x_0|
+-
+\|Du\|_{L^2(\partial\Omega)}
+\\
+&\ge
+\frac{|\Omega|}{N}|x-x_0|
+-
+\|u\|_{L^2(\partial\Omega)}
+-
+\|Du\|_{(L^2(\partial\Omega))'}.
+\end{aligned}
+\]

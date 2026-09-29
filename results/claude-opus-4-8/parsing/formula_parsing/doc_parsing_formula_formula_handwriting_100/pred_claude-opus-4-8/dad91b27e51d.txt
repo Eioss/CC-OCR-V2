@@ -1,0 +1,10 @@
+$$\lim_{L\to\infty}\frac{c_{n;L}^{(11)}\left(\frac{L}{2}|z|\right)}{\left[\mathfrak{N}_{L}\left(\frac{L}{2}|z|\right)\right]^{1/2}}\sim e^{-\frac{1}{2}|z|^{2}}\frac{z^{n}}{\sqrt{n!}},\quad z=e^{i\phi}|z|,$$
+
+$$AC\langle K_{1}^{*}x\otimes K_{2}^{*}y,K_{1}^{*}x\otimes K_{2}^{*}y\rangle_{A\otimes B}\leq\sum_{i\in I,j\in J}\langle\Lambda_{i}x\otimes\Gamma_{j}y,\Lambda_{i}x\otimes\Gamma_{j}y\rangle_{A\otimes B}$$
+$$\leq BD\langle x\otimes y,x\otimes y\rangle_{A\otimes B},\ \forall x\in\mathcal{H},\forall y\in\mathcal{K}.$$
+
+$$\begin{cases}\dfrac{w_{x}^{2}}{2}+\dfrac{w_{y}^{2}}{2}+W(x,y)=\ln m+\bar{H},\\[2mm]-(\theta(w_{x}))_{x}-(\theta(w_{y}))_{y}=0,\end{cases}$$
+
+$$\sum_{A(w,c')\in D(v,c)}(2p)^{t_{w}}\leq pd_{v}\exp(\delta/72)/2\delta=\exp(-\delta/72)t_{v}\exp(\delta/72)/2=t_{v}/2.$$
+
+$$\Gamma\left(\frac{k+1}{2}\right)\leq\sqrt{2\pi}\cdot e^{\frac{1}{12}}\cdot\left(\frac{k}{2e}\right)^{k/2}$$

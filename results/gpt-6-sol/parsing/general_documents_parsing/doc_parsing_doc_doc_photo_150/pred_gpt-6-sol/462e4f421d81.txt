@@ -1,0 +1,37 @@
+\[
+\begin{gathered}
+\text{Candidate Statement of Results}\\[4pt]
+\begin{array}{ll@{\qquad}ll}
+\text{Season:} & \text{June Exams (Summer) 2019} &
+\text{Series:} & \text{(All)}\\
+\text{Name:} & \text{[obscured] (Alex)} &
+\text{Year:} & 12\\
+\text{Candidate Number:} & 4316 &
+\text{Reg. Group:} & \text{12TAM}\\
+\text{UCI:} & \text{[obscured]} &
+\text{ULN:} & \\
+\end{array}\\[8pt]
+\text{Exam Results}
+\end{gathered}
+\]
+
+\[
+\begin{array}{llllllllll}
+\hline
+\text{Board} & \text{Level} & \substack{\text{Element}\\\text{Code}} &
+\text{Title} & \text{Grd1} & \text{Grd2} &
+\text{Mark Equiv} & \text{End1} & \text{End2} & \text{Points}\\
+\hline
+\text{OCR} & \text{FSMQ/A} & 6993 & \text{Maths: Additional Mathematics} & A & & & & &\\
+\text{CIE} & \text{GCSE/9FC} & \text{0976BY} & \text{Geography Opt by} & 9 & & & & &\\
+\text{EDEXL/GC} & \text{GCSE/9FC} & \text{4HI1} & \text{History} & 9 & & 109 & & &\\
+\text{EDEXL/GC} & \text{GCSE/9FC} & \text{4MA1H} & \text{Mathematics A Option H} & 9 & & 176 & & &\\
+\text{AQA} & \text{GCSE/9FC} & \text{8461H} & \text{Biology Tier H} & 9 & & & & &\\
+\text{AQA} & \text{GCSE/9FC} & \text{8462H} & \text{Chemistry Tier H} & 9 & & & & &\\
+\text{AQA} & \text{GCSE/9FC} & \text{8463H} & \text{Physics Tier H} & 9 & & & & &\\
+\text{AQA} & \text{GCSE/9FC} & \text{8658H} & \text{French Tier H} & 9 & & & & &\\
+\text{AQA} & \text{GCSE/9FC} & 8700 & \text{English Language} & 9 & & & D & &\\
+\text{AQA} & \text{GCSE/9FC} & 8702 & \text{English Literature} & 9 & & & & &\\
+\text{OCR} & \text{GCSE/9FC} & \text{J282F} & \text{Latin Option F} & 8 & & 165 & & &\\
+\end{array}
+\]

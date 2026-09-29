@@ -1,0 +1,38 @@
+```latex
+二、酒及酒精
+
+\begin{enumerate}
+    \item 白酒 \hfill 20\%加0.5元/500克 \\
+    (或者500毫升)
+    \item 黄酒 \hfill 240元/吨
+    \item 啤酒
+    \begin{enumerate}
+        \item[(1)] 甲类啤酒 \hfill 250元/吨
+        \item[(2)] 乙类啤酒 \hfill 220元/吨
+    \end{enumerate}
+    \item 其他酒 \hfill 10\%
+    \item 酒精 \hfill 5\%
+\end{enumerate}
+
+三、化妆品 \hfill 30\%
+
+四、贵重首饰及珠宝玉石
+
+\begin{enumerate}
+    \item 金银首饰、铂金首饰和钻石及钻 \\ 石饰品 \hfill 5\%
+    \item 其他贵重首饰和珠宝玉石 \hfill 10\%
+\end{enumerate}
+
+五、鞭炮、焰火 \hfill 15\%
+
+成品油
+
+\begin{enumerate}
+    \item 汽油
+    \begin{enumerate}
+        \item[(1)] 含铅汽油 \hfill 0.28元/升
+        \item[(2)] 无铅汽油 \hfill 0.20元/升
+    \end{enumerate}
+    \item 柴油 \hfill 0.10元/升
+\end{enumerate}
+```

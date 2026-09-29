@@ -1,0 +1,15 @@
+```json
+{
+    "menu": [
+        {
+            "name": "[MD] SOFT STEAMED CHEESEC",
+            "price": "20,000"
+        },
+        {
+            "name": "[MD] SOFT STEAMED CHOCOCA",
+            "price": "20,000"
+        }
+    ],
+    "total": "40,000"
+}
+```

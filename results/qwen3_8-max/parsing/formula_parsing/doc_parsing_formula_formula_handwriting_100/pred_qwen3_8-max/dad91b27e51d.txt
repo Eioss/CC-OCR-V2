@@ -1,0 +1,9 @@
+ $$\operatorname* { l i m } _ { L \rightarrow \infty } \frac { c _ { n ; L } ^ { ( 1 1 ) } \left( \frac { 1 } { 2 } | z | \right) } { \left[ \Re _ { L } ( \frac { 1 } { 2 } | z | ) \right] ^ { 1 / 2 } } \sim e ^ { - \frac { 1 } { 2 } | z | ^ { 2 } } \frac { z ^ { n } } { \sqrt { n ! } } , \quad z = e ^ { i \phi } | z | ,$$
+
+ $$\begin{array} { r } { A C \langle K _ { 1 } ^ { * } x \otimes K _ { 2 } ^ { * } y , K _ { 1 } ^ { * } x \otimes K _ { 2 } ^ { * } y \rangle _ { A \otimes B } \leq \displaystyle \sum _ { i \in I , j \in J } \langle \Lambda _ { i } x \otimes \Gamma _ { j } y , \Lambda _ { i } x \otimes \Gamma _ { j } y \rangle _ { A \otimes B } } \\ { \leq B D \langle x \otimes y , x \otimes y \rangle _ { A \otimes B } , \forall x \in \mathcal { H } , \forall y \in \mathcal { K } . } \end{array}$$
+
+ $$\left\{ \begin{array} { l l } { \frac { w _ { x } ^ { 2 } } { 2 } + \frac { w _ { y } ^ { 2 } } { 2 } + W ( x , y ) = \ln m + \bar { H } , } \\ { - ( \theta ( w _ { x } ) ) _ { x } - ( \theta ( w _ { y } ) ) _ { y } = 0 \, , } \end{array} \right.$$
+
+ $$\sum _ { A ( w , c ) \in D ( v , c ) } ( 2 p ) ^ { t _ { w } } \leq p d _ { w } \exp ( \delta / 7 2 ) / 2 \delta = \exp ( - \delta / 1 2 ) t _ { w } \exp ( \delta / 7 2 ) / 2 = t _ { w } / 2 \, .$$
+
+ $$\Gamma { \big ( } { \textstyle { \frac { k + 1 } { 2 } } } { \big ) } \leq { \sqrt { 2 \pi } } \cdot e ^ { \frac { 1 } { 1 2 } } \cdot { \big ( } { \frac { k } { 2 e } } { \big ) } ^ { k / 2 }$$

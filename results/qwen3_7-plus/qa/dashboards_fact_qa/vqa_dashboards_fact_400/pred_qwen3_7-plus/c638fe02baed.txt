@@ -1,0 +1,9 @@
+Based on the infographic "THE MOBILE DEVELOPER JOURNEY", under the section **"Time-to-market for apps"**, there is a diagram showing timeframes for different distribution channels.
+
+For the **App Store** channel:
+- The **Time-to-market** (dark teal segment) is **22 days**.
+- The **Time-to-payment** (light blue segment) is **36 days**.
+
+The total cycle time shown for App Store is 58 days (22 + 36).
+
+Therefore, the **Time-to-payment for apps through App Store** is **36 days**.

@@ -1,0 +1,94 @@
+```latex
+\[
+\begin{array}{c}
+\text{BAROMETER TO SEA LEVEL.}
+\end{array}
+\qquad 3
+\]
+
+of two stations, the temperature being \(t\), the barometer reading at
+lower station \(b\), and at the upper station \(b-\frac{1}{10}\).
+Hence, by (iii.),
+
+\[
+{}_{b}N_{t}=A_{t}\log \frac{b}{b-\frac{1}{10}}.
+\]
+
+Also \(R\) being the reduction, (iii.) may be written
+
+\[
+Z=A_{t}\log \frac{\beta+R}{\beta}.
+\]
+
+Combining these, we get
+
+\[
+\log \left(1+\frac{R}{\beta}\right)
+=
+\frac{Z}{{}_{b}N_{t}}\log \frac{10b}{10b-1};
+\]
+
+hence,
+
+\[
+1+\frac{R}{\beta}
+=
+\left(\frac{10b}{10b-1}\right)^{\frac{Z}{{}_{b}N_{t}}}
+=
+\left(1-\frac{1}{10b}\right)^{-\frac{Z}{{}_{b}N_{t}}}
+\]
+
+\[
+=
+1+
+\frac{Z}{{}_{b}N_{t}}\cdot\frac{1}{10b}
++
+\frac{1}{1.2}\cdot
+\frac{Z}{{}_{b}N_{t}}\cdot
+\overline{\frac{Z}{{}_{b}N_{t}}+1}\cdot
+\frac{1}{10b}^{2}
++\cdots.
+\]
+
+by the binomial theorem.
+
+\[
+\therefore\quad
+R=\beta\left(
+\frac{Z}{{}_{b}N_{t}}\cdot\frac{1}{10b}
++
+\frac{1}{1.2}\cdot
+\frac{Z}{{}_{b}N_{t}}\cdot
+\overline{\frac{Z}{{}_{b}N_{t}}+1}\cdot
+\frac{1}{10b}^{2}
++\cdots
+\right)
+\tag{iv.}
+\]
+
+Formula (i.) is deduced from (iv.), by neglecting all terms beyond
+the first; and making \(b=30\) inches, if used with Table XVI.; but,
+if used with Table XIX.; \(b\) may be any reading within the range of
+the table, and \({}_{b}N_{t}\) the corresponding number from the table.
+
+Although (i.) is sufficiently accurate for small heights, it is evident,
+on comparing it with the full formula (iv.), that it becomes more and
+more inaccurate as the height increases.
+
+If, in (i.), the reduced height \(B\), were substituted for the observed
+height \(\beta\), the error would be relatively less ; for Laplace's formula
+may also be expanded in the form
+
+\[
+R=B\left(
+\frac{Z}{{}_{b}N_{t}}\cdot\frac{1}{10b}
+-
+\frac{1}{1.2}\cdot
+\frac{Z}{{}_{b}N_{t}}\cdot
+\overline{\frac{Z}{{}_{b}N_{t}}-1}\cdot
+\frac{1}{10b}^{2}
++\cdots
+\right).
+\tag{v.}
+\]
+```

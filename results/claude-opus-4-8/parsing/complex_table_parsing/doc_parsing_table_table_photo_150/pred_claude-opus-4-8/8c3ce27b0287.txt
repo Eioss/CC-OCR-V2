@@ -1,0 +1,26 @@
+<table>
+  <tr>
+    <td>Models</td>
+    <td>Precision</td>
+    <td>Recall</td>
+    <td>F<sub>1</sub></td>
+  </tr>
+  <tr>
+    <td>Pipeline</td>
+    <td>16.58</td>
+    <td>22.11</td>
+    <td>18.95</td>
+  </tr>
+  <tr>
+    <td>Traversal</td>
+    <td>24.06</td>
+    <td><strong>38.74</strong></td>
+    <td>29.69</td>
+  </tr>
+  <tr>
+    <td>Multi-task</td>
+    <td><strong>43.54</strong></td>
+    <td>30.57</td>
+    <td>35.92</td>
+  </tr>
+</table>

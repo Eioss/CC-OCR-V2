@@ -1,0 +1,73 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese character support
+\usepackage{geometry}
+\usepackage{enumitem}
+
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+
+\begin{document}
+
+\setcounter{section}{9} % Starting from section 10 based on the image content
+
+\section*{10. 偏离}
+
+\begin{enumerate}[label=10.\arabic*, leftmargin=*, itemindent=2em]
+    \item 本条所称偏离为投标文件对招标文件的偏离，即不满足、或不响应招标文件的要求。
+    \item 除法律、法规和规章规定外，招标文件中用“拒绝”、“不接受”、“无效”、“不得”等文字规定的，在评标时将其视为无效投标。
+    \item 投标人投标资格要求的条款及第六章“招标文件前附表”中“政府采购合同格式条款(前附表)”和第八章“采购需求”要求的必须响应，否则，在评标时将其视为无效投标。
+\end{enumerate}
+
+\section*{11. 招标文件的澄清与修改}
+
+\begin{enumerate}[label=11.\arabic*, leftmargin=*, itemindent=2em]
+    \item 采购中心对已发出的招标文件进行必要澄清或者修改的，应当在\textbf{招标文件前附表}规定的提交投标文件截止时间十五日前，以书面形式通知所有招标文件收受人，并在本章第 8.3 款指定的媒体上发布更正公告。
+    \item 如果澄清或者修改发出的时间距本章第 11.1 款规定的投标截止时间不足十五日，将相应顺延投标截止时间。
+\end{enumerate}
+
+\section*{12. 延长投标截止时间和开标时间}
+
+\begin{enumerate}[label=12.\arabic*, leftmargin=*, itemindent=2em]
+    \item 采购中心可以视采购具体情况，延长投标截止时间和开标时间，但应当在招标文件前附表规定的提交投标文件的截止时间三日前，将变更时间书面通知所有招标文件收受人。
+\end{enumerate}
+
+\section*{三、投标文件}
+
+\subsection*{13. 投标语言}
+
+\begin{enumerate}[label=13.\arabic*, leftmargin=*, itemindent=2em]
+    \item 投标人提交的投标文件及投标人与采购中心就有关投标的所有来往函电均使用中文。投标人可以提交其它语言的资料，但应附有中文注释，有差异时以中文为准。
+\end{enumerate}
+
+\subsection*{14. 计量单位}
+
+\begin{enumerate}[label=14.\arabic*, leftmargin=*, itemindent=2em]
+    \item 所有计量均采用中华人民共和国法定计量单位。
+\end{enumerate}
+
+\subsection*{15. 投标文件的组成}
+
+\begin{enumerate}[label=15.\arabic*, leftmargin=*, itemindent=2em]
+    \item 投标文件由商务文件、技术文件两部分组成。各部分的内容如下：
+\end{enumerate}
+
+\textbf{商务文件}
+\begin{enumerate}[label=(\arabic*), leftmargin=3em]
+    \item 投标函
+    \item 开标一览表
+    \item 分项价格表
+    \item 商务条款响应/偏离表
+    \item 投标保证金
+\end{enumerate}
+
+\vfill
+\begin{center}
+    7
+\end{center}
+
+\end{document}
+```

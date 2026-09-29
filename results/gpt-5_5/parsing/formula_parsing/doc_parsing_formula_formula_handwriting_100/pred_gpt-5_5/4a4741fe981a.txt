@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+\mathbb{E}\!\left[\hat F_{\phi}^{(t+1)}(x;\beta)\right]
+&=\mathbb{E}\!\left[
+\min\!\left\{Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{1}\right),Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{2}\right)\right\}
+-\min\!\left\{Q_{\beta}^{2}\!\left(x_{2}^{(t+1,b)},\rho_{1}\right),Q_{\beta}^{2}\!\left(x_{2}^{(t+1,b)},\rho_{2}\right)\right\}
+\,\middle|\,\mathcal F_t\right] \\
+&\le
+\mathbb{E}\!\left[
+\min\!\left\{Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{1}\right),Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{2}\right)\right\}
+-\min\!\left\{Q_{\beta}^{2}\!\left(x_{2}^{(t+1,b)},\rho_{1}\right),Q_{\beta}^{2}\!\left(x_{2}^{(t+1,b)},\rho_{2}\right)\right\}
+\,\middle|\,\mathcal F_t\right] \\
+&\Rightarrow
+\mathbb{P}\!\left(
+Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{2}\right)
+\ge
+Q_{\beta}^{2}\!\left(x_{1}^{(t+1,b)},\rho_{1}\right)
+\,\middle|\,\mathcal F_t
+\right)
+\le
+\left\|Q_{\rho_2}^{t}-Q_{\rho_1}^{t}\right\|_{\ell_1}.
+\end{aligned}
+\]

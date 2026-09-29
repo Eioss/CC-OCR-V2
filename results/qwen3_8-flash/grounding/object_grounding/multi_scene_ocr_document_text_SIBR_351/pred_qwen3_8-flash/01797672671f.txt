@@ -1,0 +1,29 @@
+```json
+[
+	{"bbox_2d": [789, 184, 847, 196], "label": "Arrival 入住日期"},
+	{"bbox_2d": [790, 253, 876, 266], "label": "Cashier 收银员"},
+	{"bbox_2d": [788, 236, 853, 248], "label": "Confirmation No 确认号"},
+	{"bbox_2d": [788, 201, 847, 213], "label": "Departure 离店日期"},
+	{"bbox_2d": [790, 270, 837, 282], "label": "Invoice No.账单号"},
+	{"bbox_2d": [788, 218, 870, 231], "label": "Rewards No 万豪礼赏"},
+	{"bbox_2d": [790, 166, 823, 178], "label": "Room 房号"},
+	{"bbox_2d": [51, 156, 126, 168], "label": "人名"},
+	{"bbox_2d": [880, 398, 928, 409], "label": "付款 CREDITS"},
+	{"bbox_2d": [880, 427, 928, 438], "label": "付款 CREDITS"},
+	{"bbox_2d": [216, 134, 307, 144], "label": "传真"},
+	{"bbox_2d": [876, 454, 929, 465], "label": "余额 Balance"},
+	{"bbox_2d": [47, 117, 296, 129], "label": "地址"},
+	{"bbox_2d": [156, 357, 204, 369], "label": "备注 REFERENCE"},
+	{"bbox_2d": [156, 374, 204, 386], "label": "备注 REFERENCE"},
+	{"bbox_2d": [156, 391, 193, 403], "label": "备注 REFERENCE"},
+	{"bbox_2d": [54, 357, 103, 368], "label": "日期 DATE"},
+	{"bbox_2d": [54, 375, 103, 386], "label": "日期 DATE"},
+	{"bbox_2d": [54, 391, 103, 402], "label": "日期 DATE"},
+	{"bbox_2d": [47, 73, 206, 88], "label": "标题"},
+	{"bbox_2d": [755, 363, 794, 373], "label": "消费 CHARGES"},
+	{"bbox_2d": [755, 380, 794, 390], "label": "消费 CHARGES"},
+	{"bbox_2d": [744, 426, 793, 437], "label": "消费 CHARGES"},
+	{"bbox_2d": [75, 133, 179, 143], "label": "电话"},
+	{"bbox_2d": [331, 134, 501, 144], "label": "网址"}
+]
+```

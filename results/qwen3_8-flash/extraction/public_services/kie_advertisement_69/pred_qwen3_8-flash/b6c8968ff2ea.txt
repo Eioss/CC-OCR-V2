@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$29.00",
+    "advertiser": "Republicans for the Rule of Law-SBGN",
+    "flight_from": "05/27/20",
+    "flight_to": "05/27/20"
+}
+```

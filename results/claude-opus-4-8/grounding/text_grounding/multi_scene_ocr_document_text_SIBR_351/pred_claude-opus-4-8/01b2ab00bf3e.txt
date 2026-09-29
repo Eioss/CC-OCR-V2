@@ -1,0 +1,9 @@
+The text 'Liangnuo Technology Co., Ltd.' appears in multiple locations on the document. Here are the coordinates for each occurrence:
+
+(56, 105, 297, 124) # Top-left header
+
+(135, 219, 343, 240) # Order to field
+
+(174, 374, 350, 390) # Bill To field
+
+(529, 374, 793, 390) # Ship To field

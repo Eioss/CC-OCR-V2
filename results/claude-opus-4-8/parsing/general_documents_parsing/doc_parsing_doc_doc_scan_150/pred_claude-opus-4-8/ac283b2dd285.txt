@@ -1,0 +1,164 @@
+I'll transcribe this document into LaTeX format exactly as shown.
+
+```latex
+\documentclass[10pt]{article}
+\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{wasysym}
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{0.4in}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+% LEFT COLUMN
+\textbf{5.}\hspace{1em}\textbf{Exemption Claimed for Less Than \$7.5 Million}
+
+\vspace{1em}
+
+\hspace{1.5em}$\square$\hspace{0.5em}\textbf{Check this box if claiming eligibility for exemption from CAS coverage based on contracts or subcontracts of less than \$7.5 million, provided that, at the time of award, the business unit or the contractor or subcontractor is not currently performing any CAS-covered contracts or subcontracts valued at \$7.5 million or greater.}
+
+\vspace{1em}
+
+\hspace{1.5em}\textbf{The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(7).}
+
+\vspace{1.5em}
+
+\textbf{6.}\hspace{1em}\textbf{Eligibility for Exemption by an Entity in the United Kingdom}
+
+\vspace{1em}
+
+\hspace{1.5em}$\square$\hspace{0.5em}Check this box if claiming eligibility for exemption from CAS coverage as an entity in the United Kingdom with performance substantially in the United Kingdom.
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror hereby certifies that it is a United Kingdom contractor and that performance of the work under this contract will be performed substantially in the United Kingdom.
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror further certifies that it has filed a completed Disclosure Statement (Form Number CASBDS-1), adequately describing its cost accounting practices, with the United Kingdom Ministry of Defense for retention by the Ministry. When already required to follow United Kingdom Government Accounting Conventions, the offeror certifies that the disclosed practices are in accord with the requirements of those conventions.
+
+\vspace{1.5em}
+
+\textbf{7.}\hspace{1em}\textbf{Exemption Claimed for NATO PHM Ship Program}
+
+\vspace{1em}
+
+\hspace{1.5em}$\square$\hspace{0.5em}Check this box if claiming eligibility for exemption from CAS coverage based on subcontracts under the NATO PHM Ship program to be performed outside the United States by a foreign concern.
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(13).
+
+\vspace{1.5em}
+
+\textbf{8.}\hspace{1em}\textbf{Exemption Claimed for Performance Outside the United States}
+
+\vspace{1em}
+
+\hspace{1.5em}$\square$\hspace{0.5em}Check this box if claiming eligibility for exemption from CAS coverage based on contracts and subcontracts to be executed and performed entirely outside the United States, its territories, and possessions.
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, \textbf{9903.201-1(b)(14).}
+
+\columnbreak
+
+% RIGHT COLUMN
+\begin{center}
+\fbox{\textbf{PART B}}
+\end{center}
+
+\vspace{0.5em}
+
+\textbf{\large Disclosure Statement of Cost Accounting Practices and Certification}
+
+\vspace{0.5em}
+
+Any offeror submitting a proposal that, if accepted, will result in a contract subject to the requirements of the Cost Accounting Standards Board (CASB) must submit, must have already submitted, or must be exempt from submitting the Disclosure Statement required by Board regulation as a condition of contracting. The Disclosure Statement discloses the practices used in pricing the submitted proposal. The Disclosure Statement must be on form number CASB DS-1 or CASB DS-2, as appropriate. Forms may be obtained from the cognizant Administrative Contracting Officer (ACO).
+
+\vspace{0.5em}
+
+\textbf{Caution:} A practice disclosed in a Disclosure Statement will not, by virtue of such disclosure, be deemed to be a proper, approved, or agree-to practice for pricing proposals (Continued on page 3.) or accumulating and reporting contract performance cost data.
+
+\vspace{0.5em}
+
+Examine each of the sections below and complete the section appropriate to the submitted proposal.
+
+\vspace{1em}
+
+\textbf{1.}\hspace{1em}\textbf{Certificate of Concurrent Submission of Disclosure Statement}
+
+\vspace{1em}
+
+\hspace{1.5em}$\square$\hspace{0.5em}Check this box if concurrently submitting a Disclosure Statement as part of the proposal. Provide the appropriate information as required below.
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror hereby certifies that, as a part of the offer, copies of the Disclosure Statement have been submitted as follows:
+
+\vspace{0.5em}
+
+\hspace{1.5em}\begin{enumerate}[leftmargin=2em]
+\item An original and one copy to the cognizant ACO or cognizant Federal Agency official authorized to act in that capacity
+\item One copy to the cognizant contract auditor.
+\end{enumerate}
+
+\vspace{0.5em}
+
+\hspace{1.5em}The offeror further certifies that practices used in estimating costs in pricing this proposal are consistent with the cost accounting practices disclosed in this Disclosure Statement.
+
+\vspace{1.5em}
+
+Date of Disclosure Statement: \rule{3cm}{0.4pt}
+
+\vspace{1em}
+
+\rule{\linewidth}{0.4pt}
+
+Name and address of cognizant ACO or Federal Official where Disclosure Statement filed:
+
+\vspace{0.5em}
+
+\rule{\linewidth}{0.4pt}
+
+\vspace{1em}
+
+\rule{\linewidth}{0.4pt}
+
+\vspace{1em}
+
+\rule{\linewidth}{0.4pt}
+
+\vspace{1em}
+
+\rule{\linewidth}{0.4pt}
+
+\vspace{1em}
+
+\rule{\linewidth}{0.4pt}
+
+\end{multicols}
+
+\vspace{1em}
+\noindent
+\begin{minipage}{0.33\textwidth}
+RF 540 (04/05)
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+\centering
+2
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+\raggedleft
+Tab -- Representations and Certifications
+\end{minipage}
+
+\end{document}
+```
+
+I have transcribed the document maintaining its two-column layout, the boxed "PART B" header, checkbox symbols, numbered sections, indented certification text, the form fields with underlines, and the footer with the form number, page number, and tab label.

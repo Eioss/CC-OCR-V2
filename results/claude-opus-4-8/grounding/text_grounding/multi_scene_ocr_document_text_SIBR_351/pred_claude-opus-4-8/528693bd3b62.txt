@@ -1,0 +1,5 @@
+The text '11/03/20' appears multiple times. Here are the coordinates:
+
+(94, 369, 217, 397) # First occurrence (Room Charge row)
+(94, 408, 217, 437) # Second occurrence (Room Service Charge row)
+(94, 425, 217, 449) # Third occurrence (Room VAT 6% row)

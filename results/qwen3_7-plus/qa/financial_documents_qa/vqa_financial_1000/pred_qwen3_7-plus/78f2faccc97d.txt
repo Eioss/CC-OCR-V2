@@ -1,0 +1,11 @@
+The total amount shown on the deposit slip is **$1,329.87**.
+
+This is calculated from:
+- Currency: $100.00
+- Coins: $276.69
+- Check: $383.37
+- Another check: $569.81
+
+Sum: 100.00 + 276.69 + 383.37 + 569.81 = **$1,329.87**
+
+✅ Confirmed by the “TOTAL” line at the bottom right of the form.

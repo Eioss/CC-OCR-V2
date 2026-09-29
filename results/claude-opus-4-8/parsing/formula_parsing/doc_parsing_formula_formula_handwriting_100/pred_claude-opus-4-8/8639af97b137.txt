@@ -1,0 +1,15 @@
+$$P_{2,K}\left[T_{\alpha,M_{\Sigma}}\left[T_{D}^{2^{n\Sigma}}\right]\langle T_{D}^{2^{n\Sigma}}\right] = \frac{\sum_{n=1}^{2K}\frac{1}{1-P_{\Sigma}(n)^{1+\alpha}K}}{\sum_{n=1}^{2M_{\Sigma}(\chi^{2i}\varepsilon^{2})}}\frac{\frac{1}{1-P_{\Sigma}(n)}\mu(n)}{\frac{1}{P_{\Sigma}(n)}}$$
+
+$$= \frac{\sum_{n=1}^{2K}\prod_{k=1}^{n-1}\frac{1+2C_{0}kK^{-1}}{1-2C_{0}kK^{-1}}}{\sum_{n=1}^{3M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}\prod_{k=1}^{n-1}\frac{1+2C_{0}kK^{-1}}{1-2C_{0}kK^{-1}}}$$
+
+$$= \frac{\sum_{n=1}^{2K}\exp\left(\sum_{k=1}^{n-1}\ln\left(\frac{1+2C_{0}kK^{-1}}{1-2C_{0}kK^{-1}}\right)\right)}{\sum_{n=1}^{3M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(\sum_{k=1}^{n-1}\ln\left(\frac{1+2C_{0}kK^{-1}}{1-2C_{0}kK^{-1}}\right)\right)}$$
+
+$$\langle\frac{\sum_{n=1}^{2K}\exp\left(\sum_{k=1}^{n-1}4C_{0}kK^{-1}\right)}{\sum_{n=1}^{3M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(\sum_{k=1}^{n-1}4C_{0}kK^{-1}-O\left(\left(kK^{-1}\right)^{2}\right)\right)}$$
+
+$$\langle\frac{\sum_{n=1}^{2K}\exp\left(2C_{0}n^{2}K^{-1}-2C_{0}nK^{-1}\right)}{\sum_{n=1}^{3M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(2C_{0}n^{2}K^{-1}-2C_{0}nK^{-1}-O\left(n\left(nK^{-1}\right)^{2}\right)\right)}$$
+
+$$\langle\frac{2K\exp\left(2C_{0}2^{2}K\right)}{\sum_{n=2M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}^{3M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(2C_{0}n^{2}K^{-1}-2C_{0}nK^{-1}-O\left(n\left(nK^{-1}\right)^{2}\right)\right)}$$
+
+$$\langle\frac{2}{-M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}}\frac{\exp\left(2C_{0}2^{2}K\right)}{\exp\left(8C_{0}M_{\Sigma}^{2}(\chi^{4i}\varepsilon^{4})^{1+\alpha}K-4C_{0}M_{\Sigma}(\chi^{2i}\varepsilon^{2})^{1+\alpha}K-O\left(\left(\chi^{6i}\varepsilon^{6}\right)^{1+\alpha}K\right)\right)}$$
+
+$$\langle\exp\left(-2C_{0}K\left(2M_{\Sigma}^{2}(\chi^{4i}\varepsilon^{4})^{1+\alpha}-2^{2}\right)\right).$$

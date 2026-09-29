@@ -1,0 +1,15 @@
+$$p _ { \pm } = \frac { \left( \frac { \varphi ^ { + } ( x ^ { 0 } , 0 ) } { ( R ^ { + } ( x ^ { 0 } , 0 ) ) ^ { 2 } } \right) ^ { \frac { 1 } { \gamma + 1 } } } { \left( \frac { \varphi ^ { - } ( x ^ { 0 } , 0 ) } { ( R ^ { - } ( x ^ { 0 } , 0 ) ) ^ { 2 } } \right) ^ { \frac { 1 } { \gamma + 1 } } + \left( \frac { \varphi ^ { + } ( x ^ { 0 } , 0 ) } { ( R ^ { + } ( x ^ { 0 } , 0 ) ) ^ { 2 } } \right) ^ { \frac { 1 } { \gamma + 1 } } }$$
+
+ $$\sigma _ { i } = u _ { 1 } , u _ { 2 } , \ldots , u _ { a } \, \, \mathrm { a n d } \, \, \sigma _ { i + 2 } = v _ { 1 } , v _ { 2 } , \ldots , v _ { a }$$
+
+ $$\dim _ { B } ( \partial N ) < d _ { o } : = d - 1 + \delta < d$$
+
+ $$\rho ( t ) = \sum _ { n \geq 0 , m = 0 } \rho _ { n m } ( t ) | n \rangle \langle m | _ { C } \otimes | \phi _ { n } ( \gamma , t ) \rangle \langle \phi _ { m } ( \gamma , t ) | _ { m } .$$
+
+ $$\| t \| = \| 1 \otimes _ { n } t \|$$
+
+ $$\Phi ( \textstyle { \frac { 1 } { 2 } } [ I + w . \sigma ] ) = \textstyle { \frac { 1 } { 2 } } [ I + w . \lambda _ { 1 } \sigma _ { 1 } + ( t + w _ { 3 } \lambda _ { 3 } ) \sigma _ { 3 } ]$$
+
+ $$( \tilde { \nabla } _ { X _ { 1 } } ( \nabla T _ { \star } ) ) ( X _ { 2 } , X _ { 3 } ) = \nabla _ { X _ { 1 } } ^ { T _ { \star } } ( \nabla T _ { \star } ) ( X _ { 2 } , X _ { 3 } ) - ( \nabla T _ { \star } ) ( \tilde { \nabla } _ { X _ { 1 } } ^ { T _ { \star } } X _ { 2 } , X _ { 3 } ) - ( \nabla T _ { \star } ) ( X _ { 2 } , \tilde { \nabla } _ { X _ { 1 } } ^ { T _ { \star } } X _ { 3 } )$$
+
+ $$R _ { j l } ( z ) \stackrel { z \rightarrow + \infty } { \simeq } c _ { V } ^ { 2 } ( 1 + \delta _ { j l } ) \varphi ( j / N ) \varphi ( l / N ) \exp ( - 2 \lambda z ) \, .$$

@@ -1,0 +1,19 @@
+$$S_w(Z(a,h(a))) - S_w(\Phi_w) = \frac{a^2}{2}\frac{d^2}{da^2}S_w(Z_w(a,h(a)))\big|_{a=\theta a} < 0 \text{ for all } a \in (-a_1, a_1),$$
+
+$$t \to +\infty, \quad \text{Im}(\lambda) \to +\infty, \quad S_0 + S_1 \to -i(\xi', -j),$$
+
+$$S_0 \cdot S_1 - \lambda \to -\frac{1}{2}(|\xi'|^2 + j^2).$$
+
+$$n \cdot \mathbb{E}\left(\mathbb{1}_{X_0' = 1}\prod_{1 \leq j \leq p-1}X_j' \geq 1\right) \leq n\sum_{i \leq p}\mathbb{E}\|_{Br(q) \times S^1}\|_{Br(q) \times S^1 \circ f^2}$$
+
+$$0 \to ]\beta[_!F' \to F \to ]\alpha[_*F'' \to 0.$$
+
+$$\|V\|_{X,+} = \sup_{x \in [0,X]} e^{\alpha(x-x)}|V(x)|$$
+
+$$\|V\|_{X,-} = \sup_{x \in [-X,0]} e^{\alpha(x+x)}|V(x)|,$$
+
+$$d\langle\hat{Q}\rangle = \text{Tr}[d\hat{\rho}_{AB})\hat{H}_{AB}] = 0,$$
+
+$$\mu_w = i\mu \nu_x$$
+
+$$\|\varphi - \varphi^3\|_{L^2(\mathbb{T}^2)} < \varepsilon/4M$$

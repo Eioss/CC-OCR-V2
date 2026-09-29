@@ -1,0 +1,66 @@
+\[
+\langle x,y\rangle \equiv
+\sum_{\tau\in\Gamma/\Gamma_n}
+\bigl(\tau^{-1}\operatorname{pr}'_n(x),\operatorname{pr}_n(y)\bigr)_n\,\tau
+\pmod{r_n-1}
+\]
+
+\[
+\begin{aligned}
+\int_{U_n(n^{-1/2+\epsilon})}
+\phi_1^*e^{-a_n\vec\theta^{\,T}\hat Q\vec\theta-R_1(\vec\theta)}
+\,d\vec\theta
+&\le c'n^2\int_{U_n(n^{-1/2+\epsilon})}
+e^{-a_n\vec\theta^{\,T}\hat Q\vec\theta-R_1(\vec\theta)}
+\,d\vec\theta\\
+&\quad+O\!\left(e^{-cn^{2\epsilon}}\right)
+\int_{\mathbb R^n}e^{-a_n\vec\theta^{\,T}\hat Q\vec\theta}
+\,d\vec\theta .
+\end{aligned}
+\]
+
+\[
+\sqrt{qr}\,\epsilon_{(qr)}*\tilde C\,
+\delta_{\tilde c\mid h+B\tilde r}
+\sum_{x\;(\mathrm{mod}\;qr)}^{*}
+e\!\left(\frac{\overline{k}x}{qr}\right)
+\chi_{(qr)}^{*}(x)
+e\!\left(-\frac{\overline{4}xr^2}{qr}\right)
+\]
+
+\[
+G_{\lambda(t,k,m)}(|a|,|b|)
+=
+\left\{
+\sum_{k=-\infty}^{\infty}
+|a_{n+k}b_{n+k}|\Lambda_k^{(r,k,m)}
+\right\}_{n=-\infty}^{\infty}.
+\]
+
+\[
+\frac{1}{\sqrt N}\sin(\sqrt N\,\eta t)
+\sum_{j=1}^{N}
+|1\rangle_1\cdots|0\rangle_j\cdots|1\rangle_N|1\rangle_c
+\]
+
+\[
+F_{\epsilon_n}(u_n,A)
+\ge
+c\sum_{i\in Z_\epsilon(A)}
+\sum_{k=1}^{N}
+\epsilon^N
+\left|D_{\epsilon_n}^{e_k}u_n(i)\right|^p
+-cN|A|.
+\]
+
+\[
+\tilde R_h^{\frac12;i,j}
+=
+\begin{pmatrix}
+\tilde T^{-h}\tilde T^{\frac12}
+e^{-h\tilde H+\frac h4(\tilde T-\tilde T^{-1})}
+&0&1\\
+0&1&-h\tilde T^{-\frac12}e\\
+0&0&\tilde T^{-1}
+\end{pmatrix}.
+\]

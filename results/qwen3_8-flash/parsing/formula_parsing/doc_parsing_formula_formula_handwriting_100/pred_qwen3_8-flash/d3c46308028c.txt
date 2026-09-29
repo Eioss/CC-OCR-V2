@@ -1,0 +1,1 @@
+$$\frac { C _ { 1 } } { K _ { n , j + 1 } ^ { 2 } } \leq \left| \int \frac { g _ { n , j + 1 } ^ { 2 } ( x ) } { x - x } \frac { H _ { n , j + 1 } ( x ) d \sigma _ { j + 1 } ( x ) } { g _ { n , j } ( x ) g _ { n , j + 2 } ( x ) } \right| \leq \frac { C _ { 2 } } { K _ { n , j + 1 } ^ { 2 } } ,$$

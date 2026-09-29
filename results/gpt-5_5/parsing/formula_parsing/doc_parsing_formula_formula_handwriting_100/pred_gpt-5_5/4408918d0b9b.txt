@@ -1,0 +1,22 @@
+\[
+(2\pi\hbar)^{-1}\iint e^{\frac{i[sE-s\theta]}{\hbar}}\,C(s,\theta;\hbar)\,d\theta\,ds=O(1).
+\]
+
+\[
+\widetilde{W}(\xi)=\frac{1}{2\pi\hbar}\int dx\,\exp\left(-\frac{i}{\hbar}\xi\wedge x\right)W_c(x),
+\]
+
+\[
+\begin{cases}
+|\nabla \psi_{3,-}(x)|=\dfrac{1}{F(y_{3,-}(x))} & \text{on } U_{3,-},\\
+\psi_{3,-}(x)=0 & \text{on } \ell_0
+\end{cases}
+\]
+
+\[
+\omega \chi_t(x)<\chi_t(\omega x),\qquad \text{for all } x>0 \text{ and } \omega\in(0,1)
+\]
+
+\[
+\sigma\in S_{2g+1}\setminus\{(1,j)\mid 2\le j\le d\}
+\]

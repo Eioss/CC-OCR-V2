@@ -1,0 +1,22 @@
+I'll analyze the hand-drawn chemical structure step by step.
+
+**Top portion:**
+- A benzene ring with F (fluorine) and Cl (chlorine) substituents
+- Connected via CH₂ to an NH group
+
+**Middle portion:**
+- NH connected to a C=O (amide/carbonyl)
+- This connects to a 6-membered ring containing N-S (a cyclic sulfonamide structure)
+- The ring has N-CH₃, S(=O)(=O) (sulfonyl), and NH
+
+**Bottom portion:**
+- A 1,3,4-thiadiazole ring (N-N, S)
+- Connected to a phenyl group
+
+Let me construct the SMILES:
+
+**SMILES:**
+
+```
+O=C(NCc1ccc(F)c(Cl)c1)C1CC(c2nnc(-c3ccccc3)s2)NS(=O)(=O)N1C
+```

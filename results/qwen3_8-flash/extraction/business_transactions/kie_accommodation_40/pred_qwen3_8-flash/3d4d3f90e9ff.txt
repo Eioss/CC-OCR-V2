@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "04.11.20",
+    "Arrival Date": "02.11.20",
+    "Total Amount": "1,560.00",
+    "Name": "Jake Smith",
+    "Balance": "CNY 0.00",
+    "Address": "9296 Amanda Square Suite 228 Dunnhaven, NH 62294",
+    "Hotel Name": ""
+}
+```

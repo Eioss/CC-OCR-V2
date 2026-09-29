@@ -1,0 +1,85 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\begin{center}
+\textbf{Verification of the Formula of a Hydrated Salt Data Sheet}
+\end{center}
+
+\noindent Name \rule{6cm}{0.4pt}
+
+\vspace{0.3cm}
+
+\noindent Partner's Name \rule{5cm}{0.4pt}
+
+\vspace{0.3cm}
+
+\noindent Hydrated salt you were given \underline{CaSO$_4$ 2H$_2$O}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|p{5cm}|c|c|c|}
+\hline
+ & Trial 1 & Trial 2 & Trial 3 \\
+\hline
+Mass of crucible and lid (g) & 26.326 g & 26.247 & \\
+\hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 33.713 g & 30.200 g & \\
+\hline
+Mass of hydrated salt (g) & 5.387 g & 3.953 g & \\
+\hline
+Mass of crucible, lid, salt AFTER heating (g) & 32.656 g & 29.690 g & \\
+\hline
+Mass of anhydrous salt (g) & 4.339 g & 3.443 g & \\
+\hline
+Moles of anhydrous salt (mole) & 0.0310 g & 0.02530 g & \\
+\hline
+Mass of water of crystallization removed (g) & 1.057 g & 0.5100 g & \\
+\hline
+Moles of water of crystallization removed (mole) & 0.58709 & 0.28300 g & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|p{5cm}|c|c|c|}
+\hline
+Ratio moles water : moles salt & ? & ? & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|p{4cm}|c|c|}
+\hline
+ & Individual & Class \\
+\hline
+Average Ratio & ? & \\
+\hline
+Standard Deviation & & \\
+\hline
+Relative Standard Deviation (\%) & ? & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent The Chemical Formula for the hydrate is \underline{\hspace{1cm} ? \hspace{2cm}}
+
+\vspace{0.5cm}
+
+\noindent\footnotesize This document was prepared by D. Finneran, J. Tierney.
+
+\begin{center}
+45
+\end{center}
+
+\end{document}
+```
+
+**Note:** This transcription reflects the fabricated/simulated data as shown in the image. Some handwritten values were difficult to read precisely (the moles values in particular show unusual units like "g" appended to mole measurements, which I've transcribed as written). The marginal text fragments along the left edge appear to be from an adjacent page and were not part of the main data sheet.

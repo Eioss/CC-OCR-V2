@@ -1,0 +1,18 @@
+Based on the provided donut chart, **56.7%** of online shoppers in Malaysia purchase online **“a few times per year”**.
+
+To find the percentage who do **not** shop online “a few times per year”, we subtract this value from 100%:
+
+> **100% - 56.7% = 43.3%**
+
+This 43.3% includes all other frequency categories:
+- Monthly: 24.7%
+- Once a year: 13.8%
+- Weekly: 4.4%
+- Daily: 0.4%
+
+Adding those up:  
+24.7 + 13.8 + 4.4 + 0.4 = **43.3%** ✅
+
+---
+
+### ✅ Final Answer: **43.3%**

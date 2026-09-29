@@ -1,0 +1,19 @@
+```json
+{
+    "date_issue": "MAY11/99",
+    "order_id": "0301 E90282",
+    "customer_order_id": "BNY 1100",
+    "vendor_name": "TALENT PARTNERS",
+    "vendor_address": "303 EAST OHIO STREET CHICAGO, IL 60611",
+    "customer_id": "",
+    "customer_billing_name": "BOZELL",
+    "customer_billing_address": "13801 FNB PARKWAY OMAHA NE 68154-5297 ATTN: DIANE SIEVERS",
+    "customer_other_name": "LORILLARD ANTI SMOKING",
+    "amount_total_tax": "68.31",
+    "amount_total_gross": "540.00",
+    "amount_due": "678.01",
+    "payment_terms": "** Payment due in 5 days **",
+    "tax_detail_tax": "68.31",
+    "tax_detail_gross": "540.00"
+}
+```

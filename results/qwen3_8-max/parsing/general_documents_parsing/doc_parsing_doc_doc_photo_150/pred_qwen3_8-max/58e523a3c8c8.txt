@@ -1,0 +1,116 @@
+Based on the image provided, here is the transcription of the text and mathematical content into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{enumitem}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \\[1em]
+    \textbf{Standard - 11} \hfill Reg No: \fbox{\phantom{00000}} \\[1em]
+    \textbf{PART - III - MATHEMATICS}
+\end{center}
+
+\noindent Time Allowed: 2.30 Hours \hfill Maximum Marks: 90
+
+\vspace{1em}
+
+\noindent \textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline and pencil to draw diagrams.
+\end{enumerate}
+
+\vspace{1em}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\noindent \textbf{Note:}
+\begin{enumerate}[label=\roman*)]
+    \item Answer all the questions. \hfill $20 \times 1 = 20$
+    \item Choose the most appropriate answer from the given four alternatives and write the option code and the corresponding answer.
+\end{enumerate}
+
+\vspace{1em}
+
+\begin{enumerate}
+    \item The range of the function $\dfrac{1}{1 - 2 \sin x}$ is
+    \begin{enumerate}[label=\alph*)]
+        \item $(-\infty, -1) \cup \left(\dfrac{1}{3}, \infty\right)$
+        \item $\left(-1, \dfrac{1}{3}\right)$
+        \item $\left[-1, \dfrac{1}{3}\right]$
+        \item $(-\infty, -1] \cup \left[\dfrac{1}{3}, \infty\right)$
+    \end{enumerate}
+
+    \item The function $f : [0, 2\pi] \to [-1, 1]$ defined by $f(x) = \sin x$ is
+    \begin{enumerate}[label=\alph*)]
+        \item one-to-one
+        \item onto
+        \item bijection
+        \item cannot be defined
+    \end{enumerate}
+
+    \item The solution set of the following inequality $|x - 1| \ge |x - 3|$ is
+    \begin{enumerate}[label=\alph*)]
+        \item $[0, 2]$
+        \item $[2, \infty)$
+        \item $(0, 2)$
+        \item $(-\infty, 2)$
+    \end{enumerate}
+
+    \item If 3 is the logarithm of 343, then the base is
+    \begin{enumerate}[label=\alph*)]
+        \item 5
+        \item 7
+        \item 6
+        \item 9
+    \end{enumerate}
+
+    \item In a $\triangle ABC$, $\tan \left(\dfrac{A}{2}\right) =$
+    \begin{enumerate}[label=\alph*)]
+        \item $\sqrt{\dfrac{(s-b)(s-c)}{bc}}$
+        \item $\sqrt{\dfrac{s(s-a)}{bc}}$
+        \item $\sqrt{\dfrac{(s-b)(s-c)}{s(s-a)}}$
+        \item $\sqrt{s(s-a)(s-b)(s-c)}$
+    \end{enumerate}
+
+    \item There are 10 points in a plane, and 4 of them are collinear. The number of straight lines joining any two points is
+    \begin{enumerate}[label=\alph*)]
+        \item 45
+        \item 40
+        \item 39
+        \item 38
+    \end{enumerate}
+
+    \item The $n^{\text{th}}$ term of the sequence $1, 2, 4, 7, 11, \dots\dots$ is
+    \begin{enumerate}[label=\alph*)]
+        \item $n^3 + 3n^2 + 2n$
+        \item $n^3 - 3n^2 + 3n$
+        \item $\dfrac{n(n+1)(n+2)}{3}$
+        \item $\dfrac{n^2 - n + 2}{2}$
+    \end{enumerate}
+
+    \item The slopes of the line which makes an angle $45^\circ$ with the line $3x - y = -5$ are
+    \begin{enumerate}[label=\alph*)]
+        \item $1, -1$
+        \item $\dfrac{1}{2}, -2$
+        \item $1, \dfrac{1}{2}$
+        \item $2, \dfrac{-1}{2}$
+    \end{enumerate}
+\end{enumerate}
+
+\vfill
+\begin{center}
+    \small Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,59 @@
+Based on the image provided, here is the transcription of the text into LaTeX format. Since there are no tables or complex mathematical equations in the document, the transcription focuses on accurately reproducing the bilingual text structure, bolding, and paragraph breaks using standard LaTeX commands.
+
+```latex
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{ctex} % For Chinese character support
+
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\onehalfspacing
+
+\begin{document}
+
+\noindent 甲方承诺，租赁标的物及其所占土地可用于任何符合中国相关法律、法规及规章中规定的商业用途，包括乙方从事的零售经营和其它经批准的合法的经营。
+
+\vspace{0.5cm}
+
+\noindent Party A warrants that the Leasehold Property and the land over the Leasehold Property is situated to be used for any lawful commercial business in compliance with the relevant laws, regulations, and rules of China, including the retail business of Party B and any other duly approved lawful business.
+
+\vspace{0.5cm}
+
+\noindent \textbf{6.2 甲方承诺 Party A's Warranty}
+
+\vspace{0.5cm}
+
+\noindent 甲方承诺不使用该大厦的任何部分作工业用途或会影响乙方根据本协议对房屋正常使用的其它用途。
+
+\vspace{0.5cm}
+
+\noindent Party A warrants that it will not use any part of the Building for industrial purposes or any other purposes prejudicing Party B's rights under this Agreement to use the Premises normally.
+
+\vspace{0.5cm}
+
+\noindent \textbf{6.3 乙方承诺 Party B's Warranty}
+
+\vspace{0.5cm}
+
+\noindent 乙方应在其日常经营范围内正常使用并爱护房屋内部的各项设施，防止因使用不当或不合理使用而产生的不正常损坏。因乙方使用不当或不合理使用而使房屋及其内部的设施出现损坏或发生故障，乙方应负责该项维修，若有必要则应由乙方负责更换被损坏的设施。
+
+\vspace{0.5cm}
+
+\noindent Party B warrants that it will properly use the facilities inside the Premises within the scope of its day to day business and protect the facilities from any abnormal damage caused by improper or unreasonable use. If the Premises or its interior facilities are damaged or out of order as a result of any improper or unreasonable use by Party B, Party B will repair, or replace, where necessary, the damaged portion.
+
+\vspace{0.5cm}
+
+\noindent \textbf{6.4 装卸货区 Loading and Unloading Area}
+
+\vspace{0.5cm}
+
+\noindent 甲方应按本协议附件一房屋平面图的要求，在地面上清楚地划出装卸货区的范围。本协议租期内，乙方和乙方的供应商有权专有使用本协议附件一、附件二所示的装卸货区(以下称“装卸货区”，即乙方和乙方供货商可享有免费在装卸货区每年三百六十五（365）天，每日二十四（24）小时不停断地装卸货物的专用权利。
+
+\vspace{0.5cm}
+
+\noindent The Loading and Unloading Area will be clearly marked on the ground by Party A according to the specifications shown in the Site Plan of the Premises in Exhibit I. During the Term of this Agreement, Party B and Party B's vendor(s) will have the exclusive right to use the Loading and Unloading Area as specified in Exhibit I and Exhibit II (the ``Loading and Unloading Area''), i.e. Party B and Party B's vendor(s) will have the exclusive right to load and unload goods within such Loading and
+
+\end{document}
+```

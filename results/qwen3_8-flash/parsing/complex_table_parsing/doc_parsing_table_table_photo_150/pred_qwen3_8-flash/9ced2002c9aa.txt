@@ -1,0 +1,74 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td>姓名</td>
+    <td>李杨</td>
+    <td>部门</td>
+    <td>物业部</td>
+    <td>入职日期</td>
+    <td>2020.10.19</td>
+    <td>调动执行<br>日期</td>
+    <td>2021.10.1</td>
+  </tr>
+  <tr>
+    <td>调动类型</td>
+    <td colspan="7">□调动 &nbsp;&nbsp; □借调 &nbsp;&nbsp; □公司调动 &nbsp;&nbsp; ☑岗位调动 &nbsp;&nbsp; □其他</td>
+  </tr>
+  <tr>
+    <td rowspan="4">异动前</td>
+    <td>部门</td>
+    <td colspan="2">物业部</td>
+    <td rowspan="4">异动后</td>
+    <td>部门</td>
+    <td colspan="2">物业部</td>
+  </tr>
+  <tr>
+    <td>岗位</td>
+    <td colspan="2">勤杂工</td>
+    <td>岗位</td>
+    <td colspan="2">水电工</td>
+  </tr>
+  <tr>
+    <td>薪资</td>
+    <td colspan="2">3000+500</td>
+    <td>薪资</td>
+    <td colspan="2">3500+500</td>
+  </tr>
+  <tr>
+    <td>调出日期</td>
+    <td colspan="2">2021年9月26日</td>
+    <td>调入日期</td>
+    <td colspan="2">2021年10月1日</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="text-align:center;">调整意见</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">部门意见</td>
+    <td colspan="6">
+      □职务调整 &nbsp;&nbsp; □不同意 &nbsp;&nbsp; ☑同意并调整为 水电工<br>
+      □工资调整 &nbsp;&nbsp; □不同意 &nbsp;&nbsp; ☑同意并调整为 叁仟伍佰元整<br>
+      □岗位调整 &nbsp;&nbsp; □不同意 &nbsp;&nbsp; ☑同意原岗位 勤杂工 调整为现岗<br>
+      位 水电工
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">转出部门意见</td>
+    <td colspan="2" style="text-align:center;">同意</td>
+    <td colspan="2" style="text-align:center;">转入部门意见</td>
+    <td colspan="2" style="text-align:center;">同意</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">部门负责人意见</td>
+    <td colspan="2"></td>
+    <td colspan="2" style="text-align:center;">综合办人事处意见</td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">商管公司意见</td>
+    <td colspan="2"></td>
+    <td colspan="2" style="text-align:center;">总经理意见</td>
+    <td colspan="2"></td>
+  </tr>
+</table>
+```

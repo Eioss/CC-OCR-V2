@@ -1,0 +1,9 @@
+$$(2\pi\hbar)^{-1}\int\int e^{i[sE-s\theta]/\hbar}C(s,\theta;\hbar)\,d\theta\,ds = \mathcal{O}(1).$$
+
+$$\widetilde{W}(\xi) = \frac{1}{2\pi\hbar}\int dx\,\exp\left(-\frac{i}{\hbar}\xi\wedge x\right)W(x),$$
+
+$$\begin{cases} |\nabla\psi_{3,-}(\vec{x})| = \dfrac{1}{F(\psi_{3,-}(\vec{x}))} & \text{on } U_{3,-} \\ \psi_{3,-}(\vec{x}) = 0 & \text{on } C_0 \end{cases}$$
+
+$$\omega X_t(x) < X_t(\omega x), \qquad \text{for all } x>0 \text{ and } \omega\in(0,1)$$
+
+$$\sigma\in\mathfrak{S}_{2g+1}\setminus\{(1,j)\}_{2\leq j\leq d}$$

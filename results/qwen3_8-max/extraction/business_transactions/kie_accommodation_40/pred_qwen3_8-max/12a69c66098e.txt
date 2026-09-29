@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "11-05-20",
+    "Arrival Date": "11-04-20",
+    "Total Amount": "400.00",
+    "Name": "Juan Bradley",
+    "Balance": "CNY0.00",
+    "Address": "广东省瑜市徐汇戴路Z座 408420",
+    "Hotel Name": "Elixin Media Hotel 飞利信传媒酒店"
+}
+```

@@ -1,0 +1,9 @@
+$$\frac{C_1}{K_{n,j+1}^2} \leq \left| \int\int \frac{Q_{n,j+1}^2(x)}{z-x} \frac{H_{n,j+1}(x)\,d\sigma_{j+1}(x)}{Q_{n,j}(x)Q_{n,j+2}(x)} \right| \leq \frac{C_2}{K_{n,j+1}^2},$$
+
+$$E_v[\mathcal{Q}_\Lambda(w;v)] \leq E_v[\mathcal{Q}_\Lambda(\bar{w};v)] + \epsilon$$
+
+$$|h^m|_{L_F^2(0,T;H^*(G))}^2 \leq C|\Delta^2 h^m|_{L_F^2(0,T;L^2(G))}^2.$$
+
+$$\langle P_{j,A}, P_{j,A} \rangle = -1 = \langle P_{j,A'}, P_{j,A'} \rangle$$
+
+$$(x_{[k-1]\setminus\{d\}}, y_d^i - t_d, a_k) \in V$$

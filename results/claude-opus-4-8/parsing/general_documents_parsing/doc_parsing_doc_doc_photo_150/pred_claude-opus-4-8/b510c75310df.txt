@@ -1,0 +1,56 @@
+# Transcription to LaTeX
+
+Here is the transcribed content from the image:
+
+```latex
+\noindent
+56 \hfill \textsc{Chapter 2. Equations}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\section*{2.5 \quad Finance formulas -- Practice exercises}
+
+\vspace{0.5em}
+\hrule
+\vspace{1.5em}
+
+\noindent
+\textsc{Compound Interest Formula:} \quad 
+$a = p \left(1 + \dfrac{r}{12}\right)^{12y}$
+
+\vspace{1.5em}
+
+\noindent
+\textsc{Equivalent APR Formula:} \quad 
+$\text{APR} = \left(1 + \dfrac{r}{12}\right)^{12} - 1$
+
+\vspace{1.5em}
+
+\noindent
+\textsc{Future Value Annuity Formula:} \quad 
+$a = p * \dfrac{\left(1 + \frac{r}{12}\right)^{12y} - 1}{\frac{r}{12}}$
+
+\vspace{1.5em}
+
+\noindent
+\textsc{Loan Payment Formula:} \quad 
+$p = \dfrac{a * \frac{r}{12}}{1 - \left(1 + \frac{r}{12}\right)^{-12y}}$
+
+\vspace{1.5em}
+
+\noindent where
+
+\vspace{0.5em}
+
+\begin{align*}
+a &= \text{account balance or loan amount (\$)} \\
+p &= \text{initial deposit (principal), regular deposit, or regular payment (\$)} \\
+y &= \text{time invested (years)} \\
+r &= \text{interest rate compounded monthly (as a decimal)}
+\end{align*}
+
+\vspace{0.5em}
+\hrule
+```

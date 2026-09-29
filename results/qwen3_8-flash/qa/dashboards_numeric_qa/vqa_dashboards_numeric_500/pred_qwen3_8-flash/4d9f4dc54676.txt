@@ -1,0 +1,12 @@
+To find the difference between **total cases** and **active cases** in India, we use the data from the table:
+
+- **Total cases in India**: 22,68,675  
+- **Active cases in India**: 6,39,929  
+
+Now subtract active cases from total cases:
+
+> **22,68,675 – 6,39,929 = 16,28,746**
+
+---
+
+✅ **Answer: 16,28,746**

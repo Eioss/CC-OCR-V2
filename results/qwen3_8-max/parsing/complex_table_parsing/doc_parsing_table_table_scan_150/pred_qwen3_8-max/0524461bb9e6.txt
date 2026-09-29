@@ -1,0 +1,65 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th style="padding: 8px;">一级指标</th>
+      <th style="padding: 8px;">二级指标</th>
+      <th style="padding: 8px;">三级指标</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="16" style="padding: 8px; vertical-align: middle; text-align: center;">经济发展指标</td>
+      <td rowspan="7" style="padding: 8px; vertical-align: middle;">经济发展<br>总体水平</td>
+      <td style="padding: 8px;">人均GDP(元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">城镇居民人均可支配收入(元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">农民人均纯收入(元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">人均消费品零售额(元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">人均进出口贸易额(美元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">实际利用外资额(亿美元)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">规模以上工业企业全员劳动生产率(元/人)</td>
+    </tr>
+    <tr>
+      <td rowspan="5" style="padding: 8px; vertical-align: middle;">经济结构</td>
+      <td style="padding: 8px;">第二产业 GDP 构成(%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">第三产业 GDP 构成(%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">城镇恩格尔系数</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">农村恩格尔系数</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">固定资产投资占GDP的比重(%)</td>
+    </tr>
+    <tr>
+      <td rowspan="4" style="padding: 8px; vertical-align: middle;">经济发展速度</td>
+      <td style="padding: 8px;">GDP 增长率(%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">地方财政收入增长率(%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">社会消费品零售总额增长率(%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">进出口总额增长率(%)</td>
+    </tr>
+  </tbody>
+</table>
+```

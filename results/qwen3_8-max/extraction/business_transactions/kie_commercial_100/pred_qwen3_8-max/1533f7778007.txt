@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "07/21/2020",
+    "vendor_name": "GREAT CIRCLE MEDIA KMGN FM",
+    "vendor_address": "1117 W. Route 66 Flagstaff, AZ 86001",
+    "customer_billing_name": "MAIN STREET MEDIA GROUP/DEFEND AZ C/O MAIN STREET MEDIA GROUP",
+    "customer_billing_address": "PO BOX 25093 ALEXANDRIA VA 22314",
+    "amount_total_net": "743.33",
+    "amount_total_tax": "16.58",
+    "amount_total_gross": "855.00",
+    "amount_due": "743.33",
+    "tax_detail_net": "743.33",
+    "tax_detail_tax": "16.58",
+    "tax_detail_gross": "855.00"
+}
+```

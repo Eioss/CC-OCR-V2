@@ -1,0 +1,13 @@
+The kind of water used for the analysis is **Water in Boilers**.
+
+This is explicitly stated on the form under the field “Kind of Water:”.
+
+Additionally, the description clarifies it’s an “Average Sample of daily composite from March 1, 1960 to March 1, 1961” sourced from “Boilers 1, 2, 3 and 4” at the Johnstown Sugar Factory.
+
+So, while chemically it’s boiler feedwater or boiler water (likely treated and circulating within the steam generation system), the document categorizes it simply as:
+
+> **Water in Boilers**
+
+---
+
+✅ Final Answer: **Water in Boilers**

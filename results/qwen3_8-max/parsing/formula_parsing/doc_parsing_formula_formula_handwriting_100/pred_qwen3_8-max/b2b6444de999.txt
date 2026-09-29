@@ -1,0 +1,19 @@
+ $$S _ { w } ( Z ( a , h ( a ) ) ) - S _ { w } ( \phi _ { w } ) = \frac { a ^ { 2 } } { 2 } \frac { d ^ { 2 } } { d a ^ { 2 } } S _ { w } ( Z _ { w } ( a , h ( a ) ) ) | _ { a = 0 } a < 0 f o r a l l a \in ( - a _ { 1 } , a _ { 1 } ) ,$$
+
+ $$t \rightarrow + \infty , \; \; I m ( \lambda ) \rightarrow + \infty , \; \; \; \zeta _ { 0 } + \zeta _ { 1 } \rightarrow - i ( \xi ^ { \prime } , - j ) ,$$
+
+ $$\zeta _ { 0 } \cdot \zeta _ { 1 } - \lambda \rightarrow - \frac { 1 } { 2 } ( | \xi ^ { \prime } | ^ { 2 } + j ^ { 2 } ) .$$
+
+ $$n \cdot E \left( 1 \! \! 1 _ { X _ { 0 } ^ { \prime } = 1 } 1 \! \! 1 _ { \sum _ { 1 \leq j \leq p - 1 } X _ { j } ^ { \prime } \geq 1 } \right) \leq n \sum _ { i \leq p } E 1 \! \! 1 _ { B r ( q ) \times { \cal S } ^ { \prime } } 1 \! \! 1 _ { B r ( q ) \times { \cal S } ^ { \prime } } \circ f ^ { i }$$
+
+ $$0 \longrightarrow ] \beta [ _ { ! } { \cal F } ^ { \prime } \stackrel { } { \longrightarrow } { \cal F } \stackrel { } { \longrightarrow } ] \alpha [ _ { * } { \cal F } ^ { \prime \prime } \longrightarrow 0 .$$
+
+ $$| | V | | _ { X , + } = \operatorname* { s u p } _ { x \in [ 0 , X ] } e ^ { \alpha ( x - X ) } | V ( x ) |$$
+
+ $$| | V | | _ { X , - } = \operatorname* { s u p } _ { x \in [ - X , 0 ] } e ^ { \alpha ( x + X ) } | V ( x ) | ,$$
+
+ $$d \langle \hat { \mathrm { Q } } \rangle = \mathrm { T r } [ d \hat { \rho } _ { A B } ) \hat { H } _ { A B } ] = 0 ,$$
+
+ $$\mu _ { w } = i \mu v _ { z }$$
+
+ $$| | \varphi - \varphi ^ { \varepsilon } | | _ { L ^ { 2 } (  { \mathbb { T } } ^ { 2 } ) } < \varepsilon / 4 M$$

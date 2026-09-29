@@ -1,0 +1,17 @@
+I can see this is a receipt. Here's the readable text content:
+
+```
+--------------------          --------
+
+========================          ========
+ 2 TWIST DONUT              18,000
+ 1 BANANA DONUT             11,000
+ 1 CREAMCHEESE  BREAD       13,000
+ 1 FRANKFRUT SAUSAGE ROLL   12,000
+ -------------------          --------
+ TOTAL          54,000
+ CASH                      104,000
+ CHANGE         50,000
+```
+
+Note: Several portions of the receipt (the header with store name/address and the footer text) are intentionally blurred and not legible.

@@ -1,0 +1,39 @@
+$$
+y_{n+1}(q)\,y_{m-1}(q) - y_n(q)\,y_m(q)
+$$
+
+$$
+= \sum_{k\geq 0}\big[r(n+1)+f(k)\big]T_{n,k}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 0}\big[r(m)+f(k)\big]T_{m-1,k}x_k +
+$$
+
+$$
+\sum_{k\geq 1}\big[s(n+1)+g(k)\big]T_{n,k-1}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 1}\big[s(m)+g(k)\big]T_{m-1,k-1}x_k +
+$$
+
+$$
+\sum_{k\geq 2}\big[t(n+1)+h(k)\big]T_{n,k-2}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 2}\big[t(m)+h(k)\big]T_{m-1,k-2}x_k
+$$
+
+$$
+= \left[\sum_{k\geq 0}r(n+1)T_{n,k}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 0}r(m)T_{m-1,k}x_k\right] +
+$$
+
+$$
+\left[\sum_{k\geq 0}f(k)T_{n,k}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 0}f(k)T_{m-1,k}x_k\right] +
+$$
+
+$$
+\left[\sum_{k\geq 1}s(n+1)T_{n,k-1}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 1}s(m)T_{m-1,k-1}x_k\right] +
+$$
+
+$$
+\left[\sum_{k\geq 1}g(k)T_{n,k-1}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k\geq 1}g(k)T_{m-1,k-1}x_k\right] +
+$$
+
+$$
+\left[\sum_{k\geq 2}t(n+1)T_{n,k-2}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k=0}^{m}t(m)T_{m-1,k-2}x_k\right] +
+$$
+
+$$
+\left[\sum_{k\geq 2}h(k)T_{n,k-2}x_k\sum_{k\geq 0}T_{m-1,k}x_k - \sum_{k\geq 0}T_{n,k}x_k\sum_{k=0}^{m}h(k)T_{m-1,k-2}x_k\right].
+$$

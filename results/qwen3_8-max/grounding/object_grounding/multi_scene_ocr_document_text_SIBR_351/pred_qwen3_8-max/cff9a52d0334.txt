@@ -1,0 +1,19 @@
+```json
+[
+    {"bbox_2d": [332, 271, 422, 289], "label": "NUMBER"},
+    {"bbox_2d": [330, 181, 415, 199], "label": "人名"},
+    {"bbox_2d": [784, 177, 931, 233], "label": "入住日期 CHECK IN"},
+    {"bbox_2d": [332, 315, 495, 329], "label": "号 COUNT NUMBER"},
+    {"bbox_2d": [496, 695, 588, 711], "label": "合计金额 AMOUNT"},
+    {"bbox_2d": [502, 772, 594, 789], "label": "已收定金 DEPOSIT RECEIVED"},
+    {"bbox_2d": [293, 641, 379, 657], "label": "房费"},
+    {"bbox_2d": [387, 402, 440, 419], "label": "摘要 DESCRIPTION"},
+    {"bbox_2d": [752, 822, 835, 840], "label": "收款员 CASHIER"},
+    {"bbox_2d": [790, 312, 935, 329], "label": "日期"},
+    {"bbox_2d": [205, 406, 327, 421], "label": "日期 DATE"},
+    {"bbox_2d": [361, 131, 656, 182], "label": "标题"},
+    {"bbox_2d": [786, 236, 904, 252], "label": "离店日期 CHECK OUT"},
+    {"bbox_2d": [324, 924, 509, 955], "label": "第一联财务(白)*"},
+    {"bbox_2d": [750, 396, 831, 410], "label": "金额 AMOUNT"}
+]
+```

@@ -1,0 +1,19 @@
+The total amount listed on the deposit slip is **$1,329.87**.
+
+This is shown in the “TOTAL” row at the bottom of the right-hand table, under the DOLLARS and CENTS columns:  
+**DOLLARS: 1,329**  
+**CENTS: 87**
+
+You can also verify this by adding up the individual check amounts:
+- $100.00
+- $276.69
+- $383.37
+- $569.81
+
+Sum = 100 + 276.69 + 383.37 + 569.81 = **1,329.87**
+
+✅ Confirmed.
+
+---
+
+*Note: The form shows “Check” entries for all items — even though one line says “COINS”, it’s still labeled as a Check with value 276.69. This may be an error or mislabeling on the form, but the total matches the sum of the four dollar amounts.*

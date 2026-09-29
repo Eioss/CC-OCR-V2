@@ -1,0 +1,54 @@
+Based on the infographic provided, specifically under the section titled **“What hypervisor or virtualization vendors will you use in the next year for private cloud management?”**, we can see a ranked list of vendors by percentage:
+
+1. **VMware** — 84.6%  
+2. **Citrix** — 44.6%  
+3. **Microsoft** — 55.4% ← *Wait — this is higher than Citrix!*
+
+Actually, let’s re-examine that list carefully as presented in the image:
+
+> **What hypervisor or virtualization vendors will you use in the next year for private cloud management?**
+> - VMware ............ 84.6%
+> - Citrix ............. 44.6%
+> - Microsoft .......... 55.4%
+> - KVM ................ 35.4%
+> - Openstack .......... 33.8%
+> - Other .............. 3.1%
+
+⚠️ There appears to be an inconsistency in how the data is listed — **Microsoft (55.4%) is numerically higher than Citrix (44.6%)**, yet it's listed *after* Citrix. This suggests either:
+
+- A typo in the ordering (i.e., Microsoft should be #2),
+- Or the percentages are not strictly ordered from highest to lowest (which would be unusual for such charts).
+
+However, if we interpret “third rank” based on **the order they appear visually in the chart** (top to bottom), then:
+
+1. VMware  
+2. Citrix  
+3. **Microsoft**
+
+But if we rank them by **actual percentage value descending**:
+
+1. VMware (84.6%)  
+2. Microsoft (55.4%)  
+3. Citrix (44.6%)
+
+---
+
+✅ Given standard interpretation of rankings in such infographics — where position implies rank unless otherwise noted — and since **Microsoft has a higher percentage than Citrix**, it’s likely the visual ordering contains an error.
+
+Therefore, **by actual percentage**, the third-ranked vendor is:
+
+> **Citrix (44.6%)**
+
+---
+
+### Final Answer:
+**Citrix** is the third-ranked hypervisor/virtualization vendor for future private cloud management **based on percentage values** (behind VMware and Microsoft).
+
+*(Note: If following strict top-to-bottom listing despite numerical inconsistency, it would be Microsoft — but logically, ranking should follow magnitude.)*
+
+👉 So, assuming correct logical ranking by %:  
+**Third place = Citrix**
+
+---
+
+✅ **Answer: Citrix**

@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [171, 178, 1191, 314], "label": "COMPANY NAME"},
+  {"bbox_2d": [125, 354, 481, 372], "label": "ADDRESS"},
+  {"bbox_2d": [705, 358, 855, 369], "label": "Post Code"},
+  {"bbox_2d": [855, 358, 1024, 369], "label": "FAX"},
+  {"bbox_2d": [1024, 358, 1184, 369], "label": "TEL"},
+  {"bbox_2d": [1134, 358, 1380, 369], "label": "Email"},
+  {"bbox_2d": [375, 432, 1015, 510], "label": "TITLE"},
+  {"bbox_2d": [283, 591, 836, 619], "label": "COMPANY NAME"},
+  {"bbox_2d": [283, 667, 891, 723], "label": "ADDRESS"},
+  {"bbox_2d": [1187, 597, 1417, 622], "label": "INVOICE NO."},
+  {"bbox_2d": [1187, 678, 1334, 698], "label": "INVOICE DATE"},
+  {"bbox_2d": [1187, 705, 1417, 730], "label": "CONTRACT NO."},
+  {"bbox_2d": [143, 1016, 344, 1042], "label": "PRODUCT NAME"},
+  {"bbox_2d": [143, 1051, 503, 1078], "label": "QUANTITY OF PACKING"},
+  {"bbox_2d": [143, 1178, 488, 1204], "label": "COUNTRY OF ORIGIN"},
+  {"bbox_2d": [537, 1217, 738, 1242], "label": "QUANTITY"},
+  {"bbox_2d": [143, 1252, 705, 1280], "label": "QUANTITY OF PACKING"},
+  {"bbox_2d": [143, 1287, 768, 1312], "label": "NET WEIGHT"},
+  {"bbox_2d": [143, 1321, 768, 1347], "label": "GROSS WEIGHT"},
+  {"bbox_2d": [427, 1417, 992, 1443], "label": "UNIT PRICE"},
+  {"bbox_2d": [1042, 1428, 1380, 1457], "label": "AMOUNT"},
+  {"bbox_2d": [569, 1457, 778, 1483], "label": "TERMS OF PAYMENT"},
+  {"bbox_2d": [143, 1565, 793, 1590], "label": "Beneficiary"},
+  {"bbox_2d": [143, 1622, 1097, 1666], "label": "Beneficiary Bank"},
+  {"bbox_2d": [143, 1668, 538, 1694], "label": "Swift Code"},
+  {"bbox_2d": [143, 1696, 689, 1721], "label": "Account Number"},
+  {"bbox_2d": [143, 1735, 393, 1762], "label": "SHIPPING MARKS"}
+]
+```

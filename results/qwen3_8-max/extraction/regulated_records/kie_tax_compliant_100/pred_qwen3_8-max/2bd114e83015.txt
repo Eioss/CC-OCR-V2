@@ -1,0 +1,12 @@
+```json
+{
+    "date": "6/4/2018",
+    "doc_no_receipt_no": "246274",
+    "seller_address": "G1 Seafront, Berjaya Waterfront Complex,\n88 Jalan Ibrahim Sultan,\nStulang Laut 80300,\nJohor Bahru, Johor.",
+    "seller_gst_id": "001699237888",
+    "seller_name": "The GeoVenture\n(Freedom Optimum Sdn Bhd)",
+    "seller_phone": "07-2213800",
+    "total_amount": "98.00",
+    "total_tax": "5.54"
+}
+```

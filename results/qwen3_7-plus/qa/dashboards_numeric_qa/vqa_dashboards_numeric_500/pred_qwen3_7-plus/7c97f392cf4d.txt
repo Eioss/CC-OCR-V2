@@ -1,0 +1,22 @@
+To find the **difference between the percent of families that can afford child care in Ohio and Florida**, we need to extract the relevant data from the bar chart titled:
+
+> **“HOW MANY U.S. FAMILIES CAN AFFORD CHILD CARE?”**
+
+This chart shows two bars per state:
+- Orange: *Child Care Percent of State’s Median Family Income*
+- Blue: *Percent of Families That Can Afford Child Care*
+
+We are interested in the **blue bars** — “Percent of Families That Can Afford Child Care”.
+
+From the chart:
+
+- **Ohio**: 31.2%
+- **Florida**: 30.2%
+
+Now, compute the difference:
+
+> **31.2% - 30.2% = 1.0%**
+
+---
+
+✅ **Final Answer: 1.0%**

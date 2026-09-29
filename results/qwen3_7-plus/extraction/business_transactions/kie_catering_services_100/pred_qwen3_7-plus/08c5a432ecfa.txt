@@ -1,0 +1,19 @@
+```json
+{
+    "menu": [
+        {
+            "name": "S-Bubble Milk Tea",
+            "num": "1X",
+            "price": "@20,000 20,000",
+            "sugar": "100%"
+        },
+        {
+            "name": "S-Caramel Milk Tea",
+            "num": "1X",
+            "price": "@20,000 20,000",
+            "sugar": "100%"
+        }
+    ],
+    "total": "40,000"
+}
+```

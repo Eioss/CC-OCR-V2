@@ -1,0 +1,53 @@
+```latex
+\begin{center}
+    {\huge \textbf{Contents}}
+\end{center}
+
+\vspace{1em}
+
+\noindent\textbf{FOREWORD} \hfill vii
+
+\vspace{1em}
+
+\noindent\textbf{INTRODUCTION:} Why; Basic Equipment; Raw Materials \\
+and Where to Get Them; Some Helpful Hints \hfill ix
+
+\vspace{1em}
+
+\noindent\textbf{1. AROUND THE HOUSE} \hfill 17 \\
+\hspace*{1em}Floor Care \hfill 17 \\
+\hspace*{1em}Furniture Care and Some Other Treatments for Wood \hfill 24 \\
+\hspace*{1em}Dishwashing Help \hfill 28 \\
+\hspace*{1em}Laundry Help \hfill 31 \\
+\hspace*{1em}Shoes and Leather \hfill 34 \\
+\hspace*{1em}General Cleaning and Polishing \hfill 35 \\
+\hspace*{1em}Fires in Their Places and Out of Them \hfill 42 \\
+\hspace*{1em}Controlling Bugs and Other Pests \hfill 47 \\
+\hspace*{1em}Paints and Brushes \hfill 50 \\
+\hspace*{1em}In the Kitchen \hfill 52 \\
+\hspace*{1em}Miscellaneous Home Goodies \hfill 56
+
+\vspace{1em}
+
+\noindent\textbf{2. PERSONAL} \hfill 62 \\
+\hspace*{1em}Making Soap \hfill 62 \\
+\hspace*{1em}Hair Care \hfill 64 \\
+\hspace*{1em}Body Things \hfill 68 \\
+\hspace*{1em}Hands and Face \hfill 73 \\
+\hspace*{1em}Teeth \hfill 79 \\
+\hspace*{1em}Eyes \hfill 80 \\
+\hspace*{1em}Feet \hfill 81
+
+\vspace{1em}
+
+\noindent\textbf{3. AUTOMOTIVE AND MECHANICAL} \hfill 83 \\
+\hspace*{1em}Taking Care of the Outside \hfill 84 \\
+\hspace*{1em}Taking Care of the Inside \hfill 86 \\
+\hspace*{1em}Cleaning Up \hfill 90
+
+\vfill
+
+\begin{center}
+    \textbf{v}
+\end{center}
+```

@@ -1,0 +1,48 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\section*{F-1 MAINTENANCE OF STATUS}
+
+U.S. Citizenship and Immigration Services (USCIS) requires additional documentation to establish that you maintained lawful and valid F-1 nonimmigrant status while you were enrolled as an F-1 Student at Campbellsville University by engaging in a full course of study.
+
+This evidence must include but is not limited to:
+
+\begin{enumerate}
+    \item A statement from the Designated School Official (DSO) and the Registrar attesting to your physical presence in the classroom;
+    \item A full description of your course of study/academic program, including all graduation requirements such as the number of credits or classroom hours and your college's definition of ``full course of study'' for your degree level;
+    \item Copies of your course syllabi for all classes and coursework in which you earned credit towards your degree. Provide delivery method (in person/lecture, lab, virtual, online, tele-learning, broadcast, satellite, etc.) of the course if not listed on the syllabus;
+    \item Proof of tuition payments made by you for the duration of your enrollment;
+    \item A copy of your most recent transcripts showing number of credits or hours received.
+\end{enumerate}
+
+\subsection*{Address History}
+
+Provide a complete listing of all addresses where you lived while you were enrolled as an F-1 student.
+
+\section*{EMPLOYMENT DIRECTLY RELATED TO STUDIES}
+
+Submit evidence that your employment is directly related to your area of studies. Such evidence must include documentation from your employer describing in detail the duties of the position.
+
+Note: You must include an English translation for each submitted document that contains the name of the sponsor funding your tuition. If you provide financial records you must include documents that show the conversion of funds into U.S. dollars. Finally, some information found on the internet is not legitimate documentation, and may not be considered during final adjudication.
+
+\vspace{1em}
+\noindent\textbf{PLEASE SUBMIT YOUR RESPONSE BY MAIL. PLEASE INCLUDE THIS ENTIRE LETTER ON TOP OF YOUR RESPONSE. SUBMISSION OF EVIDENCE WITHOUT THIS LETTER WILL DELAY PROCESSING OF YOUR CASE AND MAY RESULT IN A DENIAL. PLEASE MAIL YOUR RESPONSE TO THE POTOMAC SERVICE CENTER, 2200 POTOMAC SERVICE CENTER DR STOP 2425, ARLINGTON VA 20598-2425.}
+
+\vspace{2em}
+Sincerely,
+
+\vspace{3em}
+Debra A. Rogers \\
+Director \\
+Officer: AD0126
+
+\vfill
+\noindent YSC1765PSC176000009956282 \hfill 2 of 2 \hfill www.uscis.gov
+
+\end{document}
+```

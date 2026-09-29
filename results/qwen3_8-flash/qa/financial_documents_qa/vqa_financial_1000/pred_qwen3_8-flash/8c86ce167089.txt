@@ -1,0 +1,25 @@
+Based on the pay statement shown in the image, the **Total Pay** is listed as:
+
+> **3,333.00**
+
+This amount appears under the column labeled **"TOTAL PAY"**, which represents the gross earnings for the pay period ending 10/1–10/15/68 (as handwritten at the top left).
+
+---
+
+### Additional Context from the Document:
+- **Regular Earnings**: Not filled in separately — likely included in Total Pay.
+- **Deductions**:
+  - Social Security (SOC. SEC.): $1037.38
+  - Federal Withholding Tax (FED. W.T.): $80.00
+  - State Withholding Tax (STATE W.T.): $15.25
+  - City Withholding Tax (CITY W.T.): Not filled
+  - Washington State Tax (WASH. W.T.) & VA. W.T.: Not applicable or not filled
+- **Net Amount**: $2,200.39 (handwritten)
+- **Number**: 198 (possibly employee ID or check number)
+
+The math checks out roughly:  
+$3,333.00 – ($1,037.38 + $80.00 + $15.25) = $3,333.00 – $1,132.63 = **$2,200.37**, which rounds to the handwritten **$2,200.39** (minor discrepancy possibly due to rounding or additional small deductions not itemized).
+
+---
+
+✅ So, the **Total Pay** is **$3,333.00**.

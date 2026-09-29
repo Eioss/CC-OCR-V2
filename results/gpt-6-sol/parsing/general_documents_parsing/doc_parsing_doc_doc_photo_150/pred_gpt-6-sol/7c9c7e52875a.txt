@@ -1,0 +1,57 @@
+\[
+\text{\Large Enrichment Worksheet}
+\]
+
+\[
+\text{\large Formulas For a Line}
+\]
+
+You can think of the slope-intercept form of an equation for a line, \(y=mx+b\), as a formula for the line given \(m\) and \(b\).
+
+**Example:** Write the formula for a line given two points \((x_1,y_1)\) and \((x_2,y_2)\).
+
+Use the idea that the slope of a line is the same between any two points.
+
+\[
+\frac{y-y_1}{x-x_1}=\frac{y_2-y_1}{x_2-x_1}
+\]
+
+Multiply each side by \((x-x_1)\).
+
+\[
+y-y_1=\frac{y_2-y_1}{x_2-x_1}(x-x_1)
+\qquad
+\text{Two-point formula}
+\]
+
+If you know two points of a line, you can write an equation for the line directly using this formula.
+
+**Use the two-point formula to write an equation for the line that passes through the given points.**
+
+\[
+\begin{array}{lll}
+\text{1. }(3,1)\text{ and }(2,-1)
+&
+\text{2. }(-3,1)\text{ and }(6,7)
+&
+\text{3. }(-4,4)\text{ and }(0,3)
+\\[4em]
+\text{4. }(-5,-3)\text{ and }(7,-3)
+&
+\text{5. }(10,0)\text{ and }(0,9)
+&
+\text{6. }(a,0)\text{ and }(0,b)
+\end{array}
+\]
+
+**Write the standard form of each equation in Exercises 1–6.**
+
+\[
+\begin{array}{lll}
+\text{7. Exercise 1}
+&
+\text{8. Exercise 2}
+&
+\text{9. Exercise 3}
+\end{array}
+\]

@@ -1,0 +1,19 @@
+\[
+\begin{aligned}
+\left\|(a_\varepsilon k_i)*(\omega_0^n-\omega_0^m)\right\|_{L^2}^2
+&=\int_{\mathbb{R}^2}\left(\int_{B_{2\varepsilon}(x)} a_\varepsilon(x-y)k_i(x-y)\left(\omega_0^n(y)-\omega_0^m(y)\right)\,dy\right)^2 dx \\
+&\le \int_{\mathbb{R}^2}\left(\int_{B_{2\varepsilon}(x)}\frac{1}{\sqrt{|x-y|}}\left|\omega_0^n(y)-\omega_0^m(y)\right|\,dy\right)^2 dx \\
+&=\int_{\mathbb{R}^2}\left(\int_{B_{2\varepsilon}(x)}
+\frac{\sqrt{|x-y|\left(\log\frac{1}{|x-y|}\right)^{2\alpha}}}{\sqrt{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^{2\alpha}}}
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha}{|x-y|\left(\log\frac{1}{|x-y|}\right)^\alpha}\,dy\right)^2 dx \\
+&\le \int_{\mathbb{R}^2}\int_{B_{2\varepsilon}(x)}
+\frac{|x-y|\left(\log\frac{1}{|x-y|}\right)^{2\alpha}}{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^{2\alpha}}\,dy \\
+&\qquad\qquad\times \int_{B_{2\varepsilon}(x)}
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|^2\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^{2\alpha}}{|x-y|^2\left(\log\frac{1}{|x-y|}\right)^{2\alpha}}\,dy\,dx \\
+&\le \sup_x\int_{B_{2\varepsilon}(x)}
+\frac{\left(\log\frac{1}{|x-y|}\right)^{2\alpha}}{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^{2\alpha}}\,dy \\
+&\qquad\qquad\times \int_{\mathbb{R}^2}\int_{B_{2\varepsilon}(x)}
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|^2\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^{2\alpha}}{|x-y|^2\left(\log\frac{1}{|x-y|}\right)^{2\alpha}}\,dy\,dx .
+\end{aligned}
+\tag{II^*}
+\]

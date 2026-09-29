@@ -1,0 +1,5 @@
+The heading of the last column is:
+
+**Percent in Error**
+
+This column shows the percentage of fields that contained errors for each location (e.g., ATL, BAL, etc.) and for the total.

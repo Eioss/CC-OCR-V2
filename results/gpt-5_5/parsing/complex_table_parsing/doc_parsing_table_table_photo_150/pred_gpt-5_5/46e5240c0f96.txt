@@ -1,0 +1,34 @@
+<table>
+  <tr>
+    <td>Application</td>
+    <td>LoC</td>
+    <td>TCB-LS<br>(MB)</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>SQLAudition</td>
+    <td>13,556</td>
+    <td>30.54</td>
+    <td>
+      Audit the security of SQL state-<br>
+      ments to prevent malicious SQL<br>
+      from actual executions. We let the<br>
+      audit service run on the TEE side,<br>
+      expecting the process to be blind<br>
+      to the attacker and keeping the<br>
+      integrity of the results.
+    </td>
+  </tr>
+  <tr>
+    <td>ReEncryption</td>
+    <td>32,009</td>
+    <td>19.26</td>
+    <td>
+      Decrypt the cipher-text and en-<br>
+      crypt it again with another key<br>
+      such that the cracking of the orig-<br>
+      inal key will not compromise the<br>
+      objective applications.
+    </td>
+  </tr>
+</table>

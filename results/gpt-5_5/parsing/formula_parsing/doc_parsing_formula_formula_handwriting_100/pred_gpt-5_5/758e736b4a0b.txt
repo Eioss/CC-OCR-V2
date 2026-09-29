@@ -1,0 +1,19 @@
+\[
+\begin{bmatrix}
+(z+c)(1-d)+p(1-b)X & \cdots & z+c+p(1-b)X & z+p(1-b)X \\
+\vdots & \ddots & \vdots & \vdots \\
+(z+c)(1-d)+pX & \cdots & z+c+pX & z+pX \\
+(z+c)(1-d)X & \cdots & (z+c)X & zX
+\end{bmatrix}
+=H
+\]
+
+\[
+\begin{bmatrix}
+(1+c)(1-d)+p(1-b)X & \cdots & 1+c+p(1-b)X & 1+p(1-b)X \\
+\vdots & \ddots & \vdots & \vdots \\
+(1+c)(1-d)+pX & \cdots & 1+c+pX & 1+pX \\
+(1+c)(1-d)X & \cdots & (1+c)X & 1X
+\end{bmatrix}
+=H
+\]

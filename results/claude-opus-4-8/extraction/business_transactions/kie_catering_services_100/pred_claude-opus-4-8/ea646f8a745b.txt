@@ -1,0 +1,31 @@
+```json
+{
+  "menu": [
+    {
+      "name": "COPIA 1 /GB",
+      "quantity": "1",
+      "price": "45,000.00",
+      "amount": "45,000.00"
+    },
+    {
+      "name": "PLASTIC BAG RED CENTRAL SI",
+      "quantity": "1",
+      "price": "0.00",
+      "amount": "0.00"
+    },
+    {
+      "name": "COPIA 1 /GB",
+      "quantity": "1",
+      "price": "18,000.00",
+      "amount": "18,000.00"
+    }
+  ],
+  "sub_total": {
+    "total_quantity": "3",
+    "discount": "0.00"
+  },
+  "total": {
+    "total_price": "63,000.00"
+  }
+}
+```

@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+\mathbb{E}\|A^\eta[X_1(t)-X_1(s)]\|^2
+&\le \frac{4\iota_{1-p}^2\iota_{\eta+p-\beta}^2}{p^2}\mathbb{E}\|A^\beta\xi\|^2s^{2(\beta-\eta-p)}(t-s)^{2p} \\
+&\quad +4\left[\frac{\iota_{1-p}\iota_{\eta+p-\beta}}{p}B(\beta,1-\eta-p)+\iota_\eta B(\eta+p,1-\eta)\right]^2
+\mathbb{E}\|F_1\|_{\mathcal{F}^{\beta,\sigma}}^2(t-s)^{2(\beta-\eta-p)} \\
+&\quad +\frac{8\iota_{1-p}^2\iota_{\eta+p-\beta}^2c(E)^2k^2B(1+2\beta-2\eta,1-\eta-p)}{p^2(1-\eta-p)} \\
+&\qquad \times \max\left\{s^{2(1+\beta-2\eta-p)},r_{\mathrm{loc}}^{2(1+\beta-2\eta-p)}\right\}(t-s)^{2p} \\
+&\quad +\frac{8\iota_{1-p}^2\iota_{\eta+p}^2\mathbb{E}\|F_2(0)\|^2}{p^2(1-\eta-p)^2}
+T_{\mathrm{loc}}^{2(1-\eta-p)}(t-s)^{2p} \\
+&\quad +8\iota_\eta^2C_{F_2}k^2B\left(\frac12+\beta,1-2\eta\right)
+T_{\mathrm{loc}}^{\frac12+\beta-2\eta}(t-s)^{\frac32+\beta-2\eta} \\
+&\quad +\frac{8\iota_\eta^2\mathbb{E}\|F_2(0)\|^2}{1-2\eta}(t-s)^{2(1-\eta)},
+\qquad \varepsilon\le s<t\le T_{\mathrm{loc}}.
+\end{aligned}
+\]

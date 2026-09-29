@@ -1,0 +1,17 @@
+```json
+{
+    "SS": "approx. 50g**",
+    "CE-P1": "1336kJ/322kcal",
+    "CE-PS": "669kJ/161kcal",
+    "CE-D": "8%",
+    "TF-P1": "26g",
+    "TF-PS": "13g",
+    "TF-D": "19%",
+    "CAR-P1": "2.6g",
+    "CAR-PS": "1.3g",
+    "CAR-D": "<1%",
+    "PRO-P1": "19g",
+    "PRO-PS": "9.5g",
+    "PRO-D": "19%"
+}
+```

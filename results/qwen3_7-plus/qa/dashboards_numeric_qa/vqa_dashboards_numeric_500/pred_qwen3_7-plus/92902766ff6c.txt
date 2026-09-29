@@ -1,0 +1,11 @@
+Based on the table **“VMWARE VSPHERE VS. MICROSOFT HYPER-V”** in the infographic, under the **FEATURE** row labeled **“Max host processors”**, the value **160** appears for the following VMware editions:
+
+- **VMware STANDARD**
+- **VMware ENTERPRISE**
+- **VMware ENT. PLUS**
+
+That’s **3** VMware editions.
+
+---
+
+✅ **Answer: 3**

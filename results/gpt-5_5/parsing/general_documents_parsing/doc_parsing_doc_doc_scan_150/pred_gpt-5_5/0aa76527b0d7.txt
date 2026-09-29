@@ -1,0 +1,69 @@
+```latex
+Information related to our cash flow hedges, net investment hedges, and other derivatives not designated as hedging instruments for the fiscal years ended May 30, 2010, and May 31, 2009, follows:
+
+\begin{table}[h!]
+\centering
+\scriptsize
+\begin{tabular}{lrrrrrrrrrr}
+\hline
+& \multicolumn{2}{c}{Interest Rate} & \multicolumn{2}{c}{Foreign} & \multicolumn{2}{c}{Equity} & \multicolumn{2}{c}{Commodity} & \multicolumn{2}{c}{Total} \\
+& \multicolumn{2}{c}{Contracts} & \multicolumn{2}{c}{Exchange Contracts} & \multicolumn{2}{c}{Contracts} & \multicolumn{2}{c}{Contracts} & \multicolumn{2}{c}{} \\
+& \multicolumn{2}{c}{Fiscal Year} & \multicolumn{2}{c}{Fiscal Year} & \multicolumn{2}{c}{Fiscal Year} & \multicolumn{2}{c}{Fiscal Year} & \multicolumn{2}{c}{Fiscal Year} \\
+\textit{In Millions} & 2010 & 2009 & 2010 & 2009 & 2010 & 2009 & 2010 & 2009 & 2010 & 2009 \\
+\hline
+
+\multicolumn{11}{l}{Derivatives in Cash Flow Hedging Relationships:} \\
+\quad Amount of gain (loss) recognized in OCI\textsuperscript{(a)}
+& (11.7) & (1.1) & (13.8) & 9.1 & -- & -- & -- & -- & (25.0) & 8.0 \\
+
+\quad Amount of gain (loss) reclassified from AOCI into earnings\textsuperscript{(a)(b)}
+& (18.0) & (15.8) & (26.4) & 27.7 & -- & -- & -- & -- & (44.4) & 11.9 \\
+
+\quad Amount of gain (loss) recognized in earnings\textsuperscript{(c)(d)}
+& (0.3) & (0.1) & (0.5) & 0.3 & -- & -- & -- & -- & (0.8) & 0.2 \\
+
+\multicolumn{11}{l}{Derivatives in Fair Value Hedging Relationships:} \\
+\quad Amount of net gain recognized in earnings\textsuperscript{(d)}
+& 0.2 & -- & -- & -- & -- & -- & -- & -- & 0.2 & -- \\
+
+\multicolumn{11}{l}{Derivatives in Net Investment Hedging Relationships:} \\
+\quad Amount of gain recognized in OCI\textsuperscript{(a)}
+& -- & -- & -- & 6.0 & -- & -- & -- & -- & -- & 6.0 \\
+
+\multicolumn{11}{l}{Derivatives Not Designated as Hedging Instruments:} \\
+\quad Amount of gain (loss) recognized in earnings\textsuperscript{(e)}
+& 0.2 & 3.3 & 13.3 & (70.2) & 0.2 & 0.2 & (54.7) & (249.6) & (41.0) & (316.3) \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent
+\textsuperscript{(a)} Effective portion.\\
+\textsuperscript{(b)} Gain (loss) reclassified from AOCI into earnings is reported in interest, net for interest rate swaps and in cost of sales and SG\&A expenses for foreign exchange contracts.\\
+\textsuperscript{(c)} All gain (loss) recognized in earnings is related to the ineffective portion of the hedging relationship. No amounts were reported as a result of being excluded from the assessment of hedge effectiveness.\\
+\textsuperscript{(d)} Net gain recognized in earnings is related to the ineffective portion of the hedging relationship and the related hedged items. No amounts were reported as a result of being excluded from the assessment of hedge effectiveness.\\
+\textsuperscript{(e)} Gain (loss) recognized in earnings is reported in interest, net for interest rate contracts, in cost of sales for commodity contracts, and in SG\&A expenses for equity contracts.
+
+\bigskip
+
+\noindent
+\textit{Amounts Recorded in Accumulated Other Comprehensive Loss}
+Unrealized losses from interest rate cash flow hedges recorded in AOCI as of May 30, 2010, totaled \$25.1 million after tax. These deferred losses are primarily related to interest rate swaps we entered into in contemplation of future borrowings and other financing requirements and are being reclassified into net interest over the lives of the hedged forecasted transactions. As of May 30, 2010, we had no amounts from commodity derivatives recorded in AOCI. Unrealized losses from foreign currency cash flow hedges recorded in AOCI as of May 30, 2010, were \$3.8 million after-tax. The net amount of pre-tax gains and losses in AOCI as of May 30, 2010, that we expect to be reclassified into net earnings within the next 12 months is \$17.5 million of expense.
+
+\bigskip
+
+\noindent
+\textit{Credit-risk-related Contingent Features}
+Certain of our derivative instruments contain provisions that require us to maintain an investment grade credit rating on our debt from each of the major credit rating agencies. If our debt were to fall below investment grade, the counterparties to the derivative instruments could request full collateralization on derivative instruments in net liability positions. The aggregate fair value of all derivative instruments with credit-risk-related contingent features that were in a liability position on May 30, 2010, was \$16.3 million. We have not posted any collateral associated with these contracts. If the credit-risk-related contingent features underlying these agreements were triggered on May 30, 2010, we would be required to post an additional \$16.3 million of collateral to the counterparties.
+
+\bigskip
+
+\noindent
+\textit{Concentrations of Credit and Counterparty Credit Risk}
+During fiscal 2010, Wal-Mart Stores, Inc. and its affiliates (Wal-Mart) accounted for 23 percent of our consolidated net sales and 30 percent of our net sales in the U.S. Retail segment. No other customer accounted for 10 percent or more of our consolidated net sales. Wal-Mart also represented 5 percent of our net sales in the International segment and 7 percent of our net sales in the Bakeries and Foodservice segment. As of May 30, 2010, Wal-Mart accounted for 28 percent of our U.S. Retail receivables, 4 percent of our International receivables, and 7 percent of our Bakeries and Foodservice receivables. The five largest customers in our U.S. Retail segment accounted for 54 percent of its fiscal 2010 net sales, the five largest customers in our International
+
+\bigskip
+
+\noindent
+Annual Report 2010 \hfill 63
+```

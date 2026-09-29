@@ -1,0 +1,95 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{multirow}
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+%==================== Page 20 ====================
+\begin{center}
+第 20 页,共 61 页
+\end{center}
+
+\begin{center}
+\textbf{\large 郑州大学第二附属医院专购品入库汇总单}
+\end{center}
+
+\noindent
+供货单位：河南华润医疗器械有限公司 \hfill 发票号：\\
+编制日期：2021-11-02 \quad 至 \quad 2021-11-30 \quad 仓\quad 库：器械库
+
+\vspace{4pt}
+
+\begin{center}
+\begin{tabular}{|l|l|l|c|c|r|r|l|}
+\hline
+材料编码 & 材料名称 & 规格型号 & 单位 & 数量 & \multicolumn{1}{c|}{单价} & \multicolumn{1}{c|}{金额} & 生产厂商 \\
+\hline
+010303010610 & 一体式封堵器介入输送装置 & ASD-10F & 套 & 1.00 & 4800.00 & 4800.00 & 上海形状记忆合金材料有 \\
+\hline
+010303010610 & 一体式封堵器介入输送装置 & ASD-12F & 套 & 1.00 & 4800.00 & 4800.00 & 上海形状记忆合金材料有 \\
+\hline
+010303010610 & 颅内可电解脱弹簧圈 & FC9001003-061 & 个 & 2.00 & 6260.00 & 12520.00 & 上海加奇 \\
+\hline
+010303010610 & 颅内可电解脱弹簧圈 & FC9001003-051 & 个 & 1.00 & 6260.00 & 6260.00 & 上海加奇 \\
+\hline
+010303010710 & 室间隔缺损封堵器/记忆VSDO & SQFDQ-IIi 07 & 支 & 2.00 & 11592.00 & 23184.00 & 上海形状记忆合金材料有 \\
+\hline
+010303010710 & 血管缝合器系统 & 12673 & 支 & 1.00 & 2420.00 & 2420.00 & 美国雅培 \\
+\hline
+\multicolumn{2}{|l|}{数量合计：\quad 3868.00} & \multicolumn{4}{l|}{金额合计：玖佰贰拾玖万玖仟玖佰捌拾捌元捌角伍} & \multicolumn{2}{l|}{金额合计小写：\quad 9299988.85} \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+会计： \hfill 采购： \hfill 仓管： \hfill 制表：
+
+\vspace{20pt}
+
+%==================== Page 21 ====================
+\begin{center}
+第 21 页,共 61 页
+\end{center}
+
+\begin{center}
+\textbf{\large 郑州大学第二附属医院专购品入库汇总单}
+\end{center}
+
+\noindent
+供货单位：河南华润医疗器械有限公司 \hfill 发票号：\\
+编制日期：2021-11-02 \quad 至 \quad 2021-11-30 \quad 仓\quad 库：器械库
+
+\vspace{4pt}
+
+\begin{center}
+\begin{tabular}{|l|l|l|c|c|r|r|l|}
+\hline
+材料编码 & 材料名称 & 规格型号 & 单位 & 数量 & \multicolumn{1}{c|}{单价} & \multicolumn{1}{c|}{金额} & 生产厂商 \\
+\hline
+010303010710 & 滤器回收套件 & SRK35 & 个 & 2.00 & 9800.00 & 19600.00 & 美国巴德 \\
+\hline
+010303010710 & 弹簧圈系统 & 8210-0306 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+\hline
+010303010710 & 房间隔缺损封堵器/记忆ASDO & FQFDQ-1 24 & 支 & 1.00 & 13000.00 & 13000.00 & 上海形状记忆合金材料有 \\
+\hline
+010303010710 & 弹簧圈系统 & 8510-0103 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+\hline
+010303010710 & 弹簧圈系统 & 8510-0154 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+\hline
+010303010710 & 弹簧圈系统 & 8510-0206 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+\hline
+\multicolumn{2}{|l|}{数量合计：\quad 3868.00} & \multicolumn{4}{l|}{金额合计：玖佰贰拾玖万玖仟玖佰捌拾捌元捌角伍} & \multicolumn{2}{l|}{金额合计小写：\quad 9299988.85} \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+会计： \hfill 采购： \hfill 仓管： \hfill 制表：
+
+\end{CJK}
+\end{document}
+```

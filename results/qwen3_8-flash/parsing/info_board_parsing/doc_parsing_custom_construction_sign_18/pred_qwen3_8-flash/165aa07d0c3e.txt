@@ -1,0 +1,233 @@
+```html
+<div style="text-align: center;"><img src="imgs/img_in_image_box_357_86_1459_209.jpg" alt="Image" width="43.2%" /></div>
+
+文档编号 SG-104926，日期 2024-09-20
+
+<table border="1">
+	<tr>
+		<td colspan="12">进度计划 / 现场管理 / 联系方式</td>
+	</tr>
+	<tr>
+		<td colspan="12">施工/项目名称：[虚构项目]岚原西部综合服务枢纽建设</td>
+	</tr>
+	<tr>
+		<td colspan="12">单位名称：岚原省岚原州松影临澜综合服务有限公司</td>
+	</tr>
+	<tr>
+		<td colspan="6">工程地点：青岚省澄岳市西岭区云杉路271号 8栋</td>
+		<td colspan="6">项目负责人：华知夏；安全员：朱清越；联系电话：18965567933</td>
+	</tr>
+	<tr>
+		<th colspan="6">里程碑计划表</th>
+		<th colspan="6">现场管理检查记录</th>
+	</tr>
+	<tr>
+		<th>日期</th>
+		<th>节点描述</th>
+		<th>责任人</th>
+		<th>状态(完成%)</th>
+		<th>备注</th>
+		<th></th>
+		<th>检查日期</th>
+		<th>问题描述</th>
+		<th>整改要求</th>
+		<th>责任人</th>
+		<th>复验状态</th>
+		<th>签字确认</th>
+	</tr>
+	<tr>
+		<td>2024-05-15</td>
+		<td>基础工程完工</td>
+		<td>李伟</td>
+		<td>95%</td>
+		<td>提前完成</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-06-30</td>
+		<td>A区主体结构封顶</td>
+		<td>张强</td>
+		<td>80%</td>
+		<td>按计划</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-07-10</td>
+		<td>B区消防验收</td>
+		<td>王刚</td>
+		<td>未开始</td>
+		<td>需跟进</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-08-20</td>
+		<td>外墙装饰开始</td>
+		<td>赵敏</td>
+		<td>30%</td>
+		<td>材料已到</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-09-05</td>
+		<td>机电安装全面展开</td>
+		<td>刘洋</td>
+		<td>50%</td>
+		<td>部分设备延期</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-09-15</td>
+		<td>A区内部装修</td>
+		<td>陈磊</td>
+		<td>10%</td>
+		<td>样板间制作</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>A区小计</td>
+		<td>-</td>
+		<td>-</td>
+		<td>平均 65%</td>
+		<td>-</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2024-09-18</td>
+		<td>安全通道检查</td>
+		<td>通道杂物堆积</td>
+		<td>立即清理</td>
+		<td></td>
+		<td></td>
+		<td>2024-09-18</td>
+		<td>安全通道检查</td>
+		<td>立即清理</td>
+		<td>周鹏</td>
+		<td>已复验</td>
+		<td>周鹏/签字</td>
+	</tr>
+	<tr>
+		<td>2024-09-19</td>
+		<td>脚手架检查</td>
+		<td>连接件松动</td>
+		<td>加固处理</td>
+		<td></td>
+		<td></td>
+		<td>2024-09-19</td>
+		<td>连接件松动</td>
+		<td>加固处理</td>
+		<td>吴军</td>
+		<td>待复验</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>2024-09-20</td>
+		<td>材料堆放检查</td>
+		<td>材料未覆盖</td>
+		<td>覆盖防尘网</td>
+		<td></td>
+		<td></td>
+		<td>2024-09-20</td>
+		<td>材料未覆盖</td>
+		<td>覆盖防尘网</td>
+		<td>郑华</td>
+		<td>进行中</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>B区小计</td>
+		<td>-</td>
+		<td>-</td>
+		<td>平均 20%</td>
+		<td>-</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>合计</td>
+		<td>-</td>
+		<td>-</td>
+		<td>总进度 42.5%</td>
+		<td>-</td>
+		<td colspan="7">需加快B区进度</td>
+	</tr>
+	<tr>
+		<td>备注/特殊条款</td>
+		<td></td>
+		<td></td>
+		<td colspan="9">内容</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td></td>
+		<td></td>
+		<td colspan="9">本公示牌数据每周更新，以现场实际情况为准。</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td></td>
+		<td></td>
+		<td colspan="9">所有进场人员必须佩戴安全帽，遵守安全规定。</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td></td>
+		<td></td>
+		<td colspan="9">紧急联系电话：110 / 119 / 120。</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td></td>
+		<td></td>
+		<td colspan="9">监督电话：010-12345678。</td>
+	</tr>
+</table>
+
+https://example.com/doc-16835341
+```

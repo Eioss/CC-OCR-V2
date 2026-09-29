@@ -1,0 +1,18 @@
+Based on the provided image of the American Airlines ticket, we can determine the fare basis code for economy class by examining the "FARE BASIS" column in the flight coupon section.
+
+Looking at the rows corresponding to the flights:
+
+1.  **Laguardia to Nashville:** The `FARE BASIS` column shows a handwritten letter **"Y"**.
+2.  **Nashville to Laguardia:** The `FARE BASIS` column also shows a handwritten letter **"Y"**.
+
+In airline terminology (especially historically and commonly used), the single-letter code **"Y"** typically denotes **Economy Class** (often full-fare or unrestricted economy).
+
+Additionally, in the upper right portion of the ticket under "FROM/TO", there are entries like:
+- `LGA AA 123.00`
+- `LGA AA 123.00`
+
+While these show carrier and fare amounts, they don't directly state the basis code — but the explicit `Y` in the FARE BASIS column is the standard indicator.
+
+---
+
+✅ **Answer: The fare basis code for economy class on this ticket is `Y`.**

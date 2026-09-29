@@ -1,0 +1,26 @@
+\[
+\begin{aligned}
+\mathbb{E}\!\left[\varphi_3(X,A,Z,M,Y)S_0(O)\right]
+&= \mathbb{E}\!\left[\varphi_3(X,A,Z,M,Y)\left\{S_0(X)+S_0(Z\mid X,A)+S_0(M\mid X,A,Z)+S_0(Y\mid X,A,Z,M)\right\}\right] \\
+&= \mathbb{E}\!\left[\left\{S_0(X)+S_0(A\mid X)+S_0(Z\mid X,A)+S_0(M\mid X,A,Z)\right\}\mathbb{E}\!\left[\varphi_3(X,A,Z,M,Y)\mid X,A,Z,M\right]\right] \\
+&\quad + \mathbb{E}\!\left[\varphi_3(X,A,Z,M,Y)S_0(Y\mid X,A,Z,M)\right] \\
+&= \mathbb{E}\!\left[\varphi_3(X,A,Z,M,Y)S_0(Y\mid X,A,Z,M)\right] \\
+&= \mathbb{E}\!\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)YS_0(Y\mid X,A,Z,M)}
+{\Pr(A=a\mid X)\Pr(M=m\mid X,A=a,Z)}\right] \\
+&\quad - \mathbb{E}\!\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)\mathbb{E}[Y\mid X,A=a,Z,M=m]}
+{\Pr(A=a\mid X)\Pr(M=m\mid X,A=a,Z)}
+\mathbb{E}\!\left[S_0(Y\mid X,A,Z,M)\mid X,A,Z,M\right]\right] \\
+&= \mathbb{E}_{X,A}\!\left[\mathbb{E}\!\left[
+\frac{\mathbb{I}(A=a)\Pr(M=m\mid X,A,Z)\mathbb{E}\!\left[YS_0(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]}
+{\Pr(A=a\mid X)\Pr(M=m\mid X,A=a,Z)}
+\middle| X,A\right]\right] \\
+&= \mathbb{E}_X\!\left\{\mathbb{E}\!\left[
+\frac{\mathbb{I}(A=a)\Pr(M=m\mid X,A,Z)\mathbb{E}\!\left[YS_0(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]}
+{\Pr(A=a\mid X)\Pr(M=m\mid X,A=a,Z)}
+\middle| X,A=a\right]\Pr(A=a\mid X)\right\} \\
+&= \mathbb{E}_X\!\left\{\mathbb{E}\!\left[
+\mathbb{E}\!\left[YS_0(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]
+\middle| X,A=a\right]\right\} \\
+&= \phi_3 .
+\end{aligned}
+\]

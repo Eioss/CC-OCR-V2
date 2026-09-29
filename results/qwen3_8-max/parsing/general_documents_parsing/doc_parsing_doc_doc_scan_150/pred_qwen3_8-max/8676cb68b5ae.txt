@@ -1,0 +1,27 @@
+```latex
+\section*{180 Uniform System of Accounts for the Lodging Industry}
+
+The use of ratios and statistics as a basis of comparison, measurement, and communication is prevalent within the lodging industry. The usefulness of these tools is predicated on a commonality of definition and understanding. The various ratios and statistics that can be developed and be useful are numerous. The intent of this section is to provide a consistent, uniform definition of basic lodging industry ratios and statistics. This section includes only those ratios and statistics that are in widespread general use within the industry. It is not intended to be a complete listing and definition of all possible relevant ratios and statistics.
+
+\subsection*{Ratio Analysis}
+
+Financial statements issued by lodging properties contain a considerable amount of information. A thorough analysis of this information requires more than simply reading the reported figures and facts. Users of financial statements need to be able to interpret the figures and facts, and make them yield information that reveals aspects of the property's financial situation or operation that could otherwise go unnoticed. This is accomplished through ratio analysis, which compares related facts reported on financial statements. A ratio gives mathematical expression to a relationship between two figures, and is calculated by dividing one figure by the other.
+
+Ratios are meaningful only when compared to useful criteria. Useful criteria with which to compare the results of ratio analysis include:
+\begin{itemize}
+    \item Other properties and industry averages
+    \item The corresponding ratio calculated for a prior period
+    \item Planned ratio goals
+\end{itemize}
+
+Ratio analysis can be extremely useful. However, ratios are only indicators; they do not resolve problems or actually reveal what the problems may be. At best, when ratios vary significantly from past periods, budgeted standards, or industry averages, they indicate that problems may exist. When problems appear to exist, considerably more analysis and investigation is necessary to determine the appropriate corrective actions.
+
+The following paragraphs are intended to provide the reader with guidance regarding the use of ratios to measure hotel financial performance.
+
+\subsection*{Comparisons to Other Properties and Industry Averages}
+
+The comparison of financial performance measurements to other properties and industry averages can be valuable. However, care must be used when comparing the performance of one hotel's operation to the average performance of the industry at large, a competitive set of properties, or a comparable group or type of properties. Consider the following points:
+\begin{itemize}
+    \item The data should be used as a benchmark to measure the performance of the subject hotel against properties of similar size, age, location, revenue mix, chain-segment, ownership structure, management, facilities and services offered, amenities offered, etc. Careful consideration should be given to the
+\end{itemize}
+```

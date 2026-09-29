@@ -1,0 +1,14 @@
+\[
+Q_i=\int_{x_{i-1}}^{x_i}
+\frac{
+z_x(x)-z_x(x_i)+\dfrac{x-x_i}{x_i-x_{i-1}}\bigl[z_x(x_i)-z_x(x_{i-1})\bigr]
+}{
+\bigl[z_x(x)-z_x(x_i)\bigr]\bigl[z_x(x)-z_x(x_{i-1})\bigr]
+}\,dx
+-\int_{x_i}^{x_{i+1}}
+\frac{
+z_x(x)-z_x(x_i)+\dfrac{x-x_i}{x_i-x_{i+1}}\bigl[z_x(x_i)-z_x(x_{i+1})\bigr]
+}{
+\bigl[z_x(x)-z_x(x_i)\bigr]\bigl[z_x(x)-z_x(x_{i+1})\bigr]
+}\log\!\bigl(\lvert z_x(x)-z_x(x_i)\rvert\bigr)\,dx
+\]

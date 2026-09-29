@@ -1,0 +1,84 @@
+To find the total percentage of people who view fake news **almost once or more than once daily**, we need to look at the section titled:
+
+> **“Exposure to ‘fake news’ on social media is almost daily, according to 18% of people.”**
+
+But this seems to be a general statement — not broken down into “more than once daily” and “once every few days”, etc.
+
+Actually, looking further down in the infographic, there’s a clear breakdown under that heading with three pie charts:
+
+- **31%** say it is **more than once daily**
+- **11%** say they see fake news on social channels **once every few days**
+- **6%** say **once a week**
+
+The question asks for **“almost once or more than once daily”** — which likely means **“more than once daily”** (since “almost once daily” isn’t explicitly listed as a category).
+
+However, if we interpret “almost once or more than once daily” as including both:
+
+- More than once daily → **31%**
+- Once every few days → **11%** (which could be considered “almost daily”)
+
+Then total = **31% + 11% = 42%**
+
+But wait — let’s check the context again.
+
+The header says:  
+> *“Exposure to ‘fake news’ on social media is almost daily, according to 18% of people.”*
+
+This 18% might refer to those who said “almost daily”, but then the pie charts below show different frequencies. The 31%, 11%, and 6% are separate responses.
+
+Looking closely, the 31% (“more than once daily”) and 11% (“once every few days”) together make up **42%**, which matches the earlier statistic about **social channels being 42%** of where fake news comes from — possibly coincidental.
+
+But the question specifically asks:  
+> **“What is the total percentage of people viewing fake news almost once or more than once daily?”**
+
+Given the available data, the closest interpretation is:
+
+- **“More than once daily” = 31%**
+- **“Almost once daily”** — not directly stated, but perhaps implied by “once every few days” (11%)? Or maybe the 18% mentioned earlier?
+
+Wait — re-examining the image:
+
+There’s a red banner that says:  
+> *“Exposure to ‘fake news’ on social media is almost daily, according to 18% of people.”*
+
+Then below, three circles:
+
+- 31% — more than once daily
+- 11% — once every few days
+- 6% — once a week
+
+So the **18%** appears to be a summary figure — possibly combining some categories? But it doesn't add up (31+11+6=48%).
+
+Alternatively, perhaps the **18%** refers to something else — like the proportion who *feel* exposed almost daily, while the percentages below are actual reported frequency.
+
+But since the question asks for **“total percentage of people viewing fake news almost once or more than once daily”**, and given the explicit numbers:
+
+→ **31% (more than once daily)**  
+→ **+ 11% (once every few days — arguably “almost daily”)**  
+= **42%**
+
+Also note: In the same section, above these stats, it says:
+
+> **42% Social Channels**
+
+And just below the exposure stats:
+
+> **14% of American adults viewed social media as their “most important” source of election news**
+
+Not directly related.
+
+Another clue: The Stanford study mentions **159 million visits** to fake news sites during election month — irrelevant here.
+
+---
+
+✅ Final Answer: Based on the provided data, adding **“more than once daily” (31%)** and **“once every few days” (11%)** gives us **42%** — which can reasonably be interpreted as those who view fake news **almost daily or more frequently**.
+
+Thus, the total percentage is:
+
+> **42%**
+
+*(Note: If “almost once daily” strictly means less than daily but close, and only “more than once daily” counts, then answer would be 31%. But given common usage and the structure of the infographic, 42% is the most logical combined figure matching the “almost daily” theme.)*
+
+---
+
+📌 **Answer: `42%`**

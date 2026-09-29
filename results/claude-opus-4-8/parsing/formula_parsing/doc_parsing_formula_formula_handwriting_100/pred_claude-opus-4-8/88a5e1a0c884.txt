@@ -1,0 +1,16 @@
+$$(A - \langle A \rangle)|\psi\rangle = \beta(B - \langle B \rangle)|\psi\rangle$$
+
+$$d^2 = -(a^2 + ab + b^2) = -3x^2 y^2$$
+
+$$E(D_n) = \{vu_i \mid 1 \le i \le n\} \cup \{u_i w_i \mid 1 \le i \le n\}$$
+
+$$\int_B \varphi \circ f_t(x)\, \mathrm{Leb}_B(dt) = \varphi(x)$$
+
+$$t^*(\lambda) = \min\left\{k \in \mathbb{N} : d_H(\mathbf{4}\,v, \mathbb{N}), k > 4\right\} = \frac{\pi}{\lambda} + O(1),$$
+
+$$E_{n,m\prime} = \frac{-m\lambda^4 + 32\eta^3\left(m^{\prime 2} + 4(1+n)^2 + (\varepsilon_1 + \varepsilon_2)^2 + 4\sqrt{m^{\prime 2} + (\varepsilon_1 + \varepsilon_2)^2}(1+n)\right)}{(\lambda^2 - 4\eta w)^2}$$
+$$+ \frac{8m\eta w(\lambda^2 - 2\eta w)}{(\lambda^2 - 4\eta w)^2}$$
+
+$$g_j(x) := \lim_{t \to 0^+}\left(g_j(x + it) - \frac{2\,\mathrm{artanh}\left(\frac{1}{\sqrt{3}}\right)}{\pi |c_x| t}\Phi M_x^{-1}(j,0)\right),$$
+
+$$\hat{L}^-[w] := M^-(D^2 w) - \hat{b}|Dw|, \quad \text{for } \hat{b} = b + 2\mu_2 \|Du_0\|_\infty,$$

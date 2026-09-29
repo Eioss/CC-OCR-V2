@@ -1,0 +1,66 @@
+# Transfer/Rollover Form Instructions
+
+## 1. YOUR INFORMATION
+
+Please provide personal information requested.
+
+## 2. EMPLOYER PLAN RECEIVING ASSETS
+
+Please provide us with information about the plan receiving your assets. The chart below provides general guidelines about the portability of assets. If you do not know what type of plan you are sending your assets to, call a Retirement Services Specialist at 1-800-343-0860.
+
+\begin{center}
+\textbf{General Rules for Availability of Rollovers} \\
+\textbf{For Eligible Pre-Tax Contributions} \\
+\textbf{and Transfers}
+\end{center}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lcccccccc}
+\hline
+ & \multicolumn{2}{c}{\textbf{To}} & \multicolumn{2}{c}{\textbf{To}} & \multicolumn{2}{c}{\textbf{To}} & \multicolumn{2}{c}{\textbf{To}} \\
+ & \multicolumn{2}{c}{\textbf{Qualified Plans}} & \multicolumn{2}{c}{\textbf{403(b) Plans}} & \multicolumn{2}{c}{\textbf{Gov't 457(b)}} & \multicolumn{2}{c}{\textbf{IRAs}} \\
+ & \multicolumn{2}{c}{\textbf{(401(a)/401(k))}} & & & \multicolumn{2}{c}{\textbf{Plans}} & \multicolumn{2}{c}{\textbf{(excl. Roth IRAs)}} \\
+\hline
+ & Transfer & Rollover & Transfer & Rollover & Transfer & Rollover & Transfer & Rollover \\
+\hline
+\textbf{From Qualified Plans} & YES* & YES** & NO & YES & NO & YES & NO & YES** \\
+\textbf{(401(a)/401(k))} & & & & & & & & \\
+\hline
+\textbf{From 403(b) Plans} & NO*** & YES & YES & YES** & NO & YES & NO & YES** \\
+\hline
+\textbf{From Governmental 457(b) Plans} & NO*** & YES & NO & YES* & YES & YES & NO & YES \\
+\hline
+\textbf{From Non-governmental 457(b) Plans} & \multicolumn{8}{c}{Transfer to another tax-exempt$^\dagger$ 457(b) plan only.} \\
+\hline
+\textbf{From IRAs} & NO & YES & NO & YES & NO & YES & YES & YES** \\
+\textbf{(excluding Roth IRAs)} & & & & & & & & \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{flushleft}
+\hspace{1cm}* General transfers from one plan to another plan apply only for plan-level transfers resulting from plan mergers. \\
+\hspace{0.8cm}** After-tax rollovers may also be allowed, subject to plan restrictions. \\
+\hspace{0.6cm}*** Transfers are allowed from a governmental 403(b) plan and a governmental 457(b) plan, respectively, to a governmental defined \\
+\hspace{1.5cm}benefit plan to purchase past service credit. \\
+\hspace{0.8cm}$^\dagger$ Transfers allowed only upon separation from employment.
+\end{flushleft}
+
+\textbf{Tax-Exempt 457(b) plans} do not have the option to roll over assets, but may allow Transfers to the same type of plan. Generally, \textbf{403(b)} and \textbf{qualified plans} allow \textbf{in-plan transfers} between vendors. Please call 1-800-343-0860 for additional information about portability provisions applicable to your plan. You may also want to check with your employer before initiating a transfer or rollover request.
+
+## 3. YOUR PREVIOUS INVESTMENT PROVIDER
+
+Unless otherwise instructed, when assets are coming from a different employer's plan than the employer listed in Section 2, this transaction will be processed as a rollover. Any grandfathered pre-1987 and/or pre-1989 balance information will not be carried over. If you are requesting assets from a previous employer's plan and wish to initiate a transfer instead of a rollover, please include a letter of instruction with your form.
+
+You may use this form for a direct rollover or for an indirect (60-day) rollover.
+
+If you have already received a check from your prior investment provider and would like to make an indirect rollover, please be sure to include:
+
+$\square$ A check payable to the plan custodian or trustee
+
+\hspace{2cm} \textbf{AND}
+
+$\square$ A distribution statement from your prior investment provider
+
+Please note: A rollover contribution must be received by Fidelity within 60 days of your receipt of such distribution. Your plan sponsor reserves the right to require sufficient evidence that your distribution is from an eligible retirement plan or IRA.

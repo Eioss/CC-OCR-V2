@@ -1,0 +1,5 @@
+NC(=O)c1cn2c(NCc3c(F)ccc4c3CCO4)nc(-c3cnc(C3CC3)nc3C)c(-c3cnc(C4CC4)nc3C)c2n1
+
+Wait, let me re-extract carefully.
+
+O=C(N)c1cn2c(NCc3c(F)ccc4OCCc34)nc(-c3cnc(C4CC4)nc3C)cc2n1

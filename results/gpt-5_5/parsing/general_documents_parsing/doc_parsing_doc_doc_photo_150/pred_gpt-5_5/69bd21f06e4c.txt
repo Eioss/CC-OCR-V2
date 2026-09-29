@@ -1,0 +1,234 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{makecell}
+\usepackage{multirow}
+
+\setmainfont{Noto Serif Bengali}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{First Paper}}\\
+\textbf{SECTION -- A}\\
+\textbf{READING TEST (SEEN PASSAGE)}\\
+\textbf{[Question Nos. 1--3]}
+\end{center}
+
+পাঠ্যবই থেকে যেকোন একটি Passage থাকবে। উক্ত Passage-টি পড়ে নিচের ১--৩ নং প্রশ্নের উত্তর দিতে হবে।
+
+\begin{enumerate}
+    \item Multiple Choice Questions \quad 2. Answering questions
+    \item[3.] Summarizing
+\end{enumerate}
+
+১--৩ নং প্রশ্নের উত্তর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Lesson গুলো গুরুত্ব সহকারে পড়তে হবে এবং এই বইয়ের প্রথম Exercise গুলো অনুশীলন করতে হবে।
+
+\begin{longtable}{|c|p{11.5cm}|}
+\hline
+\textbf{SL} & \multicolumn{1}{c|}{\textbf{Given Passage}}\\
+\hline
+1 & Nakshi kantha --- embroidered on them. [U-1; L-2]\\
+  & \textit{(CtgB '16; SB '15; DB '14; RB '14; DinajB '14; CB '14; BB '14)}\\
+\hline
+2 & The ethnic people ---- in Mymensingh. [U-1; L-3]\\
+\hline
+3 & Bangladeshi cuisine ---- Bangladeshi people. [U-1; L-5]\\
+  & \textit{(BB '16)}\\
+\hline
+4 & Health is the ---- things of life. [U-3; L-1]\\
+  & \textit{(RB '15)}\\
+\hline
+5 & The word ‘hygiene’ ---- happy life. [U-3; L-3]\\
+  & \textit{(DinajB '16; '15; CB '15; JB '14; SB '14)}\\
+\hline
+6 & Shamima’s misery---designer. [U-5; L-3]\\
+  & \textit{(RB '16; DB '15)}\\
+\hline
+7 & At the farthest corner----round in nature. [U-5; L-4]\\
+  & \textit{(DB '16)}\\
+\hline
+8 & Once upon a time a dove ---- think about me?” [U-5; L-5]\\
+  & \textit{(JB '16; CtgB'15)}\\
+\hline
+9 & Zara lives with....start filling in the forms. [U-6; L-1]\\
+  & \textit{(CB '16; CtgB '14)}\\
+\hline
+10 & Oxygen and air ---- on enjoyable flight. [U-6; L-6]\\
+\hline
+11 & Thousands of years ---- for good luck. [U-7; L-1]\\
+   & \textit{(SB '16)}\\
+\hline
+12 & River gypsies are an ethnic --- special power. [U-7; L-3]\\
+\hline
+13 & River gypsies in Bangladesh--- children in some areas. [U-7 L-4]\\
+   & \textit{(BB '15)}\\
+\hline
+14 & With only 2500 --- Juba Padak in 2012. [U-8; L-3]\\
+\hline
+15 & Human beings conquered ---- a major accident. [U-9; L-4]\\
+   & \textit{(JB'15)}\\
+\hline
+16 & Communication of ideas ---- has changed our life. [U-9; L-6]\\
+\hline
+\end{longtable}
+
+বোর্ড অনুযায়ী পৃষ্ঠা নির্দেশক ছক। উপরে ব্যবহৃত সিরিয়াল নম্বর হল প্রশ্নের জন্য।\\
+\textit{[N.B. DB = Dhaka Board; বাকিগুলো ক্রমানুযায়ী]}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \textbf{DB} & \textbf{RB} & \textbf{DinajB} & \textbf{JB} & \textbf{CB} & \textbf{CtgB} & \textbf{SB} & \textbf{BB}\\
+\hline
+\textbf{***} &
+\makecell{1,3,4,\\5,6,9,\\15} &
+\makecell{1,2,4,\\5,7,15} &
+\makecell{1,2,6,\\8,15,19} &
+\makecell{1,2,4,\\5,6,11,\\15} &
+\makecell{1,2,3,\\5,6,11,\\15} &
+\makecell{2,3,4,\\6,15,\\11} &
+\makecell{1,2,5,\\6,9,10,\\15} &
+\makecell{1,4,6,\\5,9,11}\\
+\hline
+\textbf{**} &
+\makecell{2,8,\\10,\\11,13} &
+\makecell{3,8,9,\\10,13} &
+\makecell{9,10,\\11,13,\\16} &
+\makecell{3,7,9,\\10,13} &
+\makecell{4,10,\\12,13} &
+\makecell{5,7,9,\\13} &
+\makecell{4,7,8,\\13} &
+\makecell{3,7,8,\\10,13}\\
+\hline
+\textbf{*} &
+\makecell{7,12,\\14,16} &
+\makecell{12,\\14,16} &
+\makecell{3,12,\\14} &
+\makecell{12,\\14,16} &
+\makecell{7,8,16,\\14} &
+\makecell{8,12,\\14,16} &
+\makecell{12,14,\\16} &
+\makecell{12,14,\\15,16}\\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{READING TEST (UNSEEN PASSAGE)}
+\end{center}
+
+এ অংশে পাঠ্যবই বহির্ভূত একটি Passage থাকবে। উক্ত Passage পড়ে 4. Information transfer ও 5. True/False-এর উত্তর প্রশ্ন করতে হবে।\\
+৮--৯ নং প্রশ্নের উত্তর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Topic গুলো সম্পর্কে ধারণা রাখতে হবে এবং এগুলোর উপর Exercise গুলো অনুশীলন করতে হবে।
+
+\begin{enumerate}
+    \item[ক.] বিখ্যাত ব্যক্তির জীবনী যেমন : বঙ্গবন্ধু শেখ মুজিবুর রহমান, কাজী নজরুল ইসলাম, বেগম রোকেয়া, বেগম সুফিয়া কামাল, খানজাহান আলী, মীর মশাররফ হোসেন, নীল আর্মস্ট্রং, ভার্গাস লোসা, জন ডন, দেশপ্রেমিক, আইনস্টাইন, লিও টলস্টয়, উইলিয়াম কেরি, বিবেকানন্দ ইত্যাদি।
+    \item[খ.] বিশেষ গুরুত্বপূর্ণ খেলোয়াড়, যেমন: সাকিব আল হাসান, হাফিজ উদ্দিন আহমেদ, কার্ল মার্কস, ফজিলাতুন্নেসা, হাজী মুহম্মদ মহসিন, ভাই [অস্পষ্ট]।
+    \item[গ.] ঐতিহাসিক নিদর্শন যেমন : মহাস্থানগড়, সোনারগাঁ, ময়নামতি, সোমপুর বিহার।
+    \item[ঘ.] পুরোনো স্থাপত্য যেমন : কক্সবাজার, সুন্দরবন, মাধবকুণ্ড ইত্যাদি।
+    \item[ঙ.] ঐতিহাসিক ঘটনা যেমন : ভাষা আন্দোলন, বাংলাদেশের স্বাধীনতা, ঐতিহাসিক দুর্ঘটনা ইত্যাদি।
+    \item[চ.] পুরস্কার : নোবেল পুরস্কার, স্বাধীনতা পদক, একুশে পদক ইত্যাদি।
+    \item[ছ.] প্রযুক্তি : চিপ, ব্লু টুথ, তথ্য প্রযুক্তি।
+\end{enumerate}
+
+এছাড়া, 6. Gap filling without clues, 7. Rearranging, 8. Gap filling with clues ও 9. Matching এই items গুলোর ওপরও প্রশ্ন থাকে। তাই এই অংশের Suggestion দেওয়া সম্ভব নয়। এই অংশে ভালো করার জন্য এই বইয়ের সংশ্লিষ্ট Exercise গুলো অনুশীলন কর।
+
+\begin{center}
+\textbf{SECTION -- B WRITING TEST}\\
+\textbf{DIALOGUE}\\
+\textbf{[Question No. 10]}
+\end{center}
+
+\begin{longtable}{|c|p{11.5cm}|}
+\hline
+\textbf{SL} & \multicolumn{1}{c|}{\textbf{Topic}}\\
+\hline
+1 & Between two friends about reading newspaper.\\
+  & \textit{(DinajB '16; CtgB '16; CB '15; SB '15; RB '14)}\\
+\hline
+2 & Between two friends/father and son about the preparation for the JSC Exam.\\
+  & \textit{(CB '16; DinajB '15; JSC '13, '11)}\\
+\hline
+3 & Between two friends about your favourite hobby/gardening.\\
+  & \textit{(JB '16; BB '15; DinajB'14)}\\
+\hline
+4 & Between two friends about the necessity of physical exercise.\\
+  & \textit{(DB '16; RB '15)}\\
+\hline
+5 & Between two friends about the bad effects of illiteracy.\\
+  & \textit{(RB '16; CtgB'14)}\\
+\hline
+6 & Between two friends about benefits of early rising.\\
+  & \textit{(SB '16; JB'14)}\\
+\hline
+7 & Between two friends about how to make a good result.\\
+  & \textit{(DB '16)}\\
+\hline
+8 & Between two friends about how to improve English.\\
+  & \textit{(SB'14)}\\
+\hline
+9 & Between two friends about importance of learning English.\\
+  & \textit{(DB '15)}\\
+\hline
+10 & Between you and your friend about aim in life. \textit{(JB '15)}\\
+\hline
+11 & Between two friends about merits and demerits of using mobile phone. \textit{(CtgB'15)}\\
+\hline
+12 & Between two friends about the dangers of smoking.\\
+   & \textit{(CB'14)}\\
+\hline
+13 & Between a doctor and a patient about illness. \textit{(BB'14)}\\
+\hline
+14 & Between two friends about an exciting football match. \textit{(DB'14)}\\
+\hline
+15 & Between two friends on what they intend to do after JSC Examination.\\
+\hline
+\end{longtable}
+
+বোর্ড অনুযায়ী পৃষ্ঠা নির্দেশক ছক। উপরে ব্যবহৃত সিরিয়াল নম্বর ব্যবহৃত হয়েছে।
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \textbf{DB} & \textbf{RB} & \textbf{DinajB} & \textbf{JB} & \textbf{CB} & \textbf{CtgB} & \textbf{SB} & \textbf{BB}\\
+\hline
+\textbf{***} &
+\makecell{1,3,4,\\5,9,12,\\14} &
+\makecell{1,12,\\3,4,9,\\13} &
+\makecell{1,2,4,\\5,7,10,\\13} &
+\makecell{1,2,5,\\7,8,9,\\10} &
+\makecell{1,3,4,\\6,9,12} &
+\makecell{2,3,4,\\5,7,10} &
+\makecell{1,2,3,\\4,9,\\10} &
+\makecell{1,3,4,\\5,6,9,\\12}\\
+\hline
+\textbf{**} &
+\makecell{2,6,\\13,10} &
+\makecell{2,6,7,\\8,11,\\14} &
+\makecell{3,6,8,\\9} &
+\makecell{4,6,11,\\13} &
+\makecell{5,7,\\15,13} &
+\makecell{6,8,9,\\11,12,\\13} &
+\makecell{5,7,8,\\11,12} &
+\makecell{2,8,10,\\11,14}\\
+\hline
+\textbf{*} &
+\makecell{7,8,11,\\15} &
+\makecell{5,10,\\15} &
+\makecell{1,11,\\14,15} &
+\makecell{12,14,\\15} &
+\makecell{2,8,10,\\11,14} &
+\makecell{14,15} &
+\makecell{6,13,\\14,15} &
+\makecell{7,13,\\15}\\
+\hline
+\end{tabular}
+\end{center}
+
+\textit{[N.B. JSC পরীক্ষার Common Communicative English Model Questions বইয়ের Dialogue অংশ দেখো]}
+
+\end{document}
+```

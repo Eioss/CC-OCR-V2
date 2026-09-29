@@ -1,0 +1,91 @@
+```latex
+\begin{center}
+    \Large{\textbf{Physics Formula Sheet}}
+\end{center}
+
+\section*{Mechanics}
+
+\begin{tabular}{lll}
+$x = x_0 + v_{x0}t + \frac{1}{2}a_xt^2$ & $a_c = \frac{v^2}{r}$ & $|\vec{F}_{spring}| = k |\vec{x}|$ \\[10pt]
+$v = v_0 + at$ & $\theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2$ & $PE_{spring} = \frac{1}{2}kx^2$ \\[10pt]
+$v_x^2 - v_{x0}^2 = 2a(x - x_0)$ & $\omega = \omega_0 + \alpha t$ & $T_{spring} = 2\pi\sqrt{\frac{m}{k}}$ \\[10pt]
+$\vec{a} = \frac{\Sigma\vec{F}}{m} = \frac{\vec{F}_{net}}{m}$ & $T = \frac{2\pi}{\omega} = \frac{1}{f}$ & $T_{pendulum} = 2\pi\sqrt{\frac{l}{g}}$ \\[10pt]
+$|\vec{F}_{friction}| \leq \mu |\vec{F}_{Normal}|$ & $v = f\lambda$ & \\[10pt]
+$\vec{p} = m\vec{v}$ & $x = A\cos(2\pi ft)$ & $|\vec{F}_{gravity}| = G \frac{m_1 m_2}{r^2}$ \\[10pt]
+$\Delta\vec{p} = \vec{F}\Delta t$ & $\vec{\alpha} = \frac{\Sigma\vec{\tau}}{I} = \frac{\vec{\tau}_{net}}{I}$ & $|\vec{F}_{gravity}| = m\vec{g}$ \\[10pt]
+$KE = \frac{1}{2}mv^2$ & $\vec{\tau} = r \times F$ & $PE_{gravity} = -G \frac{m_1 m_2}{r}$ \\[10pt]
+$\Delta PE = mg\Delta y$ & $L = I\omega$ & $\rho = \frac{m}{V}$ \\[10pt]
+$\Delta E = W = Fd\cos\theta$ & $\Delta L = \tau\Delta t$ & $KE = \frac{1}{2}I\omega^2$
+\end{tabular}
+
+\section*{Electricity}
+
+\begin{tabular}{ccc}
+$|\vec{F}_e| = k \left| \frac{q_1 q_2}{r^2} \right|$ & $\Delta V = IR$ & $R = \frac{\rho l}{A}$ \\[10pt]
+$I = \frac{\Delta q}{\Delta t}$ & $P = I\Delta V$ & \\[10pt]
+$R_{series} = R_1 + R_2 + ... + R_n$ & $\frac{1}{R_{Parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + ... + \frac{1}{R_n}$ & 
+\end{tabular}
+
+\section*{Geometry}
+
+\begin{tabular}{lll}
+Rectangle & $A = bh$ & Rectangular Solid $V = \ell wh$ \\
+Circle & $A = \pi r^2$ & Cylinder $V = \pi r^2 \ell$ \\
+& $C = 2\pi r$ & $S = 2\pi r\ell + 2\pi r^2$ \\
+Triangle & $A = \frac{1}{2}bh$ & Sphere $V = \frac{4}{3}\pi r^3$ \\
+& & $S = 4\pi r^2$
+\end{tabular}
+
+\section*{Trigonometry}
+
+\begin{tabular}{c}
+\begin{tikzpicture}[baseline=(current bounding box.center)]
+    \draw (0,0) -- (3,0) node[midway,below] {$b$} -- (3,2) node[midway,right] {$a$} -- (0,0) node[midway,above] {$c$};
+    \draw (0.5,0) arc (0:33.7:0.5);
+    \node at (0.8,0.2) {$\theta$};
+    \draw (2.7,0) -- (2.7,0.3) -- (3,0.3);
+\end{tikzpicture}
+\end{tabular}
+\quad
+$c^2 = a^2 + b^2 \quad \sin\theta = \frac{a}{c} \quad \cos\theta = \frac{b}{c} \quad \tan\theta = \frac{a}{b}$
+
+\vspace{10pt}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+$\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin\theta$ & $0$ & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & $1$ \\
+\hline
+$\cos\theta$ & $1$ & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & $0$ \\
+\hline
+$\tan\theta$ & $0$ & $\sqrt{3}/3$ & $3/4$ & $1$ & $1$ & $\sqrt{3}$ & $\infty$ \\
+\hline
+\end{tabular}
+
+\section*{Variables}
+
+\begin{tabular}{ll}
+$a =$ acceleration & $A =$ amplitude \\
+$A =$ Area & $b =$ base length \\
+$C =$ circumference & $d =$ distance \\
+$E =$ energy & $f =$ frequency \\
+$F =$ force & $h =$ height \\
+$I =$ current & $I =$ rotational inertia \\
+$KE =$ kinetic energy & $k =$ spring constant \\
+$L =$ angular momentum & $\ell =$ length \\
+$m =$ mass & $P =$ power \\
+$p =$ momentum & $q =$ charge \\
+$r =$ radius & $R =$ resistance \\
+$S =$ surface area & $T =$ period \\
+$t =$ time & $PE =$ potential energy \\
+$V =$ electric potential & $V =$ volume \\
+$v =$ velocity & $w =$ width \\
+$W =$ work & $x =$ position \\
+$y =$ height & $\alpha =$ angular acceleration \\
+$\lambda =$ wavelength & $\mu =$ coefficient of friction \\
+$v =$ wave speed & $\theta =$ angle \\
+$\rho =$ density & $\rho =$ resistivity \\
+$\tau =$ torque & $\omega =$ angular speed
+\end{tabular}
+```

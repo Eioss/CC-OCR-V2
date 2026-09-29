@@ -1,0 +1,13 @@
+ $$\frac { d } { d t } p ( t ) = H _ { i , i + 1 } ( p ( t ) , t ) \vec { n } _ { i , i + 1 } ( p ( t ) , t ) + \left( \bar { \tau } _ { i , i + 1 } ( p ( t ) , t ) \cdot \frac { d } { d t } p ( t ) \right) \bar { \tau } _ { i , i + 1 } ( p ( t ) , t )$$
+
+ $$h ( \varepsilon ) = p k ( \frac { p } { k } - 1 - \varepsilon ) = ( k + 1 ) \varepsilon ^ { 2 } - ( 2 p + p k ) + p ^ { 2 } - p k > 0 .$$
+
+ $$\sum _ { l \in [ n ] \setminus \{ i , j \} } \operatorname* { d e t } ( A [ \{ i , j , l \} ] )$$
+
+ $$\operatorname* { s u p } _ { t \geq 0 , E _ { R } ^ { ( \alpha ) } ( u ) ( 0 ) \leq 1 } e ^ { k t } E _ { R } ( t ) < \infty$$
+
+ $${ \widetilde { \mathcal { P } } } = \left\{ ( H , \rho _ { D } ) { \overset { V ^ { + } } { \longrightarrow } } ( H ^ { \prime } , \rho ) \right\}$$
+
+ $$\begin{array} { r l } { | T _ { P _ { 2 } } [ a ] | _ { m , s , \eta } \le } & { { } p _ { \epsilon , s , \eta } | a | _ { m , s + \mu _ { 0 } , \eta } + | a | _ { m , s _ { 0 } + \mu _ { 0 } , \eta } | \tilde { p } | _ { 1 , s + \mu _ { 0 } , \eta + 1 } } \\ { \le } & { { } p _ { \epsilon , s , \eta } | a | _ { m , s + \mu _ { 0 } , \eta } + \gamma ^ { - 1 } \varepsilon ^ { 2 } | a | _ { m , s _ { 0 } + \mu _ { 0 } , \eta } | | \tilde { \jmath } _ { \delta } ^ { \wedge } + \mu _ { 0 } ) , } \end{array}$$
+
+ $$G / B ^ { + } = \sqcup _ { w \in W } B ^ { + } / B ^ { + } = \sqcup _ { w \in W } B ^ { - } \dot { w } B ^ { + } / B ^ { + }$$

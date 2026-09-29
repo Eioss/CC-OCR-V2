@@ -1,0 +1,11 @@
+ $$[ \tilde { \Phi } _ { k } ^ { ( n ) \dagger } \tilde { \Phi } _ { k } ^ { ( n ) } ] \, | f _ { 0 } \rangle ^ { \otimes n - 1 } \otimes | f _ { i n } \rangle = d ^ { 2 } \tilde { \lambda } ( i n , k ) ^ { 2 } \, | f _ { 0 } \rangle ^ { \otimes n - 1 } \otimes | f _ { i n } \rangle ,$$
+
+ $$L _ { \lfloor n t \rfloor - 1 } < L _ { \lfloor n t \rfloor }$$
+
+ $$d \cdot L / T = d \cdot M W ( J ( f ) ) \subseteq M$$
+
+ $$\begin{array} { r l } { { \displaystyle \sum _ { \gamma = \gamma _ { 1 } + 1 } ^ { \delta - \delta _ { 0 } + \gamma _ { 1 } } S ( n , \gamma ) = } } & { { \displaystyle \sum _ { \gamma = \gamma _ { 1 } + 1 } ^ { \delta - \delta _ { 0 } + \gamma _ { 1 } } ( - 1 ) ^ { \gamma } \gamma _ { T } \frac { ( \delta - \delta _ { 0 } + \gamma _ { 1 } - 1 ) ! } { \gamma _ { 1 } ! ( \gamma - \gamma _ { 1 } ) ! ( \delta - \delta _ { 0 } + \gamma _ { 1 } - \gamma ) ! } \left( { d - d _ { 0 } - 1 \atop \gamma _ { 1 } - 1 } \right) ; } } \\ { { } } & { { } } \\ { { = } } & { { ( - 1 ) ^ { \gamma _ { 1 } + 1 } \left( { \delta - \delta _ { 0 } + \gamma _ { 1 } - 1 \atop \gamma _ { 1 } - 1 } \right) \left( { d - d _ { 0 } - 1 \atop \gamma _ { 1 } - 1 } \right) . } } \end{array}$$
+
+ $$\overline { { { \overline { { x } } } } } = x , \; \; x + \overline { { { x } } } = n ( x , 1 ) 1 , \; \; x \cdot \overline { { { x } } } = \overline { { { x } } } \cdot x = n ( x ) 1 ,$$
+
+ $$q ^ { \frac { n } { 4 } } x ^ { + 1 } ( ( \mu _ { j \rightarrow i } , \lambda _ { i \rightarrow j } ) , ( \mu , \lambda ) ) = q ^ { \mu _ { i + } + \ldots + \mu _ { j - 1 } } \{ \mu _ { j } \} _ { q ^ { 2 } } q ^ { \lambda _ { i + 1 } + \ldots + \lambda { j } } \{ \lambda _ { i } \} _ { q ^ { 2 } } q ^ { 2 ( \mu _ { i + } + \ldots + \mu _ { n } ) } q ^ { 2 ( \mu _ { i + } + \ldots + \mu _ { i - 1 } ) } .$$

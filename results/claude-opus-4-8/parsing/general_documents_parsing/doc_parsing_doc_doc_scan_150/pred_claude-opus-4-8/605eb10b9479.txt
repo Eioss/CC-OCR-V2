@@ -1,0 +1,122 @@
+I'll transcribe this datasheet page into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+% Header
+\noindent\textbf{\large awinic} \quad 上海艾为电子技术股份有限公司 \hfill \textbf{\large AW36526}\\
+\hspace*{4cm} shanghai awinic technology co., ltd. \hfill July 2019 \quad V1.3
+
+\hrulefill
+
+\section*{REGISTER DETAILED DESCRIPTION}
+
+\subsection*{$\diamondsuit$ \quad Chip ID Register (0x00), default(0x17)}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+Bit 7 & Bit 6 & Bit 5 & Bit 4 & Bit 3 & Bit 2 & Bit 1 & Bit 0 \\
+\hline
+\multicolumn{8}{|l|}{Chip ID: \quad ``0001 0111''} \\
+\hline
+\multicolumn{8}{|l|}{Write 55H To Reset All Registers} \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{$\diamondsuit$ \quad Enable Register (0x01), default(0x00)}
+
+\begin{center}
+\begin{tabular}{|p{1.6cm}|p{1.4cm}|p{1.8cm}|p{1.2cm}|p{1.2cm}|p{1.4cm}|p{1.4cm}|p{1.4cm}|}
+\hline
+Bit 7 & Bit 6 & Bit 5 & Bit 4 & Bit 3 & Bit 2 & Bit 1 & Bit 0 \\
+\hline
+Strobe Type 0=Level Triggered (Default) 1=Edge Triggered &
+Strobe Enable 0=Disabled (Default) 1=Enabled &
+Mode Bits: M1, M0 00=Standby (Default) 01=IR Drive 10=Torch 11=Flash &
+RFU &
+&
+LED3 Enable 0=OFF (Default) 1=ON &
+LED2 Enable 0=OFF (Default) 1=ON &
+LED1 Enable 0=OFF (Default) 1=ON \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent\textbf{Note:}
+
+\noindent In Edge or Level Strobe Mode, it is recommended that the trigger pulse width be set greater than 1ms to ensure proper turn-on of the device.
+
+\subsection*{$\diamondsuit$ \quad IVFM Register (0x02) , default(0xE1)}
+
+\begin{center}
+\begin{tabular}{|p{1.8cm}|p{1.4cm}|p{1.4cm}|p{1.4cm}|p{2.2cm}|p{0.8cm}|p{0.8cm}|p{1.6cm}|}
+\hline
+Bit 7 & Bit 6 & Bit 5 & Bit 4 & Bit 3 & Bit 2 & Bit 1 & Bit 0 \\
+\hline
+LEDX Enable Setting 0= if LED1 or LED2 is Enabled, LED3 is Disabled Internally 1=No Limitation (Default) &
+LED3 Pin Short Fault Detect 0=Disabled 1=Enabled (Default) &
+LED1/2 Pin Short Fault Detect 0=Disabled 1=Enabled (Default) &
+UVLO Enable 0=Disabled (Default) 1=Enabled &
+\multicolumn{3}{l|}{\begin{minipage}{4cm}IVFM Levels\\ 000=2.9 V (Default)\\ 001=3.0 V\\ 010=3.1 V\\ 011=3.2 V\\ 100=3.3 V\\ 101=3.4 V\\ 110=3.5 V\\ 111=3.6 V\end{minipage}} &
+IVFM Enable 0=Disabled 1=Enabled (Default) \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{$\diamondsuit$ \quad LED1 Flash Brightness Register (0x03) , default(0x7F)}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+Bit 7 & Bit 6 & Bit 5 & Bit 4 & Bit 3 & Bit 2 & Bit 1 & Bit 0 \\
+\hline
+\multicolumn{8}{|l|}{\textbf{LED1 Flash Brightness Levels}} \\
+\multicolumn{8}{|l|}{$I_{\text{FLASH}}(\text{mA}) \approx (\text{Brightness Code}*3.91\text{mA}) + 3.91\text{mA}$} \\
+\multicolumn{8}{|l|}{} \\
+\multicolumn{8}{|l|}{00000000=3.91 mA} \\
+\multicolumn{8}{|l|}{\ldots\ldots\ldots\ldots} \\
+\multicolumn{8}{|l|}{01111111=500 mA \quad (Default)} \\
+\multicolumn{8}{|l|}{\ldots\ldots\ldots\ldots} \\
+\multicolumn{8}{|l|}{11111111=1.0 A} \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{$\diamondsuit$ \quad LED1 Torch Brightness Register (0x04) , default(0x7F)}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+Bit 7 & Bit 6 & Bit 5 & Bit 4 & Bit 3 & Bit 2 & Bit 1 & Bit 0 \\
+\hline
+\multicolumn{8}{|l|}{\textbf{LED1 Torch Brightness Levels}} \\
+\multicolumn{8}{|l|}{$I_{\text{TORCH}}(\text{mA}) \approx (\text{Brightness Code}*1.46\text{mA}) + 1.46\text{mA}$} \\
+\multicolumn{8}{|l|}{} \\
+\multicolumn{8}{|l|}{00000000=1.46 mA} \\
+\multicolumn{8}{|l|}{\ldots\ldots\ldots\ldots} \\
+\multicolumn{8}{|l|}{01111111=187.5 mA \quad (Default)} \\
+\multicolumn{8}{|l|}{\ldots\ldots\ldots\ldots} \\
+\multicolumn{8}{|l|}{11111111=375 mA} \\
+\hline
+\end{tabular}
+\end{center}
+
+\vfill
+\hrulefill
+
+\noindent www.awinic.com.cn \hfill 20 \hfill Copyright © 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD
+
+\end{CJK}
+\end{document}
+```

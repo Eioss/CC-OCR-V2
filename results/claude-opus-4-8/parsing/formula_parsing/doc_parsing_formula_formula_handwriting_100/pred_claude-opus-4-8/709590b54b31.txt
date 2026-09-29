@@ -1,0 +1,21 @@
+$$\mathcal{L}(x, s, \hat{\lambda}, q_r, Q_r; Z, t_k, p_k, P_k, \forall k \in [K])$$
+
+$$= s + \gamma_2 I_{m_1} \cdot Q_r + \sqrt{r_1} \|q_r\|_2 - z \cdot \left(\sum_{k=1}^{K}(\Delta_2 x_k + \Delta_0)\right) - \sum_{k=1}^{K} \begin{bmatrix} t_k & p_k^\top \\ p_k & P_k \end{bmatrix} \cdot$$
+
+$$\begin{bmatrix} s - y_k^0(x) - \lambda_k^\top b - y_k(x)^\top \mu + \lambda_k^\top A \mu & \frac{1}{2}\left(q_r + (U\Lambda^{\frac{1}{2}}B)^\top(A^\top\lambda_k - y_k(x))\right)^\top \\ \frac{1}{2}\left(q_r + (U\Lambda^{\frac{1}{2}}B)^\top(A^\top\lambda_k - y_k(x))\right) & Q_r \end{bmatrix}$$
+
+$$= \left(1 - \sum_{k=1}^{K} t_k\right)s - \sum_{k=1}^{K}\left(t_k(A\mu - b)^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top A^\top\right)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K} p_k^\top q_r$$
+
+$$+ \left(\gamma_2 I_{m_1} - \sum_{k=1}^{K} P_k\right) \cdot Q_r - \sum_{i=1}^{I}\sum_{j=1}^{J} z_{ij}\left(\bar{a}_{ij}x + a_{ij}^0\right) + \sum_{k=1}^{K}\left(t_k y_k^0(x) + (t_k\mu^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top)y_k(x)\right)$$
+
+$$= \left(1 - \sum_{k=1}^{K} t_k\right)s - \sum_{k=1}^{K}\left(t_k(A\mu - b)^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top A^\top\right)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K} p_k^\top q_r$$
+
+$$+ \left(\gamma_2 I_{m_1} - \sum_{k=1}^{K} P_k\right) \cdot Q_r - \sum_{i=1}^{I}\sum_{j=1}^{J} z_{ij}\bar{a}_{ij}x - \sum_{i=1}^{I}\sum_{j=1}^{J} z_{ij}a_{ij}^0 + \sum_{k=1}^{K}\left(t_k W_k^0 + (t_k\mu^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top)W_k\right)$$
+
+$$+ \sum_{k=1}^{K}\left(t_k d_k^0 + (t_k\mu^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top)d_k\right)$$
+
+$$= \left(1 - \sum_{k=1}^{K} t_k\right)s - \sum_{k=1}^{K}\left(t_k(A\mu - b)^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top A^\top\right)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K} p_k^\top q_r$$
+
+$$+ \left(\gamma_2 I_{m_1} - \sum_{k=1}^{K} P_k\right) \cdot Q_r + \left(\sum_{k=1}^{K}\left(t_k W_k^0 + (t_k\mu^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top)\right)W_k\right) - \sum_{i=1}^{I}\sum_{j=1}^{J} z_{ij}\bar{a}_{ij}\right)x$$
+
+$$+ \sum_{k=1}^{K}\left(t_k d_k^0 + (t_k\mu^\top + p_k^\top(U\Lambda^{\frac{1}{2}}B)^\top)d_k\right) - \sum_{i=1}^{I}\sum_{j=1}^{J} z_{ij}a_{ij}^0.$$

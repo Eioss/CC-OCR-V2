@@ -1,0 +1,111 @@
+Here is the LaTeX transcription of the text and equations shown in the image:
+
+```latex
+\section*{TRIGONOMETRY}
+
+\subsection*{Left Column}
+
+\begin{itemize}
+    \item $\sin(A+B) = \sin A \cdot \cos B + \cos A \cdot \sin B$
+    
+    \item $\sin(A-B) = \sin A \cdot \cos B - \cos A \cdot \sin B$
+    
+    \item $\cos(A+B) = \cos A \cdot \cos B - \sin A \cdot \sin B$
+    
+    \item $\cos(A-B) = \cos A \cdot \cos B + \sin A \cdot \sin B$
+    
+    \item $\tan(A+B) = \frac{\tan A + \tan B}{1 - \tan A \cdot \tan B}$
+    
+    \item $\tan(A-B) = \frac{\tan A - \tan B}{1 + \tan A \cdot \tan B}$
+    
+    \item $\cot(A+B) = \frac{\cot B \cdot \cot A - 1}{\cot B + \cot A}$
+    
+    \item $\cot(A-B) = \frac{\cot B \cdot \cot A + 1}{\cot B - \cot A}$
+    
+    \item $\sin C + \sin D = 2 \cdot \sin(\frac{C+D}{2}) \cdot \cos(\frac{C-D}{2})$
+    
+    \item $\sin C - \sin D = 2 \cos(\frac{C+D}{2}) \cdot \sin(\frac{C-D}{2})$
+    
+    \item $\csc C + \csc D = 2 \cos(\frac{C+D}{2}) \cdot \cos(\frac{C-D}{2})$
+    
+    \item $\csc C - \csc D = -2 \sin(\frac{C+D}{2}) \cdot \sin(\frac{C-D}{2})$
+          \[ = 2 \sin(\frac{C+D}{2}) \cdot \sin(\frac{D-C}{2}) \]
+          
+    \item $\sin 2x = 2 \sin x \cdot \cos x = \frac{2 \tan x}{1 + \tan^2 x}$
+    
+    \item $\cos 2x = \cos^2 x - \sin^2 x = 2 \cos^2 x - 1$
+          \[ = 1 - 2 \sin^2 x = \frac{1 - \tan^2 x}{1 + \tan^2 x} \]
+          
+    \item $\tan 2x = \frac{2 \tan x}{1 - \tan^2 x}$
+    
+    \item $\sin 3x = 3 \sin x - 4 \sin^3 x$
+    
+    \item $\cos 3x = 4 \cos^3 x - 3 \cos x$
+    
+    \item $\tan 3x = \frac{3 \tan x - \tan^3 x}{1 - 3 \tan^2 x}$
+    
+    \item $a \sin x + b \cos x \longrightarrow$ Max. Value $= +\sqrt{a^2+b^2}$
+                                              Min. Value $= -\sqrt{a^2+b^2}$
+\end{itemize}
+
+\vspace{0.5cm} % Space for the boxed section
+
+\noindent\fbox{%
+    \parbox[t]{0.48\textwidth}{%
+        \begin{itemize}
+            \item $\sin^2 \theta + \cos^2 \theta = 1$
+            \item $\sec^2 \theta - \tan^2 \theta = 1$
+            \item $\cosec^2 \theta - \cot^2 \theta = 1$
+        \end{itemize}
+    }%
+}%
+\fbox{%
+    \parbox[t]{0.48\textwidth}{%
+        \begin{itemize}
+            \item $1 + \cos 2x = 2 \cos^2 x$
+            \item $1 - \cos 2x = 2 \sin^2 x$
+            \item $\tan x = \frac{1 - \cos 2x}{\sin 2x}$
+        \end{itemize}
+    }%
+}
+
+
+\subsection*{Right Column}
+
+\begin{itemize}
+    \item odd $F(x) \Rightarrow F(-x) = -F(x)$
+    \item Even $f(x) \Rightarrow F(-x) = +F(x)$
+    
+    \vspace{0.2cm}
+    \noindent
+    $\cos(-x) = \cos x \quad \Big| \quad \sec(-x) = \sec x$ \\
+    $\sin(-x) = -\sin x \quad \Big| \quad \cosec(-x) = -\cosec x$ \\
+    $\tan(-x) = -\tan x \quad \Big| \quad \cot(-x) = -\cot x$
+    \vspace{0.2cm}
+    
+    \item $2 \sin A \cdot \cos B = \sin(A+B) + \sin(A-B)$
+    \item $2 \cos A \cdot \sin B = \sin(A+B) - \sin(A-B)$
+    \item $2 \cos A \cdot \cos B = \cos(A+B) + \cos(A-B)$
+    \item $-2 \sin A \cdot \sin B = \cos(A+B) - \cos(A-B)$
+    \item $\sin(A+B) \cdot \sin(A-B) = \sin^2 A - \sin^2 B$
+    \item $\cos(A+B) \cdot \cos(A-B) = \cos^2 A - \sin^2 B$
+\end{itemize}
+
+\subsubsection*{*General Solution of trigonometry}
+
+\begin{itemize}
+    \item $\sin x = 0 \Rightarrow x = n\pi$
+    \item $\cos x = 0 \Rightarrow x = (2n+1)\frac{\pi}{2}$
+    \item $\tan x = 0 \Rightarrow x = n\pi$
+    
+    \item $\sin x = \sin y \Rightarrow x = n\pi + (-1)^n \cdot y$
+    \item $\cos x = \cos y \Rightarrow x = 2n\pi \pm y$
+    \item $\tan x = \tan y \Rightarrow x = n\pi + y$
+    
+    \item $\sin^2 x = \sin^2 y$ \\
+          $\cos^2 x = \cos^2 y$ \Bigg\} $\Rightarrow x = n\pi \pm y$ \\
+          $\tan^2 x = \tan^2 y$
+          
+    \item \fbox{$n \in \mathbb{Z}$}
+\end{itemize}
+```

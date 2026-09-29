@@ -1,0 +1,222 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif; font-size: 12px;">
+    <thead>
+        <tr>
+            <th colspan="4" style="background-color: #ffffff; border: none;"></th>
+            <th colspan="3" style="background-color: #d9ceac; padding: 5px;">ECR 4276179 - Award/ECR 4255851 to 0059 Pre-TKO</th>
+        </tr>
+        <tr>
+            <th style="background-color: #b4c6e7; padding: 8px; width: 25%;">Tool Description</th>
+            <th style="background-color: #b4c6e7; padding: 8px; width: 15%;">Tool Type</th>
+            <th style="background-color: #b4c6e7; padding: 8px; width: 10%;">Tool ID</th>
+            <th style="background-color: #b4c6e7; padding: 8px; width: 15%;">Supplier</th>
+            <th style="background-color: #d9ceac; padding: 8px; width: 12%;">Quoted Tooling<br>Deltas</th>
+            <th style="background-color: #d9ceac; padding: 8px; width: 15%;">Option 1: Potential Tool<br>Cost Reductions with<br>Design Changes</th>
+            <th style="background-color: #d9ceac; padding: 8px; width: 15%;">Option 2: Option 1<br>with Some Parts<br>Sourced from YF</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Main Carrier IM - A77</td>
+            <td>Injection Mold</td>
+            <td>A77</td>
+            <td>Integrity</td>
+            <td>$121,500.00</td>
+            <td style="background-color: #d9ceac;">-$5,000.00</td>
+            <td style="background-color: #d9ceac;">-$5,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP PAB Chute IM - A78</td>
+            <td>Injection Mold</td>
+            <td>A78</td>
+            <td>React</td>
+            <td>$17,000.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Brkt Assy Upper Center IM NOW A 1+1MOLD - A79</td>
+            <td>Injection Mold</td>
+            <td>A79</td>
+            <td>Integrity</td>
+            <td>$139,000.00</td>
+            <td style="background-color: #d9ceac;">-$25,000.00</td>
+            <td style="background-color: #d9ceac;">-$25,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Bracket & Speaker Bracket IM - A93</td>
+            <td>Injection Mold</td>
+            <td>A93</td>
+            <td>React</td>
+            <td>$59,500.00</td>
+            <td style="background-color: #d9ceac;">-$27,500.00</td>
+            <td style="background-color: #d9ceac;">-$27,500.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Grille Frt Speaker LH RH IM - A85</td>
+            <td>Injection Mold</td>
+            <td>A85</td>
+            <td>React</td>
+            <td>$39,000.00</td>
+            <td style="background-color: #d9ceac;">-$41,500.00</td>
+            <td style="background-color: #ffffcc;">-$185,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Ext Panel w Speaker IM NOW DEFROSTER GRILLE - A83</td>
+            <td>Injection Mold</td>
+            <td>A83</td>
+            <td>Integrity</td>
+            <td>$23,000.00</td>
+            <td style="background-color: #d9ceac;">-$16,000.00</td>
+            <td style="background-color: #d9ceac;">-$16,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Collision Alert Bezel IM - A97</td>
+            <td>Injection Mold</td>
+            <td>A97</td>
+            <td>React</td>
+            <td>$72,350.00</td>
+            <td style="background-color: #d9ceac;">-$55,000.00</td>
+            <td style="background-color: #ffffcc;">-$39,650.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP HUD Bezel IM - A96</td>
+            <td>Injection Mold</td>
+            <td>A96</td>
+            <td>React</td>
+            <td>$13,850.00</td>
+            <td style="background-color: #d9ceac;">-$14,000.00</td>
+            <td style="background-color: #ffffcc;">-$39,650.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Grille Frt Speaker Center IM - A84</td>
+            <td>Injection Mold</td>
+            <td>A84</td>
+            <td>React</td>
+            <td>-$5,750.00</td>
+            <td style="background-color: #d9ceac;">-$15,000.00</td>
+            <td style="background-color: #ffffcc;">-$39,750.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Pad ASM IP RH IM (2)(2 at $159,375 each on GM PO) - A80</td>
+            <td>Injection Mold</td>
+            <td>A80</td>
+            <td>Integrity</td>
+            <td>$137,400.00</td>
+            <td style="background-color: #d9ceac;">-$89,000.00</td>
+            <td style="background-color: #d9ceac;">-$89,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Upper Trim Panel VCS IM - A89</td>
+            <td>Injection Mold</td>
+            <td>A89</td>
+            <td>React</td>
+            <td>$63,250.00</td>
+            <td style="background-color: #d9ceac;">-$10,000.00</td>
+            <td style="background-color: #d9ceac;">-$10,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Cluster Upper Trim IM - A92</td>
+            <td>Injection Mold</td>
+            <td>A92</td>
+            <td>Integrity</td>
+            <td>$65,000.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Pad ASM LH IM (2)(2 on GM PO at $91,500 each)</td>
+            <td>Injection Mold</td>
+            <td>A87</td>
+            <td>Integrity</td>
+            <td>-$43,000.00</td>
+            <td style="background-color: #d9ceac;">-$41,000.00</td>
+            <td style="background-color: #ffffcc;">-$31,500.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">InjectionPlastic 4/2/4<br>26406704 - PAD ASM-IP CTR TR (RH Lower Mid-Panel - cut/sew)</td>
+            <td>Injection Mold</td>
+            <td>A81</td>
+            <td>Integrity</td>
+            <td>$162,775.00</td>
+            <td style="background-color: #d9ceac;">-$102,500.00</td>
+            <td style="background-color: #d9ceac;">-$102,500.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">Injection Mold - L-Bracket<br>26406704 - PAD ASM-IP CTR TR (RH Lower Mid-Panel - cut/sew)</td>
+            <td>Injection Mold</td>
+            <td>A109</td>
+            <td>Integrity</td>
+            <td>$119,000.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">Injection Mold - Button Bracket - A112<br>26406704 - PAD ASM-IP CTR TR (RH Lower Mid-Panel - cut/sew)</td>
+            <td>Injection Mold</td>
+            <td>A112</td>
+            <td>Integrity</td>
+            <td>$77,000.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #ffffcc;">-$77,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP Ctr Lower Mid Panel IM - A90</td>
+            <td>Injection Mold</td>
+            <td>A90</td>
+            <td>Integrity</td>
+            <td>$60,500.00</td>
+            <td style="background-color: #d9ceac;">-$17,500.00</td>
+            <td style="background-color: #d9ceac;">-$17,500.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">CYB IP End Cap LH RH IM - A88</td>
+            <td>Injection Mold</td>
+            <td>A88</td>
+            <td>React</td>
+            <td>$14,000.00</td>
+            <td style="background-color: #d9ceac;">-$6,000.00</td>
+            <td style="background-color: #d9ceac;">-$6,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">InjectionPlastic 4/2/4 - A8<br>26406703 - PAD ASM-IP TR (LH Mid Pnl - small with spacer fabric)</td>
+            <td>Injection Mold</td>
+            <td>A86</td>
+            <td>Integrity</td>
+            <td>$18,500.00</td>
+            <td style="background-color: #d9ceac;">-$38,000.00</td>
+            <td style="background-color: #ffffcc;">-$91,500.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">InjectionPlastic Mid-Panel Insert - D5 - A107</td>
+            <td>Injection Mold</td>
+            <td>A107</td>
+            <td>Integrity</td>
+            <td>$108,000.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #ffffcc;">-$108,000.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 4px;">InjectionPlastic 4/2/4 - A108<br>26406702 - PAD ASM-IP CTR TR (Mid Pnl Ctr Insert - Painted only)</td>
+            <td>Injection Mold</td>
+            <td>A108</td>
+            <td>React</td>
+            <td>$35,800.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+            <td style="background-color: #d9ceac;">$0.00</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align: right; padding: 4px; font-weight: bold;">Totals:</td>
+            <td style="font-weight: bold;">$1,140,050.00</td>
+            <td style="background-color: #d9ceac; font-weight: bold;">-$503,000.00</td>
+            <td style="background-color: #d9ceac; font-weight: bold;">-$1,150,550.00</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align: right; padding: 4px; font-weight: bold;">New Cost:</td>
+            <td></td>
+            <td style="background-color: #d9ceac; font-weight: bold;">$637,050.00</td>
+            <td style="background-color: #d9ceac; font-weight: bold;">-$10,500.00</td>
+        </tr>
+    </tbody>
+</table>
+```

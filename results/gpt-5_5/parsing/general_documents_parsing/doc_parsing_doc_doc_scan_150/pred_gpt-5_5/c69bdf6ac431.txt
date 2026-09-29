@@ -1,0 +1,171 @@
+```latex
+\[
+\text{III. CALCULATIONS:}
+\]
+
+Calculating the volume of the given examined bodies based on the formula:
+
+\[
+V_b = a \cdot b \cdot c
+\]
+
+\[
+V_b \text{ - volume of examined bodies } [\mathrm{cm}^3],\quad
+a \text{ - width of examined bodies } [\mathrm{cm}],\quad
+b \text{ - length of}
+\]
+\[
+\text{examined bodies } [\mathrm{cm}],\quad
+c \text{ - height of examined bodies } [\mathrm{cm}].
+\]
+
+\[
+V_b = 2{,}5\ [\mathrm{cm}] \cdot 4{,}2\ [\mathrm{cm}] \cdot 1{,}5\ [\mathrm{cm}]
+= 15{,}75\ [\mathrm{cm}^3]
+\]
+
+Calculating the material density of the given examined bodies based on the formula:
+
+\[
+\rho_b = \frac{m_b}{V_b}
+\]
+
+\[
+\rho_b \text{ - material density of given body } [\mathrm{g}/\mathrm{cm}^3],\quad
+m_b \text{ - mass of given body } [\mathrm{g}],\quad
+V_b \text{ - volume of}
+\]
+\[
+\text{examined body.}
+\]
+
+\[
+\rho_b\ (\text{ebonite}) =
+\frac{22{,}7}{15{,}75}\ [\mathrm{g}/\mathrm{cm}^3]
+= 1{,}44127\ [\mathrm{g}/\mathrm{cm}^3]
+= 1441{,}27\ [\mathrm{kg}/\mathrm{m}^3]
+\]
+
+\[
+\rho_b\ (\text{bakelite}) =
+\frac{19{,}8}{15{,}75}\ [\mathrm{g}/\mathrm{cm}^3]
+= 1{,}25714\ [\mathrm{g}/\mathrm{cm}^3]
+= 1257{,}14\ [\mathrm{kg}/\mathrm{m}^3]
+\]
+
+\[
+\rho_b\ (\text{aluminium (10)}) =
+\frac{42{,}6}{15{,}75}\ [\mathrm{g}/\mathrm{cm}^3]
+= 2{,}70476\ [\mathrm{g}/\mathrm{cm}^3]
+= 2704{,}76\ [\mathrm{kg}/\mathrm{m}^3]
+\]
+
+Calculating the material density using areometers based on the formula:
+
+\[
+\rho_b' = \frac{m_1 - m_2}{m_3 - m_2}\rho_w
+\]
+
+\[
+\rho_b' \text{ - material density of given body using areometer } [\mathrm{g}/\mathrm{cm}^3],\quad
+m_n \text{ - values of mass from}
+\]
+\[
+\text{experiment } [\mathrm{g}],\quad
+\rho_w \text{ - density of distilled water } = 1\ [\mathrm{g}/\mathrm{cm}^3].
+\]
+
+\[
+\rho_b'\ (\text{ebonite}) =
+\frac{110 - 87}{103 - 87}\ [\mathrm{g}/\mathrm{g}]
+\cdot 1\ [\mathrm{g}/\mathrm{cm}^3]
+= \frac{23}{16}\ [\mathrm{g}/\mathrm{cm}^3]
+= 1{,}4375\ [\mathrm{g}/\mathrm{cm}^3]
+= 1437{,}5\ [\mathrm{kg}/\mathrm{m}^3].
+\]
+
+\[
+\rho_b'\ (\text{bakelite}) =
+\frac{110 - 90}{105 - 90}\ [\mathrm{g}/\mathrm{g}]
+\cdot 1\ [\mathrm{g}/\mathrm{cm}^3]
+= \frac{20}{15}\ [\mathrm{g}/\mathrm{cm}^3]
+= 1{,}33333\ [\mathrm{g}/\mathrm{cm}^3]
+= 1333{,}33\ [\mathrm{kg}/\mathrm{m}^3].
+\]
+
+\[
+\rho_b'\ (\text{aluminium (10)}) =
+\frac{110 - 67}{83 - 67}\ [\mathrm{g}/\mathrm{g}]
+\cdot 1\ [\mathrm{g}/\mathrm{cm}^3]
+= \frac{43}{16}\ [\mathrm{g}/\mathrm{cm}^3]
+= 2{,}6875\ [\mathrm{g}/\mathrm{cm}^3]
+= 2687{,}5\ [\mathrm{kg}/\mathrm{m}^3].
+\]
+
+\[
+\rho_b'\ (\text{aluminium (11)}) =
+\frac{110 - 86}{94 - 86}\ [\mathrm{g}/\mathrm{g}]
+\cdot 1\ [\mathrm{g}/\mathrm{cm}^3]
+= \frac{24}{8}\ [\mathrm{g}/\mathrm{cm}^3]
+= 3\ [\mathrm{g}/\mathrm{cm}^3]
+= 3000\ [\mathrm{kg}/\mathrm{m}^3].
+\]
+
+Comparing calculated density values with table density values:
+
+\[
+\rho_b\ (\text{ebonite}) - \rho_{\text{table}}\ (\text{ebonite})
+= 1441{,}27\ [\mathrm{kg}/\mathrm{m}^3]
+- 1150\ [\mathrm{kg}/\mathrm{m}^3]
+= 291{,}27\ [\mathrm{kg}/\mathrm{m}^3]
+= 22{,}48\ [\%]
+\]
+
+\[
+\rho_b'\ (\text{ebonite}) - \rho_{\text{table}}\ (\text{ebonite})
+= 1437{,}5\ [\mathrm{kg}/\mathrm{m}^3]
+- 1150\ [\mathrm{kg}/\mathrm{m}^3]
+= 287{,}5\ [\mathrm{kg}/\mathrm{m}^3]
+= 22{,}22\ [\%]
+\]
+
+\[
+\rho_b\ (\text{bakelite}) - \rho_{\text{table}}\ (\text{bakelite})
+= 1257{,}14\ [\mathrm{kg}/\mathrm{m}^3]
+- 1300\ [\mathrm{kg}/\mathrm{m}^3]
+= 42{,}86\ [\mathrm{kg}/\mathrm{m}^3]
+= 3{,}35\ [\%]
+\]
+
+\[
+\rho_b'\ (\text{bakelite}) - \rho_{\text{table}}\ (\text{bakelite})
+= 1333{,}33\ [\mathrm{kg}/\mathrm{m}^3]
+- 1300\ [\mathrm{kg}/\mathrm{m}^3]
+= 33{,}33\ [\mathrm{kg}/\mathrm{m}^3]
+= 2{,}53\ [\%]
+\]
+
+\[
+\rho_b\ (\text{aluminium (10)}) - \rho_{\text{table}}\ (\text{aluminium})
+= 2704{,}76\ [\mathrm{kg}/\mathrm{m}^3]
+- 2700\ [\mathrm{kg}/\mathrm{m}^3]
+= 4{,}76\ [\mathrm{kg}/\mathrm{m}^3]
+= 0{,}17\ [\%]
+\]
+
+\[
+\rho_b'\ (\text{aluminium (10)}) - \rho_{\text{table}}\ (\text{aluminium})
+= 2687{,}5\ [\mathrm{kg}/\mathrm{m}^3]
+- 2700\ [\mathrm{kg}/\mathrm{m}^3]
+= 12{,}5\ [\mathrm{kg}/\mathrm{m}^3]
+= 0{,}46\ [\%]
+\]
+
+\[
+\rho_b'\ (\text{aluminium (11)}) - \rho_{\text{table}}\ (\text{aluminium})
+= 3000\ [\mathrm{kg}/\mathrm{m}^3]
+- 2700\ [\mathrm{kg}/\mathrm{m}^3]
+= 300\ [\mathrm{kg}/\mathrm{m}^3]
+= 10{,}53\ [\%]
+\]
+```

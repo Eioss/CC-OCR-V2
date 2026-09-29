@@ -1,0 +1,11 @@
+Looking at the infographic's color-coded legend for average monthly cost of child care, the categories range from "Highest" (dark red) to "Lowest" (dark green).
+
+The "second-lowest" category would be the light green color (one step up from the darkest green "Lowest").
+
+Based on the map's color coding, the states in the light green (second-lowest) category appear to be:
+- Wyoming ($545)
+- South Dakota ($472)
+
+This gives approximately **2 states** in the second-lowest category.
+
+However, the exact count depends on how the color gradient bins are defined, which can be difficult to distinguish precisely from the image.

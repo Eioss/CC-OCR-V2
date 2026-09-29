@@ -1,0 +1,47 @@
+<table>
+  <tr>
+    <td>Gauge Theory</td>
+    <td>Fundamental Forces</td>
+    <td>Structure Group</td>
+  </tr>
+  <tr>
+    <td>Quantum Electrodynamics (QED)</td>
+    <td>Electromagnetism</td>
+    <td>U(1)</td>
+  </tr>
+  <tr>
+    <td>Electroweak Theory (Glashow–Salam–Weinberg)</td>
+    <td>Electromagnetism and weak force</td>
+    <td>SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Quantum Chromodynamics (QCD)</td>
+    <td>Strong force</td>
+    <td>SU(3)</td>
+  </tr>
+  <tr>
+    <td>Standard Model</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(3) × SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Georgi–Glashow Grand Unified Theory (GUT1)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(5)</td>
+  </tr>
+  <tr>
+    <td>Flipped Georgi–Glashow Grand Unified Theory (GUT2)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(5) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified Theory (GUT3)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SO(10)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified Theory (GUT4)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>E(6)</td>
+  </tr>
+</table>

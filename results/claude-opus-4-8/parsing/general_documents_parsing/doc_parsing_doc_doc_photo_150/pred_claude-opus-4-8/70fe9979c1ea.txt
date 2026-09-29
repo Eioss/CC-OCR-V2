@@ -1,0 +1,78 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{tabularx}
+
+\begin{document}
+
+\noindent
+\textbf{4.} Complete the table below with information from the \hfill $1 \times 5 = 5$\\
+passage.
+
+\begin{center}
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i) --- & MA \\
+\hline
+Ahsanullah & 1911 & & (ii) --- \\
+\hline
+(iii) --- & 1914 & & \\
+\hline
+Member of & (iv) --- & & \\
+Royal Society & & & \\
+\hline
+ & 1919 & & (v) --- \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\textbf{5.} Write a summary of the passage in no more than 90 to \hfill \textbf{10}\\
+100 words.
+
+\noindent
+\textbf{6.} Match the parts of sentences given in column `A' and\\
+column `B' to write five complete sentences. There are more\\
+parts of sentences in column `B' than required. \hfill $1 \times 5 = 5$
+
+\begin{center}
+\begin{tabular}{|p{5cm}|p{6cm}|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Column `A'}} & \multicolumn{1}{c|}{\textbf{Column `B'}} \\
+\hline
+(a) Man can turn a clean environment & i. \quad man improves his environment \\
+\hline
+(b) Clean environment is essential & ii. \quad man pollutes his environment. \\
+\hline
+(c) Our total environment influences & iii. \quad our way of living. \\
+\hline
+ & iv. \quad really beautiful. \\
+\hline
+(d) When the relationship between things is disturbed, life & v. \quad into a bad polluted one. \\
+\hline
+(e) By many unwise acts & vi. \quad for a healthier and happier life. \\
+\hline
+ & vii. \quad becomes difficult or impossible. \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\textbf{7.} Re-arrange the following sentences according to sequence\\
+and re-write them in a paragraph. \hfill $1 \times 8 = 8$
+
+\begin{itemize}
+\item[(a)] The first friend climbed up a tree but the later could not climb.
+\item[(b)] Suddenly a bear came there.
+\item[(c)] Once upon a time two friends were passing by a forest.
+\item[(d)] They were talking about their love for each other.
+\end{itemize}
+
+\end{document}
+```
+
+**Note:** Some text at the top (in Bengali script) and partial text in the left margin were not fully legible. The top line appears to read: "সংকলক ও সাধক ব্যক্তিটি ১৯৬৫ সালের ফেব্রুয়ারি মৃত্যুবরণ করেন।"

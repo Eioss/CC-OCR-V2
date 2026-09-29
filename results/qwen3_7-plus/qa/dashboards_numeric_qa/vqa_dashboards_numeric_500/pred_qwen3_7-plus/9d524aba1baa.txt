@@ -1,0 +1,15 @@
+Based on the pie chart titled **"Scotland’s climate change plans"**, the segment labeled **"Dropped"** is colored **red**.
+
+Here's how we can confirm:
+
+- The legend on the right side of the pie chart shows:
+  - **Reported complete** → olive green (27)
+  - **Reported on track** → light green (6)
+  - **Reported as on track, but no timescale for delivery** → teal (103)
+  - **Revised / delayed** → orange (11)
+  - **Dropped** → **red** (1)
+  - **No response** → gray (8)
+
+The "Dropped" category has a value of **1** and is clearly shown in **red** in the chart.
+
+✅ So, the correct answer is: **red**.

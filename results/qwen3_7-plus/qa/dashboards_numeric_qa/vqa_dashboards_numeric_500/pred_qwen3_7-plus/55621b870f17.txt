@@ -1,0 +1,22 @@
+To find the **difference between the percent of families that can afford child care in Michigan and Nevada**, we need to:
+
+1. Locate the **“Percent of Families That Can Afford Child Care”** for **Michigan**.
+2. Locate the same metric for **Nevada**.
+3. Subtract one from the other (absolute difference).
+
+---
+
+From the bar chart titled **“HOW MANY U.S. FAMILIES CAN AFFORD CHILD CARE?”**:
+
+- **Michigan**: The blue bar shows **26.0%**
+- **Nevada**: The blue bar shows **23.8%**
+
+---
+
+Now calculate the difference:
+
+> **26.0% - 23.8% = 2.2%**
+
+---
+
+✅ **Final Answer: 2.2%**

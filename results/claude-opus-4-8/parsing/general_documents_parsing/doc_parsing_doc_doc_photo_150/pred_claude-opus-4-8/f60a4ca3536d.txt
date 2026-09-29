@@ -1,0 +1,90 @@
+I'll transcribe this academic paper into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\noindent 园 艺 学 报 \quad 2004, 31 (2): 215$\sim$216
+
+\noindent\textit{Acta Horticulturae Sinica}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{1cm}
+
+\begin{center}
+{\LARGE \textbf{柑橘体细胞杂种超低温保存后的植株再生}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent {\large 王子成$^{*}$ \quad 邓秀新$^{**}$}
+
+\noindent (华中农业大学作物遗传改良国家重点实验室，武汉 430070)
+
+\vspace{0.5cm}
+
+\noindent \textbf{摘\quad 要：} 对 9 年生印度酸橘 (\textit{Citrus reticaulata}) 和飞龙枳 (\textit{Poncirus trifoliata}) 的体细胞杂种的茎段进行离体培养得到再生植株，用改良的玻璃化法对再生植株茎尖进行超低温保存后获得 92\% 的再生率。这是柑橘体细胞杂种茎尖超低温保存的首例报道。
+
+\vspace{0.3cm}
+
+\noindent \textbf{关键词：} 柑橘；体细胞杂种；离体培养；超低温保存
+
+\noindent \textbf{中图分类号：} S 666 \qquad \textbf{文献标识码：} A \qquad \textbf{文章编号：} 0513-353X (2004) 02-0215-02
+
+\vspace{0.8cm}
+
+\begin{center}
+{\large \textbf{Plant Regeneration from the Cryopreserved Somatic Hybrid of Citrus}}
+\end{center}
+
+\vspace{0.3cm}
+
+\noindent Wang Zicheng$^{*}$ and Deng Xiuxin$^{**}$
+
+\noindent (\textit{The National Key Laboratory of Crop Genetic Improvement}, \textit{Huazhong Agricultural University}, \textit{Wuhan 430070}, \textit{China})
+
+\vspace{0.3cm}
+
+\noindent \textbf{Abstract：} The allotetraploid citrus somatic hybrid is a new kind of germplasm created via protoplast fusion. We have succeeded in culturing the stems of 9 year-old tree of the somatic hybrid of Cleopatra Mandarin (\textit{Citrus reticaulata}) and Flying Dragon (\textit{Poncirus trifoliata}) in vitro, later cryopreserved its shoot tips from in vitro and got regeneration rate by 92\% of the cryopreserved shoot-tips. This is the first report on the cryopreservation of citrus somatic hybrid shoot-tips.
+
+\vspace{0.3cm}
+
+\noindent \textbf{Key words：} Citrus; Somatic hybrid; Culture in vitro; Cryopreservation
+
+\vspace{0.8cm}
+
+\section{目的、材料与方法}
+
+\quad 迄今全世界通过 PEG 或电融合法已获得 200 多例柑橘种间、属间甚至族间的体细胞杂种植株$^{[1]}$。有些杂种由于双亲遗传物质的不协调，生长势较弱，在田间易受到不良环境因素的影响而使其生存受到威胁。本文报道对柑橘体细胞杂种离体培养并进行超低温保存的研究结果。
+
+\quad 材料为 9 年生飞龙枳与印度酸橘 (\textit{Citrus reticaulata} + \textit{Poncirus trifoliata}) 的体细胞杂种，由美国佛罗里达大学 Grosser 教授提供。取田间植株半木质化新梢，用 10\% 次氯酸钠消毒 15 min，无菌水冲洗 4 次，然后于无菌条件下在植物生长调节剂)。取田间植株半木质化新梢，用 10\% 次氯酸钠进行二次消毒，无菌水冲洗 4 次后接种于 MT 培养基 (附加不同配比的植物生长调节剂)。待芽体萌生以后继代培养。培养 3$\sim$4 代的材料接种于 1/2 MT 附加不同植物生长调节剂的生根培养基上生根，或取继代 20 d 左右的试管苗，切取带 3$\sim$4 个叶片的梢端，在预培养基上分别进行暗培养和光培养，然后切取 2$\sim$2.5 mm 长的茎尖，在预处理溶液中处理 30 min，转入 PVS2 中进行不同时间脱水处理，投入液氮至少 24 h 后，在 40$^{\circ}$C 水浴中迅速化冻，在 1.2 mol/L 蔗糖 + MT 溶液中洗涤 4 次，每次 10 min，再接入添加不同浓度还原型谷胱甘肽 (GSH) 的培养基上暗培养 1 d 后转移至相同的培养基上，6 d 后转入光下培养。待材料恢复生长至 2$\sim$3 cm 高时转入生根培养基。再生率 = 再生植株数/处理茎尖数 $\times$ 100\%。
+
+\section{结果分析与讨论}
+
+\subsection{离体培养}
+
+\vspace{1cm}
+
+\noindent\rule{0.4\textwidth}{0.4pt}
+
+\noindent {\footnotesize 收稿日期：2003-05-27；修回日期：2003-07-28}
+
+\noindent {\footnotesize 基金项目：国家自然科学基金资助项目 (30123001)；国家博士点基金项目}
+
+\noindent {\footnotesize $*$ 现在工作单位：河南大学生命科学学院 475001；$**$ 通讯联系人 Corresponding author}
+
+\end{CJK}
+\end{document}
+```
+
+This LaTeX code transcribes the academic paper about plant regeneration from cryopreserved citrus somatic hybrids. The document includes the journal header, title (in both Chinese and English), authors, abstract, keywords, and the main body sections covering objectives, materials, methods, and results/discussion.

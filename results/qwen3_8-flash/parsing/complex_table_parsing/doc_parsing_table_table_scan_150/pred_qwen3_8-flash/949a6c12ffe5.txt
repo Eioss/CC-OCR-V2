@@ -1,0 +1,14 @@
+```html
+<table border="1">
+  <tr><th colspan="2">Methods</th><th>AD($\hat{x}_0,\hat{y}_0$)</th><th>A($\hat{a}$)</th><th>A($\hat{b}$)</th><th>A($\hat{\gamma}$)</th></tr>
+  <tr><td rowspan="4">Algebraic<br/>Geometric</td><td>DLSF [19]</td><td>1.035</td><td>14.746</td><td>19.280</td><td>0.684</td></tr>
+  <tr><td>Taubin [23]</td><td>1.329</td><td>14.697</td><td>20.430</td><td>0.783</td></tr>
+  <tr><td>Ahn [20]</td><td>1.445</td><td>13.911</td><td>20.362</td><td>0.681</td></tr>
+  <tr><td>Prasad [24]</td><td>1.693</td><td>14.961</td><td>21.711</td><td>0.997</td></tr>
+  <tr><td rowspan="5">Robust</td><td>Wu [25]</td><td>1.229</td><td>13.969</td><td>19.818</td><td>0.676</td></tr>
+  <tr><td>RANSAC [15]</td><td>0.707</td><td>15.203</td><td>19.719</td><td>0.783</td></tr>
+  <tr><td>LMS [27]</td><td>0.791</td><td>14.539</td><td>19.652</td><td>0.684</td></tr>
+  <tr><td>GMM [17]</td><td>0.217</td><td>14.717</td><td>19.748</td><td>0.788</td></tr>
+  <tr><td>HGMM(Ours)</td><td>0.147</td><td>14.756</td><td>19.812</td><td>0.793</td></tr>
+</table>
+```

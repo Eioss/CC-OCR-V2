@@ -1,0 +1,155 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: "Times New Roman", serif;
+            background: #f4eee0;
+        }
+        th, td {
+            border: 2px solid #3a506b;
+            padding: 12px 20px;
+        }
+        th {
+            background: #c9d6df;
+            color: #1e3a5f;
+            font-size: 16px;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="7" style="text-align:center; font-size:24px;">深圳市新荣华汽配行.</th>
+    <td colspan="2" style="text-align:right;">页： 1 / 1<br/>日期： 2019-06-17</td>
+   </tr>
+   <tr>
+    <td colspan="4">购货单位： 零售</td>
+    <td colspan="5">付款方式： 现金(普)</td>
+   </tr>
+   <tr>
+    <td colspan="4">电话：</td>
+    <td colspan="5">销售日期：2019-06-17 销售单号：XS1906170033</td>
+   </tr>
+   <tr>
+    <th>次序</th>
+    <th>配件编码</th>
+    <th>配件名称</th>
+    <th>产地--车型</th>
+    <th>数量</th>
+    <th>单价</th>
+    <th>金额</th>
+    <th>仓位</th>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td>8-94143335-P</td>
+    <td>柴油格(TF-1104)</td>
+    <td>豹干 NHR</td>
+    <td>3 个</td>
+    <td>10.00</td>
+    <td>30.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>8 94360427 II</td>
+    <td>机油格</td>
+    <td>RB 100PT/600P</td>
+    <td>3 个</td>
+    <td>25.00</td>
+    <td>75.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>8-97049708-L</td>
+    <td>机油格</td>
+    <td>RB NHR</td>
+    <td>3 个</td>
+    <td>20.00</td>
+    <td>60.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>5-11721016-SD</td>
+    <td>气门导管</td>
+    <td>RB NHR</td>
+    <td>8 个</td>
+    <td>8.00</td>
+    <td>64.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5</td>
+    <td>8-97232425-HT</td>
+    <td>气门座圈(进) A-H</td>
+    <td>JK NHKR</td>
+    <td>4 个</td>
+    <td>10.00</td>
+    <td>40.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>6</td>
+    <td>8-97232426-HT</td>
+    <td>气门座圈(排) A-H</td>
+    <td>JK NHKR</td>
+    <td>4 个</td>
+    <td>10.00</td>
+    <td>40.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:right;">小计:</td>
+    <td>25</td>
+    <td></td>
+    <td>309.00</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="4">人民币大写： 叁佰零玖元整</td>
+    <td colspan="4">合计： 309.00</td>
+   </tr>
+   <tr>
+    <td colspan="8">欢迎再次光临</td>
+   </tr>
+   <tr>
+    <td colspan="2">地址：</td>
+    <td colspan="2">电话：</td>
+    <td colspan="4">传真：</td>
+   </tr>
+   <tr>
+    <td colspan="2">营业员：Lily</td>
+    <td colspan="2">购货收货人：</td>
+    <td colspan="4">收款人：</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

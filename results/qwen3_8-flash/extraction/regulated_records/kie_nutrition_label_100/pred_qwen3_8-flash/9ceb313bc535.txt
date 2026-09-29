@@ -1,0 +1,13 @@
+```json
+{
+    "SS": "80g**",
+    "CE-P1": "87kJ/21kcal",
+    "CE-PS": "7kJ/1.7kcal",
+    "TF-PS": "0.6g",
+    "TF-P1": "0.7g",
+    "CAR-PS": "2.1g",
+    "CAR-P1": "2.6g",
+    "PRO-PS": "1.0g",
+    "PRO-P1": "1.2g"
+}
+```

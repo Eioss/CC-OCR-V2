@@ -1,0 +1,23 @@
+$$\partial_\alpha\left(\frac{z_{xx}(x)}{c_\alpha}\right)=-\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_x(x)-z_{xx}(x-y),z(x)-z(x-y)\rangle dy$$
+
+$$-\int\frac{z_{xx}(x)-z_{xx}(x-y)}{|z(x)-z(x-y)|^\alpha}\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$+\alpha\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_x(x)-z_x(x-y),z(x)-z_x(x-y)\rangle\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$\partial_\alpha\left(\frac{z_{xxx}(x)}{c_\alpha}\right)=-2\int\frac{z_{xx}(x)-z_{xxx}(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_x(x)-z_{xx}(x-y),z_x(x)-z(x-y)\rangle dy$$
+
+$$-\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}|z_x(x)-z_x(x-y)|^2 dy$$
+
+$$+(2\alpha+2)\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{4+\alpha}}\langle z_x(x)-z_{xx}(x-y),z(x)-z(x-y)\rangle^2 dy$$
+
+$$-\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_{xx}(x)-z_{xx}(x-y),z(x)-z(x-y)\rangle dy.$$
+
+$$-\int\frac{z_{xxx}(x)-z_{xxx}(x-y)}{|z(x)-z(x-y)|^\alpha}\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$+2\alpha\int\frac{z_{xx}(x)-z_{xx}(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_x(x)-z_x(x-y),z(x)-z(x-y)\rangle\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$+\alpha\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}|z_x(x)-z_x(x-y)|^2\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$-\alpha(\alpha+2)\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{4+\alpha}}\langle z_x(x)-z_{xx}(x-y),z(x)-z(x-y)\rangle^2\log\left(|z(x)-z(x-y)|\right)dy$$
+
+$$+\alpha\int\frac{z_x(x)-z_x(x-y)}{|z(x)-z(x-y)|^{2+\alpha}}\langle z_{xx}(x)-z_{xx}(x-y),z(x)-z(x-y)\rangle\log\left(|z(x)-z(x-y)|\right)dy.$$

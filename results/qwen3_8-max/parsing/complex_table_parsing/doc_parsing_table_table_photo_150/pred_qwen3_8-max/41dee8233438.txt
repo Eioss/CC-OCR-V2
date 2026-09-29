@@ -1,0 +1,38 @@
+```html
+<table border="1">
+    <tr>
+        <td>车号</td>
+        <td>鲁PL2795</td>
+        <td>发货单位</td>
+        <td colspan="3">国家能源集团新疆能源有限责任公司红沙泉煤矿(环线)专用线</td>
+    </tr>
+    <tr>
+        <td>货名</td>
+        <td>红沙泉煤环线</td>
+        <td>收货单位</td>
+        <td colspan="3">国能新疆化工有限公司</td>
+    </tr>
+    <tr>
+        <td>规格</td>
+        <td></td>
+        <td>运输单位</td>
+        <td colspan="3">新疆神华中顺物流有限责任公司</td>
+    </tr>
+    <tr>
+        <td>毛重</td>
+        <td>49.68</td>
+        <td>皮重</td>
+        <td>17.8</td>
+        <td>净重</td>
+        <td>31.88</td>
+    </tr>
+    <tr>
+        <td>检斤时间</td>
+        <td>2022-03-05<br>20:17:36</td>
+        <td>流向</td>
+        <td>流入</td>
+        <td>司磅员</td>
+        <td>自动过磅</td>
+    </tr>
+</table>
+```

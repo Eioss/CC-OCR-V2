@@ -1,0 +1,15 @@
+$$\int_0^\infty x^n \tilde{h}(x)\,dx = c\int_0^\infty dx\, x^{n+1} h(x) + \int_0^\infty dx\, x^n \int_x^\infty dy\, \overline{\Pi}\left(\log(y/x)\right) h(y)$$
+$$+ q\int_0^\infty dx\, x^n \int_0^\infty h(xe^y) V_q(dy)$$
+
+$$= \frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi i)} + \int_0^\infty dy\, h(y)\int_0^y dx\, x^n \overline{\Pi}\left(\log(y/x)\right)$$
+$$+ q\int_0^\infty V_q(dy)\int_0^\infty dx\, x^n h(xe^y)$$
+
+$$= \frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi(i))} + \int_0^\infty dy\, h(y) y^{n+1}\int_0^\infty dz\, e^{-(n+1)z}\,\overline{\Pi}(z)$$
+$$+ q\int_0^\infty V_q(dy)e^{-(n+1)y}\int_0^\infty dz\, z^n h(z)$$
+
+$$= \frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi(i))} + \frac{(n+1)!}{\prod_{i=1}^{n+1}(q+\phi(i))}\frac{\int_0^\infty (1-e^{-(n+1)z})\,\Pi(dz)}{n+1}$$
+$$+ q\frac{n!}{\prod_{i=1}^{n}(q+\phi(i))}\int_0^\infty V_q(dy)e^{-(n+1)y}$$
+
+$$= \frac{n!}{\prod_{i=1}^{n}(q+\phi(i))}\frac{(n+1)c+\int_0^\infty (1-e^{-(n+1)z})\,\Pi(dz)+q}{q+\phi(n+1)}$$
+
+$$= \frac{n!}{\prod_{i=1}^{n}(q+\phi(i))}$$

@@ -1,0 +1,157 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 8px 12px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th>$L_x, L_y, L_z$</th>
+    <th>$N$</th>
+   </tr>
+   <tr>
+    <td>1,2,2</td>
+    <td>4</td>
+   </tr>
+   <tr>
+    <td>1,2,3</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td>1,2,4</td>
+    <td>14</td>
+   </tr>
+   <tr>
+    <td>1,2,5</td>
+    <td>22</td>
+   </tr>
+   <tr>
+    <td>1,2,6</td>
+    <td>32</td>
+   </tr>
+   <tr>
+    <td>1,2,7</td>
+    <td>44</td>
+   </tr>
+   <tr>
+    <td>1,2,8</td>
+    <td>58</td>
+   </tr>
+   <tr>
+    <td>1,2,9</td>
+    <td>74</td>
+   </tr>
+   <tr>
+    <td>1,3,3</td>
+    <td>20</td>
+   </tr>
+   <tr>
+    <td>1,3,4</td>
+    <td>62</td>
+   </tr>
+   <tr>
+    <td>1,3,5</td>
+    <td>132</td>
+   </tr>
+   <tr>
+    <td>1,3,6</td>
+    <td>336</td>
+   </tr>
+   <tr>
+    <td>1,3,7</td>
+    <td>688</td>
+   </tr>
+   <tr>
+    <td>1,3,8</td>
+    <td>1 578</td>
+   </tr>
+   <tr>
+    <td>1,3,9</td>
+    <td>3 190</td>
+   </tr>
+   <tr>
+    <td>1,4,4</td>
+    <td>276</td>
+   </tr>
+   <tr>
+    <td>1,4,5</td>
+    <td>1 006</td>
+   </tr>
+   <tr>
+    <td>1,4,6</td>
+    <td>3 610</td>
+   </tr>
+   <tr>
+    <td>1,4,7</td>
+    <td>12 010</td>
+   </tr>
+   <tr>
+    <td>1,4,8</td>
+    <td>38 984</td>
+   </tr>
+   <tr>
+    <td>1,5,5</td>
+    <td>4 324</td>
+   </tr>
+   <tr>
+    <td>1,5,6</td>
+    <td>26 996</td>
+   </tr>
+   <tr>
+    <td>2,2,2</td>
+    <td>72</td>
+   </tr>
+   <tr>
+    <td>2,2,3</td>
+    <td>584</td>
+   </tr>
+   <tr>
+    <td>2,2,4</td>
+    <td>4 016</td>
+   </tr>
+   <tr>
+    <td>2,2,5</td>
+    <td>24 656</td>
+   </tr>
+   <tr>
+    <td>2,3,3</td>
+    <td>16 880</td>
+   </tr>
+   <tr>
+    <td>3,3,3</td>
+    <td>24 80 304</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

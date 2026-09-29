@@ -1,0 +1,71 @@
+```latex
+\begin{center}
+    \textbf{Formula Sheet for Physics 251}
+\end{center}
+
+\begin{tabular}{p{0.3\textwidth} p{0.3\textwidth} p{0.3\textwidth}}
+\textbf{Constants} & \textbf{Ideal gases} & \textbf{Heat Engines} \\
+$R = 8.3145 \quad \frac{\text{J}}{\text{m}\cdot\text{K}}$ & $PV = nRT$ & $W = Q_H + Q_C$ \\
+$N_A = 6.02 \times 10^{23}$ & $* PV = NkT$ & $e = \frac{W}{Q_H}$ \\
+$k_B = \frac{R}{N_A} = 1.38 \times 10^{-23} \quad \frac{\text{J}}{\text{m}\cdot\text{K}}$ & $* v_{rms} = \sqrt{\frac{3RT}{M}}$ & $e_c = 1 - \frac{T_C}{T_H}$ \\
+$e = 1.602 \times 10^{-19} \text{ C}$ & & \\
+$k = \frac{1}{4\pi\varepsilon_0} = 9 \times 10^9 \quad \frac{\text{N}\cdot\text{m}^2}{\text{C}^2}$ & & \\
+$\mu_0 = 4\pi \times 10^{-7} \quad \frac{\text{T}\cdot\text{m}}{\text{A}}$ & & \\
+$c = 3 \times 10^8 \quad \frac{\text{m}}{\text{s}}$ & & \\
+\\
+\textbf{Thermal Expansion} & \textbf{Isobaric Processes} & \textbf{Refrigerators} \\
+$\Delta L = \alpha L_0 \Delta T$ & $W = P\Delta V$ & $W = Q_H + Q_C$ \\
+$\beta = 3\alpha$ & $Q = nC_p\Delta T$ & $K = \frac{|Q_C|}{|W|}$ \\
+& $* \Delta U = nC_v\Delta T$ & $K_c = \frac{T_C}{T_H - T_C}$ \\
+\\
+\textbf{Heat} & & \\
+$Q = mc\Delta T$ & \textbf{Isothermal Processes} & \textbf{Force, Field, Energy and Potential} \\
+$Q = \pm mL$ & $* W = nRT \ln\left(\frac{V_f}{V_i}\right)$ & $\vec{F} = q\vec{E}$ \\
+$Q = nC_p\Delta T$ & & $\Delta U = q\Delta V$ \\
+$Q = nC_v\Delta T$ & $* Q = nRT \ln\left(\frac{V_f}{V_i}\right)$ & $V_{ab} = \int_a^b \vec{E} \cdot d\vec{l}$ \\
+& & $E = -\nabla V$ \\
+\textbf{Heat Current} & $* \Delta U = 0$ & \\
+$H = k \frac{A}{L} (T_H - T_C)$ & & \textbf{1 Point Charge} \\
+$H = A e \sigma T^4$ & \textbf{Adiabatic Processes} & $\vec{E} = k \frac{q}{r^2} \hat{r}$ \\
+& $* W = -nC_v\Delta T$ & $V = k \frac{q}{r}$ \\
+\textbf{Quantities} & $Q = 0$ & \\
+& $* \Delta U = nC_v\Delta T$ & \textbf{2 Point Charges} \\
+\textbf{Work} & $* P_i V_i^\gamma = P_f V_f^\gamma$ & $\vec{F} = k \frac{q_1 q_2}{r^2} \hat{r}$ \\
+$W = \int_{V_i}^{V_f} P dV$ & $* T_i V_i^{\gamma-1} = T_f V_f^{\gamma-1}$ & $U = k \frac{q_1 q_2}{r}$ \\
+& $\gamma = \frac{C_p}{C_v}$ & \\
+\textbf{Isochoric Processes} & & \textbf{Distributed Charge} \\
+$W = 0$ & \textbf{Cyclic Processes} & $\vec{E} = \int k \frac{dq}{r^2} \hat{r}$ \\
+$Q = nC_v\Delta T$ & $W = Q$ & $V = \int k \frac{dq}{r}$ \\
+$* \Delta U = nC_v\Delta T$ & $\Delta U = 0$ & \\
+\end{tabular}
+
+\begin{tabular}{p{0.45\textwidth} p{0.45\textwidth}}
+\textbf{Many-Sources} & \textbf{"Elementary" E Fields} \\
+$\vec{E}_T = \sum_i \vec{E}_i$ & $\vec{E} = k \frac{Q}{r^2} \hat{r}$ sphere \\
+$U_T = \sum_{pairs} U_{ij}$ & $\vec{E} = \frac{\lambda}{2\pi\varepsilon_0 r} \hat{r}$ line \\
+& $\vec{E} = \frac{\sigma}{2\varepsilon_0} \hat{n}$ plane \\
+& $\vec{E} = \frac{\sigma}{\varepsilon_0} \hat{n}$ conducting surface \\
+\\
+\textbf{Capacitors} & \\
+$C = \frac{Q}{V}$ & \\
+$C_T = \sum_i C_i$ parallel & \\
+$\frac{1}{C_T} = \sum_i \frac{1}{C_i}$ series & \\
+$U = \frac{1}{2}CV^2 = \frac{Q^2}{2C} = \frac{1}{2}QV$ & \\
+$^\dagger C = \varepsilon_0 \frac{A}{d}$ & \\
+$^\dagger |E| = \frac{V}{d} = \frac{\sigma}{\varepsilon_0}$ & \\
+\\
+\textbf{Flux and Gauss's Law} & \\
+$\phi = \iint \vec{E} \cdot d\vec{a}$ & \\
+$\phi_{closed} = \frac{Q_{enclosed}}{\varepsilon_0}$ & \\
+\\
+\textbf{Current and Current Density} & \\
+$I = \frac{dq}{dt}$ & \\
+$I = \iint \vec{J} \cdot d\vec{a}$ & \\
+$\vec{J} = nqv_d$ & \\
+\end{tabular}
+
+\vspace{1em}
+* indicates formulas that are specific to ideal gases \\
+$^\dagger$ indicates formulas that are specific to parallel-plate capacitors
+
+```

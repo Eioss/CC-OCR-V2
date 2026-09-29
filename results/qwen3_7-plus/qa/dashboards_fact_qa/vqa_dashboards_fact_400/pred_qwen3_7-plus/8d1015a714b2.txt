@@ -1,0 +1,22 @@
+Based on the infographic, we can calculate the percentage of people who used **only apps on smartphones** by analyzing the device usage data provided.
+
+The infographic states:
+
+- **79%** of learning materials were accessed via Apps by **smartphone**
+- **21%** on their **tablets**
+- **17%** installed the App on **both tablets and smartphones**
+
+This implies that the 79% who used smartphones includes those who used *only* smartphones AND those who used *both* devices.
+
+Similarly, the 21% who used tablets includes those who used *only* tablets AND those who used *both*.
+
+To find the percentage who used **only smartphones**, we subtract the overlap (those who used both) from the total smartphone users:
+
+> **Only Smartphone Users = Total Smartphone Users - Users of Both Devices**  
+> **= 79% - 17% = 62%**
+
+---
+
+✅ **Answer: 62%**
+
+*(Note: The 21% tablet users likely includes the 17% who used both, so only 4% used tablets exclusively — but the question asks for “only apps in smartphones”, which is 62%.)*

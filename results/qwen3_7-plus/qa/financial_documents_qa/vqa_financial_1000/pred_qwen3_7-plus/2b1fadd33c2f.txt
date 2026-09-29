@@ -1,0 +1,22 @@
+Based on the provided line graph (Figure C.2), we need to find the **actual** value per 1000 for the year **1975**.
+
+### Step-by-step:
+
+1.  **Identify the “Actual” line**: The legend at the bottom left indicates that the **solid line** represents “ACTUAL”, and the dotted line represents “MULTIVARIATE PREDICTOR”.
+
+2.  **Locate the year 1975 on the x-axis**: Find the tick mark labeled “1975”.
+
+3.  **Trace vertically up from 1975 to the solid (actual) line**: At 1975, the solid line is descending sharply after a peak around 1973–1974.
+
+4.  **Read the corresponding y-axis value**: The y-axis is labeled “PER 1000” and ranges from 0.2 to 0.3 in increments of 0.02.
+
+    - At 1975, the solid line intersects the y-axis at approximately **0.24**.
+    - It appears to be slightly above 0.24 — perhaps **0.241 or 0.242**, but given the scale and resolution of the graph, **0.24** is the most reasonable estimate.
+
+    > Note: The dotted line (predictor) is slightly higher than the actual line at 1975, but the question asks for the *actual* value.
+
+---
+
+✅ **Final Answer: `0.24`**
+
+*(Per 1000, as indicated by the y-axis label)*

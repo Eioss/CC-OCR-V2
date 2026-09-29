@@ -1,0 +1,22 @@
+Based on the infographic provided, under the "TRENDS" section, it states:
+
+> **"images with faces receive 38% MORE LIKES"**
+
+This means that images with faces get **38% more likes** than images without faces.
+
+To find the **inverse percentage**, we interpret this as: *What percentage of likes do images WITHOUT faces get, relative to images WITH faces?*
+
+If images with faces get 38% more likes, then:
+
+- Let’s assume images without faces get **100%** of some baseline number of likes.
+- Then images with faces get **138%** of that baseline (100% + 38%).
+
+So, the inverse — the percentage of likes that images *without* faces get, compared to images *with* faces — is:
+
+> **100 / 138 ≈ 72.46%**
+
+---
+
+✅ **Final Answer: Approximately 72.5%**
+
+*(This means images without faces receive about 72.5% of the likes that images with faces receive.)*

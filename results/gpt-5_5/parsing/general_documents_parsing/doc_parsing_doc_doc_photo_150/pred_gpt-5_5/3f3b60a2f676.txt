@@ -1,0 +1,99 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\begin{document}
+
+\begin{center}
+\textbf{MODEL TEST \quad 56}
+\end{center}
+
+\noindent
+\textbf{Part--A : Reading Test [50 Marks]}
+
+\noindent
+\textbf{\underline{SEEN PASSAGE}} Read the following passage carefully\\
+and answer questions 1, 2 \& 3.\\
+Eid is the main \ldots\ldots\ldots{} empty and lost. \hfill [Unit--12; Lesson--1(B)]
+
+\begin{enumerate}
+\item \textbf{Choose the best answer from the alternatives.} \hfill \(1 \times 7 = 7\)
+
+\begin{enumerate}[label=(\alph*)]
+\item Eid is a --- festival of Muslims.\\
+i. social \quad ii. cultural \quad iii. religious \quad iv. communal
+
+\item What is the meaning of Eid?\\
+i. A feeling of joy \quad ii. Enrichment\\
+iii. Enhancement \quad iv. Enchantment
+
+\item The roots of the trees are ---\\
+i. invisible \quad ii. visible\\
+iii. slightly visible \quad iv. visible or invisible
+
+\item The roots of human beings lie in their ---\\
+i. home \quad ii. society \quad iii. country \quad iv. minds
+
+\item The rootless are ---\\
+i. entity \quad ii. identical \quad iii. nonentity \quad iv. relatives
+
+\item Which one develops our identity?\\
+i. Our culture \quad ii. Our roots\\
+iii. Our religion \quad iv. Our environment
+
+\item What is pull of roots?\\
+i. Affection for roots \quad ii. Attraction of roots\\
+iii. Assistance of roots \quad iv. Addiction to roots
+\end{enumerate}
+
+\noindent
+\textbf{\underline{Additional Questions}}
+
+\begin{enumerate}[label=(\alph*),start=8]
+\item What do the roots make between us and others?\\
+i. Friendship \quad ii. Intimacy\\
+iii. Fellow feelings \quad iv. Bond
+
+\item Wherever we stay, we have a --- pull of our roots.\\
+i. routine \quad ii. ceaseless \quad iii. careless \quad iv. tireless
+
+\item The rootless have ---\\
+i. no hunger \quad ii. no parents \quad iii. no identity \quad iv. entity
+\end{enumerate}
+
+\item \textbf{Answer the following questions in your own words:} \hfill \(2 \times 5 = 10\)
+
+\begin{enumerate}[label=(\alph*)]
+\item What do most of the people living outside their home desire during the Eid vacations?
+\item What happens to transport during Eid vacations?
+\item What makes people rush for their homes in spite of serious hazards?
+\item What are the roots of human beings?
+\item How do human beings become rootless?
+\end{enumerate}
+
+\noindent
+\textbf{\underline{Additional Questions}}
+
+\begin{enumerate}[label=(\alph*),start=6]
+\item What are human beings called without roots?
+\item What are rootless people devoid of?
+\item What makes the rootless feel empty and lost?
+\item What does everyone want on Eid day?
+\item What is the significance of Eid?
+\end{enumerate}
+
+\item \textbf{Fill in each gap with a suitable word of your own based on the information from the text in `A'.} \hfill \(0.5 \times 10 = 5\)
+
+There are many (a) ---, cultural and religious (b)---s of people of Bangladesh. (c) --- is the main (d) --- festival (e) ---. Eid means (f) ---. So, the (g) --- of Eid (h) --- happiness with (i) ---.
+
+\end{enumerate}
+
+\noindent
+\textbf{\underline{UNSEEN PASSAGE}} \quad Read the following text carefully\\
+and answer the question no. 4 and 5 :
+
+\noindent
+Khan Bahadur Ahsanullah was born in a respectable Muslim family at Nalta in Satkhira district on 27 December, 1873. He passed Entrance examination with a scholarship and distinction from the London Missionary School of Bhabhanipur, Kolkata in 1890. He passed the F.A. examination with a scholarship from the Hooghli College, Kolkata in 1892. He obtained BA in 1894 and MA in Philosophy in 1895 from Presidency College under the University of Kol
+
+\end{document}
+```

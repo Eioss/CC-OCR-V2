@@ -1,0 +1,130 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{framed}
+
+\begin{document}
+
+\begin{center}
+\textbf{Argumentative Essay Structure}
+\end{center}
+
+\begin{framed}
+\noindent\textbf{Paragraph 1: Introduction}
+
+\noindent- Background
+
+\noindent(a) Overview of current situation/ Context based on question
+
+\noindent(b) Contextual Definition of key terms (if necessary)
+
+\noindent(c) Why this issue is interesting/significant
+
+\noindent Persuasive techniques: Hook (Statistics/ Facts/ Social trends from credible sources)/ Anecdote
+
+\noindent/ Rhetorical question / Relevant Quote/ Astounding statement/ Alliteration/ Addressing reader
+
+\noindent in second person pronoun/ Figurative language)
+
+\noindent(d) Comparison of different viewpoints (if necessary)
+
+\noindent(e) My Stand: Using synonyms (varied vocab) to rephrase question \& defining a boundary for
+
+\noindent discussion
+
+\noindent(f) Summarised Points (of 3 supporting reasons)
+\end{framed}
+
+\begin{framed}
+\noindent\textbf{Paragraph 2: Point 1 (Most significant/strongest point)}
+
+\noindent- State Point (topic sentence)
+
+\noindent- Give Explanation and Elaboration of Point
+
+\noindent- Example 1 to support Point
+
+\noindent- Explanation and Elaboration of Example 1
+
+\noindent- Example 2 to support Point (if necessary)
+
+\noindent- Explanation and Elaboration of Example 2 (if necessary)
+
+\noindent- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{framed}
+
+\begin{framed}
+\noindent\textbf{Paragraph 3: Point 2 (Second most significant/ strongest point)}
+
+\noindent- State Point (topic sentence)
+
+\noindent- Give Explanation and Elaboration of Point
+
+\noindent- Example 1 to support Point
+
+\noindent- Explanation and Elaboration of Example 1
+
+\noindent- Example 2 to support Point (if necessary)
+
+\noindent- Explanation and Elaboration of Example 2 (if necessary)
+
+\noindent- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{framed}
+
+\begin{framed}
+\noindent\textbf{Paragraph 4: Counterargument and Rebuttal}
+
+\noindent- An argument, usually a popular or common argument, that someone will use to tear down
+
+\noindent one of your topic sentence or your stand (addressing the other side of the argument to make it
+
+\noindent seem `balanced')
+
+\noindent- A rebuttal to crush/demolish/defeat the counterargument (as a defence of your
+
+\noindent stand/supporting points)
+
+\noindent- Explanation \& Examples to support and show why your supporting argument/stand is still
+
+\noindent stronger
+
+\noindent- Link (use synonyms (varied vocab) to re-emphasise stand)
+\end{framed}
+
+\begin{framed}
+\noindent\textbf{Paragraph 5: Point 3 (Third most significant/ strongest point)}
+
+\noindent- State Point (topic sentence)
+
+\noindent- Give Explanation and Elaboration of Point
+
+\noindent- Example 1 to support Point
+
+\noindent- Explanation and Elaboration of Example 1
+
+\noindent- Example 2 to support Point (if necessary)
+
+\noindent- Explanation and Elaboration of Example 2 (if necessary)
+
+\noindent- Link (use synonyms (varied vocab) to further re-emphasise topic sentence)
+\end{framed}
+
+\begin{framed}
+\noindent\textbf{Paragraph 6: Conclusion}
+
+\noindent- Restate stand (using synonyms (varied vocab) to rephrase question)
+
+\noindent- Summarised Points
+
+\noindent- End with a bang! - Statistics/ Rhetorical question / Relevant Quote/ Astounding statement/
+
+\noindent Alliteration/ Addressing reader in second person pronoun/ Figurative language
+
+\noindent- Suggest something out of the box (a solution/future possibilities) related to topic/question (if
+
+\noindent applicable)
+\end{framed}
+
+\end{document}
+```

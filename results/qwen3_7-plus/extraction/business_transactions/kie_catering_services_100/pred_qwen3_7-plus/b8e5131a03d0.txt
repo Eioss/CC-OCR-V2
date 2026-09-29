@@ -1,0 +1,23 @@
+```json
+{
+    "menu": [
+        {
+            "name": "BASO TAHU",
+            "price": "*46000"
+        },
+        {
+            "name": "NASI PUTIH",
+            "price": "*6000"
+        },
+        {
+            "name": "BASO TAHU",
+            "price": "*46000"
+        },
+        {
+            "name": "2x 6000 NASI PUTIH",
+            "price": "*12000"
+        }
+    ],
+    "total": "*110000"
+}
+```

@@ -1,0 +1,9 @@
+The invoice is dated **12/04/97** (December 4, 1997).
+
+This is shown in the top right section of the document under “INVOICE DATE”.
+
+Additionally, the ship date listed in the line item details is also **12/04**, and the payment due date is **12/04**, indicating this was likely issued and due on the same day.
+
+Note: The year “97” is inferred from context — while not explicitly written as “1997”, it’s standard for invoices of that era to use two-digit years, and other dates (like order date 11/26) align with a 1997 timeline. Also, the footer includes “51893 3274” which may be an internal tracking number, but doesn’t affect the date.
+
+✅ Final Answer: **12/04/97**

@@ -1,0 +1,5 @@
+The text '157.50' appears multiple times in this image. Here are the locations:
+
+(699, 1635, 879, 1714) # The amount in the 人民币(大写) row
+(722, 919, 901, 990) # The amount in the upper portion
+(729, 1364, 901, 1437) # The amount in the 银行卡 (bank card) row

@@ -1,0 +1,12 @@
+```json
+{
+    "date": "23/03/2018",
+    "doc_no_receipt_no": "18550-389-4768-2303180113",
+    "seller_address": "LOT R1, KWS REHAT & RAWAT PAGOH ARAH UTARA, SIMPANG AMPAT PAGOH, LEBUHRAYA UTARA SELATAN., 84600,PAGOH,JOHOR",
+    "seller_gst_id": "CBP 000709361664",
+    "seller_name": "PAGOH REST AND SERVICE AREA",
+    "seller_phone": "1800 88 1231",
+    "total_amount": "10.00",
+    "total_tax": "0.00"
+}
+```

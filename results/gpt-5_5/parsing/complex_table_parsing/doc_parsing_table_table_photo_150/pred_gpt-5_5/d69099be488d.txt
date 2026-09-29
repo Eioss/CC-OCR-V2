@@ -1,0 +1,145 @@
+```html
+<table>
+  <tr>
+    <td colspan="2">管理单位</td>
+    <td colspan="5">定吴高速</td>
+  </tr>
+  <tr>
+    <td colspan="2">桥梁类型</td>
+    <td>全部桥梁</td>
+    <td>特大桥</td>
+    <td>大桥</td>
+    <td>中桥</td>
+    <td>小桥、通道桥</td>
+  </tr>
+  <tr>
+    <td colspan="2">数量</td>
+    <td>288</td>
+    <td>6</td>
+    <td>158</td>
+    <td>54</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td colspan="2">定期检查时间</td>
+    <td>2020年</td>
+    <td>2020年</td>
+    <td>2020年</td>
+    <td>2020年</td>
+    <td>2020年</td>
+  </tr>
+  <tr>
+    <td colspan="2">最高评分</td>
+    <td>100.00</td>
+    <td>92.51</td>
+    <td>100.00</td>
+    <td>100.00</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td colspan="2">最低评分</td>
+    <td>81.80</td>
+    <td>86.25</td>
+    <td>86.57</td>
+    <td>83.87</td>
+    <td>81.80</td>
+  </tr>
+  <tr>
+    <td colspan="2">平均分</td>
+    <td>95.03</td>
+    <td>88.94</td>
+    <td>94.56</td>
+    <td>95.93</td>
+    <td>95.93</td>
+  </tr>
+  <tr>
+    <td>1类</td>
+    <td>数量</td>
+    <td>152</td>
+    <td>0</td>
+    <td>70</td>
+    <td>35</td>
+    <td>47</td>
+  </tr>
+  <tr>
+    <td>桥梁</td>
+    <td>比例（%）</td>
+    <td>52.78</td>
+    <td>0.00</td>
+    <td>44.30</td>
+    <td>66.04</td>
+    <td>67.14</td>
+  </tr>
+  <tr>
+    <td>2类</td>
+    <td>数量</td>
+    <td>136</td>
+    <td>6</td>
+    <td>88</td>
+    <td>19</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>桥梁</td>
+    <td>比例（%）</td>
+    <td>47.22</td>
+    <td>100.00</td>
+    <td>55.70</td>
+    <td>33.96</td>
+    <td>32.86</td>
+  </tr>
+  <tr>
+    <td>3类</td>
+    <td>数量</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>桥梁</td>
+    <td>比例（%）</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>4类5类</td>
+    <td>数量</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>桥梁</td>
+    <td>比例（%）</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">需要特殊检查桥梁</td>
+    <td>数量</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>比例（%）</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,101 @@
+I'll transcribe this employee transfer application form into HTML.
+
+```html
+<table border="1">
+  <tr>
+    <td colspan="7">文件编号：JHWY-HR-001</td>
+    <td colspan="2">久鸿万洋农博城</td>
+    <td colspan="2">版本：A版</td>
+  </tr>
+  <tr>
+    <td colspan="11" align="center"><h2>员 工 调 动 申 请 单</h2></td>
+  </tr>
+  <tr>
+    <td colspan="11" align="right">2021 年 9 月 26 日</td>
+  </tr>
+  <tr>
+    <td>姓 名</td>
+    <td>李杨</td>
+    <td>部门</td>
+    <td>物业部</td>
+    <td>入职日期</td>
+    <td>2020.10.19</td>
+    <td colspan="2">调动执行日期</td>
+    <td colspan="3">2021.10.1</td>
+  </tr>
+  <tr>
+    <td>调动类型</td>
+    <td>□调动</td>
+    <td colspan="2">□借调</td>
+    <td colspan="2">□公司调动</td>
+    <td colspan="2">☑岗位调动</td>
+    <td colspan="3">□其他</td>
+  </tr>
+  <tr>
+    <td rowspan="4">异动前</td>
+    <td colspan="2">部门</td>
+    <td colspan="3">物业部</td>
+    <td rowspan="4">异动后</td>
+    <td colspan="2">部门</td>
+    <td colspan="2">物业部</td>
+  </tr>
+  <tr>
+    <td colspan="2">岗位</td>
+    <td colspan="3">勤杂工</td>
+    <td colspan="2">岗位</td>
+    <td colspan="2">水电工</td>
+  </tr>
+  <tr>
+    <td colspan="2">薪资</td>
+    <td colspan="3">3000+500</td>
+    <td colspan="2">薪资</td>
+    <td colspan="2">3500+500</td>
+  </tr>
+  <tr>
+    <td colspan="2">调出日期</td>
+    <td colspan="3">2021年9月26日</td>
+    <td colspan="2">调入日期</td>
+    <td colspan="2">2021年10月1日</td>
+  </tr>
+  <tr>
+    <td colspan="11" align="center">调整意见</td>
+  </tr>
+  <tr>
+    <td rowspan="4">部门意见</td>
+    <td colspan="3">□职务调整</td>
+    <td colspan="2">□不同意</td>
+    <td colspan="5">☑同意并调整为 水电工</td>
+  </tr>
+  <tr>
+    <td colspan="3">□工资调整</td>
+    <td colspan="2">□不同意</td>
+    <td colspan="5">☑同意并调整为 叁仟伍佰柒拾元整</td>
+  </tr>
+  <tr>
+    <td colspan="3">□岗位调整</td>
+    <td colspan="2">□不同意</td>
+    <td colspan="5">☑同意 原岗位 勤杂工 调整为现岗</td>
+  </tr>
+  <tr>
+    <td colspan="10">位 水电工</td>
+  </tr>
+  <tr>
+    <td colspan="3">转出部门意见</td>
+    <td colspan="3">同意</td>
+    <td colspan="2">转入部门意见</td>
+    <td colspan="3">同意</td>
+  </tr>
+  <tr>
+    <td colspan="3">部门负责人意见</td>
+    <td colspan="3">（签名）</td>
+    <td colspan="2">综合办人事处意见</td>
+    <td colspan="3">珊</td>
+  </tr>
+  <tr>
+    <td colspan="3">商管公司意见</td>
+    <td colspan="3">（签名）</td>
+    <td colspan="2">总经理意见</td>
+    <td colspan="3">（签名）</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,55 @@
+I'll transcribe this document into LaTeX format.
+
+```latex
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{xcolor}
+\definecolor{allianzblue}{RGB}{0,86,145}
+
+\begin{document}
+
+\noindent {\footnotesize \textcolor{allianzblue}{\textsc{ALLIANZ GROUP} \quad 12}}
+
+\vspace{1em}
+
+\begin{multicols}{2}
+
+\hspace{1em}The Sarbanes-Oxley Act also has considerable implications for Allianz AG. The new disclosure rules require some amendments of our reporting. The Audit Committee is given comprehensive rights and duties. We have adapted the procedural rules of the Audit Committee accordingly.
+
+\hspace{1em}The Supervisory Board of Allianz AG has determined that the chairman of the Audit Committee, Dr. Manfred Schneider, has the attributes that the SEC implementation ruling requires of the Audit Committee Financial Expert. In addition, Allianz AG has adopted a ``Code of Ethics'' addressed to the members of the Board of Management and senior financial officers. It sets standards of ethical and righteous behavior in the personal and professional area, particularly regarding the handling of conflicts of interest and the application of the highest corporate disclosure standards. The Audit Committee has adopted new procedures which make sure that the independence of auditors is specially controlled. These procedures meet the stricter independence requirements of the SEC.
+
+\hspace{1em}The NYSE also enacted new Corporate Governance Rules last year. As an issuer headquartered outside the U.S.A., Allianz AG is solely held to disclose the material differences between its own corporate governance standards and the new NYSE rules. This disclosure will be made on our website as of the date of this year's Annual General Meeting.
+
+\subsection*{\textcolor{allianzblue}{The Supervisory Board and its committees}}
+
+Last year, the Supervisory Board was newly elected for a period of five years. A total of eight new members were appointed to the Supervisory Board. Among other departing members, the previous chairman of the Supervisory Board, Dr. Klaus Liesen, was no longer available for reasons of age. In the constitutive meeting of the newly elected Supervisory Board on April 29, 2003, Dr. Henning Schulte-Noelle was elected as its chairman.
+
+An essential part of the Supervisory Board's work is performed by its committees. The \textbf{Audit Committee} constituted in September 2002 is composed of three shareholder representatives and two employee representatives. In its constitutive meeting, the Supervisory Board elected Dr. Manfred Schneider as chairman of the Audit Committee and named Messrs. Dr. Gerhard Cromme, Prof. Dr. Rudolf Hickel, Frank Ley and Dr. Henning Schulte-Noelle as its other members. The main task of the Audit Committee is the preliminary examination of the Group's Annual Financial Statements and Consolidated Financial Statements as well as the Management Report and the Recommendation for Appropriation of Profit. In addition, it examines the quarterly reports and the 20-F filing required in the U.S.A. The Audit Committee also prepares the appointment of the Auditor
+
+\columnbreak
+
+by the plenary Meeting of the Supervisory Board, ascertains the required independence of the Auditor, assigns the mandate to the Auditor and sets priorities for the Audit. Its tasks also include the examination of the risk control system. In fiscal 2003, the Audit Committee held five meetings.
+
+\vspace{0.5em}
+
+The \textbf{Standing Committee} has a total of five members, two of which are employee representatives. Its essential function is the approval of matters for which Supervisory Board approval is required, to the extent that such matters do not fall under the competency of the Personnel Committee or must be decided by the plenary meeting of the Supervisory Board. In particular, this concerns the approval of capital market measures and of the acquisition or divestiture of companies or shareholdings in companies. It is also in charge of drafting the respective Declaration of Compliance in accordance with § 161 of the German Stock Corporation Law concerning compliance with the German Corporate Governance Code as well as the regular examination of corporate governance and the efficiency of the work of the Supervisory Board.
+
+\vspace{0.5em}
+
+The \textbf{Personnel Committee} is composed of the Chairman of the Supervisory Board as well as one representative each of the shareholders and employees on the Supervisory Board. It prepares the appointment of members of the Board of Management, tends to ongoing personnel matters of members of the Board of Management and handles questions concerning their compensation. It is also involved in the long-term succession planning for the Board of Management.
+
+\vspace{0.5em}
+
+The statutory \textbf{Mediation Committee} meets only if the Supervisory Board, in a vote on the appointment or recall of a member of the Board of Management, fails to obtain the two-thirds majority required by law.
+
+\vspace{0.5em}
+
+At the end of 2003, the Supervisory Board conducted an efficiency review in accordance with a recommendation of the German Corporate Governance Code. For this purpose, every member of the Supervisory Board received a questionnaire, requesting evaluations and suggestions concerning individual aspects of the Supervisory Board's work. The questionnaire had previously been approved by the Standing Committee, which compiled the results, condensed them into recommendations as to how the work of the Supervisory Board could be further improved and proposed these to the Supervisory Board in a meeting on December 17, 2003.
+
+\end{multicols}
+
+\end{document}
+```

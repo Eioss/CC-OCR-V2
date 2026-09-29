@@ -1,0 +1,18 @@
+Based on the "New Cases Today" section of the dashboard (top 13 countries), we can examine the numbers to find the lowest value.
+
+The list is as follows:
+- US: 23,976
+- Russia: 10,102
+- Brazil: 6,835
+- United Kingdom: 4,406
+- Peru: 3,817
+- India: 2,963
+- Turkey: 1,832
+- Saudi Arabia: 1,595
+- Chile: 1,373
+- Iran: 1,323
+- Spain: 1,318
+- Canada: 1,258
+- **Mexico: 1,120**
+
+Among these top 13 countries, **Mexico** has reported the least number of new cases today with **1,120**.

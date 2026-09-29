@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "11/18/99",
+    "order_id": "200748",
+    "customer_order_id": "P.O. #21293",
+    "vendor_address": "P.O. BOX 92003 CHICAGO, ILLINOIS 60675",
+    "customer_id": "1112-02-000",
+    "customer_billing_name": "Mr. Charles Gaworski",
+    "customer_billing_address": "P.O. Box 21688 Greensboro, NC 27420",
+    "amount_total_gross": "$48,000.00",
+    "amount_due": "$48,000.00",
+    "payment_terms": "NET CASH"
+}
+```

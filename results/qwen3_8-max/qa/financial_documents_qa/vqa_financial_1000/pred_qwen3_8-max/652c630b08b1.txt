@@ -1,0 +1,10 @@
+Based on the provided image of the airline ticket, we can determine the point of origin by looking at two key areas:
+
+1.  **The "ORIGIN" field:** In the top section of the ticket, there is a box labeled "ORIGIN". The handwritten entry in this box is `LGA`.
+2.  **The flight itinerary:** The first line of the flight details, under the column "FROM", lists `LAGUARDIA`.
+
+`LGA` is the IATA airport code for LaGuardia Airport.
+
+---
+
+Therefore, the point of origin is **LaGuardia (LGA)**.

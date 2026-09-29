@@ -1,0 +1,44 @@
+```html
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>WinSize</th>
+      <th>9</th>
+      <th>10</th>
+      <th>11</th>
+      <th>12</th>
+      <th>13</th>
+      <th>14</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0 to W-2 (%)</td>
+      <td>21.4</td>
+      <td>11.2</td>
+      <td>5.7</td>
+      <td>2.9</td>
+      <td>1.5</td>
+      <td>0.7</td>
+    </tr>
+    <tr>
+      <td>W-1 (%)</td>
+      <td>215.9</td>
+      <td>99.8</td>
+      <td>350.4</td>
+      <td>216.2</td>
+      <td>21.3</td>
+      <td>216.1</td>
+    </tr>
+    <tr>
+      <td>Avg. (%)</td>
+      <td>28.1</td>
+      <td>14.7</td>
+      <td>20.1</td>
+      <td>12.7</td>
+      <td>2.5</td>
+      <td>12.1</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,49 @@
+```latex
+\documentclass{ctexart}
+\usepackage{array}
+\begin{document}
+
+\noindent\textbf{第二条 激励金发放}
+
+\noindent 根据甲方评估及乙方确认，双方就乙方“激励计划”具体约定如下：
+
+\noindent 1.乙方于\underline{\hspace{1.5em}}年\underline{\hspace{1.5em}}月\underline{\hspace{1.5em}}日正式入选甲方“激励计划”。
+
+\noindent 2.甲方向乙方发放“激励金”人民币（大写）\underline{\hspace{2em}}元（￥\underline{\hspace{1.5em}}）（税前），发放计划如下：
+
+\begin{center}
+\begin{tabular}{|p{0.28\textwidth}|p{0.28\textwidth}|p{0.28\textwidth}|}
+\hline
+考核年度 & 发放时间（暂定） & 税前金额（￥） \\ \hline
+第一年： & & \\ \hline
+第二年： & & \\ \hline
+第三年： & & \\ \hline
+\end{tabular}
+\end{center}
+
+\noindent 3.发生以下情形之一者，“激励计划”自动终止，未发放“激励金”不再发放，已发放“激励金”无须退还：
+
+\noindent （1）考核年度内，乙方岗位晋升至经理级以上（含）；
+
+\noindent （2）乙方连续两年考核成绩未达到部门（及调动部门）\underline{70}分位以上水平（不含）。
+
+\noindent 4.考核年度内发生以下情形之一者，该年度“激励金”取消：
+
+\noindent （1）乙方在指定考核年度内累计事假/连续事假超过三十天；
+
+\noindent （2）乙方在指定考核年度的考核成绩未达到部门（及调动部门）\underline{70}分位以上水平（不含）。
+
+\noindent 5.若乙方满足“激励金”发放条件，则甲方向乙方如下账户实施“激励金”发放。乙方银行账户信息：
+
+\noindent 指定收款账号：\underline{\hspace{2em}}
+
+\noindent 开户行：\underline{\hspace{2em}}
+
+\noindent 户名：\underline{\hspace{2em}}
+
+\noindent\textbf{第三条 服务期}
+
+\noindent 1.乙方服务期自\underline{\hspace{1.5em}}年\underline{\hspace{1.5em}}月\underline{\hspace{1.5em}}日起至\underline{\hspace{1.5em}}年\underline{\hspace{1.5em}}月\underline{\hspace{1.5em}}日止，共计\underline{\hspace{1.5em}}个月。
+
+\end{document}
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "date": "6/4/2018",
+    "doc_no_receipt_no": "246274",
+    "seller_address": "G1 SEAFRONT, BERJAYA WATERFRONT COMPLEX, 88 JALAN IBRAHIM SULTAN, STULANG LAUT 80300, JOHOR BAHRU, JOHOR.",
+    "seller_gst_id": "001699237888",
+    "seller_name": "(FREEDOM OPTIMUM SDN BHD) THE GEOVENTURE",
+    "seller_phone": "07-2213800",
+    "total_amount": "98.00",
+    "total_tax": "5.54"
+}
+```

@@ -1,0 +1,17 @@
+$$\sum_{x \in S_{n,q}} \left( q^{-\frac{n+1}{2}} \sum_{a_1, \ldots, a_n \in \mathbb{F}_q} \chi\left(1 + \sum_i a_i x^i\right) \psi(a_n) \right)^m$$
+
+$$X_0 T_0 = U_T X_0 \quad \text{and} \quad \bigvee_{n \geq 0} U_T^{-n} X_0 N = L^2(\mathbb{T}).$$
+
+$$\hat{x}_{out} = \hat{x}_{in} - (\hat{x}_A - \hat{x}_B), \quad \hat{P}_{out} = \hat{P}_{in} + (\hat{P}_A + \hat{P}_B).$$
+
+$$(D_{\nu,z^*}) \quad \sup_{\mu} \frac{1}{2} \langle \mu, \nabla^2 G(\bar{z})(\nu,\nu) \rangle \quad \text{subject to } \mu \in K^* \text{ and } \nabla G(\bar{z})^* \mu = z^*.$$
+
+$$\frac{d}{dt} \|\psi(t)\|_{L^2_k}^2 + (2A_\psi(t) - (d+2k)B_\psi(t)) \|\psi(t)\|_{L^2_k}^2 + 2kB_\psi(t) \|\psi(t)\|_{L^2_{k-1}}^2$$
+
+$$= 2(1-\alpha) \int_{\mathbb{R}^d} 2 + \langle \psi, \psi \rangle (t, \xi) \psi(t, \xi) \langle \xi \rangle^{2k} d\xi - 2 \int_{\mathbb{R}^d} 2 - \langle \psi, \psi \rangle (t, \xi) \psi(t, \xi) \langle \xi \rangle^{2k} d\xi.$$
+
+$$\frac{\partial L}{\partial w} = 2(y - w\hat{i}_1 - (2-w)\hat{i}_2)(-\hat{i}_1 + \hat{i}_2).$$
+
+$$\frac{\partial^2 L}{\partial w^2} = 2(-\hat{i}_1 + \hat{i}_2)^2 \geq 0.$$
+
+$$G(y) = \sup_{a \leq s \leq b} \left| \sum_{j=1}^{\infty} (y + \Gamma_j)^{-1/\alpha} W_j(s) \right|$$

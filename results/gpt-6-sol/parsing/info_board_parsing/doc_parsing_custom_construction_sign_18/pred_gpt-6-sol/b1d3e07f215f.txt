@@ -1,0 +1,24 @@
+施工现场信息公示牌
+
+副标题：工程概况 / 责任体系 / 检查记录  
+文档编号：SG-243559  
+日期：2024-02-15
+
+<table>
+<tr><td colspan="8">工程基本信息表（含多级表头）</td></tr>
+<tr><td colspan="2">项目信息</td><td colspan="2">责任信息</td><td colspan="2">进度与计划</td><td colspan="2">其他信息</td></tr>
+<tr><td>工程/项目名称（虚构）</td><td>北屿省临澜州北湾区兴业路118号9栋建设项目</td><td>项目负责人</td><td>郑景行</td><td>计划开工</td><td>2023-10-01</td><td>施工许可证号</td><td>SG-2023-10-005</td></tr>
+<tr><td>单位名称</td><td>澄岳省岚原州星港皓月信息技术有限公司</td><td>安全员</td><td>陶亦晨</td><td>计划竣工</td><td>2026-03-15（手写修改；原日期：2025-12-31）</td><td>备案编号</td><td>071855500739037010</td></tr>
+<tr><td>工程地点</td><td>北屿省临澜州北湾区兴业路118号9栋</td><td>联系电话</td><td>13157271435</td><td>当前阶段</td><td>主体结构施工</td><td>备注说明</td><td>无重大变更</td></tr>
+<tr><td>项目类型/规模</td><td>商业综合体 / 5万平米</td><td>监理单位</td><td>北屿工程监理有限公司</td><td>进度滞后原因</td><td>无</td><td>备注说明</td><td>需加强雨季安全检查</td></tr>
+</table>
+
+<table>
+<tr><td colspan="9">巡检/隐患整改闭环表（含签字确认栏）</td></tr>
+<tr><td>巡检日期</td><td>检查人员</td><td>检查内容/部位</td><td>问题描述</td><td>整改要求</td><td>整改责任人</td><td>整改完成日期</td><td>复查情况（等级/√×）</td><td>签字确认</td></tr>
+<tr><td>2024-02-10</td><td>陶亦晨、张工</td><td>9栋三层平台</td><td>临边防护缺失</td><td>立即安装防护栏杆</td><td>李强</td><td>2024-02-12</td><td>合格 √</td><td>郑景行</td></tr>
+<tr><td>2024-02-12</td><td>陶亦晨</td><td>塔吊基础</td><td>积水未及时清理</td><td>清理积水，做好排水</td><td>王伟</td><td>2024-02-13</td><td>合格 √</td><td>郑景行</td></tr>
+<tr><td>2024-02-14</td><td>陶亦晨</td><td>临时用电箱</td><td>私拉乱接</td><td>立即整改，规范接线</td><td>张明</td><td>2024-02-15</td><td>待复查 ×</td><td>郑景行</td></tr>
+<tr><td colspan="9"></td></tr>
+<tr><td colspan="9"><div style="text-align: center;"><img src="imgs/img_in_image_box_315_940_392_1019.jpg" alt="Image" width="6%" /></div>扫描二维码获取更多信息：https://example.com/doc-07667933<br>备注/脚注区：计费规则/整改要求：所有整改项须在规定时间内完成，复查合格后方可销项。</td></tr>
+</table>

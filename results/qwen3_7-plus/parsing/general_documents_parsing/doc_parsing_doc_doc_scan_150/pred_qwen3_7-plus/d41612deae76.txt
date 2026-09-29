@@ -1,0 +1,14 @@
+```latex
+\begin{tabular}{|l|c|l|}
+\hline
+Perimeter & \begin{tabular}[c]{@{}c@{}}Square\\ Rectangle\end{tabular} & \begin{tabular}[c]{@{}l@{}}P = 4a\\ P = 2(l+b)\end{tabular} \\ \hline
+Circumference & Circle & C = 2*pi*r \\ \hline
+Area & \begin{tabular}[c]{@{}c@{}}Square\\ Rectangle\\ Triangle\\ Trapezoid\\ Circle\end{tabular} & \begin{tabular}[c]{@{}l@{}}A = a$^2$\\ A = l*b\\ A = bh/2\\ A = (b$_1$+b$_2$)h/2\\ A = pi*r$^2$\end{tabular} \\ \hline
+Surface Area & \begin{tabular}[c]{@{}c@{}}Cube\\ Cylinder\\ Cone\\ Sphere\end{tabular} & \begin{tabular}[c]{@{}l@{}}S = 6a$^2$\\ S = 2*pi*r*h\\ S = pi*r*l\\ S = 4*pi*r$^2$\end{tabular} \\ \hline
+Volume & \begin{tabular}[c]{@{}c@{}}Cylinder\\ Cone\\ Sphere\end{tabular} & \begin{tabular}[c]{@{}l@{}}V = bh\\ V = bh/3\\ V = 4 * pi *r$^3$/3\end{tabular} \\ \hline
+Pythagorus Theorem & \multicolumn{2}{c|}{a$^2$+b$^2$= c$^2$} \\ \hline
+Distance Formula & \multicolumn{2}{c|}{d = sqrt[(x$_2$-x$_1$)$^2$+(y$_2$-y$_1$)$^2$]} \\ \hline
+Slope of a line & \multicolumn{2}{c|}{m = (y$_2$-y$_1$)/(x$_2$-x$_1$)} \\ \hline
+Midpoint Formula & \multicolumn{2}{c|}{M = ((x$_1$+x$_2$)/2,(y$_1$+y$_2$)/2)} \\ \hline
+\end{tabular}
+```

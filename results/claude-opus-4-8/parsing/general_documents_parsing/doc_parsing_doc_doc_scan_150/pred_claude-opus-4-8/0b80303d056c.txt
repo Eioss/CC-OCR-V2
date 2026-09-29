@@ -1,0 +1,118 @@
+I'll transcribe this Chinese tender announcement document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\begin{center}
+\textbf{\large 2021-2022年资金监管系统运维项目【重新招标】-中标候选人公示}\\[6pt]
+\textbf{(招标编号：0675-210JOC009007A)}
+\end{center}
+
+\noindent 公示开始时间：2021年05月13日00时00分00秒\\[4pt]
+公示结束时间：2021年05月16日00时00分00秒
+
+\vspace{10pt}
+
+\noindent \hspace{2em}本2021-2022年资金监管系统运维项目【重新招标】（招标项目编号：0675-210JOC009007A）经评标委员会评审，确定001 2021-2022年资金监管系统运维项目的中标候选人，现公示如下：
+
+\vspace{10pt}
+
+\noindent \textbf{一、评标情况}
+
+\vspace{6pt}
+
+\noindent \hspace{2em}0012021-2022年资金监管系统运维项目
+
+\vspace{6pt}
+
+\noindent \hspace{2em}1、中标候选人基本情况
+
+\vspace{6pt}
+
+\begin{center}
+\begin{tabular}{|c|p{3cm}|c|c|c|}
+\hline
+\textbf{排序} & \multicolumn{1}{c|}{\textbf{中标候选人名称}} & \textbf{投标报价} & \textbf{质量} & \textbf{工期/交货期} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & /万元(人民币) & / & / \\
+\hline
+2 & 北京用友审计软件有限公司 & /万元(人民币) & / & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & /万元(人民币) & / & / \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{6pt}
+
+\noindent \hspace{2em}2、中标候选人按照招标文件要求承诺的项目负责人情况
+
+\vspace{6pt}
+
+\begin{center}
+\begin{tabular}{|c|p{3.5cm}|c|c|}
+\hline
+\textbf{序号} & \multicolumn{1}{c|}{\textbf{中标候选人名称}} & \textbf{项目负责人姓名} & \textbf{相关证书名称及编号} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & / & / \\
+\hline
+2 & 北京用友审计软件有限公司 & / & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & / & / \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{6pt}
+
+\noindent \hspace{2em}3、中标候选人响应招标文件要求的资格能力条件
+
+\vspace{6pt}
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{序号} & \textbf{中标候选人名称} & \textbf{响应情况} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & / \\
+\hline
+2 & 北京用友审计软件有限公司 & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & / \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{10pt}
+
+\noindent \textbf{二、提出异议的渠道和方式}
+
+\vspace{6pt}
+
+\noindent \hspace{2em}/
+
+\vspace{10pt}
+
+\noindent \textbf{三、其他公示内容}
+
+\end{CJK}
+\end{document}
+```
+
+This LaTeX code reproduces the document with:
+- The title and subtitle (with tender number)
+- Publication start and end times
+- The introductory paragraph
+- Section 一 (Bid Evaluation) with three tables
+- Section 二 (Channels and Methods for Raising Objections)
+- Section 三 (Other Announcement Content)
+
+The `CJK` package handles the Chinese characters, and the tables use standard LaTeX table formatting with the `|` delimiters for visible borders.

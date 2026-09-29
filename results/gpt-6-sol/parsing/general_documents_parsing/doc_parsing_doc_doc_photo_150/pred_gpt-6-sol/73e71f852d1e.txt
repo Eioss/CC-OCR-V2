@@ -1,0 +1,28 @@
+```latex
+4. Consider the following table:
+\[
+\begin{array}{c|ccccc}
+x    & 0.3 & 0.4 & 0.5 & 0.6 & 0.7 \\ \hline
+f(x) & 1.5 & 2   & 5   & 7   & 12
+\end{array}
+\]
+
+Let \(x_{i+1}=x_i+h,\quad i=0,\ldots,3.\)
+
+\begin{enumerate}
+\item[(a)] Approximate \(f'(0.5)\) using \(D_h^+f(0.5)\) and \(h=0.1\).
+
+\item[(b)] Compute \(D_h^{(2)}f(0.5)\) using the Central Difference Formula and step size \(h=0.2\).
+
+Note: You may use the following formula for Central Difference Formula:
+\[
+D_h^{(2)}f(x_i)=\frac{D_h^+f(x_i)-D_h^-f(x_i)}{h}.
+\]
+
+\item[(c)] Compare the answer from (b) with the following approximation:
+\[
+D_h^{(2)}f(x_1)=\frac{f(x_2)-2f(x_1)+f(x_0)}{h^2},
+\]
+with \(x_1=0.5,\ h=0.2\).
+\end{enumerate}
+```

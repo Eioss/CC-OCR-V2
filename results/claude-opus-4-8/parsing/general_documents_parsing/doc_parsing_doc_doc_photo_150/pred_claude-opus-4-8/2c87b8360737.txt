@@ -1,0 +1,106 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\begin{document}
+
+\noindent (vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+\vspace{0.3cm}
+\noindent Mother: Why are you looking so worried? \\
+Daughter: My exams are approaching.
+
+\vspace{0.3cm}
+\noindent In response to the question of the mother, the daughter replied that \rule{3cm}{0.4pt}.
+
+\vspace{0.3cm}
+\noindent (viii) Identify the error in the given sentence:
+
+\vspace{0.3cm}
+\noindent The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+\vspace{0.3cm}
+\noindent Use the given format for your response
+
+\vspace{0.3cm}
+\begin{center}
+\begin{tabular}{|m{3cm}|m{3cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.3cm}
+\noindent (ix) Ritu and Randeep are talking. Report Ritu's question.
+
+\vspace{0.3cm}
+\noindent Ritu: Where are you going?
+
+\vspace{0.3cm}
+\noindent Ritu asked \rule{3cm}{0.4pt}.
+
+\vspace{0.3cm}
+\noindent (x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\vspace{0.3cm}
+\noindent \rule{3cm}{0.4pt} smile and pass it to others.
+
+\vspace{0.3cm}
+\begin{tabular}{ll}
+(a) Happy \hspace{2cm} & (b) Short \\
+(c) Always & (d) Humble \\
+\end{tabular}
+
+\vspace{0.3cm}
+\noindent (xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+\vspace{0.3cm}
+\noindent Anil: Where are you going? \\
+Sanjeev: To the airport. \\
+Anil: May I drop you there as I'm going in that direction?
+
+\vspace{0.3cm}
+\noindent Anil asked Sanjeev where he was going and offered to drop him as \rule{3cm}{0.4pt}.
+
+\vspace{0.3cm}
+\begin{quote}
+(a) he could be going in that direction. \\
+(b) he would be going in the direction. \\
+(c) he is going in the direction \\
+(d) he was going in that direction
+\end{quote}
+
+\vspace{0.3cm}
+\noindent (xii) Identify the error in the newspaper headline.
+
+\vspace{0.3cm}
+\noindent Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+\vspace{0.3cm}
+\noindent Use the given format for your response:
+
+\vspace{0.3cm}
+\begin{center}
+\begin{tabular}{|m{3cm}|m{3cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+\hfill \textbf{CL X/ PB-I /ENG/PA}
+
+\vspace{0.3cm}
+\begin{center}
+\textcircled{6}
+\end{center}
+
+\end{document}
+```

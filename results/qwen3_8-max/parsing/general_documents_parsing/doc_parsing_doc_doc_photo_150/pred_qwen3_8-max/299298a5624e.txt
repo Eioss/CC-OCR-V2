@@ -1,0 +1,243 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=0.5in}
+
+% Custom colors to match the image roughly
+\definecolor{headerred}{RGB}{139, 0, 0}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textbf{\textcolor{headerred}{MATHEMATICS RU}}} % "RU" is cut off, likely RULES or RUDIMENTS
+\end{center}
+
+\begin{minipage}[t]{0.48\textwidth}
+    \section*{\centering \colorbox{headerred}{\textcolor{white}{Trigonometry}}}
+    
+    \textbf{1) Trigonometry Ratios :}
+    
+    \vspace{2mm}
+    % Diagram description omitted as per request for text/equations, but structure implies a triangle ABC
+    % A (top), B (bottom left, 90 deg), C (bottom right)
+    % Opp = AB, Adj = BC, Hyp = AC
+    
+    \[
+    \begin{aligned}
+    \text{Sin}\theta &= \frac{\text{Opp}}{\text{Hyp}} & \text{Cosec}\theta &= \frac{\text{Hyp}}{\text{Opp}} \\
+    \text{Cos}\theta &= \frac{\text{Adj}}{\text{Hyp}} & \text{Sec}\theta &= \frac{\text{Hyp}}{\text{Adj}} \\
+    \text{tan}\theta &= \frac{\text{Opp}}{\text{Adj}} & \text{Cot}\theta &= \frac{\text{Adj}}{\text{Opp}}
+    \end{aligned}
+    \]
+    % Note: The image lists Sin/Cos/tan on left and Cose/Sec/Cosech on right but labels are slightly mixed in layout. 
+    % Re-reading image carefully:
+    % Left col: Sin, tine (tan), Seco (Sec) -- wait, looking closer at crop 1.
+    % Row 1: Sin = Opp/Hyp, Cose = Adj/Hyp (This is Cos)
+    % Row 2: tine = Opp/Adj (This is tan), Cote = Adj/Opp (This is Cot)
+    % Row 3: Seco = Hyp/Adj (This is Sec), Cosech = Hyp/Opp (This is Csc)
+    % Actually, the labels in the image are abbreviated strangely: "Cose" usually means Cosecant, but formula is Adj/Hyp (Cosine). "Cosech" is Cosecant.
+    % Let's transcribe exactly as written in the image, even if non-standard abbreviations.
+    
+    Correction based on strict visual inspection:
+    \[
+    \begin{aligned}
+    \text{Sin}\theta &= \frac{\text{Opp}}{\text{Hyp}} & \text{Cose} &= \frac{\text{Adj}}{\text{Hyp}} \\
+    \text{tine} &= \frac{\text{Opp}}{\text{Adj}} & \text{Cote} &= \frac{\text{Adj}}{\text{Opp}} \\
+    \text{Seco} &= \frac{\text{Hyp}}{\text{Adj}} & \text{Cosech} &= \frac{\text{Hyp}}{\text{Opp}}
+    \end{aligned}
+    \]
+
+    \textbf{2) Imp - Results :}
+    \begin{enumerate}
+        \item[i)] $\text{Sin}\theta \cdot \text{Cosec}\theta = 1$
+        \item[ii)] $\text{Cos}\theta \cdot \text{Sec}\theta = 1$
+        \item[iii)] $\text{tan}\theta \cdot \text{Cot}\theta = 1$
+        \item[iv)] $\text{tan}\theta = \frac{\text{Sin}\theta}{\text{Cos}\theta}$
+        \item[v)] $\text{Cot}\theta = \frac{\text{Cos}\theta}{\text{Sin}\theta}$
+        \item[vi)] $\text{Sin}^2\theta + \text{Cos}^2\theta = 1$
+        \item[vii)] $\text{Sec}^2\theta = 1 + \text{tan}^2\theta$
+        \item[viii)] $\text{Cosec}^2\theta = 1 + \text{Cot}^2\theta$
+        \item[ix)] $\pi^c = 180^\circ$
+        \item[x)] $\text{length of arc } s = r\theta$
+        \item[xi)] $\text{Area of sector} = \frac{1}{2}r^2\theta$
+    \end{enumerate}
+
+    \textbf{3) Trigonometry Ratios of Standard Angles :}
+    
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+            \hline
+            \textbackslash Ratios & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ & $90^\circ$ & $180^\circ$ & $270^\circ$ & $360^\circ$ \\
+            \hline
+            Sin & 0 & $\frac{1}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{\sqrt{3}}{2}$ & 1 & 0 & -1 & 0 \\
+            \hline
+            Cos & 1 & $\frac{\sqrt{3}}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{1}{2}$ & 0 & -1 & 0 & 1 \\
+            \hline
+            tan & 0 & $\frac{1}{\sqrt{3}}$ & 1 & $\sqrt{3}$ & $\infty$ & 0 & $\infty$ & 0 \\
+            \hline
+        \end{tabular}
+    \end{center}
+
+    \textbf{3) Sign Convention :} % Numbering repeats in image
+    
+    \begin{minipage}{0.4\textwidth}
+        \begin{tabular}{c|c}
+            Sin & All \\
+            II & I \\
+            \hline
+            Tan & Cos \\
+            III & IV
+        \end{tabular}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.55\textwidth}
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            Quadrant & Sin & Cos & Tan \\
+            \hline
+            I & + & + & + \\
+            II & + & - & - \\
+            III & - & - & + \\
+            IV & - & + & - \\
+            \hline
+        \end{tabular}
+    \end{minipage}
+    
+    * The above information can be conveniently remembered with the phrase ``Add Sugar To Coffee''
+
+    \textbf{4) Allied - Angles :}
+    \begin{enumerate}
+        \item[1)] 
+        $\begin{aligned}
+        \text{Sin } (-\theta) &= -\text{Sin}\theta \\
+        \text{Cos } (-\theta) &= \text{Cos}\theta \\
+        \text{tan } (-\theta) &= -\text{tan}\theta \\
+        \text{Cot } (-\theta) &= -\text{Cot}\theta \\
+        \text{Sec } (-\theta) &= \text{Sec}\theta \\
+        \text{Cosec } (-\theta) &= -\text{Cosec}\theta
+        \end{aligned}$
+        \item[2)]
+        $\begin{aligned}
+        \text{Sin } (90^\circ-\theta) &= \text{Cos}\theta \\
+        \text{Cos } (90^\circ-\theta) &= \text{Sin}\theta \\
+        \text{tan } (90^\circ-\theta) &= \text{Cot}\theta \\
+        \text{Cot } (90^\circ-\theta) &= \text{tan}\theta \\
+        \text{Sec } (90^\circ-\theta) &= \text{Cosec}\theta \\
+        \text{Cosec } (90^\circ-\theta) &= \text{Sec}\theta
+        \end{aligned}$
+    \end{enumerate}
+
+    \textbf{5) Compound Angles :}
+    \begin{enumerate}
+        \item[i)] $\text{Sin }(A+B) = \text{Sin } A \text{ Cos } B + \text{Cos } A \text{ sin } B$
+        \item[ii)] $\text{Sin }(A-B) = \text{Sin } A \text{ Cos } B - \text{Cos } A \text{ sin } B$
+        \item[iii)] $\text{Cos }(A+B) = \text{Cos } A \text{ Cos } B - \text{Sin } A \text{ sin } B$
+        \item[iv)] $\text{Cos }(A-B) = \text{Cos } A \text{ Cos } B + \text{Sin } A \text{ sin } B$
+        \item[v)] $\text{tan }(A+B) = \frac{\text{tan } A + \text{tan } B}{1 - \text{tan } A \text{ tan } B}$
+        \item[vi)] $\text{tan }(A-B) = \frac{\text{tan } A - \text{tan } B}{1 + \text{tan } A \text{ tan } B}$
+    \end{enumerate}
+
+    \textbf{6) Multiple Angle and Sub Multiple Angle :}
+    
+    $\text{Sin } 2A = 2\text{Sin } A \text{ Cos } A$
+    
+    $\text{Cos } 2A = \text{Cos}^2 A - \text{Sin}^2 A$
+    
+    (Partially obscured/damaged area below)
+    
+    \begin{enumerate}
+        \item[i)] $\text{Sin } A = 2\text{Sin}\left(\frac{A}{2}\right) \text{Cos}\left(\frac{A}{2}\right)$
+        \item[ii)] $\text{Cos } A = \text{Cos}^2\left(\frac{A}{2}\right) - \text{Sin}^2\left(\frac{A}{2}\right)$
+        \item[iii)] $\text{Cos } A = 1 - 2\text{Sin}^2\left(\frac{A}{2}\right)$
+        \item[iv)] $\text{Cos } A = 2\text{Cos}^2\left(\frac{A}{2}\right) - 1$
+        \item[v)] $\text{Cos } A = \frac{1 - \text{tan}^2\left(\frac{A}{2}\right)}{1 + \text{tan}^2\left(\frac{A}{2}\right)}$
+        \item[vi)] $\text{Sin } A = \frac{2 \cdot \text{tan}\left(\frac{A}{2}\right)}{1 + \text{tan}^2\left(\frac{A}{2}\right)}$
+        \item[vii)] $\text{tan } A = \frac{2 \cdot \text{tan}\left(\frac{A}{2}\right)}{1 - \text{tan}^2\left(\frac{A}{2}\right)}$
+        \item[viii)] $1 - \text{Cos } A = 2\text{Sin}^2\left(\frac{A}{2}\right)$
+    \end{enumerate}
+    (Bottom left corner damaged: $\text{Cos}^2(A/2)$ visible)
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+
+    \textbf{7) Triple Angle Formulae :-}
+    \begin{enumerate}
+        \item[i)] $\text{Sin } 3\theta = 3\text{sin }\theta - 4 \text{ sin}^3 \theta$
+        \item[ii)] $\text{cos } 3\theta = 4 \text{ cos}^3 \theta - 3 \text{ cos } \theta$
+        \item[iii)] $\text{tan } 3\theta = \frac{3\tan \theta - \tan^3 \theta}{1 - 3\tan^2 \theta}$
+        \item[iv)] $\cos^3 \theta = \frac{\cos 3\theta + 3\cos \theta}{4}$
+        \item[v)] $\sin^3 \theta = \frac{3\sin \theta - \sin 3\theta}{4}$
+    \end{enumerate}
+
+    \textbf{8) Factorization Formulae :-}
+    \begin{enumerate}
+        \item[i.] $\sin C + \sin D = 2 \sin \left(\frac{C+D}{2}\right) \cos \left(\frac{C-D}{2}\right)$
+        \item[ii.] $\sin C - \sin D = 2 \sin \left(\frac{C-D}{2}\right) \sin \left(\frac{C-D}{2}\right)$ % Note: Image says sin((C-D)/2) twice? Usually it is cos((C+D)/2). Transcribing strictly: Image says "2 sin (C-D / 2) sin (C-D / 2)"? No, looking closely at crop 2: "2 sin (C+D / 2) sin (C-D / 2)" is standard, but image text for ii looks like "2 sin (C-D / 2) sin (C-D / 2)". Wait, standard formula is $2 \cos \frac{C+D}{2} \sin \frac{C-D}{2}$. The image text for (ii) actually looks like: $2 \sin (\frac{C+D}{2}) \sin (\frac{C-D}{2})$? No, that's wrong math. Let's look really closely.
+        % Row ii: sin C - sin D = 2 sin ((C+D)/2) ... wait, the second term is sin((C-D)/2). The first term in image looks like sin((C+D)/2). This is mathematically incorrect (should be cos), but I must transcribe the image.
+        % Actually, looking at crop 2, row ii: "2 sin (C+D / 2) sin (C-D / 2)".
+        \item[ii.] $\sin C - \sin D = 2 \sin \left(\frac{C+D}{2}\right) \sin \left(\frac{C-D}{2}\right)$ 
+        \item[iii.] $\cos C + \cos D = 2 \cos \left(\frac{C+D}{2}\right) \cos \left(\frac{C-D}{2}\right)$
+        \item[iv.] $\cos C - \cos D = 2 \sin \left(\frac{C+D}{2}\right) \sin \left(\frac{C-D}{2}\right)$ if $C>D$ \\
+        $= 2 \sin \left(\frac{C+D}{2}\right) \sin \left(\frac{D-C}{2}\right)$ if $D>C$
+    \end{enumerate}
+
+    \textbf{9) Defactorization formulae :-}
+    \begin{enumerate}
+        \item[i.] $2 \sin A \cos B = \sin (A+B) + \sin (A-B)$
+        \item[ii.] $2 \cos A \sin B = \sin (A+B) - \sin (A-B)$
+        \item[iii.] $2 \cos A \cos B = \cos (A+B) + \cos (A-B)$
+        \item[iv.] $2 \sin A \sin B = \cos (A-B) - \cos (A+B)$
+    \end{enumerate}
+
+    \section*{\centering \colorbox{headerred}{\textcolor{white}{Co - Ordinate - Geometry (2D)}}}
+
+    \begin{enumerate}
+        \item[1.] Distance Formula : $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
+        \item[2.] Section Formula : $P(x,y) = \left( \frac{mx_2+nx_1}{m+n}, \frac{my_2+ny_1}{m+n} \right)$ \\
+        Internally \\
+        $Q(x,y) = \left( \frac{mx_2-nx_1}{m-n}, \frac{my_2-ny_1}{m-n} \right)$ \\
+        Externally
+        \item[3.] Mid point Formula : $\left( \frac{x_1+x_2}{2}, \frac{y_1+y_2}{2} \right)$
+        \item[4.] Centroid of triangle : $G \left( \frac{x_1+x_2+x_3}{3}, \frac{y_1+y_2+y_3}{3} \right)$
+        \item[5.] Area of triangle $\Delta = \frac{1}{2} [ x_1(y_2-y_3) + x_2(y_3-y_1) + x_3(y_1-y_2) ]$
+        \item[6.] Slope of straight line : $m = \tan \theta$
+        \item[7.] One point Form : $y-y_1 = m(x-x_1)$ % Image says y-y1 = m(x-x1) ? Or y-y1... actually looks like y-y1 = m(x-x1). Wait, crop 5 says "y-y1 = m(x-x1)".
+        \item[8.] Slope Intercept from : $y = mx + C$
+        \item[9.] Two point Form : $\frac{y-y_1}{y_2-y_1} = \frac{x-x_1}{x_2-x_1}$ % Image has typo? "y-y1 / y2-y1 = x-x1 / x2-x1". Wait, looking at crop 5: "y-y1 / y2-y1 = x-x1 / x2-x1". Actually denominator on right is x2-x1? Image says "x2-x1".
+        \item[10.] Intercept Form : $\frac{x}{a} + \frac{y}{b} = 1$
+        \item[11.] Normal Form : $x \cos \alpha + y \sin \alpha = p$ % Image uses alpha symbol? Looks like 'a' or alpha. Using alpha.
+        \item[12.] Slope of line $ax + by + c = 0$ : $-\frac{a}{b}$
+        \item[13.] Intersection fo two lines : $L_1 + \lambda L_2 = 0$
+        \item[14.] Angle between two st.lines : $\tan \theta = \left| \frac{m_1-m_2}{1+m_1m_2} \right|$
+        \item[15.] If the lines are parallel : $m_1 = m_2$ \\
+        If the lines are $\perp$ : $m_1 m_2 = -1$
+        \item[16.] Length of $\perp$ Form : $\left| \frac{ax_1+by_1+c}{\sqrt{a^2+b^2}} \right|$
+        \item[17.] Bisector Equations : $\frac{a_1x+b_1y+c_1}{\sqrt{a_1^2+b_1^2}} = \pm \frac{a_2x+b_2y+c_2}{\sqrt{a_2^2+b_2^2}}$
+        \item[18.] Distance bet$^n$ parallel lines : $\frac{c_1-c_2}{\sqrt{a^2+b^2}}$
+        \item[19.] Homogeneous Equation : $ax^2 + 2hxy + by^2 = 0$ \\
+        $\tan \theta = \frac{2\sqrt{h^2-ab}}{a+b}$
+        \item[20.] General Equation : $ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$ \\
+        represents a pair of lines \\
+        If $abc + 2fgh - af^2 - bg^2 - ch^2 = 0$ \\
+        Point of intersection $(x,y) = \left( \frac{hf-bg}{ab-h^2}, \frac{hg-af}{ab-h^2} \right)$
+    \end{enumerate}
+
+    \section*{\centering \colorbox{headerred}{\textcolor{white}{Co - Ordinate - Geometry (3D)}}}
+
+    \begin{enumerate}
+        \item[1.] Distance Formula : $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$
+        \item[2.] Section Formula : $\left( \frac{mx_2+nx_1}{m+n}, \frac{my_2+ny_1}{m+n}, \frac{mz_2+nz_1}{m+n} \right)$ \\
+        Internally
+    \end{enumerate}
+
+\end{minipage}
+
+\end{document}
+```

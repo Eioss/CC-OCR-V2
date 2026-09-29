@@ -1,0 +1,5 @@
+The text '副主任医师门诊诊查费' appears in two locations on this receipt:
+
+(60, 590, 372, 660) # First occurrence: 副主任医师门诊诊查费
+
+(60, 663, 372, 730) # Second occurrence: 副主任医师门诊诊查费(新)

@@ -1,0 +1,40 @@
+```latex
+\textbf{Problem 1}
+
+In the lecture "Syntax" I develop a toy language \textbf{Little English}. It has the following lexicon (each expression belongs to exactly one grammatical category: names, predicates, or connectives).
+
+\begin{itemize}
+    \item[\textit{Names:}] Kate, Billy
+    \item[\textit{Predicates:}] smokes, sleeps
+    \item[\textit{Connectives:}] and, or
+\end{itemize}
+
+Furthermore I define well-formed formula in Little English as follows:
+\begin{enumerate}
+    \item If $\Phi$ is a name, and $\Psi$ is a predicate, then "$\Phi$ $\Psi$" is a well-formed formula (wff).
+    \item If $\Phi$ and $\Psi$ are well-formed formulas, and $\Omega$ is a connective, then $\Phi$ $\Omega$ $\Psi$ is a wff.
+    \item Nothing else is a wff.
+\end{enumerate}
+
+I pointed out that the expression \textit{Kate sleeps and smokes} is not a wff.
+
+This is counterintuitive; \textit{Kate sleeps and smokes} is a perfectly grammatical sentence of English. Fortunately, there is an easy way to fix this. We can add the following condition to the definition of wff.
+
+(C) If $\Phi$ is a well-formed formula, $\Psi$ is a predicate, and $\Omega$ is a connective, then $\Phi$ $\Omega$ $\Psi$ is a wff.
+
+Which yields the following revised definition of wff:
+\begin{enumerate}
+    \item If $\Phi$ is a name, and $\Psi$ is a predicate, then "$\Phi$ $\Psi$" is a well-formed formula (wff).
+    \item If $\Phi$ and $\Psi$ are well-formed formulas, and $\Omega$ is a connective, then $\Phi$ $\Omega$ $\Psi$ is a wff.
+    \item If $\Phi$ is a well-formed formula, $\Psi$ is a predicate, and $\Omega$ is a connective, then $\Phi$ $\Omega$ $\Psi$ is a wff.
+    \item Nothing else is a wff.
+\end{enumerate}
+
+\begin{enumerate}[label=\alph*)]
+    \item Using the revised definition, show that \textit{Kate sleeps and smokes} is a wff.
+    \item Using the revised definition, show that \textit{Kate sleeps or Bill sleeps and smokes} is a wff.
+    \item Explain why \textit{Bill or Kate sleeps} is not a wff under the revised definition.
+    \item Further revise the revised definition, so that \textit{Bill or Kate sleeps} counts as a wff. You have to add to it a new condition, like I did with (C) above.
+    \item Using your new definition, show that \textit{Bill or Kate sleeps} is a wff.
+\end{enumerate}
+```

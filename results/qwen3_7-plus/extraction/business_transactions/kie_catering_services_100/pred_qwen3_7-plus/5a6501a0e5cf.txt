@@ -1,0 +1,23 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Kopi Susu Kampung. Ice",
+            "unit_price": "19.000",
+            "quantity": "x1"
+        },
+        {
+            "name": "Kopi Susu Kampung - Less Ice 0 Ice",
+            "unit_price": "",
+            "quantity": ""
+        },
+        {
+            "name": "Kopi Susu Kampung. Ice",
+            "unit_price": "38.000",
+            "quantity": "x2"
+        }
+    ],
+    "sub_total": "57.000",
+    "total": "57.000"
+}
+```

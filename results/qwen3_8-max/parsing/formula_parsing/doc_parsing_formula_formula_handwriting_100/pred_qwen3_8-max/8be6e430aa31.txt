@@ -1,0 +1,1 @@
+ $$\frac { \partial ^ { 2 } \lambda _ { k } } { \partial w _ { p q } \partial w _ { r s } } = \sum _ { j \neq k } [ \frac { \partial w _ { k j } } { \partial w _ { p q } } \frac { \partial T _ { j j } ^ { k } } { \partial w _ { r s } } + \frac { \partial w _ { k j } } { \partial w _ { r s } } \frac { \partial T _ { j j } ^ { k } } { \partial w _ { p q } } ]$$

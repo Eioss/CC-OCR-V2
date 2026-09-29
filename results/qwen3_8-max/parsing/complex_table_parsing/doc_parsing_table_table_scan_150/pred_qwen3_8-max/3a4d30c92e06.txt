@@ -1,0 +1,96 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <td>厚薄指数</td>
+    <td style="background-color: #333; color: white;">薄款</td>
+    <td>适中</td>
+    <td>厚款</td>
+    <td>弹力指数</td>
+    <td>无弹</td>
+    <td style="background-color: #333; color: white;">微弹</td>
+    <td>弹</td>
+  </tr>
+  <tr>
+    <td>版型指数</td>
+    <td>修身</td>
+    <td style="background-color: #333; color: white;">标准</td>
+    <td>宽松</td>
+    <td>柔软指数</td>
+    <td style="background-color: #333; color: white;">柔软</td>
+    <td>适中</td>
+    <td>硬</td>
+  </tr>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <thead>
+    <tr style="background-color: #888; color: white;">
+      <th>尺码(CM)</th>
+      <th>衣长</th>
+      <th>胸围</th>
+      <th>肩宽</th>
+      <th>下摆围</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #eee;">
+      <td>S</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr style="background-color: #ccc;">
+      <td>M</td>
+      <td>56</td>
+      <td>112</td>
+      <td>41.6</td>
+      <td>100</td>
+    </tr>
+    <tr style="background-color: #eee;">
+      <td>L</td>
+      <td>58</td>
+      <td>116</td>
+      <td>42.8</td>
+      <td>112</td>
+    </tr>
+    <tr style="background-color: #ccc;">
+      <td>XL</td>
+      <td>60</td>
+      <td>120</td>
+      <td>44</td>
+      <td>116</td>
+    </tr>
+    <tr style="background-color: #eee;">
+      <td>2XL</td>
+      <td>62</td>
+      <td>124</td>
+      <td>45.2</td>
+      <td>120</td>
+    </tr>
+    <tr style="background-color: #ccc;">
+      <td>3XL</td>
+      <td>64</td>
+      <td>128</td>
+      <td>46.4</td>
+      <td>124</td>
+    </tr>
+    <tr style="background-color: #eee;">
+      <td>4XL</td>
+      <td>66</td>
+      <td>132</td>
+      <td>47.6</td>
+      <td>128</td>
+    </tr>
+    <tr style="background-color: #ccc;">
+      <td>5XL</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+```

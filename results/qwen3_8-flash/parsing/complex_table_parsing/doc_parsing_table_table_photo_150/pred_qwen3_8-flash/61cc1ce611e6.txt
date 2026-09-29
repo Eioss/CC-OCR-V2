@@ -1,0 +1,51 @@
+```html
+<table border="1">
+  <tr>
+    <td colspan="2">Exercise 1-15 (20 minutes)</td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Traditional income statement</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">The Alpine House, Inc.</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;">Traditional Income Statement</td>
+  </tr>
+  <tr>
+    <td>Sales....................................................</td>
+    <td>$150,000</td>
+  </tr>
+  <tr>
+    <td>Cost of goods sold</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;($30,000 + $100,000 - $40,000).................</td>
+    <td>90,000</td>
+  </tr>
+  <tr>
+    <td>Gross margin............................................</td>
+    <td>60,000</td>
+  </tr>
+  <tr>
+    <td>Selling and administrative expenses:</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Selling expenses (($50 per unit × 200 pairs of<br>&nbsp;&nbsp;skis*) + $20,000).............................</td>
+    <td>$30,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Administrative expenses (($10 per unit × 200<br>&nbsp;&nbsp;pairs of skis) + $20,000).......................</td>
+    <td>22,000</td>
+  </tr>
+  <tr>
+    <td>Net operating income..................................</td>
+    <td>$8,000</td>
+  </tr>
+  <tr>
+    <td colspan="2">*$150,000 sales ÷ $750 per pair of skis = 200 pairs of skis.</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,31 @@
+$$\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j\delta_t^{a_j}p_h^n, \vartheta_1\right)_{D^k} + \varepsilon_1\left(Q_h^n, \vartheta_1\right)_{D^k} + \varepsilon_2\left(f(|u_{1h}^n|^2, |u_{2h}^n|^2)q_h^n, \vartheta_1\right)_{D^k} = 0,$$
+
+$$\left(Q_h^n, \beta_1\right)_{D^k} = \left(\Delta_{(\beta-2)/2}r_h^n, \beta_1\right)_{D^k},$$
+
+$$\left(r_h^n, \phi\right)_{D^k} = -\left(s_h^n, \phi_x\right)_{D^k} + \left((\hat{s}_h^n\phi^-)_{k+\frac{1}{2}} - (\hat{s}_h^n\phi^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(s_h^n, \varphi\right)_{D^k} = -\left(q_h^n, \varphi_x\right)_{D^k} + \left((\hat{q}_h^n\varphi^-)_{k+\frac{1}{2}} - (\hat{r}_h^n\varphi^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j\delta_t^{a_j}q_h^n, \chi\right)_{D^k} - \varepsilon_1\left(H_h^n, \chi\right)_{D^k} - \varepsilon_2\left(f(|u_{1h}^n|^2, |u_{2h}^n|^2)p_h^n, \chi\right)_{D^k} = 0,$$
+
+$$\left(H_h^n, \beta_2\right)_{D^k} = \left(\Delta_{(\beta-2)/2}w_h^n, \beta_2\right)_{D^k},$$
+
+$$\left(w_h^n, \varphi_2\right)_{D^k} = -\left(z_h^n, \psi_x\right)_{D^k} + \left((\hat{z}_h^n\psi^-)_{k+\frac{1}{2}} - (\hat{z}_h^n\psi^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(z_h^n, \varsigma\right)_{D^k} = -\left(p_h^n, \varsigma_x\right)_{D^k} + \left((\hat{p}_h^n\varsigma^-)_{k+\frac{1}{2}} - (\hat{p}_h^n\varsigma^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j\delta_t^{a_j}v_h^n, \gamma\right)_{D^k} + \varepsilon_3\left(L_h^n, \gamma\right)_{D^k} + \varepsilon_4\left(g(|u_{1h}^n|^2, |u_{2h}^n|^2)v_h^n, \gamma\right)_{D^k} = 0,$$
+
+$$\left(L_h^n, \beta_3\right)_{D^k} = \left(\Delta_{(\beta-2)/2}\rho_h^n, \beta_3\right)_{D^k},$$
+
+$$\left(\rho_h^n, \delta\right)_{D^k} = -\left(\varpi_h^n, \delta_x\right)_{D^k} + \left((\hat{\varpi}_h^n\delta^-)_{k+\frac{1}{2}} - (\hat{\varpi}_h^n\delta^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(\varpi_h^n, \varsigma\right)_{D^k} = -\left(\vartheta_h^n, \varsigma_x\right)_{D^k} + \left((\hat{\vartheta}_h^n\varsigma^-)_{k+\frac{1}{2}} - (\hat{\varpi}_h^n\delta^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j\delta_t^{a_j}\vartheta_h^n, o\right)_{D^k} - \varepsilon_3\left(E_h^n, o\right)_{D^k} - \varepsilon_4\left(g(|u_{1h}^n|^2, |u_{2h}^n|^2)v_h^n, o\right)_{D^k} = 0,$$
+
+$$\left(E_h^n, \beta_4\right)_{D^k} = \left(\Delta_{(\beta-2)/2}\xi_h^n, \beta_4\right)_{D^k},$$
+
+$$\left(\xi_h^n, w\right)_{D^k} = -\left(e_h^n, w_x\right)_{D^k} + \left((\hat{\varrho}_h^nw^-)_{k+\frac{1}{2}} - (\hat{\varrho}_h^nw^+)_{k-\frac{1}{2}}\right),$$
+
+$$\left(\varrho_h^n, k\right)_{D^k} = -\left(v_h^n, k_x\right)_{D^k} + \left((\hat{u}_h^nk^-)_{k+\frac{1}{2}} - (\hat{v}_h^nk^+)_{k-\frac{1}{2}}\right).$$

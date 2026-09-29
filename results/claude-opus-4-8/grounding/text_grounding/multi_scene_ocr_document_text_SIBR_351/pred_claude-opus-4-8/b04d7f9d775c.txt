@@ -1,0 +1,6 @@
+There are several instances of "120.00" in this receipt. Here are their locations:
+
+(420, 460, 514, 491) # First "120.00" in the upper area
+(816, 1255, 911, 1287) # "120.00" on the right side
+(916, 1336, 1010, 1368) # "120.00" individual payment amount
+(817, 1422, 911, 1452) # "120.00" total amount at bottom

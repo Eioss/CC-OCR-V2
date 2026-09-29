@@ -1,0 +1,35 @@
+```latex
+\begin{table}[h]
+\centering
+\caption{Short Table of Fourier Transforms}
+\label{tab:fourier_transforms}
+\begin{tabular}{c l l l}
+\hline
+ & $g(t)$ & $G(\omega)$ & \\
+\hline
+1 & $e^{-at}u(t)$ & $\frac{1}{a + j\omega}$ & $a > 0$ \\
+2 & $e^{at}u(-t)$ & $\frac{1}{a - j\omega}$ & $a > 0$ \\
+3 & $e^{-a|t|}$ & $\frac{2a}{a^2 + \omega^2}$ & $a > 0$ \\
+4 & $te^{-at}u(t)$ & $\frac{1}{(a + j\omega)^2}$ & $a > 0$ \\
+5 & $t^n e^{-at}u(t)$ & $\frac{n!}{(a + j\omega)^{n+1}}$ & $a > 0$ \\
+6 & $\delta(t)$ & $1$ & \\
+7 & $1$ & $2\pi\delta(\omega)$ & \\
+8 & $e^{j\omega_0 t}$ & $2\pi\delta(\omega - \omega_0)$ & \\
+9 & $\cos \omega_0 t$ & $\pi[\delta(\omega - \omega_0) + \delta(\omega + \omega_0)]$ & \\
+10 & $\sin \omega_0 t$ & $j\pi[\delta(\omega + \omega_0) - \delta(\omega - \omega_0)]$ & \\
+11 & $u(t)$ & $\pi\delta(\omega) + \frac{1}{j\omega}$ & \\
+12 & $\text{sgn } t$ & $\frac{2}{j\omega}$ & \\
+13 & $\cos \omega_0 t \, u(t)$ & $\frac{\pi}{2}[\delta(\omega - \omega_0) + \delta(\omega + \omega_0)] + \frac{j\omega}{\omega_0^2 - \omega^2}$ & \\
+14 & $\sin \omega_0 t \, u(t)$ & $\frac{\pi}{2j}[\delta(\omega - \omega_0) - \delta(\omega + \omega_0)] + \frac{\omega_0}{\omega_0^2 - \omega^2}$ & \\
+15 & $e^{-at} \sin \omega_0 t \, u(t)$ & $\frac{\omega_0}{(a + j\omega)^2 + \omega_0^2}$ & $a > 0$ \\
+16 & $e^{-at} \cos \omega_0 t \, u(t)$ & $\frac{a + j\omega}{(a + j\omega)^2 + \omega_0^2}$ & $a > 0$ \\
+17 & $\text{rect}\left(\frac{t}{\tau}\right)$ & $\tau \, \text{sinc}\left(\frac{\omega\tau}{2}\right)$ & \\
+18 & $\frac{W}{\pi} \, \text{sinc}(Wt)$ & $\text{rect}\left(\frac{\omega}{2W}\right)$ & \\
+19 & $\Delta\left(\frac{t}{\tau}\right)$ & $\frac{\tau}{2} \, \text{sinc}^2\left(\frac{\omega\tau}{4}\right)$ & \\
+20 & $\frac{W}{2\pi} \, \text{sinc}^2\left(\frac{Wt}{2}\right)$ & $\Delta\left(\frac{\omega}{2W}\right)$ & \\
+21 & $\sum_{n=-\infty}^{\infty} \delta(t - nT)$ & $\omega_0 \sum_{k=-\infty}^{\infty} \delta(\omega - k\omega_0)$ & $\omega_0 = \frac{2\pi}{T}$ \\
+22 & $e^{-t^2/2\sigma^2}$ & $\sigma\sqrt{2\pi}e^{-\sigma^2\omega^2/2}$ & \\
+\hline
+\end{tabular}
+\end{table}
+```

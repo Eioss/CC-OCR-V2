@@ -1,0 +1,14 @@
+[
+  {"bbox_2d":[335,25,666,74],"label":"标题"},
+  {"bbox_2d":[304,109,404,151],"label":"客人姓名 Guest Name"},
+  {"bbox_2d":[776,130,921,164],"label":"入住日期 Arrival Date"},
+  {"bbox_2d":[327,206,376,238],"label":"房号 Room No."},
+  {"bbox_2d":[770,217,922,256],"label":"离店日期 Departure Date"},
+  {"bbox_2d":[263,291,432,332],"label":"帐号 Bill No."},
+  {"bbox_2d":[780,314,887,350],"label":"房价 Rate"},
+  {"bbox_2d":[39,440,183,476],"label":"日期 Date"},
+  {"bbox_2d":[307,444,376,485],"label":"摘要 Description"},
+  {"bbox_2d":[547,455,646,490],"label":"金额 Amount(+)"},
+  {"bbox_2d":[601,540,702,573],"label":"总额"},
+  {"bbox_2d":[644,584,715,614],"label":"余额"}
+]

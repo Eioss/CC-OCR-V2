@@ -1,0 +1,44 @@
+\[
+\begin{aligned}
+&\mathcal{L}\left(x,s,\lambda,q_r,Q_r;Z,t_k,p_k,P_k\ \forall k\in[K]\right) \\
+={}& s+\gamma_2 I_m\cdot Q_r+\sqrt{r}\|q_r\|_2
+-Z\left(\sum_{i=1}^I |\Delta_i x_i|+\Delta_0\right) \\
+&-\sum_{k=1}^K
+\begin{bmatrix}
+t_k & p_k^T\\
+p_k & P_k
+\end{bmatrix}
+\cdot
+\begin{bmatrix}
+s-y_k^0(x)-\lambda_k^Tb-y_k(x)^Tu+\lambda_k^TAu
+&
+\frac12\left(q_r+(U\Lambda^\perp B)^T(A^T\lambda_k-y_k(x))\right)^T
+\\
+\frac12\left(q_r+(U\Lambda^\perp B)^T(A^T\lambda_k-y_k(x))\right)
+&
+Q_r
+\end{bmatrix} \\
+={}& \left(1-\sum_{k=1}^K t_k\right)s
+-\sum_{k=1}^K\left(t_k(Au-b)^T+p_k^T(U\Lambda^\perp B)^TA^T\right)\lambda_k
++\sqrt{r}\|q_r\|_2-\sum_{k=1}^K p_k^Tq_r \\
+&+\left(\gamma_2 I_m-\sum_{k=1}^K P_k\right)\cdot Q_r
+-\sum_{i=1}^I\sum_{j=1}^I z_{ij}(a_{ij}x+a_{ij}^0) \\
+&+\sum_{k=1}^K\left(t_ky_k^0(x)+\left(t_ku^T+p_k^T(U\Lambda^\perp B)^T\right)y_k(x)\right) \\
+={}& \left(1-\sum_{k=1}^K t_k\right)s
+-\sum_{k=1}^K\left(t_k(Au-b)^T+p_k^T(U\Lambda^\perp B)^TA^T\right)\lambda_k
++\sqrt{r}\|q_r\|_2-\sum_{k=1}^K p_k^Tq_r \\
+&+\left(\gamma_2 I_m-\sum_{k=1}^K P_k\right)\cdot Q_r
+-\sum_{i=1}^I\sum_{j=1}^I z_{ij}a_{ij}x
+-\sum_{i=1}^I\sum_{j=1}^I z_{ij}a_{ij}^0 \\
+&+\sum_{k=1}^K\left(t_kW_k^0+\left(t_ku^T+p_k^T(U\Lambda^\perp B)^T\right)W_k\right)x \\
+&+\sum_{k=1}^K\left(t_kd_k^0+\left(t_ku^T+p_k^T(U\Lambda^\perp B)^T\right)d_k\right) \\
+={}& \left(1-\sum_{k=1}^K t_k\right)s
+-\sum_{k=1}^K\left(t_k(Au-b)^T+p_k^T(U\Lambda^\perp B)^TA^T\right)\lambda_k
++\sqrt{r}\|q_r\|_2-\sum_{k=1}^K p_k^Tq_r \\
+&+\left(\gamma_2 I_m-\sum_{k=1}^K P_k\right)\cdot Q_r \\
+&+\left(\sum_{k=1}^K\left(t_kW_k^0+\left(t_ku^T+p_k^T(U\Lambda^\perp B)^T\right)W_k\right)
+-\sum_{i=1}^I\sum_{j=1}^I z_{ij}a_{ij}\right)x \\
+&+\sum_{k=1}^K\left(t_kd_k^0+\left(t_ku^T+p_k^T(U\Lambda^\perp B)^T\right)d_k\right)
+-\sum_{i=1}^I\sum_{j=1}^I z_{ij}a_{ij}^0 .
+\end{aligned}
+\]

@@ -1,0 +1,77 @@
+Based on the image provided, here is the transcription of the text and table into LaTeX format.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese character support
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+
+\begin{document}
+
+\noindent 注：依照浙江省实施《中华人民共和国消费者权益保护法》办法（浙江省人民代表大会常务委员会公告第 56 号）第十九条、第二十一条相关条款。
+
+\section*{第十二条 工程款支付方式}
+
+（一）双方同意以《工程主材报价单》、《工程预算清单》为本工程单价及数量的基础约定，结算时以双方确认的实际工程量为准。
+
+\vspace{0.5cm}
+
+（二）双方约定按以下第\underline{\hspace{2cm}}种方式支付工程款：
+
+\vspace{0.5cm}
+
+（1）合同生效后，甲方按下表中的约定直接向乙方支付工程款：
+
+\vspace{0.5cm}
+
+\begin{center}
+\begin{tabular}{|p{8cm}|p{4.5cm}|c|c|}
+\hline
+\textbf{工程进度} & \textbf{付款时间} & \textbf{付款比例} & \textbf{金额} \\
+\hline
+对预算、设计方案认可 & 合同签订当日 & \underline{\hspace{1cm}}\% & \underline{\hspace{1cm}}元 \\
+\hline
+施工过程中 & 水、电、管线隐蔽工程通过验收 & \underline{\hspace{1cm}}\% & \underline{\hspace{1cm}}元 \\
+\hline
+工程过半（已完成石材或瓷等饰面板的镶贴、门窗的安装瓦、木工工序基本完成） & 油漆工进场时 & \underline{\hspace{1cm}}\% & \underline{\hspace{1cm}}元 \\
+\hline
+竣工验收 & 验收合格\underline{\hspace{1cm}}天内 & \underline{\hspace{1cm}}\% & \underline{\hspace{1cm}}元 \\
+\hline
+增加工程项目 & 签订工程项目变更单时 & \underline{\hspace{1cm}}\% & \underline{\hspace{1cm}}元 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+（2）其他支付方式：
+
+\underline{\hspace{8cm}}
+
+\vspace{0.5cm}
+
+（三）工程验收合格后，乙方应向甲方提出工程款结算单，甲方接到工程款结算单后\underline{\hspace{1.5cm}}日内如未有异议，即视为同意，并向乙方结清工程余款。
+
+\vspace{0.5cm}
+
+（四）工程结算：详见附件八《工程结算单（决算）》。
+
+\section*{第十三条 违约责任}
+
+（一）因乙方原因致使工程质量不符合约定的，甲方有权要求乙方在合理期限内无偿修理或者返工。经过修理或者返工后，造成逾期交付的，乙方应当承担违约责任。
+
+\vspace{0.5cm}
+
+（二）因乙方原因造成工程逾期交付的，每逾期一天，乙方应赔偿给甲方\underline{\hspace{1.5cm}}元。
+
+\vspace{0.5cm}
+
+（三）乙方擅自拆改房屋承重结构或共用管线和设施，由此发生的损失或事故（包括罚款），由乙方负责并承担责任。
+
+\end{document}
+```

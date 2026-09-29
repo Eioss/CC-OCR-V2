@@ -1,0 +1,7 @@
+The text '0.00' appears in two locations on this receipt:
+
+1. In the Change row: (590, 1226, 658, 1244)
+
+2. In the GST Summary section under Tax(RM): (582, 1370, 651, 1387)
+
+There's also '0.00' in the GST @0% line: (583, 1075, 654, 1097)

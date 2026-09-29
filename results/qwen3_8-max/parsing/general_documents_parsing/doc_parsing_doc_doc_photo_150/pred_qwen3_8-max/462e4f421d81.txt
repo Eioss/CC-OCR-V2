@@ -1,0 +1,51 @@
+Of course. Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent Candidate Statement of Results
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{4em}}ll@{}}
+\textbf{Season:} & June Exams (Summer) 2019 & \textbf{Series:} & (All) \\
+\textbf{Name:} & \rule{4cm}{0.4pt} (Alex) & \textbf{Year:} & 12 \\
+\textbf{Candidate Number:} & 4316 & \textbf{Reg. Group:} & 12TAM \\
+\textbf{UCI:} & \rule{4cm}{0.4pt} & \textbf{ULN:} & \\
+\end{tabular}
+
+\vspace{2em}
+
+\noindent\textbf{Exam Results}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{lllllccccc}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{\begin{tabular}[c]{@{}l@{}}Element\\ Code\end{tabular}} & \textbf{Title} & & \textbf{Grd1} & \textbf{Grd2} & \textbf{Mark Equiv} & \textbf{End1} & \textbf{End2} & \textbf{Points} \\
+\midrule
+OCR & FSMQ/A & 6993 & Maths: Additional Mathematics & & A & & & & & \\
+CIE & GCSE/9FC & 0976BY & Geography Opt by & & 9 & & & & & \\
+EDEXL/GC & GCSE/9FC & 4HI1 & History & & 9 & & 109 & & & \\
+EDEXL/GC & GCSE/9FC & 4MA1H & Mathematics A Option H & & 9 & & 176 & & & \\
+AQA & GCSE/9FC & 8461H & Biology Tier H & & 9 & & & & & \\
+AQA & GCSE/9FC & 8462H & Chemistry Tier H & & 9 & & & & & \\
+AQA & GCSE/9FC & 8463H & Physics Tier H & & 9 & & & & & \\
+AQA & GCSE/9FC & 8658H & French Tier H & & 9 & & & & & \\
+AQA & GCSE/9FC & 8700 & English Language & & 9 & & & D & & \\
+AQA & GCSE/9FC & 8702 & English Literature & & 9 & & & & & \\
+OCR & GCSE/9FC & J282F & Latin Option F & & 8 & & 165 & & & \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

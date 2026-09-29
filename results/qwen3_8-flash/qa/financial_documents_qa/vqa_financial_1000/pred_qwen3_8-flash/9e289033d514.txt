@@ -1,0 +1,13 @@
+Based on the provided image of the invoice (the left-hand document), we can find the subtotal by looking at the financial summary section.
+
+The relevant line items are:
+- **MERCHANDISE**: 35.00
+- **HANDLING**: 2.00
+- **SUB TOTAL**: This is the sum of Merchandise and Handling.
+
+Therefore, the calculation is:
+$35.00 + $2.00 = $37.00
+
+This value is explicitly listed on the invoice as "SUR TOTAL" (which is a typo for SUB TOTAL).
+
+**Answer:** The subtotal of the invoice is **$37.00**.

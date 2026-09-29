@@ -1,0 +1,41 @@
+\[
+\begin{aligned}
+E_j(\Delta\vec{\nu})={}&(\|\hat H\|^2)_j\,\vec{\nu}
++\|\hat H\|^2\sum_{r=n+1}^{m}\sum_{\ell=1}^{n}\epsilon_\ell h_{\ell j}^{r}\,
+X\wedge e_1\wedge\cdots\wedge e_{\ell-1}\wedge e_r\wedge e_{\ell+1}\wedge\cdots\wedge e_n \\
+&+2n\,D_{e_j}\hat H\wedge e_1\wedge\cdots\wedge e_n
++n\sum_{\ell=1}^{n}\sum_{r=n+1}^{m}\epsilon_\ell h_{\ell j}^{r}\,
+\hat H\wedge e_1\wedge\cdots\wedge e_{\ell-1}\wedge e_r\wedge e_{\ell+1}\wedge\cdots\wedge e_n \\
+&-n\sum_{k=1}^{n}\epsilon_k\delta_{jk}\,
+\hat H\wedge e_1\wedge\cdots\wedge e_{k-1}\wedge X\wedge e_{k+1}\wedge\cdots\wedge e_n \\
+&-n\sum_{\substack{j,k=1\\ j\ne k}}^{n}\epsilon_k\,\omega_{jk}(e_j)\,
+X\wedge e_1\wedge\cdots\wedge e_{j-1}\wedge e_k\wedge e_{j+1}\wedge\cdots\wedge D_{e_k}\hat H\wedge\cdots\wedge e_n \\
+&-n\sum_{\substack{j,k=1\\ j\ne k}}^{n}\sum_{r=n+1}^{m}\epsilon_k h_{jk}^{r}\,
+X\wedge e_1\wedge\cdots\wedge e_{j-1}\wedge e_r\wedge e_{j+1}\wedge\cdots\wedge D_{e_k}\hat H\wedge\cdots\wedge e_n \\
+&+n\sum_{k=1}^{n}\epsilon_k\,
+(D_{e_k}\hat H)(e_j,e_k)\,
+X\wedge e_1\wedge\cdots\wedge e_n \\
+&-n\sum_{m=1}^{n}X\wedge e_1\wedge\cdots\wedge D_{e_m}D_{e_m}\hat H\wedge\cdots\wedge e_n \\
+&+\sum_{\substack{r,s=n+1\\ r<s}}^{m}
+\sum_{\substack{j,k=1\\ j\ne k}}^{n}
+\epsilon_r\epsilon_s\epsilon_j\epsilon_k
+\bigl((R^{D}_{sjk})_j+R^{D}_{sjk}\omega_{jk}(e_j)\bigr)\,
+X\wedge e_1\wedge\cdots\wedge e_r\wedge\cdots\wedge e_s\wedge\cdots\wedge e_n \\
+&+\sum_{\substack{r,s=n+1\\ r<s}}^{m}
+\sum_{\substack{j,k=1\\ j\ne k}}^{n}
+\epsilon_r\epsilon_s R^{D}_{sjk}
+\sum_{\ell=1}^{n}\epsilon_\ell\omega_{j\ell}(e_j)\,
+X\wedge e_1\wedge\cdots\wedge e_\ell\wedge\cdots\wedge e_r\wedge\cdots\wedge e_s\wedge\cdots\wedge e_n \\
+&+\sum_{\substack{r,s=n+1\\ r<s}}^{m}
+\sum_{\substack{j,k=1\\ j\ne k}}^{n}
+\epsilon_r\epsilon_s R^{D}_{sjk}
+\sum_{\substack{\ell=n+1\\ \ell\ne r,s}}^{m}
+\epsilon_\ell h_{j\ell}^{r}\,
+X\wedge e_1\wedge\cdots\wedge e_\ell\wedge\cdots\wedge e_r\wedge\cdots\wedge e_s\wedge\cdots\wedge e_n \\
+&-\sum_{\substack{r,s=n+1\\ r<s}}^{m}
+\sum_{\substack{j,k=1\\ j\ne k}}^{n}
+\epsilon_r\epsilon_s R^{D}_{sjk}
+\sum_{\ell=1}^{n}\epsilon_\ell\omega_{\ell k}(e_j)\,
+X\wedge e_1\wedge\cdots\wedge e_r\wedge\cdots\wedge e_\ell\wedge\cdots\wedge e_s\wedge\cdots\wedge e_n .
+\end{aligned}
+\]

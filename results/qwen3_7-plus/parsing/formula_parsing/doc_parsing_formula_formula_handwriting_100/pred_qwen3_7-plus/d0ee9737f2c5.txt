@@ -1,0 +1,17 @@
+$$\begin{array} { r l } { { F _ { t e } ( \xi _ { r n t } ) = F _ { t e } ( \xi _ { 0 } ) + \int _ { 0 } ^ { t } { r _ { n } L _ { \nu M } ^ { u _ { n } } F _ { t e } ( \xi _ { r n r } ) d r } + M _ { t } } } \\ { { ~ } } & { { \le F _ { t e } ( \xi _ { 0 } ) + \int _ { 0 } ^ { t } { 2 r _ { n } \sum _ { x \in E _ { n } } { \pi ^ { ( n ) } ( x ) \int _ { S } { f _ { t e } ( \sigma , \xi _ { r n r } ( x ) ) d \mu _ { n } ( \sigma ) } } } d r + M _ { t } . } } \end{array}$$
+
+ $$P ( r , t ) = \frac { N } { V } \sum _ { j } d _ { e g } ^ { * } \langle \sigma _ { g e } \rangle e ^ { i ( k _ { j } z - \nu _ { j } t ) } ,$$
+
+ $$u = - { \frac { \partial \Psi } { \partial z } } = u _ { 0 } { \frac { H _ { 1 } } { H _ { 1 } - h } } , \quad w = { \frac { \partial \Psi } { \partial x } } = u _ { 0 } H _ { 1 } { \frac { d h } { d x } } { \frac { H _ { 1 } - z } { ( H _ { 1 } - h ) ^ { 2 } } } ,$$
+
+ $$\frac { d h } { d x } = - h _ { 0 } \left[ \beta \cos ^ { 2 } ( \alpha x ) \sin ( 2 \beta x ) + \alpha \cos ^ { 2 } ( \beta x ) \sin ( 2 \alpha x ) \right] .$$
+
+ $$| \Psi \rangle _ { A B } = | \psi \rangle _ { A } \otimes | \phi \rangle _ { B } = | \psi \rangle _ { A } \otimes { \Big ( } \cos { \frac { \theta } { 2 } } | 0 \rangle _ { B } + \sin { \frac { \theta } { 2 } } | 1 \rangle _ { B } { \Big ) } ,$$
+
+ $$\delta \sum _ { k = 0 } ^ { n } a _ { k } | | x _ { k } - T ( x _ { k } | | ^ { 2 } \leq | | x _ { 0 } - T ( x _ { 0 } | | ^ { 2 } - | | x _ { n + 1 } - T ( x _ { n + 1 } ) | | ^ { 2 } \leq | | x _ { 0 } - T ( x _ { 0 } ) | | ^ { 2 } ,$$
+
+ $$\operatorname* { m i n } _ { \theta } T r ( Z ^ { T } L Z ) { \mathrm { ~ s u b j e c t ~ t o ~ } } Z ^ { T } D Z = I$$
+
+ $$\begin{array} { r l } { \bigg \vert \displaystyle \sum _ { | h | \geqslant H } a _ { h , H } \displaystyle \sum _ { n \sim \delta N } e ^ { 2 i \pi t x ( n + \frac { 1 } { 2 } ) h } \bigg \vert } & { \leqslant c \displaystyle \sum _ { | h | \geqslant H } H ( N h ^ { - \frac { 3 } { 2 } } L ^ { - \frac { 1 } { 2 } } + h ^ { - \frac { 5 } { 2 } } L ^ { \frac { 1 } { 2 } } ) } \\ & { \leqslant c ( N H ^ { \frac { 1 } { 2 } } L ^ { - \frac { 1 } { 2 } } + H ^ { - \frac { 1 } { 2 } } L ^ { \frac { 1 } { 2 } } ) . } \end{array}$$
+
+ $$( \tilde { \nabla } _ { \phi ^ { 2 } w } \tilde { R } ) ( \phi ^ { 2 } X , \phi ^ { 2 } Y ) \phi ^ { 2 } Z = ( \tilde { \nabla } _ { w } \tilde { R } ) ( \phi ^ { 2 } X , \phi ^ { 2 } Y ) \phi ^ { 2 } Z .$$

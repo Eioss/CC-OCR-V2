@@ -1,0 +1,11 @@
+$$\operatorname* { l i m } _ { L \rightarrow \infty } \frac { c _ { n ; L } ^ { ( 1 ) } ( \frac { 1 } { 2 } | z | ) } { [ n _ { L } ( \frac { 1 } { 2 } | z | ) ] ^ { 1 / 2 } } \sim e ^ { - \frac { 1 } { 2 } | z | ^ { 2 } } \frac { z ^ { n } } { \sqrt { n ! } } , z = e ^ { i \phi } | z | ,$$
+
+$$A C < K _ { 1 } ^ { * } x \otimes K _ { 2 } ^ { * } y , K _ { 1 } ^ { * } x \otimes K _ { 2 } ^ { * } y > _ { A \otimes B } \leq \sum _ { i \in I , j \in J } < \Lambda _ { i } x \otimes \Gamma _ { j } y , \Lambda _ { i } x \otimes \Gamma _ { j } y > _ { A \otimes B }$$
+
+$$\leq B D < x \otimes y , x \otimes y > _ { A \otimes B } , \forall x \in H , \forall y \in R .$$
+
+$$\left\{ \begin{array} { l } { { \frac { w _ { x } ^ { 2 } } { 2 } + \frac { w _ { y } ^ { 2 } } { 2 } + W ( x , y ) = \ln m + \overline { { { H } } } , } } \\ { { - ( \theta ( w _ { x } ) ) _ { x } - ( \theta ( w _ { y } ) ) _ { y } = 0 , } } \end{array} \right.$$
+
+$$\sum _ { A ( w , c ^ { \prime } ) \in \mathcal { D } ( v , c ) } ( 2 p ) ^ { t _ { w } } \leq p d _ { g } \exp ( 8 / 7 2 ) / 2 \delta = \exp ( - 8 / 7 2 ) t _ { 0 } \exp ( 8 / 7 2 ) / 2 = t _ { 0 } / 2 .$$
+
+$$\Gamma \left( \frac { k + 1 } { 2 } \right) \leq \sqrt { 2 \pi } \cdot e ^ { \frac { 1 } { 1 2 } } \cdot \left( \frac { k } { 2 e } \right) ^ { k / 2 }$$

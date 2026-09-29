@@ -1,0 +1,24 @@
+```json
+[
+    {"bbox_2d": [676, 94, 825, 122], "label": "No"},
+    {"bbox_2d": [637, 183, 723, 201], "label": "人数(Pax)"},
+    {"bbox_2d": [884, 415, 938, 437], "label": "余额 Balance"},
+    {"bbox_2d": [635, 122, 804, 140], "label": "到日(Arr)"},
+    {"bbox_2d": [186, 972, 434, 993], "label": "地址"},
+    {"bbox_2d": [313, 129, 352, 147], "label": "姓名(Name)"},
+    {"bbox_2d": [518, 965, 618, 979], "label": "总机电话"},
+    {"bbox_2d": [319, 215, 362, 230], "label": "房价(Room Rate)"},
+    {"bbox_2d": [318, 151, 360, 167], "label": "房号(Room No)"},
+    {"bbox_2d": [319, 170, 431, 187], "label": "操作号(Operator)"},
+    {"bbox_2d": [670, 209, 795, 226], "label": "时间(Time)"},
+    {"bbox_2d": [319, 36, 670, 73], "label": "标题"},
+    {"bbox_2d": [636, 142, 804, 159], "label": "离日(Dep)"},
+    {"bbox_2d": [637, 164, 647, 179], "label": "账号(Acent No)"},
+    {"bbox_2d": [320, 190, 386, 209], "label": "金额 AMOUNT"},
+    {"bbox_2d": [779, 314, 811, 330], "label": "页数(Page)"},
+    {"bbox_2d": [780, 339, 812, 356], "label": "项目 DESCRIPTION"},
+    {"bbox_2d": [717, 393, 749, 408], "label": "项目 DESCRIPTION"},
+    {"bbox_2d": [202, 315, 692, 342], "label": "项目 DESCRIPTION"},
+    {"bbox_2d": [203, 341, 694, 368], "label": "项目 DESCRIPTION"}
+]
+```

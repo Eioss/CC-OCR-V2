@@ -1,0 +1,50 @@
+\[
+\begin{aligned}
+\widehat{\mathbb E}_t\!\left[\left(\int_t^T |Z_s|^2\,ds\right)^{a/2}\right]
+&\le C\left\{1+\widehat{\mathbb E}_t\!\left[\sup_{s\in[t,T]}|Y_s|^a\right]
++\left(\widehat{\mathbb E}_t\!\left[\sup_{s\in[t,T]}|Y_s|^a\right]\right)^{1/2}
+\left(\widehat{\mathbb E}_t\!\left[\left(\int_t^T h_s\,ds\right)^a\right]\right)^{1/2}\right\},\\
+\widehat{\mathbb E}_t\!\left[|A_T-A_t|^a\right]
+&\le C\left\{1+\widehat{\mathbb E}_t\!\left[\sup_{s\in[t,T]}|Y_s|^a\right]
++\widehat{\mathbb E}_t\!\left[\left(\int_t^T h_s\,ds\right)^a\right]\right\}.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\mathbb P\!\left(\overline X_{e(q)}\in dx\right)
+&=\overline a(p,s)^{T}x\,\overline v(s,x)\,dx,\\
+\mathbb P\!\left(-\underline X_{e(q)}\in dx\right)
+&=\overline a(\widehat p,\widehat s)^{T}x\,\overline v(\widehat s,x)\,dx.
+\end{aligned}
+\]
+
+\[
+\sum_{\substack{0\le h<k\le N\\(h,k)=1}}
+\ \sum_{2a+2b+2c=r}
+k(a,b,c)(kT)^a\frac{1}{k\sqrt n}
+\left(\frac nk\right)^{1/2-a-2c}
+\ll_{r,T}
+\sum_{k\le N}\ \sum_{2a+2b+2c=r}
+n^{1/2-a-2c-1/2}k^{a-1/2-a-2c}.
+\]
+
+\[
+\delta_+=\delta_0\vee t:\Gamma_+\longrightarrow\Delta
+\]
+
+\[
+X_t=x+Y_t+\int_0^t u(s,X_s)\,ds,\qquad t\in[0,T].
+\]
+
+\[
+\begin{aligned}
+&\int_{\Omega}
+\bigl[A(x)\cdot\nabla T_j(u_n)\bigr]\cdot\nabla\varphi\,S(u_n)\,dx
++\int_{\Omega}
+\bigl[A(x)\cdot\nabla T_j(u_n)\bigr]\cdot\nabla T_j(u_n)\,S'(u_n)\varphi\,dx\\
+&\qquad=
+\int_{\Omega}H(x,u_n,\nabla u_n)\varphi\,dx
++\int_{\Omega}C\,T_n(f)S(u_n)\varphi\,dx.
+\end{aligned}
+\]

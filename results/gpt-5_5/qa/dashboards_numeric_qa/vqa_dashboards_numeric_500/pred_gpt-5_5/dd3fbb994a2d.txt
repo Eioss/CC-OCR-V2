@@ -1,0 +1,5 @@
+According to the table, **VMware vSphere** supports the highest number of guest machines:
+
+**Max guests per host: 512**
+
+This applies to the VMware editions shown: **Standard, Enterprise, and Enterprise Plus**.

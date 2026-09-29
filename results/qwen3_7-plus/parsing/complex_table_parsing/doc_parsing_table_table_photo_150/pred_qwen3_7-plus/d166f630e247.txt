@@ -1,0 +1,122 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transaction Receipt</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+        .receipt-container {
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 750px;
+            width: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+        th {
+            font-weight: normal;
+            padding-bottom: 10px;
+            vertical-align: bottom;
+            color: #333;
+        }
+        td {
+            padding: 12px 5px;
+            vertical-align: top;
+            color: #222;
+        }
+        .col-id {
+            width: 20%;
+        }
+        .col-details {
+            width: 45%;
+        }
+        .col-amount {
+            width: 35%;
+            text-align: right;
+        }
+        .dotted-line {
+            border-top: 2px dotted #aaa;
+            height: 0;
+            margin: 5px 0 15px 0;
+        }
+        .sub-text {
+            display: block;
+            margin-top: 4px;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+<div class="receipt-container">
+    <table>
+        <thead>
+            <tr>
+                <th class="col-id">交易类型<br>NAME</th>
+                <th class="col-details">卡号<br>CARD NUMBER</th>
+                <th class="col-amount">授权码<br>AUTH NO</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="3"><div class="dotted-line"></div></td>
+            </tr>
+            <tr>
+                <td>000121<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-11 14:38:25</td>
+                <td class="col-amount">18124.00</td>
+            </tr>
+            <tr>
+                <td>000120<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-11 14:24:29</td>
+                <td class="col-amount">4978.00</td>
+            </tr>
+            <tr>
+                <td>000118<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-10 14:30:57</td>
+                <td class="col-amount">14034.00</td>
+            </tr>
+            <tr>
+                <td>000117<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-10 14:24:22</td>
+                <td class="col-amount">13430.00</td>
+            </tr>
+            <tr>
+                <td>000116<br><span class="sub-text">消费</span></td>
+                <td>2022-03-09 15:50:36<br><span class="sub-text">622848*********7172</span></td>
+                <td class="col-amount">7462.00</td>
+            </tr>
+            <tr>
+                <td>000115<br><span class="sub-text">消费</span></td>
+                <td>2022-03-09 15:49:39<br><span class="sub-text">622848*********7172</span></td>
+                <td class="col-amount">7462.00</td>
+            </tr>
+            <tr>
+                <td>000113<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-09 09:43:17</td>
+                <td class="col-amount">13505.00</td>
+            </tr>
+            <tr>
+                <td>000112<br><span class="sub-text">POS通消费</span></td>
+                <td>2022-03-09 09:02:38</td>
+                <td class="col-amount">4978.00</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
+```

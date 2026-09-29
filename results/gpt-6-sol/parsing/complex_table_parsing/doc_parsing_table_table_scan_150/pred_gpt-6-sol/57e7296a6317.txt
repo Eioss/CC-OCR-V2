@@ -1,0 +1,89 @@
+<h2>山南市建设工程消防设计审查备案表</h2>
+
+<p>工程名称：________________（印章）　　　　　　　申请日期：____年____月____日</p>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>建设单位</td><td></td>
+    <td>联系人</td><td></td>
+    <td>联系电话</td><td></td>
+  </tr>
+  <tr>
+    <td>工程地址</td><td></td>
+    <td>类别</td>
+    <td colspan="3">□新建　□扩建<br>□改建（装饰装修、改变用途、建筑保温）</td>
+  </tr>
+  <tr>
+    <td>建设工程规划许可文件（依法需办理的）</td><td></td>
+    <td colspan="2">临时性建筑批准文件（依法需办理的）</td><td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>特殊消防设计</td><td>□是　□否</td>
+    <td colspan="2">建筑高度大于250m的建筑采取加强性消防设计措施</td>
+    <td colspan="2">□是　□否</td>
+  </tr>
+  <tr>
+    <td>工程投资额（万元）</td><td></td>
+    <td colspan="2">总建筑面积（m²）</td><td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="2">特殊建设工程情形（详见背面）</td>
+    <td colspan="4">□（一） □（二） □（三） □（四） □（五） □（六）<br>□（七） □（八） □（九） □（十） □（十一） □（十二）</td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>单位类别</td><td>单位名称</td><td>资质等级</td>
+    <td>法定代表人（身份证号）</td><td>项目负责人（身份证号）</td>
+    <td>联系电话（移动电话和座机）</td>
+  </tr>
+  <tr><td>建设单位</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>设计单位</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>技术服务机构（审图）</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td rowspan="2">建筑名称</td><td rowspan="2">结构类型</td>
+    <td rowspan="2">使用性质</td><td rowspan="2">耐火等级</td>
+    <td colspan="2">层数</td><td rowspan="2">高度（m）</td>
+    <td rowspan="2">长度（m）</td><td rowspan="2">占地面积（m²）</td>
+    <td colspan="2">建筑面积（m²）</td>
+  </tr>
+  <tr><td>地上</td><td>地下</td><td>地上</td><td>地下</td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td rowspan="2">□装饰装修</td><td>装修部位</td>
+    <td colspan="3">□顶棚　□墙面　□地面　□隔断　□固定家具　□装饰织物　□其他</td>
+  </tr>
+  <tr>
+    <td>装修面积（m²）</td><td></td><td>装修所在层数</td><td></td>
+  </tr>
+  <tr>
+    <td>□改变用途</td><td>使用性质</td><td></td><td>原有用途</td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">□建筑保温</td><td>材料类别</td>
+    <td>□A　□B1　□B2</td><td>保温所在层数</td><td></td>
+  </tr>
+  <tr>
+    <td>保温部位</td><td></td><td>保温材料</td><td></td>
+  </tr>
+  <tr>
+    <td>消防设施<br>及其他</td>
+    <td colspan="4">
+      □室内消火栓系统　□室外消火栓系统　□火灾自动报警系统　□自动喷水灭火系统<br>
+      □气体灭火系统　□泡沫灭火系统　□其他灭火系统　□疏散指示标志<br>
+      □消防应急照明　□防烟排烟系统　□消防电梯　□灭火器　□其他
+    </td>
+  </tr>
+  <tr><td>工程简要说明</td><td colspan="4"></td></tr>
+</table>

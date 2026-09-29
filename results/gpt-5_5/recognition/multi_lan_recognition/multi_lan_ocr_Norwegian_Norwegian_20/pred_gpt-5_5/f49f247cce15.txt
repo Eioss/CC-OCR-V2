@@ -1,0 +1,11 @@
+2. Data fra administrative registre.
+
+2.1 Generelt om administrative registre
+
+Administrative registre er opprettet og vedlikeholdt av ulike myndigheter for administrative formål. I denne fremstillingen vil vi oppfatte et register som en systematisk samling av informasjon om enheter, hvor opplysninger om hver enhet tilsvarer informasjon om forekomsten av egenskaper ved et sett av enheter (f.eks. ledige som melder seg på arbeidskontorene).
+
+I denne rapporten vil administrative registre defineres som registre i offentlige etater. Administrative registre inneholder opplysninger om objekter innenfor et avgrenset område som oppdateres løpende, ved at nye opplysninger registreres innenfor den aktuelle avgrensing av området dekket av registeret. For registre som forvaltes av skatte- og trygdeetaten, finner en ofte helt uttømmende registre innen dette område.
+
+Administrative registre skal omfatte hele populasjoner av personer/enheter som kommer inn under forskriftene for registrering i registrene. Eksempler på administrative registre er folkeregisteret, skatteregisteret, MVA-registeret, utdanningsregisteret i SSB, arbeidstaker-/arbeidsgiverregisteret etc. Noen administrative registre omfatter bare en ganske liten del av populasjonen. I vår sammenheng er det f.eks. mulig fra SOFA-systemet å identifisere mange undergrupper. I denne sammenheng kan en skille mellom arbeidsmarkedstiltak, arbeidssøkere med og uten dagpenger, og sosialhjelpsmottakere. Når administrative registre dekker hele populasjonen, har vi også muligheter for å konstruere detaljerte sammenligningsgrupper fra populasjonen som ikke har vært involvert i den spesielle ordningen som registeret inneholder (som ikke er “behandlet”), eller man kan ha vært i kontakt med arbeidskontorene. Register kan på denne måten, for den enkelte søker, også være et gode som vedkommende mottar.
+
+Med denne er det opprettet stadig flere registre med felles identifikasjon, navn, adresse kan kobles sammen. Dette gir grunnlag for mange ulike koblingsvariabler sammen slik at nye variabler kan konstrueres.

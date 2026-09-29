@@ -1,0 +1,49 @@
+```html
+<table>
+  <tr>
+    <td>Gauge Theory</td>
+    <td>Fundamental Forces</td>
+    <td>Structure Group</td>
+  </tr>
+  <tr>
+    <td>Quantum Electrodynamics<br>(QED)</td>
+    <td>Electromagnetism</td>
+    <td>U(1)</td>
+  </tr>
+  <tr>
+    <td>Electroweak Theory<br>(Glashow-Salam-Weinberg)</td>
+    <td>Electromagnetism<br>and weak force</td>
+    <td>SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Quantum Chromodynamics<br>(QCD)</td>
+    <td>Strong force</td>
+    <td>SU(3)</td>
+  </tr>
+  <tr>
+    <td>Standard Model</td>
+    <td>Strong, weak forces<br>and electromagnetism</td>
+    <td>SU(3) × SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Georgi-Glashow Grand<br>Unified Theory (GUT1)</td>
+    <td>Strong, weak forces<br>and electromagnetism</td>
+    <td>SU(5)</td>
+  </tr>
+  <tr>
+    <td>Fritzsch-Georgi-Minkowski<br>Grand Unified Theory (GUT2)</td>
+    <td>Strong, weak forces<br>and electromagnetism</td>
+    <td>SO(10)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified<br>Theory (GUT3)</td>
+    <td>Strong, weak forces<br>and electromagnetism</td>
+    <td>E(6)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified<br>Theory (GUT4)</td>
+    <td>Strong, weak forces<br>and electromagnetism</td>
+    <td>E(8)</td>
+  </tr>
+</table>
+```

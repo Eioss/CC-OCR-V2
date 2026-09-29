@@ -1,0 +1,43 @@
+I'll transcribe the text from this image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+
+\begin{document}
+
+\section*{Cloze Passage}
+
+I, for one, am far from ready to use online courses for my learning. Don't get me \underline{\quad 1 \quad}. I am very happy about all the communication and learning opportunities the courses have given us. But for me those opportunities should not be used to replace classroom activities. In other words, they are only \underline{\quad 2 \quad} to help me learn what has already been \underline{\quad 3 \quad} in the classroom.
+
+I love the classroom. I love having classmates. There are forty students in my class right now, and I think it's great. I even love having classmates who are better than me. And, let's \underline{\quad 4 \quad} forget the smell of ink on paper, the sound of chalk on a blackboard, the hardness of a wooden bench or the heat inside the classroom in early September. I love it all. But most of \underline{\quad 5 \quad}, I love having a teacher---a ``real live'' teacher. I get excited when I am in the classroom with a good teacher. I learn in a way that has been proven to work. I am given insight not only \underline{\quad 6 \quad} a certain subject, but also into the world.
+
+What makes having a classroom teacher so \underline{\quad 7 \quad}? A good teacher pushes me to \underline{\quad 8 \quad}. A good teacher rewards me with praise when I have done well and stays \underline{\quad 9 \quad} and gives me hope when I am down. I don't believe that a teacher using a virtual classroom can \underline{\quad 10 \quad} me in the same way. A teacher communicating \underline{\quad 11 \quad} the Internet cannot share the same type of \underline{\quad 12 \quad} a classroom teacher and student share.
+
+I guess that I am lucky to have had \underline{\quad 13 \quad} to so many excellent classroom teachers. I will never forget the kindness and \underline{\quad 14 \quad} that those teachers have shown me. Their examples make it hard for me to accept a way of learning that \underline{\quad 15 \quad} include them. You can call me ``old-fashioned'', but as long as there is a classroom, that's where I will be learning.
+
+\section*{Options}
+
+\begin{enumerate}[label=\arabic*.]
+\item A. unhappy \hfill B. wrong \hfill C. troubled
+\item A. tools \hfill B. terms \hfill C. directions
+\item A. served \hfill B. offered \hfill C. appeared
+\item A. don't \hfill B. not \hfill C. always
+\item A. everything \hfill B. anything \hfill C. all
+\item A. at \hfill B. to \hfill C. into
+\item A. virtual \hfill B. special \hfill C. favorite
+\item A. succeed \hfill B. increase \hfill C. accept
+\item A. positive \hfill B. negative \hfill C. favorite
+\item A. stay out with \hfill B. reach out to \hfill C. go out with
+\item A. through \hfill B. to \hfill C. in
+\item A. relationship \hfill B. situation \hfill C. relative
+\item A. path \hfill B. access \hfill C. entrance
+\item A. commitment \hfill B. assignment \hfill C. companion
+\item A. does \hfill B. does not \hfill C. may
+\end{enumerate}
+
+\end{document}
+```
+
+**Note:** The image shows handwritten answers filled in for some blanks: 1=A (unhappy/"wrong" area), 2, 3, 4, 5, 6 appear to have answers written in. Based on the visible handwritten numbers in the blanks (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15), these appear to be just the question numbers rather than answer choices. I've transcribed the blanks as numbered placeholders accordingly.

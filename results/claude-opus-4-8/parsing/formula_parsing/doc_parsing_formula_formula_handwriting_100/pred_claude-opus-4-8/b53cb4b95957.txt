@@ -1,0 +1,9 @@
+$$\tilde{Q}(x) := \frac{1}{\kappa}\Omega, \quad \tilde{T} := T, \quad \tilde{H} = \tilde{h}T, \quad \tilde{h} = \frac{1}{\kappa}\sum_{j=1}^{m} w_j - z_1.$$
+
+$$\mathcal{L}(p_n; m_1^n) + \mathcal{L}(m_1^n, m_2^n) + \mathcal{L}(m_2^n; q_n) = \mathcal{L}(m_n; q_n)$$
+
+$$I^{m,-}(l+1) = \inf\left\{I^{m,-}(l) \leq i \leq Xm \,\big|\, L_i^{m,-} < (\ln n)^3\right\}$$
+
+$$i\hbar\partial_t\psi(x) + \frac{\hbar^2}{2m}\partial^2\partial_x\psi(x) - V(x)\psi(x) = \int d^3y\, K(x,y)\psi(y),$$
+
+$$\int_{B_r(0)} |r(w)|^2\,dy = \lim_{n\to\infty}\int_{B_r(0)} |r(w_n)|^2\,dy = \lim_{n\to\infty}\int_{B_r(y_n)} |r(u_n)|^2\,dy \geq \rho > 0,$$

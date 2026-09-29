@@ -1,0 +1,43 @@
+<table>
+  <tr>
+    <td rowspan="2">Model</td>
+    <td colspan="2">Pair sentence</td>
+    <td colspan="2">Structured prediction</td>
+    <td colspan="3">Question answering</td>
+  </tr>
+  <tr>
+    <td>XNLI</td>
+    <td>PAWS-X</td>
+    <td>POS</td>
+    <td>NER</td>
+    <td>XQuAD</td>
+    <td>MLQA</td>
+    <td>TyDiQA-GoldP</td>
+  </tr>
+  <tr>
+    <td>Metrics</td>
+    <td>Acc.</td>
+    <td>Acc.</td>
+    <td>F1</td>
+    <td>F1</td>
+    <td>F1 / EM</td>
+    <td>F1 / EM</td>
+    <td>F1 / EM</td>
+  </tr>
+  <tr><td colspan="8">Translate-train-all</td></tr>
+  <tr>
+    <td>Filter</td>
+    <td>83.9</td><td>91.4</td><td>76.2</td><td>67.7</td>
+    <td>82.4 / 68.0</td><td>76.2 / 57.7</td><td>68.3 / 50.9</td>
+  </tr>
+  <tr>
+    <td>VeCo</td>
+    <td>83.0</td><td>91.1</td><td>75.1</td><td>65.7</td>
+    <td>79.9 / 66.3</td><td>73.1 / 54.9</td><td>75.0 / 58.9</td>
+  </tr>
+  <tr>
+    <td>HICTL</td>
+    <td>84.7</td><td>92.8</td><td>77.2</td><td>69.0</td>
+    <td>82.9 / 67.4</td><td>74.8 / 57.3</td><td>71.1 / 53.2</td>
+  </tr>
+</table>

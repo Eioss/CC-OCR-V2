@@ -1,0 +1,21 @@
+$$\beta_w^* \left\{ \frac{[E(\tau)-\gamma]^2[E(\tau+\eta)]-\rho^2 E[\tau(1-\tau)]E(1-\tau)E(\tau+\eta)(1-\tau)E(\tau)}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right.$$
+
+$$+ \frac{\{\rho E[\tau^2]E[\tau+\eta](1-\tau)-\rho E[\tau(1-\tau)]E[\tau(\tau+\eta)](1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right\}$$
+
+$$\beta_g^* \left\{ \frac{[\rho E(\tau)E(1-\tau)\gamma]-\rho E[\tau(1-\tau)]E(\tau-\eta)](1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right.$$
+
+$$= \beta_w^* \left\{ \frac{[E(\tau)E(1-\tau)\gamma]-\rho E[\tau(1-\tau)]E(\tau-\eta)](1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right.$$
+
+$$+ \frac{(\rho E[\tau^2]E[\tau(1-\tau)]-\rho E[\tau(1-\tau)]E[\tau^2](1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right\}$$
+
+$$= \beta_w^* \left\{ \frac{[E(1-\tau)E(\tau)-\rho E[\tau(1-\tau)]E(\tau-\eta)](1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} - (1-E(\tau+\eta)) \right.$$
+
+$$+ \frac{(\rho E[\tau^2]E[\tau(1-\tau)]-\rho E[\tau(1-\tau)]E[\tau^2])(1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} - E(\tau) \right\} +$$
+
+$$\beta_g^* \left\{ \frac{[\rho E[\tau(1-\tau)]^2 E[\tau(1-\tau)]-\rho E(\tau(1-\tau))E[1-\tau]^2)E(\tau)}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} \right.$$
+
+$$+ \frac{[E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)]E[\tau(1-\tau))(1-E(\tau))}{E(\tau^2)E(1-\tau)^2]-\rho^2 E^2\tau(1-\tau)} - (1-E(\tau)) \right\}$$
+
+$$= \beta_w^* \{E(\tau)+0-E(\tau)\} + \beta_g^* \{0+(1-E(\tau))-(1-E(\tau))\}$$
+
+$$= 0.$$

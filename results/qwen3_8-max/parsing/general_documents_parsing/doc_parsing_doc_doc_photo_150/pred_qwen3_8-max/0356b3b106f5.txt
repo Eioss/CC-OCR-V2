@@ -1,0 +1,107 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r r}
+\toprule
+\multirow{2}{*}{项 目} & \multicolumn{2}{c}{本年发生额} & \multicolumn{2}{c}{上年发生额} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& 收入 & 成本 & 收入 & 成本 \\
+\midrule
+合 计 & 1,551,371,171.13 & 1,334,757,497.85 & 1,460,014,632.27 & 1,184,546,688.12 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{(2) 主营业务收入 (分产品)}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r r}
+\toprule
+\multirow{2}{*}{项 目} & \multicolumn{2}{c}{本年发生额} & \multicolumn{2}{c}{上年发生额} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& 收入 & 成本 & 收入 & 成本 \\
+\midrule
+\begin{tabular}[c]{@{}l@{}}项目配套服务\\ 等\end{tabular} & 1,329,569,432.89 & 1,107,336,127.99 & 1,329,013,722.93 & 1,050,524,364.09 \\
+\begin{tabular}[c]{@{}l@{}}供热及化工产\\ 品\end{tabular} & 199,170,585.44 & 220,186,721.77 & 105,044,703.75 & 127,759,599.45 \\
+\midrule
+合 计 & 1,528,740,018.33 & 1,327,522,849.76 & 1,434,058,426.68 & 1,178,283,963.54 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{(三十四) 税金及附加}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r}
+\toprule
+项 目 & 本年发生额 & 上年发生额 \\
+\midrule
+环境保护税 & 631,352.07 & \\
+城市维护建设税 & 5,750,808.73 & 10,161,627.87 \\
+教育费附加 & 4,010,922.06 & 7,258,303.54 \\
+房产税 & 2,423,824.61 & 2,042,634.22 \\
+土地使用税 & 308,249.01 & 606,924.36 \\
+印花税 & 335,171.10 & 128,752.21 \\
+其他 & 12,881.78 & 273,756.22 \\
+\midrule
+合 计 & 13,473,209.36 & 20,471,998.42 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+注: 各项税金及附加的计缴标准详见附注五、税项。
+
+\textbf{(三十五) 销售费用}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r}
+\toprule
+项 目 & 本年发生额 & 上年发生额 \\
+\midrule
+合 计 & 561,439.37 & 557,442.90 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{(三十六) 管理费用}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r}
+\toprule
+项 目 & 本年发生额 & 上年发生额 \\
+\midrule
+固定资产折旧 & 23,456,586.65 & 25,530,676.96 \\
+无形资产摊销 & 45,413,431.29 & 46,316,880.04 \\
+职工薪酬 & 14,450,558.03 & 8,659,925.40 \\
+中介费用 & 1,246,187.59 & 1,712,692.88 \\
+办公费用 & 794,345.33 & 1,070,869.19 \\
+修理费 & 297,642.48 & 1,286,193.52 \\
+绿化费 & 863,714.28 & 705,524.9 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{2cm}
+\begin{center}
+66
+\end{center}
+
+\end{document}
+```

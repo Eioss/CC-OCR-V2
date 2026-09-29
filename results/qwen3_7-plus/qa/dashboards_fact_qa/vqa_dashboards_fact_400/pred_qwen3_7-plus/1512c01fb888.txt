@@ -1,0 +1,43 @@
+Based on the map provided, the total number of **CAR refugees since Jan 2013** is shown by the blue arrows pointing outward from the Central African Republic to neighboring countries. These numbers are:
+
+- **To Chad**: 14,477  
+- **To Cameroon**: 4,859  
+- **To Democratic Republic of the Congo**: 56,309  
+- **To Congo (Republic of the Congo)**: 10,748  
+
+Adding these together:
+
+> 14,477 + 4,859 + 56,309 + 10,748 = **86,393**
+
+However, note that the box in the bottom right corner titled **“Total population of CAR refugees¹”** lists:
+
+- Cameroon: 98,504  
+- Chad: 80,364  
+- DR Congo: 56,000  
+- Congo: 11,000  
+→ **Total: 245,868**
+
+This discrepancy arises because:
+
+- The **blue arrows with numbers** (e.g., 14,477 to Chad) represent **refugees who fled *since January 2013*** — i.e., new arrivals during that period.
+- The **“Total population of CAR refugees”** box reflects the **cumulative total refugee population in each host country as of 2 Jan 2014**, which includes refugees who may have fled before 2013.
+
+---
+
+### Therefore, to answer your specific question:
+
+> **What is the total number of CAR refugees since Jan 2013 in Central African Republic?**
+
+The map explicitly labels this data with blue arrows and gives the sum implicitly via those figures.
+
+✅ **Answer: 86,393**
+
+*(Calculated as 14,477 + 4,859 + 56,309 + 10,748)*
+
+---
+
+⚠️ Note: The footnote says “¹UNHCR as of 2 Jan 2014”, so these figures are snapshots as of that date for refugees who arrived *since Jan 2013*. The larger totals in the box include pre-2013 refugees.
+
+---
+
+**Final Answer: `86,393`**

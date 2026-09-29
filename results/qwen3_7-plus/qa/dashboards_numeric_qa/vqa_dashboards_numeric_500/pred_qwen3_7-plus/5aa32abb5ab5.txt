@@ -1,0 +1,13 @@
+Looking at the **“VMWARE VSPHERE VS. MICROSOFT HYPER-V”** comparison table in the infographic, under the **Microsoft Hyper-V** columns:
+
+- **Microsoft STANDARD**: Failover nodes = **16**
+- **Microsoft ENT.**: Failover nodes = **16**
+- **Microsoft DC**: Failover nodes = **16**
+
+So, **all three Microsoft Hyper-V editions listed (STANDARD, ENT., and DC)** have **Failover nodes = 16**.
+
+✅ Therefore, the number of Microsoft Hyper-Vs with Failover nodes equal to 16 is **3**.
+
+---
+
+**Answer: 3**

@@ -1,0 +1,45 @@
+Here is the transcription of the text, tables, and equations from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+The steps to derive the quadratic formula are shown below:
+
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+Step 1 & $ax^2 + bx + c = 0$ \\ \hline
+Step 2 & $ax^2 + bx = -c$ \\ \hline
+Step 3 & $x^2 + \frac{b}{a}x = -\frac{c}{a}$ \\ \hline
+Step 4 & $x^2 + \frac{b}{a}x + \frac{b^2}{4a^2} = -\frac{c}{a} + \frac{b^2}{4a^2}$ \\ \hline
+Step 5 & $x^2 + \frac{b}{a}x + \frac{b^2}{4a^2} = -\frac{4ac}{4a^2} + \frac{b^2}{4a^2}$ \\ \hline
+Step 6 & $\left(x + \frac{b}{2a}\right)^2 = \frac{b^2 - 4ac}{4a^2}$ \\ \hline
+Step 7 & $\left(x + \frac{b}{2a}\right) = \pm \sqrt{\frac{b^2 - 4ac}{4a^2}} = \pm \frac{\sqrt{b^2 - 4ac}}{4a}$ \\ \hline
+Step 8 & $x = -\frac{b}{2a} \pm \frac{\sqrt{b^2 - 4ac}}{2a}$ \\ \hline
+Step 9 & $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\ \hline
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+Which of the following is the first incorrect step?
+
+\begin{itemize}
+    \item[$\bullet$] Step 4
+    \item[$\circ$] Step 6
+    \item[$\circ$] Step 7
+    \item[$\circ$] Step 8
+\end{itemize}
+
+% Handwritten notes on the right side (approximated):
+% $\rightarrow (\frac{b}{2a})^2$
+% is $\frac{b^2}{4a^2}$
+% Square it
+% $\frac{b^2}{4a^2}$
+
+\end{document}
+```

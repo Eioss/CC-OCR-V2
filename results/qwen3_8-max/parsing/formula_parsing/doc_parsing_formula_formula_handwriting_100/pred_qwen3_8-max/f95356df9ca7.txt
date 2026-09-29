@@ -1,0 +1,17 @@
+ $$\Gamma = \{ ( x , y ) : \| x \| = u ( y ) , \, | y | \leq d \}$$
+
+ $$p _ { \mathrm { e s t } } = { \frac { 4 } { 3 } } \, { \frac { n ( { \mathcal { N } } _ { B } ^ { P } ) - n _ { 0 0 } ( { \mathcal { N } } _ { B } ^ { P } ) } { n ( { \mathcal { N } } _ { B } ^ { P } ) } } \, ,$$
+
+ $$\| \mu \| _ { B L } : = \operatorname* { s u p } _ { \psi \in \mathcal { E } } \int _ { \mathbb { R } _ { 0 } ^ { + } } \psi \mu , \quad \mu \in \mathcal { M }$$
+
+ $$\begin{array} { c } { { V : = \{ \check { \sigma } u , ( ( x _ { 1 } , s _ { 1 } ) , \ldots , ( x _ { l } , s _ { l } ) ) , \pi _ { B } \, | } } \\ { { \qquad \quad ( u , ( ( x _ { 1 } , s _ { 1 } ) , \ldots , ( x _ { l } , s _ { l } ) ) , \pi _ { B } ) \in \dot { V } \} . } } \end{array}$$
+
+ $$\begin{array} { r } { \frac { 1 } { h } ( \eta _ { h , i } ^ { \nu } - \eta _ { h , i - 1 } ^ { \nu } , w ) _ { L ^ { 2 } ( \Omega ) } + ( \nabla \eta _ { h , i } ^ { \nu } , \nabla w ) _ { L ^ { 2 } ( \Omega ) ^ { N } } + ( q ( \eta _ { h , i } ^ { \nu } ) , w ) _ { L ^ { 2 } ( \Omega ) } } \\ { + ( \alpha ^ { \prime } ( \eta _ { h , i } ^ { \nu } ) | \nabla \theta _ { h , i - 1 } ^ { \nu } | v , w ) _ { L ^ { 2 } ( \Omega ) } = 0 , \mathrm { ~ f o r ~ e v e r y ~ } w \in H ^ { 1 } ( \Omega ) \mathrm { ~ a n d ~ } i \in \mathcal { N } , } \end{array}$$
+
+ $$\begin{array} { c } { { \displaystyle \sum _ { i = 1 } ^ { 4 } \left( C _ { t r a c e } ^ { N O ( k ; i ) } \right) ^ { 2 } \geq 2 \left( 1 + \gamma ^ { 2 } \right) \; \forall \gamma , } } \\ { { \displaystyle \sum _ { i = 1 } ^ { 4 } \left( C _ { t r a c e } ^ { N O ( k ; i ) } \right) ^ { 2 } \leq 2 \left( 1 + 2 \gamma ^ { 2 } \right) \; \mathrm { f o r } \; \gamma \leq \displaystyle \frac { 1 } { \sqrt { 2 } } } } \end{array}$$
+
+ $$\begin{array} { l l } { { \left[ \, A _ { u } , v = 2 \mu \left( \epsilon \left( u \right) , \epsilon \left( v \right) \right) , \, \right] \, \left[ \, B _ { p } , v = \left( p , \nabla \cdot v \right) , \, \right] } } \\ { { \left[ \, C _ { p } , q = \left( p , q \right) , \, \right] \, \qquad \qquad \left[ \, D \eta , v = \left( \eta , v \right) \, \, \right] } } \end{array}$$
+
+ $${ \mathfrak { h } } _ { \theta } = \theta ^ { \perp } = \{ X \in { \mathfrak { h } } \, | \, \alpha ( X ) = 0 \; \; \forall \alpha \in \theta \, \} , \; \; { \mathfrak { h } } _ { \theta } = { \mathfrak { z } } _ { \mathfrak { g } } ( { \mathfrak { h } } _ { \theta } ) = { \mathfrak { h } } \oplus \sum { \mathfrak { g } } ^ { \alpha } , \; \; { \mathfrak { n } } _ { \theta } ^ { \pm } = \sum _ { \alpha \in \Sigma ^ { \pm } \setminus \langle \theta \rangle ^ { \pm } } { \mathfrak { g } } ^ { \alpha }$$
+
+ $$\begin{array} { c } { { \exp ( \sum _ { \xi \in \mathcal { B } _ { 0 } } \chi _ { J _ { 0 } \cup \xi } ( t ) ) \prod _ { \xi \in \mathcal { B } _ { 0 } } \| B A _ { 0 } ^ { - 1 } e _ { J _ { 0 } } \wedge e _ { \xi } \| } } \\ { { = \exp \left( | \mathcal { B } _ { 0 } | \displaystyle \sum _ { j = 0 } ^ { \infty } \left( d _ { j } / l _ { j } - d _ { j + 1 } / l _ { j + 1 } \right) ( \sum _ { i = 1 } ^ { j } \chi _ { J _ { 0 } } ( t ) + \chi _ { [ l _ { j } ] } ( t ) ) \right) \prod _ { \widetilde { \xi } \in \mathcal { B } _ { 0 } } \| B A _ { 0 } ^ { - 1 } e _ { J _ { 0 } } \wedge e _ { \widetilde { \xi } } \| } } \end{array}$$

@@ -1,0 +1,146 @@
+# Table 1: Accounting Program Structure (continued)
+
+```html
+<table border="1">
+  <tr>
+    <td colspan="4">(continued on next page)</td>
+  </tr>
+  <tr>
+    <td>266x Technology Services</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>267x Records Management</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>268x Interpretation/Translation Services</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>31xx Food Services</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>32xx Enterprise Operations</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>33xx Community Services</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>35xx Child Care</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>4xxx Facilities Acquisition/Construction</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>5xxx Other Uses</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+</table>
+```
+
+# Table 2: Operational Unit
+
+```html
+<table border="1">
+  <tr>
+    <th>School</th>
+    <th>Either</th>
+    <th>trialal</th>
+  </tr>
+  <tr>
+    <td>1100 Instruction</td>
+    <td>1200 Special Programs</td>
+    <td>2300 Executive Admin</td>
+  </tr>
+  <tr>
+    <td>2410 Prtrislal's Office</td>
+    <td>2100 Support of Students</td>
+    <td>2510 Business Direction</td>
+  </tr>
+  <tr>
+    <td>3500 Child Care</td>
+    <td>2200 Support of Instruction</td>
+    <td>2520 Fiscal Services</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2490 Other School Administration</td>
+    <td>2610 Central Direction</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2540 Operation/Maintenance of Plant</td>
+    <td>2620 Planning, Research &amp; Dev</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2550 Transportation</td>
+    <td>2630 Information Services</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2570 Purchasing, Warehouse, Printing</td>
+    <td>2640 Staff Services</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2660 Technology Services</td>
+    <td>2670 Records Management</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2680 Interpretation/Translation Services</td>
+    <td>5000 Other Uses</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3100 Food Services</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3200 Enterprise Operations</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3300 Community Services</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>4000 Facilities AcquisitrialConstruction</td>
+    <td></td>
+  </tr>
+</table>
+```

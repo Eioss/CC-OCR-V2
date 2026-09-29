@@ -1,0 +1,17 @@
+ $$F _ { f e } ( \varepsilon _ { r n t } ) = F _ { f e } ( \varepsilon _ { 0 } ) + \int _ { 0 } ^ { t } r n L _ { v m } ^ { u n } F _ { f e } ( \varepsilon _ { r n r } ) d r + M _ { t }$$
+ $$\leq F _ { f e } ( \varepsilon _ { 0 } ) + \int _ { 0 } ^ { t } 2 r n \sum _ { x \in E _ { n } } \pi ^ { ( n ) } ( x ) \int _ { S } f _ { e } ( \sigma , \varepsilon _ { m r } ( x ) ) d u n ( \sigma ) d r + M _ { t }$$
+
+ $$P ( r , t ) = \frac { N } { V } \sum _ { j } d _ { e g } ^ { * } \left\langle \sigma _ { g e } \right\rangle e ^ { i ( k _ { j } z - \nu _ { j } t ) } ,$$
+
+ $$u = - \frac { \partial \Psi } { \partial z } = u _ { 0 } \frac { H _ { 1 } } { H _ { 1 } - h } , ~ ~ w = \frac { \partial \Psi } { \partial x } = u _ { 0 } H _ { 1 } \frac { d h } { d x } \frac { H _ { 1 } - z } { ( H _ { 1 } - h ) ^ { 2 } } ~ ,$$
+ $$\frac { d h } { d x } = - h _ { 0 } \left[ \beta \cos ^ { 2 } \left( \alpha x \right) \sin \left( 2 \beta x \right) + \alpha \cos ^ { 2 } \left( \beta x \right) \sin \left( 2 \alpha x \right) \right] \, .$$
+
+ $$| \Psi \rangle _ { A B } = | \psi \rangle _ { A } \otimes | \phi \rangle _ { B } = | \psi \rangle _ { A } \otimes \left( \cos { \frac { \theta } { 2 } } | 0 \rangle _ { B } + \sin { \frac { \theta } { 2 } } | 1 \rangle _ { B } \right) ,$$
+
+ $$\delta \sum _ { k = 0 } ^ { n } \alpha _ { k } \left\| x _ { k } - T ( x _ { k } ) \right\| ^ { 2 } \leq \left\| x _ { 0 } - T ( x _ { 0 } ) \right\| ^ { 2 } - \left\| x _ { n + 1 } - T ( x _ { n + 1 } ) \right\| ^ { 2 } \leq \left\| x _ { 0 } - T ( x _ { 0 } ) \right\| ^ { 2 } ,$$
+
+ $${ \underset { \theta } { m i n } } \; T r \left( Z ^ { T } L Z \right) { \mathrm { s u b j e c t ~ t o ~ } } Z ^ { T } D Z = I$$
+
+ $$\Bigg | \sum _ { | h | \geqslant H } a _ { h , H } \sum _ { n \sim \delta N } e ^ { 2 i \pi f _ { x } ( n + \frac 1 2 ) h } \Bigg | \leqslant c \sum _ { | h | \geqslant H } H ( N h ^ { - \frac 3 2 } L ^ { - \frac 1 2 } + h ^ { - \frac 5 2 } L ^ { \frac 1 2 } )$$
+ $$\leqslant c ( N H ^ { \frac 1 2 } L ^ { - \frac 1 2 } + H ^ { - \frac 1 2 } L ^ { \frac 1 2 } ) .$$
+ $$( \tilde { \nabla } _ { \phi ^ { 2 } W } \tilde { R } ) ( \phi ^ { 2 } X , \phi ^ { 2 } Y ) \phi ^ { 2 } Z = ( \tilde { \nabla } _ { W } \tilde { R } ) ( \phi ^ { 2 } X , \phi ^ { 2 } Y ) \phi ^ { 2 } Z .$$

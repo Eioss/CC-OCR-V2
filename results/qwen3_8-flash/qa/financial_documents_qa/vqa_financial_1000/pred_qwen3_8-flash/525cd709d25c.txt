@@ -1,0 +1,14 @@
+Based on the provided document, **Thorax size** is listed as one of the "Clinical Measurements of Possible Usefulness in Study of Aging in Man" (Table 8).
+
+The value associated with it under the column **r\*** (which stands for coefficients of correlation) is:
+
+> **-0.124**
+
+This negative correlation coefficient suggests that as aging progresses (in this study), thorax size tends to decrease slightly — though the magnitude (-0.124) indicates a very weak relationship compared to other measurements like Hair greying score (+0.717) or Height (-0.532).
+
+---
+
+**Note**: The table does not define *what* “Thorax size” means clinically (e.g., chest circumference, volume, etc.), only that it was measured and correlated with aging. It’s adapted from A. Comfort’s 1969 Lancet paper.
+
+So, to directly answer your question:  
+> In this context, **Thorax size** refers to a clinical measurement whose correlation with aging is reported as **r = -0.124**.

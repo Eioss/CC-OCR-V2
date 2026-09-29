@@ -1,0 +1,17 @@
+```html
+<table border="1">
+  <tr> <th rowspan="2"> Content domain and process </th> <th colspan="2"> All items </th> <th colspan="2"> New items </th> <th colspan="2"> Trend items </th> </tr>
+  <tr> <th> Number </th> <th> Percent </th> <th> Number </th> <th> Percent </th> <th> Number </th> <th> Percent </th> </tr>
+  <tr> <td><b>Total items</b></td> <td><b>135</b></td> <td><b>53</b></td> <td><b>60</b></td> <td><b>100</b></td> <td><b>75</b></td> <td><b>100</b></td> </tr>
+  <tr> <td>Purposes of reading</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+  <tr> <td>Literary experience</td> <td>72</td> <td>53</td> <td>33</td> <td>55</td> <td>39</td> <td>52</td> </tr>
+  <tr> <td>Acquire and use information</td> <td>63</td> <td>47</td> <td>27</td> <td>45</td> <td>36</td> <td>48</td> </tr>
+  <tr> <td>Processes of comprehension</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+  <tr> <td>Focus on and retrieve explicitly stated information</td> <td>33</td> <td>24</td> <td>14</td> <td>23</td> <td>19</td> <td>25</td> </tr>
+  <tr> <td>Make straightforward inferences</td> <td>46</td> <td>34</td> <td>20</td> <td>33</td> <td>26</td> <td>35</td> </tr>
+  <tr> <td>Interpret and integrate ideas and information</td> <td>38</td> <td>28</td> <td>18</td> <td>30</td> <td>20</td> <td>27</td> </tr>
+  <tr> <td>Examine and evaluate content, language, and textual elements</td> <td>18</td> <td>13</td> <td>8</td> <td>13</td> <td>10</td> <td>13</td> </tr>
+  <tr> <td colspan="7">NOTE: Detail may not sum to 100 percent due to rounding.</td> </tr>
+  <tr> <td colspan="7">SOURCE: International Association for the Evaluation of Educational Achievement (IEA). Progress in International Reading Literacy Study (PIRLS), 2011.</td> </tr>
+</table>
+```

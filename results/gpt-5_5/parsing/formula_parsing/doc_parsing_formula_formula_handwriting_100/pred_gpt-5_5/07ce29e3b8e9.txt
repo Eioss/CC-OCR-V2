@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+&\left|\int_{t_n}^{t}\int_{-\infty}^{\infty}
+\frac{u^2(s,\tau)}{2}
+\left(G_x(x,t;s,\tau)h_\alpha^\varepsilon(s)+G_{xs}(x,t;s,\tau)H_\alpha^\varepsilon(s)\right)\,ds\,d\tau\right| \\
+&\le
+\frac{C(\|u\|_\infty)|\alpha+1|^2}{\sqrt n}\,
+\|h_\alpha^\varepsilon\|_0
+\int_{t_n}^{t}\frac{1}{\sqrt{t-\tau}(t-\tau)}\,d\tau \\
+&\quad+
+\left|\int_{t_n}^{t}\int_{-\infty}^{\infty}
+\left(u^2(x+\lambda\sqrt{t-\tau},\tau)h_\alpha(x+\lambda\sqrt{t-\tau})
+-u^2(x,\tau)h_\alpha(x)\right)
+\frac{\lambda^2-\frac12}{\sqrt{\pi}(t-\tau)}e^{-\lambda^2}\,d\lambda\,d\tau\right| \\
+&\le
+C(\|u\|_\infty,\alpha)(2n)^{-1/2}
++\int_{t_n}^{t}\int_{-\infty}^{\infty}
+C(\|u\|_\infty,\alpha,\beta)
+\left(\frac{\sqrt{t-\tau}\,|\lambda|}{\sqrt{\tau}}\right)^\beta
+\frac{1}{\sqrt{\pi}}\frac{|\lambda^2-\frac12|}{t-\tau}e^{-\lambda^2}\,d\lambda\,d\tau \\
+&\le
+C(\|u\|_\infty,\alpha,\beta)(2n)^{-1/2}
++\int_{t-\frac1{4n}}^{t}q^{\frac{\beta}{2}-1}(1-q)^{-\frac{\beta}{2}}\,dq .
+\end{aligned}
+\]

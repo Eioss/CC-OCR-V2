@@ -1,0 +1,41 @@
+\[
+\begin{aligned}
+\mathcal LW \le{}&
+-\frac{\dot\varphi}{n}\Bigl(C(n,M_0^n,\rho)u_{11}\operatorname{tr}L^{kl}
+-C(n,M_0^n,\rho)u_{11}+C(n,M_0^n,\rho)\Bigr)\\
+&-\frac{\dot\varphi}{n}\Bigl(C(n,M_0^n,\rho)\operatorname{tr}\dot\gamma^{ij}
++C(n,M_0^n,\rho)\Bigr)
+-\frac{\lambda\dot\varphi}{n}
+\Bigl[(1-|D\varphi|^2)\dot\gamma^{ij}\varphi_i\varphi_j-2|D\varphi|^2\Bigr]\\
+&+\frac{C\rho}{n}\dot\varphi\operatorname{tr}\dot\gamma^{ij}
+-2\lambda\dot\varphi-C(M_0^n)(1-\lambda)\dot\varphi u_{11}\\
+&-\frac{\dot\varphi}{n}\left[
+2\lambda(1-|D\varphi|^2)L^{kl}u_k\varphi_l
++\frac{C(M_0^n,\rho)}{u_{11}}\bigl(\operatorname{tr}L^{kl}+1\bigr)
++C(M_0^n,\rho)\lambda\left(\frac{\operatorname{tr}L^{kl}}{u_{11}}+1\right)
+\right]\\
+\le{}&
+-\frac{\dot\varphi}{n}C(n,M_0^n,\rho)
+\bigl(u_{11}\operatorname{tr}L^{kl}-u_{11}\bigr)
+-\frac{\lambda\dot\varphi}{n}
+\Bigl[3(1-|D\varphi|^2)\dot\gamma^{ij}\varphi_i\varphi_j-2|D\varphi|^2\Bigr]\\
+&+\frac{C\rho}{n}\dot\varphi\operatorname{tr}\dot\gamma^{ij}
+-2\lambda\dot\varphi-C(M_0^n)(1-\lambda)\dot\varphi u_{11}
+-\frac{\dot\varphi}{n}C(M_0^n,\rho)\lambda
+\left(\frac{\operatorname{tr}L^{kl}}{u_{11}}+1\right)\\
+\le{}&
+-\frac{\dot\varphi}{n}C(n,M_0^n,\rho)
+\bigl(u_{11}\operatorname{tr}L^{kl}-u_{11}+1\bigr)
+-\frac{C(M_0^n,\rho)\lambda\dot\varphi}{n}(u_{11}+1)
++\frac{C\rho}{n}\dot\varphi\operatorname{tr}\dot\gamma^{ij}\\
+&-2\lambda\dot\varphi-C(M_0^n)\dot\varphi(1-\lambda)u_{11}
+-\frac{\dot\varphi}{n}C(M_0^n,\rho)\lambda
+\left(\frac{\operatorname{tr}L^{kl}}{u_{11}}+1\right)\\
+\le{}&
+-\dot\varphi\operatorname{tr}L^{kl}
+\left(\frac{C(M_0^n,\rho)\lambda}{u_{11}}
++C(n,M_0^n,\rho)u_{11}-\frac{C\rho}{n}\right)
+-C(n,M_0^n,\rho)\dot\varphi
+\left(u_{11}+\left(1-\frac{\lambda}{2}\right)u_{11}\right).
+\end{aligned}
+\]

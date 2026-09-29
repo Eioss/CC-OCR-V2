@@ -1,0 +1,17 @@
+ $$\begin{array} { r l } { \left( D ^ { i _ { 1 } i _ { 2 } \cdots i _ { p } = 0 , i _ { q } = 1 , \cdots i _ { N } } \right) ^ { \prime } = } & { { } { \frac { 1 } { 1 + | x | ^ { 2 } } } { \Big [ } D ^ { i _ { 1 } i _ { 2 } \cdots i _ { p } = 0 , i _ { p } = 0 , i _ { q } = 1 , \cdots i _ { N } } - | x | ^ { 2 } D ^ { i _ { 1 } i _ { 2 } \cdots i _ { p } = 0 , i _ { q } = 0 , \cdots i _ { N } } } \\ { } & { { } + x D _ { ( A q ) _ { 0 } } ^ { i _ { 1 } i _ { 2 } \cdots i _ { p } = 0 \cdots , i _ { q - 1 } , i _ { q + 1 } , \cdots i _ { N } } - x ^ { * } D _ { ( A q ) _ { 1 } } ^ { i _ { 1 } i _ { 2 } \cdots i _ { p } = 0 \cdots , i _ { q - 1 } , i _ { q + 1 } , \cdots i _ { N } } { \Big ] } } \end{array}$$
+
+ $$S \left( n , k \right) = \frac 1 { k ! } \sum _ { d _ { 1 } + \cdots + d _ { k } = n } \frac { n ! } { d _ { 1 } ! \cdots d _ { k } ! }$$
+
+ $$g _ { 1 } , \cdots , g _ { k } \in G \left( A \cup { \mathcal { R } } \right) \subset \langle A \rangle \cdot \langle { \mathcal { R } } \rangle$$
+
+ $$\begin{array} { r l } { \eta _ { q } ^ { 2 } } & { { } { \underset { q \to \infty } { \longrightarrow } } \; v ( k ) \, | \nabla u | ^ { 2 } \; { \mathrm { ~ a . e . ~ i n ~ } } \Omega } \\ { \eta _ { q } ^ { 2 } } & { { } \leqslant v ( k ) \, | \nabla u | ^ { 2 } } \end{array}$$
+
+ $$( 1 - \delta ) \| F _ { j } ( \Delta ) f \| ^ { 2 } \leq \sum _ { \nu } \sum _ { k } | \langle F _ { j } ( \Delta ) f , \theta _ { \nu ; j , k } \rangle | ^ { 2 } \leq ( 1 + \delta ) \| F _ { j } ( \Delta ) f \| ^ { 2 }$$
+
+ $$| \lambda | > R > \operatorname* { m a x } \{ | \mu ^ { \sigma } | : \mu ^ { \sigma } \in L ^ { \sigma } ( u ) \}$$
+
+ $$\underline { { { S } } } _ { \alpha } : = \left\{ \begin{array} { l l } { { S \, \, \, \mathrm { i f } \, \, \alpha = \alpha _ { 0 } , } } \\ { { 0 \, \, \, \mathrm { i f } \, \, \alpha \neq \alpha _ { 0 } , } } \end{array} \right.$$
+
+ $${ \frac { 1 } { \sqrt { d } } } \, \| v \| _ { x } \leq \| v \| _ { x } ^ { ( 1 ) } \leq C e ^ { \varepsilon k } \, \| v \| _ { x } , \, \forall v \in T _ { x } M , \ x \in \Lambda _ { k } , \quad \ldots \, ( 3 . 1 . 2 )$$
+
+ $$V _ { d r i f t } = { \frac { \frac { d < \phi _ { N L } | z | \phi _ { N L } > } { < \phi _ { N L } | \phi _ { N L } > } } { d t } }$$

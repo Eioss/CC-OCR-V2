@@ -1,0 +1,153 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 2px solid #333;
+        padding: 10px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td style="text-align:center; font-size:24px;" colspan="7"><b>高温合金熔铸事业部</b></td>
+   </tr>
+   <tr>
+    <td style="text-align:center; font-size:20px;" colspan="7"><b>入厂器材复验结果证明书</b></td>
+   </tr>
+   <tr>
+    <td colspan="7" style="text-align:right;">编号：FYBH2022-005</td>
+   </tr>
+   <tr>
+    <td>器材名称</td>
+    <td>电钴</td>
+    <td>规格</td>
+    <td colspan="2">---</td>
+    <td>复验规定编号</td>
+    <td>FYGD-90-14-2020</td>
+   </tr>
+   <tr>
+    <td>产品材质</td>
+    <td>---</td>
+    <td>产品牌号</td>
+    <td colspan="2">Co9995</td>
+    <td>批号</td>
+    <td>见备注</td>
+   </tr>
+   <tr>
+    <td>型号</td>
+    <td>---</td>
+    <td>器材类别</td>
+    <td colspan="2">II</td>
+    <td>计量单位</td>
+    <td>kg</td>
+   </tr>
+   <tr>
+    <td>重量</td>
+    <td>15000</td>
+    <td>包装数量</td>
+    <td colspan="2">60 桶</td>
+    <td rowspan="2">生产厂家</td>
+    <td rowspan="2">兰州金川新材料科技股份有限公司</td>
+   </tr>
+   <tr>
+    <td>生产日期</td>
+    <td>---</td>
+    <td>有效期</td>
+    <td colspan="2">---</td>
+   </tr>
+   <tr>
+    <td>存放地点</td>
+    <td>熔铸事业部</td>
+    <td colspan="2">出厂质保单编号</td>
+    <td colspan="3">--</td>
+   </tr>
+   <tr>
+    <td rowspan="5" style="vertical-align:middle; text-align:center;">常规<br/>复验</td>
+    <td colspan="4">1.器材外包装是否完好</td>
+    <td>是 ☑</td>
+    <td>否☐</td>
+   </tr>
+   <tr>
+    <td colspan="4">2.器材外观是否良好</td>
+    <td>是 ☑</td>
+    <td>否☐</td>
+   </tr>
+   <tr>
+    <td colspan="4">3.器材质量证明文件是否齐全有效</td>
+    <td>是 ☑</td>
+    <td>否☐</td>
+   </tr>
+   <tr>
+    <td colspan="4">4.器材名称、牌号、批号、数量是否与质量证明文件一致</td>
+    <td>是 ☑</td>
+    <td>否☐</td>
+   </tr>
+   <tr>
+    <td colspan="4">5.其他</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td rowspan="2" style="vertical-align:middle; text-align:center;">理化<br/>复验</td>
+    <td>检测承接单位</td>
+    <td colspan="5" style="text-align:center;">钢研纳克检测技术有限公司</td>
+   </tr>
+   <tr>
+    <td>检测报告编号</td>
+    <td colspan="5" style="text-align:center;">2022BJR04491</td>
+   </tr>
+   <tr>
+    <td>备注</td>
+    <td colspan="6" style="text-align:center;">批号：21-1-292/295/273<br/>22-1-001</td>
+   </tr>
+   <tr>
+    <td>结论</td>
+    <td colspan="6">电钴 Co9995 经复验符合进院器材复验规定编号：FYGD-90-14-2020 的要求</td>
+   </tr>
+   <tr>
+    <td colspan="2">检验：<br/><br/>2022年 1 月 8 日</td>
+    <td colspan="2">复核：<br/><br/>JY320<br/><br/>2022年 1 月 8 日</td>
+    <td colspan="3">批准：<br/><br/>姜华<br/><br/>年&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;日</td>
+   </tr>
+   <tr>
+    <td colspan="7">附：<br/>本证明书需填写完整，并另附供应商出厂质保单、检测报告（检验记录）方为有效。</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

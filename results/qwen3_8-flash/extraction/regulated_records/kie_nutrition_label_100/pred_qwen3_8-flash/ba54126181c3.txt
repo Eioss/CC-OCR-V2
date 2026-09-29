@@ -1,0 +1,21 @@
+```json
+{
+    "SS": "2 tbsp (31g) unpopped(makes about 4 cups popped)",
+    "CE-PS": "150",
+    "CE-P1": "35",
+    "TF-PS": "9g",
+    "TF-PP": "2g",
+    "SO-PS": "70mg",
+    "SO-PP": "15mg",
+    "CAR-PS": "16g",
+    "CAR-PP": "4g",
+    "PRO-PS": "2g",
+    "PRO-P1": "<1g",
+    "TF-D": "12%",
+    "TF-P1": "3%",
+    "SO-D": "3%",
+    "CAR-D": "6%",
+    "SO-P1": "1%",
+    "CAR-P1": "1%"
+}
+```

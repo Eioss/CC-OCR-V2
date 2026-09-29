@@ -1,0 +1,9 @@
+\[
+\begin{aligned}
+\tanh(z)&=\frac{\left(D_{12}\frac{\partial h}{\partial z_2}+E_{12}\frac{\partial h}{\partial z_3}-(D_{11}-E_{11})\right)\sinh(z)}{T_1-T_2},\\
+T_j&=L(n/4)\bar z_j,\qquad j=1,\ldots,3,\\
+S_\theta(E)&=\{s\in S_0:s^{-1}\in S_{\bar\theta}^{0}(E)\},\\
+\lim_{n\to\infty}\frac{\sum_{a^n\le t\le a^{n+1}}X(t)-X(a^n)}{a^{\lambda n}H(\log a^n)^{1/p+\varepsilon}}&=0\quad a.s.,\\
+\varphi&=|\angle utv|=\pi-\alpha-\beta\ge\pi-|\angle vus|-|\angle svu|=|\angle usv|=\frac{2\pi}{s}.
+\end{aligned}
+\]

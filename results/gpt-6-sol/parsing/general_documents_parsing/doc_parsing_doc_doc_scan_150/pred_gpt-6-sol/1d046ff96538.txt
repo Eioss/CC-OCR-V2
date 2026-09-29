@@ -1,0 +1,20 @@
+# Fourier Transform Pairs
+
+\[
+(n,t,\omega,a,\omega_o,t_o\text{ are Real numbers}\ ;\ j=\text{complex number}\ ;\ n=\text{integer}\ ;\ \omega=\text{angular frequency})
+\]
+
+| Time Domain | Fourier Transform | Time Domain | Fourier Transform |
+|---|---|---|---|
+| \(f(t)\) | \(\displaystyle\int_{-\infty}^{+\infty}f(t)e^{-j\omega t}\,dt\) | \(\displaystyle\frac{1}{2\pi}\int_{-\infty}^{+\infty}F(\omega)e^{j\omega t}\,d\omega\) | \(F(\omega)\) |
+| \(a_1f_1(t)+a_2f_2(t)\) | \(a_1F_1(\omega)+a_2F_2(\omega)\) | \(\begin{gathered}f(a\cdot t)\\a\ne0\end{gathered}\) | \(\displaystyle\frac{1}{\lvert a\rvert}F\!\left(\frac{\omega}{a}\right)\) |
+| \(e^{j\omega_ot}f(t)\) | \(F(\omega-\omega_o)\) | \(f(t-t_o)\) | \(e^{-j\omega t_o}F(\omega)\) |
+| \(\begin{gathered}\displaystyle\frac{d^n[f(t)]}{dt^n}\\(n>0)\end{gathered}\) | \((j\omega)^nF(\omega)\) | \(\begin{gathered}(-jt)^nf(t)\\(n>0)\end{gathered}\) | \(\displaystyle\frac{d^n[F(\omega)]}{d\omega^n}\) |
+| \(\begin{gathered}e^{-at}u(t)\\a>0\end{gathered}\) | \(\displaystyle\frac{1}{a+j\omega}\) | \(\begin{gathered}e^{at}u(-t)\\a>0\end{gathered}\) | \(\displaystyle\frac{1}{a-j\omega}\) |
+| \(\cos(\omega_ot)\) | \(\pi[\delta(\omega-\omega_o)+\delta(\omega+\omega_o)]\) | \(\sin(\omega_ot)\) | \(\displaystyle\frac{\pi}{j}[\delta(\omega-\omega_o)-\delta(\omega+\omega_o)]\) |
+| \(\delta(t)\) | \(1\) | \(\delta(t-t_o)\) | \(e^{-j\omega t_o}\) |
+| \(1\) | \(2\pi\cdot\delta(\omega)\) | \(e^{j\omega_ot}\) | \(2\pi\cdot\delta(\omega-\omega_o)\) |
+| \(u(t)\) | \(\displaystyle\pi\cdot\delta(\omega)+\frac{1}{j\omega}\) | \(u(-t)\) | \(\displaystyle\pi\cdot\delta(\omega)-\frac{1}{j\omega}\) |
+| \(u(t)-u(-t)\) | \(\displaystyle\frac{2}{j\omega}\) | \(u(t)+u(-t)\) | \(2\pi\delta(\omega)\) |
+| \(\begin{gathered}t^{(n-1)}\cdot e^{-a\cdot t}\cdot u(t)\\a>0\ ;\ n>0\end{gathered}\) | \(\displaystyle\frac{(n-1)!}{(a+j\omega)^n}\) | \(\begin{gathered}t^{(n-1)}\cdot e^{a\cdot t}\cdot u(-t)\\a>0\ ;\ n>0\end{gathered}\) | \(\displaystyle\frac{(n-1)!}{(a-j\omega)^n}\cdot(-1)^{n-1}\) |
+| \(\cos(\omega_ot)\cdot f(t)\) | \(\displaystyle\frac{1}{2}[F(\omega-\omega_o)+F(\omega+\omega_o)]\) | \(\sin(\omega_ot)\cdot f(t)\) | \(\displaystyle\frac{1}{2j}[F(\omega-\omega_o)-F(\omega+\omega_o)]\) |

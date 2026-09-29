@@ -1,0 +1,102 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\geometry{a4paper, margin=2cm}
+
+\begin{document}
+
+\begin{center}
+水土保持研究
+
+Research of Soil and Water Conservation
+
+\hfill Vol.22, No.1
+
+\hfill Feb., 2015
+\end{center}
+
+\begin{center}
+{\LARGE 小兴安岭南麓典型森林类型的土壤水文功能研究}
+
+\vspace{0.5em}
+
+张淑兰$^{1}$，张海军$^{1}$，张 武$^{1}$，王长宝$^{1}$，邓际华$^{2}$，宋英博$^{3}$，张 强$^{1}$
+
+\vspace{0.5em}
+
+\small
+（1. 佳木斯大学，黑龙江 佳木斯 154007；
+2. 黑龙江省合江林业科学研究所，黑龙江 佳木斯 154002；
+3. 黑龙江省农业科学院佳木斯分院，黑龙江 佳木斯 154007）
+\end{center}
+
+\noindent
+{\bf 摘 \quad 要：}
+通过测定土壤水文物理性质、持水及渗透性能，分析了小兴安岭南麓典型森林土壤的持水、蓄水和渗透能力，并利用 Kostiakov 方程、Horton 方程和 Philip 方程模拟了土壤入渗过程。结果表明：该区森林土壤容重介于 $0.45\sim1.52\ \mathrm{g/cm^{3}}$ 之间；不同植被类型饱和含水率为 $28.73\%\sim177.32\%$；毛管含水率 $25.26\sim156.84\%$，自然含水率 $13.91\%\sim119.18\%$；随着土层深度增加，三者具有明显减小趋势；土壤最大持水量范围为 $282.88\sim341.41\ \mathrm{mm}$，有效持水量为 $27.88\sim61.13\ \mathrm{mm}$，落叶松阔混林降水能力为 $165.98\sim197.37\ \mathrm{mm}$（除人工兴安落叶松林为 $76.32\ \mathrm{mm}$ 以外）；各植被类型土壤初渗速率和稳渗速率最大值在 $0\sim10\ \mathrm{cm}$ 土层，平均值分别为 $11.92\ \mathrm{mm/min}$ 和 $2.78\ \mathrm{mm/min}$；其最小值在不同的植被类型下出现的土层不同，平均值分别为 $2.19\ \mathrm{mm/min}$ 和 $0.66\ \mathrm{mm/min}$；从土壤的入渗过程模拟看，Horton 方程的模拟效果较好。
+
+\noindent
+{\bf 关键词：} 土壤水文物理；持水能力；渗透性；小兴安岭
+
+\noindent
+{\bf 中图分类号：} S715.7
+\qquad
+{\bf 文献标识码：} A
+\qquad
+{\bf 文章编号：} 1005-3409(2015)01-0140-06
+
+\noindent
+DOI: 10.13869/j.cnki.rswc.2015.01.027
+
+\vspace{1em}
+
+\begin{center}
+{\Large Soil Hydrological Properties of Main Vegetation in Down\\
+South of Xiao Xing'an Mountains}
+
+\vspace{0.5em}
+
+ZHANG Shulan$^{1}$, ZHANG Haijun$^{1}$, ZHANG Wu$^{1}$, WANG Changbao$^{1}$,\\
+DENG Jihua$^{2}$, SONG Yingbo$^{3}$, ZHANG Qiang$^{1}$
+
+\vspace{0.5em}
+
+\small
+(1. Jiamusi University, Jiamusi, Heilongjiang 154007, China;\\
+2. Hejiang Forestry Institute of Heilongjiang Academy of Forestry Sciences, Jiamusi, Heilongjiang 154002, China;\\
+3. Jiamusi Branch of Heilongjiang Academy of Agricultural Sciences, Jiamusi, Heilongjiang 154007, China)
+\end{center}
+
+\noindent
+{\bf Abstract:}
+Based on soil hydrological physical properties, water holding capacity and infiltration, the water storage and infiltration capacity were analyzed in typical forest stands in down south of Xiaoxing'an Mountains, and Kostiakov equation, Horton equation and Philip equation were used to simulate the soil infiltration processes. The results showed that soil bulk density was between $0.45\sim1.52\ \mathrm{g/cm^{3}}$, and soil saturated moisture contents of different vegetation types were between $28.73\%\sim177.32\%$, capillary moisture contents were $25.26\%\sim156.84\%$, the natural moisture contents were $13.91\%\sim119.18\%$, and these three parameters obviously decreased with increase of soil depth; the range of soil maximum storage capacity was $282.88\sim341.41\ \mathrm{mm}$, effective capacity was $27.88\sim61.13\ \mathrm{mm}$, retention ability of precipitation was $165.98\sim197.37\ \mathrm{mm}$ (except for artificial Larix gmelinii forest of $76.32\ \mathrm{mm}$); Soil initial infiltration rate and steady infiltration rate of each vegetation type were the largest in $0\sim10\ \mathrm{cm}$ or $10\sim20\ \mathrm{cm}$ soil layer, the average values were $11.92\ \mathrm{mm/min}$ and $2.78\ \mathrm{mm/min}$, respectively, and their minimum values in different vegetation types present in different soil layers, with average value of $2.19\ \mathrm{mm/min}$ and $0.66\ \mathrm{mm/min}$. According to the soil infiltration process simulation, Horton equation was better for this simulation.
+
+\noindent
+{\bf Keywords:}
+soil hydrological properties; water storage capacity; infiltration; Xiao Xing'an Mountains
+
+\vspace{1em}
+
+\begin{multicols}{2}
+
+森林土壤的水文功能主要指土壤的持水能力及渗透特性，是森林植被保持水土和涵养水源作用的重要体现$^{[1]}$，也是森林生态系统服务功能评价的一个
+
+重要指标$^{[1]}$。其中，森林土壤的持水能力是指森林生态系统中涵蓄土壤水分、补充地下水和调节河川流量的功能，其与森林土壤的物理性质有直接的关
+
+\end{multicols}
+
+\vfill
+
+\noindent
+收稿日期：2014-04-29
+
+\noindent
+基金项目：黑龙江省自然科学基金项目（A1301034）；黑龙江省教育厅科学技术研究项目（12531703）；佳木斯大学青年基金项目（Sq2012--32）
+
+\noindent
+作者简介：张淑兰（1980-），女，河北昌黎人，博士，讲师，主要从事森林生态、生态水文过程与模型应用研究。E-mail: zhangshulan1980@163.com
+
+\end{document}
+```

@@ -1,0 +1,52 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{graphicx}
+\begin{document}
+
+\noindent{\Large Ionic Chemical Formulas/PreAICE Chemistry}
+
+\noindent NAME:\underline{\hspace{3in}}\quad PERIOD\underline{\hspace{0.5in}}
+
+\noindent\textbf{Directions:} Using the Chemical Formulas program sheet, fill in the table below. Use subscripts \& superscripts.\\
+Remember to use roman numerals to show the valence of the transition metals in the compound name.
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|c|l|c|c|l|}
+\hline
+\begin{tabular}{c}METAL CATION\\(+)\end{tabular} &
+\begin{tabular}{c}CATION\\FORMULA\end{tabular} &
+\begin{tabular}{c}NONMETAL\\ANION (-)\end{tabular} &
+\begin{tabular}{c}ANION\\FORMULA\end{tabular} &
+\begin{tabular}{c}COMPOUND\\FORMULA\end{tabular} &
+COMPOUND NAME \\ \hline
+sodium & $\mathrm{Na}^{+1}$ & hydroxide & $\mathrm{OH}^{-}$ & $\mathrm{NaOH}$ & sodium hydroxide \\ \hline
+magnesium & $\mathrm{Mg}^{+2}$ & phosphate & $\mathrm{PO}_{4}^{-3}$ & $\mathrm{Mg}_{3}(\mathrm{PO}_{4})_{2}$ & magnesium phosphate \\ \hline
+calcium & $\mathrm{Ca}^{+2}$ & chloride & $\mathrm{Cl}^{-}$ & $\mathrm{CaCl}_{2}$ & calcium chloride \\ \hline
+gold(I) & $\mathrm{Au}^{+1}$ & sulfite & $\mathrm{SO}_{3}^{-2}$ & $\mathrm{Au}_{2}\mathrm{SO}_{3}$ & gold(I) sulfite \\ \hline
+copper(II) & $\mathrm{Cu}^{+2}$ & hydroxide & $\mathrm{OH}^{-}$ & $\mathrm{Cu}(\mathrm{OH})_{2}$ & copper(II) hydroxide \\ \hline
+Iron(III) & $\mathrm{Fe}^{+3}$ & telluride & $\mathrm{Te}^{-2}$ & $\mathrm{Fe}_{2}\mathrm{Te}_{3}$ & iron(III) telluride \\ \hline
+magnesium & $\mathrm{Mg}^{+2}$ & bromide & $\mathrm{Br}^{-1}$ & $\mathrm{MgBr}_{2}$ & magnesium bromide \\ \hline
+manganese(II) & $\mathrm{Mn}^{+2}$ & sulfide & $\mathrm{S}^{-2}$ & $\mathrm{MnS}$ & manganese(II) sulfide \\ \hline
+boron & $\mathrm{B}^{+3}$ & oxide & $\mathrm{O}^{-2}$ & $\mathrm{B}_{2}\mathrm{O}_{3}$ & boron oxide \\ \hline
+potassium & $\mathrm{K}^{+}$ & nitrate & $\mathrm{NO}_{3}^{-}$ & $\mathrm{KNO}_{3}$ & potassium nitrate \\ \hline
+barium & $\mathrm{Ba}^{+2}$ & bromide & $\mathrm{Br}^{-}$ & $\mathrm{BaBr}_{2}$ & barium bromide \\ \hline
+strontium & $\mathrm{Sr}^{+2}$ & sulfate & $\mathrm{SO}_{4}^{-2}$ & $\mathrm{SrSO}_{4}$ & strontium sulfate \\ \hline
+iron(III) & $\mathrm{Fe}^{+3}$ & oxide & $\mathrm{O}^{-2}$ & $\mathrm{Fe}_{2}\mathrm{O}_{3}$ & iron(III) oxide \\ \hline
+silver(I) & $\mathrm{Ag}^{+1}$ & chloride & $\mathrm{Cl}^{-}$ & $\mathrm{AgCl}$ & silver(I) chloride \\ \hline
+aluminum & $\mathrm{Al}^{+3}$ & carbonate & $\mathrm{CO}_{3}^{-2}$ & $\mathrm{Al}_{2}(\mathrm{CO}_{3})_{3}$ & aluminum carbonate \\ \hline
+gold(II) & $\mathrm{Au}^{+2}$ & nitride & $\mathrm{N}^{-3}$ & $\mathrm{Au}_{3}\mathrm{N}_{2}$ & gold(II) nitride \\ \hline
+cesium & $\mathrm{Cs}^{+1}$ & phosphate & $\mathrm{PO}_{4}^{-3}$ & $\mathrm{Cs}_{3}\mathrm{PO}_{4}$ & cesium phosphate \\ \hline
+ammonium & $\mathrm{NH}_{4}^{+}$ & sulfide & $\mathrm{S}^{-2}$ & $(\mathrm{NH}_{4})_{2}\mathrm{S}$ & ammonium sulfide \\ \hline
+zinc(II) & $\mathrm{Zn}^{+2}$ & nitrite & $\mathrm{NO}_{2}^{-}$ & $\mathrm{Zn}(\mathrm{NO}_{2})_{2}$ & zinc(II) nitrite \\ \hline
+chromium(I) & $\mathrm{Cr}^{+1}$ & nitride & $\mathrm{N}^{-3}$ & $\mathrm{Cr}_{3}\mathrm{N}$ & chromium(I) nitride \\ \hline
+mercury(II) & $\mathrm{Hg}^{+2}$ & oxide & $\mathrm{O}^{-2}$ & $\mathrm{HgO}$ & mercury(II) oxide \\ \hline
+sodium & $\mathrm{Na}^{+}$ & sulfite & $\mathrm{SO}_{3}^{-2}$ & $\mathrm{Na}_{2}\mathrm{SO}_{3}$ & sodium sulfite \\ \hline
+magnesium & $\mathrm{Mg}^{+2}$ & oxide & $\mathrm{O}^{-2}$ & $\mathrm{MgO}$ & magnesium oxide \\ \hline
+\end{tabular}%
+}
+\end{center}
+
+\end{document}
+```

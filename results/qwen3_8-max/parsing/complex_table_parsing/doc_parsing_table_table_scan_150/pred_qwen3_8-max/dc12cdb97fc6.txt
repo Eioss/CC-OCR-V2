@@ -1,0 +1,102 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center; font-family: serif;">
+    <thead>
+        <tr>
+            <th rowspan="3" style="width: 180px;"></th>
+            <th colspan="2">DP</th>
+            <th rowspan="3" style="width: 180px;"></th>
+            <th colspan="6">SDP</th>
+        </tr>
+        <tr>
+            <th colspan="2">PTB</th>
+            <th colspan="2">DM</th>
+            <th colspan="2">PAS</th>
+            <th colspan="2">PSD</th>
+        </tr>
+        <tr>
+            <th>UAS</th>
+            <th>LAS</th>
+            <th>ID</th>
+            <th>OOD</th>
+            <th>ID</th>
+            <th>OOD</th>
+            <th>ID</th>
+            <th>OOD</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left; color: #1a237e;">Zhou and Zhao (2019)<sup>†</sup></td>
+            <td>97.2</td>
+            <td>95.7</td>
+            <td style="text-align: left; color: #1a237e;">He and Choi (2020)<sup>‡</sup></td>
+            <td>94.6</td>
+            <td>90.8</td>
+            <td>96.1</td>
+            <td>94.4</td>
+            <td>86.8</td>
+            <td>79.5</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; color: #1a237e;">Mrini et al. (2020)<sup>†</sup></td>
+            <td>97.4</td>
+            <td>96.3</td>
+            <td style="text-align: left; color: #1a237e;">D & M (2018)</td>
+            <td>94.0</td>
+            <td>89.7</td>
+            <td>94.1</td>
+            <td>91.3</td>
+            <td>81.4</td>
+            <td>79.6</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; color: #1a237e; text-decoration: underline;">Zhang et al. (2020)</td>
+            <td>96.1</td>
+            <td>94.5</td>
+            <td style="text-align: left; color: #1a237e;">Wang et al. (2019)</td>
+            <td>93.7</td>
+            <td>88.9</td>
+            <td>93.9</td>
+            <td>90.6</td>
+            <td>81.0</td>
+            <td>79.4</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; color: #1a237e;">Wang and Tu (2020)</td>
+            <td>96.9</td>
+            <td>95.3</td>
+            <td style="text-align: left; color: #1a237e;">F & G (2020)</td>
+            <td>94.4</td>
+            <td>91.0</td>
+            <td>95.1</td>
+            <td>93.4</td>
+            <td>82.6</td>
+            <td>82.0</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">XLNET+Fine-tune</td>
+            <td>97.0</td>
+            <td>95.6</td>
+            <td style="text-align: left;">XLNet+Fine-tune</td>
+            <td>94.2</td>
+            <td>90.6</td>
+            <td>94.8</td>
+            <td>93.4</td>
+            <td>82.7</td>
+            <td>81.8</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">ACE+Fine-tune</td>
+            <td><b>97.2</b></td>
+            <td><b>95.7</b></td>
+            <td style="text-align: left;">ACE+Fine-tune</td>
+            <td><b>95.6</b></td>
+            <td><b>92.6</b></td>
+            <td><b>95.8</b></td>
+            <td><b>94.6</b></td>
+            <td><b>83.8</b></td>
+            <td><b>83.4</b></td>
+        </tr>
+    </tbody>
+</table>
+```

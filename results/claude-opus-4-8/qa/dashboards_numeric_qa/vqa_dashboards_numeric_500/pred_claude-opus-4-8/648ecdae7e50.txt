@@ -1,0 +1,7 @@
+Based on the infographic, there are **3 different types of Microsoft Hyper-V** listed in the comparison table:
+
+1. **Microsoft STANDARD**
+2. **Microsoft ENT.** (Enterprise)
+3. **Microsoft DC** (Datacenter)
+
+These are shown in the "VMWARE VSPHERE VS. MICROSOFT HYPER-V" comparison table at the bottom of the infographic.

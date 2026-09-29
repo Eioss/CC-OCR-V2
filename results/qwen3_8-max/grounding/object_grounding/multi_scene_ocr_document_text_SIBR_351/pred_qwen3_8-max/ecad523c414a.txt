@@ -1,0 +1,30 @@
+```json
+[
+    {"bbox_2d": [221, 564, 399, 576], "label": "Account No."},
+    {"bbox_2d": [221, 548, 645, 561], "label": "Add"},
+    {"bbox_2d": [146, 261, 537, 289], "label": "Address"},
+    {"bbox_2d": [461, 428, 491, 440], "label": "Average Watts"},
+    {"bbox_2d": [224, 518, 463, 530], "label": "Bank Name"},
+    {"bbox_2d": [218, 501, 476, 515], "label": "Beneficial"},
+    {"bbox_2d": [222, 579, 334, 591], "label": "Branch Number"},
+    {"bbox_2d": [264, 121, 717, 142], "label": "Company Name"},
+    {"bbox_2d": [364, 428, 397, 440], "label": "Currency"},
+    {"bbox_2d": [149, 226, 446, 238], "label": "Customer"},
+    {"bbox_2d": [722, 263, 810, 275], "label": "Date"},
+    {"bbox_2d": [234, 307, 270, 318], "label": "Delivery Terms"},
+    {"bbox_2d": [721, 226, 948, 252], "label": "Invoice No."},
+    {"bbox_2d": [173, 415, 321, 454], "label": "Name of Commodity & Specification"},
+    {"bbox_2d": [721, 339, 980, 365], "label": "Payment Terms"},
+    {"bbox_2d": [234, 322, 447, 334], "label": "S.C No."},
+    {"bbox_2d": [222, 534, 341, 545], "label": "Swift ID"},
+    {"bbox_2d": [358, 167, 641, 181], "label": "Title"},
+    {"bbox_2d": [885, 428, 968, 441], "label": "Total Amount"},
+    {"bbox_2d": [885, 473, 968, 485], "label": "Total Amount"},
+    {"bbox_2d": [640, 428, 669, 440], "label": "Total Pcs"},
+    {"bbox_2d": [637, 474, 667, 485], "label": "Total Pcs"},
+    {"bbox_2d": [787, 428, 843, 440], "label": "Total Watts"},
+    {"bbox_2d": [749, 474, 806, 485], "label": "Total Watts"},
+    {"bbox_2d": [546, 421, 589, 447], "label": "Unit1 Price"},
+    {"bbox_2d": [701, 421, 751, 447], "label": "Unit2 Price"}
+]
+```

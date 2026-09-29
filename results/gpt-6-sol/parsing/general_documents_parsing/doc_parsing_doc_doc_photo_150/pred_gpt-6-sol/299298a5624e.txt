@@ -1,0 +1,208 @@
+# MATHEMATICS RU\(\ldots\)
+
+## Trigonometry
+
+### 1) Trigonometry Ratios
+
+In the right triangle shown, \(AB=\text{Opp}\), \(BC=\text{Adj}\), and \(AC=\text{Hyp}\).
+
+\[
+\begin{array}{lll}
+\sin\theta=\dfrac{\mathrm{Opp}}{\mathrm{Hyp}}&
+\cos\theta=\dfrac{\mathrm{Adj}}{\mathrm{Hyp}}&
+\tan\theta=\dfrac{\mathrm{Opp}}{\mathrm{Adj}}\\[6pt]
+\cot\theta=\dfrac{\mathrm{Adj}}{\mathrm{Opp}}&
+\sec\theta=\dfrac{\mathrm{Hyp}}{\mathrm{Adj}}&
+\cosec\theta=\dfrac{\mathrm{Hyp}}{\mathrm{Opp}}
+\end{array}
+\]
+
+### 2) Imp. Results
+
+\[
+\begin{array}{ll}
+\text{i)}\ \sin\theta\cdot\cosec\theta=1&
+\text{ii)}\ \cos\theta\cdot\sec\theta=1\\
+\text{iii)}\ \tan\theta\cdot\cot\theta=1&
+\text{iv)}\ \tan\theta=\dfrac{\sin\theta}{\cos\theta}\\[5pt]
+\text{v)}\ \cot\theta=\dfrac{\cos\theta}{\sin\theta}&
+\text{vi)}\ \sin^2\theta+\cos^2\theta=1\\
+\text{vii)}\ \sec^2\theta=1+\tan^2\theta&
+\text{viii)}\ \cosec^2\theta=1+\cot^2\theta\\
+\text{ix)}\ \pi^\circ=180^\circ&
+\text{x)}\ \text{length of arc }s=r\theta\\
+\text{xi)}\ \text{Area of sector}=\dfrac12r^2\theta
+\end{array}
+\]
+
+### 3) Trigonometry Ratios of Standard Angles
+
+\[
+\begin{array}{c|rrrrrrrr}
+\text{Ratio}&0^\circ&30^\circ&45^\circ&60^\circ&90^\circ&180^\circ&270^\circ&360^\circ\\ \hline
+\sin&0&\frac12&\frac1{\sqrt2}&\frac{\sqrt3}{2}&1&0&-1&0\\
+\cos&1&\frac{\sqrt3}{2}&\frac1{\sqrt2}&\frac12&0&-1&0&1\\
+\tan&0&\frac1{\sqrt3}&1&\sqrt3&\infty&0&\infty&0
+\end{array}
+\]
+
+### 4) Sign Convention
+
+\[
+\begin{array}{c|cccc}
+&\mathrm{I}&\mathrm{II}&\mathrm{III}&\mathrm{IV}\\ \hline
+\sin&+&+&-&-\\
+\cos&+&-&-&+\\
+\tan&+&-&+&-
+\end{array}
+\]
+
+“The above information can be conveniently remembered with the phrase ‘Add Sugar To Coffee’.”
+
+### 5) Allied - Angles
+
+\[
+\begin{array}{ll}
+\sin(-\alpha)=-\sin\alpha&
+\sin(90^\circ-\alpha)=\cos\alpha\\
+\cos(-\alpha)=\cos\alpha&
+\cos(90^\circ-\alpha)=\sin\alpha\\
+\tan(-\alpha)=-\tan\alpha&
+\tan(90^\circ-\alpha)=\cot\alpha\\
+\cot(-\alpha)=-\cot\alpha&
+\cot(90^\circ-\alpha)=\tan\alpha\\
+\sec(-\alpha)=\sec\alpha&
+\sec(90^\circ-\alpha)=\cosec\alpha\\
+\cosec(-\alpha)=-\cosec\alpha&
+\cosec(90^\circ-\alpha)=\sec\alpha
+\end{array}
+\]
+
+### 5) Compound Angles
+
+\[
+\begin{aligned}
+\sin(A+B)&=\sin A\cos B+\cos A\sin B,\\
+\sin(A-B)&=\sin A\cos B-\cos A\sin B,\\
+\cos(A+B)&=\cos A\cos B-\sin A\sin B,\\
+\cos(A-B)&=\cos A\cos B+\sin A\sin B,\\
+\tan(A+B)&=\frac{\tan A+\tan B}{1-\tan A\tan B},\\
+\tan(A-B)&=\frac{\tan A-\tan B}{1+\tan A\tan B}.
+\end{aligned}
+\]
+
+### 6) Multiple Angle and Sub Multiple Angle
+
+\[
+\begin{aligned}
+\sin2A&=2\sin A\cos A,\\
+\cos2A&=\cos^2A-\sin^2A=1-2\sin^2A=2\cos^2A-1,\\
+\tan2A&=\frac{2\tan A}{1-\tan^2A},\\
+\sin A&=2\sin\frac A2\cos\frac A2,\\
+\cos A&=\cos^2\frac A2-\sin^2\frac A2\\
+&=1-2\sin^2\frac A2\\
+&=2\cos^2\frac A2-1\\
+&=\frac{1-\tan^2(A/2)}{1+\tan^2(A/2)},\\
+\sin A&=\frac{2\tan(A/2)}{1+\tan^2(A/2)},\\
+\tan A&=\frac{2\tan(A/2)}{1-\tan^2(A/2)},\\
+1-\cos A&=2\sin^2\frac A2.
+\end{aligned}
+\]
+
+### 7) Triple Angle Formulae
+
+\[
+\begin{aligned}
+\sin3\theta&=3\sin\theta-4\sin^3\theta,&
+\cos3\theta&=4\cos^3\theta-3\cos\theta,\\
+\tan3\theta&=\frac{3\tan\theta-\tan^3\theta}{1-3\tan^2\theta},\\
+\cos^3\theta&=\frac{\cos3\theta+3\cos\theta}{4},&
+\sin^3\theta&=\frac{3\sin\theta-\sin3\theta}{4}.
+\end{aligned}
+\]
+
+### 8) Factorization Formulae
+
+\[
+\begin{aligned}
+\sin C+\sin D&=2\sin\frac{C+D}{2}\cos\frac{C-D}{2},\\
+\sin C-\sin D&=2\cos\frac{C+D}{2}\sin\frac{C-D}{2},\\
+\cos C+\cos D&=2\cos\frac{C+D}{2}\cos\frac{C-D}{2}.
+\end{aligned}
+\]
+The two conditional forms printed for \(\cos C-\cos D\) are not sufficiently legible to transcribe without guessing.
+
+### 9) Defactorization Formulae
+
+\[
+\begin{aligned}
+2\sin A\cos B&=\sin(A+B)+\sin(A-B),\\
+2\cos A\sin B&=\sin(A+B)-\sin(A-B),\\
+2\cos A\cos B&=\cos(A+B)+\cos(A-B),\\
+2\sin A\sin B&=\cos(A-B)-\cos(A+B).
+\end{aligned}
+\]
+
+## Co - Ordinate - Geometry (2D)
+
+\[
+\begin{aligned}
+\text{1. Distance Formula:}\quad
+&r=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}.\\[3pt]
+\text{2. Section Formula:}\quad
+&P(x,y)=\left(\frac{m_1x_2+m_2x_1}{m_1+m_2},
+\frac{m_1y_2+m_2y_1}{m_1+m_2}\right),\\
+&Q(x,y)=\left(\frac{m_1x_2-m_2x_1}{m_1-m_2},
+\frac{m_1y_2-m_2y_1}{m_1-m_2}\right)\quad\text{Externally}.\\[3pt]
+\text{3. Mid point Formula:}\quad
+&\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right).\\
+\text{4. Centroid of triangle:}\quad
+&G\left(\frac{x_1+x_2+x_3}{3},\frac{y_1+y_2+y_3}{3}\right).\\
+\text{5. Area of triangle:}\quad
+&\Delta=\frac12\left|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\right|.\\
+\text{6. Slope of straight line:}\quad&m=\tan\theta.\\
+\text{7. Point Slope Form:}\quad&y-y_1=m(x-x_1).\\
+\text{8. Slope Intercept Form:}\quad&y=mx+C.\\
+\text{9. Two point Form:}\quad&
+\frac{y-y_1}{y_2-y_1}=\frac{x-x_1}{x_2-x_1}.\\
+\text{10. Intercept Form:}\quad&\frac xa+\frac yb=1.\\
+\text{11. Normal Form:}\quad&x\cos\alpha+y\sin\alpha=p.\\
+\text{12. Slope of line }ax+by+c=0:\quad&m=-\frac ab.\\
+\text{13. Intersection fo two lines:}\quad&l_1+\lambda l_2=0.\\
+\text{14. Angle between two st. lines:}\quad&
+\tan\theta=\left|\frac{m_1-m_2}{1+m_1m_2}\right|.\\
+\text{15. If the lines are parallel:}\quad&m_1=m_2;\\
+\text{If the lines are }\perp:\quad&m_1m_2=-1.\\
+\text{16. Length of }\perp\text{ form:}\quad&
+\frac{|ax_1+by_1+c|}{\sqrt{a^2+b^2}}.\\
+\text{17. Bisector Equation:}\quad&
+\frac{a_1x+b_1y+c_1}{\sqrt{a_1^2+b_1^2}}
+=\pm\frac{a_2x+b_2y+c_2}{\sqrt{a_2^2+b_2^2}}.\\
+\text{18. Distance bet parallel lines:}\quad&
+\left|\frac{c_1-c_2}{\sqrt{a^2+b^2}}\right|.\\
+\text{19. Homogeneous Equation:}\quad&
+ax^2+2hxy+by^2=0,\\
+&\tan\theta=\frac{2\sqrt{h^2-ab}}{a+b}.\\
+\text{20. General Equation:}\quad&
+ax^2+2hxy+by^2+2gx+2fy+c=0.
+\end{aligned}
+\]
+
+The smaller conditions and point-of-intersection expression beneath item 20 are not fully legible.
+
+## Co - Ordinate - Geometry (3D)
+
+\[
+\begin{aligned}
+\text{1. Distance Formula:}\quad&
+\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2},\\
+\text{2. Section Formula:}\quad&
+P\left(
+\frac{m_1x_2+m_2x_1}{m_1+m_2},
+\frac{m_1y_2+m_2y_1}{m_1+m_2},
+\frac{m_1z_2+m_2z_1}{m_1+m_2}
+\right).
+\end{aligned}
+\]
+
+The page title, lower-left text, and material in the narrow column at the far right are cropped or obscured in the supplied image.

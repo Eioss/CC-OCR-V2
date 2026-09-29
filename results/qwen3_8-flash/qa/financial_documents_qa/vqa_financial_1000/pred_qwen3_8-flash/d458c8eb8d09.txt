@@ -1,0 +1,9 @@
+Based on the provided document, here is how to find the Est Cost for Available Qty:
+
+1.  Locate the section titled **ORDER TOTAL**.
+2.  Within this section, find the row labeled **EST COST:**.
+3.  Look across this row to the column labeled **AVAILABLE QTY**.
+
+The value at the intersection of the "EST COST:" row and the "AVAILABLE QTY" column is **128438.02**.
+
+Therefore, the Est Cost for Available Qty is **128438.02**.

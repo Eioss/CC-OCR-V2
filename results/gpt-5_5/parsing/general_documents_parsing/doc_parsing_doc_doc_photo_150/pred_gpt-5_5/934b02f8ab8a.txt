@@ -1,0 +1,115 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Al Muheen School System}\\
+    Old Campus: Rubina Sulehry StreetNew Campus, 0313-4949533\\
+    Kashif Cosmetics Street Makkah Chowk, 0336-8770948
+\end{center}
+
+\noindent
+Name: \underline{Hizra Yousaf}
+\hfill
+\textbf{Paper English: Grade 4}
+\hfill
+\textbf{Total Marks 75}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Q: Read the given paragraph and notice the use of nouns.}
+\hfill
+\textbf{Marks \quad /05}
+
+\vspace{0.2cm}
+
+\noindent
+We spent last week in \underline{Nathia Gali}. We visited \underline{Muskeshpuri Top} and the \underline{National Park}. It was my first visit to a hill \underline{station}. And I enjoyed it a lot. During these \underline{holidays}, I did a lot of things like \underline{hiking}, mount climbing and \underline{camping}. I also learnt horse \underline{riding}. I am very good at \underline{cricket}, but I like horse \underline{riding}.
+
+\vspace{0.4cm}
+
+\noindent
+\textbf{Q: Answer the following questions. Ignore grammar rules. [two to three lines]}
+\hfill
+\textbf{Marks \quad /10}
+
+\begin{enumerate}[label=\alph*)]
+    \item How do you spend your Sundays?
+    \item What kind of TV programs do you like?
+    \item What are the things you buy for your brothers or sisters on Eid?
+    \item Describe the place where you live. Do you really like your hometown?
+    \item Who do you like the most in your family? And why do you like him or her?
+\end{enumerate}
+
+\vspace{0.2cm}
+
+\noindent
+\textbf{Q: Use parts of speech: adjectives, prepositions and linking words to make the sentences longer. Example: I play [I play football with my father in the park on Sunday]}
+\hfill
+\textbf{Marks \quad /10}
+
+\begin{enumerate}[label=\alph*)]
+    \item I drive.
+    \item I help.
+    \item I drink.
+    \item I speak.
+    \item I clean.
+\end{enumerate}
+
+\vspace{0.2cm}
+
+\noindent
+\textbf{Q: Write a dialogue between two friends and discuss a birthday party of your friend. How was the party and did they really enjoy it?}
+\hfill
+\textbf{Marks \quad /10}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Q: Read the following passage and answer the following questions.}
+\hfill
+\textbf{Marks \quad /15}
+
+\vspace{0.2cm}
+
+\noindent
+Different people have different hobbies. People love to stay busy in their free time but they usually don't find any interesting activities. In my opinion, people should choose those activities which could help them learn something new and also provide them some entertainment. Some people like to watch movies while others like to read books. Books are really great friends they never cheat and they also talk when you are alone. Books help you think and understand the things differently. There are many kinds of books such as stories, poetry and science books.
+
+\begin{enumerate}[label=\alph*)]
+    \item How do the people spend their free time?
+    \item What’s your favourite free-time activity?
+    \item What kind of books should we read?
+    \item Which of the top qualities of the books have been mentioned in the passage?
+    \item In your opinion, which is the best book in the world?
+\end{enumerate}
+
+\vspace{0.2cm}
+
+\noindent
+\textbf{Q: Use the given noun phrases into sentences [as subject or object]. For example, [a tall man with black long hair] is eating food.}
+\hfill
+\textbf{Marks \quad /10}
+
+\begin{enumerate}
+    \item A beautiful lady with golden hair
+    \item Those two famous scientists from Germany
+    \item That interesting student of our class
+    \item The girl in the kitchen
+    \item A tall nurse in the hospital
+    \item That brilliant teacher of English
+\end{enumerate}
+
+\vspace{0.2cm}
+
+\noindent
+\textbf{Q: Write a story about a child who was going home from school and got lost. At least one page. Write in your own words. [Ignore grammar and spelling rules].}
+\hfill
+\textbf{Marks \quad /15}
+
+\end{document}
+```

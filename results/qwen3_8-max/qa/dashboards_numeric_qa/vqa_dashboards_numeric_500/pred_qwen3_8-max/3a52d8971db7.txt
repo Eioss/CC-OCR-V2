@@ -1,0 +1,30 @@
+Based on the infographic, under the heading **"CLOUD FEATURES"**, there are four main categories listed, each with specific points:
+
+1.  **Backup**
+    *   Data Storage
+    *   Information backup
+2.  **Software Access**
+    *   Office documents
+    *   Email access
+3.  **File Sharing**
+    *   Remote working
+4.  **CRM**
+    *   Customer services
+    *   Track lead tools
+
+Counting the individual bullet points:
+- Data Storage
+- Information backup
+- Office documents
+- Email access
+- Remote working
+- Customer services
+- Track lead tools
+
+There are **7** distinct points listed under "Cloud Features".
+
+Alternatively, if counting the main feature categories (Backup, Software Access, File Sharing, CRM), there are **4**.
+
+Given the visual layout where each bullet point is a separate item within its category box, the most accurate count of "points" is **7**.
+
+**Answer: 7**

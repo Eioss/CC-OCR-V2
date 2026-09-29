@@ -1,0 +1,1 @@
+$$\langle x , y \rangle \equiv \sum _ { \tau \in \Gamma / \Gamma _ { n } } ( \tau ^ { - 1 } p r _ { n } ^ { * } ( x ) , p r _ { n } ( y ) ) _ { n } \tau \mod ( \gamma _ { n } - 1 )$$

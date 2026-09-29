@@ -1,0 +1,41 @@
+Based on the infographic, under the section **“Exposure to ‘fake news’ on social media is almost daily, according to 18% of people.”**, there are three pie charts showing frequency:
+
+- **31%** say it is more than once daily  
+- **11%** say they see fake news on social channels once every few days  
+- **6%** say once a week  
+
+The question asks for the total percentage of people viewing fake news **almost once or more than once daily**.
+
+This includes:
+- “More than once daily” → **31%**
+- “Once every few days” → this is *not* “almost daily”, so we exclude it.
+- “Once a week” → definitely not daily, exclude.
+
+But note: the header says **“almost daily, according to 18% of people”** — this seems to be a separate statistic (perhaps from a different survey), and the 31%, 11%, 6% breakdown appears to be from another source or context.
+
+However, if we interpret the question as asking for the sum of those who see fake news **at least once per day or more frequently**, then only the **31%** (“more than once daily”) qualifies as “daily or more”.
+
+But wait — the phrase “almost once or more than once daily” is ambiguous. If “almost once daily” means “close to daily” (e.g., every few days), then perhaps we should include both:
+
+- More than once daily: **31%**
+- Once every few days: **11%**
+
+That would give us **31% + 11% = 42%**
+
+However, strictly speaking, “once every few days” is not “almost daily” — it’s less frequent. “Almost daily” typically implies something like 5–6 times a week, not every 2–3 days.
+
+Looking at the data again, the **only group that views fake news daily or more often is the 31%** who see it “more than once daily”.
+
+There is no category labeled “once daily” — so if we’re being precise, **only 31%** view it *more than once daily*, which satisfies “more than once daily”, but not necessarily “almost once daily”.
+
+Given the ambiguity, and since the infographic does not provide a clear “once daily” category, the most reasonable interpretation is:
+
+> The total percentage of people who view fake news **at least once per day or more frequently** is **31%** (those who see it more than once daily).
+
+If the intent was to include “once every few days” as “almost daily”, then it would be **42%**, but that stretches the definition.
+
+---
+
+✅ **Final Answer: 31%**
+
+*(Based on strict interpretation: only “more than once daily” qualifies as “daily or more”. There is no “once daily” category, so 31% is the closest match.)*

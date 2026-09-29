@@ -1,0 +1,51 @@
+\[
+|TE(x,N)|\le c\left(NH^{\frac12}L^{-\frac12}+L^{\frac12}\right)
+\]
+
+\[
+\int_{Q_R^{T-R\eta}} u^p\,dx\,dt>0
+\]
+
+\[
+\mathcal{L}\left\{\int_a^R g_a^\alpha f(t)\right\}
+=\sum_{k=0}^{+\infty}\frac{f^{(k)}(a)}{s^{k+\alpha}}
+\frac{e^{-as}\Gamma(k+\alpha+1,-as)}{\Gamma(k+\alpha+1)}
+\]
+
+\[
+\sum_i\left[\frac{\mu}{\lambda_i}\right]^{-\varepsilon}
+\left[\frac{\nu}{\lambda_i}\right]^{-\varepsilon}
+\chi_\varepsilon\left(1+\log\left[\frac{\mu}{\nu}\right]\right)
+\left[\frac{\mu}{\nu}\right]^{1-\varepsilon}
+=C_\mu\nu'
+\]
+
+\[
+x\longmapsto x\tilde{\nu}'(x)=x\nu'(x)+\int\frac{x}{x-s}\,d\nu^*(s)
+\]
+
+\[
+\Phi_R+\Phi_R^*=2\operatorname{Re}\{\Phi_R\}
+\]
+
+\[
+\Phi_R-\Phi_R^*=2i\operatorname{Im}\{\Phi_R\}
+\]
+
+\[
+\sigma(A_i)=A_i,\qquad \sigma(B_i)=B_i+A_i^e
+\]
+
+\[
+\phi(r)=\int_0^r \chi^2\left(\frac{s}{2R}\right)\,ds
+=\int_0^r \psi\left(\frac{s}{2R}\right)\,ds
+\]
+
+\[
+\frac{1}{b-a}\int_a^b f(x)\,dx
+\le
+\min\left\{
+L\left(f(a),f\left(\frac{b}{m}\right)^m\right),
+L\left(f(b),f\left(\frac{a}{m}\right)^m\right)
+\right\}
+\]

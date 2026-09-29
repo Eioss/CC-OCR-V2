@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$800.00",
+    "advertiser": "SUPERPAC YG ACTION FUND",
+    "flight_from": "",
+    "flight_to": ""
+}
+```

@@ -1,0 +1,11 @@
+{
+  "date_issue": "October 18, 2001",
+  "order_id": "1",
+  "vendor_name": "Virginia Polytechnic Institute and State University",
+  "vendor_address": "Blacksburg, VA 24061",
+  "customer_billing_name": "Philip Morris USA",
+  "customer_billing_address": "Dr. Richard Izoc, PO Box 26583, Richmond, VA 23261-6583",
+  "amount_total_gross": "$77,846.62",
+  "amount_due": "$77,846.62",
+  "payment_terms": "Net due 30 days"
+}

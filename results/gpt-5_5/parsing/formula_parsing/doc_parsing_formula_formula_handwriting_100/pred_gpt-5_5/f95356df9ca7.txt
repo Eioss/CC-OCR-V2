@@ -1,0 +1,58 @@
+\[
+\Gamma=\{(x,y):\|x\|=u(y),\ |y|\le d\}
+\]
+
+\[
+\rho_{\mathrm{est}}=\frac{4}{3}\frac{n(\mathcal N_p^v)-n_\infty(\mathcal N_p^v)}{n(\mathcal N_p^v)}
+\]
+
+\[
+\|\mu\|_{BL}:=\sup_{\psi\in L}\int_{\mathbb R_+^0}\psi\,\mu,\qquad \mu\in\mathcal M
+\]
+
+\[
+V:=\left\{\tilde\sigma_u\bigl((x_1,s_1),\ldots,(x_l,s_l)\bigr)\mid
+u\bigl((x_1,s_1),\ldots,(x_l,s_l),\pi_B\bigr)\in\dot V\right\}
+\]
+
+\[
+\frac{1}{h}\bigl(\eta_{h,i}^v-\eta_{h,i-1}^v,w\bigr)_{L^2(\Omega)}
++\bigl(\nabla\eta_{h,i}^v,\nabla w\bigr)_{L^2(\Omega)}
++\bigl(g(\eta_{h,i}^v,i),w\bigr)_{L^2(\Omega)}
++\bigl(a(\eta_{h,i}^v)\nabla\theta_{h,i-1}^v,\nabla w\bigr)_{L^2(\Omega)}=0,
+\quad \text{for every }w\in H^1(\Omega)\text{ and }i\in\mathbb N
+\]
+
+\[
+\sum_{i=1}^{k}\left(C_{\mathrm{trace}}^{NO(k_i)}\right)^2\ge 2(1+r^2)\quad \forall r
+\]
+
+\[
+\sum_{i=1}^{k}\left(C_{\mathrm{trace}}^{NO(k_i)}\right)^2\le 2(1+2r^2)\quad \text{for }r\le \frac{1}{\sqrt2}
+\]
+
+\[
+[Au,v=2\mu(\varepsilon(u),\varepsilon(v)),]\qquad [Bp,v=(p,\nabla\cdot v),]
+\]
+
+\[
+[cp,q=(p,q),]\qquad [D\eta,v=(\eta,v)]
+\]
+
+\[
+H_\Theta=\Theta^\perp=\{x\in H\mid \alpha(x)=0\ \forall \alpha\in\Theta\},\qquad
+\mathfrak l_\Theta=\mathfrak z_{\mathfrak g}(H_\Theta)\oplus\sum \mathfrak g^\alpha,\qquad
+\mathfrak n_\Theta^+=\sum_{\alpha\in\Sigma^+\setminus\langle\Theta\rangle^+}\mathfrak g^\alpha
+\]
+
+\[
+\exp\left(\sum_{\xi\in\mathcal B_0}\chi_{J_0}\xi(t)\right)
+\prod_{\xi\in\mathcal B_0}\left\|BA_0^{-1}e_{j_0}\Lambda e_\xi\right\|
+=
+\exp\left(
+|\mathcal B_0|\sum_{j=0}^{aa}
+\left(\frac{d_j}{l_j}-\frac{d_{j+1}}{l_{j+1}}\right)
+\left(\sum_{i=1}^{j}\chi_{J_0}(t)+\chi_{[l_j]}(t)\right)
+\right)
+\prod_{\xi\in\mathcal B_0}\left\|BA_{j_0}^{-1}e_{j_0}\Lambda e_\xi\right\|
+\]

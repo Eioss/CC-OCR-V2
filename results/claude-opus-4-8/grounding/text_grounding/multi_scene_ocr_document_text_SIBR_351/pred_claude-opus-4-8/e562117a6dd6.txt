@@ -1,0 +1,6 @@
+There are multiple instances of '0.00' in the image. Here are their locations:
+
+(796, 1097, 879, 1138) # 公补支付
+(796, 1212, 879, 1249) # 大额补助支付
+(367, 1212, 451, 1251) # 统筹金支付
+(351, 1322, 433, 1359) # 个人现金支付

@@ -1,0 +1,40 @@
+\[
+\frac{\partial v}{\partial t}-\nu\Delta v+(v\cdot\nabla)v=-\nabla p+f.
+\]
+
+\[
+\bar D_xS-\rho\dot x
+=\left[x\dot x-\frac{1}{7}f^0(X-G)-\tau p\right]\partial_x\cdot\frac{x^j}{7}S
++\frac{kf}{7}x+p_xS-\rho\dot x.
+\]
+
+\[
+\langle v_x,w\rangle=\langle c,w\delta(x)\rangle.
+\]
+
+\[
+(\pi_*^G E)(\Sigma^{-\infty}G/H_+)
+:=\pi_*^G(E\wedge G/H_+)\cong\pi_*^H E.
+\]
+
+\[
+\int_Y\gamma^0\Delta^0\varphi,\qquad
+\nabla\varphi=0\quad\forall\varphi\in C^\infty(T^n).
+\]
+
+\[
+\langle\beta(\xi)-\beta(\bar\xi),\xi-\bar\xi\rangle>0,
+\quad\text{for every }\xi,\bar\xi\in X\text{ with }\xi\ne\bar\xi.
+\]
+
+\[
+\begin{aligned}
+&\int_\Omega\left(|u_t^{(m)}|^2+|\nabla_xu^{(m)}|^2\right)(x,t)\,dx\\
+&\quad+\int_0^t\int_\Omega
+\left(|\nabla_xu_t^{(m)}|^2+|\nabla_xu^{(m)}|^2\right)(x,s)\,dx\,ds\\
+&\quad+\int_0^t\int_{\partial\Omega}
+|\beta(u^{(m)})|^2(x,s)\,d\sigma(x)\,ds\\
+&\le C_M\left(1+\int_0^t\int_\Omega
+\left(|u^{(m)}|^2+|u_t^{(m)}|^2\right)(x,s)\,dx\,ds\right).
+\end{aligned}
+\]

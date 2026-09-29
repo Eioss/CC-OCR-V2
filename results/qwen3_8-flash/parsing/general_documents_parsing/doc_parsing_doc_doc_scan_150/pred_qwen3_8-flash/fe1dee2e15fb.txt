@@ -1,0 +1,212 @@
+```latex
+\textbf{Secondary 3 Mathematics Set 1}
+
+\subsection*{PART 1: Multiple-choice questions}
+
+\begin{enumerate}
+    \item[(4)] 
+    \[
+    2x + 3y = 7
+    \]
+    \[
+    2x = 7 - 3y
+    \]
+    \[
+    x = \frac{7}{2} - \frac{3}{2}y
+    \]
+    \[
+    x = -\frac{3}{2}y + \frac{7}{2}
+    \]
+
+    \item[(2)]
+    \[
+    3x + 4y = 15
+    \]
+    \[
+    6x + 8y = 2(3x + 4y)
+    \]
+    \[
+    = 30
+    \]
+    \[
+    15x + 20y = 5(3x + 4y)
+    \]
+    \[
+    = 75
+    \]
+
+    \item[(3)]
+    \[
+    4x \geqslant \frac{1}{2}
+    \]
+    \[
+    \frac{4x}{4} \geqslant \frac{\left(\frac{1}{2}\right)}{4}
+    \]
+    \[
+    x \geqslant \frac{1}{8}
+    \]
+
+    \item[(3)]
+    \[
+    6 - 8x < -2x
+    \]
+    \[
+    6 - 8x + 8x < -2x + 8x
+    \]
+    \[
+    6 < 6x
+    \]
+    \[
+    6x > 6
+    \]
+    \[
+    x > 1
+    \]
+
+    \item[(2)] For rectangle $P$, breadth $= \frac{120}{15}$
+    \[
+    = 8 \text{ cm}
+    \]
+    Perimeter of $Q =$ Perimeter of $P$
+    \[
+    = 2(8 + 15)
+    \]
+    \[
+    = 46 \text{ cm}
+    \]
+
+    \item[(4)] Circumference of $Y =$ Circumference of $X$
+    \[
+    = 10\pi
+    \]
+    \[
+    2\pi r = 10\pi
+    \]
+    \[
+    r = 5 \text{ cm}
+    \]
+    Area of circle $Y = \pi(5^2)$
+    \[
+    = 25\pi \text{ cm}^2
+    \]
+
+    \item[(3)] ratio of sides $1 : 10$
+    
+    ratio of area $1 : 100$
+
+    \item[(3)] ratio of sides $1 : 5$
+    
+    ratio of perimeter $1 : 5$
+
+    \item[(3)] Let H and h be the heights of the 2 candles.
+    
+    Burnt amount at any time:
+    \[
+    \text{H: } \frac{120}{180} \times \text{H} = \frac{2}{3}\text{H}
+    \]
+    \[
+    \text{h: } \frac{120}{300} \times \text{h} = \frac{2}{5}\text{h}
+    \]
+    Remaining:
+    \[
+    \text{H: } \text{H} - \frac{2}{3}\text{H} = \frac{1}{3}\text{H}
+    \]
+    \[
+    \text{h: } \text{h} - \frac{2}{5}\text{h} = \frac{3}{5}\text{h}
+    \]
+    The ratio after 2 h is $1 : 1$.
+    \[
+    \frac{\frac{1}{3}\text{H}}{\frac{3}{5}\text{h}} = \frac{1}{1}
+    \]
+    Cross multiply:
+    \[
+    \frac{1}{3}\text{H} = \frac{3}{5}\text{h}
+    \]
+    Cross multiply:
+    \[
+    5\text{H} = 9\text{h}
+    \]
+    \[
+    \frac{\text{H}}{\text{h}} = \frac{9}{5}
+    \]
+    $\text{H} : \text{h} = 9 : 5$
+
+    \item[(1)] Height after $n$ min:
+    \[
+    1^\text{st}: \frac{n}{180}
+    \]
+    \[
+    2^\text{nd}: \frac{n}{240}
+    \]
+    Height remaining:
+    \[
+    1^\text{st}: 1 - \frac{n}{180}
+    \]
+    \[
+    2^\text{nd}: 1 - \frac{n}{240}
+    \]
+    The ratio became $1 : 2$.
+    \[
+    \frac{1 - \frac{n}{180}}{1 - \frac{n}{240}} = \frac{1}{2}
+    \]
+    Cross multiply:
+    \[
+    2 - \frac{n}{90} = 1 - \frac{n}{240}
+    \]
+    \[
+    \frac{n}{90} - \frac{n}{240} = 2 - 1
+    \]
+    \[
+    \frac{8n - 3n}{720} = 1
+    \]
+    \[
+    5n = 720
+    \]
+    \[
+    n = 144 \text{ min} = 2 \text{ h } 24 \text{ min}
+    \]
+    Working backwards: 14 36 h
+
+    \item[(2)] % Diagram with Town X, A, d, B, Town Y
+    
+    When $B$ meets $C$, the distance between $A$ and $C$ is $(50 + 70) \times 2 = 240$ km
+    
+    Difference in speed $\rightarrow 60 - 50 = 10$ km/h
+    
+    $240 \div 10 = 24$ : h
+    
+    $(60 + 70) \times 24 = 3120$ km
+
+    \item[(4)] $15 - 5 = 10$ h
+    
+    Consider station S and Town Q
+    
+    % Timeline diagram showing P, S, Q with times 05 00 h and 09 00 h
+    
+    $3 : 2 = 6 : 4$
+    
+    $5 + 4 = 9$
+    
+    Ans: 09 00 h
+
+    \item[(1)] Total number of faces:
+    
+    Original cuboid $\rightarrow 18$ faces
+    
+    4 cubes $\rightarrow 6 \times 4 = 24$ faces
+    
+    $24 - 18 = 6$ faces
+    
+    $6$ faces $\rightarrow 216$ cm$^2$
+\end{enumerate}
+
+\vspace{1cm}
+
+\noindent Solutions to AEIS Practice Tests Secondary 3 Mathematics \\
+\noindent © Singapore Asia Publishers Pte Ltd \& Starich Education Pte Ltd
+
+\vfill
+
+\noindent \textbf{S1} \\
+Set 1
+```

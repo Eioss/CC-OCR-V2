@@ -1,0 +1,58 @@
+```html
+<table>
+  <tr>
+    <td></td>
+    <td colspan="2">n = 2000, &rho; = 0.1</td>
+    <td colspan="2">n = 20000, &rho; = 1.0</td>
+  </tr>
+  <tr>
+    <td>I</td>
+    <td>OCS</td>
+    <td>MSE</td>
+    <td>OCS</td>
+    <td>MSE</td>
+  </tr>
+  <tr>
+    <td>I<sup>0</sup></td>
+    <td>{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}</td>
+    <td>0.240&plusmn;0.077</td>
+    <td>{I<sup>0</sup>}</td>
+    <td>0.783&plusmn;0.269</td>
+  </tr>
+  <tr>
+    <td>I<sup>1</sup></td>
+    <td>{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}</td>
+    <td>0.264&plusmn;0.075</td>
+    <td>{I<sup>1</sup>}</td>
+    <td>0.907&plusmn;0.457</td>
+  </tr>
+  <tr>
+    <td>I<sup>2</sup></td>
+    <td>{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}</td>
+    <td>0.237&plusmn;0.037</td>
+    <td>{I<sup>2</sup>}</td>
+    <td>1.136&plusmn;0.227</td>
+  </tr>
+  <tr>
+    <td>I<sup>3</sup></td>
+    <td>{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}</td>
+    <td>0.259&plusmn;0.070</td>
+    <td>{I<sup>3</sup>}</td>
+    <td>1.033&plusmn;0.307</td>
+  </tr>
+  <tr>
+    <td>I<sup>4</sup></td>
+    <td>{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}</td>
+    <td>0.255&plusmn;0.087</td>
+    <td>{I<sup>4</sup>}</td>
+    <td>0.986&plusmn;0.329</td>
+  </tr>
+  <tr>
+    <td>I<sup>5</sup></td>
+    <td>{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}</td>
+    <td>0.255&plusmn;0.031</td>
+    <td>{I<sup>5</sup>}</td>
+    <td>1.032&plusmn;0.274</td>
+  </tr>
+</table>
+```

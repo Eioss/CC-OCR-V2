@@ -1,0 +1,48 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th style="padding: 8px;"></th>
+      <th style="padding: 8px;">Gold Labels</th>
+      <th style="padding: 8px;">Gold</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">0</td>
+      <td style="padding: 8px;">abstract |<br>rating summary</td>
+      <td style="padding: 8px;">[this work adapts cycle GAN to the problem of decipherment with some success.]&larr;<span style="color: blue; font-weight: bold;"> ABSTRACT</span> [it's still an early result, but all the reviewers have found it to be interesting and worthwhile for publication.]&larr;<span style="color: blue; font-weight: bold;"> RATING SUMMARY</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"></td>
+      <td style="padding: 8px;"><b>Control Sequence</b></td>
+      <td style="padding: 8px;"><b>Generated Passage</b></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">1</td>
+      <td style="padding: 8px;">abstract |<br>rating summary</td>
+      <td style="padding: 8px;">[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]&larr;<span style="color: blue; font-weight: bold;"> ABSTRACT</span><br>[The reviewers were unanimous in their vote to accept.]&larr;<span style="color: blue; font-weight: bold;"> RATING SUMMARY</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">2</td>
+      <td style="padding: 8px;">abstract | abstract |<br>rating summary</td>
+      <td style="padding: 8px;">[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]&larr;<span style="color: blue; font-weight: bold;"> ABSTRACT</span><br>[The proposed method is based on replacing the log loss of the GAN with a quadratic loss and regularizing the Jacobian of the discriminator.]&larr;<span style="color: blue; font-weight: bold;"> ABSTRACT</span><br>[The reviewers were unanimous in their vote to accept.]&larr;<span style="color: blue; font-weight: bold;"> RATING SUMMARY</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">3</td>
+      <td style="padding: 8px;">strength | decision</td>
+      <td style="padding: 8px;">[The reviewers agree that the paper is well-written, the problem is interesting, and the proposed method is novel.]&larr;<span style="color: blue; font-weight: bold;"> STRENGTH</span> [The paper should be accepted.]&larr;<span style="color: blue; font-weight: bold;"> DECISION</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">4</td>
+      <td style="padding: 8px;">misc | abstract |<br>strength | decision</td>
+      <td style="padding: 8px;">[Thanks for your submission to ICLR.]&larr;<span style="color: blue; font-weight: bold;"> MISC</span><br>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]&larr;<span style="color: blue; font-weight: bold;"> ABSTRACT</span><br>[This is an interesting and fairly original problem, and the proposed method is shown to be very effective.]&larr;<span style="color: blue; font-weight: bold;"> STRENGTH</span><br>[All reviewers agree that the paper is well written, and I'm happy to recommend acceptance.]&larr;<span style="color: blue; font-weight: bold;"> DECISION</span></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">5</td>
+      <td style="padding: 8px;">weakness |<br>rebuttal process</td>
+      <td style="padding: 8px;">[ The reviewers raised a number of concerns including the correctness of the proof, the lack of a simple baseline, and the presentation of the paper.]&larr;<span style="color: blue; font-weight: bold;"> WEAKNESS</span> [The authors' rebuttal addressed some of these concerns, but not to the degree that the reviewers felt it should be.]&larr;<span style="color: blue; font-weight: bold;"> REBUTTAL PROCESS</span></td>
+    </tr>
+  </tbody>
+</table>
+```

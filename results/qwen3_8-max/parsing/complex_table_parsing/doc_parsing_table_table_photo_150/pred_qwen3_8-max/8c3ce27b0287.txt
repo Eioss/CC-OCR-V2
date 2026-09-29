@@ -1,0 +1,32 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; border-bottom: 2px solid black;">Models</th>
+      <th style="padding: 8px; border-bottom: 2px solid black;">Precision</th>
+      <th style="padding: 8px; border-bottom: 2px solid black;">Recall</th>
+      <th style="padding: 8px; border-bottom: 2px solid black;">F<sub>1</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; font-weight: bold;">Pipeline</td>
+      <td style="padding: 8px;">16.58</td>
+      <td style="padding: 8px;">22.11</td>
+      <td style="padding: 8px;">18.95</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; font-weight: bold;">Traversal</td>
+      <td style="padding: 8px;">24.06</td>
+      <td style="padding: 8px; font-weight: bold;">38.74</td>
+      <td style="padding: 8px;">29.69</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; font-weight: bold; border-bottom: 2px solid black;">Multi-task</td>
+      <td style="padding: 8px; font-weight: bold; border-bottom: 2px solid black;">43.54</td>
+      <td style="padding: 8px; font-weight: bold; border-bottom: 2px solid black;">30.57</td>
+      <td style="padding: 8px; font-weight: bold; border-bottom: 2px solid black;">35.92</td>
+    </tr>
+  </tbody>
+</table>
+```

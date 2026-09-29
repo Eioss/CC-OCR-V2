@@ -1,0 +1,123 @@
+```latex
+\[
+\text{1. Write the appropriate formula for each of the following:}
+\]
+
+\[
+\text{i.Standard error of the estimate of a single value of y at a given value of x.}
+\]
+\[
+S_e=\sqrt{\frac{SSE}{n-2}}
+\]
+
+\[
+\text{ii. Standard error of the estimate of the coefficient of x in the SLR equation}
+\]
+\[
+S_b \to \sqrt{\frac{\sigma^2}{SS_x}}
+\]
+
+\[
+\text{iii. Adjusted sum of squares of variable y}
+\]
+\[
+SS_y \to \sum y^2-\frac{\left(\sum y\right)^2}{n}
+\]
+
+\[
+\text{iv. Total SS (SSTo) of the dependent variable in the (SLR) regression of Y against X.}
+\]
+
+\[
+\text{v.Write the linear transformation for the model: } y=ae^{bx}
+\]
+\[
+\text{where a and b are constants?}
+\]
+
+\[
+\text{2. i. In linear regression modeling, what assumptions are usually made about the error term in the}
+\]
+\[
+\text{model: } Y=\beta_0+\beta_1x+e
+\]
+\[
+\text{unexplained variation}
+\]
+\[
+\text{of Y}
+\]
+
+\[
+\text{ii. Is the prediction or confidence interval of constant width over the range of the regressor}
+\]
+\[
+\text{variable? Explain your answer briefly.}
+\]
+\[
+\text{prediction interval because a prediction}
+\]
+\[
+\text{interval is over a single value while Confidence is an average}
+\]
+
+\[
+\text{3. State whether the following are true or false}
+\]
+
+\[
+\text{If variable Y and X (a regressor variable) are strongly statistically associated then we can predict}
+\]
+\[
+\text{Y from X reasonably accurately.}
+\]
+
+\[
+\text{In all cases, in a SLR model, if variable Y and X are strongly statistically associated then X}
+\]
+\[
+\text{causes Y.}
+\]
+
+\[
+\text{If a test for the X coefficient in the model } \hat{Y}=\beta_0+\beta_1x \text{ shows that it is non-significant, then we}
+\]
+\[
+\text{can use the mean of Y as an estimate for Y at any valid value of X.}
+\]
+
+\[
+\text{`Regressor' and `predictor' are synonyms for `independent variable' in a SLR model.}
+\]
+
+\[
+\text{4. An experiment was conducted to determine the effect of population size in various cities on}
+\]
+\[
+\text{ozone (air pollution) concentration. The table below shows the results: the 1999 population in}
+\]
+\[
+\text{millions (Y) and the amount of ozone present in ppb (parts per billion (X).}
+\]
+
+\[
+\begin{array}{|l|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\text{Population (million), Y} & 126 & 135 & 126 & 135 & 124 & 128 & 130 & 128 & 126 & 128 & 128 & 129 \\
+\hline
+\text{Ozone conc (ppb), X} & 0.6 & 4.9 & 0.2 & 0.5 & 1.1 & 0.1 & 1.1 & 2.3 & 0.6 & 2.3 \\
+\hline
+\end{array}
+\]
+
+\[
+\text{i.Derive the predictive equation for the simple linear regression model of Y as a function of X,}
+\]
+\[
+\text{showing your formulas and calculations.}
+\]
+
+\[
+\hat{y}=125.93762+1.654x
+\]
+```

@@ -1,0 +1,53 @@
+Based on the image provided, here is the transcription of the text into LaTeX format. Since there are no complex tables or mathematical equations in the image, the transcription focuses on accurately reproducing the text layout and structure using standard LaTeX document formatting.
+
+```latex
+\documentclass[12pt,a4paper]{ctexart}
+\usepackage{geometry}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\usepackage{setspace}
+\onehalfspacing
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{投资经营合作合同范本}
+\end{center}
+
+\vspace{1cm}
+
+\textbf{投资经营合作合同范本一}
+
+\vspace{0.5cm}
+
+\textbf{甲方：}
+
+\textbf{乙方：}
+
+\vspace{0.5cm}
+
+根据有关法律、法规，本着平等互利的原则，甲、乙双方共同合作投资经营商铺做安防项目，经友好协商一致，特订立本协议书。
+
+\vspace{0.5cm}
+
+\textbf{第一章 合作项目}
+
+\textbf{第一条：}
+
+\begin{enumerate}
+    \item[1、] 双方拟共同投资经营的项目为位于 xx 电脑城，并挂靠甲方的名义，甲方无偿提供商铺内一切货源和安防配套经营
+    
+    \item[2、] 合作本项目内容为：
+    
+    乙方同意共同出资购买 xx 电脑城商铺，并装修，同时按照双方确定的安防材料设备的标准及规模进行装修
+    
+    \item[4、] 本合作项目期限为 x 年，自本合同签订之日开始计算。
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\textbf{第二章 出资及盈亏分担}
+
+\textbf{第二条：} 乙方确认本项目的第一期投资为 x 万元，甲方负责商店的进
+
+\end{document}
+```

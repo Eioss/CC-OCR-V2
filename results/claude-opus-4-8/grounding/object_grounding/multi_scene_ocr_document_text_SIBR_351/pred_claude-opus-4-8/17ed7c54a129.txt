@@ -1,0 +1,23 @@
+```json
+[
+  {"bbox_2d": [115, 105, 815, 173], "label": "Title"},
+  {"bbox_2d": [115, 110, 380, 145], "label": "Company Name"},
+  {"bbox_2d": [115, 132, 660, 152], "label": "Address"},
+  {"bbox_2d": [113, 158, 240, 172], "label": "TEL"},
+  {"bbox_2d": [112, 175, 245, 192], "label": "ATTN"},
+  {"bbox_2d": [669, 158, 800, 175], "label": "Invoice"},
+  {"bbox_2d": [669, 174, 760, 190], "label": "Date"},
+  {"bbox_2d": [646, 273, 740, 290], "label": "GROSS WEIGHT"},
+  {"bbox_2d": [646, 287, 730, 304], "label": "NET WEIGHT"},
+  {"bbox_2d": [646, 320, 750, 337], "label": "Origin"},
+  {"bbox_2d": [113, 422, 215, 440], "label": "Vessels"},
+  {"bbox_2d": [481, 421, 565, 438], "label": "On or About"},
+  {"bbox_2d": [112, 460, 175, 480], "label": "From"},
+  {"bbox_2d": [113, 502, 230, 522], "label": "Payment terms"},
+  {"bbox_2d": [148, 595, 340, 615], "label": "-Description of Goods MATERIAL"},
+  {"bbox_2d": [148, 624, 565, 670], "label": "Description of Goods MATERIAL"},
+  {"bbox_2d": [598, 622, 680, 670], "label": "Quantity"},
+  {"bbox_2d": [727, 622, 790, 670], "label": "Unit Price CIF"},
+  {"bbox_2d": [827, 622, 895, 670], "label": "Amount USD"}
+]
+```

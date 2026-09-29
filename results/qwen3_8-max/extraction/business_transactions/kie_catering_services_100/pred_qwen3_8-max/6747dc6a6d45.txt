@@ -1,0 +1,10 @@
+```json
+{
+    "menu": [
+        "BASO KUAH 1 43,636 43,636",
+        "A.MINERAL GELAS 1 3,000 3,000"
+    ],
+    "sub_total": "46,636",
+    "total": "51,300"
+}
+```

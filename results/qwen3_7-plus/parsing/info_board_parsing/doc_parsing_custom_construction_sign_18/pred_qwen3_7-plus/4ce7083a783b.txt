@@ -1,0 +1,136 @@
+```html
+<html><body>
+<h2 style="text-align: center;">文明施工与进度公示牌</h2>
+<p style="text-align: center;">进度计划 / 现场管理 / 联系方式</p>
+<p style="text-align: right;">文档编号 SG-967516 日期 2025-07-16</p>
+<hr/>
+<p><strong>项目名称：</strong>青岚省岚原州岚原皓月工程有限公司-澄岳省岚原州南桥区星港大道20号 9栋 建设项目<br/><strong>项目负责人：</strong>韩沐阳 &nbsp;&nbsp;&nbsp;&nbsp; <strong>安全员：</strong>褚雨桐 &nbsp;&nbsp;&nbsp;&nbsp; <strong>联系电话：</strong>15457938454</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th colspan="6">里程碑计划表（合并）</th>
+            <th colspan="5">现场管理检查记录（合并）</th>
+            <th colspan="2">备注脚注（合并）</th>
+        </tr>
+        <tr>
+            <th>编码/ID</th>
+            <th>节点名称</th>
+            <th>开始日期</th>
+            <th>完成日期</th>
+            <th>责任人</th>
+            <th>状态<br/>(√/×/等级)</th>
+            <th>问题描述</th>
+            <th>整改要求</th>
+            <th>整改责任人</th>
+            <th>复验结果<br/>(√/×)</th>
+            <th>签字确认<br/>(模拟手写)</th>
+            <th>计费规则/<br/>条款</th>
+            <th>长串编号<br/>(844355771090524882)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>M-01A</td>
+            <td>基坑开挖</td>
+            <td>2025.06.01</td>
+            <td>2025.06.30</td>
+            <td>李建国</td>
+            <td>√</td>
+            <td>围挡破损</td>
+            <td>立即修复</td>
+            <td>张伟</td>
+            <td>√</td>
+            <td>李建国</td>
+            <td>按工日计</td>
+            <td>844355771090524882</td>
+        </tr>
+        <tr>
+            <td>M-02B</td>
+            <td>基础浇筑</td>
+            <td>2025.07.01</td>
+            <td>2025.07.15</td>
+            <td>王志强</td>
+            <td>√</td>
+            <td>钢筋锈蚀</td>
+            <td>除锈处理</td>
+            <td>刘海</td>
+            <td>√</td>
+            <td>王志强</td>
+            <td>按方量计</td>
+            <td>922511833467591220</td>
+        </tr>
+        <tr>
+            <td>M-03C</td>
+            <td>主体封顶</td>
+            <td>2025.09.15</td>
+            <td>2025.10.15</td>
+            <td>赵勇</td>
+            <td>A级</td>
+            <td>模板变形</td>
+            <td>更换模板</td>
+            <td>陈明</td>
+            <td>√</td>
+            <td>赵勇</td>
+            <td>综合单价</td>
+            <td>100944567890123456</td>
+        </tr>
+        <tr>
+            <td>M-04D</td>
+            <td>外墙装饰</td>
+            <td>2025.11.01</td>
+            <td>2025.12.15</td>
+            <td>孙立</td>
+            <td>B级</td>
+            <td>涂料色差</td>
+            <td>重新粉刷</td>
+            <td>周浩</td>
+            <td>×</td>
+            <td>孙立</td>
+            <td>计件收费</td>
+            <td>213655888901234567</td>
+        </tr>
+        <tr>
+            <td>M-05E</td>
+            <td>竣工验收</td>
+            <td>2026.01.10</td>
+            <td>2026.01.31</td>
+            <td>吴涛</td>
+            <td>待定</td>
+            <td>暂无问题</td>
+            <td>无</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>结算支付</td>
+            <td>324766999012345678</td>
+        </tr>
+        <tr>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+        </tr>
+    </tbody>
+</table>
+
+<div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; padding-right: 20px;">
+        <p><strong>备注脚注区：</strong>本公示牌内容仅供参考，最终以施工合同及监理指令为准。所有进场人员需佩戴安全帽。<br/>整改要求应在限期内完成，逾期追责。</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="imgs/img_in_image_box_850_760_900_840.jpg" alt="QR Code" width="15%" />
+        <p style="font-size: 10px; margin-top: 5px;">https://example.com/doc-72717416</p>
+    </div>
+</div>
+</body></html>
+```

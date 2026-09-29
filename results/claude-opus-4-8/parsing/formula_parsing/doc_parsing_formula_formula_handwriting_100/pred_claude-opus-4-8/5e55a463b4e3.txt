@@ -1,0 +1,19 @@
+$$\|f(t,\cdot)\|_{H^{s-1}} \leq C_{\varepsilon,A}\big(\|u_t(t,\cdot)\|_{H^{s-1}} + \|\nabla(u-Q)(t,\cdot)\|_{H^{s-1}}\big).$$
+
+$$\mathcal{I} = \langle\langle L_i, S_i\rangle : i \in K\rangle$$
+
+$$\langle\phi^r, u\rangle\langle\langle\phi^r, v\rangle$$
+
+$$p_{jk}^{t+1} = \frac{\alpha_{t+1}y_{jk}^t + A_t w_{jk}^t}{A_{t+1}}, \quad k=1,\ldots,n$$
+
+$$\delta(D^2)(t,\Delta t,k,N) \equiv (D^2)(t,\Delta t,k,N) - \{D(t,\Delta t,k,N) - \{D(t,\Delta t,k,N)\}^2 = \frac{\delta(t^2)(t,\Delta t,k)}{N}$$
+
+$$\kappa t \|x(t) - x^*\|^2 \leq t\big(F(x(t)) - F^*\big) = a(t),$$
+
+$$(R_D(\mu+i\varepsilon)f, g) = \int_{\mathbb{R}^n} \frac{1}{\xi^2/2 - (\mu+i\varepsilon)}\hat{f}(\xi)\overline{\hat{g}(\xi)}\,d\xi$$
+
+$$= \int_0^\infty \frac{1}{(2\lambda)^{(m-2)/2}}\frac{1}{(\lambda-\mu-i\varepsilon)}\int_{S^{m-1}}\hat{f}(\sqrt{2\lambda}\,\omega)\overline{\hat{g}(\sqrt{2\lambda}\,\omega)}\,d\omega\,d\lambda,$$
+
+$$I = \sup_{0<\rho<r}\rho^{-n}\int_{B_\rho(x)}M_\alpha f(y)\,dy,$$
+
+$$\psi(\beta) + \psi(\beta + 2(1-r)) - 2\psi(r-1+\beta) - 2\psi(r-1+\beta) + 1)\ln\!\left(1 + \frac{(\rho-r)^2}{(r-1)}\right),$$

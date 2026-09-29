@@ -1,0 +1,12 @@
+```json
+{
+    "menu": [
+        "BASO TAHU *46000",
+        "NASI PUTIH *6000",
+        "BASO TAHU *46000",
+        "2x 6000",
+        "NASI PUTIH *12000"
+    ],
+    "total": "*110000"
+}
+```

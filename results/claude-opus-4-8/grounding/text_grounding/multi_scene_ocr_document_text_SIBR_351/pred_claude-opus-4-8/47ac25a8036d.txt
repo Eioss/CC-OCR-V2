@@ -1,0 +1,7 @@
+There are several instances of '甲' in this image. Let me identify them:
+
+(348, 686, 391, 720) # 真空采血器 row
+(348, 727, 391, 759) # 血清淀粉样蛋白测定 row
+(347, 766, 392, 800) # 超敏C反应蛋白测定 row
+(348, 807, 392, 841) # 血常规 row
+(345, 1020, 391, 1056) # 静脉采血 row

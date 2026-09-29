@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "10/30/20",
+    "Arrival Date": "10/26/20",
+    "Total Amount": "2,400.00",
+    "Name": "Derek Wise",
+    "Balance": "2,400.00 RMB",
+    "Address": "浙江省杭州市紫金港路西溪天堂国际旅游综合体1号",
+    "Hotel Name": "西溪喜来登度假大酒店"
+}
+```

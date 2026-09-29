@@ -1,0 +1,50 @@
+```latex
+\begin{center}
+    \textbf{\Large Ruijin Hospital Shanghai Jiaotong University School of Medicine} \\[1em]
+    \textbf{\large Clinical Laboratory Report}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}p{0.45\textwidth} p{0.5\textwidth}@{}}
+    Name: & Sample Numbr: 743 \\
+    Gender: & PatientNo/PassportNo : 1320021c \hspace{2cm} Birthday: 1 \\
+    Age: & Clinical Diagnosis: Regular inspection \hspace{0.5cm} Sample Type: Nasopharynx swab \\
+    Application Section Office: Ruijin Hospital Shanghai Jiaotong University School of Medicine & Testing Time: 2021-08-14
+\end{tabular}
+
+\vspace{1em}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{@{}p{0.2\textwidth} p{0.15\textwidth} p{0.2\textwidth} p{0.4\textwidth}@{}}
+    \hline
+    \textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+    \hline
+    SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    \hline
+\end{tabular}
+\renewcommand{\arraystretch}{1}
+
+\vspace{2em}
+
+\noindent Statement:
+\begin{enumerate}
+    \item The testing result may be affected by the sampling time, sampling body part as well as the methodology limitations. The result should be analyzed with clinical manifestations.
+    \item The testing result in this report is only applicable to the delivered specimen.
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent Sampling Time : 21-08-14 09:52 \quad Reporting Time : 21-08-14 13:26 \quad Inspector: [Signature] \quad Auditor: [Signature] \\
+\noindent Received Time : 21-08-14 11:03 \quad Printing Time : 21-08-14 07:59 \\
+\noindent The test results are just responsible for the sample; and used only for reference by clinical doctors.
+
+\vspace{1em}
+
+\noindent add.: No197 Ruilin 2 Road, Huangpu district, Shanghai \qquad Tel.: 8621-64370045 \\
+\noindent Sheet 1 \hfill (病毒室)
+```

@@ -1,0 +1,27 @@
+\[
+K_x^{[1]}(u)=\left(a(x-u_a)+K_x^{[1]}(u_a)\right)\vee\left(b(x-u_b)+K_x^{[1]}(u_b)\right),\quad \text{if }M\in(u_a,u_b).
+\]
+
+\[
+f(px+y)-f(py)+f(pu)\ge f(px)\to p(u)+f(py)-pD(x)
+\]
+
+\[
+-q''\!\left(\frac{d(x)}{\varepsilon^3}\right)+W'\!\left(q\!\left(\frac{d(x)}{\varepsilon^3}\right)\right)-b\!\left(q\!\left(\frac{d(x)}{\varepsilon^3}\right)\right)^2-q\!\left(\frac{d(x)}{\varepsilon^3}\right)\Delta d(x)+3Q\!\left(q\!\left(\frac{d(x)}{\varepsilon^3}\right)\right)^2|\nabla_ND|=0.
+\]
+
+\[
+\varepsilon_N(\omega)=\tan\omega,\quad N=0,1,2,\ldots
+\]
+
+\[
+\mathbb{P}[\xi(m),p(m)]=[r(m),p(m)],\quad p(m)\ne0.
+\]
+
+\[
+\nu(t,x)\supset\mathcal N,\quad |D_\beta\nu(t,x)p|\le(p^0)^{-1},\quad |p|>0.
+\]
+
+\[
+(\omega\cdot d(q(\omega,k))-d(\omega,k))^2=d(\omega,k)-d(\{y_i,Y\}\cap X_i\nu)=[DR]^i_u(\nu).
+\]

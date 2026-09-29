@@ -1,0 +1,19 @@
+$$H'(\xi_1) = 3(1-\alpha)\xi_1^2 + 3\xi^2 - 6\xi\xi_1 \geq 3(1-\alpha)\xi_1^2 - 3 - 6|\xi_1| \geq 2(1-\alpha)\xi_1^2$$
+
+$$\int_0^T \left(|\hat{\theta}(t)|_q^q\right)^{(5-b)/3(q-1-b)} dt \leq C\left(1 + \int_0^T |\nabla\hat{\theta}(t)|_2^2 dt\right) \leq C\left(1 + \int_0^T |\hat{\theta}(t)|_{2-a}^{2-a} dt\right).$$
+
+$$I \lesssim \|f\|_p^2 \overset{nd-2an}{\sim} 2 \sum_{\sigma_l \in G_1} \sum_{\sigma_k \in G_2} \int_{\sigma_l} \int_{\sigma_k} |x-u|^{-2a} \, du \, dx =$$
+
+$$\|f\|_p^2 \overset{nd-2an}{\sim} 2 \int_Q \int_{R^d \backslash Q'} |x-u|^{-2a} \, du \, dx,$$
+
+$$\left\|E_0\left(\frac{f^2(\zeta_k}{|\zeta_k|}(1-|\zeta_k|)^{n-k+1}\right)\right\|_{P/2} \leq \|\zeta_0\|_{P/2} \sum_{\ell=0}^{k-1} \int_E (1-|y|)^{n-\ell-2} \frac{f^2(y)}{|y|} \, dv(y)$$
+
+$$+ \|f^2(\zeta_0)|\zeta_0|^{-1}(1-|\zeta_0|)^{n+1}\|_{P/2}.$$
+
+$$\left|\sum_{m \in C} \frac{1}{m^p \|m\sigma\|^p} - \zeta(2p)a_\ell^p\right| \leq \frac{3^p}{2p-1} + 2p3^{p-1}\zeta(2p)a_\ell^{p-1}.$$
+
+$$dv(x) = \begin{cases} -s^2 x^{s-1}\log x \, dx & \text{if } s=t \\ st \dfrac{x^{t-1}-x^{s-1}}{s-t} dx & \text{if } s \neq t. \end{cases}$$
+
+$$\frac{\Gamma(n-\gamma j)}{\Gamma(n+1)} = n^{-\gamma j}\left(n^{-1} + O(n^{-2})\right), \text{ as } n \to \infty.$$
+
+$$\int_0^\infty u^{b-1}(u+1)^{a-c}(w+vu)^{-a} \, du = w^{-a} B(b, c-b) \, _2F_1[a,b;c;1-v/w].$$

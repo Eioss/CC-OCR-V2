@@ -1,0 +1,78 @@
+I'll transcribe this Chinese partnership agreement document into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{enumitem}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+伙分配的重点，将以合伙人出资为依据，按比例分配。
+
+\vspace{1em}
+
+\hspace{2em}4、债务承担：如在合伙经营过程中有债务产生，合伙债务先由合伙财产偿还，合伙财产不足清偿时，以各合伙人的出资为据，按比例承担。
+
+\vspace{0.5em}
+
+\noindent\textbf{第七条\quad 入伙、退伙、出资的转让}
+
+\vspace{0.5em}
+
+\hspace{2em}（一）入伙
+
+\vspace{0.5em}
+
+\hspace{2em}1.\quad 新合伙人入伙，必须经全体合伙人同意；
+
+\vspace{0.5em}
+
+\hspace{2em}2.\quad 新合伙人须承认并签署本合伙协议；
+
+\vspace{0.5em}
+
+\hspace{2em}3.\quad 除入伙协议另有约定外，入伙的新合伙人与原合伙人享有同等权利，承担同等责任；入伙的新合伙人对入伙前合伙企业的债务承担连带责任。
+
+\vspace{0.5em}
+
+\hspace{2em}（二）退伙
+
+\vspace{0.5em}
+
+\hspace{2em}1.\quad 自愿退伙。在经营期限内，有下列情形之一时，合伙人可以退伙：
+
+\vspace{0.5em}
+
+\hspace{2em}①合伙协议约定的退伙事由出现；
+
+\vspace{0.5em}
+
+\hspace{2em}②经全体合伙人书面同意退伙；
+
+\vspace{0.5em}
+
+\hspace{2em}③发生合伙人难以继续参加合伙企业的法定事由。
+
+\vspace{0.5em}
+
+\hspace{3em}合伙人擅自退伙给合伙造成损失的，应当赔偿其他合伙人的全部损失。
+
+\vspace{2em}
+
+\begin{center}
+第3页，共9页
+\end{center}
+
+\end{CJK}
+\end{document}
+```
+
+I've transcribed the document maintaining its structure, including:
+- The continuation of point 4 about debt responsibility (债务承担)
+- Article 7 (第七条) heading about joining, withdrawing, and transferring capital contributions
+- Section (一) 入伙 (Joining) with its three numbered points
+- Section (二) 退伙 (Withdrawal) with the voluntary withdrawal conditions marked ①②③
+- The closing paragraph about compensation
+- The page footer "第3页，共9页" (Page 3 of 9)

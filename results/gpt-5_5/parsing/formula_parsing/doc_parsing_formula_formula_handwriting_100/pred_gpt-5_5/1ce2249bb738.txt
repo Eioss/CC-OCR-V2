@@ -1,0 +1,34 @@
+\[
+\begin{aligned}
+\mathbb{E}\left[\int_{0}^{T}\left|N(T-t)\right|^{2}x_t^{2}\,dt\right]
+&=\mathbb{E}\left[\int \left|N(r)\right|^{2}x_{T-r}^{2}\,dr\right] \\
+&\le \mathbb{E}\left[\exp\left\{\int_{0}^{T}\left|N(r)\right|^{2}\left|x_{T-r}\right|^{2}\,dr\right\}\right]
+=\mathbb{E}\left[\zeta^{2}\right]<\infty,
+\end{aligned}
+\]
+
+\[
+=\sum_{i\in N_u}\left(2v_i(r)+x_i(r)\right)+\sum_{i\in N_v}2v_i(x)
+\]
+
+\[
+\sum_{t=1}^{n}\ell_t^\top w_t-\sum_{t=1}^{n}\ell_t^\top u
+\le D_R(u,w_1)+\sum_{t=1}^{n}\frac{\alpha}{2}\frac{\ell_{t,i}^{2}}{2(q_t+1)\Gamma(w_{t,i})}
+\]
+
+\[
+C^k(D)=\left\{f\in C(D)\mid \|f\|_{C^k(D)}<\infty\right\}
+\]
+
+\[
+\|u+x\|_{L^\infty}+(d-1)\|v\|_{L^2}+\|(t-|x|)\|_{L^2}+(d-1)\|v\|_{L^2}\le C(t)^{1/2}
+\]
+
+\[
+\left|\int_{h\le |u|\le x}L_{u,t}c\,d\varphi_t(t)\right|
+\le C\left(
+\int_{x\le |z|\le x}\frac{|d\varphi_1(t)|}{u_t^2}
++\int_{h\le u+x}\frac{|d\varphi_2(t)|}{u_t^2}
++\int_{x\le \varphi\le x}\frac{|d\varphi_2(t)|}{u_t^2}
+\right)
+\]

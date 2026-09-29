@@ -1,0 +1,30 @@
+```json
+[
+  {"bbox_2d": [84, 67, 219, 93], "label": "Company Name"},
+  {"bbox_2d": [276, 67, 627, 92], "label": "ADD"},
+  {"bbox_2d": [413, 96, 707, 121], "label": "FAX"},
+  {"bbox_2d": [330, 124, 487, 147], "label": "Title"},
+  {"bbox_2d": [108, 175, 327, 200], "label": "To"},
+  {"bbox_2d": [110, 207, 374, 230], "label": "Address"},
+  {"bbox_2d": [501, 182, 599, 203], "label": "No."},
+  {"bbox_2d": [501, 209, 605, 230], "label": "Date"},
+  {"bbox_2d": [413, 264, 730, 287], "label": "Terms of Payment"},
+  {"bbox_2d": [254, 289, 433, 311], "label": "FROM"},
+  {"bbox_2d": [479, 289, 654, 311], "label": "Transportation Method"},
+  {"bbox_2d": [80, 385, 99, 405], "label": "Marks"},
+  {"bbox_2d": [113, 380, 296, 401], "label": "Product Name"},
+  {"bbox_2d": [113, 411, 256, 432], "label": "Model"},
+  {"bbox_2d": [403, 380, 449, 402], "label": "Quantity (KGS)"},
+  {"bbox_2d": [499, 380, 575, 402], "label": "Unit Price (JPY/KG)"},
+  {"bbox_2d": [635, 380, 794, 402], "label": "Amount (JPY)"},
+  {"bbox_2d": [113, 437, 290, 458], "label": "Product Name"},
+  {"bbox_2d": [113, 467, 256, 488], "label": "Model"},
+  {"bbox_2d": [400, 436, 451, 458], "label": "Quantity (KGS)"},
+  {"bbox_2d": [499, 437, 575, 458], "label": "Unit Price (JPY/KG)"},
+  {"bbox_2d": [635, 437, 794, 458], "label": "Amount (JPY)"},
+  {"bbox_2d": [410, 890, 470, 911], "label": "Quantity (KGS)"},
+  {"bbox_2d": [625, 889, 789, 911], "label": "Amount (JPY)"},
+  {"bbox_2d": [206, 950, 257, 972], "label": "P/O No."},
+  {"bbox_2d": [123, 1040, 276, 1062], "label": "II/S-CODE"}
+]
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "date": "02/06/2018",
+    "doc_no_receipt_no": "SP-null-18/06/02-1016303",
+    "seller_address": "NO.1, JALAN PERMAS 10/5, BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU, JOHOR.",
+    "seller_gst_id": "001559298048",
+    "seller_name": "MOONLIGHT CAKE HOUSE SDN BHD",
+    "seller_phone": "07-387 3322",
+    "total_amount": "RM16.20",
+    "total_tax": "0.00"
+}
+```

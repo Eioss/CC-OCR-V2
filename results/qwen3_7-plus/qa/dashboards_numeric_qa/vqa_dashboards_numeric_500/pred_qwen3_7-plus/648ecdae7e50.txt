@@ -1,0 +1,13 @@
+Based on the comparison table titled **“VMWARE VSPHERE VS. MICROSOFT HYPER-V”** at the bottom of the infographic, there are **three different types (editions) of Microsoft Hyper-V** listed:
+
+1. **Microsoft STANDARD**
+2. **Microsoft ENT.** (Enterprise)
+3. **Microsoft DC** (Datacenter)
+
+These are shown as column headers under the “Microsoft” side of the comparison, alongside their VMware counterparts.
+
+---
+
+✅ **Answer: 3**
+
+*(Note: While “Hyper-V” is the underlying technology, the infographic distinguishes between these three licensing/feature tiers — Standard, Enterprise, and Datacenter — which represent different product editions with varying capabilities.)*

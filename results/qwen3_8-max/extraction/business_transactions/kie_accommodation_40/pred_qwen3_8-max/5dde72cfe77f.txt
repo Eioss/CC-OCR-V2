@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "2020-06-23 10:44:52",
+    "Arrival Date": "2020-06-19 16:34:00",
+    "Total Amount": "1630.00",
+    "Name": "许建平",
+    "Balance": "0.00",
+    "Address": "",
+    "Hotel Name": ""
+}
+```

@@ -1,0 +1,149 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service Site Staffing Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        table {
+            width: 100%;
+            max-width: 900px;
+            border-collapse: collapse;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 10px 15px;
+            text-align: left;
+            border-bottom: 1px solid #dddddd;
+        }
+        /* Header Styles */
+        .main-header {
+            background-color: #ffffff;
+            color: #333333;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #333;
+        }
+        .sub-header {
+            background-color: #4a4a4a;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        /* Row Styles */
+        .row-light {
+            background-color: #ffffff;
+        }
+        .row-dark {
+            background-color: #e6e6e6;
+        }
+        .total-row {
+            background-color: #d9d9d9;
+            font-weight: bold;
+        }
+        /* Column specific styles */
+        .col-label {
+            width: 75%;
+        }
+        .col-value {
+            width: 25%;
+            text-align: right;
+        }
+        .notes-section {
+            border-top: 2px solid #333;
+            height: 100px;
+            vertical-align: top;
+        }
+        .footer-text {
+            font-size: 0.7em;
+            color: #666;
+            text-align: right;
+            display: block;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <!-- Main Title -->
+        <tr>
+            <th colspan="2" class="main-header">SERVICE SITE STAFFING</th>
+        </tr>
+        
+        <!-- Sub Headers -->
+        <tr>
+            <td class="sub-header col-label">Personnel by Major Service Categories</td>
+            <td class="sub-header col-value">FTEs</td>
+        </tr>
+
+        <!-- Medical Services Section -->
+        <tr>
+            <td colspan="2" class="sub-header">Medical Services</td>
+        </tr>
+        <tr class="row-light"><td>1) Family Practitioners</td><td></td></tr>
+        <tr class="row-dark"><td>2) General Practitioners</td><td></td></tr>
+        <tr class="row-light"><td>3) Internists</td><td></td></tr>
+        <tr class="row-dark"><td>4) Obstetrician/Gynecologists</td><td></td></tr>
+        <tr class="row-light"><td>5) Pediatricians</td><td></td></tr>
+        <tr class="row-dark"><td>6) Psychiatrists</td><td></td></tr>
+        <tr class="row-light"><td>7) Other Physician Specialists</td><td></td></tr>
+        <tr class="row-dark"><td>8) Total Physicians (lines 1-7)</td><td></td></tr>
+        <tr class="row-light"><td>9) Nurse Practitioners/Physician Assistants</td><td>0.00</td></tr>
+        <tr class="row-dark"><td>10) Certified Nurse Midwives</td><td></td></tr>
+        <tr class="row-light"><td>11) Nurses</td><td></td></tr>
+        <tr class="row-dark"><td>12) Other Medical Support Personnel</td><td></td></tr>
+        <tr class="total-row"><td>13) Total Medical Services (lines 8-12)</td><td>0.00</td></tr>
+
+        <!-- Ancillary Services Section -->
+        <tr>
+            <td colspan="2" class="sub-header">Ancillary Services</td>
+        </tr>
+        <tr class="row-light"><td>14) Laboratory Services Personnel</td><td></td></tr>
+        <tr class="row-dark"><td>15) X-Ray Services Personnel</td><td></td></tr>
+        <tr class="row-light"><td>16) Pharmacy Personnel</td><td></td></tr>
+        <tr class="total-row"><td>17) Total Ancillary Services (lines 14-16)</td><td>0.00</td></tr>
+
+        <!-- Dental Services Section -->
+        <tr>
+            <td colspan="2" class="sub-header">Dental Services</td>
+        </tr>
+        <tr class="row-light"><td>18) Dentists</td><td></td></tr>
+        <tr class="row-dark"><td>19) Dental Hygienists</td><td></td></tr>
+        <tr class="row-light"><td>20) Dental Assistants, Aides, Technicians, and Support</td><td>0.00</td></tr>
+        <tr class="total-row"><td>21) Total Dental Services (lines 18-20)</td><td>0.00</td></tr>
+
+        <!-- Mental Health Section -->
+        <tr>
+            <td colspan="2" class="sub-header">Mental Health and Behavioral Health Services</td>
+        </tr>
+        <tr class="row-light"><td>22) Mental Health & Behavioral Health Specialists</td><td></td></tr>
+        <tr class="row-dark"><td>23) Mental Health & Behavioral Health Support Personnel</td><td>0.00</td></tr>
+        <tr class="total-row"><td>24) Total MH & BH Services (lines 22-23)</td><td>0.00</td></tr>
+
+        <!-- Grand Total -->
+        <tr class="total-row">
+            <td>25) TOTAL (lines 13, 17, 21, and 24)</td>
+            <td></td>
+        </tr>
+
+        <!-- Notes Section -->
+        <tr>
+            <td colspan="2" class="notes-section">
+                <strong>NOTES:</strong>
+                <span class="footer-text">Revised June 2014</span>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
+```

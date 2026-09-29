@@ -1,0 +1,14 @@
+\left(\begin{array}{ccccccccccccc}
+&&&&&&\vdots&&&&&&\\
+&&&&&&x&&&&&&\\
+&&&c&c&c&x&c&c&c&&&\\
+&&&c&b&b&x&b&b&c&&&\\
+&&&c&b&a&x&a&b&c&&&\\
+\cdots&x&x&x&x&x&x&x&x&x&x&x&\cdots\\
+&&&c&b&a&x&a&b&c&&&\\
+&&&c&b&b&x&b&b&c&&&\\
+&&&c&c&c&x&c&c&c&&&\\
+&&&&&&x&&&&&&\\
+&&&&&&x&&&&&&\\
+&&&&&&\vdots&&&&&&
+\end{array}\right)

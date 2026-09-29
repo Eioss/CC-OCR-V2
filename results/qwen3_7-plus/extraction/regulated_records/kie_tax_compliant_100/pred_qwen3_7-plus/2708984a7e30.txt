@@ -1,0 +1,12 @@
+```json
+{
+    "date": "17/05/17",
+    "doc_no_receipt_no": "SIP03201705170016",
+    "seller_address": "4243,COMPLEKS PERNIAGAAN SRI GAYA, JLN TMN SUBANG JASA 3, 40150 SELANGOR",
+    "seller_gst_id": "001627654144",
+    "seller_name": "HERO DISTRIBUTION SDN BHD",
+    "seller_phone": "666770-0",
+    "total_amount": "41.50",
+    "total_tax": "1.02"
+}
+```

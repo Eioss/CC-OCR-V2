@@ -1,0 +1,72 @@
+[
+  {"bbox_2d":[68,214,125,225],"label":"GUEST 客人"},
+  {"bbox_2d":[69,230,254,244],"label":"COMPANY 公司"},
+  {"bbox_2d":[76,257,353,284],"label":"ADDRESS"},
+  {"bbox_2d":[604,204,635,216],"label":"ROOM/房号"},
+  {"bbox_2d":[604,219,662,232],"label":"CONF.NO/确认号"},
+  {"bbox_2d":[604,237,647,249],"label":"RATE/房价"},
+  {"bbox_2d":[604,252,638,265],"label":"PAGE/账单页数"},
+  {"bbox_2d":[603,265,690,281],"label":"CASHIER/收银员"},
+  {"bbox_2d":[604,283,657,296],"label":"ARRIVAL/入住日期"},
+  {"bbox_2d":[604,299,659,312],"label":"DEPARTURE/离店日期"},
+  {"bbox_2d":[604,314,671,327],"label":"Marriott Bonvoy#/万豪旅享家号码"},
+  {"bbox_2d":[603,326,721,340],"label":"E-MAIL/邮件地址"},
+
+  {"bbox_2d":[90,387,140,399],"label":"DATE/日期"},
+  {"bbox_2d":[220,385,247,397],"label":"REFERENCE/项目"},
+  {"bbox_2d":[762,377,805,389],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,405,140,417],"label":"DATE/日期"},
+  {"bbox_2d":[220,403,283,415],"label":"REFERENCE/项目"},
+  {"bbox_2d":[769,395,805,407],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,423,140,435],"label":"DATE/日期"},
+  {"bbox_2d":[220,421,259,433],"label":"REFERENCE/项目"},
+  {"bbox_2d":[771,413,805,425],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,441,140,453],"label":"DATE/日期"},
+  {"bbox_2d":[220,439,247,451],"label":"REFERENCE/项目"},
+  {"bbox_2d":[765,432,808,444],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,460,140,472],"label":"DATE/日期"},
+  {"bbox_2d":[220,458,283,470],"label":"REFERENCE/项目"},
+  {"bbox_2d":[773,451,809,463],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,478,140,490],"label":"DATE/日期"},
+  {"bbox_2d":[220,476,259,488],"label":"REFERENCE/项目"},
+  {"bbox_2d":[774,469,809,481],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,496,140,508],"label":"DATE/日期"},
+  {"bbox_2d":[220,494,247,506],"label":"REFERENCE/项目"},
+  {"bbox_2d":[769,487,812,499],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,515,140,527],"label":"DATE/日期"},
+  {"bbox_2d":[220,513,283,525],"label":"REFERENCE/项目"},
+  {"bbox_2d":[776,506,812,518],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,533,140,545],"label":"DATE/日期"},
+  {"bbox_2d":[220,531,259,543],"label":"REFERENCE/项目"},
+  {"bbox_2d":[778,524,813,536],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,551,140,563],"label":"DATE/日期"},
+  {"bbox_2d":[220,549,247,561],"label":"REFERENCE/项目"},
+  {"bbox_2d":[774,542,816,554],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,569,140,581],"label":"DATE/日期"},
+  {"bbox_2d":[220,567,283,579],"label":"REFERENCE/项目"},
+  {"bbox_2d":[782,560,817,572],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[90,587,140,599],"label":"DATE/日期"},
+  {"bbox_2d":[220,585,259,597],"label":"REFERENCE/项目"},
+  {"bbox_2d":[784,579,818,591],"label":"CHARGES/CREDIT/费用/可用余额"},
+
+  {"bbox_2d":[768,633,823,646],"label":"CHARGES/CREDIT"},
+  {"bbox_2d":[773,679,859,692],"label":"Balance"},
+  {"bbox_2d":[772,704,859,717],"label":"Net Amount"},
+  {"bbox_2d":[786,723,857,736],"label":"ROOM VAT Rate 6%"},
+  {"bbox_2d":[799,738,857,751],"label":"F&B VAT Rate 6%"},
+  {"bbox_2d":[798,770,858,783],"label":"F&B VAT Rate 16%"},
+  {"bbox_2d":[371,742,430,755],"label":"OTHER VAT Rate 6%"},
+  {"bbox_2d":[371,759,430,772],"label":"OTHER VAT Rate 10%"},
+  {"bbox_2d":[371,774,430,787],"label":"OTHER VAT Rate 16%"}
+]

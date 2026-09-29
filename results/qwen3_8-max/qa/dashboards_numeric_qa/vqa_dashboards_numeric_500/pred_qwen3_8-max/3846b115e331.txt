@@ -1,0 +1,7 @@
+Based on the infographic, under the section **"What hypervisor or virtualization vendors will you use in the next year for private cloud management?"**, the rankings are:
+
+1.  VMware (84.6%)
+2.  Citrix (44.6%)
+3.  **Microsoft (35.4%)**
+
+Therefore, the virtual machine monitor with the third rank is **Microsoft**.

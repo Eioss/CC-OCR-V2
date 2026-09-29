@@ -1,0 +1,39 @@
+To determine how many short routes have a moderate difficulty level, we need to:
+
+1. Identify all the **Short Routes** listed in the infographic.
+2. For each of these, check the **Grade/Difficulty** field.
+3. Count how many of them are labeled as **“MODERATE”**.
+
+---
+
+### Step 1: List of Short Routes (from the “Short Routes” section)
+
+There are 4 short routes shown:
+
+1. **Great Western Greenway Cycling Route, Wild Atlantic Way, Co. Mayo**
+   - Grade/Difficulty: **MODERATE**
+
+2. **Gap of Dunloe & Black Valley Cycle from Killarney, Co. Kerry**
+   - Grade/Difficulty: **STRENUOUS**
+
+3. **Inishmór Entire Island Cycle, Aran Islands, Co. Galway**
+   - Grade/Difficulty: **MODERATE**
+
+4. **Loop Head Heritage Trail, Kilkee, Co. Clare**
+   - Grade/Difficulty: **MODERATE**
+
+---
+
+### Step 2: Count those with “MODERATE” difficulty
+
+- Great Western Greenway → ✅ MODERATE
+- Gap of Dunloe → ❌ STRENUOUS
+- Inishmór → ✅ MODERATE
+- Loop Head → ✅ MODERATE
+
+→ Total = **3**
+
+---
+
+### ✅ Final Answer:
+**3**

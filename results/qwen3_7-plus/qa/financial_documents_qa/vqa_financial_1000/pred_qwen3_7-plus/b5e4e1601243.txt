@@ -1,0 +1,15 @@
+The kind of water used in the water analysis is **Boiler Water**.
+
+This is explicitly stated in the document under the field:
+
+> **Kind of Water:** Boiler Water
+
+Additionally, the description and source confirm this context:
+- **Description of Sample:** Campaign average of daily samples.
+- **Source of Water:** Boiler feed and A Pan drips.
+
+These details indicate that the water analyzed is from a boiler system, likely for industrial or power generation purposes, where water chemistry is critical to prevent scaling, corrosion, and inefficiency.
+
+---
+
+✅ Final Answer: **Boiler Water**

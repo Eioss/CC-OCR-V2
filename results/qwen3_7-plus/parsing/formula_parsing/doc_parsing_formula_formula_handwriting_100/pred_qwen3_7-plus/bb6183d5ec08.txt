@@ -1,0 +1,13 @@
+$$\begin{array} { l } { E [ \sum _ { a } \frac { 1 } { 2 } I \{ P S = a \} + I \{ Z = 2 \} I \{ A _ { 2 } = a \} a ( a + z ) Y _ { a } | X ] } \\ { = [ \sum _ { a } \frac { 1 } { 2 } I \{ P S = a \} I ( A _ { 2 } = a ) a ( a + z ) Y _ { a } } \\ { \quad + I ( Z = 2 ) \sum _ { a } I ( A _ { 2 } = a ) a ( a + z ) Y _ { a } ] f ( a | X ) } \end{array}$$
+
+ $$\begin{array} { r l } { \lambda _ { c } - \lambda _ { c + 1 } = } & { { } w ( c ) + \delta ( c _ { t } , c _ { t + 1 } ) , \qquad { \mathrm { i f ~ } } c _ { t } < 2 ^ { n - 1 } } \\ { \ } & { { } w ( c ) + \delta ( c _ { t } - 2 ^ { n - 1 } , c _ { t + 1 } ) , \quad { \mathrm { i f ~ } } c _ { t } > 2 ^ { n - 1 } } \end{array}$$
+
+ $$h _ { m i n } ( x ^ { j - 1 } ) > h _ { m i n } ( x ^ { j } ) > h _ { m i n } ( x ^ { j + 1 } ) > . . . > h _ { m i n } ( x ^ { 2 n } ) .$$
+
+ $$\sum _ { k } k ( u _ { k } ^ { 2 } ) \leq \sum _ { l } ( k ( u _ { k } ) - 1 ) \leq \sum _ { l } k ( u _ { l } ) - d \leq n$$
+
+ $$\begin{array} { r l } { P _ { 0 } ( E _ { 1 } ) = P ( \beta _ { \gamma ( r ) , k ( r ) } = 0 , \beta _ { k ( r ) , k ( r ) } = 0 | y ) } & { { } } \\ { \leq \operatorname* { m i n } \left\{ P ( \beta _ { \gamma ( r ) , k ( r ) } = 0 | y ) , P ( \beta _ { k ( r ) , k ( r ) } = 0 | y ) \right\} } \end{array}$$
+
+ $$\begin{array} { r l } { { A _ { 0 } \leq \int _ { 0 } ^ { s } \| U ^ { * / 4 } \| L _ { x y } ^ { \infty } \| D _ { x } ^ { k } ( u ^ { * / 4 } u _ { x } ) \| L _ { x y } ^ { 2 } d y + \int _ { 0 } ^ { s } \| D _ { x } ^ { k } ( u ^ { * n / 4 } u ^ { * / 4 } u _ { x } ) \| _ { L _ { x y } ^ { 2 } } d t ^ { \prime } } } \\ { { = A _ { 1 } + A _ { 2 } } } \end{array}$$
+
+ $$\begin{array} { r l } { \| D u \| _ { L ^ { 2 } ( \partial \Omega ) } \geq \left\| { \frac { x ( R ) } { N } } | x - x _ { 0 } | ^ { - 1 } D u \right\| _ { L ^ { 2 } ( \partial \Omega ) } } & { { } } \\ { \geq \left\| { \frac { x ( R ) } { N } } | x - x _ { 0 } | ^ { - 1 } \right\| _ { L ^ { 2 } ( \partial \Omega ) } - \| | D u | - 1 \| _ { L ^ { 2 } ( \partial \Omega ) } } \end{array}$$

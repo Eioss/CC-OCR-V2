@@ -1,0 +1,117 @@
+```html
+<html><body>
+<div class="image" style="text-align: center;"><img src="imgs/img_in_image_box_158_69_853_172.jpg"/></div> 
+ <p>文档编号 SG-056833, 日期 2025-08-10</p> 
+ <p>施工/项目名称：星港云栖建设有限公司工程项目（虚构）</p> 
+ <p>单位名称：皓月省星港市星港云栖建设有限公司</p> 
+ <p>工程地点：星海省云栖市东泽区松影路204号 9栋</p> 
+ <p>项目负责人：韩亦晨 安全员：李知夏 联系电话：17525974238</p> 
+ <h2>问题跟踪/检查记录表</h2> 
+ <table border="1" data-bbox="176 435 836 891"> 
+  <tr> 
+   <th>编号<br/>(长数字串)</th> 
+   <th>日期</th> 
+   <th>问题描述</th> 
+   <th>严重等级<br/>(勾选)</th> 
+   <th>整改期限</th> 
+   <th>复核结果<br/>($\sqrt{} / \times$)</th> 
+   <th>责任人签字</th> 
+   <th>备注<br/>(整改要求)</th> 
+  </tr> 
+  <tr> 
+   <td colspan="8" style="text-align:center; font-weight:bold;">A区 问题跟踪</td> 
+  </tr> 
+  <tr> 
+   <td>889563120516086987</td> 
+   <td>2025.08.11</td> 
+   <td>围挡破损，需修复</td> 
+   <td>■严重/□一般</td> 
+   <td>2025.08.13</td> 
+   <td>$\sqrt{}$</td> 
+   <td>韩亦晨</td> 
+   <td>已加固</td> 
+  </tr> 
+  <tr> 
+   <td>889563120516086988</td> 
+   <td>2025.08.12</td> 
+   <td>材料堆放混乱</td> 
+   <td>□严重/■一般</td> 
+   <td>2025.08.14</td> 
+   <td></td> 
+   <td>李知夏</td> 
+   <td>待整理</td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <td colspan="8" style="text-align:center; font-weight:bold;">B区 问题跟踪</td> 
+  </tr> 
+  <tr> 
+   <td>889563120516086990</td> 
+   <td>2025.08.15</td> 
+   <td>安全网未挂设</td> 
+   <td>■严重/□一般</td> 
+   <td>2025.08.17</td> 
+   <td></td> 
+   <td>韩亦晨</td> 
+   <td>紧急处理</td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <td colspan="8" style="text-align:center; font-weight:bold;">汇总与整改要求</td> 
+  </tr> 
+  <tr> 
+   <td>TOTAL-01</td> 
+   <td>2025.08.20</td> 
+   <td>本周问题小计</td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td>需全部闭环</td> 
+  </tr> 
+  <tr> 
+   <td>NOTE-01</td> 
+   <td colspan="7">整改要求脚注：所有问题需在期限内完成并复核。</td> 
+  </tr> 
+ </table> 
+ <p>https://example.com/doc-44393899</p> 
+</body></html>
+```

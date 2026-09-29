@@ -1,0 +1,47 @@
+\[
+\left\{
+\begin{aligned}
+\frac{\bar G_1^{\,1}-\bar G_1^{\,0}}{\tau}
+&+a d_{2,0}^{1-\alpha_1}
+ \left(\frac23\bar G_1^{\,1}+\frac13\bar G_1^{\,0}\right)
++d_{2,0}^{1-\alpha_1}A
+ \left(\frac23\bar G_1^{\,1}+\frac13\bar G_1^{\,0}\right)\\
+&=a d_{2,0}^{1-\alpha_2}
+ \left(\frac23\bar G_2^{\,1}+\frac13\bar G_2^{\,0}\right)
+&&\text{in }\Omega,\\[4pt]
+\frac{\bar G_2^{\,1}-\bar G_2^{\,0}}{\tau}
+&+a d_{2,0}^{1-\alpha_2}
+ \left(\frac23\bar G_2^{\,1}+\frac13\bar G_2^{\,0}\right)
++d_{2,0}^{1-\alpha_2}A
+ \left(\frac23\bar G_2^{\,1}+\frac13\bar G_2^{\,0}\right)\\
+&=a d_{2,0}^{1-\alpha_1}
+ \left(\frac23\bar G_1^{\,1}+\frac13\bar G_1^{\,0}\right)
+&&\text{in }\Omega,\\[4pt]
+\frac1{\tau}
+\left(\frac32\bar G_1^{\,n}-2\bar G_1^{\,n-1}
++\frac12\bar G_1^{\,n-2}\right)
+&+a\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_1}\bar G_1^{\,n-i}
++\frac a2d_{2,n-1}^{1-\alpha_1}\bar G_1^{\,0}\\
+&+\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_1}A\bar G_1^{\,n-i}
++\frac12d_{2,n-1}^{1-\alpha_1}A\bar G_1^{\,0}\\
+&=a\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_2}\bar G_2^{\,n-i}
++\frac a2d_{2,n-1}^{1-\alpha_2}\bar G_2^{\,0}
+&&\text{in }\Omega,\quad n\ge2,\\[4pt]
+\frac1{\tau}
+\left(\frac32\bar G_2^{\,n}-2\bar G_2^{\,n-1}
++\frac12\bar G_2^{\,n-2}\right)
+&+a\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_2}\bar G_2^{\,n-i}
++\frac a2d_{2,n-1}^{1-\alpha_2}\bar G_2^{\,0}\\
+&+\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_2}A\bar G_2^{\,n-i}
++\frac12d_{2,n-1}^{1-\alpha_2}A\bar G_2^{\,0}\\
+&=a\sum_{i=0}^{n-1}d_{2,i}^{1-\alpha_1}\bar G_1^{\,n-i}
++\frac a2d_{2,n-1}^{1-\alpha_1}\bar G_1^{\,0}
+&&\text{in }\Omega,\quad n\ge2,\\[4pt]
+\bar G_1^{\,0}&=G_1(0),\qquad
+\bar G_2^{\,0}=G_2(0)
+&&\text{in }\Omega,\\
+\bar G_1^{\,n}&=\bar G_2^{\,n}=0
+&&\text{on }\partial\Omega,\quad n\ge0.
+\end{aligned}
+\right.
+\]

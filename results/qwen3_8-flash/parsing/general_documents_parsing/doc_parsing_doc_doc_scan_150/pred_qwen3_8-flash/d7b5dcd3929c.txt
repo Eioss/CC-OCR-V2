@@ -1,0 +1,68 @@
+```latex
+\subsection*{Original article}
+
+\begin{table}[h]
+\centering
+\caption{Number and distribution of varicella cases in children aged $<$15 years in Uruguayan private healthcare providers between 1997 and 2005}
+\label{tab:varicella_cases}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lccccccccccccccccc}
+\toprule
+& \multicolumn{8}{c}{\textbf{Servicio de Urgencia Asistencia y Traumatol (SUAT)}} & & \multicolumn{8}{c}{\textbf{Servicio de Emergencia Medico Sevill (SEMM)}} \\
+\cmidrule(lr){2-9} \cmidrule(lr){11-18}
+Age (years) & 1997 & 1998 & 1999 & 2000 & 2001 & 2002 & 2003 & 2004 & 2005 & & 1998 & 1999 & 2000 & 2001 & 2002 & 2003 & 2004 & 2005 \\
+\midrule
+$<$1 & & & & & & & & & & & & & & & & & & \\
+\quad Cases & 63 & 86 & 52 & 22 & 31 & 14 & 11 & 7 & 8 & & 6 & 106 & 39 & 46 & 35 & 17 & 6 & 16 & 10 \\
+\quad Members & 917 & 934 & 1064 & 1317 & 1246 & 1181 & 6445 & 3336 & 6256 & & 687 & 9804 & 8355 & 4240 & 3414 & 3222 & 2475 & 2475 & 2413 \\
+\quad Cases/1000 & 68.2 & 96.5 & 48.9 & 16.7 & 24.9 & 6.4 & 2.0 & 2.1 & 2.5 & & 12.1 & 4.1 & 5.2 & 7.9 & 5.0 & 1.9 & 6.5 & 4.0 \\
+\addlinespace
+1--4 & & & & & & & & & & & & & & & & & & \\
+\quad Cases & 723 & 890 & 454 & 217 & 166 & 89 & 44 & 9 & 18 & & 1038 & 369 & 271 & 165 & 44 & 23 & 42 & 26 \\
+\quad Members & 3796 & 4227 & 4787 & 5191 & 5633 & 7202 & 7106 & 7809 & 7966 & & 20 114 & 20 659 & 19 243 & 17 517 & 14 133 & 13 869 & 9963 & 11 483 \\
+\quad Cases/1000 & 190.5 & 210.6 & 94.8 & 41.8 & 29.5 & 12.4 & 6.2 & 1.2 & 2.3 & & 51.6 & 17.9 & 14.1 & 9.4 & 3.1 & 1.7 & 4.2 & 2.3 \\
+\addlinespace
+5--9 & & & & & & & & & & & & & & & & & & \\
+\quad Cases & 592 & 709 & 379 & 245 & 298 & 240 & 188 & 79 & 63 & & 769 & 300 & 240 & 287 & 138 & 137 & 187 & 123 \\
+\quad Members & 4148 & 4608 & 5218 & 5630 & 6218 & 7060 & 8491 & 7556 & 9900 & & 23 383 & 23 820 & 22 690 & 20 720 & 16 913 & 16 715 & 11 894 & 13 894 \\
+\quad Cases/1000 & 142.7 & 153.9 & 72.6 & 43.1 & 48.1 & 34.0 & 22.1 & 10.5 & 6.4 & & 32.9 & 12.6 & 11.0 & 13.9 & 8.2 & 8.2 & 15.8 & 8.9 \\
+\addlinespace
+10--14 & & & & & & & & & & & & & & & & & & \\
+\quad Cases & 131 & 182 & 89 & 83 & 87 & 73 & 54 & 21 & 29 & & 209 & 131 & 102 & 74 & 79 & 35 & 78 & 72 \\
+\quad Members & 3607 & 4074 & 4710 & 5190 & 5599 & 6840 & 7512 & 6430 & 7671 & & 18 992 & 20 028 & 20 334 & 19 696 & 16 440 & 13 069 & 13 292 & 13 173 \\
+\quad Cases/1000 & 36.3 & 44.7 & 21.0 & 16.0 & 15.5 & 10.7 & 7.2 & 5.8 & 3.9 & & 11.1 & 6.9 & 5.0 & 3.8 & 2.1 & 2.7 & 5.9 & 5.5 \\
+\addlinespace
+Total & & & & & & & & & & & & & & & & & & \\
+\quad Cases & 1509 & 1867 & 984 & 567 & 583 & 424 & 297 & 132 & 97 & & 2124 & 810 & 639 & 546 & 234 & 219 & 323 & 231 \\
+\quad Members & 12 462 & 13 893 & 16 759 & 17 388 & 18 695 & 22 883 & 28 555 & 25 131 & 23 883 & & 71 232 & 74 797 & 70 922 & 62 247 & 50 900 & 46 876 & 37 554 & 41 064 \\
+\quad Cases/1000 & 121.1 & 133.8 & 62.3 & 32.6 & 31.2 & 17.8 & 10.4 & 5.3 & 4.0 & & 29.8 & 10.8 & 9.0 & 8.8 & 4.6 & 4.7 & 8.6 & 5.6 \\
+\bottomrule
+\end{tabular}%
+}
+\end{table}
+
+4 months previously, and another child of 5 years with pneumonia who had been vaccinated at 3 years of age.
+
+\subsubsection*{Outpatient consultations}
+
+The combined membership $<$15 years of age for SUAT and SEMM decreased from approximately 85 000 in 1998 to 65 000 in 2005. In the period 1997--1999, the incidence of medical visits for varicella per 1000 members in the two systems was 38.3 overall and 16.2, 64.8, 44.9 and 15.9 for the $<$1, 1--4, 5--9 and 10--14 year age groups, respectively. In 2005, these incidence rates were reduced by 87\% overall ($p$\textless{}0.001) and by 80\% ($p$\textless{}0.001), 97\% ($p$\textless{}0.001), 31\% ($p$\textless{}0.001), and 65\% ($p$\textless{}0.001) for the same respective age groups (table 2).
+
+The evolution of the incidence of varicella in each system is illustrated in fig 2.
+
+There were 358 varicella cases treated as outpatients among the three service providers during 2005, who were in the target age group ($<$7 years of age) and for whom clinical information, including vaccination status was available (tables 1 and 2). Of these, 118 had been previously vaccinated. Clinical varicella differed significantly in previously vaccinated and unvaccinated individuals: 76.0\% of vaccinated subjects had $<$50 lesions and none had $>$150 lesions compared with 32.9\% and 23.8\% of unvaccinated children, respectively ($p$\textless{}0.001). Fever was present in 59.8\% of vaccinated subjects versus 77.1\% of unvaccinated subjects ($p$\textless{}0.001) and was $>$38.5$^\circ$C in 21.9\% and 48.6\% vaccinated and unvaccinated children, respectively ($p$\textless{}0.003). Complications occurred in 6.8\% of vaccinated children (cutaneous super-infection and vesicular haemorrhage) compared with 11.7\% of unvaccinated children (cutaneous super-infection, bacterial super-infection, sepsis, scarlet fever and cervical adenopathy) ($p$\textgreater{}0.05). Hospitalisation occurred in 0.9\% and 1.2\% of vaccinated and unvaccinated children, respectively ($p$\textgreater{}0.05).
+
+\subsubsection*{DISCUSSION}
+
+The results of this retrospective study demonstrate significant reductions in the proportion of varicella hospitalisations in a large public paediatric hospital (up to 86\% in the age group eligible for vaccination) compared to the pre-vaccination years 1997--1999. Furthermore, a substantial decrease was also observed in the ambulatory cases seen at two ambulatory healthcare providers (up to 89\% in the age group eligible for vaccination). Clinical varicella, when it occurred in vaccinated subjects, was associated with significantly fewer and less severe symptoms and complications than disease in unvaccinated children.
+
+The observed decrease in varicella incidence is neither linear, nor constant. The initial sharp decline in 1999 is likely to be due to cyclical increase and decrease of varicella rather than vaccination campaign. However, the persistence of this decrease can be attributed to vaccination and it seems justified to assert that sustained reductions in case numbers and hospitalisations observed in the years following the onset of the varicella vaccination programme represent the true impact of the varicella vaccination programme. Without the current vaccination programme, one would likely have seen another cyclical peak and a new increase after 2000. This is supported by data from Buenos Aires, an adjacent province in Argentina which has not yet implemented mass vaccination, where a doubling in cases was reported from 2001 to 2002.$^{24}$ The slight increase in hospitalisations in 2002 and
+
+\begin{figure}[h]
+    \centering
+    % Placeholder for Figure 2 image content
+    \caption{Incidence of varicella in children aged $<$15 years, Uruguay 1997--2005. SEMM, Servicio de Emergencia Médico Sevill; SUAT, Servicio de Urgencia Asistencia y Traumatología.}
+    \label{fig:incidence_varicella}
+\end{figure}
+
+848 \hfill Arch Dis Child 2008;\textbf{93}:845--850. doi:10.1136/adc.2007.128243
+```

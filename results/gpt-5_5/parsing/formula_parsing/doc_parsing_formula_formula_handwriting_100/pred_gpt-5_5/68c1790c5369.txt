@@ -1,0 +1,45 @@
+\[
+\left[\tilde{\Phi}^{(\wedge)\dagger}_{k}\tilde{\Phi}^{(\wedge)}_{k}\right]\left|f_{0}\right\rangle^{\otimes n-1}\otimes\left|f_{i_n}\right\rangle
+=
+d^{2}\lambda^{n}(\tilde{i}_{n},k)^{2}\left|f_{0}\right\rangle^{\otimes n-1}\otimes\left|f_{i_n}\right\rangle
+\]
+
+\[
+L[n\pi]-<L[n\pi]
+\]
+
+\[
+d\cdot LIT=d\cdot MW(J(f))\subseteq M
+\]
+
+\[
+\sum_{r=\gamma_{1}+1}^{\delta-\delta_{0}+\gamma_{1}} S(t_{1},r)
+=
+\sum_{r=\gamma_{1}+1}^{\delta-\delta_{0}+\gamma_{1}}
+(-1)^{r}
+\frac{(\delta-\delta_{0}+\gamma_{1}-1)!}
+{\gamma_{1}!(r-\gamma_{1})![\delta-\delta_{0}+\gamma_{1}-r)!}
+\binom{d-d_{0}-1}{\gamma_{1}-1}
+\]
+
+\[
+=
+(-1)^{\gamma_{1}+1}
+\binom{\delta-\delta_{0}+\gamma_{1}-1}{\gamma_{1}-1}
+\binom{d-d_{0}-1}{\gamma_{1}-1}
+\]
+
+\[
+\bar{x}=x,\qquad
+x+\bar{x}=n(x,1)1,\qquad
+x\cdot\bar{x}=\bar{x}\cdot x=n(x)1
+\]
+
+\[
+\tilde{h}^{x,x+1}\left((\mu_{j\to i},\lambda_{i\to j}),(\mu,\lambda)\right)
+=
+q^{\mu_i+\cdots+\mu_j-\{\mu_j\}_q}
+q^{\lambda_i+\cdots+\lambda_j}
+\lambda_i\lambda_j
+q^{\cdots}
+\]

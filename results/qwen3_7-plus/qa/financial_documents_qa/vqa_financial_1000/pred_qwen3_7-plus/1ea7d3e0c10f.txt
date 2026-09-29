@@ -1,0 +1,56 @@
+The total amount listed on the Travel Expense Report is **$165.93**.
+
+This is shown in the “TOTAL” field at the bottom right of the expenditures section, handwritten as:
+
+> **$165.93**
+
+---
+
+### Breakdown of Expenses (as written):
+
+- **Air Fare**: $146.73  
+- **Meals**: $5.50  
+- **Other (Limosine to/from Hilton Hotel)**: $5.00  
+- **Taxi from Hilton to Sheraton Inn and return**: $4.00  
+- **Parking at St. Louis Airport**: $4.50  
+- **Other (unspecified, possibly registration or misc.)**: $13.50 *(Note: This may be a separate line item under "OTHER" — but if added to above, it would exceed total; likely this $13.50 is part of the “Other” category that includes limo/taxi/parking)*
+
+Actually, looking closely:
+
+Under **“OTHER”**, the writer lists:
+- Limosine to and from Hilton Hotel — $5.00
+- Taxi from Hilton Hotel to Sheraton Inn and return — $4.00
+- Parking St. Louis Airport — $4.50  
+→ Subtotal for these = **$13.50**
+
+Then there’s another **“OTHER”** line with **$13.50** written next to it — which might be a duplicate or misplacement. But the final **TOTAL** is clearly written as **$165.93**, which matches:
+
+> Air Fare ($146.73) + Meals ($5.50) + Other transportation/parking ($13.50) = **$165.73** — wait, that’s off by 20 cents.
+
+Let’s recalculate precisely:
+
+- Air Fare: **$146.73**
+- Meals: **$5.50**
+- Limo: **$5.00**
+- Taxi: **$4.00**
+- Parking: **$4.50**
+
+Sum:  
+146.73 + 5.50 = **152.23**  
++5.00 = **157.23**  
++4.00 = **161.23**  
++4.50 = **165.73**
+
+But the total written is **$165.93** — so there’s a **20-cent discrepancy**.
+
+Possibility: The “Other” line with **$13.50** might include an additional $0.20 not itemized, or it’s a rounding/error in handwriting.
+
+However, since the form explicitly states:
+
+> **TOTAL $165.93**
+
+— we take that as the official submitted amount.
+
+---
+
+✅ **Final Answer: $165.93**

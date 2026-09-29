@@ -1,0 +1,5 @@
+The text '7.42' appears twice. Here are both locations:
+
+(795, 510, 901, 539) # First occurrence in the item line "RM7.42"
+
+(729, 700, 902, 736) # Second occurrence in the TOTAL line "RM7.42"

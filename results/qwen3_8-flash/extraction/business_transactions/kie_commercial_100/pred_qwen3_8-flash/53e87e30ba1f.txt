@@ -1,0 +1,19 @@
+```json
+{
+    "date_issue": "10/9/2002",
+    "date_due": "10/11/2002",
+    "vendor_name": "T-Shirt Express",
+    "vendor_address": "7001 S. State Chicago, IL 60637 (773)483-8337 (773-483-5503 FAX",
+    "customer_billing_name": "LINDA M. RAHMAN HEALTHY FAMILIES CHICAGO",
+    "customer_billing_address": "3333 W. ARTHINGTON ST SUITE 150 CHICAGO, IL 60624",
+    "customer_delivery_name": "HEALTHY FAMILIES CHICAGO",
+    "customer_delivery_address": "3333 W. ARTHINGTON ST SUITE 150 CHICAGO, IL 60624",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$455.00",
+    "amount_paid": "$440.00",
+    "amount_due": "$15.00",
+    "tax_detail_net": "$455.00",
+    "tax_detail_tax": "$0.00",
+    "tax_detail_gross": "$455.00"
+}
+```

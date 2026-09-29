@@ -1,0 +1,5 @@
+There are two instances of '5%' in the image:
+
+(816, 813, 869, 850)
+
+(816, 869, 869, 904)

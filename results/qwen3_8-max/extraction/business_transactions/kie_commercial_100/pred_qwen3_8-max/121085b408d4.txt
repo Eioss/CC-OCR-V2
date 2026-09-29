@@ -1,0 +1,19 @@
+```json
+{
+    "date_issue": "MAY11/99",
+    "order_id": "0301 E90282",
+    "customer_order_id": "BNY 1100",
+    "vendor_name": "TALENT PARTNERS",
+    "vendor_address": "303 EAST OHIO STREET CHICAGO, IL 60611",
+    "customer_id": "LRL YSPP T6021",
+    "customer_billing_name": "BOZELL",
+    "customer_billing_address": "13801 FNB PARKWAY OMAHA NE 68154-5297",
+    "customer_other_name": "DIANE SIEVERS",
+    "amount_total_tax": "69.70",
+    "amount_total_gross": "540.00",
+    "amount_due": "678.01",
+    "payment_terms": "Payment due in 5 days",
+    "tax_detail_tax": "69.70",
+    "tax_detail_gross": "540.00"
+}
+```

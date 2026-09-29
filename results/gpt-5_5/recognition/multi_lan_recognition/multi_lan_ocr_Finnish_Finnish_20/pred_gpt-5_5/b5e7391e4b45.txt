@@ -1,0 +1,11 @@
+Energiatehokkuuden laskennan tulisi tuottaa samat suureet, jotka halutaan verifioida (esim. ostettava lämpö- ja sähköenergia jaettuina haluttuihin osiin, tilojen, ilmanvaihdon ja käyttöveden lämmitysenergia, jäähdytysenergia ja sähkönkulutuksen erittely koneittain tai vyöhykkeittäin).
+
+Energiankulutus lasketaan yleensä standardisoidulle käytölle mm. sään ja sisäisten lämpöenergioiden suhteen. Toimivuuden varmistamista auttaa ja nopeuttaa se, että standardilaskelman lisäksi tehdään tiettyjä herkkyystarkasteluja mm. sään (lämmin tai kylmä vuosi), sisäisten lämpöenergioiden ja mahdollisten epävarmojen lähtötietojen suhteen (esim. lämmön talteenoton hyötysuhde).
+
+Jos rakennukselle on luvattu tietty sisäilmastoluokka, simulointimallin käyttö on ainoa mahdollisuus arvioida suunnitteluvaiheessa tavoitteiden toteutumista. Kuukausitason laskentamenetelmillä voidaan arvioida korkeintaan sisälämpötilan kuukausikeskiarvoja.
+
+Sisälämpötilan kulku tietyssä tilassa noudattaa vuoden aikana pysyvyyskäyrää. Tietyn sisäilmastoluokan saavuttaminen vaatii, ettei sisälämpötila ylitä hyväksyttyjä arvoja kuin tietyn ajan vuodesta. Siksi sisäilmastovaatimusten toteutumisen suunnittelu ja arviointi vaativat sisälämpötilojen pysyvyyskäyrien laskemista ja mittaamista.
+
+Lähteessä Kalema et al. (2006) esitetään energiankulutuksen laskentamallien käyttöä koulutusrakennuksen energiatehokkuuden varmistamisessa. Laskentamallien käyttö osoittaa ko. rakennuksessa sen, että koneellista ilmanvaihtoa on käytetty myös yöaikana, mikä on lisännyt sekä lämmön että sähkön kulutusta.
+
+138

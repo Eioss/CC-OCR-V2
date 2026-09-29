@@ -1,0 +1,17 @@
+$$\frac { 1 } { 2 } \frac { d } { d t } \| \partial _ { x , y } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \| _ { L _ { x , v } ^ { 2 } , v } ^ { 2 } + \frac { \delta _ { 1 } } { \varepsilon ^ { 2 } } \| \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \| _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$\leq \frac { \delta _ { 0 } } { \varepsilon ^ { 2 } } \sum _ { | \alpha | = k } \| \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \| _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$+ \frac { 1 } { \varepsilon } \sum _ { | \beta _ { 1 } | = 1 } C _ { \beta } ^ { \beta _ { 1 } } ( \partial _ { v } ^ { \beta _ { 1 } } v . \nabla _ { x } \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta - \beta _ { 1 } } ( 1 - P ) g ^ { n + 1 } , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } ) _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$- \gamma \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) ( \nabla _ { x } \phi ^ { n } . \nabla _ { v } ( 1 - P ) g ^ { n + 1 } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$+ \gamma \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) ( v . \nabla _ { x } \phi ^ { n } ( 1 - P ) g ^ { n + 1 } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$+ \frac { 1 } { \varepsilon } \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } Q ( g ^ { n } , g ^ { n } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$+ \gamma \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) ( v . \nabla _ { x } \phi ^ { n } P g ^ { n + 1 } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$- \frac { 1 } { \varepsilon } \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) ( v . \nabla _ { x } P g ^ { n + 1 } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 }$$
+
+$$+ \frac { 1 } { \varepsilon } \langle \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } P ( v . \nabla _ { x } ( 1 - P ) g ^ { n + 1 } ) , \partial _ { x } ^ { \alpha } \partial _ { v } ^ { \beta } ( 1 - P ) g ^ { n + 1 } \rangle _ { L _ { x , v } ^ { 2 } , v } ^ { 2 } ,$$

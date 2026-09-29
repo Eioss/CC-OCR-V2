@@ -1,0 +1,12 @@
+\[
+\begin{aligned}
+\lambda^2 &= \lambda_n^2=\left(\frac{\pi n}{l}\right)^2,\quad n\in\mathbb{N},\\
+V_i &= \sum_{e_k\in E_i^h} l_{e_k}\int_{e_k} F_i\left(x,v_m,(v_{x_i}-p_{im})^2+d_i\{p_{im},H_im\}\right)\,ds_m\\
+&= \sum_{e_k\in E_i^{app}}\int_0^{l_{e_k}} F_i\left(v_m,p_i(x_i-p_{im})\right)^2+g_i(u_m,p_i,H_im)\,ds_m,\\
+\Delta p_M &= E\left[(u)^2+g(u)^2\Delta t+u(u)^2+g(u)^2\right]^{\frac n2}
+=E\left[(u)^2\Delta t+2ug(u)+g(u)^2\right],\\
+\#(0)&=\left|S\setminus B(x)=rand\,\phi(x)=\varnothing\right|,\\
+\|p_T-u\|_1,\quad \frac{p^p}{p^r}(n)^2&\le C\|u\|_{W_\delta^s(\Omega)}h^s,\quad \forall T\ge T_1,\\
+H&=\frac{x(x_i-x_l+x_m)}{2\sqrt{h+\sigma_i^2}}.
+\end{aligned}
+\]

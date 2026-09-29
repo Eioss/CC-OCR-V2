@@ -1,0 +1,4 @@
+The text '200' appears in two places:
+
+(923, 312, 985, 333)
+(923, 348, 985, 369)

@@ -1,0 +1,17 @@
+ $$H ^ { \prime } ( \xi _ { 1 } ) = 3 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } + 3 \xi _ { 1 } ^ { 2 } - 6 \xi \xi _ { 1 } \geq 3 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } - 3 - 6 | \xi _ { 1 } | \geq 2 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } .$$
+
+ $$\int _ { 0 } ^ { T } ( | \hat { \theta } ( t ) | _ { q } ^ { q } ) ^ { ( 5 - 6 ) / 3 ( q - 1 - 6 ) } d t \leq C \left( 1 + \int _ { 0 } ^ { T } | \nabla \hat { \theta } ( t ) | _ { 2 } ^ { 2 } d t \right) \leq C \left( 1 + \int _ { 0 } ^ { T } | \hat { \theta } ( t ) | _ { 2 - \alpha } ^ { 2 - \alpha } d t \right) .$$
+
+ $$I \lesssim \| f \| _ { D } ^ { 2 } \sum _ { \sigma _ { k } \in G _ { 1 } } \sum _ { \sigma _ { k } \in G _ { 2 } } \int _ { \sigma _ { l } } \int _ { \sigma _ { k } } | x - u | ^ { - 2 \alpha } d u d x =$$
+
+ $$\| f \| _ { D } ^ { 2 } \int _ { Q ^ { - } } \int _ { \mathbb { R } ^ { d } \setminus Q ^ { + } } | x - u | ^ { - 2 \alpha } d u d x ,$$
+
+ $$\begin{array} { r l } { \left\| E _ { 0 } \big ( \frac { f ^ { 2 } ( \zeta _ { k } } { | \zeta _ { k } | } ( 1 - | \zeta _ { k } | ) ^ { n - k + 1 } ) \big ) \right\| _ { p + 2 } \leq \| \zeta _ { 0 } \| _ { p + 2 } \displaystyle \sum _ { k = 0 } ^ { k - 1 } \int _ { E } ( 1 - | y | ) ) ^ { n - 2 } \frac { f ^ { 2 } ( y ) } { | y | ^ { p } } d \nu ( y ) } & { { } } \\ { + \left\| f ^ { 2 } ( \zeta _ { 0 } ) | \zeta _ { 0 } | ^ { - 1 } ( 1 - | \zeta _ { 0 } | ) ^ { n + 1 } \right\| _ { p / 2 } . } & { { } } \end{array}$$
+
+ $$\Big | \sum _ { m \in C } \frac { 1 } { m ^ { p } | | m \alpha | | ^ { p } } - \zeta ( 2 p ) a _ { \ell } ^ { p } \Big | \leq \frac { 3 ^ { p } } { 2 ^ { p - 1 } } + 2 p 3 ^ { p - 1 } \zeta ( 2 p ) a _ { \ell } ^ { p - 1 } .$$
+
+ $$d \nu ( x ) = \left\{ \begin{array} { l l } { { - s ^ { 3 } x ^ { s - 1 } l o g x \; d x \; \; \mathrm { i f } \; s = t } } \\ { { s t \frac { \textstyle { x ^ { t - 1 } - x ^ { s - 1 } } } { \textstyle { s - t } } \; d x \; \; \mathrm { i f } \; s \neq t . } } \end{array} \right.$$
+
+ $${ \frac { \Gamma ( n - \gamma _ { j } ) } { \Gamma ( n + 1 ) } } = n ^ { - \gamma _ { j } } \left( n ^ { - 1 } + O ( n ^ { - 2 } ) \right) , \, \mathrm { a s } \, n \to \infty \, .$$
+
+ $$\int _ { 0 } ^ { \infty } u ^ { b - 1 } ( u + 1 ) ^ { a - c } ( w + v u ) ^ { - a } d u = w ^ { - a } B ( b , c - b ) _ { 2 } F _ { 1 } [ a , b ; c ; 1 - v / w ] \, ,$$

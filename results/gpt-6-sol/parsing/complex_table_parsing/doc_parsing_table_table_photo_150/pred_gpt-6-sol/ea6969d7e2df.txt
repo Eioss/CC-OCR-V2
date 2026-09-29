@@ -1,0 +1,30 @@
+<table>
+  <caption>绿洲商城1#住宅楼价格确认单</caption>
+  <tr><td>序号</td><td>图纸编号</td><td>产品规格</td><td>单位</td><td>数量</td><td>价格</td><td>金额</td><td>备注</td></tr>
+  <tr><td>1</td><td>配电箱SFJ-1-2</td><td>600*900*200</td><td>台</td><td>1</td><td>5755.00</td><td>5755.00</td><td>明装</td></tr>
+  <tr><td>2</td><td>配电箱SFJ-1-4</td><td>600*900*200</td><td>台</td><td>1</td><td>5755.00</td><td>5755.00</td><td>明装</td></tr>
+  <tr><td>3</td><td>配电箱SFJ-1-1</td><td>600*900*200</td><td>台</td><td>1</td><td>7057.73</td><td>7057.73</td><td>明装</td></tr>
+  <tr><td>4</td><td>配电箱SFJ-1-3</td><td>600*900*200</td><td>台</td><td>1</td><td>7057.73</td><td>7057.73</td><td>明装</td></tr>
+  <tr><td>5</td><td>配电箱BFJ-1-1/2</td><td>600*900*200</td><td>台</td><td>2</td><td>5745.50</td><td>11491.01</td><td>明装</td></tr>
+  <tr><td>6</td><td>配电箱BFJ-2-1/2</td><td>600*900*200</td><td>台</td><td>2</td><td>5745.50</td><td>11491.01</td><td>明装</td></tr>
+  <tr><td>7</td><td>配电箱PYJ-1-1/2</td><td>600*900*200</td><td>台</td><td>2</td><td>5713.26</td><td>11426.52</td><td>明装</td></tr>
+  <tr><td>8</td><td>配电箱PYJ-2-1/2</td><td>600*900*200</td><td>台</td><td>2</td><td>5713.26</td><td>11426.52</td><td>明装</td></tr>
+  <tr><td>9</td><td>配电箱ALE1</td><td>600*800*200</td><td>台</td><td>2</td><td>3711.93</td><td>7423.86</td><td>明装</td></tr>
+  <tr><td>10</td><td>配电箱ALE15</td><td>600*800*200</td><td>台</td><td>2</td><td>3655.02</td><td>7310.04</td><td>明装</td></tr>
+  <tr><td>11</td><td>配电箱PWB-1/2</td><td>500*600*200</td><td>台</td><td>2</td><td>2990.34</td><td>5980.67</td><td>明装</td></tr>
+  <tr><td>12</td><td>配电箱XDT-1/2</td><td>600*800*200</td><td>台</td><td>2</td><td>4549.00</td><td>9098.00</td><td>明装</td></tr>
+  <tr><td>13</td><td>配电箱DT-1/2</td><td>600*800*200</td><td>台</td><td>2</td><td>3907.34</td><td>7814.69</td><td>明装</td></tr>
+  <tr><td>14</td><td>配电箱AT-ZAD</td><td>600*800*200</td><td>台</td><td>1</td><td>3067.88</td><td>3067.88</td><td>明装</td></tr>
+  <tr><td>15</td><td>配电箱SFJ33-1/2</td><td>700*900*200</td><td>台</td><td>2</td><td>8523.56</td><td>17047.13</td><td>明装</td></tr>
+  <tr><td>16</td><td>配电柜P3</td><td>500*1800*400</td><td>台</td><td>1</td><td>4801.18</td><td>4801.18</td><td>落地</td></tr>
+  <tr><td>17</td><td>配电柜P4</td><td>500*1800*400</td><td>台</td><td>1</td><td>4801.18</td><td>4801.18</td><td>落地</td></tr>
+  <tr><td>18</td><td>配电柜P7</td><td>500*1800*400</td><td>台</td><td>1</td><td>4772.47</td><td>4772.47</td><td>落地</td></tr>
+  <tr><td>19</td><td>配电柜P8</td><td>500*1800*400</td><td>台</td><td>1</td><td>4772.47</td><td>4772.47</td><td>落地</td></tr>
+  <tr><td>20</td><td>MEB</td><td>600*400*120</td><td>台</td><td>2</td><td>634.93</td><td>1269.87</td><td>明装</td></tr>
+  <tr><td>21</td><td>电气竖井等电位LEB1</td><td>260*150*100</td><td>台</td><td>64</td><td>135.83</td><td>8693.06</td><td>明装</td></tr>
+  <tr><td>22</td><td>电梯机房等电位LEB3</td><td>260*150*100</td><td>台</td><td>4</td><td>135.83</td><td>543.32</td><td>明装</td></tr>
+  <tr><td>23</td><td>水暖井等电位LEB4</td><td>260*150*100</td><td>台</td><td>22</td><td>135.83</td><td>2988.24</td><td>明装</td></tr>
+  <tr><td>24</td><td>户内强电箱1#楼 K</td><td>480*250*120</td><td>台</td><td>256</td><td>584.60</td><td>149657.60</td><td>明装</td></tr>
+  <tr><td>25</td><td>卫生间局部等电位箱</td><td>180*100*55</td><td>台</td><td>320</td><td>12.50</td><td>4000.00</td><td>明装</td></tr>
+  <tr><td colspan="2">建设单位：</td><td colspan="2">监理单位：</td><td colspan="2">审计单位：</td><td colspan="2">施工单位：</td></tr>
+</table>

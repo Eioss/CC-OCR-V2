@@ -1,0 +1,38 @@
+Based on the document provided, let's locate the tables in order:
+
+1.  **1st Table:** "Statement of changes in reserves [Table] ..(2)" at the top.
+2.  **2nd Table:** "Statement of changes in reserves [Table] ..(3)" in the middle.
+3.  **3rd Table:** "Classification of borrowings [Table] ..(1)" under the "[200300] Notes - Borrowings" heading.
+
+The number in parentheses between the 2nd and 3rd tables is associated with the 3rd table's label, which is **(1)**.
+
+Wait, looking closer at the layout:
+- The first table is labeled `..(2)`.
+- The second table is labeled `..(3)`.
+- Then there is a section header `[200300] Notes - Borrowings`.
+- Then the third table is labeled `..(1)`.
+
+The question asks for the number in parentheses *between* the 2nd and 3rd tables.
+- The 2nd table ends with the row "Description of nature and purpose of other reserves/funds".
+- The 3rd table starts after the "[200300] Notes - Borrowings" header.
+- The label `..(1)` is to the right of the "Classification of borrowings [Table]" title, which is the start of the 3rd table block.
+
+However, often these numbers refer to the table sequence or note reference.
+- Table 1 (top): `..(2)`
+- Table 2 (middle): `..(3)`
+- Table 3 (bottom section, first table): `..(1)`
+
+Is there another number?
+Between the end of the 2nd table and the start of the 3rd table, there is the text `[200300] Notes - Borrowings`. The number in brackets there is `200300`. But the question asks for parentheses `( )` or brackets `[ ]`? The prompt says "parentheses [ ]". This is slightly ambiguous as `()` are parentheses and `[]` are brackets.
+- If it means `()`: The labels are `..(2)`, `..(3)`, `..(1)`, `..(2)`.
+- If it means `[]`: The text `[200300]` is between the 2nd and 3rd tables. Also `[Table]`, `[Axis]`, etc. are inside the tables.
+
+Let's re-read carefully: "What is the number in parentheses [ ], between the 2nd and 3rd Tables?"
+The user wrote "parentheses [ ]". Usually, `[]` are square brackets.
+Between the 2nd table (ending with "general reserves") and the 3rd table (starting with "Classification of borrowings"), there is the centered bold text: **[200300] Notes - Borrowings**.
+
+The number inside the square brackets is **200300**.
+
+If the user meant round parentheses `()`, the numbers visible are `..(3)` (end of 2nd table block) and `..(1)` (start of 3rd table block). There isn't a standalone number in round parentheses strictly *between* them, unless referring to the table numbering itself. But `200300` is a very distinct identifier located exactly in that space. Given the visual cue of `[ ]` in the prompt matching the `[ ]` in the text `200300`, this is the most likely answer.
+
+Answer: 200300

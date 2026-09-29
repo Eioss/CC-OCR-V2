@@ -1,0 +1,145 @@
+# 安全生产责任公示牌
+
+**副标题：安全负责人 / 风险提示 / 巡查记录**
+
+文档编号 SG-811721
+日　　期 2024-08-03
+
+<table>
+<tr>
+<td rowspan="3">项目基本信息</td>
+<td>施工/项目名称（虚构）：</td>
+<td colspan="6">澄岳省北屿市星港东泽市政工程有限公司</td>
+</tr>
+<tr>
+<td>工程地点：</td>
+<td colspan="6">青岚省岚原州松影区松影路85号 9栋</td>
+</tr>
+<tr>
+<td>责任人：</td>
+<td>项目负责人</td>
+<td>吕明哲</td>
+<td>安全员</td>
+<td>严知夏</td>
+<td>联系电话</td>
+<td>15546402881</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="14">项目基本信息</td>
+<td colspan="4" style="text-align:center;">责任与联系方式表</td>
+<td colspan="7" style="text-align:center;">风险点清单与措施表</td>
+</tr>
+<tr>
+<td rowspan="2">岗位/职务</td>
+<td rowspan="2">姓名</td>
+<td rowspan="2">联系电话</td>
+<td rowspan="2">在岗状态<br>（√/×）</td>
+<td colspan="3" style="text-align:center;">A区风险点（基坑工程）</td>
+<td colspan="4" style="text-align:center;">B区风险点（高空作业）</td>
+</tr>
+<tr>
+<td rowspan="3">A区风险点（基坑工程）</td>
+<td>序号</td>
+<td>风险描述</td>
+<td>风险等级（高/中/低）</td>
+<td>管控措施</td>
+<td>责任人</td>
+<td>复查结果（日期/签字）</td>
+</tr>
+<tr>
+<td>项目经理</td>
+<td>王伟</td>
+<td>13912345678</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>安全总监</td>
+<td>李娜</td>
+<td>13887654321</td>
+<td>√</td>
+<td>A01</td>
+<td>基坑边坡支护</td>
+<td>高</td>
+<td>加强监测，设置警示标志</td>
+<td>吕明哲</td>
+<td>2024-08-10 / 张强（签字）</td>
+</tr>
+<tr>
+<td rowspan="2">施工员（手写改价）</td>
+<td rowspan="2">张强（手写+500）</td>
+<td rowspan="2">13700001111</td>
+<td rowspan="2">√</td>
+<td>A02</td>
+<td>地下水排放</td>
+<td>中</td>
+<td>定期抽排，防渗漏</td>
+<td>严知夏</td>
+<td>2024-08-11 / 李娜（签字）</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">A区小计</td>
+<td colspan="4" style="text-align:center;">2项</td>
+</tr>
+<tr>
+<td rowspan="3">B区风险点（高空作业）</td>
+<td>序号</td>
+<td>风险描述</td>
+<td>风险等级（高/中/低）</td>
+<td>管控措施</td>
+<td>责任人</td>
+<td>复查结果（日期/签字）</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>B01</td>
+<td>脚手架搭设</td>
+<td>高</td>
+<td>规范搭设，定期检查</td>
+<td>王伟</td>
+<td>2024-08-12 / 张强（签字）</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>B02</td>
+<td>临边防护</td>
+<td>中</td>
+<td>佩戴安全带</td>
+<td>李娜</td>
+<td>2024-08-13 / 李娜（签字）</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2" style="text-align:center;">B区小计</td>
+<td colspan="4" style="text-align:center;">2项</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2" style="text-align:center;">汇总合计</td>
+<td colspan="4" style="text-align:center;">0853029615151 63810</td>
+</tr>
+</table>
+
+https://example.com/doc-24724427
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_2238_1268_2389_1418.jpg" alt="Image" width="6%" /></div>

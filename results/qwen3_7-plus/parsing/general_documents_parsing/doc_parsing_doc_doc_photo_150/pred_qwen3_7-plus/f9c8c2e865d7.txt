@@ -1,0 +1,30 @@
+```latex
+\section*{7 Singular - plural}
+
+\begin{tabular}{llllll}
+axis & crisis & analysis & basis & thesis & criterion \\
+axes & crises & analyses & bases & theses & criteria \\
+datum & medium & erratum & stratum & memorandum & agendum \\
+data & media & errata & strata & memoranda & agenda \\
+alumna & formula & antenna & bacterium & aquarium & \\
+alumnae & formulae & antennae & bacteria & aquaria & \\
+focus & locus & terminus & alumnus & fungus & \\
+foci & loci & termini & alumni & fungi & \\
+Syllabus & radius & Stimulus & tooth & foot & goose \\
+syllabi & radii & stimuli & teeth & feet & geese \\
+matrix & index & appendix & apex & vertex & genie \\
+matrices & indices & appendices & apices & vertices & genies \\
+cupful & dining room & grown up & spoonful & daughter-in-law & \\
+cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law & \\
+Son-in-law & runner-up & governor-general & army & baby & boy toy buffalo \\
+Sons-in-law & runners-up & governors-general & armies & babies & boys toys buffaloes \\
+man & Woman & child & leaf & thief & knife wife life man-servant \\
+men & Women & children & leaves & thieves & knives wives lives men-servants \\
+Virus & photo & sheep & deer & aircraft & furniture cattle \\
+Viruses & photos & sheep & deer & aircraft & furniture cattle \\
+Corps & Species & spectacles & means & premises & series \\
+Corps & species & spectacles & means & premises & series \\
+innings & pants & & & & \\
+innings & pants & & & & \\
+\end{tabular}
+```

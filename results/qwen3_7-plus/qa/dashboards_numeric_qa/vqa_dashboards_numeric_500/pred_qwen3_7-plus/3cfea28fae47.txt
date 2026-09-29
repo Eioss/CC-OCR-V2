@@ -1,0 +1,56 @@
+Based on the infographic “Asia’s Internet Speeds” (Q2 2016 data from Akamai), let’s identify the Asian country with the **second highest mobile internet speed**.
+
+---
+
+### Step 1: Look at the “TOP SPEED” section
+
+This section shows broadband and mobile speeds for top-performing countries/regions in Asia:
+
+- **South Korea**: Mobile = **11.1 Mbps**
+- **Singapore**: Mobile = **8.1 Mbps**
+- **Hong Kong**: Mobile = **9.5 Mbps**
+- **Japan**: Mobile = **5.7 Mbps**
+- **Taiwan**: Mobile = **9.3 Mbps**
+
+So among these, the mobile speeds are:
+- South Korea: **11.1 Mbps** → **#1**
+- Hong Kong: **9.5 Mbps** → **#2**
+- Taiwan: **9.3 Mbps** → **#3**
+- Singapore: **8.1 Mbps** → **#4**
+
+---
+
+### Step 2: Check the “RUNNERS UP” section
+
+This lists other Asian countries with their web and mobile speeds:
+
+- Thailand: Mobile = **5.8 Mbps**
+- New Zealand: Mobile = **9.8 Mbps** ← *Wait — is New Zealand considered Asia?*
+- Australia: Mobile = **8.9 Mbps** ← *Also not typically classified as Asia*
+- Malaysia: **3.4 Mbps**
+- Indonesia: **6.9 Mbps**
+- Sri Lanka: **5.0 Mbps**
+- China: **6.7 Mbps**
+- Vietnam: **2.8 Mbps**
+- Philippines: **8.5 Mbps**
+- India: **3.3 Mbps**
+
+> ⚠️ Important note: The infographic includes **New Zealand and Australia** under “Runners Up”, but geographically and politically, they are **not part of Asia**. The title is “Asia’s Internet Speeds”, so we should focus only on countries generally recognized as part of Asia.
+
+Thus, excluding New Zealand and Australia, the next highest mobile speed after South Korea (11.1 Mbps) is:
+
+→ **Hong Kong: 9.5 Mbps**
+
+Then Taiwan (9.3 Mbps), then Philippines (8.5 Mbps), then Singapore (8.1 Mbps).
+
+---
+
+### Final Answer:
+
+✅ **Hong Kong** has the **second highest mobile internet speed** in Asia according to this Q2 2016 report, at **9.5 Mbps**, behind South Korea’s 11.1 Mbps.
+
+*(Note: While Hong Kong is a Special Administrative Region of China, it is often treated separately in such reports due to its distinct infrastructure and regulatory environment.)*
+
+---
+
+**Answer: Hong Kong**

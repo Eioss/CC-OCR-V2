@@ -1,0 +1,26 @@
+```json
+[
+    {"bbox_2d": [231, 582, 385, 592], "label": "ACCOUNT"},
+    {"bbox_2d": [264, 105, 768, 118], "label": "ADD"},
+    {"bbox_2d": [149, 215, 548, 240], "label": "ADDRESS"},
+    {"bbox_2d": [772, 457, 877, 486], "label": "Amount"},
+    {"bbox_2d": [249, 614, 743, 627], "label": "Bank Address"},
+    {"bbox_2d": [181, 42, 630, 101], "label": "COMPANY NAME"},
+    {"bbox_2d": [759, 244, 837, 255], "label": "Contract No"},
+    {"bbox_2d": [758, 200, 822, 211], "label": "Date"},
+    {"bbox_2d": [675, 122, 796, 132], "label": "EMAIL"},
+    {"bbox_2d": [323, 244, 419, 255], "label": "FAX"},
+    {"bbox_2d": [759, 230, 829, 240], "label": "Invoice No"},
+    {"bbox_2d": [148, 457, 196, 468], "label": "Marks & Numbers"},
+    {"bbox_2d": [247, 320, 306, 331], "label": "Mode of transport"},
+    {"bbox_2d": [247, 363, 273, 374], "label": "Payment"},
+    {"bbox_2d": [247, 456, 596, 486], "label": "Quantity & Descriptions"},
+    {"bbox_2d": [255, 631, 358, 642], "label": "SWIFT CODE"},
+    {"bbox_2d": [183, 244, 278, 255], "label": "TEL"},
+    {"bbox_2d": [253, 122, 374, 132], "label": "TEL/FAX"},
+    {"bbox_2d": [361, 158, 630, 173], "label": "TITLE"},
+    {"bbox_2d": [247, 341, 350, 351], "label": "Time of shipment"},
+    {"bbox_2d": [621, 457, 746, 487], "label": "Unit Price"},
+    {"bbox_2d": [383, 122, 506, 133], "label": "WEBSITE"}
+]
+```

@@ -1,0 +1,74 @@
+Based on the image provided, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+\begin{tabular}{c c c c c c}
+A & 1 & 8 & 9 & 16 & $\cdots$ \\
+B & 2 & 7 & 10 & 15 & $\cdots$ \\
+C & 3 & 6 & 11 & 14 & $\cdots$ \\
+D & 4 & 5 & 12 & 13 & $\cdots$ \\
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent 7. In which row is the number 600? \\
+(1) 1st row \hspace{1cm} (2) 2nd row \hspace{1cm} (3) 3rd row \hspace{1cm} (4) 4th row
+
+\vspace{0.5cm}
+
+\noindent 8. How many columns are there in Row A if 200 is the last number? \\
+(1) 48 \hspace{1.5cm} (2) 50 \hspace{1.5cm} (3) 52 \hspace{1.5cm} (4) 54
+
+\vspace{0.5cm}
+
+\noindent 9. Compute the following. \\
+$37 + 397 + 3997 + 39\,997$ \\
+(1) 42 284 \hspace{1cm} (2) 42 482 \hspace{1cm} (3) 44 248 \hspace{1cm} (4) 44 428
+
+\vspace{0.5cm}
+
+\noindent 10. Compute the following. \\
+$298 + 2998 + 29\,998 + 299\,998$ \\
+(1) 333 292 \hspace{1cm} (2) 334 222 \hspace{1cm} (3) 334 292 \hspace{1cm} (4) 335 222
+
+\vspace{0.5cm}
+
+\noindent 11. Compute the following. \\
+$9 + 99 + 999 + 9999 + 99\,999$ \\
+(1) 110 215 \hspace{1cm} (2) 110 745 \hspace{1cm} (3) 110 995 \hspace{1cm} (4) 111 105
+
+\vspace{0.5cm}
+
+\noindent 12. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have? \\
+(1) 24 \hspace{1.5cm} (2) 25 \hspace{1.5cm} (3) 26 \hspace{1.5cm} (4) 27
+
+\vspace{0.5cm}
+
+\noindent 13. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there? \\
+(1) 10 \hspace{1.5cm} (2) 11 \hspace{1.5cm} (3) 12 \hspace{1.5cm} (4) 13
+
+\vspace{0.5cm}
+
+\noindent 14. Find the values of A and B in the following.
+
+\begin{center}
+% Note: Visual representation of triangles is approximated using text/spacing for LaTeX simplicity, 
+% as drawing exact geometric triangles with internal numbers requires TikZ which might be overkill for simple transcription,
+% but here is a textual representation of the structure.
+Triangle 1: Top=18, Center=10, Left=12, Right=16 \\
+Triangle 2: Top=34, Center=A, Left=25, Right=15 \\
+Triangle 3: Top=20, Center=22, Left=B, Right=18
+\end{center}
+
+(1) $A = 6, B = 18$ \hspace{2cm} (3) $A = 8, B = 20$ \\
+(2) $A = 6, B = 24$ \hspace{2cm} (4) $A = 8, B = 22$
+
+\end{document}
+```

@@ -1,0 +1,3 @@
+```json
+{"menu": [{"name": "HPL754DR LUNCH BOX 3P SET W/RED BAG & SPOON", "qty": "8 PCS", "price": "243.000", "amount": "1,944,000", "discount": "1,555,200"}, {"name": "HPL500 RICE CASE 7L W/CUP", "qty": "5 PCS", "price": "195.000", "amount": "975,000", "discount": "780,000"}, {"name": "HPL754DP LUNCH BOX 3P SET W/BLACK BAG & SPOON", "qty": "4 PCS", "price": "243.000", "amount": "972,000", "discount": "777,600"}], "total": "3,112,800"}
+```

@@ -1,0 +1,71 @@
+```latex
+4. The given table shows the number of students enrolled in history, liberal arts math, and English during the fall and Spring semesters. If there are 197 full time teaching positions available for apportionment among the three departments based on course enrollment, answer each of the following questions.
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Fall} & \textbf{Spring} \\
+\hline
+History & 1902 & 1922 \\
+\hline
+Liberal Arts Math & 14200 & 14200 \\
+\hline
+English & 3898 & 3938 \\
+\hline
+\end{tabular}
+\end{center}
+
+a. Find the number of teaching positions that should be apportioned to each department in the fall using Jefferson's Method
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Standard} & \textbf{Lower} & \textbf{Modified} & \textbf{New} & \textbf{Modified} & \textbf{New} \\
+ & \textbf{Quota} & \textbf{Quota} & \textbf{Quota (if needed)} & \textbf{Lower Quota} & \textbf{Quota (if needed)} & \textbf{Lower Quota} \\
+\hline
+History & 18.08 & 18 & 18.99 & 18 & & \\
+\hline
+Liberal Arts & 139.66 & 139 & 141.08 & 141 & & \\
+Math & & & & & & \\
+\hline
+English & 38.53 & 38 & 38.92 & 38 & & \\
+\hline
+\end{tabular}
+\end{center}
+
+b. Find the number of teaching positions that should be apportioned to each department in the fall using Hamilton's Method
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Standard} & \textbf{Lower Quota} & \textbf{Additional} & \textbf{Final allocation} \\
+ & \textbf{Quota} & & \textbf{(based on decimals)} & \\
+\hline
+History & 18.08 & 18 & 0 & 18 \\
+\hline
+Liberal Arts & 139.66 & 139 & 1 & 140 \\
+Math & & & & \\
+\hline
+English & 38.53 & 38 & 1 & 39 \\
+\hline
+\end{tabular}
+\end{center}
+
+c. Find the number of teaching positions that should be apportioned to each department in the fall using Webster's Method.
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Standard} & \textbf{Rounded} & \textbf{Modified} & \textbf{New} & \textbf{Modified} & \textbf{New} \\
+ & \textbf{Quota} & \textbf{Quota} & \textbf{Quota (if needed)} & \textbf{Rounded Quota} & \textbf{Quota (if needed)} & \textbf{Rounded Quota} \\
+\hline
+History & 18.08 & 18 & & & & \\
+\hline
+Liberal & 139.66 & 140 & & & & \\
+Arts Math & & & & & & \\
+\hline
+English & 38.53 & 39 & & & & \\
+\hline
+\end{tabular}
+\end{center}
+```

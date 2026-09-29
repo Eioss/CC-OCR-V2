@@ -1,0 +1,62 @@
+\[
+h_{\varepsilon_k}\to h \quad\text{uniformly in }\overline{Q}_T.
+\]
+
+\[
+e_L^s H(L)^{X^t(s)}e_L^s
+\cong \bigl(\mathcal O(T_s)\otimes\operatorname{End}_{\mathbb C}(e_L^sV_w)\bigr)^{X^t(s)}
+\cong \bigoplus_{a\in[L/H_\lambda]}
+\bigl(\mathcal O(T_s)\otimes\operatorname{End}_{\mathbb C}(V_\mu)\bigr)^{X^t(s)/X^t(w,V_\mu)}.
+\]
+
+\[
+d=\max\{|F|:F\in\Delta\}.
+\]
+
+\[
+\begin{aligned}
+K=K(y,s)
+={}&\|u\|_{L^\infty(Q_d^+(y,s)\cap Q_1^+)}\\
+&+\frac{1}{\varepsilon_0}\sup_{r\le d}
+\left[
+r^{1-a}\left(
+r^{-(n+2)}
+\int_{Q_r^+(y,s)\cap Q_1^+}|f(x,t)|^{p'}\,dx\,dt
+\right)^{1/p'}
+\right].
+\end{aligned}
+\]
+
+\[
+\gamma(t)=\int d\omega\,J(\omega)
+\coth\!\left[\frac{\hbar\omega}{2k_BT}\right]
+\frac{\sin(\omega t)}{\omega}.
+\]
+
+\[
+\widetilde w_{t+1}
+=(1-\beta)\bigl[\bigl[\widetilde A_t^{(1)},\ldots,\widetilde A_t^{(N)}\bigr]\bigr]
++\beta\sum_{k\in S_t}
+\frac{|D_k|}{\sum_{k\in S_t}|D_k|}\,\widetilde w_{t,\tau}^{\,k}.
+\]
+
+\[
+\begin{aligned}
+Q(G,t)
+&=Q(G+xy,t)-Q(G/xy,t)\\
+&=\frac{Q(B_1+xy,t)\cdots Q(B_m+xy,t)}
+{t^{m-1}(t-1)^{m-1}}
++\frac{Q(B_1/xy,t)\cdots Q(B_m/xy,t)}{t^{m-1}}.
+\end{aligned}
+\]
+
+\[
+\dim\bigl(X\cap T_{N_i}(Z)\bigr)
+\le \dim T_{N_i}(Z)
+=\dim Z
+\le \dim X-1.
+\]
+
+\[
+P\bigl(A_i\mid u(s,x),\,s\le t_{i-1},\,x\in T\bigr)\le\eta^J.
+\]

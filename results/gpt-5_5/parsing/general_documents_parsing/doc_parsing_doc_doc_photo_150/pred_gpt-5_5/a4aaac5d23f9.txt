@@ -1,0 +1,70 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{center}
+\textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019}\\
+\textbf{Standard - 11}\\
+\textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent
+\textbf{Time Allowed: 2.30 Hours} \hfill \textbf{Maximum Marks: 70}
+
+\bigskip
+
+\noindent
+\textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing.\\
+    If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline.
+\end{enumerate}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\noindent
+\textbf{Answer the following questions:} \hfill \textbf{15x1=15}
+
+\begin{enumerate}
+    \item The \underline{\hspace{2cm}} patterns of questions are commonly known as interrogative sentences.\\
+    a) 4 \hfill b) 3 \hfill c) 2 \hfill d) 5
+
+    \item A cruise is a journey on a \underline{\hspace{2cm}}\\
+    a) ferry \hfill b) ocean lines \hfill c) ship \hfill d) boat
+
+    \item An information paper document is \underline{\hspace{2cm}}\\
+    a) brochure \hfill b) pamphlet \hfill c) itinerary \hfill d) notice
+
+    \item The pair of words 'united-untied' is an example of \underline{\hspace{2cm}}\\
+    a) homograph \hfill b) contranyms \hfill c) homophones \hfill d) antigrams
+
+    \item A \underline{\hspace{2cm}} is a short informal performance intended to educate or inform.\\
+    a) play \hfill b) parody \hfill c) skit \hfill d) drama
+
+    \item The association of one word with multiple meanings is known as \underline{\hspace{2cm}}\\
+    a) polygenesis \hfill b) polysemy \hfill c) polycentric \hfill d) polynomial
+
+    \item The process of reading quickly to get the specific information from a given text.\\
+    a) decoding \hfill b) scanning \hfill c) encoding \hfill d) skimming
+
+    \item One who treats old people \underline{\hspace{2cm}}\\
+    a) geriatrician \hfill b) pediatrician \hfill c) neurologist \hfill d) pathologist
+
+    \item Epitasis means \underline{\hspace{2cm}}\\
+    a) gum disease \hfill b) iron deficiency \hfill c) nose bleed \hfill d) feverishness
+
+    \item Bluefin is a type of \underline{\hspace{2cm}}\\
+    a) bass \hfill b) cod \hfill c) gold \hfill d) tuna
+
+    \item Hud Herd cyclone is named after a bird \underline{\hspace{2cm}}\\
+    a) Hawk \hfill b) Heron \hfill c) Hoopoe \hfill d) Hainan
+\end{enumerate}
+
+\end{document}
+```

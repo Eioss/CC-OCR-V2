@@ -1,0 +1,3 @@
+```json
+{"date_issue": "05-31-22", "vendor_name": "KMAQ-YOUR HOMETOWN STATION", "vendor_address": "BOX 940 MAQUOKETA, IOWA 52060", "customer_id": "#8136", "customer_billing_name": "HEIN FOR STATE HOUSE", "customer_billing_address": "", "customer_other_name": "MEDIA FINANCIAL SERVICES", "amount_total_gross": "1,008.18", "amount_due": "0.00", "payment_terms": "Payment due by 28th of month."}
+```

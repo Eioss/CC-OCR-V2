@@ -1,0 +1,6 @@
+Based on the calendar provided:
+
+1.  Locate the number **31** in the grid. It is in the bottom-left cell.
+2.  Look at the column header for that cell, which is **Sun** (Sunday).
+
+Therefore, December 31, 2006, is a **Sunday**.

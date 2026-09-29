@@ -1,0 +1,147 @@
+```latex
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+\geometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+
+% Define colors
+\definecolor{darkblue}{RGB}{0,0,128}
+\definecolor{lightpurple}{RGB}{230,230,250}
+\definecolor{redtext}{RGB}{200,0,0}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% Custom commands for sidebar
+\newcommand{\sidebar}[1]{%
+  \begin{minipage}[t][\textheight][t]{1.5cm}
+    \vspace*{1cm}
+    \centering
+    \colorbox{darkblue}{\parbox[c][1.5cm][c]{1.5cm}{\centering\color{white}\bfseries #1}}
+  \end{minipage}%
+}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.15\textwidth}
+\vspace*{-1cm}
+\colorbox{lightpurple}{\parbox[c][3cm][c]{1.5cm}{\centering\bfseries 公司\\研究}}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.8\textwidth}
+\vspace*{-1cm}
+\raggedleft
+\textbf{证券研究报告} \\[1em]
+{\Large\bfseries 储能设备} \hfill \includegraphics[width=3cm]{example-image} % Placeholder for logo
+\end{minipage}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}p{0.45\textwidth} p{0.55\textwidth}@{}}
+    \raggedright \textbf{审慎增持 （首次）} & 
+    \raggedright {\Large\bfseries 珠海冠宇} \\
+    & \raggedright {\Large\bfseries 688772} \\
+    & \raggedright {\Large\bfseries 消费电芯国产替代提速，动力储能创造第二增长曲线} \\
+    & \raggedleft \textbf{2022年12月06日} \\
+\end{tabular}
+
+\vspace{2em}
+
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+\textbf{\color{redtext}市场数据} \\
+\begin{tabular}{lr}
+\toprule
+\textbf{市场数据日期} & \textbf{2022-12-05} \\
+\midrule
+收盘价(元) & 22.71 \\
+总股本(百万股) & 1121.86 \\
+流通股本(百万股) & 756.68 \\
+总市值(百万元) & 25477.34 \\
+流通市值(百万元) & 17184.28 \\
+净资产(百万元) & 6289.66 \\
+总资产(百万元) & 17836.71 \\
+每股净资产(元) & 5.61 \\
+\bottomrule
+\end{tabular}
+\vspace{0.5em} \\
+\small 来源: WIND, 兴业证券经济与金融研究院整理
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.55\textwidth}
+\textbf{\color{redtext}主要财务指标} \\
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{会计年度} & \textbf{2021A} & \textbf{2022E} & \textbf{2023E} & \textbf{2024E} \\
+\midrule
+营业收入(百万元) & 10340 & 11146 & 15059 & 18869 \\
+同比增长 & 48.5\% & 7.8\% & 35.1\% & 25.3\% \\
+归母净利润(百万元) & 946 & 139 & 807 & 1323 \\
+同比增长 & 15.8\% & \textcolor{redtext}{-85.3\%} & 480.1\% & 63.9\% \\
+毛利率 & 25.1\% & 17.6\% & 22.9\% & 23.7\% \\
+净利率 & 9.1\% & 1.2\% & 5.4\% & 7.0\% \\
+每股收益(元) & 0.84 & 0.12 & 0.72 & 1.18 \\
+每股经营现金流(元) & 1.77 & \textcolor{redtext}{-3.95} & 3.91 & 1.57 \\
+市盈率 & 26.9 & 183.2 & 31.6 & 19.3 \\
+市净率 & 4.0 & 4.1 & 3.6 & 3.1 \\
+\bottomrule
+\end{tabular}
+\vspace{0.5em} \\
+\small 来源: WIND, 兴业证券经济与金融研究院整理
+\end{minipage}
+
+\vspace{2em}
+
+\noindent
+\begin{minipage}[t]{0.3\textwidth}
+\textbf{分析师:} \\
+李双亮 \\
+lishuangliang@xyzq.com.cn \\
+S0190520070005 \\[1em]
+姚丹丹 \\
+yaodandan@xyzq.com.cn \\
+S0190519120001 \\[1em]
+孙曌续 \\
+sunzhaoxu@xyzq.com.cn \\
+S0190522010001
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.65\textwidth}
+\textbf{\color{redtext}投资要点}
+\begin{itemize}[leftmargin=*]
+    \item 珠海冠宇是全球消费锂电龙头，正加速布局动力储能电池。公司成立于 2007 年，深耕锂电领域 20 余年，主要产品是聚合物软包锂电池，未来公司消费电芯受益于 PACK 电芯一体化趋势+国产替代，市占率有望进一步提高，动力和储能业务目前基数较低，未来有望享受赛道红利不断放量，营收和利润成长空间可观。
+    \item 消费电池市场规模较大，PACK 电芯一体化+国产替代助推公司消费电池份额持续提升。1）公司笔电电芯出货量全球市场份额第二，2021 年为 27.17\%，客户覆盖全球前五大笔电品牌厂商，未来 PACK 电芯一体化供应，公司笔电份额仍存在提升空间。2）公司手机类电芯出货量市占率还较低，未来随着客户不断拓展+新扩产能逐渐放量，手机类电芯市占率有望快速增长。3）公司目前已经切入了北美大客户和三星的供应链体系，不断深入合作，同时叠加日韩厂商转战动力电池，国产替代趋势显现，公司消费电池业务增长空间可期。
+    \item 加速布局动力及储能电池，成为公司第二增长曲线。公司专注动力和储能电池细分赛道，动力电池以启停电池为切入点，已取得上汽和通用的定点，并加速扩产，在浙江建设年产 10GWh 的动力类锂电池产能，未来逐步延伸动力电池，现已获得柳州五菱 PHEV 动力电池系统定点供应商资格。储能电池，公司聚焦于户储和通信储能，实现差异化竞争，已经规划年产 15GWh 的锂电池产能，用于配套储能电池。未来静待动力和储能电池放量，推动公司收入不断增长。
+    \item 盈利预测与投资建议：预计公司 2022/2023/2024 年收入分别为 111.46、150.59 和 188.69 亿元，同比+7.8\%、+35.1\%和+25.3\%。预测 2022/2023/2024 年归母净利润分别为 1.39、8.07 和 13.23 亿元，同比-85.3\%、480.1\%和 63.9\%，对应 2022 年 12 月 5 日 22.71 元/股收盘价的 PE 分别为 183.2、31.6、19.3 倍，首次覆盖给予“审慎增持”评级。
+\end{itemize}
+\end{minipage}
+
+\vspace{2em}
+
+\noindent
+\textbf{\color{redtext}风险提示: 原材料价格上涨，下游市场需求不及预期，动力和储能电池进展不及预期}
+
+\vfill
+
+\begin{center}
+\hrulefill \\
+请务必阅读正文之后的信息披露和重要声明
+\end{center}
+
+\end{document}
+```

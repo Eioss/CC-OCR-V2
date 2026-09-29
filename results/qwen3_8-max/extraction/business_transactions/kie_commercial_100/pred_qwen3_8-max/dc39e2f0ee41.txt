@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "Feb 21, 20",
+    "order_id": "33741477",
+    "vendor_name": "CHRISTAL RADIO",
+    "vendor_address": "125 West 55th Street 3rd Floor New York, NY 10019",
+    "customer_billing_name": "MICHAEL BLOOMBERG FOR PRESIDENT",
+    "customer_billing_address": "EST 0133 Michael Bloomberg For President",
+    "customer_other_name": "Helen Hanratty",
+    "amount_total_gross": "2,415.00",
+    "amount_due": "2,415.00"
+}
+```

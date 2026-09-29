@@ -1,0 +1,4 @@
+There are multiple instances of '0.00' in the image:
+
+(412, 405, 462, 425)
+(637, 405, 686, 423)

@@ -1,0 +1,28 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>No. of Faculty</th>
+    <th>International level</th>
+    <th>National level</th>
+    <th>State level</th>
+  </tr>
+  <tr>
+    <td><b>Attended</b></td>
+    <td>25</td>
+    <td>100</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td><b>Presented papers</b></td>
+    <td>17</td>
+    <td>128</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td><b>Resource Persons</b></td>
+    <td>5</td>
+    <td>51</td>
+    <td>2</td>
+  </tr>
+</table>
+```

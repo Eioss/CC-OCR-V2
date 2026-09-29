@@ -1,0 +1,23 @@
+Based on the comparison table **“VMWARE VSPHERE VS. MICROSOFT HYPER-V”** at the bottom of the infographic, under the row:
+
+> **Max guests per host**
+
+The values for VMware editions are:
+
+- **VMware STANDARD**: 512
+- **VMware ENTERPRISE**: 512
+- **VMware ENT. PLUS**: 512
+
+✅ So, the **highest number of guest machines (virtual machines) that can be connected per host** in any VMware edition listed is **512**.
+
+This applies to all three VMware editions shown: Standard, Enterprise, and Enterprise Plus.
+
+---
+
+**Note**: The Microsoft Hyper-V editions show lower limits (384 for Standard/Enterprise, no limit for Datacenter — but “No limit” likely refers to licensing, not technical capacity; technically, Hyper-V also has practical limits based on hardware).
+
+But since your question specifically asks about **VMware**, the answer is:
+
+> **512 guests per host**
+
+*(across VMware Standard, Enterprise, and Enterprise Plus editions)*

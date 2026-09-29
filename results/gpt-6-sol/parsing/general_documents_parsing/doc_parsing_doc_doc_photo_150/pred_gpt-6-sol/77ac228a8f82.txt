@@ -1,0 +1,110 @@
+```latex
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{array,tabularx}
+\begin{document}
+
+\begin{center}
+{\small 本资料来自 www.m448.com}\\[1em]
+{\Large 建筑装饰工程施工合同}\\
+{\large Contract}
+\end{center}
+
+\noindent 发包方（甲方）\\
+Party A:
+
+\medskip
+\noindent 承包方（乙方）：上海巧点装饰设计有限公司\\
+Party B: I-point design (Inspiration Point Design)
+
+\medskip
+\noindent [中文条款字迹不清]\\
+According to: ``PRC Contract Law'', ``Law on the Protection of Consumer
+Interests'', ``PRC Price Law'', ``Shanghai Supervision of Contract Terms'',
+``Shanghai Construction Market Management Regulations'', as well as other
+laws and regulations relevant to the specific circumstances of this
+project, parties A and B have hereby equally and voluntarily entered into
+the following agreement executed on the basis of mutual respect.
+
+\section*{一、概况\\OVERVIEW}
+
+\noindent 1.\ 甲方装饰物业系合法物业。\\
+Party A is the owner of the property.
+
+\medskip
+\noindent 2.\ [中文条款字迹不清]\\
+Party B is approved and registered with the city industrial and commercial
+administrative organs as an enterprise engaged in renovation and
+decoration.
+
+\medskip
+\noindent 3.\ 装饰施工地点：\\
+Construction site:
+
+\medskip
+\noindent 4.\ 建筑结构：\quad 建筑面积\underline{\hspace{2em}}平方米，
+建筑面积\underline{\hspace{2em}}平方米\\
+Construction area: total area (including stairwells and other common
+areas): \underline{\hspace{2em}} m$^2$; private living area:
+\underline{\hspace{2em}} m$^2$.
+
+\medskip
+\noindent 5.\ 装饰施工内容：[字迹不清]\\
+Structure: residential.
+
+\medskip
+\noindent 6.\ 承包方式：详见附件一《工程估价单》\\
+Contractor engagement method: See annex -- (quotation).
+
+\medskip
+\noindent 7.\ 合同价款：\underline{\hspace{2em}}.00元，大写（人民币）：
+\underline{\hspace{2em}}元整。\\
+Total price: \underline{\hspace{2em}}.00RMB; in words:
+\underline{\hspace{2em}}元整. Any changes in this price must be agreed by
+both parties in writing.
+
+\medskip
+\noindent 8.\ 工期：[中文条款字迹不清]\\
+Period: Start \underline{\hspace{1em}} (year)
+\underline{\hspace{1em}} (month) \underline{\hspace{1em}} (day);
+Completion before: \underline{\hspace{1em}} (year)
+\underline{\hspace{1em}} (month) \underline{\hspace{1em}} (day);
+Total days (excluding national holidays):
+\underline{\hspace{2em}} days. Party B's on site construction supervisor
+will be:
+
+\section*{二、关于工程价款及结算的约定\\TERMS OF PAYMENT}
+
+\noindent 1.\ 工程款的付款方式\\
+The payment schedule shall be as follows:
+
+\medskip
+\noindent\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}X|
+>{\raggedright\arraybackslash}X|
+>{\raggedright\arraybackslash}p{0.18\textwidth}|
+>{\raggedright\arraybackslash}p{0.15\textwidth}|}
+\hline
+& 付款时间\newline Timing of Payments
+& 付款日期\newline Date (yyyy mm dd)
+& Amount (RMB)\\
+\hline
+合同签订后60\%\newline After the contract is signed. & & &\\
+\hline
+[中文字迹不清]30\%\newline When half of the project period time has elapsed. & & &\\
+\hline
+家具、灯具进场前5\%\newline Furniture of lamps and lanterns, before the approach & & &\\
+\hline
+验收合格后五天内5\%\newline Upon Acceptance of the completion of the project. & & &\\
+\hline
+增加工程项目100\%\newline Project changes.
+& 签订工程项目变更单100\%\newline Date of signing for the project change
+& &\\
+\hline
+空调工程项目100\%\newline Air conditioning project & & &\\
+\hline
+家具工程项目100\%\newline Furniture engineering & & &\\
+\hline
+\end{tabularx}
+
+\end{document}
+```

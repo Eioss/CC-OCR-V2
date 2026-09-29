@@ -1,0 +1,4 @@
+Based on the transmission report provided, the last successful page number is **001**.
+
+This is indicated at the bottom of the report under the line:
+`LAST SUCCESSFUL PAGE 001`

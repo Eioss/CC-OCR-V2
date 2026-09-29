@@ -1,0 +1,23 @@
+To find the **combined percentage of paid apps** on the iPhone and Android stores, we need to look at the “Heavy Hitters” section of the infographic.
+
+From that section:
+
+- **Apple App Store for iPhone**:  
+  - Paid Apps: **71%**  
+  - Free Apps: 29%
+
+- **Google Android Market**:  
+  - Paid Apps: **41%**  
+  - Free Apps: 60%
+
+---
+
+The question asks for the **percentage of paid apps taken together**, which implies a **simple average** (since no weighting by total app count is provided in this context).
+
+So:
+
+> **(71% + 41%) / 2 = 112% / 2 = 56%**
+
+---
+
+✅ **Final Answer: 56%**

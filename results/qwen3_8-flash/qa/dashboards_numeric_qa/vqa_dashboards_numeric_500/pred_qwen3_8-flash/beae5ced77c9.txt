@@ -1,0 +1,16 @@
+Based on the information provided in the image:
+
+The footnote states:
+> *Median time from onset of symptoms, including fever (in 98% of patients), cough (75%), **myalgia or fatigue (44%)**, and others.*
+
+This means that **44%** of patients experienced **myalgia or fatigue** as a symptom.
+
+To find the percentage of patients who are **not** getting fatigue (or myalgia) as a symptom, we subtract this from 100%:
+
+**100% - 44% = 56%**
+
+---
+
+✅ Therefore, **56%** of corona patients are **not** experiencing fatigue (or myalgia) as a symptom, according to this data.
+
+*(Note: The term “fatigue” here is grouped with “myalgia”, so strictly speaking, it’s the percentage not experiencing either. But since the question asks about “fatigue”, and no separate figure is given for fatigue alone, we assume the 44% refers to the combined group.)*

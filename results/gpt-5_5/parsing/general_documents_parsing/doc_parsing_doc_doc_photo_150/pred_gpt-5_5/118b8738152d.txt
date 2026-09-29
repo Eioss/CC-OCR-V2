@@ -1,0 +1,53 @@
+```latex
+\[
+\text{Factor the difference of two squares.}
+\]
+
+\[
+(16x^4 - 81)
+\]
+
+\[
+\circ\ (2x + 3)^2(2x - 3)^2
+\]
+
+\[
+\circ\ (4x^2 + 9)(4x^2 + 9)
+\]
+
+\[
+\circ\ (4x^2 + 9)(2x + 3)(2x - 3)
+\]
+
+\[
+\circ\ (4x^2 + 9)(4x^2 - 9)
+\]
+
+\[
+\boxed{\text{Question 8}}
+\]
+
+\[
+\text{Factor using the formula for the sum or difference of two cubes.}
+\]
+
+\[
+27x^3 + 64
+\]
+
+\[
+\circ\ (3x + 4)(9x^2 + 12x + 16)
+\]
+
+\[
+\circ\ (3x + 4)(9x^2 + 16)
+\]
+
+\[
+\circ\ (3x + 4)(9x^2 - 12x + 16)
+\]
+
+\[
+\circ\ (3x - 4)(9x^2 + 12x + 16)
+\]
+```

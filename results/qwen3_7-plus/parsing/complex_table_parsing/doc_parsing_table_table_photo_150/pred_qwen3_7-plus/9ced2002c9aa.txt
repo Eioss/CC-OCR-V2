@@ -1,0 +1,121 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="7" style="text-align:center; font-size:24px; font-weight:bold;">员工调动申请单</td>
+   </tr>
+   <tr>
+    <td colspan="7" style="text-align:right;">2021年9月26日</td>
+   </tr>
+   <tr>
+    <th>姓名</th>
+    <td>李杨</td>
+    <th>部门</th>
+    <td>物业部</td>
+    <th>入职日期</th>
+    <td>2020.10.19</td>
+    <th>调动执行日期</th>
+    <td>2021.10.1</td>
+   </tr>
+   <tr>
+    <th>调动类型</th>
+    <td colspan="7">□调动 □借调 □公司调动 ☑岗位调动 □其他</td>
+   </tr>
+   <tr>
+    <th rowspan="4">异动前</th>
+    <th>部门</th>
+    <td>物业部</td>
+    <th rowspan="4">异动后</th>
+    <th>部门</th>
+    <td>物业部</td>
+   </tr>
+   <tr>
+    <th>岗位</th>
+    <td>勤杂工</td>
+    <th>岗位</th>
+    <td>水电工</td>
+   </tr>
+   <tr>
+    <th>薪资</th>
+    <td>3000+500</td>
+    <th>薪资</th>
+    <td>3500+500</td>
+   </tr>
+   <tr>
+    <th>调出日期</th>
+    <td>2021年9月26日</td>
+    <th>调入日期</th>
+    <td>2021年10月1日</td>
+   </tr>
+   <tr>
+    <th colspan="7">调整意见</th>
+   </tr>
+   <tr>
+    <th rowspan="3">部门意见</th>
+    <td colspan="6">□职务调整 □不同意 ☑同意并调整为<u>水电工</u></td>
+   </tr>
+   <tr>
+    <td colspan="6">□工资调整 □不同意 ☑同意并调整为<u>叁仟伍佰</u>拾元整</td>
+   </tr>
+   <tr>
+    <td colspan="6">□岗位调整 □不同意 ☑同意 原岗位<u>勤杂工</u>调整为现岗位<u>水电工</u></td>
+   </tr>
+   <tr>
+    <th>转出部门意见</th>
+    <td colspan="3">同意</td>
+    <th>转入部门意见</th>
+    <td colspan="3">同意</td>
+   </tr>
+   <tr>
+    <th>部门负责人意见</th>
+    <td colspan="3" style="height: 50px;"></td>
+    <th>综合办人事处意见</th>
+    <td colspan="3" style="height: 50px;"></td>
+   </tr>
+   <tr>
+    <th>商管公司意见</th>
+    <td colspan="3" style="height: 50px;"></td>
+    <th>总经理意见</th>
+    <td colspan="3" style="height: 50px;"></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

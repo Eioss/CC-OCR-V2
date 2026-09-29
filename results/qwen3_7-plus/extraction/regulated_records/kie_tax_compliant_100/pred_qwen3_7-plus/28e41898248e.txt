@@ -1,0 +1,12 @@
+```json
+{
+    "date": "02/06/18",
+    "doc_no_receipt_no": "MT161201806020100",
+    "seller_address": "NO. 89&91, JALAN UTAMA, TAMAN MUTIA RINI, 81300 SKUDAI, JOHOR.",
+    "seller_gst_id": "001507647488",
+    "seller_name": "DE LUXE CIRCLE FRESH MART SDN BHD",
+    "seller_phone": "016-7780546",
+    "total_amount": "25.85",
+    "total_tax": "0.00"
+}
+```

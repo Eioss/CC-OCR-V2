@@ -1,0 +1,7 @@
+Based on the deposit slip provided in the image:
+
+1.  Locate the section on the right side labeled with columns for "DOLLARS" and "CENTS".
+2.  Find the row labeled "**CHECK**".
+3.  In that row, the value under "DOLLARS" is **2,200** and the value under "CENTS" is **39**.
+
+Therefore, the Check amount is **2,200.39**.

@@ -1,0 +1,89 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp} % For \textdegree and other symbols
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{amsmath}
+\usepackage{ctex} % Assuming Chinese text support is needed
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\section*{第20条 建设规模及项目产出}
+
+本建设项目的的建设规模及产出如下:
+
+\subsection*{20.1 \underline{\hspace{3cm}} 工程建设项目}
+
+\begin{tabular}{|p{5cm}|l|l|l|}
+\hline
+项目 & 数值 & 单位 & 备注 \\
+\hline
+用地面积 & & m² & \\
+\hline
+建筑占地 & & m² & \\
+\hline
+建筑总面积 & & m² & \\
+\hline
+水域面积 & & m² & \\
+\hline
+道路、铺装面积 & & m² & \\
+\hline
+绿化面积 & & m² & \\
+\hline
+容积率 & & & \\
+\hline
+绿化率 & & \% & \\
+\hline
+\end{tabular}
+
+\subsection*{20.2 \underline{\hspace{3cm}} 工程建设项目}
+
+\begin{tabular}{|p{5cm}|l|l|l|}
+\hline
+项目 & 单位 & 数量 & 备注 \\
+\hline
+建筑总面积 & m² & & \\
+\hline
+规划总用地 & m² & & \\
+\hline
+建筑基底 & m² & & \\
+\hline
+道路硬地 & m² & & \\
+\hline
+水系 & m² & & \\
+\hline
+绿地 & m² & & \\
+\hline
+廊桥 & 座 & & \\
+\hline
+ & 座 & & \\
+\hline
+ & 座 & & \\
+\hline
+ & 座 & & \\
+\hline
+ & m² & & \\
+\hline
+ & m² & & \\
+\hline
+绿地 & m² & & \\
+\hline
+\end{tabular}
+
+\subsection*{20.3 \underline{\hspace{3cm}} 工程建设项目}
+
+\begin{tabular}{|p{5cm}|l|l|l|}
+\hline
+项目 & 单位 & 数量 & 备注 \\
+\hline
+建筑总面积 & m² & & \\
+\hline
+规划总用地 & m² & & \\
+\hline
+\end{tabular}
+
+\end{document}

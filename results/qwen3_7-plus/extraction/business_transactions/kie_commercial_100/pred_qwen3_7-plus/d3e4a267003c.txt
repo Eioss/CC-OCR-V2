@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "April 15, 2002",
+    "order_id": "223656",
+    "vendor_name": "Weber Shandwick",
+    "vendor_address": "P.O. Box 100583 Atlanta, GA 30384-0583 USA",
+    "customer_billing_name": "LORILLARD TOBACCO COMPANY Mr. Jordan Bressler Manager, External Affairs",
+    "customer_billing_address": "714 Green Valley Road P.O. Box 10529 Greensboro, NC 27408",
+    "amount_total_gross": "$23,163.42",
+    "amount_due": "$23,163.42",
+    "payment_terms": "Payment of this invoice is due upon receipt."
+}
+```

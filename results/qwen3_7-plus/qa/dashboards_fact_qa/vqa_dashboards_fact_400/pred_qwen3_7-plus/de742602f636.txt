@@ -1,0 +1,128 @@
+Based on the infographic, under the section **“ACCESS TO DIGITAL TOOLS by COMMUNITY TYPE”**, we can find the data for students in **urban** areas.
+
+The chart shows two categories: **At Home** and **In School**.
+
+For **Urban** communities (represented by the red bars):
+
+- **At Home**:  
+  - “All or almost all” = **13%**  
+  - “Most” = **9%**  
+  - “Only some” = **22%**  
+  - “Hardly any” = **16%**
+
+- **In School**:  
+  - “All or almost all” = **48%**  
+  - “Most” = **57%**  
+  - “Only some” = **56%**  
+  - “Hardly any” = **52%**
+
+> ⚠️ Note: The percentages for each category (At Home / In School) add up to more than 100% because they represent different levels of access reported by teachers — not mutually exclusive groups. Each bar represents the percentage of teachers who say their students have *that level* of access.
+
+However, if you’re asking for the **percentage of students in urban regions who have access to digital tools at school**, the most relevant figure is likely the combined “All or almost all” + “Most” = **48% + 57% = 105%** — which doesn’t make sense as a total population percentage.
+
+This suggests the chart is showing **distribution across access levels**, not cumulative totals. So perhaps the best interpretation is:
+
+✅ **48%** of teachers in urban areas say their students have **“All or almost all”** access to digital tools **in school**.
+
+Alternatively, if you want the proportion with *at least some meaningful access*, you might combine “All or almost all” and “Most”:
+
+→ **48% + 57% = 105%** — again, impossible as a share of students.
+
+This indicates the chart may be mislabeled or using overlapping categories. But looking closely, it’s likely that each bar represents the % of teachers reporting that *level* of access — so no single student falls into multiple categories. Therefore, the values should sum to ~100% per column.
+
+Let’s check:
+
+**In School – Urban:**
+- All or almost all: 48%
+- Most: 57% → already over 100% when added to 48%
+
+That’s clearly an error in presentation or labeling.
+
+But wait — looking again, the legend says:
+
+> Red = Urban  
+> And the bars are grouped under “At Home” and “In School”
+
+Actually, re-examining the visual layout, it appears that **each group (At Home / In School)** has four bars representing the four access levels, and those four bars *should* sum to 100% for that community type.
+
+So for **Urban – In School**:
+
+- All or almost all: **48%**
+- Most: **57%** ← this must be a typo or mislabeling
+
+Wait — actually, looking at the image carefully, the numbers are placed above the bars, but the bars themselves are colored according to the legend. Let me reinterpret based on standard infographic design.
+
+It’s more likely that the **numbers shown are the percentages for each access level within that community type**, and they should sum to 100%.
+
+But 48 + 57 + 56 + 52 = 213% — definitely wrong.
+
+Ah! I think I see the issue — the chart is **not** showing percentages of students, but rather **percentages of teachers** who report that their students have that level of access.
+
+And since one teacher might report “most” while another reports “only some”, these are independent responses — so they don’t need to sum to 100%. That makes sense.
+
+Therefore, to answer your question directly:
+
+> **What percentage of U.S. students who go to the school located in an urban region has access to digital tools?**
+
+We can interpret this as: What do teachers in urban schools report about their students’ access?
+
+The highest level of access (“All or almost all”) is reported by **48%** of urban teachers for **in-school** access.
+
+If you want a broader definition of “has access” (i.e., not “hardly any”), then:
+
+- “All or almost all” + “Most” + “Only some” = 48% + 57% + 56% = **161%** — still nonsensical.
+
+Given the confusion, the safest and most direct answer from the chart is:
+
+> ✅ **48%** of teachers in urban areas say their students have **“All or almost all”** access to digital tools **in school**.
+
+Alternatively, if you're asking for the percentage of students with *any* access (excluding “hardly any”), then:
+
+Total excluding “hardly any” = 48% + 57% + 56% = 161% — still invalid.
+
+Perhaps the chart intends to show that **among urban teachers**, 48% report full access, 57% report most access, etc. — meaning these are separate survey responses.
+
+Since the question asks for “percentage of students”, and the data is from teachers’ perceptions, we can only estimate.
+
+But here’s a better approach: look at the **Highlights** section.
+
+It says:
+
+> “Teachers in urban areas are the least likely to say their students have sufficient access to digital tools in school…”
+
+And compares them to rural teachers.
+
+Also, in the “Access to Digital Tools by Community Type” chart, for **In School**, the “All or almost all” bar for Urban is **48%**, which is lower than Rural (57%), Small city/Suburban (56%), and Small town (52%).
+
+So, to give a clear, defensible answer:
+
+---
+
+✅ **According to the infographic, 48% of teachers in urban areas report that their students have “All or almost all” access to digital tools in school.**
+
+If you mean “what percent have *some* access”, then subtract “hardly any”:
+
+→ 100% – 52% = **48%** have *at least some* access? No — that would imply 52% have hardly any, so 48% have more than hardly any — but the other categories overlap.
+
+Actually, the only way this makes sense is if the four categories are mutually exclusive and exhaustive — so they *must* sum to 100%.
+
+Let’s assume there’s a typo in the numbers.
+
+Looking at the **Small town** column for In School: 48%, 57%, 56%, 52% — same problem.
+
+Wait — perhaps the numbers are misaligned.
+
+Another possibility: the numbers are not percentages of teachers, but something else.
+
+Given the ambiguity, and since the question likely expects a simple extraction from the chart, I’ll go with the most prominent number associated with urban in-school access:
+
+> 📊 **48%**
+
+— representing the percentage of urban teachers who say their students have “All or almost all” access to digital tools in school.
+
+---
+
+### Final Answer:
+**48%**
+
+*(This is the percentage of teachers in urban areas who report their students have "All or almost all" access to digital tools in school, as shown in the infographic.)*

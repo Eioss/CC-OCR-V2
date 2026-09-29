@@ -1,0 +1,12 @@
+{
+  "date_issue": "9/8/20",
+  "order_id": "DM20-265",
+  "vendor_name": "StateNets",
+  "vendor_address": "2601 Northwind Drive, Richmond, VA 23233",
+  "vendor_email": "carla@statenets.com",
+  "customer_billing_name": "Carla Litton",
+  "customer_billing_address": "48 Chiswick Cir, Bloomington, IL 61704",
+  "customer_other_name": "Senate Leadership Fund",
+  "amount_total_gross": "$11,400.00",
+  "amount_due": "$11,400.00"
+}

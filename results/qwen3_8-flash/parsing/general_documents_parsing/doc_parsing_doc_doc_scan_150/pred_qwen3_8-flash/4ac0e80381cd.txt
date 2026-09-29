@@ -1,0 +1,63 @@
+```latex
+\begin{center}
+    \textbf{MODEL QUESTION PAPER} \\
+    CLASS : IV \hfill SUB-MATHS
+\end{center}
+
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|}
+\hline
+COMP & FNC & UBC & AIC & PSA & ORAL & Total & Tr's sign \\
+& (15) & (20) & (20) & (15) & (30) & (100) & \\
+\hline
+MARKS & & & & & & & \\
+\hline
+GRADE & & & & & & & \\
+\hline
+\end{tabular}
+
+\vspace{1cm}
+
+\section*{I. FORMING NUMBERS CORRECTLY (15 marks)}
+
+\subsection*{(1) Fill in the blanks: \hfill (5x1=5)}
+
+\begin{enumerate}[label=\alph*.]
+    \item Arrange 5, 3, 7, 2 to form the smallest 4 digit number \underline{\hspace{2cm}} and the greatest 4 digit number \underline{\hspace{2cm}}
+    \item $1000 + 300 + 4 =$ \underline{\hspace{4cm}}
+    \item Expand $4287 = 4000 +$ \underline{\hspace{2cm}} $+$ \underline{\hspace{2cm}} $+ 7$
+    \item 1 kilometre = \underline{\hspace{2cm}} metres and 1 metre = \underline{\hspace{2cm}} cm
+    \item A brick has \underline{\hspace{2cm}} faces and \underline{\hspace{2cm}} edges.
+\end{enumerate}
+
+\subsection*{(2) Do as directed. \hfill (5x2=10)}
+
+\subsubsection*{(i) Write the place value of 4 in each number}
+
+\begin{tabular}{ccccc}
+4 & 6 & 0 & 9 & $\longrightarrow$ \underline{\hspace{3cm}} \\
+6 & 3 & 4 & 7 & $\longrightarrow$ \underline{\hspace{3cm}} \\
+\end{tabular}
+
+\subsubsection*{(ii) Encircle the pairs of numbers which when added makes more than 500?}
+
+\begin{enumerate}[label=\alph*.]
+    \item 152 and 241
+    \item 321 and 192
+    \item 420 and 184
+    \item 209 and 290
+\end{enumerate}
+
+\subsubsection*{(iii) Express as 24- hours clock time}
+
+\begin{enumerate}[label=\alph*.]
+    \item 3.15 a m \underline{\hspace{5cm}}
+    \item 7.40 p.m \underline{\hspace{5cm}}
+\end{enumerate}
+
+\subsubsection*{(iv) In a circle , if the lengths of the:}
+
+\begin{enumerate}[label=(\alph*)]
+    \item Radius is 4 cm, then the Diameter is \underline{\hspace{4cm}}
+    \item Diameter is 12 cm, then the Radius is \underline{\hspace{4cm}}
+\end{enumerate}
+```

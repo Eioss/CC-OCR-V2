@@ -1,0 +1,81 @@
+```latex
+上述模型中有对一级动力学模型的拓展,主要是假定浮选速率常数为时间的变量而推导得到的模型,利用 MATLAB 软件得到的非线性拟合函数可以求出最大可燃体回收率 $\varepsilon_{\infty}$,结果如表5所示.其中,$R^2$ 是体现拟合精度的相关系数,$R^2$ 越大表明拟合精度越高.
+
+$\varepsilon_{\infty}$ 应满足
+\begin{equation}
+\varepsilon_{t=5 \text{ min}} < \varepsilon_{\infty} < 100\%.
+\tag{7}
+\end{equation}
+而在表5中,只有5个计算值满足,一级动力学模型计算值都偏小,而二级模型计算值都偏大,文献[10-11]的模型计算值相对误差较小,但计算值大于100\%的占多数,这种不合理情况的出现与模型假设和拟合算法有关,浮选动力学模型中的时间是无限的,但实验数据中的时间只到5 min,用浮选前5 min的数据来求解整个浮选过程的参数,求得的参数与前5 min的数据非常一致,但是后面的趋势将会出现偏差,预测的 $\varepsilon$ 出现误差,且误差越来越大,而 $\varepsilon_{\infty}$ 是 $t \to \infty$ 的极限值,误差最大.
+
+
+\begin{table}[h]
+\centering
+\caption{$\varepsilon_{\infty}$ 的模型解}
+\begin{tabular}{l c c c c c c c c}
+\hline
+\multirow{2}{*}{浮选动力学模型} & \multicolumn{2}{c}{$-0.074 \text{ mm}$} & \multicolumn{2}{c}{$0.074 \sim 0.125 \text{ mm}$} & \multicolumn{2}{c}{$0.125 \sim 0.250 \text{ mm}$} & \multicolumn{2}{c}{$0.250 \sim 0.500 \text{ mm}$} \\
+\cline{2-9}
+& $\varepsilon_{\infty}/\%$ & $R^2$ & $\varepsilon_{\infty}/\%$ & $R^2$ & $\varepsilon_{\infty}/\%$ & $R^2$ & $\varepsilon_{\infty}/\%$ & $R^2$ \\
+\hline
+一级动力学模型 & 88.38 & 0.986 6 & 96.61 & 0.984 9 & 96.13 & 0.998 8 & 89.06 & 0.984 5 \\
+一级矩阵分布模型 & 98.57 & 0.996 7 & 103.58 & 0.995 6 & 104.15 & 0.995 6 & 98.65 & 0.996 3 \\
+二级动力学模型 & 105.35 & 0.998 9 & 108.65 & 0.981 5 & 107.15 & 0.987 1 & 105.97 & 0.999 3 \\
+二级矩阵分布模型 & 114.67 & 0.997 3 & 115.62 & 0.968 4 & 112.92 & 0.975 1 & 116.05 & 0.998 1 \\
+文献[10]模型 & 104.70 & 0.996 1 & 115.54 & 0.998 3 & 97.26 & 1.000 0 & 104.61 & 0.995 5 \\
+文献[11]模型 & 104.09 & 0.999 3 & 99.10 & 0.998 1 & 97.10 & 1.000 0 & 102.62 & 0.999 0 \\
+\hline
+\end{tabular}
+\end{table}
+
+基于以上分析,最大可燃体回收率的解应该是经验解,不应是模型解.由于本次实验煤泥可浮性好,$\varepsilon_{t=5 \text{ min}} > 90\%$,在预测时出现 $\varepsilon_{\infty} > 100\%$ 的不合理情况,但是对于 $\varepsilon_{t=5 \text{ min}}$ 较小的煤泥,得到的 $\varepsilon_{\infty} < 100\%$ 的合理情况,往往会让我们忽视模型解的不合理性而直接采用.为此,本文采用经验外推法求最大可燃体回收率.
+
+\subsection{经验外推法求最大可燃体回收率}
+
+经验外推法是指根据已有的数据点,结合实际经验预测数据的一类方法,数据外推的预测方法可有多种,本文采用的是终端寻迹法,即根据数据最后的变化趋势预测的方法,由文献[12]得其计算公式为
+\begin{equation}
+\varepsilon_{\infty} = \varepsilon_n + \lambda \times \frac{\varepsilon_n - \varepsilon_{n-1}}{t_n - t_{n-1}} \times (t_{\infty} - t_n),
+\tag{8}
+\end{equation}
+式中 $\frac{\varepsilon_n - \varepsilon_{n-1}}{t_n - t_{n-1}}$ 为在第 $n$ 个浮选时间段内每分钟的可燃体回收率,用 $\varphi_n$ 表示,则
+\begin{equation}
+\varepsilon_{\infty} = \varepsilon_n + \lambda \varphi_n (t_{\infty} - t_n),
+\tag{9}
+\end{equation}
+式中 $t_{\infty}$ 为浮选结束时间,是一个确定的时间.随着浮选速率下降,在 $t_n$ 到 $t_{\infty}$ 这段时间里,每分钟的可燃体回收率产量小于 $\varphi_n$,因此 $\lambda < 1$,将式(9)变换得
+\begin{equation}
+\lambda = \frac{\varepsilon_{\infty} - \varepsilon_n}{\varphi_n (t_{\infty} - t_n)}.
+\tag{10}
+\end{equation}
+若用 $\varepsilon_{n+1}$ 代替 $\varepsilon_{\infty}$, $t_{n+1}$ 代替 $t_{\infty}$,则 $\lambda$ 定义为 $\lambda_n = \frac{\varphi_{n+1}}{\varphi_n}$,为方便计算,令式(9)中的 $\lambda = \lambda_5$. $t_{\infty}$ 的取值为
+\begin{equation}
+t_{\infty} = t_n + (t_n - t_{n-1}).
+\tag{11}
+\end{equation}
+$t_{\infty}$ 值相当于将最后一次刮泡时间延长一倍,对于 $-0.074 \text{ mm}$ 和 $0.250 \sim 0.500 \text{ mm}$ 粒级煤泥,由于浮选速率较慢,可将 $t_{\infty}$ 取大些,即
+\begin{equation}
+t_{\infty} = t_n + 1.5 \times (t_n - t_{n-1}).
+\tag{12}
+\end{equation}
+这里最大可燃体回收率的经验计算公式与浮选理论中的最大可燃体回收率定义有所区别.计算结果如表6所示.
+
+\begin{table}[h]
+\centering
+\caption{$\varepsilon_{\infty}$ 的经验解}
+\begin{tabular}{c c c c}
+\hline
+粒度/mm & $\lambda$ & $t_{\infty}$ & $\varepsilon_{\infty}$ \\
+\hline
+$-0.074$ & 0.39 & 8 & 95.13 \\
+$0.074 \sim 0.125$ & 0.35 & 7 & 98.36 \\
+$0.125 \sim 0.250$ & 0.25 & 7 & 97.37 \\
+$0.250 \sim 0.500$ & 0.25 & 8 & 93.67 \\
+\hline
+\end{tabular}
+\end{table}
+
+用经验公式计算的结果保证了结果的可靠性,也体现出了不同粒级的差异性.为了验证上述结论的普适性,采用检验组的数据进行计算,结果如表7所示.
+
+通过表7数据发现,如果以外推法求解的结果为标准,各个模型求解值与标准值均有一定偏差,除一级动力学模型的值较为接近外,其余模型求解结果均偏大,这个结果正好验证了前面的结论.
+
+```

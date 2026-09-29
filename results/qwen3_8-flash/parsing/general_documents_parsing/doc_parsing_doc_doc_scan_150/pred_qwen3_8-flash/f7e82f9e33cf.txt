@@ -1,0 +1,58 @@
+```latex
+\begin{center}
+    \begin{tabular}{p{0.45\textwidth} p{0.45\textwidth}}
+        \textbf{formulas for discrete-time LTI signals and systems} & \textbf{useful formulas} \\
+        \hline
+        name & formula \\
+        \hline
+        area under impulse & $\sum_{n} \delta(n) = 1$ \\
+        multiplication by impulse & $f(n)\delta(n) = f(0)\delta(n)$ \\
+        ... by shifted impulse & $f(n)\delta(n-n_o) = f(n_o)\delta(n-n_o)$ \\
+        convolution & $f(n)*g(n) = \sum_{k} f(k)g(n-k)$ \\
+        ... with an impulse & $f(n)*\delta(n) = f(n)$ \\
+        ... with a shifted impulse & $f(n)*\delta(n-n_o) = f(n-n_o)$ \\
+        transfer function & $H(z) = \sum_{n} h(n)z^{-n}$ \\
+        frequency response & $H^f(\omega) = \sum_{n} h(n)e^{-j\omega n}$ \\
+        ... their connection & $H^f(\omega) = H(e^{j\omega})$ \\
+         & provided unit circle $\subset$ ROC \\
+        \hline & \\
+        \textbf{formulas for continuous-time LTI signals and systems} & \textbf{Z-transform transform pairs} \\
+        \hline
+        name & formula \\
+        \hline
+        area under impulse & $\int \delta(t)\,dt = 1$ \\
+        multiplication by impulse & $f(t)\delta(t) = f(0)\delta(t)$ \\
+        ... by shifted impulse & $f(t)\delta(t-t_o) = f(t_o)\delta(t-t_o)$ \\
+        convolution & $f(t)*g(t) = \int f(\tau)g(t-\tau)\,d\tau$ \\
+        ... with an impulse & $f(t)*\delta(t) = f(t)$ \\
+        ... with a shifted impulse & $f(t)*\delta(t-t_o) = f(t-t_o)$ \\
+        transfer function & $H(s) = \int h(t)e^{-st}\,dt$ \\
+        frequency response & $H^f(\omega) = \int h(t)e^{-j\omega t}\,dt$ \\
+        ... their connection & $H^f(\omega) = H(j\omega)$ \\
+         & provided $j\omega$-axis $\subset$ ROC \\
+        \hline & \\
+        & \underline{x(n)} \quad \underline{X(z)} \quad \underline{ROC} \\
+        & $x(n) \quad \sum_{n} x(n)z^{-n} \quad (\text{def.})$ \\
+        & $\delta(n) \quad 1 \quad \text{all } z$ \\
+        & $u(n) \quad \frac{z}{z-1} \quad |z| > 1$ \\
+        & $a^n u(n) \quad \frac{z}{z-a} \quad |z| > |a|$ \\
+        & $-a^n u(-n-1) \quad \frac{z}{z-a} \quad |z| < |a|$ \\
+        & $\cos(\omega_o n) u(n) \quad \frac{z^2 - \cos(\omega_o)z}{z^2 - 2\cos(\omega_o)z + 1} \quad |z| > 1$ \\
+        & $\sin(\omega_o n) u(n) \quad \frac{\sin(\omega_o)z}{z^2 - 2\cos(\omega_o)z + 1} \quad |z| > 1$ \\
+        & $a^n \cos(\omega_o n) u(n) \quad \frac{z^2 - a\cos(\omega_o)z}{z^2 - 2a\cos(\omega_o)z + a^2} \quad |z| > |a|$ \\
+        & $a^n \sin(\omega_o n) u(n) \quad \frac{a\sin(\omega_o)z}{z^2 - 2a\cos(\omega_o)z + a^2} \quad |z| > |a|$ \\
+        \hline & \\
+        & \textbf{Z-transform transform properties} \\
+        & \underline{x(n)} \quad \underline{X(z)} \\
+        & $ax(n)+bg(n) \quad aX(z)+bG(z)$ \\
+        & $x(n-n_o) \quad z^{-n_o}X(z)$ \\
+        & $x(n)*f(n) \quad X(z)F(z)$ \\
+        \hline & \\
+    \end{tabular}
+\end{center}
+
+\vspace{1cm}
+\begin{flushright}
+Page 8 of 169
+\end{flushright}
+```

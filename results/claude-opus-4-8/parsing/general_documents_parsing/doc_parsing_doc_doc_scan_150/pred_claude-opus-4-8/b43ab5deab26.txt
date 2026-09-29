@@ -1,0 +1,158 @@
+I'll transcribe this table of contents into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\begin{minipage}[t]{0.48\textwidth}
+\begin{itemize}
+    \item[] 神经性厌食症 /100
+    \item[] 厌食的跨文化证据 /101
+    \item[] 5-羟色胺假设 /102
+    \item[] 遗传因素 /103
+    \item[] 神经性贪食症 /103
+    \item[] 肥胖 /107
+    \item[] 肥胖的解释 /108
+    \item[] 体内平衡调节的再思考 /111
+\end{itemize}
+
+\textbf{渴的调节 /112}
+\begin{itemize}
+    \item[] 细胞外机制和细胞内机制 /113
+    \item[] 肾脏 /113
+    \item[] 渗压渴 /114
+\end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\begin{itemize}
+    \item[] 容积渴 /115
+    \item[] 非体内平衡性饮水 /116
+    \item[] 饮水的抑制性控制 /116
+    \item[] 性动机的调节 /117
+    \item[] 下丘脑调节 /118
+\end{itemize}
+
+\textbf{攻击动机的调节 /120}
+\begin{itemize}
+    \item[] 边缘系统 /120
+    \item[] 攻击的类型 /122
+\end{itemize}
+
+\textbf{概要 /123}
+
+\textbf{关键术语 /124}
+
+\textbf{进一步阅读的建议 /126}
+
+\textbf{网络资源 /127}
+\end{minipage}
+
+\vspace{1cm}
+\begin{center}
+\rule{\textwidth}{0.4pt}\\[0.3cm]
+{\Large\textbf{第三编\quad 行为取向：学习、诱因和享乐}}\\[0.3cm]
+\rule{\textwidth}{0.4pt}
+\end{center}
+\vspace{0.5cm}
+
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{第六章\quad 习得性动机：经典、工具和观察学习 /129}
+
+\textbf{巴甫洛夫的经典条件作用 /130}
+\begin{itemize}
+    \item[] 实验神经症 /132
+    \item[] 通过条件作用消退动机行为 /133
+    \item[] 内感受条件作用 /134
+    \item[] 习得性厌恶 /135
+    \item[] 癌症病人的习得性味觉厌恶 /137
+\end{itemize}
+
+\textbf{操作条件作用 /139}
+\begin{itemize}
+    \item[] 强化的质量、数量及对比 /140
+    \item[] 初级强化和条件强化 /141
+    \item[] 泛化条件强化物 /142
+    \item[] 代币物和代币物奖惩法 /142
+\end{itemize}
+
+\textbf{动机的经典-操作条件作用的相互作用 /144}
+\begin{itemize}
+    \item[] 习得性恐惧 /144
+    \item[] 条件性情绪反应 /145
+    \item[] 习得性无助 /145
+    \item[] 无助的症状 /147
+    \item[] 无助的原因和干预 /148
+\end{itemize}
+
+\textbf{观察学习（模仿）/149}
+\begin{itemize}
+    \item[] 模仿过程：注意、保持、再现 /149
+    \item[] 模仿过程：替代性强化 /150
+    \item[] 学习与攻击 /150
+    \item[] 经典条件作用与攻击 /151
+    \item[] 操作条件作用与攻击 /152
+\end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\begin{itemize}
+    \item[] 模仿性攻击 /152
+\end{itemize}
+\textbf{性动机与学习 /153}
+\begin{itemize}
+    \item[] 习得的性价值观 /154
+\end{itemize}
+\textbf{概要 /155}
+
+\textbf{关键术语 /155}
+
+\textbf{进一步阅读的建议 /157}
+
+\textbf{网络资源 /157}
+
+\vspace{0.5cm}
+\textbf{第七章\quad 诱因动机 /159}
+
+\textbf{诱因即增能器 /160}
+\begin{itemize}
+    \item[] 诱因动机 K /161
+    \item[] 行为的坚持性 /163
+\end{itemize}
+
+\textbf{诱因即情绪的发生器 /166}
+\begin{itemize}
+    \item[] 莫勒：恐惧、希望、宽慰和失望 /166
+\end{itemize}
+
+\textbf{诱因即信息的载体 /167}
+\begin{itemize}
+    \item[] 托尔曼：认知的系统阐述 /167
+    \item[] 预见性 /168
+    \item[] 克林格：意义性 /170
+\end{itemize}
+
+\textbf{性动机的诱因因素 /172}
+\begin{itemize}
+    \item[] 女性的魅力 /174
+    \item[] 男性的魅力 /175
+\end{itemize}
+
+\textbf{诱因动机和物质成瘾 /175}
+
+\textbf{行为成瘾 /176}
+
+\textbf{概要 /176}
+\end{minipage}
+
+\vspace{0.5cm}
+\hfill 3
+
+\end{CJK}
+\end{document}
+```

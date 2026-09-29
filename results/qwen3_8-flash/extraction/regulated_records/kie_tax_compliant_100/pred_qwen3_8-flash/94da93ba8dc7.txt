@@ -1,0 +1,12 @@
+```json
+{
+    "date": "24/05/18",
+    "doc_no_receipt_no": "98701",
+    "seller_address": "Bandar Baru Rawang No 15 Jalan Bandar Kawang 10 Bandar Baru Rawang",
+    "seller_gst_id": "#000877874816",
+    "seller_name": "Guardian Health And Beauty Sdn Bhd",
+    "seller_phone": "03-60932032",
+    "total_amount": "4.50",
+    "total_tax": "0.26"
+}
+```

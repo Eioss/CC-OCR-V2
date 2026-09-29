@@ -1,0 +1,102 @@
+```latex
+\begin{center}
+\textbf{Statistical Analysis and Probability}
+\end{center}
+
+\noindent\textbf{Mean}
+\[
+\bar{x}=\frac{1}{n}\sum_{i=1}^{n}x_i
+\]
+
+\noindent\textbf{Standard Deviation*}
+\[
+s=\sqrt{\frac{\sum(x_i-\bar{x})^2}{n-1}}
+\]
+
+\noindent\textbf{Standard Error of the Mean*}
+\[
+SE_{\bar{x}}=\frac{s}{\sqrt{n}}
+\]
+
+\noindent\textbf{Chi-Square}
+\[
+\chi^2=\sum\frac{(o-e)^2}{e}
+\]
+
+\begin{center}
+\textbf{Chi-Square Table}
+
+\begin{tabular}{c|cccccccc}
+$p$ value & \multicolumn{8}{c}{Degrees of Freedom} \\
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+\hline
+0.05 & 3.84 & 5.99 & 7.82 & 9.49 & 11.07 & 12.59 & 14.07 & 15.51 \\
+0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09
+\end{tabular}
+\end{center}
+
+\[
+\begin{aligned}
+\bar{x}&=\text{sample mean}\\
+n&=\text{size of the sample}\\
+s&=\text{sample standard deviation (i.e., the sample-based}\\
+ &\quad\text{estimate of the standard deviation of the population)}\\
+o&=\text{observed results}\\
+e&=\text{expected results}
+\end{aligned}
+\]
+
+\noindent Degrees of freedom are equal to the number of distinct possible outcomes minus one.
+
+\medskip
+\noindent\textbf{Laws of Probability}
+
+\noindent If A and B are mutually exclusive, then:
+\[
+P(\text{A or B})=P(\text{A})+P(\text{B})
+\]
+\noindent If A and B are independent, then:
+\[
+P(\text{A and B})=P(\text{A})\times P(\text{B})
+\]
+
+\medskip
+\noindent\textbf{Hardy-Weinberg Equations}
+\[
+\begin{aligned}
+p^2+2pq+q^2&=1
+&\qquad p&=\text{frequency of the dominant allele}\\
+&&&\quad\text{in a population}\\
+p+q&=1
+&\qquad q&=\text{frequency of the recessive allele}\\
+&&&\quad\text{in a population}
+\end{aligned}
+\]
+
+\begin{center}
+\textbf{Metric Prefixes}
+
+\begin{tabular}{ccc}
+\textbf{Factor} & \textbf{Prefix} & \textbf{Symbol} \\
+$10^9$ & giga & G \\
+$10^6$ & mega & M \\
+$10^3$ & kilo & k \\
+$10^{-2}$ & centi & c \\
+$10^{-3}$ & milli & m \\
+$10^{-6}$ & micro & $\mu$ \\
+$10^{-9}$ & nano & n \\
+$10^{-12}$ & pico & p
+\end{tabular}
+\end{center}
+
+\noindent Mode = value that occurs most frequently in a data set
+
+\noindent Median = middle value that separates the greater and lesser halves of a data set
+
+\noindent Mean = sum of all data points divided by number of data points
+
+\noindent Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)
+
+\medskip
+\noindent\textit{* For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, they must understand the underlying concepts and applications.}
+```

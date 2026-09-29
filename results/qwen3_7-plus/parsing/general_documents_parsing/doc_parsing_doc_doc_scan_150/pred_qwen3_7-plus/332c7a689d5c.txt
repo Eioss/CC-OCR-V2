@@ -1,0 +1,65 @@
+```latex
+\begin{center}
+    \Large{\textbf{Transfer/Rollover Form}} \\
+    \vspace{0.2cm}
+    \large{\textbf{Instructions}}
+\end{center}
+
+\vspace{1cm}
+
+\section*{1. YOUR INFORMATION}
+Please provide personal information requested.
+
+\section*{2. EMPLOYER PLAN RECEIVING ASSETS}
+Please provide us with information about the plan receiving your assets. The chart below provides general guidelines about the portability of assets. If you do not know what type of plan you are sending your assets to, call a Retirement Services Specialist at 1-800-343-0860.
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c c|c c|c c|c c|}
+\hline
+\multicolumn{9}{|c|}{\begin{tabular}[c]{@{}c@{}}General Rules for Availability of \textbf{Rollovers}\\ For Eligible Pre-Tax Contributions\\ and Transfers\end{tabular}} \\
+\hline
+ & \multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}To\\ Qualified Plans\\ (401(a)/401(k))\end{tabular}} & \multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}To\\ 403(b) Plans\end{tabular}} & \multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}To\\ Gov't 457(b)\\ Plans\end{tabular}} & \multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}To\\ IRAs\\ (excl. Roth IRAs)\end{tabular}} \\
+\cline{2-9}
+ & Transfer & Rollover & Transfer & Rollover & Transfer & Rollover & Transfer & Rollover \\
+\hline
+\begin{tabular}[c]{@{}l@{}}From Qualified Plans\\ (401(a)/401(k))\end{tabular} & YES* & YES** & NO & YES & NO & YES & NO & YES** \\
+\hline
+From 403(b) Plans & NO*** & YES & YES & YES** & NO & YES & NO & YES** \\
+\hline
+From Governmental 457(b) Plans & NO*** & YES & NO & YES* & YES & YES & NO & YES \\
+\hline
+\begin{tabular}[c]{@{}l@{}}From Non-governmental 457(b) Plans\end{tabular} & \multicolumn{8}{c|}{Transfer to another tax-exempt$^\dagger$ 457(b) plan only.} \\
+\hline
+\begin{tabular}[c]{@{}l@{}}From IRAs\\ (excluding Roth IRAs)\end{tabular} & NO & YES & NO & YES & NO & YES & YES & YES** \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{itemize}
+    \item[*] General transfers from one plan to another plan apply only for plan-level transfers resulting from plan mergers.
+    \item[**] After-tax rollovers may also be allowed, subject to plan restrictions.
+    \item[***] Transfers are allowed from a governmental 403(b) plan and a governmental 457(b) plan, respectively, to a governmental defined benefit plan to purchase past service credit.
+    \item[$\dagger$] Transfers allowed only upon separation from employment.
+\end{itemize}
+
+\textbf{Tax-Exempt 457(b)} plans do not have the option to roll over assets, but may allow Transfers to the same type of plan. Generally, \textbf{403(b)} and \textbf{qualified plans} allow in-plan transfers between vendors. Please call 1-800-343-0860 for additional information about portability provisions applicable to your plan. You also may want to check with your employer before initiating a transfer or rollover request.
+
+\section*{3. YOUR PREVIOUS INVESTMENT PROVIDER}
+Unless otherwise instructed, when assets are coming from a different employer's plan than the employer listed in Section 2, this transaction will be processed as a rollover. Any grandfathered pre-1987 and/or pre-1989 balance information will not be carried over. If you are requesting assets from a previous employer's plan and wish to initiate a transfer instead of a rollover, please include a letter of instruction with your form.
+
+You may use this form for a direct rollover or for an indirect (60-day) rollover.
+
+If you have already received a check from your prior investment provider and would like to make an indirect rollover, please be sure to include:
+\begin{itemize}
+    \item[$\square$] A check payable to the plan custodian or trustee
+\end{itemize}
+\begin{center}
+    AND
+\end{center}
+\begin{itemize}
+    \item[$\square$] A distribution statement from your prior investment provider
+\end{itemize}
+
+Please note: A rollover contribution must be received by Fidelity within 60 days of your receipt of such distribution. Your plan sponsor reserves the right to require sufficient evidence that your distribution is from an eligible retirement plan or IRA.
+```

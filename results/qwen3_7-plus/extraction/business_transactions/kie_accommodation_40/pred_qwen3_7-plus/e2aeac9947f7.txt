@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "28/10/20",
+    "Arrival Date": "27/10/20",
+    "Total Amount": "500.00",
+    "Name": "Maria Reed",
+    "Balance": "CNY0.00",
+    "Address": "442 Thomas Branch Suite 396 Fordstad, MD 52721 310006 PRC",
+    "Hotel Name": "Business Soft Guanlian Information Hotel 商软冠联信息酒店"
+}
+```

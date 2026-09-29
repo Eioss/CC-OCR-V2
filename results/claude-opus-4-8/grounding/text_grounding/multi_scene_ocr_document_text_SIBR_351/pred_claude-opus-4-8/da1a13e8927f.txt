@@ -1,0 +1,5 @@
+The text 'PALLET' appears three times in the document. Here are their locations:
+
+(298, 902, 359, 921)
+(298, 933, 359, 952)
+(298, 964, 359, 983)

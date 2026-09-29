@@ -1,0 +1,61 @@
+\[
+\begin{aligned}
+a_{k,j}
+&=
+\frac{\operatorname{Re}F\!\left(\lambda_k-\lambda_0+i(\mu_j-\mu_k)\right)}
+{F(\lambda_k-\lambda_0)},
+\qquad
+b_{k,j}
+=
+\frac{\operatorname{Re}F\!\left(-\lambda_0+i(\mu_j-\mu_k)\right)}
+{F(-\lambda_0)}
+\\[4pt]
+A_{b_0}^{\lambda_0}
+&\in C^\infty\!\left(\partial\Omega\times\partial\Omega\times\mathbb{R}^{n-1}\right)
+\\[4pt]
+\sum_j |E_{k,j}|^2 C\int_0^t
+&\|u_k-u_{k,j}\|_{\partial\Omega}
+\|\nabla b\circ h_{t,j}^{s=-1}\|_{\partial\Omega}
+\|b\circ h_{t,j}^{s=-1}\circ\varphi_{B_j}^s\|_{\partial\Omega}\,dt'
+\\
+&\le
+\frac14\|u_k-u_{k,j}\|_{L^2(-\varepsilon\theta,B_j)}^2
++
+C(t)\|b\|_{L^\infty(-\varepsilon\theta,B_j)}^2
+\|b\circ h_{t,j}^{s=-1}\circ\varphi_{B_j}^s\|_{\partial\Omega}^2
+\\[4pt]
+\frac{1-\varepsilon^{2b}}{2}
+&\left(\left(1-\frac1n\right)^2+(1-\varepsilon)^2\right)DOPT_i(S)
+\\[4pt]
+\partial_y^2u+au
+&+
+\left(
+2i\frac{\partial\overline{X}}{\partial X}A^*Xe^{\varphi_{B_j}^2}e^{2i\tau}
++
+\left(2i\frac{\partial\overline{X}}{\partial X}A(X)e^{-i\varphi_{B_j}}\right)e^{-i\tau}
+\right)
+\\
+&\quad
+-A(X)e^{3i\tau+i\alpha_2}
+-A^*(X)e^{-3i\tau-i\alpha_2}
+=0
+\\[4pt]
+\|u_{k,h}-u_{\lambda,h}\|_{L^2(\Omega)}
+&\le
+C(1+\lambda)^\varepsilon
+\left(\|f\|_{1+\varepsilon,0}+\|C\|_{H^{2+\alpha}}\right)
+\\[4pt]
+\delta\left(\|v_\varepsilon\|_X^2+\|v_\varepsilon\|_Y^2\right)
+\|X_{\varepsilon+\alpha\to\infty}\|
+&=
+\delta\|N\|_{X+\alpha(P)}^2+\varepsilon_3
+\\[4pt]
+\psi(0,t)
+&=
+\exp\left\{-\int_0^t \alpha(\lambda)\,d\lambda\right\},
+\qquad \text{if } s\in[-1,0],
+\\
+(z_1s-1,\;s_{m+1}\varphi(t)),
+&\qquad \text{if } s\le -1.
+\end{aligned}
+\]

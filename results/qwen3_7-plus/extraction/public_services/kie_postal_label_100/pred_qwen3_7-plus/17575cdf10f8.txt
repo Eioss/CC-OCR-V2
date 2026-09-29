@@ -1,0 +1,8 @@
+```json
+{
+    "DATE": "09-21-89",
+    "CITY": "MILWAUKEE",
+    "STATE": "WISCONSIN",
+    "ZIP": "53226"
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "menu": [
+        "GRILLED BABY POTATO (R 50,500",
+        "HOT TUNA 67,000",
+        "HOT TUNA 67,000",
+        "Disc -100%(ITM06) -67,000",
+        "SVC CHG 6% 11,070",
+        "PB1 10% 19,557"
+    ],
+    "sub_total": "117,500",
+    "total": "148,127"
+}
+```

@@ -1,0 +1,40 @@
+```json
+{
+    "menu": [
+        {
+            "name": "1 BLACKCURRANT",
+            "price": "32,000"
+        },
+        {
+            "name": "1 SPRITE",
+            "price": "32,000"
+        },
+        {
+            "name": "** BEVERAGE",
+            "price": "64,000"
+        },
+        {
+            "name": "1 GRILLED CALAMARI",
+            "price": "85,000"
+        },
+        {
+            "name": "1 DINE FOR 2",
+            "price": "129,000"
+        },
+        {
+            "name": "* DANISH FISH & CHIPS DF",
+            "price": "---"
+        },
+        {
+            "name": "* NEW YORK FISH & CHIPS",
+            "price": "---"
+        },
+        {
+            "name": "** FOOD",
+            "price": "214,000"
+        }
+    ],
+    "sub_total": "278,000",
+    "total": "330,264"
+}
+```

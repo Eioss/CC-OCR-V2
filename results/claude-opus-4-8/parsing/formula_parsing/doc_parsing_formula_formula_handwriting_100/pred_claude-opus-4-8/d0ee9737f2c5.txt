@@ -1,0 +1,21 @@
+$$F_{fe}(\mathcal{E}_{rnt}) = F_{fe}(\mathcal{E}_0) + \int_0^t rn L_{VM}^{un} F_{fe}(\mathcal{E}_{rnr})\, dr + M_t$$
+
+$$\leq F_{fe}(\mathcal{E}_0) + \int_0^t 2rn \sum_{x \in E_n} \pi^{(n)}(x) \int_S f_e(\mathfrak{s}, \mathcal{E}_{rnr}(x))\, du_n(\mathfrak{s})\, dr + M_t$$
+
+$$P(r,t) = \frac{N}{V} \sum_j d^*_{eg} \langle \sigma_{ge} \rangle e^{i(k_j z - \nu_j t)},$$
+
+$$u = -\frac{\partial \Psi}{\partial z} = u_0 \frac{H_1}{H_1 - h}, \quad w = \frac{\partial \Psi}{\partial x} = u_0 H_1 \frac{dh}{dx} \frac{H_1 - z}{(H_1 - h)^2},$$
+
+$$\frac{dh}{dx} = -h_0 \left[ \beta \cos^2(\alpha x) \sin(2\beta x) + \alpha \cos^2(\beta x) \sin(2\alpha x) \right].$$
+
+$$|\Psi\rangle_{AB} = |\psi\rangle_A \otimes |\phi\rangle_B = |\psi\rangle_A \otimes \left( \cos\frac{\theta}{2}|0\rangle_B + \sin\frac{\theta}{2}|1\rangle_B \right),$$
+
+$$\delta \sum_{k=0}^n a_k \|x_k - T(x_k\|^2 \leq \|x_0 - T(x_0\|^2 - \|x_n + 1 - T(x_n+1)\|^2 \leq \|x_0 - T(x_0)\|^2,$$
+
+$$\min_\theta \operatorname{Tr}(Z^T L Z) \text{ subject to } Z^T D Z = I$$
+
+$$\left| \sum_{|h| \geq H} a_{h,H} \sum_{n \sim \delta N} e^{2j\pi f_x(n+\frac{1}{2})h} \right| \leq c \sum_{|h| \geq H} H\left(Nh^{-\frac{3}{2}} L^{-\frac{1}{2}} + h^{-\frac{5}{2}} L^{\frac{1}{2}}\right)$$
+
+$$\leq c\left(NH^{\frac{1}{2}} L^{-\frac{1}{2}} + H^{-\frac{1}{2}} L^{\frac{1}{2}}\right).$$
+
+$$(\tilde{\nabla}_{\phi^2 w}\tilde{R})(\phi^2 X, \phi^2 Y)\phi^2 Z = (\tilde{\nabla}_w\tilde{R})(\phi^2 X, \phi^2 Y)\phi^2 Z.$$

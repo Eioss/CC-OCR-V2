@@ -1,0 +1,12 @@
+```json
+{
+    "date": "19-04-2018",
+    "doc_no_receipt_no": "539319",
+    "seller_address": "LOT-18A-2, BERJAYA TIMES SQUARE, KUALA LUMPUR.",
+    "seller_gst_id": "001557721088",
+    "seller_name": "R&C VENTURE SDN BHD",
+    "seller_phone": "",
+    "total_amount": "9.50",
+    "total_tax": "0.54"
+}
+```

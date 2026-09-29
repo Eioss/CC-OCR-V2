@@ -1,0 +1,46 @@
+\[
+\begin{aligned}
+\mathbb{E}\!\left[
+\sum_{a=1}^{z}
+\frac{\mathbf{1}\{PS=S_4\}\mathbf{1}\{Z=z\}\mathbf{1}\{A_a=z\}\,a(a+z)Y_a}{a}
+\,\middle|\,X\right]
+&=
+\mathbb{E}\!\left[
+\sum_{a=1}^{z}
+\frac{\mathbf{1}\{PS=S_4\}\mathbf{1}\{A_a=a\}\,a(a+z)Y_a}{a}
+\,\middle|\,X\right],\\[1ex]
+\lambda_2-\lambda_{k+1}
+&\geq
+\frac{w(c_1)+\delta(c_2,c_{k+1})}
+     {w(c_1)+\delta(c_2,c_{k+1})},
+\qquad \text{if }c_2\geq 2^{k-1},\\
+h_{\min}(\delta^{s-1})
+&>h_{\min}(\delta^s)>h_{\min}(\delta^{s+1})>\cdots>h_{\min}(\delta^{2n}),\\
+\sum_{\ell}k(\widetilde u_\ell)
+&\leq\sum_{\ell}\bigl(k(u_\ell)-1\bigr)
+\leq\sum_{\ell}k(u_\ell)-d\leq n,\\
+P_0(\bar k_r)
+&=P\bigl(B_y(0,k(r))=0,\ B_{k(r)}(r)=0\mid y\bigr)\\
+&\leq\min\!\left\{
+P\bigl(B_y(r),k(r)=0\mid y\bigr),
+P\bigl(B_{k(r)}(r)=0\mid y\bigr)
+\right\},\\
+A_n
+&\lesssim
+\int_0^T
+\|u^{k/4}\|_{L_{xy}^{\infty}}
+\|\mathcal D_x^s(u^{k/4}u_x)\|_{L_{xy}^{2}}\,dt\\
+&\quad+
+\int_0^T
+\|\mathcal D_x^s(u^{k/4})\,u^{k/4}u_x\|_{L_{xy}^{2}}\,dt
+=A_1+A_2,\\
+\|Du\|_{L^2(2N)}
+&\geq
+\frac{|\lambda(0)|}{N}|x-x_0|
+-\|Du\|_{L^2(2N)}\\
+&\geq
+\frac{|\lambda(0)|}{N}|x-x_0|
+-\|u\|_{L^2(2N)}
+-\|Du\|_{L^2(2N)}.
+\end{aligned}
+\]

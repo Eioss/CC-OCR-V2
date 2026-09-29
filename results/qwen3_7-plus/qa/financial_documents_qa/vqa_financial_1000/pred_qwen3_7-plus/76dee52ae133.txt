@@ -1,0 +1,20 @@
+Based on the provided table, for **Herrington et al., 2000**, the **Study Design** is:
+
+> **Randomized prospective**
+
+This is listed in the last column of the row corresponding to "Herrington et al., 2000".
+
+---
+
+### Additional context from the table:
+- **N (number of studies/participants?)**: 309
+- **Women-years**: 989
+- **Age on Entry**: 66
+- **RR (Relative Risk)**: 0.88†
+- **95% CI or P value**: P = .69
+
+The footnote explains that † refers to “Coronary sudden death, fatal and nonfatal acute myocardial infarction.”
+
+So, the study by Herrington et al. (2000) was a **randomized prospective** trial examining estrogen therapy’s effect on secondary prevention of cardiovascular events in postmenopausal women.
+
+✅ Final Answer: **Randomized prospective**

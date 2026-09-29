@@ -1,0 +1,21 @@
+```latex
+\subsection*{3.10 HOT AND COLD: REWRITING FORMULAS \hfill 387}
+
+\begin{enumerate}
+    \item[5.] In statistics, the formula $E = z\sqrt{\frac{pq}{n}}$ can be used to calculate the margin of error for a political poll. Solve this formula for $n$, the sample size.
+    
+    \item[6.] The formula $Z = \frac{\text{data value} - \text{mean}}{\text{standard deviation}}$ will be used in Cycle 4 to calculate a z-score. Solve this formula for ``data value.''
+    
+    \item[7.] The following formula gives the area, $A$, of a trapezoid based on its height, $h$, and the length of its two bases, $b$ and $B$.
+    $$ A = \frac{1}{2}h(b + B) $$
+    \begin{enumerate}
+        \item[a.] Solve the formula for the height, $h$.
+        \item[b.] Solve the formula for the length of the base $b$.
+        \item[c.] Solve the formula for the length of the base $B$.
+    \end{enumerate}
+    
+    \item[8.] Use the point-slope form of the equation of a line to find the equation of the line that has a slope $m = -5$ through the point $(-1, 7)$. Solve the equation for $y$.
+    
+    \item[9.] \textbf{Looking Forward, Looking Back} Becky lost 10\% of her body weight and now weighs 153 pounds. Find how much she weighed before she lost weight. Check your answer.
+\end{enumerate}
+```

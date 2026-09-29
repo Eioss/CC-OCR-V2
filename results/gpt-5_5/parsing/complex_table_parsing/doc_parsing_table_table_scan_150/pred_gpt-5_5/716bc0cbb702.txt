@@ -1,0 +1,64 @@
+```html
+<table>
+  <tr>
+    <td colspan="3">Index\Ablation</td>
+    <td>Ori</td>
+    <td>L<sub>cls</sub><br>GHM-C → CE</td>
+    <td>L<sub>loop</sub><br>CE → GHM-C</td>
+  </tr>
+
+  <tr>
+    <td rowspan="5">Vessel<br>Classification</td>
+    <td colspan="2">Accuracy</td>
+    <td>97.49</td>
+    <td>96.59</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Precision</td>
+    <td><i>Healthy</i></td>
+    <td>98.55</td>
+    <td>97.37</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><i>MVI</i></td>
+    <td>92.44</td>
+    <td>92.13</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Recall</td>
+    <td><i>Healthy</i></td>
+    <td>98.43</td>
+    <td>98.67</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><i>MVI</i></td>
+    <td>92.98</td>
+    <td>87.13</td>
+    <td>-</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">Cell locating</td>
+    <td colspan="2">Precision</td>
+    <td>71.26</td>
+    <td>-</td>
+    <td>63.26</td>
+  </tr>
+  <tr>
+    <td colspan="2">Recall</td>
+    <td>94.52</td>
+    <td>-</td>
+    <td>98.95</td>
+  </tr>
+  <tr>
+    <td colspan="2">Dice</td>
+    <td>79.58</td>
+    <td>-</td>
+    <td>75.97</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,13 @@
+$$\sum _ { \chi \in S _ { n , q } } \left( q ^ { - \frac { n + 1 } { 2 } } \sum _ { a _ { 1 } , \ldots , a _ { n } \in \mathbb { F } _ { q } } \chi ( 1 + \sum _ { i } a _ { i } x ^ { i } ) \psi ( a _ { n } ) \right) ^ { m }$$
+
+ $$X _ { 0 } T _ { 0 } = U _ { \mathbb { T } } X _ { 0 } \quad { \mathrm { a n d } } \quad \bigvee _ { n \geq 0 } U _ { \mathbb { T } } ^ { - n } X _ { 0 } { \mathcal { N } } = L ^ { 2 } ( \mathbb { T } ) .$$
+
+ $${ \hat { x } } _ { o u t } = { \hat { x } } _ { i n } - ( { \hat { X } } _ { A } - { \hat { X } } _ { B } ) , \; \; { \hat { p } } _ { o u t } = { \hat { p } } _ { i n } + ( { \hat { P } } _ { A } + { \hat { P } } _ { B } ) .$$
+
+ $$( D _ { u , z ^ { * } } ) \, \, \, \operatorname * { s u p } _ { \mu } { \textstyle \frac 1 2 } \langle \mu , \nabla ^ { 2 } G ( \bar { z } ) ( u , u ) \rangle \, \, \, \mathrm { s u b j e c t \, \, t o \, \, } \mu \in K ^ { * } \, \, \mathrm { a n d } \, \, \nabla G ( \bar { z } ) ^ { * } \mu = z ^ { * } .$$
+
+ $$\begin{array} { l } { { \displaystyle { \frac { d } { d t } } \| \psi ( t ) \| _ { { \cal L } ^ { 2 } } ^ { 2 } + ( 2 A _ { V } ( t ) - ( d + 2 k ) | B _ { V } ( t ) | ) \| \psi ( t ) \| _ { { \cal L } ^ { 2 } } ^ { 2 } + 2 k B _ { + } ( t ) \| \psi ( t ) \| _ { { \cal L } ^ { 2 } } ^ { 2 } } } \\ { { \displaystyle = 2 ( 1 - \alpha ) \int _ { \mathbb { R } ^ { d } } Q _ { + } ( \psi , \psi ) ( t , \xi ) \langle \xi \rangle ^ { 2 k } \, d \xi - 2 \int _ { \mathbb { R } ^ { d } } Q _ { - } ( \psi , \psi ) ( t , \xi ) \langle \xi \rangle ^ { 2 k } \, d \xi . } } \end{array}$$
+
+ $$\begin{array} { l } { { \frac { \partial { \cal L } } { \partial w } = 2 \left( y - w \hat { l } _ { 1 } - ( 2 - w ) \hat { l } _ { 2 } \right) \left( - \hat { l } _ { 1 } + \hat { l } _ { 2 } \right) , } } \\ { { \frac { \partial ^ { 2 } { \cal L } } { \partial w ^ { 2 } } = 2 \left( - \hat { l } _ { 1 } + \hat { l } _ { 2 } \right) ^ { 2 } > 0 . } } \end{array}$$
+
+ $$G ( y ) = { \mathrm { s u p } } _ { a \leq s \leq b } { \Big | } \textstyle \sum _ { j = 1 } ^ { \infty } ( y + \Gamma _ { j } ) ^ { - 1 / \alpha } W _ { j } ( s ) { \Big | }$$

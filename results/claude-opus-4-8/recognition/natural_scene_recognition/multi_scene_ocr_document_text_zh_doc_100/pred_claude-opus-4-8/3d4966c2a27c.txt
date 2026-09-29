@@ -1,0 +1,156 @@
+Prepared By/制作:黄凤兰
+Date/日期:2014-12-16
+Checked By 审核:
+Approved By 批准:
+Model/型号:
+
+Broadway Precision (Shenzhen) Company Limited
+百汇精密塑胶模具(深圳)有限公司
+Doc. Name/文件名称:
+Product Inspection Instruction
+产品检验规范
+Molding Inspection Instruction
+注塑检验标准书
+
+Page 2 of 6
+
+Doc. No.
+文件编号
+QCI-K004-00102
+Revision :7
+第 7 版
+
+Customer/客户:
+Kingstec
+
+Part Name/产品名称:
+Front shell 前盖
+
+Color/颜色:
+
+Part No./产品编号:
+光件: 3-ENC-RNGRP318-21
+成品: 3-ENC-RNGRP318-23 REV2
+
+Material name/物料名称:
+PCEXL1414TNA8A005T
+
+Transparent 透明
+
+GPS
+Error Type
+缺点判定
+MAJ MIN CR
+
+Checklist & Specification
+检验项目规格
+
+Inspection Method
+检验方法
+
+Product Photo
+产品图示
+
+⊙ 1.The structure of product refer to master sample. 产品结构参照符办;
+Visual inspection 目视
+注意:生产前须拿一啤产品试喷橡胶油确认
+
+⊙ 2.The color of product refer to master sample. 产品颜色光泽参照符办;
+Visual inspection 目视
+
+⊙ ⊙ 3. Surface can not have foreign mark, scratch, bump mark, scuffing mark, part line, shrinkage must refer to master sample. 表面不可有料花、划花、碰伤、手感刮伤、夹线、应力痕、缩水/气纹参照符办;
+Visual inspection 目视
+
+⊙ ⊙ 4. The position of laser number can not have scrach, wipe mark, black spot, contamination mark, gas mark and crack. 镭射数字位置,不可有刮花、擦花、黑点、混色、气纹、爆裂;
+Visual inspection 目视
+
+⊙ ⊙ 5. Frame and clutch can not have bump mark, white mark, flash, deformation, short-shot, deformation, over shot and stick mould. 骨位/卡槽不可有碰伤、爆裂、发白、批锋、变形、缺胶、多胶、粘模;
+Visual inspection 目视
+
+⊙ ⊙ 6. The screw position can not have crack, block, short shot and slanting. 螺丝位不可爆裂、发白、堵塞、缺胶、偏位;
+Visual inspection 目视
+
+⊙ ⊙ 7.Gate mark can not have roughness, the surrounding can not deformation. 进胶点不可凹凸不平,水口位周围不可变形;
+Visual inspection 目视
+
+⊙ 8. Insert part can not higher than the plane of frame. 镶件位不可高出骨位平面;
+Visual inspection 目视
+
+⊙ ⊙ 9.The edge of inner frame can not have flash, bump mark, shrinkage, roughness. 内框四边不可有批锋、碰伤、缩水、凹凸不平;
+Visual inspection 目视
+
+⊙ 10. Produce date must adjust by monthly and correct. 生产日期随月份调整,须指示正确;
+Visual inspection 目视
+
+Assembly 试装
+⊙ Refer to page 5. 详见第五页
+Visual/Assembly part 目视 试装件
+Detail to below page 详见以下附页
+
+Process Flow : Injection -Painting-printing- Packing - Delivery
+工艺流程:注塑-喷油-丝印-包装-出货
+
+Sample Plan
+抽样计划
+
+Marks
+备注
+
+Key Visual
+重点外观
+IPQC:1time/2H ,check twice for full cavities
+OQC:AQL=MAJ(0.65)/MIN:1.0)/LOT
+IPQC:1次/2H 检查2模
+OQC: AQL=主要(0.65)/次要(1.0)/LOT
+
+Assembly
+试装
+IPQC&FQC:4H/1次 试装1模
+
+RoHS Test
+IPQC: First Article once. once every shift OQC:LOT/time
+IPQC:首件1次 每班1次 OQC:LOT/次
+
+二次工序
+OQC/AQL:主要(0.65)/次要(1.0)/LOT
+
+Packing refer to "PM"
+包装参照"产品包装方法"
+OQC/IPQC:依零缺陷抽样指示/LOT
+
+AQL
+抽样判定水准
+依零缺陷抽样指示
+AQL=主要(0.65)/次要(1.0)
+
+Visual check based on below 4 points::
+1.Light intensity:800-1200LUX(LUX) range of light(AR813A digital luminometer);
+2.Vision distance:400MM-500MM
+3.Vision retention time:five second;
+4.Visual angle:90±45°
+外观检查需在如下条件下进行:
+1.光强度:800-1200LUX(勒克斯) 范围的光线 (AR813A 数位照度计);
+2.视觉距离:400MM-500MM;
+3.视觉停留时间:5秒;
+4.视觉角度:90±45°
+
+检验注意事项
+Inspection Cautions
+1.Header sample is put on the machine.机位必须有机头办;
+2.ALL workers must wear gloves when take this product.所有员工拿此产品时需戴手套;
+
+RoHS Product
+
+NO.
+Reference & Trace problem
+参考 & 追溯问题点
+Revised Date
+变更日期
+Respond.
+责任人
+1
+2
+3
+4
+
+Form No. 表格编号:BWSZ-0126/R06/2013-12-02

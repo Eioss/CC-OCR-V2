@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "17-07-20",
+    "Arrival Date": "16-07-20",
+    "Total Amount": "499.99",
+    "Name": "Amy Arnold",
+    "Balance": "CNY499.99",
+    "Address": "Room 143 Building 1 No.11 Zhejiang Province Yuhang District Hangzhou ZJS 310000 China",
+    "Hotel Name": "Oriental Junjing Information Hotel 东方峻景信息酒店"
+}
+```

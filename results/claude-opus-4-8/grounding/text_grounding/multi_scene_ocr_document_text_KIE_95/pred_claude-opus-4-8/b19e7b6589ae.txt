@@ -1,0 +1,5 @@
+The text '12.61' appears in two locations on the receipt:
+
+1. In the item line for the toilet roll: (768, 1156, 870, 1185)
+
+2. In the subtotal line: (601, 1313, 700, 1338)

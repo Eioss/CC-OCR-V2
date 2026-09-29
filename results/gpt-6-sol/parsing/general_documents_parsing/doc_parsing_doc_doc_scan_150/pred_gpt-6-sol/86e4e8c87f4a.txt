@@ -1,0 +1,79 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\noindent\textit{Reproductive Biology and Endocrinology} 2005, 3:38
+\hfill http://www.rbej.com/content/3/1/38
+
+\begin{table}[h]
+\centering
+\caption{The day of vaginal opening and regular estrous cycle of the rats}
+\begin{tabular}{lccccc}
+\hline
+ & N ($n=18$) & V ($n=18$) & M ($n=18$) & HM ($n=18$) & S ($n=18$) \\
+\hline
+Day of vaginal opening
+ & $34.00\pm0.98$ & $34.33\pm1.09$ & $25.97\pm2.24^{*}$
+ & $32.56\pm1.04^{\#}$ & $24.78\pm1.01^{*}$ \\
+Day of regular estrous cycle
+ & $41.26\pm2.35$ & $45.00\pm1.19$ & $32.33\pm0.75^{*}$
+ & $40.58\pm0.84^{\#}$ & $34.56\pm0.89^{*}$ \\
+Blood estrogen (pg/ml)
+ & $22.64\pm3.69$ & $24.58\pm3.87$ & $50.36\pm5.54^{*}$
+ & $30.98\pm7.02^{\#}$ & $51.14\pm4.98^{*}$ \\
+\hline
+\end{tabular}
+
+\noindent $^{*}$: $P<0.05$ vs N and V, respectively; $^{\#}$: $P<0.05$ vs M and S, respectively
+
+\noindent N: intact normal, M: IPP model, V: vehicle with no IPP, HM: IPP model exposed to herb mixture, S: IPP model exposed to saline
+\end{table}
+
+\section*{Results}
+
+\subsection*{The day of vaginal opening and regular estrous cycle of the rats}
+
+The day of vaginal opening and regular estrous cycle were significantly ($p<0.01$, respectively) advanced in M than that in N and V, and there was no difference between M and V groups (Table 1). The day of vaginal opening and regular estrous cycle in HM were significantly ($p<0.01$) delayed than those in M and S (Table 1).
+
+\subsection*{Blood concentration of estrogen}
+
+The blood E$_2$ concentration in M is twofold higher than that in N ($p<0.05$). While the E$_2$ level was lower in HM than in M ($p<0.05$). There were no differences between N and V, M and S (Table 1).
+
+\subsection*{Effects of herb mixture on GnRH expression by immunohistochemistry}
+
+GnRH cells bodies, which were abundant in MS, DBB and MPOA, were calculated. The GnRH cells number in M was less than that in V ($p<0.05$), and there was no difference between M and HM (Fig 1). The number was significantly higher in HM than that in S ($p<0.05$), and no statistical difference was observed between HM and N (Fig 1). There was no significant difference between M and S (Fig 1). The tissue sections processed for immunohistochemistry using antiserum after preabsorption with excessive antigens and omission of primary antibody showed the staining as expected.
+
+The subtypes of all the observed GnRH neurons were discerned under high microscope ($\times 400$). The classification of spiny type and smooth type GnRH neurons according to the report by Witkin [8] (Fig 1). The percent of spiny type GnRH neurons was significantly higher in M than that in N and HM ($p<0.05$, respectively) (Fig 1). There were no differences between N and V, M and S.
+
+\subsection*{Effect of herb mixture on GnRH mRNA expression by RT-PCR}
+
+Comparison of the amplified PCR fragment with rat GnRH sequence revealed 100\% homology (data not shown). Densitometric analysis of the mRNA concentration using GnRH/$\beta$-actin expressed as the mean with SEM.
+
+\begin{figure}[h]
+\centering
+\begin{tabular}{lccccc l}
+ & N & M & V & HM & S & \\
+GnRH & & & & & & 380bp \\
+$\beta$-actin & & & & & & 550bp
+\end{tabular}
+
+\medskip
+\noindent Relative density: $0,\ 0.1,\ 0.2,\ 0.3,\ 0.4,\ 0.5,\ 0.6$\\
+\noindent Groups: N,\ M$^{*}$,\ V,\ HM$^{\#}$,\ S$^{*}$
+
+\caption{\textbf{Effects of herb mixture on GnRH mRNA expression by RT-PCR.} The upper picture shows the gel electrophoresis of the RT-PCR products for the GnRH. Densitometric analysis of the mRNA concentration using GnRH/$\beta$-actin expressed as the mean with SEM bar ($n=6$) in each column indicated in the lower panel. N: intact normal, M: IPP model, V: vehicle with no IPP, HM: IPP model exposed to herb mixture, S: IPP model exposed to saline. $^{*}$: $P<0.05$ vs N and V, respectively; $^{\#}$: $P<0.05$ vs M and S, respectively.}
+\end{figure}
+
+The ratio of GnRH to $\beta$-actin in M increased significantly compared with that in the N and V ($p<0.05$), and the ratio in the HM decreased, with no difference showed between HM and N. (Fig 2). There was no significant difference between M and S.
+
+\section*{Discussion}
+
+Mammalian sexual maturation and adult reproductive function are centrally controlled by a subset of neuroendocrine neurons that produce GnRH. Recent ten years study indicated, GnRH neurons are the final common pathway for the neural control of gonadotropin secretion, which will in turn stimulate gametogenesis and gonadal hormone secretion [9]. In humans and rats, the
+
+\hfill Page 4 of 6
+
+\hfill\textit{(page number not for citation purposes)}
+
+\end{document}
+```

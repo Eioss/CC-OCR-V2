@@ -1,0 +1,85 @@
+```latex
+\begin{center}
+    \textbf{Example Corporation} \\
+    \textbf{Balance Sheet} \\
+    \textbf{December 31, 2023}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{Assets} \\
+    \rule{\linewidth}{0.4pt}
+    
+    Current assets \\
+    \quad Cash and cash equivalents \hfill \$ \quad 2,200 \\
+    \quad Short-term investments \hfill 10,000 \\
+    \quad Accounts receivable - net \hfill 39,500 \\
+    \quad Other receivables \hfill 1,000 \\
+    \quad Inventory \hfill 31,000 \\
+    \quad Supplies \hfill 3,800 \\
+    \quad Prepaid expensees \hfill 1,500 \\
+    \quad Total current assets \hfill \underline{89,000} \\[1em]
+    
+    Investments \hfill \underline{36,000} \\[1em]
+    
+    Property, plant \& equipment \\
+    \quad Land \hfill 5,500 \\
+    \quad Land improvements \hfill 6,500 \\
+    \quad Buildings \hfill 180,000 \\
+    \quad Equipment \hfill 201,000 \\
+    \quad Less: accumulated depreciation \hfill (56,000) \\
+    \quad Property, plant \& equip. - net \hfill \underline{337,000} \\[1em]
+    
+    Intangible assets \\
+    \quad Goodwill \hfill 105,000 \\
+    \quad Other intangible assets \hfill 200,000 \\
+    \quad Total intangible assets \hfill \underline{305,000} \\[1em]
+    
+    Other assets \hfill \underline{3,000} \\[1em]
+    
+    Total assets \hfill \$ \quad \underline{\underline{770,000}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{Liabilities} \\
+    \rule{\linewidth}{0.4pt}
+    
+    Current liabilities \\
+    \quad Short-term loans payable \hfill \$ \quad 5,000 \\
+    \quad Current portion of long-term debt \hfill 15,000 \\
+    \quad Accounts payable \hfill 20,900 \\
+    \quad Accrued compensation and benefits \hfill 8,500 \\
+    \quad Income taxes payable \hfill 6,100 \\
+    \quad Other accrued liabilities \hfill 4,000 \\
+    \quad Deferred revenues \hfill 1,500 \\
+    \quad Total current liabilities \hfill \underline{61,000} \\[1em]
+    
+    Long-term liabilities \\
+    \quad Notes payable \hfill 20,000 \\
+    \quad Bonds payable \hfill 375,000 \\
+    \quad Deferred income taxes \hfill 25,000 \\
+    \quad Total long-term liabilities \hfill \underline{420,000} \\[1em]
+    
+    Total liabilities \hfill \underline{481,000} \\[1em]
+    
+    Commitments and contingencies (see notes) \\[2em]
+    
+    \textbf{Stockholders' Equity} \\
+    \rule{\linewidth}{0.4pt}
+    
+    \quad Common stock \hfill 110,000 \\
+    \quad Retained earnings \hfill 220,000 \\
+    \quad Accum other comprehensive income \hfill 9,000 \\
+    \quad Less: Treasury stock \hfill (50,000) \\
+    \quad Total stockholders' equity \hfill \underline{289,000} \\[1em]
+    
+    Total liabilities \& stockholders' equity \hfill \$ \quad \underline{\underline{770,000}}
+\end{minipage}
+
+\vspace{1cm}
+
+\noindent
+\textit{The accompanying notes are an integral part of this statement.}
+```

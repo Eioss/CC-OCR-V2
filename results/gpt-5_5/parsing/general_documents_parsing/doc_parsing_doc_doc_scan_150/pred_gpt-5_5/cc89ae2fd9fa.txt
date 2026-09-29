@@ -1,0 +1,75 @@
+```latex
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+108
+
+\begin{center}
+\textbf{(iii) Non-cash transactions}
+\end{center}
+
+The consolidated statements of cash flows exclude the following non-cash transactions:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}l r@{}}
+\toprule
+ & 2000 \\
+\midrule
+Common shares issued on acquisition (note 3) & 199,856 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{center}
+\textit{16. RECONCILIATION OF CANADIAN GAAP TO U.S. GAAP}
+\end{center}
+
+The consolidated financial statements of the Company are prepared in Canadian dol-\\
+lars in accordance with accounting principles generally accepted in Canada\\
+(``Canadian GAAP''). The following adjustments and disclosures would be required in\\
+order to present these consolidated financial statements in accordance with account-\\
+ing principles generally accepted in the United States (``U.S. GAAP'').
+
+\begin{center}
+(a) Reconciliation to accounting principles generally accepted in the\\
+United States
+\end{center}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}l r r r@{}}
+\toprule
+\multicolumn{4}{@{}l@{}}{(thousands of Canadian dollars)} \\
+ & 2000 & 1999 & 1998 \\
+\midrule
+Net income (loss) using Canadian GAAP & 155,984 & 7,375 & (4,284) \\
+Add (deduct) adjustments for & & & \\
+\quad Deferred charges (1) & 431 & (957) & (2,465) \\
+\quad Foreign exchange gains (2) & 4,066 & -- & -- \\
+\quad Equity in earnings of WIC (3) & 7,692 & -- & -- \\
+\quad Income tax effect of adjustments & (6,828) & 431 & 1,109 \\
+\midrule
+Net income (loss) using U.S. GAAP & 161,345 & 6,849 & (5,640) \\
+Unrealized gains on investments classified as & & & \\
+\quad available for sale, net of tax (4) & 4,040 & 18,945 & 12,030 \\
+Realized losses on investments classified & & & \\
+\quad as available for sale, net of tax & (19,781) & -- & -- \\
+\midrule
+Comprehensive income using U.S. GAAP & 145,604 & 25,794 & 6,390 \\
+Net income per share using U.S. GAAP & & & \\
+Basic & 4.83 & -- & -- \\
+Fully diluted & 4.73 & -- & -- \\
+Comprehensive income per share using U.S. GAAP & & & \\
+Basic & 4.36 & -- & -- \\
+Fully diluted & 4.27 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
+```

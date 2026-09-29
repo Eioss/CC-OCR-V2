@@ -1,0 +1,21 @@
+Looking at the "Average Price per Ticket" column in the infographic, we can identify the teams with the highest prices:
+
+1. **New York Jets** — $117.94 (highest)
+2. **New England Patriots** — $117.84 (second highest)
+3. **Chicago Bears** — $110.91
+4. **Dallas Cowboys** — $110.20
+5. **New York Giants** — $111.69 ← Wait, this is actually higher than Cowboys and Bears.
+
+Let’s re-sort the top 5 by average price per ticket:
+
+- **New York Jets**: $117.94
+- **New England Patriots**: $117.84
+- **New York Giants**: $111.69
+- **Chicago Bears**: $110.91
+- **Dallas Cowboys**: $110.20
+
+So, after the **New York Jets**, the team with the **second highest average price per ticket** is the:
+
+> **New England Patriots — $117.84**
+
+✅ **Final Answer: New England Patriots**

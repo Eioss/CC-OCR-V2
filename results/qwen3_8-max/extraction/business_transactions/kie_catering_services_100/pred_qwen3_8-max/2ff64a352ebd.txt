@@ -1,0 +1,7 @@
+```json
+{
+    "menu": "1 BBQ Chicken 41,000\n1 - Tidak Pedas 0",
+    "sub_total": "41,000",
+    "total": "41,000"
+}
+```

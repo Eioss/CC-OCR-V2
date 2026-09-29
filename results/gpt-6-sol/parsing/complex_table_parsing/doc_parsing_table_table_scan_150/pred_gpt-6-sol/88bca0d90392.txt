@@ -1,0 +1,36 @@
+<table>
+  <tr><td colspan="5" align="center"><strong>XYZ COMPANY LIMITED</strong></td></tr>
+  <tr><td colspan="5" align="center"><strong>BALANCE SHEET</strong></td></tr>
+  <tr><td colspan="5" align="center"><strong>AS AT</strong></td></tr>
+  <tr><td colspan="5" align="center"><strong>JUNE 30, 2002</strong></td></tr>
+  <tr><td colspan="5" align="center"><u><strong>UNAUDITED - See “Notice to Reader”</strong></u></td></tr>
+  <tr><td></td><td></td><td align="right"><u>2002</u></td><td></td><td align="right"><u>2001</u></td></tr>
+  <tr><td colspan="5" align="center"><u><strong>ASSETS</strong></u></td></tr>
+  <tr><td colspan="5">CURRENT</td></tr>
+  <tr><td>&nbsp;&nbsp;Cash</td><td>$</td><td align="right">11,552</td><td>$</td><td align="right">--</td></tr>
+  <tr><td>&nbsp;&nbsp;Accounts receivable</td><td></td><td align="right">42,970</td><td></td><td align="right">50,595</td></tr>
+  <tr><td>&nbsp;&nbsp;Deposits and prepaid expenses</td><td></td><td align="right">2,942</td><td></td><td align="right">2,688</td></tr>
+  <tr><td>&nbsp;&nbsp;Inventory</td><td></td><td align="right">159,144</td><td></td><td align="right">156,657</td></tr>
+  <tr><td></td><td></td><td align="right">216,608</td><td></td><td align="right">209,940</td></tr>
+  <tr><td>PROPERTY, PLANT AND EQUIPMENT (Note 2)</td><td></td><td align="right">59,890</td><td></td><td align="right">76,318</td></tr>
+  <tr><td>INVESTMENTS</td><td></td><td align="right">--</td><td></td><td align="right">45,001</td></tr>
+  <tr><td></td><td>$</td><td align="right"><u>276,498</u></td><td>$</td><td align="right"><u>331,259</u></td></tr>
+  <tr><td colspan="5" align="center"><u><strong>LIABILITIES</strong></u></td></tr>
+  <tr><td colspan="5">CURRENT</td></tr>
+  <tr><td>&nbsp;&nbsp;Bank overdraft</td><td>$</td><td align="right">--</td><td>$</td><td align="right">9,474</td></tr>
+  <tr><td>&nbsp;&nbsp;Bank loan</td><td></td><td align="right">--</td><td></td><td align="right">60,000</td></tr>
+  <tr><td>&nbsp;&nbsp;Accounts payable and accrued liabilities</td><td></td><td align="right">82,053</td><td></td><td align="right">91,343</td></tr>
+  <tr><td>&nbsp;&nbsp;Long-term debt - current portion</td><td></td><td align="right">25,200</td><td></td><td align="right">--</td></tr>
+  <tr><td>&nbsp;&nbsp;Income tax payable</td><td></td><td align="right">14,387</td><td></td><td align="right">--</td></tr>
+  <tr><td></td><td></td><td align="right">121,640</td><td></td><td align="right">160,817</td></tr>
+  <tr><td>DUE TO SHAREHOLDER (Note 3)</td><td></td><td align="right">51,591</td><td></td><td align="right">231,791</td></tr>
+  <tr><td>LONG-TERM DEBT (Note 4)</td><td></td><td align="right">86,100</td><td></td><td align="right">--</td></tr>
+  <tr><td></td><td></td><td align="right"><u>259,331</u></td><td></td><td align="right"><u>392,608</u></td></tr>
+  <tr><td colspan="5" align="center"><u><strong>SHAREHOLDERS EQUITY</strong></u></td></tr>
+  <tr><td>STATED CAPITAL (Note 5)</td><td></td><td align="right">1</td><td></td><td align="right">1</td></tr>
+  <tr><td>RETAINED EARNINGS (DEFICIT)</td><td></td><td align="right">17,166</td><td></td><td align="right">(61,350)</td></tr>
+  <tr><td></td><td></td><td align="right">17,167</td><td></td><td align="right">(61,349)</td></tr>
+  <tr><td></td><td>$</td><td align="right"><u>276,498</u></td><td>$</td><td align="right"><u>331,259</u></td></tr>
+  <tr><td colspan="5" align="center">APPROVED</td></tr>
+  <tr><td colspan="5" align="center">____________________________</td></tr>
+</table>

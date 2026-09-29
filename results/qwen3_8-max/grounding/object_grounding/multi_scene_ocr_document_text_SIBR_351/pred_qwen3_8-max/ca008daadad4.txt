@@ -1,0 +1,33 @@
+```json
+[
+    {"bbox_2d": [203, 183, 490, 205], "label": "ADDRESS"},
+    {"bbox_2d": [673, 455, 747, 468], "label": "AMOUNT"},
+    {"bbox_2d": [172, 585, 300, 596], "label": "Account No."},
+    {"bbox_2d": [390, 91, 812, 102], "label": "Add"},
+    {"bbox_2d": [147, 573, 513, 584], "label": "Address"},
+    {"bbox_2d": [270, 696, 421, 708], "label": "Authorized Signature(s)"},
+    {"bbox_2d": [87, 520, 229, 530], "label": "BANK INFORMATION"},
+    {"bbox_2d": [202, 561, 321, 572], "label": "Beneficiary Bank"},
+    {"bbox_2d": [688, 76, 926, 88], "label": "COMPANY NAME"},
+    {"bbox_2d": [206, 369, 531, 379], "label": "DELIVERY"},
+    {"bbox_2d": [650, 187, 712, 196], "label": "Date"},
+    {"bbox_2d": [237, 420, 319, 442], "label": "Desc"},
+    {"bbox_2d": [828, 104, 920, 113], "label": "Fax"},
+    {"bbox_2d": [131, 607, 267, 617], "label": "For and on behalf of"},
+    {"bbox_2d": [275, 207, 380, 216], "label": "IEC CODE"},
+    {"bbox_2d": [111, 426, 180, 435], "label": "Item No."},
+    {"bbox_2d": [234, 219, 363, 228], "label": "NO."},
+    {"bbox_2d": [135, 548, 352, 559], "label": "Name"},
+    {"bbox_2d": [651, 164, 733, 173], "label": "P/C No"},
+    {"bbox_2d": [269, 231, 358, 240], "label": "PAN NO"},
+    {"bbox_2d": [206, 341, 291, 350], "label": "PAYMENT"},
+    {"bbox_2d": [206, 283, 433, 294], "label": "PRICE TERMS"},
+    {"bbox_2d": [387, 426, 403, 435], "label": "Qty"},
+    {"bbox_2d": [772, 425, 874, 437], "label": "REMARK"},
+    {"bbox_2d": [330, 491, 659, 501], "label": "SAY U.S. DOLLARS"},
+    {"bbox_2d": [194, 598, 269, 607], "label": "SWIFT Address"},
+    {"bbox_2d": [418, 130, 603, 141], "label": "TITLE"},
+    {"bbox_2d": [658, 103, 796, 113], "label": "Tel"},
+    {"bbox_2d": [561, 426, 611, 436], "label": "U.PRICE"}
+]
+```

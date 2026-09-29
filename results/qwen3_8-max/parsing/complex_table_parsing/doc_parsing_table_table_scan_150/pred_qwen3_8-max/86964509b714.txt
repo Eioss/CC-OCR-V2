@@ -1,0 +1,153 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left; font-family: sans-serif;">
+  <tr>
+    <td colspan="5"><strong>Example:</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align: center;"><strong>*ABC Design</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align: center;"><strong>Balance Sheet</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="text-align: center;"><strong>As at December 31, 2022</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>ASSETS</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding-left: 20px;"><strong>Current Assets</strong></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Cash and cash equivalents</td>
+    <td>$</td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Accounts Receivable</td>
+    <td></td>
+    <td style="text-align: right;">150.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Inventories</td>
+    <td></td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Prepaid and other assets</td>
+    <td></td>
+    <td style="text-align: right; border-bottom: 1px solid black;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 20px;"><strong>Total Current Assets</strong></td>
+    <td></td>
+    <td style="text-align: right; border-bottom: 2px solid black;">450.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Long-term Investment</td>
+    <td></td>
+    <td style="text-align: right;">200.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Property &amp; Equipment</td>
+    <td></td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Other assets</td>
+    <td></td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>TOTAL ASSETS</strong></td>
+    <td>$</td>
+    <td style="text-align: right; border-top: 1px solid black; border-bottom: 3px double black;">850.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>LIABILITIES</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding-left: 20px;"><strong>Current Liabilities</strong></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Accounts Payable</td>
+    <td>$</td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Unearned Revenue</td>
+    <td></td>
+    <td style="text-align: right;">50.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Short-term debt</td>
+    <td></td>
+    <td style="text-align: right; border-bottom: 1px solid black;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 20px;"><strong>Total Current Liabilities</strong></td>
+    <td></td>
+    <td style="text-align: right; border-bottom: 2px solid black;">250.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Long-term debt</td>
+    <td></td>
+    <td style="text-align: right;">200.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>TOTAL LIABILITIES</strong></td>
+    <td>$</td>
+    <td style="text-align: right; border-top: 1px solid black; border-bottom: 2px solid black;">450.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>OWNER'S EQUITY</strong></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Equity</td>
+    <td>$</td>
+    <td style="text-align: right;">100.00</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="padding-left: 40px;">Retained Earnings</td>
+    <td></td>
+    <td style="text-align: right; border-bottom: 1px solid black;">300.00</td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>TOTAL EQUITY</strong></td>
+    <td>$</td>
+    <td style="text-align: right; border-bottom: 2px solid black;">400.00</td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><strong>TOATL LIABILITIES AND OWNER'S EQUITY</strong></td>
+    <td>$</td>
+    <td style="text-align: right; border-top: 1px solid black; border-bottom: 3px double black;">850.00</td>
+  </tr>
+</table>
+```

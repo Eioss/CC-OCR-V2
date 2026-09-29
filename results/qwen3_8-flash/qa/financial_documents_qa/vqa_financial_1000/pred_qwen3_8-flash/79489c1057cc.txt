@@ -1,0 +1,7 @@
+Based on the hotel bill provided, the date of checking in at the hotel was **November 28, 1960**.
+
+This is indicated in two places:
+1.  In the top left corner under the guest's name and address: `11/28/60`.
+2.  As the first date column in the itemized charges table: `11/28/60`.
+
+The stay continued through December 1st (with a final charge for that day) and ended with payment processed on December 3rd, as shown by the "PAID" stamp dated `DEC 3 - 1960`.

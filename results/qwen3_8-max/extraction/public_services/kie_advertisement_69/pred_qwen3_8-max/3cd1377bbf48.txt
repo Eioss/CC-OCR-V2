@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$45.00",
+    "advertiser": "BERNIE 2020",
+    "flight_from": "02/24/20",
+    "flight_to": "02/26/20"
+}
+```

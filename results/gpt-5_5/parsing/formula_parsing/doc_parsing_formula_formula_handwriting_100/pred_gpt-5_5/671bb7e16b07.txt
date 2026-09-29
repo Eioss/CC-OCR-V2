@@ -1,0 +1,101 @@
+\[
+\begin{aligned}
+\pi(k,z,\theta\mid y,p,P,r)
+&\propto
+\left(\frac{(2\pi)^{-n/2}}{\sqrt{k+1}\,\theta^n}\right)
+p^k(1-p)^{n-k-1} \\
+&\quad \times
+\prod_{j=1}^{k+1}
+\left(T_j-T_{j-1}+\frac{1}{\nu^2}\right)^{1/2}
+\exp\left\{
+-\frac{1}{2\sigma^2}
+\left(
+SS_j+\frac{\mu_0^2}{\nu^2}
+-
+\frac{\left(S_j+\frac{\mu_0}{\nu^2}\right)^2}
+{T_j-T_{j-1}+\frac{1}{\nu^2}}
+\right)
+\right\}.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+R_n(t)
+&:=
+\frac{\gamma(2\lambda+p_n^N)}{4\lambda+2\gamma y_n^N}
+\left(
+\frac{(1+2\lambda)^{2m}y_n^N}{(1+2\gamma)y_n^N}
+-1
+\right)
+(p_n^N-p_{n+1}^N) \\
+&\quad
+-\bar\mu_n\!\left(A^N(A^N(t),p^N(t))\right)
+p^N(t)P(2\gamma m+p_n^N)
+\left(
+\frac{(1+2\lambda)y_{n+1}^N}{(1+2\gamma)y_n^N}
+-1
+\right)
+(p_n^N-p_{n+1}^N).
+\end{aligned}
+\]
+
+\[
+\operatorname{gen}_H(f^2)
+\le
+\operatorname{gen}_H(f^{\mathrm{en}})
++
+\#\left\{(-u_i,u_i): C_1\le f(u_i)\le C_2,\ f'(u_i)=0\right\}.
+\]
+
+\[
+P\!\left(T_*\in A\mid \min_{a\le t\le b}X(t)>u\right)
+=
+\frac{
+\displaystyle
+\int_0^\infty
+\exp\left\{-ux/\sigma_*^2(a,b)\right\}
+P\!\left(Y\le x,\min_{a\le t\le b}X(t)>0,T_*\in A\right)\,dx
+}{
+\displaystyle
+\int_0^\infty
+\exp\left\{-ux/\sigma_*^2(a,b)\right\}
+P\!\left(Y\le x,\min_{a\le t\le b}X(t)>0\right)\,dx
+}.
+\]
+
+\[
+S_j
+\ge
+\frac{(1+\varepsilon/10)d-2^j}{2^j}
+\ge
+\frac{1+9\varepsilon/10}{1+\varepsilon/10}d_j-1
+\ge
+(1+7\varepsilon/10)d_j.
+\]
+
+\[
+I^{\mathrm{syn}}(a_1\square a_2)
+\subseteq
+I^{\mathrm{syn}}(a'_1\square a'_2)
+\quad\text{and}\quad
+O^{\mathrm{syn}}(a_1\square a_2)
+\subseteq
+O^{\mathrm{syn}}(a'_1\square a'_2).
+\]
+
+\[
+X=(0,0,\ldots,0,x_{l+1},\ldots,x_n).
+\]
+
+\[
+\frac{t_i}{64\left(1+t_i d(\chi_i,\partial B_R)^{-4}\right)}
+f_{k,i}(\chi_i;t)
+\le
+\frac{t_i+\frac{1}{\delta}}
+{1+\left(t_i+\frac{1}{\delta}\right)d\!\left(\chi_i+\frac{x}{2n},\partial B_R\right)^{-4}}
+f_{k,i}(\chi,t)
+\le
+\frac{t_i^2}{1+t_i d(\chi_i,\partial B_R)^{-4}}
+f_{k,i}(0,0).
+\]

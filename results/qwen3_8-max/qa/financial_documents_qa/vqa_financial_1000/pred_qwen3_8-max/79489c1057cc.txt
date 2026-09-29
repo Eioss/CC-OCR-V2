@@ -1,0 +1,7 @@
+Based on the provided hotel bill, the date of checking in can be determined by looking at the first entry in the "DATE" column.
+
+- The first date listed is **11/28/60**.
+- This corresponds to November 28, 1960.
+- The guest's name and address are also listed at the top left, with the same date: `11/28/60 ST LOUIS MO`.
+
+Therefore, the date of checking in at the hotel was **November 28, 1960**.

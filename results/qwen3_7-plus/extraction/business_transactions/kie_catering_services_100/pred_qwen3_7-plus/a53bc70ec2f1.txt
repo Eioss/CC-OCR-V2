@@ -1,0 +1,63 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Nasi Putih",
+            "num": "3",
+            "price": "30.000"
+        },
+        {
+            "name": "Nasi Tambah",
+            "num": "1",
+            "price": "7.000"
+        },
+        {
+            "name": "Ayam Pop",
+            "num": "2",
+            "price": "40.000"
+        },
+        {
+            "name": "Samabal SP",
+            "num": "1",
+            "price": "11.000"
+        },
+        {
+            "name": "Sambal Gabus Asin Cb",
+            "num": "1",
+            "price": "18.000"
+        },
+        {
+            "name": "Kerupuk Kuah",
+            "num": "1",
+            "price": "15.000"
+        },
+        {
+            "name": "Ikan Bawal Besa",
+            "num": "1",
+            "price": "28.500"
+        },
+        {
+            "name": "Telur Dadar",
+            "num": "1",
+            "price": "10.000"
+        },
+        {
+            "name": "Teh Es",
+            "num": "1",
+            "price": "7.000"
+        },
+        {
+            "name": "Teh Manis",
+            "num": "1",
+            "price": "9.000"
+        },
+        {
+            "name": "Es Batu",
+            "num": "1",
+            "price": "4.000"
+        }
+    ],
+    "sub_total": "179.500",
+    "total": "197.450"
+}
+```

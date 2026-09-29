@@ -1,0 +1,102 @@
+```latex
+\begin{center}
+    \textbf{\Large PRACTICE TEST 9}
+\end{center}
+
+\noindent\textbf{Ex1. ERROR IDENTIFICATION:} \textit{Mark the letter A, B, C or D to indicate the underlined part that needs correction.}
+
+\begin{enumerate}
+    \item They \underline{work} in a hospital \underline{sponsoring by} the government.
+    \begin{tabular}{llll}
+        A. work & B. in & C. sponsoring & D. by \\
+    \end{tabular}
+    
+    \item Mary \underline{write} another letter \underline{to} the little girls yesterday, \underline{and} her father helped her \underline{send} it.
+    \begin{tabular}{llll}
+        A. write & B. to & C. and & D. send \\
+    \end{tabular}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Ex2.} \textit{Choose the word (A, B, C or D) that has underlined part is pronounced differently from the rest.}
+
+\begin{enumerate}
+    \item 
+    \begin{tabular}{llll}
+        A. \underline{sw}allow & B. \underline{sw}itch & C. \underline{sw}eet & D. \underline{sw}ord \\
+    \end{tabular}
+    
+    \item 
+    \begin{tabular}{llll}
+        A. sa\underline{y}ing & B. servi\underline{c}e & C. six\underline{t}y & D. su\underline{g}ar \\
+    \end{tabular}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Ex3.} \textit{Choose the best option (A, B, C or D) to complete the following sentences.}
+
+\begin{enumerate}
+    \item Many efforts have been made to protect \_\_\_\_\_ nature.
+    \begin{tabular}{llll}
+        A. danger & B. dangerous & C. endanger & D. endangered \\
+    \end{tabular}
+    
+    \item The natural environment consists \_\_\_\_\_ all natural resources.
+    \begin{tabular}{llll}
+        A. in & B. of & C. to & D. on \\
+    \end{tabular}
+    
+    \item Because power demand is increasing very rapidly, fossil fuels will be \_\_\_\_\_ within a relatively short time.
+    \begin{tabular}{llll}
+        A. set up & B. come across & C. taken in & D. used up \\
+    \end{tabular}
+    
+    \item Their efforts were much \_\_\_\_\_ when they won 2 gold, medals in bodybuilding and billiards.
+    \begin{tabular}{llll}
+        A. considered & B. required & C. expended & D. appreciated \\
+    \end{tabular}
+    
+    \item Non-renewable energy sources are running \_\_\_\_\_.
+    \begin{tabular}{llll}
+        A. up & B. on & C. to & D. out \\
+    \end{tabular}
+    
+    \item My friend, \_\_\_\_\_ I visited last week, is taking a holiday soon.
+    \begin{tabular}{llll}
+        A. that & B. whom & C. which & D. whose \\
+    \end{tabular}
+    
+    \item Tom, \_\_\_\_\_ sits next to me, is from Canada.
+    \begin{tabular}{llll}
+        A. that & B. whom & C. who & D. whose \\
+    \end{tabular}
+    
+    \item My friend \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ shows a great talent for art.
+    \begin{tabular}{ll}
+        A. , that lives next to my house, & B. that lives next to my house, \\
+        C. , who lives next to my house, & D. who lives next to my house \\
+    \end{tabular}
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Ex4. Read the following passage and choose the letter (A, B, C or D) to indicate the correct word or phrase that best fits each of the numbered blanks.}
+
+When man first learned how making a fire, he began to (1)\_\_\_\_\_\_\_\_\_\_ fuel for the first time. The first fuel he used was probably wooden. As time passed, man eventually discovered that substance such as coal and oil will burn. Coal (2)\_\_\_\_\_\_\_\_\_\_ not used very wide as a source of energy until the 19th century. With the coming of the (3)\_\_\_\_\_\_\_\_\_\_ revolution, it was soon realized that production would double if coal was used instead of wood. Nowadays, much of the huge factories and electricity generating stations would be impossible to function if there was no coal. In the last twenty or thirty years, (4)\_\_\_\_\_\_\_\_\_\_, the use of coal has declined. As (5)\_\_\_\_\_\_\_\_\_\_ result, there were changes in the coal industry.
+
+\begin{tabular}{lllll}
+1. & A. store & B. make & C. use & D. create \\
+2. & A. is & B. were & C. was & D. are \\
+3. & A. industry & B. industrial & C. industrious & D. industrialized \\
+4. & A. however & B. although & C. despite & D. because \\
+5. & A. the & B. an & C. a & D. any \\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Ex5. Read the following passage and circle the letter A, B, C, or D to indicate the correct answer to each of the questions.}
+
+Fifty - three years ago, two Americans landed on the moon, taking the human race to another planet for the first time. On July 16, 1969 Armstrong, Aldrin and Collins climbed into Apollo 11 .The unit's Saturn V rocket, equipped with the most powerful engines ever built, blasted them into space. Their trajectory took them around the Earth and toward the moon when a third-
+```

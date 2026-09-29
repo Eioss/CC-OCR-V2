@@ -1,0 +1,93 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" style="border-collapse: collapse; width: 100%;">
+   <thead><tr><th colspan="2">Algorithm</th>
+     <th>Convergence Rate</th>
+     <th>Compression<sup>a</sup></th>
+     <th>Trans. Compl.<sup>b</sup></th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="2" style="text-align: center; vertical-align: middle;">LB</td>
+     <td>Theorem 1+Corollary 1</td>
+     <td>$\Omega \left( \frac{\sigma}{\sqrt{nT}} + \frac{1}{\delta T} \right)$</td>
+     <td>Uni/Bidirectional<br/>Contractive</td>
+     <td>$\mathcal{O}(n/\delta^2)$</td>
+    </tr>
+    <tr>
+     <td>Theorem 2+Corollary 2</td>
+     <td>$\Omega \left( \frac{\sigma}{\sqrt{nT}} + \frac{1+\omega}{T} \right)$</td>
+     <td>Uni/Bidirectional<br/>Unbiased</td>
+     <td>$\mathcal{O}\left(n(1+\omega)^2\right)$</td>
+    </tr>
+    <tr>
+     <td rowspan="6" style="text-align: center; vertical-align: middle;">UB</td>
+     <td>Theorem 3</td>
+     <td>$\tilde{\mathcal{O}} \left( \frac{\sigma}{\sqrt{nT}} + \frac{1}{\delta T} \right)$</td>
+     <td>Uni/Bidirectional<br/>Contractive</td>
+     <td>$\tilde{\mathcal{O}}(n/\delta^2)$</td>
+    </tr>
+    <tr>
+     <td>Corollary 3</td>
+     <td>$\tilde{\mathcal{O}} \left( \frac{\sigma}{\sqrt{nT}} + \frac{1+\omega}{T} \right)$</td>
+     <td>Uni/Bidirectional<br/>Unbiased</td>
+     <td>$\tilde{\mathcal{O}}(n(1+\omega)^2)$</td>
+    </tr>
+    <tr>
+     <td>Q-SGD [31]</td>
+     <td>$\mathcal{O} \left( \frac{(1+\omega)\sigma + \omega b^2/\sigma}{\sqrt{nT}} \right)^\dagger$</td>
+     <td>Unidirectional<br/>i.i.d, Unbiased</td>
+     <td>-</td>
+    </tr>
+    <tr>
+     <td>MEM-SGD [52]</td>
+     <td>$\mathcal{O} \left( \frac{\sigma}{\sqrt{nT}} + \frac{G^{2/3}}{\delta^{2/3}T^{2/3}} + \frac{1}{T} \right)$</td>
+     <td>Unidirectional<br/>Contractive</td>
+     <td>$\mathcal{O}(n^3/\delta^4)$</td>
+    </tr>
+    <tr>
+     <td>Double Squeeze [56]</td>
+     <td>$\mathcal{O} \left( \frac{1}{\sqrt{nT}} + \frac{G^{2/3}}{\delta^{4/3}T^{2/3}} + \frac{1}{T} \right)$</td>
+     <td>Bidirectional<sup>c</sup></td>
+     <td>$\mathcal{O}(n^3/\delta^8)$</td>
+    </tr>
+    <tr>
+     <td>CSER [61]</td>
+     <td>$\mathcal{O} \left( \frac{\sigma}{\sqrt{nT}} + \frac{G^{2/3}}{\delta^{2/3}T^{2/3}} + \frac{1}{T} \right)$</td>
+     <td>Unidirectional<br/>Contractive</td>
+     <td>$\mathcal{O}(n^3/\delta^4)$</td>
+    </tr>
+    <tr>
+     <td colspan="2">EF21-SGD [24]</td>
+     <td>$\mathcal{O} \left( \frac{\sigma}{\sqrt{\delta^3 T}} + \frac{1}{\delta T} \right)^*$</td>
+     <td>Unidirectional<br/>Contractive</td>
+     <td>-</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

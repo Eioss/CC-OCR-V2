@@ -1,0 +1,208 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th colspan="2" rowspan="2">Methods</th>
+     <th colspan="6">AD($\hat{x}_0$, $\hat{y}_0$)</th>
+     <th colspan="6">A($\hat{\gamma}$)</th>
+    </tr>
+    <tr>
+     <th>10</th>
+     <th>50</th>
+     <th>100</th>
+     <th>150</th>
+     <th>180</th>
+     <th>200</th>
+     <th>10</th>
+     <th>50</th>
+     <th>100</th>
+     <th>150</th>
+     <th>180</th>
+     <th>200</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="2">Algebraic</td>
+     <td>DLSF [19]</td>
+     <td>0.572</td>
+     <td>0.579</td>
+     <td>0.596</td>
+     <td>0.622</td>
+     <td>0.641</td>
+     <td>0.655</td>
+     <td>0.78</td>
+     <td>0.781</td>
+     <td>0.782</td>
+     <td>0.791</td>
+     <td>0.792</td>
+     <td>0.793</td>
+    </tr>
+    <tr>
+     <td>Taubin [23]</td>
+     <td>0.596</td>
+     <td>0.604</td>
+     <td>0.624</td>
+     <td>0.656</td>
+     <td>0.680</td>
+     <td>0.698</td>
+     <td>0.792</td>
+     <td>0.793</td>
+     <td>0.795</td>
+     <td>0.789</td>
+     <td>0.794</td>
+     <td>0.798</td>
+    </tr>
+    <tr>
+     <td rowspan="3">Geometric</td>
+     <td>Ahn [20]</td>
+     <td>0.624</td>
+     <td>0.624</td>
+     <td>0.641</td>
+     <td>0.676</td>
+     <td>0.697</td>
+     <td>0.712</td>
+     <td>0.847</td>
+     <td>0.786</td>
+     <td>0.789</td>
+     <td>0.79</td>
+     <td>0.79</td>
+     <td>0.79</td>
+    </tr>
+    <tr>
+     <td>Prasad [24]</td>
+     <td>0.623</td>
+     <td>0.632</td>
+     <td>0.657</td>
+     <td>0.697</td>
+     <td>0.727</td>
+     <td>0.751</td>
+     <td>1.052</td>
+     <td>1.059</td>
+     <td>1.076</td>
+     <td>1.103</td>
+     <td>1.121</td>
+     <td>1.134</td>
+    </tr>
+    <tr>
+     <td>Wu [25]</td>
+     <td>0.747</td>
+     <td>0.743</td>
+     <td>0.763</td>
+     <td>0.787</td>
+     <td>0.805</td>
+     <td>0.820</td>
+     <td>0.782</td>
+     <td>0.782</td>
+     <td>0.785</td>
+     <td>0.789</td>
+     <td>0.79</td>
+     <td>0.791</td>
+    </tr>
+    <tr>
+     <td rowspan="5">Robust</td>
+     <td>RANSAC [15]</td>
+     <td>0.258</td>
+     <td>0.282</td>
+     <td>0.327</td>
+     <td>0.414</td>
+     <td>0.511</td>
+     <td>1.112</td>
+     <td>0.784</td>
+     <td>0.783</td>
+     <td>0.782</td>
+     <td>0.781</td>
+     <td>0.782</td>
+     <td>0.787</td>
+    </tr>
+    <tr>
+     <td>LMS [27]</td>
+     <td>0.521</td>
+     <td>0.549</td>
+     <td>0.751</td>
+     <td>0.935</td>
+     <td>1.113</td>
+     <td>1.083</td>
+     <td>0.726</td>
+     <td>0.723</td>
+     <td>0.686</td>
+     <td>0.664</td>
+     <td>0.653</td>
+     <td>0.639</td>
+    </tr>
+    <tr>
+     <td>GMM [17]</td>
+     <td>5.961</td>
+     <td>4.718</td>
+     <td>5.5</td>
+     <td>5.212</td>
+     <td>6.747</td>
+     <td>7.022</td>
+     <td>0.792</td>
+     <td>0.773</td>
+     <td>0.786</td>
+     <td>0.782</td>
+     <td>0.82</td>
+     <td>0.768</td>
+    </tr>
+    <tr>
+     <td>HGMM(Ours)</td>
+     <td>0.021</td>
+     <td>0.085</td>
+     <td>0.276</td>
+     <td>0.408</td>
+     <td>0.524</td>
+     <td>0.637</td>
+     <td>0.785</td>
+     <td>0.786</td>
+     <td>0.786</td>
+     <td>0.789</td>
+     <td>0.789</td>
+     <td>0.789</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

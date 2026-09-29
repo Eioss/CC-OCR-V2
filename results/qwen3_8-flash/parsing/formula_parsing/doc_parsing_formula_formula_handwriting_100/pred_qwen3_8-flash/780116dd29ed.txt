@@ -1,0 +1,1 @@
+$$m = \vert E ( C ) \vert \geq \left\{ \begin{array} { l l } { { ( 1 3 n - 1 4 ) / 8 } } & { { f o r e v e n n , } } \\ { { ( 1 3 n - 7 ) / 8 } } & { { f o r o d d n . } } \end{array} \right.$$

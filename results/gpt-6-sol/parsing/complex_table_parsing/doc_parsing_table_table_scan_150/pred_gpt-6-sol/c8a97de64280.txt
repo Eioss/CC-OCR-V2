@@ -1,0 +1,49 @@
+<table>
+  <tr>
+    <td>Bit</td>
+    <td>Symbol</td>
+    <td>R/W</td>
+    <td>Description</td>
+    <td>Default</td>
+  </tr>
+  <tr>
+    <td>7:4</td>
+    <td>T0</td>
+    <td>R/W</td>
+    <td>
+      Ramp rise time
+      <table>
+        <tr><td>T0</td><td>Time</td><td>T0</td><td>Time</td></tr>
+        <tr><td>0000</td><td>0s</td><td>1000</td><td>2.1s</td></tr>
+        <tr><td>0001</td><td>0.13s</td><td>1001</td><td>2.6s</td></tr>
+        <tr><td>0010</td><td>0.26s</td><td>1010</td><td>3.1s</td></tr>
+        <tr><td>0011</td><td>0.38s</td><td>1011</td><td>4.2s</td></tr>
+        <tr><td>0100</td><td>0.51s</td><td>1100</td><td>5.2s</td></tr>
+        <tr><td>0101</td><td>0.77s</td><td>1101</td><td>6.2s</td></tr>
+        <tr><td>0110</td><td>1.04s</td><td>1110</td><td>7.3s</td></tr>
+        <tr><td>0111</td><td>1.6s</td><td>1111</td><td>8.3s</td></tr>
+      </table>
+    </td>
+    <td>0000</td>
+  </tr>
+  <tr>
+    <td>3:0</td>
+    <td>T1</td>
+    <td>R/W</td>
+    <td>
+      Hold on time
+      <table>
+        <tr><td>T1</td><td>Time</td><td>T1</td><td>Time</td></tr>
+        <tr><td>0000</td><td>0.04s</td><td>1000</td><td>2.1s</td></tr>
+        <tr><td>0001</td><td>0.13s</td><td>1001</td><td>2.6s</td></tr>
+        <tr><td>0010</td><td>0.26s</td><td>1010</td><td>3.1s</td></tr>
+        <tr><td>0011</td><td>0.38s</td><td>1011</td><td>4.2s</td></tr>
+        <tr><td>0100</td><td>0.51s</td><td>1100</td><td>5.2s</td></tr>
+        <tr><td>0101</td><td>0.77s</td><td>1101</td><td>6.2s</td></tr>
+        <tr><td>0110</td><td>1.04s</td><td>1110</td><td>7.3s</td></tr>
+        <tr><td>0111</td><td>1.6s</td><td>1111</td><td>8.3s</td></tr>
+      </table>
+    </td>
+    <td>0000</td>
+  </tr>
+</table>

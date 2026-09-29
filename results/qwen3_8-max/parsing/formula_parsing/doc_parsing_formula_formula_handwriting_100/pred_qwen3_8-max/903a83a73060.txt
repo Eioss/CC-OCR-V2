@@ -1,0 +1,13 @@
+ $$\lambda ^ { 2 } = \lambda _ { n } ^ { 2 } = ( \frac { \pi n } { l } ) ^ { 2 } , n \in \mathbb { N }$$
+
+ $$V _ { I } = \sum _ { e _ { h } \in \varepsilon _ { h } } \int _ { e _ { h } } [ u _ { h } ] \left( \left\{ F _ { h } \nabla r _ { h } z _ { h } ; \left( \delta e _ { h } n ^ { - 1 } - P ^ { - 1 } n _ { h } \right) \right\} + d \left\{ F _ { h } \nabla r _ { h } z _ { h } ; H _ { n _ { h } } \right\} \right) d s _ { h }$$
+
+ $$= \sum _ { P \in N _ { e _ { h } } } \sum _ { \partial P } \int _ { e _ { h } } z _ { p } ^ { + } [ u _ { h } ] \left\{ F _ { h } \nabla r _ { h } \varphi _ { p } ; \left( \delta e _ { h } n ^ { - 1 } - P _ { n _ { h } } ^ { - 1 } \right) \right\} + z _ { p } ^ { + } [ u _ { h } ] d \left\{ F _ { h } \nabla r _ { h } \varphi _ { p } ; H _ { n _ { h } } \right\} d s _ { h } .$$
+
+ $$\Delta p u = \left[ ( u _ { x } ) ^ { 2 } + ( u _ { y } ) ^ { 2 } \right] ^ { \frac { n } { 2 } } \Delta u + n \left[ ( u _ { x } ) ^ { 2 } + ( u _ { y } ) ^ { 2 } \right] ^ { \frac { n - 2 } { 2 } } \left[ ( u _ { x } ) ^ { 2 } u _ { x x } + 2 u _ { x } u _ { y } u _ { x y } + ( u _ { y } ) ^ { 2 } u _ { y y } \right] f g$$
+
+ $$\# \left( 0 \right) = \left\{ x | B \left( x \right) = 0 a n d \phi \left( x \right) = 0 \right\} ,$$
+
+ $$| | R _ { \tau , A _ { 1 } } u | | _ { L ^ { \frac { p \tau } { p - \tau } } \left( \Omega \right) } \leq C | | u | | _ { W _ { \tau } ^ { 1 } \left( \Omega \right) ^ { 1 + \delta } } \forall \tau \geq \tau _ { 1 } ,$$
+
+ $$H = \frac { x _ { 1 } ^ { \prime } x _ { 2 } ^ { \prime \prime } - x _ { 1 } ^ { \prime \prime } x _ { 2 } ^ { \prime } } { 2 \sqrt { 1 + \left( r ^ { \prime } \right) ^ { 2 } } } n _ { 1 } ,$$

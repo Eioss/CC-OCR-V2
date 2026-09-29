@@ -1,0 +1,44 @@
+```json
+{
+    "menu": [
+        {
+            "name": "XLB Org Pork 10x",
+            "price": "78,000"
+        },
+        {
+            "name": "Sicito Babi",
+            "price": "65,000"
+        },
+        {
+            "name": "Hotplate Tahu",
+            "price": "58,000"
+        },
+        {
+            "name": "DF Fish Fillet Garlic",
+            "price": "108,000"
+        },
+        {
+            "name": "LM Pork Belly",
+            "price": "88,000"
+        },
+        {
+            "name": "Siew Mai",
+            "price": "38,800"
+        },
+        {
+            "name": "Kwan Yin Cup",
+            "price": "50,000"
+        },
+        {
+            "name": "Herbal Jelly",
+            "price": "38,000"
+        },
+        {
+            "name": "Onde-Onde",
+            "price": "38,000"
+        }
+    ],
+    "sub_total": "561,800",
+    "total": "664,329"
+}
+```

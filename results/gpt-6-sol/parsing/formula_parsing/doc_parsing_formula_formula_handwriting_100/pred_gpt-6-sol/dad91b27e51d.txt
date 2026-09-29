@@ -1,0 +1,41 @@
+\[
+\lim_{L\to\infty}
+\frac{c_{n,L}^{(11)}\!\left(\frac{L}{2}|z|\right)}
+{\left[M_L\!\left(\frac{L}{2}|z|\right)\right]^{1/2}}
+\sim e^{-\frac12|z|^2}\frac{z^n}{\sqrt{n!}},
+\qquad z=e^{i\phi}|z|.
+\]
+
+\[
+\begin{aligned}
+A\left\langle K_1^*x\otimes K_2^*y,\,
+K_1^*x\otimes K_2^*y\right\rangle_{A\otimes B}
+&\leq
+\sum_{i\in I,\,j\in J}
+\left\langle \Lambda_i x\otimes\Gamma_j y,\,
+\Lambda_i x\otimes\Gamma_j y\right\rangle_{A\otimes B}\\
+&\leq
+B\left\langle x\otimes y,\,x\otimes y\right\rangle_{A\otimes B},
+\qquad \forall x\in H,\ \forall y\in K.
+\end{aligned}
+\]
+
+\[
+\begin{cases}
+\dfrac{w_x^2}{2}+\dfrac{w_y^2}{2}+W(x,y)=\ln m+\bar H,\\[4pt]
+-\bigl(\theta(w_x)\bigr)_x-\bigl(\theta(w_y)\bigr)_y=0.
+\end{cases}
+\]
+
+\[
+\sum_{A(w,c)\in D(v,c)}(2P)^{t_w}
+\leq \frac{p d_v\exp(\delta/12)}{2\delta}
+=\frac{\exp(-\delta/12)t_v\exp(\delta/12)}{2}
+=\frac{t_v}{2}.
+\]
+
+\[
+\Gamma\!\left(\frac{k+1}{2}\right)
+\leq \sqrt{2\pi}\,e^{1/12}
+\left(\frac{k}{2e}\right)^{k/2}.
+\]

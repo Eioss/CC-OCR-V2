@@ -1,0 +1,82 @@
+\[
+R=K[x,y]/(x^2+y^2-1)
+\]
+
+\[
+\begin{cases}
+F(x,t,D^\alpha u)-\partial_t u=B\varepsilon(u)\dot{w}^{-1} & \text{in }\Omega_T,\\
+u=\varphi & \text{on }\partial_p\Omega_T.
+\end{cases}
+\]
+
+\[
+A=\left\{x\in [k]_0^n:\left|\{i:x_i=t\}\right|<m\right\}
+\]
+
+\[
+\text{data }\lambda\overset{d}{\sim}\operatorname{Poisson}(\lambda),\quad
+\Lambda\mid\theta\overset{d}{=}Be^{-\lambda\theta},\quad
+\theta\overset{d}{=}IS_{\alpha,p}(\theta),\quad d,p\text{-known}
+\]
+
+\[
+d\hat{\rho}_t
+=
+-i[\hat{H},\hat{\rho}_t]\,dt
+-k_b[\hat{\sigma}_t,[\hat{\sigma}_t,\hat{\rho}_t]]\,dt
++\sqrt{2k_t}\left[
+\hat{\sigma}_t\hat{\rho}_t+\hat{\rho}_t\hat{\sigma}_t
+-2\operatorname{Tr}(\hat{\sigma}_t\hat{\rho}_t)\hat{\rho}_t
+\right]dW_t
+\]
+
+\[
+\partial TV(u)
+=
+\left\{
+\operatorname{div}\varphi\;\middle|\;
+\|\varphi\|_{L^\infty(\Omega;\mathbb{R}^n)}\le 1,\ 
+\varphi\cdot n|_{\partial\Omega}=0,\ 
+\langle \operatorname{div}\varphi,u\rangle_{L^2(\Omega)}=TV(u)
+\right\}
+\]
+
+\[
+\delta\xi(t)=\left[R-\frac{\xi}{\cos(\omega_r t)}\right]\Theta(x-|\omega_r t|)
+\]
+
+\[
+\delta\eta(t)
+=
+\xi\left[
+\frac{\omega_r t\tan(x)}{x}-\tan(\omega_r t)
+\right]\Theta(x-|\omega_r t|)
+\]
+
+\[
+\mathcal{H}^2(\tilde{\Sigma})+T_h(\Sigma,\tilde{\Sigma})
+\le
+\mathcal{H}^2(\tilde{\Sigma})+T_h(\Sigma,\tilde{\Sigma})
++\mathcal{H}^2(\partial B)-c\mathcal{H}^3(B)
+\le
+\mathcal{H}^2(\Sigma)
+\]
+
+\[
+\begin{aligned}
+\mathbb{P}(X_n>x)
+\sim\;&
+\mathbb{E}(X_0)m_\xi^{\,n-1}
+\sum_{j=0}^{n-1}m_\xi^{\,j(\beta-1)}\mathbb{P}(\xi>x)
++
+m_\eta^{\,n\beta}\mathbb{P}(X_0>x)
+\\
+&+
+m_\varepsilon
+\sum_{j=1}^{n-1}m_\eta^{\,n-j-1}
+\sum_{i=0}^{j-1}m_\xi^{\,i(\beta-1)}
+\mathbb{P}(\xi>x)
++
+\sum_{j=1}^{n}m_\xi^{\,(n-j)\beta}\mathbb{P}(\varepsilon>x)
+\end{aligned}
+\]

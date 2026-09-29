@@ -1,0 +1,180 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <h3 style="text-align:center">分工号物资用料申请计划单（二）</h3>
+  <p>工程名称：莱芜北站站前广场临建工程</p>
+  <table border="1" style="border-collapse: collapse; width: 100%;">
+   <thead><tr><th>序号</th>
+     <th>材料名称</th>
+     <th>规格型号</th>
+     <th>数量</th>
+     <th>单位</th>
+     <th>使用部位</th>
+     <th>进场日期</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>13</td>
+     <td>铝芯电缆</td>
+     <td>3*10+2*4</td>
+     <td>120</td>
+     <td>米</td>
+     <td>现场临水</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>14</td>
+     <td>储水箱</td>
+     <td>20立方</td>
+     <td>1</td>
+     <td>台</td>
+     <td>现场临水</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>15</td>
+     <td>加压泵（管道泵）</td>
+     <td>扬程65米，流量20立方，口径DN65</td>
+     <td>2</td>
+     <td>台</td>
+     <td>现场临水</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>16</td>
+     <td>配电箱（水泵控制箱）</td>
+     <td>两台泵一备一用，电接点压力表控制水泵启停，1#2#泵切换，手动、自动切换。</td>
+     <td>1</td>
+     <td>台</td>
+     <td>现场临水</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>17</td>
+     <td>BV铜线</td>
+     <td>10M2</td>
+     <td>400</td>
+     <td>米</td>
+     <td>办公区用</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>18</td>
+     <td>橡套电缆</td>
+     <td>3*4+1*2.5</td>
+     <td>200</td>
+     <td>米</td>
+     <td>洗车机用</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>19</td>
+     <td>水泵管</td>
+     <td>DN40(3-4米一节，每节两端焊法兰，配螺栓，配法兰垫片。</td>
+     <td>200</td>
+     <td>米</td>
+     <td>与水泵配套</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>20</td>
+     <td>电缆套管</td>
+     <td>DN100</td>
+     <td>100</td>
+     <td>米</td>
+     <td>电缆过路</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>21</td>
+     <td>电缆套管</td>
+     <td>DN125</td>
+     <td>12</td>
+     <td>米</td>
+     <td>电缆过路</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>22</td>
+     <td>镀锌角钢</td>
+     <td>L140*4</td>
+     <td>24</td>
+     <td>米</td>
+     <td>接地</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>23</td>
+     <td rowspan="2">塔吊专用箱</td>
+     <td rowspan="2">总开160A，两路100A，两路60A，两路单相32A</td>
+     <td rowspan="2">5</td>
+     <td rowspan="2">台</td>
+     <td rowspan="2">塔吊专用</td>
+     <td rowspan="2"></td>
+    </tr>
+    <tr>
+     <td>24</td>
+    </tr>
+    <tr>
+     <td>25</td>
+     <td>铜铝过度线鼻子</td>
+     <td>185M2</td>
+     <td>35</td>
+     <td>个</td>
+     <td>电缆压线</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>26</td>
+     <td>铜铝过度线鼻子</td>
+     <td>120M2</td>
+     <td>40</td>
+     <td>个</td>
+     <td>电缆压线</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>27</td>
+     <td>铜铝过度线鼻子</td>
+     <td>95M2</td>
+     <td>30</td>
+     <td>个</td>
+     <td>电缆压线</td>
+     <td></td>
+    </tr>
+   </tbody>
+  </table>
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+   <div>队伍名称：</div>
+   <div>编制人：王伟</div>
+   <div>项目审核：<span style="font-family: cursive;">魏昌勇</span></div>
+   <div>日期：2022年3月28日</div>
+  </div>
+ </body>
+</html>
+
+```

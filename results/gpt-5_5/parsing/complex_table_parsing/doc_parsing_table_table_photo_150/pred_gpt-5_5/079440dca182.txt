@@ -1,0 +1,55 @@
+```html
+<table>
+  <tr>
+    <td>2012-13</td>
+  </tr>
+  <tr>
+    <td>308</td>
+  </tr>
+  <tr>
+    <td>170</td>
+  </tr>
+  <tr>
+    <td>449</td>
+  </tr>
+  <tr>
+    <td>146</td>
+  </tr>
+  <tr>
+    <td>251</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>No.</td>
+    <td>Migration Option</td>
+    <td>Comment</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Decommission workload</td>
+    <td>Although unlikely, this might be a valid option. Be sure to be very specific in your reasoning for suggesting this. One reason for this scenario is that the customer is already planning on developing or updating the application version.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Migrate current version of SQL Server OLTP workload to Microsoft Azure Virtual Machines</td>
+    <td>This actually means that the current database version for the workload is not compatible with more recent Windows Server / SQL Server versions and can be migrated together with the data to a new Server either physical or virtual. Data migration uses full offline due to the current version being used, but both may not mean old and keep in mind that compatible may mean not supported - so make sure this is clear and understood by the customer.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Upgrade the current version of SQL Server OLTP workload to latest SQL Server version deployed in Microsoft Azure Virtual Machines.</td>
+    <td>This option is similar to option 2, but the current version of the SQL Server database product compatibility requires an updated SQL Server or the latest compatibility with latest SQL Server product. Data migration is more of a challenge due to differences in version for the application used but still considered manageable.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Migrate data to SQL Server deployed in Microsoft Azure Virtual Machines</td>
+    <td>In this scenario, you found out that the current version of the database workload implementation is not compatible with recent Windows and/or SQL Server versions. Migrating the data might be a challenge.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Remediate OLTP database structure</td>
+    <td>You choose this scenario when up to this point all other scenario tests have failed. When the customer still needs the workload that is not compatible with recent versions to do remediation analysis as part of the delivery, but make sure you make your TDM aware because this is a possible follow-up opportunity.</td>
+  </tr>
+</table>
+```

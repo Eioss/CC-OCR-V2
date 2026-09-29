@@ -1,0 +1,73 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{framed}
+
+\begin{document}
+
+\begin{center}
+\textbf{SECTION II \quad THE COMPARATIVE STUDY (70 marks)}
+\end{center}
+
+Candidates must answer one question from either A – Theme or Issue or B – Literary Genre, or C – General Vision and Viewpoint.
+
+\medskip
+
+Candidates who answer a question in SECTION I – The Single Text, may not refer to the same text in answer to questions in this section.
+
+\medskip
+
+All texts used in this section must be prescribed for comparative study for this year’s examination. Candidates may refer to only one film in the course of their answers.
+
+\medskip
+
+Please note:
+\begin{itemize}
+    \item Questions in this section use the word text to refer to all the different kinds of texts available for study on this course.
+    \item When used, the word reader includes viewers of films and theatre audiences.
+    \item When used, the term technique is taken to include techniques employed by all writers and directors of films.
+    \item When used, the word author is taken to include all writers and directors of films.
+    \item When used, the word character is understood to refer to both real people and fictional characters in texts.
+\end{itemize}
+
+\medskip
+
+\noindent
+\colorbox{pink!20}{
+\begin{minipage}{0.95\textwidth}
+
+\textbf{A \quad THEME OR ISSUE}
+
+\medskip
+
+\textbf{1.} \quad “There are many reasons why the exploration of the same theme or issue can be more captivating in some texts than in others.”
+
+\medskip
+
+Compare the reasons why you found the exploration of the same theme or issue more captivating in some texts than in others. Support your answer with reference to \textbf{at least two texts} on your comparative course. \hfill (70)
+
+\medskip
+
+\begin{center}
+\textbf{OR}
+\end{center}
+
+\medskip
+
+\textbf{2.} \quad “Studying a theme or issue in a text can enable us to contemplate and evaluate aspects of the human condition.”
+
+\medskip
+
+\textbf{(a)} \quad In relation to \textbf{one text} on your comparative course, discuss the extent to which your chosen theme or issue is relevant to the evaluation of the human condition. Support your answer with reference to the text. \hfill (30)
+
+\medskip
+
+\textbf{(b)} \quad In relation to \textbf{two other texts} on your comparative course, compare the extent to which your chosen theme or issue is relevant to the human condition. \hfill (40)
+
+\end{minipage}
+}
+
+\end{document}
+```

@@ -1,0 +1,17 @@
+\[
+\begin{aligned}
+E\!\left[\int |N(T^{-1}x)|^{2}\,\lambda(dx)\right]
+&=E\!\left[\int |V(x)|^{2}\,\lambda(dx)\,\varphi\right]\\
+&\le E\!\left[\exp\!\left\{\int |V(x)|^{2}\,\lambda(dx)\,\varphi\right\}\right]-E[\varphi]<\infty,\\[4pt]
+&=\sum_{i\in N_u}\bigl(2v_2(r_i)+2v_1(r_i)\bigr)
+  +\sum_{i\in N_v}2v_1(r_i),\\[4pt]
+\sum_{t=1}^{n}\ell_t^{\top}w_t-\sum_{t=1}^{n}\ell_t^{\top}u_t
+&\le D_{\ell}(\mu,\nu)
++\sum_{t=1}^{n}\sum_{i=1}^{d}
+\frac{\ell_{t,i}^{2}}{2\log(1/w_{t,i})},\\[4pt]
+C^{h}(D)&:=\{f\in C(D)\mid \|f\|_{C^{h}(D)}<\infty\},\\[4pt]
+\|u+\mathbf 1_{x>0}+(d-1)v\|_{L^{2}}
++\|(1-x)\mathbf 1_{x\ge v}+(d-1)v\|_{L^{2}}
+&\lesssim \epsilon(t)^{1/2}.
+\end{aligned}
+\]

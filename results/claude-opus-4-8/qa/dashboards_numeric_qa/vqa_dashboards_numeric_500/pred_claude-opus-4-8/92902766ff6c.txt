@@ -1,0 +1,7 @@
+Based on the infographic, **VMware vSphere can have a maximum of 160 host processors in 3 editions**:
+
+1. **VMware Standard** - 160
+2. **VMware Enterprise** - 160
+3. **VMware Ent. Plus** - 160
+
+All three VMware editions support a maximum of 160 host processors.

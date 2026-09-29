@@ -1,0 +1,15 @@
+```json
+{
+    "SS": "87.5g(approx.3 pieces)",
+    "CE-P1": "796kJ",
+    "CE-PS": "697kJ",
+    "PRO-P1": "11.2g",
+    "PRO-PS": "9.8g",
+    "TF-P1": "6.8g",
+    "TF-PS": "6.0g",
+    "CAR-P1": "20.8g",
+    "CAR-PS": "18.2g",
+    "SO-P1": "410mg",
+    "SO-PS": "359mg"
+}
+```

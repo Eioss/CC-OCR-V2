@@ -1,0 +1,133 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 1.2em; padding: 10px;">
+        AULA: FERNANDO VALLEJO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HORA &nbsp;&nbsp;&nbsp;&nbsp; 7 A 10
+      </th>
+    </tr>
+    <tr>
+      <th style="padding: 8px;">No.</th>
+      <th style="padding: 8px;">NOMBRE COMPLETO</th>
+      <th style="padding: 8px;">DOCUMENTO</th>
+      <th style="padding: 8px; text-align: center;">PROYECTO<br>48</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 5px; text-align: center;">1</td>
+      <td style="padding: 5px;">ALVAREZ ROBAYO DANIELA ALEXANDRA</td>
+      <td style="padding: 5px; text-align: center;">94060302850</td>
+      <td style="padding: 5px; text-align: center;">INDA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">2</td>
+      <td style="padding: 5px;">APONTE CARRASCAL JOSE MIGUEL</td>
+      <td style="padding: 5px; text-align: center;">94021503384</td>
+      <td style="padding: 5px; text-align: center;">INDA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">3</td>
+      <td style="padding: 5px;">BRICEÑO PAEZ FABIAN DAVID</td>
+      <td style="padding: 5px; text-align: center;">93051223363</td>
+      <td style="padding: 5px; text-align: center;">INDA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">4</td>
+      <td style="padding: 5px;">CACERES FORERO JUAN FELIPE</td>
+      <td style="padding: 5px; text-align: center;">95050407587</td>
+      <td style="padding: 5px; text-align: center;">INDA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">5</td>
+      <td style="padding: 5px;">CAMPUZANO GARCIA JUAN ESTEBAN</td>
+      <td style="padding: 5px; text-align: center;">1020762291</td>
+      <td style="padding: 5px; text-align: center;">INDA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">6</td>
+      <td style="padding: 5px;">CARRILLO BATISTA AGUEDA ELENA</td>
+      <td style="padding: 5px; text-align: center;">1127583291</td>
+      <td style="padding: 5px; text-align: center;">INDONESIA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">7</td>
+      <td style="padding: 5px;">CORREA ARRAUTT DANILO ARTURO</td>
+      <td style="padding: 5px; text-align: center;">94011715162</td>
+      <td style="padding: 5px; text-align: center;">INDONESIA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">8</td>
+      <td style="padding: 5px;">DIAZ AGUIRRE ANGIE VANESSA</td>
+      <td style="padding: 5px; text-align: center;">94022304253</td>
+      <td style="padding: 5px; text-align: center;">INDONESIA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">9</td>
+      <td style="padding: 5px;">FAJARDO BRAVO MARIA DEL MAR</td>
+      <td style="padding: 5px; text-align: center;">93032304239</td>
+      <td style="padding: 5px; text-align: center;">INDONESIA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">10</td>
+      <td style="padding: 5px;">GARCIA QUINTERO DAVID FRANCISCO</td>
+      <td style="padding: 5px; text-align: center;">1072667305</td>
+      <td style="padding: 5px; text-align: center;">INDONESIA</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">11</td>
+      <td style="padding: 5px;">GERENA GIL JHONN JAIRO</td>
+      <td style="padding: 5px; text-align: center;">1030569526</td>
+      <td style="padding: 5px; text-align: center;">IRAK</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">12</td>
+      <td style="padding: 5px;">HERNANDEZ CARDENAS LEONARDO</td>
+      <td style="padding: 5px; text-align: center;">1030619699</td>
+      <td style="padding: 5px; text-align: center;">IRAK</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">13</td>
+      <td style="padding: 5px;">PEÑA MIRANDA MARTHA MILENA</td>
+      <td style="padding: 5px; text-align: center;">1016025488</td>
+      <td style="padding: 5px; text-align: center;">IRAK</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">14</td>
+      <td style="padding: 5px;">RAMIREZ PIZA KAROL ALEXANDRA</td>
+      <td style="padding: 5px; text-align: center;">94061327856</td>
+      <td style="padding: 5px; text-align: center;">IRAK</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">15</td>
+      <td style="padding: 5px;">RIAÑO PENAGOS VICTOR ALFONSO</td>
+      <td style="padding: 5px; text-align: center;">1032356904</td>
+      <td style="padding: 5px; text-align: center;">IRAK</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">16</td>
+      <td style="padding: 5px;">RONCHAQUIRA GAMBOA MARIA ALEJANDRA</td>
+      <td style="padding: 5px; text-align: center;">93120902812</td>
+      <td style="padding: 5px; text-align: center;">IRAN</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">17</td>
+      <td style="padding: 5px;">SALGADO PLAZAS CAMILO ANDRES</td>
+      <td style="padding: 5px; text-align: center;">93051303685</td>
+      <td style="padding: 5px; text-align: center;">IRAN</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">18</td>
+      <td style="padding: 5px;">VELASQUEZ VILLAMIL WENDY MAGALY</td>
+      <td style="padding: 5px; text-align: center;">94041701239</td>
+      <td style="padding: 5px; text-align: center;">IRAN</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px; text-align: center;">19</td>
+      <td style="padding: 5px;">YELA LOPEZ MARIA CAMILA</td>
+      <td style="padding: 5px; text-align: center;">94042819977</td>
+      <td style="padding: 5px; text-align: center;">IRAN</td>
+    </tr>
+  </tbody>
+</table>
+```

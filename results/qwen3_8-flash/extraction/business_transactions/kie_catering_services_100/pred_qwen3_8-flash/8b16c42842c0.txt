@@ -1,0 +1,7 @@
+```json
+{
+    "menu": "Cap Cay\nNasi Cap Cay Porsi Besar\nMinuman\nTeh Tawar\nLain-lain\nFu Yung Hai",
+    "sub_total": "138.000",
+    "total": "138.000"
+}
+```

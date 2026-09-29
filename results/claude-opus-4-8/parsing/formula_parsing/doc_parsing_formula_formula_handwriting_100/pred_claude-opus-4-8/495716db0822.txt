@@ -1,0 +1,21 @@
+$$[Z_1, Z_2]_{m\{a_1, a_2, a_3\}} = \sqrt{\frac{\gamma_1}{2\mu^2}}\, X_1 - \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_1,\quad [Z_1, Z_3]_{m\{a_1, a_2, a_3\}} =$$
+
+$$[Z_1, Z_4]_{m\{a_1, a_2, a_3\}} = \sqrt{\frac{\gamma_1}{2\mu^2}}\, X_3 + \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_3,\quad [Z_2, Z_3]_{m\{a_1, a_2, a_3\}} = \sqrt{\frac{\gamma_1}{2\mu^2}}\, X_2 + \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_2,$$
+
+$$[Z_2, Z_4]_{m\{a_1, a_2, a_3\}} = -\sqrt{\frac{\gamma_1}{2\mu^2}}\, X_2 + \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_2,\quad [Z_3, Z_4]_{m\{a_1, a_2, a_3\}} = \sqrt{\frac{\gamma_1}{2\mu^2}}\, X_3 - \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_3,$$
+
+$$[Z_1, X_1]_{m\{a_1, a_2, a_3\}} = -\sqrt{\frac{\gamma_1}{2\mu^2}}\, X_2 + \sqrt{\frac{\gamma_2}{2\mu^2}}\, X_1 + \sqrt{\frac{\gamma_2}{2\mu^2}}\, Y_1,\quad [Z_1, X_3]_{m\{a_1, a_2, a_3\}} = -\frac{Z_4}{\sqrt{2}\gamma_1},$$
+
+$$[Z_1, Y_1]_{m\{a_1, a_2, a_3\}} = \frac{Z_2}{\sqrt{2}\gamma_2},\quad [Z_1, X_2]_{m\{a_1, a_2, a_3\}} = -\frac{Z_3}{\sqrt{2}\gamma_2},\quad [Z_1, Y_3]_{m\{a_1, a_2, a_3\}} = -\frac{Z_4}{\sqrt{2}\gamma_1},$$
+
+$$[Z_2, X_1]_{m\{a_1, a_2, a_3\}} = \frac{Z_1}{\sqrt{2}\gamma_1},\quad [Z_2, X_2]_{m\{a_1, a_2, a_3\}} = \frac{Z_4}{\sqrt{2}\gamma_1},\quad [Z_2, X_3]_{m\{a_1, a_2, a_3\}} = -\frac{Z_3}{\sqrt{2}\gamma_2},$$
+
+$$[Z_2, Y_1]_{m\{a_1, a_2, a_3\}} = -\frac{Z_1}{\sqrt{2}\gamma_2},\quad [Z_2, Y_2]_{m\{a_1, a_2, a_3\}} = -\frac{Z_4}{\sqrt{2}\gamma_2},\quad [Z_2, Y_3]_{m\{a_1, a_2, a_3\}} = -\frac{Z_3}{\sqrt{2}\gamma_2},$$
+
+$$[Z_3, X_1]_{m\{a_1, a_2, a_3\}} = -\frac{Z_4}{\sqrt{2}\gamma_1},\quad [Z_3, X_2]_{m\{a_1, a_2, a_3\}} = \frac{Z_1}{\sqrt{2}\gamma_1},\quad [Z_3, X_3]_{m\{a_1, a_2, a_3\}} = \frac{Z_2}{\sqrt{2}\gamma_1},$$
+
+$$[Z_3, Y_1]_{m\{a_1, a_2, a_3\}} = -\frac{Z_4}{\sqrt{2}\gamma_2},\quad [Z_3, Y_2]_{m\{a_1, a_2, a_3\}} = \frac{Z_1}{\sqrt{2}\gamma_2},\quad [Z_3, Y_3]_{m\{a_1, a_2, a_3\}} = -\frac{Z_2}{\sqrt{2}\gamma_2},$$
+
+$$[Z_4, X_1]_{m\{a_1, a_2, a_3\}} = \frac{Z_3}{\sqrt{2}\gamma_1},\quad [Z_4, X_2]_{m\{a_1, a_2, a_3\}} = -\frac{Z_2}{\sqrt{2}\gamma_1},\quad [Z_4, X_3]_{m\{a_1, a_2, a_3\}} = \frac{Z_1}{\sqrt{2}\gamma_1},$$
+
+$$[Z_4, Y_1]_{m\{a_1, a_2, a_3\}} = \frac{Z_3}{\sqrt{2}\gamma_2},\quad [Z_4, Y_2]_{m\{a_1, a_2, a_3\}} = \frac{Z_2}{\sqrt{2}\gamma_2},\quad [Z_4, Y_3]_{m\{a_1, a_2, a_3\}} = \frac{Z_1}{\sqrt{2}\gamma_2}.$$

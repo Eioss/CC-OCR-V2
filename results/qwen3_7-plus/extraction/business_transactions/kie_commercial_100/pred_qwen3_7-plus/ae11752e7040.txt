@@ -1,0 +1,11 @@
+```json
+{
+    "vendor_name": "PINES BROADCASTING, INC.",
+    "vendor_address": "279 MIDWAY ROUTE MONTICELLO, AR 71655",
+    "customer_id": "334",
+    "customer_billing_name": "ROBERT AKIN",
+    "customer_billing_address": "MONTICELLO, AR 71655",
+    "amount_total_gross": "$756.00",
+    "amount_due": "$756.00"
+}
+```

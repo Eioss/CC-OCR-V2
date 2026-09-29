@@ -1,0 +1,18 @@
+Based on the provided document, **Thorax size** is listed as one of the "Clinical Measurements of Possible Usefulness in Study of Aging in Man".
+
+Its corresponding value under the column labeled **r*** (coefficients of correlation) is:
+
+> **-0.124**
+
+This means that, according to the selected references cited in the table, there is a very weak *negative* correlation between thorax size and aging (as measured by the test battery from A. Comfort). In other words, as people age, thorax size tends to decrease slightly — but the relationship is not strong.
+
+---
+
+### Additional Context:
+- The asterisk (*) indicates these are correlation coefficients reported in selected references.
+- The plus sign (+) indicates the data was adapted from:  
+  > A. Comfort, *Test-battery to Measure Aging-rate in Man*, Lancet II, 1411, 1969.
+
+So, **Thorax size = -0.124** (correlation coefficient with aging).
+
+It’s not a direct measurement like centimeters or liters — it’s a statistical measure showing how strongly this physical trait correlates with the aging process in the studied population.

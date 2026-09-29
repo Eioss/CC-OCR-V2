@@ -1,0 +1,7 @@
+Based on the deposit slip provided in the image:
+
+1.  Look at the column on the right side labeled **"CENTS"**.
+2.  Find the row for **"CHECK"**, which shows **39** in the cents column.
+3.  The **"TOTAL"** row at the bottom also confirms this amount, showing **39** in the cents column.
+
+Therefore, **39** cents are credited.

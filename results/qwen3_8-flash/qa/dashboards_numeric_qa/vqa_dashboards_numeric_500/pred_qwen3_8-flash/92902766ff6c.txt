@@ -1,0 +1,13 @@
+Looking at the table titled **"VMWARE VSPHERE VS. MICROSOFT HYPER-V"**, we need to find how many VMware editions have a **maximum host processors** value of **160**.
+
+In the row labeled **"Max host processors"**, we see:
+
+- **VMware STANDARD**: 160
+- **VMware ENTERPRISE**: 160
+- **VMware ENT. PLUS**: 160
+
+The Microsoft columns (Standard, Ent., DC) show different values (8, 4, 64), so they are not relevant to the question about *VMware*.
+
+Thus, there are **3** VMware editions where the maximum number of host processors is 160.
+
+✅ **Answer: 3**

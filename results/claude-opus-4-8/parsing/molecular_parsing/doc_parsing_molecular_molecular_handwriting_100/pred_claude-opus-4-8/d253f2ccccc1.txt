@@ -1,0 +1,19 @@
+I'll analyze the hand-drawn chemical structure.
+
+**Central core:** A pyridine ring with various substituents.
+
+**Substituents on pyridine:**
+- Two nitrile (C≡N) groups
+- An ethyl group (CH₂CH₃)
+- An S-linked side chain
+- An N-linked side chain to morpholine amide
+
+**Left side chain:** N(CH₃)-CH₂-C(=O)-N(morpholine)
+
+**Right side (S):** S-CH(C(=O)NH₂)-attached to phenyl
+
+Let me construct the SMILES:
+
+```
+CCc1c(C#N)c(SC(c2ccccc2)C(N)=O)nc(N(C)CC(=O)N2CCOCC2)c1C#N
+```

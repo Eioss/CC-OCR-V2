@@ -1,0 +1,9 @@
+Based on the provided hotel bill, let's locate the room charge for the date 11/28/60.
+
+1.  Find the column for the date **11/28/60**. This is the first data column after the "DATE" label.
+2.  Find the row labeled **ROOM**.
+3.  The value at the intersection of the "11/28/60" column and the "ROOM" row is **850**.
+
+In the context of hotel bills from this era, charges are typically listed in cents. Therefore, 850 represents $8.50.
+
+The room charge for 11/28 was **$8.50**.

@@ -1,0 +1,9 @@
+$$\|H(s)\|_{\mathcal{C}_1} = \max_{i=1,\ldots,N}\left(\sum_{j=1}^{m}\|H_{ij}(s)\|_{\mathcal{C}_1}\right),$$
+
+$$\mathcal{N}(x;m,\nu) = \frac{\mathcal{N}(x)}{N_{tot}} + O(x^{l-\frac{1}{N}}),$$
+
+$$P(k_{signal},\tau,T,t) = 2\mathrm{Re}\sum_{j}\exp(ik_{signal}\cdot r_j)\sum_{\alpha<\beta}^{(j)}\mu_{\alpha\beta}^{(j)}\rho_{\beta\alpha}^{(j)}(E_j;t)$$
+
+$$\|\partial_t^\beta\partial_x^\alpha\phi[\hat{v}]\langle D\rangle^{-\frac{|\alpha|-1}{2}}h\|_{L^2_xH^s_t} \leq \|\partial_t^\beta\partial_x^\alpha[\hat{v}]\rho\|_{L^\infty_{x,t}} \cdot \|h\|_{L^2_x+s_0+s_1+s_2}H^s_t, \quad \forall s\in[0,s'],$$
+
+$$\mathcal{E}(u) = \frac{1}{2}(D_t u + (D_t u)^T) = \frac{1}{2}(\partial_j u_k + \partial_k u_j), \quad 1\leq k,j\leq 2$$

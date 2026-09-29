@@ -1,0 +1,40 @@
+```latex
+\textbf{Prerana Model paper-1} \quad \textbf{MCQ questions} \quad \text{\textcircled{click}} the correct one
+
+\begin{enumerate}
+    \item Sum of "n" terms of the Arithmetic Progression 1+3+5+7+9+......... which one is correct \\
+    A) n(n+1) \qquad B) n^2 \qquad C) 25 \qquad D) 2n
+    
+    \item Solutions of the equation $a_1x + b_1y + c_1 = 0$ and $a_2x + b_2y + c_2 = 0$ are consistent then the correct form among the following is. \\
+    A) $\frac{a_1}{a_2} \neq \frac{b_1}{b_2}$ \qquad B) $\frac{a_1}{a_2} = \frac{b_1}{b_2}$ \qquad C) $\frac{a_1}{b_1} = \frac{a_2}{b_2} = \frac{c_2}{c_1}$ \qquad D) $\frac{a_1}{a_2} = \frac{b_1}{b_2} \neq \frac{c_1}{c_2}$
+    
+    \item In a quadratic equation the value of the discriminant is -33 then the equation has \\
+    A) Real \& distinct roots \qquad B) Real \& equal roots \\
+    C) not real roots \qquad D) rational and distinct roots.
+    
+    \item If tan A = 1 then the value A is \\
+    A) 90° \qquad B) 0° \qquad C) 60° \qquad D) 45°
+    
+    \item When a cone is cut by a plane horizontally, parallel to base of the cone then the part other than smaller cone obtained is called. \\
+    A) Frustum of cone \qquad B) cylinder \qquad C) major cone \qquad D) Hemisphere
+    
+    \item Formula used to find volume of right circular cylinder is \\
+    A) $\pi r h^2$ \qquad B) $\frac{2}{3}\pi r^2 h$ \qquad C) $\frac{1}{3}\pi r^2 h$ \qquad D) $\pi r^2 h$
+    
+    \item The coordinates of the midpoint of the line joining the points (3,7) and (5,5) is \\
+    A) (4,6) \qquad B) (6,4) \qquad C) (2,-2) \qquad D) (4,4)
+    
+    \item Roots of the quadratic equation $(2x + 1)(x + 2) = 0$ are \\
+    A) $\frac{1}{2}$ and 2 \qquad B) $\frac{-1}{2}$ and -2 \qquad C) $\frac{-1}{2}$ and 2 \qquad D) $\frac{1}{2}$ and -2
+    
+    \item $2x^2+3x-5=0$ Discriminant value of this quadratic equation? \\
+    A) 19 \qquad B) -49 \qquad C) - 31 \qquad D) 49
+    
+    \item AR, AD, AB, AP \& PC are the tangents of the circle of centre O . which relations is correct? \\
+    A) AP=AR \qquad B) AR = RD \qquad C) RA = PC \qquad D) RA = RB
+\end{enumerate}
+
+\vspace{1cm}
+
+\noindent SUDEESHA BC MYSURU \hfill \includegraphics[height=1em]{liveworksheets_logo.png} LIVEWORKSHEETS
+```

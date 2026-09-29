@@ -1,0 +1,68 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\noindent awinic \hfill AW350X5D\\
+上海艾为电子技术股份有限公司 \hfill AW350X5\\
+shanghai awinic technology co., ltd. \hfill Apr. 2023 V1.0
+
+\section*{Functional Description}
+
+The AW350X5D/AW350X5 is a P channel MOSFET power distribution switch with current limit function. In addition, the switch also features fast short-circuit response, under voltage lockout, over temperature protection and reverse current protection.
+
+\section*{CURRENT LIMIT THRESHOLD SETTING}
+
+The AW35005D/025D/035D/045D/055D/005/025/035/045/055 provides fixed current limit threshold. The current limit function can prevent the switch from over current condition.
+
+The minimum current limit is 400mA, beyond 2.5A is forbidden.
+
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+AW35005D/AW35005 & 0.5A fixed current limit \\
+\hline
+AW35025D/AW35025 & 1.1A fixed current limit \\
+\hline
+AW35035D/AW35035 & 1.5A fixed current limit \\
+\hline
+AW35045D/AW35045 & 2.1A fixed current limit \\
+\hline
+AW35055D/AW35055 & 2.5A fixed current limit \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{FAST SHORT CIRCUIT PROTECTION}
+
+The AW350X5D/AW350X5 provides short circuit protection function which can limit the output current to a safe level without damaging the switch.
+
+\section*{UNDER VOLTAGE LOCKOUT (UVLO)}
+
+The AW350X5D/AW350X5 has under voltage lockout function which can disable the switch until the input voltage reaches the UVLO threshold (typical 2.3V). The UVLO threshold has a 95mV hysteresis voltage which can prevent the unwanted on/off cycling when there is noise on the input voltage.
+
+\section*{OVER TEMPERATURE PROTECTION (OTP)}
+
+When the junction temperature exceeds 155$^\circ$C, the internal OTP circuit turn off the power switch. There is a temperature hysteresis 25$^\circ$C, in other words, the OTP circuit can turn on the switch only if the junction temperature is below 130$^\circ$C.
+
+\section*{QUICK OUTPUT DISCHARGE}
+
+The AW35005D/AW35025D/AW35035D/AW35045D/AW35055D include the Quick Output Discharge (QOD) feature, in order to discharge the application capacitor connected on OUT pin. When EN pin is set to low level, a discharge resistance with a typical value of 75$\Omega$ is connected between the output and ground, pull down the output and prevent it from floating when the device is disabled.
+
+\section*{REVERSE CURRENT PROTECTION (RCP)}
+
+The AW350X5D/AW350X5 includes the Reverse Current Protection(RCP) function, which can prevent the current to flowing through the P-FET or the body diode when VOUT greater than VIN. Whatever the switch is on or off, the AW350X5D/AW350X5 always has this function. When VOUT-VIN greater than VREV, the internal comparator quickly turns off the switch, in order to prevent large reverse current from VOUT to VIN. The switch will return to normal operation once the reverse voltage scenario disappeared.
+
+The IREV\_ACT parameter in the figure 6 can be calculated by the following formula:
+\[
+I_{\mathrm{REV\_ACT}} = \frac{V_{\mathrm{REV}}}{R_{\mathrm{dson}}}
+\]
+
+\noindent www.awinic.com \hfill 12 \hfill \textcopyright 2023 Shanghai Awinic Technology CO., Ltd. All Rights Reserved
+
+\end{document}
+```

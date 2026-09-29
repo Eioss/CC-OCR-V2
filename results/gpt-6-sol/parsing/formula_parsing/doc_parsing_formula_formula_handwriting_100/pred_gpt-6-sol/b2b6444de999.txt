@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+S_w(Z(a,h(a)))-S_w(\Phi_w)
+&=\left.\frac{a^2}{2}\frac{d^2}{da^2}S_w(Z_w(a,h(a)))\right|_{a=\theta a<0},
+&&\text{for all }a\in(-a,a),\\
+t&\to+\infty,\qquad \operatorname{Im}(\lambda)\to+\infty,\qquad
+\xi_0+\xi_1\to-i(\xi',-j),\\
+\xi_0\cdot\xi_1-\lambda&\to-\frac12\bigl(|\xi'|^2+j^2\bigr),\\
+n\,\mathbb E\!\left(\mathbf1_{\{X_i'=1\}}
+\mathbf1_{\{\sum_{1\le j\le p-1}X_j'\ge1\}}\right)
+&\le n\sum_{i\le p}\mathbb E\,
+\mathbf1_{B_r(q)\times S'}\,
+\mathbf1_{B_r(q)\times S'}\circ f^i,\\
+0&\to|\beta[!,F'\to F\to]\alpha[*F''\to0,\\
+\|V\|_{x,+}&=\sup_{x\in[0,x]}e^{a(x-x)}|V(x)|,\\
+\|V\|_{x,-}&=\sup_{x\in[-x,0]}e^{a(x+x)}|V(x)|,\\
+d\langle\hat Q\rangle&=\operatorname{Tr}\!\left[(d'_{\phi}AB)\hat H_{AB}\right]=0,\\
+\mu_w&=i\mu V_z,\\
+\|\varphi-\varphi^\varepsilon\|_{L^2(\mathbb T^2)}
+&<\frac{\varepsilon}{4M}.
+\end{aligned}
+\]

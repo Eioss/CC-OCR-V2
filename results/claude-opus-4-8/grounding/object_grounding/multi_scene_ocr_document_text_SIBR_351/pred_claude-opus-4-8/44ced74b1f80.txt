@@ -1,0 +1,21 @@
+```json
+[
+  {"bbox_2d": [144, 96, 1374, 165], "label": "COMPANY NAME"},
+  {"bbox_2d": [60, 213, 689, 264], "label": "COMPANY NAME"},
+  {"bbox_2d": [60, 277, 421, 343], "label": "ADD"},
+  {"bbox_2d": [60, 410, 1207, 472], "label": "CONTRACT NO."},
+  {"bbox_2d": [60, 533, 991, 588], "label": "BUYER NO."},
+  {"bbox_2d": [60, 642, 745, 706], "label": "DATE"},
+  {"bbox_2d": [60, 706, 1107, 769], "label": "TEL"},
+  {"bbox_2d": [60, 769, 825, 837], "label": "FAX"},
+  {"bbox_2d": [281, 879, 1115, 1043], "label": "TITLE"},
+  {"bbox_2d": [722, 1075, 1352, 1145], "label": "INVOICE NO"},
+  {"bbox_2d": [60, 1145, 530, 1207], "label": "BUYER"},
+  {"bbox_2d": [195, 1370, 540, 1430], "label": "Mark&Nos"},
+  {"bbox_2d": [443, 1340, 870, 1460], "label": "Descriptions Of Goods"},
+  {"bbox_2d": [880, 1373, 1010, 1426], "label": "Weight (KG)"},
+  {"bbox_2d": [1043, 1373, 1162, 1426], "label": "Unit Price (USD/KG)"},
+  {"bbox_2d": [1248, 1373, 1440, 1426], "label": "Amount (USD)"},
+  {"bbox_2d": [60, 1455, 1480, 1530], "label": "SAY"}
+]
+```

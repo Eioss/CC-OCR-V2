@@ -1,0 +1,15 @@
+Based on the hotel bill provided:
+
+- The **DATE** column shows `11/28/60` in the first data row.
+- In that same row, under the **ROOM** column, the handwritten value is **850**.
+
+This represents **$8.50**, as was common practice on older bills to omit the decimal point (e.g., “850” = $8.50).
+
+Additionally, you can see a handwritten note near the top of the bill:  
+> `8.50` — likely confirming the room rate for 11/28.
+
+Also, in the “BROUGHT FORWARD” row for 11/28/60, there’s an entry of `876`, which may include prior charges or adjustments, but the specific **room charge listed for 11/28/60** is clearly **850** (i.e., **$8.50**).
+
+---
+
+✅ **Answer: $8.50**

@@ -1,0 +1,25 @@
+```latex
+\documentclass[twocolumn]{article}
+\usepackage{multicol}
+\usepackage{lipsum}
+
+\title{Second multicol Demo}
+\author{Overleaf}
+\date{April 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{First Section}
+
+All human things are subject to decay. And when fate summons, Monarchs must obey.
+
+\begin{multicols}{3}
+    \lipsum[1]
+    
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris. Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+\end{multicols}
+
+\end{document}
+```

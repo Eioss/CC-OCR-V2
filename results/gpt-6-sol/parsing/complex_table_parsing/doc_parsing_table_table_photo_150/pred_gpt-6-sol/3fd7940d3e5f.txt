@@ -1,0 +1,28 @@
+<h3>安徽中工套筒首件详细检验测试记录表</h3>
+<table border="1">
+  <tr><td>产品批次</td><td>2001</td><td>产品编号</td><td></td></tr>
+  <tr><td>项目</td><td>要求</td><td colspan="2">AH20-01</td><td colspan="2">AH20-02</td></tr>
+  <tr><td>尺寸1</td><td>Φ259.6<sup>+0.1</sup><sub>0</sub></td><td>259.66</td><td></td><td>259.66</td><td></td></tr>
+  <tr><td>尺寸2</td><td>68.45±0.3</td><td>68.43</td><td>68.49</td><td>68.52</td><td>68.58</td></tr>
+  <tr><td>尺寸3</td><td>Φ297<sup>−0.1</sup><sub>−0.2</sub></td><td>296.74</td><td>296.80</td><td>296.82</td><td>296.96</td></tr>
+  <tr><td>尺寸4</td><td>Φ30±0.3</td><td>30.14</td><td>30.12</td><td>30.10</td><td>30.12</td></tr>
+  <tr><td>尺寸5</td><td>55.5±0.1</td><td>55.10</td><td></td><td>55.50</td><td></td></tr>
+  <tr><td>尺寸6</td><td>60±0.1</td><td>60.0</td><td></td><td>60.1</td><td></td></tr>
+  <tr><td>尺寸7</td><td>Φ285<sup>0</sup><sub>−0.2</sub></td><td>284.79</td><td>284.81</td><td>284.81</td><td>284.89</td></tr>
+  <tr><td>尺寸8</td><td>391.5±0.2</td><td>391.55</td><td>391.63</td><td>391.60</td><td>391.70</td></tr>
+  <tr><td>尺寸9</td><td>266.6±0.5</td><td>267.22</td><td></td><td>267.03</td><td></td></tr>
+  <tr><td>尺寸10</td><td>55±0.3</td><td>55.0</td><td>5.09</td><td>55.08</td><td>55.12</td></tr>
+  <tr><td>尺寸11</td><td>64.95±0.3</td><td>64.89</td><td>64.92</td><td>65.00</td><td>65.04</td></tr>
+  <tr><td>尺寸12</td><td>223.5±0.3</td><td>223.43</td><td>223.45</td><td>223.62</td><td>223.70</td></tr>
+  <tr><td>尺寸13</td><td>162±0.1</td><td>162.1</td><td></td><td>162.1</td><td></td></tr>
+  <tr><td>尺寸14</td><td>54±0.3</td><td>53.99</td><td></td><td>54.02</td><td></td></tr>
+  <tr><td>尺寸15</td><td>25±0.1</td><td>25.02</td><td></td><td>25.0</td><td></td></tr>
+  <tr><td>尺寸16</td><td>4.7±0.1</td><td>4.76</td><td></td><td>4.76</td><td></td></tr>
+  <tr><td>尺寸17</td><td>Φ285.5<sup>+0.32</sup><sub>0</sub></td><td>285.72</td><td></td><td>285.77</td><td></td></tr>
+  <tr><td>尺寸18</td><td>Φ287.8<sup>+0.13</sup><sub>0</sub></td><td>287.88</td><td></td><td>287.93</td><td></td></tr>
+  <tr><td>尺寸19</td><td>Φ290<sup>+0.21</sup><sub>0</sub></td><td>290</td><td></td><td>290.20</td><td></td></tr>
+  <tr><td>尺寸20</td><td>Φ282.4<sup>0</sup><sub>−0.2</sub></td><td>282.33</td><td>282.34</td><td>282.33</td><td>282.36</td></tr>
+  <tr><td>尺寸21</td><td>Φ278<sup>0</sup><sub>−0.2</sub></td><td>277.91</td><td>277.95</td><td>277.95</td><td>277.96</td></tr>
+  <tr><td colspan="6">操作人：［签名］　　　　　　　　　日期：2020.11.11</td></tr>
+  <tr><td colspan="6">备注：</td></tr>
+</table>

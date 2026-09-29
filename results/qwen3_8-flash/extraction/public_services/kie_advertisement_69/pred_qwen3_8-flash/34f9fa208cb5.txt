@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$425.00",
+    "advertiser": "Friends of Gabe McLeod (33871)",
+    "flight_from": "02/24/2020",
+    "flight_to": "03/29/2020"
+}
+```

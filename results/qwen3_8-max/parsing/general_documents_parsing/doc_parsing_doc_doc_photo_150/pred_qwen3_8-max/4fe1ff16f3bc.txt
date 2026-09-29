@@ -1,0 +1,72 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese character support
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{enumitem}
+\usepackage{indentfirst}
+\setlength{\parindent}{2em} % Standard Chinese paragraph indent
+
+\begin{document}
+
+\noindent 2.3 预备期的缩短或延展应按照公司《员工股权激励方案实施细则》的规定进行。
+
+\vspace{1em}
+
+\noindent \textbf{第三条 \quad 期权行权期}
+
+\begin{enumerate}[label=3.\arabic*, leftmargin=*, itemsep=0.5em]
+    \item 乙方进入行权期应满足下列条件:
+    \begin{enumerate}[label=3.1.\arabic*, leftmargin=*, itemsep=0.5em]
+        \item 预备期届满;
+        \item 在行权完毕之前, 乙方应保证每年度考核均能合格, 否则当期期权行权顺延 1 年。1 年后如仍未合格, 则公司股东会有权取消其当期行权资格。
+        \item 其他条件: \underline{\hspace{4cm}}。
+    \end{enumerate}
+    
+    \item 乙方行权期为\underline{\hspace{1cm}}个月。但经公司股东会决议通过, 可以提前结束或延展。
+    
+    \item 行权期内乙方提前行权或迟延行权, 以及股权期权的撤销应按照公司《员工股权激励方案实施细则》的规定进行。
+    
+    \item 乙方在行权之后, 依照公司章程享有其所持股权的相关权利。
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{第四条 \quad 期权行权规则}
+
+\begin{enumerate}[label=4.\arabic*, leftmargin=*, itemsep=0.5em]
+    \item 进入行权期后, 乙方按如下程序分批行权:
+    \begin{enumerate}[label=4.1.\arabic*, leftmargin=*, itemsep=0.5em]
+        \item 一旦进入行权期, 乙方可对其股权期权的 50\% (即占公司注册资本的 \underline{\hspace{1cm}} \%储备股权) 申请行权。
+        
+        \item 乙方第一期行权后, 如符合下列条件, 可对其股权期权的 25\% (即占公司注册资本的 \underline{\hspace{1cm}} \%储备股权) 申请行权。
+        \begin{enumerate}[label=4.1.2.\arabic*, leftmargin=*, itemsep=0.5em]
+            \item 自第一期行权后在公司继续工作 2 年以上。
+            \item 同期间未发生任何《员工股权激励方案实施细则》4.5 或 4.6 列明的情况。
+            \item 每个年度业绩考核均合格;
+            \item 其他条件: \underline{\hspace{3cm}}。
+        \end{enumerate}
+        
+        \item 乙方在第二期行权后, 如符合下列条件, 可对其股权期权的 25\% (即占公司注册资本的 \underline{\hspace{1cm}} \%储备股权) 申请行权。
+        \begin{enumerate}[label=4.1.3.\arabic*, leftmargin=*, itemsep=0.5em]
+            \item 在第二期行权后, 在公司继续工作 2 年以上;
+            \item 同期间未发生任何《员工股权激励方案实施细则》4.5 或 4.6 所列明的情况;
+            \item 每个年度业绩考核均合格;
+            \item 其他条件: \underline{\hspace{3cm}}。
+        \end{enumerate}
+        
+        \item 每一期的行权都应在各自的条件成就后 3 个月内行权完毕, 但是由于甲方不予配
+    \end{enumerate}
+\end{enumerate}
+
+\vfill
+\begin{center}
+    2
+\end{center}
+
+\end{document}
+```

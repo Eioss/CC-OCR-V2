@@ -1,0 +1,12 @@
+$$
+\begin{cases}
+\dfrac{\bar{G}_1^1 - \bar{G}_1^0}{\tau} + a\,d_{2,0}^{1-\alpha_1}\left(\tfrac{2}{3}\bar{G}_1^1 + \tfrac{1}{3}\bar{G}_1^0\right) + d_{2,0}^{1-\alpha_1} A\left(\tfrac{2}{3}\bar{G}_1^1 + \tfrac{1}{3}\bar{G}_1^0\right) = a\,d_{2,0}^{1-\alpha_2}\left(\tfrac{2}{3}\bar{G}_2^1 + \tfrac{1}{3}\bar{G}_2^0\right) \quad \text{in } \Omega, \\[3mm]
+\dfrac{\bar{G}_2^1 - \bar{G}_2^0}{\tau} + a\,d_{2,0}^{1-\alpha_2}\left(\tfrac{2}{3}\bar{G}_2^1 + \tfrac{1}{3}\bar{G}_2^0\right) + d_{2,0}^{1-\alpha_2} A\left(\tfrac{2}{3}\bar{G}_2^1 + \tfrac{1}{3}\bar{G}_2^0\right) = a\,d_{2,0}^{1-\alpha_1}\left(\tfrac{2}{3}\bar{G}_1^1 + \tfrac{1}{3}\bar{G}_1^0\right) \quad \text{in } \Omega, \\[3mm]
+\dfrac{1}{\tau}\left(\tfrac{3}{2}\bar{G}_1^n - 2\bar{G}_1^{n-1} + \tfrac{1}{2}\bar{G}_1^{n-2}\right) + a\sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_1}\bar{G}_1^{n-i} + a\tfrac{1}{2}d_{2,n-1}^{1-\alpha_1}\bar{G}_1^0 \\[2mm]
+\quad + \sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_1} A\bar{G}_1^{n-i} + \tfrac{1}{2}d_{2,n-1}^{1-\alpha_1} A\bar{G}_1^0 = a\sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_2}\bar{G}_2^{n-i} + \tfrac{1}{2}a\,d_{2,n-1}^{1-\alpha_2}\bar{G}_2^0 \quad \text{in } \Omega,\ n \geq 2, \\[3mm]
+\dfrac{1}{\tau}\left(\tfrac{3}{2}\bar{G}_2^n - 2\bar{G}_2^{n-1} + \tfrac{1}{2}\bar{G}_2^{n-2}\right) + a\sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_2}\bar{G}_2^{n-i} + a\tfrac{1}{2}d_{2,n-1}^{1-\alpha_2}\bar{G}_2^0 \\[2mm]
+\quad + \sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_2} A\bar{G}_2^{n-i} + \tfrac{1}{2}d_{2,n-1}^{1-\alpha_2} A\bar{G}_2^0 = a\sum_{i=0}^{n-1} d_{2,i}^{1-\alpha_1}\bar{G}_1^{n-i} + \tfrac{1}{2}a\,d_{2,n-1}^{1-\alpha_1}\bar{G}_1^0 \quad \text{in } \Omega,\ n \geq 2, \\[3mm]
+\bar{G}_1^0 = G_1(0), \quad \bar{G}_2^0 = G_2(0) \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \text{in } \Omega, \\[2mm]
+\bar{G}_1^n = \bar{G}_2^n = 0 \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \text{on } \partial\Omega,\ n \geq 0.
+\end{cases}
+$$

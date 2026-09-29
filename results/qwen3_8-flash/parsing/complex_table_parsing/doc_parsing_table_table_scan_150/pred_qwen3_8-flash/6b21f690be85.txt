@@ -1,0 +1,44 @@
+```html
+<table border="1">
+ <tr>
+  <th></th>
+  <th>Gold Labels</th>
+  <th>Gold</th>
+ </tr>
+ <tr>
+  <td>0</td>
+  <td>abstract | rating summary</td>
+  <td>[this work adapts cycle GAN to the problem of decipherment with some success.]←ABSTRACT [it's still an early result, but all the reviewers have found it to be interesting and worthwhile for publication.]←RATING SUMMARY</td>
+ </tr>
+ <tr>
+  <th></th>
+  <th>Control Sequence</th>
+  <th>Generated Passage</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>abstract | rating summary</td>
+  <td>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]←ABSTRACT<br/>[The reviewers were unanimous in their vote to accept.]←RATING SUMMARY</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>abstract | abstract | rating summary</td>
+  <td>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]←ABSTRACT<br/>[The proposed method is based on replacing the log loss of the GAN with a quadratic loss and regularizing the Jacobian of the discriminator.]←ABSTRACT<br/>[The reviewers were unanimous in their vote to accept.]←RATING SUMMARY</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>strength | decision</td>
+  <td>[The reviewers agree that the paper is well-written, the problem is interesting, and the proposed method is novel.]←STRENGTH [The paper should be accepted.]←DECISION</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>misc | abstract | strength | decision</td>
+  <td>[Thanks for your submission to ICLR.]←MISC<br/>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]←ABSTRACT<br/>[This is an interesting and fairly original problem, and the proposed method is shown to be very effective.]←STRENGTH<br/>[All reviewers agree that the paper is well written, and I'm happy to recommend acceptance.]←DECISION</td>
+ </tr>
+ <tr>
+  <td>5</td>
+  <td>weakness | rebuttal process</td>
+  <td>[ The reviewers raised a number of concerns including the correctness of the proof, the lack of a simple baseline, and the presentation of the paper.]←WEAKNESS [The authors' rebuttal addressed some of these concerns, but not to the degree that the reviewers felt it should be.]←REBUTTAL PROCESS</td>
+ </tr>
+</table>
+```

@@ -1,0 +1,28 @@
+```latex
+122 \hfill TIME-RECKONING.
+
+the clocks and watches in use valueless. But the remedy is simple, as local time may be retained and indicated side by side with cosmopolitan time by altering the dial plates or substituting new ones.
+
+The establishment of twenty-four fixed meridians, as proposed, at one hour's distance from each other, as standards for local time, would secure complete uniformity in the indication of the minutes in all the clocks of the world; the hours of local time only differing. Appendix No. 3 illustrates this feature; it shows simultaneous time at each of the twenty-four standard meridians; local time varying one hour in each case; cosmopolitan time remaining constant.
+
+In this communication I have endeavoured to submit the inconveniences and difficulties inseparable from our present mode of reckoning dates, and from our system of keeping and noting smaller divisions of time. I have referred to the various usages and customs which prevail, and I have drawn special attention to the fact that the application of steam to locomotion by land and sea, and of electricity to the telegraph, literally without limit, has rendered the present practice of reckoning time ill suited to modern life.
+
+It cannot be supposed that these agents of progress have completed their mission. We may rather assume that these extraordinary powers have but commenced their wonderful career, and that they will achieve further triumphs in civilization.
+
+It is in America these agents have been introduced to the greatest relative extent, as the subjoined estimate of the length of railways constructed will show:
+
+\begin{center}
+\begin{tabular}{lrr}
+ & POPULATION. & MILES OF RAILWAY. \\
+Asia\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d & 824,548,500 & 7,643 \\
+Europe\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d...... & 309,178,300 & 88,748 \\
+Africa\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d...... & 199,921,600 & 1,451 \\
+N. and S. America\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d...... & 85,519,800 & 83,655 \\
+Australasia\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d...... & 4,748,600 & 1,752 \\
+\hline
+Totals\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\dots\d...... & 1,423,917,800 & 183,248 \\
+\end{tabular}
+\end{center}
+
+It has been suggested, that the difficulties already met in portions of America threaten to become increased as the railway system is extended. It may therefore be assumed, that any practicable scheme to effect a remedy would be favourably received. The importance of the subject is not confined to America, for the other quarters of the globe are now or will be similarly interested. Australia and Africa will before long be pierced, perhaps girdled, by railways. Asia, with more than half the population of the world, must in due time follow in the general progress. In North and South America, there is room 
+```

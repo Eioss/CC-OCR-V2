@@ -1,0 +1,22 @@
+[
+  {"bbox_2d":[355,34,493,55],"label":"Title"},
+  {"bbox_2d":[701,73,773,88],"label":"Page Number"},
+  {"bbox_2d":[141,90,331,153],"label":"Order No."},
+  {"bbox_2d":[142,172,237,185],"label":"Date"},
+  {"bbox_2d":[379,219,454,235],"label":"Shipped By"},
+  {"bbox_2d":[21,349,325,375],"label":"Delivery to"},
+  {"bbox_2d":[379,349,483,364],"label":"Terms of Payment"},
+  {"bbox_2d":[62,550,104,565],"label":"Shipping Mark"},
+  {"bbox_2d":[141,550,180,565],"label":"Goods Descriptions"},
+  {"bbox_2d":[416,550,452,565],"label":"Quantity (PC)"},
+  {"bbox_2d":[542,550,594,565],"label":"Unit Price"},
+  {"bbox_2d":[691,550,780,565],"label":"Amount"},
+  {"bbox_2d":[22,775,332,790],"label":"Company Name"},
+  {"bbox_2d":[138,789,516,815],"label":"Address"},
+  {"bbox_2d":[141,834,188,846],"label":"Post Code"},
+  {"bbox_2d":[139,847,251,860],"label":"Tel"},
+  {"bbox_2d":[139,861,241,873],"label":"Fax"},
+  {"bbox_2d":[487,834,590,846],"label":"SWIFT"},
+  {"bbox_2d":[487,847,581,860],"label":"Account NO."},
+  {"bbox_2d":[487,861,755,874],"label":"Account Name"}
+]

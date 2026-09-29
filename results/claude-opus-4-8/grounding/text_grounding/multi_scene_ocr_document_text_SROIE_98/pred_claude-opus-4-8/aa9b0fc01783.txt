@@ -1,0 +1,5 @@
+The text '56.00' appears in two locations on the receipt:
+
+For "Total Incl GST": (681, 1182, 814, 1228)
+
+For "Pay Cash": (681, 1276, 814, 1322)

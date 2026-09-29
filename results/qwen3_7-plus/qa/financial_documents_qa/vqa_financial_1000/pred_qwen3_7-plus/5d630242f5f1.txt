@@ -1,0 +1,13 @@
+Based on the provided "WATER ANALYSIS" document:
+
+Under the **ANALYSIS** section, there is a line item:
+
+> **Campaign Average Dissolved Solids** ... **90.0**
+
+This value is listed under the column **Parts Per Million**.
+
+---
+
+✅ Therefore, the **campaign average dissolved solids** is **90.0 parts per million**.
+
+*(Note: The total dissolved solids at 105°C is listed as 100.0 ppm, which includes organic and volatile matter by difference — but the specific “Campaign Average Dissolved Solids” is explicitly stated as 90.0 ppm.)*

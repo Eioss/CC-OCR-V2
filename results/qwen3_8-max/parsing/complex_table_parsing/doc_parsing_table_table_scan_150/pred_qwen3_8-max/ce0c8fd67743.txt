@@ -1,0 +1,296 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="5" style="text-align:center; font-size: 20px;">6-17 2020年各地区林业分项产值</th>
+   </tr>
+   <tr>
+    <td colspan="3" style="text-align:center;">(按可比价格计算)</td>
+    <td colspan="2" style="text-align:right;">单位:亿元</td>
+   </tr>
+   <tr>
+    <th rowspan="2">地 区</th>
+    <th rowspan="2">林业产值</th>
+    <th colspan="3"></th>
+   </tr>
+   <tr>
+    <th>林木的培育和种植</th>
+    <th>竹木采运</th>
+    <th>林产品</th>
+   </tr>
+   <tr>
+    <td style="font-weight:bold;">全 国</td>
+    <td style="font-weight:bold;">6021.9</td>
+    <td style="font-weight:bold;">2366.6</td>
+    <td style="font-weight:bold;">1513.4</td>
+    <td style="font-weight:bold;">2141.9</td>
+   </tr>
+   <tr>
+    <td>北 京</td>
+    <td>97.7</td>
+    <td>95.1</td>
+    <td>2.6</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>天 津</td>
+    <td>16.4</td>
+    <td>14.3</td>
+    <td>2.1</td>
+    <td>0.0</td>
+   </tr>
+   <tr>
+    <td>河 北</td>
+    <td>244.5</td>
+    <td>187.2</td>
+    <td>7.2</td>
+    <td>50.1</td>
+   </tr>
+   <tr>
+    <td>山 西</td>
+    <td>92.6</td>
+    <td>91.6</td>
+    <td>0.8</td>
+    <td>0.2</td>
+   </tr>
+   <tr>
+    <td>内 蒙 古</td>
+    <td>94.6</td>
+    <td>87.0</td>
+    <td>3.5</td>
+    <td>4.1</td>
+   </tr>
+   <tr>
+    <td>辽 宁</td>
+    <td>123.8</td>
+    <td>47.0</td>
+    <td>76.0</td>
+    <td>0.8</td>
+   </tr>
+   <tr>
+    <td>吉 林</td>
+    <td>76.5</td>
+    <td>39.6</td>
+    <td>16.0</td>
+    <td>21.0</td>
+   </tr>
+   <tr>
+    <td>黑 龙 江</td>
+    <td>203.1</td>
+    <td>90.6</td>
+    <td>25.1</td>
+    <td>87.3</td>
+   </tr>
+   <tr>
+    <td>上 海</td>
+    <td>14.9</td>
+    <td>14.7</td>
+    <td>0.1</td>
+    <td>0.1</td>
+   </tr>
+   <tr>
+    <td>江 苏</td>
+    <td>168.9</td>
+    <td>122.0</td>
+    <td>32.4</td>
+    <td>14.5</td>
+   </tr>
+   <tr>
+    <td>浙 江</td>
+    <td>185.7</td>
+    <td>6.0</td>
+    <td>41.2</td>
+    <td>138.4</td>
+   </tr>
+   <tr>
+    <td>安 徽</td>
+    <td>378.4</td>
+    <td>76.7</td>
+    <td>122.1</td>
+    <td>179.6</td>
+   </tr>
+   <tr>
+    <td>福 建</td>
+    <td>430.9</td>
+    <td>40.9</td>
+    <td>173.5</td>
+    <td>216.5</td>
+   </tr>
+   <tr>
+    <td>江 西</td>
+    <td>361.8</td>
+    <td>88.9</td>
+    <td>105.0</td>
+    <td>167.9</td>
+   </tr>
+   <tr>
+    <td>山 东</td>
+    <td>210.1</td>
+    <td>77.5</td>
+    <td>50.4</td>
+    <td>82.2</td>
+   </tr>
+   <tr>
+    <td>河 南</td>
+    <td>154.5</td>
+    <td>51.4</td>
+    <td>16.0</td>
+    <td>87.2</td>
+   </tr>
+   <tr>
+    <td>湖 北</td>
+    <td>250.9</td>
+    <td>132.7</td>
+    <td>71.6</td>
+    <td>46.6</td>
+   </tr>
+   <tr>
+    <td>湖 南</td>
+    <td>466.2</td>
+    <td>189.0</td>
+    <td>79.8</td>
+    <td>197.4</td>
+   </tr>
+   <tr>
+    <td>广 东</td>
+    <td>413.5</td>
+    <td>32.7</td>
+    <td>134.2</td>
+    <td>246.6</td>
+   </tr>
+   <tr>
+    <td>广 西</td>
+    <td>442.2</td>
+    <td>40.5</td>
+    <td>281.4</td>
+    <td>120.3</td>
+   </tr>
+   <tr>
+    <td>海 南</td>
+    <td>119.8</td>
+    <td>41.5</td>
+    <td>29.0</td>
+    <td>49.3</td>
+   </tr>
+   <tr>
+    <td>重 庆</td>
+    <td>124.3</td>
+    <td>101.7</td>
+    <td>7.6</td>
+    <td>15.1</td>
+   </tr>
+   <tr>
+    <td>四 川</td>
+    <td>382.9</td>
+    <td>177.6</td>
+    <td>115.1</td>
+    <td>90.1</td>
+   </tr>
+   <tr>
+    <td>贵 州</td>
+    <td>298.1</td>
+    <td>232.8</td>
+    <td>22.1</td>
+    <td>43.2</td>
+   </tr>
+   <tr>
+    <td>云 南</td>
+    <td>420.8</td>
+    <td>76.7</td>
+    <td>88.8</td>
+    <td>255.3</td>
+   </tr>
+   <tr>
+    <td>西 藏</td>
+    <td>3.6</td>
+    <td>2.6</td>
+    <td>0.9</td>
+    <td>0.1</td>
+   </tr>
+   <tr>
+    <td>陕 西</td>
+    <td>120.8</td>
+    <td>97.1</td>
+    <td>4.0</td>
+    <td>19.6</td>
+   </tr>
+   <tr>
+    <td>甘 肃</td>
+    <td>31.7</td>
+    <td>24.2</td>
+    <td>0.4</td>
+    <td>7.1</td>
+   </tr>
+   <tr>
+    <td>青 海</td>
+    <td>11.9</td>
+    <td>11.2</td>
+    <td>0.1</td>
+    <td>0.5</td>
+   </tr>
+   <tr>
+    <td>宁 夏</td>
+    <td>9.8</td>
+    <td>8.5</td>
+    <td>0.6</td>
+    <td>0.7</td>
+   </tr>
+   <tr>
+    <td>新 疆</td>
+    <td>71.0</td>
+    <td>67.2</td>
+    <td>3.8</td>
+    <td></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

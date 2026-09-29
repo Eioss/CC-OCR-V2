@@ -1,0 +1,51 @@
+Based on the image provided, here is the transcription of the text and table into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, positioning}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{Candidate Statement of Results}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{4cm}}ll@{}}
+\textbf{Season:} & Summer Season 2019 & \textbf{Series:} & (All) \\
+\textbf{Name:} & Anisha \rule{4cm}{0.4pt} & \textbf{Year:} & 11 \\
+\textbf{Can...:} & \rule{8cm}{0.4pt} & & \\
+\textbf{UCI:} & \rule{8cm}{0.4pt} & & \\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent \textbf{Exam Results}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{lllllc}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{\begin{tabular}[c]{@{}l@{}}Element\\ Code\end{tabular}} & \textbf{Title} & \textbf{Grd1} & \textbf{Grd2} \\
+\midrule
+AQA & GCSE/9DA & 8464H & Combined Sci. Trilogy Tier H & 99 & \\
+EDEXL/GC & GCSE/9FC & 1GB0 & Geography B & 9 & \\
+AQA & GCSE/9FC & 8062BA & Religious Studies A Option BA & 9 & \\
+AQA & GCSE/9FC & 8668H & German Tier H & 9 & \\
+AQA & GCSE/9FC & 8698H & Spanish Tier H & 9 & \\
+AQA & GCSE/9FC & 8700 & English Language & 9 & \\
+AQA & GCSE/9FC & 8702 & \tikz[baseline=(char.base)]{
+            \node[shape=ellipse, draw, inner sep=2pt] (char) {English Literature};} & 9 & \\
+OCR & GCSE/9FC & J560H & Mathematics (Higher Tier) & 7 & \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

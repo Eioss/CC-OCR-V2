@@ -1,0 +1,18 @@
+ \begin{align*}
+& \Big( \sum_{j=1}^{5} w(a_j) \Delta \tau_j \delta_t^{a_j} p_h^n, v_1 \Big)_{D^k} + \varepsilon_1 (Q_h^n, v_1)_{D^k} + \varepsilon_2 (f(|u_{1h}^n|^2, |u_{2h}^n|^2) q_h^n, v_1)_{D^k} = 0, \\
+& (Q_h^n, \beta_1)_{D^k} = (\Delta_{(\beta-2)/2} r_h^n, \beta_1)_{D^k}, \\
+& \langle r_h^n, \phi \rangle_{D^k} = -(s_h^n, \phi_x)_{D^k} + ((\hat{s}_h^n \phi^-)_{k+\frac{1}{2}} - (\hat{s}_h^n \phi^+)_{k-\frac{1}{2}}), \\
+& (S_h^n, \varphi)_{D^k} = -(q_h^n, \varphi_x)_{D^k} + ((\hat{q}_h^n \varphi^-)_{k+\frac{1}{2}} - (\hat{r}_h^n \varphi^+)_{k-\frac{1}{2}}), \\
+& \Big( \sum_{j=1}^{5} w(a_j) \Delta \tau_j \delta_t^{a_j} q_h^n, \chi \Big)_{D^k} - \varepsilon_1 (H_h^n, \chi)_{D^k} - \varepsilon_2 (f|u_{1h}^n|^2, |u_{2h}^n|^2) p_h^n, \chi)_{D^k} = 0, \\
+& (H_h^n, \beta_2)_{D^k} = (\Delta_{(\beta-2)/2} w_h^n, \beta_2)_{D^k}, \\
+& (w_h^n, \psi_x)_{D^k} = -(z_h^n, \psi_x)_{D^k} + ((\hat{z}_h^n \psi^-)_{k+\frac{1}{2}} - (\hat{z}_h^n \psi^+)_{k-\frac{1}{2}}), \\
+& (z_h^n, S)_{D^k} = -(p_h^n, S_x)_{D^k} + ((\hat{p}_h^n S^-)_{k+\frac{1}{2}} - (\hat{p}_h^n S^+)_{k-\frac{1}{2}}), \\
+& \Big( \sum_{j=1}^{5} w(a_j) \Delta \tau_j \delta_t^{a_j} v_h^n, \gamma \Big)_{D^k} + \varepsilon_3 (L_h^n, \gamma)_{D^k} + \varepsilon_4 (g|u_{1h}^n|^2, |u_{2h}^n|^2) v_h^n, \gamma)_{D^k} = 0, \\
+& (L_h^n, \beta_3)_{D^k} = (\Delta_{(\beta-2)/2} p_h^n, \beta_3)_{D^k}, \\
+& (p_h^n, \delta)_{D^k} = -(\bar{w}_h^n, \delta_x)_{D^k} + ((\hat{\bar{w}}_h^n \delta^-)_{k+\frac{1}{2}} - (\hat{\bar{w}}_h^n \delta^+)_{k-\frac{1}{2}}), \\
+& (\bar{w}_h^n, S)_{D^k} = -(v_h^n, S_x)_{D^k} + ((\hat{v}_h^n S^-)_{k+\frac{1}{2}} - (\hat{\bar{w}}_h^n \delta^+)_{k-\frac{1}{2}}), \\
+& \Big( \sum_{j=1}^{5} w(a_j) \Delta \tau_j \delta_t^{a_j} v_h^n, o \Big)_{D^k} - \varepsilon_3 (E_h^n, o)_{D^k} - \varepsilon_4 (g(|u_{1h}^n|^2, |u_{2h}^n|^2) v_h^n, o)_{D^k} = 0, \\
+& (E_h^n, \beta_4)_{D^k} = (\Delta_{(\beta-2)/2} \xi_h^n, \beta_4)_{D^k}, \\
+& (\xi_h^n, w)_{D^k} = -(e_h^n, w_x)_{D^k} + ((\hat{e}_h^n w^-)_{k+\frac{1}{2}} - (\hat{e}_h^n w^+)_{k-\frac{1}{2}}), \\
+& (Q_h^n, k)_{D^k} = -(v_h^n, k_x)_{D^k} + ((\hat{u}_h^n k^-)_{k+\frac{1}{2}} - (\hat{u}_h^n k^+)_{k-\frac{1}{2}}).
+\end{align*}

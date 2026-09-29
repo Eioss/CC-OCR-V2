@@ -1,0 +1,21 @@
+```json
+{
+    "SS": "12 fl oz (360mL)",
+    "CE-P1": "15",
+    "CE-PS": "0",
+    "TF-PP": "0g",
+    "TF-D": "0%",
+    "TF-P1": "0g",
+    "TF-PS": "0%",
+    "SO-P1": "160mg",
+    "SO-PP": "430mg",
+    "SO-D": "19%",
+    "SO-PS": "7%",
+    "CAR-PP": "2g",
+    "CAR-D": "1%",
+    "CAR-P1": "less than 1g",
+    "CAR-PS": "0%",
+    "PRO-P1": "0g",
+    "PRO-PS": "0g"
+}
+```

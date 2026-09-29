@@ -1,0 +1,80 @@
+```html
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>污染因子</th>
+      <th>总氮</th>
+      <th>化学需氧量</th>
+      <th>氨氮</th>
+      <th>砷</th>
+      <th>铅</th>
+    </tr>
+    <tr style="text-align: right;">
+      <th>名次</th>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: right;">
+      <th>综合评价值</th>
+      <td>3.5318</td>
+      <td>2.5277</td>
+      <td>1.8099</td>
+      <td>1.3964</td>
+      <td>1.3423</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>污染因子</th>
+      <td>汞</td>
+      <td>铜</td>
+      <td>锌</td>
+      <td>铬</td>
+      <td>颗粒物</td>
+    </tr>
+    <tr>
+      <th>名次</th>
+      <td>6</td>
+      <td>7</td>
+      <td>8</td>
+      <td>9</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>综合评价值</th>
+      <td>0.9572</td>
+      <td>0.9283</td>
+      <td>0.3172</td>
+      <td>0.0658</td>
+      <td>-0.2851</td>
+    </tr>
+    <tr>
+      <th>污染因子</th>
+      <td>镉</td>
+      <td>镍</td>
+      <td>NO₂</td>
+      <td>SO₂</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>名次</th>
+      <td>11</td>
+      <td>12</td>
+      <td>13</td>
+      <td>14</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>综合评价值</th>
+      <td>-0.6167</td>
+      <td>-0.6651</td>
+      <td>-2.8157</td>
+      <td>-8.4941</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+```

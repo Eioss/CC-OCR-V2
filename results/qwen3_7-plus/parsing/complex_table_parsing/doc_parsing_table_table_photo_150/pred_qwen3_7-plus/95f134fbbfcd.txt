@@ -1,0 +1,251 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 12px;
+            font-family: sans-serif;
+        }
+        th, td {
+            border: 1px solid #999;
+            padding: 6px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        th {
+            background-color: #a35b4f; /* Approximate color from image */
+            color: white;
+            font-weight: bold;
+        }
+        .text-left {
+            text-align: left;
+        }
+        .bg-light-gray {
+            background-color: #f2f2f2;
+        }
+        .img-placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            min-height: 150px;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">类别</th>
+            <th rowspan="2">产品编码</th>
+            <th rowspan="2">产品名称</th>
+            <th rowspan="2">欧派型号</th>
+            <th rowspan="2">产品图片</th>
+            <th colspan="3">尺寸规格(mm)</th>
+            <th rowspan="2">材质说明</th>
+            <th colspan="2">价格规划</th>
+        </tr>
+        <tr>
+            <th>长</th>
+            <th>宽</th>
+            <th>高</th>
+            <th>建议零售价</th>
+            <th>结算价</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Row 1 -->
+        <tr>
+            <td rowspan="17" class="bg-light-gray">沙发类</td>
+            <td>G21127213</td>
+            <td>摩登新贵沙发+三<br>左贵右双单沙发组<br>(灰蓝色)</td>
+            <td>OS-0121055<br>-3L9R2W-1</td>
+            <td rowspan="8" class="img-placeholder">[图片]</td>
+            <td>4160</td>
+            <td>1760</td>
+            <td>950</td>
+            <td rowspan="8" class="text-left">灰蓝色<br>人体接触面进口头层黄<br>牛皮轻压甩纹风格+非<br>接触面仿皮+高密度回<br>弹海绵+靠包填充物为<br>优质公仔棉+俄罗斯进<br>口松木框架+15cm高镀<br>钛枪黑不锈钢脚<br><br>三人位单扶：1个皮抱枕<br>贵妃位：1个布抱枕<br>单人位单扶：1个布抱枕<br>脚踏：无抱枕<br>单人位无扶：无抱枕<br>单人位双扶：1个布抱枕<br>双人位/三人位：1个皮抱枕<br>四人位：1个皮抱枕+1个布抱枕</td>
+            <td>¥23,400</td>
+            <td>¥7,800</td>
+        </tr>
+        <!-- Row 2 -->
+        <tr>
+            <td>G21136215</td>
+            <td>摩登新贵沙发+<br>三右单左沙发组<br>(灰蓝色)</td>
+            <td>OS-0121055<br>-3R1L-1</td>
+            <td>2580</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥14,040</td>
+            <td>¥4,680</td>
+        </tr>
+        <!-- Row 3 -->
+        <tr>
+            <td>G21136216</td>
+            <td>摩登新贵沙发+三<br>右单左脚踏沙发组<br>(灰蓝色)</td>
+            <td>OS-0121055<br>-3R1L1T-1</td>
+            <td>2580</td>
+            <td>1800</td>
+            <td>950</td>
+            <td>¥16,480</td>
+            <td>¥5,493</td>
+        </tr>
+        <!-- Row 4 -->
+        <tr>
+            <td>G21127214</td>
+            <td>摩登新贵沙发+单人<br>位双扶(灰蓝色)</td>
+            <td>OS-0121055<br>-1B-1</td>
+            <td>880</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥5,356</td>
+            <td>¥1,785</td>
+        </tr>
+        <!-- Row 5 -->
+        <tr>
+            <td>G21127265</td>
+            <td>摩登新贵沙发+双人<br>位双扶(灰蓝色)</td>
+            <td>OS-0121055<br>-2B-1</td>
+            <td>1800</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥8,800</td>
+            <td>¥2,933</td>
+        </tr>
+        <!-- Row 6 -->
+        <tr>
+            <td>G21127215</td>
+            <td>摩登新贵沙发+三人<br>位双扶(灰蓝色)</td>
+            <td>OS-0121055<br>-3B-1</td>
+            <td>2180</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥12,236</td>
+            <td>¥4,079</td>
+        </tr>
+        <!-- Row 7 -->
+        <tr>
+            <td>G21127216</td>
+            <td>摩登新贵沙发+四人<br>位双扶(灰蓝色)</td>
+            <td>OS-0121055<br>-4B-1</td>
+            <td>3360</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥17,240</td>
+            <td>¥5,747</td>
+        </tr>
+        <!-- Row 8 -->
+        <tr>
+            <td>G21136214</td>
+            <td>摩登新贵沙发+<br>脚踏(灰蓝色)</td>
+            <td>OS-0121055<br>-1T-1</td>
+            <td>800</td>
+            <td>800</td>
+            <td>450</td>
+            <td>¥2,440</td>
+            <td>¥813</td>
+        </tr>
+        <!-- Row 9 -->
+        <tr>
+            <td>G21127222</td>
+            <td>摩登新贵沙发+<br>三右贵左沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3R9L-2</td>
+            <td rowspan="9" class="img-placeholder">[图片]</td>
+            <td>2600</td>
+            <td>1760</td>
+            <td>950</td>
+            <td rowspan="9" class="text-left">米驼色<br>人体接触面进口头层黄<br>牛皮轻压甩纹风格+非接<br>触面仿皮+高密度回弹海<br>绵+靠包填充物为优质公<br>仔棉+俄罗斯进口松木框<br>架+15cm高镀钛枪黑不<br>锈钢脚<br><br>三人位单扶：1个皮抱枕<br>贵妃位：1个布抱枕<br>单人位单扶：1个布抱枕<br>脚踏：无抱枕<br>单人位无扶：无抱枕<br>单人位双扶：1个布抱枕<br>双人位/三人位：1个皮抱枕<br>四人位：1个皮抱枕+1个布抱枕</td>
+            <td>¥16,592</td>
+            <td>¥5,531</td>
+        </tr>
+        <!-- Row 10 -->
+        <tr>
+            <td>G21127223</td>
+            <td>摩登新贵沙发+<br>三左贵右沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3L9R-2-</td>
+            <td>2600</td>
+            <td>1760</td>
+            <td>950</td>
+            <td>¥16,592</td>
+            <td>¥5,531</td>
+        </tr>
+        <!-- Row 11 -->
+        <tr>
+            <td>G21127224</td>
+            <td>摩登新贵沙发+<br>三右贵左单无沙<br>发组(米驼色)</td>
+            <td>OS-0121055<br>-3R9L1W-2</td>
+            <td>3380</td>
+            <td>1760</td>
+            <td>950</td>
+            <td>¥19,992</td>
+            <td>¥6,664</td>
+        </tr>
+        <!-- Row 12 -->
+        <tr>
+            <td>G21127225</td>
+            <td>摩登新贵沙发+三<br>左贵右单无沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3L9R1W-2</td>
+            <td>3380</td>
+            <td>1760</td>
+            <td>950</td>
+            <td>¥19,992</td>
+            <td>¥6,664</td>
+        </tr>
+        <!-- Row 13 -->
+        <tr>
+            <td>G21127226</td>
+            <td>摩登新贵沙发+三<br>右贵左双单沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3R9L2W-2</td>
+            <td>4160</td>
+            <td>1760</td>
+            <td>950</td>
+            <td>¥23,400</td>
+            <td>¥7,800</td>
+        </tr>
+        <!-- Row 14 -->
+        <tr>
+            <td>G21127227</td>
+            <td>摩登新贵沙发+三<br>左贵右双单沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3L9R2W-2</td>
+            <td>4160</td>
+            <td>1760</td>
+            <td>950</td>
+            <td>¥23,400</td>
+            <td>¥7,800</td>
+        </tr>
+        <!-- Row 15 -->
+        <tr>
+            <td>G21136219</td>
+            <td>摩登新贵沙发+<br>三右单左沙发组<br>(米驼色)</td>
+            <td>OS-0121055<br>-3R1L-2</td>
+            <td>2580</td>
+            <td>1000</td>
+            <td>950</td>
+            <td>¥14,040</td>
+            <td>¥4,680</td>
+        </tr>
+        <!-- Row 16 -->
+        <tr>
+            <td>G21136220</td>
+            <td>摩登新贵沙发+<br>三右单左脚踏沙<br>发组(米驼色)</td>
+            <td>OS-0121055<br>-3R1L1T-2</td>
+            <td>2580</td>
+            <td>1800</td>
+            <td>950</td>
+            <td>¥16,480</td>
+            <td>¥5,493</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+```

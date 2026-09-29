@@ -1,0 +1,253 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th colspan="7" style="font-size: 24px; padding: 10px;">四川艺昇美筑装饰工程公司家装预算表</th>
+        </tr>
+        <tr>
+            <td colspan="7" style="text-align: right; padding-right: 20px; font-style: italic;">【艺昇美筑总经办制】</td>
+        </tr>
+        <tr>
+            <td colspan="7" style="text-align: left; padding: 5px;"><b>预算说明:</b></td>
+        </tr>
+        <tr>
+            <td style="width: 5%;">1</td>
+            <td colspan="6" style="text-align: left; padding: 5px;">本预算中没列出的项目不在施工范围之内。</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td colspan="6" style="text-align: left; padding: 5px;">本预算不包括所有滑轨、灯具、五金件、锁具、开关面板。</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td colspan="6" style="text-align: left; padding: 5px;">根据国家相关规定,按实收方结算。</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td colspan="6" style="text-align: left; padding: 5px;">所有物管押金及其它相关手续由甲方办理。</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td colspan="6" style="text-align: left; padding: 5px;">本预算一式二份，双方签字生效。</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: left; padding: 5px;"><b>工程名称:</b></td>
+            <td colspan="5" style="text-align: center;"><b>家装工程</b></td>
+        </tr>
+        <tr>
+            <th style="width: 5%;">序号</th>
+            <th style="width: 25%;">项目名称</th>
+            <th style="width: 8%;">单位</th>
+            <th style="width: 10%;">工程量</th>
+            <th style="width: 10%;">单价</th>
+            <th style="width: 12%;">合计</th>
+            <th style="width: 30%;">材料及施工说明</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>一</b></td>
+            <td colspan="6" style="text-align: left; padding: 5px;"><b>客厅，餐厅，休闲阳台，过道</b></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td style="text-align: left; padding: 5px;">墙顶面白灰铲除</td>
+            <td>m²</td>
+            <td>140.00</td>
+            <td>7.00</td>
+            <td>980.00</td>
+            <td style="text-align: left; padding: 5px;">原墙面，顶面白灰铲除，人工费</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td style="text-align: left; padding: 5px;">铲除后墙顶面处理</td>
+            <td>m²</td>
+            <td>140.00</td>
+            <td>7.00</td>
+            <td>980.00</td>
+            <td style="text-align: left; padding: 5px;">成品精品石膏找平，阴阳角处理，人工费</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td style="text-align: left; padding: 5px;">墙顶面乳胶漆（都芳全彩乳胶漆）</td>
+            <td>m²</td>
+            <td>140.00</td>
+            <td>45.00</td>
+            <td>6300.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                工序要求：墙面、顶面清扫→底漆一遍→腻子找补→打磨→局部打磨处刷底漆→面漆两遍。<br>
+                材料说明：都芳全彩乳胶漆。如选其他系列乳胶漆，价格另外计算。303腻子。<br>
+                质量说明：表面大平整，无掉粉，返碱、流坠，无起皮、起壳、鼓泡。<br>
+                其他说明：每户两色免费；每增加一色，另加200元。基层处理，批灰另计；若为喷涂工艺，另加2元/m²。墙高超过2850mm以外部分及斜顶、尖顶等异形部分单独收费
+            </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td style="text-align: left; padding: 5px;">地砖铺设（300*300以上~800*800以下，斜拼增加30元/m²）（600*1200）</td>
+            <td>m²</td>
+            <td>42.00</td>
+            <td>113.00</td>
+            <td>4746.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：拉法基325#水泥、中沙、切割刀片、人工费。工艺流程：清理基层、刷素水泥浆一遍，找水平，试排弹线，铺贴工艺，清理，纸板遮盖保护。工艺标准：体积配合比为1：2.5水泥砂浆，平均粘结层不低于20厚，施工采用干贴法。验收标准：相邻面砖无明显色差，垂直度和平整度偏差不大于2mm，接缝直线度偏差不大于2mm；接缝高低差不大于0.5mm（地砖规格600*1200增加35元/m²。地砖规格750*1500增加70元/m²。地砖规格900*1800增加100元/m²。地砖上墙费用另计）
+            </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td style="text-align: left; padding: 5px;">石膏板吊平顶</td>
+            <td>m²</td>
+            <td>26.00</td>
+            <td>145.00</td>
+            <td>3770.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：25*35木龙骨，或专用轻钢龙骨、专用吊杆，纸面石膏板0.9厚，防火涂料，钢膨胀；<br>
+                工艺流程：找水平，或专用轻钢龙骨安装、校平，封板，螺钉防锈、按图施工；<br>
+                验收标准：板面平整度拉通线偏差不大于3mm。
+            </td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td style="text-align: left; padding: 5px;">石膏板叠级</td>
+            <td>m²</td>
+            <td>7.00</td>
+            <td>145.00</td>
+            <td>1015.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：25*35木龙骨，或专用轻钢龙骨、专用吊杆，纸面石膏板0.9厚，防火涂料，钢膨胀；<br>
+                工艺流程：找水平，或专用轻钢龙骨安装、校平，封板，螺钉防锈、按图施工；<br>
+                验收标准：板面平整度拉通线偏差不大于3mm。
+            </td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td style="text-align: left; padding: 5px;">下水管道处理（单管）</td>
+            <td>根</td>
+            <td>1.00</td>
+            <td>400.00</td>
+            <td>400.00</td>
+            <td style="text-align: left; padding: 5px;">材料：拉法基325#水泥、中沙、红砖、人工费 。</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td style="text-align: left; padding: 5px;">阳台垫层回填</td>
+            <td>m²</td>
+            <td>7.90</td>
+            <td>58.00</td>
+            <td>458.20</td>
+            <td style="text-align: left; padding: 5px;">拉法基325#水泥、中沙、碳渣、人工费。</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td style="text-align: left; padding: 5px;">窗帘盒</td>
+            <td>m</td>
+            <td>3.36</td>
+            <td>125.00</td>
+            <td>420.00</td>
+            <td style="text-align: left; padding: 5px;">人工含材料</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td style="text-align: left; padding: 5px;">电视背景墙基层</td>
+            <td>m²</td>
+            <td>10.00</td>
+            <td>145.00</td>
+            <td>1450.00</td>
+            <td style="text-align: left; padding: 5px;">人工含材料</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td style="text-align: left; padding: 5px;">电视背景墙石膏板</td>
+            <td>m²</td>
+            <td>6.70</td>
+            <td>145.00</td>
+            <td>971.50</td>
+            <td style="text-align: left; padding: 5px;">人工含材料</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td style="text-align: left; padding: 5px;">电视墙格栅</td>
+            <td>m²</td>
+            <td>4.00</td>
+            <td>450.00</td>
+            <td>1800.00</td>
+            <td style="text-align: left; padding: 5px;">人工含材料</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td style="text-align: left; padding: 5px;">沙发背景墙</td>
+            <td>项</td>
+            <td>1.00</td>
+            <td>1500.00</td>
+            <td>1500.00</td>
+            <td style="text-align: left; padding: 5px;">人工含材料</td>
+        </tr>
+        <tr>
+            <td colspan="5" style="text-align: right; padding: 5px;"><b>小计</b></td>
+            <td><b>24790.70</b></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><b>二</b></td>
+            <td colspan="6" style="text-align: left; padding: 5px;"><b>厨房和生活阳台</b></td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td style="text-align: left; padding: 5px;">原墙顶面白灰铲除</td>
+            <td>m²</td>
+            <td>7.00</td>
+            <td>35.00</td>
+            <td>245.00</td>
+            <td style="text-align: left; padding: 5px;">原墙面，顶面白灰铲除，人工费</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td style="text-align: left; padding: 5px;">铲除后墙顶面处理</td>
+            <td>m²</td>
+            <td>7.00</td>
+            <td>25.00</td>
+            <td>175.00</td>
+            <td style="text-align: left; padding: 5px;">成品精品石膏找平，阴阳角处理，人工费</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td style="text-align: left; padding: 5px;">地砖铺设（300*300以上~800*800以下，斜拼增加30元/m²）（400*400）</td>
+            <td>m²</td>
+            <td>8.20</td>
+            <td>78.00</td>
+            <td>639.60</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：拉法基325#水泥、中沙、切割刀片、人工费。工艺流程：清理基层、刷素水泥浆一遍，找水平，试排弹线，铺贴工艺，清理，纸板遮盖保护。工艺标准：体积配合比为1：2.5水泥砂浆，平均粘结层不低于20厚，施工采用干贴法。验收标准：相邻面砖无明显色差，垂直度和平整度偏差不大于2mm，接缝直线度偏差不大于2mm；接缝高低差不大于0.5mm（地砖规格600*1200增加35元/m²。地砖规格750*1500增加70元/m²。地砖规格900*1800增加100元/m²。地砖上墙费用另计）
+            </td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td style="text-align: left; padding: 5px;">墙砖铺设（300*300以上~300*600以下，斜拼增加30元/m²）（400*800）</td>
+            <td>m²</td>
+            <td>28.00</td>
+            <td>113.00</td>
+            <td>3164.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：拉法基325#水泥、中沙、切割刀片、人工费。工艺流程：清理基层、刷素水泥浆一遍，找水平，试排弹线，铺贴工艺，清理，纸板遮盖保护。工艺标准：体积配合比为1：2.5水泥砂浆，平均粘结层不低于20厚，施工采用干贴法。验收标准：相邻面砖无明显色差，垂直度和平整度偏差不大于2mm，接缝直线度偏差不大于2mm；接缝高低差不大于0.5mm（地砖规格600*1200增加35元/m²。地砖规格750*1500增加70元/m²。地砖规格900*1800增加100元/m²。地砖上墙费用另计）
+            </td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td style="text-align: left; padding: 5px;">防水处理（墙体防水高度300mm）</td>
+            <td>m²</td>
+            <td>12.00</td>
+            <td>75.00</td>
+            <td>900.00</td>
+            <td style="text-align: left; padding: 5px; font-size: 0.9em;">
+                材料：丙纶防水+东方雨虹防水涂料+辅料+人工费。工艺：地面丙纶防水上翻300mm，墙面涂刷东方雨虹防水。（约定方式：厨房墙面东方雨虹防水涂刷300mm，卫生间墙面东方雨虹防水涂刷1800mm)
+            </td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" style="text-align: left; padding: 10px;">本预算一式二份，双方签字生效</td>
+            <td colspan="2" style="text-align: center; padding: 10px;">第 1 页，共 7 页</td>
+            <td colspan="2" style="text-align: right; padding: 10px;">2022/4/23打印</td>
+        </tr>
+    </tfoot>
+</table>
+```

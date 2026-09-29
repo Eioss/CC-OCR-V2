@@ -1,0 +1,121 @@
+<h2 style="text-align: center;">项目管理信息牌</h2>
+
+<div style="text-align: center; background-color: #FFEB3B; display: inline-block; padding: 5px 15px; border-radius: 5px; margin: 0 auto; width: 100%; box-sizing: border-box; max-width: 400px;">
+    <strong>单位信息 / 工程参数 / 监督电话</strong>
+</div>
+
+<div style="float: right; text-align: right; margin-top: -40px;">
+    文档编号 SG-994680<br>
+    日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;期 2025-12-05
+</div>
+
+<br clear="both"><br>
+
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: left;">
+    <tr>
+        <td style="padding: 10px; width: 60%;">
+            施工/项目名称：青岚·云栖松影综合体<br>
+            单位名称：临澜省澄岳市云栖松影综合服务有限公司<br>
+            工程地点：青岚省澄岳市松影区青岚街104号 11栋
+        </td>
+        <td style="padding: 10px; width: 40%; position: relative;">
+            项目负责人：卫景行<br>
+            安全员：卫泽宇<br>
+            联系电话：15989688935
+            <div style="position: absolute; right: 10px; top: 10px; text-align: center; font-size: 10px;">
+                <div style="text-align: center;"><img src="imgs/img_in_image_box_2478_496_2665_662.jpg" alt="Image" width="10%" /></div>
+                https://example.com/<br>doc-21611135
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br>
+
+<h3 style="text-align: center;">问题跟踪/检查记录表</h3>
+
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+    <tr>
+        <th rowspan="2">检查项</th>
+        <th rowspan="2">检查项</th>
+        <th rowspan="2">问题描述</th>
+        <th colspan="3">责任信息</th>
+        <th colspan="3">处理状态</th>
+        <th rowspan="2">复核</th>
+    </tr>
+    <tr>
+        <th>责任人</th>
+        <th>整改期限</th>
+        <th>等级</th>
+        <th>状态</th>
+        <th>完成日期</th>
+        <th>备注</th>
+    </tr>
+    <tr>
+        <td rowspan="2"><b>A区</b><br>基础工程</td>
+        <td>2025-11-20</td>
+        <td>桩基钢筋笼焊接不饱满</td>
+        <td>李明</td>
+        <td>2025-11-25</td>
+        <td>严重</td>
+        <td>已整改✓</td>
+        <td>2025-11-24</td>
+        <td>手写备注：已加固</td>
+        <td>卫景行 (手写签字)</td>
+    </tr>
+    <tr>
+        <td>2025-11-28</td>
+        <td>模板支撑架未按方案搭设</td>
+        <td>王强</td>
+        <td>2025-12-01</td>
+        <td>一般</td>
+        <td>处理中...</td>
+        <td>-</td>
+        <td>手写备注：待复验</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td rowspan="3"><b>B区</b><br>主体结构</td>
+        <td>2025-11-28</td>
+        <td>模板支撑架未按方案搭设</td>
+        <td>张伟</td>
+        <td>2025-12-03</td>
+        <td>一般</td>
+        <td>未开始✕</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td style="font-size: 10px;">766241146791550139</td>
+        <td>混凝土浇筑后养护不足</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>汇总</td>
+        <td colspan="2">共发现问题 15 项</td>
+        <td colspan="2">整改完成 12 项</td>
+        <td>整改率 80%</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+</table>

@@ -1,0 +1,18 @@
+Based on the "WHO EARNS WHAT SALARY" section of the infographic, which displays national average salaries in the US:
+
+The job with the **highest average salary** is **Data Architect**, at **$118,709**.
+
+Here’s a quick ranking from highest to lowest based on the chart:
+
+1.  **Data Architect**: $118,709
+2.  **Data Scientist**: $116,725
+3.  **Statistician**: $100,118
+4.  **Data and Analytics Manager**: $95,936
+5.  **Database Administrator**: $75,069
+6.  **Data Engineer**: $67,672
+7.  **Business Analyst**: $65,991
+8.  **Data Analyst**: $62,379
+
+*(Note: The image shows icons corresponding to each role above the salary bars. By matching the icon styles from the top sections, we can identify which salary belongs to which role. For example, the Data Architect icon (with ladder) matches the bar labeled $118,709).*
+
+✅ So, the answer is: **Data Architect**.

@@ -1,0 +1,12 @@
+```json
+{
+    "date": "14-12-16",
+    "doc_no_receipt_no": "17881/102/T0298",
+    "seller_address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1320-TMN BATU",
+    "seller_gst_id": "000181747712",
+    "seller_name": "99 SPEED MART S/B",
+    "seller_phone": "",
+    "total_amount": "61.65",
+    "total_tax": "2.08"
+}
+```

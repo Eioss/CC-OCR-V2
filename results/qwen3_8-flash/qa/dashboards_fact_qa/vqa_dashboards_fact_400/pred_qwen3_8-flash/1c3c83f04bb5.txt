@@ -1,0 +1,67 @@
+The infographic states that **images with faces receive 38% more likes**.
+
+To find the **inverse percentage**, we interpret this as:  
+> What is the percentage *less* of likes that images *without* faces would get, compared to those *with* faces?
+
+But note: “38% more” means if an image without faces gets `X` likes, then an image with faces gets `X + 0.38X = 1.38X`.
+
+So, the inverse — i.e., what percent less are non-face images’ likes compared to face images? — is calculated as:
+
+> `(Difference / New Value) × 100`  
+> = `(0.38X / 1.38X) × 100`  
+> ≈ `27.54%`
+
+However, in common usage (especially in marketing infographics), when someone asks for the “inverse percentage” of a stat like “38% more”, they often just want the complement to 100%, or simply the reverse interpretation.
+
+But strictly mathematically speaking, **the inverse relationship** (i.e., how much *less* non-face images perform relative to face images) is approximately **27.5%**.
+
+---
+
+✅ However, since this is likely a trick question or misphrased, and given the context of the infographic, it’s possible the user meant:
+
+> “What is the percentage *of* likes increase due to faces?” → which is **38%**
+
+Or perhaps they meant:
+
+> “What is the opposite value?” → i.e., **100% - 38% = 62%** — but that doesn’t make sense here because 38% is not a proportion of total, it’s a growth rate.
+
+---
+
+### Best Interpretation Based on Common Usage:
+
+If you’re asking for the **inverse** in the sense of **“what percentage less do photos without faces get compared to photos with faces”**, then:
+
+Let’s say photo with face = 138 units  
+Photo without face = 100 units  
+→ Difference = 38 units  
+→ % less = (38 / 138) × 100 ≈ **27.5%**
+
+---
+
+### Final Answer:
+> **Approximately 27.5%**
+
+*(This is the percentage by which likes are lower for photos without faces, compared to photos with faces.)*
+
+---
+
+⚠️ But if the question was simply asking for the number mentioned in the graphic (“38% more”), and “inverse” was used loosely, then maybe they just want **38%** — though that’s not technically correct.
+
+Given ambiguity, I’ll provide both interpretations clearly:
+
+---
+
+✅ **Strict Mathematical Inverse**: ~**27.5%** less for no-face images vs. face images  
+✅ **As Stated in Infographic**: Photos with faces get **38% more likes**
+
+---
+
+Since your question says “inverse percentage of likes getting”, I believe you mean:  
+> “How much *less* do photos without faces get, relative to photos with faces?”
+
+➡️ So the answer is: **~27.5%**
+
+---
+
+📌 **Final Boxed Answer**:
+**27.5%**

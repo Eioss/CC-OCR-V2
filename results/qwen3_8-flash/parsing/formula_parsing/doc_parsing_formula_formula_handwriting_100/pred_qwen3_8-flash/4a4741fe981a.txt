@@ -1,0 +1,17 @@
+$$\left| \mathbb { E } \left[ F _ { B A } ( s _ { t } , a _ { t } ) | P _ { t } \right] \right| = \gamma \mathbb { E } \left[ \operatorname* { m i n } \{ Q _ { B } ^ { * } ( s _ { t + 1 } , a ^ { * } ) , Q _ { A } ^ { * } ( s _ { t + 1 } , a ^ { * } ) \} - \operatorname* { m i n } \{ Q _ { A } ^ { * } ( s _ { t + 1 } , b _ { t } ^ { * } ) , Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \} | P _ { t } \right]$$
+
+$$\leq \gamma \mathbb { E } \left[ \operatorname* { m i n } \{ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) , Q _ { A } ^ { * } ( s _ { t + 1 } , a ^ { * } ) \} - \operatorname* { m i n } \{ Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) , Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \} | P _ { t } \right]$$
+
+$$\leq \gamma \mathbb { E } \left[ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right] - \gamma \mathbb { E } \left[ \operatorname* { m i n } \{ Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) , Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \} | P _ { t } \right]$$
+
+$$= \gamma P ( Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \geq Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) ) \mathbb { E } \left[ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right]$$
+
+$$+ \gamma P ( Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) < Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) ) \mathbb { E } \left[ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right]$$
+
+$$- \gamma P ( Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \geq Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) ) \mathbb { E } \left[ Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right]$$
+
+$$- \gamma P ( Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) > Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) ) \mathbb { E } \left[ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right]$$
+
+$$= \gamma P ( Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) \geq Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) ) \mathbb { E } \left[ Q _ { B } ^ { * } ( s _ { t + 1 } , b ^ { * } ) - Q _ { A } ^ { * } ( s _ { t + 1 } , b ^ { * } ) | P _ { t } \right]$$
+
+$$\leq \gamma P ( Q _ { B } ^ { * } ( s _ { t + 1 } , a ^ { * } ) \geq Q _ { A } ^ { * } ( s _ { t + 1 } , a ^ { * } ) | P _ { t } ) \| \Delta _ { B } ^ { * } \| \leq \gamma \| \Delta _ { B } ^ { * } \|,$$

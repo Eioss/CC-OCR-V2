@@ -1,0 +1,100 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\begin{document}
+
+\[
+\begin{array}{c|cccc|c}
+A & 1 & 8 & 9 & 16 & \cdots\\
+B & 2 & 7 & 10 & 15 & \cdots\\
+C & 3 & 6 & 11 & 14 & \cdots\\
+D & 4 & 5 & 12 & 13 & \cdots
+\end{array}
+\]
+
+\noindent 7. In which row is the number 60?
+
+\noindent (1) 1st row \qquad (2) 2nd row \qquad
+(3) 3rd row \qquad (4) 4th row
+
+\medskip
+\noindent 8. How many columns are there in Row A if 200 is the last number?
+
+\noindent (1) 48 \qquad (2) 50 \qquad (3) 52 \qquad (4) 54
+
+\medskip
+\noindent 9. Compute the following.
+\[
+37+397+3997+39\,997
+\]
+\noindent (1) \(42\,284\) \qquad (2) \(42\,482\) \qquad
+(3) \(44\,248\) \qquad (4) \(44\,428\)
+
+\medskip
+\noindent 10. Compute the following.
+\[
+298+2998+29\,998+299\,998
+\]
+\noindent (1) \(333\,292\) \qquad (2) \(334\,222\) \qquad
+(3) \(334\,292\) \qquad (4) \(335\,222\)
+
+\medskip
+\noindent 11. Compute the following.
+\[
+9+99+999+9999+99\,999
+\]
+\noindent (1) \(110\,215\) \qquad (2) \(110\,745\) \qquad
+(3) \(110\,995\) \qquad (4) \(111\,105\)
+
+\medskip
+\noindent 12. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?
+
+\noindent (1) 24 \qquad (2) 25 \qquad (3) 26 \qquad (4) 27
+
+\medskip
+\noindent 13. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?
+
+\noindent (1) 10 \qquad (2) 11 \qquad (3) 12 \qquad (4) 13
+
+\medskip
+\noindent 14. Find the values of A and B in the following.
+
+\[
+\begin{tikzpicture}[baseline=(current bounding box.center)]
+  \draw (-1.25,0)--(0,2.2)--(1.25,0)--cycle;
+  \draw (-0.74,0.9)--(0.74,0.9);
+  \draw (-0.74,0.9)--(0,0)--(0.74,0.9);
+  \node at (0,1.55) {18};
+  \node at (0,0.53) {10};
+  \node at (-0.64,0.25) {12};
+  \node at (0.64,0.25) {16};
+\end{tikzpicture}
+\qquad
+\begin{tikzpicture}[baseline=(current bounding box.center)]
+  \draw (-1.25,0)--(0,2.2)--(1.25,0)--cycle;
+  \draw (-0.74,0.9)--(0.74,0.9);
+  \draw (-0.74,0.9)--(0,0)--(0.74,0.9);
+  \node at (0,1.55) {34};
+  \node at (0,0.53) {A};
+  \node at (-0.64,0.25) {25};
+  \node at (0.64,0.25) {15};
+\end{tikzpicture}
+\qquad
+\begin{tikzpicture}[baseline=(current bounding box.center)]
+  \draw (-1.25,0)--(0,2.2)--(1.25,0)--cycle;
+  \draw (-0.74,0.9)--(0.74,0.9);
+  \draw (-0.74,0.9)--(0,0)--(0.74,0.9);
+  \node at (0,1.55) {20};
+  \node at (0,0.53) {22};
+  \node at (-0.64,0.25) {B};
+  \node at (0.64,0.25) {18};
+\end{tikzpicture}
+\]
+
+\noindent (1) \(A=6,\ B=18\) \qquad (3) \(A=8,\ B=20\)
+
+\noindent (2) \(A=6,\ B=24\) \qquad (4) \(A=8,\ B=22\)
+
+\end{document}
+```

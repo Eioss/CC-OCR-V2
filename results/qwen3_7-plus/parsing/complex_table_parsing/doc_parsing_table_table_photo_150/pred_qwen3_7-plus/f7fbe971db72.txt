@@ -1,0 +1,235 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>销售单</title>
+    <style>
+        body {
+            font-family: "SimSun", "Songti SC", serif; /* 使用宋体以匹配打印单据风格 */
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        .document-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            letter-spacing: 2px;
+        }
+        .header-info {
+            text-align: right;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 8px 5px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        th {
+            background-color: #f0f0f0;
+            font-weight: bold;
+        }
+        .col-name { width: 35%; text-align: left; padding-left: 10px; }
+        .col-unit { width: 8%; }
+        .col-qty { width: 8%; }
+        .col-price { width: 12%; }
+        .col-total { width: 12%; }
+        .col-remark { width: 25%; }
+        
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .total-section {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .stamp-container {
+            position: absolute;
+            bottom: 80px;
+            left: 250px;
+            transform: rotate(-15deg);
+            pointer-events: none;
+            z-index: 10;
+        }
+        .stamp {
+            border: 4px solid #d00;
+            color: #d00;
+            font-size: 48px;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 10px;
+            opacity: 0.8;
+            font-family: "KaiTi", "STKaiti", serif;
+            letter-spacing: 5px;
+        }
+        .signature {
+            margin-top: 40px;
+            font-style: italic;
+            font-family: cursive;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="document-container">
+    <div class="header">
+        <h1>江南新区职工食堂 销售单</h1>
+        <div class="header-info">
+            日期：2020-10-10<br>
+            NO. XSD2020100144<br>
+            币别：人民币
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 5%;">行号</th>
+                <th class="col-name">品名规格</th>
+                <th class="col-unit">单位</th>
+                <th class="col-qty">数量</th>
+                <th class="col-price">单价</th>
+                <th class="col-total">金额</th>
+                <th class="col-remark">备注</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td class="col-name">花生米 ✓</td>
+                <td>斤</td>
+                <td>10</td>
+                <td>¥7.50</td>
+                <td>¥75.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td class="col-name">白酒41*4 ✓</td>
+                <td>桶</td>
+                <td>1</td>
+                <td>¥35.00</td>
+                <td>¥35.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td class="col-name">胡椒粉 ✓</td>
+                <td>斤</td>
+                <td>1</td>
+                <td>¥28.00</td>
+                <td>¥28.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td class="col-name">面条 ✓</td>
+                <td>件</td>
+                <td>1</td>
+                <td>¥50.00</td>
+                <td>¥50.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td class="col-name">李锦记生抽1.75*6 ✓</td>
+                <td>件</td>
+                <td>1</td>
+                <td>¥95.00</td>
+                <td>¥95.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td class="col-name">恒星豆瓣（竹筐）✓</td>
+                <td>件</td>
+                <td>1</td>
+                <td>¥82.00</td>
+                <td>¥82.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td class="col-name">香果 ✓</td>
+                <td>包</td>
+                <td>1</td>
+                <td>¥28.00</td>
+                <td>¥28.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td class="col-name">紫菜 ✓</td>
+                <td>包</td>
+                <td>10</td>
+                <td>¥3.50</td>
+                <td>¥35.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td class="col-name">大木耳 ✓</td>
+                <td>斤</td>
+                <td>3</td>
+                <td>¥18.00</td>
+                <td>¥54.00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td class="col-name">细木耳2.2 ✓</td>
+                <td>斤</td>
+                <td>2</td>
+                <td>¥38.00</td>
+                <td>¥76.00</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="footer">
+        <div class="total-section">
+            <div>合计金额大写：伍佰伍拾捌元整</div>
+            <div>合计金额小写：¥558.00</div>
+        </div>
+        <div class="signature">林红</div>
+    </div>
+
+    <!-- Simulated Stamp -->
+    <div class="stamp-container">
+        <div class="stamp">附件</div>
+    </div>
+</div>
+
+</body>
+</html>
+```

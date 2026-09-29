@@ -1,0 +1,55 @@
+```latex
+\begin{center}
+{\Large\bfseries Ruijin Hospital Shanghai Jiaotong University School of Medicine}\\
+{\large Clinical Laboratory Report}
+\end{center}
+
+\begin{tabular}{ll}
+Name: \text{[obscured]} &
+Sample Num\text{[obscured]}43 \\
+Gender: \text{[obscured]} &
+PatientNo/PassportNo: 1320021\text{[obscured]} \\
+Age: \text{[obscured]} &
+Birthday: 1\text{[obscured]} \\
+Clinical Diagnosis: Regular inspection &
+Sample Type: Nasopharynx swab \\
+& Testing Time: 2021-08-14
+\end{tabular}
+
+\noindent Application Section Office: Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\begin{tabular}{llll}
+\hline
+Test Name & Result & Reference Value & Testing Method \\
+\hline
+SARS-COV-2 & Neg(-) & Neg(-) &
+e.g. Real-time Fluorescent PCR(500copies/ml) \\
+ORF1AB GENE & Neg(-) & Neg(-) &
+e.g. Real-time Fluorescent PCR(500copies/ml) \\
+N GENE & Neg(-) & Neg(-) &
+e.g. Real-time Fluorescent PCR(500copies/ml) \\
+E GENE & Neg(-) & Neg(-) &
+e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\hline
+\end{tabular}
+
+\noindent Statement:\\
+1. The testing result may be affected by the sampling time, sampling body parts as well as the
+methodology limitations. The result should be analyzed with clinical manifestations.\\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\begin{tabular}{ll}
+Sampling Time: 21-08-14 09:52 & Reporting Time: 21-08-14 13:26 \\
+Received Time: 21-08-14 11:03 & Printing Time: 21-08-15 07:59 \\
+Inspector: \text{[obscured]} & Auditor: \text{[signature]}
+\end{tabular}
+
+\noindent The test results are just responsible for the sample;and used only for reference by clinical doctors.
+
+\noindent add.:No.\text{[obscured]} 2 Road,Huangpu district,Shanghai
+\qquad Tel: 8621-64370045
+
+\begin{center}
+Sheet 1 \qquad (病毒室)
+\end{center}
+```

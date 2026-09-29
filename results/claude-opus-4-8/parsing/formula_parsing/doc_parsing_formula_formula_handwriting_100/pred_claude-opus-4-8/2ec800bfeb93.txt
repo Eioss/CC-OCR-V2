@@ -1,0 +1,25 @@
+$$\int_{B(x_0,8R^{-1})\setminus B(R)} \nabla v \nabla \nabla \varphi_\alpha \, d v_{g_\alpha} \leq C \|\psi\|_{H^{\frac{1}{2}}(M)} \left( \int_{B(x_0,8R^{-1})\setminus B(R)} |\nabla v|^2 \, dx \right)^{\frac{1}{2}}$$
+
+$$= O(1) \|\psi\|_{H^{\frac{1}{2}}(M)} \xi(R),$$
+
+$$K_y^{[1]}(u) = \int K_x^{[1]}(u),$$
+
+$$K_y^{[1]}(u) = \begin{cases} (a(u - u_a) + K_x^{[1]}(u_a) \vee (b(u - u_b) + K_x^{[1]}(u_b)), & \text{if } u \notin (u_a, u_b), \\ \underline{\hspace{4cm}}, & \text{if } u \in (u_a, u_b). \end{cases}$$
+
+$$f(x) + f(y) = f(p(x)) + f(p(y)) \geq f(p(x) \to p(y)) + f(p(y) \to p(x)) =$$
+
+$$f(p(x \to y)) + f(p(y \to x)) = f(x \to y) + f(y \to x)$$
+
+$$-g_h''\left(\frac{d(x)}{\epsilon/3}\right) + W''\left(g\left(\frac{d(x)}{\epsilon/3}\right)\right) - 6\left(g\left(\frac{d(x)}{\epsilon/3}\right) - g\left(\frac{d(x)}{\epsilon/3}\right)^2\right) \Delta d(x)$$
+
+$$+30\left(g\left(\frac{d(x)}{\epsilon/3}\right) - g\left(\frac{d(x)}{\epsilon/3}\right)^2\right) \lambda_v = 0.$$
+
+$$\mathcal{E}_n(w) = \hbar \omega_n, \quad n = 0, 1, 2, \ldots$$
+
+$$p[r(m_1), p(m_2)] = [r(m_1), p(m_2)] \neq 0,$$
+
+$$v(t, x, p) \approx 1, \quad \text{and} \quad |D_p^\xi v(t, x, p)| \leq (p^0)^{-1}, \quad |p| > 0.$$
+
+$$(iw \cdot l - (d_r(w, j) - d_r(w, k l)), \Psi_j^k(l) + R_3^k(l) = (R l)_j^k(l).$$
+
+$$=: \delta_{ijk}(w)$$

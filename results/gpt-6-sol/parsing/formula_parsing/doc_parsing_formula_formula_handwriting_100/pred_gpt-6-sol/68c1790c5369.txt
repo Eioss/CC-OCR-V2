@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+\bigl[\widetilde{\Phi}_k^{(n)\dagger}\widetilde{\Phi}_k^{(n)}\bigr]
+|f_0\rangle^{\otimes n-1}\otimes|f_{i_n}\rangle
+&=d^{2^n}(\hat a_{n,k})^2
+|f_0\rangle^{\otimes n-1}\otimes|f_{i_n}\rangle,\\[1ex]
+L_{[n]-1}&<L_{[n]},\\
+d\cdot LIT&=d\cdot MW(J(f))\le M,\\[1ex]
+\sum_{\gamma=\gamma_1+1}^{\delta-\delta_0+\gamma_1}S(n,\gamma)
+&=\sum_{\gamma=\gamma_1+1}^{\delta-\delta_0+\gamma_1}
+(-1)^\gamma
+\frac{(\delta-\delta_0+\gamma_1-1)!}
+{\gamma_1!(\gamma-\gamma_1)![\delta-\delta_0+\gamma_1-\gamma]!}
+\binom{\delta-\delta_0-1}{\gamma_1-1}\\
+&=(-1)^{\gamma_1+1}
+\binom{\delta-\delta_0+\gamma_1-1}{\gamma_1-1}
+\binom{\delta-\delta_0-1}{\gamma_1-1},\\[1ex]
+\overline{\overline{x}}&=x,\qquad
+x+\overline{x}=n(x,1)1,\qquad
+x\cdot\overline{x}=\overline{x}\cdot x=n(x)1,\\[1ex]
+h^{\tilde x,x+1}\bigl((\mu_{j\to i},\lambda_{i\to j}),(\mu,\lambda)\bigr)
+&=q^{\mu_i+\cdots+\mu_{j-1}}\{\mu_j\}_{q^2}
+q^{\lambda_i i+\cdots+\lambda_j j}\{\lambda_i\}_{q^2}\cdots
+\end{aligned}
+\]

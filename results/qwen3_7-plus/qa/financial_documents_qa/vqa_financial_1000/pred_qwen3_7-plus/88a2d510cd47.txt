@@ -1,0 +1,23 @@
+Based on the provided accounting report, the **total amount for "PREVIOUS"** is listed in two places:
+
+1.  **Under ACCT CTL 110 (TOTAL):**
+    *   The value under the "PREVIOUS" column is **2,523.29-** (the minus sign likely indicates a credit or negative balance carried forward).
+
+2.  **Under ACCT CTL 130 (TOTAL):**
+    *   The value under the "PREVIOUS" column is also **2,523.29**.
+
+Additionally, at the bottom of the report, under "*** ACCOUNT TOTAL ***", the "PREVIOUS" column shows **0.00**, which represents the net total after combining all accounts.
+
+---
+
+### Therefore, the total amount mentioned for "PREVIOUS" in the main summary lines (CTL 110 and CTL 130) is:
+
+> **2,523.29**
+
+*(Note: The trailing minus sign in CTL 110 suggests it may be a credit balance, but the absolute value reported as the previous total is 2,523.29.)*
+
+This figure appears to represent the opening balance or prior period total being carried into the current reporting period (01/74).
+
+---
+
+✅ **Final Answer: `2,523.29`**

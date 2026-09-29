@@ -1,0 +1,26 @@
+Based on the bar chart titled **“Unemployment Rates by Education Level (%)”** in the infographic:
+
+The unemployment rates are as follows:
+- **No Primary Schooling**: 1.5%
+- **Some/Completed Primary**: 2.7%
+- **Secondary/Post-Secondary**: 6.4%
+- **Tertiary**: **11.2%** ← *Highest*
+- **National Average**: 4.2%
+
+So, ranking from highest to lowest:
+1. **Tertiary** — 11.2%
+2. **Secondary/Post-Secondary** — 6.4%
+3. National — 4.2%
+4. Some/Completed Primary — 2.7%
+5. No Primary Schooling — 1.5%
+
+---
+
+✅ Therefore, the education level with the **second-highest unemployment rate** is:  
+> **Secondary/Post-Secondary (6.4%)**
+
+*(Note: The “National” average is not an education level per se, but a composite benchmark — so we exclude it when comparing actual education levels.)*
+
+---
+
+**Final Answer: Secondary/Post-Secondary**

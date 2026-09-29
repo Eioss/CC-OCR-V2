@@ -1,0 +1,331 @@
+```html
+<table>
+  <tr>
+    <td colspan="6">Table 1 Panel B<br>Interlochen Center for the Arts<br>Statements of Activities and Changes in Net Assets (Existing and New Format)</td>
+  </tr>
+  <tr>
+    <td>Year ended May 31, 2017</td>
+    <td>Unrestricted</td>
+    <td>Temporarily<br>Restricted</td>
+    <td>Permanently<br>Restricted</td>
+    <td>Without Donor<br>Restriction</td>
+    <td>With Donor<br>Restriction</td>
+  </tr>
+
+  <tr>
+    <td>Revenues and Other<br>Additions</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gross tuition and student fees</td>
+    <td>$42,605,941</td>
+    <td>$-</td>
+    <td>$-</td>
+    <td>$42,605,941</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Assets released from restrictions:<br>&nbsp;&nbsp;Operating item:<br>&nbsp;&nbsp;&nbsp;&nbsp;Financial aid</td>
+    <td>3,224,308</td>
+    <td>(3,224,308)</td>
+    <td>-</td>
+    <td>3,224,308</td>
+    <td>(3,224,308)</td>
+  </tr>
+  <tr>
+    <td>Less financial aid grants</td>
+    <td>(12,456,963)</td>
+    <td>-</td>
+    <td>-</td>
+    <td>(12,456,963)</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Net tuition and student fees</td>
+    <td>33,373,286</td>
+    <td>(3,224,308)</td>
+    <td>-</td>
+    <td>33,373,286</td>
+    <td>(3,224,308)</td>
+  </tr>
+  <tr>
+    <td>Ticket sales</td>
+    <td>2,485,871</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2,485,871</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Lodging</td>
+    <td>1,466,416</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,466,416</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Retail sales</td>
+    <td>1,989,716</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,989,716</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Contributions and grants</td>
+    <td>4,913,599</td>
+    <td>8,279,615</td>
+    <td>3,313,440</td>
+    <td>4,913,599</td>
+    <td>11,593,055</td>
+  </tr>
+  <tr>
+    <td>Net gain (loss) on investments, net of fees of<br>$219,000 in 2017 and $210,000 in 2016<br>(Note 2)</td>
+    <td>9,185,231</td>
+    <td>5,415,008</td>
+    <td>-</td>
+    <td>9,185,231</td>
+    <td>5,415,008</td>
+  </tr>
+  <tr>
+    <td>Assets released from restrictions:<br>&nbsp;&nbsp;Operating item:<br>&nbsp;&nbsp;&nbsp;&nbsp;Cost of operations and general and<br>&nbsp;&nbsp;&nbsp;&nbsp;administrative</td>
+    <td>843,776</td>
+    <td>(843,776)</td>
+    <td>-</td>
+    <td>843,776</td>
+    <td>(843,776)</td>
+  </tr>
+  <tr>
+    <td>Other revenues</td>
+    <td>1,003,045</td>
+    <td>3,841</td>
+    <td>-</td>
+    <td>1,003,045</td>
+    <td>3,841</td>
+  </tr>
+  <tr>
+    <td>Total revenues and other additions</td>
+    <td>55,260,940</td>
+    <td>9,630,380</td>
+    <td>3,313,440</td>
+    <td>55,260,940</td>
+    <td>12,943,820</td>
+  </tr>
+
+  <tr>
+    <td>Cost of Goods and Services</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Artist fees</td>
+    <td>1,547,346</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,547,346</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Cost of goods sold</td>
+    <td>989,939</td>
+    <td>-</td>
+    <td>-</td>
+    <td>989,939</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Total cost of goods and services</td>
+    <td>2,537,285</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2,537,285</td>
+    <td>-</td>
+  </tr>
+
+  <tr>
+    <td>Cost of Operations</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Salaries, wages and benefits</td>
+    <td>27,971,100</td>
+    <td>-</td>
+    <td>-</td>
+    <td>27,971,100</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Food costs</td>
+    <td>1,421,448</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,421,448</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Contracted services</td>
+    <td>1,082,023</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,082,023</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Supplies</td>
+    <td>2,617,423</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2,617,423</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Repairs and maintenance</td>
+    <td>942,672</td>
+    <td>-</td>
+    <td>-</td>
+    <td>942,672</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Lease and rental</td>
+    <td>432,849</td>
+    <td>-</td>
+    <td>-</td>
+    <td>432,849</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Utilities</td>
+    <td>882,216</td>
+    <td>-</td>
+    <td>-</td>
+    <td>882,216</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Insurance</td>
+    <td>311,404</td>
+    <td>-</td>
+    <td>-</td>
+    <td>311,404</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Telephone and postage</td>
+    <td>593,536</td>
+    <td>-</td>
+    <td>-</td>
+    <td>593,536</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Other operational</td>
+    <td>283,612</td>
+    <td>-</td>
+    <td>-</td>
+    <td>283,612</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Total cost of operations</td>
+    <td>36,538,283</td>
+    <td>-</td>
+    <td>-</td>
+    <td>36,538,283</td>
+    <td>-</td>
+  </tr>
+
+  <tr>
+    <td>General and Administrative</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Marketing</td>
+    <td>$805,166</td>
+    <td>$-</td>
+    <td>$-</td>
+    <td>805,166</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Travel and entertainment</td>
+    <td>1,170,139</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,170,139</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Professional services</td>
+    <td>1,047,427</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,047,427</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>733,613</td>
+    <td>-</td>
+    <td>-</td>
+    <td>733,613</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Total general and administrative</td>
+    <td>3,756,345</td>
+    <td>-</td>
+    <td>-</td>
+    <td>3,756,345</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Total expenses before depreciation (Note 7)</td>
+    <td>42,831,913</td>
+    <td>-</td>
+    <td>-</td>
+    <td>42,831,913</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Increase (decrease) in net assets before<br>depreciation and non-operating items</td>
+    <td>12,429,027</td>
+    <td>9,630,380</td>
+    <td>3,313,440</td>
+    <td>12,429,027</td>
+    <td>12,943,820</td>
+  </tr>
+  <tr>
+    <td>Depreciation Expense (Note 7)</td>
+    <td>1,826,711</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1,826,711</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Assets Released From</td>
+    <td>4,999,140</td>
+    <td>(4,999,140)</td>
+    <td>-</td>
+    <td>4,999,140</td>
+    <td>(4,999,140)</td>
+  </tr>
+</table>
+```

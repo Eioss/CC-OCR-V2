@@ -1,0 +1,12 @@
+```json
+{
+    "date": "04-06-16",
+    "doc_no_receipt_no": "17688/103/T0184",
+    "seller_address": "LOT P.T. 33198, BATU 4 JALAN KAPAR, MUKIM KAPAR 42100 KLANG, SELANGOR 1174-PERMATA MAGNA",
+    "seller_gst_id": "000181747712",
+    "seller_name": "99 SPEED MART S/B",
+    "seller_phone": "",
+    "total_amount": "2210",
+    "total_tax": ".12"
+}
+```

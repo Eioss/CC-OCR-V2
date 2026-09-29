@@ -1,0 +1,5 @@
+The text '2020-##-17' appears in two locations on this receipt:
+
+(733, 1015, 994, 1059) # near 就诊日期 (visit date)
+
+(1349, 314, 1672, 360) # near 开票日期 (invoice date)

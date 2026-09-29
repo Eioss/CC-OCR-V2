@@ -1,0 +1,9 @@
+```json
+{
+    "menu": [
+        "Snack Lestari A11",
+        "Bakery Aneka Sisir banana,Pizza,yoko,Marmer,Daging,abon,Keju,cokelat,dll"
+    ],
+    "total": "68,000"
+}
+```

@@ -1,0 +1,7 @@
+[{"bbox_2d": [556, 632, 730, 656], "label": "date"},
+{"bbox_2d": [355, 752, 850, 778], "label": "doc_no_receipt_no"},
+{"bbox_2d": [371, 690, 990, 743], "label": "seller_address"},
+{"bbox_2d": [427, 1205, 920, 1234], "label": "seller_gst_id"},
+{"bbox_2d": [350, 599, 1054, 627], "label": "seller_name"},
+{"bbox_2d": [890, 920, 1070, 945], "label": "total_amount"},
+{"bbox_2d": [888, 950, 1070, 975], "label": "total_tax"}]

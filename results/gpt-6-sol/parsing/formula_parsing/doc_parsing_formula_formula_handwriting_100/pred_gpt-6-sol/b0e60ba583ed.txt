@@ -1,0 +1,38 @@
+\[
+\begin{aligned}
+&\sum_{2\gamma+|\beta|\le s_{k+1}+2}
+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\bigl(\partial_j u_{k+1,\parallel}^{+},\partial_j\theta_{k+1}^{+}\bigr)
+(t,x_\parallel,0)\right\|_{L_{x_\parallel}^{2}}\\
+&\le C\Bigg(
+\sum_{i=0}^{1}\sum_{2\gamma+|\beta|\le s_{k+1}+4}
+\left\|\widetilde w_{k,i}\partial_t^\gamma\nabla_x^\beta f_i(t)\right\|_{L_x^2L_v^\infty}
++\sum_{2\gamma+|\beta|\le s_{k+1}+4}
+\left\|w_{k,i}\partial_t^\gamma\nabla_x^\beta\widetilde f_i^{+}(t)\right\|_{L_x^2L_v^\infty}\\
+&\qquad
++\sum_{2\gamma+|\beta|\le s_{k+1}+2}
+\left[
+\left\|\partial_t^\gamma\nabla_\parallel^\beta u_{k+1,3}^{+}(t,x_\parallel,0)\right\|_{L_{x_\parallel}^{2}}
++\left\|\partial_t^\gamma\nabla_\parallel^\beta G_{k+1,\parallel}^{+}\right\|_{L_{x_\parallel}^{2}}
+\right]\\
+&\qquad
++\sum_{i=1}^{3}\Big[
+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\bigl(\langle A_{k,i},J_k^{+}\rangle,\langle B_{k,i},J_k^{+}\rangle\bigr)
+\right\|_{L_{x_\parallel}^{2}}
++\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\bigl(\widehat A_{k+2}^{+},\widehat B_{k+2}^{+},\widehat C_{k+2}^{+}\bigr)
+(t,x_\parallel,0)\right\|_{L_{x_\parallel}^{2}}\\
+&\qquad\qquad\qquad
++\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\bigl(\widehat A_{k+3}^{+},\widehat B_{k+3}^{+},\widehat C_{k+3}^{+}\bigr)
+(t,x_\parallel,0)\right\|_{L_{x_\parallel}^{2}}
+\Big]\Bigg)\\
+&\le C\left(
+D_k+\widetilde D_k^{+}+\widehat D_k^{+}
++\sum_{2\gamma+|\beta|\le s_{k+1}}
+\left\|\partial_t^\gamma\nabla_x^\beta
+(\rho_{k+1},u_{k+1},\theta_{k+1})(0)\right\|_{L_x^2}
+\right).
+\end{aligned}
+\]

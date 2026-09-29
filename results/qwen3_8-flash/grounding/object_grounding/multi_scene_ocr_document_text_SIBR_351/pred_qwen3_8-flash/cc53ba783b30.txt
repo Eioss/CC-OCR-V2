@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [308, 554, 551, 567], "label": "1.Terms of Payment"},
+	{"bbox_2d": [308, 570, 361, 582], "label": "2.Time of Shipment"},
+	{"bbox_2d": [308, 586, 469, 598], "label": "3.Port of Shipment"},
+	{"bbox_2d": [308, 602, 497, 617], "label": "4.Port of Destination"},
+	{"bbox_2d": [71, 259, 606, 277], "label": "ADD"},
+	{"bbox_2d": [423, 933, 924, 944], "label": "Add"},
+	{"bbox_2d": [254, 80, 853, 103], "label": "Company Name"},
+	{"bbox_2d": [562, 947, 694, 956], "label": "Fax"},
+	{"bbox_2d": [747, 206, 924, 223], "label": "Invoice Date"},
+	{"bbox_2d": [183, 207, 378, 221], "label": "Invoice No"},
+	{"bbox_2d": [781, 439, 907, 454], "label": "PACKAGE"},
+	{"bbox_2d": [781, 403, 906, 418], "label": "PACKAGE"},
+	{"bbox_2d": [94, 431, 279, 465], "label": "PRODUCT NAME"},
+	{"bbox_2d": [117, 404, 257, 418], "label": "PRODUCT NAME"},
+	{"bbox_2d": [629, 439, 743, 454], "label": "TOTAL AMOUNT"},
+	{"bbox_2d": [629, 403, 743, 418], "label": "TOTAL AMOUNT"},
+	{"bbox_2d": [390, 947, 550, 956], "label": "Tel"},
+	{"bbox_2d": [282, 136, 716, 155], "label": "Title"},
+	{"bbox_2d": [302, 507, 873, 523], "label": "Total Amount"},
+	{"bbox_2d": [454, 439, 533, 454], "label": "UNIT PRICE(US$/KG) (CIF Hamburg by Sea)"},
+	{"bbox_2d": [459, 403, 528, 418], "label": "UNIT PRICE(US$/KG) (CIF Hamburg by Sea)"},
+	{"bbox_2d": [322, 439, 359, 454], "label": "VOLUME (KG)"},
+	{"bbox_2d": [322, 404, 370, 417], "label": "VOLUME (KG)"},
+	{"bbox_2d": [704, 946, 927, 957], "label": "Web"}
+]
+```

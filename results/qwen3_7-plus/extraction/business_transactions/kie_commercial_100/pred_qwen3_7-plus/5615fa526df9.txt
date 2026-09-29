@@ -1,0 +1,17 @@
+```json
+{
+    "date_issue": "01-10-00",
+    "vendor_order_id": "013718",
+    "customer_order_id": "2151",
+    "vendor_name": "Direct Network, Inc.",
+    "vendor_address": "1626 Route 130 North, Suite J North Brunswick, NJ 08902",
+    "vendor_email": "dirnet@BellAtlantic.Net",
+    "customer_billing_name": "MR. ANDREW PASHELUK LORILLARD TOBACCO COMPANY",
+    "customer_billing_address": "P.O. BOX 10529 GREENSBORO, NC 27408",
+    "customer_delivery_name": "SE SURVEYS, INC.",
+    "customer_other_name": "LORILLARD TOBACCO COMPANY",
+    "amount_total_gross": "$1,571.92",
+    "amount_due": "$1,571.92",
+    "payment_terms": "ON RECEIPT"
+}
+```

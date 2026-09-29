@@ -1,0 +1,57 @@
+\[
+\begin{aligned}
+\partial_\alpha\left(\frac{z_{xt}(x)}{C_\alpha}\right)
+={}&-\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle\,dy\\
+&-\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^\alpha}
+\log|z(x)-z(x-y)|\,dy\\
+&+\alpha\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle
+\log|z(x)-z(x-y)|\,dy,\\[1ex]
+\partial_\alpha\left(\frac{z_{xxt}(x)}{C_\alpha}\right)
+={}&-2\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle\,dy\\
+&-\int
+\frac{z_x(x)-z_x(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+|z_x(x)-z_x(x-y)|^2\,dy\\
+&+(2\alpha+2)\int
+\frac{z_x(x)-z_x(x-y)}
+{|z(x)-z(x-y)|^{4+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle^2\,dy\\
+&-\int
+\frac{z_{xxx}(x)-z_{xxx}(x-y)}
+{|z(x)-z(x-y)|^\alpha}\,dy\\
+&+\alpha\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+\left\langle z_{xx}(x)-z_{xx}(x-y),\,z(x)-z(x-y)\right\rangle\,dy\\
+&-\int
+\frac{z_{xxx}(x)-z_{xxx}(x-y)}
+{|z(x)-z(x-y)|^\alpha}
+\log|z(x)-z(x-y)|\,dy\\
+&+2\alpha\int
+\frac{z_{xx}(x)-z_{xx}(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle
+\log|z(x)-z(x-y)|\,dy\\
+&+\alpha\int
+\frac{z_x(x)-z_x(x-y)}
+{|z(x)-z(x-y)|^{2+\alpha}}
+|z_x(x)-z_x(x-y)|^2
+\log|z(x)-z(x-y)|\,dy\\
+&-\alpha(\alpha+2)\int
+\frac{z_x(x)-z_x(x-y)}
+{|z(x)-z(x-y)|^{4+\alpha}}
+\left\langle z_x(x)-z_x(x-y),\,z(x)-z(x-y)\right\rangle^2
+\log|z(x)-z(x-y)|\,dy.
+\end{aligned}
+\]

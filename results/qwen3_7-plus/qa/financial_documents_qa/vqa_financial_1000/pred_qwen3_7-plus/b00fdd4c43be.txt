@@ -1,0 +1,15 @@
+Looking at the calendar for **December 2006**:
+
+- The days of the week are labeled across the top: **Sun, Mon, Tue, Wed, Thu, Fri, Sat**.
+- December 1st falls on a **Friday** (as shown in the first row under "Fri").
+- We can count forward or look directly at the grid.
+
+Find **28** in the calendar:
+
+- It is in the **fifth row**, under the column labeled **Thu** (Thursday).
+
+✅ Therefore, **December 28, 2006** was a **Thursday**.
+
+---
+
+**Answer: Thursday**

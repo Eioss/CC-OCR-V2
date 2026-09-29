@@ -1,0 +1,18 @@
+[
+  {"bbox_2d":[724,77,875,93],"label":"Arrival date 抵店时间"},
+  {"bbox_2d":[765,369,826,384],"label":"BALANCE 余额"},
+  {"bbox_2d":[763,148,852,165],"label":"CREDIT 付款"},
+  {"bbox_2d":[605,153,684,168],"label":"DEBIT 消费"},
+  {"bbox_2d":[211,160,350,175],"label":"DESCRIPTION 项目"},
+  {"bbox_2d":[43,161,117,176],"label":"Date 日期"},
+  {"bbox_2d":[724,121,874,137],"label":"Departure date 离店时间"},
+  {"bbox_2d":[412,84,459,98],"label":"Guest Name 客人姓名"},
+  {"bbox_2d":[85,134,96,147],"label":"Member No. 会员号"},
+  {"bbox_2d":[400,130,454,144],"label":"Res No. 预订号"},
+  {"bbox_2d":[82,89,120,102],"label":"Room No. 房间号"},
+  {"bbox_2d":[766,331,800,345],"label":"TOTAL CREDIT付款总计"},
+  {"bbox_2d":[764,284,825,299],"label":"TOTAL DEBIT消费总计"},
+  {"bbox_2d":[605,218,655,232],"label":"住宿详单-第2行-DEBIT 消费"},
+  {"bbox_2d":[60,0,177,17],"label":"标题"},
+  {"bbox_2d":[103,43,274,59],"label":"酒店名称"}
+]

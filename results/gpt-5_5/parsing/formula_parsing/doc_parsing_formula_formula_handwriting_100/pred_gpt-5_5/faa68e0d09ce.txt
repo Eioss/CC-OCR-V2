@@ -1,0 +1,12 @@
+\[
+-\frac{1}{2\varepsilon}\int_{\Omega}\left|\partial_x^3\{(1-P)g^{n+1}\}\right|^2
++\varepsilon^2\left|\partial_x^3\{(1-P)g^{n+1}\}\right|_{1,x,v}^2
+\le C\sum_{j=0}^{2}\left\|\partial_x^3[(1-P)g^{n+1}]\right\|_{3-j}^{2}
++\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3P\left(v\cdot\nabla_x\partial_x^\beta P(1-P)g^{n+1}\right),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_1}
+-\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3\left[v\cdot\nabla_x(1-P)\left(v\cdot\nabla_x\partial_x^\beta L(1-P)g^{n+1}\right)\right],\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_2}
++\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3\left(v\cdot\nabla_x\partial_x^\beta(1-P)\Gamma(Pg^n,Pg^{n+1})\right),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_3}
++\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3\Gamma(Pg^n,(1-P)g^{n+1}),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_4}
+-\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3\Gamma((1-P)g^n,Pg^{n+1}),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_5}
++\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3\Gamma((1-P)g^n,(1-P)g^{n+1}),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_6}
++\underbrace{\frac{1}{\varepsilon}\int_{\Omega}\left(\partial_x^3P\left(v\cdot\nabla_x(1-P)g^{n+1}\right),\partial_x^3\{(1-P)g^{n+1}\}\right)_{L_x^2v}}_{S_7}
+\]

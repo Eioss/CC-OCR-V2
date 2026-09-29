@@ -1,0 +1,87 @@
+```latex
+\begin{center}
+অয়োময় \hfill ৪৭ \hfill ১৩৭
+
+\vspace{1em}
+{\Large Ka Set}
+
+JUNIOR SCHOOL CERTIFICATE EXAMINATION,
+
+ENGLISH
+
+SECOND PAPER
+
+Subject Code : \fbox{\begin{tabular}{c|c|c}
+1 & 0 & 8
+\end{tabular}}
+
+Time—2 hours
+
+Full marks—50
+
+\textit{[N.B.—The figures in the right margin indicate full marks.]}
+
+\textbf{Section A—Grammar}
+
+Marks—30
+\end{center}
+
+\noindent
+\textbf{1.} Fill in the gaps of the following text with appropriate articles. Put a
+cross ($\times$) where there is no article applicable:
+\hfill $0.5\times6=3$
+
+\noindent
+I live in Rajshahi. My elder brother who is \textit{(a)} \underline{\hspace{2cm}}
+engineer, works in Dhaka. Last summer he asked me to stay
+\textit{(b)} \underline{\hspace{2cm}} few days with him and sent me
+\textit{(c)} \underline{\hspace{2cm}} plane ticket. That was my first journey by
+air. I arrived at \textit{(d)} \underline{\hspace{2cm}} airport about
+\textit{(e)} \underline{\hspace{2cm}} hour before the flight. It was
+\textit{(f)} \underline{\hspace{2cm}} enjoyable plane journey.
+
+\vspace{1em}
+\noindent
+\textbf{2.} Fill in the blanks of the following text with prepositions given in the
+box:—
+\hfill $0.5\times6=3$
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+for & to & in & with & about & after \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+Money is a must \textit{(a)} \underline{\hspace{2cm}} our life. But one
+should not run after money because those who hanker
+\textit{(b)} \underline{\hspace{2cm}} money cannot enjoy mental peace:
+Sometimes, it may lead one \textit{(c)} \underline{\hspace{2cm}} some
+unexpected troubles. It also happens that greed
+\textit{(d)} \underline{\hspace{2cm}} money brings
+\textit{(e)} \underline{\hspace{2cm}} many problems. So we should be
+contented \textit{(f)} \underline{\hspace{2cm}} what we have.
+
+\vspace{1em}
+\noindent
+\textbf{3.} Make four meaningful sentences from the substitution table:—
+\hfill $1\times4=4$
+
+\begin{center}
+\begin{tabular}{|p{3cm}|p{0.9cm}|p{6cm}|}
+\hline
+Youth & & be built properly. \\
+      & is & \\ \cline{3-3}
+It    & & the time of sowing seeds of life. \\
+      & must & \\ \cline{3-3}
+We    & & \multirow{2}{6cm}{sow the seeds of industry and honesty in this time.} \\
+      & will & \\ \cline{3-3}
+Thus our future & & the best time of life. \\
+\hline
+\end{tabular}
+\end{center}
+
+\hfill \textit{[Please turn over}
+```

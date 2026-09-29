@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+N' &\cong L_B \circ L_{B^\perp} \\
+&\cong L_{B^{\perp\perp}}[1] \\
+&= i_A^L \circ i_A[1] \\
+&\cong i_A^L \circ S \circ i_A[1] \\
+&\cong i_A^L \circ i_A \circ i_A^L \circ S \circ i_A[1] \\
+&= L_B \circ i_A^L \circ S \circ i_A[1] \\
+&\cong i_A^L \circ S \circ i_A[2] \\
+&\cong i_A^L \circ S \circ i_A \circ i_A^L \circ S \circ i_A[2] \\
+&= i_A^L \circ S^2 \circ i_A[2]
+\end{aligned}
+\]

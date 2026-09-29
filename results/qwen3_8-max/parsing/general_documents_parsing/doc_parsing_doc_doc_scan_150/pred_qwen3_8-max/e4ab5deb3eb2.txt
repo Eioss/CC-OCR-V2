@@ -1,0 +1,75 @@
+Based on the image provided, here is the transcription in LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{ulem} % For underlining text as seen in the image
+\usepackage{enumitem}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{\underline{Task 2:Complete with the right word from the box (There are 2 extra words)(2.5mks)}}
+
+\vspace{0.2cm}
+
+\noindent \fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{
+    \centering \textbf{Onions/market/strawberries/near/ animals/sells /lions}
+}}
+
+\vspace{0.2cm}
+
+\noindent Uncle Fred has got a big farm where he keeps many 1)\dotfill He also grows fruit and vegetables:potatoes, 2)\dotfill ,tomatoes , green peppers and some fruit like oranges,almonds and3)\dotfill Uncle Fred usually4)\dotfill his fruit and vegetables on the5)\dotfill day.Many people like to buy uncle Fred's fruit and vevetables because they are fresh.
+
+\vspace{0.5cm}
+
+\noindent \textbf{\underline{Task 3:Match the sentence parts in A with their completions in B(there is an extra part in B) (3mks)}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{|p{0.45\textwidth}|p{0.35\textwidth}|c|}
+\hline
+1-Sami lives with & a-small hall in the middle & 1\dotfill \\
+2-Their house has two bedrooms,a kitchen & b-beautiful flowers & 2\dotfill \\
+3-The bedrooms are on & c-is on the left & 3\dotfill \\
+4-The kitchen is next & d-his family in a big house & 4\dotfill \\
+5-The living room is quite big and it & e-the right near the bathroom & 5\dotfill \\
+6-The house has got a & f- a living room and a bathroom & 6\dotfill \\
+ & g-to the children's bedroom & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent \textbf{\underline{Task 4:Match the dialogue with its functions (2 mks)}}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{|p{0.55\textwidth}|p{0.25\textwidth}|c|}
+\hline
+\textbf{Dialogue} & \textbf{Function} & \textbf{Answers} \\
+\hline
+-Tourist:Oh! These are nice dates. & 1. thanking & 1\dotfill \\
+-Greengrocer: Yes,sir. Taste them,they are from Tozeur. & 2. greeting & 2\dotfill \\
+-Tourist:\textbf{\uline{Mmm! They are delicious.}}(1) & 3. request & 3\dotfill \\
+\hspace*{2.5cm}\textbf{\uline{Can I have 1 kilo?}}(2) & 4. taking leave & 4\dotfill \\
+-Greengrocer: Yes of course,here you are. & 5. appreciation & \\
+-Tourist:\textbf{\uline{Thanks}}(3) good bye. & & \\
+-Greengrocer:\textbf{\uline{Good bye.}}(4) & & \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+
+\noindent \textbf{III/Writing (5 marks)}
+
+\vfill
+\hfill iSLCollective.com
+
+\end{document}
+```

@@ -1,0 +1,113 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage{amsmath}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r r r}
+\toprule
+组合小计 & 8,709,863.67 & 37.32 & 2,318,593.84 & 26.62 & 6,391,269.83 \\
+\midrule
+\begin{tabular}[c]{@{}l@{}}单项金额重大并单项计\\ 提坏账准备\end{tabular} & 12,377,376.84 & 53.04 & 10,536,346.86 & 85.13 & 1,841,029.98 \\
+\midrule
+\begin{tabular}[c]{@{}l@{}}单项金额不重大但单项\\ 计提坏账准备\end{tabular} & 2,250,000.00 & 9.64 & 2,250,000.00 & 100.00 & \\
+\midrule
+\multicolumn{1}{c}{合 \quad 计} & 23,337,240.51 & 100.00 & 15,104,940.70 & 64.72 & 8,232,299.81 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+\noindent (续上表)
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r r r}
+\toprule
+\multirow{3}{*}{种 \quad 类} & \multicolumn{5}{c}{期初数} \\
+\cmidrule(lr){2-6}
+& \multicolumn{2}{c}{账面余额} & \multicolumn{2}{c}{坏账准备} & \multirow{2}{*}{账面价值} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& \multicolumn{1}{c}{金额} & \multicolumn{1}{c}{比例(\%)} & \multicolumn{1}{c}{金额} & \multicolumn{1}{c}{计提比例(\%)} & \\
+\midrule
+账龄分析法组合 & 56,614,226.15 & 43.51 & 3,311,173.09 & 5.85 & 53,303,053.06 \\
+\midrule
+余额百分比法组合 & 65,465,002.12 & 50.31 & 327,325.01 & 0.50 & 65,137,677.11 \\
+\midrule
+组 合 小 计 & 122,079,228.27 & 93.83 & 3,638,498.10 & 2.98 & 118,440,730.17 \\
+\midrule
+\begin{tabular}[c]{@{}l@{}}单项金额不重大但单项\\ 计提坏账准备\end{tabular} & 8,033,436.00 & 6.17 & 8,033,436.00 & 100.00 & \\
+\midrule
+\multicolumn{1}{c}{合 \quad 计} & 130,112,664.27 & 100.00 & 11,671,934.10 & 8.97 & 118,440,730.17 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+\noindent ② 组合中，采用账龄分析法计提坏账准备的其他应收款
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r}
+\toprule
+\multirow{2}{*}{账 \quad 龄} & \multicolumn{3}{c}{期末数} \\
+\cmidrule(lr){2-4}
+& \multicolumn{1}{c}{账面余额} & \multicolumn{1}{c}{坏账准备} & \multicolumn{1}{c}{计提比例(\%)} \\
+\midrule
+1 年以内 & 3,628,048.07 & 36,280.47 & 1.00 \\
+\midrule
+1-2 年 & 653,023.62 & 19,590.71 & 3.00 \\
+\midrule
+2-3 年 & 205,415.00 & 10,270.75 & 5.00 \\
+\midrule
+3-5 年 & 223,345.00 & 33,501.75 & 15.00 \\
+\midrule
+5 年以上 & 2,210,000.00 & 2,210,000.00 & 100.00 \\
+\midrule
+\multicolumn{1}{c}{小 \quad 计} & 6,919,831.69 & 2,309,643.68 & 33.38 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+\noindent (续上表)
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l r r r}
+\toprule
+\multirow{2}{*}{账 \quad 龄} & \multicolumn{3}{c}{期初数} \\
+\cmidrule(lr){2-4}
+& \multicolumn{1}{c}{账面余额} & \multicolumn{1}{c}{坏账准备} & \multicolumn{1}{c}{计提比例(\%)} \\
+\midrule
+1 年以内 & 44,368,311.15 & 443,665.64 & 1.00 \\
+\midrule
+1-2 年 & 7,326,915.00 & 219,807.45 & 3.00 \\
+\midrule
+2-3 年 & 154,000.00 & 7,700.00 & 5.00 \\
+\midrule
+3-5 年 & 2,500,000.00 & 375,000.00 & 15.00 \\
+\midrule
+5 年以上 & 2,265,000.00 & 2,265,000.00 & 100.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1cm}
+\begin{center}
+第 31 页 共 60 页
+\end{center}
+
+\end{document}
+```

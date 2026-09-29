@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+\left|\mathbb{E}\!\left[F_t^{BA}(s_t,a_t)\mid P_t\right]\right|
+&\leq \gamma\,\mathbb{E}\!\left[Q_t^B(s_{t+1},b^*)\mid P_t\right]
+-\gamma\,\mathbb{E}\!\left[
+\min\!\left\{Q_t^A(s_{t+1},b^*),Q_t^B(s_{t+1},b^*)\right\}
+\mid P_t\right] \\
+&=\gamma\,P\!\left(Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*)\mid P_t\right)
+\mathbb{E}\!\left[
+Q_t^B(s_{t+1},b^*)-Q_t^A(s_{t+1},b^*)
+\;\middle|\;
+Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*),P_t
+\right] \\
+&\leq \gamma\,P\!\left(Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*)\mid P_t\right)
+\left\|\Delta_{BA}^{t}\right\| \\
+&\leq \gamma\left\|\Delta_{BA}^{t}\right\|.
+\end{aligned}
+\]

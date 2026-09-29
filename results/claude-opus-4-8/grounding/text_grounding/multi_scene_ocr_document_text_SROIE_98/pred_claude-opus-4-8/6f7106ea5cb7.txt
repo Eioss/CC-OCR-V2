@@ -1,0 +1,5 @@
+The text '19.00' appears multiple times in this receipt. Here are their locations:
+
+(699, 901, 779, 932) # First occurrence next to "2 M McChicken"
+(706, 1075, 786, 1106) # Next to "TakeOut Total (incl GST)"
+(706, 1116, 786, 1146) # Next to "Total Rounded"

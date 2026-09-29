@@ -1,0 +1,12 @@
+```json
+{
+    "date": "11/5/2018",
+    "doc_no_receipt_no": "13834",
+    "seller_address": "13, JLN TASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI 57000 KL",
+    "seller_gst_id": "002693074-K",
+    "seller_name": "RESTAURANT JIAWEI JIAWEI HOUSE",
+    "seller_phone": "",
+    "total_amount": "27.00",
+    "total_tax": "0.00"
+}
+```

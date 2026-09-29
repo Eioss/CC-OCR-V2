@@ -1,0 +1,10 @@
+Based on the infographic provided, we can determine the percentage by which women-owned firms beat male-owned firms in job creation by looking at the section titled "Two: Female-Owned Firms Create More Jobs Than Their Male-Owned Peers".
+
+-   The growth in the number of employees for businesses owned by women from 2007 to 2015 is stated as **18.39%**.
+-   The growth in the number of employees for businesses owned by men over the same period is stated as **0.37%**.
+
+To find out by what percentage women-owned firms beat male-owned firms, we subtract the growth rate of male-owned firms from the growth rate of female-owned firms.
+
+$$ 18.39\% - 0.37\% = 18.02\% $$
+
+Therefore, women-owned firms beat male-owned firms in job creation growth by 18.02 percentage points.

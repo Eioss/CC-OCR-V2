@@ -1,0 +1,69 @@
+```html
+<table>
+  <tr>
+    <td></td>
+    <td>Algorithm</td>
+    <td>Convergence Rate</td>
+    <td>Compression<sup>a</sup></td>
+    <td>Trans. Compl.<sup>b</sup></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">LB</td>
+    <td>Theorem 1+Corollary 1</td>
+    <td>&Omega;( &sigma;/&radic;(nT) + 1/(&delta;T) )</td>
+    <td>Uni/Bidirectional<br>Contractive</td>
+    <td>O(n/&delta;<sup>2</sup>)</td>
+  </tr>
+  <tr>
+    <td>Theorem 2+Corollary 2</td>
+    <td>&Omega;( &sigma;/&radic;(nT) + (1+&omega;)/T )</td>
+    <td>Uni/Bidirectional<br>Unbiased</td>
+    <td>O(n(1+&omega;)<sup>2</sup>)</td>
+  </tr>
+
+  <tr>
+    <td rowspan="7">UB</td>
+    <td>Theorem 3</td>
+    <td>Õ( &sigma;/&radic;(nT) + 1/(&delta;T) )</td>
+    <td>Uni/Bidirectional<br>Contractive</td>
+    <td>Õ(n/&delta;<sup>2</sup>)</td>
+  </tr>
+  <tr>
+    <td>Corollary 3</td>
+    <td>Õ( &sigma;/&radic;(nT) + (1+&omega;)/T )</td>
+    <td>Uni/Bidirectional<br>Unbiased</td>
+    <td>Õ(n(1+&omega;)<sup>2</sup>)</td>
+  </tr>
+  <tr>
+    <td>Q-SGD [31]</td>
+    <td>O( ((1+&omega;)&sigma; + &omega;b<sup>2</sup>/&sigma;) / &radic;(nT) )<sup>&dagger;</sup></td>
+    <td>Unidirectional<br>i.i.d, Unbiased</td>
+    <td>&ndash;</td>
+  </tr>
+  <tr>
+    <td>MEM-SGD [52]</td>
+    <td>O( &sigma;/&radic;(nT) + G<sup>2/3</sup>/(&delta;<sup>2/3</sup>T<sup>2/3</sup>) + 1/T )</td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>O(n<sup>3</sup>/&delta;<sup>4</sup>)</td>
+  </tr>
+  <tr>
+    <td>Double Squeeze [56]</td>
+    <td>O( 1/&radic;(nT) + G<sup>2/3</sup>/(&delta;<sup>4/3</sup>T<sup>2/3</sup>) + 1/T )</td>
+    <td>Bidirectional<sup>c</sup><br>Contractive</td>
+    <td>O(n<sup>3</sup>/&delta;<sup>8</sup>)</td>
+  </tr>
+  <tr>
+    <td>CSER [61]</td>
+    <td>O( &sigma;/&radic;(nT) + G<sup>2/3</sup>/(&delta;<sup>2/3</sup>T<sup>2/3</sup>) + 1/T )</td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>O(n<sup>3</sup>/&delta;<sup>4</sup>)</td>
+  </tr>
+  <tr>
+    <td>EF21-SGD [24]</td>
+    <td>O( &sigma;/&radic;(&delta;<sup>3</sup>T) + 1/(&delta;T) )<sup>*</sup></td>
+    <td>Unidirectional<br>Contractive</td>
+    <td>&ndash;</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,4 @@
+\[
+\sum_{\substack{l+n\geq 2\\ l+n\neq 0\\ t+n\neq 0}}
+\frac{(-t)^t e^{d(1+n)p}}{(l^2+t\phi)(l+n)(l+n)^2}
+\]

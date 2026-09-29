@@ -1,0 +1,115 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="2" style="text-align: left; padding: 5px;">Method</th>
+      <th colspan="5">Lung</th>
+      <th colspan="5">Esophageal CE</th>
+      <th colspan="5">Esophageal NC</th>
+      <th rowspan="2">Time<br>(s)</th>
+    </tr>
+    <tr>
+      <th>0.5</th>
+      <th>1</th>
+      <th>2</th>
+      <th>4</th>
+      <th>Avg.</th>
+      <th>0.5</th>
+      <th>1</th>
+      <th>2</th>
+      <th>4</th>
+      <th>Avg.</th>
+      <th>0.5</th>
+      <th>1</th>
+      <th>2</th>
+      <th>4</th>
+      <th>Avg.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left; padding: 5px;">nnDetection [1]</td>
+      <td>47</td>
+      <td>57</td>
+      <td>62</td>
+      <td>70</td>
+      <td><b>58.9</b></td>
+      <td>43</td>
+      <td>64</td>
+      <td>72</td>
+      <td>75</td>
+      <td>63.8</td>
+      <td>59</td>
+      <td>63</td>
+      <td>69</td>
+      <td>72</td>
+      <td>65.8</td>
+      <td>86</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;">MULAN [22]</td>
+      <td>43</td>
+      <td>57</td>
+      <td>60</td>
+      <td>73</td>
+      <td><b>58.3</b></td>
+      <td>51</td>
+      <td>63</td>
+      <td>75</td>
+      <td>79</td>
+      <td>67.1</td>
+      <td>55</td>
+      <td>68</td>
+      <td>72</td>
+      <td>81</td>
+      <td>68.9</td>
+      <td><b>1.5</b></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;">LENS [21]</td>
+      <td>58</td>
+      <td>60</td>
+      <td>67</td>
+      <td>71</td>
+      <td><b>64.1</b></td>
+      <td><b>64</b></td>
+      <td><b>79</b></td>
+      <td>82</td>
+      <td>84</td>
+      <td>77.3</td>
+      <td>60</td>
+      <td><b>74</b></td>
+      <td><b>79</b></td>
+      <td>81</td>
+      <td>73.5</td>
+      <td>2.1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;"><b>Proposed</b></td>
+      <td><b>60</b></td>
+      <td><b>68</b></td>
+      <td><b>71</b></td>
+      <td><b>76</b></td>
+      <td><b>69.0</b></td>
+      <td>60</td>
+      <td>76</td>
+      <td><b>86</b></td>
+      <td><b>89</b></td>
+      <td><b>77.8</b></td>
+      <td><b>63</b></td>
+      <td>71</td>
+      <td><b>79</b></td>
+      <td><b>91</b></td>
+      <td><b>76.1</b></td>
+      <td><b>1.5</b></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 5px;">nnUNet [9]</td>
+      <td colspan="5">71.4 @ 2.8 FPs (73.0)</td>
+      <td colspan="5">78.9 @ 3.7 FPs (89.5)</td>
+      <td colspan="5">79.4 @ 3.2 FPs (89.7)</td>
+      <td>53</td>
+    </tr>
+  </tbody>
+</table>
+```

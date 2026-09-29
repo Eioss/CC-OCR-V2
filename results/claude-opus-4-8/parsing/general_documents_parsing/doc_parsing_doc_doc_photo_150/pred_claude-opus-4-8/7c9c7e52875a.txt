@@ -1,0 +1,42 @@
+# Transcription
+
+```latex
+\textbf{Enrichment Worksheet}
+
+\section*{Formulas For a Line}
+
+You can think of the slope-intercept form of an equation for a 
+line, $y = mx + b$, as a formula for the line given $m$ and $b$.
+
+\textbf{\textit{Example:}} Write the formula for a line given two points $(x_1, y_1)$ 
+and $(x_2, x_2)$.
+
+\quad Use the idea that the slope of a line is the same 
+\quad between any two points.
+
+\[
+\frac{y - y_1}{x - x_1} = \frac{y_2 - y_1}{x_2 - x_1}
+\]
+
+Multiply each \qquad $y - y_1 = \dfrac{y_2 - y_1}{x_2 - x_1}(x - x_1)$ \qquad \textit{Two-point} \\
+side by $(x - x_1)$. \hfill \textit{formula}
+
+If you know two points of a line, you can write an equation for 
+the line directly using this formula.
+
+\textbf{\textit{Use the two-point formula to write an equation for the line 
+that passes through the given points.}}
+
+\begin{enumerate}
+    \item $(3, 1)$ and $(2, -1)$ \hfill 2. $(-3, 1)$ and $(6, 7)$ \hfill 3. $(-4, 4)$ and $(0, 3)$
+    \setcounter{enumi}{3}
+    \item $(-5, -3)$ and $(7, -3)$ \hfill 5. $(10, 0)$ and $(0, 9)$ \hfill 6. $(a, 0)$ and $(0, b)$
+\end{enumerate}
+
+\textbf{\textit{Write the standard form of each equation in Exercises 1-6.}}
+
+\begin{enumerate}
+    \setcounter{enumi}{6}
+    \item Exercise 1 \hfill 8. Exercise 2 \hfill 9. Exercise 3
+\end{enumerate}
+```

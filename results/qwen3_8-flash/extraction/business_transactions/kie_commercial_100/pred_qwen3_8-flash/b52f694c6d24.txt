@@ -1,0 +1,3 @@
+```json
+{"date_issue": "Jun/15/2020", "date_due": "", "order_id": "", "vendor_name": "WSTM-TV", "vendor_address": "1030 James Street Syracuse, NY 13203 United States", "customer_id": "", "customer_billing_name": "Waterfront Strategies", "customer_billing_address": "3050 K Street NW, Suite 100 Washington, DC 20007-3606", "customer_other_name": "", "amount_total_gross": "$22,729.00", "amount_paid": "$22,729.00", "amount_due": ""}
+```

@@ -1,0 +1,197 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="4" style="text-align:center;"><b>XYZ COMPANY LIMITED</b></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;"><b>BALANCE SHEET</b></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;">AS AT</td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;">JUNE 30, 2002</td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;"><u>UNAUDITED - See "Notice to Reader"</u></td>
+   </tr>
+   <tr>
+    <td colspan="2"></td>
+    <td style="text-align:right;"><b>2002</b></td>
+    <td style="text-align:right;"><b>2001</b></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>ASSETS</b></td>
+   </tr>
+   <tr>
+    <td colspan="4">CURRENT</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Cash</td>
+    <td style="text-align:right;">$ 11,552</td>
+    <td style="text-align:right;">$ --</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Accounts receivable</td>
+    <td style="text-align:right;">42,970</td>
+    <td style="text-align:right;">50,595</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Deposits and prepaid expenses</td>
+    <td style="text-align:right;">2,942</td>
+    <td style="text-align:right;">2,688</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Inventory</td>
+    <td style="text-align:right;">159,144</td>
+    <td style="text-align:right;">156,657</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">216,608</td>
+    <td style="text-align:right;">209,940</td>
+   </tr>
+   <tr>
+    <td colspan="2">PROPERTY, PLANT AND EQUIPMENT (Note 2)</td>
+    <td style="text-align:right;">59,890</td>
+    <td style="text-align:right;">76,318</td>
+   </tr>
+   <tr>
+    <td colspan="2">INVESTMENTS</td>
+    <td style="text-align:right;">--</td>
+    <td style="text-align:right;">45,001</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">$ 276,498</td>
+    <td style="text-align:right;">$ 331,259</td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>LIABILITIES</b></td>
+   </tr>
+   <tr>
+    <td colspan="4">CURRENT</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Bank overdraft</td>
+    <td style="text-align:right;">$ --</td>
+    <td style="text-align:right;">$ 9,474</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Bank loan</td>
+    <td style="text-align:right;">--</td>
+    <td style="text-align:right;">60,000</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Accounts payable and accrued liabilities</td>
+    <td style="text-align:right;">82,053</td>
+    <td style="text-align:right;">91,343</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Long-term debt - current portion</td>
+    <td style="text-align:right;">25,200</td>
+    <td style="text-align:right;">--</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Income tax payable</td>
+    <td style="text-align:right;">14,387</td>
+    <td style="text-align:right;">--</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">121,640</td>
+    <td style="text-align:right;">160,817</td>
+   </tr>
+   <tr>
+    <td colspan="2">DUE TO SHAREHOLDER (Note 3)</td>
+    <td style="text-align:right;">51,591</td>
+    <td style="text-align:right;">231,791</td>
+   </tr>
+   <tr>
+    <td colspan="2">LONG-TERM DEBT (Note 4)</td>
+    <td style="text-align:right;">86,100</td>
+    <td style="text-align:right;">--</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">259,331</td>
+    <td style="text-align:right;">392,608</td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>SHAREHOLDER'S EQUITY</b></td>
+   </tr>
+   <tr>
+    <td colspan="2">STATED CAPITAL (Note 5)</td>
+    <td style="text-align:right;">1</td>
+    <td style="text-align:right;">1</td>
+   </tr>
+   <tr>
+    <td colspan="2">RETAINED EARNINGS (DEFICIT)</td>
+    <td style="text-align:right;">17,166</td>
+    <td style="text-align:right;">(61,350)</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">17,167</td>
+    <td style="text-align:right;">(61,349)</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:right;">$ 276,498</td>
+    <td style="text-align:right;">$ 331,259</td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;">APPROVED</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

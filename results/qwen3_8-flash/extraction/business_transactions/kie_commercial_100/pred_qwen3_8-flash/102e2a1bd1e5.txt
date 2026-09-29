@@ -1,0 +1,3 @@
+```json
+{"date_due": "21-Oct-2020", "vendor_name": "KVEG 975", "vendor_address": "3999 LAS VEGAS BLVD S LAS VEGAS, NV 89119 US", "customer_id": "#3911", "customer_billing_name": "Ilya Rockwell NReal Media Strategies", "customer_billing_address": "557 Actola Street Las Vegas, NV 89144 USA", "amount_total_tax": "0.00", "amount_total_gross": "USD 5,304.00", "amount_due": "USD 5,304.00", "payment_reference": "62624579027", "tax_detail_tax": "0.00", "tax_detail_gross": "0.00"}
+```

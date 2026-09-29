@@ -1,0 +1,7 @@
+ $$\{ \theta _ { \alpha } , g \} _ { \alpha \beta } = \{ g _ { \alpha } . f _ { 1 , \beta + 1 } , g \} _ { \alpha \beta } - \{ g _ { \alpha } ^ { \rightarrow } . f _ { 1 , \beta + 1 } ^ { \leftarrow } , g \} _ { \alpha \beta }$$
+ $$= g _ { \alpha } \{ f _ { 1 , \beta + 1 } , g \} _ { \alpha \beta } + f _ { 1 , \beta + 1 } \{ g _ { \alpha } , g \} _ { \alpha \beta }$$
+ $$- g _ { \alpha } ^ { \rightarrow } \{ f _ { 1 , \beta + 1 } ^ { \leftarrow } , g \} _ { \alpha \beta } - f _ { 1 , \beta + 1 } ^ { \leftarrow } \{ \overrightarrow { g _ { \alpha } } , g \} _ { \alpha \beta }$$
+ $$= g _ { \alpha } \{ f _ { 1 , \beta + 1 } , g \} _ { s k d } - g _ { \alpha } f _ { 1 , \beta + 1 } ^ { \leftarrow } . g ^ { \rightarrow } + f _ { 1 , \beta + 1 } \{ g _ { \alpha } , g \} _ { s k d }$$
+ $$- g _ { \alpha } ^ { \rightarrow } \{ f _ { 1 , \beta + 1 } ^ { \leftarrow } , g \} _ { s k d } - f _ { 1 , \beta + 1 } ^ { \leftarrow } \{ \overrightarrow { g _ { \alpha } } , g \} _ { s k d }$$
+ $$= ( w _ { f _ { 1 , \beta + 1 } , g } + w _ { g _ { \alpha } , g } ) \; g _ { \alpha } \cdot f _ { 1 , \beta + 1 } \cdot g$$
+ $$- ( w _ { g _ { \alpha } , g } + w _ { f _ { 1 , \beta + 1 } , g } - s w _ { \alpha \beta } ( g ) ) \; g _ { \alpha } ^ { \rightarrow } \cdot f _ { 1 , \beta + 1 } ^ { \leftarrow } \cdot g .$$

@@ -1,0 +1,62 @@
+I'll transcribe the worksheet content into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+\usepackage{amsmath}
+
+\begin{document}
+
+\textbf{\textcolor{green!50!black}{Test Your Reading}}
+
+\begin{tcolorbox}[colback=yellow!10!white]
+\textbf{\textit{Word Power}}\\
+\begin{tabular}{ll}
+Extra & more than what is needed \\
+Instead & as an alternative \\
+Din & noise \\
+Seize & catch by force \\
+\end{tabular}
+\end{tcolorbox}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Complete the following statements:}
+    \begin{enumerate}[label=(\alph*)]
+        \item They began \underline{\textit{heating}} the iron and forging it again.
+        \item The farmer \underline{\textit{led}} the lord to the storeroom.
+        \item Off rode the \underline{\textit{farmer}} and the lord to get what he had earned.
+        \item The lord \underline{\textit{heated}} it well and threw it in a tub of water.
+        \item The lord \underline{\textit{did not}} want the coachman to know the shame.
+    \end{enumerate}
+
+    \item \textbf{Answer the following questions:}
+    \begin{enumerate}[label=(\alph*)]
+        \item What did the lord try to make when he failed to make the plough?
+        \item What did the lord try to make when he could not make the axe?
+        \item What did the lord make at last?
+        \item How did the lord make a sizz?
+        \item Why did the lord take the sack to the farmer's home?
+        \item What did the strongmen do?
+    \end{enumerate}
+
+    \item \textbf{Who said to whom:}
+    \begin{enumerate}[label=(\alph*)]
+        \item Oh all right then.\\
+        \textbf{\textit{Who said?}} \rule{4cm}{0.4pt} \quad \textbf{\textit{To whom?}} \rule{4cm}{0.4pt}
+        \item It's a fine sizz.\\
+        \textbf{\textit{Who said?}} \rule{4cm}{0.4pt} \quad \textbf{\textit{To whom?}} \rule{4cm}{0.4pt}
+        \item I'll take the sack and go into the storeroom myself.\\
+        \textbf{\textit{Who said?}} \rule{4cm}{0.4pt} \quad \textbf{\textit{To whom?}} \rule{4cm}{0.4pt}
+    \end{enumerate}
+\end{enumerate}
+
+\begin{center}
+\fbox{12}
+\end{center}
+
+\end{document}
+```
+
+**Note:** The italicized underlined words in Section 1 (*heating*, *led*, *farmer*, *heated*, *did not*) represent the handwritten answers filled in on the worksheet.

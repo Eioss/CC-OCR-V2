@@ -1,0 +1,12 @@
+```json
+{
+  "menu": [
+    {"name": "BLACKCURRANT", "quantity": "1", "price": "32,000"},
+    {"name": "SPRITE", "quantity": "1", "price": "32,000"},
+    {"name": "GRILLED CALAMARI", "quantity": "1", "price": "85,000"},
+    {"name": "DINE FOR 2", "quantity": "1", "price": "129,000"}
+  ],
+  "sub_total": "278,000",
+  "total": "330,264"
+}
+```

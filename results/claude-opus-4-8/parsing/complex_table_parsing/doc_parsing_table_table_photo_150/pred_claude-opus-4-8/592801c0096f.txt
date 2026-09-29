@@ -1,0 +1,149 @@
+I'll transcribe this construction material testing report into HTML format.
+
+```html
+<table border="1">
+  <tr>
+    <td>工程名称</td>
+    <td colspan="4">简阳市河东自来水厂建设工程</td>
+    <td>环境温度(℃)</td>
+    <td colspan="2">——℃</td>
+  </tr>
+  <tr>
+    <td>工程部位</td>
+    <td colspan="4">高锰酸钾及活性炭投加间</td>
+    <td colspan="3" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td>施工单位</td>
+    <td colspan="4">——</td>
+  </tr>
+  <tr>
+    <td>委托单位</td>
+    <td colspan="4">简阳市兴泽供排水有限公司</td>
+    <td>委托编号</td>
+    <td colspan="2">2103287</td>
+  </tr>
+  <tr>
+    <td>见证单位</td>
+    <td colspan="4">中鸿亿博集团有限公司</td>
+    <td>委托日期</td>
+    <td colspan="2">2021-04-27</td>
+  </tr>
+  <tr>
+    <td>委托人员</td>
+    <td colspan="2">齐艳</td>
+    <td>见证人员</td>
+    <td>王小</td>
+    <td>试验日期</td>
+    <td colspan="2">2021-04-27</td>
+  </tr>
+  <tr>
+    <td>委托类型</td>
+    <td colspan="2">见证取样</td>
+    <td>见证号码</td>
+    <td>JLPX(2018)04872</td>
+    <td>报告日期</td>
+    <td colspan="2">2021-04-28</td>
+  </tr>
+  <tr>
+    <td>基体材料</td>
+    <td colspan="2">普通砖</td>
+    <td>粘结材料</td>
+    <td>——</td>
+    <td>粘结日期</td>
+    <td colspan="2">2021-03-30</td>
+  </tr>
+  <tr>
+    <td>规格尺寸</td>
+    <td colspan="2">45×45mm</td>
+    <td>粘结剂</td>
+    <td>1001面砖粘接剂</td>
+    <td>龄期(d)</td>
+    <td colspan="2">28</td>
+  </tr>
+  <tr>
+    <td>依据标准</td>
+    <td colspan="7">JGJ/T 110-2017</td>
+  </tr>
+  <tr>
+    <td colspan="8">检 测 结 果</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">检测项目</td>
+    <td rowspan="2">标准要求</td>
+    <td colspan="2">样品1</td>
+    <td colspan="2">样品2</td>
+    <td>样品3</td>
+  </tr>
+  <tr>
+    <td colspan="2">R<sub>1</sub></td>
+    <td colspan="2">R<sub>2</sub></td>
+    <td>R<sub>3</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">试件尺寸(mm)</td>
+    <td>——</td>
+    <td colspan="2">45×44</td>
+    <td colspan="2">45×45</td>
+    <td>45×45</td>
+  </tr>
+  <tr>
+    <td colspan="2">受拉面积(mm²)</td>
+    <td>——</td>
+    <td colspan="2">1980</td>
+    <td colspan="2">2025</td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td colspan="2">粘结力(kN)</td>
+    <td>——</td>
+    <td colspan="2">0.78</td>
+    <td colspan="2">0.75</td>
+    <td>0.86</td>
+  </tr>
+  <tr>
+    <td colspan="2">取样部位</td>
+    <td>——</td>
+    <td colspan="2">5-6/A</td>
+    <td colspan="2">1-2/C</td>
+    <td>1/A-B</td>
+  </tr>
+  <tr>
+    <td colspan="2">断开状态</td>
+    <td>——</td>
+    <td colspan="2">粘接层为主断开</td>
+    <td colspan="2">粘接层为主断开</td>
+    <td>粘接层与找平层界面为主断开</td>
+  </tr>
+  <tr>
+    <td rowspan="3">粘结强度(MPa)</td>
+    <td>单块值(MPa)</td>
+    <td>——</td>
+    <td colspan="2">0.4</td>
+    <td colspan="2">0.4</td>
+    <td>0.4</td>
+  </tr>
+  <tr>
+    <td>平均值(MPa) R̄</td>
+    <td>≥0.4</td>
+    <td colspan="5">0.4</td>
+  </tr>
+  <tr>
+    <td>最小值(MPa)</td>
+    <td>≥0.3</td>
+    <td colspan="5">0.4</td>
+  </tr>
+  <tr>
+    <td colspan="2">检测结论</td>
+    <td colspan="6">依据JGJ/T 110-2017该组样品粘结强度合格。</td>
+  </tr>
+  <tr>
+    <td colspan="2">备注</td>
+    <td colspan="6">——</td>
+  </tr>
+  <tr>
+    <td colspan="2">声明</td>
+    <td colspan="6">1、报告（包括复制报告）无资质专用鲜章以及检验检测专用鲜章无效。2、报告无检验人、校核人、审批人签字无效。3、报告涂改无效。4、检验检测机构接受委托送检的，其检验检测数据、结果仅证明所检验检测样品符合性情况。5、对报告若有异议，应于收到报告之日起三日内提出。</td>
+  </tr>
+</table>
+```

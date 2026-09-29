@@ -1,0 +1,23 @@
+```json
+[
+    {"bbox_2d": [160, 135, 387, 149], "label": "ADDRESS"},
+    {"bbox_2d": [157, 232, 351, 246], "label": "ADDRESS"},
+    {"bbox_2d": [159, 265, 374, 279], "label": "ADDRESS"},
+    {"bbox_2d": [574, 489, 656, 504], "label": "AMOUNT"},
+    {"bbox_2d": [159, 108, 332, 123], "label": "COMPANY NAME"},
+    {"bbox_2d": [160, 214, 225, 227], "label": "COMPANY NAME"},
+    {"bbox_2d": [579, 363, 651, 378], "label": "DATE"},
+    {"bbox_2d": [167, 489, 398, 503], "label": "DESCRIPTION OF GOODS"},
+    {"bbox_2d": [160, 191, 301, 205], "label": "FAX"},
+    {"bbox_2d": [161, 348, 258, 363], "label": "FROM"},
+    {"bbox_2d": [421, 363, 546, 378], "label": "INVOICE No."},
+    {"bbox_2d": [84, 528, 137, 542], "label": "MARKS"},
+    {"bbox_2d": [160, 299, 332, 313], "label": "PHONE NO."},
+    {"bbox_2d": [427, 490, 456, 503], "label": "QTY (PCS)"},
+    {"bbox_2d": [161, 319, 209, 332], "label": "SHIPMENT"},
+    {"bbox_2d": [161, 178, 302, 191], "label": "TEL"},
+    {"bbox_2d": [450, 231, 624, 287], "label": "TITLE"},
+    {"bbox_2d": [161, 378, 276, 392], "label": "TO"},
+    {"bbox_2d": [487, 489, 552, 503], "label": "UNIT PRICE"}
+]
+```

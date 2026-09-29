@@ -1,0 +1,9 @@
+$$M' \cong L_{B^0} L_{B^{\perp\perp}}$$
+$$\cong L_{B^{\perp\perp}}[1]$$
+$$= i_A^L - o\, i_A + [1]$$
+$$\cong i_A^L + o\, S\, o\, i_A + [1]$$
+$$\cong i_A^L + o\, i_A - o\, i_A^L - o\, S\, o\, i_A + [1]$$
+$$= L_{B^0} i_A^L - o\, S\, o\, i_A + [1]$$
+$$\cong i_A^L - o\, S\, o\, i_A + [2]$$
+$$\cong i_A^L + o\, S\, o\, i_A - o\, i_A^L - o\, S\, o\, i_A + [2]$$
+$$= i_A^L + o\, S^2\, o\, i_A + [2]$$

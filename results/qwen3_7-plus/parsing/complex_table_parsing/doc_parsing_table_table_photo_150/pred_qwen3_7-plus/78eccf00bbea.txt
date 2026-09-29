@@ -1,0 +1,84 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 8px 12px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th rowspan="2">Method</th>
+    <th colspan="3">T=20</th>
+    <th colspan="3">T=50</th>
+   </tr>
+   <tr>
+    <th>IPV</th>
+    <th>BL</th>
+    <th>CTR</th>
+    <th>IPV</th>
+    <th>BL</th>
+    <th>CTR</th>
+   </tr>
+   <tr>
+    <td>GREEDY</td>
+    <td>68.06</td>
+    <td>216.38</td>
+    <td><b>0.31</b></td>
+    <td>68.23</td>
+    <td>217.93</td>
+    <td><b>0.31</b></td>
+   </tr>
+   <tr>
+    <td>Beam Search</td>
+    <td>105.52</td>
+    <td>427.80</td>
+    <td>0.25</td>
+    <td>107.06</td>
+    <td>439.59</td>
+    <td>0.24</td>
+   </tr>
+   <tr>
+    <td>SSP</td>
+    <td><b>189.11</b></td>
+    <td><b>999.51</b></td>
+    <td>0.19</td>
+    <td><b>242.77</b></td>
+    <td><b>1632.56</b></td>
+    <td>0.15</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

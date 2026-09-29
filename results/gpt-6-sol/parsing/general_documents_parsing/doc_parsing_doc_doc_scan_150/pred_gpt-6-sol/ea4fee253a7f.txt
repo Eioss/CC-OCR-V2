@@ -1,0 +1,92 @@
+```latex
+\begin{center}
+\textbf{Prerana Model paper-1 \qquad MCQ questions \qquad click the correct one}
+\end{center}
+
+1. Sum of “\(n\)” terms of the Arithmetic Progression
+\(1+3+5+7+9+\ldots\) which one is correct
+
+\(\textbf{A)}\ n(n+1) \qquad
+  \textbf{B)}\ n^2 \qquad
+  \textbf{C)}\ 25 \qquad
+  \textbf{D)}\ 2n\)
+
+2. Solutions of the equation \(a_1x+b_1y+c_1=0\) and
+\(a_2x+b_2y+c_2=0\) are consistent then the correct form among the
+following is.
+
+\(\textbf{A)}\ \dfrac{a_1}{a_2}\ne\dfrac{b_1}{b_2}
+\qquad
+\textbf{B)}\ \dfrac{a_1}{a_2}=\dfrac{b_1}{b_2}
+\qquad
+\textbf{C)}\ \dfrac{a_1}{b_1}=\dfrac{a_2}{b_2}=\dfrac{c_2}{c_1}
+\qquad
+\textbf{D)}\ \dfrac{a_1}{a_2}=\dfrac{b_1}{b_2}\ne\dfrac{c_1}{c_2}\)
+
+3. In a quadratic equation the value of the discriminant is \(-33\)
+then the equation has
+
+\(\textbf{A)}\ \text{Real \& distinct roots} \qquad
+\textbf{B)}\ \text{Real \& equal roots}\)
+
+\(\textbf{C)}\text{not real roots} \qquad
+\textbf{D)}\ \text{rational and distinct roots.}\)
+
+4. If \(\tan A=1\) then the value \(A\) is
+
+\(\textbf{A)}\ 90^\circ \qquad
+\textbf{B)}\ 0^\circ \qquad
+\textbf{C)}\ 60^\circ \qquad
+\textbf{D)}\ 45^\circ\)
+
+5. When a cone is cut by a plane horizontally, parallel to base of the
+cone then the part other than smaller cone obtained is called.
+
+\(\textbf{A)}\ \text{Frustum of cone} \qquad
+\textbf{B)}\ \text{cylinder} \qquad
+\textbf{C)}\ \text{major cone} \qquad
+\textbf{D)}\ \text{Hemisphere}\)
+
+6. Formula used to find volume of right circular cylinder is
+
+\(\textbf{A)}\ \pi rh^2 \qquad
+\textbf{B)}\ \dfrac{2}{3}\pi r^2h \qquad
+\textbf{C)}\ \dfrac{1}{3}\pi r^2h \qquad
+\textbf{D)}\ \pi r^2h\)
+
+7. The coordinates of the midpoint of the line joining the points
+\((3,7)\) and \((5,5)\) is
+
+\(\textbf{A)}\ (4,6) \qquad
+\textbf{B)}\ (6,4) \qquad
+\textbf{C)}\ (2,-2) \qquad
+\textbf{D)}\ (4,4)\)
+
+8. Roots of the quadratic equation \((2x+1)(x+2)=0\) are
+
+\(\textbf{A)}\ \dfrac{1}{2}\ \text{and}\ 2 \qquad
+\textbf{B)}\ -\dfrac{1}{2}\ \text{and}\ -2 \qquad
+\textbf{C)}\ -\dfrac{1}{2}\ \text{and}\ 2 \qquad
+\textbf{D)}\ \dfrac{1}{2}\ \text{and}\ -2\)
+
+9. \(2x^2+3x-5=0\) Discriminant value of this quadratic equation?
+
+\(\textbf{A)}\ 19 \qquad
+\textbf{B)}\ -49 \qquad
+\textbf{C)}\ -31 \qquad
+\textbf{D)}\ 49\)
+
+10. AR, AD, AB, AP \& PC are the tangents of the circle of centre O.
+which relations is correct?
+
+\(\textbf{A)}\ \mathrm{AP}=\mathrm{AR} \qquad
+\textbf{B)}\ \mathrm{AR}=\mathrm{RD} \qquad
+\textbf{C)}\ \mathrm{RA}=\mathrm{PC} \qquad
+\textbf{D)}\ \mathrm{RA}=\mathrm{RB}\)
+
+Diagram labels: \(P,\ A,\ R,\ O,\ D,\ B,\ C\).
+
+\textbf{SUDEESHA BC MYSURU}
+\qquad
+\textbf{LIVEWORKSHEETS}
+```

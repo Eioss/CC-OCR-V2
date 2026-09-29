@@ -1,0 +1,13 @@
+$$\begin{aligned}
+E \Big [ \sum _ { a \leq X } I \big \{ P S = 5 + 1 \big \} I \{ I = 2 \} I \{ A _ { 2 } = 2 \} a ( a + 2 ) Y _ { a } \big | X \Big ] \\
+= \Big [ \sum _ { a \leq X } \frac { I ( P S = 5 + 1 ) I ( A _ { 2 } = 2 ) a ( a + 2 ) Y _ { a } } { 2 } \Big ] f _ { 2 } ( a \vert X ) \\
+x _ { 2 } - x _ { n + 1 } \geq w ( c _ { t } ) + f ( c _ { t } , c _ { t + 1 } ) , \quad + f ( c _ { t } < \lambda ^ { n - 1 } \\
+w ( c _ { t } ) + f ( c _ { t } - \lambda ^ { n - 1 } , c _ { t + 1 } ) . \quad + f ( c _ { t } > \lambda ^ { n - 1 } \\
+h _ { m i n } ( x ^ { S - 1 } ) > h _ { m i n } ( x ^ { S } ) > h _ { m i n } ( x ^ { 3 t + 1 } ) > \cdots > h _ { m i n } ( x ^ { n } ) . \\
+\sum _ { t } k ( u _ { t } ^ { e } ) \leq \sum _ { t } ( k ( u _ { t } - 1 ) \leq \sum _ { t } k ( u _ { t } ) - d \leq n \\
+P _ { 0 } ( E _ { H } ) = P ( B _ { 2 ( V ) , k ( n ) } = 0 , B _ { 2 ( V ) , k ( n ) } = 0 \vert g ) \\
+\leq \min \{ P ( B _ { 2 ( V ) , k ( n ) } = 0 \vert y ) , P ( B _ { 2 ( V ) , k ( n ) } = 0 \vert y ) \} \\
+A _ { 0 } \leq \int _ { 0 } ^ { T } \| u ^ { * / 4 } \| _ { L _ { x } ^ { \infty } } \| D _ { x } ^ { s } ( u ^ { * / 4 } , u ) \| _ { L _ { 2 } ^ { x } } \partial t + \int _ { 0 } ^ { T } \| D _ { x } ^ { s } ( u ^ { * / 4 } , u ^ { * / 4 } ) \| _ { L _ { 2 } ^ { x } } d t \\
+= A _ { 1 } + A _ { 2 } \\
+( \| D u \| _ { L ^ { 2 } ( 2 \Omega ) } \geq \| \frac { \partial ( \Omega ) } { N } \| x - x _ { 0 } | - \| D u \| _ { L ^ { 2 } ( 2 \Omega ) } ) \\
+\geq \| \frac { \partial ( \Omega ) } { N } \| x - x _ { 0 } | - \| L ^ { 2 } ( 2 \Omega ) } - \| D u \| _ { L ^ { 2 } ( 2 \Omega ) } , \end{aligned}$$

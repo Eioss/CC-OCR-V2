@@ -1,0 +1,28 @@
+\[
+\lambda^{2}=\lambda_n^{2}=\left(\frac{\pi n}{\ell}\right)^{2},
+\qquad n\in\mathbb N.
+\]
+
+\[
+\begin{aligned}
+\Delta^{p}u={}&
+\bigl[(u_x)^2+(u_y)^2\bigr]^{n/2}\Delta u\\
+&+n\bigl[(u_x)^2+(u_y)^2\bigr]^{(n-2)/2}
+\bigl[(u_x)^2u_{xx}+2u_xu_yu_{xy}+(u_y)^2u_{yy}\bigr].
+\end{aligned}
+\]
+
+\[
+\#(0)=\{\delta X\mid B(X)=0\ \text{and}\ \phi(X)=0\},
+\]
+
+\[
+\|R_{T,A,u}\|_{\frac{p\bar p}{p-\bar p}(\Omega)}
+\le C\|u\|_{W_\delta^{s}(\Omega)},
+\qquad \forall T\ge T_1,
+\]
+
+\[
+H=\frac{x_1'x_2''-x_1''x_2'}
+{2\bigl(1+(r')^2\bigr)^{3/2}}\,n_1.
+\]

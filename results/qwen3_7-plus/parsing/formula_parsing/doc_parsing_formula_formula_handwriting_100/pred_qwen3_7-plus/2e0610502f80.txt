@@ -1,0 +1,17 @@
+$$a _ { k , j } = \frac { R e F ( \Lambda _ { k } - \Lambda _ { 0 } + i ( \mu _ { j } - \mu _ { k } ) ) } { F ( \lambda _ { k } - \lambda _ { 0 } ) } , b _ { k , j } = \frac { R e F ( - \Lambda _ { 0 } + i ( \mu _ { j } - \mu _ { k } ) ) } { F ( - \lambda _ { 0 } ) }$$
+
+ $$\tilde { A } _ { t , 0 } ^ { ( k ) } \in C _ { 0 } ^ { \infty } ( \partial \Omega \times \partial \Omega \times \Omega \times \mathbb { R } ^ { n - 1 } ) .$$
+
+ $$\sum _ { j } | E _ { j } | \leq C \int _ { 0 } ^ { t } \| u _ { n } - u _ { p } \| _ { B _ { 2 , 2 } ^ { s } } \| \nabla b _ { n } \| _ { B _ { 2 , 2 } ^ { s - 1 } } \| b _ { n } - b _ { p } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { 0 } ) } ^ { \infty } \, d t ^ { ' }$$
+
+ $$\leq \frac { 1 } { 4 } \| u _ { n } - u _ { p } \| _ { L _ { t } ^ { 2 } ( B _ { 2 , 2 } ^ { 0 } ) } ^ { 2 } + C t \| b _ { n } \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { s } ) } ^ { 2 } \| b _ { n } - p \| _ { L _ { t } ^ { \infty } ( B _ { 2 , 2 } ^ { 0 } ) } ^ { 2 } .$$
+
+ $${ \frac { 1 - \epsilon / 1 0 } { 2 } } ( ( 1 - 1 / r ) ^ { i - 1 } ( 1 - \epsilon / 2 ) O P T - f ( S ) )$$
+
+ $$\begin{array} { l } { { \partial _ { \tau } ^ { 2 } y _ { + } + a y _ { + } + \displaystyle ( 2 i \frac { \partial A ( X ) } { \partial x } - A ^ { * } ( X ) e ^ { i \phi _ { d 2 } } ) e ^ { i \tau } + ( 2 i \frac { \partial A ^ { * } ( X ) } { \partial A } + A ( X ) e ^ { - i \phi _ { d 2 } } ) e ^ { - i \tau } } } \\ { { - A ( X ) e ^ { 3 i \tau + i \phi _ { d 2 } } - A ^ { * } ( X ) e ^ { - 3 i \tau - i \phi _ { d 2 } } = 0 . } } \end{array}$$
+
+ $$\| u _ { \varepsilon , n } - u _ { 0 , n } \| _ { L ^ { 2 } ( \Omega ) } \leq C ( 1 + N ) \varepsilon \bigl \{ \| F \| _ { L ^ { 2 } ( \Omega ) } + \| G \| _ { H ^ { 2 } ( \Omega ) } \bigr \} ,$$
+
+ $$\delta ( \| r \theta _ { r } h \| _ { X ^ { s } ( 0 < r < \infty ) } ^ { 2 } + \| r \theta _ { z } h \| _ { X ^ { s } ( 0 < r < \infty ) } ^ { 2 } ) = \delta \| h \| _ { X ^ { s } ( \mathbb { R } ^ { 3 } ) } ^ { 2 } + \mathcal { E } _ { \delta } ,$$
+
+ $$U _ { \xi } ( 0 , s ) = \left\{ \begin{array} { l l } { { \exp ( - \int _ { s } ^ { 0 } \alpha ( r ) d r ) } } & { { \mathrm { i f ~ } s \epsilon [ - 1 , 0 ] } } \\ { { z ( - s - 1 , f _ { s + 1 } , \phi ( f _ { s } ) ) } } & { { \mathrm { i f ~ } s \le - 1 . } } \end{array} \right.$$

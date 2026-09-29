@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$640.00",
+    "advertiser": "Greg Gianforte for Governor-R (112369)",
+    "flight_from": "3/30/2020",
+    "flight_to": "4/26/2020"
+}
+```

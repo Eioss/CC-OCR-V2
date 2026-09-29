@@ -1,0 +1,5 @@
+The text '103.00' appears in multiple locations on this receipt. Here are their coordinates:
+
+(617, 460, 832, 542) # 检查费 amount
+(694, 715, 902, 786) # 现金支付 amount
+(670, 925, 882, 1003) # 合计 (total) amount

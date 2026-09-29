@@ -1,0 +1,5 @@
+N#Cc1ccc(OCc2ccc(-c3ccc(S(=O)(=O)C(F)(F)F)cc3)cc2C2(C(F)(F)F)CC2(F)C2O)cc1
+
+I need to reconsider the cyclopentane ring structure.
+
+**SMILES:** N#Cc1ccc(OCc2ccc(-c3ccc(S(=O)(=O)CC(F)F)cc3)cc2)cc1C1(F)CC(F)(C(F)(F)F)C(O)C1

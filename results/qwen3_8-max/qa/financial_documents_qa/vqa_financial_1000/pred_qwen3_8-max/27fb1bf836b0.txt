@@ -1,0 +1,18 @@
+Based on the document provided, the **Conversion Program** is listed as:
+
+**6000**
+
+This value appears in the left-hand column under the field labeled “Conversion Program”.
+
+---
+
+Additionally, from the “Helpful Hints” at the bottom of the form:
+
+> *System = Brand Sub-system(s) if this code is for evaluation and/or entry into conversion pgm.*  
+> *System = Conversion Sub-system if this code is for response to mailings from conversion pgm.*
+
+This suggests that “Conversion Program 6000” refers to a specific program or subsystem used for tracking responses related to consumer conversion efforts — likely tied to marketing campaigns or direct mail initiatives (as implied by terms like “BRC”, “WCNV”, “Consumer Mission”, etc.).
+
+The number **6000** is the identifier for this particular conversion program within the system.
+
+✅ So, the answer is: **6000**

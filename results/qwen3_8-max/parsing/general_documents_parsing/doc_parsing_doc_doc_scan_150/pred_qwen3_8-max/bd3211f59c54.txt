@@ -1,0 +1,37 @@
+```latex
+\begin{tabular}{lrrrrr}
+\hline \hline
+\textbf{BALANCE SHEET - Months} & \textbf{Jan 2021} & \textbf{Feb 2021} & \textbf{Mar 2021} & \textbf{Apr 2021} & \textbf{May 2021} \\
+\hline
+\multicolumn{6}{l}{\textbf{ASSETS}} \\
+\multicolumn{6}{l}{\textbf{Fixed Assets}} \\
+\multicolumn{6}{l}{\quad \textbf{Assets}} \\
+\quad \quad On-site assets & 5,843.33 & 5,786.77 & 6,350.31 & 6,283.95 & 6,217.70 \\
+\quad \quad Other assets & 5,950.00 & 5,900.42 & 5,851.25 & 5,802.49 & 5,754.13 \\
+\quad \quad Total of Assets & 11,793.33 & 11,687.19 & 12,201.56 & 12,086.44 & 11,971.83 \\
+\rowcolor{gray!10} \textbf{Total of Fixed Assets} & \textbf{11,793.33} & \textbf{11,687.19} & \textbf{12,201.56} & \textbf{12,086.44} & \textbf{11,971.83} \\
+\multicolumn{6}{l}{\textbf{Investments}} \\
+\multicolumn{6}{l}{\quad \textbf{Funding}} \\
+\quad \quad Borrowing & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad \quad Total of Funding & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\rowcolor{gray!10} \textbf{Total of Investments} & \textbf{1,004.17} & \textbf{1,008.35} & \textbf{1,012.55} & \textbf{1,016.77} & \textbf{1,021.01} \\
+\rowcolor{gray!10} \textbf{Non - Current Assets} & \textbf{12,797.50} & \textbf{12,695.54} & \textbf{13,214.11} & \textbf{13,103.21} & \textbf{12,992.84} \\
+\multicolumn{6}{l}{} \\
+\multicolumn{6}{l}{\textbf{Accounts Receivable}} \\
+\quad Sales & 800.00 & 800.00 & 800.00 & 800.00 & \\
+\rowcolor{gray!10} \textbf{Total of Accounts Receivable} & \textbf{800.00} & \textbf{800.00} & \textbf{800.00} & \textbf{800.00} & \\
+\multicolumn{6}{l}{\textbf{Inventory}} \\
+\multicolumn{6}{l}{\quad \textbf{Sales}} \\
+\quad \quad Coffee - Hot Drinks & 2,428.40 & 4,449.82 & 6,472.31 & 8,495.92 & 10,520.72 \\
+\quad \quad Other Hot Drinks & 333.38 & 364.48 & 398.59 & 435.99 & 477.00 \\
+\quad \quad Cold Beverages & 103.00 & 108.00 & 118.00 & 133.00 & 143.00 \\
+\quad \quad Total of Sales & 2,864.78 & 4,922.30 & 6,988.90 & 9,064.91 & 11,140.72 \\
+\rowcolor{gray!10} \textbf{Total of Inventory} & \textbf{2,864.78} & \textbf{4,922.30} & \textbf{6,988.90} & \textbf{9,064.91} & \textbf{11,140.72} \\
+Surplus Cash & 5,435.07 & 4,366.74 & 2,774.01 & 1,743.97 & 2,559.79 \\
+VAT Asset & 2,059.41 & 1,426.00 & & & \\
+\rowcolor{gray!10} \textbf{Current Assets} & \textbf{11,159.26} & \textbf{11,515.04} & \textbf{10,562.91} & \textbf{11,608.88} & \textbf{13,700.51} \\
+\multicolumn{6}{l}{} \\
+\rowcolor{gray!20} \textbf{Total Assets} & \textbf{23,956.76} & \textbf{24,210.58} & \textbf{23,777.02} & \textbf{24,712.09} & \textbf{26,693.35} \\
+\hline \hline
+\end{tabular}
+```

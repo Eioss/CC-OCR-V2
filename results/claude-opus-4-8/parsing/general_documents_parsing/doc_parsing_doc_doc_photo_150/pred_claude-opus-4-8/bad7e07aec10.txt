@@ -1,0 +1,49 @@
+# 业务合作协议 - LaTeX 转写
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{ctex}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+\usepackage{setspace}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{业务合作协议}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent \textbf{甲方：}河南国审会计师事务所有限公司
+
+\noindent \textbf{乙方：}
+
+\vspace{0.3cm}
+
+\hspace{2em}现甲、乙双方就乙方配合贵州赖茅酒业有限公司财务收支审计、内控评价及内控体系建设、整改复核等业务的有关事项进行以下约定：
+
+\vspace{0.3cm}
+
+\hspace{2em}\textbf{一、工作内容}
+
+\hspace{2em}1.\ 乙方接受甲方委托，配合甲方对贵州赖茅酒业有限公司2014年10月至2018年6月财务收支情况进行审计，并编写审计报告，包括整改建议。
+
+\hspace{2em}2.\ 乙方接受甲方委托，配合甲方对贵州赖茅酒业有限公司截至2018年6月30日按照《企业内部控制基本规范》和相关规定建立的财务报告内部控制进行评价，并编写内部控制评价报告，包括整改建议。
+
+\hspace{2em}3.\ 乙方接受甲方委托，配合甲方为贵州赖茅酒业有限公司提供内部控制体系建设咨询服务，具体内容为：进行业务梳理，构建公司流程目录；根据流程目录绘制业务流程图；进行流程管控设计，明确控制点与控制措施，提交内控体系文件。
+
+\hspace{2em}4.\ 乙方接受甲方委托，配合甲方为贵州赖茅酒业有限公司梳理、核实贵州赖茅酒业有限公司各部门审计整改结果；进行审计整改复核。
+
+\hspace{2em}5.\ 按时提交经贵州赖茅酒业有限公司确认的上述业务成果，及甲方认可的全部底稿、档案。
+
+\vspace{0.3cm}
+
+\hspace{2em}\textbf{二、甲方责任}
+
+\hspace{2em}1.\ 按时付款。
+
+\hspace{2em}2.\ 现场派出带队人员及部分项目人员。
+
+\end{document}
+```

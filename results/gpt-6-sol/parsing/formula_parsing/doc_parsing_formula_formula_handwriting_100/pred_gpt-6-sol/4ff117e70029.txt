@@ -1,0 +1,31 @@
+\[
+\begin{aligned}
+\langle P_N(\mathrm{Id}-\Delta_{-1})u_N-pu_{HF},\psi\rangle
+&=\langle P_N(\mathrm{Id}-\Delta_{-1})u_N-u_{HF},\psi\rangle
++\langle p-P_N,\psi u_{HF}\rangle,\\[2mm]
+D_T&:=(0,T)\times D,\qquad
+\partial D_T:=(0,T)\times\partial D,\qquad
+\mathbb R_T^n:=(0,T)\times\mathbb R^n,\\[2mm]
+\liminf_{\varepsilon\to0}\sum_{j=0}^{m}
+\int_{S_\varepsilon^j}\widehat G_\varepsilon^j
+\bigl[(u_\varepsilon)_\tau\bigr]_{S_\varepsilon^j}\,d\sigma(x)
+&\geq
+\sum_{j=0}^{m}
+\left\langle G^j,\bigl[(U)_\tau\bigr]_{S^j}+\gamma_\tau^j\right\rangle,\\[2mm]
+A_\infty
+&=\lim_{k\to\infty}A_k
+=\lim_{k\to\infty}\sum_{i=1}^{d}x_{k_i}^{\otimes m}
+=\sum_{i=1}^{d}x_{\infty_i}^{\otimes m}
+\in CP^{n,m}(K),\\
+\gamma&:=\max\{r_i\}_{i\in\{1,\ldots,m\}},\\
+A\gamma\circ M_x&=A_x,\qquad A_{-x}\circ C=A_x,\\
+a\{n\}&=(a_2)\cdots(a_k),\\
+V(\varepsilon_1,\varepsilon_2)
+&=V\setminus\{|z|<\varepsilon_1\}\cup\{|\zeta|<\varepsilon_2\},\\[2mm]
+\frac{a_2^3}{a_2^3-2a_3^2}
+&\longrightarrow-\infty\quad\text{as }\widehat A\longrightarrow0,
+\qquad
+\frac{a_2^3}{a_2^3-2a_3^2}
+\nearrow1\quad\text{as }A\nearrow\infty.
+\end{aligned}
+\]

@@ -1,0 +1,38 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+    <tr>
+        <td colspan="3"><strong>2. Contribution format income statement</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center;"><strong>The Alpine House, Inc.</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: center;"><strong>Contribution Format Income Statement</strong></td>
+    </tr>
+    <tr>
+        <td>Sales.......................................................................................................</td>
+        <td></td>
+        <td style="text-align: right;"><strong>$150,000</strong></td>
+    </tr>
+    <tr>
+        <td>Variable expenses:</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;Cost of goods sold<br>&nbsp;&nbsp;&nbsp;&nbsp;($30,000 + $100,000 - $40,000)...............................</td>
+        <td style="text-align: right;">$90,000</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;Selling expenses<br>&nbsp;&nbsp;&nbsp;&nbsp;($50 per unit &times; 200 pairs of skis)...............................</td>
+        <td style="text-align: right;">10,000</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&nbsp;&nbsp;&nbsp;&nbsp;Administrative expenses</td>
+        <td style="text-align: right; border-bottom: 1px solid black;">2,000</td>
+        <td style="text-align: right; border-bottom: 1px solid black;">102,000</td>
+    </tr>
+</table>
+```

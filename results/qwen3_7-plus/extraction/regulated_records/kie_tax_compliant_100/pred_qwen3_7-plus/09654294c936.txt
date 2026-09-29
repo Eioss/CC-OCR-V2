@@ -1,0 +1,12 @@
+```json
+{
+    "date": "20/03/18",
+    "doc_no_receipt_no": "000000H001429",
+    "seller_address": "15, JALAN PERMAS 10/7, PERMAS 81750 MASAI JOHOR",
+    "seller_gst_id": "(JM0761170-H)",
+    "seller_name": "CONTENTO",
+    "seller_phone": "",
+    "total_amount": "21.60",
+    "total_tax": ""
+}
+```

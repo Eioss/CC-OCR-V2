@@ -1,0 +1,89 @@
+Based on the provided image, here is the transcription of the text, tables, and equations into LaTeX format.
+
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent 第28卷第2期 \hfill 水电能源科学 \hfill Vol. 28 No. 2 \\
+\noindent 2010年2月 \hfill Water Resources and Power \hfill Feb. 2 0 1 0
+\hrulefill
+
+\vspace{0.5cm}
+\noindent 文章编号: 1000-7709(2010)02-0155-03
+
+\vspace{1cm}
+\begin{center}
+    {\Huge \textbf{变频串联谐振在变压器交流耐压试验中的应用}}
+    
+    \vspace{0.5cm}
+    {\large 林梅芬$^{1}$ \quad 许 晶$^{2}$}
+    
+    \vspace{0.3cm}
+    (1. 福建水利电力职业技术学院, 福建 永安 366000; 2. 绍兴电力局, 浙江 绍兴 312000)
+\end{center}
+
+\vspace{0.5cm}
+\textbf{摘要:} 采用变频串联谐振对大中型变压器进行交流耐压试验,并与常规的交流耐压试验方法进行比较。结果表明,变频串联谐振耐压试验技术电源容量小、试验设备体积小、不对试验品造成损伤,可完成常规试验变压器不能解决的试验。
+
+\textbf{关键词:} 变频;串联谐振;大中型变压器;耐压试验;容量
+
+\noindent \textbf{中图分类号:} TM406 \hfill \textbf{文献标志码:} A
+
+\vspace{0.5cm}
+在电力系统交接预防性试验中,交流耐压试验是鉴定电力设备绝缘强度的最严格、最有效和最直接的试验方法之一,也是确保设备绝缘水平、避免发生绝缘事故的重要手段$^{[1]}$。交流耐压试验虽对发现绝缘缺陷有效,但受试验条件限制。35 kV 及 8 000 kVA 以上变压器耐压试验因电容电流较大,要求高电压试验变压器的额定电流为 100 mA 以上,目前这样的高电压试验变压器及调压器尚不够普遍$^{[2]}$,且试验变压器容量大、试验设备笨重,不便搬运,给现场试验带来了难度。鉴此,本文采用变频串联谐振法实现利用电压及容量小得多的设备产生所需的试验电压,满足了试验要求$^{[2]}$,效果较好。
+
+\section*{1 原理}
+
+图1为串联谐振基本原理图。串联回路电流:
+\begin{equation}
+I = U / \left\{ R^2 + [\omega L - 1/(\omega C)]^2 \right\}^{1/2} \tag{1}
+\end{equation}
+式中, $R$ 为电阻; $\omega$ 为角频率; $L$ 为电感; $C$ 为电容。
+
+\begin{center}
+    % Placeholder for Figure 1
+    [图1 串联谐振基本原理图] \\
+    Fig. 1 Basic principle diagram of series resonance
+\end{center}
+
+对串联回路,流过各元件的电流相等。当 $\omega L = 1/(\omega C)$ 时,回路即处于串联谐振状态$^{[3]}$,此时的频率称为谐振频率:
+\begin{equation}
+f_0 = 1/(2\pi \sqrt{LC}) \tag{2}
+\end{equation}
+
+流过整个串联回路的电流 $I = U/R$ 最大$^{[3]}$,则:
+\begin{equation}
+U_{C\max} = I[1/(\omega C)] = U/(\omega CR) = U(\omega L/R) \tag{3}
+\end{equation}
+
+令
+\[ Q = 1/(\omega CR) = \omega L/R \]
+式中, $Q$ 为谐振回路的品质因数,则 $U_{C\max} = QU$。
+
+一般回路中的 $R$ 较小, $Q$ 很大。在大多数正常情况下 $Q$ 值约达 50$^{[4]}$。
+
+根据不同调节方式,串联谐振装置分为工频串联谐振装置(带可调电抗器或带固定电抗器和调谐用电容器组,工作频率 50 Hz)和变频串联谐振装置(带固定电抗器,工作频率一般 10$\sim$300 Hz)两大类。本文采用变频串联谐振装置,其原理如图2所示。装置由变频电源、励磁变、高压电抗器(I组:每台额定电压 55 kV、额定电流 1 A、额定电感量 200 H,共 4 台; II组:每台额定电压 60 kV、额定电流 2.5 A、额定电感量 120 H,共 4 台)、分压器(电容量 1 000 pF)、高压补偿电容器、被试品电容等组成。
+
+\begin{center}
+    % Placeholder for Figure 2
+    [图2 变频串联谐振成套试验装置原理图] \\
+    Fig. 2 Diagram of experiments equipment using series resonance with variational frequency
+\end{center}
+
+\section*{2 实例}
+
+以浙江绍兴电力局现有设备对变压器进行交
+
+\vspace{1cm}
+\hrule
+\vspace{0.2cm}
+\noindent 收稿日期: 2009-10-01, 修回日期: 2009-10-30 \\
+作者简介: 林梅芬(1975-),女,讲师,研究方向为电力系统预防性试验, E-mail: lmf2835@126.com
+
+\end{document}
+```

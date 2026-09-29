@@ -1,0 +1,40 @@
+项目管理信息牌  
+单位信息 / 工程参数 / 监督电话
+
+文档编号：SG-628506  
+日期：2025-04-18
+
+<table>
+<tr><td>施工/项目名称</td><td>云栖市松影临澜市政工程一期</td></tr>
+<tr><td>单位名称</td><td>青岚省云栖市松影临澜市政工程有限公司</td></tr>
+<tr><td>工程地点</td><td>云栖省青岚市松影区科创大道238号11栋</td></tr>
+<tr><td>项目负责人</td><td>严明哲</td><td>安全员</td><td>陈思远</td><td>联系电话</td><td>19001479163</td></tr>
+</table>
+
+问题跟踪/检查记录
+
+<table>
+<tr><td>编号</td><td>日期</td><td>问题描述</td><td>等级（√/×/Lvl）</td><td>期限</td><td>复核人</td><td>签字</td></tr>
+<tr><td rowspan="4">A区检查项</td><td></td><td>已整改（严）</td><td>等级 A</td><td>/</td><td>严明哲</td><td>陈思远</td></tr>
+<tr><td>2025.04.25</td><td>需跟进</td><td>等级 A</td><td>/</td><td>严明哲</td><td>陈思远</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<table>
+<tr><td>编号</td><td>日期</td><td>问题描述</td><td>等级（√/×/Lvl）</td><td>期限</td><td>复核人</td><td>签字</td></tr>
+<tr><td rowspan="3">B区检查项</td><td>2025.04.25</td><td></td><td>等级 A</td><td>/</td><td>陈思远</td><td>陈思远</td></tr>
+<tr><td></td><td></td><td></td><td>/</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+543468852229617492
+
+<table>
+<tr><td>编号</td><td>日期</td><td>问题描述</td><td>等级（√/×/Lvl）</td><td>期限</td><td>复核人</td><td>签字</td></tr>
+<tr><td>汇总统计</td><td>2025.04.25</td><td>需跟进</td><td>等级 A</td><td></td><td>严明哲</td><td>严明哲</td></tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1512_800_1605_891.jpg" alt="二维码" width="6%" /></div>
+
+https://example.com/doc-30091409

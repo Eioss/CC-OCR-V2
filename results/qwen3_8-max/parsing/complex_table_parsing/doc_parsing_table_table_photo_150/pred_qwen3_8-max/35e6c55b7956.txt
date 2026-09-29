@@ -1,0 +1,33 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th style="padding: 8px;"><i>Type</i></th>
+      <th style="padding: 8px;"><i>Parametric form</i></th>
+      <th style="padding: 8px;"><i>Parameter range</i></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">Power exponential</td>
+      <td style="padding: 8px;">$$C(t) = \exp(-\beta t^\alpha)$$</td>
+      <td style="padding: 8px;">$$0 &lt; \alpha \le 1, \beta &gt; 0.$$</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Mat&eacute;rn</td>
+      <td style="padding: 8px;">$$C(t) = (\beta t)^\alpha K_\alpha(\beta t)$$</td>
+      <td style="padding: 8px;">$$0 &lt; \alpha \le \frac{1}{2}, \beta &gt; 0.$$</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Generalized Cauchy</td>
+      <td style="padding: 8px;">$$C(t) = (\beta t^\alpha + 1)^{-\xi/\alpha}$$</td>
+      <td style="padding: 8px;">$$0 &lt; \alpha \le 1, \beta, \xi &gt; 0.$$</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Dagum</td>
+      <td style="padding: 8px;">$$C(t) = \left[ 1 - \left( \frac{\beta t^\alpha}{1 + \beta t^\alpha} \right)^{\xi/\alpha} \right]$$</td>
+      <td style="padding: 8px;">$$0 &lt; \alpha \le 1, 0 &lt; \xi \le 1, \beta &gt; 0.$$</td>
+    </tr>
+  </tbody>
+</table>
+```

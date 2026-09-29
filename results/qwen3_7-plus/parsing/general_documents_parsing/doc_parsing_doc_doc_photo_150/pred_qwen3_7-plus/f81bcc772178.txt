@@ -1,0 +1,52 @@
+```latex
+\begin{center}
+    \Large{\textbf{Quadratic Formula Assignment}}
+\end{center}
+
+Recite, from memory, the quadratic formula to one teacher, one family member, and one additional person of your choice.
+
+\vspace{1em}
+
+\textbf{In Math:}
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\vspace{1em}
+
+\textbf{In English:}
+
+X equals negative b plus or minus the square root of b squared minus 4ac all over 2a.
+
+\vspace{2em}
+
+\noindent\fbox{%
+    \parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{%
+        I do hereby testify that \underline{\hspace{8cm}} recited the quadratic formula to me from memory with zero mistakes.
+        
+        \vspace{1em}
+        
+        Signature \underline{\hspace{8cm}} Date \underline{\hspace{3cm}}
+        
+        \vspace{1em}
+        \hrule
+        \vspace{1em}
+        
+        I do hereby testify that \underline{\hspace{8cm}} recited the quadratic formula to me from memory with zero mistakes.
+        
+        \vspace{1em}
+        
+        Signature \underline{\hspace{8cm}} Date \underline{\hspace{3cm}}
+        
+        \vspace{1em}
+        \hrule
+        \vspace{1em}
+        
+        I do hereby testify that \underline{\hspace{8cm}} recited the quadratic formula to me from memory with zero mistakes.
+        
+        \vspace{1em}
+        
+        Signature \underline{\hspace{8cm}} Date \underline{\hspace{3cm}}
+    }%
+}
+```

@@ -1,0 +1,72 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th colspan="5" style="font-size: 1.2em; padding: 10px;">TABLE 2<br>U.S. Trade with Canada and Mexico Relative to U.S. GDP<br><span style="font-size: 0.8em; font-weight: normal;">(annual averages; in percent)</span></th>
+        </tr>
+        <tr>
+            <th colspan="2"></th>
+            <th>1970-71</th>
+            <th>1980-81</th>
+            <th>1990-91</th>
+            <th>1995-96</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2" style="text-align: left; padding-left: 10px;">Merchandise</td>
+            <td>2.3</td>
+            <td>3.9</td>
+            <td>4.1</td>
+            <td>5.4</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 10px;">of which:</td>
+            <td style="text-align: left; padding-left: 20px;">Canada</td>
+            <td>2.0</td>
+            <td>2.9</td>
+            <td>3.0</td>
+            <td>3.8</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="text-align: left; padding-left: 20px;">Mexico</td>
+            <td>0.3</td>
+            <td>1.0</td>
+            <td>1.1</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: left; padding-left: 10px; padding-top: 15px;">Private services</td>
+            <td style="padding-top: 15px;">NA</td>
+            <td style="padding-top: 15px;">NA</td>
+            <td style="padding-top: 15px;">0.71</td>
+            <td style="padding-top: 15px;">0.69</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 10px;">of which:</td>
+            <td style="text-align: left; padding-left: 20px;">Canada</td>
+            <td>0.30</td>
+            <td>0.28</td>
+            <td>0.45</td>
+            <td>0.44</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="text-align: left; padding-left: 20px;">Mexico</td>
+            <td>NA</td>
+            <td>NA</td>
+            <td>0.26</td>
+            <td>0.25</td>
+        </tr>
+        <tr>
+            <td colspan="5" style="text-align: left; padding: 10px; font-size: 0.9em; border-top: 2px solid #008B8B;">
+                Notes: The individual percentages for Canada and Mexico represent the ratios of the sum of exports and imports<br>
+                to U.S. GDP. The totals for merchandise and services are the sums of the individual percentages for Canada and<br>
+                Mexico.<br>
+                Source: Author's calculations based on data from Bureau of Economic Analysis
+            </td>
+        </tr>
+    </tbody>
+</table>
+```

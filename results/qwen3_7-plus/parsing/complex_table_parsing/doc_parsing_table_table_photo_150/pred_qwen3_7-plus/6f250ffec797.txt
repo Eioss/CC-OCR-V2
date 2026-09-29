@@ -1,0 +1,62 @@
+```html
+<html><body>
+<table border="1" class="dataframe">
+ <thead>
+  <tr>
+   <th>Name</th>
+   <th>Definition</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>$\pi$</td>
+   <td>the assignment of destinations obtained in the first stage</td>
+  </tr>
+  <tr>
+   <td>$c_{ii'k}$</td>
+   <td>the number of times that the chutes corresponding to destination $i'$ is the one behind the chutes corresponding to destination $i$ in segment $k$</td>
+  </tr>
+  <tr>
+   <td>$q_{ikt}$</td>
+   <td>the number of parcels of destination $i$ that enter the segment $k$ through the corresponding loading station in period $t$</td>
+  </tr>
+  <tr>
+   <td>$cq_{ikt}$</td>
+   <td>the number of cross-segment parcels of destination $i$ of segment $k$ in period $t$</td>
+  </tr>
+  <tr>
+   <td>$mn_t$</td>
+   <td>the number of misalignment parcels in period $t$</td>
+  </tr>
+  <tr>
+   <td>$md_t$</td>
+   <td>the total distance of misalignment in period $t$</td>
+  </tr>
+  <tr>
+   <td>$wd_{ht}$</td>
+   <td>the walking distance of worker $h$ in period $t$</td>
+  </tr>
+  <tr>
+   <td>$bt_{ht}$</td>
+   <td>the break time of worker $h$ in period $t$</td>
+  </tr>
+  <tr>
+   <td>$cq_t$</td>
+   <td>the number of cross-segment parcels in period $t$</td>
+  </tr>
+  <tr>
+   <td>$md_{max}$</td>
+   <td>the constraint value for total misalignment distance per period</td>
+  </tr>
+  <tr>
+   <td>$\omega_{mn}$</td>
+   <td>the fines per misalignment parcel</td>
+  </tr>
+  <tr>
+   <td>$\omega_{cp}$</td>
+   <td>the cost coefficient of cross-segent parcels</td>
+  </tr>
+ </tbody>
+</table>
+</body></html>
+```

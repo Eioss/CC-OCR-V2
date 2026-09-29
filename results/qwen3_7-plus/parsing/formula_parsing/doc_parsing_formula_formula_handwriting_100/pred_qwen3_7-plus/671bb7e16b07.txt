@@ -1,0 +1,15 @@
+$$\begin{array} { r l } { \pi ( k , \tau , \theta | y , p , P , \gamma ) \propto } & { { \frac { ( 2 \pi ) ^ { - n / 2 } } { \sqrt { k + \theta n } } } p ^ { k } ( 1 - p ) ^ { n - k - 1 } } \\ & { \prod _ { j = 1 } ^ { k + 1 } \left( \tau _ { j } - \tau _ { j - 1 } + { \frac { 1 } { V ^ { 2 } } } \right) ^ { 1 / 2 } \exp \left\{ - { \frac { 1 } { 2 \sigma ^ { 2 } } } \left( S S _ { j } + { \frac { \mu _ { 0 } ^ { 2 } } { V ^ { 2 } } } - { \frac { ( S _ { j } + { \frac { \mu _ { 0 } } { V ^ { 2 } } } ) ^ { 2 } } { \tau _ { j } - \tau _ { j - 1 } + { \frac { 1 } { V ^ { 2 } } } } } \right) \right\} } \end{array}$$
+
+ $$\begin{array} { l } { { R _ { n } ^ { \prime } ( t ) : = \displaystyle \frac { r ( 2 ^ { n + 1 } p _ { n } ^ { N } ) } { 4 } \Big ( \displaystyle \frac { ( 1 + 2 ^ { n - 1 } y _ { n + 1 } ^ { N } ) ^ { 2 } } { ( 1 + 2 ^ { n } y _ { n } ^ { N } } - 1 \Big ) ( p _ { n + 1 } ^ { N } - p _ { n } ^ { N } ) } } \\ { { - \bar { \mu } _ { n } ( A ^ { N } ( A ^ { N } ( t ) , p ^ { N } ( t ) ) r ( 2 ^ { n + 1 } p _ { n + 1 } ^ { N } ) \Big ( \displaystyle \frac { ( 1 + 2 ^ { n + 1 } y _ { n + 1 } ^ { N } ) } { ( 1 + 2 ^ { n } y _ { n } ^ { N } ) } - 1 \Big ) ( p _ { n } ^ { N } - p _ { n + 1 } ^ { N } ) , } } \end{array}$$
+
+ $$g e n _ { H } ( f ^ { c _ { 2 } } ) \leq g e n _ { H } ( f ^ { c _ { 1 } } ) + \# \left\{ ( - u _ { i } , u _ { i } ) : C _ { 1 } \leq f ( u _ { i } ) \leq C _ { 2 } , f ^ { \prime } ( u _ { i } ) = 0 \right\} ,$$
+
+ $$\begin{array} { l } { { P ( T * \in A | \operatorname * { m i n } _ { a \le t \le b } X ( t ) > u ) } } \\ { { = \frac { \int _ { 0 } ^ { \infty } \exp \{ - u x / \sigma _ { * } ^ { 2 } ( a , b ) \} P ( Y \le x , \operatorname * { m i n } _ { a \le t \le b } X ( t ) > 0 , T * \in A ) d x } { \int _ { 0 } ^ { \infty } \exp \{ - u x / \sigma _ { * } ^ { 2 } ( a , b ) \} P ( Y \le x , \operatorname * { m i n } _ { a \le t \le b } X ( t ) > 0 ) d x } , } } \end{array}$$
+
+ $$S _ { j } \geq \frac { ( 1 + 9 \epsilon / 1 0 ) d - 2 ^ { j } } { 2 ^ { j } } \geq \frac { 1 + 9 \epsilon / 1 0 } { 1 + \epsilon / 1 0 } \, d _ { j } - 1 \geq ( 1 + 7 \epsilon / 1 0 ) \, d _ { j } \, .$$
+
+ $${ \cal I } ^ { s y n } ( \alpha _ { 1 } \, \square \, \alpha _ { 2 } ) \subseteq { \cal I } ^ { s y n } ( \alpha _ { 1 } ^ { \prime } \, \square \, \alpha _ { 2 } ^ { \prime } ) \ \mathrm { a n d } \ { \cal O } ^ { s y n } ( \alpha _ { 1 } \, \square \, \alpha _ { 2 } ) \subseteq { \cal O } ^ { s y n } ( \alpha _ { 1 } ^ { \prime } \, \square \, \alpha _ { 2 } ^ { \prime } ) .$$
+
+ $$X = ( 0 , 0 , \cdots 0 , x _ { i + 1 } , \cdots x _ { n } )$$
+
+ $$\begin{array} { r l } { { \frac { t _ { i } } { 6 4 ( 1 + t _ { i } d ( x _ { i } , \partial B _ { R } ) ^ { - 4 } ) } } f _ { k , i } ( x , t ) \leq } & { { } { \frac { ( t _ { i } + { \frac { t } { \delta _ { i } } } ) } { 1 + ( t _ { i } + { \frac { t } { \delta _ { i } } } ) d ( x _ { i } + { \frac { x } { \delta _ { i } } } , \partial B _ { R } ) ^ { - 4 } } } f _ { k , i } ( x , t ) } \\ { \leq } & { { } { \frac { t _ { i } } { 1 + t _ { i } d ( x _ { i } , \partial B _ { R } ) ^ { - 4 } } } f _ { k , i } ( 0 , 0 ) . } \end{array}$$

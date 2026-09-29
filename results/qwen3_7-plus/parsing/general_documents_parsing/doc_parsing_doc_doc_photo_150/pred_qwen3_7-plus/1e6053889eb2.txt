@@ -1,0 +1,35 @@
+```latex
+\section*{Sets and Counting: Problem Set 2}
+
+\textbf{Directions:}
+\begin{enumerate}
+    \item Solve the following problems. \textbf{Hand write} your solutions and explanations on your own paper. Do not write answers on this page.
+    \item \textbf{Show your work} AND explain your reasoning using complete English sentences. Explanations must directly follow the solution for each part of the problem.
+    \item You must write your name on the top right of the paper you turn in.
+    \item You must write the title of this problem set on the top of your paper.
+    \item Turn in your solutions following the directions in the assignment information on Canvas.
+\end{enumerate}
+
+\begin{enumerate}
+    \item 500 people are surveyed and asked to check the boxes that apply to them.
+    \begin{itemize}
+        \item[a.] I am confident in the economy.
+        \item[b.] I have health insurance.
+    \end{itemize}
+    321 said they were confident about the economy, 403 said they had health insurance, and 63 checked neither box.
+    
+    \begin{itemize}
+        \item[a.] [3 pts] Draw an accurate Venn diagram that represents the situation consisting of cardinalities.
+        \item[b.] [1 pt] How many people had health insurance and were not confident in the economy?
+        \item[c.] [1 pt] How many people had health insurance or are confident in the economy?
+    \end{itemize}
+    
+    \item Using the digits 0 through 9, find out how many 4-digit numbers can be configured based on the stated conditions:
+    \begin{itemize}
+        \item[a.] [1 pt] The number cannot start with zero and no digits can be repeated.
+        \item[b.] [1 pt] The number must begin and end with an odd digit. (Repeated digits are okay.)
+        \item[c.] [1 pt] The number must be at least 5000 and be divisible by 10. (Repeated digits are okay.)
+        \item[d.] [2 pt] The number must be less than 3000 and must be even. No digits may be repeated in the last 3 digits. (That is, 2234 would be okay, but 2334 would not be okay.)
+    \end{itemize}
+\end{enumerate}
+```

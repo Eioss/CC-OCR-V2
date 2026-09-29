@@ -1,0 +1,58 @@
+```latex
+\begin{center}
+    北京安达维尔科技股份有限公司2021年半年度报告全文
+\end{center}
+
+\section*{4、以公允价值计量的金融资产}
+
+□适用√不适用
+
+\section*{5、募集资金使用情况}
+
+√适用 □ 不适用
+
+\subsection*{(1) 募集资金总体使用情况}
+
+√适用 □ 不适用
+
+单位:万元
+\begin{tabular}{|l|r|}
+\hline
+募集资金总额 & 48,242.3 \\
+\hline
+报告期投入募集资金总额 & 2,846.83 \\
+\hline
+已累计投入募集资金总额 & 44,932.77 \\
+\hline
+报告期内变更用途的募集资金总额 & 0 \\
+\hline
+累计变更用途的募集资金总额 & 24,386.88 \\
+\hline
+累计变更用途的募集资金总额比例 & 50.55\% \\
+\hline
+\multicolumn{2}{|c|}{\textbf{募集资金总体使用情况说明}} \\
+\hline
+\multicolumn{2}{|p{15cm}|}{经中国证券监督管理委员会《关于核准北京安达维尔科技股份有限公司首次公开发行股票的批复》(证监许可〔2017〕1827号)核准,本公司首次公开发行股票并在创业板上市,向社会公开发行人民币普通股(A股)42,000,000股,每股面值1元,发行价格为12.19元/股,募集资金总额为人民币511,980,000.00元。公司对募集资金采取专户存储,并与保荐机构、存放募集资金的开户银行签订了募集资金三方监管协议。本次募集资金总额扣除承销费、保荐费后的余额478,180,000.00元,已于2017年11月2日存入公司募集资金专户,扣除保荐及承销费用以及公司累计发生的其他相关发行费用合计39,322,695.69元后,募集资金净额人民币472,657,304.31元。2021年上半年度,本公司募投项目使用募集资金为2,846.83万元。截止2021年6月30日,尚未使用的募集资金为3,403.18万元,尚未使用的募集资金,后续将按募投项目建设实施计划陆续投入。} \\
+\hline
+\end{tabular}
+
+\subsection*{(2) 募集资金承诺项目情况}
+
+√适用 □ 不适用
+
+单位:万元
+\begin{tabular}{|p{3.5cm}|c|r|r|r|r|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{\centering 承诺投资项目和超\newline 募资金投向} & \multirow{2}{*}{\centering 是否已\newline 变更项\newline 目(含部\newline 分变更)} & \multirow{2}{*}{\centering 募集资\newline 金承诺\newline 投资总\newline 额} & \multirow{2}{*}{\centering 调整后\newline 投资总\newline 额(1)} & \multirow{2}{*}{\centering 本报告\newline 期投入\newline 金额} & \multirow{2}{*}{\centering 截至期\newline 末累计\newline 投入金\newline 额(2)} & \multirow{2}{*}{\centering 截至期\newline 末投资\newline 进度(3)\newline =(2)/(1)} & \multirow{2}{*}{\centering 项目达\newline 到预定\newline 可使用\newline 状态日\newline 期} & \multirow{2}{*}{\centering 本报告\newline 期实现\newline 的效益} & \multirow{2}{*}{\centering 截止报\newline 告期末\newline 累计实\newline 现的效\newline 益} & \multirow{2}{*}{\centering 是否达\newline 到预计\newline 效益} & \multirow{2}{*}{\centering 项目可\newline 行性是\newline 否发生\newline 重大变\newline 化} \\
+& & & & & & & & & & & \\
+\hline
+\multicolumn{12}{|l|}{承诺投资项目} \\
+\hline
+1、航空机载产品产业化项目 & 是 & 371.78 & 371.78 & 0 & 371.78 & 100.00\% & 2019年12月31日 & 不适用 & 不适用 & 不适用 & 是 \\
+\hline
+\end{tabular}
+
+\begin{center}
+    17
+\end{center}
+```

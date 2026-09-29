@@ -1,0 +1,8 @@
+Based on the invoice provided, the price for "Post, Packing & Insurance" (listed under the "POST" catalogue item) is **14.42** Pounds Sterling.
+
+This can be found in the main table:
+*   **CATALOGUE:** POST
+*   **DESCRIPTION:** Post, Packing & Insurance / AIR MAIL
+*   **PRICE:** 14.42
+
+The total invoice amount (£1414.42) is calculated as the sum of the book price (£1400.00) and the post/packing/insurance fee (£14.42), since the second book line item has been crossed out.

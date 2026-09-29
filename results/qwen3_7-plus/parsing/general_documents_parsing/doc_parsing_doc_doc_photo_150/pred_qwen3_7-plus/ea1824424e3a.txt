@@ -1,0 +1,40 @@
+```latex
+\textbf{Candidate Statement of Results}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}ll@{}}
+\textbf{Season:} & Summer Season 2019 \\
+\textbf{Name:} & Anisha [REDACTED] \\
+\textbf{Cand...:} & [REDACTED] \\
+\textbf{UCI:} & [REDACTED] \\
+\end{tabular}
+\hfill
+\begin{tabular}{@{}ll@{}}
+\textbf{Series:} & (All) \\
+\textbf{Year:} & 11 \\
+\textbf{Cent...:} & [REDACTED] \\
+\end{tabular}
+
+\vspace{1em}
+
+\textbf{Exam Results}
+
+\vspace{0.5em}
+
+\begin{tabular}{@{}llllc@{}}
+\hline
+\textbf{Board} & \textbf{Level} & \textbf{Element Code} & \textbf{Title} & \textbf{Grd1} \\
+\hline
+AQA & GCSE/9DA & 8464H & Combined Sci: Trilogy Tier H & 99 \\
+EDEXL/GC & GCSE/9FC & 1GB0 & Geography B & 9 \\
+AQA & GCSE/9FC & 8062BA & Religious Studies A Option BA & 9 \\
+AQA & GCSE/9FC & 8668H & German Tier H & 9 \\
+AQA & GCSE/9FC & 8698H & Spanish Tier H & 9 \\
+AQA & GCSE/9FC & 8700 & English Language & 9 \\
+AQA & GCSE/9FC & 8702 & English Literature & 9 \\
+OCR & GCSE/9FC & J560H & Mathematics (Higher Tier) & 7 \\
+\hline
+\end{tabular}
+```

@@ -1,0 +1,55 @@
+\[
+\begin{aligned}
+&\sum_{2\gamma+|\beta|\le \xi_{k+1}+2}
+\left\|
+\partial_t^\gamma \nabla_1^\beta
+\left(\partial_j u_{k+1,\|}^{+},\,\partial_j\theta_{k+1}^{+}\right)(t,x_1,0)
+\right\|_{L_{x_1}^2} \\
+&\le C\Bigg(
+\sum_{i=0}^{1}\sum_{2\gamma+|\beta|\le \xi_{k+1}+4}
+\left\|
+\widetilde w_{k,i}\,\partial_t^\gamma\nabla_x^\beta f_i^{+}(t)
+\right\|_{L_x^2L_v^\infty}
++\sum_{2\gamma+|\beta|\le \xi_{k+1}+4}
+\left\|
+r_{0k,i}\,\partial_t^\gamma\nabla_x^\beta f_i^{+}(t)
+\right\|_{L_x^2L_v^\infty} \\
+&\quad
++\sum_{2\gamma+|\beta|\le \xi_{k+1}+2}
+\Big[
+\left\|
+\partial_t^\gamma\nabla_1^\beta \overline{R}_{k+1,3}^{+}(t,x_1,0)
+\right\|_{L_{x_1}^2}
++\left\|
+\partial_t^\gamma\nabla_1^\beta G_{k+1}^{+}
+\right\|_{L_{x_1}^2L_v^\infty} \\
+&\quad
++\sum_{j=1}^{3}
+\left\|
+\partial_t^\gamma\nabla_1^\beta
+\left(
+\langle AB_j,J_k^{*}\rangle,\,
+\langle B_j,J_k^{*},0\rangle
+\right)
+\right\|_{L_{x_1}^2}
++\left\|
+\partial_t^\gamma\nabla_1^\beta
+\left(\widehat A_{k+2}^{+},\widehat B_{k+2}^{+},\widehat C_{k+2}^{+}\right)(t,x_1,0)
+\right\|_{L_{x_1}^2} \\
+&\quad
++\left\|
+\partial_t^\gamma\nabla_1^\beta
+\left(\widehat A_{k+3}^{+},\widehat B_{k+3}^{+},\widehat C_{k+3}^{+}\right)(t,x_1,0)
+\right\|_{L_{x_1}^2}
+\Big]\Bigg) \\
+&\le C\left(
+D_k+\widetilde D_k^{+}
++\widehat D_k^{+}
+\sum_{\gamma+|\beta|\le s_{k+1}}
+\left\|
+\partial_t^\gamma\nabla_x^\beta
+\left(p_{k+1},u_{k+1},\theta_{k+1}\right)(0)
+\right\|_{L_x^2}
+\right).
+\end{aligned}
+\]

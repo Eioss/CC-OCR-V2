@@ -1,0 +1,11 @@
+\[
+\begin{aligned}
+\int_R \lambda_i^3 (u\cdot\nabla)\lambda_j^3\,dx
+&= \int_R \lambda_i^3 (u_i-u_j)\lambda_j^2\,dx \\
+&= \int_R \lambda_i^3\lambda_j^2\,dx \\
+&= \int_R \left[(\lambda_i+\lambda_j)^3-3\lambda_i^2\lambda_j-3\lambda_i\lambda_j^2-\lambda_j^3\right]\lambda_j^2\,dx \\
+&= \int_R \left[(\lambda_i+\lambda_j)^3\lambda_j^2-3\lambda_i^2\lambda_j^3-3\lambda_i\lambda_j^4-\lambda_j^5\right]\,dx \\
+&= \int_R \left[(\lambda_i+\lambda_j)^3\lambda_j^2-3(\lambda_i+\lambda_j)^2\lambda_j^3+3(\lambda_i+\lambda_j)\lambda_j^4-\lambda_j^5\right]\,dx \\
+&= E_{ij}^{T}.
+\end{aligned}
+\]

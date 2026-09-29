@@ -1,0 +1,57 @@
+\[
+\begin{aligned}
+\left(D^{t_0,t_1,\cdots,t_p=0,t_q=1,\cdots,t_N}\right)'
+&=\frac{1}{1+|x|^2}\Big[
+D^{t_0,t_1,\cdots,t_p=0,t_q=1,\cdots,t_N}
+-|x|^2D^{t_0,t_1,\cdots,t_p=0,t_q=0,\cdots,t_N} \\
+&\qquad
++xD(A_q)_0^{t_1,\cdots,t_p=0,\cdots,t_{q-1},t_{q+1},\cdots,t_N}
+-x^*D(A_q)_1^{t_1,\cdots,t_p=0,\cdots,t_{q-1},t_{q+1},\cdots,t_N}
+\Big]
+\end{aligned}
+\]
+
+\[
+S(n,k)=\frac{1}{k!}\sum_{d_1+\cdots+d_k=n}\frac{n!}{d_1!\cdots d_k!}
+\]
+
+\[
+g_1,\cdots,g_k\in G(A\cup\mathcal R)\subset \langle A\rangle * \langle B\rangle
+\]
+
+\[
+\eta_q^i \xrightarrow[q\to\infty]{} v(k)|\nabla u|^2 \quad \text{a.e. in }\Omega
+\]
+
+\[
+\eta_q^i \le v(k)|\nabla u|^2
+\]
+
+\[
+(1-\delta)\|F_j(\Delta)f\|^2
+\le \sum_\nu\sum_k |\langle F_j(\Delta)f,g_{\nu,j,k}\rangle|^2
+\le (1+\delta)\|F_j(\Delta)f\|^2
+\]
+
+\[
+|\lambda|>R>\max\{|\mu_i^\sigma|:\mu^\sigma\in L^\sigma(\mu)\}
+\]
+
+\[
+\xi_a:=
+\begin{cases}
+\xi, & \text{if } a=a_0,\\
+0, & \text{if } a\ne a_0,
+\end{cases}
+\]
+
+\[
+\frac{1}{\sqrt d}\|v\|_x
+\le \|v\|_x'
+\le Ce^{\varepsilon k}\|v\|_x,
+\quad \forall v\in T_xM,\ x\in\Lambda_k,\ \cdots\ (3.1.2)
+\]
+
+\[
+V_{\mathrm{drift}}=\frac{d\langle \phi_N\rangle-\langle \phi_N\rangle}{dt}
+\]

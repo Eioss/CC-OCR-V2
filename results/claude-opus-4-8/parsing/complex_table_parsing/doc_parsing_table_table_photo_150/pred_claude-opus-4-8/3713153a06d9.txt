@@ -1,0 +1,118 @@
+I'll transcribe this medical data table into HTML format, preserving the merged cells and layout.
+
+```html
+<table border="1">
+  <tr>
+    <td>Case</td>
+    <td>Age</td>
+    <td>Sex</td>
+    <td>Side</td>
+    <td>AIS</td>
+    <td>ISS</td>
+    <td>Suicidal jump</td>
+    <td>Longitudinal displacement</td>
+    <td>Sacral transverse fracture</td>
+    <td>Type of pelvic fracture (AO)</td>
+    <td>Denis</td>
+    <td>Functional deficit (MMT)</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>55</td>
+    <td>M</td>
+    <td>lt</td>
+    <td>5</td>
+    <td>34</td>
+    <td>(-)</td>
+    <td>(+)</td>
+    <td>(-)</td>
+    <td>C</td>
+    <td>(-)</td>
+    <td>IP 3, Quad 3, TA 3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>62</td>
+    <td>M</td>
+    <td>rt</td>
+    <td>5</td>
+    <td>25</td>
+    <td>(-)</td>
+    <td>(+)</td>
+    <td>(-)</td>
+    <td>C</td>
+    <td>Zone I</td>
+    <td>Quad 3, TA 3</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3</td>
+    <td rowspan="2">31</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">34</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 0, TA 0</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>C</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4</td>
+    <td rowspan="2">37</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>C</td>
+    <td>Zone II</td>
+    <td>Quad 2, TA 0</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 2, TA 0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">5</td>
+    <td rowspan="2">25</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+</table>
+```
+
+**Abbreviations:**
+- **AIS:** abbreviated injury score
+- **ISS:** injury severity score
+- **MMT:** manual muscle-testing scale
+- **IP:** Iliopsoas muscle
+- **Quad:** Quadriceps muscle

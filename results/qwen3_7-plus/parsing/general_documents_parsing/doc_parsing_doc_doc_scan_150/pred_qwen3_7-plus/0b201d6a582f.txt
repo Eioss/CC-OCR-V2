@@ -1,0 +1,105 @@
+```latex
+\section*{PHY 231C FORMULAS}
+
+\subsection*{Quadratic Formula}
+$$ax^2 + bx + c = 0$$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+\subsection*{Geometry}
+Circle: circumference=$2\pi R$, area=$\pi R^2$ \\
+Sphere: area=$4\pi R^2$, volume=$4\pi R^3/3$
+
+\subsection*{Trigonometry}
+$$\sin \alpha = \frac{A}{C}, \quad \cos \alpha = \frac{B}{C}$$
+$$\tan \alpha = \frac{A}{B}$$
+$$\frac{\sin \alpha}{A} = \frac{\sin \beta}{B} = \frac{\sin \gamma}{C}$$
+$$A^2 + B^2 - 2AB \cos \gamma = C^2$$
+
+\subsection*{Polar Coordinates}
+$$x = r \cos \theta, \quad y = r \sin \theta$$
+$$r = \sqrt{x^2 + y^2}, \quad \tan \theta = y/x$$
+
+\subsection*{SI Units and Constants}
+\begin{tabular}{|l|l|l|}
+\hline
+quantity & unit & abbreviation \\
+\hline
+Mass $m$ & kilograms & kg \\
+Distance $x$ & meters & m \\
+Time $t$ & seconds & s \\
+Force $F$ & Newtons & N=kg m/s$^2$ \\
+Energy $E$ & Joules & J=N m \\
+Power $P$ & Watts & W=J/s \\
+Temperature $T$ & $^\circ$C, $^\circ$K or $^\circ$F & $T_{^\circ F} = 32 + (9/5)T_{^\circ C}$ \\
+Pressure $P$ & Pascals & Pa=N/m$^2$ \\
+\hline
+\end{tabular}
+
+$g = 9.8 \text{ m/s}^2$, $G=6.67 \times 10^{-11} \text{ Nm}^2/\text{kg}^2$, $0^\circ\text{C}=273.15^\circ\text{K}$ \\
+$R = 8.31 \text{ J/(mol}^\circ\text{K)}$, $N_A = 6.023 \times 10^{23}$ \\
+$k_B = R/N_A = 1.38 \times 10^{-23} \text{ J/}^\circ\text{K}$, $1 \text{ cal}=4.1868 \text{ J}$ \\
+$\sigma = 5.67 \times 10^{-8} \text{ W/(m}^2\text{K}^4)$, $v_{\text{sound}} = 331\sqrt{T/273} \text{ m/s}$.
+
+\subsection*{1-d motion, constant $a$}
+$$a = \frac{v_f - v_0}{t}$$
+$$v_{\text{av}} = \frac{v_0 + v_f}{2}, \quad (x_f - x_0) = v_{\text{av}}t$$
+$$(x_f - x_0) = v_0t + \frac{1}{2}at^2 = v_ft - \frac{1}{2}at^2$$
+$$\frac{1}{2}v_f^2 - \frac{1}{2}v_0^2 = a(x_f - x_0)$$
+
+\subsection*{Projectile Motion}
+$$\text{Range} = \frac{v^2}{g} \sin 2\theta, \quad \text{Max. height} = \frac{v_0^2}{2g} \sin^2 \theta$$
+
+\subsection*{Momentum, Force and Impulse}
+$$p = mv, \quad F = \frac{\Delta p}{\Delta t} = ma, \quad I = F\Delta t = \Delta p$$
+
+\subsection*{Work, Energy and Power}
+$$W = \vec{F} \cdot (\vec{r} - \vec{r}_0), \quad KE = \frac{1}{2}mv^2, \quad P = \frac{\Delta E}{\Delta t}$$
+
+\subsection*{Gravity and circular orbits}
+$$PE = -G\frac{Mm}{r}, \quad \Delta PE = mgh(\text{small } h), \quad F = G\frac{Mm}{r^2} = mg$$
+$$a = \frac{v^2}{r}, \quad \frac{GM}{4\pi^2} = \frac{R^3}{T^2}$$
+
+\subsection*{Rotational Motion \& Gravity}
+$$v = \omega r = \frac{2\pi r}{T}, \quad \omega = 2\pi f = \frac{2\pi}{T}, \quad f = 1/T$$
+$$\alpha = \frac{\omega_f - \omega_0}{t} = \frac{a}{r}$$
+$$L = I\omega = mvr \sin \theta, \quad (\theta=\text{angle between v and r})$$
+$$KE = \frac{L^2}{2I} = \frac{1}{2}I\omega^2$$
+$$\tau = rF \sin \theta, \quad I\alpha = \tau, \quad I_{\text{point}} = mR^2$$
+$$I_{\text{cyl.shell}} = mR^2, \quad I_{\text{sphere}} = \frac{2}{5}mR^2, \quad I_{\text{solid cyl.}} = \frac{1}{2}mR^2.$$
+
+\subsection*{Gases, liquids and solids}
+$$PV = NRT, \quad \Delta P = \rho gh, \quad \langle \frac{1}{2}mv^2 \rangle = \frac{3}{2}k_B T$$
+$$F_{\text{bouyant}} = \rho_{\text{displaced liq.}} V_{\text{displaced liq.}} g$$
+$$\text{Stress} = F/A, \quad \text{Strain} = \Delta L/L, \quad Y = \text{Stress}/\text{Strain}$$
+$$\frac{\Delta L}{L} = \frac{F/A}{B} = \frac{-\Delta P}{B}.$$
+$$P_a + \frac{1}{2}\rho_a v_a^2 + \rho_a g h_a = P_b + \frac{1}{2}\rho_b v_b^2 + \rho_b g h_b$$
+$$\Delta L/L = \alpha \Delta T, \quad \Delta V/V = 3\alpha \Delta T$$
+$$Q = mC_v \Delta T + mL(\text{if phase trans.}), \quad \Delta Q/\Delta t = \frac{kA(T_b - T_a)}{x_b - x_a}$$
+
+\subsection*{Radiation}
+$$P = \epsilon \sigma A T^4$$
+
+\subsection*{Thermodynamics}
+$$\Delta U = Q - W, \quad W = P\Delta V, \quad \text{ideal gas: } \Delta U = nC_V \Delta T$$
+Adiabatic exp: $pV^\gamma = \text{const}$, $TV^{\gamma-1} = \text{const}$ \\
+$\gamma = C_p/C_V = 5/3$ for monotonic gas=7/5 for diatomic gas \\
+$Q = T\Delta S, \quad \Delta S > 0$ \\
+Engines: $\epsilon = W/Q_H < (T_H - T_L)/T_H < 1$ \\
+Refrigerators and heat pumps: $\epsilon = Q_L/W < T_L/(T_H - T_L)$
+
+\subsection*{Simple Harmonic Motion and Waves}
+Spring: $F = -kx$, $PE = (1/2)kx^2$, $\omega = \sqrt{k/m}$ \\
+$f = \omega/(2\pi)$, $x(t) = A \cos(\omega t) + B \sin(\omega t)$ \\
+Pendulum: $T = 2\pi \sqrt{L/g}$ \\
+Waves: $y(x,t) = A \sin[2\pi(ft - x/\lambda + \delta)]$, $v = f\lambda$ \\
+$I = \text{const} A^2 f^2$, $I_2/I_1 = R_1^2/R_2^2$ \\
+Standing waves: $\lambda_n = 2L/n$ \\
+Strings: $v = \sqrt{T/\mu}$, Solid/Liquid: $v = \sqrt{B/\rho}$ \\
+Sound: $I = E/(A \cdot \Delta t) = \text{Power}/A$ \\
+$I_0 \equiv 10^{-12} \text{ W/m}^2$, Intensity in decibels=$10 \log_{10}(I/I_0)$ \\
+Beat freq.=$|f_1 - f_2|$, Doppler:
+$$f_{\text{obs}} = f_{\text{source}}(V_{\text{sound}} \pm v_{\text{obs}})/(V_{\text{sound}} \pm v_{\text{source}})$$
+Pipes: same at both ends: $L = \lambda/2, \lambda, 3\lambda/2$ \\
+Pipes: open at only one end: $L = \lambda/4, 3\lambda/4 \dots$
+
+```

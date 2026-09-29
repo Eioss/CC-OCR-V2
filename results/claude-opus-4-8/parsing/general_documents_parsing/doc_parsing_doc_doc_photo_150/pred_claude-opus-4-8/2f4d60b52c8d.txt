@@ -1,0 +1,106 @@
+I'll transcribe this exam paper into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{array}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+\textbf{2} \hfill \textbf{ME 831}
+\end{center}
+
+\hfill \textbf{Score}
+
+\begin{center}
+\textbf{SECTION - B}
+\end{center}
+
+\noindent (Answer \textbf{any 4} questions from \textbf{6} to \textbf{10}. Each question carries \textbf{2} scores.)
+
+\vspace{1em}
+
+\noindent \textbf{6.} \quad The molecular mass of water (H$_2$O) is 18.
+\begin{itemize}
+\item[(a)] Find the mass of 1 GMM H$_2$O. \hfill 1
+\item[(b)] How many moles of molecules are there in 180 g of H$_2$O ? \hfill 1
+\end{itemize}
+
+\vspace{1em}
+
+\noindent \textbf{7.} \quad Haematite is converted into iron by using the blast furnace.
+\begin{itemize}
+\item[(a)] Which are the substances fed into the blast furnace along with the ore of iron ? \hfill 1
+\item[(b)] Which compound acts as the reducing agent in the blast furnace ? \hfill 1
+\end{itemize}
+
+\vspace{1em}
+
+\noindent \textbf{8.} \quad FeCl$_2$ and FeCl$_3$ are two different chlorides of iron.
+
+\quad [Hint : Atomic number of Fe $= 26$
+
+\quad \phantom{[}Oxidation state of Cl $= (-1)$]
+\begin{itemize}
+\item[(a)] Find the oxidation state of Fe in FeCl$_2$. \hfill 1
+\item[(b)] Write down the subshell wise electronic configuration of Fe$^{3+}$. \hfill 1
+\end{itemize}
+
+\vspace{1em}
+
+\noindent \textbf{9.} \quad
+\begin{itemize}
+\item[(a)] Which homologous series do the hydrocarbons with general formula C$_n$H$_{2n}$ belong to ? \hfill 1
+
+[alkane, alkene, alkyne]
+\item[(b)] Write the structural formula of a member of the same homologous series having 3 carbon atoms. \hfill 1
+\end{itemize}
+
+\vspace{1em}
+
+\noindent \textbf{10.} \quad Soaps and detergents are cleansing agents.
+\begin{itemize}
+\item[(a)] Name the byproduct in the industrial production of soap. \hfill 1
+\item[(b)] How does excessive use of detergents destroy aquatic life ? \hfill 1
+\end{itemize}
+
+\vspace{1em}
+
+\begin{center}
+\textbf{SECTION - C}
+\end{center}
+
+\noindent (Answer \textbf{any 4} questions from \textbf{11} to \textbf{15}. Each question carries \textbf{3} scores.)
+
+\vspace{1em}
+
+\noindent \textbf{11.} \quad The relation between the volume and temperature of a fixed mass of gas at constant pressure is shown in the table.
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Volume (V) & Temperature (T) \\
+(L) & (K) \\
+\hline
+600 & 300 \\
+\hline
+400 & (P) \\
+\hline
+(Q) & 500 \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{itemize}
+\item[(a)] Find (P) and (Q). \hfill 2
+\item[(b)] Which gas law is associated with the given relation ? \hfill 1
+\end{itemize}
+
+\end{document}
+```

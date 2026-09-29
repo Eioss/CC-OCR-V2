@@ -1,0 +1,19 @@
+Based on the invoice provided, the **VAT Amount** is **0.00**.
+
+This is clearly shown in two places:
+
+1.  In the bottom-left table under "VAT AMOUNT":
+    ```
+    GOODS       VAT RATE     VAT AMOUNT
+    1654.42     0.00         0.00
+    ```
+
+2.  In the bottom-right summary box under "INVOICE VAT":
+    ```
+    INVOICE GOODS   INVOICE VAT   INVOICE TOTAL
+    1654.42         0.00          £1414.42 (handwritten correction from 1654.42)
+    ```
+
+The VAT rate is listed as 0.00%, resulting in a VAT amount of 0.00. The total invoice amount has been manually corrected to £1414.42, which reflects the removal of the crossed-out item (Darby's Bacchanalia for £240.00) from the original goods total of £1654.42 (£1400.00 + £240.00 - £240.00 = £1400.00, plus £14.42 postage = £1414.42). Since no VAT was charged on any items, the VAT amount remains 0.00.
+
+**Answer: 0.00**

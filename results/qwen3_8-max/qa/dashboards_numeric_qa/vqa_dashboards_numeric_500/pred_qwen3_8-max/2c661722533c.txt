@@ -1,0 +1,50 @@
+Based on the infographic, in the section regarding exposure to "fake news" on social media:
+
+*   **31%** say it is more than once daily.
+*   **11%** say they see fake news on social channels once every few days (which doesn't fit "almost once or more than once daily" perfectly, but let's look for "almost daily").
+
+Wait, let's re-read the specific charts.
+The text above the charts says: "Exposure to 'fake news' on social media is almost daily, according to 18% of people." This seems like a summary statistic, but let's look at the breakdown below it.
+
+The breakdown charts are:
+1.  **31%** say it is more than once daily.
+2.  **11%** say they see fake news on social channels once every few days.
+3.  **6%** say once a week.
+
+The question asks for "almost once or more than once daily".
+"More than once daily" is clearly the **31%**.
+"Almost once... daily" isn't explicitly a category label in the pie charts. However, the red banner states "Exposure to 'fake news' on social media is almost daily, according to 18% of people." This 18% might refer to a specific subset or a different calculation not fully detailed in the simple pie charts below it, or perhaps the "once every few days" (11%) plus some other factor? No, that doesn't add up to 18 easily with the other numbers.
+
+Let's re-evaluate the question: "total percentage of people viewing fake news almost once or more than once daily".
+If we interpret "almost once... daily" as close to daily, and "more than once daily" as >1/day.
+The chart explicitly labels **31%** as "more than once daily".
+Is there a category for "once daily" or "almost daily"?
+The red banner says "almost daily, according to 18%".
+If the question implies adding the "more than once daily" (31%) and the "almost daily" (18%), the total would be 49%.
+
+However, usually, these infographics have distinct categories.
+Category 1: More than once daily (31%).
+Category 2: Once every few days (11%).
+Category 3: Once a week (6%).
+
+The 18% figure in the red banner is likely a separate statistic from a different part of the survey or a summary that doesn't align perfectly with the three pie charts below it (which sum to 31+11+6 = 48%, leaving 52% unaccounted for in those specific frequency buckets, presumably "never" or "rarely").
+
+If the question is strictly interpreting the visual data for "more than once daily", it's 31%.
+If the question interprets "almost once or more than once daily" as combining the "more than once daily" group with the "almost daily" group mentioned in the banner:
+31% (more than once daily) + 18% (almost daily) = 49%.
+
+Let's look closer at the phrasing. "almost once or more than once daily".
+"More than once daily" = 31%.
+"Almost once... daily" -> The banner says "almost daily, according to 18%".
+It is highly probable the question wants the sum of these two distinct mentions of high-frequency exposure.
+
+Calculation: 31% + 18% = 49%.
+
+Alternatively, if "almost once... daily" refers to the "once every few days" (11%)? No, "every few days" is not "almost daily". "Almost daily" implies nearly every day.
+
+Let's assume the question refers to the specific text in the red banner and the first pie chart.
+Red banner: "almost daily" = 18%.
+First pie chart: "more than once daily" = 31%.
+Total = 18% + 31% = 49%.
+
+Answer: 49%

@@ -1,0 +1,150 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{makecell}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\begin{document}
+
+\noindent
+\begin{tabular}{@{}p{0.25\textwidth}p{0.45\textwidth}p{0.25\textwidth}@{}}
+{\Large awinic} &
+\begin{tabular}{@{}l@{}}
+上海艾为电子技术股份有限公司 \\
+{\scriptsize shanghai awinic technology co., ltd.}
+\end{tabular}
+&
+\begin{tabular}{@{}r@{}}
+\textbf{AW32905E} \\
+Mar. 2023 V1.0
+\end{tabular}
+\end{tabular}
+
+\hrule
+
+\vspace{1em}
+
+\noindent
+{\color{blue}\Large\textbf{Ordering Information}}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{|>{\centering\arraybackslash}p{0.15\textwidth}
+                |>{\centering\arraybackslash}p{0.13\textwidth}
+                |>{\centering\arraybackslash}p{0.14\textwidth}
+                |>{\centering\arraybackslash}p{0.08\textwidth}
+                |>{\centering\arraybackslash}p{0.11\textwidth}
+                |>{\centering\arraybackslash}p{0.15\textwidth}
+                |>{\centering\arraybackslash}p{0.12\textwidth}|}
+\hline
+\textbf{Part Number} &
+\textbf{Temperature} &
+\textbf{Package} &
+\textbf{Marking} &
+\textbf{Moisture Sensitivity Level} &
+\textbf{Environmental Information} &
+\textbf{Delivery Form} \\
+\hline
+AW32905EFCR &
+$-40^\circ\mathrm{C}$ -- $85^\circ\mathrm{C}$ &
+\makecell{FCQFN\\1.3mm$\times$1.8mm\\-12L} &
+RZR &
+MSL1 &
+ROHS+HF &
+\makecell{3000 units/\\Tape and\\Reel} \\
+\hline
+\end{tabular}
+
+\vspace{3em}
+
+\noindent
+{\color{blue}\Large\textbf{Absolute Maximum Ratings}} {\scriptsize (NOTE 1)}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{|>{\centering\arraybackslash}p{0.08\textwidth}
+                |p{0.27\textwidth}
+                |p{0.28\textwidth}
+                |>{\centering\arraybackslash}p{0.08\textwidth}
+                |>{\centering\arraybackslash}p{0.08\textwidth}
+                |>{\centering\arraybackslash}p{0.07\textwidth}|}
+\hline
+\textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\
+\hline
+$V_{\mathrm{IN}}$ & Input voltage & & -0.3 & 29 & V \\
+\hline
+$V_{\mathrm{OUT}}$ & Output voltage & & -0.3 & See\textsuperscript{(NOTE 2)} & V \\
+\hline
+$V_{\mathrm{OVLO}}$ & OVLO voltage & & -0.3 & 6 & V \\
+\hline
+$V_{\overline{\mathrm{ACOK}}}$ & $\overline{\mathrm{ACOK}}$ voltage & & -0.3 & 6 & V \\
+\hline
+$\overline{V_{\mathrm{EN}}}$ & $\overline{\mathrm{EN}}$ voltage & & -0.3 & 6 & V \\
+\hline
+$I_{\mathrm{SW}}$ &
+\makecell[l]{Continuous current of switch\\IN-OUT\textsuperscript{(NOTE 3)}} &
+\makecell[l]{Continuous current on IN and\\OUT pin} &
+& 5 & A \\
+\hline
+$I_{\mathrm{PEAK}}$ &
+Peak current &
+\makecell[l]{Peak input and output current\\on IN and OUT pin(10ms)} &
+& 8 & A \\
+\hline
+$I_{\mathrm{DIODE}}$ &
+Continuous diode current &
+\makecell[l]{Continuous forward current\\through the nFET body diode} &
+& 1.5 & A \\
+\hline
+$T_{\mathrm{A}}$ & Ambient temperature & & -40 & 85 & $^\circ$C \\
+\hline
+$T_{\mathrm{J}}$ & Junction temperature & & -40 & 150 & $^\circ$C \\
+\hline
+$T_{\mathrm{STG}}$ & Storage temperature & & -65 & 150 & $^\circ$C \\
+\hline
+$T_{\mathrm{LEAD}}$ & Soldering temperature & At leads, 10 seconds & & 260 & $^\circ$C \\
+\hline
+Surge &
+Input surge protection &
+\makecell[l]{IEC61000-4-5 test with 2$\Omega$\\equivalent series resistance} &
+& 120 & V \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent
+\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages}\\
+\textit{to the device. In spite of the limits above, functional operation conditions of the device should within the ranges}\\
+\textit{listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged}\\
+\textit{periods may affect device reliability.}
+
+\vspace{1em}
+
+\noindent
+\textit{NOTE2: 29V or $V_{\mathrm{IN}}$+0.3V, whichever is smaller.}
+
+\vspace{1em}
+
+\noindent
+\textit{NOTE3: Limited by thermal design.}
+
+\vfill
+
+\hrule
+
+\noindent
+\begin{tabular}{@{}p{0.33\textwidth}p{0.33\textwidth}p{0.33\textwidth}@{}}
+{\scriptsize www.awinic.com} &
+\centering {\scriptsize 5} &
+\raggedleft {\scriptsize \copyright\ 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved}
+\end{tabular}
+
+\end{document}
+```

@@ -1,0 +1,14 @@
+$$\inf_{u \in \mathcal{E}} \int_{\mathbb{T}} \langle u \rangle m \, dx = \inf_{\theta \in [\frac{1}{8}, \frac{3}{8}]} \int_{\mathbb{T}} \langle u^{\theta} \rangle m \, dx,$$
+
+$$a_{\ell}(u_1, \ldots, u_n) = \frac{1}{\sigma_{\ell}} \int_{V} \nu T_{\ell}'[M_1 u_1, \ldots, M_n u_n](M_{\ell}(v)) \, dv.$$
+
+$$B[w, \phi; t] := \int \left( \frac{1}{2} \nabla w \cdot \nabla \phi \, \mu - w \mu k m \cdot \nabla \phi - k w \phi \right) dm$$
+
+$$\nu \left| \int_{0}^{T} k_1 \, dt \right| \leq C_0 T^{1/4} \left( \|\sqrt{P\mathcal{E}} \, \dot{v}\|_{L^{\infty}(0,T;L_2)}^{1/4} + \nu^{-3/4} T^{1/8} \right)$$
+$$\times \left( \nu^{1/8} \|\sqrt{P\mathcal{E}} \, \dot{v}\|_{L^{\infty}(0,T;L_2)}^{1/4} + \nu^{1/4} T^{1/8} \right) \|\sqrt{\mathcal{E}} \operatorname{div} \dot{v}\|_{L_2(0,T;L_2)}.$$
+
+$$\mathbb{E} \left[ \sup_{0 \leq s \leq t} \|h_n(s, \omega)\|^p \right]$$
+
+$$\operatorname{Var} \sum_{i=1}^{k} X_i \leq k^2 \sup_{i} \operatorname{Var} X_i,$$
+
+$$C_1^{+} J_m \left( \sqrt{\frac{\lambda}{\beta_+}} R_0 \right) + C_2^{+} Y_m \left( \sqrt{\frac{\lambda}{\beta}} R_0 \right) = 0.$$

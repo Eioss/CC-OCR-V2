@@ -1,0 +1,19 @@
+\[
+\begin{aligned}
+\{e_{u,g}\}_{\alpha\beta}
+&=\{q_k f_{i,A+1,g}\}_{\alpha\beta}
+ -\{\vec q_k f_{i,A+1,g}\}_{\alpha\beta}\\
+&=q_k\{f_{i,A+1,g}\}_{\alpha\beta}
+ +f_{i,A+1}\{q_{k,g}\}_{\alpha\beta}\\
+&\quad-\vec q_k\{f_{i,A+1,g}\}_{\alpha\beta}
+ -f_{i,A+1}\{\vec q_{k,g}\}_{\alpha\beta}\\
+&=q_k\{f_{i,A+1,g}\}_{\mathrm{std}}
+ -q_k\{f_{i,A+1,\vec g}\}
+ +f_{i,A+1}\{q_{k,g}\}_{\mathrm{std}}\\
+&\quad-\vec q_k\{f_{i,A+1,g}\}_{\mathrm{std}}
+ -f_{i,A+1}\{\vec q_{k,g}\}_{\mathrm{std}}\\
+&=(w_{f_{i,A+1,g}}+w_{q_{k,g}})\,q_k f_{i,A+1,g}\\
+&\quad-\bigl(w_{q_{k,g}}+w_{f_{i,A+1,g}}-\bar s_{w\alpha\beta}g\bigr)
+ \vec q_k\,\vec f_{i,A+1,g}.
+\end{aligned}
+\]

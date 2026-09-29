@@ -1,0 +1,213 @@
+```html
+<table>
+  <tr>
+    <td colspan="2">PARAMETER</td>
+    <td>TEST CONDITION</td>
+    <td>MIN</td>
+    <td>TYP</td>
+    <td>MAX</td>
+    <td>UNIT</td>
+  </tr>
+
+  <tr>
+    <td colspan="7">INPUT CURRENTS</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4">IQ</td>
+    <td rowspan="4">Input quiescent current</td>
+    <td>VIN=3.3V, VEN=3.3V, IOUT=0A, TA=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td>12</td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=3.3V, VEN=3.3V, IOUT=0A, TA=85°C</td>
+    <td></td>
+    <td>9</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.5V, VEN=5.5V, IOUT=0A, TA=25°C</td>
+    <td></td>
+    <td>5</td>
+    <td>25</td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.5V, VEN=5.5V, IOUT=0A, TA=85°C</td>
+    <td></td>
+    <td>10</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+
+  <tr>
+    <td rowspan="9">ISD</td>
+    <td rowspan="9">Shutdown current from IN to GND</td>
+    <td>VIN=1.2V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=1.8V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=3.3V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>4</td>
+    <td>44</td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=4.0V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>7</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=4.5V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>22</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.0V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>62</td>
+    <td>970</td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.0V, VEN=0V, TA=55°C</td>
+    <td></td>
+    <td>90</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.0V, VEN=0V, TA=85°C</td>
+    <td></td>
+    <td>350</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+  <tr>
+    <td>VIN=5.5V, VEN=0V, TA=25°C</td>
+    <td></td>
+    <td>171</td>
+    <td></td>
+    <td>nA</td>
+  </tr>
+
+  <tr>
+    <td>ILEAKEN</td>
+    <td>EN pin leakage current</td>
+    <td>VIN=0V, VEN=5.0V</td>
+    <td></td>
+    <td></td>
+    <td>1.5</td>
+    <td>µA</td>
+  </tr>
+  <tr>
+    <td>REN</td>
+    <td>EN pin pull down resistor</td>
+    <td>VEN=5.0V</td>
+    <td></td>
+    <td>6.85</td>
+    <td></td>
+    <td>MΩ</td>
+  </tr>
+
+  <tr>
+    <td colspan="7">POWER SWITCH</td>
+  </tr>
+
+  <tr>
+    <td rowspan="6">Rdson</td>
+    <td rowspan="6">Internal switch MOSFET on-state resistance</td>
+    <td>VIN=5.5V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>50</td>
+    <td></td>
+    <td rowspan="6">mΩ</td>
+  </tr>
+  <tr>
+    <td>VIN=4.2V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>56</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VIN=3.3V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>64</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VIN=3.0V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>68</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>VIN=1.8V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>109</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VIN=1.2V, VEN=high, IOUT=200mA, TA=25°C</td>
+    <td></td>
+    <td>225</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>RDIS</td>
+    <td>Output discharge resistance</td>
+    <td>VIN=3.3V, VEN=low, TA=25°C,<br>IOUT Sinking 2mA</td>
+    <td>50</td>
+    <td>75</td>
+    <td>100</td>
+    <td>Ω</td>
+  </tr>
+  <tr>
+    <td>tR</td>
+    <td>Output rise time</td>
+    <td>VIN=3.6V, COUT=1µF, ROUT=30Ω</td>
+    <td></td>
+    <td>165</td>
+    <td></td>
+    <td>µs</td>
+  </tr>
+  <tr>
+    <td>tF</td>
+    <td>Output fall time</td>
+    <td>VIN=3.6V, COUT=1µF, ROUT=30Ω</td>
+    <td></td>
+    <td>42</td>
+    <td></td>
+    <td>µs</td>
+  </tr>
+  <tr>
+    <td>tON</td>
+    <td>Switch turn on time</td>
+    <td>VIN=3.6V, COUT=1µF, ROUT=30Ω</td>
+    <td></td>
+    <td>238</td>
+    <td></td>
+    <td>µs</td>
+  </tr>
+</table>
+```

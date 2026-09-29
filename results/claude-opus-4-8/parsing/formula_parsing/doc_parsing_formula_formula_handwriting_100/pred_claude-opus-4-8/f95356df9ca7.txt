@@ -1,0 +1,22 @@
+$$\Gamma = \{(x,y) : \|x\| = u(y), |y| \leq d\}$$
+
+$$P_{est} = \frac{4}{3} \frac{n(\mathcal{N}_U^P) - n_{00}(\mathcal{N}_U^P)}{n(\mathcal{N}_U^P)},$$
+
+$$\|\mu\|_{BL} := \sup_{\psi \in \mathcal{L}} \int_{\mathbb{R}_0^+} \psi \mu, \quad \mu \in \mathcal{M}$$
+
+$$V := \left\{ \breve{\sigma}_{u, ((x_1, s_1), \ldots, (x_l, s_l)), \pi B} \,\middle|\, (u, ((x_1, s_1), \ldots, (x_l, s_l)), \pi B) \in \dot{V} \right\}.$$
+
+$$\frac{1}{h}(\eta_{h,i}^V - \eta_{h,i-1}^V, w)_{L^2(\Omega)} + (\nabla \eta_{h,i}^V, \nabla w)_{L^2(\Omega)^N} + (g(\eta_{h,i}^V), w)_{L^2(\Omega)}$$
+$$+ (a'(\eta_{h,i}^V)|\nabla \theta_{h,i-1}^V|v, w)_{L^2(\Omega)} = 0, \text{ for every } w \in H^1(\Omega) \text{ and } i \in \mathcal{N},$$
+
+$$\sum_{i=1}^{4} \left(c_{trace}^{No(k_i)}\right)^2 \geq 2(1+r^2) \,\forall r,$$
+
+$$\sum_{i=1}^{4} \left(c_{trace}^{No(k_i)}\right)^2 \leq 2(1+2r^2) \text{ for } r \leq \frac{1}{\sqrt{2}}$$
+
+$$[A_{u,v} = 2\mu(\epsilon(u), \epsilon(v)),] \quad [B_{p,v} = (P, \nabla \cdot v),]$$
+$$[c_{p,q} = (P, q),] \quad [D_{\eta,v} = (\eta, v)]$$
+
+$$h_\theta = \theta^\perp = \{X \in h \,|\, \alpha(X) = 0 \,\,\forall \alpha \in \theta\}, \quad l_\theta = \mathfrak{Z}g(h_\theta) = h \oplus \sum g^\alpha, \quad \eta_\theta^\pm = \sum_{\alpha \in \Sigma^\pm \setminus \langle \theta \rangle^\pm} g^\alpha$$
+
+$$\exp\left(\sum_{\xi \in \mathcal{B}_0} \chi_{J_0 \cup \xi}(t)\right) \prod_{\xi \in \mathcal{B}_0} \|BA_0^{-1} e_{J_0} \wedge e_\xi\|$$
+$$= \exp\left(|\mathcal{B}_0| \sum_{j=0}^{a_d} (d_j/l_j - d_{j+1}/l_{j+1}) \left(\sum_{i=1}^{j} \chi_{J_0}(t) + \chi_{[l_i]}(t)\right)\right) \prod_{\xi \in \mathcal{B}_0} \|BA_0^{-1} e_{J_0} \wedge e_\xi\|$$

@@ -1,0 +1,50 @@
+Based on the infographic provided, let's look at the section titled:
+
+> **“What hypervisor or virtualization vendors will you use in the next year for private cloud management?”**
+
+The list is ranked by percentage (highest to lowest):
+
+1. **VMware** — 84.6%  
+2. **Citrix** — 44.6%  
+3. **Microsoft** — 55.4% *(Wait — this appears out of order numerically)*  
+   → Actually, looking closely: Microsoft is listed as **55.4%**, which is higher than Citrix’s 44.6%. So there may be a typo or misordering in the graphic.
+
+But if we sort them strictly by percentage value (as implied by “rank”), the correct descending order should be:
+
+- VMware: 84.6% → **#1**
+- Microsoft: 55.4% → **#2**
+- Citrix: 44.6% → **#3**
+- KVM: 35.4% → **#4**
+- Openstack: 33.8% → **#5**
+- Other: 3.1% → #6
+
+However, the graphic lists them visually in this order:
+
+> VMware ... 84.6%  
+> Citrix ... 44.6%  
+> Microsoft ... 55.4% ← *This breaks numerical ranking*  
+> KVM ... 35.4%  
+> Openstack ... 33.8%  
+> Other ... 3.1%
+
+So if we go by **visual position in the list as presented** (not sorted by %), then:
+
+1. VMware  
+2. Citrix  
+3. Microsoft  
+4. KVM  
+5. **Openstack** ← Fifth rank  
+6. Other
+
+---
+
+✅ Therefore, **according to the visual ordering in the infographic**, the fifth-ranked vendor for future private cloud management is:
+
+> **Openstack**
+
+*(Note: If sorted by actual percentage, Microsoft would be #2 and Citrix #3, making Openstack still #5 — so either way, Openstack is fifth.)*
+
+---
+
+### Final Answer:
+**Openstack**

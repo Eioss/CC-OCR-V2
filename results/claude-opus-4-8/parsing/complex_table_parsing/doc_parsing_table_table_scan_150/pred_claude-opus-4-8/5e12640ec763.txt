@@ -1,0 +1,88 @@
+Here's the HTML transcription of the tables from the image:
+
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <td colspan="5" align="center"><strong>碧桂园津湖源著 3#楼预售详情</strong></td>
+  </tr>
+  <tr>
+    <td align="center">住宅总户数</td>
+    <td colspan="4" align="center"><strong>32套</strong></td>
+  </tr>
+  <tr>
+    <td align="center">单元</td>
+    <td align="center"><strong>01单元</strong></td>
+    <td align="center"><strong>02单元</strong></td>
+    <td align="center"><strong>03单元</strong></td>
+    <td align="center"><strong>05单元</strong></td>
+  </tr>
+  <tr>
+    <td align="center">建面约</td>
+    <td align="center">89.71㎡</td>
+    <td align="center">89.71㎡</td>
+    <td align="center">89.71㎡</td>
+    <td align="center">89.71㎡</td>
+  </tr>
+  <tr>
+    <td align="center">套数</td>
+    <td align="center">8</td>
+    <td align="center">8</td>
+    <td align="center">8</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td align="center">预售单价（元/㎡）</td>
+    <td align="center">13763.63</td>
+    <td align="center">13410.75</td>
+    <td align="center">13389.63</td>
+    <td align="center">13537.88</td>
+  </tr>
+  <tr>
+    <td align="center">3#楼预售均价</td>
+    <td colspan="4" align="center"><strong>13525.47元/㎡</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><strong>碧桂园津湖源著 5#楼预售详情</strong></td>
+  </tr>
+  <tr>
+    <td align="center">住宅总户数</td>
+    <td colspan="4" align="center"><strong>56套</strong></td>
+  </tr>
+  <tr>
+    <td align="center">单元</td>
+    <td align="center"><strong>01单元</strong></td>
+    <td align="center"><strong>02单元</strong></td>
+    <td align="center"><strong>03单元</strong></td>
+    <td align="center"><strong>05单元</strong></td>
+  </tr>
+  <tr>
+    <td align="center">建面约</td>
+    <td align="center">110.24㎡</td>
+    <td align="center">109.93㎡</td>
+    <td align="center">109.93㎡</td>
+    <td align="center">109.93㎡</td>
+  </tr>
+  <tr>
+    <td align="center">套数</td>
+    <td align="center">14</td>
+    <td align="center">14</td>
+    <td align="center">14</td>
+    <td align="center">14</td>
+  </tr>
+  <tr>
+    <td align="center">预售单价（元/㎡）</td>
+    <td align="center">13807.50</td>
+    <td align="center">13585.71</td>
+    <td align="center">13533.21</td>
+    <td align="center">13726.93</td>
+  </tr>
+  <tr>
+    <td align="center">5#楼预售均价</td>
+    <td colspan="4" align="center"><strong>13663.49元/㎡</strong></td>
+  </tr>
+  <tr>
+    <td align="center">3#楼、5#楼整体预售均价</td>
+    <td colspan="4" align="center"><strong>13619.64元/㎡</strong></td>
+  </tr>
+</table>
+```

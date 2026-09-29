@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "10-16-18",
+    "vendor_name": "GLADES MEDIA RADIO GROUP",
+    "vendor_address": "530 East Alverdez Clewiston, FL 33440 2326 S. Congress Ave. #2A West Palm Beach, FL 33406 210 W. North Park St., #102 Okeechobee, FL 34972 2105 W. Immokalee Dr. Immokalee, FL 34142",
+    "customer_id": "8661",
+    "customer_billing_name": "Deborah M Hooker For County Court Judge",
+    "customer_billing_address": "600 South Parrott Ave Okeechobee, FL 34974-5136",
+    "customer_registration_id": "Deborah M Hooker For County Court Judge",
+    "amount_total_gross": "$544",
+    "amount_due": "$544",
+    "payment_terms": "Payment of account is due by the 20th of the month following the billing date."
+}
+```

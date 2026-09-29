@@ -1,0 +1,161 @@
+Based on the image provided, here is the transcription of the text into LaTeX format. The layout uses a two-column structure to mirror the original document's table of contents design.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese character support
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{graphicx} % For the cat illustration placeholder if needed, though text only is requested
+\usepackage{fancyhdr}
+
+\geometry{left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+
+% Custom commands for TOC entries
+\newcommand{\tocentry}[2]{\noindent\makebox[\linewidth][l]{#1 \dotfill #2}\par}
+\newcommand{\tocchapter}[2]{\noindent\textbf{#1 \hfill #2}\par\vspace{0.2em}}
+\newcommand{\tocsection}[2]{\noindent\hspace{1em}\makebox[\dimexpr\linewidth-1em][l]{#1 \dotfill #2}\par}
+\newcommand{\tocsubsection}[2]{\noindent\hspace{2em}\makebox[\dimexpr\linewidth-2em][l]{#1 \dotfill #2}\par}
+
+% Redefine page style for footer
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{3}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\begin{multicols}{2}
+\noindent
+\begin{minipage}[t]{\linewidth}
+    神经性厌食症 /100 \\
+    厌食的跨文化证据 /101 \\
+    5-羟色胺假设 /102 \\
+    遗传因素 /103 \\
+    神经性贪食症 /103 \\
+    肥胖 /107 \\
+    肥胖的解释 /108 \\
+    体内平衡调节的再思考 /111 \\[1em]
+    
+    \textbf{渴的调节 /112} \\
+    \hspace*{1em}细胞外机制和细胞内机制 /113 \\
+    \hspace*{1em}肾脏 /113 \\
+    \hspace*{1em}渗压渴 /114
+\end{minipage}
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{\linewidth}
+    容积渴 /115 \\
+    非体内平衡性饮水 /116 \\
+    饮水的抑制性控制 /116 \\
+    性动机的调节 /117 \\
+    下丘脑调节 /118 \\[1em]
+    
+    \textbf{攻击动机的调节 /120} \\
+    \hspace*{1em}边缘系统 /120 \\
+    \hspace*{1em}攻击的类型 /122 \\[1em]
+    
+    \textbf{概要 /123} \\
+    \textbf{关键术语 /124} \\
+    \textbf{进一步阅读的建议 /126} \\
+    \textbf{网络资源 /127}
+\end{minipage}
+
+\end{multicols}
+
+\vspace{2em}
+
+\begin{center}
+    \hrule
+    \vspace{0.5em}
+    {\Large\bfseries 第三编 \quad 行为取向：学习、诱因和享乐}
+    \vspace{0.5em}
+    \hrule
+\end{center}
+
+\vspace{2em}
+
+\begin{multicols}{2}
+
+% Left Column
+\noindent\textbf{第六章 \quad 习得性动机：经典、工具和观察学习 /129}
+
+\vspace{0.5em}
+\noindent\textbf{巴甫洛夫的经典条件作用 /130} \\
+\hspace*{1em}实验神经症 /132 \\
+\hspace*{1em}通过条件作用消退动机行为 /133 \\
+\hspace*{1em}内感受条件作用 /134 \\
+\hspace*{1em}习得性厌恶 /135 \\
+\hspace*{1em}癌症病人的习得性味觉厌恶 /137
+
+\vspace{0.5em}
+\noindent\textbf{操作条件作用 /139} \\
+\hspace*{1em}强化的质量、数量及对比 /140 \\
+\hspace*{1em}初级强化和条件强化 /141 \\
+\hspace*{1em}泛化条件强化物 /142 \\
+\hspace*{1em}代币物和代币物奖惩法 /142
+
+\vspace{0.5em}
+\noindent\textbf{动机的经典-操作条件作用的相互作用 /144} \\
+\hspace*{1em}习得性恐惧 /144 \\
+\hspace*{1em}条件性情绪反应 /145 \\
+\hspace*{1em}习得性无助 /145 \\
+\hspace*{1em}无助的症状 /147 \\
+\hspace*{1em}无助的原因和干预 /148
+
+\vspace{0.5em}
+\noindent\textbf{观察学习（模仿） /149} \\
+\hspace*{1em}模仿过程：注意、保持、再现 /149 \\
+\hspace*{1em}模仿过程：替代性强化 /150 \\
+\hspace*{1em}学习与攻击 /150 \\
+\hspace*{1em}经典条件作用与攻击 /151 \\
+\hspace*{1em}操作条件作用与攻击 /152
+
+% Right Column
+\vspace{0.5em} % Alignment adjustment
+\noindent\hspace*{1em}模仿性攻击 /152 \\
+\noindent\textbf{性动机与学习 /153} \\
+\noindent\textbf{习得的性价值观 /154} \\
+\noindent\textbf{概要 /155} \\
+\noindent\textbf{关键术语 /155} \\
+\noindent\textbf{进一步阅读的建议 /157} \\
+\noindent\textbf{网络资源 /157}
+
+\vspace{1.5em}
+
+\noindent\textbf{第七章 \quad 诱因动机 /159}
+
+\vspace{0.5em}
+\noindent\textbf{诱因即增能器 /160} \\
+\hspace*{1em}诱因动机 K /161 \\
+\hspace*{1em}行为的坚持性 /163
+
+\vspace{0.5em}
+\noindent\textbf{诱因即情绪的发生器 /166} \\
+\hspace*{1em}莫勒：恐惧、希望、宽慰和失望 /166
+
+\vspace{0.5em}
+\noindent\textbf{诱因即信息的载体 /167} \\
+\hspace*{1em}托尔曼：认知的系统阐述 /167 \\
+\hspace*{1em}预见性 /168 \\
+\hspace*{1em}克林格：意义性 /170
+
+\vspace{0.5em}
+\noindent\textbf{性动机的诱因因素 /172} \\
+\hspace*{1em}女性的魅力 /174 \\
+\hspace*{1em}男性的魅力 /175
+
+\vspace{0.5em}
+\noindent\textbf{诱因动机和物质成瘾 /175} \\
+\noindent\textbf{行为成瘾 /176} \\
+\noindent\textbf{概要 /176}
+
+\end{multicols}
+
+\end{document}
+```

@@ -1,0 +1,32 @@
+The steps to derive the quadratic formula are shown below.
+
+\[
+\begin{array}{|l|l|}
+\hline
+\text{Step 1} & ax^2+bx+c=0\\ \hline
+\text{Step 2} & ax^2+bx=-c\\ \hline
+\text{Step 3} & x^2+\dfrac{b}{a}x=-\dfrac{c}{a}\\ \hline
+\text{Step 4} & x^2+\dfrac{b}{a}x+\dfrac{b^2}{4a^2}
+=-\dfrac{c}{a}+\dfrac{b^2}{4a^2}\\ \hline
+\text{Step 5} & x^2+\dfrac{b}{a}x+\dfrac{b^2}{4a^2}
+=-\dfrac{4ac}{4a^2}+\dfrac{b^2}{4a^2}\\ \hline
+\text{Step 6} & \left(x+\dfrac{b}{2a}\right)^2
+=\dfrac{b^2-4ac}{4a^2}\\ \hline
+\text{Step 7} & \left(x+\dfrac{b}{2a}\right)
+=\pm\sqrt{\dfrac{b^2-4ac}{4a^2}}
+=\pm\dfrac{\sqrt{b^2-4ac}}{4a}\\ \hline
+\text{Step 8} & x=-\dfrac{b}{2a}\pm\dfrac{\sqrt{b^2-4ac}}{2a}\\ \hline
+\text{Step 9} & x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}\\ \hline
+\end{array}
+\]
+
+Which of the following is the first incorrect step?
+
+\[
+\begin{array}{l}
+\circ\ \text{Step 4}\\
+\circ\ \text{Step 6}\\
+\circ\ \text{Step 7}\\
+\circ\ \text{Step 8}
+\end{array}
+\]

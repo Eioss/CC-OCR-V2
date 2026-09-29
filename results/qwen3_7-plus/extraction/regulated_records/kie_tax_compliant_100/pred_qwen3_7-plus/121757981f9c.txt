@@ -1,0 +1,12 @@
+```json
+{
+    "date": "27/03/2018",
+    "doc_no_receipt_no": "UOA-CS18-01713",
+    "seller_address": "UNIT G-5B, GROUND FLOOR, WISMA UOA II, NO 21, JALAN PINANG, 50450 KUALA LUMPUR, MALAYSIA",
+    "seller_gst_id": "002121732090",
+    "seller_name": "ANZEL ADVERTISING (M) SDN BHD",
+    "seller_phone": "03-2163 2766 / 03-2161 6766",
+    "total_amount": "8.50",
+    "total_tax": "0.48"
+}
+```

@@ -1,0 +1,137 @@
+```latex
+\section*{Original article}
+
+\begin{table}[htbp]
+\centering
+\caption{Number and distribution of varicella cases in children aged \textless 15 years in Uruguayan private healthcare providers between 1997 and 2005}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llrrrrrrrrrrrrrrrrr}
+\hline
+& & \multicolumn{9}{c}{Servicio de Urgencia Asistencia y Traslado (SUAT)}
+& \multicolumn{8}{c}{Servicio de Emergencia Médico Móvil (SEMM)} \\
+\cline{3-11}\cline{12-19}
+Age (years) & & 1997 & 1998 & 1999 & 2000 & 2001 & 2002 & 2003 & 2004 & 2005
+& 1998 & 1999 & 2000 & 2001 & 2002 & 2003 & 2004 & 2005 \\
+\hline
+\textless 1
+& Cases      & 63   & 86    & 52    & 22    & 31    & 14    & 11    & 7     & 6
+              & 106   & 39    & 46    & 35    & 17    & 6     & 16    & 10 \\
+& Members    & 911  & 994   & 1064  & 1317  & 1245  & 2181  & 5446  & 3336  & 2396
+              & 8743  & 9604  & 8835  & 4409  & 3414  & 3223  & 2479  & 2513 \\
+& Cases/1000 & 69.2 & 86.5  & 48.9  & 16.7  & 24.9  & 6.4   & 2.0   & 2.1   & 2.5
+              & 12.1  & 4.1   & 5.2   & 7.9   & 5.0   & 1.9   & 6.5   & 4.0 \\[2mm]
+
+1--4
+& Cases      & 723  & 890   & 454   & 217   & 166   & 89    & 44    & 9     & 18
+              & 1083  & 369   & 271   & 165   & 44    & 23    & 42    & 26 \\
+& Members    & 3796 & 4227  & 4787  & 5191  & 5633  & 7020  & 7106  & 7809  & 7966
+              & 20114 & 20653 & 19243 & 17517 & 14133 & 13869 & 9963  & 11483 \\
+& Cases/1000 & 190.5& 210.6 & 94.8  & 41.8  & 29.5  & 12.4  & 6.2   & 1.2   & 2.3
+              & 53.8  & 17.9  & 14.1  & 9.4   & 3.1   & 1.7   & 4.2   & 2.3 \\[2mm]
+
+5--9
+& Cases      & 592  & 709   & 379   & 245   & 299   & 248   & 188   & 79    & 43
+              & 769   & 300   & 248   & 267   & 138   & 137   & 187   & 123 \\
+& Members    & 4148 & 4688  & 5238  & 5690  & 6218  & 7660  & 8491  & 7556  & 5950
+              & 23833 & 23256 & 22490 & 20725 & 16913 & 15715 & 11854 & 13894 \\
+& Cases/1000 & 142.7& 150.9 & 72.4  & 43.1  & 48.1  & 32.4  & 22.1  & 10.5  & 7.2
+              & 32.3  & 12.6  & 11.0  & 12.9  & 8.2   & 8.7   & 15.8  & 8.9 \\[2mm]
+
+10--14
+& Cases      & 131  & 182   & 99    & 83    & 87    & 73    & 54    & 37    & 30
+              & 211   & 102   & 74    & 79    & 35    & 53    & 78    & 72 \\
+& Members    & 3607 & 4074  & 4710  & 5190  & 5599  & 6840  & 7512  & 8430  & 7671
+              & 18992 & 20608 & 20334 & 19696 & 16440 & 13069 & 13262 & 13113 \\
+& Cases/1000 & 36.3 & 44.7  & 21.0  & 16.0  & 15.5  & 10.7  & 7.2   & 5.8   & 3.9
+              & 11.1  & 4.9   & 3.6   & 4.0   & 2.1   & 4.1   & 5.9   & 5.5 \\[2mm]
+
+Total
+& Cases      & 1509 & 1867  & 984   & 567   & 583   & 424   & 297   & 132   & 97
+              & 2169  & 810   & 639   & 546   & 234   & 219   & 323   & 231 \\
+& Members    & 12462& 13933 & 15799 & 17388 & 18695 & 23682 & 28555 & 25131 & 23983
+              & 71682 & 74197 & 70902 & 62547 & 50900 & 46876 & 37554 & 41064 \\
+& Cases/1000 & 121.1& 133.4 & 62.3  & 32.6  & 31.2  & 17.8  & 10.4  & 5.3   & 4.0
+              & 30.3  & 10.8  & 9.0   & 8.8   & 4.6   & 4.7   & 8.6   & 5.6 \\
+\hline
+\end{tabular}%
+}
+\end{table}
+
+4 months previously; and another child of 5 years with pneumonia who had been vaccinated at 3 years of age.
+
+\subsection*{Outpatient consultations}
+
+The combined membership \textless 15 years of age for SUAT and SEMM decreased from approximately 85 000 in 1998 to 65 000 in 2005. In the period 1997--1999, the incidence of medical visits for varicella per 1000 members in the two systems was 38.8 overall and 16.2, 64.8, 44.9 and 13.9 for the \textless 1, 1--4, 5--9 and 10--14 years age groups, respectively. In 2005, these incidence rates were reduced by 87\% overall (\(p<0.001\)) and by 80\% (\(p<0.001\)), 97\% (\(p<0.001\)), 81\% (\(p<0.001\)), and 65\% (\(p<0.001\)) for the same respective age groups (table 2).
+
+The evolution of the incidence of varicella in each system is illustrated in fig 2.
+
+There were 358 varicella cases treated as outpatients among the three service providers during 2005, who were in the target age group (\textgreater 1 year of age) and for whom clinical information, including vaccination status was available (tables 1 and 2). Of these, 118 had been previously vaccinated. Clinical varicella differed significantly in previously vaccinated and unvaccinated individuals: 78.0\% of vaccinated subjects had \textless 50 lesions and none had \textgreater 150 lesions compared with 32.9\% and 23.8\% of unvaccinated children, respectively (\(p<0.001\)). Fever was present in 39.8\% of vaccinated subjects versus 77.1\% of unvaccinated subjects (\(p<0.001\)) and was \textgreater 38.5\textdegree C in 31.9\% and 48.6\% vaccinated and unvaccinated children, respectively (\(p=0.003\)). Complications occurred in 6.8\% of vaccinated children (cutaneous super-infection and vesicular haemorrhage) compared with 11.7\% of unvaccinated children (cutaneous super-infection, bacterial super-infection, sepsis, scarlet fever and cervical adenopathy) (\(p>0.05\)). Hospitalisation occurred in 0.0\% and 1.2\% of vaccinated and unvaccinated children, respectively (\(p>0.05\)).
+
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=0.72\textwidth,
+    height=0.42\textwidth,
+    xmin=1997, xmax=2005,
+    ymin=0, ymax=140,
+    xtick={1997,1998,1999,2000,2001,2002,2003,2004,2005},
+    ytick={0,20,40,60,80,100,120,140},
+    xlabel={Year},
+    ylabel={Yearly incidence per 1000 SUAT members},
+    axis y line*=left,
+    axis x line*=bottom,
+    legend style={draw=black, fill=white, at={(0.75,0.82)}, anchor=south west},
+]
+\addplot[black, mark=square*] coordinates {
+    (1997,121.1)
+    (1998,133.4)
+    (1999,62.3)
+    (2000,32.6)
+    (2001,31.2)
+    (2002,17.8)
+    (2003,10.4)
+    (2004,5.3)
+    (2005,4.0)
+};
+\addlegendentry{SUAT}
+\end{axis}
+
+\begin{axis}[
+    width=0.72\textwidth,
+    height=0.42\textwidth,
+    xmin=1997, xmax=2005,
+    ymin=0, ymax=30,
+    xtick={1997,1998,1999,2000,2001,2002,2003,2004,2005},
+    ytick={0,5,10,15,20,25,30},
+    ylabel={Yearly incidence per 1000 SEMM members},
+    axis y line*=right,
+    axis x line=none,
+]
+\addplot[black, mark=*] coordinates {
+    (1998,30.3)
+    (1999,10.8)
+    (2000,9.0)
+    (2001,8.8)
+    (2002,4.6)
+    (2003,4.7)
+    (2004,8.6)
+    (2005,5.6)
+};
+\addlegendentry{SEMM}
+\end{axis}
+\end{tikzpicture}
+\caption{Incidence of varicella in children aged \textless 15 years, Uruguay 1997--2005. SEMM, Servicio de Emergencia Médico Móvil; SUAT, Servicio de Urgencia Asistencia y Traslado.}
+\end{figure}
+
+\subsection*{DISCUSSION}
+
+The results of this retrospective study demonstrate significant reductions in the proportion of varicella hospitalisations in a large public paediatric hospital (up to 86\% in the age group eligible for vaccination) compared to the pre-vaccination years 1997--1999. Furthermore, a substantial decrease was also observed in the ambulatory cases seen at two ambulatory healthcare providers (up to 88\% in the age group eligible for vaccination). Clinical varicella, when it occurred in vaccinated subjects, was associated with significantly fewer and less severe symptoms and complications than disease in unvaccinated children.
+
+The observed decrease in varicella incidence is neither linear, nor constant. The initial sharp decline in 1999 is likely to be due the cyclical increase and decrease of varicella rather than the vaccination campaign.\textsuperscript{11} However, the persistence of this decrease can be attributed to vaccination and it seems justified to assert that sustained reductions in case numbers and hospitalisations observed in the years following the onset of vaccination represent the true impact of the varicella vaccination programme. Without the varicella vaccination campaign, one would likely have seen another cyclical peak and a new increase after 2000. This is supported by data from Buenos Aires, an adjacent province in Argentina which has no varicella mass vaccination, where a doubling of cases was reported from 2001 to 2002.\textsuperscript{12} The slight increase in hospitalisations in 2002 and
+
+\begin{flushleft}
+848 \hfill \textit{Arch Dis Child} 2008;93:845--850. doi:10.1136/adc.2007.126243
+\end{flushleft}
+```

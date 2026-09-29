@@ -1,0 +1,23 @@
+$$|TX^R|_{L_w^r L_{[0,T]}^\infty L_x^2} \leq |X_0|_{L_w^r L_x^2} + \Big|\int_0^t S_\beta(t,s)\theta_R(X^R)(s)|X^R(s)|^{2\sigma} X^R(s)\,ds\Big|_{L_w^r L_{[0,T]}^\infty L_x^2}$$
+
+$$\leq |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \big|\theta_R(X^R)|X^R|^{2\sigma+1}\big|_{L_w^r L_{[0,T]}^{r'} L_x^{p'}}$$
+
+$$= |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \Big|\Big[\int_0^T \theta_R(X^R)^{r'}(t)\Big(\int_\Gamma |X^R(t)|^{(2\sigma+1)p'}\,dx\Big)^{\frac{r'}{p'}}dt\Big]^{1/r'}\Big|_{L_w^r}$$
+
+Since $p' = \frac{2\sigma+2}{2\sigma+1}$, the right hand side equals
+
+$$= |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \Big|\Big(\int_0^T \theta_R(X^R)^{r'}(t)|X^R(t)|_{L_x^p}^{(2\sigma+1)r'}\,dt\Big)^{\frac{1}{r'}}\Big|_{L_w^r}$$
+
+Since $r \geq p = 2\sigma+2$, we can apply Hölder's inequality to get
+
+$$\leq |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \Big|\Big(\int_0^T [\theta_R(X^R)(t)]^{r/(2\sigma+1)}|X^R(t)|_{L_x^p}^r\,dt\Big)^{\frac{2\sigma+1}{r}} T^{\frac{r-r'(2\sigma+1)}{rr'}}\Big|_{L_w^r}$$
+
+Letting $\tilde t(w) := \inf\{s : |X^R(w)|_{L^r([0,s];L_x^p)} \geq 2R\}$, from definition of $\theta_R$ in (??), we have
+
+$$= |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \Big|\Big(\int_0^{\tilde t} [\theta_R(X^R)(t)]^{r/(2\sigma+1)}|X^R(t)|_{L_x^p}^r\,dt\Big)^{\frac{2\sigma+1}{r}}\Big|_{L_w^r}$$
+
+where $\tilde\beta = \tilde\beta + \frac{r-r'(2\sigma+1)}{rr'} > 0$. Furthermore,
+
+$$\leq |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta} \Big|\Big(\int_0^{\tilde t} |X^R(t)|_{L_x^p}^r\,dt\Big)^{\frac{2\sigma+1}{r}}\Big|_{L_w^r}$$
+
+$$\leq |X_0|_{L_w^r L_x^2} + c_{r,p}\, T^{\tilde\beta}(2R)^{2\sigma}|X^R|_{L_w^r L_{[0,T]}^{r'} L_x^p},$$

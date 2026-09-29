@@ -1,0 +1,11 @@
+Based on the provided dashboard snapshot from **May 05, 2020**, we need to look at the **“Total Reported”** column under the **“- top 16 -”** section on the left side of the image.
+
+The list is ordered by total reported cases (highest to lowest). The last entry in this “top 16” list is:
+
+> **41,087 Netherlands**
+
+This means that among the top 16 countries with the highest number of *total reported* cases as of May 5, 2020, the **Netherlands** has the **least number of cases**.
+
+---
+
+✅ **Answer: Netherlands**

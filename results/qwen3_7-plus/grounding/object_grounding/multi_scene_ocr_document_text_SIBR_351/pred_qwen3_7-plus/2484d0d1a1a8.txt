@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [120, 101, 343, 117], "label": "Buyer"},
+	{"bbox_2d": [376, 278, 447, 292], "label": "Commodity"},
+	{"bbox_2d": [376, 313, 454, 329], "label": "Commodity"},
+	{"bbox_2d": [616, 103, 688, 116], "label": "Contract No"},
+	{"bbox_2d": [616, 123, 713, 136], "label": "Date"},
+	{"bbox_2d": [460, 434, 586, 449], "label": "Destination port"},
+	{"bbox_2d": [460, 387, 698, 401], "label": "Inspection standard"},
+	{"bbox_2d": [37, 434, 143, 449], "label": "Loading port"},
+	{"bbox_2d": [282, 269, 361, 283], "label": "Manufactory Code"},
+	{"bbox_2d": [296, 313, 345, 326], "label": "Manufactory Code"},
+	{"bbox_2d": [138, 278, 167, 290], "label": "Name"},
+	{"bbox_2d": [57, 313, 247, 327], "label": "Name"},
+	{"bbox_2d": [460, 458, 536, 471], "label": "Price term"},
+	{"bbox_2d": [460, 478, 538, 491], "label": "Price term"},
+	{"bbox_2d": [465, 278, 522, 292], "label": "Quantity"},
+	{"bbox_2d": [483, 313, 505, 326], "label": "Quantity"},
+	{"bbox_2d": [483, 343, 505, 355], "label": "Quantity"},
+	{"bbox_2d": [37, 500, 85, 513], "label": "Remark"},
+	{"bbox_2d": [37, 365, 135, 380], "label": "Shipment time"},
+	{"bbox_2d": [37, 388, 106, 401], "label": "Shipment time"},
+	{"bbox_2d": [120, 81, 288, 92], "label": "Supplier"},
+	{"bbox_2d": [37, 458, 156, 471], "label": "Terms of payment"},
+	{"bbox_2d": [37, 478, 262, 492], "label": "Terms of payment"},
+	{"bbox_2d": [298, 39, 438, 56], "label": "Title"},
+	{"bbox_2d": [622, 269, 701, 283], "label": "Total price (RMB)"},
+	{"bbox_2d": [616, 313, 680, 327], "label": "Total price (RMB)"},
+	{"bbox_2d": [616, 343, 680, 356], "label": "Total price (RMB)"},
+	{"bbox_2d": [535, 269, 607, 283], "label": "Unit Price (RMB)"},
+	{"bbox_2d": [547, 313, 591, 326], "label": "Unit Price (RMB)"}
+]
+```

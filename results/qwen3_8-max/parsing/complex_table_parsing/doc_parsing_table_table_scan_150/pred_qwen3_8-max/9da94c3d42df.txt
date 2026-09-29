@@ -1,0 +1,106 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: right;">
+    <thead>
+        <tr>
+            <th colspan="4" style="text-align: center; font-size: 1.2em; padding: 10px;">台州银行股份有限公司</th>
+        </tr>
+        <tr>
+            <th colspan="4" style="text-align: center; font-size: 1.1em; padding: 5px;">合并现金流量表 (续)</th>
+        </tr>
+        <tr>
+            <th colspan="4" style="text-align: center; padding: 5px;">2017 年度</th>
+        </tr>
+        <tr>
+            <th colspan="4" style="text-align: center; padding: 5px;">(金额单位：人民币元)</th>
+        </tr>
+        <tr>
+            <th style="text-align: left; padding: 10px;"></th>
+            <th style="text-align: center; padding: 10px;">附注</th>
+            <th style="text-align: right; padding: 10px; text-decoration: underline;">2017 年</th>
+            <th style="text-align: right; padding: 10px; text-decoration: underline;">2016 年</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left; padding: 8px;"><strong>三、筹资活动产生的现金流量：</strong></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px;">发行债务证券收到的现金</td>
+            <td></td>
+            <td style="border-bottom: 1px solid black;">4,470,801,169.81</td>
+            <td style="border-bottom: 1px solid black;">19,405,416,070.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px;">筹资活动现金流入小计</td>
+            <td></td>
+            <td style="border-bottom: 3px double black;">4,470,801,169.81</td>
+            <td style="border-bottom: 3px double black;">19,405,416,070.00</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">支付债务证券利息</td>
+            <td></td>
+            <td>(198,600,000.00)</td>
+            <td>(178,552,433.56)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px;">偿付债务证券支付的现金</td>
+            <td></td>
+            <td>(11,290,000,000.00)</td>
+            <td>(14,030,000,000.00)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px;">分配利润支付的现金</td>
+            <td></td>
+            <td style="border-bottom: 1px solid black;">(1,326,490,000.00)</td>
+            <td style="border-bottom: 1px solid black;">(1,353,491,178.31)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px;">筹资活动现金流出小计</td>
+            <td></td>
+            <td style="border-bottom: 3px double black;">(12,815,090,000.00)</td>
+            <td style="border-bottom: 3px double black;">(15,562,043,611.87)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">筹资活动(使用)/产生的<br>现金流量净额</td>
+            <td></td>
+            <td style="border-bottom: 3px double black;">(8,344,288,830.19)</td>
+            <td style="border-bottom: 3px double black;">3,843,372,458.13</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">汇率变动对现金及现金等价物<br>的影响</td>
+            <td></td>
+            <td style="border-bottom: 3px double black;">(24,112,272.95)</td>
+            <td style="border-bottom: 3px double black;">20,044,694.91</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">现金及现金等价物净减少额</td>
+            <td style="text-align: center;">48(b)</td>
+            <td>(174,438,750.13)</td>
+            <td>(1,420,097,573.02)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">加：年初现金及现金等价物余额</td>
+            <td></td>
+            <td style="border-bottom: 1px solid black;">7,133,307,944.45</td>
+            <td style="border-bottom: 1px solid black;">8,553,405,517.47</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 40px; padding-top: 15px;">年末现金及现金等价物余额</td>
+            <td style="text-align: center;">48(c)</td>
+            <td style="border-bottom: 3px double black;">6,958,869,194.32</td>
+            <td style="border-bottom: 3px double black;">7,133,307,944.45</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" style="text-align: left; padding-top: 30px; font-size: 0.9em;">刊载于第 21 页至第 139 页的财务报表附注为本财务报表的组成部分。</td>
+        </tr>
+        <tr>
+            <td colspan="4" style="text-align: center; padding-top: 20px;">第 13 页</td>
+        </tr>
+    </tfoot>
+</table>
+```

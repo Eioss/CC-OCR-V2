@@ -1,0 +1,21 @@
+Based on the provided text, specifically under section **ix) Foreign currency transactions**, the following are taken to the statement of profit and loss on settlement of transactions:
+
+> **Gains/losses on settlement of the transactions** are taken to the statement of profit and loss.
+
+Additionally, the text clarifies that:
+
+- Monetary items are translated at year-end rates, and the resulting **gains/losses** from this translation are also taken to the statement of profit and loss.
+- For forward contracts, the **difference between the forward rate and the exchange rate at the date of the contract** is recognized as income or expense over the life of the contract (i.e., in the statement of profit and loss).
+- The **exchange difference on such contracts** — i.e., the difference between the exchange rate at the reporting/settlement date and the rate at inception or last reporting date — is also recognized as income or expense for the period (in the statement of profit and loss).
+
+---
+
+### Summary:
+On settlement of foreign currency transactions, the following are taken to the statement of profit and loss:
+
+1. **Gains or losses arising directly from the settlement** of the transaction.
+2. **Gains or losses from translating monetary items** at year-end exchange rates.
+3. **Income or expense recognized over the life of forward contracts** (based on the difference between forward rate and spot rate at inception).
+4. **Exchange differences on forward contracts** measured at reporting/settlement dates versus inception/last reporting date.
+
+These all impact the statement of profit and loss either immediately upon settlement or systematically over the contract’s life.

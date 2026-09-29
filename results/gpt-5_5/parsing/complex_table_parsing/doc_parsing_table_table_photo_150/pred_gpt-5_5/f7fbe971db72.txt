@@ -1,0 +1,108 @@
+```html
+<table>
+  <tr>
+    <td>序号</td>
+    <td>品名规格</td>
+    <td>单位</td>
+    <td>数量</td>
+    <td>单价</td>
+    <td>金额</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>补生水 ✓</td>
+    <td>斤</td>
+    <td>10</td>
+    <td>￥7.50</td>
+    <td>￥75.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>白珊石*4 ✓</td>
+    <td>箱</td>
+    <td>1</td>
+    <td>￥35.00</td>
+    <td>￥35.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>内驱药 ✓</td>
+    <td>斤</td>
+    <td>1</td>
+    <td>￥28.00</td>
+    <td>￥28.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>面雾 ✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥50.00</td>
+    <td>￥50.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>多维电解质抽上7586 ✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥95.00</td>
+    <td>￥95.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>情盐豆浆（中蜜）✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥82.00</td>
+    <td>￥82.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>桥果 ✓</td>
+    <td></td>
+    <td>1</td>
+    <td>￥158.00</td>
+    <td>￥158.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>螺浆 ✓</td>
+    <td>包</td>
+    <td>10</td>
+    <td>￥3.50</td>
+    <td>￥35.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>大水耳 ✓</td>
+    <td>斤</td>
+    <td>3</td>
+    <td>￥18.00</td>
+    <td>￥54.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>甜水E22.2 ✓</td>
+    <td>斤</td>
+    <td>2</td>
+    <td>￥38.00</td>
+    <td>￥76.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="5"></td>
+    <td>￥688.00</td>
+    <td></td>
+  </tr>
+</table>
+```

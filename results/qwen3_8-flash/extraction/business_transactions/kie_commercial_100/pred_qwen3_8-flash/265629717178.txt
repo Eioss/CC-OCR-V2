@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "1/11/99",
+    "order_id": "8124 (1:2)",
+    "customer_order_id": "AB99-02",
+    "vendor_name": "Wolf/Altschul/Callahan Inc.",
+    "vendor_address": "Marketing Research 60 Madison Ave. NY, NY 10010-1600",
+    "customer_billing_name": "Amy Robinson Brown RJR",
+    "customer_billing_address": "Bowman Gray Technical Ctr - Bldg. 611-12 Reynold Blvd. & Shore Flair Winston Salem, NC 27102",
+    "amount_total_gross": "$70,265±10%",
+    "amount_due": "$35,000.00"
+}
+```

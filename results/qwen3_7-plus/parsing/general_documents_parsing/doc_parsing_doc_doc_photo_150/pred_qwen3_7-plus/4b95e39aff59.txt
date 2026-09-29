@@ -1,0 +1,38 @@
+```latex
+\begin{enumerate}
+    \item[5.] 拟增持股份的价格: 不高于22元/股。
+    \item[6.] 拟增持股份的资金来源: 自有资金/自筹资金。
+    \item[7.] 增持计划的实施期限: 自公告披露之日起6个月内完成。增持计划实施期间, 如遇公司股票因筹划重大事项停牌的, 增持计划将在股票复牌后顺延实施。
+    \item[8.] 本次拟增持股份的方式: 集中竞价交易或大宗交易。
+\end{enumerate}
+
+\section*{二、增持计划的实施情况}
+
+自1月26日(增持计划公告之日)起至2月5日, 公司实际控制人和部分高级管理人员增持计划实施情况如下:
+
+\begin{center}
+\begin{tabular}{|l|l|r|r|r|r|}
+\hline
+\textbf{增持人} & \textbf{身份/职务} & \textbf{\begin{tabular}[c]{@{}r@{}}增持数量\\ (股)\end{tabular}} & \textbf{\begin{tabular}[c]{@{}r@{}}增持比\\ 例\end{tabular}} & \textbf{\begin{tabular}[c]{@{}r@{}}增持后持股数\\ 量(股)\end{tabular}} & \textbf{\begin{tabular}[c]{@{}r@{}}增持后持\\ 股比例\end{tabular}} \\
+\hline
+潘建军 & \begin{tabular}[c]{@{}l@{}}实际控制人、\\ 董事长\end{tabular} & 5000 & 0.005\% & 23592719 & 23.55\% \\
+\hline
+方欢胜 & \begin{tabular}[c]{@{}l@{}}实际控制人、\\ 总经理\end{tabular} & 176000 & 0.180\% & 23605318 & 23.57\% \\
+\hline
+姚宗宪 & \begin{tabular}[c]{@{}l@{}}实际控制人、\\ 副总经理\end{tabular} & 34000 & 0.034\% & 9736386 & 9.72\% \\
+\hline
+\begin{tabular}[c]{@{}l@{}}BINU SOMANATHAN\\ PILLAI\end{tabular} & 副总经理 & 0 & 0.000\% & 0 & 0 \\
+\hline
+王天东 & 副总经理 & 0 & 0.000\% & 0 & 0 \\
+\hline
+\multicolumn{2}{|c|}{合计} & 215000 & 0.219\% & 56934423 & 56.84\% \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{三、增持计划变更的原因}
+
+公司自披露上述增持事项后, 增持主体积极推进计划实施, 由于公司高级管理人员 BINU SOMANATHAN PILLAI 先生以及王天东先生开立的证券账户无法满足新开创业板权限要求的条件——参与A股证券交易24个月以上, 预计无法实施增持公司股份计划。
+
+\section*{四、变更后增持计划}
+```

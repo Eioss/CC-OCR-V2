@@ -1,0 +1,7 @@
+Based on the provided table, **TABLE X-25**, we can find the number of persons examined in the location 'Malacca' by looking at the row labeled **"Number examined"** and the column labeled **"Malacca"**.
+
+1.  Locate the row titled "Number examined".
+2.  Move across this row to the column under the heading "Malacca".
+3.  The value in that cell is **60**.
+
+Therefore, **60** persons were examined in Malacca.

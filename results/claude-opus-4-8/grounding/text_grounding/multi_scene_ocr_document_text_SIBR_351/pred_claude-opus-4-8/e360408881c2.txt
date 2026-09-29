@@ -1,0 +1,4 @@
+The text '¥ 30.0' appears in two locations on this receipt:
+
+1. After 应收额 (amount due): (369, 477, 525, 528)
+2. After 实收额 (amount received): (947, 477, 1101, 528)

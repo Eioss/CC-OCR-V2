@@ -1,0 +1,17 @@
+\[
+H=
+\begin{pmatrix}
+X^{1} & X^{1+c} & \cdots & X^{1+c(1-d)}\\
+\vdots & \vdots & \ddots & \vdots\\
+X^{a+1} & X^{a+c+1} & \cdots & X^{a+c(1-d)+1}\\
+X^{a(1-b)+1} & X^{a(1-b)+c+1} & \cdots & X^{a(1-b)+c(1-d)+1}
+\end{pmatrix},
+\qquad
+H'=
+\begin{pmatrix}
+X^{2} & X^{c+2} & \cdots & X^{c(1-d)+2}\\
+\vdots & \vdots & \ddots & \vdots\\
+X^{a+2} & X^{a+c+2} & \cdots & X^{a+c(1-d)+2}\\
+X^{a(1-b)+2} & X^{a(1-b)+c+2} & \cdots & X^{a(1-b)+c(1-d)+2}
+\end{pmatrix}.
+\]

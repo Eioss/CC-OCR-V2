@@ -1,0 +1,79 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+\usepackage[UTF8]{ctex} % For Chinese characters
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    中国宝安集团股份有限公司 2017 年年度报告全文
+\end{center}
+
+\vspace{1em}
+
+\begin{table}[h!]
+    \centering
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{l r r r}
+        \toprule
+        \multicolumn{1}{c}{项目} & \multicolumn{1}{c}{房屋、建筑物} & \multicolumn{1}{c}{土地使用权} & \multicolumn{1}{c}{合计} \\
+        \midrule
+        一、账面原值 & & & \\
+        \quad 1. 期初余额 & 56,392,487.04 & 6,875,054.94 & 63,267,541.98 \\
+        \quad 2. 本期增加 & 236,267,174.44 & 8,373,948.13 & 244,641,122.57 \\
+        \qquad (1) 外购 & 2,706,248.21 & & 2,706,248.21 \\
+        \qquad (2) 固定资产/无形资产转入 & 233,560,926.23 & 8,373,948.13 & 241,934,874.36 \\
+        \quad 3. 本期减少 & 8,104,668.30 & & 8,104,668.30 \\
+        \qquad (1) 处置 & 8,104,668.30 & & 8,104,668.30 \\
+        \quad 4. 期末余额 & 284,554,993.18 & 15,249,003.07 & 299,803,996.25 \\
+        二、累计折旧和累计摊销 & & & \\
+        \quad 1. 期初余额 & 23,869,520.70 & 754,248.66 & 24,623,769.36 \\
+        \quad 2. 本期增加 & 7,229,918.96 & 382,640.84 & 7,612,559.80 \\
+        \qquad (1) 计提 & 7,229,918.96 & 382,640.84 & 7,612,559.80 \\
+        \quad 3. 本期减少 & 4,414,867.36 & & 4,414,867.36 \\
+        \qquad (1) 处置 & 4,414,867.36 & & 4,414,867.36 \\
+        \quad 4. 期末余额 & 26,684,572.30 & 1,136,889.50 & 27,821,461.80 \\
+        三、减值准备 & & & \\
+        \quad 1. 期初余额 & 618,037.50 & & 618,037.50 \\
+        \quad 2. 本期增加 & & & \\
+        \quad 3. 本期减少 & 618,037.50 & & 618,037.50 \\
+        \quad 4. 期末余额 & & & \\
+        四、账面价值 & & & \\
+        \quad 1. 期末账面价值 & 257,870,420.88 & 14,112,113.57 & 271,982,534.45 \\
+        \quad 2. 期初账面价值 & 31,904,928.84 & 6,120,806.28 & 38,025,735.12 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\vspace{1em}
+
+\begin{center}
+    (2) 未办妥产权证书的投资性房地产情况
+\end{center}
+
+\begin{table}[h!]
+    \centering
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{l r l}
+        \toprule
+        \multicolumn{1}{c}{项目} & \multicolumn{1}{c}{账面价值} & \multicolumn{1}{c}{未办妥产权证书原因} \\
+        \midrule
+        椰园新村 708 栋 & 525,861.52 & 契税已缴纳办理中 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\vfill
+\begin{center}
+    151
+\end{center}
+
+\end{document}
+```

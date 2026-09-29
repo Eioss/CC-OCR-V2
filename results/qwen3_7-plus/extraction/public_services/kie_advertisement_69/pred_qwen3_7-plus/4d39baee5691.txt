@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$14,975.00",
+    "advertiser": "POL/Club for Growth Action PAC",
+    "flight_from": "01/27/20",
+    "flight_to": "02/02/20"
+}
+```

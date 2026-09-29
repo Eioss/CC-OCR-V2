@@ -1,0 +1,82 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{multirow}
+\begin{document}
+
+\begin{center}
+{\LARGE English First Paper}\hfill Full Marks : 100
+
+(Subject code: 107)
+\end{center}
+
+\noindent
+\begin{tabular}{|c|p{4.0cm}|c|p{5.5cm}|c|}
+\hline
+Marks & \multicolumn{4}{c|}{Marks and Test Items Distribution} \\ \cline{2-5}
+ & Skills/Areas & Marks & Test Items & Item Marks \\ \hline
+\multirow{13}{*}{100}
+ & \multirow{3}{4.0cm}{\centering Section A\\Reading Test (Seen Passage)\\Question 1-3}
+ & \multirow{3}{*}{25}
+ & 1. Multiple choice questions & $1\times5=5$ \\ \cline{4-5}
+ & & & 2. Short questions & $2\times5=10$ \\ \cline{4-5}
+ & & & 3. Summarizing & 10 \\ \cline{2-5}
+ & \multirow{6}{4.0cm}{\centering Reading Test (Unseen Passage) Question 4 \& 5}
+ & \multirow{6}{*}{35}
+ & 4. Information transfer & $1\times5=5$ \\ \cline{4-5}
+ & & & 5. True/ False & $1\times5=5$ \\ \cline{4-5}
+ & & & 6. Fill in the gaps with app. words & $1\times5=5$ \\ \cline{4-5}
+ & & & 7. Rearranging sentence & 10 \\ \cline{4-5}
+ & & & 8. Gap filling with clues & $0.5\times10=5$ \\ \cline{4-5}
+ & & & 9. Matching sentence parts & $1\times5=5$ \\ \cline{2-5}
+ & \multirow{4}{4.0cm}{\centering Section B\\Writing}
+ & \multirow{4}{*}{40}
+ & 10. Dialogue writing & 10 \\ \cline{4-5}
+ & & & 11. Paragraph writing & 10 \\ \cline{4-5}
+ & & & 12. Completing story & 10 \\ \cline{4-5}
+ & & & 13. Informal letter & 10 \\ \hline
+\end{tabular}
+
+\begin{center}
+{\LARGE English Second Paper}\hfill Full Marks : 50
+
+(Subject code: 108)
+\end{center}
+
+\noindent
+\begin{tabular}{|c|p{2.5cm}|c|p{8.0cm}|c|}
+\hline
+Marks & \multicolumn{4}{c|}{Marks and Test Items Distribution} \\ \hline
+\multirow{8}{*}{50}
+ & \multirow{8}{2.5cm}{\centering Section A\\* Grammar}
+ & \multirow{8}{*}{30}
+ & 1. Gap filling activities with or without clues (use articles)
+ & $0.5\times6=03$ \\ \cline{4-5}
+ & & & 2. Gap filling activities with or without clues (prepositions etc)
+ & $0.5\times6=03$ \\ \cline{4-5}
+ & & & 3. Substitution table & $1\times4=4$ \\ \cline{4-5}
+ & & & 4. Narrative style (direct to indirect and vice versa) & 4 \\ \cline{4-5}
+ & & & 5. Changing sentences (affirmative to negative and interrogative and vice .versa, positive to comparative or comparative to superlative and vice versa, active to passive and vice versa)
+ & $1\times5=5$ \\ \cline{4-5}
+ & & & 6. Capitalization and punctuation & $0.5\times6=03$ \\ \cline{4-5}
+ & & & 7. Use of suffixes and prefixes & $0.5\times8=04$ \\ \cline{4-5}
+ & & & 8. Right forms of verbs & $0.5\times8=04$ \\ \hline
+\end{tabular}
+
+\noindent
+* Notes : Marks distribution for each test item (Reading and Writing) can vary from time to time. No text or test item can be taken directly from the EFT. Test items should be placed within appropriate context.
+
+\noindent
+\begin{tabular}{|p{2.5cm}|c|p{8.0cm}|c|}
+\hline
+ & & Test Items & Items Marks \\ \hline
+\multirow{2}{2.5cm}{\centering Section B\\*Composition}
+ & \multirow{2}{*}{20}
+ & $\bullet$ Formal letter/e-mail & 08 \\ \cline{3-4}
+ & & $\bullet$ Writing composition on personal experience and familiar topics, recent events/ incidents & 12 \\ \hline
+\end{tabular}
+
+\noindent Curriculum Dissemination Programme, SESDP, NCTB
+
+\end{document}
+```

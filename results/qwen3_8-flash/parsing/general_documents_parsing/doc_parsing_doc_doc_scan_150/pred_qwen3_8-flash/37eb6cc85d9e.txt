@@ -1,0 +1,104 @@
+```latex
+\begin{center}
+    \textbf{Statistical Analysis and Probability}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \textbf{Mean}\\[1ex]
+    $\overline{x} = \frac{1}{n}\sum_{i=1}^{n}x_i$\\[2ex]
+    
+    \textbf{Standard Deviation*}\\[1ex]
+    $S=\sqrt{\frac{\sum(x_i-\overline{x})^2}{n-1}}$\\[2ex]
+    
+    \textbf{Standard Error of the Mean*}\\[1ex]
+    $SE_{\overline{x}}=\frac{S}{\sqrt{n}}$\\[2ex]
+    
+    \textbf{Chi-Square}\\[1ex]
+    $\chi^2 = \sum \frac{(o-e)^2}{e}$\\[2ex]
+    
+    \begin{center}
+        \textbf{Chi-Square Table}\\[1ex]
+        \renewcommand{\arraystretch}{1.2}
+        \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+            \hline
+            & \multicolumn{8}{c|}{Degrees of Freedom} \\
+            \cline{2-9}
+            $p$ value & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+            \hline
+            0.05 & 3.84 & 5.99 & 7.82 & 9.49 & 11.07 & 12.59 & 14.07 & 15.51 \\
+            \hline
+            0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09 \\
+            \hline
+        \end{tabular}
+    \end{center}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    $\overline{x}$ = sample mean\\[1ex]
+    $n$ = size of the sample\\[1ex]
+    $s$ = sample standard deviation (i.e., the sample-based estimate of the standard deviation of the population)\\[1ex]
+    $o$ = observed results\\[1ex]
+    $e$ = expected results\\[3ex]
+    
+    Degrees of freedom are equal to the number of distinct possible outcomes minus one.
+\end{minipage}
+
+\vspace{1em}
+\rule{\textwidth}{0.4pt}
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \textbf{Laws of Probability}\\[1ex]
+    If A and B are mutually exclusive, then:\\
+    \hspace*{2em}$P(\text{A or B}) = P(\text{A}) + P(\text{B})$\\[1ex]
+    If A and B are independent, then:\\
+    \hspace*{2em}$P(\text{A and B}) = P(\text{A}) \times P(\text{B})$\\[2ex]
+    
+    \textbf{Hardy-Weinberg Equations}\\[1ex]
+    $p^2 + 2pq + q^2 = 1$ \hspace{1em} $p$ = frequency of the dominant allele in a population\\[1ex]
+    $p + q = 1$ \hspace{3.5em} $q$ = frequency of the recessive allele in a population
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \vspace{0pt}
+    \begin{center}
+        \textbf{Metric Prefixes}\\[1ex]
+        \renewcommand{\arraystretch}{1.2}
+        \begin{tabular}{lll}
+            \textbf{Factor} & \textbf{Prefix} & \textbf{Symbol} \\
+            $10^9$ & giga & G \\
+            $10^6$ & mega & M \\
+            $10^3$ & kilo & k \\
+            $10^{-2}$ & centi & c \\
+            $10^{-3}$ & milli & m \\
+            $10^{-6}$ & micro & $\mu$ \\
+            $10^{-9}$ & nano & n \\
+            $10^{-12}$ & pico & p \\
+        \end{tabular}
+    \end{center}
+\end{minipage}
+
+\vspace{1em}
+\rule{\textwidth}{0.4pt}
+\vspace{1em}
+
+\noindent
+Mode = value that occurs most frequently in a data set\\[1ex]
+Median = middle value that separates the greater and lesser halves of a data set\\[1ex]
+Mean = sum of all data points divided by number of data points\\[1ex]
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)
+
+\vspace{1em}
+\rule{\textwidth}{0.4pt}
+\vspace{1em}
+
+\noindent
+\textit{* For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, they must understand the underlying concepts and applications.}
+```

@@ -1,0 +1,32 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th></th>
+            <th>k = 0</th>
+            <th>k = 1</th>
+            <th>k = 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>j = 0</td>
+            <td>-2/5</td>
+            <td>2/21</td>
+            <td>4/105</td>
+        </tr>
+        <tr>
+            <td>j = 1</td>
+            <td>-22/105</td>
+            <td>4/105</td>
+            <td>2/105</td>
+        </tr>
+        <tr>
+            <td>j = 2</td>
+            <td>0</td>
+            <td>-2/105</td>
+            <td>0</td>
+        </tr>
+    </tbody>
+</table>
+```

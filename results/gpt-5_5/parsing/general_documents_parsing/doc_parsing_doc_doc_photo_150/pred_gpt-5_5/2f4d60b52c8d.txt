@@ -1,0 +1,101 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+2
+\end{center}
+
+\begin{flushright}
+ME 831\\
+Score
+\end{flushright}
+
+\begin{center}
+\textbf{SECTION - B}
+\end{center}
+
+\noindent
+\textbf{(Answer any 4 questions from 6 to 10. Each question carries 2 scores.)}
+
+\begin{enumerate}
+\setcounter{enumi}{5}
+
+\item The molecular mass of water $(\mathrm{H_2O})$ is 18. \hfill 1
+
+\begin{enumerate}
+\item Find the mass of 1 GMM $\mathrm{H_2O}$.
+\item How many moles of molecules are there in 180 g of $\mathrm{H_2O}$ ? \hfill 1
+\end{enumerate}
+
+\item Haematite is converted into iron by using the blast furnace.
+
+\begin{enumerate}
+\item Which are the substances fed into the blast furnace along with the ore of iron ? \hfill 1
+\item Which compound acts as the reducing agent in the blast furnace ? \hfill 1
+\end{enumerate}
+
+\item $\mathrm{FeCl_2}$ and $\mathrm{FeCl_3}$ are two different chlorides of iron.\\
+[Hint : Atomic number of Fe = 26\\
+Oxidation state of Cl = $(-1)$]
+
+\begin{enumerate}
+\item Find the oxidation state of Fe in $\mathrm{FeCl_2}$. \hfill 1
+\item Write down the subshell wise electronic configuration of $\mathrm{Fe^{3+}}$. \hfill 1
+\end{enumerate}
+
+\item
+\begin{enumerate}
+\item Which homologous series do the hydrocarbons with general formula $\mathrm{C_nH_{2n}}$ belong to ? \hfill 1\\
+[alkane, alkene, alkyne]
+\item Write the structural formula of a member of the same homologous series having 3 carbon atoms. \hfill 1
+\end{enumerate}
+
+\item Soaps and detergents are cleansing agents.
+
+\begin{enumerate}
+\item Name the byproduct in the industrial production of soap. \hfill 1
+\item How does excessive use of detergents destroy aquatic life ? \hfill 1
+\end{enumerate}
+
+\end{enumerate}
+
+\begin{center}
+\textbf{SECTION - C}
+\end{center}
+
+\noindent
+\textbf{(Answer any 4 questions from 11 to 15. Each question carries 3 scores.)}
+
+\begin{enumerate}
+\setcounter{enumi}{10}
+
+\item The relation between the volume and temperature of a fixed mass of gas at constant pressure is shown in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Volume (V) & Temperature (T) \\
+(L) & (K) \\
+\hline
+600 & 300 \\
+\hline
+400 & (P) \\
+\hline
+(Q) & 500 \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{enumerate}
+\item Find (P) and (Q). \hfill 2
+\item Which gas law is associated with the given relation ? \hfill 1
+\end{enumerate}
+
+\end{enumerate}
+
+\end{document}
+```

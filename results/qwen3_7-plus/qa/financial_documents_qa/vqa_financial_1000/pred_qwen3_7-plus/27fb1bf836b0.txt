@@ -1,0 +1,19 @@
+Based on the document provided, under the field **Conversion Program**, the value is:
+
+**6000**
+
+This is listed in the left-hand column of the form, below "System WCNV" and above "Program Group 2002".
+
+---
+
+### Additional Context (from Helpful Hints at bottom):
+The “Helpful Hints” section explains that:
+> *System = Conversion Sub-system if this code is for response to mailings from conversion pgm.*
+
+This suggests that “Conversion Program 6000” likely refers to a specific marketing or consumer response program within the company’s system (possibly related to direct mail responses), where “6000” is the identifier for that particular program.
+
+Also note: The document is titled **“RESPONSE CODE REQUEST”**, indicating it’s used to assign or request codes for tracking consumer responses — so “Conversion Program 6000” is likely an internal campaign or initiative designed to convert prospects into customers via mailed materials.
+
+---
+
+✅ **Final Answer: `6000`**

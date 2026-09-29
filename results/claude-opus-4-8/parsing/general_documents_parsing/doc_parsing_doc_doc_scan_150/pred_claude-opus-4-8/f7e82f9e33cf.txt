@@ -1,0 +1,64 @@
+# Formulas Reference Sheet
+
+## formulas for discrete-time LTI signals and systems
+
+| name | formula |
+|------|---------|
+| area under impulse | $\displaystyle\sum_n \delta(n) = 1$ |
+| multiplication by impulse | $f(n)\,\delta(n) = f(0)\,\delta(n)$ |
+| ...by shifted impulse | $f(n)\,\delta(n-n_o) = f(n_o)\,\delta(n-n_o)$ |
+| convolution | $\displaystyle f(n) * g(n) = \sum_k f(k)\,g(n-k)$ |
+| ...with an impulse | $f(n) * \delta(n) = f(n)$ |
+| ...with a shifted impulse | $f(n) * \delta(n-n_o) = f(n-n_o)$ |
+| transfer function | $\displaystyle H(z) = \sum_n h(n)\,z^{-n}$ |
+| frequency response | $\displaystyle H^f(\omega) = \sum h(n)\,e^{-j\omega n}$ |
+| ...their connection | $H^f(\omega) = H(e^{j\omega})$ <br> provided unit circle $\subset$ ROC |
+
+## formulas for continuous-time LTI signals and systems
+
+| name | formula |
+|------|---------|
+| area under impulse | $\displaystyle\int \delta(t)\,dt = 1$ |
+| multiplication by impulse | $f(t)\,\delta(t) = f(0)\,\delta(t)$ |
+| ...by shifted impulse | $f(t)\,\delta(t-t_o) = f(t_o)\,\delta(t-t_o)$ |
+| convolution | $\displaystyle f(t) * g(t) = \int f(\tau)\,g(t-\tau)\,d\tau$ |
+| ...with an impulse | $f(t) * \delta(t) = f(t)$ |
+| ...with a shifted impulse | $f(t) * \delta(t-t_o) = f(t-t_o)$ |
+| transfer function | $\displaystyle H(s) = \int h(t)\,e^{-st}\,dt$ |
+| frequency response | $\displaystyle H^f(\omega) = \int h(t)\,e^{-j\omega t}\,dt$ |
+| ...their connection | $H^f(\omega) = H(j\omega)$ <br> provided $j\omega$-axis $\subset$ ROC |
+
+## useful formulas
+
+| name | formula |
+|------|---------|
+| Euler's formula | $e^{j\theta} = \cos(\theta) + j\sin(\theta)$ |
+| ...for cosine | $\cos(\theta) = \dfrac{e^{j\theta} + e^{-j\theta}}{2}$ |
+| ...for sine | $\sin(\theta) = \dfrac{e^{j\theta} - e^{-j\theta}}{2j}$ |
+| Sinc function | $\operatorname{sinc}(\theta) := \dfrac{\sin(\pi\theta)}{\pi\theta}$ |
+
+## Z-transform transform pairs
+
+| $x(n)$ | $X(z)$ | ROC |
+|--------|--------|-----|
+| $x(n)$ | $\displaystyle\sum_n x(n)\,z^{-n}$ \quad (def.) | |
+| $\delta(n)$ | $1$ | all $z$ |
+| $u(n)$ | $\dfrac{z}{z-1}$ | $\lvert z\rvert > 1$ |
+| $a^n\,u(n)$ | $\dfrac{z}{z-a}$ | $\lvert z\rvert > \lvert a\rvert$ |
+| $-a^n\,u(-n-1)$ | $\dfrac{z}{z-a}$ | $\lvert z\rvert < \lvert a\rvert$ |
+| $\cos(\omega_o n)\,u(n)$ | $\dfrac{z^2 - \cos(\omega_o)\,z}{z^2 - 2\cos(\omega_o)\,z + 1}$ | $\lvert z\rvert > 1$ |
+| $\sin(\omega_o n)\,u(n)$ | $\dfrac{\sin(\omega_o)\,z}{z^2 - 2\cos(\omega_o)\,z + 1}$ | $\lvert z\rvert > 1$ |
+| $a^n\cos(\omega_o n)\,u(n)$ | $\dfrac{z^2 - a\cos(\omega_o)\,z}{z^2 - 2a\cos(\omega_o)\,z + a^2}$ | $\lvert z\rvert > \lvert a\rvert$ |
+| $a^n\sin(\omega_o n)\,u(n)$ | $\dfrac{a\sin(\omega_o)\,z}{z^2 - 2a\cos(\omega_o)\,z + a^2}$ | $\lvert z\rvert > \lvert a\rvert$ |
+
+## Z-transform transform properties
+
+| $x(n)$ | $X(z)$ |
+|--------|--------|
+| $a\,x(n) + b\,g(n)$ | $a\,X(z) + b\,G(z)$ |
+| $x(n-n_o)$ | $z^{-n_o}\,X(z)$ |
+| $x(n) * f(n)$ | $X(z)\,F(z)$ |
+
+---
+
+Page 8 of 169

@@ -1,0 +1,162 @@
+```html
+<html><body>
+<table border="1" data-bbox="56 27 943 890">
+<tr>
+<td rowspan="2">科名</td>
+<td colspan="2" rowspan="2">种名</td>
+<td colspan="7">省份或地区</td>
+</tr>
+<tr>
+<td>海南</td>
+<td>香港</td>
+<td>澳门</td>
+<td>广东</td>
+<td>广西</td>
+<td>台湾</td>
+<td>福建</td>
+</tr>
+<tr>
+<td>1 Acrostichaceae</td>
+<td>1.卤蕨</td>
+<td>$Acrostichum\ aureum$</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td></td>
+<td>2尖叶卤蕨</td>
+<td>$A.\ speciosum$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2. Apocynaceae</td>
+<td>3海芒果</td>
+<td>$Cerbera\ manghas$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Bignoniaceae</td>
+<td colspan="2">4海滨猫尾木 Dolichandron spathacea</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4. Compositae</td>
+<td>5.阔苞菊</td>
+<td>$Pluchea\ indica$</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>5 Hernandiaceae</td>
+<td>6莲叶桐</td>
+<td>$Hernandia\ sonora$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6 Leguminosae</td>
+<td>7.水黄皮</td>
+<td>$Pongamia\ pinnata$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>7 Lythraceae</td>
+<td>8水芫花</td>
+<td>$Pemphis\ acidula$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>8. Malvaceae</td>
+<td>9黄槿</td>
+<td>$Hibiscus\ tiliaceus$</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td>10杨叶肖槿</td>
+<td>$Thespesia\ populnea$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Verbenaceae</td>
+<td>11.钝叶臭黄荆</td>
+<td>$Premna\ obtusifolia$</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>总计</td>
+<td colspan="2"></td>
+<td>11</td>
+<td>2</td>
+<td>1</td>
+<td>8</td>
+<td>5</td>
+<td>8</td>
+<td>2</td>
+</tr>
+</table>
+</body></html>
+```

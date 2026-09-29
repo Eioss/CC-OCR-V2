@@ -1,0 +1,18 @@
+```json
+{
+    "date_issue": "07-24-2000",
+    "date_due": "08-23-2000",
+    "order_id": "3456",
+    "vendor_order_id": "89736",
+    "vendor_name": "DJM Post",
+    "vendor_address": "4 E. 46th Street New York, NY 10017",
+    "customer_billing_name": "GCI Attn. Karen Surgeon",
+    "customer_billing_address": "92 GRANDVIEW AVENUE GREAT NECK, NY 11020",
+    "amount_total_net": "327.00",
+    "amount_total_gross": "339.62",
+    "amount_due": "339.62",
+    "payment_terms": "Net 30",
+    "tax_detail_net": "327.00",
+    "tax_detail_tax": "12.62"
+}
+```

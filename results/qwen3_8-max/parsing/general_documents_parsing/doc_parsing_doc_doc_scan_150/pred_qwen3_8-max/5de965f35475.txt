@@ -1,0 +1,66 @@
+Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{geometry}
+\usepackage{booktabs} % For better table rules, though the original uses grid lines. We will use standard lines to match.
+\usepackage{longtable} % In case the table is long, though here it fits on one page usually.
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{\Large Ionic Chemical Formulas/PreAICE Chemistry}
+
+\vspace{0.5cm}
+
+\noindent \textbf{NAME:}\underline{\hspace{8cm}} \hfill \textbf{PERIOD}\underline{\hspace{2cm}}
+
+\vspace{0.2cm}
+
+\noindent \textbf{Directions:} Using the Chemical Formulas program sheet, fill in the table below. Use subscripts \& superscripts. Remember to use roman numerals to show the valence of the transition metals in the compound name.
+
+\vspace{0.2cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5} % Increase row height for readability
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\begin{tabular}[c]{@{}c@{}}METAL CATION\\ (+)\end{tabular} & 
+\begin{tabular}[c]{@{}c@{}}CATION\\ FORMULA\end{tabular} & 
+\begin{tabular}[c]{@{}c@{}}NONMETAL\\ ANION (-)\end{tabular} & 
+\begin{tabular}[c]{@{}c@{}}ANION\\ FORMULA\end{tabular} & 
+\begin{tabular}[c]{@{}c@{}}COMPOUND\\ FORMULA\end{tabular} & 
+COMPOUND NAME \\ \hline
+\textbf{sodium} & Na+1 & hydroxide & OH- & NaOH & sodium hydroxide \\ \hline
+\textbf{magnesium} & Mg+2 & phosphate & PO4-3 & Mg3(PO4)2 & magnesium phosphate \\ \hline
+\textbf{calcium} & Ca+2 & chloride & Cl- & CaCl2 & calcium chloride \\ \hline
+\textbf{gold(I)} & Au+1 & sulfite & SO3-2 & Au2SO3 & gold(I) sulfite \\ \hline
+\textbf{copper(II)} & Cu+2 & hydroxide & OH- & Cu(OH)2 & copper(II) hydroxide \\ \hline
+\textbf{Iron(III)} & Fe+3 & telluride & Te-2 & Fe2Te3 & iron(III) telluride \\ \hline
+\textbf{magnesium} & Mg+2 & bromide & Br-1 & MgBr2 & magnesium bromide \\ \hline
+\textbf{manganese(II)} & Mn+2 & sulfide & S-2 & MnS & manganese(II) sulfide \\ \hline
+\textbf{boron} & B+3 & oxide & O-2 & B2O3 & boron oxide \\ \hline
+\textbf{potassium} & K+ & nitrate & NO3- & KNO3 & potassium nitrate \\ \hline
+\textbf{barium} & Ba+2 & bromide & Br- & BaBr2 & barium bromide \\ \hline
+\textbf{strontium} & Sr+2 & sulfate & SO4-2 & SrSO4 & strontium sulfate \\ \hline
+\textbf{iron(III)} & Fe+3 & oxide & O-2 & Fe2O3 & iron(III) oxide \\ \hline
+\textbf{silver(I)} & Ag+1 & chloride & Cl- & AgCl & silver(I) chloride \\ \hline
+\textbf{aluminum} & Al+3 & carbonate & CO3-2 & Al2(CO3)3 & aluminum carbonate \\ \hline
+\textbf{gold(II)} & Au+2 & nitride & N-3 & Au3N2 & gold(II) nitride \\ \hline
+\textbf{cesium} & Cs+1 & phosphate & PO4-3 & Cs3PO4 & cesium phosphate \\ \hline
+\textbf{ammonium} & NH4+ & sulfide & S-2 & (NH4)2S & ammonium sulfide \\ \hline
+\textbf{zinc(II)} & Zn+2 & nitrite & NO2- & Zn(NO2)2 & zinc(II) nitrite \\ \hline
+\textbf{chromium(I)} & Cr+1 & nitride & N-3 & Cr3N & chromium(I) nitride \\ \hline
+\textbf{mercury(II)} & Hg+2 & oxide & O-2 & HgO & mercury(II) oxide \\ \hline
+\textbf{sodium} & Na+ & sulfite & SO3-2 & Na2SO3 & sodium sulfite \\ \hline
+\textbf{magnesium} & Mg+2 & oxide & O-2 & MgO & magnesium oxide \\ \hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

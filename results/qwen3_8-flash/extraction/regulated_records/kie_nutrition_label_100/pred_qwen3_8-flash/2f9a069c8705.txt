@@ -1,0 +1,14 @@
+```json
+{
+    "CE-PS": "629kJ150kcal(7%*)",
+    "CE-P1": "2096kJ501kcal",
+    "TF-PS": "7.9g(11%*)",
+    "TF-D": "of which Saturates",
+    "TF-P1": "2.4g",
+    "CAR-PS": "17.1g",
+    "CAR-P1": "57.1g",
+    "PRO-PS": "2.1g",
+    "PRO-P1": "7.1g",
+    "SS": "Per 30g(*)*serving Per 100g"
+}
+```

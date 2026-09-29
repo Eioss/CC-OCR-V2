@@ -1,0 +1,117 @@
+```html
+<table border="1" cellspacing="0" cellpadding="4">
+  <caption>
+    施工现场类隐患排查清单<br>
+    作业活动隐患排查清单
+  </caption>
+
+  <tr>
+    <td colspan="5">风险点</td>
+    <td colspan="2">作业步骤</td>
+    <td colspan="3">排查内容与排查标准</td>
+    <td colspan="2">日常检查</td>
+    <td colspan="3">综合性检查</td>
+  </tr>
+
+  <tr>
+    <td>点号</td>
+    <td>类型</td>
+    <td>名称</td>
+    <td>等级</td>
+    <td>责任单位</td>
+    <td>序号</td>
+    <td>名称</td>
+    <td>危险源或潜在事件</td>
+    <td colspan="2">管控措施</td>
+    <td>班组级/岗位级</td>
+    <td>车间级/管理级</td>
+    <td>公司级/厂级</td>
+    <td>部门级/项目部</td>
+    <td>管理级/专业级</td>
+  </tr>
+
+  <tr>
+    <td rowspan="6">1</td>
+    <td rowspan="6">操作及作业活动</td>
+    <td rowspan="6">临时用电作业</td>
+    <td rowspan="6">III</td>
+    <td rowspan="6">班组</td>
+
+    <td rowspan="5">1</td>
+    <td rowspan="5">作业前</td>
+    <td rowspan="5">不按规定架设办理（临时用电审批）、乱接电源。</td>
+
+    <td>工程技术措施</td>
+    <td>不按规定架设办理（临时用电审批）的临时用电作业，严禁实施《临时用电作业审批制度》。</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>管理措施</td>
+    <td>
+      1、车间每季度对全员进行安全教育培训；<br>
+      2、编制项目班组安全培训；<br>
+      3、参加项目班前安全活动；<br>
+      4、定期参加公司组织安全培训。
+    </td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>个体防护措施</td>
+    <td>
+      按规定穿戴劳动防护用品，绝缘鞋、绝缘手套，五不伤害，特种作业人员持证上岗，熟悉电工常用检测仪器。
+    </td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>应急处置措施</td>
+    <td>
+      电工发生触电事故后，发现者应立即报警，按现场处置预案组织抢救，切断电源或采取其它绝缘材料使伤者脱离电源，并立即拨打120电话呼叫救护车。
+    </td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>工程技术措施</td>
+    <td>加装漏电保护器。</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>作业过程控制</td>
+    <td>电源线路绝缘不良，电工个人防护用品配戴不全或不当</td>
+    <td>管理措施</td>
+    <td>
+      加强设备设施检查，电工个人防护用品佩戴齐全，不当行为严格落实执行《临时用电作业审批制度》。
+    </td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```

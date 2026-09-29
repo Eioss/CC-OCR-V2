@@ -1,0 +1,12 @@
+Based on the provided flowchart, under the "Potential in MAILFILE" branch:
+
+- After calculating the potential universe (3,960) and applying a promotion penetration of 12.6%, the **Maximum Allowable** is determined to be **238**.
+- Then, it states: **“Randomly Suppress 262 Potential from Mailfile”**
+- The next box directly below that says:  
+  > **Potential Remaining in Mailfile: 238**
+
+This indicates that after suppressing 262 potential individuals from the original 500 in the mailfile, **238 remain**.
+
+---
+
+✅ **Answer: 238**

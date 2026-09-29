@@ -1,0 +1,58 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\noindent (1) (10 pts.) Classify the differential equations below by completing 
+the table. Put V in a cell if and only if the equation to the left 
+is of the type above. In the column OR indicate the ORDER of 
+the corresponding equation. The first row is filled as an example 
+for you. You do NOT need to show any work here.
+
+\bigskip
+
+\noindent O -- Ordinary; \quad P -- Partial; \quad S -- Separable; \quad L -- Linear; \\
+H -- Homogeneous; \quad B -- Bernoulli.
+
+\bigskip
+
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+\hline
+Equation & O & P & S & L & H & B & OR \\
+\hline
+$\dfrac{\partial^2 u}{\partial x^2} + \dfrac{\partial^2 u}{\partial y^2} = 0$ & & V & & V & & & 2 \\
+\hline
+$x^2 y' + xy = y^2$ & & & & & & & \\
+\hline
+$x\,dy + 5y\,dx = 0$ & & & & & & & \\
+\hline
+$y' + (\ln x)y'' = e^x$ & & & & & & & \\
+\hline
+$\sin\left(\dfrac{\partial^3 u}{\partial x \partial y \partial z}\right) = z$ & & & & & & & \\
+\hline
+$(y')^2 = y + x + 5$ & & & & & & & \\
+\hline
+\end{tabular}
+
+\bigskip
+
+\noindent (2) (20 pts.) Consider the DE $yy' = (x-1)^2$.
+\begin{itemize}
+\item[(a)] \textbf{Without solving} the equation, show that
+\[
+y^2(x) = \frac{2}{3}(x-1)^3 + C
+\]
+is a solution of the DE for every $C \in \mathbb{R}$.
+\item[(b)] Find a constant $C$ satisfying the initial condition $y(2) = 0$.
+\item[(c)] Does the theorem in Section 1.3 guarantee uniqueness of 
+solution satisfying the initial condition $y(1) = 0$? Explain. 
+For extra credit, find all solutions that satisfy this condition.
+\item[(d)] What if the initial condition is $y(1) = 1$?
+\end{itemize}
+
+\end{document}
+```

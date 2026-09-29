@@ -1,0 +1,53 @@
+<table>
+  <tr><td colspan="4">中国农业银行银行卡/活期存折交易明细清单</td></tr>
+  <tr>
+    <td>账户户名：〔遮挡〕776 朱〔遮挡〕</td>
+    <td>序号：000</td>
+    <td>币种：人民币</td>
+    <td>钞汇标志：现钞</td>
+  </tr>
+  <tr><td colspan="4">起止日期：20210101-20210630</td></tr>
+</table>
+
+<table>
+  <tr>
+    <td>日期</td>
+    <td>时间<br>附言</td>
+    <td>日志号</td>
+    <td>短摘要</td>
+    <td>交易金额</td>
+    <td>本次余额</td>
+    <td>交易网点</td>
+    <td>渠道</td>
+  </tr>
+  <tr>
+    <td>20210616</td>
+    <td>088101940050307短信费</td>
+    <td>108784355</td>
+    <td>短信费</td>
+    <td>-2.00</td>
+    <td>20.83</td>
+    <td>120881</td>
+    <td>BTCH</td>
+  </tr>
+  <tr>
+    <td>20210621</td>
+    <td>个人活期结息</td>
+    <td>1</td>
+    <td>结息</td>
+    <td>7.57</td>
+    <td>28.40</td>
+    <td>120860</td>
+    <td>BTCH</td>
+  </tr>
+  <tr>
+    <td>20210621</td>
+    <td></td>
+    <td>1</td>
+    <td>利息税</td>
+    <td>0.00</td>
+    <td>28.40</td>
+    <td>120860</td>
+    <td>BTCH</td>
+  </tr>
+</table>

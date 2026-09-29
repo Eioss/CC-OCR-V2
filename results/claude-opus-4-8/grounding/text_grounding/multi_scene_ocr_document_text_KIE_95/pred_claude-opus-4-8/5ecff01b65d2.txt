@@ -1,0 +1,5 @@
+The text '66.00' appears multiple times in the receipt. Here are their locations:
+
+(596, 690, 670, 718) # Total Sales Inclusive GST
+(596, 769, 670, 797) # Final Total
+(596, 845, 670, 873) # CASH

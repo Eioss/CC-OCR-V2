@@ -1,0 +1,9 @@
+$$\eta^e(v) v^e(v) + \eta n^e(v) v^e(v) = 0, \quad \eta^e(v) v^e(v) = 1, \quad \text{and} \quad \tilde{v} \equiv 0 \quad \text{on} \quad \varepsilon \setminus \{\varepsilon_e, \varepsilon_3\}$$
+
+$$H^{\infty} = -\hbar \int \left( a_H |H\rangle\langle H| + n_v |v\rangle_s \langle v| D \otimes v | v\rangle_e \langle v| dw,$$
+
+$$\sup_{0 \leq t \leq T} \| v^{(M)}(t) - u(t) \|_{L^1} = O\left( \| v^{(M)}(0) - u(0) \|_{L^1} + \| v^{(M)} - w \|_{L^p(s,)} \right).$$
+
+$$\hat{R}_v^{(i,m)} = \phi\left( Q_j^{(i)}, N_j^{(i)}, \{ C_{(i+j)}^{(j)} \}, \{ R_{(i+j)}^{(j-1,m)} \} \right), \quad i = 1, \ldots, m,$$
+
+$$C_n(-\tau) = (-1)^n C_n(\tau)$$

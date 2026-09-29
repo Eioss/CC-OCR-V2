@@ -1,0 +1,15 @@
+```json
+{
+    "menu": [
+        {
+            "name": "BAKSO BNGKS",
+            "price": "-15,000"
+        },
+        {
+            "name": "GORENGAN TL",
+            "price": "-6,000"
+        }
+    ],
+    "total": "-21,000"
+}
+```

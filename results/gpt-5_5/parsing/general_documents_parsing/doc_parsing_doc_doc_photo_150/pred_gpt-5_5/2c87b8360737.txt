@@ -1,0 +1,127 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+
+\begin{document}
+
+\noindent (vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+\vspace{0.5em}
+
+\noindent Mother: Why are you looking so worried?\\
+Daughter: My exams are approaching.
+
+\vspace{0.8em}
+
+\noindent In response to the question of the mother, the daughter replied that \underline{\hspace{4cm}}.
+
+\vspace{1em}
+
+\noindent (viii) Identify the error in the given sentence:
+
+\vspace{0.5em}
+
+\noindent The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+\vspace{0.8em}
+
+\noindent Use the given format for your response
+
+\vspace{0.5em}
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+\noindent (ix) Ritu and Randeep are talking. Report Ritu's question.
+
+\vspace{0.5em}
+
+\noindent Ritu: Where are you going?
+
+\vspace{0.8em}
+
+\noindent Ritu asked \underline{\hspace{3cm}}.
+
+\vspace{1em}
+
+\noindent (x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\vspace{0.8em}
+
+\noindent \underline{\hspace{2cm}} smile and pass it to others.
+
+\vspace{0.8em}
+
+\noindent
+\begin{tabular}{ll}
+(a) Happy & (b) Short \\
+(c) Always & (d) Humble
+\end{tabular}
+
+\vspace{1em}
+
+\noindent (xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+\vspace{0.5em}
+
+\noindent Anil: Where are you going?\\
+Sanjeev: To the airport.\\
+Anil: May I drop you there as I'm going in that direction?
+
+\vspace{0.8em}
+
+\noindent Anil asked Sanjeev where he was going and offered to drop him as \underline{\hspace{3cm}}.
+
+\vspace{0.8em}
+
+\noindent
+\begin{tabular}{l}
+(a) he could be going in that direction. \\
+(b) he would be going in the direction. \\
+(c) he is going in the direction \\
+(d) he was going in that direction
+\end{tabular}
+
+\vspace{1em}
+
+\noindent (xii) Identify the error in the newspaper headline.
+
+\vspace{0.8em}
+
+\noindent Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+\vspace{0.8em}
+
+\noindent Use the given format for your response:
+
+\vspace{0.5em}
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vfill
+
+\noindent \hfill CL X/ PB-I /ENG/PAC
+
+\begin{center}
+\textcircled{6}
+\end{center}
+
+\end{document}
+```

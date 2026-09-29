@@ -1,0 +1,17 @@
+```json
+{
+    "date_issue": "05/28/99",
+    "vendor_order_id": "B85682",
+    "customer_order_id": "100173",
+    "vendor_name": "DISPLAY TECHNOLOGIES LLC",
+    "vendor_address": "14 AVENUE COLLEGE POINT, NY 11356",
+    "customer_id": "MAD601",
+    "customer_billing_name": "MADDEN SERVICES INC",
+    "customer_billing_address": "1550 WEST CENTRAL ATTN: BJ CHURCH ROSELLE IL 60172",
+    "customer_delivery_name": "MADDEN SERVICES",
+    "customer_delivery_address": "1550 W. CENTRAL ROSELLE, IL 60172",
+    "amount_total_gross": "10818.36",
+    "amount_due": "10818.36",
+    "payment_terms": "NET 30"
+}
+```

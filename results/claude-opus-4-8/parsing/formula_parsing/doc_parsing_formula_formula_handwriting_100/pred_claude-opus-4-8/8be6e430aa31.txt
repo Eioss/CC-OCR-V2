@@ -1,0 +1,3 @@
+$$\frac{\partial^2 \lambda_k}{\partial W_{pq} \partial W_{rs}} = \sum_{j \neq k} \left[ \frac{\partial W_{kj}}{\partial W_{pq}} \frac{\partial_T{}^k{}^{,j}}{\partial W_{rs}} + \frac{\partial W_{kj}}{\partial W_{rs}} \frac{\partial_T{}^k{}^{,j}}{\partial W_{pq}} \right]$$
+
+$$= \begin{cases} \frac{1}{\lambda_k - \lambda_q}, & p = k, \; q \neq k, \; r = q, \; s = k; \\ \frac{1}{\lambda_k - \lambda_s}, & r = k, \; s \neq k, \; p = s, \; q = k; \\ 0, & \text{otherwise}. \end{cases}$$

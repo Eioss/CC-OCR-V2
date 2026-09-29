@@ -1,0 +1,88 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{enumitem}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{Al Mubeen School System} \\
+    \vspace{0.2cm}
+    Old Campus: Rubina Sulehry StreetNew Campus, 0313-4949533 \\
+    Kashif Cosmetics Street Makkah Chowk, 0336-8770948
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l c r}
+    \textbf{Name:} \underline{Hizra Yousaf} & \textbf{Paper English: Grade 4} & \textbf{Total Marks 75}
+\end{tabular*}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Q: Read the given paragraph and notice the use of nouns.} \hfill \textbf{Marks /05}
+
+\vspace{0.3cm}
+\noindent We spent last week in Nathia Gali. We visited Muskeshpuri Top and the National Park. It was my first visit to a hill station. And I enjoyed it a lot. During these holidays, I did a lot of things like hiking, mount climbing and camping. I also learnt horse riding. I am very good at cricket, but I like horse riding.
+
+\vspace{0.5cm}
+
+\noindent\textbf{Q: Answer the following questions. Ignore grammar rules. [two to three lines]} \hfill \textbf{Marks /10}
+
+\begin{enumerate}[label=\alph*)]
+    \item How do you spend your Sundays?
+    \item What kind of TV programs do you like?
+    \item What are the things you buy for your brothers or sisters on Eid?
+    \item Describe the place where you live. Do you really like your hometown?
+    \item Who do you like the most in your family? And why do you like him or her?
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Q: Use parts of speech: adjectives, prepositions and linking words to make the sentences longer. Example: I play [I play football with my father in the park on Sunday]} \hfill \textbf{Marks /10}
+
+\begin{enumerate}[label=\alph*), leftmargin=*, itemsep=0pt]
+    \item I drive. \hfill b) I help. \hfill c) I drink. \hfill d) I speak. \hfill e) I clean.
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Q: Write a dialogue between two friends and discuss a birthday party of your friend. How was the party and did they really enjoy it?} \hfill \textbf{Marks /10}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Q: Read the following passage and answer the following questions.} \hfill \textbf{Marks /15}
+
+\vspace{0.3cm}
+\noindent Different people have different hobbies. People love to stay busy in their free time but they usually don't find any interesting activities. In my opinion, people should choose those activities which could help them learn something new and also provide them some entertainment. Some people like to watch movies while others like to read books. Books are really great friends they never cheat and they also talk when you are alone. Books help you think and understand the things differently. There are many kinds of books such as stories, poetry and science books.
+
+\begin{enumerate}[label=\alph*)]
+    \item How do the people spend their free time?
+    \item What's your favourite free-time activity?
+    \item What kind of books should we read?
+    \item Which of the top qualities of the books have been mentioned in the passage?
+    \item In your opinion, which is the best book in the world?
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Q: Use the given noun phrases into sentences [as subject or object]. For example, [a tall man with black long hair] is eating food.} \hfill \textbf{Marks /10}
+
+\begin{enumerate}[label=\arabic*), leftmargin=*, itemsep=5pt]
+    \item A beautiful lady with golden hair \hfill 2) Those two famous scientists from Germany
+    \item That interesting student of our class \hfill 4) The girl in the kitchen
+    \item A tall nurse in the hospital \hfill 6) That brilliant teacher of English
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\noindent\textbf{Q: Write a story about a child who was going home from school and got lost. At least one page. Write in your own words. [Ignore grammar and spelling rules].} \hfill \textbf{Marks /15}
+
+\end{document}
+```

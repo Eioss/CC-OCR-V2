@@ -1,0 +1,73 @@
+```html
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Model</th>
+      <th>XNLI<br>Acc.</th>
+      <th>PAWS-X<br>Acc.</th>
+      <th>POS<br>F1</th>
+      <th>NER<br>F1</th>
+      <th>XQuAD<br>F1 / EM</th>
+      <th>MLQA<br>F1 / EM</th>
+      <th>TyDiQA-GoldP<br>F1 / EM</th>
+      <th>BUCC<br>F1</th>
+      <th>Tatoeba<br>Acc.</th>
+      <th>Avg.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FULL MODEL</td>
+      <td><b>84.7</b></td>
+      <td><b>92.8</b></td>
+      <td><b>77.2</b></td>
+      <td><b>69.0</b></td>
+      <td><b>82.9 / 67.4</b></td>
+      <td><b>74.8 / 57.3</b></td>
+      <td><b>71.1 / 53.2</b></td>
+      <td><b>77.6</b></td>
+      <td><b>69.1</b></td>
+      <td><b>74.8</b></td>
+    </tr>
+    <tr>
+      <td>w/o Sentence-CTL</td>
+      <td>82.9</td>
+      <td>90.5</td>
+      <td>75.9</td>
+      <td>67.8</td>
+      <td>82.3 / 66.7</td>
+      <td>74.3 / 56.5</td>
+      <td>69.7 / 52.3</td>
+      <td>71.4</td>
+      <td>62.6</td>
+      <td>72.4</td>
+    </tr>
+    <tr>
+      <td>w/o Word-CTL</td>
+      <td>84.3</td>
+      <td>92.1</td>
+      <td>76.3</td>
+      <td>68.4</td>
+      <td>82.5 / 66.9</td>
+      <td>74.1 / 56.7</td>
+      <td>70.2 / 52.5</td>
+      <td>76.8</td>
+      <td>68.4</td>
+      <td>74.2</td>
+    </tr>
+    <tr>
+      <td>w/o MT data</td>
+      <td>84.2</td>
+      <td>92.4</td>
+      <td>76.6</td>
+      <td>68.2</td>
+      <td>82.6 / 67.0</td>
+      <td>74.5 / 56.8</td>
+      <td>70.1 / 52.3</td>
+      <td>74.7</td>
+      <td>66.8</td>
+      <td>73.8</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,23 @@
+Based on the infographic provided, specifically the section titled **“Average annual energy expenditures per household in the U.S.”**, we can calculate the total expenditure for a household with:
+
+- A well-lit home (covered under “Other (Lighting and Electricity)”)
+- A refrigerator
+- A water heater
+
+Here are the relevant costs from the chart:
+
+- **Water Heating**: $280  
+- **Refrigerators**: $153  
+- **Other (Lighting and Electricity)**: $827 ← This category includes lighting and other general electricity use.
+
+> Note: The “Other (Lighting and Electricity)” category is broad and likely includes lighting, electronics, appliances not listed separately, etc. Since the question specifies “well lit home,” it’s reasonable to assume that lighting costs are included in this $827 figure — especially since “Lighting” alone was shown as 12% of usage earlier, but here it’s bundled into “Other”.
+
+So, adding these three categories:
+
+**$280 (Water Heating) + $153 (Refrigerators) + $827 (Other/Lighting/Electricity) = $1,260**
+
+---
+
+✅ **Final Answer: $1,260**
+
+This represents the average annual energy expenditure for a U.S. household covering water heating, refrigeration, and lighting/other electrical uses — which aligns with your scenario of a “well lit home with a refrigerator and water heater.”

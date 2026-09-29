@@ -1,0 +1,87 @@
+```latex
+\begin{center}
+    \textbf{KEEP AWAKE} \\
+    觉晓教育 \quad 民法主观题知识点+小案例
+\end{center}
+
+\vspace{1em}
+
+\begin{tabular}{|l|p{0.75\linewidth}|}
+\hline
+ & 问4:丙公司与戊公司签订房产买卖合同效力如何?为什么?(物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力) \\
+\hline
+\multirow{3}{*}{2010年} & 问2:甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何?为什么?(多重买卖不影响买卖合同效力) \\
+\cline{2-2}
+ & 问6:甲公司与乙公司签订的绿豆买卖合同效力如何?为什么?(被代理人以履行合同的方式追认无权代理) \\
+\cline{2-2}
+ & 问7:丙公司将绿豆转卖给己公司的买卖合同的效力如何?为什么?(无权处分不影响买卖合同的效力) \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+
+\begin{center}
+    \Large{\textbf{第一节 合同的成立}}
+\end{center}
+
+\vspace{1em}
+
+% Flowchart representation using text and arrows
+\noindent
+\begin{minipage}[t]{0.48\linewidth}
+    \centering
+    \textbf{事实判断} \\
+    1.当事人 \\
+    2.意思表示 \\
+    3.标的 \\
+    $\downarrow$ \\
+    \fbox{民事法律行为} \\
+    $\swarrow \qquad \searrow$ \\
+    \fbox{不成立} \quad \fbox{成立}
+\end{minipage}%
+\begin{minipage}[t]{0.48\linewidth}
+    \centering
+    \textbf{价值判断} \\
+    1.民事行为能力 \\
+    2.意思表示真实、自由 \\
+    3.不违反强制性规定、\\ 不违背公序良俗 \\
+    $\downarrow$ \\
+    \fbox{有效} \\
+    $\swarrow \qquad \searrow$ \\
+    \fbox{生效} \quad \fbox{未生效} \\
+    $\rightarrow$ \fbox{大多数合同、婚姻} \\
+    \fbox{附延缓条件} \\
+    \fbox{附始期} \\
+    \fbox{需要审批} \\
+    \fbox{遗嘱} \\
+    \vspace{1em}
+    \fbox{效力瑕疵} \\
+    $\swarrow \qquad \searrow \qquad \nearrow$ \\
+    \fbox{无效} \quad \fbox{可撤销} \quad \fbox{效力待定}
+\end{minipage}
+
+\vspace{1em}
+\begin{center}
+    【民事法律行为成立、有效、生效关系图】
+\end{center}
+
+\vspace{1em}
+
+合同的订立,通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致,意味着双方当事人形成合意,合同即告成立。
+
+\subsection*{一、合同的订立:要约与承诺}
+
+\subsubsection*{(一)要约}
+
+要约,是希望与他人订立合同的意思表示,需满足以下构成要件:
+\begin{enumerate}
+    \item 向希望与之订立合同的受要约人作出。
+    \item 内容具体且确定:受要约人只要表示接受即可成立合同,所以要约的内容必须包含合同的必备内容。
+    \item 具有订立合同的目的并表明一经承诺即受拘束的意思。
+\end{enumerate}
+
+\vfill
+\begin{center}
+    2
+\end{center}
+```

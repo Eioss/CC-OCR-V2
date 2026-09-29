@@ -1,0 +1,83 @@
+```latex
+Available online http://breast-cancer-research.com/content/9/6/R71
+
+\begin{table}[ht]
+\caption{Genotype and allele frequencies of \textit{BRCA2} -26 and \textit{p53} codon 72 polymorphisms in sporadic breast cancer patients and normal controls}
+\begin{tabular}{lllllll}
+\hline
+Genotypes$^{a}$ & Patients & Controls & $P^{a}$ & $P^{b}$ & $P^{c}$ & OR (95\% CI)$^{c}$ \\
+ & $N = 243$ & $N = 333$ & & & & \\
+\hline
+\textit{BRCA2}, exon 2, -26G$>$A & & & & & & \\
+G/G & 144 (59.3\%) & 167 (47.1\%) & & & -- & 1.0 (referent) \\
+G/A & 74 (30.5\%) & 152 (45.6\%) & & & 0.0005* & 0.6 (0.4--0.8) \\
+A/A & 25 (10.3\%) & 24 (7.2\%) & 0.002, 0.116 & 0.001 & 0.677 & 1.1 (0.6--2.1) \\
+G & 74.50\% & 70.00\% & & & 0.092 & 1.2 (1.0--1.6) \\
+\textit{p53}, exon 4, codon 72 Arg$>$Pro & & & & & & \\
+Pro/Pro & 48 (19.8\%) & 97 (29.1\%) & & & -- & 1.0 (referent) \\
+Pro/Arg & 109 (44.9\%) & 160 (48.0\%) & & & 0.119 & 1.4 (0.9--2.1) \\
+Arg/Arg & 86 (35.4\%) & 76 (22.8\%) & 0.210, 0.521 & 0.001 & 0.0005* & 2.3 (1.4--3.6) \\
+Pro & 42.20\% & 53.20\% & & & 0.0002* & 0.6 (0.5--0.8) \\
+\hline
+\end{tabular}
+
+\footnotesize{
+$^{a}P$ value for Hardy-Weinberg equilibrium testing. 
+$^{b}P$ value for 3 x 2 chi-square test of comparison of overall genotype frequencies between breast cancer patients and controls. 
+$^{c}P$ values and corresponding age-adjusted ORs with 95\% CIs for comparison of genotype frequencies between breast cancer patients and controls by logistic regression (not adjusted for age in allele frequency comparisons); the referent genotypes were considered on the basis of highest proportion of homozygous genotype at any particular locus in the control group. 
+*P-values continue to remain significant after applying Bonferroni correction of 2 (2 single-nucleotide polymorphisms tested in a case-control group) to correct for multiple comparisons. 
+CI, confidence interval; OR, odds ratio.
+}
+\end{table}
+
+breast cancer susceptibility, with altered expression as a possibility. We propose that -26 G$>$A polymorphism in the 5' UTR of \textit{BRCA2} has a regulatory role and acts as one of the risk factors, modulating the function of \textit{BRCA2} in breast cancer pathogenesis, further influenced by codon 72 polymorphism in the \textit{p53} gene.
+
+The functional characterization of the common G$>$A polymorphism in the \textit{BRCA2} -26 5' UTR by reporter assay revealed that the A allele led to higher expression than the G allele in both HeLa and MCF-7 cell lines. This suggests that the polymorphism might have a role in the regulation of \textit{BRCA2} expression. Upholding the same trend by ADR treatment further implied that the -26 polymorphism might regulate \textit{BRCA2} expression independent of other factors, specifically to the expression of the \textit{BRCA2} promoter by ADR via \textit{p53} activation [21]. A search for a consensus sequence for the putative transcription factor in the polymorphic site revealed the creation of a C/EBP alpha transcription binding site by the change from G$>$A in the -26 polymorphic position. However, the presence of an OCT1 binding site almost overlapping to this region, not affected by the polymorphism, makes the transcriptional control hypothesis an unlikely one, unless proven by the gel shift or chromatin immunoprecipitation assays. The analysis of the 5' UTR for the RNA secondary structure by two different programs showed that the presence of G at -26 stabilized the loop at the vicinity of the translation start site, which could decrease the efficiency of the translation and thereby decrease the expression of \textit{BRCA2}. This finding of ours is supported by the classic work of Vega Laso and colleagues [47] and Kozak [48], who have argued that the extent of a hairpin negative effect on eukaryotic mRNA translation \textit{in vivo} depends upon its stability and localization within the molecule.
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    ymin=0,
+    ymax=80,
+    ylabel={PERCENTAGE (\%)},
+    symbolic x coords={CHROMOSOME 16\\(ALLELIC IMBALANCE), CHROMOSOME 17\\(ALLELIC IMBALANCE), p53 MUTATION\\(EXON 5-8)},
+    xtick=data,
+    legend style={at={(1.05,1)},anchor=north west},
+    bar width=8pt,
+]
+\addplot coordinates {
+    (CHROMOSOME 16\\(ALLELIC IMBALANCE),70)
+    (CHROMOSOME 17\\(ALLELIC IMBALANCE),55)
+    (p53 MUTATION\\(EXON 5-8),18)
+};
+\addlegendentry{G/G}
+\addplot coordinates {
+    (CHROMOSOME 16\\(ALLELIC IMBALANCE),65)
+    (CHROMOSOME 17\\(ALLELIC IMBALANCE),30)
+    (p53 MUTATION\\(EXON 5-8),17)
+};
+\addlegendentry{G/A}
+\addplot coordinates {
+    (CHROMOSOME 16\\(ALLELIC IMBALANCE),56)
+    (CHROMOSOME 17\\(ALLELIC IMBALANCE),45)
+    (p53 MUTATION\\(EXON 5-8),34)
+};
+\addlegendentry{A/A}
+\end{axis}
+\node at (2.3,5.6) {$P=0.070, 0.830, 0.721$};
+\node at (6.0,4.6) {$P=0.025, 0.099, 0.129$};
+\node at (9.4,3.0) {$P=0.148, 0.613, 0.076$};
+\end{tikzpicture}
+\caption{Comparison of allelic imbalance in chromosome 16 and 17 along with mutation in \textit{p53} with -26 G$>$A polymorphism background. $P$ values given are for overall distribution, G/G versus G/A, and A/A versus G/A.}
+\end{figure}
+
+\textbf{Figure 3}
+
+The -26 G$>$A polymorphism in the 5' UTR of \textit{BRCA2} has been analyzed in some cancer types. In one study, the -26A allele was reported to show a borderline association with ovarian cancer, but similar results in breast cancer with \textit{BRCA1} mutation carriers were not found [49]. Another study showed a monotonic increase in the frequency of the heterozygous G/A genotype from the lowest to highest risk groups of esophageal squamous cell carcinoma from northern China [50]. Our observation supports a heterozygote-protective model, which has been well recognized in infectious diseases [51] and is
+
+Page 5 of 8
+
+(page number not for citation purposes)
+```

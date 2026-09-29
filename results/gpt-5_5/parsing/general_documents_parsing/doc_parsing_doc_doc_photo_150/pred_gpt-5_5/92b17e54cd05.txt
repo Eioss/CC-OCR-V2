@@ -1,0 +1,127 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\textbf{SUPER MOCK : MATHS} \hfill \textbf{PAPER 1}\\
+\textbf{OBJECTIVE TEST}\\
+\textbf{Answer all questions.}
+\end{center}
+
+Each question is followed by four options lettered A to D. Find the correct option for each question and shade in pencil on your answer sheet the answer space which bears the same letter as the option you have chosen.
+
+\begin{enumerate}
+
+\item Find the product of $2.3 \times 10^{5} \times 3.0 \times 10^{4}$ leaving your answer in standard form.
+\[
+\begin{array}{ll}
+\text{A.} & 6.9 \times 10^{9} \\
+\text{B.} & 6.59 \times 10^{9} \\
+\text{C.} & 6.9 \times 10^{8} \\
+\text{D.} & 6.59 \times 10^{8}
+\end{array}
+\]
+
+\item Round down $4,872,500$ to the nearest $10,000$.
+\[
+\begin{array}{ll}
+\text{A.} & 4,872,000 \\
+\text{B.} & 4,870,000 \\
+\text{C.} & 4,870,500 \\
+\text{D.} & 4,871,000
+\end{array}
+\]
+
+\item In a school, $\frac{1}{6}$ of the learners like English, $\frac{1}{3}$ like Mathematics and the rest like Science. What fraction of the learners like Science?
+\[
+\begin{array}{ll}
+\text{A.} & 1 \\
+\text{B.} & \frac{1}{2} \\
+\text{C.} & 0 \\
+\text{D.} & 2
+\end{array}
+\]
+
+\item If $P=\{1,7,13\}$ and $Q=\{7,9,13\}$ are subsets of $U=\{1,2,3,4,\ldots,15\}$ Find $P \cap Q$
+\[
+\begin{array}{ll}
+\text{A.} & \{1,7,9\} \\
+\text{B.} & \{1,7,9,13\} \\
+\text{C.} & \{7,9\} \\
+\text{D.} & \{7,13\}
+\end{array}
+\]
+
+\item Convert $0.125$ to a common fraction.
+\[
+\begin{array}{ll}
+\text{A.} & \frac{3}{4} \\
+\text{B.} & \frac{1}{8} \\
+\text{C.} & \frac{2}{5} \\
+\text{D.} & \frac{3}{5}
+\end{array}
+\]
+
+\item Find the value of the side marked $x$ in the diagram below. (Take Tan $35^\circ = 0.70$)
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+\draw (0,0) -- (0,3) -- (5,0) -- cycle;
+\draw (0,0) rectangle (0.3,0.3);
+\node[left] at (0,1.5) {$x$};
+\node[below] at (2.5,0) {$5m$};
+\draw (4.1,0) arc (180:145:0.8);
+\node at (4.1,0.35) {$35^\circ$};
+\end{tikzpicture}
+\end{center}
+
+\[
+\begin{array}{ll}
+\text{A.} & 3.50m \\
+\text{B.} & 35m \\
+\text{C.} & 60m \\
+\text{D.} & 7.2m
+\end{array}
+\]
+
+\item Simplify: $2\sqrt{2}+2\sqrt{2}+3\sqrt{3}+3\sqrt{3}$
+\[
+\begin{array}{ll}
+\text{A.} & \sqrt{2}+\sqrt{3} \\
+\text{B.} & 4\sqrt{2}+6\sqrt{3} \\
+\text{C.} & 4+6\sqrt{3} \\
+\text{D.} & \sqrt{2}+6\sqrt{3}
+\end{array}
+\]
+
+\item Given that vector $a=\begin{pmatrix}3\\4\end{pmatrix}$ and $b=\begin{pmatrix}2\\3\end{pmatrix}$, evaluate: $2(a+b)$
+\[
+\begin{array}{ll}
+\text{A.} & \begin{pmatrix}4\\6\end{pmatrix} \\
+\text{B.} & \begin{pmatrix}6\\8\end{pmatrix} \\
+\text{C.} & \begin{pmatrix}10\\14\end{pmatrix} \\
+\text{D.} & \begin{pmatrix}5\\7\end{pmatrix}
+\end{array}
+\]
+
+\item A fair die and a coin are rolled together once. Find the probability of obtaining a tail and a prime number.
+\[
+\begin{array}{ll}
+\text{A.} & \frac{1}{2} \\
+\text{B.} & \frac{2}{3} \\
+\text{C.} & \frac{1}{3} \\
+\text{D.} & \frac{1}{4}
+\end{array}
+\]
+
+\end{enumerate}
+
+\noindent Mathematics / Super Mock \hfill 4
+
+\end{document}
+```

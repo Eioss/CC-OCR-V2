@@ -1,0 +1,135 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb,tikz}
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Physics Formula Sheet}
+\end{center}
+
+\section*{Mechanics}
+\[
+\begin{array}{lll}
+x=x_0+v_{x0}t+\frac12a_xt^2
+  & a=\frac{v^2}{r}
+  & \left|\vec F_{\mathrm{spring}}\right|=k|\vec x| \\[1.2em]
+v=v_0+at
+  & \theta=\theta_0+\omega_0t+\frac12\alpha t^2
+  & PE_{\mathrm{spring}}=\frac12kx^2 \\[1.2em]
+v_x^2-v_{x0}^2=2a(x-x_0)
+  & \omega=\omega_0+\alpha t
+  & T_{\mathrm{spring}}=2\pi\sqrt{\frac{m}{k}} \\[1.2em]
+\vec a=\frac{\sum\vec F}{m}=\frac{\vec F_{\mathrm{net}}}{m}
+  & T=\frac{2\pi}{\omega}=\frac1f
+  & T_{\mathrm{pendulum}}=2\pi\sqrt{\frac{\ell}{g}} \\[1.2em]
+|\vec F_{\mathrm{friction}}|\leq\mu|\vec F_{\mathrm{Normal}}|
+  & v=f\lambda
+  & |\vec F_{\mathrm{gravity}}|=G\frac{m_1m_2}{r^2} \\[1.2em]
+\vec p=m\vec v
+  & x=A\cos(2\pi ft)
+  & |\vec F_{\mathrm{gravity}}|=m\vec g \\[1.2em]
+\Delta\vec p=\vec F\Delta t
+  & \vec\alpha=\frac{\sum\vec\tau}{I}
+       =\frac{\vec\tau_{\mathrm{net}}}{I}
+  & PE_{\mathrm{gravity}}=-G\frac{m_1m_2}{r} \\[1.2em]
+KE=\frac12mv^2
+  & \vec\tau=\vec r\times\vec F
+  & \rho=\frac{m}{V} \\[1.2em]
+\Delta PE=mg\Delta y
+  & L=I\omega
+  & KE=\frac12I\omega^2 \\[1.2em]
+\Delta E=W=Fd\cos\theta
+  & \Delta L=\tau\Delta t
+  &
+\end{array}
+\]
+
+\section*{Electricity}
+\[
+\begin{array}{lll}
+|\vec F_E|=k\left|\frac{q_1q_2}{r^2}\right|
+  & \Delta V=IR
+  & R=\frac{\rho\ell}{A} \\[1.2em]
+I=\frac{\Delta q}{\Delta t}
+  & P=I\Delta V
+  & \\[1.2em]
+R_{\mathrm{series}}=R_1+R_2+\cdots+R_n
+  & \multicolumn{2}{l}{
+    \displaystyle\frac1{R_{\mathrm{parallel}}}
+    =\frac1{R_1}+\frac1{R_2}+\cdots+\frac1{R_n}}
+\end{array}
+\]
+
+\section*{Geometry}
+\[
+\begin{array}{lll}
+\text{Rectangle}\quad A=bh
+  & \text{Rectangular Solid}\quad V=\ell wh
+  & \text{Triangle}\quad A=\frac12bh \\[1em]
+\begin{gathered}\text{Circle}\quad A=\pi r^2\\ C=2\pi r\end{gathered}
+  & \begin{gathered}\text{Cylinder}\quad V=\pi r^2\ell\\
+       S=2\pi r\ell+2\pi r^2\end{gathered}
+  & \begin{gathered}\text{Sphere}\quad V=\frac43\pi r^3\\
+       S=4\pi r^2\end{gathered}
+\end{array}
+\]
+
+\section*{Trigonometry}
+\begin{center}
+\begin{tikzpicture}[baseline=(current bounding box.center)]
+  \draw (0,0) -- (3,0) -- (3,1.1) -- cycle;
+  \draw (2.8,0) -- (2.8,0.2) -- (3,0.2);
+  \node[below] at (1.5,0) {$b$};
+  \node[right] at (3,0.55) {$a$};
+  \node[above] at (1.4,0.6) {$c$};
+  \node at (0.48,0.14) {$\theta$};
+\end{tikzpicture}
+\qquad
+$c^2=a^2+b^2
+\qquad
+\sin\theta=\dfrac ac
+\quad
+\cos\theta=\dfrac bc
+\quad
+\tan\theta=\dfrac ab$
+\end{center}
+
+\[
+\begin{array}{c|ccccccc}
+\theta & 0^\circ & 30^\circ & 37^\circ & 45^\circ
+       & 53^\circ & 60^\circ & 90^\circ \\ \hline
+\sin\theta & 0 & 1/2 & 3/5 & \sqrt2/2 & 4/5 & \sqrt3/2 & 1\\
+\cos\theta & 1 & \sqrt3/2 & 4/5 & \sqrt2/2 & 3/5 & 1/2 & 0\\
+\tan\theta & 0 & \sqrt3/3 & 3/4 & 1 & 1 & \sqrt3 & \infty
+\end{array}
+\]
+
+\section*{Variables}
+\[
+\begin{array}{ll@{\qquad}ll}
+a&\text{acceleration} & A&\text{amplitude}\\
+A&\text{Area} & b&\text{base length}\\
+C&\text{circumference} & d&\text{distance}\\
+E&\text{energy} & f&\text{frequency}\\
+F&\text{force} & h&\text{height}\\
+I&\text{current} & I&\text{rotational inertia}\\
+KE&\text{kinetic energy} & k&\text{spring constant}\\
+L&\text{angular momentum} & \ell&\text{length}\\
+m&\text{mass} & P&\text{power}\\
+p&\text{momentum} & q&\text{charge}\\
+r&\text{radius} & R&\text{resistance}\\
+S&\text{surface area} & T&\text{period}\\
+t&\text{time} & PE&\text{potential energy}\\
+V&\text{electric potential} & V&\text{volume}\\
+v&\text{velocity} & w&\text{width}\\
+W&\text{work} & x&\text{position}\\
+y&\text{height} & \alpha&\text{angular acceleration}\\
+\lambda&\text{wavelength} & \mu&\text{coefficient of friction}\\
+\nu&\text{wave speed} & \theta&\text{angle}\\
+\rho&\text{density} & \rho&\text{resistivity}\\
+\tau&\text{torque} & \omega&\text{angular speed}
+\end{array}
+\]
+
+\end{document}
+```

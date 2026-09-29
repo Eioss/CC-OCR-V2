@@ -1,0 +1,191 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="2" style="padding: 5px;">&epsilon;</th>
+      <th colspan="4" style="padding: 5px;">CA+</th>
+      <th colspan="4" style="padding: 5px;">CA-</th>
+      <th colspan="4" style="padding: 5px;">QA+</th>
+      <th colspan="4" style="padding: 5px;">QA-</th>
+    </tr>
+    <tr>
+      <th style="padding: 5px;"><i>w</i> = 1</th>
+      <th style="padding: 5px;">2</th>
+      <th style="padding: 5px;">5</th>
+      <th style="padding: 5px;">10</th>
+      <th style="padding: 5px;"><i>w</i> = 1</th>
+      <th style="padding: 5px;">2</th>
+      <th style="padding: 5px;">5</th>
+      <th style="padding: 5px;">10</th>
+      <th style="padding: 5px;"><i>m</i> = 1</th>
+      <th style="padding: 5px;">2</th>
+      <th style="padding: 5px;">5</th>
+      <th style="padding: 5px;">10</th>
+      <th style="padding: 5px;"><i>m</i> = 1</th>
+      <th style="padding: 5px;">2</th>
+      <th style="padding: 5px;">5</th>
+      <th style="padding: 5px;">10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="17" style="background-color: #e6e6fa; padding: 5px;">(ET) Euclidean Distance, Triplet Loss (R@1=63.1%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0</b></td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">1.9</td>
+      <td style="padding: 5px;">1.9</td>
+      <td style="padding: 5px;">1.9</td>
+      <td style="padding: 5px;">1.9</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.01</b></td>
+      <td style="padding: 5px;">0.0</td>
+      <td style="padding: 5px;">0.8</td>
+      <td style="padding: 5px;">2.0</td>
+      <td style="padding: 5px;">2.6</td>
+      <td style="padding: 5px;">99.7</td>
+      <td style="padding: 5px;">99.6</td>
+      <td style="padding: 5px;">99.4</td>
+      <td style="padding: 5px;">99.3</td>
+      <td style="padding: 5px;">4.8</td>
+      <td style="padding: 5px;">7.0</td>
+      <td style="padding: 5px;">16.3</td>
+      <td style="padding: 5px;">25.8</td>
+      <td style="padding: 5px;">54.9</td>
+      <td style="padding: 5px;">40.2</td>
+      <td style="padding: 5px;">27.1</td>
+      <td style="padding: 5px;">21.9</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.03</b></td>
+      <td style="padding: 5px;">0.0</td>
+      <td style="padding: 5px;">0.3</td>
+      <td style="padding: 5px;">1.0</td>
+      <td style="padding: 5px;">1.5</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">1.6</td>
+      <td style="padding: 5px;">3.3</td>
+      <td style="padding: 5px;">10.0</td>
+      <td style="padding: 5px;">19.2</td>
+      <td style="padding: 5px;">68.1</td>
+      <td style="padding: 5px;">52.4</td>
+      <td style="padding: 5px;">36.6</td>
+      <td style="padding: 5px;">30.1</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.06</b></td>
+      <td style="padding: 5px;">0.0</td>
+      <td style="padding: 5px;">0.2</td>
+      <td style="padding: 5px;">1.0</td>
+      <td style="padding: 5px;">1.5</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">100.0</td>
+      <td style="padding: 5px;">1.1</td>
+      <td style="padding: 5px;">2.7</td>
+      <td style="padding: 5px;">8.8</td>
+      <td style="padding: 5px;">17.6</td>
+      <td style="padding: 5px;">73.8</td>
+      <td style="padding: 5px;">57.9</td>
+      <td style="padding: 5px;">40.3</td>
+      <td style="padding: 5px;">32.4</td>
+    </tr>
+    <tr>
+      <td colspan="17" style="background-color: #e6e6fa; padding: 5px;">(ETD) Euclidean Distance, Triplet Loss, Defensive (R@1=46.4%)</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0</b></td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">2.0</td>
+      <td style="padding: 5px;">2.0</td>
+      <td style="padding: 5px;">2.0</td>
+      <td style="padding: 5px;">2.0</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">50</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+      <td style="padding: 5px;">0.5</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.01</b></td>
+      <td style="padding: 5px;">7.5</td>
+      <td style="padding: 5px;">12.2</td>
+      <td style="padding: 5px;">16.5</td>
+      <td style="padding: 5px;">18.0</td>
+      <td style="padding: 5px;">66.4</td>
+      <td style="padding: 5px;">62.6</td>
+      <td style="padding: 5px;">59.3</td>
+      <td style="padding: 5px;">57.8</td>
+      <td style="padding: 5px;">16.1</td>
+      <td style="padding: 5px;">24.8</td>
+      <td style="padding: 5px;">36.1</td>
+      <td style="padding: 5px;">41.4</td>
+      <td style="padding: 5px;">26.7</td>
+      <td style="padding: 5px;">18.1</td>
+      <td style="padding: 5px;">12.2</td>
+      <td style="padding: 5px;">10.2</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.03</b></td>
+      <td style="padding: 5px;">0.7</td>
+      <td style="padding: 5px;">4.5</td>
+      <td style="padding: 5px;">8.7</td>
+      <td style="padding: 5px;">10.4</td>
+      <td style="padding: 5px;">91.7</td>
+      <td style="padding: 5px;">90.2</td>
+      <td style="padding: 5px;">89.1</td>
+      <td style="padding: 5px;">88.4</td>
+      <td style="padding: 5px;">7.9</td>
+      <td style="padding: 5px;">14.5</td>
+      <td style="padding: 5px;">27.2</td>
+      <td style="padding: 5px;">35.6</td>
+      <td style="padding: 5px;">43.4</td>
+      <td style="padding: 5px;">31.7</td>
+      <td style="padding: 5px;">21.9</td>
+      <td style="padding: 5px;">18.1</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;"><b>0.06</b></td>
+      <td style="padding: 5px;">0.1</td>
+      <td style="padding: 5px;">3.8</td>
+      <td style="padding: 5px;">7.9</td>
+      <td style="padding: 5px;">9.7</td>
+      <td style="padding: 5px;">97.3</td>
+      <td style="padding: 5px;">96.8</td>
+      <td style="padding: 5px;">96.4</td>
+      <td style="padding: 5px;">96.2</td>
+      <td style="padding: 5px;">6.9</td>
+      <td style="padding: 5px;">12.5</td>
+      <td style="padding: 5px;">24.3</td>
+      <td style="padding: 5px;">33.4</td>
+      <td style="padding: 5px;">51.4</td>
+      <td style="padding: 5px;">39.0</td>
+      <td style="padding: 5px;">28.0</td>
+      <td style="padding: 5px;">23.5</td>
+    </tr>
+  </tbody>
+</table>
+```

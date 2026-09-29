@@ -1,0 +1,73 @@
+Based on the image provided, here is the transcription of the text into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent (a) each \hfill (b) many \hfill (c) several \hfill (d) every
+
+\bigskip
+
+\noindent \textbf{4. Transform the following sentences as directed.} \hfill \textbf{2}
+
+\noindent (a) I am very tired. I can scarcely walk. (Use so....... that)
+
+\noindent (b) Rishabh is not taller than many boys in the class. (Change into superlative degree)
+
+\bigskip
+\bigskip
+
+\begin{center}
+    \underline{\textbf{Section-C Literature (15 marks)}}
+\end{center}
+
+\noindent \textbf{1. Read the extract and answer the questions that follow} \hfill \textbf{3}
+
+\noindent When did my childhood go? \\
+Was it the day I ceased to be eleven, \\
+Was it the time I realised that Hell and Heaven, \\
+Could not be found in Geography, \\
+And therefore could not be,
+
+\noindent (a) What is the problem that grips the mind of the poet? \\
+(b) Why does the poet mention the age of eleven? \\
+(c) Which poetic device is used in the above extract?
+
+\bigskip
+
+\noindent \textbf{2. Answer \underline{any three} of the following in about 20-30 words} \hfill \textbf{3}
+
+\noindent (i) Why is Taplow worried about his remove? \\
+(ii) What does the phrase ``\textit{strange to tell}'' mean in the poem `voice of the rain'? \\
+(iii) What does the concept of sustainable development mean? \\
+(iv) There are two voices in the poem `voice of the rain'. Who do they belong to?
+
+\bigskip
+
+\noindent \textbf{3. Answer \underline{any one} of the following questions in about 100 words:} \hfill \textbf{3}
+
+\noindent (i) ``No generation has a freehold on this earth. All we have is a life tenancy--- with a full repairing lease''. Justify this statement with reference to \textit{the Ailing Planet}. \\
+(ii) Meeting Norbu came as an immense relief to the narrator, comment with reference with the chapter \textit{Silk Road}.
+
+\bigskip
+
+\noindent \textbf{4. Answer \underline{any three} of the following questions in about 50-60 words} \hfill \textbf{6}
+
+\noindent (i) Justify the title of the play \textit{the mother's day}. \\
+(ii) How did Albert Einstein decide to get rid of his school? \\
+(iii) I have done something real at last, oh God! Something real''. Why does Andrew say this? What does it mean? \\
+(iv) What was Andrew's view of marriage? Why was he resentful and confused?
+
+\vfill
+\hrulefill
+
+\begin{flushright}
+    4
+\end{flushright}
+
+\end{document}
+```

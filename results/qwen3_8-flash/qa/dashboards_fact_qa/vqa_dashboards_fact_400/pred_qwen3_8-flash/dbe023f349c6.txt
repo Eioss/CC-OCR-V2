@@ -1,0 +1,17 @@
+Based on the "WHO EARNS WHAT SALARY" section of the infographic, which displays national average salaries in the US:
+
+The job with the **lowest average salary** is the **Data Analyst**, at **$62,379**.
+
+Here’s a quick ranking from lowest to highest based on the chart:
+1.  **Data Analyst**: $62,379
+2.  Database Administrator: $65,991
+3.  Statistician: $67,672
+4.  Data Engineer: $75,069
+5.  Business Analyst: $95,936
+6.  Data Architect: $100,118
+7.  Data Scientist: $116,725
+8.  Data and Analytics Manager: $118,709
+
+*(Note: The image shows two slightly different values for Data Analyst — one near $62k and another near $65k — but the bar graph clearly places the leftmost (lowest) bar under the icon representing the Data Analyst role, labeled $62,379.)*
+
+✅ So, the answer is: **Data Analyst ($62,379)**.

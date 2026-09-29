@@ -1,0 +1,9 @@
+The text '380.00' appears in multiple places in this receipt. Here are the locations:
+
+(740, 909, 837, 944) # Payment column entry
+(722, 992, 822, 1029) # Total row
+(740, 909, 837, 944) # in the payment section
+
+The most prominent instances:
+(739, 909, 837, 944)
+(721, 992, 822, 1029)

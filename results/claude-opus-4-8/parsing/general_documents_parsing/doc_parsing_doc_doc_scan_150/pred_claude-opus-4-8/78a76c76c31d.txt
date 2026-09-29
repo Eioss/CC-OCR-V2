@@ -1,0 +1,78 @@
+I can see this is a historical library catalog page from the Chemical Society. I'll transcribe the text content into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\begin{document}
+
+\begin{center}
+\section*{ADDITIONS TO THE LIBRARY OF THE CHEMICAL SOCIETY DURING THE YEAR 1935.}
+\end{center}
+
+\begin{multicols}{2}
+
+\textit{Acta Physicochimica U.R.S.S.} Vol. I, etc. Moscow 1934+. \textit{(Reference.)}
+
+A\textsc{ldis}, R. W. \textit{See} L\textsc{inen} L\textsc{ac} R\textsc{esearch} I\textsc{nstitute}.
+
+A\textsc{lexander}, W. B. \textit{See} D\textsc{epartment of} S\textsc{cientific and} I\textsc{ndustrial} R\textsc{esearch}. \textit{Water Pollution Research.} Technical Paper No. 5.
+
+A\textsc{llsop}, G. \textit{See} M\textsc{ines} D\textsc{epartment}. \textit{Safety in Mines Research Board.} Papers Nos. 89 and 91.
+
+A\textsc{ltman}, R\textsc{einout} F\textsc{erdinand} A\textsc{lexander}. Contribution à l'étude des médicaments de synthèse contre la malaria. Delft 1935. pp. 182. ill.
+
+A\textsc{luminum} C\textsc{ompany of} A\textsc{merica}. Chemical analysis of aluminum. New Kensington, Pa. 1935. pp. 83.
+
+A\textsc{merican} P\textsc{etroleum} I\textsc{nstitute}. A report on fundamental research in petroleum. New York 1932. pp. 56. ill.
+
+A\textsc{merican} P\textsc{ublic} H\textsc{ealth} A\textsc{ssociation} and A\textsc{ssociation of} O\textsc{fficial} A\textsc{gricultural} C\textsc{hemists}. Standard methods of milk analysis, bacteriological and chemical. 6th edition. New York 1934. pp. xiv + 105. ill.
+
+A\textsc{ngerer}, E\textsc{rnst} \textsc{von}. Apparate und Methoden der Spektroskopie. (Handbuch der Experimentalphysik, \textbf{21}, pp. 205--396.) Leipzig 1927. ill.
+
+A\textsc{rmstrong}, E. F., and A\textsc{rmstrong}, K. F. The carbohydrates. 5th edition. (Monographs on Biochemistry.) London 1934. pp. viii + 252.
+
+A\textsc{rmstrong}, K. F. \textit{See} A\textsc{rmstrong}, E. F.
+
+A\textsc{ssociation of} B\textsc{ritish} C\textsc{hemical} M\textsc{anu-} \textsc{facturers}. British chemicals and their manufacturers. London 1935. pp. 459. \textit{(Reference.)}
+
+A\textsc{ssociation of} O\textsc{fficial} A\textsc{gricultural} C\textsc{hemists}. \textit{See} A\textsc{merican} P\textsc{ublic} H\textsc{ealth} A\textsc{ssociation}.
+
+A\textsc{ustralia}, C\textsc{ommonwealth of}. \textit{Council for Scientific and Industrial Research.} Bulletin No. 83. Natural pastures: their response to superphosphate. By J. G. D\textsc{avies}, A. E. S\textsc{cott}, and K. M. F\textsc{raser}. Melbourne 1934. pp. 76. ill.
+
+\rule{1cm}{0.4pt} ---- Bulletin No. 84. The basal (standard) metabolism of the Australian merino sheep---II. By A. W. P\textsc{eirce}. Melbourne 1934. pp. 22.
+
+\columnbreak
+
+A\textsc{ustralia}, C\textsc{ommonwealth of}. \textit{Council for Scientific and Industrial Research.} Bulletin No. 85. Studies on the phosphorus requirements of sheep. II. By H. R. M\textsc{arston} [and others]. Melbourne 1934. pp. 22. ill.
+
+\rule{1cm}{0.4pt} ---- Bulletin No. 86. A soil survey of the Berri, Cobdogla, Kingston, and Moorbrook irrigation areas, and the Lyrup village district, South Australia. By T. J. M\textsc{arshall} and P. D. H\textsc{ooper}. Melbourne 1935. pp. 55. ill.
+
+\rule{1cm}{0.4pt} ---- Bulletin No. 92. The applegrowing soils of Tasmania. By C. G. S\textsc{tephens} and J. K. T\textsc{aylor}. Melbourne 1935. pp. 55. ill.
+
+\rule{1cm}{0.4pt} ---- Pamphlet No. 49. Some important poison plants of North Australia. Compiled by the Poison Plants Committee. Melbourne 1934. pp. 44. ill.
+
+\rule{1cm}{0.4pt} ---- Pamphlet No. 51. The chemistry of Australian timbers. Part 4.---A study of the lignin determination. ii. By W. E. C\textsc{ohen}. Melbourne 1934. pp. 20. ill.
+
+\rule{1cm}{0.4pt} ---- Pamphlet No. 53. The distillation of wood by chemical means. Part II, By W. E. C\textsc{ohen}. Melbourne 1935. pp. 23.
+
+\rule{1cm}{0.4pt} ---- Pamphlet No. 52. The selection, preservation, distribution, and identification of Australian pole timbers. By J. E. C\textsc{um-} \textsc{mins} and H. E. D\textsc{adswell}. Melbourne 1935. pp. 79. ill.
+
+\rule{1cm}{0.4pt} ---- Pamphlet No. 57. Tests of the efficacy of the oxy-acetylene scouring and charring process for sterilising partly decayed poles. By J. E. C\textsc{ummins}. Melbourne 1935. pp. 43. ill.
+
+A\textsc{ykroyd}, W. R. Three philosophers (Lavoisier, Priestley and Cavendish). London 1935. pp. xii + 277. ill.
+
+B\textsc{arker}, A. S. The use of fertilizers. A guide to the manuring of crops in Great Britain. London 1935. pp. x + 204.
+
+B\textsc{aroni}, A. \textit{See} L\textsc{evi}, G\textsc{iorgio} R\textsc{enato}.
+
+B\textsc{arry}, T. H\textsc{edley}, and D\textsc{unstan}, G\textsc{eorge} W\textsc{illiam}. Varnish making. London [1934]. pp. xii + 132. ill.
+
+B\textsc{asle}, S\textsc{ociety of} C\textsc{hemical} I\textsc{ndustry}. [Fifty years' history] 1884--1934. Basle 1934. pp. 85. ill.
+
+B\textsc{assingdale}, R. \textit{See} D\textsc{epartment of} S\textsc{cientific and} I\textsc{ndustrial} R\textsc{esearch}. \textit{Water Pollution Research.} Technical Paper No. 5.
+
+\end{multicols}
+
+\end{document}
+```

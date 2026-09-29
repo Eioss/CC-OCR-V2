@@ -1,0 +1,11 @@
+$$\theta ( t ) = \frac { 1 } { 2 } \int ^ { t } x ( s ) d s = \arctan \left\{ \sqrt { 1 - \alpha ^ { 2 } } \left[ c _ { 2 } + ( c _ { 1 } + \sqrt { c _ { 1 } ^ { 2 } - c _ { 2 } ^ { 2 } - \frac { 1 } { 1 - \alpha ^ { 2 } } } ) \operatorname { t a n h } \left[ \mu ( t ) / 2 \right] \right\} . \right.$$
+
+$$z = \bigcup _ { i = 1 } ^ { d } ( f _ { i } ) \times z _ { i } ) ,$$
+
+$$| ( \phi ^ { \prime } o g _ { 1 } ) ( y _ { 1 } ^ { - 1 } ( x ) ) - ( \phi ^ { \prime } o g _ { 1 } ) ( y _ { 2 } ^ { - 1 } ( x ) ) | \leq L _ { \phi ^ { \prime } o g _ { 1 } \times 1 } | y _ { 1 } ^ { - 1 } - y _ { 2 } ^ { - 1 } | ( x ) \leq L _ { \phi ^ { \prime } o g _ { 1 } \times 1 } \| y _ { 1 } ^ { - 1 } - y _ { 2 } ^ { - 1 } \| c ^ { 0 } ( [ 0 , k ] ) \cdot$$
+
+$$\frac { ( c , d ) } { ( a , b ) } = \Bigg ( \frac { c \cdot a + d \cdot b } { a ^ { 2 } + b ^ { 2 } } , \frac { d \cdot a - c \cdot b } { a ^ { 2 } + b ^ { 2 } } \Bigg ) , a ^ { 2 } + b ^ { 2 } \neq 0$$
+
+$$A _ { 2 } ^ { * } \varphi ^ { * } = \varphi ^ { * } ( A _ { 2 } ^ { * } - B _ { 2 } ^ { * } K ) Q , B _ { 2 } ^ { * } \varphi ^ { * } = \varphi ^ { * } ( B _ { 2 } ^ { * } - A _ { 2 } ^ { * } K ^ { - 1 } ) Q ,$$
+
+$$Q ( A r - K B r ) \varphi ^ { * } = \varphi ^ { * } A l , Q ( B l - K ^ { - 1 } A r ) \varphi ^ { * } = \varphi ^ { * } B l .$$

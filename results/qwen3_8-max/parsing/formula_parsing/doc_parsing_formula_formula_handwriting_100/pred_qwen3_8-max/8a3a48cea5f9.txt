@@ -1,0 +1,14 @@
+ $$\Big ( \Big ( \sum _ { i = 1 } ^ { n } \langle k _ { i } | x , y \rangle ^ { p } \Big ) ^ { \frac { 1 } { p } } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { \frac { 1 } { q } } \Big ) ^ { r } \leq \frac { n } { p } \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } + \frac { n } { q } \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q }$$
+ $$- \sum _ { j = 1 } ^ { N } ( - 1 ) ^ { r _ { j } } 2 ^ { j - 1 } ( \frac { p } { q } ) + ( - 1 ) ^ { r _ { j } + 1 } \Big [ \frac { r _ { j } + 1 } { 2 } \Big ]$$
+ $$\times \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } } }$$
+ $$- \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } + 1 } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } - 1 } } \Big ) ^ { 2 }$$
+ $$( b y ( 2 2 ) )$$
+ $$\leq \frac { n } { p } \sum _ { i = 1 } ^ { n } \langle | T _ { i } | P x , y \rangle + \frac { n } { q } \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | Q x , y \rangle -$$
+ $$- \sum _ { j = 1 } ^ { N } ( - 1 ) ^ { r _ { j } } 2 ^ { j - 1 } ( \frac { p } { q } ) + ( - 1 ) ^ { r _ { j } + 1 } \Big [ \frac { r _ { j } + 1 } { 2 } \Big ]$$
+ $$\times \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } } }$$
+ $$- 2 \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } + 1 } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } - 1 } } \Big )$$
+ $$( b y \; L e m m a \; ( 2 3 ) , ( 2 1 ) )$$
+ $$= \frac { n } { p } \Big \langle \Big ( \sum _ { i = 1 } ^ { n } | T _ { i } | ^ { p } \Big ) x , y \Big \rangle + \frac { n } { q } \Big \langle \Big ( \sum _ { i = 1 } ^ { n } | T _ { i } ^ { * } | ^ { q } \Big ) x , y \Big \rangle$$
+ $$- \sum _ { j = 1 } ^ { N } ( - 1 ) ^ { r _ { j } } 2 ^ { j - 1 } ( \frac { p } { q } ) + ( - 1 ) ^ { r _ { j } + 1 } \Big [ \frac { r _ { j } + 1 } { 2 } \Big ]$$
+ $$\times \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } } }$$
+ $$- 2 \sqrt { \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } | x , y \rangle ^ { p } \Big ) ^ { k _ { j } + 1 } \Big ( \sum _ { i = 1 } ^ { n } \langle | T _ { i } ^ { * } | x , y \rangle ^ { q } \Big ) ^ { 2 j - 1 - k _ { j } - 1 } } \Big )$$

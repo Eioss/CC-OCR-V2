@@ -1,0 +1,96 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_422_292_550_428.jpg" alt="Image" width="6%" /></div>
+
+# 活动排期表 / 抽检计划表
+
+公示编号: G-20250430-01
+
+发布日期: 2025-04-30
+
+青岚省皓月市南桥极光物业管理有限公司
+
+负责人: 何景行 联系电话: 18341467009
+
+地址: 澄岳省青岚市北湾区北屿路182号 11栋
+
+文档编号: RB-514836
+
+日期: 2025-04-30
+
+## 投诉反馈公示
+
+
+
+<table>
+  <tr>
+    <th rowspan="3">受理台账</th>
+    <th colspan="4">受理信息</th>
+    <th colspan="2">回访结果</th>
+  </tr>
+  <tr>
+    <th>单号</th>
+    <th>渠道</th>
+    <th>问题类型</th>
+    <th>处理时限</th>
+    <th>回访</th>
+    <th>满意度</th>
+  </tr>
+  <tr>
+    <td>CS-983507</td>
+    <td>窗口</td>
+    <td>等待</td>
+    <td>3天</td>
+    <td>已回访 ✓</td>
+    <td>中</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CS-846890</td>
+    <td>二维码</td>
+    <td>卫生</td>
+    <td>3天</td>
+    <td>待回访</td>
+    <td>低</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CS-775214</td>
+    <td>电话</td>
+    <td>态度</td>
+    <td>1天</td>
+    <td>已回访 ✓</td>
+    <td>高</td>
+  </tr>
+  <tr>
+    <th rowspan="4">整改跟踪</th>
+    <th>整改项</th>
+    <th>责任</th>
+    <th>进度</th>
+    <th>复核</th>
+    <th>备注</th>
+    <th rowspan="4" style="text-align: center; vertical-align: middle;">
+      <div style="text-align: center;"><img src="imgs/img_in_image_box_1106_1056_1172_1188.jpg" alt="Image" width="6%" /></div>
+      <br/>https://example.com/doc-8866395
+    </th>
+  </tr>
+  <tr>
+    <td>更换灯具</td>
+    <td>物业</td>
+    <td>延期</td>
+    <td>✗</td>
+    <td>拍照</td>
+  </tr>
+  <tr>
+    <td>增设指引</td>
+    <td>物业</td>
+    <td>关注</td>
+    <td>✗</td>
+    <td>拍照</td>
+  </tr>
+  <tr>
+    <td>维修门锁</td>
+    <td>物业</td>
+    <td>完成</td>
+    <td>✓</td>
+    <td>归档</td>
+  </tr>
+</table>

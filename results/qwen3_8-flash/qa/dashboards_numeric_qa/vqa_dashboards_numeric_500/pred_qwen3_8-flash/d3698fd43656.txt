@@ -1,0 +1,43 @@
+Let's count the country flags shown in the infographic.
+
+There is a row of flags at the top, below the title "The ASEAN MARKET".
+
+From left to right:
+
+1. Brunei (yellow with black and white stripes and red emblem)
+2. Indonesia (red over white)
+3. Cambodia (blue-red-blue with Angkor Wat)
+4. Laos (red-blue-red with white circle)
+5. Myanmar (yellow-green-red with white star)
+6. **ASEAN logo** — this is *not* a country flag; it’s the regional organization’s emblem (blue square with yellow circle containing stylized rice stalks). So we exclude this from country flags.
+7. Malaysia (stripes with blue canton and crescent/star)
+8. Philippines (blue-red with sun and stars)
+9. Singapore (red-white with crescent and stars)
+10. Thailand (horizontal stripes: red-white-blue-white-red)
+11. Vietnam (red with yellow star)
+
+So total flags displayed = 11  
+Minus 1 for the ASEAN logo → **10 country flags**
+
+But wait — let’s double-check: Are all 10 actual member countries?
+
+ASEAN has 10 member states:
+
+- Brunei
+- Cambodia
+- Indonesia
+- Laos
+- Malaysia
+- Myanmar
+- Philippines
+- Singapore
+- Thailand
+- Vietnam
+
+Yes — exactly 10.
+
+And in the image, we see 11 icons: 10 national flags + 1 ASEAN logo.
+
+Therefore, the number of **country flags** is **10**.
+
+✅ Final Answer: **10**

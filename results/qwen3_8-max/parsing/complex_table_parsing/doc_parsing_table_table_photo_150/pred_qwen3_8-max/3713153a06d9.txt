@@ -1,0 +1,307 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center; font-family: sans-serif;">
+  <thead>
+    <tr>
+      <th rowspan="2">Case</th>
+      <th rowspan="2">Age</th>
+      <th rowspan="2">Sex</th>
+      <th rowspan="2">Side</th>
+      <th rowspan="2">AIS</th>
+      <th rowspan="2">ISS</th>
+      <th rowspan="2">Suicidal<br>jump</th>
+      <th rowspan="2">Longitudinal<br>displacement</th>
+      <th rowspan="2">Sacral transverse<br>fracture</th>
+      <th rowspan="2">Type of pelvic<br>fracture (AO)</th>
+      <th rowspan="2">Denis</th>
+      <th rowspan="2">Functional deficit (MMT)</th>
+    </tr>
+    <tr>
+      <!-- Empty row to align with rowspan=2 headers if needed, but standard HTML handles this -->
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Case 1 -->
+    <tr>
+      <td>1</td>
+      <td>55</td>
+      <td>M</td>
+      <td>lt</td>
+      <td>5</td>
+      <td>34</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>(-)</td>
+      <td>IP 3, Quad 3, TA 3</td>
+    </tr>
+    <!-- Case 2 -->
+    <tr>
+      <td>2</td>
+      <td>62</td>
+      <td>M</td>
+      <td>rt</td>
+      <td>5</td>
+      <td>25</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>Zone I</td>
+      <td>Quad 3, TA 3</td>
+    </tr>
+    <!-- Case 3 (Row 1) -->
+    <tr>
+      <td rowspan="2">3</td>
+      <td rowspan="2">31</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">34</td>
+      <td>(+)</td>
+      <td>(+)</td>
+      <td>(+)</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 0, TA 0</td>
+    </tr>
+    <!-- Case 3 (Row 2) -->
+    <tr>
+      <td>lt</td>
+      <td></td> <!-- Suicidal jump merged visually or empty? Looking at image, (+) is centered between rows. Let's assume it applies to the case or specific side. The image shows (+) aligned with the first row of data for case 3 mostly, but actually looking closely, the (+) for suicidal jump is between the two lines. Same for longitudinal. Let's re-evaluate structure. -->
+      <!-- Re-evaluating based on visual alignment: 
+           Case 3 has two rows for 'Side' (rt, lt).
+           AIS/ISS are centered vertically.
+           Suicidal jump (+) is centered vertically.
+           Longitudinal (+) appears twice? No, looking closely at crop 2 and 5.
+           Actually, for Case 3:
+           Row 1: rt, (+), (+), (+), B, Zone II, Quad 0, TA 0
+           Row 2: lt, (empty?), (+), (empty?), C, Zone II, Quad 1, TA 1
+           
+           Wait, let's look at the full image again.
+           Case 3:
+           Line 1: rt ... (+) [suicidal] ... (+) [long] ... (+) [sacral] ... B ... Zone II ... Quad 0, TA 0
+           Line 2: lt ... (empty) ... (+) [long] ... (empty) ... C ... Zone II ... Quad 1, TA 1
+           
+           Actually, the (+) for Suicidal jump is physically located between the two lines in the image, suggesting it applies to the case. But in HTML tables, we usually put it in the first row or merge. Given the prompt asks to reflect layout, I will place values where they visually align best or use rowspan if they clearly span.
+           
+           Let's trace carefully:
+           Case 3, Row 1 (rt): Suicidal(+), Long(+), Sacral(+), Type(B), Denis(Zone II), Func(Quad 0, TA 0)
+           Case 3, Row 2 (lt): Suicidal(empty), Long(+), Sacral(empty), Type(C), Denis(Zone II), Func(Quad 1, TA 1)
+           
+           Wait, looking at Case 4:
+           Row 1 (rt): Suicidal(+), Long(+), Sacral(+), Type(C), Denis(Zone II), Func(Quad 2, TA 0) -> Wait, Type is C? No, looking at crop 5, Case 4 row 1 Type is C? No, let's look at full image.
+           Case 4 Row 1: rt ... (+) ... (+) ... (+) ... C ... Zone II ... Quad 2, TA 0 ?? 
+           Actually, looking at the full image:
+           Case 4 Row 1: rt ... (+) [suicidal is lower] ... (+) [long] ... (+) [sacral] ... C ... Zone II ... Quad 2, TA 0
+           Case 4 Row 2: lt ... ... (+) [long] ... ... B ... Zone II ... Quad 2, TA 0
+           
+           This is getting complex. Let's simplify by creating a row for every visual line of text in the table body.
+      -->
+      <td>(+)</td> <!-- Longitudinal for lt row? The image has a (+) here. -->
+      <td></td>
+      <td>C</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+    
+    <!-- Correction: The above manual tracing is error prone. Let's build strictly row by row as seen in the grid lines implied. -->
+    
+    <!-- Restarting Body Construction for accuracy -->
+  </tbody>
+</table>
+
+<!-- Better approach: One <tr> per visual line in the image -->
+<table border="1" style="border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; width: 100%;">
+  <thead>
+    <tr>
+      <th>Case</th>
+      <th>Age</th>
+      <th>Sex</th>
+      <th>Side</th>
+      <th>AIS</th>
+      <th>ISS</th>
+      <th>Suicidal<br>jump</th>
+      <th>Longitudinal<br>displacement</th>
+      <th>Sacral transverse<br>fracture</th>
+      <th>Type of pelvic<br>fracture (AO)</th>
+      <th>Denis</th>
+      <th>Functional deficit (MMT)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Case 1 -->
+    <tr>
+      <td>1</td>
+      <td>55</td>
+      <td>M</td>
+      <td>lt</td>
+      <td>5</td>
+      <td>34</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>(-)</td>
+      <td>IP 3, Quad 3, TA 3</td>
+    </tr>
+    <!-- Case 2 -->
+    <tr>
+      <td>2</td>
+      <td>62</td>
+      <td>M</td>
+      <td>rt</td>
+      <td>5</td>
+      <td>25</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>Zone I</td>
+      <td>Quad 3, TA 3</td>
+    </tr>
+    <!-- Case 3 - Line 1 -->
+    <tr>
+      <td rowspan="2">3</td>
+      <td rowspan="2">31</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">34</td>
+      <td rowspan="2">(+) </td> <!-- Visually centered, putting in first row with rowspan or just in first row? Image shows it between. I'll put in first row for simplicity or merge. Let's merge for accuracy of "spanning". -->
+      <td>(+)</td>
+      <td>(+)</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 0, TA 0</td>
+    </tr>
+    <!-- Case 3 - Line 2 -->
+    <tr>
+      <td>lt</td>
+      <!-- AIS, ISS, Suicidal are merged from above -->
+      <td>(+)</td>
+      <td></td>
+      <td>C</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+    <!-- Case 4 - Line 1 -->
+    <tr>
+      <td rowspan="2">4</td>
+      <td rowspan="2">37</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">29</td>
+      <td rowspan="2">(+) </td>
+      <td>(+)</td>
+      <td>(+)</td>
+      <td>C</td>
+      <td>Zone II</td>
+      <td>Quad 2, TA 0</td>
+    </tr>
+    <!-- Case 4 - Line 2 -->
+    <tr>
+      <td>lt</td>
+      <td>(+)</td>
+      <td></td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 2, TA 0</td>
+    </tr>
+    <!-- Case 5 - Line 1 -->
+    <tr>
+      <td rowspan="2">5</td>
+      <td rowspan="2">25</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">29</td>
+      <td rowspan="2">(+) </td>
+      <td>(+)</td>
+      <td>(+)</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+    <!-- Case 5 - Line 2 -->
+    <tr>
+      <td>lt</td>
+      <td>(+)</td>
+      <td></td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div style="font-family: Arial, sans-serif; font-size: 14px; line-height: 1.6;">
+  <p><strong>AIS:</strong> abbreviated injury score</p>
+  <p><strong>ISS:</strong> injury severity score</p>
+  <p><strong>MMT:</strong> manual muscle-testing scale</p>
+  <p><strong>IP:</strong> Iliopsoas muscle</p>
+  <p><strong>Quad:</strong> Quadriceps muscle</p> <!-- Inferred from context "Quad" in table, though cut off in image, standard medical abbreviation -->
+</div>
+```
+
+Wait, I should refine the HTML to be a single block as requested, and ensure the "Suicidal jump" column handling is clean. In the image, the `(+)` for suicidal jump in cases 3, 4, 5 is vertically centered between the two rows. Using `rowspan="2"` is the most accurate HTML representation of that visual layout. Same for AIS, ISS, Case, Age, Sex.
+
+Also, I need to make sure I didn't miss the bottom legend text.
+The image cuts off "Quad: Quadriceps muscle" but "Quad" is visible. I will transcribe what is visible.
+
+Refined Plan:
+1. Single `<table>`.
+2. Header row with `<br>` for multi-line headers.
+3. Body rows. Use `rowspan` for columns that span the two sub-rows (Case, Age, Sex, AIS, ISS, Suicidal jump).
+4. Columns that change per sub-row: Side, Longitudinal, Sacral, Type, Denis, Functional.
+   - Wait, looking closely at Case 3:
+     - Row 1 (rt): Long(+), Sacral(+), Type(B), Denis(Zone II), Func(Quad 0, TA 0)
+     - Row 2 (lt): Long(+), Sacral(empty), Type(C), Denis(Zone II), Func(Quad 1, TA 1)
+   - Case 4:
+     - Row 1 (rt): Long(+), Sacral(+), Type(C), Denis(Zone II), Func(Quad 2, TA 0) -> Wait, looking at crop 5, the Type for Case 4 row 1 is 'C'? No, let's look at the full image again.
+     - Full image Case 4:
+       - Top line (rt): (+) under Suicidal, (+) under Long, (+) under Sacral. Type is 'C'? No, looking at the column "Type of pelvic fracture", for Case 4 top row it looks like 'C'. Bottom row 'B'.
+       - Actually, let's re-read the full image carefully.
+       - Case 4, Row 1: rt ... (+) ... (+) ... (+) ... **C** ... Zone II ... Quad 2, TA 0
+       - Case 4, Row 2: lt ... ... (+) ... ... **B** ... Zone II ... Quad 2, TA 0
+     - Case 5:
+       - Row 1: rt ... (+) ... (+) ... (+) ... **B** ... Zone II ... Quad 1, TA 1
+       - Row 2: lt ... ... (+) ... ... **B** ... Zone II ... Quad 1, TA 1
+
+Okay, the logic holds. I will generate the final HTML now.
+
+One detail: The prompt asks for "merged cells accurately represented".
+For Case 3, 4, 5:
+- Case, Age, Sex, AIS, ISS, Suicidal Jump -> `rowspan="2"`
+- Side, Longitudinal, Sacral, Type, Denis, Functional -> separate cells for each row.
+  - Note: In Case 3 Row 2, Sacral is empty.
+  - In Case 4 Row 2, Sacral is empty.
+  - In Case 5 Row 2, Sacral is empty.
+  - Longitudinal has `(+)` in both rows for Cases 3, 4, 5.
+
+Let's double check Case 3 Longitudinal.
+Image:
+Row 1 (rt): (+)
+Row 2 (lt): (+)
+Yes.
+
+Let's double check Case 3 Suicidal.
+Image: (+) is centered. So `rowspan="2"`.
+
+Final check on the legend at the bottom.
+"AIS: abbreviated injury score"
+"ISS: injury severity score"
+"MMT: manual muscle-testing scale"
+"IP: Iliopsoas muscle"
+"Quad: Quadriceps muscle" (The word Quadriceps is cut off but "Quad:" is visible and "Quadr..." is barely visible. I will include "Quad: Quadriceps muscle" as it's the standard expansion and likely intended, or just "Quad: Quadriceps" based on visible pixels. Actually, looking at the very bottom edge, "Quad: Quadriceps muscle" is mostly cut. I will stick to what is clearly readable or safely inferable. "Quad: Quadriceps" is safe.)
+
+Actually, looking at the very bottom left, "Quad: Quadriceps muscle" is cut off after "Quadr". I'll write "Quad: Quadriceps muscle" as it's the obvious completion, or just transcribe the visible part. The prompt says "transcribe... reflecting the image's layout". I'll transcribe the visible text. "Quad: Quadriceps" seems appropriate.
+
+Wait, looking at the provided solution format, I should just output the HTML.
+
+One specific correction: In the image, for Case 3, the `(+)` for Suicidal Jump is physically between the rows. In HTML, `rowspan="2"` places it in the first row's cell but spans down. This is the correct semantic way to represent it.
+
+Let's write the code.

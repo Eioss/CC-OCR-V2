@@ -1,0 +1,59 @@
+```html
+<table>
+  <tr>
+    <td>Topic: Should we ban human cloning</td>
+    <td>Gold</td>
+    <td>PL</td>
+    <td>MT</td>
+  </tr>
+  <tr>
+    <td>
+      Claim: Cloning humans could reduce the im-<br>
+      pact of diseases in ways that vaccinations can-<br>
+      not.
+    </td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>
+      This method could help countries like Japan<br>
+      who are struggling with low birth rates.
+    </td>
+    <td></td>
+    <td>E</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      The Japanese culture could see a reduction<br>
+      of up to 40 million people by the year 2060<br>
+      without the introduction of cloning measures.
+    </td>
+    <td></td>
+    <td>E</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      Human cloning could help us to begin curing<br>
+      genetic diseases such as cystic fibrosis or tha-<br>
+      lassemia.
+    </td>
+    <td>E</td>
+    <td>E</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td>
+      Genetic modification could also help us deal<br>
+      with complicated maladies such as heart dis-<br>
+      ease or schizophrenia.
+    </td>
+    <td></td>
+    <td></td>
+    <td>E</td>
+  </tr>
+</table>
+```

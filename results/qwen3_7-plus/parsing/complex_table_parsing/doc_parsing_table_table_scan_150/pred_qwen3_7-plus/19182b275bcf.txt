@@ -1,0 +1,263 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>瀚华金控股份有限公司 合并资产负债表 (续)</title>
+    <style>
+        body {
+            font-family: "SimSun", "Songti SC", serif; /* Use a standard Chinese serif font */
+            margin: 40px;
+            color: #000;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .header h2, .header h3, .header p {
+            margin: 5px 0;
+            font-weight: normal;
+        }
+        .header h2 {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .header h3 {
+            font-size: 16px;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            padding: 8px 10px;
+            vertical-align: bottom;
+        }
+        th {
+            font-weight: normal;
+        }
+        .col-item {
+            width: 50%;
+            text-align: left;
+        }
+        .col-note {
+            width: 15%;
+            text-align: center;
+        }
+        .col-data {
+            width: 17.5%;
+            text-align: right;
+        }
+        .indent-1 {
+            padding-left: 2em;
+        }
+        .indent-2 {
+            padding-left: 4em;
+        }
+        .bold-text {
+            font-weight: bold;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        .double-underline {
+            border-bottom: 3px double black;
+        }
+        .single-underline {
+            border-bottom: 1px solid black;
+        }
+        .approval-text {
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        .signatures {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 40px;
+            position: relative;
+        }
+        .sig-block {
+            text-align: left;
+            width: 30%;
+        }
+        .sig-name-printed {
+            margin-top: 10px;
+        }
+        .company-stamp-container {
+            position: absolute;
+            right: 0;
+            top: -20px;
+            width: 150px;
+            height: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .footer-note {
+            margin-top: 50px;
+        }
+        .page-number {
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h2>瀚华金控股份有限公司</h2>
+        <h3>合并资产负债表 (续)</h3>
+        <p>2017 年 12 月 31 日</p>
+        <p>(金额单位：人民币千元)</p>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th class="col-item"></th>
+                <th class="col-note">附注</th>
+                <th class="col-data"><span class="underline">2017 年<br>12 月 31 日</span></th>
+                <th class="col-data"><span class="underline">2016 年<br>12 月 31 日</span></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="4" class="bold-text">负债和股东权益 (续)</td>
+            </tr>
+            <tr>
+                <td colspan="4" class="bold-text">股东权益</td>
+            </tr>
+            <tr>
+                <td class="indent-2">股本</td>
+                <td class="col-note">六、24</td>
+                <td class="col-data">4,600,000</td>
+                <td class="col-data">4,600,000</td>
+            </tr>
+            <tr>
+                <td class="indent-2">资本公积</td>
+                <td class="col-note">六、25</td>
+                <td class="col-data">1,711,303</td>
+                <td class="col-data">1,673,525</td>
+            </tr>
+            <tr>
+                <td class="indent-2">其他综合收益</td>
+                <td class="col-note">六、26</td>
+                <td class="col-data">15,471</td>
+                <td class="col-data">(13,001)</td>
+            </tr>
+            <tr>
+                <td class="indent-2">盈余公积</td>
+                <td class="col-note">六、27</td>
+                <td class="col-data">110,567</td>
+                <td class="col-data">82,784</td>
+            </tr>
+            <tr>
+                <td class="indent-2">一般风险准备</td>
+                <td class="col-note">六、28</td>
+                <td class="col-data">303,034</td>
+                <td class="col-data">289,972</td>
+            </tr>
+            <tr>
+                <td class="indent-2">未分配利润</td>
+                <td class="col-note">六、29</td>
+                <td class="col-data single-underline">245,577</td>
+                <td class="col-data single-underline">207,601</td>
+            </tr>
+            <tr>
+                <td class="indent-1">归属于母公司股东权益合计</td>
+                <td class="col-note"></td>
+                <td class="col-data">6,985,952</td>
+                <td class="col-data">6,840,881</td>
+            </tr>
+            <tr>
+                <td class="indent-1">少数股东权益</td>
+                <td class="col-note">五、1</td>
+                <td class="col-data single-underline">1,085,681</td>
+                <td class="col-data single-underline">638,242</td>
+            </tr>
+            <tr>
+                <td class="bold-text">股东权益合计</td>
+                <td class="col-note"></td>
+                <td class="col-data double-underline">8,071,633</td>
+                <td class="col-data double-underline">7,479,123</td>
+            </tr>
+            <tr>
+                <td class="bold-text">负债和股东权益总计</td>
+                <td class="col-note"></td>
+                <td class="col-data single-underline">18,906,630</td>
+                <td class="col-data single-underline">17,082,749</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="approval-text">
+        此财务报表已于 2018 年 3 月 26 日获董事会批准。
+    </div>
+
+    <div class="signatures">
+        <div class="sig-block">
+            <!-- Placeholder for Zhang Guoxiang's signature and stamp -->
+            <div style="height: 60px; display: flex; align-items: center;">
+                <span style="border: 2px solid #cc0000; color: #cc0000; padding: 2px 5px; font-weight: bold; margin-right: 10px; transform: rotate(-5deg);">张国祥印</span>
+                <span style="font-family: cursive; font-size: 24px;">张国祥</span>
+            </div>
+            <div class="sig-name-printed">
+                张国祥<br>
+                法定代表人、董事长<br>
+                (签名和盖章)
+            </div>
+        </div>
+
+        <div class="sig-block">
+            <!-- Placeholder for Ren Weidong's signature and stamp -->
+            <div style="height: 60px; display: flex; align-items: center;">
+                <span style="border: 2px solid #cc0000; color: #cc0000; padding: 2px 5px; font-weight: bold; margin-right: 10px; transform: rotate(-5deg);">任为栋印</span>
+                <span style="font-family: cursive; font-size: 24px;">任为栋</span>
+            </div>
+            <div class="sig-name-printed">
+                任为栋<br>
+                首席财务官<br>
+                (签名和盖章)
+            </div>
+        </div>
+
+        <div class="sig-block">
+            <!-- Placeholder for Cui Guilin's signature and stamp -->
+            <div style="height: 60px; display: flex; align-items: center;">
+                <span style="border: 2px solid #cc0000; color: #cc0000; padding: 2px 5px; font-weight: bold; margin-right: 10px; transform: rotate(-5deg);">崔桂林印</span>
+                <span style="font-family: cursive; font-size: 24px;">崔桂林</span>
+            </div>
+            <div class="sig-name-printed">
+                崔桂林<br>
+                计划财务部总经理<br>
+                (签名和盖章)
+            </div>
+        </div>
+
+        <div class="company-stamp-container">
+            <!-- Placeholder for Company Stamp -->
+            <svg viewBox="0 0 100 100" width="120" height="120" style="position: absolute; right: 0; top: 0;">
+                <circle cx="50" cy="50" r="45" stroke="#cc0000" stroke-width="3" fill="none" />
+                <path d="M 50 15 L 55 35 L 75 35 L 60 48 L 65 68 L 50 55 L 35 68 L 40 48 L 25 35 L 45 35 Z" fill="#cc0000" />
+                <text x="50" y="85" font-family="SimHei" font-size="8" fill="#cc0000" text-anchor="middle">5001001091281</text>
+                <text x="50" y="25" font-family="SimHei" font-size="10" fill="#cc0000" text-anchor="middle">瀚华金控股份有限公司</text>
+            </svg>
+            <div style="margin-top: 80px; text-align: center; font-weight: bold;">(公司盖章)</div>
+        </div>
+    </div>
+
+    <div class="footer-note">
+        刊载于第 21 页至第 125 页的财务报表附注为本财务报表的组成部分。
+    </div>
+
+    <div class="page-number">
+        第 3 页
+    </div>
+
+</body>
+</html>
+```

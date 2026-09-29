@@ -1,0 +1,12 @@
+```json
+{
+    "date": "18/05/18",
+    "doc_no_receipt_no": "21777",
+    "seller_address": "NO 15 JALAN BANDAR RAWANG 10 BANDAR BARU RAWANG",
+    "seller_gst_id": "#000899874816",
+    "seller_name": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+    "seller_phone": "03-60932037",
+    "total_amount": "2.28",
+    "total_tax": "0.13"
+}
+```

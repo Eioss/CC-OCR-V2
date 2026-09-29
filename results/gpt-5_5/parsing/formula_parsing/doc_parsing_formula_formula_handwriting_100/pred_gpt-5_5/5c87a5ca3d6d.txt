@@ -1,0 +1,53 @@
+\[
+\underbrace{\int_{R_m}\int_{S^2}\int_{\partial B_m} r^2 f_1\,\partial_\nu p_2^3\,dx+f_1p_m(1-\cos\phi)p_2^3\,dx}_{I_1}
+=
+\underbrace{\int_{R_m}\int_{S^2}\int_{\partial B_m} r^2 f_1\,\partial_\nu\phi\,\sin\phi\,D\,dx}_{I_2}
+\]
+
+\[
+|\Delta_m|
+=
+\left|
+\int_{\Lambda_m}
+\left[
+E_\xi^h\phi(f(x))-\phi(f(x))
+-\bigl(E_\xi^h\phi(f(x))-\phi(f(x))\bigr)\phi'(f(x))
+\right]dx
++
+\int_{\Lambda_m}
+\left[
+\phi(f(x))-\phi(f(x))-\phi(f(x))\phi'(f(x))
+\right]dx
+\right|
+\]
+
+\[
+I_1
+\le
+C\int_0^t\int_0^\infty
+\frac{R\theta\psi_x^2}{v^3}\,dx\,ds
++
+C\int_0^t\int_0^\infty
+\frac{\kappa\theta^{\omega-\eta}\theta_x^2}{v\theta^2}\,dx\,ds
+\le
+C\int_0^t\int_0^\infty
+\frac{R\theta^3}{v^3}\,dx\,ds
++
+C(t)
+\]
+
+\[
+\bar{\eta}\int \log_\alpha^2[P(t,x)]\,dx
+\ge
+\int h(x)\bigl(P(t,x)-P(t_0,x)\bigr)\,dx
+\]
+
+\[
+\overline{PT}\varphi_\pm \ne e^{i\omega t}\varphi_\pm
+\quad\text{and}\quad
+\overline{PT}\varphi_\pm = e^{i\omega t}\varphi_{\mp}
+\]
+
+\[
+(I-\Delta)^{-m}=\sum_{m\in N} C_m t_i^m
+\]

@@ -1,0 +1,9 @@
+ $$n ^ { e } ( v ) \tilde { v } ^ { e } ( v ) + n e ^ { i } ( v ) v e ^ { i } ( v ) = 0 , \; \; r ^ { e } ( v ) \tilde { v } ^ { e } ( v ) = 1 , \; \; \mathrm { a n d } \; \; \hat { v } = 0 \; \; \mathrm { o n } \varepsilon \setminus \{ e , e \} .$$
+
+ $$H ^ { e e } = - \hbar \int ( n _ { H } | H \rangle _ { s } \langle H | + n _ { V } | V \rangle _ { s } \langle V | ) \otimes w | w \rangle _ { e } \langle w | d w ,$$
+
+ $$\operatorname* { s u p } _ { 0 \leq t \leq T } \| v ^ { m } ( t ) - u ( t ) \| _ { 1 } = O \Big ( \| v ^ { m } ( 0 ) - u ( 0 ) \| _ { 1 } + \| w ^ { ( m ) } - w \| _ { \rho p + 1 } \Big ) .$$
+
+ $$\hat { R } _ { i } ^ { ( j , m ) } = \Phi \{ Q _ { j } ^ { ( i ) } , N _ { i } ^ { ( j ) } , f C _ { ( i , n ) } ^ { ( j ) } \} , f \hat { R } _ { ( i , n ) } ^ { ( j - 1 , m ) } \} \} , \quad i = 1 , \dots , m ,$$
+
+ $$C _ { n } ( - \tau ) = ( - 1 ) ^ { n } \, C _ { n } ( \tau )$$

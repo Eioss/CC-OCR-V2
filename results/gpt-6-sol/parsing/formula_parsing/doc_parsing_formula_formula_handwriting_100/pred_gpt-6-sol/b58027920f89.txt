@@ -1,0 +1,56 @@
+\[
+\inf_{u\in\mathcal E}\int_{\Pi}\langle u\rangle n\,dx
+=
+\inf_{\theta\in[1/8,\,3/8]}
+\int_{\Pi}\langle u^\theta\rangle n\,dx,
+\]
+
+\[
+\partial_t(U_1,\ldots,U_n)
+=
+\frac{1}{\delta t}\int_V
+v\,T'_e[M_1U_1,\ldots,M_nU_n]\bigl(M_e(v)\bigr)\,dv.
+\]
+
+\[
+B[w,\phi;t]
+:=
+\int\left(
+\frac12\nabla w\cdot\nabla\phi\,u
+-wkm\cdot\nabla\phi
+-Kw\phi
+\right)\,dm.
+\]
+
+\[
+\begin{aligned}
+\sqrt{\left|\int_0^T K_1\,dt\right|}
+&\le C_0T^{1/4}
+\left(
+\|\sqrt{\rho t}\,\dot v\|_{L^\infty(0,T;L^2)}^{1/4}
++\nu^{-3/4}T^{1/8}
+\right)\\
+&\quad\times
+\left(
+\nu^{1/8}\|\sqrt{\rho t}\,\dot v\|_{L^\infty(0,T;L^2)}^{1/4}
++\nu^{1/4}T^{1/8}
+\right)
+\|\sqrt{\varepsilon}\,\operatorname{div}v\|_{L^2(0,T;L^2)}.
+\end{aligned}
+\]
+
+\[
+\mathbb E\left[\sup_{0\le s\le t}\|h_m(s,\omega)\|^p\right]
+\]
+
+\[
+\operatorname{Var}\!\left(\sum_{i=1}^{k}X_i\right)
+\le k^2\sup_i\operatorname{Var}(X_i),
+\]
+
+\[
+C_1^+J_m\!\left(\sqrt{\frac{\lambda}{\beta^+}}\,R_0\right)
++
+C_2^+Y_m\!\left(\sqrt{\frac{\lambda}{\beta}}\,R_0\right)
+=0.
+\]

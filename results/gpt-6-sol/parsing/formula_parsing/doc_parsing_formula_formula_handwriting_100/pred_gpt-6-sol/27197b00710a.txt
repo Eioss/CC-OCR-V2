@@ -1,0 +1,24 @@
+\[
+\begin{aligned}
+A_{2m+2}(\nu,z)
+&\sim (-\xi)^{1/4}
+\left\{1+\frac12\widetilde{\mathcal E}_{2m+2,r}(\nu,i\infty)\right\},\\[4pt]
+\mathbb P^\theta\!\left(R_k^i=\ell_k^i,\ i=1,\ldots,\bar n\right)
+&\le \bar n\,\Pi\!\left(w,\bar n,
+(\ell_\theta^i)_{i=1,\ldots,\bar n},
+(\ell_k^i)_{i=1,\ldots,\bar n}\right),\\[4pt]
+d&=O\!\left(\log n+\log(1/\varepsilon)\right),\\[4pt]
+L_f&=\sup_{\substack{x,y\in\Omega_f\\x\ne y}}
+\frac{|f(x)-f(y)|}{|x-y|},\\[4pt]
+I^++\frac12(V^++V^-)&=\frac12(V^+-V^-)I^+,\\
+I^--\frac12(V^++V^-)&=\frac12(-V^+-V^-)I^-,\\[4pt]
+-u_1\cdot n_1+\alpha p_{1,r}+s_r\partial_t p_{1,r}
++\operatorname{div}_{\Gamma}u_{\Gamma,1}
+&=-u_2\cdot n_1+\alpha p_{2,r}
+\qquad\text{on }\Gamma\times(0,T),\\
+u_{\Gamma,1}&=-k_{\Gamma}\delta\nabla_{\Gamma}p_{1,r},\\[4pt]
+|z_0\rangle\otimes|\xi(z_0)\rangle
+&\xrightarrow{\mathcal T}
+|z_0\rangle\otimes|\phi(z_0)\rangle.
+\end{aligned}
+\]

@@ -1,0 +1,23 @@
+```json
+[
+	{"bbox_2d": [741, 153, 833, 169], "label": "Arrival 抵店日期"},
+	{"bbox_2d": [780, 540, 809, 554], "label": "Balance 余额(CNY)"},
+	{"bbox_2d": [749, 195, 850, 216], "label": "Cashier 收银员"},
+	{"bbox_2d": [741, 81, 790, 97], "label": "Conf. No. 确认号码"},
+	{"bbox_2d": [853, 440, 917, 455], "label": "Credits 付款"},
+	{"bbox_2d": [74, 361, 142, 480], "label": "Date 日期"},
+	{"bbox_2d": [742, 339, 807, 440], "label": "Debits 消费"},
+	{"bbox_2d": [744, 506, 807, 520], "label": "Debits 消费"},
+	{"bbox_2d": [743, 177, 834, 195], "label": "Departure 离店日期"},
+	{"bbox_2d": [176, 356, 274, 479], "label": "Description 项目"},
+	{"bbox_2d": [741, 132, 788, 147], "label": "Folio No. 账单号码"},
+	{"bbox_2d": [742, 229, 781, 243], "label": "Page(s) 页数"},
+	{"bbox_2d": [431, 381, 675, 401], "label": "Reference 备注"},
+	{"bbox_2d": [742, 107, 788, 122], "label": "Room No. 房号"},
+	{"bbox_2d": [742, 245, 882, 267], "label": "Time 时间"},
+	{"bbox_2d": [854, 502, 919, 516], "label": "redits 付款"},
+	{"bbox_2d": [584, 912, 656, 928], "label": "传真F"},
+	{"bbox_2d": [355, 886, 649, 924], "label": "地址"},
+	{"bbox_2d": [478, 910, 563, 927], "label": "电话T"}
+]
+```

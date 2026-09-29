@@ -1,0 +1,104 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[UTF8]{ctex}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+{\small 本资料来自 www.m448.com}\\[0.5em]
+{\Large 建筑装饰工程施工合同}\\
+{\Large Contract}
+\end{center}
+
+\noindent
+发包方：（简称甲方）\\
+Party A:
+
+\vspace{0.5em}
+
+\noindent
+承包方：（简称乙方）：上海巧点装饰设计有限公司\\
+Party B: I-point design (Inspiration Point Design)
+
+\vspace{1em}
+
+\noindent
+根据《中华人民共和国合同法》《中华人民共和国消费者权益保护法》《中华人民共和国价格法》《上海市合同格式条款监督条例》《上海市建筑市场管理条例》以及其他有关法律法规规定，结合本工程的具体情况，甲、乙双方在平等、自愿、协商一致的基础上达成如下协议，共同遵守。
+
+\vspace{0.5em}
+
+\noindent
+According to: ``PRC Contract Law'', ``Law on the Protection of Consumer Interests'', ``PRC Price Law'', ``Shanghai Supervision of Contract Terms'', ``Shanghai Construction Market Management Regulations'', as well as other laws and regulations relevant to the specific circumstances of this project, parties A and B have hereby equally and voluntarily entered into the following agreement executed on the basis of mutual respect.
+
+\section*{一、概况}
+\section*{OVERVIEW}
+
+\begin{enumerate}
+    \item 甲方装饰物业系合法物业\\
+    Party A is the owner of the property.
+
+    \item 乙方为本市经工商行政管理机关核准登记，并可从事该装修企业\\
+    Party B is approved and registered with the city industrial and commercial administrative organs as an enterprise engaged in renovation and decoration.
+
+    \item 施工地点：\\
+    Construction site:
+
+    \item 建筑结构：\underline{\hspace{3cm}}，建筑面积\underline{\hspace{2cm}}平方米，施工面积\underline{\hspace{2cm}}平方米。\\
+    Construction area: total area (including stairwells and other common areas): \underline{\hspace{2cm}} m$^{2}$, private living area: \underline{\hspace{2cm}} m$^{2}$.
+
+    \item 装饰施工内容：住宅装饰装修施工。\\
+    Structure: residential.
+
+    \item 承包方式：见附件一《工程报价单》\\
+    Contractor engagement method: See annex -- (quotation).
+
+    \item 总价款：0.00元，大写（人民币）：\underline{\hspace{4cm}}元整。\\
+    Total price: \underline{\hspace{3cm}} RMB; in words: \underline{\hspace{4cm}} 元整. Any changes in this price must be agreed by both parties in writing.
+
+    \item 工期：自\underline{\hspace{1cm}}年\underline{\hspace{1cm}}月\underline{\hspace{1cm}}日开工，至\underline{\hspace{1cm}}年\underline{\hspace{1cm}}月\underline{\hspace{1cm}}日前竣工，工期总计\underline{\hspace{1.5cm}}天。不含国家法定节假日，乙方委派现场施工监理为\underline{\hspace{2cm}}先生，联系方式：\underline{\hspace{3cm}}\\
+    Period: Start: \underline{\hspace{1cm}} year \underline{\hspace{1cm}} month \underline{\hspace{1cm}} day; Completion before: \underline{\hspace{1cm}} year \underline{\hspace{1cm}} month \underline{\hspace{1cm}} day; Total days (excluding national holidays): \underline{\hspace{1.5cm}} days. Party B's on site construction supervisor will be:
+\end{enumerate}
+
+\section*{二、关于工程价款及结算的约定}
+\section*{TERMS OF PAYMENT}
+
+\noindent
+1. 工程款的付款方式如下\\
+The payment schedule shall be as follows:
+
+\vspace{0.5em}
+
+\begin{longtable}{|p{4.1cm}|p{4.1cm}|p{3.2cm}|p{3.2cm}|}
+\hline
+ & 付款时间 & 付款时间 &  \\
+ & Timing of Payments & Date (yyyy.mm.dd) & Amount (RMB) \\
+\hline
+合同签订后60\% & & & \\
+After the contract is signed. & & & \\
+\hline
+油漆工程任务前30\% & & & \\
+When half of the project period time has elapsed. & & & \\
+\hline
+家具、灯具运场前5\% & & & \\
+Furniture of lamps and lanterns, before the approach & & & \\
+\hline
+验收合格后，五天内5\% & & & \\
+Upon Acceptance of the completion of the project. & & & \\
+\hline
+增加工程项目100\% & 签订工程项目变更单100\% & & \\
+Project changes. & Date of signing for the project change. & & \\
+\hline
+空调工程项目100\% & & & \\
+Air conditioning project & & & \\
+\hline
+家具工程项目100\% & & & \\
+Furniture engineering & & & \\
+\hline
+\end{longtable}
+
+\end{document}
+```

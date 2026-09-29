@@ -1,0 +1,17 @@
+Based on the provided hotel bill from **Hotel Dupont Plaza**, the check-in date can be determined by looking at the first entry in the "DATE" column of the charges table.
+
+The first date listed is:
+
+> **11/28/60**
+
+This corresponds to **November 28, 1960**.
+
+Additionally, this date appears in the guest information section at the top left:
+> “243 SHANKS DR ROBERT E 12/2  
+> **11/28/60** ST LOUIS MO”
+
+This confirms that Robert E. Shanks checked in on **November 28, 1960**.
+
+---
+
+✅ **Answer: November 28, 1960 (11/28/60)**

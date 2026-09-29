@@ -1,0 +1,12 @@
+Based on the provided infographic, let's locate the relevant data.
+
+1.  Find the section titled **"Use of devices that are connected to the Internet"**. This is the row of bar charts in the middle-left part of the image.
+2.  Locate the specific chart for **"desktop"**. It's the fifth chart from the left in that row (after smartphone, tablet, mediaplayer, and laptop).
+3.  Look at the bars within the "desktop" chart:
+    *   There is a grey bar labeled **37%** for the year **2013**.
+    *   There is a combined bar for the year **2015**. The lower part is grey and labeled **25%**, representing the general population or a baseline group.
+    *   The upper part of the 2015 bar is orange and explicitly labeled **"age 55+"** with the value **43%**.
+
+Therefore, according to the infographic, **43%** of people above 55 years used desktops connected to the internet in 2015.
+
+**Answer: 43%**

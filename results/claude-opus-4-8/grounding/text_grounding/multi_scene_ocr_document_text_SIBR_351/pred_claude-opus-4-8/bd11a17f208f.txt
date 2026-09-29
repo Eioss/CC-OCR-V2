@@ -1,0 +1,9 @@
+The text '74.79' appears multiple times in this image. Here are the locations:
+
+(345, 1455, 489, 1521) - in the 本次账户支付 line
+
+(596, 1739, 717, 1796) - near the 个人账户支付 area
+
+(857, 1838, 1011, 1903) - on the right side near 个人现金支付
+
+(287, 1923, 415, 1980) - in the 总合计 line

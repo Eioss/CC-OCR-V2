@@ -1,0 +1,7 @@
+Based on the calendar provided:
+
+1.  Locate the number **28** in the grid.
+2.  Look up to the top of that column to see the day of the week.
+3.  The number 28 is in the column labeled **Thu**.
+
+Therefore, December 28, 2006, is a **Thursday**.

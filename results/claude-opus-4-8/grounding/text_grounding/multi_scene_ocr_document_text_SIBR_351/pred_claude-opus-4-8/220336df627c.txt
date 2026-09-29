@@ -1,0 +1,6 @@
+There are multiple instances of '0' in the image. Here are their locations:
+
+(727, 666, 749, 696)
+(727, 754, 749, 784)
+(728, 845, 750, 875)
+(728, 941, 750, 971)

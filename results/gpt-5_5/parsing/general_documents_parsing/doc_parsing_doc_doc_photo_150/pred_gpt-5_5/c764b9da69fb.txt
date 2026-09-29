@@ -1,0 +1,50 @@
+```latex
+\[
+\boxed{\textbf{CHAPTER } \boxed{\textbf{19}}}
+\]
+
+\begin{center}
+{\Large \textbf{BASIC MATHEMATICS}}\\[1em]
+{\large \textbf{1. NUMBER SYSTEM}}\\[0.5em]
+\textit{``NUMBER RULES THE UNIVERSE.'' PYTHAGORAS}
+\end{center}
+
+\section*{Natural Numbers}
+
+These are also called \textit{Counting numbers} 1, 2, 3, 4, 5, ... and are known as natural numbers.\\
+The set of all natural numbers can be represented by N.
+\[
+N=\{1,2,3,4,5,\ldots\}
+\]
+
+\section*{Whole Numbers}
+
+If we include 0 among the natural numbers, then the numbers 0, 1, 2, 3, 4, 5, ... are called whole numbers. The set of whole numbers can be represented by W. Clearly, every natural number is a whole number but 0 is a whole number which is not a natural number.
+\[
+W=\{0,1,2,3,4,5,\ldots\}
+\]
+
+\section*{Integers}
+
+All counting numbers and their negatives including zero are known as integers. Z or I.\\
+The set of integers can be represented by
+\[
+Z \text{ or } I=\{\ldots -4,-3,-2,-1,0,1,2,3,4,\ldots\}
+\]
+
+\begin{itemize}
+    \item \textbf{Positive Integers:} The set \(I^{+}=\{1,2,3,4,\ldots\}\) is the set of all positive integers.
+    \item \textbf{Negative Integers:} The set \(I^{-}=\{-1,-2,-3,\ldots\}\) is the set of all negative integers. 0 is neither positive nor negative.
+    \item \textbf{Non-negative Integers:} The set \(\{0,1,2,3,\ldots\}\) is the set of all non-negative integers.
+\end{itemize}
+
+\noindent Note: Only whole numbers are integers. Therefore; fractions, decimals, percent and exponents can never be integers.
+
+\section*{Rational Numbers}
+
+The numbers of the form \(p/q\), where p and q are integers and \(q\ne 0\), are known as rational numbers, e.g.
+\[
+\frac{4}{7},\ \frac{3}{2},\ \frac{-5}{8},\ \frac{0}{1},\ \frac{-2}{3},
+\]
+etc. The set of all rational numbers is denoted by Q.
+```

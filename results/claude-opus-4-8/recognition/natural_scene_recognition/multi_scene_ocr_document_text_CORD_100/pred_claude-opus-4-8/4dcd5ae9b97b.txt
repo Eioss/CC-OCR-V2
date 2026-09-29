@@ -1,0 +1,12 @@
+I can see this is a faded receipt. Here's the readable text content:
+
+```
+1    XXL Crispy Chicken              40,000
+1    - Pedas sedikit                      0
+
+ITEMS :1                              40,000
+Total........                         40,000
+Pay Cash 50,000          Change : 10,000
+```
+
+Note: The top portion of the receipt (store name, address, date, and other header information) and the bottom portion (footer/thank you message) are too faded and blurry to read accurately.

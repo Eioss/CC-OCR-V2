@@ -1,0 +1,90 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Allocator Benchmark Table</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        table {
+            border-collapse: collapse;
+            background-color: #ffffff;
+            width: 800px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            font-size: 1.1em;
+            color: #333;
+        }
+        /* Top and bottom borders for header and rows to mimic the image's style */
+        tr {
+            border-top: 2px solid #000;
+            border-bottom: 2px solid #000;
+        }
+        th {
+            font-weight: bold;
+            text-align: right; /* Align numbers to the right generally, but first col is left */
+        }
+        th:first-child, td:first-child {
+            text-align: left;
+            font-weight: bold;
+        }
+        td:not(:first-child) {
+            text-align: right;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Type/Tput(MOPS)</th>
+                <th>Alloc</th>
+                <th>Free</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Glibc</td>
+                <td>21.0</td>
+                <td>57.0</td>
+            </tr>
+            <tr>
+                <td>Pmem</td>
+                <td>1.42</td>
+                <td>1.38</td>
+            </tr>
+            <tr>
+                <td>RPC allocator</td>
+                <td>0.33</td>
+                <td>0.88</td>
+            </tr>
+            <tr>
+                <td>Two-tier allocator (slab-size: 128 Bytes)</td>
+                <td>1.33</td>
+                <td>2.41</td>
+            </tr>
+            <tr>
+                <td>Two-tier allocator (slab-size: 1024 Bytes)</td>
+                <td>6.42</td>
+                <td>13.90</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+```

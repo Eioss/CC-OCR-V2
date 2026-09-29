@@ -1,0 +1,17 @@
+Based on the flowchart provided, the step that directly follows **"Initiate Priority Designation"** is:
+
+**Propose Priority Designation**
+
+This is shown by the downward arrow connecting the "Initiate Priority Designation" box to the "Propose Priority Designation" box.
+
+---
+
+**Full sequence from that point:**
+1. Initiate Priority Designation
+2. → Propose Priority Designation
+3. → Finalize Priority Designation
+4. → Then branches into:
+   - High Priority → Risk Evaluation
+   - Low Priority → Subject to Judicial Review
+
+So, the immediate next step is **Propose Priority Designation**.

@@ -1,0 +1,66 @@
+```latex
+\[
+\begin{array}{l}
+(1)\ (10\ \text{pts.})\ \text{Classify the differential equations below by completing}\\
+\text{the table. Put } V \text{ in a cell if and only if the equation to the left}\\
+\text{is of the type above. In the column OR indicate the ORDER of}\\
+\text{the corresponding equation. The first row is filled as an example}\\
+\text{for you. You do NOT need to show any work here.}
+\end{array}
+\]
+
+\[
+\text{O -- Ordinary; P -- Partial; S -- Separable; L -- Linear;}
+\]
+\[
+\text{H -- Homogeneous; B -- Bernoulli.}
+\]
+
+\[
+\begin{array}{|c|c|c|c|c|c|c|c|}
+\hline
+\text{Equation} & O & P & S & L & H & B & OR \\
+\hline
+\dfrac{\partial^2 u}{\partial x^2}+\dfrac{\partial^2 u}{\partial y^2}=0
+& & V & & V & & & 2 \\
+\hline
+x^3y' + xy = y^2
+& & & & & & & \\
+\hline
+2xdy + 5ydx = 0
+& & & & & & & \\
+\hline
+y' + (\ln x)y'' = e^x
+& & & & & & & \\
+\hline
+\sin\left(\dfrac{\partial^3 u}{\partial x \partial y \partial z}\right)=z
+& & & & & & & \\
+\hline
+(y')^2 = y + x + 5
+& & & & & & & \\
+\hline
+\end{array}
+\]
+
+\[
+\begin{array}{l}
+(2)\ (20\ \text{pts.})\ \text{Consider the DE } yy'=(x-1)^2.\\
+\quad (a)\ \text{Without solving the equation, show that}
+\end{array}
+\]
+
+\[
+y^2(x)=\frac{2}{3}(x-1)^3+C
+\]
+
+\[
+\begin{array}{l}
+\quad\quad \text{is a solution of the DE for every } C\in\mathbb{R}.\\
+\quad (b)\ \text{Find a constant } C \text{ satisfying the initial condition } y(2)=0.\\
+\quad (c)\ \text{Does the theorem in Section 1.3 guarantee uniqueness of}\\
+\quad\quad \text{solution satisfying the initial condition } y(1)=0?\ \text{Explain.}\\
+\quad\quad \text{For extra credit, find all solutions that satisfy this condition.}\\
+\quad (d)\ \text{What if the initial condition is } y(1)=1?
+\end{array}
+\]
+```

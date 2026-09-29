@@ -1,0 +1,30 @@
+<table border="1">
+  <tr>
+    <td>图号</td><td>代号</td><td>版本</td><td>名称</td><td>序号</td><td>数量</td><td>单位</td><td>材料<br>标准/规范</td><td>单重<br>(kg)</td><td>对应代号</td><td>备注</td>
+  </tr>
+  <tr><td>11</td><td>JA00006710G00<br>JA00006710G00</td><td>B</td><td>设备安装板7组成</td><td>11</td><td>1</td><td>PC</td><td></td><td>4.47</td><td></td><td>借用</td></tr>
+  <tr><td>12</td><td>AJA1005218G030<br>AJA1005218</td><td>A</td><td>元件标签</td><td>12</td><td>1</td><td>PC</td><td>0.3不干胶PVC</td><td>1.51</td><td></td><td></td></tr>
+  <tr><td>13</td><td>JA00006818G00<br>JA00006818G00</td><td>A</td><td>接地表</td><td>13</td><td>1</td><td>PC</td><td></td><td>0.3</td><td></td><td>借用</td></tr>
+  <tr><td>14</td><td>JA00006816G00<br>JA00006816G00</td><td>B</td><td>第三方设备柜布线示意图</td><td>14</td><td>1</td><td>PC</td><td></td><td>7.45</td><td></td><td>借用</td></tr>
+  <tr><td>15</td><td>JA00006717G00<br>JA00006717G00</td><td>A</td><td>右侧导槽组焊</td><td>15</td><td>6</td><td>PC</td><td></td><td>1.261</td><td></td><td>借用</td></tr>
+  <tr><td>16</td><td>2821008935</td><td>A</td><td>六角螺母M6</td><td>16</td><td>18</td><td>PC</td><td>8<br>ISO 4032-2012</td><td>0.003</td><td></td><td></td></tr>
+  <tr><td>17</td><td>2841008026</td><td>A</td><td>平垫圈6</td><td>17</td><td>18</td><td>PC</td><td>200HV-A2<br>ISO 7089-2000</td><td>0.001</td><td></td><td></td></tr>
+  <tr><td>18</td><td>2840000050</td><td>A</td><td>弹簧垫圈6</td><td>18</td><td>18</td><td>PC</td><td>65Mn<br>GB/T 93-1987</td><td>0.001</td><td></td><td></td></tr>
+  <tr><td>19</td><td>2813007688</td><td>A</td><td>内六角圆柱头螺钉 M5×25</td><td>19</td><td>12</td><td>PC</td><td>8.8<br>ISO 4762-1997</td><td>0.001</td><td></td><td></td></tr>
+  <tr><td>20</td><td>1600001251</td><td>A</td><td>德邦胶</td><td>20</td><td>0.00500</td><td>kg</td><td>2243 50ml<br>Q/DBD001-2004</td><td>1.0</td><td></td><td></td></tr>
+</table>
+
+<table border="1">
+  <tr>
+    <td>标记</td><td>更改文件号</td><td>签字</td><td>日期</td><td>设计</td><td>范志峰</td><td>2014-12-12</td><td>明细表</td><td colspan="2">第三方设备柜组成</td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td><td></td><td>主管设计</td><td>范志峰</td><td>2014-12-12</td><td>160KM客运车</td><td>YHAJA1005077G020</td><td rowspan="2">A</td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="2">中车株洲电力机车有限公司</td><td>YHAJA1005077</td>
+  </tr>
+  <tr>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">共3页　第2页</td>
+  </tr>
+</table>

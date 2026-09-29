@@ -1,0 +1,92 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Prerana Model paper-1 \quad MCQ questions \quad click the correct one}
+\end{center}
+
+\vspace{1em}
+
+\begin{enumerate}
+    \item Sum of ``n'' terms of the Arithmetic Progression $1+3+5+7+9+\dots$ which one is correct
+    \begin{tabular}{llll}
+        A) $n(n+1)$ & B) $n^2$ & C) 25 & D) $2n$
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item Solutions of the equation $a_1x + b_1y + c_1 = 0$ and $a_2x + b_2y + c_2 = 0$ are consistent then the correct form among the following is.
+    \begin{tabular}{llll}
+        A) $\frac{a_1}{a_2} \neq \frac{b_1}{b_2}$ & B) $\frac{a_1}{a_2} = \frac{b_1}{b_2}$ & C) $\frac{a_1}{b_1} = \frac{a_2}{b_2} = \frac{c_2}{c_1}$ & D) $\frac{a_1}{a_2} = \frac{b_1}{b_2} \neq \frac{c_1}{c_2}$
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item In a quadratic equation the value of the discriminant is -33 then the equation has
+    \begin{tabular}{ll}
+        A) Real \& distinct roots & B) Real \& equal roots \\
+        C) not real roots & D) rational and distinct roots.
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item If $\tan A = 1$ then the value A is
+    \begin{tabular}{llll}
+        A) $90^\circ$ & B) $0^\circ$ & C) $60^\circ$ & D) $45^\circ$
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item When a cone is cut by a plane horizontally, parallel to base of the cone then the part other than smaller cone obtained is called.
+    \begin{tabular}{llll}
+        A) Frustum of cone & B) cylinder & C) major cone & D) Hemisphere
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item Formula used to find volume of right circular cylinder is
+    \begin{tabular}{llll}
+        A) $\pi r h^2$ & B) $\frac{2}{3}\pi r^2 h$ & C) $\frac{1}{3}\pi r^2 h$ & D) $\pi r^2 h$
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item The coordinates of the midpoint of the line joining the points (3,7) and (5,5) is
+    \begin{tabular}{llll}
+        A) (4,6) & B) (6,4) & C) (2,-2) & D) (4,4)
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item Roots of the quadratic equation $(2x + 1)(x + 2) = 0$ are
+    \begin{tabular}{llll}
+        A) $\frac{1}{2}$ and 2 & B) $\frac{-1}{2}$ and -2 & C) $\frac{-1}{2}$ and 2 & D) $\frac{1}{2}$ and -2
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item $2x^2+3x-5=0$ Discriminant value of this quadratic equation?
+    \begin{tabular}{llll}
+        A) 19 & B) -49 & C) -31 & D) 49
+    \end{tabular}
+
+    \vspace{1em}
+
+    \item AR, AD, AB, AP \& PC are the tangents of the circle of centre O. which relations is correct?
+    \begin{tabular}{llll}
+        A) AP=AR & B) AR = RD & C) RA = PC & D) RA = RB
+    \end{tabular}
+\end{enumerate}
+
+\vspace{2em}
+
+\noindent SUDEESHA BC MYSURU \hfill LIVEWORKSHEETS
+
+\end{document}
+```

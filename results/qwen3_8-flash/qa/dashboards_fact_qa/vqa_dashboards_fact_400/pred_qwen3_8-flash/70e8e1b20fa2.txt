@@ -1,0 +1,33 @@
+Looking at the **“Heavy Hitters”** section of the infographic, which shows **Paid versus Free Apps in Store** for three major app stores:
+
+- **Apple App Store for iPhone**:  
+  - Paid apps: **71%**  
+  - Free apps: **29%**
+
+- **Google Android Market**:  
+  - Paid apps: **41%**  
+  - Free apps: **60%**
+
+> ⚠️ Note: The percentages shown are *not* complementary to 100% — for example, on iPhone it’s 71% paid + 29% free = 100%, but on Android it’s 41% paid + 60% free = **101%**. This is likely a rounding or data inconsistency in the original infographic. However, since the question asks for “free apps in the iPhone and android store, taken together”, we’ll use the values as presented.
+
+---
+
+### Step-by-step calculation:
+
+We are to find the **combined percentage of free apps** across **iPhone and Android**, assuming equal weight (since no other weighting is given).
+
+So:
+
+> **(Free % on iPhone + Free % on Android) / 2**
+
+= **(29% + 60%) / 2**
+
+= **89% / 2**
+
+= **44.5%**
+
+---
+
+✅ **Final Answer: `44.5%`**
+
+*(Note: If you interpret “taken together” as total free apps out of total apps across both stores, you’d need actual counts — but those aren’t provided here. Since only percentages per store are given, averaging them is the most reasonable interpretation.)*

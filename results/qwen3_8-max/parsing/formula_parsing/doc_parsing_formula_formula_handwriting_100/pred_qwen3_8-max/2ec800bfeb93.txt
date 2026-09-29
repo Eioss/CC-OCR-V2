@@ -1,0 +1,21 @@
+ $$\int _ { B ( 0 , R ) \setminus B ( R ) } \nabla v \nabla \varphi _ { \alpha } d v _ { g _ { \alpha } } \leq C \| \varphi \| _ { H _ { 1 } ^ { 2 } ( M ) } \left( \int _ { B ( x _ { 0 } , R ) \setminus B ( R ) } | \nabla v | ^ { 2 } d x \right) ^ { \frac { 1 } { 2 } }$$
+
+ $$= O ( \| \varphi \| _ { H _ { 1 } ^ { 2 } ( M ) } ) \varepsilon ( R ) ,$$
+
+ $$K _ { Y } ^ { [ 1 ] } ( u ) = \begin{cases} K _ { X } ^ { [ 1 ] } ( u ) , & \text{if } u \notin ( u _ { a } , u _ { b } ) , \\ ( a ( u - u _ { a } ) + K _ { X } ^ { [ 1 ] } ( u _ { a } ) ) \lor ( b ( u - u _ { b } ) + K _ { X } ^ { [ 1 ] } ( u _ { b } ) ) , & \text{if } u \in ( u _ { a } , u _ { b } ) . \end{cases}$$
+
+ $$f ( x ) + f ( y ) = f ( p ( x ) ) + f ( p ( y ) ) \geq f ( p ( x ) \rightarrow p ( y ) ) + f ( p ( y ) \rightarrow p ( x ) ) =$$
+
+ $$f ( p ( x \rightarrow y ) ) + f ( p ( y \rightarrow x ) ) = f ( x \rightarrow y ) + f ( y \rightarrow x )$$
+
+ $$- q h ^ { \prime \prime } \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) + W ^ { \prime \prime } \Bigl ( q \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) \Bigr ) - 6 \Bigl ( q \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) - q \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) ^ { 2 } \Bigr ) \Delta d ( x )$$
+
+ $$+ 3 0 \Bigl ( q \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) - q \Bigl ( \frac { d ( x ) } { \epsilon \beta _ { 3 } } \Bigr ) ^ { 2 } \Bigr ) ^ { 2 } \lambda _ { 0 } = 0 .$$
+
+ $$\varepsilon _ { n } ( \omega ) = F _ { \omega } n , \quad n = 0 , 1 , 2 , \ldots .$$
+
+ $$P [ r ( m _ { 1 } ) , P ( m _ { 2 } ) ] = [ r ( m _ { 1 } ) , P ( m _ { 2 } ) ] \neq 0 ,$$
+
+ $$v ( t , x , p ) \approx 1 , \quad \mathrm { a n d } \quad | D _ { p } ^ { \zeta } v ( t , x , p ) | \lesssim ( p ^ { 0 } ) ^ { - 1 } , \; \; | p | > 0 .$$
+
+ $$\underbrace { ( i \omega \cdot l - ( d _ { t } ( \omega , i ) - d _ { t } ( \omega , k ) ) ) } _ { = : \delta _ { i , j , k } ( \omega ) } \Psi _ { j } ^ { k } ( l ) + \mathcal { R } _ { j } ^ { k } ( l ) = ( [ R ] ) _ { j } ^ { k } ( l ) .$$

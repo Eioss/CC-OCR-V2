@@ -1,0 +1,49 @@
+Based on the infographic, let's count the routes that are marked as **Dog Friendly? YES**.
+
+We’ll go section by section:
+
+---
+
+### **Short Routes**
+
+1. **Great Western Greenway** – Dog Friendly? **YES**
+2. **Gap of Dunloe & Black Valley Cycle** – Dog Friendly? **NO**
+3. **Inishmór Entire Island Cycle** – Dog Friendly? **NO**
+4. **Loop Head Heritage Trail** – Dog Friendly? **NO**
+
+→ **1 dog-friendly route here**
+
+---
+
+### **Long Routes**
+
+5. **Ring of the Reeks Cycle** – Dog Friendly? **NO**
+6. **Burren Cycling Route, Long Loop** – Dog Friendly? **NO**
+7. **Inishowen Scenic Cycle** – Dog Friendly? **NO**
+8. **Ring of Kerry Scenic Cycle** – Dog Friendly? **YES**
+
+→ **1 dog-friendly route here**
+
+---
+
+### **Very Long Routes**
+
+9. **Kingfisher Cycling Trail** – Dog Friendly? **YES**
+10. **Wild Atlantic Way Route Map and Guide** – Dog Friendly? **YES**
+
+→ **2 dog-friendly routes here**
+
+---
+
+### ✅ Total Dog-Friendly Routes:
+
+- Great Western Greenway
+- Ring of Kerry Scenic Cycle
+- Kingfisher Cycling Trail
+- Wild Atlantic Way Route Map and Guide
+
+That’s **4 routes** total.
+
+---
+
+**Final Answer: `4`**

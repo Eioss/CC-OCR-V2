@@ -1,0 +1,116 @@
+```html
+<html><body>
+<table border="1" data-bbox="0 0 999 996">
+<tr>
+<th>Attribute</th>
+<th>Method</th>
+<th>Generation Results</th>
+</tr>
+<tr>
+<td rowspan="5">Negative<br/>Sentiment</td>
+<td>Finetune</td>
+<td>Once upon a time, I was very disappointed. The meat was bland and the beans tasted as if they had been sitting out all day...</td>
+</tr>
+<tr>
+<td>Adapter</td>
+<td>Once upon a time in the restaurant it was still dark and people weren't even talking...</td>
+</tr>
+<tr>
+<td>PPLM</td>
+<td>Once upon a time, computers would have been able read, interpret and write, and listen, listen and read...</td>
+</tr>
+<tr>
+<td>GeDi</td>
+<td>Once upon a time you either enter base build states or begin switching context switches and magic spells that alter your manifest...</td>
+</tr>
+<tr>
+<td>TailorSingle</td>
+<td>Once upon a time, you had to order your dinner. the food came out cold with no seasoning or flavor whatsoever ...</td>
+</tr>
+<tr>
+<td rowspan="5">Positive<br/>Sentiment</td>
+<td>Finetune</td>
+<td>Once upon a time they were busy but the food was amazing and service fast. highly recommend for date night / evening out...</td>
+</tr>
+<tr>
+<td>Adapter</td>
+<td>Once upon a time I'd like to visit the city of lg, it was atlas! great food and amazing bartenders...</td>
+</tr>
+<tr>
+<td>PPLM</td>
+<td>Once upon a time in the world in which a great deal of the work was done with the work was done in the world in the most...</td>
+</tr>
+<tr>
+<td>GeDi</td>
+<td>Once upon a time, mankind thought of themselves as merciful, enlightened princes, with loving hearts. That prosperity and flourishing...</td>
+</tr>
+<tr>
+<td>TailorSingle</td>
+<td>Once upon a time, I was so excited to have my friends and family there that we wanted our food. the staff is great ! they make us feel at home when...</td>
+</tr>
+<tr>
+<td rowspan="5">Mexican<br/>Food</td>
+<td>Finetune</td>
+<td>Once upon a time I had the carne asada burritos, they looked great. my wife's quesadilla was the only thing that she liked...</td>
+</tr>
+<tr>
+<td>Adapter</td>
+<td>Once upon a time in my family I ordered the taco and they came out with two different varieties of beans. when it was finished we were asked...</td>
+</tr>
+<tr>
+<td>PPLM</td>
+<td>Once upon a time the user would use a calculator to get a price for the price of the goods that...</td>
+</tr>
+<tr>
+<td>GeDi</td>
+<td>Once upon a time Mexico had started guacamole called empty beans and children with Luis María de Leonos. Juan said he didn't tell a Hispanic what he did.</td>
+</tr>
+<tr>
+<td>TailorSingle</td>
+<td>Once upon a time I was in the area and had one of these burritos that were so delicious. we ordered them for...</td>
+</tr>
+<tr>
+<td rowspan="5">American<br/>Food</td>
+<td>Finetune</td>
+<td>Once upon a time I was eating my burger, the server looked at me and said something to him "you have no idea how bad that is...</td>
+</tr>
+<tr>
+<td>Adapter</td>
+<td>Once upon a time, I ordered the lobster bbq and we both got no meat. our server had been on call for over an hour before she left after talking to us again...</td>
+</tr>
+<tr>
+<td>PPLM</td>
+<td>Once upon a time there were some people who used the same the machines as they could be to get their hands on and get the best results...</td>
+</tr>
+<tr>
+<td>GeDi</td>
+<td>Once upon a time turkey sandwiches turned Uhhh ... majestic, religious grunge, weened suburban ham sandwich — Americans applaud! Dove Bruffer » Briggs atte...</td>
+</tr>
+<tr>
+<td>TailorSingle</td>
+<td>Once upon a time I'd go to the bbq and it was pretty empty. my friend had our burger, which we ordered with fries but not in advance of eating at dinner...</td>
+</tr>
+<tr>
+<td rowspan="5">Asian<br/>Food</td>
+<td>Finetune</td>
+<td>Once upon a time I've had the spicy tofu dish, but that was my only meal. It came out cold and tasted awful...</td>
+</tr>
+<tr>
+<td>Adapter</td>
+<td>Once upon a time I was craving something spicy, it tasted like the best Chinese food out there...</td>
+</tr>
+<tr>
+<td>PPLM</td>
+<td>Once upon a time I made a stone of silver ring mail "Garden of the Winds Winds"...</td>
+</tr>
+<tr>
+<td>GeDi</td>
+<td>Once upon a time bamboo noodles were the classical medicine and lemongrass fetish...</td>
+</tr>
+<tr>
+<td>TailorSingle</td>
+<td>Once upon a time, I got here for the sushi roll. After getting home from work at 4pm and finding...</td>
+</tr>
+</table>
+</body></html>
+```

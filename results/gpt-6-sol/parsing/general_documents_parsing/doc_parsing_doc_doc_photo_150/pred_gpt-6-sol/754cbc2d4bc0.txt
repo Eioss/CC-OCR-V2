@@ -1,0 +1,104 @@
+```latex
+\text{TRIGONOMETRY}
+
+\begin{aligned}
+\sin(A+B) &= \sin A\cdot\cos B+\cos A\cdot\sin B\\
+\sin(A-B) &= \sin A\cdot\cos B-\cos A\cdot\sin B\\
+\cos(A+B) &= \cos A\cdot\cos B-\sin A\cdot\sin B\\
+\cos(A-B) &= \cos A\cdot\cos B+\sin A\cdot\sin B\\
+\tan(A+B) &= \frac{\tan A+\tan B}{1-\tan A\tan B}\\
+\tan(A-B) &= \frac{\tan A-\tan B}{1+\tan A\cdot\tan B}\\
+\cot(A+B) &= \frac{\cot B\cdot\cot A-1}{\cot B+\cot A}\\
+\cot(A-B) &= \frac{\cot B\cdot\cot A+1}{\cot B-\cot A}
+\end{aligned}
+
+\begin{aligned}
+\text{odd }F(x)&\Rightarrow F(-x)=-F(x)\\
+\text{Even }F(x)&\Rightarrow F(-x)=+F(x)
+\end{aligned}
+\qquad
+\begin{aligned}
+\cos(-x)&=\cos x & \sec(-x)&=\sec x\\
+\sin(-x)&=-\sin x & \operatorname{cosec}(-x)&=-\operatorname{cosec}x\\
+\tan(-x)&=-\tan x & \cot(-x)&=-\cot x
+\end{aligned}
+
+\begin{aligned}
+2\sin A\cdot\cos B &= \sin(A+B)+\sin(A-B)\\
+2\cos A\cdot\sin B &= \sin(A+B)-\sin(A-B)\\
+2\cos A\cdot\cos B &= \cos(A+B)+\cos(A-B)\\
+-2\sin A\cdot\sin B &= \cos(A+B)-\cos(A-B)\\
+\sin(A+B)\cdot\sin(A-B) &= \sin^{2}A-\sin^{2}B\\
+\cos(A+B)\cdot\cos(A-B) &= \cos^{2}A-\sin^{2}B
+\end{aligned}
+
+\begin{aligned}
+\sin C+\sin D
+  &=2\sin\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)\\
+\sin C-\sin D
+  &=2\cos\left(\frac{C+D}{2}\right)\sin\left(\frac{C-D}{2}\right)\\
+\cos C+\cos D
+  &=2\cos\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)\\
+\cos C-\cos D
+  &=-2\sin\left(\frac{C+D}{2}\right)\sin\left(\frac{C-D}{2}\right)\\
+  &=2\sin\left(\frac{C+D}{2}\right)\sin\left(\frac{D-C}{2}\right)
+\end{aligned}
+
+\boxed{\begin{aligned}
+\sin^{2}\theta+\cos^{2}\theta&=1\\
+\sec^{2}\theta-\tan^{2}\theta&=1\\
+\operatorname{cosec}^{2}\theta-\cot^{2}\theta&=1
+\end{aligned}}
+\qquad
+\boxed{\begin{aligned}
+1+\cos 2x&=2\cos^{2}x\\
+1-\cos 2x&=2\sin^{2}x\\
+\tan x&=\frac{1-\cos 2x}{\sin 2x}
+\end{aligned}}
+
+\begin{aligned}
+\sin 2x
+  &=2\sin x\cdot\cos x
+   =\frac{2\tan x}{1+\tan^{2}x}\\
+\cos 2x
+  &=\cos^{2}x-\sin^{2}x
+   =2\cos^{2}x-1\\
+  &=1-2\sin^{2}x
+   =\frac{1-\tan^{2}x}{1+\tan^{2}x}\\
+\tan 2x
+  &=\frac{2\tan x}{1-\tan^{2}x}\\
+\sin 3x
+  &=3\sin x-4\sin^{3}x\\
+\cos 3x
+  &=4\cos^{3}x-3\cos x\\
+\tan 3x
+  &=\frac{3\tan x-\tan^{3}x}{1-3\tan^{2}x}
+\end{aligned}
+
+\text{General solution of trigonometry}
+
+\begin{aligned}
+\sin x=0 &\Rightarrow x=n\pi\\
+\cos x=0 &\Rightarrow x=\frac{(2n+1)\pi}{2}\\
+\tan x=0 &\Rightarrow x=n\pi\\
+\sin x=\sin y &\Rightarrow x=n\pi+(-1)^{n}\cdot y\\
+\cos x=\cos y &\Rightarrow x=2n\pi\pm y\\
+\tan x=\tan y &\Rightarrow x=n\pi+y\\
+\left.
+\begin{aligned}
+\sin^{2}x&=\sin^{2}y\\
+\cos^{2}x&=\cos^{2}y\\
+\tan^{2}x&=\tan^{2}y
+\end{aligned}
+\right\}
+&\Rightarrow x=n\pi\pm y
+\end{aligned}
+\qquad \boxed{n\in\mathbb{Z}}
+
+a\sin x+b\cos x
+\quad\longrightarrow\quad
+\begin{aligned}
+\text{Max. Value}&=+\sqrt{a^{2}+b^{2}}\\
+\text{Min. Value}&=-\sqrt{a^{2}+b^{2}}
+\end{aligned}
+```

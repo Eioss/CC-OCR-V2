@@ -1,0 +1,13 @@
+$$E\left[\int_0^1 |V(T^{-1}r)_t|^2_R dt\right] = E\left[\int_0^1 |V(r)_t|^2_R dt \, \varphi\right]$$
+
+$$\leq E\left[\exp\left\{\int_0^1 |V(r)_t|^2_R dt\right\} \varphi\right] = E\left[\frac{1}{\varphi^2}\right] < \infty$$
+
+$$= \sum_{x \in N_u} (2\nu_x(x) + 2\nu_e(x)) + \sum_{x \in N_V} 2\nu_b(x)$$
+
+$$\sum_{t=1}^h \hat{\ell}_t^T w_t - \sum_{t=1}^T \hat{\ell}_t^T u \leq D_h(u, w_t) + \sum_{t=1}^h \sum_d \frac{\hat{\ell}_{e,t}^2}{2(\psi-1)'(w_{e,t})}.$$
+
+$$C^h(D) := \left\{f \in C(D) \, \big| \, \|f\|_{C^h(D)} < \infty\right\},$$
+
+$$\|(1+|x|) L_v + (d-1) v\|_{L^2} + \|(1-|x|) \underline{L} v + (d-1) v\|_{L^2} \lesssim \mathcal{E}(t)^{1/2},$$
+
+$$\left|\int_{|x| \leq |t|} \leq \pi \, L_h(x) \, d\varphi_e(t)\right| \leq C \left(\int_{|x| \leq |t|} \leq \pi \frac{|d\varphi_e(t)|}{t^2} + \int_{|x| \leq |t|} \frac{|d\varphi(t)|}{t^2 t^3} + \int_{|x| \leq |t|} \frac{|d\varphi_e(t)|}{t^2 t^2}\right)$$

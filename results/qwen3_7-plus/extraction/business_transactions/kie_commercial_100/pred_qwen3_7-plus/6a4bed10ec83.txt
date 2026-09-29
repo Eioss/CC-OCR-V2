@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "11/12/2001",
+    "customer_order_id": "192P082-1 2-KAP901",
+    "vendor_name": "STANFORD UNIVERSITY",
+    "vendor_address": "Office of Research Administration Office of Sponsored Research",
+    "vendor_tax_id": "94-1156365",
+    "customer_billing_name": "PHILIP MORRIS EXTERNAL RESEARCH PROGRAM RESEARCH MANAGEMENT GROUP",
+    "customer_billing_address": "1099 WINTERSON RD, SUITE 280 LINTHICUM HEIGHTS, MD 21090",
+    "amount_total_gross": "$60,498.22",
+    "amount_due": "$60,498.22",
+    "account_num": "8001-047349",
+    "bank_num": "121000248"
+}
+```

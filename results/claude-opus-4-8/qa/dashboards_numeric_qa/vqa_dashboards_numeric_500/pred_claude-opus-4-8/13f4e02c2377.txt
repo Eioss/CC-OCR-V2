@@ -1,0 +1,8 @@
+Based on the flowchart, if it is **before 10:30 AM** and you are **not a police officer**, you should eat at **McDonald's**! 🍟
+
+Here's the path:
+- Are you in Canada? → **No**
+- Is it before 10:30 AM? → **Yes**
+- Are you a police officer? → **No** → **McDonald's**
+
+(If you *were* a police officer, the chart humorously directs you to Dunkin' Donuts instead.)

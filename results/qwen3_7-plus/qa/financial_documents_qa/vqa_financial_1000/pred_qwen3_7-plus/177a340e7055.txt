@@ -1,0 +1,11 @@
+Based on the invoice provided, the **VAT Rate** is listed as:
+
+> **0.00**
+
+This is shown in the bottom-left table under the column labeled **“VAT RATE”**, corresponding to the goods total of £1654.42.
+
+Additionally, the “INVOICE VAT” field in the bottom-right summary also shows **0.00**, confirming that no VAT was charged on this transaction.
+
+---
+
+✅ **Final Answer: 0.00**

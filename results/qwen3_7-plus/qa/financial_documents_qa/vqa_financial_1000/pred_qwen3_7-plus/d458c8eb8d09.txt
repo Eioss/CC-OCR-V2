@@ -1,0 +1,15 @@
+The **Est Cost for Available Qty** is **128,438.02**.
+
+This value appears in the summary row under the "AVAILABLE QTY" column, aligned with the "EST COST:" label.
+
+---
+
+### Breakdown from the image:
+
+- **ORDER TOTAL EST COST**: 160,727.22  
+- **AVAILABLE QTY EST COST**: **128,438.02** ← this is what you asked for  
+- **BO QTY EST COST**: 32,289.20  
+
+These values correspond to the cost allocation based on quantity status (available vs. backordered).
+
+✅ So, the answer is: **128438.02**

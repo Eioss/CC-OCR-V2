@@ -1,0 +1,107 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 8px 12px;
+        text-align: left;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="4"><b>Topic: Will artificial intelligence replace humans</b></th>
+   </tr>
+   <tr>
+    <th></th>
+    <th>Claim</th>
+    <th>Stance</th>
+    <th>Evidence</th>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td>Job opportunities will grow with the advent of AI; however, some jobs might be lost because AI would replace them.</td>
+    <td>C_1</td>
+    <td>+1</td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>Any job that involves repetitive tasks is at risk of being replaced.</td>
+    <td>C_2</td>
+    <td>+1</td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>In 2017, Gartner predicted 500,000 jobs would be created because of AI, but also predicted that up to 900,000 jobs could be lost because of it.</td>
+    <td></td>
+    <td>E_1 / E_2</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>The number of industrial robots has increased significantly since the 2000s.</td>
+    <td></td>
+    <td>E_3</td>
+   </tr>
+   <tr>
+    <td>5</td>
+    <td>The low operating costs of robots make them competitive with human workers.</td>
+    <td></td>
+    <td>E_3</td>
+   </tr>
+   <tr>
+    <td>6</td>
+    <td>In the finance sector, computer algorithms can execute stock trades much faster than a human, needing only a fraction of a second.</td>
+    <td></td>
+    <td>E_3</td>
+   </tr>
+   <tr>
+    <td>7</td>
+    <td>As these technologies become cheaper and more accessible, they will be implemented more widely, and humans might be increasingly replaced by AI.</td>
+    <td>C_3</td>
+    <td>+1</td>
+   </tr>
+   <tr>
+    <td>8</td>
+    <td>According to Harvard Business Review, most operations groups adopting RPA have promised their employees that automation would not result in layoffs.</td>
+    <td>C_4</td>
+    <td>-1</td>
+   </tr>
+   <tr>
+    <td>9</td>
+    <td>AI is incredibly smart, but it will never match human creativity.</td>
+    <td>C_5</td>
+    <td>-1</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

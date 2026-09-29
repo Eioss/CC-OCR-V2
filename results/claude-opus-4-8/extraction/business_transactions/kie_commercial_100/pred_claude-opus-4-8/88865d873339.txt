@@ -1,0 +1,3 @@
+```json
+{"date_issue": "6/18/99", "order_id": "N41198", "vendor_address": "901 West Bond St., Lincoln, NE 68521", "vendor_name": "Experian", "vendor_tax_id": "13-3015410", "customer_id": "587876", "customer_billing_name": "LORILLARD TOBACCO COMPANY", "customer_billing_address": "714 GREEN VALLEY RD GREENSBORO NC 27408", "customer_delivery_name": "MARIA HOWE", "customer_delivery_address": "EPSILON 50 CAMBRIDGE ST BURLINGTON MA 01803", "amount_total_gross": "3490.60", "amount_due": "3490.60", "payment_terms": "NET 30 DAYS"}
+```

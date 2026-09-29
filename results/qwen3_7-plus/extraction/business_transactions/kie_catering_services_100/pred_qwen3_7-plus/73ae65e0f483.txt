@@ -1,0 +1,21 @@
+```json
+{
+    "menu": [
+        {
+            "name": "0571-1854 BLUS WANITA",
+            "num": "1",
+            "unit_price": "@120,000",
+            "tax_rate": "0%",
+            "total_price": "120,000"
+        },
+        {
+            "name": "1002-0060 SHOPPING BAG",
+            "num": "1",
+            "unit_price": "@880",
+            "tax_rate": "100%",
+            "total_price": "0"
+        }
+    ],
+    "total": "120,000"
+}
+```

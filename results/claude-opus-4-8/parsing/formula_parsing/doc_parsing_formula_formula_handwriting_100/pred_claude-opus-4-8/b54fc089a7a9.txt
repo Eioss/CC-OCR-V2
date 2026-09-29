@@ -1,0 +1,13 @@
+$$A = \begin{pmatrix} -z- \\ \vdots \\ -z_{\omega}- \end{pmatrix}.$$
+
+$$\frac{1}{NW} \sum_{n=1}^{NW} \lambda \ln \left| e(\log(n)\lambda) - \frac{1}{\Phi(W)} \sum_{Y \in R(W)} \frac{1}{N} \sum_{n=1}^{N} e(\log(W)n + r)\lambda) \right| < \epsilon.$$
+
+$$\min_{1 \leq j \leq n} \lambda_1(F_{(j)}) \geq \max_{1 \leq j \leq n} \tilde{N}^{-1} \|\tilde{y}_j\|^2$$
+
+$$(X \circ Y)(n) = \bigvee_{d} X(d) \wedge \Sigma_d \left( \bigvee_{\varphi: n \to d} Y(n_1(\Phi)) \wedge \cdots \wedge Y(n_d(\Phi)) \right).$$
+
+$$\frac{1}{N} z_j^* \left( \frac{1}{n} \sum_{i \neq j} y(\tau_i, \varphi) z_i z_i^* \right)^{-1} z_j < 1$$
+
+$$\Psi_r(x; k) = x + \int_0^r u_k(u) du + E(x; k),$$
+
+$$I_{\mu} + I_t \leq (\delta + \beta) \tilde{K}_{\mu} \epsilon^{1 - \frac{\gamma}{2}} d\beta.$$

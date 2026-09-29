@@ -1,0 +1,127 @@
+```latex
+\[
+\begin{array}{c|ccccc}
+A & 1 & 8 & 9 & 16 & \cdots \\
+B & 2 & 7 & 10 & 15 & \cdots \\
+C & 3 & 6 & 11 & 14 & \cdots \\
+D & 4 & 5 & 12 & 13 & \cdots
+\end{array}
+\]
+
+7. In which row is the number 600?
+
+\[
+\begin{array}{llll}
+(1)\ \text{1st row} & (2)\ \text{2nd row} & (3)\ \text{3rd row} & (4)\ \text{4th row}
+\end{array}
+\]
+
+8. How many columns are there in Row A if 200 is the last number?
+
+\[
+\begin{array}{llll}
+(1)\ 48 & (2)\ 50 & (3)\ 52 & (4)\ 54
+\end{array}
+\]
+
+9. Compute the following.
+
+\[
+37 + 397 + 3997 + 39\ 997
+\]
+
+\[
+\begin{array}{llll}
+(1)\ 42\ 284 & (2)\ 42\ 482 & (3)\ 44\ 248 & (4)\ 44\ 428
+\end{array}
+\]
+
+10. Compute the following.
+
+\[
+298 + 2998 + 29\ 998 + 299\ 998
+\]
+
+\[
+\begin{array}{llll}
+(1)\ 333\ 292 & (2)\ 334\ 222 & (3)\ 334\ 292 & (4)\ 335\ 222
+\end{array}
+\]
+
+11. Compute the following.
+
+\[
+9 + 99 + 999 + 9999 + 99\ 999
+\]
+
+\[
+\begin{array}{llll}
+(1)\ 110\ 215 & (2)\ 110\ 745 & (3)\ 110\ 995 & (4)\ 111\ 105
+\end{array}
+\]
+
+12. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens  
+does the farmer have? How many rabbits does the farmer have?
+
+\[
+\begin{array}{llll}
+(1)\ 24 & (2)\ 25 & (3)\ 26 & (4)\ 27
+\end{array}
+\]
+
+13. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs  
+altogether. How many spiders are there? How many dragonflies are there?
+
+\[
+\begin{array}{llll}
+(1)\ 10 & (2)\ 11 & (3)\ 12 & (4)\ 13
+\end{array}
+\]
+
+14. Find the values of A and B in the following.
+
+\[
+\begin{tikzpicture}[scale=0.9]
+% First triangle
+\draw (0,0) -- (2,0) -- (1,2.8) -- cycle;
+\draw (0.45,1.25) -- (1.55,1.25);
+\draw (0.45,1.25) -- (1,0);
+\draw (1.55,1.25) -- (1,0);
+\node at (1,1.85) {$18$};
+\node at (1,0.75) {$10$};
+\node at (0.55,0.35) {$12$};
+\node at (1.45,0.35) {$16$};
+
+% Second triangle
+\begin{scope}[xshift=3.5cm]
+\draw (0,0) -- (2,0) -- (1,2.8) -- cycle;
+\draw (0.45,1.25) -- (1.55,1.25);
+\draw (0.45,1.25) -- (1,0);
+\draw (1.55,1.25) -- (1,0);
+\node at (1,1.85) {$34$};
+\node at (1,0.75) {$A$};
+\node at (0.55,0.35) {$25$};
+\node at (1.45,0.35) {$15$};
+\end{scope}
+
+% Third triangle
+\begin{scope}[xshift=7cm]
+\draw (0,0) -- (2,0) -- (1,2.8) -- cycle;
+\draw (0.45,1.25) -- (1.55,1.25);
+\draw (0.45,1.25) -- (1,0);
+\draw (1.55,1.25) -- (1,0);
+\node at (1,1.85) {$20$};
+\node at (1,0.75) {$22$};
+\node at (0.55,0.35) {$B$};
+\node at (1.45,0.35) {$18$};
+\end{scope}
+\end{tikzpicture}
+\]
+
+\[
+\begin{array}{ll}
+(1)\ A = 6,\ B = 18 & (3)\ A = 8,\ B = 20 \\
+(2)\ A = 6,\ B = 24 & (4)\ A = 8,\ B = 22
+\end{array}
+\]
+```

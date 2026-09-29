@@ -1,0 +1,13 @@
+Based on the Learning Curve section of the infographic, among the three platforms you mentioned:
+
+**Windows Mobile** takes the longest time to master.
+
+Looking at the learning curve bar chart, the platforms are ranked from easiest to hardest, with the bars getting progressively longer. The order shown is:
+- Android (easiest, ~5 months)
+- iPhone
+- Java ME
+- Windows Mobile
+- BlackBerry
+- Symbian (hardest, ~15 months)
+
+So between iPhone, Java ME, and Windows Mobile, **Windows Mobile** has the longest learning curve and takes the most time to master.

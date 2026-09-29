@@ -1,0 +1,9 @@
+Based on the infographic, under the "Go-to-market" section, there is a donut chart for **Java ME**.
+
+Looking at the legend and the segments of the Java ME chart:
+- The green segment represents **App Store** (26%).
+- The orange segment represents **Website** (47%).
+- The teal/green-blue segment represents **Via customer** (23%).
+- The small dark green segment represents **Other** (4%).
+
+Therefore, the primary market channel used by 26% of Java ME developers is the **App Store**.

@@ -1,0 +1,52 @@
+Based on the provided infographic, let's identify the incidents with the highest death tolls:
+
+1.  **Las Vegas, 2017**: Death toll = **50+** (Highest)
+2.  **Orlando, 2016**: Death toll = **49** (Second Highest)
+3.  Virginia Tech University, Blacksburg, 2007: Death toll = 32
+4.  Sandy Hook School, Newtown, 2012: Death toll = 26
+5.  Killeen, 1991: Death toll = 23
+6.  Fort Hood base, Killeen, 2009: Death toll = 13
+7.  Columbine High School, Littleton, 1999: Death toll = 13
+8.  Binghamton, 2009: Death toll = 13
+9.  Aurora, 2012: Death toll = 12
+10. Washington DC, 2013: Death toll = 12
+11. Atlanta, 1999: Death toll = 12
+12. Umpqua Community College, Roseburg, 2015: Death toll = 9
+13. Covina, 2008: Death toll = 9
+14. San Bernardino, 2015: Death toll = 14? Wait — looking again at the map:
+
+Actually, re-examining the numbers:
+
+- Las Vegas: **50+**
+- Orlando: **49**
+- San Bernardino: **14** (shown as “14” next to it)
+- Virginia Tech: **32**
+- Sandy Hook: **26**
+- Killeen: **23**
+- Fort Hood: **13**
+- Columbine: **13**
+- Binghamton: **13**
+- Aurora: **12**
+- Washington DC: **12**
+- Atlanta: **12**
+- Red Lake: **9**
+- Charleston: **9**
+- Umpqua: **9**
+- Covina: **9**
+
+So ordering by death toll:
+
+1. **Las Vegas (50+)**
+2. **Orlando (49)**
+3. **Virginia Tech (32)**
+4. **Sandy Hook (26)**
+5. **Killeen (23)**
+6. **San Bernardino (14)** ← This is higher than several others but still below top 5.
+
+Wait — correction: The number next to San Bernardino is **14**, which is less than Orlando’s 49.
+
+Therefore, the incident with the **second-highest death toll** is clearly **Orlando, 2016**, with **49 deaths**.
+
+---
+
+✅ **Final Answer: Orlando**

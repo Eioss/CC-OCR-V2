@@ -1,0 +1,60 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 8px; border-bottom: 2px solid #000;">Name</th>
+      <th style="text-align: left; padding: 8px; border-bottom: 2px solid #000;">Definition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">&pi;</td>
+      <td style="padding: 8px; vertical-align: top;">the assignment of destinations obtained in the first stage</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">c<sub>ii'k</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the number of times that the chutes corresponding to destination <i>i'</i> is the one behind the chutes corresponding to destination <i>i</i> in segment <i>k</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">q<sub>ikt</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the number of parcels of destination <i>i</i> that enter the segment <i>k</i> through the corresponding loading station in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">cq<sub>ikt</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the number of cross-segment parcels of destination <i>i</i> of segment <i>k</i> in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">mn<sub>t</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the number of misalignment parcels in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">md<sub>t</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the total distance of misalignment in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">wd<sub>ht</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the walking distance of worker <i>h</i> in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">bt<sub>ht</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the break time of worker <i>h</i> in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">cq<sub>t</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the number of cross-segment parcels in period <i>t</i></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">md<sub>max</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the constraint value for total misalignment distance per period</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic;">&omega;<sub>mn</sub></td>
+      <td style="padding: 8px; vertical-align: top;">the fines per misalignment parcel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; vertical-align: top; font-style: italic; border-bottom: 2px solid #000;">&omega;<sub>cp</sub></td>
+      <td style="padding: 8px; vertical-align: top; border-bottom: 2px solid #000;">the cost coefficient of cross-segent parcels</td>
+    </tr>
+  </tbody>
+</table>
+```

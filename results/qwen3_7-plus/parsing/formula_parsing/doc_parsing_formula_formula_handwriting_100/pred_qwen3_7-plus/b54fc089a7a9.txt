@@ -1,0 +1,13 @@
+$$A = \left( \begin{array} { c c c } { { z } } & { { \cdots } } & { { - z } } \\ { { - w } } & { { \cdots } } & { { - w } } \end{array} \right) .$$
+
+ $$\frac { 1 } { N W } \sum _ { n = 1 } ^ { N W } \Lambda ^ { \prime } ( n ) e ( \log ( n ) \lambda ) - \frac { 1 } { \phi ( w ) } \sum _ { r \in R ( w ) } \frac { 1 } { N } \sum _ { n = 1 } ^ { N } e ( \log ( w n + r ) \lambda ) < \epsilon .$$
+
+ $$\operatorname* { m i n } _ { 1 \leq j \leq n } \lambda _ { 1 } ( F _ { ( j ) } ) \geq \operatorname* { m a x } _ { 1 \leq j \leq n } \| { \hat { \mathbf { r } } } - \| { \hat { \mathbf { r } } } \| { \hat { \mathbf { e } } } _ { j } \| ^ { 2 }$$
+
+ $$( X \circ Y ) ( n ) = \bigvee _ { d } X ( d ) \wedge \Sigma _ { d } \Big ( \bigvee _ { \phi : n \twoheadrightarrow d } Y ( n _ { 1 } ( \phi ) ) \wedge \cdots \wedge Y ( n _ { d } ( \phi ) ) \Big ) .$$
+
+ $$\frac { 1 } { N } z _ { j } ^ { * } \left( \frac { 1 } { n } \sum _ { i \neq j } \psi ( \tau ; \theta ) z _ { i } z _ { i } ^ { * } \right) ^ { - 1 } z _ { j } < 1$$
+
+ $$\Psi _ { \Gamma } ( x ; k ) = x + \int _ { 0 } ^ { x } u k ( u ) d u + E ( x ; k ) ,$$
+
+ $$I _ { d } + I _ { 5 } \leq ( \delta + \beta ) \, \tilde { K } \mu \epsilon ^ { 1 - \frac { \gamma } { 2 } } \, d _ { B } ^ { \gamma - 2 } .$$

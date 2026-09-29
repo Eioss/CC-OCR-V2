@@ -1,0 +1,58 @@
+```latex
+\noindent\textit{Journal of Circadian Rhythms 2006, 4:7}
+\hfill
+\texttt{http://www.jcircadianrhythms.com/content/4/1/7}
+
+\begin{figure}[h]
+\centering
+% Figure image omitted in transcription.
+\caption{Setup for video-recording of the animal.}
+\textbf{Figure 6}
+\end{figure}
+
+\section*{Data analysis}
+
+All the time series were detrended and treated with a three-point moving mean procedure. The treated series were then analysed with discrete Fourier transform [14] to obtain information in the domain of frequencies. The output of the Fourier analysis was initially analysed with the Kolmogorov-Smirnov test for comparison with a random distribution of the peaks. For series significantly different from a random distribution (all of them), only the peaks with power greater than 2.88 standard deviations from the mean were subsequently considered significant (\(p < 0.001\)). To estimate the circadian period, we analysed the data with the periodogram of Sokolove and Bushell [15], as implemented by Refinetti [16], testing the periods between 20 and 26 hours. The data for the number of movements and the length and spectral power of the circadian period were tested by ANOVA.
+
+\begin{table}[h]
+\caption{Agreement between the behavioural categories recorded by the human observers and those recorded by the radar device.}
+\textbf{Table 2:}
+\centering
+\begin{tabular}{lcccc}
+\hline
+ & \begin{tabular}{c}Observer 1\\radar7\end{tabular}
+ & \begin{tabular}{c}Observer 2\\radar7\end{tabular}
+ & \begin{tabular}{c}Observer\\radar6\end{tabular}
+ & Mean \\
+\hline
+LOCOMOTION       & 100\% & 99\% & 99\%  & 99.3\% \\
+CLIMBING         & 100\% & 93\% &       & 96.5\% \\
+STRETCHING       & 100\% & 100\% & 100\% & 100.0\% \\
+DIGGING          & 100\% & 85\% & 59\%  & 81.3\% \\
+RISING/LOWERING  & 100\% & 91\% & 86\%  & 92.3\% \\
+TURNING          & 98\%  & 78\% & 87\%  & 87.7\% \\
+BITING           & 0\%   & 0\%  &       & 0\% \\
+DRINKING         & 0\%   & 0\%  &       & 0\% \\
+GROOMING         & 13\%  & 46\% & 7\%   & 22.0\% \\
+SCRATCHING       & 37\%  & 50\% & 25\%  & 37.3\% \\
+HEAD MOVEMENTS   & 54\%  & 63\% & 44\%  & 53.7\% \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{Results and discussion}
+
+We determined the level of activity of each animal in terms of number of signals counted by the software. The mice showed a significant difference in the length of the circadian period in LD and DD (23.98 vs. 23.04 hours) [\(t(18) = 17.33\), \(p < 0.001\)]. However, neither the spectral power of the circadian period (76.0 vs. 47.4) nor the amount of activity (139175 vs. 116815) differed significantly between the two conditions, even though they decreased in DD. Finally, spectral analysis showed the presence of ultradian rhythms with several significant peaks in the range 1--8 hours and a main peak at 12 hours (Figure 7).
+
+These results agree with literature reports that the Balb/c strain has an endogenous, genetically determined circadian period that is shorter than 24.0 hours [17-19]. The other two parameters were also comparable to those reported in the literature, particularly the reduced spectral power of the circadian peak in DD [19-21]. Therefore, the monitoring system can reliably record the various parameters of locomotor activity.
+
+\section*{Conclusion}
+
+The aim of this study was to develop an apparatus consisting of a battery of radar sensors to allow the investigation of mouse activity rhythms. In addition, we wanted to revalidate the locomotor monitoring system that our research group designed and validated several years ago. The new apparatus allows easier recording of animals by means of a battery of radar devices housed in specific elements and arranged in a smaller space with respect to the old system.
+
+Unlike the first validation study [13], the present tests were not based on comparison with another apparatus but on the ability of the monitoring system to identify the frequencies and rhythms of motion of objects with standardized movement. Moreover, we carried out tests with mice belonging to inbred strains whose behavioral parameters are genetically determined and well known, particularly the length of the endogenous circadian period.
+
+\hfill Page 6 of 8
+
+\hfill \textit{(page number not for citation purposes)}
+```

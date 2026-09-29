@@ -1,0 +1,27 @@
+\[
+\begin{aligned}
+\int_0^\infty x^n\widetilde h(x)\,dx
+={}&c\int_0^\infty x^{n+1}h(x)\,dx
++\int_0^\infty x^n\int_x^\infty
+\overline{\Pi}\!\left(\log\frac{y}{x}\right)h(y)\,dy\,dx\\
+&+q\int_0^\infty x^n\int_0^\infty h(xe^y)\,U_q(dy)\,dx\\[2mm]
+={}&\frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi(i))}
++\int_0^\infty h(y)\int_0^y x^n
+\overline{\Pi}\!\left(\log\frac{y}{x}\right)\,dx\,dy\\
+&+q\int_0^\infty U_q(dy)\int_0^\infty x^n h(xe^y)\,dx\\[2mm]
+={}&\frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi(i))}
++\int_0^\infty h(y)y^{n+1}\,dy
+ \int_0^\infty e^{-(n+1)z}\overline{\Pi}(z)\,dz\\
+&+q\int_0^\infty U_q(dy)e^{-(n+1)y}
+ \int_0^\infty z^n h(z)\,dz\\[2mm]
+={}&\frac{n!(n+1)c}{\prod_{i=1}^{n+1}(q+\phi(i))}
++\frac{(n+1)!}{\prod_{i=1}^{n+1}(q+\phi(i))}
+ \frac{\int_0^\infty(1-e^{-(n+1)z})\,\Pi(dz)}{n+1}\\
+&+q\frac{n!}{\prod_{i=1}^{n}(q+\phi(i))}
+ \int_0^\infty e^{-(n+1)y}\,U_q(dy)\\[2mm]
+={}&\frac{n!}{\prod_{i=1}^{n+1}(q+\phi(i))}
+\frac{(n+1)c+\int_0^\infty(1-e^{-(n+1)z})\,\Pi(dz)+q}
+{q+\phi(n+1)}\\
+={}&\frac{n!}{\prod_{i=1}^{n}(q+\phi(i))}.
+\end{aligned}
+\]

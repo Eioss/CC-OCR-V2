@@ -1,0 +1,85 @@
+I'll transcribe this insurance contract document into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage[UTF8]{ctex}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\begin{document}
+
+\section*{第十二条\quad 结算利率}
+
+\hspace{2em}结算利率用于计算在结算期间末本合同保单账户价值在结算期间累积的利息。每月 1 日为结算日。在结算日我们将根据保险监管机关的有关规定，结合万能保险账户的实际投资收益率，确定距该结算日最近的上一个结算期间的结算利率，并在结算日起 6 个工作日内公布。我们每月公布日结算利率，保证不低于零。
+
+\section*{第十三条\quad 保单利息}
+
+\hspace{2em}保单利息在每月结算日零时或本合同终止时根据计息日数按单利结算。我们按每日 24 时的保单账户价值与日结算利率计算当日保单利息，并按计息日数加总得出结算时的保单利息。
+
+\hspace{2em}在结算日零时结算，计息日数为本合同上个月的实际经过日数，利率为公布的日结算利率。
+
+\hspace{2em}在本合同终止时结算，计息日数为本合同当月的实际经过日数，利率为最近一次已公布的日结算利率。
+
+\section*{第十四条\quad 保证利差}
+
+\hspace{2em}一、保证利差的计算时间
+
+\hspace{2em}自第 2 个保单年度起，我们在每个保单年度的第 1 个结算日计算保证利差。
+
+\hspace{2em}如果本合同终止，我们在本合同终止时计算保证利差。
+
+\hspace{2em}二、保证利差的计算方法
+
+\hspace{2em}计算保证利差时，如果按照保证利率结算的保单账户价值大于按照实际结算利率结算的保单账户价值，保证利差等于二者之差，否则保证利差为零。
+
+\hspace{2em}我们假设本合同的结算利率等于本合同规定的保证利率，在这种情况下计算得到的保单账户价值就是按照保证利率结算的保单账户价值。
+
+\begin{center}
+\section*{第五部分\quad 如何申请保险金}
+\end{center}
+
+\section*{第十五条\quad 受益人}
+
+\hspace{2em}您或者被保险人可以指定一人或多人为身故保险金受益人。
+
+\hspace{2em}身故保险金受益人为多人时，可以确定受益顺序和受益份额；如果没有确定份额，各受益人按照相等份额享有受益权。
+
+\hspace{2em}被保险人为无民事行为能力人或\textbf{限制民事行为能力人}\textsuperscript{11}，可以由其监护人指定受益人。
+
+\hspace{2em}您或者被保险人可以变更身故保险金受益人并以书面形式或双方认可的其他方式通知我们。我们收到变更受益人的通知后，在电子保险单或其他保险凭证上批注或附贴批单。
+
+\hspace{2em}您在指定和变更身故保险金受益人时，必须经过被保险人同意。
+
+\hspace{2em}被保险人身故后，有下列情形之一的，保险金作为被保险人的遗产，由我们依照《中华人民共和国继承法》的规定履行给付保险金的义务：
+
+\hspace{2em}一、没有指定受益人，或者受益人指定不明无法确定的；
+
+\hspace{2em}二、受益人先于被保险人身故，没有其他受益人的；
+
+\hspace{2em}三、受益人依法丧失受益权或者放弃受益权，没有其他受益人的。
+
+\hspace{2em}受益人与被保险人在同一事件中身故，且不能确定身故先后顺序的，推定受益人身故在先。
+
+\hspace{2em}受益人故意造成被保险人身故、伤残、疾病的，或者故意杀害被保险人未遂的，该受益人丧失受益权。
+
+\section*{第十六条\quad 保险事故通知}
+
+\hspace{2em}您或受益人知道\textbf{保险事故}\textsuperscript{12}后应当在 10 日内通知我们。
+
+\hspace{2em}\textbf{如果您或受益人故意或者因重大过失未及时通知，致使保险事故的性质、原因、损失程度等难以确定的，}
+
+\vspace{1cm}
+\hrule
+\vspace{0.3em}
+\footnotesize
+\textsuperscript{11}\textbf{限制民事行为能力人：}一种是指十周岁以上的未成年人，另一种是指不能完全辨认自己行为的精神病人。（根据《中华人民共和国民法通则》第十二条及第十三条规定）
+
+\textsuperscript{12}\textbf{保险事故：}指本合同约定的保险责任范围内的事故。
+
+\vspace{0.3em}
+\hfill 上海人寿浦江 e 福星 · 号终身寿险（万能型）D 款，第 5 页，共 8 页
+
+\end{document}
+```
+
+I've transcribed the visible text from the insurance contract document. Note that there appears to be some faint background text/numbers (possibly a table with financial figures) bleeding through from another page, but these were too illegible to transcribe accurately. The main content covers Articles 12-16 of what appears to be a universal life insurance policy.

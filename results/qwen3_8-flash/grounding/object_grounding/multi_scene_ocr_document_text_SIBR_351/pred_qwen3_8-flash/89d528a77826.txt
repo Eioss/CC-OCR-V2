@@ -1,0 +1,29 @@
+```json
+[
+	{"bbox_2d": [731, 334, 785, 346], "label": "Charges CNY"},
+	{"bbox_2d": [732, 350, 785, 362], "label": "Charges CNY"},
+	{"bbox_2d": [79, 344, 164, 356], "label": "Date 日期"},
+	{"bbox_2d": [80, 358, 165, 372], "label": "Date 日期"},
+	{"bbox_2d": [178, 341, 297, 354], "label": "Description 内容"},
+	{"bbox_2d": [179, 356, 297, 369], "label": "Description 内容"},
+	{"bbox_2d": [402, 339, 431, 351], "label": "Reference 明细"},
+	{"bbox_2d": [402, 354, 432, 366], "label": "Reference 明细"},
+	{"bbox_2d": [604, 259, 716, 272], "label": "公司名"},
+	{"bbox_2d": [393, 259, 543, 276], "label": "公司名称及旅行社/CompanyName&Agent"},
+	{"bbox_2d": [740, 144, 825, 158], "label": "到达日期/Arrival Date"},
+	{"bbox_2d": [769, 816, 836, 828], "label": "合计 Total"},
+	{"bbox_2d": [621, 21, 771, 32], "label": "地址"},
+	{"bbox_2d": [167, 153, 216, 167], "label": "姓名/Name"},
+	{"bbox_2d": [705, 125, 738, 136], "label": "房间号码/Room NO"},
+	{"bbox_2d": [717, 212, 801, 225], "label": "打印日期/PrintDate"},
+	{"bbox_2d": [704, 188, 762, 205], "label": "收银员/Cashier NO"},
+	{"bbox_2d": [79, 68, 243, 84], "label": "标题"},
+	{"bbox_2d": [625, 84, 799, 98], "label": "电话/Tel"},
+	{"bbox_2d": [756, 167, 843, 180], "label": "离店日期/Departure Date"},
+	{"bbox_2d": [769, 847, 838, 859], "label": "结算Balance"},
+	{"bbox_2d": [618, 100, 756, 113], "label": "网址"},
+	{"bbox_2d": [218, 222, 268, 234], "label": "账单号/Folio NO"},
+	{"bbox_2d": [766, 69, 814, 80], "label": "邮政编码/Postcode"},
+	{"bbox_2d": [668, 238, 674, 248], "label": "页码/PageNO."}
+]
+```

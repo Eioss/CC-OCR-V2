@@ -1,0 +1,29 @@
+```latex
+\section*{DETAILED FUNCTIONAL DESCRIPTION}
+
+AW87347 is specifically designed to enhance overall sound quality. It is an upgrading 7\textsuperscript{th}-generation class K audio amplifier with high efficiency, low noise, ultra-low distortion and capability of outputting constant large volume.
+
+With integrated AWINIC proprietary NCN output AGC audio algorithm, AW87347 can eliminate noise in playback and improve sound quality and effect. Using a novel K-Chargepump technology, its integrated charge pump efficiency can reach 93\%, and power amplifier's overall efficiency can reach 80\%. With high efficiency, AW87347 can greatly prolong smart phone usage time.
+
+AW87347 has a setting of 4-step selectable speaker-guard output power level from 0.6W to 1.2W, suitable for different rated power speakers.
+
+AW87347 supports speaker and receiver two-in-one application. The Class AB Receiver Mode has an ultra-low output noise of 11$\mu$V and an ultra-high power supply noise suppression of -100dB@217Hz. The Direct Mode using audio analog switch can realize ultra-low THD of 0.001\% and ultra-high suppression of power supply of -100dB@217Hz.
+
+AW87347 supports FM Mode by using Class AB power amplifier. It makes no interference from output signal for FM Application. Under FM Mode, AW87347 has a setting of 4-step selectable speaker-guard output power level from 0.65W to 1.2W.
+
+AW87347 has built-in over-current protection, over-temperature protection and short-circuit protection. AW87347 is available in a 1.575mm$\times$1.575mm, 0.4mm pitch CSP-16 package.
+
+\subsection*{Constant Output Power}
+
+In the smart phone audio applications, the AGC function which can promote music volume and audio quality is very attractive, but as the lithium battery voltage drops, the driver capability of ordinary audio power amplifiers will reduce gradually, leading to degrading audio effect. Therefore, it is hard to provide high-quality music within the battery voltage range.
+
+With integrated AWINIC proprietary NCN output AGC audio algorithm and within lithium battery voltage range (3.3V to 4.35V), AW87347 can keep output power constant and never decreasing during lithium battery voltage dropping down. As a result, even if the battery voltage drops, AW87347 can still provide high-quality large-volume music enjoyment.
+
+AW87347 has 12 operating modes. The first 4 modes have NCN output AGC function and their output AGC power levels are 1.2W, 1W, 0.8W, 0.6W, respectively.
+
+\subsection*{2\textsuperscript{nd} Generation NCN Technology}
+
+In audio application, there is undesirable distortion in a clipping output signal, because of a too large input signal along with a drop of supply voltage powered by lithium battery. To prevent a speaker load from permanent damage by a clipping output signal, adoption of traditional NCN technology can adjust gain of power amplifier automatically by detecting ``Crack'' distortion in a output signal, and keep the output signal smooth without clipping. NCN function can effectively prevent a power amplifier overloading, protect a speaker load, and bring high quality music enjoyment at the same time. A traditional NCN function is shown in Figure 8 below.
+
+By adopting AWINIC unique 2nd generation NCN technology, AW87347's output signal is not limited by lithium battery voltage. When battery voltage drops, output signal keeps unchanged and free from distortion, realizing constant output power as shown in figure 9. Therefore, even if battery voltage drops, AW87347 can still provide high quality large volume music enjoyment.
+```

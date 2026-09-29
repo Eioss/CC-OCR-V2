@@ -1,0 +1,93 @@
+```latex
+\begin{center}
+    \textbf{SUPER MOCK : MATHS} \\
+    \vspace{0.5cm}
+    \textbf{PAPER 1} \\
+    \textbf{OBJECTIVE TEST} \\
+    \textbf{Answer all questions.}
+\end{center}
+
+Each question is followed by four options lettered A to D. Find the correct option for each question and shade in pencil on your answer sheet the answer space which bears the same letter as the option you have chosen.
+
+\begin{enumerate}
+    \item Find the product of $2.3 \times 10^5 \times 3.0 \times 10^4$ leaving your answer in standard form.
+    \begin{tabular}{ll}
+        A. & $6.9 \times 10^9$ \\
+        B. & $6.59 \times 10^9$ \\
+        C. & $6.9 \times 10^{-9}$ \\
+        D. & $6.59 \times 10^{-9}$
+    \end{tabular}
+
+    \item Round down 4,872,500 to the nearest 10,000.
+    \begin{tabular}{ll}
+        A. & 4,872,000 \\
+        B. & 4,870,000 \\
+        C. & 4,870,500 \\
+        D. & 4,871,000
+    \end{tabular}
+
+    \item In a school, $\frac{1}{7}$ of the learners like English, $\frac{2}{7}$ like Mathematics and the rest like Science. What fraction of the learners like Science?
+    \begin{tabular}{ll}
+        A. & 1 \\
+        B. & $\frac{4}{7}$ \\
+        C. & 0 \\
+        D. & 2
+    \end{tabular}
+
+    \item If $P = \{1, 7, 13\}$ and $Q = \{7, 9, 13\}$ are subsets of $U = \{1, 2, 3, 4, \dots 15\}$. Find $P \cap Q)$
+    \begin{tabular}{ll}
+        A. & $\{1, 7, 9\}$ \\
+        B. & $\{1, 7, 9, 13\}$ \\
+        C. & $\{7, 9\}$ \\
+        D. & $\{7, 13\}$
+    \end{tabular}
+
+    \item Convert 0.125 to a common fraction.
+    \begin{tabular}{ll}
+        A. & $\frac{3}{4}$ \\
+        B. & $\frac{1}{8}$ \\
+        C. & $\frac{2}{5}$ \\
+        D. & $\frac{3}{5}$
+    \end{tabular}
+
+    \item Find the value of the side marked $x$ in the diagram below. [Take Tan $35^\circ = 0.70$]
+    
+    (Diagram description: A right-angled triangle with base 5m, angle $35^\circ$, and opposite side $x$.)
+    
+    \begin{tabular}{ll}
+        A. & 3.50m \\
+        B. & 35m \\
+        C. & 60m \\
+        D. & 7.2m
+    \end{tabular}
+
+    \item Simplify: $2\sqrt{2} + 2\sqrt{2} + 3\sqrt{3} + 3\sqrt{3}$
+    \begin{tabular}{ll}
+        A. & $\sqrt{2} + \sqrt{3}$ \\
+        B. & $4\sqrt{2} + 6\sqrt{3}$ \\
+        C. & $4 + 6\sqrt{3}$ \\
+        D. & $\sqrt{2} + 6\sqrt{3}$
+    \end{tabular}
+
+    \item Given that vector $a = \begin{pmatrix} 3 \\ 4 \end{pmatrix}$ and $b = \begin{pmatrix} 2 \\ 3 \end{pmatrix}$, evaluate: $2(a + b)$
+    \begin{tabular}{ll}
+        A. & $\begin{pmatrix} 4 \\ 6 \end{pmatrix}$ \\
+        B. & $\begin{pmatrix} 6 \\ 8 \end{pmatrix}$ \\
+        C. & $\begin{pmatrix} 10 \\ 14 \end{pmatrix}$ \\
+        D. & $\begin{pmatrix} 5 \\ 7 \end{pmatrix}$
+    \end{tabular}
+
+    \item A fair die and a coin are rolled together once. Find the probability of obtaining a tail and a prime number.
+    \begin{tabular}{ll}
+        A. & $\frac{1}{2}$ \\
+        B. & $\frac{2}{3}$ \\
+        C. & $\frac{1}{3}$ \\
+        D. & $\frac{1}{4}$
+    \end{tabular}
+\end{enumerate}
+
+\vspace{1cm}
+\begin{center}
+    Mathematics / Super Mock \hfill 4
+\end{center}
+```

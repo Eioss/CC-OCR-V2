@@ -1,0 +1,12 @@
+Based on the document provided, the **BRC** is listed as **Z40**.
+
+It appears in the top-left section of the form under the field labeled "BRC". In the context of this "Response Code Request" form (likely related to marketing or consumer data processing at RJRT - R.J. Reynolds Tobacco), BRC probably stands for **Business Reply Card** or a similar internal code used to track response sources or conversion programs.
+
+The “Helpful Hints” at the bottom also mention:  
+> *Default Event = "BRC" for Flow 2 (Ret/Med/Cont) sources.*
+
+This suggests that “BRC” is used as a default event identifier for certain types of responses (e.g., from retained, medical, or contact lists).
+
+So, while the literal value entered is **Z40**, the term **BRC** itself likely refers to a standardized response mechanism or source type within their system — possibly Business Reply Card — and Z40 is the specific code assigned to it for this request.
+
+✅ Final Answer: **Z40**

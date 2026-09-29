@@ -1,0 +1,62 @@
+I'll transcribe the text from this insurance contract document into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{CJKutf8}
+\usepackage{enumitem}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent\textbf{如果投保人因重大过失未履行如实告知义务，对保险事故的发生有严重影响的，对于本合同解除或部分解除前发生的保险事故，我们对所涉及的被保险人不承担给付保险金的责任，但应当向投保人退还相应的保险费。}
+
+\vspace{1em}
+
+\noindent 我们在合同订立时已经知道投保人未如实告知的情况的，我们不得解除合同；发生保险事故的，我们承担给付保险金的责任。
+
+\vspace{1.5em}
+
+\noindent\begin{tabular}{p{0.06\textwidth} p{0.18\textwidth} p{0.66\textwidth}}
+7.6 & \textbf{我们合同解除权的限制} & 前款约定的合同解除权，自我们知道有解除事由之日起，超过 30 日不行使而消灭。自本合同成立之日起超过 2 年的，我们不得解除合同；发生保险事故的，我们承担给付保险金的责任。 \\[2em]
+
+7.7 & \textbf{年龄性别错误} & 投保人在申请投保时，应将与有效身份证件相符的被保险人的出生日期和性别在投保单上填明，如果发生错误按照下列方式办理： \\
+\end{tabular}
+
+\vspace{0.5em}
+
+\hspace{0.24\textwidth}\begin{minipage}{0.66\textwidth}
+\begin{enumerate}[label=（\arabic*）, leftmargin=*]
+\item \textbf{投保人申报的被保险人年龄不真实，并且其真实年龄不符合我们规定的投保年龄限制的，我们有权终止对该被保险人的保险责任，但向投保人退还保险责任终止时该被保险人对应的本合同的现金价值，对于该被保险人在保险责任终止前发生的保险事故，我们不承担给付保险金的责任。对前述被保险人的保险责任终止权适用"我们合同解除权的限制"的约定；}
+\item \textbf{投保人申报的被保险人年龄或性别不真实，致使投保人实交保险费少于该被保险人对应的应交保险费的，我们有权更正并要求投保人补交保险费。如果已经发生保险事故，在给付保险金时按照该被保险人对应的实交保险费和应交保险费的比例给付；}
+\item \textbf{投保人申报的被保险人年龄或性别不真实，致使投保人实交保险费多于该被保险人对应的应交保险费的，我们向投保人无息退还多收的保险费。}
+\end{enumerate}
+\end{minipage}
+
+\vspace{1.5em}
+
+\noindent\begin{tabular}{p{0.06\textwidth} p{0.18\textwidth} p{0.66\textwidth}}
+7.8 & \textbf{被保险人变动} & 投保人因团体成员变动需要增加被保险人的，应书面通知我们。我们审核同意后将收取相应的保险费。我们将自约定的新增加被保险人保险责任开始日零时起对该新增加的被保险人承担保险责任。 \\[1em]
+& & 投保人需要减少被保险人的，应书面通知我们，我们对减少的被保险人分别按以下方式进行处理： \\
+\end{tabular}
+
+\vspace{0.5em}
+
+\hspace{0.24\textwidth}\begin{minipage}{0.66\textwidth}
+\begin{enumerate}[label=（\arabic*）, leftmargin=*]
+\item 如果投保人向我们申请依本合同的约定对减少的被保险人继续承担保险责任，经我们审核同意，我们对该被保险人的保险责任继续有效；
+\item 如果投保人向我们申请终止对减少的被保险人的保险责任，我们自收到投保人书面通知时起对该被保险人的保险责任终止。投保人在通知书中载明的保险责任终止日如果晚于通知书送达我们的日期，则我们对该被保险人的保险责任自通知书中载明的保险责任终止日的零时起终止。除另有约定外，我们向投保人退还保险责任终止时该被保险人对应的本合同的现金价值。
+\end{enumerate}
+\end{minipage}
+
+\vspace{1.5em}
+
+\noindent\begin{tabular}{p{0.06\textwidth} p{0.18\textwidth} p{0.66\textwidth}}
+7.9 & \textbf{未还款项} & 我们在给付各项保险金、退还现金价值或返还保险费时，如果投保人有欠交的保险费或其他未还清款项，我们在扣除上述各项欠款及应付利息后给付。 \\[2em]
+
+7.10 & \textbf{合同内容变更} & 在本合同有效期内，经投保人与我们协商一致，可以变更本合同的有关内容。变更本合同的，应当由我们出具批单，或由投保人与我们订立书面的变更协议。 \\
+\end{tabular}
+
+\end{CJK}
+\end{document}
+```

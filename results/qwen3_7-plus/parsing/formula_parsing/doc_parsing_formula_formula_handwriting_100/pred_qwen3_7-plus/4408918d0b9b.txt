@@ -1,0 +1,9 @@
+$$( 2 \pi \hbar ) ^ { - 1 } \int \int e ^ { i [ s E - s \theta ] / \hbar } C ( s , \theta ; \hbar ) d \theta d s = O ( 1 ) .$$
+
+ $$\widetilde { W } ( \xi ) = \frac { 1 } { 2 \pi \hbar } \int d x \exp ( - \frac { i } { \hbar } \xi \wedge x ) W ( x ) ,$$
+
+ $$\left\{ \begin{array} { l l } { | \nabla \psi _ { 3 , - } ( \vec { x } ) | = \frac { 1 } { F ( \psi _ { 3 , - } ( \vec { x } ) ) } } & { \mathrm { o n } \; U _ { 3 , - } } \\ { \quad \psi _ { 3 , - } ( \vec { x } ) = 0 } & { \mathrm { o n } \; C _ { 0 } } \end{array} \right.$$
+
+ $$\omega X _ { t } ( x ) < X _ { t } ( \omega x ) , \quad \mathrm { f o r ~ a l l ~ } x > 0 \mathrm { ~ a n d ~ } \omega \in ( 0 , 1 ) .$$
+
+ $$\sigma \in { \mathfrak { S } } _ { 2 g + 1 } \setminus \{ ( 1 , j ) \} _ { 2 \leq j \leq d }$$

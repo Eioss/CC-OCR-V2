@@ -1,0 +1,110 @@
+Based on the image provided, here is the transcription of the text and tables into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese characters
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{geometry}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent 福建海峡银行股份有限公司 \\
+财务报表附注 \\
+2018 年度（除特别注明外，金额单位为人民币元）
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{l r r r r r}
+\toprule
+ & \multicolumn{5}{c}{期初数} \\
+\cmidrule(lr){2-6}
+项 目 & \makecell{逾期 1 天至 90 \\ 天(含 90 天)} & \makecell{逾期 90 天至 360 \\ 天(含 360 天)} & \makecell{逾期 360 天至 3 \\ 年(含 3 年)} & 逾期 3 年以上 & 合计 \\
+\midrule
+信用贷款 & 15,570,465.11 & 22,915,708.51 & 40,619,211.09 & 496,671.14 & 79,602,055.85 \\
+保证贷款 & 486,395,698.11 & 99,317,605.34 & 1,416,666,951.47 & 654,119,103.13 & 2,656,499,358.05 \\
+抵押贷款 & 209,971,436.92 & 142,954,800.10 & 205,043,920.70 & 33,099,074.55 & 591,069,232.27 \\
+质押贷款 & 278,329.11 & & 47,753,640.87 & 82,941,317.13 & 130,973,287.11 \\
+\midrule
+合 计 & 712,215,929.25 & 265,188,113.95 & 1,710,083,724.13 & 770,656,165.95 & 3,458,143,933.28 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+②利息逾期 1 天及以上但本金未逾期的贷款
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{l r r r r r}
+\toprule
+ & \multicolumn{5}{c}{期末数} \\
+\cmidrule(lr){2-6}
+项 目 & \makecell{逾期 1 天至 90 \\ 天(含 90 天)} & \makecell{逾期 90 天至 360 \\ 天(含 360 天)} & \makecell{逾期 360 天至 3 \\ 年(含 3 年)} & 逾期 3 年以上 & 合计 \\
+\midrule
+信用贷款 & 320,000.00 & & & & 320,000.00 \\
+保证贷款 & 71,275,776.64 & 41,861,900.00 & & & 113,137,676.64 \\
+抵押贷款 & 25,160,944.64 & 9,985,000.00 & 564,456.20 & 609,011.67 & 36,319,412.51 \\
+\midrule
+合 计 & 96,756,721.28 & 51,846,900.00 & 564,456.20 & 609,011.67 & 149,777,089.15 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+续上表
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{l r r r r r}
+\toprule
+ & \multicolumn{5}{c}{期初数} \\
+\cmidrule(lr){2-6}
+项 目 & \makecell{逾期 1 天至 90 \\ 天(含 90 天)} & \makecell{逾期 90 天至 360 \\ 天(含 360 天)} & \makecell{逾期 360 天至 3 \\ 年(含 3 年)} & 逾期 3 年以上 & 合计 \\
+\midrule
+信用贷款 & 2,984,500.00 & 2,950,000.00 & & & 5,934,500.00 \\
+保证贷款 & 72,913,000.00 & 2,995,510.81 & 1,999,700.00 & & 77,908,210.81 \\
+抵押贷款 & 33,993,013.03 & 5,694,456.20 & 81,404.67 & & 39,768,873.90 \\
+\midrule
+合 计 & 109,890,513.03 & 11,639,967.01 & 2,081,104.67 & & 123,611,584.71 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+(5) 贷款减值准备
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{l r r}
+\toprule
+项 目 & 本期发生额 & 上期发生额 \\
+\midrule
+期初余额 & 2,452,419,935.02 & 2,462,680,288.81 \\
+本期计提 & 837,666,178.08 & 1,017,925,599.32 \\
+核销及转出 & -1,598,227,431.15 & -1,004,179,082.74 \\
+收回原转销贷款和垫款转入 & 245,291,350.60 & 27,687,336.36 \\
+贷款价值因折现价值上升导致的转回 & -45,706,298.03 & -51,694,206.73 \\
+期末余额 & 1,891,443,734.52 & 2,452,419,935.02 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vfill
+\begin{center}
+- 26 -
+\end{center}
+
+\end{document}
+```

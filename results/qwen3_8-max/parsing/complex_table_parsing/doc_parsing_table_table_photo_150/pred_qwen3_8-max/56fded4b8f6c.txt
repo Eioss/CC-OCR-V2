@@ -1,0 +1,53 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; text-align: left;">Gauge Theory</th>
+      <th style="padding: 8px; text-align: left;">Fundamental Forces</th>
+      <th style="padding: 8px; text-align: left;">Structure Group</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">Quantum Electrodynamics<br>(QED)</td>
+      <td style="padding: 8px;">Electromagnetism</td>
+      <td style="padding: 8px;">U(1)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Electroweak Theory<br>(Glashow-Salam-Weinberg)</td>
+      <td style="padding: 8px;">Electromagnetism<br>and weak force</td>
+      <td style="padding: 8px;">SU(2) × U(1)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Quantum Chromodynamics<br>(QCD)</td>
+      <td style="padding: 8px;">Strong force</td>
+      <td style="padding: 8px;">SU(3)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Standard Model</td>
+      <td style="padding: 8px;">Strong, weak forces<br>and electromagnetism</td>
+      <td style="padding: 8px;">SU(3) × SU(2) × U(1)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Georgi-Glashow Grand<br>Unified Theory (GUT1)</td>
+      <td style="padding: 8px;">Strong, weak forces<br>and electromagnetism</td>
+      <td style="padding: 8px;">SU(5)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Fritzsch-Georgi-Minkowski<br>Grand Unified Theory (GUT2)</td>
+      <td style="padding: 8px;">Strong, weak forces<br>and electromagnetism</td>
+      <td style="padding: 8px;">SO(10)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Grand Unified<br>Theory (GUT3)</td>
+      <td style="padding: 8px;">Strong, weak forces<br>and electromagnetism</td>
+      <td style="padding: 8px;">SU(8)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Grand Unified<br>Theory (GUT4)</td>
+      <td style="padding: 8px;">Strong, weak forces<br>and electromagnetism</td>
+      <td style="padding: 8px;">D(16)</td>
+    </tr>
+  </tbody>
+</table>
+```

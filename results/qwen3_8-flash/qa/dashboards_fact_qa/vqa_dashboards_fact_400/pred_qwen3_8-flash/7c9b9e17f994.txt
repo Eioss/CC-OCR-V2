@@ -1,0 +1,46 @@
+Based on the provided infographic, we can count the universities listed in two main sections:
+
+---
+
+### **1. “QUICK STATS” Section (Top Half)**
+This section displays individual cards for each university with National Rank, No. of Students, Annual Tuition, and Acceptance Rate.
+
+The universities listed here are:
+
+1. Harvard University  
+2. Princeton University  
+3. Yale University  
+4. Columbia University  
+5. California Institute of Technology  
+6. Massachusetts Institute of Technology  
+7. Stanford University  
+8. University of Chicago  
+9. University of Pennsylvania  
+10. Duke University  
+
+→ **Total: 10 universities**
+
+---
+
+### **2. “FINANCIALS” Section (Bottom Half)**
+This section shows operating revenue and expenses for fiscal year 2011 using bar charts and a radial chart. The same 10 universities from above are listed again in descending order by total operating expenses/revenue:
+
+- University of Pennsylvania  
+- Duke University  
+- Harvard University  
+- Stanford University  
+- Columbia University  
+- University of Chicago  
+- Massachusetts Institute of Technology  
+- California Institute of Technology  
+- Yale University  
+- Princeton University  
+
+→ Again, **10 unique universities**, no new ones added.
+
+---
+
+### ✅ Final Answer:
+**There are 10 universities listed in the infographic.**
+
+*(All appear in both sections; no duplicates or additional institutions beyond these 10.)*

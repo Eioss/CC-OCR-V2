@@ -1,0 +1,32 @@
+```latex
+\textbf{III. CALCULATIONS:}
+
+Calculating the volume of the given examined bodies based on the formula:
+\[ V_b = a \cdot b \cdot c \]
+$V_b$ - volume of examined bodies [cm³], $a$ - width of examined bodies [cm], $b$ - length of examined bodies [cm], $c$ - height of examined bodies [cm].
+\[ V_b = 2,5 \; [\text{cm}] \cdot 4,2 \; [\text{cm}] \cdot 1,5 \; [\text{cm}] = 15,75 \; [\text{cm}^3] \]
+
+Calculating the material density of the given examined bodies based on the formula:
+\[ g_b = \frac{m_b}{V_b} \]
+$g_b$ - material density of given body [g/cm³], $m_b$ - mass of given body [g], $V_b$ - volume of examined body.
+\[ g_b \; (\text{ebonite}) = \frac{22,7}{15,75} \; [\text{g/cm}^3] = 1,44121 \; [\text{g/cm}^3] = 1441,21 \; [\text{kg/m}^3] \]
+\[ g_b \; (\text{bakelite}) = \frac{19,8}{15,75} \; [\text{g/cm}^3] = 1,25714 \; [\text{g/cm}^3] = 1257,14 \; [\text{kg/m}^3] \]
+\[ g_b \; (\text{aluminium (I)}) = \frac{42,6}{15,75} \; [\text{g/cm}^3] = 2,70476 \; [\text{g/cm}^3] = 2704,76 \; [\text{kg/m}^3] \]
+
+Calculating the material density using areometer based on the formula:
+\[ g_b' = \frac{m_1 - m_2}{m_3 - m_2} \cdot g_w \]
+$g_b'$ - material density of given body using areometer [g/cm³], $m_{1-3}$ - values of mass from experiment [g], $g_w$ - density of distilled water = 1 [g/cm³].
+\[ g_b' \; (\text{ebonite}) = \frac{110 - 87}{103 - 67} \; [\text{g/s}^3] \cdot 1 \; [\text{g/cm}^3] = \frac{23}{36} \; [\text{g/cm}^3] = 1,4375 \; [\text{g/cm}^3] = 1437,5 \; [\text{kg/m}^3] \]
+\[ g_b' \; (\text{bakelite}) = \frac{110 - 90}{105 - 40} \; [\text{g/s}^3] \cdot 1 \; [\text{g/cm}^3] = \frac{20}{15} \; [\text{g/cm}^3] = 1,33333 \; [\text{g/cm}^3] = 1333,33 \; [\text{kg/m}^3] \]
+\[ g_b' \; (\text{aluminium (I)}) = \frac{110 - 67}{83 - 67} \; [\text{g/s}^3] \cdot 1 \; [\text{g/cm}^3] = \frac{43}{16} \; [\text{g/cm}^3] = 2,6875 \; [\text{g/cm}^3] = 2687,5 \; [\text{kg/m}^3] \]
+\[ g_b' \; (\text{aluminium (II)}) = \frac{110 - 86}{94 - 86} \; [\text{g/s}^3] \cdot 1 \; [\text{g/cm}^3] = \frac{24}{8} \; [\text{g/cm}^3] = 3 \; [\text{g/cm}^3] = 3000 \; [\text{kg/m}^3] \]
+
+Comparing calculated density values with table density values:
+\[ g_b \; (\text{ebonite}) - g_{\text{table}} \; (\text{ebonite}) = 1441,21 \; [\text{kg/m}^3] - 1150 \; [\text{kg/m}^3] = 291,21 \; [\text{kg/m}^3] = 22,48 \; [\%] \]
+\[ g_b' \; (\text{ebonite}) - g_{\text{table}} \; (\text{ebonite}) = 1437,5 \; [\text{kg/m}^3] - 1150 \; [\text{kg/m}^3] = 287,5 \; [\text{kg/m}^3] = 22,22 \; [\%] \]
+\[ g_b \; (\text{bakelite}) - g_{\text{table}} \; (\text{bakelite}) = 1257,14 \; [\text{kg/m}^3] - 1300 \; [\text{kg/m}^3] = 42,86 \; [\text{kg/m}^3] = 3,35 \; [\%] \]
+\[ g_b' \; (\text{bakelite}) - g_{\text{table}} \; (\text{bakelite}) = 1333,33 \; [\text{kg/m}^3] - 1300 \; [\text{kg/m}^3] = 33,33 \; [\text{kg/m}^3] = 2,53 \; [\%] \]
+\[ g_b \; (\text{aluminium (I)}) - g_{\text{table}} \; (\text{aluminium}) = 2704,76 \; [\text{kg/m}^3] - 2700 \; [\text{kg/m}^3] = 4,76 \; [\text{kg/m}^3] = 0,17 \; [\%] \]
+\[ g_b' \; (\text{aluminium (I)}) - g_{\text{table}} \; (\text{aluminium}) = 2687,5 \; [\text{kg/m}^3] - 2700 \; [\text{kg/m}^3] = 12,5 \; [\text{kg/m}^3] = 0,46 \; [\%] \]
+\[ g_b' \; (\text{aluminium (II)}) - g_{\text{table}} \; (\text{aluminium}) = 3000 \; [\text{kg/m}^3] - 2700 \; [\text{kg/m}^3] = 300 \; [\text{kg/m}^3] = 10,53 \; [\%] \]
+```

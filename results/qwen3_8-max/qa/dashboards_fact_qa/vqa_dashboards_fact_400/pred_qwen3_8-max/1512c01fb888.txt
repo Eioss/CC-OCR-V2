@@ -1,0 +1,53 @@
+Based on the map provided, the total number of CAR refugees since Jan 2013 is calculated by summing the numbers in the blue boxes pointing to neighboring countries:
+
+*   **Chad:** 14,477
+*   **Cameroon:** 4,859
+*   **Congo:** 10,748
+*   **Democratic Republic of the Congo:** 56,309
+
+Additionally, the table in the bottom right corner lists the "Total population of CAR refugees" as:
+*   Cameroon: 98,504
+*   Chad: 80,364
+*   DR Congo: 56,000
+*   Congo: 11,000
+
+However, the question specifically asks for the number based on the blue arrows/boxes labeled "CAR refugees since Jan 2013" on the map itself. Let's sum those specific figures shown with the blue arrows:
+
+14,477 (to Chad) + 4,859 (to Cameroon) + 10,748 (to Congo) + 56,309 (to DR Congo) = **86,393**
+
+Wait, looking closer at the legend and the map:
+The blue boxes with arrows indicate the flow of refugees *out* of CAR into neighboring countries.
+- To Chad: 14,477
+- To Cameroon: 4,859
+- To Congo: 10,748
+- To DR Congo: 56,309
+
+Sum: 14,477 + 4,859 + 10,748 + 56,309 = **86,393**
+
+The table in the bottom right gives a different set of totals ("Total population of CAR refugees"), which likely represents cumulative or updated figures as of the map's date (Jan 2014), whereas the blue arrows might represent a specific snapshot or subset. But the question asks "What is the total number... in Central African Republic?" — actually, it asks for the total number *of* CAR refugees *since Jan 2013*, which implies those who fled.
+
+The most direct interpretation using the data explicitly labeled "CAR refugees since Jan 2013" (the blue boxes) is the sum of those four numbers.
+
+Let’s re-calculate:
+14,477
++ 4,859
+= 19,336
+
+19,336
++ 10,748
+= 30,084
+
+30,084
++ 56,309
+= **86,393**
+
+Alternatively, if we use the table titled “Total population of CAR refugees” (which is also sourced from UNHCR as of 2 Jan 2014), the total would be:
+98,504 + 80,364 + 56,000 + 11,000 = **245,868**
+
+But note: the blue boxes are explicitly labeled “CAR refugees since Jan 2013”, while the table says “Total population of CAR refugees”. The footnote says “¹UNHCR as of 2 Jan 2014” for both, so they should be consistent — but they’re not. This suggests the blue boxes may represent only *new* arrivals since Jan 2013, while the table includes pre-existing refugees.
+
+Given the phrasing of the question — “total number of CAR refugees since Jan 2013” — and the fact that the blue boxes are explicitly labeled with that exact phrase, the intended answer is likely the sum of the blue-boxed numbers.
+
+✅ Final Answer: **86,393**
+
+*(Note: There is ambiguity in the map’s data presentation. If the question intends the total refugee population as of Jan 2014, the answer would be 245,868. But based on the explicit label “CAR refugees since Jan 2013” tied to the blue arrows, 86,393 is the most directly supported answer.)*

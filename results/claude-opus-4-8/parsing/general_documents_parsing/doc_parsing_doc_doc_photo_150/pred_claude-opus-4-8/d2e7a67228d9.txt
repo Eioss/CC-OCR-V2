@@ -1,0 +1,56 @@
+# Transcription
+
+```latex
+\textbf{4) Calculation question (7 marks)}
+
+Paula is a recent Simon Fraser University graduate with a degree in English and Communication. After 
+graduation she was able to get an entry level job at her local government office. She works Monday 
+through Thursday in the office which leaves Friday and weekends free. She has always been good at 
+English and while at university she helped international students with their English proficiency.
+
+Paula always felt that her class schedule and club activities kept her busy. Therefore, she could only 
+help one or two students a week. After graduation, she realized that there is another audience that 
+needs a lot of help to communicate in English, new immigrants. She went to her local community centre 
+and arranged a room booking for Fridays. Paula will help new immigrants with their English speaking 
+skills.
+
+She has two options for her business. The first option is to open a business called, ``Talk It Up'' and hold 
+the sessions on Fridays. ``Talk It Up'' will be an opportunity for new immigrants to come in for tea and 
+talk sessions.
+
+\begin{itemize}
+    \item For individuals, she can offer two-hour sessions for \$50.00 per person, one day a week. She can 
+    tutor 3 people every Friday. Weekly, this works out to \$50 per person X 3 people a week = \$150 
+    per day. Monthly, it is \$150 X 4 weeks or an average of \$600.
+    \item Her rent will be \$200 a month. In addition to rent, she also needs to pay \$100 a month in 
+    insurance and \$1200 a year in utilities. For advertising, she can print out flyers to distribute at 
+    the local community centres and schools. To print the flyers, it will cost a flat rate of \$50 per 
+    month. She also must pay Wifi charges of \$600 a year. She incurs a \$10 charge per month for 
+    each person for supplies such as tea/light snacks, writing supplies, and photocopying for work.
+\end{itemize}
+
+Paula's second option is to create an online tutoring business and explore this business idea instead of 
+opening the physical business. For the online tutoring business, she can upload English language 
+tutoring tutorials, English language exercises and different articles on learning English at home.
+
+\begin{itemize}
+    \item She has decided that if she pursues this option, she can charge a \$12 subscription per month per 
+    student and can get 60 students per month.
+    \item Her costs change because now she does not need to rent a place but instead, her webhosting 
+    cost is going to be \$600 a year and advertising is still \$50 per month. For each student, she does 
+    incur a \$5 charge for supplies such as workbooks and certificates of completion.
+\end{itemize}
+
+Paula would like your help to analyze the breakeven point for both options (the physical business and 
+the online business), so she can assess which option is better.
+
+\begin{enumerate}[label=\alph*)]
+    \item Define and explain break even analysis in units and provide the formula in units (1 mark)
+    \item Provide the break-even analysis, in units, for the physical tutoring business. Please show your work 
+    (2 marks)
+    \item Provide the break-even analysis, in units, for the online business idea. Please show your work 
+    (2 marks)
+    \item Which option would you say is a better offering for Paula, if she was to choose one option over the 
+    other. Justify your answer based on what your results are and explain why (2 marks)
+\end{enumerate}
+```

@@ -1,0 +1,141 @@
+```latex
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{array}
+\usepackage{multicol}
+\usepackage[table]{xcolor}
+\usepackage{geometry}
+\geometry{a4paper, margin=2cm}
+
+\begin{document}
+
+\noindent\hfill 儿童锁 \qquad zh
+
+\begin{multicols}{2}
+
+\section*{儿童锁}
+
+您的电器均配备儿童锁，使儿童无法意外开启电器或更改任何设置。
+
+\subsection*{提示}
+\begin{itemize}
+  \item 您可以在基本设置中设定是否通过该选项设置儿童锁。\\
+  $\rightarrow$ 第 17 页的“基本设置”
+  \item 如果连接了电磁灶，电磁灶不会受烤箱上的儿童锁的影响。
+  \item 切断电源后，儿童锁便失效。
+\end{itemize}
+
+\subsection*{启用和停用}
+
+如要激活儿童锁，必须将功能选择钮转到“关”位置。
+
+按下并按住 🔑 按键约 4 秒。
+
+代表该功能的符号将出现在显示屏上。儿童锁现已启用。
+
+\textbf{提示：}如果已经设置定时器持续时间 ⏲，该时间将继续倒计时。启用儿童锁后，无法再更改定时器持续时间。
+
+如要取消激活儿童锁，再次按下并按住 🔑 按键 4 秒，直到符号在显示屏上熄灭。
+
+\columnbreak
+
+\section*{基本设置}
+
+为了帮助您有效、简单地使用电器，我们为您提供了各种设置。您可以根据需要更改这些设置。
+
+\subsection*{基本设置列表}
+
+根据电器的功能，并非所有基本设置都可供访问。
+
+\begin{center}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{|p{0.34\linewidth}|p{0.50\linewidth}|}
+\hline
+\rowcolor{teal!80!black}
+\color{white}\textbf{基本设置} & \color{white}\textbf{选项} \\
+\hline
+$c1$ \quad 显示时间
+&
+$0$ = 隐藏时间 \newline
+$1$ = 显示时间\textsuperscript{*}
+\\
+\hline
+$c2$ \quad 烹饪时间或定时器时间到时后的信号音持续时间
+&
+$1$ = 约 10 秒钟 \newline
+$2$ = 约 30 秒钟\textsuperscript{*} \newline
+$3$ = 约 2 分钟
+\\
+\hline
+$c3$ \quad 触碰按键时的按键音
+&
+$0$ = 关 \newline
+$1$ = 开\textsuperscript{*}
+\\
+\hline
+$c4$ \quad 冷却风扇持续运行时间
+&
+$1$ = 短 \newline
+$2$ = 中 \newline
+$3$ = 长 \newline
+$4$ = 超长
+\\
+\hline
+$c5$ \quad 应用某个设置之前需要等待的时间
+&
+$1$ = 约 3 秒钟\textsuperscript{*} \newline
+$2$ = 约 6 秒钟 \newline
+$3$ = 约 10 秒钟
+\\
+\hline
+$c6$ \quad 激活儿童锁
+&
+$0$ = 否 \newline
+$1$ = 是\textsuperscript{*}
+\\
+\hline
+$c7$ \quad 水硬度\textsuperscript{**}
+&
+$0$ = 软化 \newline
+$1$ = 软（最高 1.3 mmol/l） \newline
+$2$ = 中（1.3 - 2.5 mmol/l） \newline
+$3$ = 硬（2.5 - 3.8 mmol/l） \newline
+$4$ = 非常硬\textsuperscript{*}（高于 3.8 mmol/l）
+\\
+\hline
+\rowcolor{teal!80!black}
+\multicolumn{2}{|p{0.88\linewidth}|}{%
+\color{white}
+\textsuperscript{*} 出厂设置（出厂设置可能根据电器型号的不同而不同）\newline
+\textsuperscript{**} 并非所有电器型号可用。
+}
+\\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{更改基本设置}
+
+必须将功能选择钮转到“关”位置。
+
+\begin{enumerate}
+  \item 按下并按住 ⏲ 按键大约 4 秒钟。\\
+  第一个基本设置将显示在显示屏中，如 $c1\ 1$。
+  \item 用 $-$ 或 $+$ 按键更改基本设置。
+  \item 按下 ⏲ 按键确认。\\
+  第一个基本设置将显示在显示屏中。
+  \item 使用 ⏲ 按键继续按照说明完成所有基本设置，必要时使用 $-$ 或 $+$ 按键更改设置。
+  \item 结束后，再次按下并按住 ⏲ 按键约 4 秒，确认设置。\\
+  所有基本设置现已生效。
+\end{enumerate}
+
+您可以随时再次更改基本设置。
+
+\textbf{提示：}断电后，将恢复基本出厂设置。
+
+\end{multicols}
+
+\noindent\hfill 17
+
+\end{document}
+```

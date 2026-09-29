@@ -1,0 +1,126 @@
+I'll transcribe this financial document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{a4paper, margin=2cm}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent 浙江海盐农村商业银行股份有限公司 \hfill 2018 年度财务报表附注
+
+\vspace{0.5cm}
+
+% Table 1: Employee compensation payable
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|}
+\hline
+项 \quad 目 & 期初数 & 本期增加 & 本期支付 & 期末数 \\
+\hline
+应付职工教育经费 & & 1,234,871.88 & 1,234,871.88 & \\
+\hline
+应付工会经费 & & 900,000.00 & 900,000.00 & \\
+\hline
+应付医疗、生育、工伤保险费 & & 5,784,435.30 & 5,784,435.30 & \\
+\hline
+应付补充医疗保险费 & & 644,300.00 & 644,300.00 & \\
+\hline
+应付住房公积金 & & 7,854,890.00 & 7,854,890.00 & \\
+\hline
+应付辞退福利 & 13,127,056.72 & 6,401,527.18 & 5,603,398.28 & 13,925,185.62 \\
+\hline
+应付离职后福利（基本养老、失业保险、补充养老） & 3,595,178.00 & 12,291,862.22 & 12,580,146.22 & 3,306,894.00 \\
+\hline
+应付其他短期薪酬 & & 651,550.00 & 651,550.00 & \\
+\hline
+小计 & 26,993,038.13 & 146,155,620.18 & 131,750,722.77 & 41,397,935.54 \\
+\hline
+未确认融资费用 & -1,591,392.31 & 382,848.64 & 273,917.25 & -1,482,460.92 \\
+\hline
+合 \quad 计 & 25,401,645.82 & 146,538,468.82 & 132,024,640.02 & 39,915,474.62 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent\textbf{25、应交税费}
+
+\vspace{0.3cm}
+
+% Table 2: Taxes payable
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|>{\centering\arraybackslash}p{2.5cm}|}
+\hline
+项 \quad 目 & 期初数 & 本期应交 & 本期已交 & 期末数 \\
+\hline
+应交所得税 & 47,576,681.24 & 103,385,279.74 & 73,619,477.44 & 77,342,483.54 \\
+\hline
+应交城市维护建设税 & 247,730.97 & 800,593.93 & 905,834.44 & 142,490.46 \\
+\hline
+应交教育费附加 & 247,730.97 & 800,593.92 & 905,834.43 & 142,490.46 \\
+\hline
+应交房产税 & 6,744.65 & 1,854,254.36 & 958,344.05 & 902,654.96 \\
+\hline
+应交土地使用税 & & 291,491.07 & 147,195.17 & 144,295.90 \\
+\hline
+应交车船使用税 & & 1,020.00 & 1,020.00 & \\
+\hline
+应交存款保险费 & 821,552.16 & 2,977,360.31 & 2,520,912.47 & 1,278,000.00 \\
+\hline
+应交其他税费 & 34,467.71 & 459,517.27 & 391,819.04 & 102,165.94 \\
+\hline
+代扣代缴个人所得税 & & 9,266,717.17 & 9,266,717.17 & \\
+\hline
+代扣代缴利息税 & 186.01 & 2,200.26 & 2,332.36 & 53.91 \\
+\hline
+应交增值税 & 9,298,033.45 & 16,011,548.49 & 22,459,772.71 & 2,849,809.23 \\
+\hline
+合 \quad 计 & 58,233,127.16 & 135,850,576.52 & 111,179,259.28 & 82,904,444.40 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent\textbf{26、应付利息}
+
+\vspace{0.3cm}
+
+% Table 3: Interest payable
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}p{5cm}|>{\centering\arraybackslash}p{4cm}|>{\centering\arraybackslash}p{4cm}|}
+\hline
+项 \quad 目 & 期末数 & 期初数 \\
+\hline
+同业存放款项应计付利息 & 352.37 & 671.92 \\
+\hline
+同业拆入款项应计付利息 & 30,450.00 & \\
+\hline
+单位活期存款应计付利息 & 279,342.14 & 447,918.51 \\
+\hline
+单位定期存款应计付利息 & 34,725,761.79 & 28,716,458.32 \\
+\hline
+个人活期存款应计付利息 & 124,974.13 & 98,925.30 \\
+\hline
+个人定期存款应计付利息 & 387,070,816.23 & 408,256,621.29 \\
+\hline
+银行卡存款应计付利息 & 169,545.86 & 144,026.12 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+31 / 52
+\end{center}
+
+\end{CJK}
+\end{document}
+```

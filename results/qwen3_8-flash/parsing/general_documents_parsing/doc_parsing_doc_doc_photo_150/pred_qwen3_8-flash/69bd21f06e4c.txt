@@ -1,0 +1,166 @@
+```latex
+\begin{center}
+    \textbf{\Large First Paper} \\
+    \textbf{SECTION - A} \\
+    \textbf{READING TEST (SEEN PASSAGE)} \\
+    [Question Nos. 1-3]
+\end{center}
+
+পাঠ্যবই থেকে যেকোনো ১টি Passage থাকবে। উক্ত Passage-টি পড়ে নিম্নে ১-৩ নং প্রশ্নের উত্তর দিতে হবে।
+\begin{enumerate}
+    \item Multiple Choice Questions 
+    \item Answering questions 
+    \item Summarizing
+\end{enumerate}
+
+১-৩ নং প্রশ্নের উপর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Lesson গুলো গুরুত্ব সহকারে পড়তে হবে এবং এই বইয়ে প্রদত্ত Exercise গুলো অনুশীলন করতে হবে।
+
+\begin{tabular}{|l|p{0.85\linewidth}|}
+\hline
+SL & \multicolumn{1}{c|}{Given Passage} \\
+\hline
+1 & Nakshi kantha ---- embroidered on them.[U-1; L-2] \\
+& \textit{(CtgB '16; SB '15; DB '14; RB '14; DinajB '14; CB '14; BB '14)} \\
+\hline
+2 & The ethnic people ---- in Mymensingh.[U-1; L-3] \\
+& \hfill \textit{(BB '16)} \\
+\hline
+3 & Bangladeshi cuisine ---- Bangladeshi people. [U-1; L-5] & \\
+\hline
+4 & Health is the ---- things of life. [U-3; L-1] & \hfill \textit{(RB'15)} \\
+\hline
+5 & The word 'hygiene' ----- happy life. [U-3; L-3] & \\
+& \hfill \textit{(DinajB '16; '15; CB '15; JB '14; SB '14)} \\
+\hline
+6 & Shamima's misery---designer. [U-5; L-3] & \hfill \textit{(RB '16; DB '15)} \\
+\hline
+7 & At the farthest corner----round in nature. [U-5; L-4] & \hfill \textit{(DB '16)} \\
+\hline
+8 & Once upon a time a dove ---- think about me?" & \\
+& \hfill [U-5; L-5] \textit{(JB '16; CtgB'15)} \\
+\hline
+9 & Zara lives with....start filling in the forms. & \\
+& \hfill [U-6; L-1] \textit{(CB '16; CtgB '14)} \\
+\hline
+10 & Oxygen and air ---- on enjoyable flight. [U-6; L-6] & \\
+\hline
+11 & Thousands of years ---- for good luck. [U-7; L-1] & \hfill \textit{(SB '16)} \\
+\hline
+12 & River guypsies are an ethnic --- special power. [U-7; L-3] & \\
+\hline
+13 & River gypsies in Bangladesh--- children in some areas. & \\
+& [U-7 L-4] \hfill \textit{(BB '15)} \\
+\hline
+14 & With only 2500 --- Juba Padak in 2012. [U-8; L-3] & \\
+\hline
+15 & Human beings conquered ---- a major accident. & \\
+& \hfill [U-9; L-4] \textit{(JB'15)} \\
+\hline
+16 & Communication of ideas ---- has changed our life. & \\
+& \hfill [U-9; L-6] \\
+\hline
+\end{tabular}
+
+\noindent বোর্ড অনুযায়ী গুরুত্ব নির্দেশক চিহ্ন। উপরে ব্যবহৃত সিরিয়াল নম্বর চাকে ব্যবহার করা হয়েছে। \\
+[N.B, DB = Dhaka Board : বাকীগুলা ক্রমান্বয়ে]
+
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+\hline
+& DB & RB & DinajB & JB & CB & CtgB & SB & BB \\
+\hline
+*** & 1,3,4, & 1,2,4, & 1,2,6, & 1,2,4, & 1,2,3, & 2,3,4, & 1,2,5, & 1,4,6, \\
+& 5,6,9 & 5,7,15 & 7, 8, & 5,6,11 & 5,6,11 & 6,15, & 6,9,10 & 5,9,11 \\
+& 15 & ,11 & 15,19 & ,15 & ,15 & 11 & & \\
+\hline
+** & 2,8, & 3,8,9, & 9,10, & 3,7,9, & 4,10, & 5,7,9, & 4,7,8, & 3,7,8, \\
+& 10, & 10,13 & 11,13, & 10,13, & 12,13 & 13 & 13 & 10,13 \\
+& 11,13 & & 16 & & & & & \\
+\hline
+* & 7,12, & 12, & 3,12, & 12, & 7,8,16 & 8,12, & 12,14, & 12,14, \\
+& 14,16 & 14,16 & 14. & 14,16 & ,14 & 14,16 & 16 & 15,16 \\
+\hline
+\end{tabular}
+
+\subsection*{READING TEST (UNSEEN PASSAGE)}
+
+এই অংশে পাঠ্যবই বাহিত্তৃৎ একটি Passage থাকবে যা থেকে 4. Information transfer ও 5. True/ False এর উপর প্রশ্ন প্রণয়ন করা হবে। \\
+৪-৫ নং প্রশ্নের উপর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Topic গুলো সম্পর্কে ধারণা নিতে হবে এবং এই বইয়ে প্রদত্ত Exercise গুলো অনুশীলন করতে হবে।
+
+\begin{description}
+    \item[ক.] বিখ্যাত ব্যক্তির জীবনী যেমন : বঙ্গবন্ধু শেখ মুজিবুর রহমান, কাজী নজরুল ইসলাম, বেগম রোকেয়া, হেলেন কেলার, মাদার তেরেসা, নেলসন মেডেলা, নীল আর্মস্ট্রং, জয়নাল আবেদীন, জন ডান, শেক্সপিয়ার, আইনস্টাইন, জন কীটস, রবীন্দ্রনাথ ঠাকুর, বীরশ্রেষ্ঠ ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর, বীরশ্রেষ্ঠ মুন্সী আব্দুর রউফ, ফেরদৌসি, হাছন রাজা, ওয়াজিউন
+    \item[খ.] বিখ্যাত স্থাপনা যেমন : জাতীয় স্মৃতিসৌধ, বাইতুল মুক্কাদিস, শহীদ মিনার
+    \item[গ.] ঐতিহাসিক নিদর্শন যেমন : মহাস্থানগড়, সোনারগাঁ, ময়নামতি, সোমপুর বিহার
+    \item[ঘ.] পর্যটন স্থান যেমন : কক্সবাজার, সুন্দরবন, কুয়াকাটা ইত্যাদি
+    \item[ঙ.] ঐতিহাসিক ঘটনা যেমন : ভাষা আন্দোলন, বাংলাদেশের স্বাধীনতা, টাইটানিক দুর্ঘটনা, ইত্যাদি
+    \item[চ.] পুরস্কার : নোবেল পুরস্কার, স্বাধীনতা পদক, একুশে পদক ইত্যাদি
+    \item[ছ.] প্রকৃতি : চাঁদ, সূর্য, গ্রহ, তারা ইত্যাদি
+\end{description}
+
+এছাড়া, 6. Gap filling without clues, 7. Rearranging, 8. Gap filling with clues ও 9. Matching এই item গুলোও Unseen হবে। তাই এই অংশের Suggestion দেওয়া সম্ভব নয়। এই অংশে ভালো করার জন্য এই বইটিতে সংযোজিত Exercise গুলো অনুশীলন কর।
+
+\begin{center}
+    \textbf{\Large SECTION - B WRITING TEST} \\
+    \textbf{\Large DIALOGUE} \\
+    [Question No. 10]
+\end{center}
+
+\begin{tabular}{|l|p{0.85\linewidth}|}
+\hline
+SL & Topic \\
+\hline
+1 & Between two friends about reading newspaper. \\
+& \hfill \textit{(DinajB '16; CtgB '16; CB '15; SB '15; RB '14)} \\
+\hline
+2 & Between two friends/father and son about the preparation for the JSC Exam. \\
+& \hfill \textit{(CB '16; DinajB '15; JSC '13, '11)} \\
+\hline
+3 & Between two friends about your favourite hobby/gardening. \textit{(JB '16; BB'15; DinajB'14)} \\
+\hline
+4 & Between two friends about the necessity of physical exercise. \textit{(BB '16; RB '15)} \\
+\hline
+5 & Between two friends about the bad effects of illiteracy. \textit{(RB '16; CtgB'14)} \\
+\hline
+6 & Between two friends about benefits of early rising. \textit{(SB '16; JB'14)} \\
+\hline
+7 & Between two friends about how to make a good result. \\
+& \hfill \textit{(DB '16)} \\
+\hline
+8 & Between two friends about how to improve English. \textit{(SB'14)} \\
+\hline
+9 & Between two friends about importance of learning English. \textit{(DB '15)} \\
+\hline
+10 & Between you and your friend about aim in life. \textit{(JB '15)} \\
+\hline
+11 & Between two friends about merits and demerits of using mobile phone. \textit{(CtgB'15)} \\
+\hline
+12 & Between two friends about the dangers of smoking. \textit{(CB'14)} \\
+\hline
+13 & Between a doctor and a patient about illness. \textit{(BB'14)} \\
+\hline
+14 & Between two friends about an exciting football match. \textit{(DB'14)} \\
+\hline
+15 & Between two friends on what they intend to do after JSC Examination. \\
+\hline
+\end{tabular}
+
+\noindent বোর্ড অনুযায়ী গুরুত্ব নির্দেশক চিহ্ন। উপরে ব্যবহৃত সিরিয়াল নম্বর চাকে ব্যবহার করা হয়েছে।
+
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+\hline
+& DB & RB & DinajB & JB & CB & CtgB & SB & BB \\
+\hline
+*** & 1,3,4, & 1,12, & 1,2,4, & 1,2,5, & 1,3,4, & 2,3,4, & 1,2,3, & 1,3,4, \\
+& 5,9,12 & 3,4,9, & 5,7,10 & 7,8,9, & 6,9,12 & 5,7,10 & 4,9, & 5,6,9, \\
+& ,14 & 13 & ,13 & 10 & & & 10 & 12 \\
+\hline
+** & 2,6, & 2,6,7, & 3,6,8, & 4,6,11 & 5,7, & 6,8,9, & 5,7,8, & 2,8,10 \\
+& 13,10 & 8,11, & 9 & ,13 & 15,13 & 11,12, & 11,12 & ,11,14 \\
+& & 14 & & & & 13 & & \\
+\hline
+* & 7,8,11 & 5,10, & 1,11, & 12,14, & 2,8,10 & 14,15 & 6,13, & 7,13, \\
+& ,15 & 15 & 14,15 & 15 & ,11,14 & & 14, 15 & 15 \\
+\hline
+\end{tabular}
+
+\noindent [N.B. উত্তরের জন্য অনুরূপ JSC Communicative English Model Questions বইয়ের Dialogue অংশ দেখ]
+```

@@ -1,0 +1,73 @@
+<html><body><p>场馆预约表 / 办理指南表</p><p>文档编号 RB-412153<br/>日期 2025-04-16</p><p>单位: 青岚省临澜州临澜极光综合服务有限公司<br/>负责人: 朱明哲<br/>联系电话: 18677514068<br/>位置: 临澜省云栖市北湾区兴业路206号 8栋</p><p>https://example.com/doc-57115397</p><div class="table" style="text-align: center"><table>
+<tr>
+<td colspan="7">问题工单/影响评估</td>
+</tr>
+<tr>
+<td rowspan="4">工单列表</td>
+<td>工单</td>
+<td>模块</td>
+<td>版本</td>
+<td>影响</td>
+<td>负责人</td>
+<td>状态</td>
+</tr>
+<tr>
+<td>IT-129024</td>
+<td>接口</td>
+<td>v2.0</td>
+<td>一般</td>
+<td>褚明哲</td>
+<td>处理中 ✓</td>
+</tr>
+<tr>
+<td>IT-244455</td>
+<td>接口</td>
+<td>v2.0</td>
+<td>一般</td>
+<td>张泽宇</td>
+<td>处理中</td>
+</tr>
+<tr>
+<td>IT-255102</td>
+<td>数据库</td>
+<td>v2.1</td>
+<td>严重</td>
+<td>王伟</td>
+<td>待处理</td>
+</tr>
+<tr>
+<td colspan="7">验证与回滚记录</td>
+</tr>
+<tr>
+<td rowspan="4">验证记录</td>
+<td>验证项</td>
+<td>结果</td>
+<td>回滚</td>
+<td>复核</td>
+<td colspan="2">备注</td>
+</tr>
+<tr>
+<td>权限正常</td>
+<td>未通过</td>
+<td>无需</td>
+<td>姜泽宇</td>
+<td>姜泽宇</td>
+<td></td>
+</tr>
+<tr>
+<td>延迟&lt;5m</td>
+<td>未通过</td>
+<td>预案</td>
+<td>魏安然</td>
+<td>留痕</td>
+<td>需复查</td>
+</tr>
+<tr>
+<td>数据一致性</td>
+<td>通过</td>
+<td>无需</td>
+<td>李娜</td>
+<td>已归档</td>
+<td></td>
+</tr>
+</table></div><div style="text-align: center;"><img src="imgs/img_in_image_box_2247_342_2419_487.jpg" alt="Image" width="6%" /></div></body></html>

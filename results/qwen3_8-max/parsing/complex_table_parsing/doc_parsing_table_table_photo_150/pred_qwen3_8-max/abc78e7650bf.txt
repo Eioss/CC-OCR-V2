@@ -1,0 +1,101 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: right;">
+  <thead>
+    <tr>
+      <th rowspan="3" style="text-align: left; vertical-align: bottom;">Other receivables</th>
+      <th colspan="3">As of December 31,</th>
+      <th rowspan="2">As of<br>September 30,</th>
+    </tr>
+    <tr>
+      <th>2015</th>
+      <th>2016</th>
+      <th>2017</th>
+    </tr>
+    <tr>
+      <th>(RMB'000)</th>
+      <th>(RMB'000)</th>
+      <th>(RMB'000)</th>
+      <th>(RMB'000)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;">- Amounts due from non-controlling interests</td>
+      <td>493,657</td>
+      <td>832,717</td>
+      <td>1,578,376</td>
+      <td>3,047,073</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Deposits for acquisitions of land use rights and<br>&nbsp;&nbsp;property development projects</td>
+      <td>82,000</td>
+      <td>289,250</td>
+      <td>256,410</td>
+      <td>554,898</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Deposits for property development and<br>&nbsp;&nbsp;construction projects</td>
+      <td>134,388</td>
+      <td>97,590</td>
+      <td>138,581</td>
+      <td>457,906</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Receivables for disposal of a subsidiary</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>183,300</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Cash advance with third parties</td>
+      <td>40,370</td>
+      <td>219,096</td>
+      <td>271,212</td>
+      <td>216,647</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Receivables for disposal of financial assets<br>&nbsp;&nbsp;at fair value through profit or loss</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>84,110</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Deposits for borrowing</td>
+      <td>11,000</td>
+      <td>26,783</td>
+      <td>20,895</td>
+      <td>42,956</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Interest receivable</td>
+      <td>3,312</td>
+      <td>30,980</td>
+      <td>46,017</td>
+      <td>6,491</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">- Others</td>
+      <td>18,317</td>
+      <td>19,245</td>
+      <td>35,414</td>
+      <td>33,103</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Less: provision for impairment</td>
+      <td>(13,895)</td>
+      <td>(10,493)</td>
+      <td>(15,840)</td>
+      <td>(20,155)</td>
+    </tr>
+    <tr style="font-weight: bold; border-top: 2px solid black; border-bottom: 3px double black;">
+      <td style="text-align: left;">Total</td>
+      <td>769,149</td>
+      <td>1,505,168</td>
+      <td>2,331,065</td>
+      <td>4,606,329</td>
+    </tr>
+  </tbody>
+</table>
+```

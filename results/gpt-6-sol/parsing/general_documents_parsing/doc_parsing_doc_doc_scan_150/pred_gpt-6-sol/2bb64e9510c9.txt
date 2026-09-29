@@ -1,0 +1,100 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{array}
+\usepackage{longtable}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+本资料来自www.m448.com
+
+\rule{\linewidth}{0.4pt}
+
+{\Large 建筑装饰工程施工合同}\\
+{\large\bfseries Contract}
+\end{center}
+
+发包方（简称甲方）\\
+Party A:
+
+\medskip
+承包方（简称乙方）：上海方点装饰设计有限公司\\
+Party B: i-point design (Inspiration Point Design)
+
+\medskip
+根据《中华人民共和国合同法》《中华人民共和国消费者权益保护法》《中华人民共和国价格法》《上海市合同格式条款监督条例》《上海市建筑市场管理条例》以及其他有关法律法规规定的原则，结合本工程的具体情况，甲、乙双方在平等、自愿、协商一致的基础上达成如下协议，共同遵守
+
+According to: ``PRC Contract Law'', ``Law on the Protection of Consumer Interests'', ``PRC Price Law'', ``Shanghai Supervision of Contract Terms'', ``Shanghai Construction Market Management Regulations'', as well as other laws and regulations related to the specific circumstances of this project, parties A and B have hereby equally and voluntarily entered into the following agreement executed on the basis of mutual respect.
+
+\medskip
+一、概况\\
+\hspace*{2em}OVERVIEW
+
+\begin{enumerate}
+\item 甲方装修物业名称及住址。\\
+Party A is the owner of the property.
+
+\item 乙方为本市经工商行政管理机关核准，并可从事装潢装饰的商业\\
+Party B is approved and registered with the city industrial and commercial administrative organs as an enterprise engaged in renovation and decoration.
+
+\item 装饰施工地点\\
+Construction site:
+
+\item 建筑结构：\qquad 建筑面积\qquad 平方米，施工面积\qquad 平方米。\\
+Construction area: total area (including stairwells and other common areas): \quad m$^2$, private living area: \quad m$^2$.
+
+\item 装饰施工内容：住宅装饰，详见附件一《工程估价单》\\
+Structure: residential.
+
+\item 承包方式：详见附件一《工程估价单》\\
+Contractor engagement method: See annex -- (quotation).
+
+\item 总价款：\qquad .00元，大写(人民币)：\qquad 元整。\\
+Total price: \qquad .00RMB; in words: \qquad 元整. Any changes in this price must be agreed by parties in writing.
+
+\item 工期：\qquad 年\quad 月\quad 日开工，至\qquad 年\quad 月\quad 日前竣工，工期合计\qquad 天，不含国家法定节假日，乙方委派现场施工监理为\qquad 先生/女士：\\
+Period: Start: \quad (year)\quad (month)\quad (day); Completion before: \quad (year)\quad (month)\quad (day); Total days (excluding national holidays): \quad days. Party B's on site construction supervisor will be:
+\end{enumerate}
+
+二、关于工程及结算的约定\\
+\hspace*{2em}TERMS OF PAYMENT
+
+1. 工程款的支付方式如下：\\
+\hspace*{2em}The payment schedule shall be as follows:
+
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{|p{0.25\linewidth}|p{0.30\linewidth}|p{0.15\linewidth}|p{0.12\linewidth}|}
+\hline
+&
+付款时间\newline Timing of Payments
+&
+付款日期\newline Date (yyyy.mm.dd)
+&
+Amount (RMB)\\
+\hline
+合同签订后60\%\newline After the contract is signed.
+&&&\\ \hline
+油漆工程进场前30\%\newline When half of the project period time has elapsed.
+&&&\\ \hline
+家具、灯具进场前5\%\newline Furniture of lamps and lanterns, before the approach.
+&&&\\ \hline
+验收合格后，五天内5\%\newline Upon Acceptance of the completion of the project.
+&&&\\ \hline
+增加工程项目100\%\newline Project changes.
+&
+签订工程项目变更单100\%\newline Date of signing for the project change.
+&&\\ \hline
+空调工程项目100\%\newline Air conditioning project
+&&&\\ \hline
+家具工程项目100\%\newline Furniture engineering
+&&&\\ \hline
+\end{longtable}
+
+\begin{center}
+1
+\end{center}
+
+\end{document}
+```

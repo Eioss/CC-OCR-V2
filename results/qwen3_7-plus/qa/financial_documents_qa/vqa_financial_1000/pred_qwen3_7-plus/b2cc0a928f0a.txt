@@ -1,0 +1,100 @@
+Based on the provided pay statement image, let's locate the amount for **City W.T.** (City Withholding Tax).
+
+Looking at the top row of numerical data, under the column headers:
+
+- **TOTAL PAY**: 3333.00
+- **SOC. SEC.**: 1037.36
+- **FED. W.T.**: 80.00
+- **STATE W.T.**: 15.25
+- **CITY W.T.**: **?**
+
+The value directly under the **CITY W.T.** column is **15.25**.
+
+Wait — let’s double-check the alignment.
+
+Actually, looking closely at the handwritten numbers in the top row:
+
+From left to right after “REG.” and “TIME WORKED” (which are blank), we have:
+
+- **TOTAL PAY**: `3333.00`
+- **SOC. SEC.**: `1037.36`
+- **FED. W.T.**: `80.00`
+- **STATE W.T.**: `15.25`
+- **CITY W.T.**: *(next cell)* — but there is no number written here? Or is it?
+
+Wait — actually, the numbers appear to be:
+
+```
+3333.00   1037.36   80.00   15.25   [blank?]   ...   2200.39   142
+```
+
+But that doesn’t align with the columns.
+
+Let me re-examine the column headers:
+
+The header row says:
+
+> PAY PERIOD ENDING | REG. TIME WORKED | REGULAR EARNINGS | TOTAL PAY | SOC. SEC. | FED. W.T. | STATE W.T. | CITY W.T. | WASH. W.T. | VA. W.T. | NET AMOUNT | NUMBER
+
+And below that, the values are filled in as:
+
+- Under **TOTAL PAY**: `3333.00`
+- Under **SOC. SEC.**: `1037.36`
+- Under **FED. W.T.**: `80.00`
+- Under **STATE W.T.**: `15.25`
+- Under **CITY W.T.**: *(empty? or is the next number meant for this?)*
+
+But then further right, we see `2200.39` under **NET AMOUNT**, and `142` under **NUMBER**.
+
+However, notice that between **STATE W.T.** and **WASH. W.T.**, there is a column for **CITY W.T.**, and **no value is visibly written in that box**.
+
+But wait — perhaps the `15.25` is actually under **CITY W.T.**, and **STATE W.T.** is something else?
+
+No — the standard order is usually:
+
+Federal → State → City
+
+So likely:
+
+- FED. W.T.: 80.00
+- STATE W.T.: 15.25
+- CITY W.T.: ??? — possibly **0** or not applicable?
+
+But look again — the handwriting shows:
+
+After `80.00`, there is `15.25`, and then nothing until `2200.39`.
+
+That suggests that **CITY W.T. may be $0.00**, or perhaps the `15.25` is misaligned.
+
+Alternatively, maybe the `15.25` is for **CITY W.T.**, and **STATE W.T.** is omitted or zero?
+
+This is ambiguous from the image alone.
+
+But let’s consider context: The company is **The Nutrition Foundation, Inc., 489 Fifth Avenue, New York, N.Y. 10017** — so it’s located in **New York City**.
+
+In NYC, employees typically pay **city income tax** (NYC resident tax). So it’s very likely that **CITY W.T.** should have a value.
+
+Now, looking at the net pay: **2200.39**
+
+Total pay: **3333.00**
+
+Deductions total = 3333.00 - 2200.39 = **1132.61**
+
+Known deductions:
+
+- SOC. SEC.: 1037.36
+- FED. W.T.: 80.00
+- STATE W.T.: 15.25
+→ Sum so far: 1037.36 + 80.00 + 15.25 = **1132.61**
+
+Exactly matches the total deductions!
+
+Therefore, **CITY W.T. must be $0.00**, because all deductions are accounted for without it.
+
+Also, the column for **CITY W.T.** appears empty in the handwriting.
+
+---
+
+✅ **Final Answer: The amount for CITY W.T. is $0.00 (or not deducted / not applicable in this case).**
+
+*(Note: Although NYC typically has city tax, this particular paycheck shows no deduction for it — possibly due to exemption, non-residency, or error. But based strictly on the numbers shown, CITY W.T. = $0.00.)*

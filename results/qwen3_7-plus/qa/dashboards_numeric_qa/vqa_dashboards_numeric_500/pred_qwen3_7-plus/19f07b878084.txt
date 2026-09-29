@@ -1,0 +1,43 @@
+Looking at the **cumulative production** figures listed for each state (and “Rest of United States”) from January 2000 to July 2019:
+
+- **Texas**: 14.1 billion barrels  
+- **Alaska**: 9.8 billion barrels  
+- **California**: 4.2 billion barrels  
+- **North Dakota**: 3.6 billion barrels  
+- **Oklahoma**: 2.0 billion barrels  
+- **New Mexico**: 2.0 billion barrels  
+- **Rest of United States**: 13.1 billion barrels  
+
+The question asks: **After “Rest of United States”, which state had the next highest cumulative production?**
+
+So we exclude “Rest of United States” (13.1 billion) and look for the **next highest among the individual states**.
+
+That would be **Texas**, with **14.1 billion barrels** — which is actually *higher* than the “Rest of United States”.
+
+But if the intent is to ask: **“Among the six named states, after excluding ‘Rest of US’, which has the next highest?”** — then we compare only the six:
+
+- Texas: 14.1B
+- Alaska: 9.8B
+- California: 4.2B
+- North Dakota: 3.6B
+- Oklahoma: 2.0B
+- New Mexico: 2.0B
+
+Then **after Texas**, the next highest is **Alaska** with **9.8 billion barrels**.
+
+However, since the question says **“After rest of United States”**, it implies we are ranking all entries including “Rest of US”, and asking what comes *after* that in descending order.
+
+Let’s list them in descending order of cumulative production:
+
+1. **Texas** — 14.1B  
+2. **Rest of United States** — 13.1B  
+3. **Alaska** — 9.8B  
+4. **California** — 4.2B  
+5. **North Dakota** — 3.6B  
+6. **Oklahoma & New Mexico** — 2.0B each
+
+So, **after “Rest of United States” (which is #2)**, the next highest is **Alaska (#3)**.
+
+---
+
+✅ **Final Answer: Alaska**

@@ -1,0 +1,31 @@
+\[
+\begin{aligned}
+&\frac{1}{2}
+\begin{bmatrix}D^{F_0}\\ X^U\\ I^{F_1}\end{bmatrix}^{T}
+\begin{bmatrix}
+Q^{F_0F_0} & Q^{F_0U} & Q^{F_0F_1}\\
+Q^{UF_0} & Q^{UU} & Q^{UF_1}\\
+Q^{F_1F_0} & Q^{F_1U} & Q^{F_1F_1}
+\end{bmatrix}
+\begin{bmatrix}D^{F_0}\\ X^U\\ I^{F_1}\end{bmatrix}
++
+\begin{bmatrix}C^{F_0}\\ C^U\\ C^{F_1}\end{bmatrix}^{T}
+\begin{bmatrix}D^{F_0}\\ X^U\\ I^{F_1}\end{bmatrix}\\
+&=
+\frac{1}{2}
+\begin{bmatrix}X^U\\ I^{F_1}\end{bmatrix}^{T}
+\begin{bmatrix}
+Q^{UU} & Q^{UF_1}\\
+Q^{F_1U} & Q^{F_1F_1}
+\end{bmatrix}
+\begin{bmatrix}X^U\\ I^{F_1}\end{bmatrix}
++
+\begin{bmatrix}C^U\\ C^{F_1}\end{bmatrix}^{T}
+\begin{bmatrix}X^U\\ I^{F_1}\end{bmatrix}\\
+&=
+\frac{1}{2}(X^U)^TQ^{UU}X^U
++(X^U)^TQ^{UF_1}I^{F_1}
++(C^U)^TX^U
++\xi^{F_1,U}.
+\end{aligned}
+\]

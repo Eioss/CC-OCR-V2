@@ -1,0 +1,24 @@
+<table>
+  <tr>
+    <td colspan="3">Instance</td>
+    <td rowspan="2">TSGA</td>
+    <td rowspan="2">IM-TSGA</td>
+    <td rowspan="2">DIM-TSGA</td>
+  </tr>
+  <tr><td>m</td><td>n</td><td>s</td></tr>
+  <tr><td>200</td><td>50</td><td>2</td><td>8440</td><td>5030</td><td>5604</td></tr>
+  <tr><td>200</td><td>100</td><td>2</td><td>11262</td><td>5597</td><td>6609</td></tr>
+  <tr><td>300</td><td>100</td><td>2</td><td>15145</td><td>9017</td><td>9226</td></tr>
+  <tr><td>300</td><td>100</td><td>3</td><td>16898</td><td>8850</td><td>9316</td></tr>
+  <tr><td>400</td><td>100</td><td>2</td><td>26211</td><td>11994</td><td>12061</td></tr>
+  <tr><td>400</td><td>100</td><td>3</td><td>23017</td><td>11669</td><td>11695</td></tr>
+  <tr><td>300</td><td>200</td><td>2</td><td>19548</td><td>10066</td><td>10448</td></tr>
+  <tr><td>400</td><td>200</td><td>2</td><td>29532</td><td>12590</td><td>12865</td></tr>
+  <tr><td>400</td><td>200</td><td>3</td><td>27146</td><td>15393</td><td>15745</td></tr>
+  <tr><td>500</td><td>200</td><td>2</td><td>29426</td><td>16483</td><td>17165</td></tr>
+  <tr><td>500</td><td>200</td><td>3</td><td>34028</td><td>18697</td><td>19442</td></tr>
+  <tr><td>600</td><td>200</td><td>3</td><td>42712</td><td>23081</td><td>24517</td></tr>
+  <tr><td>500</td><td>300</td><td>3</td><td>41652</td><td>22337</td><td>23352</td></tr>
+  <tr><td>600</td><td>300</td><td>3</td><td>48013</td><td>24520</td><td>25446</td></tr>
+  <tr><td>700</td><td>300</td><td>3</td><td>58561</td><td>30106</td><td>32665</td></tr>
+</table>

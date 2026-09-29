@@ -1,0 +1,3 @@
+$$H = \begin{pmatrix} X_1 & X_{c+1} & \cdots & X_{(p-1)c+1} \\ X_{d+1} & X_{d+c+1} & \cdots & X_{d+(p-1)c+1} \\ \vdots & \vdots & \ddots & \vdots \\ X_{(q-1)d+1} & X_{(q-1)d+c+1} & \cdots & X_{(q-1)d+(p-1)c+1} \end{pmatrix},$$
+
+$$H' = \begin{pmatrix} X_2 & X_{c+2} & \cdots & X_{(p-1)c+2} \\ X_{d+2} & X_{d+c+2} & \cdots & X_{d+(p-1)c+2} \\ \vdots & \vdots & \ddots & \vdots \\ X_{(q-1)d+2} & X_{(q-1)d+c+2} & \cdots & X_{(q-1)d+(p-1)c+2} \end{pmatrix}.$$

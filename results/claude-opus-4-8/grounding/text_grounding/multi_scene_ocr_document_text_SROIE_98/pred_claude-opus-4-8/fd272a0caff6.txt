@@ -1,0 +1,4 @@
+There are two instances of 'RM83.00' in the image:
+
+(303, 793, 414, 818) # CHECKS PAID amount
+(303, 821, 414, 845) # TOTAL amount

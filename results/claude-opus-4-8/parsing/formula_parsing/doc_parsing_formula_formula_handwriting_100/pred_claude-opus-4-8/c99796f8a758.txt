@@ -1,0 +1,13 @@
+$$E\left|\sum_{j=1}^{n} E_{j\to x_{ij}}\right|^p = O\left(\frac{2^p|z|^p}{8^p}\right) + O\left(\frac{2^p|z|^{2p}}{8^p}\right) + O\left(\frac{2^p|z|^{2p}}{8^p}\right) \leq \Phi_{i,j}(|z|)\Phi_{i,j}(|z|)\Phi_{i,j}(\Delta z).$$
+
+$$\check{V}_{i,j} = \check{r}_{i,j} = \frac{1}{2}\left(a_{ij}^{\vee} + 3\left(a_{i+1}^{\vee} + \cdots + a_{n}^{\vee}\right)\right),$$
+
+$$J(u) := \|Tu - g\|_{2}^{2} + 2\alpha\|D(u)\|(\Omega),$$
+
+$$\check{r}_{i} := \inf_{V} \frac{\rho_{ij}^{k_{i}}((1-\rho)[(v]+(v-\eta)\}+(v]\rho_{ij}(1-\rho)[(v]+(v-\eta)\}+[H](1-v))}{(v-\rho)(1-\eta)}, \quad (v \geq z z)$$
+
+$$\sum_{j=0}^{N-1}\left(H_{ij} - \omega S_{ij}\right)C_{j} = 0, \quad i = 0, 1, \ldots, N-1$$
+
+$$H_{ij} = \int_{q_{0}}^{\infty} f_{i}(q)\hat{H}f_{j}(q)dq, \quad S_{ij} = \int_{q_{0}}^{\infty} f_{i}(q)f_{j}(q)dq$$
+
+$$\mathbb{E}_{\phi}\left(f(Ga) - f(Gb)\right) \leq \mathbb{E}_{\phi}\left(\frac{\pi}{2}\|a-b\|_{2}\langle \nabla f(X), Y\rangle\right),$$

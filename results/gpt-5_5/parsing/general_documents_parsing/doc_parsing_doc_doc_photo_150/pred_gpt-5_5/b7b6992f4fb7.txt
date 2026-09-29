@@ -1,0 +1,144 @@
+```latex
+\textbf{SEQUENCE AND SERIES} \hfill \textbf{8.3}
+
+\begin{center}
+\textbf{OBJECTIVE QUESTIONS}
+\end{center}
+
+\begin{enumerate}
+\item If the sum of the first \(2n\) terms of the A.P. \(2, 5, 8, \ldots\) is equal to the sum of the first \(n\) terms of the A.P. \(57, 59, 61, \ldots\), then \(n\) equals
+\[
+\begin{array}{ll}
+\text{(a)}\ 10 & \text{(b)}\ 12 \\
+\text{(c)}\ 11 & \text{(d)}\ 13
+\end{array}
+\]
+
+\item If \(x, y, z\) are three positive numbers in G.P. then
+\[
+\frac{1}{1+\ln x},\quad \frac{1}{1+\ln y},\quad \frac{1}{1+\ln z}
+\]
+are in
+\[
+\begin{array}{ll}
+\text{(a)}\ \text{A.P.} & \text{(b)}\ \text{G.P.} \\
+\text{(c)}\ \text{H.P.} & \text{(d)}\ \text{none of these}
+\end{array}
+\]
+
+\item Let \(a, b, c\) are in A.P. and \(a^2, b^2, c^2\) are in G.P. If \(a < b < c\) and
+\[
+a+b+c=\frac{3}{2},
+\]
+then value of \(a\) is
+\[
+\begin{array}{ll}
+\text{(a)}\ \dfrac{1}{2\sqrt{2}} & \text{(b)}\ \dfrac{1}{2\sqrt{3}} \\[6pt]
+\text{(c)}\ \dfrac{1}{2}-\dfrac{1}{\sqrt{3}} & \text{(d)}\ \dfrac{1}{2}-\dfrac{1}{\sqrt{2}}
+\end{array}
+\]
+
+\item If \(1, \log_y x, \log_z y, -15\log_x z\) are in A.P., then
+\[
+\begin{array}{ll}
+\text{(a)}\ z^3=x & \text{(b)}\ x=y^{-1} \\
+\text{(c)}\ z^{-3}=y & \text{(d)}\ \text{all of these}
+\end{array}
+\]
+
+\item The sum to \(n\) terms of the series
+\[
+\frac{2}{3}+\frac{8}{9}+\frac{26}{27}+\frac{80}{81}+\cdots
+\]
+is equal to
+\[
+\begin{array}{ll}
+\text{(a)}\ 1-\left(\dfrac{1}{3}\right)^n
+&
+\text{(b)}\ 2-\dfrac{1}{2}\left(\dfrac{2}{3}\right)^n
+\\[6pt]
+\text{(c)}\ n-n\left(\dfrac{1}{3}\right)^n
+&
+\text{(d)}\ \text{none of these}
+\end{array}
+\]
+
+\item Let \(a_n\) be the \(n\)th term of a G.P. of positive integers. Let
+\[
+\sum_{n=1}^{100} a_{2n}=\alpha
+\quad \text{and} \quad
+\sum_{n=1}^{100} a_{2n+1}=\beta
+\]
+such that \(\alpha \ne \beta\). Thus common ratio of the G.P. is
+\[
+\begin{array}{ll}
+\text{(a)}\ \dfrac{\alpha}{\beta} & \text{(b)}\ \dfrac{\beta}{\alpha} \\[6pt]
+\text{(c)}\ \left(\dfrac{\alpha}{\beta}\right)^{1/2} & \text{(d)}\ \left(\dfrac{\beta}{\alpha}\right)^{1/2}
+\end{array}
+\]
+
+\item Let \(T_r\) be the \(r\)th term of an A.P. for \(r=1,2,3,\ldots\). If for some positive integers \(m, n\)
+\[
+T_m=\frac{1}{n},\quad T_n=\frac{1}{m},
+\]
+then \(T_{mn}\) equals
+\[
+\begin{array}{ll}
+\text{(a)}\ \dfrac{1}{mn} & \text{(b)}\ \dfrac{1}{m}+\dfrac{1}{n} \\
+\text{(c)}\ 1 & \text{(d)}\ 0
+\end{array}
+\]
+
+\item If \(a_1, a_2, \ldots, a_n\) are positive real numbers whose product is a fixed number \(c\), then the minimum value of
+\[
+a_1+a_2+\cdots+a_{n-1}+2a_n
+\]
+is
+\[
+\begin{array}{ll}
+\text{(a)}\ n(2c)^{1/n} & \text{(b)}\ (n+1)c^{1/n} \\
+\text{(c)}\ 2nc^{1/n} & \text{(d)}\ (n+1)(2c)^{1/n}
+\end{array}
+\]
+
+\item If the first term of an A.P. of consecutive integers is \(p^2+1\), then sum of \((2p+1)\) terms of this series can be expressed as
+\[
+\begin{array}{ll}
+\text{(a)}\ (p+1)^2 & \text{(b)}\ (2p+1)(p+1)^2 \\
+\text{(c)}\ (p+1)^3 & \text{(d)}\ p^3+(p+1)^3
+\end{array}
+\]
+
+\item If \(x>1\) and
+\[
+\left(\frac{1}{x}\right)^a,\quad
+\left(\frac{1}{x}\right)^b,\quad
+\left(\frac{1}{x}\right)^c
+\]
+are in G.P., then \(a, b, c\) are in
+\[
+\begin{array}{ll}
+\text{(a)}\ \text{A.P.} & \text{(b)}\ \text{G.P.} \\
+\text{(c)}\ \text{H.P.} & \text{(d)}\ \text{none of these}
+\end{array}
+\]
+
+\item If the positive numbers \(a, b, c, d\) be in A.P., then \(abc, abd, acd\) are
+\[
+\begin{array}{ll}
+\text{(a)}\ \text{not in A.P., G.P. and H.P.} \\
+\text{(b)}\ \text{in A.P.} \\
+\text{(c)}\ \text{in G.P.} \\
+\text{(d)}\ \text{in H.P.}
+\end{array}
+\]
+
+\item The sixth term of an A.P. is \(2\) and its common difference is greater than one. The value of the common difference of the progression so that the product of the first, fourth and fifth terms is greatest, is
+\[
+\begin{array}{ll}
+\text{(a)}\ \dfrac{8}{5} & \text{(b)}\ \dfrac{2}{3} \\[6pt]
+\text{(c)}\ \dfrac{5}{8} & \text{(d)}\ \dfrac{3}{2}
+\end{array}
+\]
+\end{enumerate}
+```

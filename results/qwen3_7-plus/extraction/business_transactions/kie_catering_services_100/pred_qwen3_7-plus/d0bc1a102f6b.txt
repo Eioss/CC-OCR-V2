@@ -1,0 +1,23 @@
+```json
+{
+    "menu": [
+        {
+            "name": "ICE BLACKCOFFEE",
+            "num": "2",
+            "price": "82,000"
+        },
+        {
+            "name": "AVOCADO COFFEE",
+            "num": "1",
+            "price": "61,000"
+        },
+        {
+            "name": "CHIKEN KATSU FF",
+            "num": "1",
+            "price": "51,000"
+        }
+    ],
+    "sub_total": "194,000",
+    "total": "174,600"
+}
+```

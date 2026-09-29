@@ -1,0 +1,34 @@
+```html
+<table>
+  <tr>
+    <td><b>Generation Modes</b></td>
+    <td><b>c<sub>i</sub></b></td>
+    <td><b>c<sub>t</sub></b></td>
+    <td><b>c<sub>s</sub></b></td>
+  </tr>
+  <tr>
+    <td>Synthesis</td>
+    <td></td>
+    <td>&#10003;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Augmentation</td>
+    <td>&#10003;</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Recovery</td>
+    <td>&#10003;</td>
+    <td>&#10003;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Imitation</td>
+    <td>&#10003;</td>
+    <td>&#10003;</td>
+    <td>&#10003;</td>
+  </tr>
+</table>
+```

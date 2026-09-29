@@ -1,0 +1,15 @@
+\[
+\mathbb{E}\left[
+\int_{t_0}^{(t_0+h)\wedge \mu(u)\wedge T_S} f\left(s,X_s^{t_0,x_0,u}\right)\,ds
++\sum_{j\ge 1} c(T_j,\xi_j)\cdot \mathbf{1}_{\{T_j\le (t_0+h)\wedge \mu(u)\wedge T_S\}}
++G\left(\mu(u)\wedge T_S,X_{\mu(u)\wedge T_S}^{t_0,x_0,u}\right)\cdot \mathbf{1}_{\{\mu(u)\wedge T_S\le t_0+h\}}
+\right]
++\mathbb{E}\left[
+\int_{t_0+h}^{\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S}
+f\left(s,X_s^{t_0+h,X_{t_0+h}^{t_0,x_0,u},u_{[t_0+h,T_S]}}\right)\,ds
++\sum_{j\ge 1} c(T_j,\xi_j)\cdot \mathbf{1}_{\{\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S\ge T_j>t_0+h\}}
++G\left(\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S,
+X_{\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S}^{t_0+h,X_{t_0+h}^{t_0,x_0,u},u_{[t_0+h,T_S]}}\right)
+\cdot \mathbf{1}_{\{\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S<\infty\}}
+\right]\cdot \mathbf{1}_{\{\hat{\mu}(u_{[t_0+h,T_S]})\wedge T_S\ge t_0+h\}}-\epsilon
+\]

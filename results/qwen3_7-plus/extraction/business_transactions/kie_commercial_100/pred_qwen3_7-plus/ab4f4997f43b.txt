@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "9/1/2020",
+    "customer_order_id": "27056977",
+    "vendor_name": "KATZ TELEVISION GROUP",
+    "vendor_address": "125 West 55th St New York, NY 10019",
+    "customer_id": "9906251",
+    "customer_billing_name": "WATERFRONT STRATEGIE",
+    "customer_billing_address": "3050 K ST NW #100 Washington, DC 20007",
+    "amount_total_gross": "$4,530.00",
+    "amount_due": "$4,530.00"
+}
+```

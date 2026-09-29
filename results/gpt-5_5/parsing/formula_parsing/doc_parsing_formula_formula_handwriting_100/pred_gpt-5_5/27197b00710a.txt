@@ -1,0 +1,38 @@
+\[
+A_{2m+2}(y,z)\sim(-\epsilon)^{1/4}\left\{1+\bar{\xi}_{2m+2,r}(y,\infty)\right\},
+\]
+
+\[
+\mathbb{P}^{g}\left(R_k^i=\ell_k^i,\ i=1,\ldots,\bar n\right)\le \bar{\eta}^{r}\left(W,\bar{\pi},(\ell_k^i)_{i=1,\ldots,\bar n}\right),
+\]
+
+\[
+d=O\left(\log n+\log(1/\epsilon)\right)
+\]
+
+\[
+\bar{L}_f=\sup_{x\ne y}\Omega_f(x,y)\frac{|f(x)-f(y)|}{|x-y|}
+\]
+
+\[
+I+\frac12\left(V^+ + V^-\right)=\frac12\left(V^+-V^-\right)I^+
+\]
+
+\[
+I-\frac12\left(V^+ + V^-\right)=\frac12\left(-V^+-V^-\right)I^-,
+\]
+
+\[
+-u_1\cdot n_1+\alpha p_{1,r}+S_\gamma \partial_t p_{1,r}+\operatorname{div}u_{f,1}
+=
+-u_2\cdot n_1+\alpha p_{2,r}
+\quad \text{on } \Gamma\times(0,T),
+\]
+
+\[
+u_{f,1}=-K_\gamma \delta \nabla_\tau p_{1,r}
+\]
+
+\[
+|z_0\rangle\otimes|\xi(z_0)\rangle \xrightarrow{\mathcal I} |z_0\rangle\otimes|\phi(z_0)\rangle,
+\]

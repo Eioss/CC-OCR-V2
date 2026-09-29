@@ -1,0 +1,29 @@
+\[
+\begin{gathered}
+H(\xi)=3(1-\alpha)\xi^{2}+\xi^{3}\ge 3(1-\alpha)\xi^{2}-3(1-\alpha)\xi^{2}=0,\qquad -3(1-\alpha)\le \xi\le 0,\\[4pt]
+\int \bigl[(\partial_t\theta)(t)\bigr]^2 |x^\alpha-b|\,dx
+\le C\left(1+\int [\nabla\theta(t)]^{2\alpha}|\theta(t)|^{2-2\alpha}\,dx\right),\\[4pt]
+I\le \|f\|_{\rho}^{2}2^{nd-2\alpha n}
+\sum_{\sigma_k\in G_q}\sum_{\sigma_l\in G_q}
+\int_{\sigma_k}\int_{\sigma_l}|x-u|^{-2\alpha}\,du\,dx\\
+=\|f\|_{\rho}^{2}2^{nd-2\alpha n}
+\int_{\sigma_0}\int_{\sigma_0}|x-u|^{-2\alpha}\,du\,dx,\\[4pt]
+\left\|\sum_{k=1}^{K_n}\frac{f^2X_k}{q_{k-1}}(1-\mathbf{1}_{T_k})Y_n^{k+1}\right\|_{p/2}
+\le \|f\|_p^2\sum_{k=1}^{K_n}\int_{\varepsilon}^{\infty}
+\left((1-\eta)\|\cdot\|+\frac{x^{(k)}}{\eta}\right)^{p/2}\mu(d\eta)\\
+\qquad+\|f\|_p^2(t+s)^{n+1}
++\|f(t_0+s,t-r)f(s_0)\|_{p/2},\\[4pt]
+\sum_{m\in C}\frac{M_m}{M_{m+n}}
+\le S(2D)D^2
+\le \frac{3^r}{2^{n-r}}+2P^3S(2D)D^{r-i},\\[4pt]
+d\nu(r)=
+\begin{cases}
+e^{-s^{-3}}s^{-1}\,ds, & \text{if } s<t,\\
+\nu^{-s^{\alpha-1},\,s^{\alpha-1}}\dfrac{ds}{s-t}, & \text{if } s\ne t,
+\end{cases}\\[6pt]
+\dfrac{\Gamma(n-\gamma)}{\Gamma(n+1)}
+=n^{-\gamma}\left(n^{-1}+O(n^{-2})\right),\qquad n\to\infty,\\[6pt]
+\int_{0}^{\infty}x^{b-1}(u+x)^{-a-c}(v+x)^{-a}\,dx
+=v^{-b}B(b,c-b)F\left(a,b;c;1-\frac{u}{v}\right).
+\end{gathered}
+\]

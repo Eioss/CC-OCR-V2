@@ -1,0 +1,38 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Goblin's Mace",
+            "num": "1",
+            "price": "25,000"
+        },
+        {
+            "name": "Mozarella Hot Dog",
+            "num": "2",
+            "price": "38,000"
+        },
+        {
+            "name": "Chili Pepper Croquette",
+            "num": "1",
+            "price": "14,000"
+        },
+        {
+            "name": "Cheese Croquette",
+            "num": "1",
+            "price": "14,000"
+        },
+        {
+            "name": "Plastik Amook",
+            "num": "1",
+            "price": "0"
+        },
+        {
+            "name": "Plastik Putih Take Away",
+            "num": "1",
+            "price": "0"
+        }
+    ],
+    "sub_total": "91,000",
+    "total": "Rp. 91,000"
+}
+```

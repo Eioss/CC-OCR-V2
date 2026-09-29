@@ -1,0 +1,37 @@
+Based on the infographic, we can determine the average monthly cost of child care for each state from the map at the top.
+
+1.  **Lowest cost:** Mississippi at **$402**.
+2.  **Second-lowest cost:** Alabama at **$470** and South Dakota at **$472**. Wait, let's re-examine carefully.
+    *   Mississippi: $402
+    *   Alabama: $470
+    *   South Dakota: $472
+    *   Louisiana: $479
+    *   Tennessee: $488
+    *   Arkansas: $500
+    *   South Carolina: $540
+    *   Wyoming: $545
+
+The lowest is Mississippi ($402).
+The second-lowest is Alabama ($470).
+
+Wait, let me double-check all values to ensure no other state is between $402 and $470 or equal to $470.
+
+-   Mississippi: $402 (lowest)
+-   Alabama: $470 (second-lowest)
+-   South Dakota: $472 (third-lowest)
+
+Only **Alabama** has the value $470.
+
+Therefore, only **one** state has the second-lowest average monthly cost of child care.
+
+However, let’s re-read the question: “How many states have the second-lowest average monthly cost of child care?”
+
+If "second-lowest" means the state with the next highest cost after the absolute lowest, then it's Alabama at $470 — and only one state has that exact value.
+
+But sometimes “second-lowest” might be interpreted as the two lowest distinct values — but that would be Mississippi and Alabama, which are different values.
+
+The question asks for how many states have *the* second-lowest cost — implying the specific dollar amount that is ranked second.
+
+Since only Alabama has $470, and no other state shares that exact cost, the answer is **1**.
+
+✅ Final Answer: **1**

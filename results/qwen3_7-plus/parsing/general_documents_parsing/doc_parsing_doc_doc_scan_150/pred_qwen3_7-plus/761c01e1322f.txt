@@ -1,0 +1,83 @@
+```latex
+\begin{tabular}{l c c c c c}
+ & A & 1 & 8 & 9 & 16 \dots \\
+ & B & 2 & 7 & 10 & 15 \dots \\
+ & C & 3 & 6 & 11 & 14 \dots \\
+ & D & 4 & 5 & 12 & 13 \dots
+\end{tabular}
+
+\vspace{1cm}
+
+\noindent 7. In which row is the number 600?
+\begin{enumerate}
+    \item[(1)] 1st row
+    \item[(2)] 2nd row
+    \item[(3)] 3rd row
+    \item[(4)] 4th row
+\end{enumerate}
+
+\noindent 8. How many columns are there in Row A if 200 is the last number?
+\begin{enumerate}
+    \item[(1)] 48
+    \item[(2)] 50
+    \item[(3)] 52
+    \item[(4)] 54
+\end{enumerate}
+
+\noindent 9. Compute the following.
+$$37 + 397 + 3997 + 39\,997$$
+\begin{enumerate}
+    \item[(1)] 42\,284
+    \item[(2)] 42\,482
+    \item[(3)] 44\,248
+    \item[(4)] 44\,428
+\end{enumerate}
+
+\noindent 10. Compute the following.
+$$298 + 2998 + 29\,998 + 299\,998$$
+\begin{enumerate}
+    \item[(1)] 333\,292
+    \item[(2)] 334\,222
+    \item[(3)] 334\,292
+    \item[(4)] 335\,222
+\end{enumerate}
+
+\noindent 11. Compute the following.
+$$9 + 99 + 999 + 9999 + 99\,999$$
+\begin{enumerate}
+    \item[(1)] 110\,215
+    \item[(2)] 110\,745
+    \item[(3)] 110\,995
+    \item[(4)] 111\,105
+\end{enumerate}
+
+\noindent 12. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?
+\begin{enumerate}
+    \item[(1)] 24
+    \item[(2)] 25
+    \item[(3)] 26
+    \item[(4)] 27
+\end{enumerate}
+
+\noindent 13. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?
+\begin{enumerate}
+    \item[(1)] 10
+    \item[(2)] 11
+    \item[(3)] 12
+    \item[(4)] 13
+\end{enumerate}
+
+\noindent 14. Find the values of A and B in the following.
+
+% Note: The triangles are visual elements. I will describe them textually as they appear in the options.
+% Triangle 1: Top=18, Bottom-Left=12, Bottom-Right=16, Center=10
+% Triangle 2: Top=34, Bottom-Left=25, Bottom-Right=15, Center=A
+% Triangle 3: Top=20, Bottom-Left=B, Bottom-Right=18, Center=22
+
+\begin{enumerate}
+    \item[(1)] $A = 6$, $B = 18$
+    \item[(2)] $A = 6$, $B = 24$
+    \item[(3)] $A = 8$, $B = 20$
+    \item[(4)] $A = 8$, $B = 22$
+\end{enumerate}
+```

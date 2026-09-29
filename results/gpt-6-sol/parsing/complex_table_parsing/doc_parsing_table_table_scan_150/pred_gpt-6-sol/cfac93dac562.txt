@@ -1,0 +1,29 @@
+<table>
+  <tr>
+    <td rowspan="2">I</td>
+    <td colspan="2">n = 2000, ρ = 0.1</td>
+    <td colspan="2">n = 20000, ρ = 1.0</td>
+  </tr>
+  <tr>
+    <td>OCS</td><td>MSE</td>
+    <td>OCS</td><td>MSE</td>
+  </tr>
+  <tr>
+    <td>I<sup>0</sup></td>
+    <td rowspan="3">{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}<br>{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}<br>{I<sup>0</sup>, I<sup>1</sup>, I<sup>2</sup>}</td>
+    <td>0.240±0.077</td>
+    <td rowspan="3">{I<sup>0</sup><br>I<sup>1</sup><br>I<sup>2</sup>}</td>
+    <td>0.783±0.269</td>
+  </tr>
+  <tr><td>I<sup>1</sup></td><td>0.264±0.075</td><td>0.907±0.457</td></tr>
+  <tr><td>I<sup>2</sup></td><td>0.237±0.037</td><td>1.136±0.227</td></tr>
+  <tr>
+    <td>I<sup>3</sup></td>
+    <td rowspan="3">{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}<br>{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}<br>{I<sup>3</sup>, I<sup>4</sup>, I<sup>5</sup>}</td>
+    <td>0.259±0.070</td>
+    <td rowspan="3">{I<sup>3</sup><br>I<sup>4</sup><br>I<sup>5</sup>}</td>
+    <td>1.033±0.307</td>
+  </tr>
+  <tr><td>I<sup>4</sup></td><td>0.255±0.087</td><td>0.986±0.329</td></tr>
+  <tr><td>I<sup>5</sup></td><td>0.255±0.031</td><td>1.032±0.274</td></tr>
+</table>

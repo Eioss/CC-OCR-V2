@@ -1,0 +1,17 @@
+$$| T E , ( x , N ) | \leq c ( N H ^ { \frac { 1 } { 2 } } L ^ { - \frac { 1 } { 2 } } + L ^ { \frac { 1 } { 2 } } )$$
+
+$$\int _ { Q _ { R } ^ { T - R ^ { m } , T } } u ^ { p } d x d t > 0 .$$
+
+$$\varphi \left\{ \underset { a } { \overset { R } { \mathcal { I } } } _ { t } ^ { q \alpha } f ( t ) \right\} = \sum _ { k = 0 } ^ { + \infty } \frac { f ^ { ( k ) } ( a ) } { s ^ { k + - \alpha } } \frac { e ^ { - a s } \Gamma ( k + \alpha + 1 , - a s ) } { F ( k + \alpha + 1 ) } ,$$
+
+$$\sum _ { \lambda } [ \frac { u } { \lambda } ] ^ { - \varepsilon } [ \frac { v } { \lambda } ] ^ { - \varepsilon } \leq _ { \varepsilon } ( 1 + \log [ \frac { u } { v } ] ) [ \frac { u } { v } ] ^ { - \varepsilon } = C _ { \mu } / v \cdot$$
+
+$$x \rightarrow x \tilde { V } ^ { \prime } ( x ) = x V ^ { \prime } ( x ) + \int \frac { x } { x - s } d V ^ { \ast } ( s )$$
+
+$$\begin{array} { l } { { \Phi _ { R } + \Phi _ { R } ^ { * } = 2 { \times } R e \{ \Phi _ { R } \} , } } \\ { { \Phi _ { R } - \Phi _ { R } ^ { * } = 2 i { \times } \operatorname { I m } \{ \Phi _ { R } \} , } } \end{array}$$
+
+$$\sigma ( A _ { i } ) = A _ { i } , \sigma ( B _ { i } ) = B _ { i } + A _ { i } ^ { e _ { i } }$$
+
+$$\phi ( r ) = \int _ { 0 } ^ { r } x ^ { 2 } ( \frac { s } { 2 R } ) d s = \int _ { 0 } ^ { r } \psi ( \frac { s } { 2 R } ) d s ,$$
+
+$$\frac { 1 } { b - a } \int _ { a } ^ { b } f ( x ) d x \leq \min \{ L ( f ( a ) , f ( \frac { b } { m } ) ^ { m } ) , L ( f ( b ) , f ( \frac { a } { m } ) ^ { m } ) \} ,$$

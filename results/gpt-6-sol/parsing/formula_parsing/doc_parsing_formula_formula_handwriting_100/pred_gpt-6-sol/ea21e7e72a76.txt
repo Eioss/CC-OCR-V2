@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+M' &\cong \mathbb{L}_B\circ\mathbb{L}_B^{\perp\perp}\\
+&\cong \mathbb{L}_B^{\perp\perp}[1]\\
+&=i_{A^-}^{L}\circ i_{A^+}[1]\\
+&\cong i_{A^+}^{L}\circ S\circ i_{A^+}[1]\\
+&\cong i_{A^+}^{L}\circ i_{A^-}\circ i_{A^-}^{L}\circ S\circ i_{A^+}[1]\\
+&=\mathbb{L}_B\circ i_{A^-}^{L}\circ S\circ i_{A^+}[1]\\
+&\cong i_{A^-}^{L}\circ S\circ i_{A^+}[2]\\
+&\cong i_{A^+}^{L}\circ S\circ i_{A^+}\circ i_{A^-}^{L}\circ S\circ i_{A^+}[2]\\
+&=i_{A^+}^{L}\circ S^2\circ i_{A^+}[2].
+\end{aligned}
+\]

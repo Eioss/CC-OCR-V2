@@ -1,0 +1,9 @@
+```json
+{
+    "menu": [
+        "1 BAKSO BNGKS",
+        "6 GORENGAN"
+    ],
+    "total": "21,000"
+}
+```

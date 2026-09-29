@@ -1,0 +1,13 @@
+Based on the infographic, **Fact #12** states:
+
+> **41% of consumers believe AI and ML will make their lives better.**
+
+To find the percentage of consumers who **do not** believe this, we subtract from 100%:
+
+**100% - 41% = 59%**
+
+---
+
+✅ Therefore, **59% of consumers do not believe that AI & ML will make their lives better.**
+
+*(Note: This assumes the survey only had two options — “believe” or “do not believe.” The infographic doesn’t specify if there was a “neutral” or “unsure” category, so we’re calculating based on the binary implication of the statistic provided.)*

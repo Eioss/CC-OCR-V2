@@ -1,0 +1,19 @@
+$$\begin{array} { r l } { | \top X ^ { R } | _ { L _ { W } ^ { r } L _ { [ 0 , T ] } ^ { \infty } L _ { x } ^ { 2 } } } & { { } \leq | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + \left| \int _ { 0 } ^ { t } S _ { \beta } ( t , s ) \varrho _ { R } ( X ^ { R } ) ( s ) | X ^ { R } ( s ) | ^ { 2 \sigma } X ^ { R } ( s ) d s \right| _ { L _ { W } ^ { r } L _ { [ 0 , T ] } ^ { \infty } L _ { x } ^ { 2 } } } \\ { } & { { } \leq | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| \varrho _ { R } ( X ^ { R } ) | X ^ { R } | ^ { 2 \sigma + 1 } \right| _ { L _ { W } ^ { r } L _ { [ 0 , T ] } ^ { p ^ { \prime } } L _ { x } ^ { p ^ { \prime } } } } \\ { } & { { } = | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| \left[ \int _ { 0 } ^ { T } \varrho _ { R } ( X ^ { R } ) ^ { \gamma ^ { \prime } } ( t ) \left( \int _ { \Gamma } | X ^ { R } ( t ) | ^ { ( 2 \sigma + 1 ) p ^ { \prime } } d x \right) ^ { \frac { \gamma ^ { \prime } } { p ^ { \prime } } } d t \right] ^ { 1 / \gamma ^ { \prime } } \right| _ { L _ { W } ^ { r } } } \end{array}$$
+
+$$S i n c e p ^ { \prime } = \frac { 2 \sigma + 2 } { 2 \sigma + 1 } , ~ t h e ~ r i g h t ~ h a n d ~ s i d e ~ e q u a l s$$
+
+ $$= | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| ( \int _ { 0 } ^ { T } \! \! \varrho _ { R } ( X ^ { R } ) ^ { \gamma ^ { \prime } } ( t ) | X ^ { R } ( t ) | _ { L _ { x } ^ { p } } ^ { ( 2 \sigma + 1 ) \gamma ^ { \prime } } d t ) ^ { \frac { 1 } { \gamma ^ { \prime } } } \right| _ { L _ { W } ^ { r } }$$
+
+ $$S i n c e \gamma \geq p = 2 \sigma + 2 , w e ~ c a n ~ a p p l y ~ H \ddot { o } l d e r ^ { \prime } s ~ i n e q u a l i t y ~ t o ~ g e t$$
+
+ $$\leq | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| ( \int _ { 0 } ^ { T } [ \varrho _ { R } ( X ^ { R } ) ( t ) ] ^ { \gamma / ( 2 \sigma + 1 ) } | X ^ { R } ( t ) | _ { L _ { x } ^ { p } } ^ { \gamma } d t ) ^ { \frac { 2 \sigma + 1 } { \gamma } } T ^ { \frac { \gamma - \gamma ^ { \prime } ( 2 \sigma + 1 ) } { \gamma \gamma ^ { \prime } } } \right| _ { L _ { W } ^ { r } }$$
+
+ $$L e t t i n g \; \tilde { t } ( \omega ) : = \operatorname* { i n f } \big \{ s : | X ^ { R } ( \omega ) | _ { L ^ { \gamma } ( [ 0 , s ] ; L _ { x } ^ { p } ) } \geq 2 R \big \} , \; f r o m \; d e f i n i t i o n \; o f \; \varrho _ { R } \; i n \; ( \ref { e q : 4 . 2 } ) ,$$
+
+ $$w e ~ h a v e ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ = | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| ( \int _ { 0 } ^ { \tilde { t } } [ \varrho _ { R } ( X ^ { R } ) ( t ) ] ^ { \gamma / ( 2 \sigma + 1 ) } | X ^ { R } ( t ) | _ { L _ { x } ^ { p } } ^ { \gamma } d t ) ^ { \frac { 2 \sigma + 1 } { \gamma } } \right| _ { L _ { W } ^ { r } }$$
+
+ $$w h e r e \tilde { \beta } = \bar { \beta } + \frac { \gamma - \gamma ^ { \prime } ( 2 \sigma + 1 ) } { \gamma \gamma ^ { \prime } } > 0 \; . \; F u r t h e r m o r e ,$$
+
+ $$\leq | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } \left| ( \int _ { 0 } ^ { \tilde { t } } | X ^ { R } ( t ) | _ { L _ { x } ^ { p } } ^ { \gamma } d t ) ^ { \frac { 2 \sigma + 1 } { \gamma } } \right| _ { L _ { W } ^ { r } }$$
+
+ $$\leq | X _ { 0 } | _ { L _ { W } ^ { r } L _ { x } ^ { 2 } } + C _ { r , p } \, T ^ { \tilde { \beta } } ( 2 R ) ^ { 2 \sigma } | X ^ { R } | _ { L _ { W } ^ { r } L _ { [ 0 , T ] } ^ { \gamma } L _ { x } ^ { p } } ,$$

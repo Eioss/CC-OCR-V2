@@ -1,0 +1,3 @@
+Based on the infographic, the **VMware vSphere Standard, Enterprise, and Enterprise Plus** editions all support a maximum of **512 guests per host**.
+
+This is the highest number of guest machines shown for VMware in the comparison table. All three VMware editions (Standard, Enterprise, and Ent. Plus) support 512 max guests per host, which is higher than the Microsoft Hyper-V editions that max out at 384 guests per host.

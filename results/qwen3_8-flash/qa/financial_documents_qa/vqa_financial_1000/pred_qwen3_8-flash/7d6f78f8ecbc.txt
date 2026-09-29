@@ -1,0 +1,8 @@
+Based on the provided flowchart, let's trace the "Active" path (the left column):
+
+1.  **Active in MAILFILE:** 200
+2.  **Calculated Active Universe:** 1,440
+3.  **Promotion Penetration:** 13.9%
+4.  **Maximum Allowable:** **86**
+
+The number for the maximum allowable in the active mailfile is **86**.

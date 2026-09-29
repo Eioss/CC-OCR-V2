@@ -1,0 +1,88 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: center;">
+    <tr>
+        <td>姓名</td>
+        <td>李杨</td>
+        <td>部门</td>
+        <td>物业部</td>
+        <td>入职日期</td>
+        <td>2020.10.19</td>
+        <td>调动执行<br>日期</td>
+        <td>2021.10.1</td>
+    </tr>
+    <tr>
+        <td>调动类型</td>
+        <td colspan="7" style="text-align: left; padding-left: 10px;">
+            □调动 &nbsp;&nbsp;&nbsp;&nbsp; □借调 &nbsp;&nbsp;&nbsp;&nbsp; □公司调动 &nbsp;&nbsp;&nbsp;&nbsp; ☑岗位调动 &nbsp;&nbsp;&nbsp;&nbsp; □其他
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="4" style="writing-mode: vertical-rl; text-orientation: upright; letter-spacing: 5px;">异<br>动<br>前</td>
+        <td>部门</td>
+        <td colspan="2">物业部</td>
+        <td rowspan="4" style="writing-mode: vertical-rl; text-orientation: upright; letter-spacing: 5px;">异<br>动<br>后</td>
+        <td>部门</td>
+        <td colspan="2">物业部</td>
+    </tr>
+    <tr>
+        <td>岗位</td>
+        <td colspan="2">勤杂工</td>
+        <td>岗位</td>
+        <td colspan="2">水电工</td>
+    </tr>
+    <tr>
+        <td>薪资</td>
+        <td colspan="2">3000 + 500</td>
+        <td>薪资</td>
+        <td colspan="2">3500 + 500</td>
+    </tr>
+    <tr>
+        <td>调出日期</td>
+        <td colspan="2">2021年 9月 26日</td>
+        <td>调入日期</td>
+        <td colspan="2">2021年 10月 1日</td>
+    </tr>
+    <tr>
+        <td colspan="8" style="text-align: center; font-weight: bold;">调整意见</td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="4">部门意见</td>
+        <td colspan="6" style="text-align: left; padding: 5px;">
+            □职务调整 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; □不同意 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☑同意并调整为 <u>&nbsp;&nbsp;水电工&nbsp;&nbsp;</u>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" style="text-align: left; padding: 5px;">
+            □工资调整 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; □不同意 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☑同意并调整为 <u>&nbsp;叁&nbsp;</u> 仟 <u>&nbsp;伍&nbsp;</u> 佰 <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> 拾元整
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" style="text-align: left; padding: 5px;">
+            □岗位调整 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; □不同意 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☑同意 原岗位 <u>&nbsp;勤杂工&nbsp;</u> 调整为现岗
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" style="text-align: left; padding: 5px;">
+            位 <u>&nbsp;&nbsp;水电工&nbsp;&nbsp;</u>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">转出部门意见</td>
+        <td colspan="2">同意</td>
+        <td colspan="2">转入部门意见</td>
+        <td colspan="2">同意</td>
+    </tr>
+    <tr>
+        <td colspan="2">部门负责人意见</td>
+        <td colspan="2" style="font-family: cursive; font-size: 1.2em;">[Signature]</td>
+        <td colspan="2">综合办人事处意见</td>
+        <td colspan="2" style="font-family: cursive; font-size: 1.2em;">王丹</td>
+    </tr>
+    <tr>
+        <td colspan="2">商管公司意见</td>
+        <td colspan="2" style="font-family: cursive; font-size: 1.2em;">[Signature]</td>
+        <td colspan="2">总经理意见</td>
+        <td colspan="2" style="font-family: cursive; font-size: 1.2em;">[Signature]</td>
+    </tr>
+</table>
+```

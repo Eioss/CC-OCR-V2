@@ -1,0 +1,28 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section*{Exercise 55}
+
+\begin{enumerate}
+    \item The cost of 1 bicycle is ₹ 1475. Find the cost of 23 bicycles.
+    \item A man makes 87 toys in 1 day. How many toys does he make in four weeks?
+    \item Buttons are packed in packets of 576 each. How many buttons are there in 248 packets?
+    \item The consumption of petrol in a scooter is 54 km per litre. How much distance will it cover in 15 litres of petrol?
+    \item The price of 17 table fans is ₹ 6545. What is the cost of 1 table fan? What is the cost of 8 table fans?
+    \item Three planes can carry 1185 passengers. How many passengers can be carried by 8 such planes?
+    \item 2250 clips are equally packed in 18 packets. How many clips are there in one packet?
+    \item A car covers 2025 km in 25 hours. How much distance does it cover in 1 hour?
+    \item An off-set printing machine prints 37600 forms in 16 hours. How many forms does it print in 1 hour?
+    \item A factory produces 6816 motor horns in 12 days. How many horns does it produce in one day?
+    \item If 13 buses can carry 715 passengers, how many passengers can be carried by 1 bus?
+    \item A car runs 285 km on 15 litres of petrol. How many kilometres can it run on 22 litres of petrol?
+    \item The annual rent of a house is ₹ 58500. What is its rent for 17 months?
+    \item A worker earned ₹ 1080 in 8 days. How much did he earn in 3 days?
+\end{enumerate}
+
+\end{document}
+```

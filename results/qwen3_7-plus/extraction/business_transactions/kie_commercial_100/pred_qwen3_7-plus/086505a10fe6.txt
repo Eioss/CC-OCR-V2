@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "05-Mar-02",
+    "order_id": "PMI00/01.SC01",
+    "vendor_name": "The Hong Kong University of Science & Technology Office of Contract & Grant Administration",
+    "vendor_address": "Clear Water Bay, Kowloon, Hong Kong",
+    "customer_billing_name": "Philip Morris Incorporated Attn: Dr. Bruce D. Davies",
+    "customer_billing_address": "4201 Commerce Road Richmond, VA 23234 U.S.A.",
+    "amount_total_gross": "US$ 25,462",
+    "amount_due": "US$ 25,462",
+    "payment_terms": "PAYABLE UPON RECEIPT OF INVOICE"
+}
+```

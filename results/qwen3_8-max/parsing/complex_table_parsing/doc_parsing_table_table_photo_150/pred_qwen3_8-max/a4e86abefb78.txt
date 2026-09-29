@@ -1,0 +1,177 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: right;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 1.2em;">AMAZON.COM, INC.</th>
+    </tr>
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 1.1em;">CONSOLIDATED STATEMENTS OF OPERATIONS</th>
+    </tr>
+    <tr>
+      <th colspan="4" style="text-align: center;">(in millions, except per share data)</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;"></th>
+      <th colspan="3" style="text-align: center;">Year Ended December 31,</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;"></th>
+      <th>2018</th>
+      <th>2019</th>
+      <th>2020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Net product sales</td>
+      <td>$ 141,915</td>
+      <td>$ 160,408</td>
+      <td>$ 215,915</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Net service sales</td>
+      <td>90,972</td>
+      <td>120,114</td>
+      <td>170,149</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold; padding-left: 20px;">Total net sales</td>
+      <td style="border-top: 1px solid black;">232,887</td>
+      <td style="border-top: 1px solid black;">280,522</td>
+      <td style="border-top: 1px solid black;">386,064</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Operating expenses:</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Cost of sales</td>
+      <td>139,156</td>
+      <td>165,536</td>
+      <td>233,307</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Fulfillment</td>
+      <td>34,027</td>
+      <td>40,232</td>
+      <td>58,517</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Technology and content</td>
+      <td>28,837</td>
+      <td>35,931</td>
+      <td>42,740</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Marketing</td>
+      <td>13,814</td>
+      <td>18,878</td>
+      <td>22,008</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">General and administrative</td>
+      <td>4,336</td>
+      <td>5,203</td>
+      <td>6,668</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Other operating expense (income), net</td>
+      <td>296</td>
+      <td>201</td>
+      <td>(75)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold; padding-left: 40px;">Total operating expenses</td>
+      <td style="border-top: 1px solid black;">220,466</td>
+      <td style="border-top: 1px solid black;">265,981</td>
+      <td style="border-top: 1px solid black;">363,165</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Operating income</td>
+      <td style="border-top: 1px solid black;">12,421</td>
+      <td style="border-top: 1px solid black;">14,541</td>
+      <td style="border-top: 1px solid black;">22,899</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Interest income</td>
+      <td>440</td>
+      <td>832</td>
+      <td>555</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Interest expense</td>
+      <td>(1,417)</td>
+      <td>(1,600)</td>
+      <td>(1,647)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Other income (expense), net</td>
+      <td>(183)</td>
+      <td>203</td>
+      <td>2,371</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold; padding-left: 20px;">Total non-operating income (expense)</td>
+      <td style="border-top: 1px solid black;">(1,160)</td>
+      <td style="border-top: 1px solid black;">(565)</td>
+      <td style="border-top: 1px solid black;">1,279</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Income before income taxes</td>
+      <td style="border-top: 1px solid black;">11,261</td>
+      <td style="border-top: 1px solid black;">13,976</td>
+      <td style="border-top: 1px solid black;">24,178</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Provision for income taxes</td>
+      <td>(1,197)</td>
+      <td>(2,374)</td>
+      <td>(2,863)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Equity-method investment activity, net of tax</td>
+      <td>9</td>
+      <td>(14)</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Net income</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">$ 10,073</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">$ 11,588</td>
+      <td style="border-top: 1px solid black; border-bottom: 3px double black;">$ 21,331</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Basic earnings per share</td>
+      <td style="border-bottom: 3px double black;">$ 20.68</td>
+      <td style="border-bottom: 3px double black;">$ 23.46</td>
+      <td style="border-bottom: 3px double black;">$ 42.64</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">Diluted earnings per share</td>
+      <td style="border-bottom: 3px double black;">$ 20.14</td>
+      <td style="border-bottom: 3px double black;">$ 23.01</td>
+      <td style="border-bottom: 3px double black;">$ 41.83</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;" colspan="4">Weighted-average shares used in computation of earnings per share:</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Basic</td>
+      <td>487</td>
+      <td>494</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">Diluted</td>
+      <td style="border-bottom: 3px double black;">500</td>
+      <td style="border-bottom: 3px double black;">504</td>
+      <td style="border-bottom: 3px double black;">510</td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center; font-style: italic; padding-top: 10px;">See accompanying notes to consolidated financial statements.</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,11 @@
+ $$\int _ { D _ { m } } f _ { 3 } \Delta f _ { 2 } d x + \int _ { D _ { m } } \frac { 1 } { \rho } f _ { 3 } \partial _ { \rho } f _ { 3 } d x + \int _ { D _ { m } } ( 5 - \cot ^ { 2 } \phi ) \frac { f _ { 3 } ^ { 2 } } { \rho ^ { 2 } } d x = \int _ { D _ { m } } \frac { f _ { 3 } } { \rho ^ { 4 } } \partial _ { \rho } ( \rho ^ { 4 } \sin \phi \, \Omega ) d x .$$
+
+ $$| \Delta _ { n 2 } | = | \int _ { A _ { n } } [ \mathbb { E } \phi ( f _ { n , h } ( x ) ) - \phi ( f _ { \theta } ( x ) ) - ( \mathbb { E } f _ { n , h } ^ { ' b } ( x ) - f _ { \theta } ( x ) ) \phi ^ { \prime } ( f _ { \theta } ( x ) ) ] d x +$$
+
+ $$I _ { 1 } \leq \epsilon \int _ { 0 } ^ { t } \int _ { 0 } ^ { \infty } \frac { R \theta v _ { x } ^ { 2 } } { v ^ { 3 } } d x d s + C ( \epsilon ) \int _ { 0 } ^ { t } \int _ { 0 } ^ { \infty } \frac { \kappa r ^ { 2 ( n - 1 ) } \theta _ { x } ^ { 2 } } { v \theta ^ { 2 } } \cdot \frac { \theta } { \kappa r ^ { 2 ( n - 1 ) } } d x d s$$
+
+ $$\tau _ { n } \int h ( x ) \partial _ { t } P ( t , x ) d x \cong \int h ( x ) ( P ( t + \tau , x ) - P ( t , x ) ) d x ,$$
+
+ $${ \widetilde { P T } } \varphi _ { \pm } \not = e ^ { i w \pm t } \varphi _ { \pm } \quad { \mathrm { a n d } } \quad { \widetilde { P T } } { \widetilde { \varphi } } _ { \pm } = e ^ { i { \widetilde { w } } _ { \pm } } { \widetilde { \varphi } } _ { \pm } .$$
+
+ $$\frac { 1 } { ( 1 - t _ { 1 } ) ^ { m } } = \sum _ { m \in \mathbb { N } } c _ { m } t _ { 1 } ^ { m }$$

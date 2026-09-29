@@ -1,0 +1,14 @@
+\[
+\begin{gathered}
+(A-\langle A\rangle)|\psi\rangle=\beta(B-\langle B\rangle)|\psi\rangle \\
+d^2=-c(a^2+ab+b^2)=-3x^2y^2 \\
+E(D_n)=\{vw_i\mid 1\le i\le n\}\cup\{u_iw_i\mid 1\le i\le n\} \\
+\int_B \varphi\circ f_t(x)\,L_{ebb}(dt)=\varphi(x) \\
+t^*(\lambda)=\min\{k\in\mathbb{N}:d_H(4\nu,\mathbb{N}),\,k>4\}=\frac{\pi}{\lambda}+O(1) \\
+E_{n,m}=
+\frac{-m\lambda^4+32n^3\left(m^2+4(1+n)^2+(\varepsilon_1+\varepsilon_2)^2+4\sqrt{m^2+(\varepsilon_1+\varepsilon_2)^2(1+n)}\right)}{(\lambda^2-4\eta\nu)^2}
++\frac{8m\eta\nu(\lambda^2-2\eta\nu)}{(\lambda^2-4\eta\nu)^2} \\
+g_j(x):=\lim_{t\to0^+}\left(g_j(x+it)-\frac{2\operatorname{arctanh}\left(\frac{1}{\sqrt{3}}\right)}{\pi|C_\lambda|t}\Phi_{M_z}^{-1}(j,0)\right) \\
+\hat{L}^{-}[w]:=M^{-}(D^2w)-\hat{b}|Dw|,\quad \text{for }\hat{b}=b+2\langle k_l\rangle |Du_0|_\infty
+\end{gathered}
+\]

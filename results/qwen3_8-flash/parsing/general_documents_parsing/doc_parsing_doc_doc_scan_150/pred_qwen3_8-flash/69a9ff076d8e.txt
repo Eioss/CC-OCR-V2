@@ -1,0 +1,86 @@
+```latex
+\begin{tabular}{|c|p{3.5cm}|c|p{6cm}|}
+\hline
+\multicolumn{4}{|l|}{\textbf{Personal Information}} \\
+\hline
+Name & Songxxxx & Objective & Management Trainee \\
+\hline
+Gender & Male & Birth & 1993 09 \\
+\hline
+Political affiliation & Party Member & Nation & Han \\
+\hline
+Cell no. & 189----7742 & Origo & Heilongjiang Wuchang \\
+\hline
+E-mail & xxxxx & School & Harbin Engineering University \\
+\hline
+Degree & Bachelor & Major & Naval Architecture and Marine Engineering \\
+\hline
+Cet 4/6 & 545/515 & Score & 85.34 \\
+\hline
+\end{tabular}
+
+\vspace{0.5em} % Add some vertical space between tables
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\multicolumn{2}{|l|}{\textbf{Prizes \& Rewards}} \\
+\hline
+\multirow{2}{*}{Academic Skills} & 2011- 2014 Awarded second-grade scholarship 4 times \\
+\cline{2-2}
+& 2013.10 \quad Awarded third-grade scholarship \\
+\hline
+\multirow{2}{*}{Creative Ability} & 2013.04 \quad Accomplish two University's scientific research projects \\
+\cline{2-2}
+& 2012.10 \quad The second prize of "WuSi" Science competition \\
+\hline
+\multirow{3}{*}{Ideological Morality} & 2012.10 \quad "Merit Student" \\
+\cline{2-2}
+& 2013.10 \quad "Excellent Student Cadre" \\
+\cline{2-2}
+& 2014.05 \quad "Excellent League Member" \\
+\hline
+\multirow{3}{*}{Communicational Ability} & 2013.05 \quad "Top Ten Hoster" in campus(4/230) \\
+\cline{2-2}
+& 2012.05 \quad The First Prize of "student cadres Speech Contest" \\
+\cline{2-2}
+& 2013.04 \quad The First Prize of "Presentation Contest" \\
+\hline
+\multirow{3}{*}{Working attitude} & 2013.09 \quad Outstanding worker in anniversary of the founding of school \\
+\cline{2-2}
+& 2012.12 \quad Outstanding Volunteer of national "TRIZ" Science competition \\
+\cline{2-2}
+& 2013.09 \quad Outstanding worker of college \\
+\hline
+\end{tabular}
+
+\vspace{0.5em} % Add some vertical space between tables
+
+\begin{tabular}{|p{\dimexpr\linewidth-2\tabcolsep-2\arrayrulewidth\relax}|}
+\hline
+\textbf{Associations Experience:}\\[1ex]
+\textbf{2013.6-2014.6 \quad College of shipbuilding engineering \quad Secretary-general of Student union}\\[1ex]
+■Files arrangement: In charge of the plans of activities and arrangement of files in student union. Familiar with the use of OFFICE and PHOTOSHOP software.Had accomplished plans of 22 activities,and arranged 135 files of 16 sections in student union.besides, organized 4 events as the leader.\\[1ex]
+■Accounting: In charge of accounting and applying for reimbursement for cost of student union,which is about 25,000 yuan totally.\\[1ex]
+■Nerve: In charge of communicating with various sections,and coordinate their work. Under my coordinating,the student union had accomplished 3 large-scale events.\\[1ex]
+\hline
+\end{tabular}
+
+\vspace{0.5em} % Add some vertical space between tables
+
+\begin{tabular}{|p{\dimexpr\linewidth-2\tabcolsep-2\arrayrulewidth\relax}|}
+\hline
+\textbf{Self Description:}\\[1ex]
+"opportunities always favor the prepared mind".I regard it as my motto,and One of key words of my character is plan,I am used to making a genereal plan before i start my work,there is no doubt taht a good plan could always save much precious time.\\[1ex]
+\indent I had a colorful colleage life.i was the Secretary-genenal of Student union,in three years work,i learned how to communicate and cooperation with others and come to realized how important personal sense of resopnsbility is to the whole teams success.\\[1ex]
+\hline
+\end{tabular}
+
+\vspace{0.5em} % Add some vertical space between tables
+
+\begin{tabular}{|p{\dimexpr\linewidth-2\tabcolsep-2\arrayrulewidth\relax}|}
+\hline
+\textbf{Personal hobby}\\[1ex]
+harmonicon \qquad football \qquad photography \\[1ex]
+\hline
+\end{tabular}
+```

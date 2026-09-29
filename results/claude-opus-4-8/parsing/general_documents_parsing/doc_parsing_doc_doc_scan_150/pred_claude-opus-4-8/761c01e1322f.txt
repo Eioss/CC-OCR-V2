@@ -1,0 +1,93 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+\begin{document}
+
+% Table at top
+\begin{center}
+\begin{tabular}{ccccc}
+$A$ & 1 & 8 & 9 & 16 $\cdots$ \\
+$B$ & 2 & 7 & 10 & 15 $\cdots$ \\
+$C$ & 3 & 6 & 11 & 14 $\cdots$ \\
+$D$ & 4 & 5 & 12 & 13 $\cdots$ \\
+\end{tabular}
+\end{center}
+
+\begin{enumerate}
+\setcounter{enumi}{6}
+
+\item In which row is the number 600?
+\begin{enumerate}
+\item[(1)] 1st row \quad (2) 2nd row \quad (3) 3rd row \quad (4) 4th row
+\end{enumerate}
+
+\item How many columns are there in Row $A$ if 200 is the last number?
+\begin{enumerate}
+\item[(1)] 48 \quad (2) 50 \quad (3) 52 \quad (4) 54
+\end{enumerate}
+
+\item Compute the following.
+\[ 37 + 397 + 3997 + 39\,997 \]
+\begin{enumerate}
+\item[(1)] 42\,284 \quad (2) 42\,482 \quad (3) 44\,248 \quad (4) 44\,428
+\end{enumerate}
+
+\item Compute the following.
+\[ 298 + 2998 + 29\,998 + 299\,998 \]
+\begin{enumerate}
+\item[(1)] 333\,292 \quad (2) 334\,222 \quad (3) 334\,292 \quad (4) 335\,222
+\end{enumerate}
+
+\item Compute the following.
+\[ 9 + 99 + 999 + 9999 + 99\,999 \]
+\begin{enumerate}
+\item[(1)] 110\,215 \quad (2) 110\,745 \quad (3) 110\,995 \quad (4) 111\,105
+\end{enumerate}
+
+\item A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?
+\begin{enumerate}
+\item[(1)] 24 \quad (2) 25 \quad (3) 26 \quad (4) 27
+\end{enumerate}
+
+\item A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?
+\begin{enumerate}
+\item[(1)] 10 \quad (2) 11 \quad (3) 12 \quad (4) 13
+\end{enumerate}
+
+\item Find the values of A and B in the following.
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+% First triangle group
+\node at (0,1) {18};
+\node at (-0.7,0) {12};
+\node at (0,0) {10};
+\node at (0.7,0) {16};
+
+% Second triangle group
+\node at (4,1) {34};
+\node at (3.3,0) {25};
+\node at (4,0.3) {A};
+\node at (4.7,0) {15};
+
+% Third triangle group
+\node at (8,1) {20};
+\node at (7.3,0) {B};
+\node at (8,0.3) {22};
+\node at (8.7,0) {18};
+\end{tikzpicture}
+\end{center}
+
+\begin{enumerate}
+\item[(1)] A = 6, B = 18 \hspace{2cm} (3) A = 8, B = 20
+\item[(2)] A = 6, B = 24 \hspace{2cm} (4) A = 8, B = 22
+\end{enumerate}
+
+\end{enumerate}
+
+\end{document}
+```

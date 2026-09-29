@@ -1,0 +1,19 @@
+$$F_{\pm} = 4 \left\langle (\Delta \hat{f}_{\pm})^2 \right\rangle$$
+
+$$\partial_t u_t(x) = \frac{1}{2} \Delta u_t(x) + \sigma(x, u_t(x)) \dot{W}_t(x), \quad t \in [0, T], \; x \in \mathbb{R},$$
+
+$$\overline{D}u(z) = 0 \quad \forall_z \in \Omega \setminus \partial u.$$
+
+$$A \oplus B \in SC(X \times X \times \mathcal{R})$$
+
+$$\limsup_{t \to \infty} t^{\frac{1}{7} + \frac{1}{2}} \left| I_{2,1}^{\delta}(t) \right| \le C \lim_{t \to \infty} \int_0^{\infty} \int_{|w| \ge t^{\frac{1}{7}}}^{\infty} |U_t(w, T)| \, dw \, dr = 0.$$
+
+$$\left| \varepsilon^{\top} S_g \varepsilon \right| = \frac{\varepsilon^{\top} A \varepsilon}{(x^{\top} A_0^{-1} A A_0^{-1} x)^2} \left| (C^{\top} x)^{\top} (y - x) - (y - x)^{\top} C_x \right| \le \frac{\varepsilon^{\top} A \varepsilon (|C_x| + |C^{\top} x|) |x \cdot y|}{(x^{\top} A_0^{-1} A A_0^{-1} x)^2}$$
+
+$$m \diamond \exp_\rho(t \, D_x \otimes D_2) = m \diamond (\mathrm{id} \otimes \mathrm{id} + t \, D_x \otimes D_2 + \frac{1}{Hg} \left( t^2 D_x^2 \otimes D_2^2 \right) +$$
+
+$$\sum_{n \ge 1} \left\langle u_n^2 \, T_m = z \right\rangle < \infty$$
+
+$$\Lambda_1 = -2\kappa \frac{\rho}{\langle \rho \rangle} \partial_\rho = -2\kappa \sum_{j=1}^{\nu} \frac{x_j}{\langle z \rangle} \partial_{x_j},$$
+
+$$\Lambda_2 = \frac{\kappa^2 |z|^2 \langle z \rangle - \kappa}{\langle z \rangle^2} + \frac{\kappa |z| \cosh |z|}{\langle z \rangle \sinh |z|}$$

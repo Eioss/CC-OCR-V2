@@ -1,0 +1,28 @@
+```html
+<table border="1" data-bbox="72 98 930 864">
+	<tr>
+		<th>Models</th>
+		<th>Precision</th>
+		<th>Recall</th>
+		<th>F<sub>1</sub></th>
+	</tr>
+	<tr>
+		<td>Pipeline</td>
+		<td>16.58</td>
+		<td>22.11</td>
+		<td>18.95</td>
+	</tr>
+	<tr>
+		<td>Traversal</td>
+		<td>24.06</td>
+		<td><b>38.74</b></td>
+		<td>29.69</td>
+	</tr>
+	<tr>
+		<td>Multi-task</td>
+		<td><b>43.54</b></td>
+		<td>30.57</td>
+		<td><b>35.92</b></td>
+	</tr>
+</table>
+```

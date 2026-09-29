@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+\frac{d}{dt}p(t)
+&=H_{i,i+1}(p(t),t)\,\vec n_{i,i+1}(p(t),t)
++\left(\bar T_{i,i+1}(p(t),t)-\frac{d}{dt}p(t)\right)
+\bar T_{i,i+1}(p(t),t),\\[4pt]
+h(\varepsilon)
+&=pk\left(\frac{p}{k}-1-\varepsilon\right)
+=(k+1)\varepsilon^{2}-(2p+pk)\varepsilon+p^{2}-pk>0,\\[4pt]
+&\sum_{l\in[n]\setminus\{i,j\}}\det\!\bigl(A[\{i,j,l\}]\bigr),\\[4pt]
+&\sup_{\substack{t\geq 0\\ E_R^{(a)}(w)(0)\leq 1}}
+e^{kt}E_R(t)<\infty,\\[4pt]
+\widetilde P
+&=\left\{(H,\rho_D)\xrightarrow{V^{+}}(H',\rho)\right\}.
+\end{aligned}
+\]

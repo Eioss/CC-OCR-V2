@@ -1,0 +1,120 @@
+# LaTeX Transcription
+
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{tabularx}
+
+\begin{document}
+
+\begin{flushleft}
+\small\textit{සියලුම හිමිකම් ඇවිරිණි.}\\
+\small\textit{All Rights Reserved}
+\end{flushleft}
+
+\begin{center}
+\includegraphics[width=0.08\textwidth]{logo.png}\\[2pt]
+\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}\\[4pt]
+\textbf{\Large THIRD TERM TEST - 2020}
+\end{center}
+
+\noindent
+\textbf{Grade 11} \hfill \textbf{\Large ENGLISH LANGUAGE - I} \hfill \textbf{One Hour}
+
+\vspace{4pt}
+\noindent\fbox{\parbox{\textwidth}{Name / Index No. :}}
+
+\vspace{6pt}
+\noindent\textbf{Answer all questions on this paper itself.}
+\hrule
+
+\vspace{8pt}
+\noindent\textbf{Test - 1} \quad \textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given.} \textit{The first one is done for you.}
+
+\vspace{6pt}
+\begin{minipage}{0.72\textwidth}
+\begin{tabular}{@{}l@{ : }p{0.78\textwidth}}
+\textit{Postal clerk} & What can I do for you today? \\[4pt]
+\textit{Anne} & I need to mail this (1) \underline{\quad(b)\quad} to Galle, please. \\[4pt]
+\textit{Postal clerk} & OK, let's see how much it (2) \dotfill{} Well, It's about 350 grams. \\[4pt]
+\textit{Anne} & I need to send it by (3)\dotfill{} mail. \\[4pt]
+\textit{Postal clerk} & If you do so, it will get there (4) \dotfill{} Or you can send it priority and it will get there by Saturday. \\[4pt]
+\textit{Anne} & Saturday is fine. How much will that be? \\[4pt]
+\textit{Postal clerk} & Rs.750. Do you (5) \dotfill{} anything else? \\[4pt]
+\textit{Anne} & Oh, yes! I almost forgot. I need a book of (6) \dotfill, too. \\[4pt]
+\textit{Postal clerk} & OK, your total is Rs.1950. \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{0.25\textwidth}
+\fbox{\parbox{0.9\textwidth}{
+\begin{enumerate}[label=(\alph*),leftmargin=*]
+\item want
+\item package
+\item stamps
+\item weighs
+\item express
+\item tomorrow
+\end{enumerate}
+}}
+
+\vspace{8pt}
+\fbox{\parbox{0.9\textwidth}{
+\centering \textbf{Marks}\\
+\rule{0pt}{12pt} 1 x 5 \\[12pt]
+\hrule
+\textbf{Total}\\
+\hfill 05
+}}
+\end{minipage}
+
+\vspace{12pt}
+\noindent\textbf{Test - 2} \quad \textbf{Read the following guidelines given by of a hotel to its guests and complete them with the correct prepositions given below.} \textit{The first one is done for you.}
+
+\vspace{6pt}
+\begin{center}
+during, \quad till, \quad for, \quad of, \quad from, \quad on
+\end{center}
+
+\vspace{6pt}
+\begin{minipage}{0.72\textwidth}
+\fbox{\parbox{\textwidth}{
+\begin{center}
+\textbf{\large The Moon Hotel}
+\end{center}
+\textbf{The following information will help you to have an enjoyable stay:}
+\begin{itemize}
+\item The restaurant is open daily (1) \underline{\textit{from}} 6.30 a.m. to 9.30 p.m.
+\item You can order breakfast in your room by hanging the Menu card (2) \dotfill{} the door.
+\item If you need a doctor (3)\dotfill{} the night, please call 100.
+\item There is a play room (4) \dotfill{} kids below 10 years
+\item There is free wifi in the rooms and the password is given in the back (5)\dotfill{} your room key.
+\item The main gate is open (6)\dotfill{} 10.00 p.m.
+\end{itemize}
+}}
+\end{minipage}
+\hfill
+\begin{minipage}{0.25\textwidth}
+\fbox{\parbox{0.9\textwidth}{
+\centering \textbf{Marks}\\
+\rule{0pt}{12pt} 1 x 5 \\[24pt]
+\hrule
+\textbf{Total}\\
+\hfill 05
+}}
+\end{minipage}
+
+\vspace{12pt}
+\begin{center}
+(01)
+\end{center}
+
+\begin{center}
+\footnotesize\textit{මෙම ප්‍රශ්න පත්‍ර සියලුම පාසොන්ටහයිම තුම්ලව්ද අනුග්‍රහයෙන් කර්මව් කොෂ්‍ය අධ්‍යාපනයෙන් නියෝද්ය අයුතු මුද්‍රණය, පැකවී කිරීම හා බෙදාහැරීම සිදුකරනු ඇත.}
+\end{center}
+
+\end{document}
+```

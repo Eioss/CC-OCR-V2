@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "05 NOV 20",
+    "Arrival Date": "03 NOV 20",
+    "Total Amount": "1,300.00",
+    "Name": "bin jiang qu",
+    "Balance": "0.00",
+    "Address": "hang zhou 310000 China",
+    "Hotel Name": "凯悦天地摘要"
+}
+```

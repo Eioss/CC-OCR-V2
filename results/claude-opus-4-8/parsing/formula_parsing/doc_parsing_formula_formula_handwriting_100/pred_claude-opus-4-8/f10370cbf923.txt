@@ -1,0 +1,14 @@
+$$\frac{d}{dt}P(t)=H_{i,i+1}(p(t),t)\,\vec{n}_{v,i+1}(p(t),t)+\left(\bar{T}_{i,i+1}(p(t),(t)\cdot\frac{d}{dt}p(t)\right)\bar{T}_{i,i+1}(p(t),t)$$
+
+$$h(\varepsilon)=pk\left(\frac{p}{k}-1-\varepsilon\right)=(k+1)\varepsilon^2-(2p+pk)+p^2-pk>0.$$
+
+$$\sum_{l\in[n]\setminus\{i,j\}}\det(A[\{i,j,l\}])$$
+
+$$\sup_{\substack{t\geq 0,\,E_R^{(\alpha)}(u)(0)\leq 1}}e^{kt}E_R(t)<\infty$$
+
+$$\widetilde{P}=\left\{(H,p_D)\xrightarrow{V^+}(H',p)\right\}$$
+
+$$|T_{p_2}[a]|_{m,s,\eta}\leq p_{\varepsilon,s,\eta}|a|_{m,s+\mu_0,\eta}+|a|_{m,s_0+\mu_0,\eta}|\bar{p}|_{1,s+\mu_0,\eta+1}$$
+$$\leq p_{\varepsilon,s,\eta}|a|_{m,s+\mu_0,\eta}+\gamma^{-1}\varepsilon^2|a|_{m,s_0+\mu_0,\eta}\|\gamma_\delta+\mu_0\|$$
+
+$$G/B^+=\bigsqcup_{w\in W}B^+\dot{w}B^+/B^+=\bigsqcup_{w\in W}B^-\dot{w}B^+/B^+$$

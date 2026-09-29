@@ -1,0 +1,15 @@
+```json
+{
+    "SS": "1 potato (approx 175g)",
+    "CE-P1": "355kJ79kcal",
+    "CE-PS": "586kJ138kcal",
+    "PRO-P1": "2.1g",
+    "PRO-PS": "3.7g",
+    "CAR-P1": "17.2g",
+    "CAR-PS": "30.1g",
+    "TF-P1": "0.5g",
+    "TF-PS": "1.1g",
+    "SO-P1": "0.21mg (15% RDA)",
+    "SO-PS": "0.37mg (25% RDA)"
+}
+```

@@ -1,0 +1,11 @@
+Based on the provided airline ticket, the **point of origin** is **LaGuardia**.
+
+This is indicated in several places:
+
+1.  **In the "FROM" field of the first flight coupon:** The handwritten text clearly says `LAGUARDIA`.
+2.  **In the "ORIGIN" box at the top:** It shows `LGA`, which is the IATA airport code for LaGuardia Airport (New York).
+3.  **In the "TO" field of the second flight coupon:** The return flight is listed as going *to* `LAGUARDIA`, confirming it as the starting point of the round trip.
+
+The passenger, Dr. William Darby, was traveling from LaGuardia (LGA) to Nashville (BNA) on December 21st, and returning from Nashville to LaGuardia on January 2nd.
+
+Therefore, the point of origin for this journey is **LaGuardia Airport (LGA)**.

@@ -1,0 +1,119 @@
+```html
+<html><body>
+<div style="text-align: center;"><img src="imgs/img_in_image_box_673_235_714_313.jpg" alt="Image" width="6%" /></div> 
+ <p>北屿省临澜州临澜澄岳物业管理有限公司</p> 
+ <p>文档编号 RB-699798<br/>日期 2024-06-10</p> 
+ <p>负责人：冯安然<br/>联系电话：19750444940<br/>位置/地址：北屿省云栖市南桥区松影路286号 11栋</p> 
+ <h2>诉求收集处理表 &amp; 道路养护巡检表</h2> 
+ <table border="1"> 
+  <tr> 
+   <th colspan="7">A 指标通报</th> 
+  </tr> 
+  <tr> 
+   <th>指标</th> 
+   <th>目标</th> 
+   <th>当前</th> 
+   <th>环比</th> 
+   <th>责任</th> 
+   <th colspan="2">状态</th> 
+  </tr> 
+  <tr> 
+   <td>超标次数</td> 
+   <td>≤2次</td> 
+   <td>99%</td> 
+   <td>持平</td> 
+   <td>工程部</td> 
+   <td colspan="2">关注 (手写√)</td> 
+  </tr> 
+  <tr> 
+   <td>投诉率</td> 
+   <td>≥98%</td> 
+   <td>96%</td> 
+   <td>持平</td> 
+   <td>质检组</td> 
+   <td colspan="2">处理中 (手写圈注)</td> 
+  </tr> 
+  <tr> 
+   <td>巡检完成率</td> 
+   <td>≥95%</td> 
+   <td>92%</td> 
+   <td>下降</td> 
+   <td>冯安然</td> 
+   <td colspan="2">预警 (手写!)</td> 
+  </tr> 
+  <tr> 
+   <th colspan="7">B 异常/事件记录</th> 
+  </tr> 
+  <tr> 
+   <th>编号</th> 
+   <th>日期</th> 
+   <th>事件/问题</th> 
+   <th>等级</th> 
+   <th>负责人</th> 
+   <th>进度</th> 
+   <th>工单编码/点位编码</th> 
+  </tr> 
+  <tr> 
+   <td>EV-990094</td> 
+   <td>2025-06-27</td> 
+   <td>数据延迟</td> 
+   <td>C</td> 
+   <td>许子航</td> 
+   <td>已关闭</td> 
+   <td>085916669252226172</td> 
+  </tr> 
+  <tr> 
+   <td>EV-659289</td> 
+   <td>2025-09-17</td> 
+   <td>水压波动</td> 
+   <td>A</td> 
+   <td>朱思远</td> 
+   <td colspan="2">已派单 (手写签字)</td> 
+  </tr> 
+  <tr> 
+   <td>EV-335412</td> 
+   <td>2025-10-05</td> 
+   <td>围挡破损</td> 
+   <td>B</td> 
+   <td>赵雷</td> 
+   <td>修复中</td> 
+   <td>173294560111893225(手写√)</td> 
+  </tr> 
+  <tr> 
+   <th colspan="7">C 整改闭环</th> 
+  </tr> 
+  <tr> 
+   <th>整改项</th> 
+   <th>截止</th> 
+   <th>验证人</th> 
+   <th>结果</th> 
+   <th>签字栏</th> 
+   <th colspan="2">备注</th> 
+  </tr> 
+  <tr> 
+   <td>补录记录</td> 
+   <td>2025-04-23</td> 
+   <td>姜景行</td> 
+   <td>通过</td> 
+   <td>姜景行 (手写签字)</td> 
+   <td colspan="2">回访 (手写备注)</td> 
+  </tr> 
+  <tr> 
+   <td>加贴提示</td> 
+   <td>2025-09-08</td> 
+   <td>姜景行</td> 
+   <td>未通过</td> 
+   <td>姜景行 (手写签字)</td> 
+   <td colspan="2">留痕 (手写备注)</td> 
+  </tr> 
+  <tr> 
+   <td>设备维修</td> 
+   <td>2025-11-12</td> 
+   <td>李娜</td> 
+   <td>已验收</td> 
+   <td>李娜 (手写签字)</td> 
+   <td colspan="2">归档</td> 
+  </tr> 
+ </table> 
+</body></html>
+```

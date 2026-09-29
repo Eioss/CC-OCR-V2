@@ -1,0 +1,170 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border: 2px solid #333;
+        padding: 10px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="9" style="text-align:center; font-size: 24px;">海博建设股份有限公司供货结算单<br/>(2019年2月1日至2019年5月29日)</td>
+   </tr>
+   <tr>
+    <td colspan="9">工程名称：城东六号地块室外环境、水系整治及景观绿化（一期）施工项目工程</td>
+   </tr>
+   <tr>
+    <td colspan="9">(供货单位)名称：芜湖林拓物资贸易有限公司</td>
+   </tr>
+   <tr>
+    <th rowspan="2">序号</th>
+    <th rowspan="2">摘要(材料名称)</th>
+    <th colspan="6">材料结算单</th>
+   </tr>
+   <tr>
+    <th>项目特征</th>
+    <th>单位</th>
+    <th>数量</th>
+    <th>单价（元）</th>
+    <th>合计</th>
+    <th>备注</th>
+   </tr>
+   <tr>
+    <td>1</td>
+    <td>钢筋</td>
+    <td>直径6.5高线（马钢）</td>
+    <td>吨</td>
+    <td>4.13</td>
+    <td>4,480.00</td>
+    <td>18,520.32</td>
+    <td>2019.4.22</td>
+   </tr>
+   <tr>
+    <td>2</td>
+    <td>钢筋</td>
+    <td>直径10直螺（马钢）</td>
+    <td>吨</td>
+    <td>2.00</td>
+    <td>4,550.00</td>
+    <td>9,100.00</td>
+    <td>2019.4.22</td>
+   </tr>
+   <tr>
+    <td>3</td>
+    <td>钢筋</td>
+    <td>直径12三级螺（光明）</td>
+    <td>吨</td>
+    <td>7.99</td>
+    <td>4,300.00</td>
+    <td>34,365.60</td>
+    <td>2019.4.22</td>
+   </tr>
+   <tr>
+    <td>4</td>
+    <td>钢筋</td>
+    <td>直径16三级螺（富鑫）</td>
+    <td>吨</td>
+    <td>5.97</td>
+    <td>4,280.00</td>
+    <td>25,564.44</td>
+    <td>2019.4.22</td>
+   </tr>
+   <tr>
+    <td>5</td>
+    <td>钢筋</td>
+    <td>直径22三级螺（富鑫）</td>
+    <td>吨</td>
+    <td>9.93</td>
+    <td>4,280.00</td>
+    <td>42,479.00</td>
+    <td>2019.4.22</td>
+   </tr>
+   <tr>
+    <td>6</td>
+    <td>钢筋</td>
+    <td>直径8直螺</td>
+    <td>吨</td>
+    <td>2.00</td>
+    <td>4,490.00</td>
+    <td>8,980.00</td>
+    <td>2019.5.9</td>
+   </tr>
+   <tr>
+    <td>7</td>
+    <td>钢筋</td>
+    <td>直径12三级螺</td>
+    <td>吨</td>
+    <td>39.96</td>
+    <td>4,200.00</td>
+    <td>167,832.00</td>
+    <td>2019.5.9</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>本次供货</td>
+    <td>306,841.36</td>
+    <td></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

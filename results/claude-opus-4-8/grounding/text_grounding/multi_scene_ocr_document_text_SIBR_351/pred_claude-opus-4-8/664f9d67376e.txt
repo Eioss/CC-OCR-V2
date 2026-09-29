@@ -1,0 +1,4 @@
+The text '￥0.00' appears in two locations:
+
+(310, 1383, 519, 1480) # 帐户支付 amount
+(295, 1581, 510, 1685) # 帐户金额 amount

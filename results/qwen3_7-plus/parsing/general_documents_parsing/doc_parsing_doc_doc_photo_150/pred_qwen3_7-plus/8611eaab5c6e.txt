@@ -1,0 +1,36 @@
+```latex
+\section*{Contents}
+
+\begin{tabular}{l r}
+FOREWORD & vii \\
+INTRODUCTION: Why; Basic Equipment; Raw Materials & \\
+and Where to Get Them; Some Helpful Hints & ix \\[1em]
+\textbf{1. AROUND THE HOUSE} & 17 \\
+\quad Floor Care & 17 \\
+\quad Furniture Care and Some Other Treatments for Wood & 24 \\
+\quad Dishwashing Help & 28 \\
+\quad Laundry Help & 31 \\
+\quad Shoes and Leather & 34 \\
+\quad General Cleaning and Polishing & 35 \\
+\quad Fires in Their Places and Out of Them & 42 \\
+\quad Controlling Bugs and Other Pests & 47 \\
+\quad Paints and Brushes & 50 \\
+\quad In the Kitchen & 52 \\
+\quad Miscellaneous Home Goodies & 56 \\[1em]
+\textbf{2. PERSONAL} & 62 \\
+\quad Making Soap & 62 \\
+\quad Hair Care & 64 \\
+\quad Body Things & 68 \\
+\quad Hands and Face & 73 \\
+\quad Teeth & 79 \\
+\quad Eyes & 80 \\
+\quad Feet & 81 \\[1em]
+\textbf{3. AUTOMOTIVE AND MECHANICAL} & 83 \\
+\quad Taking Care of the Outside & 84 \\
+\quad Taking Care of the Inside & 86 \\
+\quad Cleaning Up & 90 \\
+\end{tabular}
+
+\vfill
+\hfill v
+```

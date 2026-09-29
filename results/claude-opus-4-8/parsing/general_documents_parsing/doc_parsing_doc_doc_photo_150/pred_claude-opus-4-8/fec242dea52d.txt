@@ -1,0 +1,55 @@
+# Bayes' Theorem
+
+Here is the LaTeX transcription of the document:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{center}
+\textbf{Bayes' Theorem}
+\end{center}
+
+\begin{enumerate}
+    \item \textbf{Finding predictive values}
+    \item \textbf{Determine false positive and false negative, sensitivity and specificity}
+    \item \textbf{Problem sets}
+\end{enumerate}
+
+\noindent \textbf{1-} \quad A scientist designed a medical test for a certain disease. Among 100 patients who have the disease, the test will show the presence of the disease in 96 cases out of 100, and will fail to show the presence of the disease in the remaining 4 cases out of 100. Among those who do not have the disease, the test will erroneously show the presence of the disease in 3 cases out of 100, and will show there is no disease in the remaining 97 cases out of 100.
+
+\begin{enumerate}[label=\alph*)]
+    \item What is the probability that a patient who tested positive on this test actually has the disease, if it is estimated that 20\% of the population has the disease?
+\end{enumerate}
+
+\noindent \textbf{B)} What is the probability that a patient who tested negative on this test actually does not have the disease, if it is estimated that 4\% of the population has the disease?
+
+\vspace{1em}
+
+\noindent \textbf{2-} \quad \textbf{Reliability of Testing.} A certain virus infects one in every 200 people. A test used to detect the virus in a person is positive 80\% of the time when the person has the virus and 5\% of the time when the person does not have the virus. Let A be the event ``the person is infected'' and B be the event ``the person tests positive.''
+
+\begin{enumerate}[label=\arabic*-, start=4]
+    \item Using Bayes' Theorem, when a person tests positive, determine the probability that the person is infected
+    \item Using Bayes' Theorem, when a person tests negative, determine the probability that a person is \textbf{not} infected
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{3-} \quad \textbf{Part 1:} A drug company is developing a new pregnancy-test kit for use on an outpatient basis. The company uses the pregnancy test on 100 women who are known to be pregnant for whom 95 test results are positive. The company uses test on 100 other women who are known to not be pregnant, of whom 99 test negative.
+
+\begin{enumerate}[label=\alph*)]
+    \item What is the sensitivity of the test?
+    \item What is the specificity of the test?
+\end{enumerate}
+
+\noindent \textbf{Part 2:} the company anticipates that of the women who will use the pregnancy-test kit, 10\% will actually be pregnant.
+
+\begin{enumerate}[label=\alph*), start=3]
+    \item What is the PV\textsuperscript{+} (predictive value positive) of the test?
+\end{enumerate}
+
+\end{document}
+```

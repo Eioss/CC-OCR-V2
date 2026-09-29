@@ -1,0 +1,48 @@
+\[
+\Delta=
+\begin{pmatrix}
+-\bar z_1 & \cdots & -\bar z_i\\
+-w_1 & \cdots & -w_i
+\end{pmatrix}
+\]
+
+\[
+\left|
+\frac{1}{NW}\sum_{n=1}^{NW}\Lambda\!\left(\eta e_n(z)d_n(w)\right)
+-\frac{1}{d_N(0)}\sum_{(j,k)\in I_N^2}\frac{1}{N}\sum_{n=1}^{N}e^{a_{jk}(w_{n+k})}
+\right|<\epsilon
+\]
+
+\[
+\min_{1\le j\le N^2}\lambda(\Gamma_j)
+=
+\max_{1\le i\le N^2}\sum_{1\le n\le N^2}u_{ij}^2
+\]
+
+\[
+(X\circ D)(w)
+=
+V_dX(d)V_{\eta_{\min}}^{T}
+\left(
+V_{\eta_{\min}}Y(\eta,\Phi_1)\cdots \Lambda Y(\eta,\Phi)
+\right)
+\]
+
+\[
+\frac{1}{N^2}\sum_{j,j'}
+\left[
+\frac{1}{N}\sum_y \psi_j(r_j)D_{z,z^*}^{-1}
+\right]_{j,j'}^{-1}
+\]
+
+\[
+\Psi_z(x;b)
+=
+x+\int_0^r u_k(w)\,dw+E(x;b_k)
+\]
+
+\[
+|m_{1,t}|
+\le
+(\delta+\beta)K_{ME}^{-1}\frac{k}{d^{r-2}}
+\]

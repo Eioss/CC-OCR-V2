@@ -1,0 +1,8 @@
+\begin{aligned}
+&\sum_{2r+|\beta|\,\leq\,\bar{s}_{k+1}+2} \left\| \partial_t^\gamma \nabla_\parallel^\beta \big( \partial_y \bar{u}_{k+1,\,\parallel}^+,\, \partial_y \bar{\theta}_{k+1}^+ \big)(t,x_\parallel,0) \right\|_{L_\parallel^2}^2 \\
+&\leq C\Bigg( \sum_{i=0}^1 \sum_{2r+|\beta|\,\leq\,\bar{s}_{k+1}+4} \left\| \tilde{w}_{k_i} \partial_t^\gamma \nabla_x^\beta f_i(t) \right\|_{L_h^2 L_v^\infty}^2 + \sum_{2r+|\beta|\,\leq\,\bar{s}_{k+1}+4} \left\| r_{k_i} \partial_t^\gamma \nabla_x^\beta f_i^{-,z}(t) \right\|_{L_h^2 L_v^\infty}^2 \\
+&\quad + \sum_{2r+|\beta|\,\leq\,\bar{s}_{k+1}+2} \Big[ \left\| \partial_t^\gamma \nabla_\parallel^\beta \bar{u}_{k+1,\,3}^\pm(t,x_\parallel,0) \right\|_{L_{x_\parallel}^2}^2 + \left\| \partial_t^\gamma \nabla_\parallel^\beta G_{k+1}^\pm \right\|_{L_\parallel^2 L_v^\infty}^2 \\
+&\quad + \sum_{l=1}^2 \left\| \partial_t^\gamma \nabla_\parallel^\beta \big( \langle A_{2i},\, J_k^{\pm,0} \rangle,\, \langle B_3,\, J_k^{\pm,0} \rangle \big) \right\|_{L_\parallel^2 L_v^\infty}^2 + \left\| \partial_t^\gamma \nabla_\parallel^\beta \big( \hat{A}_{k+2}^\pm,\, \hat{B}_{k+2}^\pm,\, \hat{C}_{k+2}^\pm \big)(t,x_\parallel,0) \right\|_{L_{x_\parallel}^2}^2 \\
+&\quad + \left\| \partial_t^\gamma \nabla_\parallel^\beta \big( \hat{A}_{k+3}^\pm,\, \hat{B}_{k+3}^\pm,\, \hat{C}_{k+3}^\pm \big)(t,x_\parallel,0) \right\|_{L_x^2}^2 \Big] \Bigg) \\
+&\leq C\Bigg( D_k + \tilde{D}_k^\pm + \hat{D}_k^\pm,\, \sum_{r+|\beta|\,\leq\,s_{k+1}} \left\| \partial_t^\gamma \nabla_x^\beta \big( p_{k+1},\, u_{k+1},\, \theta_{k+1} \big)(0) \right\|_{L_x^2}^2 \Bigg).
+\end{aligned}

@@ -1,0 +1,164 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{array}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+\textbf{5.} &
+\textbf{Exemption Claimed for Less Than \$7.5}\\
+& \textbf{Million}
+\end{tabular}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+$\square$ &
+\textbf{Check this box if claiming eligibility for exemption from CAS coverage based on contracts or subcontracts of less than \$7.5 million, provided that, at the time of award, the business unit or the contractor or subcontractor is not currently performing any CAS-covered contracts or subcontracts valued at \$7.5 million or greater.}
+\end{tabular}
+
+\noindent
+The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(7).
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+\textbf{6.} &
+\textbf{Eligibility for Exemption by an Entity in}\\
+& \textbf{the United Kingdom}
+\end{tabular}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+$\square$ &
+Check this box if claiming eligibility for exemption from CAS coverage as an entity in the United Kingdom with performance substantially in the United Kingdom.
+\end{tabular}
+
+\noindent
+The offeror hereby certifies that it is a United Kingdom contractor and that performance of the work under this contract will be performed substantially in the United Kingdom.
+
+\noindent
+The offeror further certifies that it has filed a completed Disclosure Statement (Form Number CASBDS-1), adequately describing its cost accounting practices, with the United Kingdom Ministry of Defense for retention by the Ministry. When already required to follow United Kingdom Government Accounting Conventions, the offeror certifies that the disclosed practices are in accord with the requirements of those conventions.
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+\textbf{7.} &
+\textbf{Exemption Claimed for NATO PHM Ship}\\
+& \textbf{Program}
+\end{tabular}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+$\square$ &
+Check this box if claiming eligibility for exemption from CAS coverage based on subcontracts under the NATO PHM Ship program to be performed outside the United States by a foreign concern.
+\end{tabular}
+
+\noindent
+The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(13).
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+\textbf{8.} &
+\textbf{Exemption Claimed for Performance Outside}\\
+& \textbf{the United States}
+\end{tabular}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+$\square$ &
+Check this box if claiming eligibility for exemption from CAS coverage based on contracts or subcontracts to be executed and performed entirely outside the United States, its territories, and possessions.
+\end{tabular}
+
+\noindent
+The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(14).
+
+\columnbreak
+
+\begin{center}
+\fbox{\textbf{PART B}}
+\end{center}
+
+\noindent
+\textbf{\Large Disclosure Statement of Cost}\\
+\textbf{\Large Accounting Practices and Certification}
+
+\noindent
+Any offeror submitting a proposal that, if accepted, will result in a contract subject to the requirements of the Cost Accounting Standards Board (CASB) must submit, must have already submitted, or must be exempt from submitting the Disclosure Statement required by Board regulation as a condition of contracting. The Disclosure Statement discloses the practices used in pricing the submitted proposal. The Disclosure Statement must be on form number CASB DS-1 or CASB DS-2, as appropriate. Forms may be obtained from the cognizant Administrative Contracting Officer (ACO).
+
+\noindent
+\textbf{Caution:} A practice disclosed in a Disclosure Statement will not, by virtue of such disclosure, be deemed to be a proper, approved, or agreed-to practice for pricing proposals (Continued on page 3.) or accumulating and reporting contract performance cost data.
+
+\noindent
+Examine each of the sections below and complete the section appropriate to the submitted proposal.
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+\textbf{1.} &
+\textbf{Certificate of Concurrent Submission of}\\
+& \textbf{Disclosure Statement}
+\end{tabular}
+
+\noindent
+\begin{tabular}{@{}p{0.09\linewidth}p{0.86\linewidth}@{}}
+$\square$ &
+Check this box if concurrently submitting a Disclosure Statement as part of the proposal. Provide the appropriate information as required below.
+\end{tabular}
+
+\noindent
+The offeror hereby certifies that, as a part of the offer, copies of the Disclosure Statement have been submitted as follows:
+
+\begin{enumerate}[leftmargin=2.5em, itemsep=0pt, topsep=0pt]
+\item An original and one copy to the cognizant ACO or cognizant Federal Agency official authorized to act in that capacity
+\item One copy to the cognizant contract auditor.
+\end{enumerate}
+
+\noindent
+The offeror further certifies that practices used in estimating costs in pricing this proposal are consistent with the cost accounting practices disclosed in this Disclosure Statement.
+
+\vspace{2em}
+
+\noindent
+Date of Disclosure Statement:
+
+\vspace{1.5em}
+\noindent\rule{\linewidth}{0.4pt}
+
+\noindent
+Name and address of cognizant ACO or Federal Official where Disclosure Statement filed:
+
+\vspace{1.2em}
+\noindent\rule{\linewidth}{0.4pt}
+
+\vspace{1.2em}
+\noindent\rule{\linewidth}{0.4pt}
+
+\vspace{1.2em}
+\noindent\rule{\linewidth}{0.4pt}
+
+\vspace{1.2em}
+\noindent\rule{\linewidth}{0.4pt}
+
+\end{multicols}
+
+\vfill
+
+\noindent
+\begin{tabular}{@{}p{0.3\linewidth}p{0.3\linewidth}p{0.35\linewidth}@{}}
+RF 540 (04/05) & \centering 2 & \raggedleft Tab -- Representations and Certifications
+\end{tabular}
+
+\end{document}
+```

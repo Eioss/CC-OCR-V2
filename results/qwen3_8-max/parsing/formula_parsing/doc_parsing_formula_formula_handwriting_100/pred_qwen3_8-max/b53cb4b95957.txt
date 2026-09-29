@@ -1,0 +1,9 @@
+ $$\widetilde { a } ( x ) = \frac { 1 } { n } a \, , \; \widetilde { T } = T \, , \; \widetilde { H } = \widetilde { h } \, T \, , \; \; \widetilde { h } = \frac { 1 } { m } \sum _ { j = 1 } ^ { m } w _ { j } - z _ { 1 } \, ,$$
+
+ $$L ( p _ { k } ; m _ { 1 } ^ { \mu } ) + L ( m _ { 1 } ^ { \mu } , m _ { 2 } ^ { \nu } ) + L ( m _ { 2 } ^ { \nu } , q _ { \alpha } ) = L ( m _ { \alpha } ; q _ { \alpha } )$$
+
+ $$I ^ { m , - } ( L + 1 ) = i n f \left\{ I ^ { m , - } ( L ) < i < X m / L ^ { m , - } < ( L m ) ^ { d } \right\}$$
+
+ $$i \hbar \partial _ { t } \psi ( x ) + { \frac { \hbar ^ { 2 } } { 2 m } } \partial _ { x } \psi ( x ) - V ( x ) \ \psi ( x ) = \int d ^ { d } y \, K ( x , y ) \, \psi ( y ) ,$$
+
+ $$\int _ { B _ { 1 } ( 0 ) } | v ( w ) | ^ { 2 } d y = \operatorname* { l i m } _ { n \to \infty } \int _ { B _ { 1 } ( 0 ) } | v ( w _ { n } ) | ^ { 2 } d y = \operatorname* { l i m } _ { n \to \infty } \int _ { B _ { 1 } ( q _ { n } ) } | v ( x _ { n } y ) | ^ { 2 } d y \geq \beta > 0 ,$$

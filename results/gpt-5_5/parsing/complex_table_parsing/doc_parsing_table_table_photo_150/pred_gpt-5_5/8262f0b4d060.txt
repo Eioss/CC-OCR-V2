@@ -1,0 +1,65 @@
+<table>
+  <tr>
+    <td>Method</td>
+    <td>Sta.</td>
+    <td>LM</td>
+    <td>Lung</td>
+    <td>Eso. CE</td>
+    <td>Eso. NC</td>
+    <td>Average</td>
+  </tr>
+  <tr>
+    <td>(a) No stratification</td>
+    <td></td>
+    <td>✓</td>
+    <td>61.9</td>
+    <td>75.7</td>
+    <td>73.9</td>
+    <td>70.5</td>
+  </tr>
+  <tr>
+    <td>(b) Uniform stratification</td>
+    <td></td>
+    <td>✓</td>
+    <td>62.3</td>
+    <td>74.0</td>
+    <td>69.3</td>
+    <td>68.5</td>
+  </tr>
+  <tr>
+    <td>(c) Multi-class</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>58.1</td>
+    <td>74.7</td>
+    <td>72.6</td>
+    <td>68.5</td>
+  </tr>
+  <tr>
+    <td>(d) Hard gating</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>64.7</td>
+    <td>79.9</td>
+    <td>73.5</td>
+    <td>72.7</td>
+  </tr>
+  <tr>
+    <td>(e) Slice-wise 3D box merging [21]</td>
+    <td>✓</td>
+    <td></td>
+    <td>65.5</td>
+    <td>75.0</td>
+    <td>74.6</td>
+    <td>71.7</td>
+  </tr>
+  <tr>
+    <td>(f) Proposed</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>69.0</td>
+    <td>77.8</td>
+    <td>76.1</td>
+    <td>74.3</td>
+  </tr>
+</table>

@@ -1,0 +1,26 @@
+```json
+[
+    {"bbox_2d": [640, 117, 908, 141], "label": "ADDRESS"},
+    {"bbox_2d": [142, 231, 237, 238], "label": "BILL TO ADDRESS"},
+    {"bbox_2d": [493, 92, 840, 110], "label": "COMPANY NAME"},
+    {"bbox_2d": [141, 280, 327, 298], "label": "CONTACT INFORMATION"},
+    {"bbox_2d": [659, 293, 724, 301], "label": "CUSTOMER PO"},
+    {"bbox_2d": [778, 480, 795, 488], "label": "Country of Origin"},
+    {"bbox_2d": [767, 443, 791, 451], "label": "Currency"},
+    {"bbox_2d": [375, 480, 538, 489], "label": "DESCRIPTION"},
+    {"bbox_2d": [141, 341, 298, 349], "label": "EMAIL"},
+    {"bbox_2d": [145, 318, 318, 326], "label": "Frau Edmeier Tel"},
+    {"bbox_2d": [827, 480, 891, 488], "label": "HS CODE"},
+    {"bbox_2d": [659, 244, 717, 252], "label": "INVOICE DATE"},
+    {"bbox_2d": [659, 220, 724, 228], "label": "INVOICE NO."},
+    {"bbox_2d": [116, 480, 128, 487], "label": "Item"},
+    {"bbox_2d": [268, 480, 309, 488], "label": "PART NO."},
+    {"bbox_2d": [103, 430, 261, 438], "label": "PAYMENT TERMS"},
+    {"bbox_2d": [172, 480, 202, 487], "label": "QTY"},
+    {"bbox_2d": [658, 318, 724, 326], "label": "SALES ORDER"},
+    {"bbox_2d": [345, 431, 365, 438], "label": "SHIPPING MODE"},
+    {"bbox_2d": [455, 180, 549, 194], "label": "TITLE"},
+    {"bbox_2d": [676, 521, 731, 531], "label": "TOTAL PRICE"},
+    {"bbox_2d": [594, 480, 630, 488], "label": "UNIT PRICE"}
+]
+```

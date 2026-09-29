@@ -1,0 +1,32 @@
+```latex
+\begin{center}
+    \Large{A} \\
+    \vspace{0.5cm}
+    \Huge{\textbf{DICTIONARY}} \\
+    \vspace{0.5cm}
+    \large{ENGLISH, GERMAN AND FRENCH,} \\
+    \vspace{0.5cm}
+    \normalsize{CONTAINING NOT ONLY} \\
+    \Large{\textbf{THE ENGLISH WORDS}} \\
+    \normalsize{IN THEIR ALPHABETICAL ORDER,} \\
+    \normalsize{TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS;} \\
+    \normalsize{BUT ALSO} \\
+    \normalsize{THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES,} \\
+    \normalsize{IDIOMS, AND PROVERBS,} \\
+    \normalsize{TAKEN FROM THE BEST NEW} \\
+    \Large{\textbf{ENGLISH DICTIONARIES}} \\
+    \vspace{0.2cm}
+    \normalsize{BY} \\
+    \large{\textbf{Mr. CHRISTIAN LUDWIG.}} \\
+    \vspace{0.5cm}
+    \large{\textbf{SECOND EDITION}} \\
+    \normalsize{CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY} \\
+    \normalsize{AUGMENTED.} \\
+    \vspace{1cm}
+    % Placeholder for the Pegasus image
+    % \includegraphics[width=0.3\textwidth]{pegasus_image} 
+    \vspace{1cm}
+    \large{\textbf{LEIPZIG AND FRANCFURT}} \\
+    \normalsize{M DCC XXXVI.}
+\end{center}
+```

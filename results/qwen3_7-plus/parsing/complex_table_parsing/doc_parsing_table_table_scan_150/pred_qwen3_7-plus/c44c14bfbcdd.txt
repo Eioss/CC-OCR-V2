@@ -1,0 +1,198 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Size Chart</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        .header-section {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .main-title {
+            color: #e6d5c3; /* Light beige/pinkish tone */
+            font-size: 28px;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+            font-weight: normal;
+        }
+
+        .sub-title {
+            font-size: 14px;
+            color: #666;
+            letter-spacing: 5px;
+            margin-bottom: 5px;
+        }
+
+        .tiny-text {
+            font-size: 10px;
+            color: #ccc;
+            letter-spacing: 2px;
+        }
+
+        .table-header {
+            font-size: 16px;
+            color: #888;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 40px;
+        }
+
+        th, td {
+            padding: 15px 10px;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        th {
+            font-weight: bold;
+            font-size: 16px;
+            color: #000;
+        }
+
+        th span {
+            display: block;
+            font-size: 12px;
+            color: #666;
+            font-weight: normal;
+            margin-top: 5px;
+        }
+
+        tr {
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        tr:last-child {
+            border-bottom: none;
+        }
+
+        td:first-child {
+            font-weight: bold;
+            color: #000;
+        }
+
+        .notes-section {
+            font-size: 14px;
+            line-height: 1.8;
+            color: #555;
+        }
+
+        .note-label {
+            background-color: #555;
+            color: #fff;
+            padding: 4px 10px;
+            display: inline-block;
+            margin-right: 10px;
+            font-size: 14px;
+            vertical-align: top;
+            margin-top: 2px;
+        }
+
+        .note-content p {
+            margin: 0 0 10px 0;
+        }
+        
+        .note-content p:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header-section">
+        <h1 class="main-title">DETAILS DISPLA</h1>
+        <div class="sub-title">细 节 · 展 示</div>
+        <div class="tiny-text">ANGEL WEDDING</div>
+    </div>
+
+    <div class="table-header">商品尺码Size</div>
+
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>胸围<span>-cm-</span></th>
+                <th>腰围<span>-cm-</span></th>
+                <th>身高<span>-cm-</span></th>
+                <th>备注</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>XS</td>
+                <td>80</td>
+                <td>63</td>
+                <td>160-170</td>
+                <td rowspan="2">衣服两侧<br><br>留有2-5cm</td>
+            </tr>
+            <tr>
+                <td>S</td>
+                <td>83</td>
+                <td>66</td>
+                <td>160-170</td>
+            </tr>
+            <tr>
+                <td>M</td>
+                <td>86</td>
+                <td>70</td>
+                <td>160-170</td>
+                <td rowspan="2">收缩缝稍有<br><br>不合身请自</td>
+            </tr>
+            <tr>
+                <td>L</td>
+                <td>90</td>
+                <td>73</td>
+                <td>160-170</td>
+            </tr>
+            <tr>
+                <td>XL</td>
+                <td>93</td>
+                <td>76</td>
+                <td>160-170</td>
+                <td>行修改</td>
+            </tr>
+            <tr>
+                <td>XXL</td>
+                <td>96</td>
+                <td>80</td>
+                <td>160-170</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>XXXL</td>
+                <td>100</td>
+                <td>83</td>
+                <td>160-170</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="notes-section">
+        <div style="display: flex;">
+            <div class="note-label">备注</div>
+            <div class="note-content">
+                <p>1：尺码表为手工测量，因为每个人的测量手法不同，误差3CM属于正常范围，旗袍尺码偏小，建议买时加大一个尺码。</p>
+                <p>2：本店所有公主款婚纱礼服，下裙内已加入蓬蓬裙内衬的设计下裙呈现出非常自然地蓬松度，勿需再加入裙撑。</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+```

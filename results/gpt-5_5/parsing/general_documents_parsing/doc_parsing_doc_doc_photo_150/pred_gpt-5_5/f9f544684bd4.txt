@@ -1,0 +1,57 @@
+```latex
+Yasmin attempted to use the quadratic formula to determine the exact values of \(x\) in
+the equation \(-2x^2 + 7x - 3 = 0\), but she made at least one error. Her work is
+shown below.
+
+\[
+\begin{array}{c|c}
+\begin{array}{c}
+\text{Step}\\
+1
+\end{array}
+&
+\dfrac{-(7)\pm\sqrt{(7)^2-4(-2)(-3)}}{2(-2)}
+\\ \hline
+\begin{array}{c}
+\text{Step}\\
+2
+\end{array}
+&
+\dfrac{-7\pm\sqrt{25}}{-4}
+\\ \hline
+\begin{array}{c}
+\text{Step}\\
+3
+\end{array}
+&
+\dfrac{-7\pm 5}{-4}
+\\ \hline
+\begin{array}{c}
+\text{Step}\\
+4
+\end{array}
+&
+\dfrac{-7+5}{-4}=-8.25
+\qquad \text{and} \qquad
+\dfrac{-7-5}{-4}=5.75
+\end{array}
+\]
+
+1. Yasmin recorded her first mistake in
+
+\[
+\Box\ \text{Step 1}
+\]
+
+\[
+\Box\ \text{Step 4}
+\]
+
+\[
+\Box\ \text{Step 2}
+\]
+
+\[
+\Box\ \text{Step 3}
+\]
+```

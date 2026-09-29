@@ -1,0 +1,4 @@
+There are two instances of '156.00' in the receipt:
+
+(623, 967, 717, 991) # Total Amt Incl. GST
+(622, 1037, 717, 1062) # Total Amt Payable

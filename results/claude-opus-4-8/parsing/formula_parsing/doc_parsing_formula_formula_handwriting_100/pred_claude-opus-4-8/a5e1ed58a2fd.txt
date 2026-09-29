@@ -1,0 +1,19 @@
+$$\mathbb{E}\int_0^a\int_0^a|Kg(t,x)-Kg(s,y)|^p\,dt\,dx\,ds\,dy$$
+
+$$=\mathbb{E}\int_0^a\int_0^a\Big|\int_0^t\int_{\mathbb{R}^d}K(t-r,x)g(x-z)\,dz\,dW(r)$$
+
+$$-\int_0^s\int_{\mathbb{R}^d}K(s-r,z)g(y-z)\,dz\,dW(r)\Big|^p\,dt\,dx\,ds\,dy$$
+
+$$\leq N(p)\mathbb{E}\int_0^a\int_0^a\Big|\int_0^s\int_{\mathbb{R}^d}\big(K(t-r,x)-K(s-r,x)\big)g(y-z)\,dz\,dw(r)\Big|^p$$
+
+$$+N(p)\mathbb{E}\int_0^a\int_0^a\Big|\int_0^s\int_{\mathbb{R}^d}K(t-r,x)\big(g(x-z)-g(y-z)\big)\,dz\,dw(r)\Big|^p$$
+
+$$+N(p)\mathbb{E}\int_0^a\int_0^a\Big|\int_s^t\int_{\mathbb{R}^d}K(t-r,z)g(x-z)\,dz\,dW(r)\Big|^p\,dt\,dx\,ds\,dy$$
+
+$$\leq N(p)\mathbb{E}\int_0^a\int_0^a\Big(\int_0^s\int_{\mathbb{R}^d}\big(K(t-r,z)-K(s-r,z)\big)g(y-z)\,dz|^2\,dr\Big)^{\frac{p}{2}}$$
+
+$$+N(p)\mathbb{E}\int_0^a\int_0^a\Big(\int_0^s|\int_{\mathbb{R}^d}K(t-r,x)\big(g(x-z)-g(y-z)\big)\,dz|^2\,dr\Big)^{\frac{p}{2}}$$
+
+$$+N(p)\mathbb{E}\int_0^a\int_0^a\Big(\int_s^t|\int_{\mathbb{R}^d}K(t-r,z)g(x-z)\,dz|^2\,dr\Big)^{\frac{p}{2}}$$
+
+$$=:I_1+I_2+I_3.$$

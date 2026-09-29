@@ -1,0 +1,19 @@
+```json
+[
+    {"bbox_2d": [43, 70, 574, 85], "label": "ADDRESS"},
+    {"bbox_2d": [864, 393, 948, 406], "label": "Amount (EURO)"},
+    {"bbox_2d": [853, 536, 945, 550], "label": "Amount (EURO)"},
+    {"bbox_2d": [219, 8, 712, 44], "label": "COMPANY NAME"},
+    {"bbox_2d": [530, 86, 690, 99], "label": "FAX"},
+    {"bbox_2d": [158, 174, 251, 186], "label": "INV.DATE"},
+    {"bbox_2d": [157, 124, 282, 165], "label": "INV.NO"},
+    {"bbox_2d": [166, 396, 321, 408], "label": "Item no.&Description"},
+    {"bbox_2d": [29, 359, 60, 370], "label": "Marks&Nos."},
+    {"bbox_2d": [519, 394, 530, 404], "label": "Quantity (PKGS)"},
+    {"bbox_2d": [520, 538, 531, 548], "label": "Quantity (PKGS)"},
+    {"bbox_2d": [693, 120, 925, 160], "label": "S/C NO"},
+    {"bbox_2d": [308, 89, 452, 101], "label": "TEL"},
+    {"bbox_2d": [406, 136, 470, 148], "label": "TITLE"},
+    {"bbox_2d": [619, 394, 687, 406], "label": "Unit Price (EURO)"}
+]
+```

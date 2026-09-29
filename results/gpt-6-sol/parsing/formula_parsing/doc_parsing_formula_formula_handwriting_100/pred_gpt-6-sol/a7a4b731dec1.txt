@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+m(T,v)
+&=\frac{1}{|B_1|}\sum_{x\in B_1}
+e_y(\tilde z)\left\langle x,\tilde n_v(x)^{-1}\left\langle \lambda n_\theta x\right\rangle\right\rangle,\\
+v(k,t_0,z)
+&\geq 1-\exp\!\left(-\frac{\delta^2}{C(t-t_0)^2}\right),
+\qquad \tilde z\geq\lambda+\ell(t-t_0)+\delta,\\
+v(k,t_0,p)
+&\leq \exp\!\left(-\frac{\delta^2}{C(t-t_0)^2}\right),
+\qquad \tilde z\leq\lambda-\delta,\\
+S_1(\theta)
+&\leq S_1(B)\leq e^{Ce^{|\theta|}-1}S_1(0)
+\qquad\text{for every }\theta,\\
+c_{k-1}H-\frac{\tfrac12\theta H(x)}{H-z}
+&\leq \int_0^1(v_{k+1})^{H-\frac12}
+(v_{k+1}-x)^{H-\frac32}\,dv
+\leq \frac{H-\tfrac12\phi H(x)}{H-\frac32},\\
+v_{k,\ell}^{(L)}(h_k^{(L)})
+&=t_0^{-m}(E_{k,\ell}^{(L)})M_{k,\ell}^{(L)}(h_k^{(L)})^{-1}
++N_{k,\ell}^{(L)}(h_k^{(L)})\\
+&=-t_0^{-m}(E_{k,\ell}^{(L)})M_{k,\ell}^{(L)}(h_k^{(L)})^{-1}
++\delta_0''(0)\bigl(X_{k,\ell}^{(L)}+Y_{k,\ell}^{(L)}+J_{k,\ell}^{(L)}\bigr).
+\end{aligned}
+\]

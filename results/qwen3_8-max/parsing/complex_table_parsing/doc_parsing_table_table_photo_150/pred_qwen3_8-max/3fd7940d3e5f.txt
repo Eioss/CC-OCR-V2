@@ -1,0 +1,239 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 2px solid #333;
+        padding: 10px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="6" style="text-align:center; font-size: 24px; font-weight: bold;">安徽中工套筒首件详细检验测试记录表</td>
+   </tr>
+   <tr>
+    <td>产品批次</td>
+    <td colspan="2">2001</td>
+    <td>产品编号</td>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <td>项目</td>
+    <td>要求</td>
+    <td colspan="2">AH20-01</td>
+    <td colspan="2">AH20-02</td>
+   </tr>
+   <tr>
+    <td>尺寸 1</td>
+    <td>$\Phi259.6^{+0.1}_{0}$</td>
+    <td>259.66</td>
+    <td></td>
+    <td>259.66</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 2</td>
+    <td>$68.45 \pm 0.3$</td>
+    <td>68.43</td>
+    <td>68.49</td>
+    <td>68.52</td>
+    <td>68.58</td>
+   </tr>
+   <tr>
+    <td>尺寸 3</td>
+    <td>$\Phi297^{-0.1}_{-0.32}$</td>
+    <td>296.74</td>
+    <td>296.80</td>
+    <td>296.82</td>
+    <td>296.96</td>
+   </tr>
+   <tr>
+    <td>尺寸 4</td>
+    <td>$\Phi30 \pm 0.3$</td>
+    <td>30.14</td>
+    <td>30.12</td>
+    <td>30.10</td>
+    <td>30.12</td>
+   </tr>
+   <tr>
+    <td>尺寸 5</td>
+    <td>$55.5 \pm 0.1$</td>
+    <td>55.10</td>
+    <td></td>
+    <td>55.50</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 6</td>
+    <td>$60 \pm 0.1$</td>
+    <td>60.0</td>
+    <td></td>
+    <td>60.1</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 7</td>
+    <td>$\Phi285^{0}_{-0.2}$</td>
+    <td>284.79</td>
+    <td>284.81</td>
+    <td>284.81</td>
+    <td>284.89</td>
+   </tr>
+   <tr>
+    <td>尺寸 8</td>
+    <td>$391.5 \pm 0.2$</td>
+    <td>391.55</td>
+    <td>391.63</td>
+    <td>391.60</td>
+    <td>391.70</td>
+   </tr>
+   <tr>
+    <td>尺寸 9</td>
+    <td>$266.6 \pm 0.5$</td>
+    <td>267.22</td>
+    <td></td>
+    <td>267.03</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 10</td>
+    <td>$55 \pm 0.3$</td>
+    <td>55.0</td>
+    <td>5.09</td>
+    <td>55.08</td>
+    <td>55.12</td>
+   </tr>
+   <tr>
+    <td>尺寸 11</td>
+    <td>$64.95 \pm 0.3$</td>
+    <td>64.89</td>
+    <td>64.92</td>
+    <td>65.00</td>
+    <td>65.04</td>
+   </tr>
+   <tr>
+    <td>尺寸 12</td>
+    <td>$223.5 \pm 0.3$</td>
+    <td>223.43</td>
+    <td>223.45</td>
+    <td>223.62</td>
+    <td>223.70</td>
+   </tr>
+   <tr>
+    <td>尺寸 13</td>
+    <td>$162 \pm 0.1$</td>
+    <td>162.1</td>
+    <td></td>
+    <td>162.1</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 14</td>
+    <td>$54 \pm 0.3$</td>
+    <td>53.99</td>
+    <td></td>
+    <td>54.02</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 15</td>
+    <td>$25 \pm 0.1$</td>
+    <td>25.02</td>
+    <td></td>
+    <td>25.0</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 16</td>
+    <td>$4.7 \pm 0.1$</td>
+    <td>4.76</td>
+    <td></td>
+    <td>4.76</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 17</td>
+    <td>$\Phi285.5^{+0.32}_{0}$</td>
+    <td>285.72</td>
+    <td></td>
+    <td>285.77</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 18</td>
+    <td>$\Phi287.8^{+0.13}_{0}$</td>
+    <td>287.88</td>
+    <td></td>
+    <td>287.93</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 19</td>
+    <td>$\Phi290^{+0.21}_{0}$</td>
+    <td>290</td>
+    <td></td>
+    <td>290.20</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>尺寸 20</td>
+    <td>$\Phi282.4^{0}_{-0.2}$</td>
+    <td>282.33</td>
+    <td>282.34</td>
+    <td>282.33</td>
+    <td>282.36</td>
+   </tr>
+   <tr>
+    <td>尺寸 21</td>
+    <td>$\Phi278^{0}_{-0.2}$</td>
+    <td>277.91</td>
+    <td>277.95</td>
+    <td>277.95</td>
+    <td>277.96</td>
+   </tr>
+   <tr>
+    <td colspan="2">操作人: 曾智盛</td>
+    <td colspan="4">日期: 2020.11.11</td>
+   </tr>
+   <tr>
+    <td colspan="6" style="height: 80px; vertical-align: top;">备注:</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

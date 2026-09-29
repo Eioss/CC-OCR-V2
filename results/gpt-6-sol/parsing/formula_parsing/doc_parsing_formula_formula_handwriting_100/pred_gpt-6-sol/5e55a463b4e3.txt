@@ -1,0 +1,40 @@
+\[
+\begin{aligned}
+\|f(u,\cdot)\|_{H^{-1}}
+&\le C_{\delta,A}\left(
+\|u_t(t,\cdot)\|_{H^{-1}}
++\|\nabla(u-Q)(t,\cdot)\|_{H^{-1}}
+\right),\\[2mm]
+\Gamma&=\bigl(\langle I_i,S_j\rangle:i\in K\bigr),\\
+\langle\phi_i',u\rangle\langle\phi_i',v\rangle&\\[2mm]
+\beta_{jk}^{t+1}
+&=\frac{\alpha_{t+1}\beta_{jk}^{t}
++\beta_{jk}^{t}\Delta t\,\omega_{jk}^{t}}{\Delta t+1},
+\qquad k=1,\ldots,n,\\[2mm]
+\delta(D^2)(t,\Delta t,k,N)
+&\equiv (D^2)(t,\Delta t,k,N)
+-\{D(t,\Delta t,k,N)\}^{2}
+=\frac{\delta(\epsilon^2)f(t,\Delta t,k)}{N},\\[2mm]
+Kt\|x(t)-x^*\|^2
+&\le t\bigl(F(x(t))-F^*\bigr)=a(t),\\[2mm]
+R_D(\mu+i\epsilon\mid f,g)
+&=\int_{\mathbb R^m}
+\frac{\hat f(\xi)\overline{\hat g(\xi)}}
+{\xi^2/2-(\mu+i\epsilon)}\,d\xi\\
+&=\int_0^\infty
+\frac{\lambda^{(m-2)/2}}{\lambda-\mu-i\epsilon}
+\int_{S^{m-1}}
+\hat f(\sqrt{2\lambda}\,\omega)
+\overline{\hat g(\sqrt{2\lambda}\,\omega)}
+\,d\omega\,d\lambda,\\[2mm]
+I&=\sup_{0<\rho<r}\rho^{-n}
+\int_{B_\rho(x)}M_\alpha^p f(y)\,dy,\\[2mm]
+\psi(\beta)+\psi\bigl(\beta+2(1-\gamma)\bigr)
+-2\psi(\beta+1-\gamma)
+&\le
+\ln\left(
+1+\frac{(1-\gamma)^2}
+{(\beta-\gamma)(\beta+1)\Lambda(\lambda,\beta,\gamma)}
+\right).
+\end{aligned}
+\]

@@ -1,0 +1,196 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="2">分区</th>
+      <th rowspan="2">总用水量<br>/亿 m³</th>
+      <th colspan="2">占的比值/%</th>
+      <th rowspan="2">人均用水量<br>/m³</th>
+      <th colspan="4">占总用水量比值/%</th>
+    </tr>
+    <tr>
+      <th>径流量</th>
+      <th>资源量</th>
+      <th>农业</th>
+      <th>工业</th>
+      <th>城镇生活</th>
+      <th>农村生活</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>东北诸河</td>
+      <td>498.2</td>
+      <td>30.14</td>
+      <td>25.85</td>
+      <td>444</td>
+      <td>73.79</td>
+      <td>19.40</td>
+      <td>4.12</td>
+      <td>2.68</td>
+    </tr>
+    <tr>
+      <td>海滦河</td>
+      <td>409.6</td>
+      <td>142.22</td>
+      <td>97.28</td>
+      <td>347</td>
+      <td>75.80</td>
+      <td>15.73</td>
+      <td>4.96</td>
+      <td>3.51</td>
+    </tr>
+    <tr>
+      <td>淮河及山东</td>
+      <td>569.0</td>
+      <td>76.79</td>
+      <td>59.20</td>
+      <td>301</td>
+      <td>79.63</td>
+      <td>11.19</td>
+      <td>3.19</td>
+      <td>5.99</td>
+    </tr>
+    <tr>
+      <td rowspan="2">黄河</td>
+      <td>387.7</td>
+      <td>58.65</td>
+      <td>52.11</td>
+      <td>393</td>
+      <td>80.46</td>
+      <td>12.61</td>
+      <td>3.22</td>
+      <td>3.70</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>84.10 *</td>
+      <td>71.30 *</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">北方小计</td>
+      <td>1 864.4</td>
+      <td>55.77</td>
+      <td>46.0</td>
+      <td>359.7</td>
+      <td>77.39</td>
+      <td>14.68</td>
+      <td>3.83</td>
+      <td>4.09</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>59.32 *</td>
+      <td>48.4 *</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">其中黄淮海</td>
+      <td>1 366.2</td>
+      <td>80.84</td>
+      <td>64.29</td>
+      <td>336.2</td>
+      <td>78.71</td>
+      <td>12.95</td>
+      <td>3.73</td>
+      <td>4.60</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>91.69 *</td>
+      <td>70.93 *</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>长 江</td>
+      <td>1 659.4</td>
+      <td>17.44</td>
+      <td>17.26</td>
+      <td>413</td>
+      <td>65.86</td>
+      <td>25.24</td>
+      <td>4.29'</td>
+      <td>4.60</td>
+    </tr>
+    <tr>
+      <td>珠江及沿海</td>
+      <td>794.7</td>
+      <td>16.96</td>
+      <td>16.87</td>
+      <td>578</td>
+      <td>68.20</td>
+      <td>20.80</td>
+      <td>4.95</td>
+      <td>6.05</td>
+    </tr>
+    <tr>
+      <td>东南诸河</td>
+      <td>286.1</td>
+      <td>14.90</td>
+      <td>14.84</td>
+      <td>440</td>
+      <td>72.43</td>
+      <td>17.44</td>
+      <td>3.38</td>
+      <td>6.75</td>
+    </tr>
+    <tr>
+      <td>西南诸河</td>
+      <td>68.0</td>
+      <td>1.16</td>
+      <td>1.16</td>
+      <td>344</td>
+      <td>90.51</td>
+      <td>4.80</td>
+      <td>1.37</td>
+      <td>3.34</td>
+    </tr>
+    <tr>
+      <td>南方小计</td>
+      <td>2 808.1</td>
+      <td>12.78</td>
+      <td>12.7</td>
+      <td>450</td>
+      <td>67.79</td>
+      <td>22.70</td>
+      <td>4.31</td>
+      <td>5.20</td>
+    </tr>
+    <tr>
+      <td>内陆河</td>
+      <td>582.0</td>
+      <td>50.0</td>
+      <td>44.8</td>
+      <td>2 352</td>
+      <td>96.11</td>
+      <td>2.50</td>
+      <td>0.65</td>
+      <td>0.74</td>
+    </tr>
+    <tr>
+      <td>全国总计</td>
+      <td>5254.6</td>
+      <td>19.85</td>
+      <td>19.1</td>
+      <td>450</td>
+      <td>74.34</td>
+      <td>17.61</td>
+      <td>3.74</td>
+      <td>4.31</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "date_issue": "December 4, 2001",
+    "vendor_order_id": "2",
+    "vendor_name": "NEW YORK MEDICAL COLLEGE",
+    "vendor_address": "RESTRICTED FUNDS\nADMINISTRATION BUILDING\nVALHALLA, NY 10595",
+    "customer_billing_name": "Mr. Tapas Sengupta",
+    "customer_billing_address": "Philip Morris USA\n4201 Commerce Road\nGate C - Door 17\nRichmond, VA 23234",
+    "amount_total_gross": "$91,024.43",
+    "amount_due": "$91,024.43"
+}
+```

@@ -1,0 +1,17 @@
+Based on the information provided in the infographic, we can determine how many of the 109 'on track' actions have fixed timescales for delivery.
+
+Here is the step-by-step breakdown:
+
+- The section titled "Scotland's climate change plans" contains a donut chart and accompanying text.
+- The text states: "Almost all policies and proposals in the Scottish Climate Change Adaptation Programme are complete or on track."
+- It then provides a specific detail about the 'on track' actions: "However, of the **109 'on track' actions**, **103 do not have fixed timescales** for delivery."
+- The question asks for the number that *do* have fixed timescales. To find this, we subtract the number without fixed timescales from the total number of 'on track' actions.
+
+Calculation:
+$109 \text{ (total 'on track' actions)} - 103 \text{ (actions without fixed timescales)} = 6 \text{ actions with fixed timescales}$
+
+This result is also visually represented in the donut chart, where the segment labeled "Reported on track" has the number **6**.
+
+---
+
+Therefore, **6** of the 109 'on track' actions have fixed timescales for delivery.

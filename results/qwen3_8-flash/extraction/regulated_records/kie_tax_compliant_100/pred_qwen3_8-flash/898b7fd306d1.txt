@@ -1,0 +1,12 @@
+```json
+{
+    "date": "15/12/2017",
+    "doc_no_receipt_no": "A546756",
+    "seller_address": "Unit G047, Ground Floor Mid Valley Megamall Mid Valley City, Lingkaran Syed Put 59200 Kuala Lumpur",
+    "seller_gst_id": "000384106496",
+    "seller_name": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.",
+    "seller_phone": "",
+    "total_amount": "39.70",
+    "total_tax": "2.25"
+}
+```

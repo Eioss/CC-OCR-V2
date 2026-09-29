@@ -1,0 +1,16 @@
+Based on the **Learning Curve** section of the infographic:
+
+- **iPhone**: ~10 months
+- **Java ME**: ~12–13 months (bar extends slightly past 10, closer to 15 than iPhone)
+- **Windows Mobile**: ~14–15 months (bar is longer than Java ME’s, approaching Symbian’s 15)
+
+The bar chart shows **Windows Mobile** has a longer learning curve than both iPhone and Java ME.
+
+Additionally, the text box next to it states:
+> “The easiest platform to master is Android (5 months), while the hardest is Symbian (15 months).”
+
+While Windows Mobile isn’t explicitly called out as second-hardest, its bar is visibly longer than Java ME’s and iPhone’s — placing it between them and Symbian in difficulty/time-to-master.
+
+---
+
+✅ **Answer: Windows Mobile** takes longer to master than both iPhone and Java ME.

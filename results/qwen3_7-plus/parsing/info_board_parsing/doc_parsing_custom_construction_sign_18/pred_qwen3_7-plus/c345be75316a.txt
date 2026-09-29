@@ -1,0 +1,111 @@
+```html
+<html><body>
+<div style="text-align: center;"><img src="imgs/img_in_image_box_102_63_897_954.jpg" alt="Image" width="90%" /></div> 
+ <h2 style="text-align: center;">安全生产责任公示牌</h2> 
+ <p style="text-align: center;">安全负责人 / 风险提示 / 巡查记录</p> 
+ <p style="text-align: right;">文档编号 SG-042402<br/>日 期 2025-12-04</p> 
+ <table border="1" style="border-collapse: collapse; width: 100%;"> 
+  <tr> 
+   <td colspan="3"><b>施工/项目名称：</b>临澜皓月二期<br/><b>单位名称：</b>北屿省皓月市临澜皓月工程有限公司<br/><b>工程地点：</b>北屿省云栖市松影区星港大道63号 8栋<br/><b>项目负责人：</b>褚昊然<br/><b>安全员：</b>李清越<br/><b>联系电话：</b>13158847664</td> 
+   <th colspan="4">责任与联系方式表</th> 
+  </tr> 
+  <tr> 
+   <th>岗位</th> 
+   <th>姓名</th> 
+   <th>电话</th> 
+   <th>在岗状态</th> 
+  </tr> 
+  <tr> 
+   <td>项目经理</td> 
+   <td>褚昊然</td> 
+   <td>13905710001</td> 
+   <td>在岗</td> 
+  </tr> 
+  <tr> 
+   <td>安全主管</td> 
+   <td>李清越</td> 
+   <td>13158847664</td> 
+   <td>巡查中</td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <th colspan="7">风险点清单与措施表</th> 
+  </tr> 
+  <tr> 
+   <th>风险编号</th> 
+   <th>风险点描述</th> 
+   <th>风险等级</th> 
+   <th>整改措施</th> 
+   <th>复查结果</th> 
+   <th>责任人</th> 
+   <th>备注(计费规则/要求)</th> 
+  </tr> 
+  <tr> 
+   <td>RK-001</td> 
+   <td>高处作业坠落</td> 
+   <td>一级</td> 
+   <td>佩戴安全带，设置防护网</td> 
+   <td>已整改 (合格)</td> 
+   <td>李清越</td> 
+   <td>计费规则：按工时；<br/>备注：每日检查</td> 
+  </tr> 
+  <tr> 
+   <td>RK-002</td> 
+   <td>高处作业坠落</td> 
+   <td>一级</td> 
+   <td>佩戴安全带，设置防护网</td> 
+   <td>已整改 (合格)</td> 
+   <td>李清越</td> 
+   <td>计费规则：按工时；<br/>备注：每日检查</td> 
+  </tr> 
+  <tr> 
+   <td>RK-002</td> 
+   <td>临时用电短路</td> 
+   <td>二级</td> 
+   <td>定期检查电路，接地保护</td> 
+   <td>待复查(未完成)</td> 
+   <td>张工</td> 
+   <td>要求：需持证上岗</td> 
+  </tr> 
+  <tr> 
+   <td>RK-003</td> 
+   <td>机械伤害</td> 
+   <td>一级</td> 
+   <td>操作规程培训，防护罩</td> 
+   <td>已整改 (合格)</td> 
+   <td>王强</td> 
+   <td>条目编码：<br/>836456451153300945</td> 
+  </tr> 
+  <tr> 
+   <td>—</td> 
+   <td>¥500.00 (手写)</td> 
+   <td>—</td> 
+   <td>整改费用：¥500.00 (手写)</td> 
+   <td>¥300.00</td> 
+   <td>李清越<br/>需加强巡查</td> 
+   <td rowspan="3" style="text-align: center;"><div style="text-align: center;"><img src="imgs/img_in_image_box_787_798_835_880.jpg" alt="QR Code" width="6%" /></div><br/>https://example.com/doc-98336975</td> 
+  </tr> 
+  <tr> 
+   <td>—</td> 
+   <td>—</td> 
+   <td>—</td> 
+   <td>—</td> 
+   <td>—</td> 
+   <td></td> 
+  </tr> 
+  <tr> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+   <td></td> 
+  </tr> 
+ </table> 
+</body></html>
+```

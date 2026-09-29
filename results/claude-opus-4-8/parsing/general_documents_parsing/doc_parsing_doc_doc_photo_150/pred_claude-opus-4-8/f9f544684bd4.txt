@@ -1,0 +1,39 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\noindent Yasmin attempted to use the quadratic formula to determine the exact values of $x$ in the equation $-2x^2 + 7x - 3 = 0$, but she made at least one error. Her work is shown below.
+
+\begin{center}
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{c|c}
+\begin{tabular}{c} Step \\ 1 \end{tabular} & 
+$\dfrac{-(7) \pm \sqrt{(7)^2 - 4(-2)(-3)}}{2(-2)}$ \\
+\hline
+\begin{tabular}{c} Step \\ 2 \end{tabular} & 
+$\dfrac{-7 \pm \sqrt{25}}{-4}$ \\
+\hline
+\begin{tabular}{c} Step \\ 3 \end{tabular} & 
+$\dfrac{-7 \pm 5}{-4}$ \\
+\hline
+\begin{tabular}{c} Step \\ 4 \end{tabular} & 
+$\dfrac{-7+5}{-4} = -8.25 \quad \text{and} \quad \dfrac{-7-5}{-4} = -5.75$ \\
+\end{tabular}
+\end{center}
+
+\bigskip
+
+\noindent 1. \quad Yasmin recorded her \textbf{first} mistake in
+
+\begin{itemize}
+\item[$\square$] Step 1
+\item[$\square$] Step 4
+\item[$\square$] Step 2
+\item[$\square$] Step 3
+\end{itemize}
+
+\end{document}
+```

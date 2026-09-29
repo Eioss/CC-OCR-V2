@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$210.00",
+    "advertiser": "Jeffrey Sites for Congress-D",
+    "flight_from": "04/07/20",
+    "flight_to": "04/13/20"
+}
+```

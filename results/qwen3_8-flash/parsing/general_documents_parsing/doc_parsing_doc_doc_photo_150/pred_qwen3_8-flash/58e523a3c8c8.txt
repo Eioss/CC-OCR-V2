@@ -1,0 +1,93 @@
+```latex
+\begin{center}
+    \textbf{\large COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \\
+    \vspace{0.5em}
+    \textbf{\large Standard - 11} \quad Reg. No. [ ][ ][ ][ ][ ] \\ % Boxes for registration number
+    \vspace{0.5em}
+    \textbf{\large PART - III - MATHEMATICS} \\
+    \vspace{0.5em}
+    Time Allowed: 2:30 Hours \hfill Maximum Marks: 90
+\end{center}
+
+\textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline and pencil to draw diagrams.
+\end{enumerate}
+
+\section*{PART - I}
+
+Note: i) Answer all the questions. \hfill $20 \times 1 = 20$ \\
+ii) Choose the most appropriate answer from the given four alternatives and write the option code and the corresponding answer.
+
+\begin{enumerate}
+    \item The range of the function $\frac{1}{1-2\sin x}$ is
+        \begin{enumerate}[label=\alph*)]
+            \item $(-\infty, -1) \cup \left(\frac{1}{3}, \infty\right)$
+            \item $\left(-1, \frac{1}{3}\right)$
+            \item $\left[-1, \frac{1}{3}\right]$
+            \item $(-\infty, -1] \cup \left[\frac{1}{3}, \infty\right)$
+        \end{enumerate}
+
+    \item The function $f : [0, 2\pi] \to [-1, 1]$ defined by $f(x) = \sin x$ is
+        \begin{enumerate}[label=\alph*)]
+            \item one-to-one
+            \item onto
+            \item bijection
+            \item cannot be defined
+        \end{enumerate}
+
+    \item The solution set of the following inequality $|x-1| > |x-3|$ is
+        \begin{enumerate}[label=\alph*)]
+            \item $[0, 2)$
+            \item $[2, \infty)$
+            \item $(0, 2)$
+            \item $(-\infty, 2)$
+        \end{enumerate}
+
+    \item If 3 is the logarithm of 343, then the base is
+        \begin{enumerate}[label=\alph*)]
+            \item 5
+            \item 7
+            \item 6
+            \item 9
+        \end{enumerate}
+
+    \item In a $\triangle ABC$, $\tan\left(\frac{A}{2}\right) =$
+        \begin{enumerate}[label=\alph*)]
+            \item $\sqrt{\frac{(s-b)(s-c)}{bc}}$
+            \item $\sqrt{\frac{s(s-a)}{bc}}$
+            \item $\sqrt{\frac{(s-b)(s-c)}{s(s-a)}}$
+            \item $\sqrt{s(s-a)(s-b)(s-c)}$
+        \end{enumerate}
+
+    \item There are 10 points in a plane and 4 of them are collinear. The number of straight lines joining any two points is
+        \begin{enumerate}[label=\alph*)]
+            \item 45
+            \item 40
+            \item 39
+            \item 38
+        \end{enumerate}
+
+    \item The $n^{\text{th}}$ term of the sequence $1, 2, 4, 7, 11, \dots\dots\dots$ is
+        \begin{enumerate}[label=\alph*)]
+            \item $n^3 + 3n^2 + 2n$
+            \item $n^3 - 3n^2 + 3n$
+            \item $\frac{n(n+1)(n+2)}{3}$
+            \item $\frac{n^2 - n + 2}{2}$
+        \end{enumerate}
+
+    \item The slopes of the line which makes an angle $45^\circ$ with the line $3x - y = -5$ are
+        \begin{enumerate}[label=\alph*)]
+            \item $1, -1$
+            \item $\frac{1}{2}, -2$
+            \item $1, \frac{1}{2}$
+            \item $2, \frac{-1}{2}$
+        \end{enumerate}
+\end{enumerate}
+
+\vfill
+\begin{center}
+    Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+```

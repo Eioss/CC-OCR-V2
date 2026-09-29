@@ -1,0 +1,13 @@
+```json
+{
+    "menu": [
+        "1 SALMON PESTO 85,500",
+        "1 SALMON PESTO 85,500",
+        "Disc -100%(ITM06) -85,500",
+        "SVC CHG 6% 10,260",
+        "PB1 10% 18,126"
+    ],
+    "sub_total": "85,500",
+    "total": "113,886"
+}
+```

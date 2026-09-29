@@ -1,0 +1,16 @@
+Based on the provided flowchart, if the priority designation is **High Priority**, the next step is:
+
+> **Risk Evaluation**
+
+This is shown at the bottom left of the diagram, where an arrow points from “High Priority” directly to “Risk Evaluation”.
+
+---
+
+**Context from the chart:**
+- After “Finalize Priority Designation”, the process branches into two paths:
+  - **High Priority → Risk Evaluation**
+  - **Low Priority → Subject to Judicial Review**
+
+So, for high-priority substances, the EPA proceeds to conduct a risk evaluation as the next formal step in the prioritization process.
+
+✅ **Answer: Risk Evaluation**

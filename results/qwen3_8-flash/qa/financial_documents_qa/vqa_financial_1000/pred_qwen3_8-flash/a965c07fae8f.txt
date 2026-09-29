@@ -1,0 +1,9 @@
+The amount given in the voucher is **$900.00**.
+
+This is shown in two places:
+- In the “ISSUE CHECK TO” section, under the dollar sign: `900` with cents marked as `xx`.
+- In the “Amount” column of the G/L Account Code table: `$ 900.00`.
+
+Additionally, the explanation notes it’s for a “NECSA Golf outing,” which matches the context of the payment.
+
+✅ Final Answer: **$900.00**

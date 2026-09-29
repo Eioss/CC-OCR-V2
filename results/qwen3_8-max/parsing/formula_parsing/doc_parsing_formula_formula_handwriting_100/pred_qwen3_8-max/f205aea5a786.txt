@@ -1,0 +1,19 @@
+ $$\left| \frac { \partial \Gamma _ { \varepsilon } ^ { \alpha \beta } } { \partial x _ { i } } ( x , t ; y , s ) - \frac { \partial \Gamma _ { 0 } ^ { \alpha \beta } } { \partial x _ { i } } ( x , t ; y , s ) - \frac { \partial x _ { j } ^ { \alpha \gamma } } { \partial x _ { i } } ( x / \varepsilon , t / \varepsilon ^ { 2 } ) \frac { \partial \Gamma _ { 0 } ^ { \gamma \beta } } { \partial x _ { j } } ( x , t ; y , s ) \right|$$
+
+ $$d e g ( T X _ { 0 } / c _ { 1 } ) - d e g ( { \mathcal G } ^ { \alpha _ { 1 } } ) c _ { 1 } - d e g ( { \mathcal G } ^ { - 1 } / { \mathcal G } ^ { \alpha _ { 1 } } ) / c _ { 1 }$$
+
+ $$= d e g ( { \mathcal G } ^ { - 2 } / { \mathcal G } ) / c _ { 1 } + d e g ( { \mathcal G } ^ { - 3 } / { \mathcal G } ^ { - 2 } ) / c _ { 1 } .$$
+
+ $$\langle A _ { w , t } u , u \rangle \geq \operatorname* { m a x } \{ c _ { 1 } ( w , t ) \| u \| _ { V } ^ { p } - m _ { 1 } ( w , t ) , c _ { 2 } ( w , t ) \| A _ { t } u \| _ { V ^ { * } } ^ { p } - m _ { 2 } ( w , t ) \} ,$$
+
+ $$S _ { B S } \approx N ^ { 1 / 2 } ( 2 \lambda + 4 r _ { 2 } ^ { 3 } ) ^ { 1 / 2 } \approx ( 2 N \lambda ) ^ { 1 / 2 } ;$$
+
+ $$( g _ { A } ^ { * } \circ h \circ e ) _ { f } ( x _ { i j _ { 1 } } , \cdots x _ { i s j _ { s } } \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } ) = ( \psi ^ { * } \circ g _ { K } ^ { * } ) _ { f } ( x _ { i _ { 1 } j _ { 1 } } , \cdots x _ { i _ { s } j _ { s } } \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } )$$
+
+ $$( g _ { A } ^ { * } \circ h ) _ { f } ( x _ { i _ { 1 } } , \cdots x _ { i _ { s } } \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } ) = \Bigl ( \prod _ { u = 1 } ^ { s } \prod _ { k = 1 } ^ { c _ { i _ { u } } } x _ { i _ { u } j _ { u } ( k ) } \Bigr ) \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } .$$
+
+ $$\ell \leq H _ { m i n } ^ { \epsilon _ { 1 } } ( Z _ { D } | S _ { \bar { D } } D B ^ { \prime } ) - 2 \log _ { 2 } \frac { 1 } { \epsilon _ { A } - 4 \epsilon _ { 1 } }$$
+
+ $$\mathbb { D } \colon D ( A _ { w } \mathrm { - d g m o d } ) ^ { \circ } \to D ( A _ { w } \mathrm { - d g m o d } ) \colon M \mapsto R \operatorname { H o m } _ { H _ { Q } ^ { * } ( p t ) } ( M , H _ { Q } ^ { * } ( p t ) ) ,$$
+
+ $$S _ { \varepsilon } ( r ( E ) ) = S \varepsilon ( r ( V E ) ) = Q ( S _ { \varepsilon } ) ^ { V E } + \sum _ { \lambda \in V E } Q ( S _ { \varepsilon } ) _ { \lambda } ^ { V E } = \sum _ { \lambda \in V E } Q ( S _ { \varepsilon } ) _ { \lambda } ^ { V E } .$$

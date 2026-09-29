@@ -1,0 +1,13 @@
+Based on the infographic, malware attacks **decreased** from 2010 to 2013.
+
+The data shows:
+- **2010:** .35% malware
+- **2013:** 2%... 
+
+Wait, looking more carefully at the numbers:
+- **2010:** Malware was .35%
+- **2013:** Malware was 2%
+
+Actually, this shows malware **increased** from .35% to 2%. 
+
+The downward arrow in the infographic is misleading for this particular category—while the section is titled "Email Attacks Mostly Down," the malware figure specifically went **up** from .35% (2010) to 2% (2013), making it one of the exceptions to the overall declining trend.

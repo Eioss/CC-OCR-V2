@@ -1,0 +1,14 @@
+ $$\inf_{u \in \mathcal{E}} \int_{\mathbb{T}} \langle u \rangle m \, dx = \inf_{\theta \in [\frac{1}{8}, \frac{3}{8}]} \int_{\mathbb{T}} \langle u^{\theta} \rangle m \, dx,$$
+
+ $$\partial_{\ell}(u_1, \dots, u_n) = \frac{1}{\delta \ell} \int_V v T_{\ell}' [M_1 u_1, \dots, M_n u_n](M_{\ell}(v)) \, dv.$$
+
+ $$\mathcal{B}[w, \phi; t] := \int (\frac{1}{2} \nabla w \cdot \nabla \phi \mu - w \mu k m \cdot \nabla \phi - k w \phi) \, dm$$
+
+ $$\nu \left| \int_0^T K_1 \, dt \right| \leq C_0 T^{1/4} (\|\sqrt{\rho \epsilon} \, \dot{v}\|_{L^{\infty}(0,T; L_2)}^{1/4} + \nu^{-3/4} T^{1/8})$$
+ $$\times (\nu^{1/8} \|\sqrt{\rho \epsilon} \, \dot{v}\|_{L^{\infty}(0,T; L_2)}^{1/4} + \nu^{1/4} T^{1/8}) \|\sqrt{t} \text{div} \, \dot{v}\|_{L_2(0,T; L_2)}.$$
+
+ $$\mathbb{E} \left[ \sup_{0 \leq s \leq t} \|h_n(s, \omega)\|^p \right]$$
+
+ $$\text{Var} \sum_{i=1}^k X_i \leq k^2 \sup_i \text{Var} \, X_i,$$
+
+ $$C_1^+ J_m \left( \sqrt{\frac{\lambda}{\beta^+}} R_0 \right) + C_2^+ Y_m \left( \sqrt{\frac{\lambda}{\beta}} R_0 \right) = 0.$$

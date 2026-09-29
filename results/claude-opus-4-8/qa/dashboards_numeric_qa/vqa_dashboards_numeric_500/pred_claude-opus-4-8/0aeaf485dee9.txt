@@ -1,0 +1,20 @@
+Looking at the infographic, I need to count countries with a Science scale (orange bars) less than 500.
+
+Going through the list and checking the Science scores (orange numbers):
+
+1. **Iceland** - 494
+2. **Norway** - 500 (this is exactly 500, not less)
+3. **United States** - 502 (not less)
+4. **Sweden** - 495
+5. **Portugal** - 493
+6. **Latvia** - 494
+7. **Italy** - 489
+
+Let me verify the ones below 500:
+- **Iceland** - 494 ✓
+- **Sweden** - 495 ✓
+- **Portugal** - 493 ✓
+- **Latvia** - 494 ✓
+- **Italy** - 489 ✓
+
+**The answer is 5 countries** have a Science scale less than 500: Iceland, Sweden, Portugal, Latvia, and Italy.

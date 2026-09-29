@@ -1,0 +1,28 @@
+\[
+\begin{aligned}
+\Sigma_\ell(p)
+&:=\left\{\xi\in\Sigma_n B_{1/2}(p):
+T_{p+\alpha}G\bigl(\xi(1)+G_p\bigr)\cap B_{1/2}(p)\right\},\\[2mm]
+\phi_0(x)&=1 &&(0\le x<\tfrac12),&
+\phi_0(x+1)&=\phi_0(x),\\
+\phi_0(x)&=-1 &&(\tfrac12\le x<1),&
+\phi_n(x)&=\phi_0(2^n x),\\[2mm]
+q&\in
+\begin{cases}
+(3/2,\infty),&0\le s\le\tfrac12,\\
+(1,\infty),&\tfrac12<s,
+\end{cases}\\[2mm]
+\langle I\vec\beta_j,x_0-y_0\rangle
+&=\langle I\vec\beta_j,x_0\rangle
+-\langle I\vec\beta_j,y_0\rangle-\delta(z,j),\\[2mm]
+v(x,\vec p^{(j+1)})-v(x,\vec p^{(j)})
+&=\sum_{k=0}^{j-1}
+\left(v(x,\vec Q^{(k+1)})-v(x,\vec Q^{(k)})\right)
+-v(x,\vec Q^{(j)})-v(x,\vec Q^{(j)}),\\[2mm]
+a&=\frac12\left(1+1-\frac{\varepsilon}{2\pi}\right),\\[2mm]
+\theta_2\!\begin{pmatrix}j_0x_0\\1\end{pmatrix}
+&=|j_0a|^{1/2}\sum_{\xi\in I}\psi\!\left(Q(\xi)(x_0+j y_0)\right)
+=|j_0|^{1/2}\sum_{q\in I}\psi\!\left(Q(q)(x_0+j y_0)\right),\\[2mm]
+i\oplus j&\equiv(i+j)\pmod 2.
+\end{aligned}
+\]

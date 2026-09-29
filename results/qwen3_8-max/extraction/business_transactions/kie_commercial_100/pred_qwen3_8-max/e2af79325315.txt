@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "05/24/20",
+    "date_due": "05/24/2020",
+    "order_id": "1995881",
+    "vendor_name": "WZZM",
+    "vendor_address": "645 3 Mile Road NW Grand Rapids MI 49544",
+    "vendor_email": "TEGNAMediaInvoices@tegna.com",
+    "customer_billing_name": "American Media & Advocacy Group/ POL",
+    "customer_billing_address": "815 Slaters Lane Alexandria VA 22314",
+    "customer_other_address": "PO BOX: 637386 Cincinnati OH 45263-7386",
+    "amount_total_gross": "$8,520.00",
+    "amount_due": "$7,242.00",
+    "payment_terms": "Cash in Advance"
+}
+```

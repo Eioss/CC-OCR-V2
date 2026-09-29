@@ -1,0 +1,10 @@
+Based on the infographic:
+
+*   **21%** of learning materials were accessed via apps on tablets.
+*   **17%** installed the app on **both** tablets and smartphones.
+
+To find the percentage who used **only** tablets, we subtract those who used both from the total tablet users:
+
+21% (total tablet users) - 17% (used both) = **4%**
+
+Therefore, **4%** of people used only apps on tablets.

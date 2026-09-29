@@ -1,0 +1,221 @@
+I'll transcribe this document into LaTeX format, preserving the structure and content as shown.
+
+```latex
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\definecolor{mtiorange}{RGB}{242,169,0}
+\definecolor{mtinavy}{RGB}{28,32,64}
+\definecolor{mtigray}{RGB}{150,150,150}
+
+\begin{document}
+
+%==================== HEADER ====================
+\noindent
+\hfill \textbf{\footnotesize CHAIRMAN'S LETTER} \quad 
+{\color{mtigray}\footnotesize MINERALS TECHNOLOGIES INC.} \quad 
+\textbf{\color{mtinavy}5}
+
+\noindent\rule{\textwidth}{2pt}
+
+\vspace{1.5cm}
+
+%==================== TITLE ====================
+{\fontsize{42}{46}\selectfont \textbf{\color{mtiorange} BOTH BUSINESS SEGMENTS---}}
+
+\vspace{0.5cm}
+
+\noindent\textbf{\large Specialty Minerals and Refractories---contributed to this outstanding 
+performance through record-breaking financial results.}
+
+\vspace{0.5cm}
+
+%==================== THREE-COLUMN BODY ====================
+\begin{multicols}{3}
+
+\noindent Contributing to these financial results 
+was excellent execution of our 2013 
+operating plan initiatives, which included 
+growth, return on capital, productivity 
+improvements, expense control, and safety. 
+Since 2007, the company has improved 
+productivity by 5 percent compounded 
+annually and we kept our 2013 expenses 
+flat with 2012 while continuing to grow 
+our Asia positions profitably.
+
+\vspace{0.3cm}
+
+\noindent The company's safety performance 
+continued on a strong track in 2013. 
+We achieved our lowest lost workday rate 
+of 0.386 injuries per 100 employees, 
+which is approaching world class safety 
+levels, and our recordable injury rate 
+declined from the previous year to 1.594 
+injuries per 100 employees. We are 
+committed to making MTI a safe working 
+environment for our employees. Our goal is 
+for our employees to go home each day after 
+work in the same condition they arrived.
+
+\vspace{0.3cm}
+
+\noindent MTI's Return on Capital continued to 
+improve. Our return is now 9.5 percent 
+compared to 9.2 percent in 2012. The 
+company generated \$138 million in cash 
+from operations and we repurchased \$52 
+million of our shares during the year.
+
+\vspace{0.3cm}
+
+\noindent {\color{mtiorange}\textbf{Accomplishments}}\\
+Let's take a look at what drove our 
+outstanding 2013 performance. Our two 
+major strategies---geographic expansion 
+and new product innovation---continue to 
+gain traction. In 2013, we signed contracts 
+for two new satellites, one in China, and
+
+\columnbreak
+
+\noindent the second in Europe. The plant in China 
+is a joint venture agreement with Nanning 
+Jindaxing Paper Industry Co. Ltd. for 
+the construction of a 45,000-metric ton 
+satellite PCC facility at Jindaxing Paper's 
+papermaking facility in Guangxi Province, 
+China. The satellite plant, which will 
+produce PCC for paper filling, will become 
+operational in the fourth quarter of 2014. 
+The satellite facility in Europe is for paper 
+filling and is with a papermaker that wished 
+to remain unnamed for competitive reasons.
+
+\vspace{0.3cm}
+
+\noindent More recently, in early January, we 
+announced an agreement with UPM-
+Kymmene Corporation to build a satellite 
+PCC plant on site at UPM's paper mill 
+in Changshu, China, located in Jiangsu 
+province. The satellite plant, scheduled to 
+begin operation early in 2015, will provide 
+PCC for paper filling and will have an initial 
+capacity of 100,000 tons.
+
+\columnbreak
+
+\noindent In total, we are now constructing four 
+new satellite PCC plants in China. These 
+include the plant at Jianghe Paper in Henan 
+Province and the 100,000-ton coating facility 
+for Sun Paper in Shandong Province, both 
+of which we signed in the fourth quarter of 
+2012. Our growth in China will continue. 
+We have developed the operational capability 
+through added resources to further expand 
+in this growing market.
+
+\vspace{0.3cm}
+
+\noindent During the year, we also began ramping up 
+three satellite facilities, two in India and one 
+in Thailand. MTI now has seven satellite 
+plants in China and 16 in Asia, which is 
+now second only to the 25 satellites we 
+operate in North America. In addition, our 
+North American PCC plant expansions are 
+moving forward and we expect them to be 
+contributing volume in 2014.
+
+\end{multicols}
+
+\vspace{0.5cm}
+
+%==================== CHARTS ====================
+\begin{minipage}{0.48\textwidth}
+\centering
+\noindent\textbf{Return on Capital*}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}
+  % axis labels
+  \node at (-0.5,4.5) {\small 10};
+  \node at (-0.5,0) {\small 5};
+  \node[rotate=90] at (-1,2.25) {\footnotesize ROC \%};
+  % bars
+  \fill[mtiorange] (0.5,0) rectangle (1.3,3.4);
+  \fill[mtiorange] (1.8,0) rectangle (2.6,3.8);
+  \fill[mtiorange] (3.1,0) rectangle (3.9,4.2);
+  \fill[mtinavy]   (4.4,0) rectangle (5.2,4.5);
+  % bar values
+  \node at (0.9,3.7) {\footnotesize 8.4};
+  \node at (2.2,4.1) {\footnotesize 8.8};
+  \node at (3.5,4.5) {\footnotesize 9.2};
+  \node at (4.8,4.8) {\footnotesize 9.5};
+  % x labels
+  \node at (0.9,-0.4) {\footnotesize 2010};
+  \node at (2.2,-0.4) {\footnotesize 2011};
+  \node at (3.5,-0.4) {\footnotesize 2012};
+  \node at (4.8,-0.4) {\footnotesize 2013};
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+{\footnotesize * Bloomberg Method}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\textwidth}
+\centering
+\noindent\textbf{Quarterly Underlying Sales Growth}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}
+  % y axis labels
+  \foreach \v/\y in {-3/-1.5, -2/-1, -1/-0.5, 0/0, 1/0.5, 2/1, 3/1.5, 4/2, 5/2.5, 6/3, 7/3.5, 8/4}
+    \node at (-0.6,\y) {\footnotesize \v\%};
+  % reported sales bars (navy)
+  \fill[mtinavy] (0.3,-0.5) rectangle (0.9,0);   % Q1 -1%
+  \fill[mtinavy] (1.8,0) rectangle (2.4,1);      % Q2 2%
+  \fill[mtinavy] (3.3,0) rectangle (3.9,1);      % Q3 2%
+  \fill[mtinavy] (4.8,0) rectangle (5.4,3);      % Q4 6%
+  % underlying sales line (orange)
+  \draw[mtiorange,thick] (0.6,-1) -- (2.1,2) -- (3.6,2) -- (5.1,3.5);
+  \foreach \x/\y in {0.6/-1, 2.1/2, 3.6/2, 5.1/3.5}
+    \fill[mtiorange] (\x,\y) circle (2pt);
+  % data labels
+  \node at (0.6,0.3) {\footnotesize Q1};
+  \node[white] at (0.6,-0.25) {\scriptsize -1\%};
+  \node at (0.6,-1.4) {\footnotesize -2\%};
+  \node at (2.1,2.4) {\footnotesize 4\%};
+  \node[white] at (2.1,0.5) {\scriptsize 2\%};
+  \node at (2.1,-0.4) {\footnotesize Q2};
+  \node at (3.6,2.4) {\footnotesize 4\%};
+  \node[white] at (3.6,0.5) {\scriptsize 2\%};
+  \node at (3.6,-0.4) {\footnotesize Q3};
+  \node at (5.1,3.9) {\footnotesize 7\%};
+  \node[white] at (5.1,2.3) {\scriptsize 6\%};
+  \node at (5.4,1.5) {\footnotesize Q4};
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+{\footnotesize 
+$\blacksquare$~Reported Sales Growth\\
+{\color{mtiorange}$\bullet$}~Underlying Sales Growth}
+\end{minipage}
+
+\end{document}
+```
+
+I've transcribed the document maintaining its three-column layout, the orange title heading, both bar/line charts with their data values, and all body text. The charts are recreated using TikZ to approximate the original visual presentation. The simulated data values (ROC percentages of 8.4, 8.8, 9.2, 9.5 and the quarterly sales growth figures) are preserved as shown in the image.

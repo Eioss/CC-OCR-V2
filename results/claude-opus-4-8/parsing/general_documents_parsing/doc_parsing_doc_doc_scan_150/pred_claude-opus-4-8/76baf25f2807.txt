@@ -1,0 +1,76 @@
+# The Passive Voice
+
+```latex
+\documentclass{article}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\begin{document}
+
+\title{The passive voice}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+ & \textbf{Active Voice} & \textbf{Passive Voice} \\
+\hline
+\rowcolor{green!20}
+\textbf{Present Simple} & They serve dinner at 6pm & Dinner is served at 6pm \\
+\rowcolor{green!20}
+\textbf{Present Continuous} & They are serving dinner now. & Dinner is being served now. \\
+\hline
+\textbf{Past Simple} & They served dinner. & Dinner was served. \\
+\textbf{Past Continuous} & They were serving dinner. & Dinner was being served. \\
+\hline
+\rowcolor{green!20}
+\textbf{Future Simple} & They will serve dinner. & Dinner will be served. \\
+\rowcolor{green!20}
+\textbf{Present Perfect} & They have served dinner. & Dinner has been served. \\
+\hline
+\textbf{Past Perfect} & They had served dinner. & Dinner had been served. \\
+\textbf{Future Perfect} & They will have served dinner. & Dinner will have been served. \\
+\hline
+\rowcolor{green!20}
+\textbf{Present infinitive} & They should serve dinner. & Dinner should be served. \\
+\rowcolor{green!20}
+\textbf{Perfect infinitive} & They should have served dinner. & Dinner should have been served. \\
+\hline
+\textbf{-ing form} & He likes people serving his dinner & He likes his dinner being served. \\
+\textbf{Perfect-ing form} & Having served dinner,... & Dinner havig been served... \\
+\hline
+\textbf{Modals+ be + p.p.} & You must serve dinner. & Dinner must be served. \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{Exercise}
+
+\textit{Karen is writing an article about Vivienne Tam for the school newspaper. Help her to 
+complete the article using the correct passive form of the verbs in brackets. One of the verbs 
+is negative.}
+
+\vspace{1em}
+
+Fashion designer Vivienne Tam \textsuperscript{(1)} \rule{4cm}{0.4pt} (name) `Yin Yok' 
+when she was born. She \textsuperscript{(2)} \rule{4cm}{0.4pt} (give) her English name 
+when she started studying in Hong Kong. She \textsuperscript{(3)} \rule{4cm}{0.4pt} 
+(teach) English at school but spoke Cantonese at home. She \textsuperscript{(4)} 
+\rule{4cm}{0.4pt} (tell) to always remember her Chinese culture. At 
+the same time, western ideas \textsuperscript{(5)} \rule{4cm}{0.4pt} (introduce) to her 
+since people from many cultures were living in Hong Kong. This mix of East and 
+West in her life \textsuperscript{(6)} \rule{4cm}{0.4pt} (see) in her designs even now.
+
+Vivienne moved to New York when she was twenty-five. Her new and interesting 
+designs \textsuperscript{(7)} \rule{4cm}{0.4pt} (like) by important shops there, so a lot of 
+orders for her clothing \textsuperscript{(8)} \rule{4cm}{0.4pt} (place). Today her East-
+meets-West clothes \textsuperscript{(9)} \rule{4cm}{0.4pt} (sell) only in New York, but also in cities around 
+the world.
+
+\vspace{1em}
+
+\begin{center}
+\textbf{\textit{\color{blue} Try your best!}}
+\end{center}
+
+\end{document}
+```

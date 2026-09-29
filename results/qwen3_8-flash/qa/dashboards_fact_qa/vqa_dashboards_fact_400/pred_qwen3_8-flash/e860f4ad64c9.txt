@@ -1,0 +1,39 @@
+Based on the provided map, we need to count the number of **UNHCR offices**, which are represented by the **blue circle with a white center** symbol (as per the legend).
+
+Let’s identify each location marked with this symbol:
+
+1. **Paoua** – Blue circle → UNHCR office
+2. **Bossangoa** – Blue circle → UNHCR office
+3. **Kaga Bandoro** – Blue circle → UNHCR office
+4. **Bambari** – Blue circle → UNHCR office
+5. **Bangui** – Blue circle → UNHCR office
+6. **Batangafo** – Blue circle → UNHCR office *(Note: The label says “Batangafo”, but in your text you wrote “Batalimo” — likely a typo; the map shows Batangafo)*
+7. **Zemio** – Blue circle → UNHCR office
+
+Wait — let’s double-check **Zemio**: Yes, it has a blue circle next to the red refugee dot.
+
+Also, check if any others are missed.
+
+Looking again at the map:
+
+- Paoua ✅
+- Bossangoa ✅
+- Kaga Bandoro ✅
+- Bambari ✅
+- Bangui ✅
+- Batangafo ✅ (labeled as such on map)
+- Zemio ✅
+
+That’s **7 locations** with the UNHCR office symbol.
+
+But wait — is **Bouca** an office? No — Bouca has only a red star (violence area), no blue circle.
+
+Is **Bozoum**? Only red stars — no blue circle.
+
+Is **Bocar**? Red star only.
+
+So total UNHCR offices mapped = **7**
+
+---
+
+✅ Final Answer: **7**

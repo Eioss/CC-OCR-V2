@@ -1,0 +1,101 @@
+I'll transcribe this index page into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+{\Large INDEX OF SUBJECTS.}
+
+\vspace{1em}
+
+{\large ABSTRACTS. 1900. Parts I \& II.}
+
+\vspace{0.5em}
+
+(Marked A. i and A. ii respectively); and also to Transactions, 1900 
+(marked T.); and to Proceedings of the Session 1899--1900; 
+Nos.\ 213 to 226, Nov., 1899---June, 1900 (marked P.).
+\end{center}
+
+\vspace{1em}
+
+\begin{center}
+\textbf{A.}
+\end{center}
+
+\begin{multicols}{2}
+
+\noindent
+\textbf{Abienic}, $\alpha$- and $\beta$-\textbf{Abietinolic} and \textbf{Abietolic acids} and \textbf{Abietoresen} (\textsc{Tschirch} and \textsc{Weigel}), A., i, 679.
+
+\textit{Abies canadensis}, balsam of (\textsc{Tschirch} and \textsc{Brüning}), A., i, 678.
+
+\textit{Abies pectinata}, balsam of (\textsc{Tschirch} and \textsc{Weigel}), A., i, 679.
+
+\textbf{Absorption} in the small intestine (\textsc{Cohnheim}), A., ii, 289.
+
+\hspace{1em} of carbohydrates, fats, and proteids (\textsc{Mosso}), A., ii, 605.
+
+\hspace{1em} of fat (\textsc{Hofbauer}), A., ii, 605; (\textsc{Pflüger}), A., ii, 667; (\textsc{Friedenthal}), A., ii, 668.
+
+\hspace{1em} of fat in the large intestine (\textsc{Hamburger}), A., ii, 418.
+
+\hspace{1em} of iodides by the skin (\textsc{Gaillard}), A., ii, 419.
+
+\hspace{1em} of iron by the intestine (\textsc{Abderhalden}), A., ii, 223, 289, 416.
+
+\hspace{1em} of free oxygen by normal urine (\textsc{Berthelot}), A., ii, 740.
+
+\hspace{1em} of saline solutions by the small intestine (\textsc{Wallace} and \textsc{Cushny}), A., ii, 31.
+
+\hspace{1em} of sugars in the intestine (\textsc{Hédon}), A., i, 223.
+
+\textbf{Acacetin} from \textit{Robinia Pseudacacia} and its acetyl derivative (\textsc{Perkin}), T., 430; P., \textbf{1900}, 45.
+
+\textbf{Accumulators.} See Electrochemistry.
+
+\textbf{Acet-.} See also Aceto-, Acetyl-, and under the Parent Substance.
+
+\textbf{Acetal-}$n$- and -$p$-\textbf{cresol} and -\textbf{resorcinol} (\textsc{Fosse} and \textsc{Ettlinger}), A., i, 392.
+
+\textbf{Acetaldehyde}, heat of combustion and of formation of (\textsc{Berthelot} and \textsc{Delépine}), A., ii, 334.
+
+\columnbreak
+
+\textbf{Acetaldehyde}, condensation of, with propaldehyde (\textsc{Schmalzhofer}), A., i, 626.
+
+\hspace{1em} colour reaction of (\textsc{Rimini}), A., ii, 56, 454; (\textsc{Lewin}), A., ii, 179.
+
+\hspace{1em} detection of, in ether (\textsc{Blaser}), A., ii, 179.
+
+\hspace{1em} detection of, in fermentation vinegar (\textsc{Böttinger}), A., i, 679.
+
+\textbf{Acetaldehyde}, \textit{dibromo}-, hydrate of (\textsc{Wittorff}), A., i, 421.
+
+\textbf{Acetaldoxime}, spectrum of (\textsc{Hartley} and \textsc{Dobbie}), T., 321; P., \textbf{1900}, 14.
+
+\textbf{Acetamide}, action of chloro\textit{di}nitrobenzene on (\textsc{Kym}), A., i, 158.
+
+\hspace{1em} thiocyano- (\textsc{Freerichs} and \textsc{Beckurts}), A., i, 478.
+
+\textbf{Acetanilide}, action of dry silver oxide and ethyl iodide on (\textsc{Lander}), T., 737; P., \textbf{1900}, 6, 90.
+
+\textbf{Acetanilide}, 3:5-\textit{dibromo}-, 4:2- and 2:4-\textit{chloro}bromo-, 2:4-bromonitro-, and 2:6:4-\textit{di}bromonitro- (\textsc{Chattaway} and \textsc{Orton}), A., i, 643.
+
+\hspace{1em} $o$-\textit{mono}- and 2:4-\textit{di}-bromo- and -chloro-, formation of (\textsc{Chattaway} and \textsc{Orton}), T., 798; P., \textbf{1900}, 112.
+
+\hspace{1em} $m$-chloro-, action of bleaching powder on a hot acetic acid solution of (\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurtley}), T., 804.
+
+\hspace{1em} substituted nitrogen chlorides from, and their transformation (\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurtley}), T., 800; P., \textbf{1900}, 125.
+
+\hspace{1em} \textit{di-}, \textit{tri-}, and \textit{tetra}-chloro-derivatives of, from substituted nitrogen chlorides (\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurtley}), T., 800; P., \textbf{1900}, 125.
+
+\end{multicols}
+
+\end{document}
+```

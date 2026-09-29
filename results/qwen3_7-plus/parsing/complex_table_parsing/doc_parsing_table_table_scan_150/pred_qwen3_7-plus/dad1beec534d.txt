@@ -1,0 +1,153 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        ignoreHtmlClass: "tex2jax_ignore"
+                        }
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 8px 12px;
+        text-align: left;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th style="text-align:left;">Attribute</th>
+     <th style="text-align:left;">Method</th>
+     <th style="text-align:left;">Generation Results</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="5" style="background-color:#fdebd0; text-align:center; vertical-align:middle;">Negative<br/>Sentiment</td>
+     <td>Finetune</td>
+     <td><i>Once upon a time,</i>I was very<span style="background-color:#fadbd8;">disappointed</span>. The meat was<span style="background-color:#fadbd8;">bland</span>and the beans tasted as if they had been sitting out all day...</td>
+    </tr>
+    <tr>
+     <td>Adapter</td>
+     <td><i>Once upon a time</i>in the restaurant it was<span style="background-color:#fadbd8;">still dark</span>and people<span style="background-color:#fadbd8;">weren't</span>even talking...</td>
+    </tr>
+    <tr>
+     <td>PPLM</td>
+     <td><i>Once upon a time,</i>computers would have been able read, interpret and write, and listen, listen and read...</td>
+    </tr>
+    <tr>
+     <td>GeDi</td>
+     <td><i>Once upon a time</i>you either enter base build states or begin switching context switches and magic spells that alter your manifest...</td>
+    </tr>
+    <tr>
+     <td><b>Tailor<sub>Single</sub></b></td>
+     <td><i>Once upon a time,</i>you had to order your dinner. the food<span style="background-color:#fadbd8;">came out cold</span>with<span style="background-color:#fadbd8;">no</span>seasoning or flavor<span style="background-color:#fadbd8;">whatsoever</span>...</td>
+    </tr>
+    <tr>
+     <td rowspan="5" style="background-color:#d6eaf8; text-align:center; vertical-align:middle;">Positive<br/>Sentiment</td>
+     <td>Finetune</td>
+     <td><i>Once upon a time</i>they were busy but the food was<span style="background-color:#d4e6f1;">amazing</span>and service<span style="background-color:#d4e6f1;">fast</span>.<span style="background-color:#d4e6f1;">highly recommend</span>for date night / evening out...</td>
+    </tr>
+    <tr>
+     <td>Adapter</td>
+     <td><i>Once upon a time</i>I 'd<span style="background-color:#d4e6f1;">like</span>to visit the city of lg, it was atlas!<span style="background-color:#d4e6f1;">great</span>food and<span style="background-color:#d4e6f1;">amazing</span>bartenders...</td>
+    </tr>
+    <tr>
+     <td>PPLM</td>
+     <td><i>Once upon a time</i>in the world in which a<span style="background-color:#d4e6f1;">great</span>deal of the work was done with the work was done in the world in the most...</td>
+    </tr>
+    <tr>
+     <td>GeDi</td>
+     <td><i>Once upon a time,</i>mankind thought of themselves as<span style="background-color:#d4e6f1;">merciful</span>,<span style="background-color:#d4e6f1;">enlightened</span>princes, with<span style="background-color:#d4e6f1;">loving</span>hearts. That prosperity and flourishing...</td>
+    </tr>
+    <tr>
+     <td><b>Tailor<sub>Single</sub></b></td>
+     <td><i>Once upon a time,</i>I was so<span style="background-color:#d4e6f1;">excited</span>to have my friends and family there that we wanted our food. the staff is<span style="background-color:#d4e6f1;">great</span>! they make us<span style="background-color:#d4e6f1;">feel at home</span>when...</td>
+    </tr>
+    <tr>
+     <td rowspan="5" style="background-color:#eb984e; color:white; text-align:center; vertical-align:middle;">Mexican<br/>Food</td>
+     <td>Finetune</td>
+     <td><i>Once upon a time</i>I had the<span style="background-color:#e67e22; color:white;">carne asada burritos</span>, they looked great. my wife's quesadilla was the only thing that she liked...</td>
+    </tr>
+    <tr>
+     <td>Adapter</td>
+     <td><i>Once upon a time</i>in my family I ordered the<span style="background-color:#e67e22; color:white;">taco</span>and they came out with two different varieties of beans. when it was finished we were asked...</td>
+    </tr>
+    <tr>
+     <td>PPLM</td>
+     <td><i>Once upon a time</i>the user would use a calculator to get a price for the price of the goods that...</td>
+    </tr>
+    <tr>
+     <td>GeDi</td>
+     <td><i>Once upon a time</i>Mexico had started<span style="background-color:#e67e22; color:white;">guacamole</span>called empty beans and children with Luis María de Leonos. Juan said he didn't tell a Hispanic what he did...</td>
+    </tr>
+    <tr>
+     <td><b>Tailor<sub>Single</sub></b></td>
+     <td><i>Once upon a time</i>I was in the area and had one of these<span style="background-color:#e67e22; color:white;">burritos</span>that were so delicious. we ordered them for...</td>
+    </tr>
+    <tr>
+     <td rowspan="5" style="background-color:#58d68d; color:white; text-align:center; vertical-align:middle;">American<br/>Food</td>
+     <td>Finetune</td>
+     <td><i>Once upon a time</i>I was eating my<span style="background-color:#2ecc71; color:white;">burger</span>, the server looked at me and said something to him " you have no idea how bad that is...</td>
+    </tr>
+    <tr>
+     <td>Adapter</td>
+     <td><i>Once upon a time,</i>I ordered the<span style="background-color:#2ecc71; color:white;">lobster bbq</span>and we both got no meat. our server had been on call for over an hour before she left after talking to us again...</td>
+    </tr>
+    <tr>
+     <td>PPLM</td>
+     <td><i>Once upon a time</i>there were some people who used the same the machines as they could be to get their hands on and get the best results...</td>
+    </tr>
+    <tr>
+     <td>GeDi</td>
+     <td><i>Once upon a time</i>turkey<span style="background-color:#2ecc71; color:white;">sandwiches</span>turned Uhhh ... majestic, religious grunge, weened suburban<span style="background-color:#2ecc71; color:white;">ham sandwich</span>— Americans applaud! Dove Bruffer » Briggs atte...</td>
+    </tr>
+    <tr>
+     <td><b>Tailor<sub>Single</sub></b></td>
+     <td><i>Once upon a time</i>I 'd go to the bbq and it was pretty empty. my friend had our<span style="background-color:#2ecc71; color:white;">burger</span>, which we ordered with<span style="background-color:#2ecc71; color:white;">fries</span>but not in advance of eating at dinner...</td>
+    </tr>
+    <tr>
+     <td rowspan="5" style="background-color:#a0522d; color:white; text-align:center; vertical-align:middle;">Asian<br/>Food</td>
+     <td>Finetune</td>
+     <td><i>Once upon a time</i>I've had the<span style="background-color:#cd853f; color:white;">spicy tofu dish</span>, but that was my only meal. It came out cold and tasted awful...</td>
+    </tr>
+    <tr>
+     <td>Adapter</td>
+     <td><i>Once upon a time</i>I was craving something spicy, it tasted like the best<span style="background-color:#cd853f; color:white;">Chinese food</span>out there...</td>
+    </tr>
+    <tr>
+     <td>PPLM</td>
+     <td><i>Once upon a time</i>I made a stone of silver ring mail "Garden of the Winds Winds"...</td>
+    </tr>
+    <tr>
+     <td>GeDi</td>
+     <td><i>Once upon a time</i>bamboo<span style="background-color:#cd853f; color:white;">noodles</span>were the classical medicine and lemongrass fetish...</td>
+    </tr>
+    <tr>
+     <td><b>Tailor<sub>Single</sub></b></td>
+     <td><i>Once upon a time,</i>I got here for the<span style="background-color:#cd853f; color:white;">sushi roll</span>. After getting home from work at 4pm and finding...</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

@@ -1,0 +1,7 @@
+The text '42.21' appears twice in the receipt.
+
+First occurrence (unit price column):
+(303, 651, 376, 673)
+
+Second occurrence (total price column):
+(424, 651, 488, 672)

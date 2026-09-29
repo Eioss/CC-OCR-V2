@@ -1,0 +1,19 @@
+$$\left| \frac { \partial \Gamma _ { 0 } ^ { \alpha \beta } } { \partial x ^ { i } } ( x , t ; y , s ) - \frac { \partial \Gamma _ { 0 } ^ { \alpha \beta } } { \partial x ^ { i } } ( x , t ; y , s ) - \frac { \partial x _ { j } ^ { \alpha \gamma } } { \partial x ^ { i } } ( x / \varepsilon , t / \varepsilon ^ { 2 } ) \frac { \partial \Gamma _ { 0 } ^ { \gamma \beta } } { \partial x ^ { j } } ( x , t ; y , s ) \right|$$
+
+$$d e g ( T X _ { 0 } | C _ { 1 } ) - d e g ( D ^ { \alpha _ { 1 } } ) | C _ { 1 } - d e g ( \partial ^ { - 1 } / \partial ^ { \alpha _ { 1 } } ) | C _ { 1 }$$
+
+$$= d e g ( \partial ^ { - 2 } / \partial ) | c _ { 1 } + d e g ( \partial ^ { - 3 } / \partial ^ { - 2 } ) | c _ { 1 } .$$
+
+$$\langle A w , + u , u \rangle \geq \operatorname* { m a x } \{ c _ { 1 } ( w , t ) \| u \| _ { V } ^ { q } - m _ { 1 } ( w , t ) , c _ { 2 } ( w , t ) \| A u \| _ { V } ^ { p _ { * } } - m _ { 2 } ( w , t ) \} ,$$
+
+$$S _ { B S } \approx N ^ { 1 / 2 } ( 2 \lambda + 4 r _ { 2 } ^ { 2 } ) ^ { 1 / 2 } \approx ( 2 N \lambda ) ^ { 1 / 2 }$$
+
+$$( g _ { \lambda } ^ { \ast } o h o e ) _ { f } ( x _ { i _ { 1 } , \cdots } x _ { i _ { s } j _ { s } } \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } ) = ( \psi ^ { \ast } o g _ { k } ^ { \ast } ) _ { f } ( x _ { i _ { 1 } 1 } , \cdots x _ { i _ { s } j _ { s } } \otimes y _ { l _ { 1 } } , \cdots y _ { l _ { t } } )$$
+
+$$( g _ { A } ^ { \ast } \circ h ) _ { f } ( x _ { i _ { 1 } } , \cdots x _ { i _ { s } } \otimes y _ { i _ { 1 } } , \cdots y _ { i _ { t } } ) = ( \prod _ { u = 1 } ^ { s } \prod _ { k = 1 } ^ { i _ { 2 u } } x _ { i _ { 2 u } } , y _ { i _ { 2 k } } ) \otimes y _ { i _ { 2 i - 1 } } , \cdots y _ { i _ { 2 t - 1 } } .$$
+
+$$t \leq H _ { \min } ^ { \epsilon _ { 1 } } ( z _ { 0 } | s _ { 0 } D B ^ { \prime } ) - 2 \log _ { 2 } \frac { 1 } { \epsilon _ { A } - 4 \epsilon _ { 1 } }$$
+
+$$D : D ( A _ { w } - d g m o d ) ^ { \circ } \rightarrow D ( A _ { w } - d g m o d ) : M \mapsto R H o m _ { H ^ { \bullet } ( p t ) } ( M , H _ { G } ^ { \bullet } ( p t ) ) ,$$
+
+$$S _ { \varepsilon } ( n ( E ) ) = S _ { \varepsilon } ( r ( v E ) ) = Q ( S _ { \varepsilon } ) ^ { v E } + \sum _ { \lambda \in v E } Q ( S _ { \varepsilon } ) _ { \lambda } ^ { v E } = \sum _ { \lambda \in v E } Q ( S _ { \varepsilon } ) _ { \lambda } ^ { v E } .$$

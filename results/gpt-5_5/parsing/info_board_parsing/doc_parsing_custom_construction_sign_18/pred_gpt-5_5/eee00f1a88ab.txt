@@ -1,0 +1,199 @@
+<div>项目管理信息牌</div>
+<div>单位信息 / 工程参数 / 监督电话</div>
+
+<table>
+  <tr>
+    <td>文档编号</td>
+    <td>SG-091832</td>
+  </tr>
+  <tr>
+    <td>日期</td>
+    <td>2025-08-04</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>施工/项目名称：星港岚原北湾新区12号地块项目（虚构）</td>
+    <td>项目负责人：李安然</td>
+    <td rowspan="3"><div style="text-align: center;"><img src="imgs/img_in_image_box_1160_170_1248_265.jpg" alt="Image" width="8%" /></div></td>
+  </tr>
+  <tr>
+    <td>单位名称：云栖省星港市岚原皓月工程有限公司</td>
+    <td>安全员：严明哲</td>
+  </tr>
+  <tr>
+    <td>工程地点：岚原省皓月市北湾区星港大道180号 12栋</td>
+    <td>联系电话：18008408371</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="12">问题跟踪/检查记录表</td>
+  </tr>
+  <tr>
+    <td colspan="3">检查批次/分区</td>
+    <td colspan="4">问题描述与等级</td>
+    <td colspan="2">整改要求与期限</td>
+    <td colspan="3">复核与验收</td>
+  </tr>
+  <tr>
+    <td>编号</td>
+    <td>日期</td>
+    <td>区域/位置</td>
+    <td>问题编号</td>
+    <td>具体描述</td>
+    <td>严重等级<br>(A/B/C)</td>
+    <td>责任人</td>
+    <td>整改措施</td>
+    <td>截止日期</td>
+    <td>复核人</td>
+    <td>状态<br>(已/未)</td>
+    <td>签字确认</td>
+  </tr>
+  <tr>
+    <td>A-001</td>
+    <td>2025-08-01</td>
+    <td>基坑东侧</td>
+    <td>P-20250801-01</td>
+    <td>围挡局部破损</td>
+    <td>B</td>
+    <td>王强</td>
+    <td>修复围挡</td>
+    <td>2025-08-03</td>
+    <td>赵刚</td>
+    <td>已</td>
+    <td>赵刚（签字）</td>
+  </tr>
+  <tr>
+    <td>A-002</td>
+    <td>2025-08-01</td>
+    <td>材料堆场</td>
+    <td>P-20250801-02</td>
+    <td>材料堆放过高</td>
+    <td>A</td>
+    <td>李明</td>
+    <td>降低高度</td>
+    <td>2025-08-02</td>
+    <td>赵刚</td>
+    <td>已</td>
+    <td>赵刚（签字）</td>
+  </tr>
+  <tr>
+    <td>A区小计</td>
+    <td>遮挡</td>
+    <td>-</td>
+    <td>-</td>
+    <td>A区合计：2项问题</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>遮挡</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>B区</td>
+    <td>遮挡</td>
+    <td>-</td>
+    <td>-</td>
+    <td>A区合计：4项问题</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>遮挡</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>B-001</td>
+    <td>2025-08-02</td>
+    <td>主体结构三层</td>
+    <td>P-20250802-01</td>
+    <td>钢筋绑扎间距偏差</td>
+    <td>A</td>
+    <td>张伟</td>
+    <td>重新绑扎</td>
+    <td>2025-08-04</td>
+    <td>钱辉</td>
+    <td>未</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>B-002</td>
+    <td>2025-08-02</td>
+    <td>临时用电箱</td>
+    <td>P-20250802-02</td>
+    <td>接地线松动</td>
+    <td>A</td>
+    <td>刘工</td>
+    <td>紧固接地</td>
+    <td>2025-08-02</td>
+    <td>钱辉</td>
+    <td>已</td>
+    <td>钱辉（签字）</td>
+  </tr>
+  <tr>
+    <td>B-003</td>
+    <td>2025-08-03</td>
+    <td>消防通道</td>
+    <td>P-20250803-01</td>
+    <td>通道堆物堵塞</td>
+    <td>B</td>
+    <td>周平</td>
+    <td>清理通道</td>
+    <td>2025-08-03</td>
+    <td>孙队</td>
+    <td>已</td>
+    <td>孙队（签字）</td>
+  </tr>
+  <tr>
+    <td>B-004</td>
+    <td>2025-08-03</td>
+    <td>外脚手架</td>
+    <td>P-20250803-02</td>
+    <td>安全网破损</td>
+    <td>B</td>
+    <td>吴刚</td>
+    <td>更换安全网</td>
+    <td>2025-08-05</td>
+    <td>孙队</td>
+    <td>未</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>B区小计</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>B区合计：4项问题</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>遮挡</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>2025-08-01~04</td>
+    <td>全场巡查</td>
+    <td>P-SUM-001</td>
+    <td>共发现6项问题</td>
+    <td>-</td>
+    <td>项目部</td>
+    <td>落实整改</td>
+    <td>2025-08-07</td>
+    <td>李安然</td>
+    <td>部分</td>
+    <td>李安然（签字）</td>
+  </tr>
+  <tr>
+    <td>备注</td>
+    <td colspan="11">长数字串记录：182496179565930574（设备编号备案）</td>
+  </tr>
+</table>

@@ -1,0 +1,70 @@
+```latex
+\begin{center}
+\textbf{VERY SHORT ANSWER TYPE QUESTIONS}
+\end{center}
+
+\begin{enumerate}
+\item If one zero of the polynomial \(P(x)=5x^2+13x+k\) is reciprocal of the other, then value of \(k\) is
+
+\(\text{(a) }0 \qquad \text{(b) }5 \qquad
+\text{(c) }\dfrac{1}{6} \qquad \text{(d) }6\)
+
+\item If \(\alpha\) and \(\beta\) are the zeroes of the polynomial
+\(p(x)=x^2-p(x+1)-c\) such that
+\((\alpha+1)(\beta+1)=0\), the \(c=\underline{\hspace{2cm}}\).
+
+\item If one zero of the quadratic polynomial \(x^2+3x+k\) is \(2\), then the value of \(k\) is
+
+\(\text{(a) }10 \qquad \text{(b) }-10 \qquad
+\text{(c) }5 \qquad \text{(d) }-5\)
+
+\item If the zeroes of the quadratic polynomial \(x^2+(a+1)x+b\) are \(2\) and \(-3\), then
+
+\(\text{(a) }a=-7,\ b=-1 \qquad
+\text{(b) }a=5,\ b=-1\)
+
+\(\text{(c) }a=2,\ b=-6 \qquad
+\text{(d) }a=0,\ b=-6\)
+
+\item What should be added to the polynomial \(x^2-5x+4\), so that \(3\) is the zero of the resulting polynomial:
+
+\(\text{(a) }1 \qquad \text{(b) }2 \qquad
+\text{(c) }4 \qquad \text{(d) }5\)
+
+\item If \(\alpha\) and \(\beta\) are the zeroes of the polynomial
+\(f(x)=x^2+x+1\), then
+\[
+\frac{1}{\alpha}+\frac{1}{\beta}=
+\]
+
+\item If a quadratic polynomial \(f(x)\) is not factorizable into linear factors, then it has no real zero. (True/False).
+
+\item If a quadratic polynomial \(f(x)\) is a square of a linear polynomial, then its two zeroes are coincident. (True/False).
+
+\item If \(p(x)=x^3-2x^2-x+2=(x+1)(x-2)(x-d)\) then what is the value of \(d\)?
+
+\item The quadratic polynomial \(ax^2+bx+c,\ a\ne0\) is represented by this graph then \(a\) is
+
+\begin{center}
+\begin{tikzpicture}[>=stealth]
+  \draw[<->] (-0.6,0) -- (4.3,0);
+  \draw[<->] (0,-1.1) -- (0,1.5);
+  \draw (0.5,-0.5) .. controls (1.1,1.6) and (2.5,1.6) .. (3.4,-0.5);
+\end{tikzpicture}
+\end{center}
+
+\(\text{(a) Natural no.}\quad
+\text{(b) Whole no.}\quad
+\text{(c) Negative Integer}\quad
+\text{(d) Irrational no.}\)
+
+\item What will be the number of zeroes of a linear polynomial \(p(x)\) if its graph (i) passes through the origin. (ii) doesn’t intersect or touch \(x\)-axis at any point?
+
+\item Find the quadratic polynomial whose zeroes are
+\[
+(5+2\sqrt{3})\text{ and }(5-2\sqrt{3}).
+\]
+\end{enumerate}
+
+\textbf{Mathematics-X}\hfill \(13\)
+```

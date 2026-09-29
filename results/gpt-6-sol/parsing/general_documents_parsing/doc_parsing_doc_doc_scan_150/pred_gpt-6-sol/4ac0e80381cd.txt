@@ -1,0 +1,73 @@
+```latex
+\begin{center}
+\textbf{MODEL QUSTION PAPER}\\
+\textbf{SUB-MATHS}
+\end{center}
+\noindent\textbf{CLASS : IV}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+COMP & FNC & UBC & AIC & PSA & ORAL & Total & Tr's sign\\
+      & (15) & (20) & (20) & (15) & (30) & (100) & \\
+\hline
+MARKS & & & & & & & \\
+\hline
+GRADE & & & & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\underline{\textbf{I. FORMING NUMBERS CORRECTLY}} (15 marks)
+\end{center}
+
+\noindent\textbf{(1)\quad \underline{Fill in the blanks}}\hfill $(5\times1=5)$
+
+\begin{enumerate}
+\item[a.] Arrange 5, 3, 7, 2 to form the smallest 4 digit number
+\underline{\hspace{1.1cm}}\\
+and the greatest 4 digit number \underline{\hspace{1.1cm}}.
+\item[b.] $1000+300+4=$ \underline{\hspace{2cm}}
+\item[c.] Expand $4287=4000+$ \underline{\hspace{1.5cm}} $+$ \underline{\hspace{1.5cm}} $+7$
+\item[d.] 1 kilometre $=$ \underline{\hspace{1.4cm}} metres and 1 metre $=$ \underline{\hspace{1.1cm}} cm
+\item[e.] A brick has \underline{\hspace{1.1cm}} faces and \underline{\hspace{1.1cm}} edges.
+\end{enumerate}
+
+\noindent\textbf{(2)\quad \underline{Do as directed}}\hfill $(5\times2=10)$
+
+\noindent\textbf{(i)\quad \underline{Write the place value of 4 in each number.}}
+
+\[
+\begin{array}{|c|c|c|c|}
+\hline
+4&6&0&9\\ \hline
+6&3&4&7\\ \hline
+\end{array}
+\quad
+\begin{array}{c}
+\longrightarrow\quad\underline{\hspace{2.1cm}}\\[0.5em]
+\longrightarrow\quad\underline{\hspace{2.1cm}}
+\end{array}
+\]
+
+\noindent\textbf{(ii)\quad \underline{Encircle the pairs of numbers which when added makes more than 500?}}
+\begin{enumerate}
+\item[a.] 152 and 241
+\item[b.] 321 and 192
+\item[c.] 420 and 184
+\item[d.] 209 and 290
+\end{enumerate}
+
+\noindent\textbf{(iii)\quad \underline{Express as 24- hours clock time}}
+\begin{enumerate}
+\item[a.] 3.15 a.m \underline{\hspace{2.4cm}}
+\item[b.] 7.40 p.m \underline{\hspace{2.4cm}}
+\end{enumerate}
+
+\noindent\textbf{(iv)\quad \underline{In a circle, if the lengths of the:}}
+\begin{enumerate}
+\item[(a)] Radius is 4 cm, then the Diameter is \underline{\hspace{2cm}}
+\item[(b)] Diameter is 12 cm, then the Radius is \underline{\hspace{2cm}}
+\end{enumerate}
+```

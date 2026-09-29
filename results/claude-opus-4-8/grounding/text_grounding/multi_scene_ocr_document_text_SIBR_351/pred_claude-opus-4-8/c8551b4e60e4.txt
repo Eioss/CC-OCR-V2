@@ -1,0 +1,7 @@
+The text '1,187,199.00' appears in two places on the invoice:
+
+In the Amount column of the item line:
+(1310, 705, 1565, 738)
+
+In the Invoice Total Incl. Tax line:
+(1310, 891, 1565, 924)

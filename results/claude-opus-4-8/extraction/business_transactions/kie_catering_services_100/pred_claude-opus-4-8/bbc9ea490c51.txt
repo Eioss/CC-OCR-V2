@@ -1,0 +1,3 @@
+```json
+{"menu": [{"name": "SALMON PESTO", "quantity": "1", "price": "85,500"}, {"name": "SALMON PESTO", "quantity": "1", "price": "85,500"}, {"name": "Disc -100%(ITM06)", "price": "-85,500"}], "sub_total": {"subtotal_price": "85,500", "service_charge": "10,260", "tax": "18,126"}, "total": {"total_price": "113,886"}}
+```

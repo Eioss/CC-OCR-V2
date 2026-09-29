@@ -1,0 +1,20 @@
+```json
+[
+    {"bbox_2d": [254, 99, 632, 129], "label": "ADDRESS"},
+    {"bbox_2d": [850, 336, 908, 347], "label": "AMOUNT(USD)"},
+    {"bbox_2d": [254, 82, 434, 93], "label": "COMPANY NAME"},
+    {"bbox_2d": [364, 261, 426, 272], "label": "Contact Person"},
+    {"bbox_2d": [448, 334, 512, 344], "label": "DESCRIPTION(FUNAI)"},
+    {"bbox_2d": [719, 83, 798, 94], "label": "Date"},
+    {"bbox_2d": [677, 227, 811, 237], "label": "EMR."},
+    {"bbox_2d": [332, 137, 472, 149], "label": "GSTLN No"},
+    {"bbox_2d": [309, 242, 415, 252], "label": "Mobile"},
+    {"bbox_2d": [135, 62, 258, 73], "label": "NO"},
+    {"bbox_2d": [132, 331, 242, 343], "label": "P/O NO"},
+    {"bbox_2d": [277, 333, 359, 343], "label": "PARTS NO"},
+    {"bbox_2d": [614, 335, 641, 345], "label": "QTY(PCS)"},
+    {"bbox_2d": [474, 37, 582, 56], "label": "TITLE"},
+    {"bbox_2d": [289, 224, 409, 235], "label": "Tel"},
+    {"bbox_2d": [734, 336, 765, 346], "label": "UNIT PRICE(USD)"}
+]
+```

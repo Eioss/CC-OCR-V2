@@ -1,0 +1,63 @@
+Looking at the table in the image, here is the HTML transcription:
+
+```html
+<table border="1">
+  <tr>
+    <td>一级指标</td>
+    <td>二级指标</td>
+    <td>三级指标</td>
+  </tr>
+  <tr>
+    <td rowspan="16">经济发展指标</td>
+    <td rowspan="7">经济发展总体水平</td>
+    <td>人均GDP(元)</td>
+  </tr>
+  <tr>
+    <td>城镇居民人均可支配收入(元)</td>
+  </tr>
+  <tr>
+    <td>农民人均纯收入(元)</td>
+  </tr>
+  <tr>
+    <td>人均消费品零售额(元)</td>
+  </tr>
+  <tr>
+    <td>人均进出口贸易额(美元)</td>
+  </tr>
+  <tr>
+    <td>实际利用外资额(亿美元)</td>
+  </tr>
+  <tr>
+    <td>规模以上工业企业全员劳动生产率(元/人)</td>
+  </tr>
+  <tr>
+    <td rowspan="5">经济结构</td>
+    <td>第二产业GDP构成(%)</td>
+  </tr>
+  <tr>
+    <td>第三产业GDP构成(%)</td>
+  </tr>
+  <tr>
+    <td>城镇恩格尔系数</td>
+  </tr>
+  <tr>
+    <td>农村恩格尔系数</td>
+  </tr>
+  <tr>
+    <td>固定资产投资占GDP的比重(%)</td>
+  </tr>
+  <tr>
+    <td rowspan="4">经济发展速度</td>
+    <td>GDP增长率(%)</td>
+  </tr>
+  <tr>
+    <td>地方财政收入增长率(%)</td>
+  </tr>
+  <tr>
+    <td>社会消费品零售总额增长率(%)</td>
+  </tr>
+  <tr>
+    <td>进出口总额增长率(%)</td>
+  </tr>
+</table>
+```

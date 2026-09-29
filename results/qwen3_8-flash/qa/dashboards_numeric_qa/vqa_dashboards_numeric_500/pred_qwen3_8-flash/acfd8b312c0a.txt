@@ -1,0 +1,22 @@
+Based on the provided stacked area chart titled **“The world is getting older”**, we can observe trends in population share across three age groups from 1950 to 2050:
+
+- **0–14 years** (dark gray)
+- **15–59 years** (light gray)
+- **60+ years** (orange)
+
+### Analysis by 2050:
+
+- The **60+ group** (orange) clearly **increases** over time — from ~8% in 1955 to 21.3% projected for 2050.
+- The **0–14 group** (dark gray) shows a **decline** from its peak around 1960–1970 (~35%) down to about **~17–18% by 2050**.
+- The **15–59 group** (light gray) remains relatively stable or slightly decreases, but not as sharply as the 0–14 group.
+
+However, note that this chart displays **percentages of total population**, not absolute numbers. So while the *share* of the 0–14 group is decreasing, it’s possible their actual number could still be growing if total population grows enough — though historically and demographically, declining birth rates mean both share and often absolute numbers are falling in many regions.
+
+But based strictly on what the chart visually represents — **the proportion of each age group relative to total world population** — the only group whose **percentage share is clearly and consistently decreasing toward 2050** is:
+
+> ✅ **0–14 years**
+
+---
+
+### Final Answer:
+**The 0–14 age group** is seen to be decreasing (in terms of percentage of world population) by 2050.

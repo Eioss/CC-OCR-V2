@@ -1,0 +1,15 @@
+<table>
+  <tr><td>Name</td><td>Definition</td></tr>
+  <tr><td>π<sup>0</sup></td><td>the assignment of destinations obtained in the first stage</td></tr>
+  <tr><td>c<sub>ii′k</sub></td><td>the number of times that the chutes corresponding to destination i′ are behind the chutes corresponding to destination i in segment k</td></tr>
+  <tr><td>q<sub>ikt</sub></td><td>the number of parcels of destination i that enter segment k through the corresponding loading station in period t</td></tr>
+  <tr><td>cq<sub>ikt</sub></td><td>the number of cross-segment parcels of destination i of segment k in period t</td></tr>
+  <tr><td>mn<sub>t</sub></td><td>the number of misalignment parcels in period t</td></tr>
+  <tr><td>md<sub>t</sub></td><td>the total distance of misalignment in period t</td></tr>
+  <tr><td>wd<sub>ht</sub></td><td>the walking distance of worker h in period t</td></tr>
+  <tr><td>bt<sub>ht</sub></td><td>the break time of worker h in period t</td></tr>
+  <tr><td>cq<sub>t</sub></td><td>the number of cross-segment parcels in period t</td></tr>
+  <tr><td>md<sub>max</sub></td><td>the constraint value for total misalignment distance per period</td></tr>
+  <tr><td>ω<sub>mn</sub></td><td>the fines per misalignment parcel</td></tr>
+  <tr><td>ω<sub>cp</sub></td><td>the cost coefficient of cross-segment parcels</td></tr>
+</table>

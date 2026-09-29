@@ -1,0 +1,45 @@
+Based on the provided map and its legend:
+
+1.  **Identify the relevant data:** The blue boxes represent "CAR refugees since Jan 2013".
+2.  **Find the value for Congo:** Looking at the southern part of the map, near the border with the Democratic Republic of the Congo (labeled as "CONGO" in the table), there is a blue box pointing towards that region with the number **10,748**.
+    *   *Note: The table also lists "Congo 11,000", but the question asks based on the map's visual representation which uses arrows/boxes to show flows.* Let's check the other values first.
+3.  **Find the value for Chad:** Looking at the northern border with Chad, there is a blue box with the number **14,477** pointing north into Chad.
+4.  **Calculate the total:** Add the two numbers together.
+    *   Refugees in Chad = 14,477
+    *   Refugees in Congo (DRC) = 10,748
+    *   Total = 14,477 + 10,748 = **25,225**
+
+*(Self-Correction/Refinement: There is another blue box showing 56,309 pointing south-east towards the Central African Republic/Democratic Republic of Congo area, and one showing 4,859 pointing west towards Cameroon. The table explicitly breaks down the totals: Cameroon 98,504; Chad 80,364; DR Congo 56,000; Congo 11,000. However, the specific blue boxes on the map seem to indicate recent flows or specific counts associated with those arrows. The arrow labeled 14,477 points to Chad. The arrow labeled 10,748 points towards the Congo region. If we strictly follow the visual cues connected to the countries named in the prompt:*
+
+*   **Chad:** The blue box clearly labeled **14,477** has an arrow pointing towards Chad.
+*   **Congo:** The blue box labeled **10,748** has an arrow pointing towards the Congo region.
+
+Therefore, using the specific numbers displayed on the map associated with those directions:
+
+Total = 14,477 + 10,748 = **25,225**
+
+Alternatively, if referring to the summary table at the bottom right:
+*   Chad: 80,364
+*   Congo: 11,000
+*   Total: 91,364
+
+The question asks "What is the total number...", usually implying reading the explicit labels on the map features unless specified otherwise. Given the map highlights specific flow numbers (blue boxes) alongside cumulative totals (table), it's ambiguous. However, typically questions about maps refer to the prominent data visualization elements. Let's look closer at the arrows.
+- 14,477 points North (Chad).
+- 10,748 points South-West (Congo).
+- 56,309 points South-East (likely DRC/DR Congo given the label "Democratic Republic of the Congo").
+- 4,859 points West (Cameroon).
+
+If the user means the country simply labeled "Congo" in the table (Republic of the Congo), the map shows **10,748** pointing generally that way. If they mean "DR Congo", it's **56,309**. The table distinguishes between "DR Congo" and "Congo". The map label "Congo" appears at the bottom left. The arrow 10,748 points near it. The arrow 56,309 points near "Democratic Republic of the Congo".
+
+Let's assume the question refers to the specific numbers shown in the blue boxes corresponding to the names "Congo" and "Chad".
+Number for Chad (blue box): 14,477
+Number for Congo (blue box): 10,748
+
+Sum: 25,225.
+
+However, often these questions might rely on the definitive list in the corner. Let's provide the calculation based on the distinct blue markers as they are the primary data visualization tool on the map itself.
+
+**Calculation:**
+*   Refugees indicated for Chad: **14,477**
+*   Refugees indicated for Congo: **10,748**
+*   Total: 14,477 + 10,748 = **25,225**

@@ -1,0 +1,28 @@
+Based on the provided infographic, **"India's Dream ODI XI Against Australia (Since 1985)"**, we need to find the **lowest batting average** among all listed players in their record against Australia.
+
+Let’s extract and compare the **Batting Average (AVE)** for each player:
+
+1. **Sachin Tendulkar**: 44.59  
+2. **Sunil Gavaskar**: 49.23  
+3. **VVS Laxman**: 46.18  
+4. **Virat Kohli**: 58.47  
+5. **Rohit Sharma**: 66.55  
+6. **MS Dhoni**: 42.10  
+7. **Kapil Dev**: 20.54 ← *Lowest so far*  
+8. **Ravi Shastri**: 25.05  
+9. **Manoj Prabhakar**: 12.91 ← *New lowest*  
+10. **Ajit Agarkar**: 14.00  
+11. **S Sreesanth**: Not listed with a batting average — only bowling stats given. So we exclude him from this comparison.
+
+---
+
+✅ The **lowest batting average** among those explicitly listed is:
+
+> **Manoj Prabhakar — 12.91**
+
+*(Note: Kapil Dev has 20.54, which is higher than Prabhakar’s 12.91.)*
+
+---
+
+### ✅ Final Answer:
+**Manoj Prabhakar (12.91)** had the lowest batting average scored in ODIs against Australia according to this list.

@@ -1,0 +1,38 @@
+\[
+\begin{aligned}
+H'(\xi_1)
+&=3(1-\alpha)\xi_1^2+3\xi_2^2-6\xi\xi_1
+\geq 3(1-\alpha)\xi_1^2-3-6|\xi_1|
+\geq 2(1-\alpha)\xi_1^2-\cdots,\\[4pt]
+\int_0^T\left(|\hat\theta(t)|_q^q\right)^{\frac{5-b}{2(q-1-b)}}\,dt
+&\leq C\left(1+\int_0^T|\nabla^\beta\hat\theta(t)|_2^2\,dt\right)
+\leq C\left(1+\int_0^T|\hat\theta(t)|_{2a}^{2a}\,dt\right),\\[4pt]
+1
+&\lesssim \|f\|_2^2\,2^{nd-2an}
+\sum_{\sigma_1\in G_1}\sum_{\sigma_2\in G_2}
+\int_{\sigma_1}\int_{\sigma_2}|x-u|^{-2a}\,du\,dx\\
+&=\|f\|_2^2\,2^{nd-2an}
+\int_Q\int_{\mathbb R^d\setminus Q'}|x-u|^{-2a}\,du\,dx,\\[4pt]
+\left\|E_0\left(\frac{f^2(\xi_n)}{|\xi_k|}
+(1-|\xi_n|)^{n-k+1}\right)\right\|_{p/2}
+&\leq \|S_0\|_{p/2}\sum_{l=0}^{k-1}
+\int_E(1-|y|)^{n-2}\frac{f^2(y)}{|y|}\,d\nu(y)\\
+&\quad+\left\|f^2(S_0)|\xi_0|^{-1}
+(1+|\xi_0|)^{n+1}\right\|_{p/2},\\[4pt]
+\left|\sum_{n\in C}\frac{1}{\|a_n\|^p}
+-\zeta(2p)a_0^p\right|
+&\leq \frac{\zeta(3)}{2^{p+1}}
++2p\,3^{p-1}\zeta(2p)a_1^{p-1},\\[4pt]
+d\nu(x)
+&=
+\begin{cases}
+-s^2x^{s-1}\log x\,dx,&s=t,\\[2pt]
+st\,\dfrac{x^{t-1}-x^{s-1}}{s-t}\,dx,&s\ne t,
+\end{cases}\\[4pt]
+\frac{\Gamma(a-nj)}{\Gamma(a+1)}
+&=n^{-nj}\left(n^{-1}+O(n^{-2})\right),
+\qquad n\to\infty,\\[4pt]
+\int_0^\infty u^{b-1}(u+1)^{a-c}(u+v)^{-a}\,du
+&=v^{-a}B(b,c-b)\,{}_2F_1(a,b;c;1-v^{-1}).
+\end{aligned}
+\]

@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$200.00",
+    "advertiser": "Tom Steyer for President-D",
+    "flight_from": "12/31/19",
+    "flight_to": "01/06/20"
+}
+```

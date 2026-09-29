@@ -1,0 +1,28 @@
+```latex
+\begin{center}
+A \\
+\textbf{\Huge DICTIONARY} \\
+\large ENGLISH, GERMAN AND FRENCH, \\
+\small CONTAINING NOT ONLY \\
+\large \textbf{THE ENGLISH WORDS} \\
+\small IN THEIR ALPHABETICAL ORDER, \\
+TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS; \\
+BUT ALSO \\
+THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES, \\
+IDIOMS, AND PROVERBS, \\
+TAKEN FROM THE BEST NEW \\
+\Large \textbf{ENGLISH DICTIONARIES} \\
+\small BY \\
+\large Mr. CHRISTIAN LUDWIG. \\
+\textbf{SECOND EDITION} \\
+\small CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY \\
+AUGMENTED.
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+\large LEIPZIG AND FRANCFURT \\
+M DCC XXVI.
+\end{center}
+```

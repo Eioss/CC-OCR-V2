@@ -1,0 +1,113 @@
+Of course. Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+\begin{multicols}{3}
+
+\textbf{Pythagorean identities:}
+\begin{align*}
+\sin^2 \theta + \cos^2 \theta &= 1 \\
+\tan^2 \theta + 1 &= \sec^2 \theta \\
+1 + \cot^2 \theta &= \csc^2 \theta
+\end{align*}
+
+\textbf{Reciprocal identities:}
+\begin{align*}
+\csc x &= \frac{1}{\sin x} \\
+\sec x &= \frac{1}{\cos x} \\
+\cot x &= \frac{1}{\tan x}
+\end{align*}
+
+\textbf{Even - odd identities:}
+\begin{align*}
+\sin(-x) &= -\sin x \\
+\cos(-x) &= \cos x \\
+\tan(-x) &= -\tan x
+\end{align*}
+
+\textbf{Product to sum formulas:}
+\begin{align*}
+\sin x \cdot \sin y &= \frac{1}{2}[\cos(x - y) - \cos(x + y)] \\
+\cos x \cdot \cos y &= \frac{1}{2}[\cos(x - y) + \cos(x + y)] \\
+\sin x \cdot \cos y &= \frac{1}{2}[\sin(x + y) + \sin(x - y)] \\
+\cos x \cdot \sin y &= \frac{1}{2}[\sin(x + y) - \sin(x - y)]
+\end{align*}
+
+\textbf{Sum to product:}
+\begin{align*}
+\sin x \pm \sin y &= 2 \sin\left(\frac{x \pm y}{2}\right) \cos\left(\frac{x \mp y}{2}\right) \\
+\cos x + \cos y &= 2 \cos\left(\frac{x + y}{2}\right) \cos\left(\frac{x - y}{2}\right) \\
+\cos x - \cos y &= -2 \sin\left(\frac{x + y}{2}\right) \sin\left(\frac{x - y}{2}\right)
+\end{align*}
+
+\textbf{Double - angle formulas:}
+\begin{align*}
+\sin 2\theta &= 2 \cdot \sin\theta \cos\theta \\
+\cos 2\theta &= \cos^2 \theta - \sin^2 \theta = 1 - 2\sin^2 \theta = 2\cos^2 \theta - 1 \\
+\tan 2\theta &= \frac{2\tan\theta}{1 - \tan^2 \theta}
+\end{align*}
+
+\columnbreak
+
+\textbf{Co - function identities:}
+\begin{align*}
+\cos\left(\frac{\pi}{2} - x\right) &= \sin x \\
+\sin\left(\frac{\pi}{2} - x\right) &= \cos x \\
+\tan\left(\frac{\pi}{2} - x\right) &= \cot x \\
+\cot\left(\frac{\pi}{2} - x\right) &= \tan x \\
+\csc\left(\frac{\pi}{2} - x\right) &= \sec x \\
+\sec\left(\frac{\pi}{2} - x\right) &= \csc x
+\end{align*}
+
+\columnbreak
+
+\textbf{Periodicity identities:}
+\begin{align*}
+\sin(x \pm 2\pi) &= \sin x \\
+\cos(x \pm 2\pi) &= \cos x \\
+\tan(x \pm \pi) &= \tan x \\
+\cot(x \pm \pi) &= \cot x \\
+\sec(x \pm 2\pi) &= \sec x \\
+\csc(x \pm 2\pi) &= \csc x
+\end{align*}
+
+\textbf{Sum and difference formulas:}
+\begin{align*}
+\sin(x \pm y) &= \sin x \cos y \pm \cos x \sin y \\
+\cos(x \pm y) &= \cos x \cos y \mp \sin x \sin y \\
+\tan(x \pm y) &= \frac{\tan x \pm \tan y}{1 \mp \tan x \tan y}
+\end{align*}
+
+\textbf{Half - angle formulas:}
+\begin{align*}
+\sin\left(\frac{x}{2}\right) &= \pm\sqrt{\frac{1 - \cos x}{2}} \\
+\cos\left(\frac{x}{2}\right) &= \pm\sqrt{\frac{1 + \cos x}{2}} \\
+\tan\left(\frac{x}{2}\right) &= \frac{(1 - \cos x)}{\sin x}
+\end{align*}
+
+\textbf{Law of sines:}
+\[ \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} \]
+
+\textbf{Law of cosines:}
+\begin{align*}
+a^2 &= b^2 + c^2 - 2bc \cos A \\
+A &= \cos^{-1}\left(\frac{b^2 + c^2 - a^2}{2bc}\right)
+\end{align*}
+
+\textbf{Area of triangle:}
+\begin{align*}
+&\frac{1}{2}ab \sin C \\
+&\sqrt{s(s-a)(s-b)(s-c)}, \\
+&\text{where } s = \frac{1}{2}(a+b+c)
+\end{align*}
+
+\end{multicols}
+
+\end{document}
+```

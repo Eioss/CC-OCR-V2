@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "02/19/01",
+    "order_id": "733860",
+    "vendor_name": "Kennedy Covington",
+    "vendor_address": "BANK OF AMERICA CORPORATE CENTER 100 NORTH TRYON STREET, 42ND FLOOR CHARLOTTE, NORTH CAROLINA 28202-40",
+    "vendor_tax_id": "56-0589582",
+    "customer_id": "004390",
+    "customer_billing_name": "Linda R. Alpert First Vice President and Associate General Counsel Salomon Smith Barney Inc.",
+    "customer_billing_address": "7 World Trade Center, 31st Floor New York, NY 10048",
+    "amount_total_gross": "$5,011.63",
+    "amount_due": "$5,011.63",
+    "payment_terms": "DUE AND PAYABLE UPON RECEIPT"
+}
+```

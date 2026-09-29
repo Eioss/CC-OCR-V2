@@ -1,0 +1,12 @@
+Based on the information provided in the image:
+
+Under the section **"COVID-19 in China"** (as of February 21, 2020):
+
+*   **Total reported cases:** 75,569
+*   **Cases in Chinese mainland:** 75,467 (which is stated as 99% of total cases)
+
+To find the number of reported cases that were **not** from the Chinese mainland, we subtract the mainland cases from the total reported cases:
+
+**75,569 - 75,467 = 102**
+
+Therefore, there were **102** reported cases that were not from the Chinese mainland.

@@ -1,0 +1,11 @@
+ $$n ( x , v ) = \frac { 1 } { \vert S _ { y } \vert } \sum _ { z \in S _ { y } } e _ { p } ( \tilde { x } ) < x , E ) v ( x ) ^ { - 1 } < \lambda n _ { 0 } , x ) .$$
+
+ $$v ( t _ { 0 } , y , e ) \geq 1 - \exp ( - c \frac { \delta ^ { 2 } } { ( T - t _ { 0 } ) ^ { 3 } } ) , \; \; \tilde { e } \geq \Lambda + L ( T - t _ { 0 } ) + \delta ,$$
+
+ $$v ( t _ { 0 } , y , e ) \leq \exp ( - c \frac { \delta ^ { 2 } } { ( T - t _ { 0 } ) ^ { 3 } } ) , \; \; \tilde { e } \leq \Lambda - \delta .$$
+
+ $$S _ { \circ } ( \theta ) \leq S _ { \iota } ( \theta ) \leq e ^ { C \epsilon _ { \circ } ^ { 2 } s ( \theta ) - \iota ) } S _ { \circ } ( \theta ) \; \; f o r \; e v e r y \; \theta$$
+
+ $$( n - 1 ) H - { \textstyle \frac { 1 } { 2 } } \frac { \phi _ { n } ^ { H } ( x ) } { H - { \textstyle \frac { 1 } { 2 } } } \le \int _ { 0 } ^ { x } ( \nu + n - 1 ) ^ { H - { \frac { 1 } { 2 } } } ( \nu + n - 1 - x ) ^ { H - { \frac { 3 } { 2 } } } d \nu \le n ^ { H - { \frac { 1 } { 2 } } } \frac { \psi _ { n } ^ { H } ( x ) } { H - { \textstyle \frac { 1 } { 2 } } } .$$
+
+ $$\begin{array} { l } { { \displaystyle v _ { k , i } ^ { ( L ) } ( { \boldsymbol { \alpha } } _ { k } ^ { ( L ) } ) = \frac { 1 } { 6 } { \boldsymbol { \sigma } } ^ { \prime \prime \prime } ( \xi _ { k , i } ^ { ( L ) } ) ~ { \cal M } _ { k , i } ^ { ( L ) } ( { \boldsymbol { \alpha } } _ { k } ^ { ( L ) } ) ^ { 3 } + { \cal N } _ { k , i } ^ { ( L ) } ( { \boldsymbol { \alpha } } _ { k } ^ { ( L ) } ) } } \\ { { \displaystyle \qquad \qquad = \frac { 1 } { 6 } { \boldsymbol { \sigma } } ^ { \prime \prime \prime } ( \xi _ { k , i } ^ { ( L ) } ) ~ { \cal M } _ { k , i } ^ { ( L ) } ( { \boldsymbol { \alpha } } _ { k } ^ { ( L ) } ) ^ { 3 } + \frac { 1 } { 2 } { \boldsymbol { \sigma } } ^ { \prime \prime } ( 0 ) ( X _ { k , i } ^ { ( L ) } + Y _ { k , i } ^ { ( L ) } + Z _ { k , i } ^ { ( L ) } ) . } } \end{array}$$

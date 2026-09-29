@@ -1,0 +1,14 @@
+```json
+{
+    "order_id": "8005",
+    "customer_billing_name": "SCHATZ FOR SENATE (AGY)",
+    "customer_billing_address": "11150 FAIRFAX BLVD SUITE 505 FAIRFAX, VA 22030",
+    "amount_total_net": "$ 1,143.00",
+    "amount_total_tax": "$ 45.65",
+    "amount_total_gross": "$ 1,291.00",
+    "amount_due": "$ 1,291.00",
+    "tax_detail_net": "",
+    "tax_detail_tax": "$ 45.65",
+    "tax_detail_gross": ""
+}
+```

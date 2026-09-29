@@ -1,0 +1,269 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="6" style="text-align:center; font-size:20px;">Record of test data</th>
+   </tr>
+   <tr>
+    <td colspan="3"><b>Project name:</b>2B</td>
+    <td colspan="3"><b>Control No.</b>CEPRI-D-JS1-JS-057-2022-003</td>
+   </tr>
+   <tr>
+    <td colspan="3"><b>Case name</b>Test No.3 Conductor rupture GL+GR (max angle)</td>
+    <td><b>Last load grade:</b>0%</td>
+    <td colspan="2"><b>Current load grade:</b></td>
+   </tr>
+   <tr>
+    <th>Measure channel</th>
+    <th>Load point</th>
+    <th>Load method</th>
+    <th>Actual Load(%)</th>
+    <th>Actual Load(kN)</th>
+   </tr>
+   <tr>
+    <td>V02</td>
+    <td>V1</td>
+    <td>活载荷</td>
+    <td>147.95</td>
+    <td>0.815</td>
+   </tr>
+   <tr>
+    <td>V03</td>
+    <td>V2</td>
+    <td>活载荷</td>
+    <td>111.75</td>
+    <td>0.615</td>
+   </tr>
+   <tr>
+    <td>V04</td>
+    <td>V3</td>
+    <td>活载荷</td>
+    <td>9.74</td>
+    <td>1.007</td>
+   </tr>
+   <tr>
+    <td>V05</td>
+    <td>V4</td>
+    <td>活载荷</td>
+    <td>7.88</td>
+    <td>0.814</td>
+   </tr>
+   <tr>
+    <td>V06</td>
+    <td>V5</td>
+    <td>活载荷</td>
+    <td>8.11</td>
+    <td>0.780</td>
+   </tr>
+   <tr>
+    <td>V07</td>
+    <td>V6</td>
+    <td>活载荷</td>
+    <td>8.54</td>
+    <td>0.815</td>
+   </tr>
+   <tr>
+    <td>V08</td>
+    <td>V7</td>
+    <td>活载荷</td>
+    <td>6.77</td>
+    <td>0.700</td>
+   </tr>
+   <tr>
+    <td>V09</td>
+    <td>V8</td>
+    <td>活载荷</td>
+    <td>8.59</td>
+    <td>0.888</td>
+   </tr>
+   <tr>
+    <td>L01</td>
+    <td>L1</td>
+    <td>活载荷</td>
+    <td>13.33</td>
+    <td>3.089</td>
+   </tr>
+   <tr>
+    <td>L02</td>
+    <td>L2</td>
+    <td>活载荷</td>
+    <td>9.69</td>
+    <td>2.247</td>
+   </tr>
+   <tr>
+    <td>L03</td>
+    <td>L3</td>
+    <td></td>
+    <td>2.96</td>
+    <td>1.480</td>
+   </tr>
+   <tr>
+    <td>L04</td>
+    <td>L4</td>
+    <td></td>
+    <td>3.40</td>
+    <td>1.700</td>
+   </tr>
+   <tr>
+    <td>L05</td>
+    <td>L5</td>
+    <td></td>
+    <td>2.45</td>
+    <td>1.224</td>
+   </tr>
+   <tr>
+    <td>L06</td>
+    <td>L6</td>
+    <td></td>
+    <td>2.01</td>
+    <td>1.006</td>
+   </tr>
+   <tr>
+    <td>L07</td>
+    <td>L7</td>
+    <td></td>
+    <td>2.38</td>
+    <td>1.192</td>
+   </tr>
+   <tr>
+    <td>L08</td>
+    <td>L8</td>
+    <td></td>
+    <td>2.10</td>
+    <td>1.050</td>
+   </tr>
+   <tr>
+    <td>T01</td>
+    <td>T1</td>
+    <td>活载荷</td>
+    <td>25.29</td>
+    <td>3.073</td>
+   </tr>
+   <tr>
+    <td>T02</td>
+    <td>T2</td>
+    <td>活载荷</td>
+    <td>27.39</td>
+    <td>3.327</td>
+   </tr>
+   <tr>
+    <td>T03</td>
+    <td>T3</td>
+    <td>活载荷</td>
+    <td>8.03</td>
+    <td>2.543</td>
+   </tr>
+   <tr>
+    <td>T04</td>
+    <td>T4</td>
+    <td>活载荷</td>
+    <td>11.19</td>
+    <td>3.542</td>
+   </tr>
+   <tr>
+    <td>T05</td>
+    <td>T5</td>
+    <td>活载荷</td>
+    <td>11.34</td>
+    <td>3.592</td>
+   </tr>
+   <tr>
+    <td>T06</td>
+    <td>T6</td>
+    <td>活载荷</td>
+    <td>16.47</td>
+    <td>5.217</td>
+   </tr>
+   <tr>
+    <td>T07</td>
+    <td>T7</td>
+    <td>活载荷</td>
+    <td>11.05</td>
+    <td>3.498</td>
+   </tr>
+   <tr>
+    <td>T08</td>
+    <td>T8</td>
+    <td>活载荷</td>
+    <td>8.66</td>
+    <td>2.743</td>
+   </tr>
+   <tr>
+    <td>T09</td>
+    <td>WT1</td>
+    <td>活载荷</td>
+    <td>36.56</td>
+    <td>2.365</td>
+   </tr>
+   <tr>
+    <td>T10</td>
+    <td>WT2</td>
+    <td>活载荷</td>
+    <td>24.55</td>
+    <td>2.853</td>
+   </tr>
+   <tr>
+    <td>T11</td>
+    <td>WT3</td>
+    <td>活载荷</td>
+    <td>38.06</td>
+    <td>4.784</td>
+   </tr>
+   <tr>
+    <td>T12</td>
+    <td>WT4</td>
+    <td>活载荷</td>
+    <td>37.70</td>
+    <td>5.030</td>
+   </tr>
+   <tr>
+    <td>T13</td>
+    <td>WT5</td>
+    <td>活载荷</td>
+    <td>30.48</td>
+    <td>4.524</td>
+   </tr>
+   <tr>
+    <td colspan="5" style="text-align:right;">2022-4-2<br/>Page 1 of 1</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

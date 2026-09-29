@@ -1,0 +1,14 @@
+[
+  {"bbox_2d": [345, 66, 650, 128], "label": "标题"},
+  {"bbox_2d": [291, 194, 362, 216], "label": "房号 ROOM NUMBER"},
+  {"bbox_2d": [327, 251, 376, 271], "label": "账号 ACCOUNT NUMBER"},
+  {"bbox_2d": [291, 306, 382, 324], "label": "协议单位 AGENT"},
+  {"bbox_2d": [754, 193, 900, 222], "label": "离店日期 CHECK OUT"},
+  {"bbox_2d": [157, 461, 288, 569], "label": "日期 DATE"},
+  {"bbox_2d": [355, 461, 568, 569], "label": "摘要 DESCRIPTION"},
+  {"bbox_2d": [254, 695, 351, 718], "label": "合计金额 AMOUNT"},
+  {"bbox_2d": [465, 800, 582, 823], "label": "已收定金 DEPOSIT RECEIVED"},
+  {"bbox_2d": [713, 923, 806, 948], "label": "收款员 CASHIER"},
+  {"bbox_2d": [321, 955, 507, 989], "label": "第一联 The first"},
+  {"bbox_2d": [588, 955, 774, 989], "label": "第二联 The second"}
+]

@@ -1,0 +1,16 @@
+```json
+{
+    "menu": [
+        {
+            "name": "STIX ECLAIRS",
+            "price": "19,000"
+        },
+        {
+            "name": "ALMOND CREAM CHEESE",
+            "price": "28,000"
+        }
+    ],
+    "sub_total": "47,000",
+    "total": "47,000"
+}
+```

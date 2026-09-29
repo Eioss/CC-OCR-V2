@@ -1,0 +1,240 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th rowspan="2" style="vertical-align: middle;">$\epsilon$</th>
+     <th colspan="4">CA+</th>
+     <th colspan="4">CA-</th>
+     <th colspan="4">QA+</th>
+     <th colspan="4">QA-</th>
+    </tr>
+    <tr>
+     <td>$w=1$</td>
+     <td>2</td>
+     <td>5</td>
+     <td>10</td>
+     <td>$w=1$</td>
+     <td>2</td>
+     <td>5</td>
+     <td>10</td>
+     <td>$m=1$</td>
+     <td>2</td>
+     <td>5</td>
+     <td>10</td>
+     <td>$m=1$</td>
+     <td>2</td>
+     <td>5</td>
+     <td>10</td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td colspan="17" style="text-align:center; font-weight:bold;">(ET) Euclidean Distance, Triplet Loss (R@1=63.1%)</td>
+    </tr>
+    <tr>
+     <td>0</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>1.9</td>
+     <td>1.9</td>
+     <td>1.9</td>
+     <td>1.9</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>0.5</td>
+     <td>0.5</td>
+     <td>0.5</td>
+     <td>0.5</td>
+    </tr>
+    <tr>
+     <td>0.01</td>
+     <td>0</td>
+     <td>0.8</td>
+     <td>2.0</td>
+     <td>2.6</td>
+     <td>99.7</td>
+     <td>99.6</td>
+     <td>99.4</td>
+     <td>99.3</td>
+     <td>4.8</td>
+     <td>7.0</td>
+     <td>16.3</td>
+     <td>25.8</td>
+     <td>54.9</td>
+     <td>40.2</td>
+     <td>27.1</td>
+     <td>21.9</td>
+    </tr>
+    <tr>
+     <td>0.03</td>
+     <td>0</td>
+     <td>0.3</td>
+     <td>1.0</td>
+     <td>1.5</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>1.6</td>
+     <td>3.3</td>
+     <td>10.0</td>
+     <td>19.2</td>
+     <td>68.1</td>
+     <td>52.4</td>
+     <td>36.6</td>
+     <td>30.1</td>
+    </tr>
+    <tr>
+     <td>0.06</td>
+     <td>0.0</td>
+     <td>0.2</td>
+     <td>1.0</td>
+     <td>1.5</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>100.0</td>
+     <td>1.1</td>
+     <td>2.7</td>
+     <td>8.8</td>
+     <td>17.6</td>
+     <td>73.8</td>
+     <td>57.9</td>
+     <td>40.3</td>
+     <td>32.4</td>
+    </tr>
+    <tr>
+     <td colspan="17" style="text-align:center; font-weight:bold;">(ETD) Euclidean Distance, Triplet Loss, Defensive (R@1=46.4%)</td>
+    </tr>
+    <tr>
+     <td>0</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>2.0</td>
+     <td>2.0</td>
+     <td>2.0</td>
+     <td>2.0</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>50</td>
+     <td>0.5</td>
+     <td>0.5</td>
+     <td>0.5</td>
+     <td>0.5</td>
+    </tr>
+    <tr>
+     <td>0.01</td>
+     <td>7.5</td>
+     <td>12.2</td>
+     <td>16.5</td>
+     <td>18.0</td>
+     <td>66.4</td>
+     <td>62.6</td>
+     <td>59.3</td>
+     <td>57.8</td>
+     <td>16.1</td>
+     <td>24.8</td>
+     <td>36.1</td>
+     <td>41.4</td>
+     <td>26.7</td>
+     <td>18.1</td>
+     <td>12.2</td>
+     <td>10.2</td>
+    </tr>
+    <tr>
+     <td>0.03</td>
+     <td>0.7</td>
+     <td>4.5</td>
+     <td>8.7</td>
+     <td>10.4</td>
+     <td>91.7</td>
+     <td>90.2</td>
+     <td>89.1</td>
+     <td>88.4</td>
+     <td>7.9</td>
+     <td>14.5</td>
+     <td>27.2</td>
+     <td>35.6</td>
+     <td>43.4</td>
+     <td>31.7</td>
+     <td>21.9</td>
+     <td>18.1</td>
+    </tr>
+    <tr>
+     <td>0.06</td>
+     <td>0.1</td>
+     <td>3.8</td>
+     <td>7.9</td>
+     <td>9.7</td>
+     <td>97.3</td>
+     <td>96.8</td>
+     <td>96.4</td>
+     <td>96.2</td>
+     <td>6.9</td>
+     <td>12.5</td>
+     <td>24.3</td>
+     <td>33.4</td>
+     <td>51.4</td>
+     <td>39.0</td>
+     <td>28.0</td>
+     <td>23.5</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

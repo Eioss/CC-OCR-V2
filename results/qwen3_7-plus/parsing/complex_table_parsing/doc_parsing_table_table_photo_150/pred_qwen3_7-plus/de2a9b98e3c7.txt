@@ -1,0 +1,171 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        ignoreHtmlClass: "tex2jax_ignore",
+                        processHtmlClass: "tex2jax_process"
+                        }
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #646464;
+        padding: 8px;
+        text-align: center;
+        }
+        tr:nth-child(even){
+        background-color: #f9f9f9;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="2">结算方式：方现结</td>
+    <td colspan="2">付款方式：方扫码付</td>
+    <td colspan="2">收货日期：2022-03-08</td>
+    <td colspan="4">本次应收合计：8.17635</td>
+   </tr>
+   <tr>
+    <th>服务单号</th>
+    <th>订单号</th>
+    <th>总数量</th>
+    <th>商品体积/m³</th>
+    <th>商品重量/kg</th>
+    <th>单据体积(m³)</th>
+    <th>单据重量(kg)</th>
+    <th>SKU数量</th>
+    <th>理货数量</th>
+    <th>二次理货数量</th>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823610</td>
+    <td>677105<br/>139</td>
+    <td>14</td>
+    <td>0.006<br/>398</td>
+    <td>1.4</td>
+    <td>0.006<br/>398</td>
+    <td>1.4</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823615</td>
+    <td>677104<br/>717</td>
+    <td>1</td>
+    <td>0.004<br/>818</td>
+    <td>1.48</td>
+    <td>0.004<br/>818</td>
+    <td>1.48</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823619</td>
+    <td>677105<br/>355</td>
+    <td>16</td>
+    <td>0.003<br/>409</td>
+    <td>0.89</td>
+    <td>0.003<br/>409</td>
+    <td>0.89</td>
+    <td>3</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823625</td>
+    <td>677104<br/>896</td>
+    <td>3</td>
+    <td>0.003<br/>907</td>
+    <td>1.94</td>
+    <td>0.003<br/>907</td>
+    <td>1.94</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823630</td>
+    <td>677104<br/>932</td>
+    <td>7</td>
+    <td>0.056<br/>644</td>
+    <td>4.9</td>
+    <td>0.056<br/>644</td>
+    <td>4.9</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823634</td>
+    <td>677227<br/>036</td>
+    <td>22</td>
+    <td>0.431<br/>344</td>
+    <td>16.43<br/>5</td>
+    <td>0.431<br/>344</td>
+    <td>16.43<br/>5</td>
+    <td>4</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823641</td>
+    <td>677104<br/>767</td>
+    <td>4</td>
+    <td>0.035<br/>573</td>
+    <td>3.18</td>
+    <td>0.035<br/>573</td>
+    <td>3.18</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>VS122030<br/>80823646</td>
+    <td>677105<br/>356</td>
+    <td>12</td>
+    <td>0.003<br/>024</td>
+    <td>0.68</td>
+    <td>0.003<br/>024</td>
+    <td>0.68</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="10">本次应收合计：8.17635</td>
+   </tr>
+   <tr>
+    <td colspan="10">交款人：</td>
+   </tr>
+   <tr>
+    <td colspan="10">电话：</td>
+   </tr>
+   <tr>
+    <td colspan="10">备注：</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

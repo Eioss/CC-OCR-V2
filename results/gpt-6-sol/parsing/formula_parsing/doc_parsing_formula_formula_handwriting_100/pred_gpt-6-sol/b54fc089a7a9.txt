@@ -1,0 +1,18 @@
+\[
+\begin{gathered}
+A=\left(-\frac{\bar z}{\bar w},\ldots,-\frac{\bar z}{\bar w}\right),\\[4pt]
+\frac{1}{NW}\sum_{n=1}^{NW}\Lambda_i(n)e\!\left(aq(n)\lambda\right)
+-\frac{1}{\phi(W)}\sum_{r\in R(W)}
+\frac{1}{N}\sum_{n=1}^{N}e\!\left(aq(Wn+r)\lambda\right)<\epsilon,\\[4pt]
+\min_{1\le j\le n}\lambda_1(F_j)
+\geq \max_{1\le j\le n}N^{-1}\lVert\widetilde y_j\rVert^2,\\[4pt]
+(X^0Y)(u)=V_aX(d)\,\Lambda_{\le d}
+\left(\bigvee_{\phi\mapsto d}
+\bigl(\gamma(n_1(\phi))\wedge\cdots\wedge\gamma(n_a(\phi))\bigr)\right),\\[4pt]
+\frac{1}{N}z_j^*
+\left(\frac{1}{n}\sum_{i\ne j}\psi(T_i,q)z_i z_i^*\right)^{-1}z_j<1,\\[4pt]
+\widetilde{\Psi}_r(x;k)
+=x+\int_0^\gamma u_k(u)\,du+E(x;k),\\[4pt]
+I_{\mu+1}t\leq(\delta+\beta)\widetilde K_{\mu\ell}^{\,1-\kappa}d_r^2.
+\end{gathered}
+\]

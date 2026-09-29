@@ -1,0 +1,34 @@
+\[
+\begin{aligned}
+\int_{\Omega}u^{t}(x)\Delta\hat{\varphi}(x)\,dx
+&\leq
+\int_{\{t\geq0\}}\tilde f(\Delta(t))f(t)\varphi(t)\,dt
+\int_{\{t\geq0\}}\frac12u(t)f(t)\varphi(t)\,dx,\\[4pt]
+W_{\psi}[f](a,x,\theta)
+&=a^{-1}\int_{\mathbb R^{2}}f(y)e^{i\theta(x^{2}-y^{2})}
+\psi\!\left(r_g a^{-1}(x-y)\right)
+e^{\frac{i}{2\hbar}(x^{2}-y^{2})}\,dy,\\[4pt]
+\psi(t_A)
+&=\frac{-(8\cos^{2}\alpha+1)+\delta}{-(8\cos^{2}\alpha+1)-\delta}
+=\frac{\operatorname{tr}(V)+1-\delta}{\operatorname{tr}(V)+1+\delta},
+\tag{3.11}\\[4pt]
+\frac1\delta+\frac{\tau_u(T)}4
+&\leq
+\frac{\left|D_t\!\left(1,\frac{\gamma}{|\Omega|},x_t\right)\right|}
+{\left|D_t\!\left(\frac{\gamma}{|\Omega|}-x_t\right)\right|},\\[4pt]
+\bar V(t+T_0,M)
+&\geq u(t+T_0,M^0),\qquad t\geq0,\\[4pt]
+\int_0^{t_i}\delta(t_i-\tau)B_u(\tau)(t_i,g)
+&=\int_0^{t_i}\delta(t_i-\tau)B_u(\tau,g)\,d\tau,\\[4pt]
+T_t(t)
+&=\alpha_t\delta(t)
+-(\alpha_t+1)\left(\frac{\gamma_s}{2}+i\Delta c_{Ls}\right)
+e^{-i(\omega_t+\Delta c_{Ls})t-\Gamma_c t}\theta(t),\\[4pt]
+\frac{A_k}{P_k}
+&\leq C_s,\qquad \forall k\in T\ \text{and}\ \forall T\in F,\\[4pt]
+v^{T}Q^{(k+1,k+1)}v
+&=v^{T}D^{(k+1,k+1)}v
+-v^{T}\beta^{(k+1,k+1)}v
++2v^{T}v-\lambda(v^{T}v)^2.
+\end{aligned}
+\]

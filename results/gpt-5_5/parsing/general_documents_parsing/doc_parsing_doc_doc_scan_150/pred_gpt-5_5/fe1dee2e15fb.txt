@@ -1,0 +1,321 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\colorbox{cyan}{\parbox{0.45\textwidth}{\centering \textbf{Secondary 3 Mathematics Set 1}}}
+\end{center}
+
+\noindent\textbf{PART 1: Multiple-choice questions}
+
+\begin{multicols}{2}
+
+\noindent\textcolor{cyan}{1.}\quad \textbf{(4)}
+\[
+2x+3y=7
+\]
+\[
+2x=7-3y
+\]
+\[
+x=\frac{7}{2}-\frac{3}{2}y
+\]
+\[
+x=-\frac{3}{2}y+\frac{7}{2}
+\]
+
+\noindent\textcolor{cyan}{2.}\quad \textbf{(2)}
+\[
+3x+4y=15
+\]
+\[
+6x+8y=2(3x+4y)
+\]
+\[
+=30
+\]
+\[
+15x+20y=5(3x+4y)
+\]
+\[
+=75
+\]
+
+\noindent\textcolor{cyan}{3.}\quad \textbf{(3)}
+\[
+4x>\frac{1}{2}
+\]
+\[
+\frac{4x}{4}>\frac{\left(\frac{1}{2}\right)}{4}
+\]
+\[
+x>\frac{1}{8}
+\]
+
+\noindent\textcolor{cyan}{4.}\quad \textbf{(3)}
+\[
+6-8x<-2x
+\]
+\[
+6-8x+8x<-2x+8x
+\]
+\[
+6<6x
+\]
+\[
+6x>6
+\]
+\[
+x>1
+\]
+
+\noindent\textcolor{cyan}{5.}\quad \textbf{(2)}
+
+For rectangle \(P\), breadth \(=\dfrac{120}{15}\)
+
+\[
+=8\text{ cm}
+\]
+
+Perimeter of \(Q=\) Perimeter of \(P\)
+
+\[
+=2(8+15)
+\]
+\[
+=46\text{ cm}
+\]
+
+\noindent\textcolor{cyan}{6.}\quad \textbf{(4)}
+
+Circumference of \(Y=\) Circumference of \(X\)
+
+\[
+=10\pi
+\]
+\[
+2\pi r=10\pi
+\]
+\[
+r=5\text{ cm}
+\]
+
+Area of circle \(Y=\pi(5)^2\)
+
+\[
+=25\pi\text{ cm}^2
+\]
+
+\noindent\textcolor{cyan}{7.}\quad \textbf{(3)}
+
+ratio of sides \(1:10\)
+
+ratio of area \(1:100\)
+
+\noindent\textcolor{cyan}{8.}\quad \textbf{(3)}
+
+ratio of sides \(1:5\)
+
+ratio of perimeter \(1:5\)
+
+\noindent\textcolor{cyan}{9.}\quad \textbf{(3)}
+
+Let \(H\) and \(h\) be the heights of the 2 candles.
+
+Burnt amount at any time:
+
+\[
+H:\frac{120}{180}\times H=\frac{2}{3}H
+\]
+\[
+h:\frac{120}{300}\times h=\frac{2}{5}h
+\]
+
+Remaining:
+
+\[
+H:H-\frac{2}{3}H=\frac{1}{3}H
+\]
+\[
+h:h-\frac{2}{5}h=\frac{3}{5}h
+\]
+
+The ratio after 2 h is \(1:1\).
+
+\[
+\frac{\frac{1}{3}H}{\frac{3}{5}h}=\frac{1}{1}
+\]
+
+Cross multiply:
+
+\[
+\frac{1}{3}H=\frac{3}{5}h
+\]
+
+Cross multiply:
+
+\[
+5H=9h
+\]
+\[
+\frac{H}{h}=\frac{9}{5}
+\]
+\[
+H:h=9:5
+\]
+
+\noindent\textcolor{cyan}{10.}\quad \textbf{(1)}
+
+Height after \(n\) min:
+
+\[
+1^{\text{st}}:\frac{n}{180}
+\]
+\[
+2^{\text{nd}}:\frac{n}{240}
+\]
+
+Height remaining:
+
+\[
+1^{\text{st}}:1-\frac{n}{180}
+\]
+\[
+2^{\text{nd}}:1-\frac{n}{240}
+\]
+
+The ratio became \(1:2\).
+
+\[
+\frac{1-\frac{n}{180}}{1-\frac{n}{240}}=\frac{1}{2}
+\]
+
+Cross multiply:
+
+\[
+2-\frac{n}{90}=1-\frac{n}{240}
+\]
+\[
+\frac{n}{90}-\frac{n}{240}=2-1
+\]
+\[
+\frac{8n-3n}{720}=1
+\]
+\[
+5n=720
+\]
+\[
+n=144\text{ min}=2\text{ h }24\text{ min}
+\]
+
+Working backwards: \(14\ 36\text{ h}\)
+
+\noindent\textcolor{cyan}{11.}\quad \textbf{(2)}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8, cyan, thick]
+\draw (0,0) -- (6,0);
+\draw (0,0.1) -- (0,-0.1);
+\draw (6,0.1) -- (6,-0.1);
+\node[black] at (0,-0.35) {Town X};
+\node[black] at (6,-0.35) {Town Y};
+
+\draw[->] (1.0,0.6) -- (1.7,0.6);
+\node[black] at (0.85,0.6) {\(A\)};
+
+\draw[->] (2.7,0.6) -- (2.1,0.6);
+\draw[->] (2.9,0.6) -- (3.6,0.6);
+\node[black] at (2.4,0.85) {\(C\)};
+\node[black] at (3.75,0.6) {\(B\)};
+
+\draw (2.0,0.1) -- (2.0,-0.1);
+\draw (3.0,0.1) -- (3.0,-0.1);
+\draw[<->] (2.0,-0.45) -- (3.0,-0.45);
+\node[black] at (2.5,-0.65) {\(d\)};
+\end{tikzpicture}
+\end{center}
+
+When \(B\) meets \(C\), the distance between \(A\) and \(C\) is
+
+\[
+(50+70)\times 2=240\text{ km}
+\]
+
+Difference in speed \(\to 60-50=10\text{ km/h}\)
+
+\[
+240\div 10=24\text{ h}
+\]
+\[
+(60+70)\times 24=3120\text{ km}
+\]
+
+\noindent\textcolor{cyan}{12.}\quad \textbf{(4)}
+
+\[
+15-5=10\text{ h}
+\]
+
+Consider station \(S\) and Town \(Q\)
+
+\begin{center}
+\begin{tikzpicture}[scale=0.75, cyan, thick]
+\draw (0,0) -- (7,0);
+\foreach \x in {0,1,2,3,4,5,6,7}
+  \draw (\x,0.1) -- (\x,-0.1);
+\node[black] at (0,0.35) {\(P\)};
+\node[black] at (7,0.35) {\(Q\)};
+\node[black] at (2,-0.35) {\(S\)};
+\draw[->] (2.0,0.75) -- (3.4,0.75);
+\node[black] at (2.7,1.0) {05 00 h};
+\draw[<-] (4.6,0.75) -- (5.7,0.75);
+\node[black] at (5.15,1.0) {09 00 h};
+\draw[<-] (5.8,0.75) -- (6.8,0.75);
+\node[black] at (6.3,1.0) {05 00 h};
+\end{tikzpicture}
+\end{center}
+
+\[
+3:2=6:4
+\]
+\[
+5+4=9
+\]
+
+Ans: \(09\ 00\text{ h}\)
+
+\noindent\textcolor{cyan}{13.}\quad \textbf{(1)}
+
+Total number of faces:
+
+Original cuboid \(\to 18\) faces
+
+4 cubes \(\to 6\times 4=24\) faces
+
+\[
+24-18=6\text{ faces}
+\]
+
+6 faces \(\to 216\text{ cm}^2\)
+
+\end{multicols}
+
+\vfill
+
+\noindent{\footnotesize Solutions to AEIS Practice Tests Secondary 3 Mathematics}
+
+\noindent{\footnotesize \copyright\ Singapore Asia Publishers Pte Ltd \& Starich Education Pte Ltd}
+
+\begin{center}
+\textbf{S1}\\
+\textcolor{cyan}{Set 1}
+\end{center}
+
+\end{document}
+```

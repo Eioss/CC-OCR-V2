@@ -1,0 +1,38 @@
+\[
+\limsup_{\alpha}\left(\mathcal{E}_{\alpha}(u_{\alpha})+\|u_{\alpha}\|_{H_{\alpha}}^{2}\right)<+\infty
+\]
+
+\[
+\vec r=\sum_m P_m\left(\cos(\gamma m)\vec b_m+\sin(\gamma m)\hat n_m\times \vec b_m+(1-\cos(\gamma m))\hat n_m(\hat n_m\cdot \vec b_m)\right)
+\]
+
+\[
+T\in\{T_{\to},T_{\leftrightarrow},T_{\mathrm{sep}},\text{ or }T_g\}
+\]
+
+\[
+\begin{cases}
+\displaystyle \int_{\Omega} z_h\cdot w_h=\int_{\Omega} p_h\nabla\cdot w_h=\int_{\Omega} v\cdot w_h,\quad \forall w_h\in X_h,\\[1ex]
+\displaystyle \int_{\Omega} q_h\nabla\cdot z_h=\int_{\Omega} q_h\nabla\cdot v,\quad \forall q_h\in M_h.
+\end{cases}
+\]
+
+\[
+\sigma_1(\xi,\eta):=\int_0^\xi\int_0^\eta \sigma_1''(x+y)\,dy\,dx\le \sigma(0)\xi\eta,\quad (\xi,\eta)\in(0,\infty)^2
+\]
+
+\[
+\left\langle (S\eta,(t_0,\vartheta,t_1,\eta))\,\middle|\,|\eta|<\delta\right\rangle
+\]
+
+\[
+D_t^\alpha f(t):=\frac{d}{dt}(g_{1-\alpha}*f)(t)=\frac{d}{dt}\int_0^t g_{1-\alpha}(t-\tau)f(\tau)\,d\tau
+\]
+
+\[
+\int_{\Omega}\ln\frac{\varepsilon}{|x-y|}\zeta(y)\,dy
+=
+\int_{|x-y|\le R_\varepsilon}\ln\frac{\varepsilon}{|x-y|}\zeta(y)\,dy
++
+\int_{|x-y|\ge R_\varepsilon}\ln\frac{\varepsilon}{|x-y|}\zeta(y)\,dy
+\]

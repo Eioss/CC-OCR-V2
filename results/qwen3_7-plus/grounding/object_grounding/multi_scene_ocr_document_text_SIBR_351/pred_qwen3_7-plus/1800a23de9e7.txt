@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [375, 134, 810, 146], "label": "Address"},
+	{"bbox_2d": [92, 326, 620, 340], "label": "Address"},
+	{"bbox_2d": [829, 436, 900, 448], "label": "Amount USD"},
+	{"bbox_2d": [821, 467, 898, 479], "label": "Amount USD"},
+	{"bbox_2d": [764, 235, 823, 246], "label": "Bestally Contract No."},
+	{"bbox_2d": [94, 314, 193, 325], "label": "Company Name"},
+	{"bbox_2d": [764, 546, 854, 565], "label": "Company Name"},
+	{"bbox_2d": [240, 252, 300, 264], "label": "Customer No."},
+	{"bbox_2d": [766, 252, 897, 264], "label": "Customer Order No."},
+	{"bbox_2d": [767, 219, 856, 230], "label": "Date"},
+	{"bbox_2d": [239, 483, 398, 494], "label": "Delivery Term"},
+	{"bbox_2d": [239, 500, 320, 511], "label": "Delivery Time"},
+	{"bbox_2d": [240, 437, 349, 450], "label": "Description"},
+	{"bbox_2d": [240, 451, 426, 462], "label": "Description"},
+	{"bbox_2d": [750, 148, 872, 158], "label": "Fax"},
+	{"bbox_2d": [145, 437, 201, 447], "label": "Item code"},
+	{"bbox_2d": [113, 437, 121, 448], "label": "POS"},
+	{"bbox_2d": [554, 436, 676, 448], "label": "Packaging"},
+	{"bbox_2d": [239, 529, 263, 539], "label": "Payment Mode"},
+	{"bbox_2d": [239, 515, 430, 526], "label": "Payment Term"},
+	{"bbox_2d": [730, 436, 762, 447], "label": "Price USD/Kg"},
+	{"bbox_2d": [488, 436, 549, 449], "label": "Quantity Kg"},
+	{"bbox_2d": [93, 343, 255, 354], "label": "Tel"},
+	{"bbox_2d": [528, 148, 709, 158], "label": "Tel"},
+	{"bbox_2d": [365, 177, 626, 194], "label": "Title"},
+	{"bbox_2d": [763, 163, 868, 172], "label": "Website"}
+]
+```

@@ -1,0 +1,5 @@
+The text '000988880896' appears multiple times in the image. Here are their locations:
+
+(285, 230, 488, 256) # GST/TAX NO line near top
+(280, 360, 477, 385) # GST NO line
+(280, 1665, 459, 1693) # GST NO at bottom

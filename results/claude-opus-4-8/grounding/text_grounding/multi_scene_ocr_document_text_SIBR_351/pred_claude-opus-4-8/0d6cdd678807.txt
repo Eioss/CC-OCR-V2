@@ -1,0 +1,5 @@
+There are three instances of '1,000.00' in this invoice:
+
+(1573, 432, 1697, 457)
+(774, 463, 898, 488)
+(1573, 463, 1697, 488)

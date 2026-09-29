@@ -1,0 +1,79 @@
+\[
+\int_{\Omega_\varepsilon} u^\varepsilon(x)(\alpha_0)^\varepsilon \phi(x)\,dx
+=
+\int_{\{f\neq 0\}} \tilde f_\varepsilon(\alpha_0)f_\varepsilon(x)\phi(x)\,dx
++
+\int_{\{f=0\}} \tilde f_\varepsilon(u(x))f(x)\phi(x)\,dx .
+\]
+
+\[
+w_\hbar^t[f](a,x,\theta)
+=
+a^{-1}\int_{\mathbb R^2}
+f^2(x)e^{\frac{i}{\hbar}(x^2-y^2)}
+\psi\!\left(y-a^{-1}(x-y)\right)
+e^{\frac{i}{2\hbar}(x^2-y^2)}\,dx .
+\]
+
+\[
+\psi(p_A)
+=
+\frac{-\left(8\cos^2(\alpha)+1\right)+\delta}
+{-\left(8\cos^2(\alpha)+1\right)-\delta}
+=
+\frac{\operatorname{tr}(U)+1-\delta}
+{\operatorname{tr}(U)+1+\delta}
+\tag{3.11}
+\]
+
+\[
+\frac{1}{b}+\frac{7\mu(T)}{4}
+\le
+\left|
+\frac{D_t\!\left(1,\frac{\gamma}{\eta L}-x_t\right)}
+{D_t\!\left(\frac{\gamma}{\eta L}-x_t\right)}
+\right| .
+\]
+
+\[
+\widetilde V(t+T_0,M^0)=u(t+T_0,M^0)\quad \text{for } t\ge 0 .
+\]
+
+\[
+\left(
+\int_0^t S(t-r)Bu(r)\,dr,\; g
+\right)
+=
+\int_0^t \left(S(t-r)Bu(r),g\right)\,d\tau .
+\]
+
+\[
+T_\varepsilon(t)
+=
+\alpha_\varepsilon\delta(t)
+-
+(\alpha_\varepsilon+1)
+\left(
+\frac{\gamma_s}{2}+i\Delta_{CLS}
+\right)
+e^{-i(\omega_e+\Delta_{CLS})t}
+e^{-\Gamma_c t}\Theta(t).
+\]
+
+\[
+\frac{\mu_k}{\rho}\le C_S
+\qquad
+\forall K\in T \text{ and } \forall T\in F .
+\]
+
+\[
+v^TQ^{(k+1,k+1)}v
+=
+v^TD^{(k+1,k+1)}v
+-
+v^T\beta^{(k+1,k+1)}v
++
+zv^Tv
+-
+\lambda(v^Tv)^2 .
+\]

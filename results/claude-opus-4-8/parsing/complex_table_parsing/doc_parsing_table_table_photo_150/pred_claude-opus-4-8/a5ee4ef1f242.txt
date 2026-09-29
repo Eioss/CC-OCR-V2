@@ -1,0 +1,63 @@
+# Randell Limited - Income Statement
+
+<table>
+<tr>
+<td colspan="3" style="text-align:center;"><strong>Randell Limited</strong></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><strong>Income Statement</strong></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;"><strong>For the Year ended December 31, 2018</strong></td>
+</tr>
+<tr>
+<td>Sales</td>
+<td></td>
+<td>$818,000</td>
+</tr>
+<tr>
+<td>Cost of goods sold</td>
+<td></td>
+<td>$438,000</td>
+</tr>
+<tr>
+<td>Gross profit</td>
+<td></td>
+<td>$380,000</td>
+</tr>
+<tr>
+<td>Less:</td>
+<td>Depreciation expense</td>
+<td>$28,000</td>
+</tr>
+<tr>
+<td></td>
+<td>Selling, general and other admin expenses</td>
+<td>$298,000</td>
+</tr>
+<tr>
+<td>Income from operations</td>
+<td></td>
+<td>$54,000</td>
+</tr>
+<tr>
+<td>Loss on equipment sale</td>
+<td></td>
+<td>$6,000</td>
+</tr>
+<tr>
+<td>Income before income taxes</td>
+<td></td>
+<td>$48,000</td>
+</tr>
+<tr>
+<td>Income tax expense</td>
+<td></td>
+<td>$24,000</td>
+</tr>
+<tr>
+<td>Net Income</td>
+<td></td>
+<td>$24,000</td>
+</tr>
+</table>

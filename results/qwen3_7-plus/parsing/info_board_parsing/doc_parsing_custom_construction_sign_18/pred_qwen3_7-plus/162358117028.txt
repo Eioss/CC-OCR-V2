@@ -1,0 +1,103 @@
+```html
+<html><body>
+<div style="text-align: center;"><h1>项目管理信息牌</h1></div>
+<p style="text-align: center;">单位信息 / 工程参数 / 监督电话</p>
+<p style="text-align: right;">文档编号 SG-628506<br/>日期 2025-04-18</p>
+<table border="1">
+<tr>
+<td colspan="7">施工/项目名称：云栖市松影临澜市政工程一期</td>
+</tr>
+<tr>
+<td colspan="7">单位名称：青岚省云栖市松影临澜市政工程有限公司</td>
+</tr>
+<tr>
+<td colspan="7">工程地点：云栖省青岚市松影区科创大道238号 11栋</td>
+</tr>
+<tr>
+<td colspan="3">项目负责人：严明哲</td>
+<td colspan="2">安全员：陈思远</td>
+<td colspan="2">联系电话：19001479163</td>
+</tr>
+<tr>
+<td colspan="7" style="text-align: center;">问题跟踪/检查记录</td>
+</tr>
+<tr>
+<th>编号</th>
+<th>日期</th>
+<th>问题描述</th>
+<th>等级 (√/×/Lvl)</th>
+<th>期限</th>
+<th>复核人</th>
+<th>签字</th>
+</tr>
+<tr>
+<td rowspan="2"><b>A区<br/>检查项</b></td>
+<td rowspan="2">2025.04.25</td>
+<td>已整改 (严)</td>
+<td>等级 A</td>
+<td>/</td>
+<td>严明哲</td>
+<td>陈思远</td>
+</tr>
+<tr>
+<td>需跟进</td>
+<td>等级 A</td>
+<td>/</td>
+<td>严明哲</td>
+<td>陈思远</td>
+</tr>
+<tr>
+<td rowspan="3"><b>B区<br/>检查项</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>日期</td>
+<td>问题描述</td>
+<td colspan="2">543468852229617492</td>
+<td>复核人</td>
+<td>签字</td>
+</tr>
+<tr>
+<td>2025.04.25</td>
+<td></td>
+<td>等级 A</td>
+<td>/</td>
+<td>陈思远</td>
+<td>陈思远</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>/</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"><b>汇总统计</b></td>
+<td>日期</td>
+<td>问题描述</td>
+<td>等级 (√/×/Lvl)</td>
+<td>期限</td>
+<td>复核人</td>
+<td>签字</td>
+</tr>
+<tr>
+<td>2025.04.25</td>
+<td>需跟进</td>
+<td>等级 A</td>
+<td></td>
+<td>严明哲</td>
+<td>严明哲</td>
+</tr>
+</table>
+<div style="text-align: center;"><img src="imgs/img_in_image_box_739_717_782_792.jpg" alt="Image" width="6%"/></div>
+<p style="text-align: right; font-size: small;">https://example.com/doc-30091409</p> 
+</body></html>
+```

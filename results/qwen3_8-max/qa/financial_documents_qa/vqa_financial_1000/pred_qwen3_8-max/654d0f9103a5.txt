@@ -1,0 +1,5 @@
+Based on the invoice provided, the VAT Amount is **0.00**.
+
+This can be found in two places on the document:
+1.  In the bottom left table under the column "VAT AMOUNT".
+2.  In the bottom right table under the column "INVOICE VAT".

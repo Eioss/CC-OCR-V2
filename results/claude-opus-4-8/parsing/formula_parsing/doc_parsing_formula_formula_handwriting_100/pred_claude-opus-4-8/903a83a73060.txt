@@ -1,0 +1,15 @@
+$$\lambda^2 = \lambda_n^2 = \left(\frac{\pi n}{l}\right)^2, \quad n \in N$$
+
+$$V_i = \sum_{e_h \in \varepsilon_h} \int_{e_h} [uh] \left( \{F_h \nabla r_h z_h; (\delta e_h n^{-l} - p^{-l} n_h)\} + d\{F_h \nabla r_h z_h; H_h n_h\} \right) dS_h$$
+
+$$= \sum_{e_h} \sum \int_{e_h} \dot{z}_p^{-1} [uh] \{F_h \nabla r_h \varphi_p; (\delta e_h n^H - p^l n_h)\} + \dot{z}_p^{-1} [uh] d\{F_h \nabla r_h \varphi_p; H_h n_h\} dS_h$$
+
+$$\quad\quad p \in N \tilde{e}_h \supset p$$
+
+$$\Delta p_H = \left[(u_x)^2 + (u_y)^2\right] \frac{\partial}{\partial z} \Delta u + n I(u_x)^2 + (u_y)^2 J^{\frac{n-2}{2}} \left[(u_x)^2 u_{xx} + 2u_x u_y u_{xy} + (u_y)^2 u_{yy}\right] = 0$$
+
+$$\#(0) = |\{X | B(X) = 0 \text{ and } \phi(X) = 0\}|,$$
+
+$$||R_{T,A_1} u||_{L^{\frac{p\bar{e}}{p-e}}(\Omega)} \leq C ||u||_{W_{\bar{e}}^1(\Omega)} \quad \forall (\nu) \quad A_T \geq T_1,$$
+
+$$H = \frac{x_1' x_2'' - x_2' x_1''}{2\sqrt{1 + (r')^2}} n_1,$$

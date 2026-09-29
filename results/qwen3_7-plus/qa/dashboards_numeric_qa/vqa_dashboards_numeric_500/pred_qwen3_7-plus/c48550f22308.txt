@@ -1,0 +1,15 @@
+Based on the comparison table **“VMWARE VSPHERE VS. MICROSOFT HYPER-V”** in the infographic, under the **Microsoft Hyper-V** columns:
+
+- **Microsoft STANDARD**: Max host processors = **4**
+- **Microsoft ENT. (Enterprise)**: Max host processors = **8**
+- **Microsoft DC (Datacenter)**: Max host processors = **64**
+
+The **minimum number of host processors** that can be connected (i.e., supported) by any Microsoft Hyper-V edition is therefore:
+
+> **4**
+
+This corresponds to the **Microsoft Hyper-V Standard** edition.
+
+---
+
+✅ **Answer: 4**

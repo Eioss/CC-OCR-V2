@@ -1,0 +1,11 @@
+```json
+[
+	{"bbox_2d": [403, 519, 627, 537], "label": "date"},
+	{"bbox_2d": [38, 500, 474, 517], "label": "doc_no_receipt_no"},
+	{"bbox_2d": [35, 294, 890, 354], "label": "seller_address"},
+	{"bbox_2d": [187, 356, 735, 374], "label": "seller_gst_id"},
+	{"bbox_2d": [100, 254, 826, 272], "label": "seller_name"},
+	{"bbox_2d": [777, 762, 890, 780], "label": "total_amount"},
+	{"bbox_2d": [807, 846, 892, 863], "label": "total_tax"}
+]
+```

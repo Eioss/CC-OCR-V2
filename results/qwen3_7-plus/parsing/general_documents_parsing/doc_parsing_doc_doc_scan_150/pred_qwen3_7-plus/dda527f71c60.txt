@@ -1,0 +1,61 @@
+```latex
+\begin{center}
+    \Large{\textbf{CONTRACT}}
+\end{center}
+
+Date : March 13, 2013
+
+\vspace{1em}
+
+The Buyer : POSCO ASIA CO.,LTD. \\
+ADD. : Rm. 5505, Central Plaza, 18 Harbour Road, Wanchai, Hongkong \\
+TEL : 852-28278787 \quad FAX : 852-28275005
+
+\vspace{1em}
+
+The Seller : JIANGSU MAOYUAN ECONOMIC AND TRADE DEVELOPMENT CO., LTD \\
+ADD : Building 717/724/726, Jinlun International Square, 8 Hanzhong Road, Gulou District, Nanjing, Jiangsu, China \\
+TEL : 86-25-86533710 \quad FAX : 86-25-86581471
+
+\vspace{1em}
+
+This Contract is made by and between the Buyer and Seller; whereby the Buyer agree to buy and the Seller agree to sell the under mentioned goods on the terms and conditions stated below.
+
+\vspace{1em}
+
+1. Name of Commodity : Silicon Metal (High Purity)
+
+\vspace{1em}
+
+2. Specification :
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+        \hline
+        \multicolumn{10}{|c|}{Chemical (wt\%)} \\
+        \hline
+        Si & C & Al & Ti & V & Mn & P & S & B & Others \\
+        \hline
+        98 & 0.05 & 0.10 & 0.020 & 0.05 & 0.25 & 0.025 & 0.015 & 0.002 & Ca, Zr, Pb: \\
+        Min & Max & Max & Max & Max & Max & Max & Max & Max & Reference \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\vspace{1em}
+
+3. Size : 10$\sim$50mm (90\% Min), Under 100mm 100\%
+
+\vspace{1em}
+
+4. Quantity : 900MT
+
+\vspace{1em}
+
+5. Unit Price : USD2,157/MT CFR POHANG CY, KOREA \\
+The Seller shall be responsible for cost of BAF, CAF, EBS (Emergency Bunker Surcharge) and CIS (Container Imbalance Surcharge).
+
+\vspace{1em}
+
+6. Packing Terms : 1MT P.P. bag (waterproofing) with sling, Double bag packing required
+```

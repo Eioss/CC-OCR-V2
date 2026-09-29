@@ -1,0 +1,27 @@
+```latex
+\sin C = \frac{\text{side opposite to angle } C}{\text{hypotenuse}} = \frac{p}{h}
+
+\cos C = \frac{\text{side adjacent to angle } C}{\text{hypotenuse}} = \frac{b}{h}
+
+\tan C = \frac{\text{side opposite to angle } C}{\text{side adjacent to angle } C} = \frac{p}{b}
+
+\cosec \theta = \frac{1}{\sin \theta}; \sec \theta = \frac{1}{\cos \theta}; \cot \theta = \frac{1}{\tan \theta}; \tan \theta = \frac{\sin \theta}{\cos \theta}
+
+\begin{tabular}{|l|c|c|c|c|c|}
+\hline
+$\angle A$ & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin A$ & 0 & $\frac{1}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{\sqrt{3}}{2}$ & 1 \\
+\hline
+$\cos A$ & 1 & $\frac{\sqrt{3}}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{1}{2}$ & 0 \\
+\hline
+$\tan A$ & 0 & $\frac{1}{\sqrt{3}}$ & 1 & $\sqrt{3}$ & Not defined \\
+\hline
+$\cosec A$ & Not defined & 2 & $\sqrt{2}$ & $\frac{2}{\sqrt{3}}$ & 1 \\
+\hline
+$\sec A$ & 1 & $\frac{2}{\sqrt{3}}$ & $\sqrt{2}$ & 2 & Not defined \\
+\hline
+$\cot A$ & Not defined & $\sqrt{3}$ & 1 & $\frac{1}{\sqrt{3}}$ & 0 \\
+\hline
+\end{tabular}
+```

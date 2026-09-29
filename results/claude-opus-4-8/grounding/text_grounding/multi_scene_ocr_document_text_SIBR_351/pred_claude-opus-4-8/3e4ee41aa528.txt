@@ -1,0 +1,8 @@
+There are multiple instances of '3' in this image. Here are the regions for some of them:
+
+(594, 472, 612, 502)
+(595, 532, 613, 561)
+(594, 591, 612, 621)
+(594, 651, 612, 680)
+(595, 711, 613, 740)
+(594, 770, 612, 798)

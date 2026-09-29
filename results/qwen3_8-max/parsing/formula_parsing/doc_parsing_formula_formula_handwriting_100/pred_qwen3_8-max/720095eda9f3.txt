@@ -1,0 +1,9 @@
+ $$\| H ( s ) \| _ { \mathcal { L } _ { 1 } } = \operatorname* { m a x } _ { i = 1 , \ldots , n } { \biggl ( } \sum _ { j = 1 } ^ { m } \| H _ { i j } ( s ) \| _ { \mathcal { L } _ { 1 } } { \biggr ) } ,$$
+
+ $${ \mathcal { N } } ( x ; m , v ) = { \frac { { \mathcal { N } } ( x ) } { M _ { \mathrm { { t h } } } } } + O { \left( x ^ { 1 - { \frac { 1 } { n } } } \right) } ,$$
+
+ $$P ( K _ { s i g n a l } , r , T , t ) = 2 R e \sum _ { j } \exp ( i k _ { s i g n a l } \cdot r _ { j } ) \sum _ { \alpha < \beta } \mu _ { \alpha \beta } P _ { \beta \alpha } ^ { ( j ) } ( E _ { 1 } i t )$$
+
+ $$\begin{array} { r l } & { \| \partial _ { \varphi } ^ { \beta } \partial _ { t } \phi [ \widehat { u } ] \langle D \rangle ^ { - \frac { | \beta | + 1 } { 2 } } h \| _ { L _ { \varphi } ^ { 2 } H _ { x } ^ { s } } } \\ & { \lesssim \| \partial _ { t } a [ \widehat { u } ] \| _ { s + s _ { 0 } + \frac { 1 } { 2 } + | \beta | } ^ { k _ { 0 } , r } \| h \| _ { L _ { \varphi } ^ { 2 } H _ { x } ^ { s } } , \quad \forall s \in [ 0 , s _ { 1 } ] , } \end{array}$$
+
+ $$\varepsilon ( u ) = { \frac { 1 } { 2 } } { \big ( } D u + ( D u ) ^ { T } { \big ) } = { \frac { 1 } { 2 } } \left( \partial _ { i } u _ { k } + \partial _ { k } u _ { i } \right) _ { 1 \leq i , k \leq 2 }$$

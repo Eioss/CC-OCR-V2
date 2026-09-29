@@ -1,0 +1,21 @@
+[
+  {"bbox_2d":[139,68,734,145],"label":"COMPANY NAME"},
+  {"bbox_2d":[352,158,517,185],"label":"TITLE"},
+  {"bbox_2d":[53,258,456,283],"label":"COMPANY NAME"},
+  {"bbox_2d":[54,293,442,310],"label":"ADDRESS"},
+  {"bbox_2d":[59,336,254,353],"label":"P.C."},
+  {"bbox_2d":[59,357,204,374],"label":"RUC"},
+  {"bbox_2d":[59,373,301,390],"label":"Tel"},
+  {"bbox_2d":[54,392,205,409],"label":"NAME"},
+  {"bbox_2d":[533,210,796,231],"label":"INVOICE NO."},
+  {"bbox_2d":[533,254,781,275],"label":"INVOICE DATE"},
+  {"bbox_2d":[532,288,730,310],"label":"S/C NO"},
+  {"bbox_2d":[144,497,268,519],"label":"Transport details"},
+  {"bbox_2d":[473,489,875,513],"label":"Terms of payment"},
+  {"bbox_2d":[116,557,221,614],"label":"Marks & Nos."},
+  {"bbox_2d":[284,552,460,613],"label":"Description of Goods"},
+  {"bbox_2d":[510,551,578,570],"label":"Quantity"},
+  {"bbox_2d":[604,549,707,570],"label":"Unit price"},
+  {"bbox_2d":[742,547,847,567],"label":"Amount"},
+  {"bbox_2d":[763,625,852,641],"label":"Amount"}
+]

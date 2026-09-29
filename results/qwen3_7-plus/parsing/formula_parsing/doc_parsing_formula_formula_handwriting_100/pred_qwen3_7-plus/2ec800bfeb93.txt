@@ -1,0 +1,15 @@
+$$\begin{array} { l } { \displaystyle \int _ { B ( 2 \delta R _ { i } ^ { - 1 } ) \setminus B ( R ) } \nabla V \nabla P _ { \alpha } \, d v _ { g _ { \alpha } } \leq C \| \varphi \| _ { H _ { 1 } ^ { 2 } ( { \cal M } ) } \left( \displaystyle \int _ { B ( 3 \delta R _ { i } ^ { - 1 } ) \setminus B ( R ) } | \nabla V | ^ { 2 } d x \right) ^ { \frac { 1 } { 2 } } } \\ { = O ( \| \varphi \| _ { H _ { 1 } ^ { 2 } ( { \cal M } ) } ) \varepsilon ( R ) , } \end{array}$$
+
+ $$K _ { Y } ^ { [ 1 ] } ( u ) = \left\{ \begin{array} { l l } { { K _ { X } ^ { [ 1 ] } ( u ) , } } & { { \mathrm { i f ~ } u \not \in ( u _ { a } , u _ { b } ) , } } \\ { { ( a ( u - u _ { a } ) + K _ { X } ^ { [ 1 ] } ( u _ { a } ) ) \vee ( b ( u - u _ { b } ) + K _ { X } ^ { [ 1 ] } ( u _ { b } ) ) , } } & { { \mathrm { i f ~ } u \in ( u _ { a } , u _ { b } ) . } } \end{array} \right.$$
+
+ $$\begin{array} { l c r } { { f ( x ) + f ( y ) = f ( p ( x ) ) + f ( p ( y ) ) \geq f ( p ( x ) \rightarrow p ( y ) ) + f ( p ( y ) \rightarrow p ( x ) ) = } } \\ { { f ( p ( x \rightarrow y ) ) + f ( p ( y \rightarrow x ) ) = f ( x \rightarrow y ) + f ( y \rightarrow x ) } } \end{array}$$
+
+ $$\begin{array} { l } { { - q h ^ { \prime \prime } ( \frac { d \alpha } { \epsilon ^ { 1 / 3 } } ) + W ^ { \prime \prime } ( q ( \frac { d \alpha } { \epsilon ^ { 1 / 3 } } ) ) - 6 \Bigl ( q ( \frac { d \alpha } { \epsilon ^ { 1 / 3 } } ) - q ( \frac { d \omega } { \epsilon ^ { 1 / 3 } } ) ^ { 2 } \Bigr ) \Delta d \alpha } } \\ { { + 3 0 \Bigl ( q ( \frac { d \omega } { \epsilon ^ { 1 / 3 } } ) - q ( \frac { d \alpha } { \epsilon ^ { 1 / 3 } } ) ^ { 2 } \Bigr ) ^ { 2 } \lambda _ { 0 } = 0 . } } \end{array}$$
+
+ $${ \mathcal E } _ { n } ( w ) = \hbar w n , \quad n = 0 , 1 , 2 , \ldots .$$
+
+ $$p [ r ( m _ { 1 } ) , p ( m _ { 2 } ) ] = [ r ( m _ { 1 } ) , p ( m _ { 2 } ) ] \neq 0 ,$$
+
+ $$v ( t , x , p ) \approx 1 , \ \ \mathrm { a n d } \ \ \vert D _ { p } ^ { k } v ( t , x , p ) \vert \lesssim ( p ^ { 0 } ) ^ { - 1 } , \ \vert p \vert > 0 .$$
+
+ $$\begin{array} { l } { { ( i \omega \cdot l - ( d _ { r } ( \omega , j ) - d _ { r } ( \omega , k ) ) ) \underbrace { \Psi _ { j } ^ { k } ( l ) + R _ { j } ^ { k } ( l ) } = ( [ R ] ) _ { j } ^ { k } ( l ) . } } \\ { { \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad : = \delta _ { l , n } ( \omega ) } } \end{array}$$

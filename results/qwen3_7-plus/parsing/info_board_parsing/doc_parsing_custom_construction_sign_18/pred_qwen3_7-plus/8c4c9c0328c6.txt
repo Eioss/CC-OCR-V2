@@ -1,0 +1,133 @@
+```html
+<html><body>
+<div class="image" style="text-align: center;"><img src="imgs/img_in_image_box_736_235_794_341.jpg" alt="Image" width="6%"/></div> 
+ <p>https://example.com/doc-92812557</p> 
+ <h2 style="text-align: center;">文明施工与进度公示牌</h2> 
+ <p style="text-align: right;">文档编号 SG-995946<br/>日 期 2024-07-12</p> 
+ <p style="text-align: center;">进度计划 / 现场管理 / 联系方式</p> 
+ <p>施工/项目名称（虚构）<br/>单位名称 星海省临澜州皓月松影物业管理有限公司<br/>工程地点 澄岳省星港市东泽区兴业路199号3栋<br/>项目负责人 张亦晨；安全员 韩昊然；联系电话 15645687056</p> 
+ <p>项目：<br/>定价：3200<br/>新价：154.30</p> 
+ <table border="1" data-bbox="167 362 815 890">
+ <tr>
+ <th colspan="7">里程碑计划表</th>
+ </tr>
+ <tr>
+ <th>日期</th>
+ <th>节点名称</th>
+ <th>责任人</th>
+ <th>状态</th>
+ <th>签字</th>
+ <th colspan="2">备注</th>
+ </tr>
+ <tr>
+ <td>2024-05-20</td>
+ <td>基础完工</td>
+ <td>张亦晨</td>
+ <td>已完成 (手写勾选)</td>
+ <td></td>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <td>2024-07-15</td>
+ <td>主体结构封顶</td>
+ <td>韩昊然</td>
+ <td>进行中 (手写)</td>
+ <td></td>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <td>2024-09-30</td>
+ <td>竣工验收</td>
+ <td>张亦晨</td>
+ <td>未开始</td>
+ <td></td>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <th colspan="7">现场管理检查记录</th>
+ </tr>
+ <tr>
+ <th>检查日期</th>
+ <th>问题描述</th>
+ <th>整改措施</th>
+ <th>复验结果</th>
+ <th>签字</th>
+ <th colspan="2">备注</th>
+ </tr>
+ <tr>
+ <td>2024-07-10</td>
+ <td>材料堆放混乱</td>
+ <td>限期清理整改</td>
+ <td>已复验 (手写)</td>
+ <td>韩昊然 (手写签字)</td>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <td>2024-07-11</td>
+ <td>安全网破损</td>
+ <td>立即更换</td>
+ <td>待复验 (手写)</td>
+ <td>张亦晨 (手写签字)</td>
+ <td colspan="2">337027936250027424 (手写编号)</td>
+ </tr>
+ <tr>
+ <th colspan="7">A区 (东侧工段)</th>
+ </tr>
+ <tr>
+ <th>条目编码</th>
+ <th>任务内容</th>
+ <th>计划开始</th>
+ <th>计划结束</th>
+ <th>实际进度</th>
+ <th colspan="2">备注要求</th>
+ </tr>
+ <tr>
+ <td>T-001</td>
+ <td>土方开挖</td>
+ <td>2024-05-01</td>
+ <td>2024-05-15</td>
+ <td>100%</td>
+ <td colspan="2">按图施工</td>
+ </tr>
+ <tr>
+ <td>T-002</td>
+ <td>基坑支护</td>
+ <td>2024-05-16</td>
+ <td>2024-05-31</td>
+ <td>100%</td>
+ <td colspan="2">注意监测</td>
+ </tr>
+ <tr>
+ <th colspan="7">B区 (西侧工段)</th>
+ </tr>
+ <tr>
+ <td>T-003</td>
+ <td>主体施工</td>
+ <td>2024-06-01</td>
+ <td>2024-07-31</td>
+ <td>50%</td>
+ <td colspan="2">加强安全</td>
+ </tr>
+ <tr>
+ <td>T-004</td>
+ <td>砌体工程</td>
+ <td>2024-06-01</td>
+ <td>2024-08-31</td>
+ <td>20%</td>
+ <td colspan="2">按规范</td>
+ </tr>
+ <tr>
+ <td>汇总小计</td>
+ <td>合计</td>
+ <td>2024-08-01</td>
+ <td>2024-08-31</td>
+ <td>20%</td>
+ <td colspan="2"></td>
+ </tr>
+ <tr>
+ <th>备注条款/整改要求</th>
+ <td colspan="6">1.严格按照施工规范执行。<br/>2.每周五进行安全大检查。<br/>3.整改期限不超过3天 (手写修改)。<br/>4.如遇紧急情况立即上报。</td>
+ </tr>
+ </table> 
+</body></html>
+```

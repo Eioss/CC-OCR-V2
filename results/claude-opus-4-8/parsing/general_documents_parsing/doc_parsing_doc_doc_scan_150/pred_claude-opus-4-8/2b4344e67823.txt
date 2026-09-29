@@ -1,0 +1,52 @@
+I'll transcribe the text from this image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{array}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent 二、酒及酒精
+
+\begin{tabbing}
+\hspace{1cm}\=\hspace{6cm}\=\kill
+\>1. 白酒 \> 20\%加 0.5 元/500 克 \\
+\> \> （或者 500 毫升） \\[6pt]
+\>2. 黄酒 \> 240 元/吨 \\[6pt]
+\>3. 啤酒 \> \\
+\>\hspace{0.5cm}（1）甲类啤酒 \> 250 元/吨 \\
+\>\hspace{0.5cm}（2）乙类啤酒 \> 220 元/吨 \\[6pt]
+\>4. 其他酒 \> 10\% \\[6pt]
+\>5. 酒精 \> 5\% \\
+\end{tabbing}
+
+\noindent 三、化妆品 \hfill 30\%
+
+\vspace{6pt}
+\noindent 四、贵重首饰及珠宝玉石
+
+\begin{tabbing}
+\hspace{1cm}\=\hspace{6cm}\=\kill
+\>1. 金银首饰、铂金首饰和钻石及钻 \> 5\% \\
+石饰品 \\[6pt]
+\>2. 其他贵重首饰和珠宝玉石 \> 10\% \\
+\end{tabbing}
+
+\noindent 五、鞭炮、焰火 \hfill 15\%
+
+\vspace{6pt}
+\noindent 成品油
+
+\begin{tabbing}
+\hspace{1cm}\=\hspace{6cm}\=\kill
+\>1. 汽油 \> \\
+\>\hspace{0.5cm}（1）含铅汽油 \> 0.28 元/升 \\
+\>\hspace{0.5cm}（2）无铅汽油 \> 0.20 元/升 \\[6pt]
+\>2. 柴油 \> 0.10 元/升 \\
+\end{tabbing}
+
+\end{CJK}
+\end{document}
+```

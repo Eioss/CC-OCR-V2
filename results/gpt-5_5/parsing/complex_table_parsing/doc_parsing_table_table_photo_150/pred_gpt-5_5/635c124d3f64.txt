@@ -1,0 +1,222 @@
+```html
+<table border="1">
+  <tr>
+    <td colspan="28">2021年度师德考核学生评价表</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">项目</td>
+    <td rowspan="2">分值<br>100</td>
+    <td rowspan="2">考核主要内容</td>
+    <td colspan="25">教师姓名</td>
+  </tr>
+  <tr>
+    <td>安宗志</td>
+    <td>万里明</td>
+    <td>徐根前</td>
+    <td>林水根</td>
+    <td>蒋立平</td>
+    <td>沈金鸥</td>
+    <td>蒋卫民</td>
+    <td>蒋奇松</td>
+    <td>柳阳春</td>
+    <td>殷书峰</td>
+    <td>蒋正宏</td>
+    <td>汪童</td>
+    <td>蒋徐尉</td>
+    <td>刘畅</td>
+    <td>储江敏</td>
+    <td>王瑞</td>
+    <td>王青</td>
+    <td>柳欣欣</td>
+    <td>李钰茜</td>
+    <td>胡森茂</td>
+    <td>徐璐</td>
+    <td>刘同锐</td>
+    <td>华莹莹</td>
+    <td>王超</td>
+    <td>刘姣</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">爱国守法</td>
+    <td>5</td>
+    <td>热爱祖国，热爱人民，拥护中国共产党领导，拥护社会主义。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>全面贯彻国家教育方针，自觉遵守教育法律法规，依法履行教师职责。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>没有违背党和国家方针政策的言行。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4">爱岗敬业</td>
+    <td>5</td>
+    <td>忠诚于人民教育事业，志存高远，勤恳敬业，甘为人梯，乐于奉献。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>对工作高度负责，认真备课上课，认真批改作业，认真辅导学生。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>严格遵守劳动纪律，按质按量完成教育教学任务。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>没有离岗脱岗现象。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4">关爱学生</td>
+    <td>5</td>
+    <td>关心爱护全体学生，尊重学生人格，平等公正对待学生。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>对学生严慈相济，做学生良师益友。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>保护学生安全，关心学生健康，维护学生合法权益。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>不讽刺、歧视学生，不体罚或变相体罚学生。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="3">教书育人</td>
+    <td>5</td>
+    <td>遵循教育规律，实施素质教育；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>循循善诱，诲人不倦，因材施教；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>培养学生良好品行，激发学生创新精神，促进学生全面发展；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="4">为人师表</td>
+    <td>5</td>
+    <td>坚守高尚情操，严于律己，以身作则，衣着得体，语言规范，举止文明；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>关心集体，团结协作，尊重同事，尊重家长；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>作风正派，廉洁奉公；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>自觉抵制有偿家教，不利用职业之便谋取私利。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">终身学习</td>
+    <td>5</td>
+    <td>崇尚科学精神，树立终身学习理念，拓宽知识视野，更新知识结构；</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>潜心钻研业务，勇于探索创新，不断提高专业素养和教育教学水平。</td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+
+  <tr>
+    <td colspan="3">得分</td>
+    <td>95</td>
+    <td>95</td>
+    <td>99</td>
+    <td>93</td>
+    <td>99</td>
+    <td>99</td>
+    <td>99</td>
+    <td>98</td>
+    <td>99</td>
+    <td>99</td>
+    <td>93</td>
+    <td>99</td>
+    <td>97</td>
+    <td>99</td>
+    <td>97</td>
+    <td>99</td>
+    <td>99</td>
+    <td>99</td>
+    <td>99</td>
+    <td>99</td>
+    <td>99</td>
+    <td>97</td>
+    <td>97</td>
+    <td>99</td>
+    <td></td>
+  </tr>
+</table>
+```

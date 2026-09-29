@@ -1,0 +1,15 @@
+$$\Sigma_1 = \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{\alpha_2 \neq \alpha_1} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \sum_{i \in D} \sum_{j \in D, j \neq i} \Gamma_{ij} \Gamma_{ji}$$
+
+$$= \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{\alpha_2 \neq \alpha_1} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \left( \sum_{j \neq \alpha_1} \Gamma_{\alpha_1 j} \Gamma_{j\alpha_1} + \cdots + \sum_{\substack{j \neq \alpha_{N_{de}}}} \Gamma_{\alpha_{N_{de}} j} \Gamma_{j\alpha_{N_{de}}} \right)$$
+
+$$= N_{de} \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{j \neq \alpha_1} \Gamma_{\alpha_1 j} \Gamma_{j\alpha_1} \left( \sum_{\alpha_2 \neq \alpha_1} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \right)$$
+
+$$= \frac{N_{de}}{N} \sum_i \sum_{j \neq i} \Gamma_{ij} \Gamma_{ji},$$
+
+$$\Sigma_2 = \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{\alpha_2 \neq \alpha_1} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \sum_{i \in D} \sum_{j \in D, j \neq i} \Gamma_{ij} \Gamma_{ji},$$
+
+$$= \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{\alpha_2 \neq \alpha_1} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \left( \Gamma_{\alpha_1 \alpha_2} \Gamma_{\alpha_2 \alpha_1} + \cdots + \Gamma_{\alpha_1 \alpha_{N_{de}}} \Gamma_{\alpha_{N_{de}} \alpha_1} + \Gamma_{\alpha_2 \alpha_3} \Gamma_{\alpha_3 \alpha_2} + \cdots \right)$$
+
+$$= N_{de}(N_{de}-1) \frac{(N-N_{de})!}{N!} \sum_{\alpha_1} \sum_{\alpha_2 \neq \alpha_1} \Gamma_{\alpha_1 \alpha_2} \Gamma_{\alpha_2 \alpha_1} \left( \sum_{\alpha_3 \neq \alpha_1, \alpha_2} \cdots \sum_{\alpha_{N_{de}} \neq \alpha_1, \ldots, \alpha_{N_{de}-1}} \right)$$
+
+$$= \frac{N_{de}(N_{de}-1)}{N(N-1)} \sum_i \sum_{j \neq i} \Gamma_{ij} \Gamma_{ji},$$

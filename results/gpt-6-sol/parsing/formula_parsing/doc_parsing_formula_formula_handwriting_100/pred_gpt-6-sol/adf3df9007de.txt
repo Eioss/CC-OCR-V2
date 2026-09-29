@@ -1,0 +1,27 @@
+\[
+\begin{aligned}
+\left\|(a_\varepsilon k_i)*(w_0^n-w_0^m)\right\|_{L^2}^{2}
+&=\int_{\mathbb R^2}\left|\int_{B_{2\varepsilon}(x)}
+a_\varepsilon(x-y)k_i(x-y)\bigl(w_0^n(y)-w_0^m(y)\bigr)\,dy\right|^2dx\\
+&\leq\int_{\mathbb R^2}\left(\int_{B_{2\varepsilon}(x)}
+\frac{|w_0^n(y)-w_0^m(y)|}{|x-y|}\,dy\right)^2dx\\
+&=\int_{\mathbb R^2}\left(
+\int_{B_{2\varepsilon}(x)}
+\frac{|w_0^n(y)-w_0^m(y)|
+\bigl(\log(e+|w_0^n(y)-w_0^m(y)|)\bigr)^\alpha}
+{|x-y|\bigl(\log(1/|x-y|)\bigr)^\alpha}
+\frac{\bigl(\log(1/|x-y|)\bigr)^\alpha}
+{\bigl(\log(e+|w_0^n(y)-w_0^m(y)|)\bigr)^\alpha}
+\,dy\right)^2dx\\
+&\leq
+\sup_{x\in\mathbb R^2}\int_{B_{2\varepsilon}(x)}
+\frac{\bigl(\log(1/|x-y|)\bigr)^{2\alpha}}
+{\bigl(\log(e+|w_0^n(y)-w_0^m(y)|)\bigr)^{2\alpha}}\,dy\\
+&\qquad\times
+\int_{\mathbb R^2}\int_{B_{2\varepsilon}(x)}
+\frac{|w_0^n(y)-w_0^m(y)|^2
+\bigl(\log(e+|w_0^n(y)-w_0^m(y)|)\bigr)^{2\alpha}}
+{|x-y|^2\bigl(\log(1/|x-y|)\bigr)^{2\alpha}}
+\,dy\,dx.
+\end{aligned}
+\]

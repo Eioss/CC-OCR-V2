@@ -1,0 +1,119 @@
+```html
+<div style="text-align:center; font-weight:bold;">高温合金熔铸事业部</div>
+<div style="text-align:center; font-weight:bold;">入厂器材复验结果证明书</div>
+<div style="text-align:right;">编号：FYBH2022-005</div>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <td>器材名称</td>
+    <td>电钻</td>
+    <td>规格</td>
+    <td>---</td>
+    <td>复验规定编号</td>
+    <td colspan="3">FYGD-90-14-2020</td>
+  </tr>
+  <tr>
+    <td>产品材质</td>
+    <td>---</td>
+    <td>产品牌号</td>
+    <td>Co9995</td>
+    <td>批号</td>
+    <td colspan="3">见备注</td>
+  </tr>
+  <tr>
+    <td>型号</td>
+    <td>---</td>
+    <td>器材类别</td>
+    <td>Ⅱ</td>
+    <td>计量单位</td>
+    <td colspan="3">kg</td>
+  </tr>
+  <tr>
+    <td>重量</td>
+    <td>15000</td>
+    <td>包装数量</td>
+    <td>60桶</td>
+    <td rowspan="2">生产厂家</td>
+    <td colspan="3" rowspan="2">兰州金川新材料科技<br>股份有限公司</td>
+  </tr>
+  <tr>
+    <td>生产日期</td>
+    <td>---</td>
+    <td>有效期</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>存放地点</td>
+    <td>熔铸事业部</td>
+    <td>出厂质保单编号</td>
+    <td colspan="5">--</td>
+  </tr>
+
+  <tr>
+    <td rowspan="5">常规<br>复验</td>
+    <td colspan="5">1.器材外包装是否完好</td>
+    <td>是 ☑</td>
+    <td>否 □</td>
+  </tr>
+  <tr>
+    <td colspan="5">2.器材外观是否良好</td>
+    <td>是 ☑</td>
+    <td>否 □</td>
+  </tr>
+  <tr>
+    <td colspan="5">3.器材质量证明文件是否齐全有效</td>
+    <td>是 ☑</td>
+    <td>否 □</td>
+  </tr>
+  <tr>
+    <td colspan="5">4.器材名称、牌号、批号、数量是否与质量证明文件一致</td>
+    <td>是 ☑</td>
+    <td>否 □</td>
+  </tr>
+  <tr>
+    <td colspan="5">5.其他</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">理化<br>复验</td>
+    <td colspan="2">检测承接单位</td>
+    <td colspan="5">钢研纳克检测技术有限公司</td>
+  </tr>
+  <tr>
+    <td colspan="2">检测报告编号</td>
+    <td colspan="5">2022BIR04491</td>
+  </tr>
+
+  <tr>
+    <td>备注</td>
+    <td colspan="7">批号：21-1-292/295/273<br>22-1-001</td>
+  </tr>
+  <tr>
+    <td>结论</td>
+    <td colspan="7">电钻 Co9995 经复验符合进院器材复验规定编号：FYGD-90-14-2020 的要求</td>
+  </tr>
+
+  <tr>
+    <td colspan="3">
+      检验：<br><br>
+      2022 年 1 月 8 日
+    </td>
+    <td colspan="2">
+      复核：<br>
+      JY320<br>
+      2022 年 1 月 8 日
+    </td>
+    <td colspan="3">
+      批准：<br><br>
+      年　月　日
+    </td>
+  </tr>
+</table>
+
+<div>
+  附：<br>
+  本证明书需填写完整，并另附供应商出厂质保单、检测报告（检验记录）方为有效。
+</div>
+```

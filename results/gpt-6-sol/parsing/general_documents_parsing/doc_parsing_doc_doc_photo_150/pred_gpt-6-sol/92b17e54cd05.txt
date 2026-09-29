@@ -1,0 +1,118 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\begin{document}
+
+\begin{center}
+SUPER MOCK : MATHS\\
+PAPER 1\\
+OBJECTIVE TEST\\
+\textbf{Answer all questions.}
+\end{center}
+
+Each question is followed by four options lettered A to D. Find the correct
+option for each question and shade in pencil on your answer sheet the answer
+space which bears the same letter as the option you have chosen.
+
+\begin{enumerate}
+\item Find the product of \(2.3\times10^{\text{[unclear]}}
+\times3.0\times10^{\text{[unclear]}}\), leaving your answer in standard form.
+\[
+\begin{array}{ll}
+\text{A. }6.9\times10^{\text{[unclear]}}&
+\text{B. }6.59\times10^{\text{[unclear]}}\\
+\text{C. }6.9\times10^{\text{[unclear]}}&
+\text{D. }6.59\times10^{\text{[unclear]}}
+\end{array}
+\]
+
+\item Round down \(4,872,500\) to the nearest \(10,000\).
+\[
+\begin{array}{ll}
+\text{A. }4,872,000&\text{B. }4,870,000\\
+\text{C. }4,870,500&\text{D. }4,871,000
+\end{array}
+\]
+
+\item In a school, \(\frac13\) of the learners like English,
+\(\frac12\) like Mathematics and the rest like Science. What fraction
+of the learners like Science?
+\[
+\begin{array}{ll}
+\text{A. }\frac16&\text{B. }\frac12\\
+\text{C. }0&\text{D. }2
+\end{array}
+\]
+
+\item If \(P=\{1,7,13\}\) and \(Q=\{7,9,13\}\) are subsets of
+\(U=\{1,2,3,4,\ldots,15\}\), find \(P\cap Q\).
+\[
+\begin{array}{ll}
+\text{A. }\{1,7,9\}&\text{B. }\{1,7,9,13\}\\
+\text{C. }\{7,9\}&\text{D. }\{7,13\}
+\end{array}
+\]
+
+\item Convert \(0.125\) to a common fraction.
+\[
+\begin{array}{ll}
+\text{A. }\frac34&\text{B. }\frac18\\
+\text{C. }\frac25&\text{D. }\frac{3}{\text{[unclear]}}
+\end{array}
+\]
+
+\item Find the value of the side marked \(x\) in the diagram below.
+(Take \(\tan35^\circ=0.70\).)
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+\draw (0,0)--(0,3)--(4,0)--cycle;
+\draw (0,0) rectangle (0.2,0.2);
+\node[left] at (0,1.5) {\(x\)};
+\node[below] at (2,0) {\(5\text{m}\)};
+\node at (3.55,0.35) {\(35^\circ\)};
+\end{tikzpicture}
+\end{center}
+\[
+\begin{array}{ll}
+\text{A. }3.50\text{m}&\text{B. }35\text{m}\\
+\text{C. }60\text{m}&\text{D. }7.2\text{m}
+\end{array}
+\]
+
+\item Simplify: \(2\sqrt2+2\sqrt2+3\sqrt3+3\sqrt3\).
+\[
+\begin{array}{ll}
+\text{A. }\sqrt2+\sqrt3&\text{B. }4\sqrt2+6\sqrt3\\
+\text{C. }4+6\sqrt3&\text{D. }\sqrt2+6\sqrt3
+\end{array}
+\]
+
+\item Given that vector \(a=\begin{pmatrix}3\\4\end{pmatrix}\) and
+\(b=\begin{pmatrix}2\\3\end{pmatrix}\), evaluate \(2(a+b)\).
+\[
+\begin{array}{ll}
+\text{A. }\begin{pmatrix}4\\6\end{pmatrix}&
+\text{B. }\begin{pmatrix}6\\8\end{pmatrix}\\[6pt]
+\text{C. }\begin{pmatrix}10\\14\end{pmatrix}&
+\text{D. }\begin{pmatrix}5\\7\end{pmatrix}
+\end{array}
+\]
+
+\item A fair die and a coin are rolled together once. Find the
+probability of obtaining a tail and a prime number.
+\[
+\begin{array}{ll}
+\text{A. }\frac12&\text{B. }\frac23\\
+\text{C. }\frac13&\text{D. }\frac14
+\end{array}
+\]
+\end{enumerate}
+
+\noindent\textit{Mathematics / Super Mock}\hfill 4
+
+\end{document}
+```
+
+The superscripts in Question 1 and the denominator of option 5(D) are too blurred to transcribe reliably.

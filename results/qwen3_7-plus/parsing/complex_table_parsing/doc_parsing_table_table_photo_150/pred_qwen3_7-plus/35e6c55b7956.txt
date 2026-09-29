@@ -1,0 +1,29 @@
+```html
+<table border="1" data-bbox="47 583 996 999">
+	<tr>
+		<th>Type</th>
+		<th>Parametric form</th>
+		<th>Parameter range</th>
+	</tr>
+	<tr>
+		<td>Power exponential</td>
+		<td>$C(t) = \exp(-\beta t^\alpha)$</td>
+		<td>$0 &lt; \alpha \le 1, \beta &gt; 0.$</td>
+	</tr>
+	<tr>
+		<td>Matérn</td>
+		<td>$C(t) = (\beta t)^\alpha K_\alpha(\beta t)$</td>
+		<td>$0 &lt; \alpha \le \frac{1}{2}, \beta &gt; 0.$</td>
+	</tr>
+	<tr>
+		<td>Generalized Cauchy</td>
+		<td>$C(t) = (\beta t^\alpha + 1)^{-\xi/\alpha}$</td>
+		<td>$0 &lt; \alpha \le 1, \beta, \xi &gt; 0.$</td>
+	</tr>
+	<tr>
+		<td>Dagum</td>
+		<td>$C(t) = \left[1 - \left(\frac{\beta t^\alpha}{1 + \beta t^\alpha}\right)^{\xi/\alpha}\right]$</td>
+		<td>$0 &lt; \alpha \le 1, 0 &lt; \xi \le 1, \beta &gt; 0.$</td>
+	</tr>
+</table>
+```

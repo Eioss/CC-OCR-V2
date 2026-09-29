@@ -1,0 +1,6 @@
+<table>
+  <tr><td>length</td><td>R₁</td><td>R₂</td><td>R<sub>L</sub></td></tr>
+  <tr><td>1024</td><td>38.39</td><td>10.60</td><td>22.86</td></tr>
+  <tr><td>2048</td><td>38.73</td><td>10.82</td><td>23.05</td></tr>
+  <tr><td>3072</td><td>38.30</td><td>10.34</td><td>22.57</td></tr>
+</table>

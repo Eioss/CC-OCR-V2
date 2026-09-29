@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+    \widetilde{\gamma}_0(\zeta)(z,w) &= \frac{z_0 + \overline{z}_0}{2} - t \frac{1}{2} A z_a = 0, \\
+    \widetilde{\gamma}_1(\zeta)(z,w) &= i \frac{w_0}{\xi} - i \xi \overline{w}_0 = 0, \\
+    &\vdots \\
+    \widetilde{\gamma}_2(\zeta)(z,w) &= (w_1 - 2 w_0 \partial_{z_1} r(z)) + (\overline{w}_1 - 2 \overline{w}_0 \partial_{\overline{z}_1} r(z)) = 0, \\
+    &\vdots \\
+    \widetilde{\gamma}_{n+1}(\zeta)(z,w) &= (w_n - 2 w_0 \partial_{z_n} r(z)) + (\overline{w}_n - 2 \overline{w}_0 \partial_{\overline{z}_n} r(z)) = 0, \\
+    \widetilde{\gamma}_{n+2}(\zeta)(z,w) &= i(w_1 - 2 w_0 \partial_{z_1} r(z)) - i(\overline{w}_1 - 2 \overline{w}_0 \partial_{\overline{z}_1} r(z)) = 0, \\
+    &\vdots \\
+    \widetilde{\gamma}_{2n+1}(\zeta)(z,w) &= i(w_n - 2 w_0 \partial_{z_n} r(z)) - i(\overline{w}_n - 2 \overline{w}_0 \partial_{\overline{z}_n} r(z)) = 0.
+\end{align*}
+```

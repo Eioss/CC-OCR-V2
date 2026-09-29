@@ -1,0 +1,29 @@
+According to the 2011 survey data presented in the infographic, **76%** of Australians aged **70-74 years** use the internet.
+
+This is shown in the curved bar chart on the right side of the image, under the heading “Internet usage in over 50s”, where each age group has a corresponding percentage:
+
+- 50–55 year olds: 85%
+- 55–59 year olds: 90%
+- 60–64 year olds: 82%
+- 65–69 year olds: **76%**
+- 70–74 year olds: **65%** ← Wait — let me double-check this.
+
+Actually, looking again at the labels and bars:
+
+The text next to the bars says:
+
+> Internet usage in over 50s  
+> 85% → 50-55 year olds  
+> 90% → 55-59 year olds  
+> 82% → 60-64 year olds  
+> 76% → 65-69 year olds  
+> 65% → 70-74 year olds  
+> 41% → 75+ year olds  
+
+So for **70-74 year olds**, the value listed is **65%**.
+
+---
+
+✅ Final Answer: **65%**
+
+*(Note: The initial misread was corrected by carefully matching the percentages to their respective age groups as labeled in the chart.)*

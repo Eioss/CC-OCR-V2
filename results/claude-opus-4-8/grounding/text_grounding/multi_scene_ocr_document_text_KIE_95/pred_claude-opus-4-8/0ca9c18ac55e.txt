@@ -1,0 +1,9 @@
+Multiple instances of '174.90' appear on this receipt. Here are their locations:
+
+(689, 1166, 800, 1206) # In the item line (GST Amount)
+
+(686, 1262, 801, 1303) # In the Total Qty line
+
+(675, 1614, 805, 1655) # Total Sales (Inclusive of GST)
+
+(671, 1700, 805, 1742) # CASH amount

@@ -1,0 +1,59 @@
+```latex
+\begin{tabular}{|l|l|l|}
+\hline
+\multicolumn{3}{|c|}{\textbf{Mathematics Chart}} \\
+\hline
+Perimeter & rectangle & $P = 2l + 2w \quad \text{or} \quad P = 2(l+w)$ \\
+\hline
+Circumference & circle & $C = 2\pi r \quad \text{or} \quad C = \pi d$ \\
+\hline
+Area & rectangle & $A = lw \quad \text{or} \quad A = bh$ \\
+\cline{2-3}
+& triangle & $A = \frac{1}{2}bh \quad \text{or} \quad A = \frac{bh}{2}$ \\
+\cline{2-3}
+& trapezoid & $A = \frac{1}{2}(b_1+b_2)h \quad \text{or} \quad A = \frac{(b_1+b_2)h}{2}$ \\
+\cline{2-3}
+& circle & $A = \pi r^2$ \\
+\hline
+Surface Area & cube & $S = 6s^2$ \\
+\cline{2-3}
+& cylinder (lateral) & $S = 2\pi rh$ \\
+\cline{2-3}
+& cylinder (total) & $S = 2\pi rh + 2\pi r^2 \quad \text{or} \quad S = 2\pi r(h+r)$ \\
+\cline{2-3}
+& cone (lateral) & $S = \pi rl$ \\
+\cline{2-3}
+& cone (total) & $S = \pi rl + \pi r^2 \quad \text{or} \quad S = \pi r(l+r)$ \\
+\cline{2-3}
+& sphere & $S = 4\pi r^2$ \\
+\hline
+Volume & prism or cylinder & $V = Bh*$ \\
+\cline{2-3}
+& pyramid or cone & $V = \frac{1}{3}Bh*$ \\
+\cline{2-3}
+& sphere & $V = \frac{4}{3}\pi r^3$ \\
+\hline
+\multicolumn{3}{|l|}{$*B$ represents the area of the Base of a solid figure.} \\
+\hline
+Pi & $\pi$ & $\pi \approx 3.14 \quad \text{or} \quad \pi \approx \frac{22}{7}$ \\
+\hline
+Pythagorean Theorem & & $a^2 + b^2 = c^2$ \\
+\hline
+Distance Formula & & $d = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$ \\
+\hline
+Slope of a Line & & $m = \frac{y_2-y_1}{x_2-x_1}$ \\
+\hline
+Midpoint Formula & & $M = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}\right)$ \\
+\hline
+Quadratic Formula & & $x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ \\
+\hline
+Slope-Intercept Form of an Equation & & $y = mx + b$ \\
+\hline
+Point-Slope Form of an Equation & & $y - y_1 = m(x - x_1)$ \\
+\hline
+Standard Form of an Equation & & $Ax + By = C$ \\
+\hline
+Simple Interest Formula & & $I = prt$ \\
+\hline
+\end{tabular}
+```

@@ -1,0 +1,39 @@
+```latex
+\textbf{Data (Sodium Bicarbonate - NaHCO$_3$):}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\ \hline
+Evaporating Dish + Watch Glass & 97.20 g & X & X \\ \hline
+Evaporating Dish + Watch Glass + NaHCO$_3$ & 97.59 g & X & X \\ \hline
+NaHCO$_3$ & 0.39 g & & \\ \hline
+NaCl & 0.13 g & & \\ \hline
+\end{tabular}
+\end{center}
+
+\textbf{Analysis}
+
+\begin{enumerate}
+    \item According to the balanced chemical equation, what would you expect the molar ratio of NaHCO$_3$ to NaCl to be? Do your results agree with this? \textbf{Explain}.
+    
+    \item What was your percent yield of NaCl? (Hint: First calculate the theoretical yield of NaCl from the mole ratio of reactant to product. HCl is added in excess).
+    
+    \item List at least two possible sources of error that may have caused your yield to be lower than 100\%.
+\end{enumerate}
+
+\vspace{1cm}
+
+\textbf{Data (Sodium Carbonate Decahydrate - Na$_2$CO$_3 \cdot$10H$_2$O):}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\ \hline
+Evaporating Dish + Watch Glass & 88.59 g & X & X \\ \hline
+Evaporating Dish + Watch Glass + Na$_2$CO$_3 \cdot$10H$_2$O & 88.95 g & X & X \\ \hline
+Na$_2$CO$_3 \cdot$10H$_2$O & 0.36 g & & \\ \hline
+NaCl & & & \\ \hline
+\end{tabular}
+\end{center}
+```

@@ -1,0 +1,103 @@
+```html
+<table border="1">
+  <tr>
+    <th rowspan="2">Case</th>
+    <th rowspan="2">Age</th>
+    <th rowspan="2">Sex</th>
+    <th rowspan="2">Side</th>
+    <th rowspan="2">AIS</th>
+    <th rowspan="2">ISS</th>
+    <th>Suicidal<br>jump</th>
+    <th>Longitudinal<br>displacement</th>
+    <th>Sacral transverse<br>fracture</th>
+    <th>Type of pelvic<br>fracture (AO)</th>
+    <th>Denis</th>
+    <th>Functional deficit (MMT)</th>
+  </tr>
+  <tr>
+    <td>(-)</td>
+    <td>(+)</td>
+    <td>(-)</td>
+    <td>C</td>
+    <td>(-)</td>
+    <td>IP 3, Quad 3, TA 3</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>62</td>
+    <td>M</td>
+    <td>rt</td>
+    <td>5</td>
+    <td>25</td>
+    <td>(-)</td>
+    <td>(+)</td>
+    <td>(-)</td>
+    <td>C</td>
+    <td>Zone I</td>
+    <td>Quad 3, TA 3</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3</td>
+    <td rowspan="2">31</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">34</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 0, TA 0</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>C</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4</td>
+    <td rowspan="2">37</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>C</td>
+    <td>Zone II</td>
+    <td>Quad 2, TA 0</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 2, TA 0</td>
+  </tr>
+  <tr>
+    <td rowspan="2">5</td>
+    <td rowspan="2">25</td>
+    <td rowspan="2">F</td>
+    <td>rt</td>
+    <td rowspan="2">5</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">(+)</td>
+    <td>(+)</td>
+    <td rowspan="2">(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+  <tr>
+    <td>lt</td>
+    <td>(+)</td>
+    <td>B</td>
+    <td>Zone II</td>
+    <td>Quad 1, TA 1</td>
+  </tr>
+</table>
+```

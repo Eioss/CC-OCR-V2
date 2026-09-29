@@ -1,0 +1,5 @@
+The text 'USD2807.20' appears twice in this invoice:
+
+(478, 484, 597, 504) # First occurrence (line item amount)
+
+(478, 540, 598, 560) # Second occurrence (total amount)

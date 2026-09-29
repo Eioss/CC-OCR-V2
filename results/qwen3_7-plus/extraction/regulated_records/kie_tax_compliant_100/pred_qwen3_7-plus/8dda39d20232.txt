@@ -1,0 +1,12 @@
+```json
+{
+    "date": "20/04/2018",
+    "doc_no_receipt_no": "#1000000163",
+    "seller_address": "16A, JALAN ASTAKA U8/83, BUKIT JELUTONG 40150 SHAH ALAN, SELANGOR D.E.",
+    "seller_gst_id": "000468594688",
+    "seller_name": "HAXINCONE RESOURCES SDN BHD",
+    "seller_phone": "(383322-D)",
+    "total_amount": "3.70",
+    "total_tax": "0.21"
+}
+```

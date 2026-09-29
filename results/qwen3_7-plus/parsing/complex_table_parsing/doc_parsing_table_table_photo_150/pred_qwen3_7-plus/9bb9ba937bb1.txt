@@ -1,0 +1,142 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="9" style="font-size: 24px; font-weight: bold;">施工现场类隐患排查清单</th>
+   </tr>
+   <tr>
+    <th colspan="9" style="font-size: 18px; font-weight: bold;">作业活动类隐患排查清单</th>
+   </tr>
+   <tr>
+    <th rowspan="2">风险点</th>
+    <th colspan="8">排查内容与排查标准</th>
+   </tr>
+   <tr>
+    <th>编号</th>
+    <th>类型</th>
+    <th>名称</th>
+    <th>等级</th>
+    <th>责任单位</th>
+    <th>序号</th>
+    <th>作业步骤名称</th>
+    <th>危险源或潜在事件</th>
+    <th>管控措施</th>
+    <th colspan="2">日常检查</th>
+    <th>专项检查</th>
+    <th colspan="2">综合性检查</th>
+   </tr>
+   <tr>
+    <td rowspan="6">1</td>
+    <td rowspan="6">操作及作业活动</td>
+    <td rowspan="6">临时用电作业</td>
+    <td rowspan="6">III</td>
+    <td rowspan="6">班组</td>
+    <td rowspan="3">1</td>
+    <td rowspan="3">作业前</td>
+    <td rowspan="3">不按规定要求办理《临时用电审批》，乱接电源。</td>
+    <td>工程技术措施</td>
+    <td>/</td>
+    <td>班中巡检<br/>每天/班组</td>
+    <td>班中交接班<br/>每天/作业人员</td>
+    <td>每半年/企业</td>
+    <td>每月/项目部</td>
+    <td>每季/企业</td>
+   </tr>
+   <tr>
+    <td>管理措施</td>
+    <td>不按规定要求办理《临时用电审批》，乱接电源，严格落实执行《临时用电作业审批制度》</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>培训教育措施</td>
+    <td>1、车间每季度对全员进行安全培训；<br/>2、班组每月对班组成员进行安全培训；<br/>3、新员工岗前进行三级安全培训；<br/>4、定期参加公司组织安全培训；</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td rowspan="3">2</td>
+    <td rowspan="3">作业过程控制</td>
+    <td rowspan="3">电源线路绝缘不良，电工个人防护用品佩戴不全或不恰当</td>
+    <td>个体防护措施</td>
+    <td>按要求穿好工作服，袖口、领口、纽扣系好，规范佩戴好工作帽、绝缘手套、绝缘鞋。</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>应急处置措施</td>
+    <td>员工发生触电事故后，发现者应立即拉下电源开关，或可用干燥的竹竿、木棒等绝缘物挑开触电者身上的电线。为要及时打120电话呼叫救护车。</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>工程技术措施</td>
+    <td>加装漏电保护器</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>管理措施</td>
+    <td>电源线路绝缘不良，电工个人防护用品佩戴不全或不恰当，严格落实执行《临时用电作业审批制度》</td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

@@ -1,0 +1,11 @@
+ $$\chi _ { p , c y c } ^ { j } \phi ( L _ { p , C M } ^ { c y c } ( \eta ) ) = \Gamma ( j t - k u , 1 ) G _ { 1 } ( \phi ) \frac { \prod _ { { \cal P } | { \cal P } ^ { t } { \cal F } ^ { t } } A _ { \cal P } ( v ( \eta ) ^ { p - g t } , \phi , j ) L ( v ( \eta ) ^ { k - g t } , \phi , j ) } { ( - 2 \pi \sqrt { - 1 } ) ^ { j d } ( - \Omega _ { C M , \infty } ) ^ { k u , 2 } ( \bar { \Omega } _ { C M , \infty } ) ^ { - k u , 1 } }$$
+
+ $$y ^ { \top } \mathbb { E } \Big [ \sum _ { r = 1 } ^ { m } a _ { r } a _ { r } ^ { \top } \Big ] y = \sum _ { r = 1 } ^ { m } \mathbb { E } [ \langle a _ { r } , y \rangle ^ { 2 } ] = \sum _ { r = 1 } ^ { m } \sum _ { j = 1 } ^ { d } y _ { j } ^ { 2 } = \sum _ { r = 1 } ^ { m } \| y \| ^ { 2 } .$$
+
+ $$\eta _ { T } ^ { 2 } : = \Bigl ( \sum _ { T \in { \cal T } } \eta _ { T } ^ { 2 } \Bigr ) ^ { 1 / 2 } \cdot \Bigl ( \sum _ { T \in { \cal T } } h _ { T } ^ { 2 } \eta _ { T } ^ { 2 } \Bigr ) ^ { 1 / 2 } ,$$
+
+ $$g _ { 1 } \cdot \ldots \cdot g _ { r _ { i } } = R _ { 0 } R _ { 1 } \cdot \ldots \cdot R _ { n }$$
+
+ $$v ( \theta , r ) = - 1 \mathrm { ~ f o r ~ } r \mathrm { ~ n e a r ~ } 0 , \quad v ( \theta , r ) = 1 \mathrm { ~ f o r ~ } r \geq R e ^ { | \theta | } .$$
+
+ $$\int _ { 1 } ^ { \infty } h ( y ) e ^ { - c o y ^ { - \gamma / ( \gamma - 1 ) } } \cdot \frac { d y } { y ^ { ( 2 \gamma - 1 ) / ( \gamma - 1 ) } } \leq h ( 1 ) \int _ { 1 } ^ { \infty } \frac { d y } { y ^ { ( 2 \gamma - 1 ) / ( \gamma - 1 ) } } < \infty ,$$

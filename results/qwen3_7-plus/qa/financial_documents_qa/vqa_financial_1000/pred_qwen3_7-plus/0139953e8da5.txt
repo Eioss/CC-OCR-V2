@@ -1,0 +1,23 @@
+Based on the provided calendar for **December 2006**:
+
+- The days of the week are labeled across the top: **Sun, Mon, Tue, Wed, Thu, Fri, Sat**.
+- Looking at the row containing the number **11**, it falls under the column labeled **Mon**.
+
+Additionally, we can verify this by noting that December 1, 2006, is a **Friday** (as shown in the first row). Counting forward:
+- Dec 1 → Fri
+- Dec 2 → Sat
+- Dec 3 → Sun
+- Dec 4 → Mon
+- Dec 5 → Tue
+- Dec 6 → Wed
+- Dec 7 → Thu
+- Dec 8 → Fri
+- Dec 9 → Sat
+- Dec 10 → Sun
+- **Dec 11 → Mon**
+
+Also, the calendar explicitly marks **December 25** as “Holiday” and places it under **Mon**, which confirms that Mondays fall on the 4th, 11th, 18th, and 25th — consistent with Dec 11 being a Monday.
+
+---
+
+✅ Therefore, **December 11, 2006, is a Monday**.

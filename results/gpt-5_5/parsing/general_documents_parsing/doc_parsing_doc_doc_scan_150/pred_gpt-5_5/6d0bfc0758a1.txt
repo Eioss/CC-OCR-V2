@@ -1,0 +1,81 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+
+\begin{document}
+
+\noindent
+\textsc{Chairman's Letter} \hfill \textsc{Minerals Technologies Inc.} \hfill 5
+
+\vspace{2em}
+
+\begin{center}
+{\Huge \textbf{BOTH BUSINESS}}\\
+{\Huge \textbf{SEGMENTS---}}\\[0.5em]
+\textbf{Specialty Minerals and Refractories---contributed to this outstanding}\\
+\textbf{performance through record-breaking financial results.}
+\end{center}
+
+\vspace{2em}
+
+Contributing to these financial results was excellent execution of our 2013 operating plan initiatives, which included growth, return on capital, productivity improvements, expense control, and safety. Since 2007, the company has improved productivity by 5 percent compounded annually and we kept our 2013 expenses flat with 2012 while continuing to grow our Asia positions profitably.
+
+The company's safety performance continued on a strong track in 2013. We achieved our lowest lost workday rate of 0.386 injuries per 100 employees, which is approaching world class safety levels, and our recordable injury rate declined from the previous year to 1.594 injuries per 100 employees. We are committed to making MTI a safe working environment for our employees. Our goal is for our employees to go home each day after work in the same condition they arrived.
+
+MTI's Return on Capital continued to improve. Our return is now 9.5 percent compared to 9.2 percent in 2012. The company generated \$138 million in cash from operations and we repurchased \$52 million of our shares during the year.
+
+\textbf{Accomplishments}
+
+Let's take a look at what drove our outstanding 2013 performance. Our two major strategies---geographic expansion and new product innovation---continue to gain traction. In 2013, we signed contracts for two new satellites, one in China, and the second in Europe. The plant in China is a joint venture agreement with Nanning Jindaxing Paper Industry Co. Ltd. for the construction of a 45,000-metric ton satellite PCC facility at Jindaxing Paper's papermaking facility in Guangxi Province, China. The satellite plant, which will produce PCC for paper filling, will become operational in the fourth quarter of 2014. The satellite facility in Europe is for paper filling and is with a papermaker that wished to remain unnamed for competitive reasons.
+
+More recently, in early January, we announced an agreement with UPM-Kymmene Corporation to build a satellite PCC plant on site at UPM's paper mill in Changshu, China, located in Jiangsu province. The satellite plant, scheduled to begin operation early in 2015, will provide PCC for paper filling and will have an initial capacity of 100,000 tons.
+
+In total, we are now constructing four new satellite PCC plants in China. These include the plant at Jianghe Paper in Henan Province and the 100,000-ton coating facility for Sun Paper in Shandong Province, both of which we signed in the fourth quarter of 2012. Our growth in China will continue. We have developed the operational capability through added resources to further expand in this growing market.
+
+During the year, we also began ramping up three satellite facilities, two in India and one in Thailand. MTI now has seven satellite plants in China and 16 in Asia, which is now second only to the 25 satellites we operate in North America. In addition, our North American PCC plant expansions are moving forward and we expect them to be contributing volume in 2014.
+
+\vspace{2em}
+
+\begin{center}
+\textbf{Return on Capital*}
+
+\vspace{0.5em}
+
+\begin{tabular}{ccc}
+\toprule
+Year & ROC \% \\
+\midrule
+2010 & 8.4 \\
+2011 & 8.8 \\
+2012 & 9.2 \\
+2013 & 9.5 \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.5em}
+
+\small * Bloomberg Method
+\end{center}
+
+\vspace{2em}
+
+\begin{center}
+\textbf{Quarterly Underlying Sales Growth}
+
+\vspace{0.5em}
+
+\begin{tabular}{cccc}
+\toprule
+Quarter & Reported Sales Growth & Underlying Sales Growth \\
+\midrule
+Q1 & -1\% & -2\% \\
+Q2 & 2\% & 4\% \\
+Q3 & 2\% & 4\% \\
+Q4 & 6\% & 7\% \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\end{document}
+```

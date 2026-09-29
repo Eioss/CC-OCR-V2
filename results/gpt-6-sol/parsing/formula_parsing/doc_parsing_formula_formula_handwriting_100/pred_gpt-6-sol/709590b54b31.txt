@@ -1,0 +1,57 @@
+\[
+\begin{aligned}
+&\mathcal L\bigl(x,s,\hat\lambda,q_r,Q_r;Z,t_k,p_k,P_k,\ \forall k\in[K]\bigr)\\
+={}&s+\gamma_2 I_{n_r}\cdot Q_r+\sqrt{r_1}\,\|q_r\|_2
+-Z\cdot\left(\sum_{i=1}^{I}A_i x_i+A_0\right)\\
+&-\sum_{k=1}^{K}
+\begin{bmatrix}t_k&p_k^\top\\p_k&P_k\end{bmatrix}
+\cdot
+\begin{bmatrix}
+s-y_k^0(x)-\lambda_k^\top b-y_k(x)^\top u+\lambda_k^\top Au
+&
+\frac12\left(q_r+(U\Lambda^{-1/2}B)^\top(A^\top\lambda_k-y_k(x))\right)^\top
+\\[2pt]
+\frac12\left(q_r+(U\Lambda^{-1/2}B)^\top(A^\top\lambda_k-y_k(x))\right)
+&
+Q_r
+\end{bmatrix}\\
+={}&\left(1-\sum_{k=1}^{K}t_k\right)s
+-\sum_{k=1}^{K}
+\left(t_k(Au-b)^\top+p_k^\top(U\Lambda^{-1/2}B)^\top A^\top\right)\lambda_k
++\sqrt{r_1}\,\|q_r\|_2-\sum_{k=1}^{K}p_k^\top q_r\\
+&+\left(\gamma_2 I_{n_r}-\sum_{k=1}^{K}P_k\right)\cdot Q_r
+-\sum_{i=1}^{I}\sum_{j=1}^{I}z_{ij}(a_{ij}^\top x+a_{ij}^0)
++\sum_{k=1}^{K}\left[
+t_k y_k^0(x)+
+\left(t_k u^\top+p_k^\top(U\Lambda^{-1/2}B)^\top\right)y_k(x)
+\right]\\
+={}&\left(1-\sum_{k=1}^{K}t_k\right)s
+-\sum_{k=1}^{K}
+\left(t_k(Au-b)^\top+p_k^\top(U\Lambda^{-1/2}B)^\top A^\top\right)\lambda_k
++\sqrt{r_1}\,\|q_r\|_2-\sum_{k=1}^{K}p_k^\top q_r\\
+&+\left(\gamma_2 I_{n_r}-\sum_{k=1}^{K}P_k\right)\cdot Q_r
+-\sum_{i=1}^{I}\sum_{j=1}^{I}z_{ij}a_{ij}^\top x
+-\sum_{i=1}^{I}\sum_{j=1}^{I}z_{ij}a_{ij}^0\\
+&+\sum_{k=1}^{K}
+\left(t_k(w_k^0)^\top+
+\left(t_k u^\top+p_k^\top(U\Lambda^{-1/2}B)^\top\right)W_k\right)x
++\sum_{k=1}^{K}
+\left(t_k d_k^0+
+\left(t_k u^\top+p_k^\top(U\Lambda^{-1/2}B)^\top\right)d_k\right)\\
+={}&\left(1-\sum_{k=1}^{K}t_k\right)s
+-\sum_{k=1}^{K}
+\left(t_k(Au-b)^\top+p_k^\top(U\Lambda^{-1/2}B)^\top A^\top\right)\lambda_k
++\sqrt{r_1}\,\|q_r\|_2-\sum_{k=1}^{K}p_k^\top q_r\\
+&+\left(\gamma_2 I_{n_r}-\sum_{k=1}^{K}P_k\right)\cdot Q_r\\
+&+\left[
+\sum_{k=1}^{K}
+\left(t_k(w_k^0)^\top+
+\left(t_k u^\top+p_k^\top(U\Lambda^{-1/2}B)^\top\right)W_k\right)
+-\sum_{i=1}^{I}\sum_{j=1}^{I}z_{ij}a_{ij}^\top
+\right]x\\
+&+\sum_{k=1}^{K}
+\left(t_k d_k^0+
+\left(t_k u^\top+p_k^\top(U\Lambda^{-1/2}B)^\top\right)d_k\right)
+-\sum_{i=1}^{I}\sum_{j=1}^{I}z_{ij}a_{ij}^0.
+\end{aligned}
+\]

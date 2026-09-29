@@ -1,0 +1,118 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <td rowspan="3" style="text-align: center; vertical-align: middle;">被<br>保<br>险<br>人</td>
+        <td>名称</td>
+        <td colspan="8">甘肃鹏途商贸有限公司</td>
+    </tr>
+    <tr>
+        <td colspan="3">被保险人身份证号码(组织机构代码)</td>
+        <td colspan="6">MA72...</td>
+    </tr>
+    <tr>
+        <td>地址</td>
+        <td colspan="5">长庆北路25号</td>
+        <td colspan="2">联系电话</td>
+        <td>151****6363</td>
+    </tr>
+    <tr>
+        <td rowspan="4" style="text-align: center; vertical-align: middle;">被<br>保<br>险<br>机<br>动<br>车</td>
+        <td>号牌号码</td>
+        <td colspan="2">006448</td>
+        <td colspan="2">机动车种类</td>
+        <td>自卸货车</td>
+        <td colspan="2">使用性质</td>
+        <td>营业货车</td>
+    </tr>
+    <tr>
+        <td>发动机号码</td>
+        <td colspan="2">1422B...</td>
+        <td colspan="2">车辆识别代码</td>
+        <td colspan="4">LZGCR2...</td>
+    </tr>
+    <tr>
+        <td>厂牌型号</td>
+        <td colspan="2">陕汽SX3319HD286自卸汽车</td>
+        <td colspan="2">核定载客</td>
+        <td>2人</td>
+        <td colspan="2">核定载质量</td>
+        <td>15370.000千克</td>
+    </tr>
+    <tr>
+        <td>排量</td>
+        <td colspan="2">0L</td>
+        <td colspan="2">功率</td>
+        <td>294.0000KW</td>
+        <td colspan="2">登记日期</td>
+        <td>2022-04-22</td>
+    </tr>
+    <tr>
+        <td rowspan="3" style="text-align: center; vertical-align: middle;">责<br>任<br>限<br>额</td>
+        <td colspan="2">死亡伤残赔偿限额</td>
+        <td colspan="2">180,000元</td>
+        <td colspan="3">无责任死亡伤残赔偿限额</td>
+        <td colspan="2">18,000元</td>
+    </tr>
+    <tr>
+        <td colspan="2">医疗费用赔偿限额</td>
+        <td colspan="2">18,000元</td>
+        <td colspan="3">无责任医疗费用赔偿限额</td>
+        <td colspan="2">1,800元</td>
+    </tr>
+    <tr>
+        <td colspan="2">财产损失赔偿限额</td>
+        <td colspan="2">2000元</td>
+        <td colspan="3">无责任财产损失赔偿限额</td>
+        <td colspan="2">100元</td>
+    </tr>
+    <tr>
+        <td colspan="10">与道路交通安全违法行为和道路交通事故相联系的浮动比率: 0%</td>
+    </tr>
+    <tr>
+        <td colspan="10">保险费合计(人民币大写): 肆仟肆佰捌拾元整 (¥: 4,480.00元) 其中救助基金(2.00%) (¥: 84.53元)</td>
+    </tr>
+    <tr>
+        <td colspan="10">保险期间: 2022年04月22日16时0分起至2023年04月22日16时0分止</td>
+    </tr>
+    <tr>
+        <td colspan="2">保险合同争议解决方式</td>
+        <td colspan="8">诉讼</td>
+    </tr>
+    <tr>
+        <td rowspan="4" style="text-align: center; vertical-align: middle;">代<br>收<br>车<br>船<br>税</td>
+        <td>整备质量</td>
+        <td colspan="2">15,500.00</td>
+        <td>纳税人识别号</td>
+        <td colspan="5">91621...</td>
+    </tr>
+    <tr>
+        <td>当年应缴</td>
+        <td colspan="2">¥: 1116.00元</td>
+        <td>往年补缴</td>
+        <td colspan="2">¥: 0.00元</td>
+        <td colspan="2">滞纳金</td>
+        <td>¥: 0.00元</td>
+    </tr>
+    <tr>
+        <td colspan="9">合计(人民币大写): 壹仟壹佰壹拾陆元整 (¥: 1116.00元)</td>
+    </tr>
+    <tr>
+        <td colspan="3">完税凭证号(减免税证明号)</td>
+        <td></td>
+        <td colspan="2">开具税务机关</td>
+        <td colspan="3"></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">特<br>别<br>约<br>定</td>
+        <td colspan="9">1. 尊敬的客户: 您本次是通过个人代理渠道购买的车辆保险。代理人姓名: 陈秀琼。佣金比例、金额: 4.0000%、169.06元。联系电话: 18293083602。<br><br>2. 保险期间内, 如发生本保险合同约定的保险事故造成被保险车辆损失或第三者财产损失, 保险人可采取实物赔付或现金赔付方式进行保险赔付。选择采取实物赔付方式的, 由保险人和被保险人在事故车辆修理前签订《实物赔付确认书》。</td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">重<br>要<br>提<br>示</td>
+        <td colspan="9">1. 请详细阅读保险条款, 特别是责任免除和投保人、被保险人义务。 含税总保险费4480.00元, 其中: 不含税保险费总计: 4226.42元, 增值税额总计: 253.58元<br>2. 收到本保险单后, 请立即核对, 如有不符或疏漏, 请及时通知保险人并办理变更或补充手续。<br>3. 保险费应一次性交清, 请您及时核对保险单和发票(收据), 如有不符, 请及时与保险人联系。<br>4. 投保人应如实告知对保险费计算有影响的或被保险机动车因改装、加装、改变使用性质等导致危险程度增加的重要事项, 并及时通知保险人办理批改手续。<br>5. 被保险人应当在交通事故发生后及时通知保险人。</td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">保<br>险<br>人</td>
+        <td colspan="9">公司名称: 中国人民财产保险股份有限公司庆阳市分公司 &nbsp;&nbsp;&nbsp;&nbsp; 公司地址: 甘肃省庆阳市西峰区马莲花大道4号。<br>邮政编码: 745000 &nbsp;&nbsp;&nbsp;&nbsp; 服务电话: 95518<br>签单日期: 2022-04-22 &nbsp;&nbsp;&nbsp;&nbsp; (保险人签章)</td>
+    </tr>
+</table>
+```

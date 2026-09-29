@@ -1,0 +1,11 @@
+$$\int_0^T G(T-s, z(T)-z(s))\,\phi(z(s))\,z'(s)\,ds$$
+
+$$= \sum_{j=1}^{J} A_j \int_0^T \frac{1}{\sqrt{4\pi t}}\, e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t} - pt + q_j z(T-t)}\, z'(T-t)\,dt$$
+
+$$- \nu k \int_0^T \frac{1}{\sqrt{4\pi t}}\, e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t} - pt + z(T-t)}\, z'(T-t)\,dt$$
+
+$$= \sum_{j=1}^{J} A_j \sqrt{T} \int_0^1 \frac{1}{\sqrt{4\pi \varsigma}}\, e^{-\frac{[z(T)-z(\bar{\varsigma}T)-k\varsigma T]^2}{4\varsigma T} - p\varsigma T + q_j z(\bar{\varsigma}T)}\, z'(\bar{\varsigma}T)\,d\varsigma$$
+
+$$- \nu k \sqrt{T} \int_0^1 \frac{1}{\sqrt{4\pi \varsigma}}\, e^{-\frac{[z(T)-z(\bar{\varsigma}T)-k\varsigma T]^2}{4\varsigma T} - p\varsigma T + z(\bar{\varsigma}T)}\, z'(\bar{\varsigma}T)\,d\varsigma$$
+
+$$=: (\text{Term } 1) + (\text{Term } 2).$$

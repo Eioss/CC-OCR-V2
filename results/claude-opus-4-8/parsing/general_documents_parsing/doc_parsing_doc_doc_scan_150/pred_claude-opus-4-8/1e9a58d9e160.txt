@@ -1,0 +1,107 @@
+I'll transcribe this image into LaTeX format, maintaining the structure and content as shown.
+
+```latex
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\begin{document}
+
+\noindent\hfill\texttt{Available online http://breast-cancer-research.com/content/9/5/R71}
+
+\vspace{1em}
+
+\noindent\textbf{Table 1}
+
+\vspace{0.5em}
+
+\noindent\textbf{Genotype and allele frequencies of \textit{BRCA2} -26 and \textit{p53} codon 72 polymorphisms in sporadic breast cancer patients and normal controls}
+
+\vspace{0.5em}
+
+\begin{table}[h]
+\small
+\begin{tabular}{lllllll}
+\toprule
+Genotypes & Patients & Controls & $P^{\mathrm{a}}$ & $P^{\mathrm{b}}$ & $P^{\mathrm{c}}$ & OR [95\% CI]$^{\mathrm{d}}$ \\
+\midrule
+ & $N = 243$ & $N = 333$ & & & & \\
+\midrule
+\textit{BRCA2}, exon 2, -26G$>$A & & & & & & \\
+\quad G/G & 144 (59.3\%) & 157 (47.1\%) & & & - & 1.0 (referent) \\
+\quad G/A & 74 (30.5\%) & 152 (45.6\%) & & & 0.0005$^{*}$ & 0.5 (0.4--0.8) \\
+\quad A/A & 25 (10.3\%) & 24 (7.2\%) & 0.002, 0.116 & 0.001 & 0.677 & 1.1 (0.6--2.1) \\
+\quad A & 74.50\% & 70.00\% & & & 0.092 & 1.2 (1.0--1.6) \\
+\midrule
+\textit{p53}, exon 4, codon 72 Arg$>$Pro & & & & & & \\
+\quad Pro/Pro & 48 (19.8\%) & 97 (29.1\%) & & & - & 1.0 (referent) \\
+\quad Pro/Arg & 109 (44.9\%) & 160 (48.0\%) & & & 0.119 & 1.4 (0.9--2.1) \\
+\quad Arg/Arg & 86 (35.4\%) & 76 (22.8\%) & 0.210, 0.521 & 0.001 & 0.0005$^{*}$ & 2.3 (1.4--3.6) \\
+\quad Pro & 42.20\% & 53.20\% & & & 0.0002$^{*}$ & 0.5 (0.5--0.8) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\footnotesize
+$^{\mathrm{a}}P$ value for Hardy--Weinberg equilibrium testing. $^{\mathrm{b}}P$ value for 3 $\times$ 2 chi-square test of comparison of overall genotype frequencies between breast cancer patients and controls. $^{\mathrm{c,d}}P$ values and corresponding age-adjusted ORs with 95\% CIs for comparison of genotype frequencies between breast cancer patients and controls by logistic regression (not adjusted for age in allele frequency comparisons); the referent genotypes were considered on the basis of highest proportion of a homozygous genotype at any particular locus in the control group. *$P$ values continue to remain significant after applying Bonferroni correction of 2 (2 single-nucleotide polymorphisms tested in a case-control group) to correct for multiple comparisons. CI, confidence interval; OR, odds ratio.
+
+\vspace{1em}
+
+\normalsize
+\noindent\begin{minipage}{0.48\textwidth}
+breast cancer susceptibility, with altered expression as a possibility. We propose that -26 G$>$A polymorphism in the 5$'$ UTR of \textit{BRCA2} has a regulatory role and acts as one of the risk factors, modulating the function of \textit{BRCA2} in breast cancer pathogenesis, further influenced by codon 72 polymorphism in the \textit{p53} gene.
+
+\vspace{0.5em}
+
+The functional characterization of the common G$>$A polymorphism in the \textit{BRCA2} -26 5$'$ UTR by reporter assay revealed that the A allele led to higher expression than the G allele in both HeLa and MCF-7 cell lines. This suggests that the polymorphism might have a role in the regulation of \textit{BRCA2} expression. Upholding the same trend by ADR treatment further implied that the -26 polymorphism might regulate \textit{BRCA2}
+
+\vspace{1em}
+
+\noindent\textbf{Figure 3}
+
+\vspace{0.5em}
+
+\fbox{\begin{minipage}{0.9\textwidth}
+\centering
+\textit{[Bar chart showing PERCENTAGE (\%) on y-axis from 0 to 70]}
+
+\vspace{0.3em}
+\small
+$P=0.076, 0.036, 0.771$ \quad $P=0.025, 0.009, 0.129$ \quad $P=0.148, 0.613, 0.076$
+
+\vspace{0.3em}
+CHROMOSOME 16 \quad CHROMOSOME 17 \quad P53 MUTATION
+
+(ALLELIC IMBALANCE) \quad\quad\quad\quad (EXON 5-8)
+
+\vspace{0.3em}
+Legend: $\blacksquare$ G/G \quad $\blacksquare$ G/A \quad $\blacksquare$ A/A
+\end{minipage}}
+
+\vspace{0.5em}
+
+\footnotesize
+Comparison of allelic imbalance in chromosomes 16 and 17 along with mutation in \textit{p53} on with -26 G$>$A polymorphism background. $P$ values given are for overall distribution, G/G versus G/A, and A/A versus G/A.
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\textwidth}
+expression independent of other factors, specifically to the repression of the \textit{BRCA2} promoter by ADR via \textit{p53} activation [21]. A search for a consensus sequence for the putative transcription factor in the polymorphic site revealed the creation of a C/EBP alpha transcription binding site by the change from G$>$A in the -26 polymorphic position. However, the presence of an OCT1 binding site almost overlapping to this region, not affected by the polymorphism, makes the transcriptional control hypothesis an unlikely one, unless proven by the gel shift or chromatin immunoprecipitation assays. The analysis of the 5$'$ UTR for the RNA secondary structure by two different programs showed that the presence of G at -26 stabilized the loop at the vicinity of the translation start site, which could decrease the efficiency of the translation and thereby decrease the expression of \textit{BRCA2}. This finding of ours is supported by the classic work of Vega Laso and colleagues [47] and Kozak [48], who have argued that the extent of a hairpin negative effect on eukaryotic mRNA translation \textit{in vivo} depends upon its stability and localization within the molecule.
+
+\vspace{0.5em}
+
+The -26 G$>$A polymorphism in the 5$'$ UTR of \textit{BRCA2} has been analyzed in some cancer types. In one study, the -26A allele was reported to show a borderline association with ovarian cancer, but similar results in breast cancer with \textit{BRCA1} mutation carriers were not found [49]. Another study showed a monotonic increase in the frequency of the heterozygous G/A genotype from the lowest to highest risk groups of esophageal squamous cell carcinoma from northern China [50]. Our observation supports a heterozygote-protective model, which has been well recognized in infectious diseases [51] and is
+\end{minipage}
+
+\vspace{2em}
+
+\noindent\hfill Page 5 of 8
+
+\noindent\hfill\footnotesize\textit{(page number not for citation purposes)}
+
+\end{document}
+```
+
+I've transcribed the document maintaining its two-column layout, the data table, the figure description, footnotes, and body text as shown in the image.

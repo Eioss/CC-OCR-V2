@@ -1,0 +1,104 @@
+# 项目管理信息牌
+
+**单位信息 / 工程参数 / 监督电话**
+
+文档编号 SG-056833，日期 2025-08-10
+
+施工/项目名称：星港云栖建设有限公司工程项目（虚构）
+
+单位名称：皓月省星港市星港云栖建设有限公司
+
+工程地点：星海省云栖市东泽区松影路204号 9栋
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1818_337_2090_472.jpg" alt="Image" width="10%" /></div>
+
+项目负责人：韩亦晨　　　　安全员：李知夏　　　　联系电话：17525974238
+
+## 问题跟踪/检查记录表
+
+<table>
+<tr>
+<td>编号<br>（长数字串）</td>
+<td>日期</td>
+<td>问题描述</td>
+<td>严重等级<br>（勾选）</td>
+<td>整改期限</td>
+<td>复核结果<br>（√/×）</td>
+<td>责任人签字</td>
+<td>备注<br>（整改要求）</td>
+</tr>
+<tr>
+<td colspan="8">A区 问题跟踪</td>
+</tr>
+<tr>
+<td>8895631205160086987</td>
+<td>2025.08.11</td>
+<td>围挡破损，需修复</td>
+<td>■严重/□一般</td>
+<td>2025.08.13</td>
+<td>√</td>
+<td>韩亦晨</td>
+<td>已加固</td>
+</tr>
+<tr>
+<td>8895631205160086988</td>
+<td>2025.08.12</td>
+<td>材料堆放混乱</td>
+<td>□严重/■一般</td>
+<td>2025.08.14</td>
+<td></td>
+<td>李知夏</td>
+<td>待整理</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">B区 问题跟踪</td>
+</tr>
+<tr>
+<td>8895631205160086990</td>
+<td>2025.08.15</td>
+<td>安全网未挂设</td>
+<td>■严重/□一般</td>
+<td>2025.08.17</td>
+<td></td>
+<td>韩亦晨</td>
+<td>紧急处理</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">汇总与整改要求</td>
+</tr>
+<tr>
+<td>TOTAL-01</td>
+<td>2025.08.20</td>
+<td>本周问题小计</td>
+<td colspan="4"></td>
+<td>需全部闭环</td>
+</tr>
+<tr>
+<td>NOTE-01</td>
+<td colspan="7">整改要求脚注：所有问题需在期限内完成并复核。</td>
+</tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_389_1198_531_1340.jpg" alt="Image" width="6%" /></div>
+
+https://example.com/doc-44393899

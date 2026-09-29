@@ -1,0 +1,17 @@
+```latex
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|}
+\hline
+Perimeter & \makecell[l]{Square \\ Rectangle} & \makecell[l]{P = 4a \\ P = 2(l+b)} \\ \hline
+Circumference & Circle & C = 2*pi*r \\ \hline
+Area & \makecell[l]{Square \\ Rectangle \\ Triangle \\ Trapezoid \\ Circle} & \makecell[l]{A = a² \\ A = l*b \\ A = bh/2 \\ A = (b₁+b₂)h/2 \\ A = pi*r²} \\ \hline
+Surface Area & \makecell[l]{Cube \\ Cylinder \\ Cone \\ Sphere} & \makecell[l]{S = 6a² \\ S = 2*pi*r*h \\ S = pi*r*l \\ S = 4*pi*r²} \\ \hline
+Volume & \makecell[l]{Cylinder \\ Cone \\ Sphere} & \makecell[l]{V = bh \\ V = bh/3 \\ V = 4 * pi *r³/3} \\ \hline
+Pythagorus Theorem & \multicolumn{2}{c|}{$$a^2 + b^2 = c^2$$} \\ \hline
+Distance Formula & \multicolumn{2}{c|}{$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$} \\ \hline
+Slope of a line & \multicolumn{2}{c|}{$$m = \frac{y_2 - y_1}{x_2 - x_1}$$} \\ \hline
+Midpoint Formula & \multicolumn{2}{c|}{$$M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)$$} \\ \hline
+\end{tabular}
+\end{table}
+```

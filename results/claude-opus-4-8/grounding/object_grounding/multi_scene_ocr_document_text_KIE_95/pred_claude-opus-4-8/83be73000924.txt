@@ -1,0 +1,6 @@
+[{"bbox_2d": [55, 624, 350, 657], "label": "date"},
+{"bbox_2d": [54, 670, 351, 705], "label": "doc_no_receipt_no"},
+{"bbox_2d": [161, 274, 614, 419], "label": "seller_address"},
+{"bbox_2d": [258, 471, 484, 503], "label": "seller_name"},
+{"bbox_2d": [521, 1019, 668, 1052], "label": "total_amount"},
+{"bbox_2d": [615, 1182, 685, 1217], "label": "total_tax"}]

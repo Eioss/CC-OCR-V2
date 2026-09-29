@@ -1,0 +1,16 @@
+Based on the provided charts, we can find the values for Germany in both "Cases per million population" and "Deaths per million population".
+
+1.  **Find Cases per million population for Germany:**
+    *   Look at the middle chart titled **"Cases per million population"**.
+    *   The bar for **Germany** has the value **2158**.
+
+2.  **Find Deaths per million population for Germany:**
+    *   Look at the top-right chart titled **"Deaths per million population"**.
+    *   The bar for **Germany** has the value **101**.
+
+3.  **Calculate the difference:**
+    *   Difference = Cases per million - Deaths per million
+    *   Difference = 2158 - 101
+    *   Difference = **2057**
+
+Therefore, the difference between cases and deaths per million population in Germany is **2057**.

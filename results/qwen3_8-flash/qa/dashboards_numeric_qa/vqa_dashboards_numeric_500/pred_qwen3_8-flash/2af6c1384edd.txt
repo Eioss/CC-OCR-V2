@@ -1,0 +1,22 @@
+To find the number of Queer female characters **other than Lesbian**, we subtract the number of Lesbian characters from the total.
+
+From the infographic:
+
+- **Total Characters**: 258  
+- **Lesbian**: 139  
+
+So,
+
+> **Other than Lesbian = Total - Lesbian = 258 - 139 = 119**
+
+We can also verify this by adding the other categories:
+
+- **Bisexual**: 109  
+- **Undetermined**: 10  
+→ 109 + 10 = **119**
+
+✅ Both methods confirm the result.
+
+---
+
+**Final Answer: `119`**

@@ -1,0 +1,27 @@
+Based on the provided timeline from *The Lancet* (published February 15, 2020), here’s what we can observe:
+
+- The timeline begins at **Day 0** with **“Onset of symptoms”**, which includes fever (in 98% of patients), cough (75%), myalgia or fatigue (44%), and others.
+- **Hospital admission** occurs at a **median of Day 7**.
+- The next labeled event after hospital admission is **“Shortness of breath”**, which appears at **Day 8** — just one day after median hospital admission.
+- Then comes **ARDS (Acute Respiratory Distress Syndrome)** at **Day 9**, followed by **Intensive care unit admission** at **Day 10–11**.
+
+---
+
+### So, what is the first symptom observed *after* admitting to the hospital?
+
+According to this timeline, **shortness of breath** is the first *specifically labeled symptom or clinical event* that occurs **after** hospital admission (at Day 8).
+
+> ⚠️ Important note: This does not mean shortness of breath *starts* only after admission — it likely developed around the time of admission or shortly before. But since the timeline marks “onset of symptoms” at Day 0 and then jumps to “hospital admission” at Day 7, the next *newly marked* clinical development is **shortness of breath at Day 8**.
+
+Also, recall that “onset of symptoms” already included fever, cough, etc. — so those are pre-admission symptoms.
+
+---
+
+✅ **Final Answer: Shortness of breath**
+
+*(It is the first new symptom/clinical milestone shown on the timeline occurring after hospital admission.)*
+
+---
+
+📌 Source: Huang C, Wang Y, Xingwang L, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. *The Lancet* 2020; published online February 15.  
+*(Note: Data reflects early cases from Wuhan; more recent data may differ.)*

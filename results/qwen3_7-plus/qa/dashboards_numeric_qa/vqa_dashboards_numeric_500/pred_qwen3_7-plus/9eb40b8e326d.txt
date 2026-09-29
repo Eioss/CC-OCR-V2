@@ -1,0 +1,23 @@
+To calculate the **percentage decrease in spam mail from 2010 to 2013**, we use the data provided:
+
+- **2010 Spam**: 89%
+- **2013 Spam**: 69%
+
+---
+
+### Step 1: Find the absolute decrease
+> 89% - 69% = **20 percentage points**
+
+---
+
+### Step 2: Calculate the percentage decrease *relative to the original (2010) value*
+
+> Percentage Decrease = (Decrease / Original Value) × 100  
+> = (20 / 89) × 100  
+> ≈ **22.47%**
+
+---
+
+✅ **Final Answer: Approximately 22.5%**
+
+*(Note: The question asks “how much percentage of spam mail decreased” — this is interpreted as the relative percentage decrease from the 2010 baseline, not just the point difference.)*

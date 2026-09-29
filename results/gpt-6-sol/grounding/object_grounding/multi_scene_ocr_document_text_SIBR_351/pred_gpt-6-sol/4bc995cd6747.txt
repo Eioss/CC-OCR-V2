@@ -1,0 +1,19 @@
+[
+  {"bbox_2d":[410,355,526,371],"label":"1. Packing"},
+  {"bbox_2d":[410,374,455,391],"label":"2. Shipping Marks"},
+  {"bbox_2d":[410,413,520,428],"label":"4. Port of loading"},
+  {"bbox_2d":[410,433,574,448],"label":"5. Port of destination"},
+  {"bbox_2d":[410,452,447,467],"label":"6. Terms of payment"},
+  {"bbox_2d":[410,468,516,483],"label":"7. Insurance"},
+  {"bbox_2d":[290,85,663,97],"label":"Add"},
+  {"bbox_2d":[68,64,450,83],"label":"Company Name"},
+  {"bbox_2d":[742,133,864,188],"label":"Contract No."},
+  {"bbox_2d":[742,190,829,204],"label":"Date"},
+  {"bbox_2d":[78,299,250,315],"label":"Name of Commodity and specifications"},
+  {"bbox_2d":[302,319,345,335],"label":"Quantity PCS"},
+  {"bbox_2d":[75,505,875,825],"label":"REMARKS"},
+  {"bbox_2d":[239,104,709,133],"label":"Title"},
+  {"bbox_2d":[75,148,393,202],"label":"To Messrs"},
+  {"bbox_2d":[572,338,679,352],"label":"Total Amount CNY"},
+  {"bbox_2d":[429,319,492,335],"label":"Unit Price CNY"}
+]

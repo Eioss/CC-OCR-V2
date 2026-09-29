@@ -1,0 +1,54 @@
+<p>单位：星海省皓月市岚原极光信息技术有限公司　|　负责人：孙雨桐　|　联系电话：15263076958</p>
+<p>地址：青岚省皓月市新栖区兴业路112号 6栋　　文档编号 RB-348607　　日期 2024-08-21</p>
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1114_128_1175_189.jpg" alt="Image" width="6%" /></div>
+<p>https://example.com/doc-28370661</p>
+<h1>物资储备台账 / 器材点检表</h1>
+
+<table>
+  <tr>
+    <td>A. 费用收支对比</td>
+    <td colspan="5">金额对比</td>
+  </tr>
+  <tr>
+    <td>项目</td>
+    <td>本期</td>
+    <td>上期</td>
+    <td>差额</td>
+    <td>占比</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <td>外协费 √</td>
+    <td>2.5万</td>
+    <td>1.1万</td>
+    <td>+0.2万</td>
+    <td>25%</td>
+    <td>发票 √</td>
+  </tr>
+  <tr>
+    <td>耗材费 ○</td>
+    <td>0.8万</td>
+    <td>1.0万</td>
+    <td>−0.1万</td>
+    <td>9%</td>
+    <td>无</td>
+  </tr>
+  <tr>
+    <td>维修费</td>
+    <td>1.2万</td>
+    <td>1.0万</td>
+    <td>+0.2万</td>
+    <td>12%</td>
+    <td>待审批</td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td colspan="3">本期总额</td>
+    <td colspan="2">备注</td>
+  </tr>
+  <tr>
+    <td>合计</td>
+    <td colspan="3">7.2万</td>
+    <td colspan="2">已对账 孙、</td>
+  </tr>
+</table>

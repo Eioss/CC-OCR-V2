@@ -1,0 +1,53 @@
+<table>
+  <caption>1-5 各高新区企业人员情况 — Personnel Statistics of Enterprises in National Hi-tech Zones（单位：人 / person）</caption>
+  <tr><td colspan="2">地区 / Region</td><td>年末从业人员 / Year End Number of Employees</td><td>留学归国人员 / Returned Overseas Scholars</td><td>外籍常驻人员 / Foreign Personnel in Residence</td><td>大专以上 / College and Higher Level</td></tr>
+  <tr><td>合计</td><td>Total</td><td>18059323</td><td>117685</td><td>57708</td><td>9890957</td></tr>
+  <tr><td>北京中关村</td><td>Beijing Zhongguancun</td><td>2482615</td><td>30197</td><td>7153</td><td>1846334</td></tr>
+  <tr><td>天津滨海</td><td>Tianjin Binhai</td><td>372824</td><td>3030</td><td>2349</td><td>238907</td></tr>
+  <tr><td>石家庄</td><td>Shijiazhuang</td><td>119325</td><td>510</td><td>108</td><td>88001</td></tr>
+  <tr><td>唐山</td><td>Tangshan</td><td>16573</td><td>44</td><td>46</td><td>9037</td></tr>
+  <tr><td>保定</td><td>Baoding</td><td>114303</td><td>157</td><td>311</td><td>38418</td></tr>
+  <tr><td>承德</td><td>Chengde</td><td>12064</td><td>5</td><td></td><td>5301</td></tr>
+  <tr><td>燕郊</td><td>Yanjiao</td><td>36018</td><td>107</td><td>168</td><td>14350</td></tr>
+  <tr><td>太原</td><td>Taiyuan</td><td>119348</td><td>193</td><td>20</td><td>74476</td></tr>
+  <tr><td>长治</td><td>Changzhi</td><td>50892</td><td>9</td><td>1</td><td>21387</td></tr>
+  <tr><td>呼和浩特</td><td>Hohhot</td><td>59228</td><td>68</td><td>12</td><td>36594</td></tr>
+  <tr><td>包头</td><td>Baotou</td><td>90820</td><td>339</td><td>33</td><td>41983</td></tr>
+  <tr><td>沈阳</td><td>Shenyang</td><td>109696</td><td>483</td><td>62</td><td>70124</td></tr>
+  <tr><td>大连</td><td>Dalian</td><td>180671</td><td>4708</td><td>927</td><td>123822</td></tr>
+  <tr><td>鞍山</td><td>Anshan</td><td>38375</td><td>131</td><td>17</td><td>19757</td></tr>
+  <tr><td>本溪</td><td>Benxi</td><td>9343</td><td>18</td><td>3</td><td>3937</td></tr>
+  <tr><td>锦州</td><td>Jinzhou</td><td>21379</td><td>10</td><td>16</td><td>7965</td></tr>
+  <tr><td>营口</td><td>Yingkou</td><td>34260</td><td>113</td><td>19</td><td>8695</td></tr>
+  <tr><td>阜新</td><td>Fuxin</td><td>17436</td><td>7</td><td>1</td><td>4652</td></tr>
+  <tr><td>辽阳</td><td>Liaoyang</td><td>38976</td><td>27</td><td>9</td><td>14561</td></tr>
+  <tr><td>长春</td><td>Changchun</td><td>171482</td><td>1876</td><td>766</td><td>109101</td></tr>
+  <tr><td>长春净月</td><td>Changchun Jingyue</td><td>135130</td><td>819</td><td>155</td><td>103451</td></tr>
+  <tr><td>吉林</td><td>Jilin</td><td>68126</td><td>34</td><td></td><td>40388</td></tr>
+  <tr><td>通化</td><td>Tonghua</td><td>78556</td><td>22</td><td>1</td><td>31755</td></tr>
+  <tr><td>延吉</td><td>Yanji</td><td>13385</td><td>11</td><td>23</td><td>8061</td></tr>
+  <tr><td>哈尔滨</td><td>Harbin</td><td>96524</td><td>169</td><td>9</td><td>58560</td></tr>
+  <tr><td>齐齐哈尔</td><td>Qiqihaer</td><td>25689</td><td>25</td><td></td><td>11318</td></tr>
+  <tr><td>大庆</td><td>Daqing</td><td>112391</td><td>85</td><td>135</td><td>54525</td></tr>
+  <tr><td>上海张江</td><td>Shanghai Zhangjiang</td><td>913156</td><td>9635</td><td>8043</td><td>617316</td></tr>
+  <tr><td>上海紫竹</td><td>Shanghai Zizhu</td><td>22112</td><td>1801</td><td>542</td><td>19053</td></tr>
+  <tr><td>南京</td><td>Nanjing</td><td>249453</td><td>1266</td><td>582</td><td>150368</td></tr>
+  <tr><td>无锡</td><td>Wuxi</td><td>247778</td><td>4740</td><td>3209</td><td>137121</td></tr>
+  <tr><td>江阴</td><td>Jiangyin</td><td>93021</td><td>359</td><td>225</td><td>26729</td></tr>
+  <tr><td>徐州</td><td>Xuzhou</td><td>40793</td><td>49</td><td>14</td><td>22329</td></tr>
+  <tr><td>常州</td><td>Changzhou</td><td>164026</td><td>1717</td><td>1308</td><td>84008</td></tr>
+  <tr><td>武进</td><td>Wujin</td><td>108299</td><td>367</td><td>386</td><td>48532</td></tr>
+  <tr><td>苏州</td><td>Suzhou</td><td>225468</td><td>1418</td><td>1881</td><td>101999</td></tr>
+  <tr><td>昆山</td><td>Kunshan</td><td>186631</td><td>344</td><td>1161</td><td>60639</td></tr>
+  <tr><td>常熟</td><td>Changshu</td><td>77048</td><td>217</td><td>643</td><td>25000</td></tr>
+  <tr><td>南通</td><td>Nantong</td><td>95920</td><td>366</td><td>53</td><td>60937</td></tr>
+  <tr><td>连云港</td><td>Lianyungang</td><td>41237</td><td>72</td><td>30</td><td>26197</td></tr>
+  <tr><td>盐城</td><td>Yancheng</td><td>54662</td><td>138</td><td>241</td><td>13333</td></tr>
+  <tr><td>扬州</td><td>Yangzhou</td><td>37670</td><td>109</td><td>40</td><td>15563</td></tr>
+  <tr><td>镇江</td><td>Zhenjiang</td><td>65132</td><td>99</td><td>85</td><td>26936</td></tr>
+  <tr><td>泰州</td><td>Taizhou</td><td>46738</td><td>218</td><td>80</td><td>28349</td></tr>
+  <tr><td>杭州</td><td>Hangzhou</td><td>291863</td><td>2354</td><td>785</td><td>223868</td></tr>
+  <tr><td>萧山临江</td><td>Xiaoshan Linjiang</td><td>70975</td><td>56</td><td>132</td><td>19273</td></tr>
+  <tr><td>宁波</td><td>Ningbo</td><td>171125</td><td>527</td><td>143</td><td>63771</td></tr>
+  <tr><td>温州</td><td>Wenzhou</td><td>108791</td><td>55</td><td>34</td><td>19783</td></tr>
+</table>

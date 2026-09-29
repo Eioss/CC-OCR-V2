@@ -1,0 +1,99 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\textbf{MODEL QUESTION PAPER}
+\end{center}
+
+\noindent CLASS : IV \hfill SUB:MATHS
+
+\vspace{0.3cm}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+COMP & FNC & UBC & AIC & PSA & ORAL & Total & Tr's sign \\
+ & (15) & (20) & (20) & (15) & (30) & (100) & \\
+\hline
+MARKS & & & & & & & \\
+\hline
+GRADE & & & & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\underline{I. FORMING NUMBERS CORRECTLY} (15 marks)
+\end{center}
+
+\noindent (1) \underline{Fill in the blanks} \hfill (5x1=5)
+
+\begin{itemize}
+\item[a.] Arrange \textbf{5, 3, 7, 2} to form the smallest 4 digit number \underline{\hspace{2cm}} \\
+and the greatest 4 digit number \underline{\hspace{2cm}}
+
+\item[b.] $1000 + 300 + 4 =$ \underline{\hspace{2cm}}
+
+\item[c.] Expand $4287 = 4000 +$ \underline{\hspace{1.5cm}} $+$ \underline{\hspace{1.5cm}} $+ 7$
+
+\item[d.] 1 kilometre = \underline{\hspace{1.5cm}} metres and 1 metre = \underline{\hspace{1.5cm}} cm
+
+\item[e.] A brick has \underline{\hspace{1.5cm}} faces and \underline{\hspace{1.5cm}} edges.
+\end{itemize}
+
+\noindent (2) \underline{Do as directed} \hfill (5x2= 10)
+
+\noindent (i) \underline{Write the place value of 4 in each number.}
+
+\vspace{0.3cm}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+4 & 6 & 0 & 9 \\
+\hline
+\end{tabular}
+\hspace{0.5cm} $\longrightarrow$ \hspace{0.5cm} \underline{\hspace{3cm}}
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+6 & 3 & 4 & 7 \\
+\hline
+\end{tabular}
+\hspace{0.5cm} $\longrightarrow$ \hspace{0.5cm} \underline{\hspace{3cm}}
+\end{center}
+
+\noindent (ii) \underline{Encircle the pairs of numbers which when added makes more than 500?}
+
+\begin{itemize}
+\item[a.] 152 and 241
+\item[b.] 321 and 192
+\item[c.] 420 and 184
+\item[d.] 209 and 290
+\end{itemize}
+
+\noindent (iii) \underline{Express as 24- hours clock time}
+
+\begin{itemize}
+\item[a.] 3.15 a.m \underline{\hspace{3cm}}
+\item[b.] 7.40 p.m \underline{\hspace{3cm}}
+\end{itemize}
+
+\noindent (iv) \underline{In a circle , if the lengths of the:}
+
+\begin{itemize}
+\item[(a)] Radius is 4 cm, then the Diameter is \underline{\hspace{3cm}}
+\item[(b)] Diameter is 12 cm, then the Radius is \underline{\hspace{3cm}}
+\end{itemize}
+
+\end{document}
+```

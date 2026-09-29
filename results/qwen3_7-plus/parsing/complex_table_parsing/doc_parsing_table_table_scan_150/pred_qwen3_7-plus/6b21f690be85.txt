@@ -1,0 +1,69 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" style="border-collapse: collapse; width: 100%;">
+   <thead><tr><th colspan="2">Gold Labels</th>
+     <th>Gold</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>0</td>
+     <td>abstract l<br/>rating summary</td>
+     <td>[this work adapts cycle GAN to the problem of decipherment with some success.]$\leftarrow$<b>ABSTRACT</b><br/>[it's still an early result, but all the reviewers have found it to be interesting and worthwhile for publication.]$\leftarrow$<b>RATING SUMMARY</b></td>
+    </tr>
+    <tr>
+     <th colspan="2">Control Sequence</th>
+     <th>Generated Passage</th>
+    </tr>
+    <tr>
+     <td>1</td>
+     <td>abstract l<br/>rating summary</td>
+     <td>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]$\leftarrow$<b>ABSTRACT</b><br/>[The reviewers were unanimous in their vote to accept.]$\leftarrow$<b>RATING SUMMARY</b></td>
+    </tr>
+    <tr>
+     <td>2</td>
+     <td>abstract l abstract l<br/>rating summary</td>
+     <td>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]$\leftarrow$<b>ABSTRACT</b><br/>[The proposed method is based on replacing the log loss of the GAN with a quadratic loss and regularizing the Jacobian of the discriminator.]$\leftarrow$<b>ABSTRACT</b><br/>[The reviewers were unanimous in their vote to accept.]$\leftarrow$<b>RATING SUMMARY</b></td>
+    </tr>
+    <tr>
+     <td>3</td>
+     <td>strength l decision</td>
+     <td>[The reviewers agree that the paper is well-written, the problem is interesting, and the proposed method is novel.]$\leftarrow$<b>STRENGTH</b><br/>[The paper should be accepted.]$\leftarrow$<b>DECISION</b></td>
+    </tr>
+    <tr>
+     <td>4</td>
+     <td>misc l abstract l<br/>strength l decision</td>
+     <td>[Thanks for your submission to ICLR.]$\leftarrow$<b>MISC</b><br/>[This paper proposes a method for using cycle GANs to decipher text encrypted with historical ciphers.]$\leftarrow$<b>ABSTRACT</b><br/>[This is an interesting and fairly original problem, and the proposed method is shown to be very effective.]$\leftarrow$<b>STRENGTH</b><br/>[All reviewers agree that the paper is well written, and I'm happy to recommend acceptance.]$\leftarrow$<b>DECISION</b></td>
+    </tr>
+    <tr>
+     <td>5</td>
+     <td>weakness l<br/>rebuttal process</td>
+     <td>[ The reviewers raised a number of concerns including the correctness of the proof, the lack of a simple baseline, and the presentation of the paper.]$\leftarrow$<b>WEAKNESS</b><br/>[The authors' rebuttal addressed some of these concerns, but not to the degree that the reviewers felt it should be.]$\leftarrow$<b>REBUTTAL PROCESS</b></td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

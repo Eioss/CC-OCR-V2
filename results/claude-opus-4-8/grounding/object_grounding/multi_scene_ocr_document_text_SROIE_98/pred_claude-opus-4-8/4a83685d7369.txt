@@ -1,0 +1,4 @@
+[{"bbox_2d": [320, 524, 882, 568], "label": "address"},
+{"bbox_2d": [314, 437, 838, 462], "label": "company"},
+{"bbox_2d": [395, 481, 696, 502], "label": "date"},
+{"bbox_2d": [834, 770, 995, 791], "label": "total"}]

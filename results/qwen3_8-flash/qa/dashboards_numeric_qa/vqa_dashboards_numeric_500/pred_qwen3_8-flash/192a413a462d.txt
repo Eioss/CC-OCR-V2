@@ -1,0 +1,20 @@
+Based on the image provided, let's count the sources listed in the "Sources" section at the very bottom left.
+
+Here is the list of URLs as they appear:
+
+1.  `http://blog.zintro.com/2009/11/5355/`
+2.  `http://www.simplyhired.com/salary/search?q=consultant`
+3.  `http://news.cnet.com8160-20402_3-271836.html` (Note: This appears to be a malformed URL in the graphic)
+4.  `http://www.techrepublic.com/article/where-should-you-incorporate-your-consulting-firm/1031226`
+5.  `http://www.cnbc.com/id/30160118/display/print/consulting-survey-results.html`
+6.  `http://www.investopedia.com/financial-edge/0106/top-6-consulting-fields-to-get-into-now.aspx#axzz2A8G5PBbB`
+7.  `http://www.forbes.com/sites/...much-cost-start-consulting-business_item` (The full URL is cut off or poorly formatted in the image, but it represents one source entry)
+8.  `http://consultantjournal.com/how-to-become-a-consultant`
+9.  `http://www.punktresearch.com/consulting-market-research-industry-trends`
+10. `http://www.mbopartners.com/#inforyou`
+
+Counting each distinct line item under the "Sources:" heading gives us **10** sources.
+
+---
+
+**Answer: 10**

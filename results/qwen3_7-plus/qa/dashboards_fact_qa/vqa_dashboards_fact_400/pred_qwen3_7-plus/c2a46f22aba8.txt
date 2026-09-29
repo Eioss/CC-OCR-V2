@@ -1,0 +1,9 @@
+The infographic mentions **three basic approaches** that all modern search engines use to organize websites:
+
+1. **Crawling** – Search engines follow links to browse the web’s pages.
+2. **Sorting** – Results are sorted by a variety of factors (e.g., relevance, keywords, location).
+3. **Indexing** – Sorted pages are stored in an index so search engines can match queries with results faster.
+
+These three steps — Crawling, Sorting, and Indexing — form the foundational process for how search engines organize and retrieve web content.
+
+✅ So, the answer is: **3 approaches**.

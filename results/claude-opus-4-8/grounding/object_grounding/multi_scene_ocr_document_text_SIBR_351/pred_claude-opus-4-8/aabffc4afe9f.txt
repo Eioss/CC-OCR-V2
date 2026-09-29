@@ -1,0 +1,26 @@
+```json
+[
+  {"bbox_2d": [202, 88, 1052, 162], "label": "COMPANY NAME"},
+  {"bbox_2d": [136, 217, 1029, 290], "label": "COMPANY NAME"},
+  {"bbox_2d": [496, 333, 729, 387], "label": "TITLE"},
+  {"bbox_2d": [56, 360, 1090, 384], "label": "COMPANY NAME"},
+  {"bbox_2d": [55, 533, 633, 575], "label": "COMPANY NAME"},
+  {"bbox_2d": [54, 605, 624, 643], "label": "ADDRESS"},
+  {"bbox_2d": [80, 690, 363, 723], "label": "P.C."},
+  {"bbox_2d": [80, 730, 297, 760], "label": "RUC"},
+  {"bbox_2d": [78, 765, 449, 799], "label": "Tel"},
+  {"bbox_2d": [80, 806, 281, 837], "label": "NAME"},
+  {"bbox_2d": [777, 437, 1131, 470], "label": "INVOICE NO."},
+  {"bbox_2d": [776, 524, 1101, 559], "label": "INVOICE DATE"},
+  {"bbox_2d": [776, 611, 1037, 644], "label": "S/C NO"},
+  {"bbox_2d": [202, 1018, 372, 1056], "label": "Transport details"},
+  {"bbox_2d": [676, 1015, 1244, 1058], "label": "Terms of payment"},
+  {"bbox_2d": [170, 1152, 320, 1185], "label": "Marks & Nos."},
+  {"bbox_2d": [383, 1182, 631, 1287], "label": "Marks & Nos."},
+  {"bbox_2d": [414, 1142, 627, 1175], "label": "Description of Goods"},
+  {"bbox_2d": [726, 1187, 813, 1217], "label": "Quantity"},
+  {"bbox_2d": [859, 1185, 1012, 1218], "label": "Unit price"},
+  {"bbox_2d": [1062, 1183, 1203, 1217], "label": "Amount"},
+  {"bbox_2d": [1098, 1300, 1209, 1334], "label": "Amount"}
+]
+```

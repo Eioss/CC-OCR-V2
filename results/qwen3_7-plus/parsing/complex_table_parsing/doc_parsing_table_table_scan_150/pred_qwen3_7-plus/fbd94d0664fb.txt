@@ -1,0 +1,257 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        ignoreHtmlClass: "tex2jax_ignore",
+                        processHtmlClass: "tex2jax_process"
+                        }
+                    };
+  </script>
+  <script crossorigin="anonymous" integrity="sha256-Gj1+4oXZz+9p0YQ2g4cXh5v3w2x1y0z9A8b7c6d5e4f3g2h1i0j9k8l7m6n5o4p3q2r1s0t9u8v7w6x5y4z3A2B1C==" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_HTMLorMML">
+  </script>
+  <style>
+   table {
+            border-collapse: collapse;
+            width: 100%;
+            box-shadow: 1px 2px 12px #ddd;
+        }
+        th, td {
+            border-bottom: 1px solid #ddd;
+            padding: 10px 15px;
+        }
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        th {
+            background: #1E90FF;
+            color: white;
+        }
+
+        .md-table-edit {
+            margin-top: -29px;
+            margin-left: 5px;
+            position: absolute;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th colspan="8">头部公募基金利润贡献情况（亿元）</th>
+    </tr>
+    <tr>
+     <th rowspan="2">公募基金</th>
+     <th rowspan="2">持股比例</th>
+     <th colspan="3">公募净利润</th>
+     <th colspan="3">对券商归属净利润</th>
+    </tr>
+    <tr>
+     <th>(2021)</th>
+     <th>(2020)</th>
+     <th>同比 (%)</th>
+     <th>贡献度 (2021)</th>
+     <th>贡献度 (2020)</th>
+     <th>同比变动 (pct)</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="2">兴业证券</td>
+     <td>兴证全球</td>
+     <td>51.00%</td>
+     <td>22.35</td>
+     <td>15.97</td>
+     <td>39.9%</td>
+     <td>28.2%</td>
+     <td>23.7%</td>
+     <td>+4.47</td>
+    </tr>
+    <tr>
+     <td>南方基金</td>
+     <td>9.15%</td>
+     <td>21.63</td>
+     <td>14.84</td>
+     <td>45.8%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td rowspan="2">东方证券</td>
+     <td>汇添富基金</td>
+     <td>35.41%</td>
+     <td>32.63</td>
+     <td>25.66</td>
+     <td>27.1%</td>
+     <td>48.3%</td>
+     <td>63.1%</td>
+     <td>-14.84</td>
+    </tr>
+    <tr>
+     <td>东证资管</td>
+     <td>100.00%</td>
+     <td>14.38</td>
+     <td>8.10</td>
+     <td>77.5%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td rowspan="2">广发证券</td>
+     <td>广发基金</td>
+     <td>54.53%</td>
+     <td>26.07</td>
+     <td>18.24</td>
+     <td>43.0%</td>
+     <td>22.6%</td>
+     <td>17.4%</td>
+     <td>+5.12</td>
+    </tr>
+    <tr>
+     <td>易方达基金</td>
+     <td>22.65%</td>
+     <td>45.35</td>
+     <td>27.50</td>
+     <td>64.9%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td rowspan="2">招商证券</td>
+     <td>博时基金</td>
+     <td>49.00%</td>
+     <td>17.79</td>
+     <td>12.47</td>
+     <td>42.6%</td>
+     <td>13.7%</td>
+     <td>10.7%</td>
+     <td>+2.95</td>
+    </tr>
+    <tr>
+     <td>招商基金</td>
+     <td>45.00%</td>
+     <td>16.03</td>
+     <td>9.04</td>
+     <td>77.3%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>申万宏源</td>
+     <td>申万菱信</td>
+     <td>67.00%</td>
+     <td>1.25</td>
+     <td>1.04</td>
+     <td>20.8%</td>
+     <td>8.5%</td>
+     <td>6.8%</td>
+     <td>+1.70</td>
+    </tr>
+    <tr>
+     <td rowspan="3">华泰证券</td>
+     <td>富国基金</td>
+     <td>27.77%</td>
+     <td>25.64</td>
+     <td>16.52</td>
+     <td>55.2%</td>
+     <td rowspan="2">8.2%</td>
+     <td rowspan="2">6.9%</td>
+     <td rowspan="2">+1.30</td>
+    </tr>
+    <tr>
+     <td>华泰柏瑞</td>
+     <td>49.00%</td>
+     <td>4.13</td>
+     <td>2.72</td>
+     <td>52.1%</td>
+    </tr>
+    <tr>
+     <td>南方基金</td>
+     <td>41.16%</td>
+     <td>21.63</td>
+     <td>14.84</td>
+     <td>45.7%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td rowspan="2">海通证券</td>
+     <td>海富通基金</td>
+     <td>51.00%</td>
+     <td>5.30</td>
+     <td>3.78</td>
+     <td>40.2%</td>
+     <td>7.7%</td>
+     <td>6.0%</td>
+     <td>+1.70</td>
+    </tr>
+    <tr>
+     <td>富国基金</td>
+     <td>27.78%</td>
+     <td>25.64</td>
+     <td>16.52</td>
+     <td>55.2%</td>
+     <td></td>
+     <td></td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>中信证券</td>
+     <td>华夏基金</td>
+     <td>62.20%</td>
+     <td>23.12</td>
+     <td>15.98</td>
+     <td>44.7%</td>
+     <td>6.2%</td>
+     <td>6.7%</td>
+     <td>-0.5</td>
+    </tr>
+    <tr>
+     <td>国泰君安</td>
+     <td>华安基金</td>
+     <td>28.00%</td>
+     <td>10.06</td>
+     <td>7.11</td>
+     <td>41.5%</td>
+     <td>1.9%</td>
+     <td>1.8%</td>
+     <td>+0.1</td>
+    </tr>
+    <tr>
+     <td>中泰证券</td>
+     <td>万家基金</td>
+     <td>49.00%</td>
+     <td>3.06</td>
+     <td>2.19</td>
+     <td>39.9%</td>
+     <td>4.7%</td>
+     <td>4.2%</td>
+     <td>+0.5</td>
+    </tr>
+   </tbody>
+   <tfoot>
+    <tr>
+     <td colspan="9">资料来源：公司公告，西部证券研发中心</td>
+    </tr>
+   </tfoot>
+  </table>
+ </body>
+</html>
+
+```

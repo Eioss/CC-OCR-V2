@@ -1,0 +1,115 @@
+```latex
+\begin{center}
+    \Large{\textbf{Physics Formula Sheet}}
+    
+    \large{\textbf{Mechanics}}
+    \hrulefill
+    \normalsize
+    
+    $x = x_0 + v_{x0}t + \frac{1}{2}a_x t^2$ \hfill $a_c = \frac{v^2}{r}$ \hfill $|\vec{F}_{spring}| = k|\vec{x}|$ \\[1em]
+    $v = v_0 + at$ \hfill $\theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2$ \hfill $PE_{spring} = \frac{1}{2}kx^2$ \\[1em]
+    $v_x^2 - v_{x0}^2 = 2a(x-x_0)$ \hfill $\omega = \omega_0 + \alpha t$ \hfill $T_{spring} = 2\pi\sqrt{\frac{m}{k}}$ \\[1em]
+    $\vec{a} = \frac{\Sigma \vec{F}}{m} = \frac{\vec{F}_{net}}{m}$ \hfill $T = \frac{2\pi}{\omega} = \frac{1}{f}$ \hfill $T_{pendulum} = 2\pi\sqrt{\frac{l}{g}}$ \\[1em]
+    $|\vec{F}_{friction}| \leq \mu |\vec{F}_{Normal}|$ \hfill $v = f\lambda$ \\[1em]
+    $\vec{p} = m\vec{v}$ \hfill $x = A\cos(2\pi ft)$ \hfill $|\vec{F}_{gravity}| = G\frac{m_1 m_2}{r^2}$ \\[1em]
+    $\Delta\vec{p} = \vec{F}\Delta t$ \hfill $\vec{\alpha} = \frac{\Sigma \vec{\tau}}{I} = \frac{\vec{\tau}_{net}}{I}$ \hfill $|\vec{F}_{gravity}| = m\vec{g}$ \\[1em]
+    $KE = \frac{1}{2}mv^2$ \hfill $\vec{\tau} = r \times F$ \hfill $PE_{gravity} = -G\frac{m_1 m_2}{r}$ \\[1em]
+    $\Delta PE = mg\Delta y$ \hfill $L = I\omega$ \hfill $\rho = \frac{m}{V}$ \\[1em]
+    $\Delta E = W = Fd\cos\theta$ \hfill $\Delta L = \tau\Delta t$ \hfill $KE = \frac{1}{2}I\omega^2$ \\[1em]
+
+    \bigskip
+    \hrulefill
+    \large{\textbf{Electricity}}
+    \hrulefill
+    \normalsize
+    
+    $|\vec{F}_E| = k\left|\frac{q_1 q_2}{r^2}\right|$ \hfill $\Delta V = IR$ \hfill $R = \frac{\rho l}{A}$ \\[1em]
+    $I = \frac{\Delta q}{\Delta t}$ \hfill $P = I\Delta V$ \\[1em]
+    $R_{series} = R_1 + R_2 + ... + R_n$ \hfill $\frac{1}{R_{parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + ... + \frac{1}{R_n}$ \\[1em]
+
+    \bigskip
+    \hrulefill
+    \large{\textbf{Geometry}}
+    \hrulefill
+    \normalsize
+    
+    Rectangle \quad $A = bh$ \hfill Rectangular Solid \quad $V = lwh$ \hfill Triangle \quad $A = \frac{1}{2}bh$ \\[1em]
+    Circle \quad $A = \pi r^2$ \hfill Cylinder \quad $V = \pi r^2 l$ \hfill Sphere \quad $V = \frac{4}{3}\pi r^3$ \\[1em]
+    \hspace*{1.5cm} $C = 2\pi r$ \hfill \hspace*{1.5cm} $S = 2\pi rl + 2\pi r^2$ \hfill \hspace*{1.5cm} $S = 4\pi r^2$ \\[1em]
+
+    \bigskip
+    \hrulefill
+    \large{\textbf{Trigonometry}}
+    \hrulefill
+    \normalsize
+    
+    \begin{tabular}{c c c c c}
+        & \raisebox{-0.5\height}{\includegraphics[width=4cm]{triangle_diagram.png}} & $c^2 = a^2 + b^2$ & $\sin\theta = \frac{a}{c}$ & $\cos\theta = \frac{b}{c}$ & $\tan\theta = \frac{a}{b}$
+    \end{tabular}
+    
+    \medskip
+    \begin{tabular}{|c|c|c|c|c|c|c|c|}
+        \hline
+        $\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+        \hline
+        $\sin\theta$ & $0$ & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & $1$ \\
+        \hline
+        $\cos\theta$ & $1$ & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & $0$ \\
+        \hline
+        $\tan\theta$ & $0$ & $\sqrt{3}/3$ & $3/4$ & $1$ & $1$ & $\sqrt{3}$ & $\infty$ \\
+        \hline
+    \end{tabular}
+    
+    \vspace{2em}
+    
+    \begin{minipage}[t]{0.3\textwidth}
+        \large{\textbf{Variables}}
+        \hrulefill
+        \normalsize
+        \begin{itemize}
+            \item[] $a$ = acceleration
+            \item[] $A$ = amplitude
+            \item[] $A$ = Area
+            \item[] $b$ = base length
+            \item[] $C$ = circumference
+            \item[] $d$ = distance
+            \item[] $E$ = energy
+            \item[] $f$ = frequency
+            \item[] $F$ = force
+            \item[] $h$ = height
+            \item[] $I$ = current
+            \item[] $I$ = rotational inertia
+            \item[] $KE$ = kinetic energy
+            \item[] $k$ = spring constant
+            \item[] $L$ = angular momentum
+            \item[] $l$ = length
+            \item[] $m$ = mass
+            \item[] $P$ = power
+            \item[] $p$ = momentum
+            \item[] $q$ = charge
+            \item[] $r$ = radius
+            \item[] $R$ = resistance
+            \item[] $S$ = surface area
+            \item[] $T$ = period
+            \item[] $t$ = time
+            \item[] $PE$ = potential energy
+            \item[] $V$ = electric potential
+            \item[] $V$ = volume
+            \item[] $v$ = velocity
+            \item[] $w$ = width
+            \item[] $W$ = work
+            \item[] $x$ = position
+            \item[] $y$ = height
+            \item[] $\alpha$ = angular acceleration
+            \item[] $\lambda$ = wavelength
+            \item[] $\mu$ = coefficient of friction
+            \item[] $\nu$ = wave speed
+            \item[] $\theta$ = angle
+            \item[] $\rho$ = density
+            \item[] $\rho$ = resistivity
+            \item[] $\tau$ = torque
+            \item[] $\omega$ = angular speed
+        \end{itemize}
+    \end{minipage}
+\end{center}
+```

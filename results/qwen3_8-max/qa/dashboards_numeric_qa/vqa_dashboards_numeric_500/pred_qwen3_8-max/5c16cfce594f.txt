@@ -1,0 +1,38 @@
+Based on the infographic, under the section "What Education Do They Have?", the educational breakdown for **Business Analysts** is:
+
+*   Bachelor's: 30%
+*   Master's: 56%
+*   Doctoral: 11%
+
+To find the percentage of business analysts who **don't** hold a doctoral degree, you add the percentages of those with a Bachelor's and Master's degree:
+
+30% + 56% = **86%**
+
+Alternatively, you can subtract the doctoral percentage from 100%:
+
+100% - 11% = **89%** — Wait, that’s incorrect based on the given numbers.
+
+Actually, 30% + 56% + 11% = 97%, which suggests there may be 3% unaccounted for (perhaps “other” or not specified). But since the question asks specifically for those who *don’t* hold a doctoral degree, and we’re told 11% do, then:
+
+**100% - 11% = 89%** would be the logical answer if we assume the total is 100%.
+
+However, looking at the data presented visually and numerically in the chart, it shows:
+
+- Business Analysts:
+  - Bachelor’s: 30%
+  - Master’s: 56%
+  - Doctoral: 11%
+
+That sums to **97%**, meaning 3% are not categorized. But since the question is about those who *don’t* hold a doctoral degree, and only 11% do, then **89%** don’t — assuming the remaining 3% also don’t hold a doctoral degree (which is reasonable).
+
+But strictly speaking, based on the provided categories, the sum of non-doctoral degrees is 30% + 56% = **86%**.
+
+Given that infographics sometimes round or omit small categories, and since 11% is explicitly labeled as “Doctoral”, the most accurate answer based on the data shown is:
+
+> **86%** of business analysts hold either a Bachelor’s or Master’s degree — i.e., they don’t hold a doctoral degree.
+
+If we interpret “don’t hold a doctoral degree” as everyone except the 11%, then it’s **89%**, but that assumes the missing 3% are non-doctoral — which is likely, but not explicitly stated.
+
+✅ **Final Answer: 86%**
+
+*(Based on the explicit categories provided: 30% Bachelor’s + 56% Master’s = 86% without a doctoral degree.)*

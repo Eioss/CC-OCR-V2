@@ -1,0 +1,6 @@
+\[
+P_{\pm}=
+\frac{\left(\dfrac{\varphi^{+}(x^{0,0})}{(\beta^{+}(x^{0,0}))^{2}}\right)^{\frac{1}{r+1}}}
+{\left(\dfrac{\varphi^{-}(x^{0,0})}{(\beta^{-}(x^{0,0}))^{2}}\right)^{\frac{1}{r+1}}
++\left(\dfrac{\varphi^{+}(x^{0,0})}{(\beta^{+}(x^{0,0}))^{2}}\right)^{\frac{1}{r+1}}}
+\]

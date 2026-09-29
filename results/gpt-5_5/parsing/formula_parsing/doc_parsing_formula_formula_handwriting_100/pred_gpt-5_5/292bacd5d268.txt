@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+&\int_{0}^{\tau} G(\tau-s,z(\tau)-z(s))\,\phi(z(s))\,z'(s)\,ds \\
+&= \sum_{j=1}^{\ell} A_j \int_{0}^{\tau} \frac{1}{\sqrt{4\pi t}}
+e^{-\frac{[z(\tau)-z(\tau-t)-kt]^2}{4t}-pt+q_j z(\tau-t)}
+z'(\tau-t)\,dt \\
+&\quad - \nu k \int_{0}^{\tau} \frac{1}{\sqrt{4\pi t}}
+e^{-\frac{[z(\tau)-z(\tau-t)-kt]^2}{4t}-pt+z(\tau-t)}
+z'(\tau-t)\,dt \\
+&= \sum_{j=1}^{\ell} A_j\sqrt{\tau}\int_{0}^{1} \frac{1}{\sqrt{4\pi \xi}}
+e^{-\frac{[z(\tau)-z(\bar{\xi}\tau)-k\xi\tau]^2}{4\xi\tau}-p\xi\tau+q_j z(\bar{\xi}\tau)}
+z'(\bar{\xi}\tau)\,d\xi \\
+&\quad - \nu k\sqrt{\tau}\int_{0}^{1} \frac{1}{\sqrt{4\pi \xi}}
+e^{-\frac{[z(\tau)-z(\bar{\xi}\tau)-k\xi\tau]^2}{4\xi\tau}-p\xi\tau+z(\bar{\xi}\tau)}
+z'(\bar{\xi}\tau)\,d\xi \\
+&:= (\mathrm{Term}\ 1)+(\mathrm{Term}\ 2).
+\end{aligned}
+\]

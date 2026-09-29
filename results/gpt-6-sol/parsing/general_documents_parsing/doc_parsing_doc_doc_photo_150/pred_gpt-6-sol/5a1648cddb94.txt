@@ -1,0 +1,47 @@
+```latex
+\begin{center}
+{\Large\itshape The Longest Word}\\
+{\large\itshape in the English Language}
+
+\medskip
+{\tiny
+\begin{tabular}{c}
+Methionylglutaminylarginyltyrosylglutamylserylleucylphenylalanylalanyl-\\
+glutaminylleucyllysylglutamylarginyllysylglutamylglycylalanylphenylalanylvalyl-\\
+Prolylphenylalanylvalylthreonylleucylglycylaspartylprolylglycylisoleucyl-\\
+glutamylglutaminylserylleucyllysylisoleucylaspartylthreonylleucylisoleu-\\
+cylglutamylalanylglycylalanylaspartylalanylleucylglutamylleucylglycyliso-\\
+leucylprolylphenylalanylserylaspartylprolylleucylalanylaspartylglycylprolylthreo-\\
+Nylisoleucylphenylalanylasparaginylalanylthreonylleucylarginylalanylphenylalany-\\
+Lalanylalanylglycylvalylthreonylprolylalanylglutaminylcysteinylphenylalanyl-\\
+Glglutamylmethionylleucylalanylleucylisoleucylarginylglutaminyllysylhistidyl-\\
+Prolylthreonylisoleucylprolylisoleucylglycylleucylleucylmethionyltyrosylalany-\\
+Lasparaginylleucylvalylphenylalanylasparaginyllysylglycylisoleucylaspartyl-\\
+Glutamylphenylalanyltyrosylalanylglutaminylcysteinylglutamyllysylvalyl-\\
+Glycylvalylaspartylserylvalylleucylvalylalanylaspartylvalylprolylvalylglutaminyl-\\
+Glutamylserylalanylprolylphenylalanylarginylglutaminylalanylleucylalanylarginyl-\\
+Histidylasparaginylvalylalanylprolylisoleucylphenylalanylisoleucylcysteinylproly-\\
+Prolylaspartylalanylaspartylaspartylleucylleucylarginylglutaminylisoleucyl-\\
+Lalanylseryltyrosylglycylarginylglycyltyrosylthreonyltyrosylleucylleucylseryl-\\
+larginylalanylglycylvalylthreonylglycylalanylglutamylasparaginylarginyla-\\
+nylalanylleucylprolylleucylasparaginylhistidylleucylvalylalanyllysylleucylly-\\
+sylglutamyltyrosylasparaginylalanylprolylprolylleucylglutaminylglycyl-\\
+phenylalanylglycylisoleucylserylalanylprolylaspartylglutaminylvalyllysylalany-\\
+lalanylisoleucylaspartylalanylglycylalanylalanylisoleucylalanylasoleucylse-\\
+rylglycylserylalanylisoleucylvalyllysylisoleucylisoleucylglutamylglutaminyl-\\
+histidylasparaginylisoleucylglutamylprolylglu-0-tamyllysylmethionylleucy-\\
+lalanylalanyoleucyllysylvalylphenylalanylarginylglutamylprolylmethionylly-\\
+sylalanylalanylthreonylarginylserine.
+\end{tabular}
+}
+
+\medskip
+This word consists of 1,909 letters. It is the term for the formula\\
+\(\mathrm{C1289H2051N343O375S8}\). A Tryptophan synthetase A protein,\\
+an enzyme that has 267 amino acids.
+\end{center}
+
+\begin{flushright}
+Shared with Memedroid
+\end{flushright}
+```

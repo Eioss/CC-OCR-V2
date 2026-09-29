@@ -1,0 +1,14 @@
+```latex
+\section*{History of Computer}
+
+The computer began in 19th century by Charles Babbage English mathematics professor. He designed the Analytical Engine and became to the basic framework of the computers until nowadays.
+
+To be able to classified the computer for three generations. Each generation lasted for a certain period of time, and each gave us either a new and improved computer or an improvement to the existing computer.
+
+First generation: 1937 - 1946; In 1937 computer was built by Dr. John V. Atanasoff and Clifford Berry. It's the first electronic digital computer. It was called the Atanasoff-Berry Computer (ABC). Afterwards an electronic computer name the Colossus was built for the military. Other developments continued until in 1946 the first general- purpose digital computer, the Electronic Numerical Integrator and Computer (ENIAC) was built. It's so large. It's weighed about 30 tons, and had 18,000 vacuum tubes which was used for processing. When this computer was turned on for the first time lights dim in sections of Philadelphia. Computers of this generation could only perform single task, and they had no operating system.
+
+Second generation: 1947 - 1962; Computers used transistors instead of vacuum tubes which were more reliable. This general used computer for commercial to introduced to the public in the first time; the Universal Automatic Computer (UNIVAC 1). In 1953 the International Business Machine (IBM) 650 and 700 series computers made their mark in the computer world. During this generation of computers over 100 computer programming languages were developed, computers had memory and operating systems. Storage media such as tape and disk were in use also were printers for output.
+
+Third generation: 1963 - present; The invention of integrated circuit brought us the third generation of computers. With this invention computers became smaller, more powerful more reliable and they are able to run many different programs at the same time. In1980 Microsoft Disk Operating System (MS-Dos) was born and in 1981 IBM introduced the personal computer (PC) for home and office use. Three years later Apple gave us the Macintosh computer with its icon driven interface and the 90s gave us Windows operating system.
+
+```

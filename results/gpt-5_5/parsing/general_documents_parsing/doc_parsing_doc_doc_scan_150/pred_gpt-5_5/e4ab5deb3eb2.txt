@@ -1,0 +1,72 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage[normalem]{ulem}
+
+\begin{document}
+
+\noindent \textbf{\underline{Task 2:Complete with the right word from the box (There are 2 extra}}\\
+\textbf{\underline{words)(2.5mks)}}
+
+\begin{center}
+\begin{tabular}{|l|}
+\hline
+\textbf{Onions/market/strawberries/near/ animals/sells /lions} \\
+\hline
+\end{tabular}
+\end{center}
+
+Uncle Fred has got a big farm where he keeps many 1)\dotfill.He also grows\\
+fruit and vegetables:potatoes,2)\dotfill,tomatoes , green peppers and some\\
+fruit like oranges,almonds and3)\dotfill.Uncle Fred usually4)\dotfill\\
+his fruit and vegetables on the5)\dotfill day.Many people like to buy uncle\\
+Fred’s fruit and vegetables because they are fresh.
+
+\vspace{0.4cm}
+
+\noindent \textbf{\underline{Task 3:Match the sentence parts in A with their completions in B(there is an}}\\
+\textbf{\underline{extra part in B) (3mks)}}
+
+\begin{center}
+\begin{tabular}{|p{6.2cm}|p{5.8cm}|p{1.2cm}|}
+\hline
+1-Sami lives with & a-small hall in the middle & 1..... \\
+2-Their house has two bedrooms,a & b-beautiful flowers & 2.... \\
+kitchen & c-is on the left & 3.... \\
+3-The bedrooms are on & d-his family in a big house & 4.... \\
+4-The kitchen is next & e-the right near the bathroom & 5.... \\
+5-The living room is quite big and it & f- a living room and a bathroom & 6.... \\
+6-The house has got a & g-to the children’s bedroom & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.2cm}
+
+\noindent \textbf{\underline{Task 4:Match the dialogue with its functions (2 mks)}}
+
+\begin{center}
+\begin{tabular}{|p{7.2cm}|p{3.5cm}|p{2cm}|}
+\hline
+\textbf{Dialogue} & \textbf{Function} & \textbf{Answers} \\
+\hline
+-Tourist:Oh! These are nice dates. & 1. thanking & 1.......... \\
+-Greengrocer:Yes,sir.Taste them,they are from & 2. greeting & 2......... \\
+\hspace{1cm}Tozeur. & 3. request & 3......... \\
+-Tourist:\uline{\textbf{Mmm! They are delicious.(1)}} & 4. taking leave & 4......... \\
+\hspace{1cm}\uline{\textbf{Can I have 1 kilo?(2)}} & 5. appreciation & \\
+-Greengrocer:Yes of course,here you are. & & \\
+-Tourist:\uline{\textbf{Thanks(3)}} good bye. & & \\
+-Greengrocer:\uline{\textbf{Good bye.(4)}} & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent \textbf{III/Writing (5 marks)}
+
+\vfill
+\hfill iSLCollective.com
+
+\end{document}
+```

@@ -1,0 +1,19 @@
+$$\int_{\mathbb{R}^2} \nabla^{\frac{3}{2}}(u \cdot \nabla u) \nabla^{\frac{3}{2}} \theta \, dx = \int_{\mathbb{R}^2} \nabla^{\frac{3}{2}}(u_i \partial_i \theta) \nabla^{\frac{3}{2}} \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} \nabla(u_i \partial_i \theta) \nabla^2 \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} [\nabla u_i \partial_i \theta] \nabla^2 \theta \, dx + \int_{\mathbb{R}^2} u_i \nabla \partial_i \theta \nabla^2 \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} [\nabla u_i \partial_i \nabla \theta] \nabla \theta \, dx + \int_{\mathbb{R}^2} \nabla(u_i \nabla \partial_i \theta) \nabla^{\frac{3}{2}} \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} [\nabla u_i \partial_i \nabla \theta] \nabla \theta \, dx + \int_{\mathbb{R}^2} [\nabla u_i, u_i] \nabla^{\frac{1}{2}} \theta \, dx$$
+
+$$\quad + \int_{\mathbb{R}^2} u_i \nabla^{\frac{1}{2}} \nabla \theta \nabla^{\frac{3}{2}} \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} [\nabla u_i \partial_i \nabla \theta] \nabla \theta \, dx + \int_{\mathbb{R}^2} [\nabla u_i, u_i] \nabla^{\frac{1}{2}} \theta \, dx$$
+
+$$\quad + \int_{\mathbb{R}^2} u_i \nabla^{\frac{3}{2}} \theta \nabla^{\frac{3}{2}} \theta \, dx$$
+
+$$= \int_{\mathbb{R}^2} [\nabla u_i, u_i] \nabla^{\frac{1}{2}} \theta \nabla^2 \theta \, dx + \int_{\mathbb{R}^2} [\nabla u_i, u_i] \nabla^{\frac{1}{2}} \nabla \theta \nabla^{\frac{3}{2}} \theta \, dx$$
+
+$$\triangleq I_1 + I_2.$$

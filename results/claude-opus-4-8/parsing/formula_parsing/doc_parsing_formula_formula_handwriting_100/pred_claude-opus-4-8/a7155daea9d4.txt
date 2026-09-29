@@ -1,0 +1,17 @@
+$$\Sigma_{p}(r) := \{\xi \in \Sigma_n B_{r/2}(p), \pi_{p+G_p}(\xi) \in (p+G_p) \cap B_{r/4}(p)\}$$
+
+$$\phi_o(x) = 1 \quad (0 \le x < 1/2) \qquad \phi_o(x+1) = \phi_o(x)$$
+
+$$\phi_o(x) = -1 \quad (1/2 \le x < 1) \qquad \cdot \phi_k(x) = \phi_o(2^k x)$$
+
+$$q \in \begin{cases} (3/2, \infty) & \text{if } 0 \le s \le 1/2 \\ (s, \infty) & \text{if } 1/2 < s \end{cases}$$
+
+$$\langle 1\frac{G}{o_j}, x_o - \psi_o \rangle = \langle 1\frac{G}{o_j}, x_o \rangle - \langle 1\frac{G}{o_j}, \psi_o \rangle - 1 - \delta(o,j)$$
+
+$$\nu(x, \vec{P}(j+1)) - \nu(x, \vec{P}(j)) = \sum_{k=0}^{j-1} (\nu(x, \vec{Q}^{(k+1)}) - \nu(x, \vec{Q}^{(k)})) = \nu(x, \vec{Q}^{(j)}) - \nu(x, \vec{Q}^{(o)})$$
+
+$$a = \frac{1}{2}(|1| + 1 - \frac{\varepsilon}{2rh})$$
+
+$$\Theta_R\left(\begin{pmatrix} y_\infty & x_\infty \\ 1 & \end{pmatrix}\right) = |y_\infty| * \sum_{r \in F} \psi(Q(r)(x_\infty + iy_\infty)) = |y_\infty| * \sum_{q \in O_F} \psi(Q(q)(x_\infty + iy_\infty)).$$
+
+$$i \oplus j \equiv (i+j) \bmod 2$$

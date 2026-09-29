@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "01/15/01",
+    "order_id": "729578",
+    "vendor_name": "Kennedy Covington ATTORNEYS AT LAW",
+    "customer_id": "004390",
+    "customer_billing_name": "Linda R. Alpert First Vice President and Associate General Counsel Salomon Smith Barney Inc.",
+    "customer_billing_address": "7 World Trade Center, 31st Floor New York, NY 10048",
+    "amount_total_gross": "$4,673.75",
+    "amount_due": "$4,673.75",
+    "payment_terms": "DUE AND PAYABLE UPON RECEIPT"
+}
+```

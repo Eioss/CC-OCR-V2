@@ -1,0 +1,92 @@
+I'll transcribe this securities research report image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{graphicx}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+% Header
+\noindent\textbf{国信证券} \hfill 证券研究报告
+
+\vspace{1em}
+
+% Figure 47 and 48 captions
+\noindent 图47：《火影忍者》iOS 畅销榜排名（总榜）\hfill 图48：《使命召唤手游》iOS 畅销榜排名（总榜）
+
+\vspace{0.5em}
+\noindent\fbox{\parbox{0.45\textwidth}{
+\centering
+[图表：火影忍者 iOS 畅销榜排名折线图\\
+2022年（深蓝）与2023年（浅蓝）对比\\
+纵轴：0-25，横轴：除夕、春节、初二、初三、初四、初五、初六]
+}}
+\hfill
+\fbox{\parbox{0.45\textwidth}{
+\centering
+[图表：使命召唤手游 iOS 畅销榜排名折线图\\
+2022年（深蓝）与2023年（浅蓝）对比\\
+纵轴：0-45，横轴：除夕、春节、初二、初三、初四、初五、初六]
+}}
+
+\vspace{0.5em}
+\noindent\small 资料来源：七麦数据，国信证券经济研究所整理 \hfill 资料来源：七麦数据，国信证券经济研究所整理
+
+\vspace{1.5em}
+
+% Section heading
+\noindent\textbf{$\blacklozenge$ 本土市场：新产品储备丰富，预计今年为产品大周期}
+
+\vspace{1em}
+
+\noindent\textbf{新产品储备丰富，预计 2023 年为腾讯的产品大周期。}2022 年腾讯在国内上线新产品较少，仅《暗区突围》等 3 个中腰部产品。目前，腾讯已有至少 8 款已经获得版号、今年有望上线的产品，推荐重点关注端游《无畏契约》《命运方舟》、手游《黎明觉醒：生机》《王者万象棋》《合金弹头：觉醒》，其余待获版号产品有《王者荣耀：星之破晓》等。今年腾讯的供给侧显著优于去年。
+
+\vspace{1em}
+
+\noindent 表11：腾讯今年有望在本土市场上线的储备产品及版号情况
+
+\vspace{0.5em}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lllllll}
+\toprule
+公司 & 游戏名称（代号） & 品类 & 平台 & 研发商 & 版号情况 \\
+\midrule
+腾讯 & 无畏契约 & 射击 & PC 端游 & 自研（Riot Games） & 12 月获批 \\
+腾讯 & 命运方舟 & MMORPG & PC 端游 & 代理（Smile Gate） & 12 月获批 \\
+腾讯 & 黎明觉醒：生机 & MMO+射击 & 手游 & 自研 & 1 月获批 \\
+腾讯 & 重生边缘 & 射击 & PC 端游 & 自研 & 12 月获批 \\
+腾讯 & 合金弹头：觉醒 & 横版射击 & 手游 & 自研 & 11 月获批 \\
+腾讯 & 宝可梦大集结 & MOBA & 手游、游戏机 & 自研 & 12 月获批 \\
+腾讯 & 饥荒：新家园 & 冒险 & 手游 & 自研（Klei Entertainment） & 12 月获批 \\
+腾讯 & 王者荣耀：星之破晓 & 动作 & 手游 & 自研 & 无 \\
+腾讯 & 王者万象棋 & 自走棋 & 手游 & 自研 & 2 月获批 \\
+腾讯 & 白夜极光 & 战术 RPG & 手游 & 自研（永航科技） & 1 月获批 \\
+腾讯 & 大航海时代：海上霸主 & SLG & 手游 & 代理（盛天网络） & 12 月获批 \\
+腾讯 & 战地无疆 & SLG & 手游 & 代理（星辉娱乐） & 7 月获批 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\small 数据来源：公司公告、公司官网、国家新闻出版署，国信证券经济研究所整理
+
+\vspace{1.5em}
+
+\noindent\normalsize\textbf{《黎明觉醒：生机》定档今年 2 月。}1 月 31 日晚，腾讯旗下 SOC 手游《黎明觉醒：生机》在视频号直播宣布，于 2023 年 2 月开启不限号不删档测试。《黎明觉醒：生机》是由腾讯光子工作室群研发的开放世界生存射击手游，自 2020 年首次公布以来，已经进行多轮测试，产品完成度较高。根据官方公众号宣布，目前游戏全网总预约数已经超过 7000 万。"MMO+射击"在 PC 端游市场具有重要地位，陆续有成功产品推出，如《全境封锁》《命运 2》《星际战甲》，但在手游端仅有《明日之后》一个成功产品，这主要是由于供给侧短缺。考虑到 MMO 品类天然不具备"赢者通吃"的特点，我们相信"MMO+射击"手游仍然具有较大空间。当前已获版号的同类型产品较少，《黎明觉醒：生机》完成度较高，有望占据先机。
+
+\vspace{2em}
+
+\noindent\rule{\textwidth}{0.4pt}
+\noindent\small 请务必阅读正文之后的免责声明及其项下所有内容 \hfill 26
+
+\end{CJK}
+\end{document}
+```
+
+I've transcribed the securities research report into LaTeX format. Note that the two charts (图47 and 图48) are line graphs showing iOS sales rankings, which I've represented as placeholder boxes describing their content since the actual graphical data points cannot be precisely extracted as text. The table (表11) and all body text have been transcribed accurately.

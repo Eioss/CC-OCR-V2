@@ -1,0 +1,11 @@
+$$\begin{array} { r l } & { \hat { E } _ { t } [ ( \int _ { t } ^ { T } | Z _ { s } | ^ { 2 } d s ) ^ { \frac { \alpha } { 2 } } ] \leq C \{ 1 + \hat { E } _ { t } [ \underset { s \in [ t , T ] } { \operatorname* { s u p } } | Y _ { s } | ^ { \alpha } ] + ( \hat { E } _ { t } [ \underset { s \in [ t , T ] } { \operatorname* { s u p } } | Y _ { s } | ^ { \alpha } ] ) ^ { 1 / 2 } ( \hat { E } _ { t } [ ( \int _ { t } ^ { T } h _ { s } d s ) ^ { \alpha } ] ) ^ { 1 / 2 } \} , } \\ & { \quad \hat { E } _ { t } [ | A _ { T } - A _ { t } | ^ { \alpha } ] \leq C \{ 1 + \hat { E } _ { t } [ \underset { s \in [ t , T ] } { \operatorname* { s u p } } | Y _ { s } | ^ { \alpha } ] + \hat { E } _ { t } [ ( \int _ { t } ^ { T } h _ { s } d s ) ^ { \alpha } ] \} , } \end{array}$$
+
+ $$\mathbb { P } ( \overline { { X } } _ { e c q } \in d x ) = \vec { \bf a } ( \varphi , \zeta ) ^ { T } \times \vec { \bf v } ( \zeta , x ) d x , \, \, \, \, \mathbb { P } ( - \underline { { X } } _ { e c q } \in d x ) = \vec { \bf a } ( \hat { \varphi } , \hat { \zeta } ) ^ { T } \times \vec { \bf v } ( \hat { \zeta } , x ) d x .$$
+
+ $$\sum _ { \stackrel { 0 \leq h < k \leq N } { ( h , k ) = 1 } } \sum _ { 2 a + 2 b + 2 c = \gamma } k c ( a , b , c ) ( k T ) ^ { a } \frac { 1 } { k \sqrt { n } } \Big ( \frac { n } { k } \Big ) ^ { | \frac { 1 } { 2 } - a - 2 c | } \ll _ { T , \gamma } \sum _ { k \leq N } \sum _ { 2 a + 2 b + 2 c = \gamma } n ^ { | \frac { 1 } { 2 } - a - 2 c | - \frac { 1 } { 2 } } k ^ { a - | \frac { 1 } { 2 } - a - 2 c | } .$$
+
+ $$\delta _ { + } = \delta _ { 0 } \gamma _ { + } : \Gamma _ { + } \to \Delta$$
+
+ $$X _ { t } = x + Y _ { t } + \int _ { 0 } ^ { t } u ( s , X _ { s } ) \, d s , \quad t \in [ 0 , T ] ,$$
+
+ $$\begin{array} { l } { { \displaystyle \int _ { \Omega } [ A ( x ) \cdot \nabla T _ { j } ( u _ { n } ) ] \cdot \nabla \varphi S ( u _ { n } ) d x + \int _ { \Omega } [ A ( x ) \cdot \nabla T _ { j } ( u _ { n } ) ] \cdot \nabla T _ { j } ( u _ { n } ) S ^ { \prime } ( u _ { n } ) \varphi \, d x } } \\ { { \displaystyle \quad = \int _ { \Omega } H ( x , u _ { n } , \nabla u _ { n } ) \varphi \, d x + \int _ { \Omega } ( T _ { n } ( f ) S ( u _ { n } ) \varphi \, d x \, . } } \end{array}$$

@@ -1,0 +1,100 @@
+<table>
+<tr>
+<td></td>
+<td colspan="2">DP</td>
+<td></td>
+<td colspan="6">SDP</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">PTB</td>
+<td></td>
+<td colspan="2">DM</td>
+<td colspan="2">PAS</td>
+<td colspan="2">PSD</td>
+</tr>
+<tr>
+<td></td>
+<td>UAS</td>
+<td>LAS</td>
+<td></td>
+<td>ID</td>
+<td>OOD</td>
+<td>ID</td>
+<td>OOD</td>
+<td>ID</td>
+<td>OOD</td>
+</tr>
+<tr>
+<td>Zhou and Zhao (2019)<sup>†</sup></td>
+<td>97.2</td>
+<td>95.7</td>
+<td>He and Choi (2020)<sup>‡</sup></td>
+<td>94.6</td>
+<td>90.8</td>
+<td>96.1</td>
+<td>94.4</td>
+<td>86.8</td>
+<td>79.5</td>
+</tr>
+<tr>
+<td>Mrini et al. (2020)<sup>†</sup></td>
+<td>97.4</td>
+<td>96.3</td>
+<td>D &amp; M (2018)</td>
+<td>94.0</td>
+<td>89.7</td>
+<td>94.1</td>
+<td>91.3</td>
+<td>81.4</td>
+<td>79.6</td>
+</tr>
+<tr>
+<td>Zhang et al. (2020)</td>
+<td>96.1</td>
+<td>94.5</td>
+<td>Wang et al. (2019)</td>
+<td>93.7</td>
+<td>88.9</td>
+<td>93.9</td>
+<td>90.6</td>
+<td>81.0</td>
+<td>79.4</td>
+</tr>
+<tr>
+<td>Wang and Tu (2020)</td>
+<td>96.9</td>
+<td>95.3</td>
+<td>F &amp; G (2020)</td>
+<td>94.4</td>
+<td>91.0</td>
+<td>95.1</td>
+<td>93.4</td>
+<td>82.6</td>
+<td>82.0</td>
+</tr>
+<tr>
+<td>XLNET+Fine-tune</td>
+<td>97.0</td>
+<td>95.6</td>
+<td>XLNet+Fine-tune</td>
+<td>94.2</td>
+<td>90.6</td>
+<td>94.8</td>
+<td>93.4</td>
+<td>82.7</td>
+<td>81.8</td>
+</tr>
+<tr>
+<td>ACE+Fine-tune</td>
+<td><b>97.2</b></td>
+<td><b>95.7</b></td>
+<td>ACE+Fine-tune</td>
+<td><b>95.6</b></td>
+<td><b>92.6</b></td>
+<td><b>95.8</b></td>
+<td><b>94.6</b></td>
+<td><b>83.8</b></td>
+<td><b>83.4</b></td>
+</tr>
+</table>

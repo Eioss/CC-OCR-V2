@@ -1,0 +1,7 @@
+Based on the provided airline ticket, the fare basis code is located in the column labeled "FARE BASIS".
+
+For both flight segments listed (LaGuardia to Nashville and Nashville to LaGuardia), the handwritten entry in this column is **Y**.
+
+In standard airline industry terminology, "Y" is the fare basis code for full-fare economy class.
+
+Therefore, the fare basis code for economy class on this ticket is **Y**.

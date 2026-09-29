@@ -1,0 +1,56 @@
+```html
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Definition</td>
+  </tr>
+  <tr>
+    <td>&pi;<sup>0</sup></td>
+    <td>the assignment of destinations obtained in the first stage</td>
+  </tr>
+  <tr>
+    <td><i>cri</i><sub>i'i k</sub></td>
+    <td>the number of times that the chutes corresponding to destination <i>i'</i> is the one behind the chutes corresponding to destination <i>i</i> in segment <i>k</i></td>
+  </tr>
+  <tr>
+    <td><i>q</i><sub>ikt</sub></td>
+    <td>the number of parcels of destination <i>i</i> that enter the segment <i>k</i> through the corresponding loading station in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>cq</i><sub>ikt</sub></td>
+    <td>the number of cross-segment parcels of destination <i>i</i> of segment <i>k</i> in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>mn</i><sub>t</sub></td>
+    <td>the number of misalignment parcels in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>md</i><sub>t</sub></td>
+    <td>the total distance of misalignment in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>wd</i><sub>ht</sub></td>
+    <td>the walking distance of worker <i>h</i> in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>bt</i><sub>ht</sub></td>
+    <td>the break time of worker <i>h</i> in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>cq</i><sub>t</sub></td>
+    <td>the number of cross-segment parcels in period <i>t</i></td>
+  </tr>
+  <tr>
+    <td><i>md</i><sub>max</sub></td>
+    <td>the constraint value for total misalignment distance per period</td>
+  </tr>
+  <tr>
+    <td>&omega;<sub>mn</sub></td>
+    <td>the fines per misalignment parcel</td>
+  </tr>
+  <tr>
+    <td>&omega;<sub>cp</sub></td>
+    <td>the cost coefficient of cross-segment parcels</td>
+  </tr>
+</table>
+```

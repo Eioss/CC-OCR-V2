@@ -1,0 +1,5 @@
+The text '###' appears in multiple locations on this invoice (in the 税额/tax amount column). Here are the locations:
+
+(1322, 411, 1366, 423)
+(1322, 434, 1366, 447)
+(1322, 458, 1366, 470)

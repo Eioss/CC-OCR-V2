@@ -1,0 +1,26 @@
+```latex
+\[
+\begin{array}{lll}
+\text{二、酒及酒精} & & \\[6pt]
+\quad 1.\ \text{白酒} & & 20\%\text{加 }0.5\ \text{元}/500\ \text{克} \\
+& & \text{（或者 }500\ \text{毫升）} \\[6pt]
+\quad 2.\ \text{黄酒} & & 240\ \text{元}/\text{吨} \\[6pt]
+\quad 3.\ \text{啤酒} & & \\
+\qquad \text{(1)甲类啤酒} & & 250\ \text{元}/\text{吨} \\
+\qquad \text{(2)乙类啤酒} & & 220\ \text{元}/\text{吨} \\[6pt]
+\quad 4.\ \text{其他酒} & & 10\% \\[6pt]
+\quad 5.\ \text{酒精} & & 5\% \\[8pt]
+\text{三、化妆品} & & 30\% \\[8pt]
+\text{四、贵重首饰及珠宝玉石} & & \\[6pt]
+\quad 1.\ \text{金银首饰、铂金首饰和钻石及钻} & & 5\% \\
+\text{石饰品} & & \\[6pt]
+\quad 2.\ \text{其他贵重首饰和珠宝玉石} & & 10\% \\[8pt]
+\text{五、鞭炮、焰火} & & 15\% \\[6pt]
+\text{成品油} & & \\[6pt]
+\quad 1.\ \text{汽油} & & \\
+\qquad \text{(1)含铅汽油} & & 0.28\ \text{元}/\text{升} \\
+\qquad \text{(2)无铅汽油} & & 0.20\ \text{元}/\text{升} \\[6pt]
+\quad 2.\ \text{柴油} & & 0.10\ \text{元}/\text{升}
+\end{array}
+\]
+```

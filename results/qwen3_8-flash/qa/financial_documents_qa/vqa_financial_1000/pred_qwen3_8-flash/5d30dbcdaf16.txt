@@ -1,0 +1,27 @@
+Based on the provided airline ticket image, we can determine the round trip fare charge by examining the total amount paid.
+
+Here's the breakdown from the document:
+
+1.  **Passenger Name:** Dr. William Darby
+2.  **Itinerary (from "GOOD FOR PASSAGE BETWEEN POINTS OUTLINED"):**
+    *   FROM: LAGUARDIA
+    *   TO: NASHVILLE
+    *   TO: LAGUARDIA (This confirms it is a round-trip ticket)
+3.  **Fare Calculation Section (top right):**
+    *   The carrier code `LGA` appears for both origin and destination.
+    *   The fare calculation shows two segments:
+        *   `LGA AA 123.00` (likely Laguardia to Nashville via American Airlines)
+        *   `LGA AA 123.00` (likely Nashville back to Laguardia via American Airlines)
+    *   This implies a one-way fare of $123.00 each way.
+4.  **Total Fare Paid (bottom left section labeled "TOTAL"):**
+    *   The handwritten total clearly states `$246.00`.
+5.  **Form of Payment:**
+    *   It indicates payment was made with a check (`CK`) for `$246.00`.
+
+**Conclusion:**
+
+The round trip fare charge is explicitly stated as **$246.00**. This matches the sum of the two individual leg fares ($123.00 + $123.00 = $246.00).
+
+---
+
+**Answer: $246.00**

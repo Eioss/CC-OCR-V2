@@ -1,0 +1,45 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\textbf{(Q3)} [4 points] Given the divided difference table 
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+$x$ & $f(x)$ & 1st D.D. & 2nd D.D. \\
+\hline
+0 & $-3$ & & \\
+\hline
+1 & $-1$ & $-2$ & \\
+\hline
+2 & $A$ & $6$ & $B$ \\
+\hline
+\end{tabular}.
+\end{center}
+Find the constants $A, B$.
+
+\vspace{1cm}
+
+\textbf{(Q4)} [4 points] Use the Gauss-Legendre two-point rule to estimate $\displaystyle \int_{a}^{a+2h} (x-a) \, dx$.
+
+\vspace{1cm}
+
+\textbf{(Q5)} [4 points] Consider the data $(2.3, 3), (2.6, -9), (2.9, A), (3.2, B)$. If $f'(2.9) \approx 95$ using backward difference formula, and $f'(2.9) \approx 40$ using the centered difference formula. Find $A$ and $B$.
+
+\vspace{1cm}
+
+\textbf{(Q6)} [4 points] Consider the quadrature formula: $\displaystyle \int_{-6}^{6} f(x) \, dx \approx A f(-6) + 9 f(B)$. If the degree of precision is 1. Find the constants $A, B$.
+
+\vspace{1cm}
+
+\textbf{(Q7)} [4 points] Find the Root Mean square error for the linear approximation $y = 8.6 - 1.6x$ to the data $(-1, 9.9), (0, 9), (1, 7)$.
+
+\vspace{1cm}
+
+\textbf{(Q8)} [4 points] Find the optimal $h$ of the difference formula: $f''(x_0) = \dfrac{f_3 - 4f_0 + 3f_{-1}}{6h^2} - \dfrac{2h f^{(3)}(c)}{3}$.
+
+\end{document}
+```

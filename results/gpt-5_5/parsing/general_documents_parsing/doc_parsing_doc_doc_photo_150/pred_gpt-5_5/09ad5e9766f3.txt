@@ -1,0 +1,62 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\noindent Symbol No. ..................... \hfill RE--101 BP
+
+\begin{center}
+\textbf{SEE 2079 (2023)}\\
+\textbf{COMPULSORY ENGLISH}\\
+Reading and Writing\\
+(Written Test)
+\end{center}
+
+\noindent \textit{Candidates are required to answer the questions in their own words as far as practicable. Figures in the margin indicate the full marks.}
+
+\vspace{0.5cm}
+
+\noindent \textbf{Time: 2 hrs. 15 minutes} \hfill \textbf{Full Marks: 75}
+
+\vspace{0.3cm}
+
+\noindent \textbf{Attempt all the questions.}
+
+\vspace{0.4cm}
+
+\noindent \textbf{1. \quad Read the text and fill in the blanks using the correct information from the text.} \hfill \textbf{(5x1=5)}
+
+\noindent In most countries, an exchange of business cards is essential for introductions. You should include your company name and your position in a business card. If you are going to a country where your language is not widely spoken, you can get the reverse side of your card printed in the local language. In Japan, you must present your card with both hands, with the writing facing the person you are giving it to.
+
+\vspace{0.2cm}
+
+\noindent In many countries, business hours are from 9 or 10 a.m. to 5 to 6 p.m. However in some countries, such as Greece, Italy and Spain, some businesses close in the early afternoon for a couple of hours then remain open until the evening.
+
+\begin{enumerate}
+\renewcommand{\labelenumi}{\Roman{enumi}.}
+\item An exchange of business cards is .........................
+\item The writing on the card should .........................
+\item Some businesses remain open until the .........................
+\item You should include your company name and your ................
+\item In Japan, you should use both of your hands to.....................
+\end{enumerate}
+
+\vspace{0.4cm}
+
+\noindent \textbf{2. \quad Read the following notice and do the tasks that follow.} \hfill \textbf{(10)}
+
+\vspace{0.2cm}
+
+\noindent I could not help thinking of this fable when the other day I saw George Ramsay lunching by himself in a restaurant. I never saw anyone wear an expression of such deep gloom. He was staring into space. He looked as though the burden of the whole world sat on his shoulders. I was sorry for him: I suspected at once that his unfortunate brother had been causing trouble again. I went up to him and held out my hand.
+
+\vspace{0.2cm}
+
+\noindent `How are you?' I asked.
+
+\vfill
+
+\hfill Contd.....
+
+\end{document}
+```

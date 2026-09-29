@@ -1,0 +1,48 @@
+Looking at the “Which Countries Lead the STEM Race?” section, specifically the **Science Scale** (orange bars), we need to count how many countries have a Science score **less than 500**.
+
+Let’s go down the list and check each country’s Science scale value:
+
+1. Shanghai - China: 575 → ❌  
+2. Hong Kong: 549 → ❌  
+3. Singapore: 562 → ❌  
+4. Finland: 554 → ❌  
+5. Korea: 538 → ❌  
+6. Japan: 539 → ❌  
+7. Chinese Taipei: 520 → ❌  
+8. Liechtenstein: 520 → ❌  
+9. Canada: 529 → ❌  
+10. New Zealand: 532 → ❌  
+11. Switzerland: 517 → ❌  
+12. Netherlands: 522 → ❌  
+13. Australia: 527 → ❌  
+14. Estonia: 528 → ❌  
+15. Macao - China: 511 → ❌  
+16. Germany: 520 → ❌  
+17. Belgium: 507 → ❌  
+18. United Kingdom: 514 → ❌  
+19. Poland: 508 → ❌  
+20. Iceland: 496 → ✅ (<500)  
+21. Denmark: 499 → ✅ (<500)  
+22. Norway: 500 → ❌ (not less than 500)  
+23. Ireland: 508 → ❌  
+24. France: 508 → ❌  
+25. Hungary: 503 → ❌  
+26. United States: 502 → ❌  
+27. Sweden: 495 → ✅ (<500)  
+28. Portugal: 493 → ✅ (<500)  
+29. Latvia: 494 → ✅ (<500)  
+30. Italy: 489 → ✅ (<500)
+
+✅ Countries with Science scale < 500:
+- Iceland (496)
+- Denmark (499)
+- Sweden (495)
+- Portugal (493)
+- Latvia (494)
+- Italy (489)
+
+That’s **6 countries**.
+
+---
+
+**Final Answer: `6`**

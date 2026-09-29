@@ -1,0 +1,16 @@
+Based on the infographic, under the **"Go-to-market"** section, there is a pie chart for **Java ME**.
+
+The legend indicates:
+- Dark green = App Store
+- Light green = Via customer
+- Orange = Website
+- Red-orange = Other
+
+In the Java ME pie chart:
+- The **orange segment (Website)** is labeled **26%**.
+
+Therefore, the primary market channel used by **26% of Java ME developers** is:
+
+> **Website**
+
+*(Note: While “Website” is listed as a channel, it’s likely referring to direct downloads from the developer’s own website, as opposed to app stores or third-party distributors.)*

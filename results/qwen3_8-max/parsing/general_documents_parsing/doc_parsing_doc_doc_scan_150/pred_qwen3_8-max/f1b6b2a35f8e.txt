@@ -1,0 +1,57 @@
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+Part Number & Temperature & Package & Marking & \begin{tabular}{c}Moisture\\ Sensitivity\\ Level\end{tabular} & \begin{tabular}{c}Environmental\\ Information\end{tabular} & \begin{tabular}{c}Delivery\\ Form\end{tabular} \\
+\hline
+AW32905EFCR & -40$^{\circ}$C -- 85$^{\circ}$C & \begin{tabular}{c}FCQFN\\ 1.3mm$\times$1.8mm\\ -12L\end{tabular} & RZR & MSL1 & ROHS+HF & \begin{tabular}{c}3000 units/\\ Tape and\\ Reel\end{tabular} \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\textbf{Absolute Maximum Ratings} \textsuperscript{(NOTE 1)}
+
+\vspace{0.5em}
+
+\begin{tabular}{|c|l|l|c|c|c|}
+\hline
+\textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\
+\hline
+V\textsubscript{IN} & Input voltage & & -0.3 & 29 & V \\
+\hline
+V\textsubscript{OUT} & Output voltage & & -0.3 & See\textsuperscript{(NOTE 2)} & V \\
+\hline
+V\textsubscript{OVLO} & OVLO voltage & & -0.3 & 6 & V \\
+\hline
+V\textsubscript{$\overline{\text{ACOK}}$} & $\overline{\text{ACOK}}$ voltage & & -0.3 & 6 & V \\
+\hline
+V\textsubscript{$\overline{\text{EN}}$} & $\overline{\text{EN}}$ voltage & & -0.3 & 6 & V \\
+\hline
+I\textsubscript{SW} & \begin{tabular}{l}Continuous current of switch\\ IN-OUT\textsuperscript{(NOTE 3)}\end{tabular} & \begin{tabular}{l}Continuous current on IN and\\ OUT pin\end{tabular} & & 5 & A \\
+\hline
+I\textsubscript{PEAK} & Peak current & \begin{tabular}{l}Peak input and output current\\ on IN and OUT pin(10ms)\end{tabular} & & 8 & A \\
+\hline
+I\textsubscript{DIODE} & Continuous diode current & \begin{tabular}{l}Continuous forward current\\ through the nFET body diode\end{tabular} & & 1.5 & A \\
+\hline
+T\textsubscript{A} & Ambient temperature & & -40 & 85 & $^{\circ}$C \\
+\hline
+T\textsubscript{J} & Junction temperature & & -40 & 150 & $^{\circ}$C \\
+\hline
+T\textsubscript{STG} & Storage temperature & & -65 & 150 & $^{\circ}$C \\
+\hline
+T\textsubscript{LEAD} & Soldering temperature & At leads, 10 seconds & & 260 & $^{\circ}$C \\
+\hline
+Surge & Input surge protection & \begin{tabular}{l}IEC61000-4-5 test with 2$\Omega$\\ equivalent series resistance\end{tabular} & 120 & & V \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\vspace{0.5em}
+
+\textit{NOTE2: 29V or V\textsubscript{IN}+0.3V, whichever is smaller.}
+
+\vspace{0.5em}
+
+\textit{NOTE3: Limited by thermal design.}

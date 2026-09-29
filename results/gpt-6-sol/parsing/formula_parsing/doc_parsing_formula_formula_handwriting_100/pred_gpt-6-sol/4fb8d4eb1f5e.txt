@@ -1,0 +1,22 @@
+\[
+\begin{cases}
+\widetilde r_0(\zeta)(z,w)
+=\dfrac{z_0+\bar z_0}{2}-{}^{t}\bar z_a A z_d=0,\\[4pt]
+\widetilde r_1(\zeta)(z,w)
+=i\dfrac{w_0}{\zeta}-i\zeta\bar w_0=0,\\[4pt]
+\widetilde r_2(\zeta)(z,w)
+=\bigl(w_1-2w_0\partial_{z_1}r(z)\bigr)
++\overline{\bigl(w_1-2w_0\partial_{z_1}r(z)\bigr)}=0,\\
+\vdots\\
+\widetilde r_{n+1}(\zeta)(z,w)
+=\bigl(w_n-2w_0\partial_{z_n}r(z)\bigr)
++\overline{\bigl(w_n-2w_0\partial_{z_n}r(z)\bigr)}=0,\\[4pt]
+\widetilde r_{n+2}(\zeta)(z,w)
+=i\bigl(w_1-2w_0\partial_{z_n}r(z)\bigr)
+-i\overline{\bigl(w_1-2w_0\partial_{z_n}r(z)\bigr)}=0,\\
+\vdots\\
+\widetilde r_{2n+1}(\zeta)(z,w)
+=i\bigl(w_n-2w_0\partial_{z_n}r(z)\bigr)
+-i\overline{\bigl(w_n-2w_0\partial_{z_n}r(z)\bigr)}=0.
+\end{cases}
+\]

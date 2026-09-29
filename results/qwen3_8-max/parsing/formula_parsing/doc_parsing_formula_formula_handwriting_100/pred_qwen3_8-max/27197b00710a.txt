@@ -1,0 +1,13 @@
+ $$A _ { 2 m + 2 } ( v , z ) \sim ( - \zeta ) ^ { 1 / 4 } \left\{ 1 + \frac { 1 } { 2 } \tilde { \epsilon } _ { 2 m + 2 , r } ( v , i \infty ) \right\} ,$$
+
+ $$\mathbb { P } ^ { \mathcal { G } } ( R _ { k } ^ { i } = \ell _ { k } ^ { i } , i = 1 , \cdots , \bar { n } ) \leq \bar { n } \Upsilon ( w , \bar { n } , ( \ell _ { 0 } ^ { \prime i } ) _ { i = 1 , \cdots , \bar { n } } , ( \ell _ { k } ^ { i } ) _ { i = 1 , \cdots \bar { n } } ) .$$
+
+ $$d = O ( \log n + \log ( 1 / \epsilon ) )$$
+
+ $$L _ { f } = \operatorname* { s u p } _ { x \neq y } \Omega _ { f } ( x , y ) { \frac { | f ( x ) - f ( y ) | } { | x - y | } }$$
+
+ $$\begin{array} { l } { { I ^ { + } \frac { 1 } { 2 } \left( V ^ { + } + V ^ { - } \right) = \frac { 1 } { 2 } \left( V ^ { + } - V ^ { - } \right) I ^ { + } , } } \\ { { I ^ { - } \frac { 1 } { 2 } \left( V ^ { + } + V ^ { - } \right) = \frac { 1 } { 2 } \left( - V ^ { + } - V ^ { - } \right) I ^ { - } , } } \end{array}$$
+
+ $$\begin{array} { r l } { - u _ { 1 } \cdot n _ { 1 } + \alpha p _ { 1 , \gamma } + s _ { \gamma } \partial _ { t } p _ { 1 , \gamma } + \mathrm { d i v } _ { \tau } \, u _ { \gamma , 1 } = - u _ { 2 } \cdot n _ { 1 } + \alpha p _ { 2 , \gamma } } & { { } \; \mathrm { o n } \gamma \times ( 0 , T ) , } \\ { u _ { \gamma , 1 } = - k _ { \gamma } \delta \nabla _ { \tau } p _ { 1 , \gamma } } \end{array}$$
+
+ $$| z _ { 0 } \rangle \! \otimes \! | \xi ( z _ { 0 } ) \rangle \! \stackrel { T } { \Rightarrow } | z _ { 0 } \rangle \! \otimes \! | \phi ( z _ { 0 } ) \rangle ,$$

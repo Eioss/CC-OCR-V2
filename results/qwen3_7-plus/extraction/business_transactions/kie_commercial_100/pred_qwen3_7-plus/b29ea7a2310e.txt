@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "10/6/2020",
+    "vendor_name": "KDEM-FM/KOTS-AM",
+    "vendor_address": "P.O. Box 470 1700 S. Gold Avenue Deming, NM 88031",
+    "customer_id": "23621",
+    "customer_billing_name": "NM Working Families PAC",
+    "customer_billing_address": "9426 Indian School Rd. NE - Suite 2 Albuquerque, NM 87112",
+    "customer_other_name": "Marketing Solutions",
+    "amount_total_net": "$561.00",
+    "amount_total_gross": "$660.00",
+    "amount_due": "484.50"
+}
+```

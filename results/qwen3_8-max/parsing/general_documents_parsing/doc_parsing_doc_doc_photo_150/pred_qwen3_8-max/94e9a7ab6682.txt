@@ -1,0 +1,137 @@
+Based on the image provided, here is the transcription of the text, tables, and charts into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese characters
+\usepackage{booktabs}
+\usepackage{pgfplots}
+\usepackage{geometry}
+\usepackage{caption}
+
+\geometry{a4paper, margin=1in}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+\begin{flushright}
+证券研究报告
+\end{flushright}
+
+\textbf{图 19: 机载雷达天线罩常用透波纤维及性能}
+
+\begin{center}
+\begin{tabular}{lcccccccc}
+\toprule
+\textbf{性能} & \textbf{E玻璃} & \textbf{S玻璃} & \textbf{M玻璃} & \textbf{D玻璃} & \textbf{高硅氧玻璃} & \textbf{石英玻璃} & \textbf{Kevlar49} & \textbf{Spectra 1000} \\
+ & \textbf{纤维} & \textbf{纤维} & \textbf{纤维} & \textbf{纤维} & \textbf{纤维} & \textbf{纤维} & & \\
+\midrule
+密度/($\text{g/cm}^3$) & 2.54 & 2.49 & 2.77 & 2.16 & 2.30 & 2.20 & 1.45 & 0.97 \\
+拉伸强度/GPa & 3.45 & 4.00 & 3.7 & 2.40 & 2.50 & 1.70 & 3.45 & 3.0 \\
+杨氏模量/GPa & 72.0 & 85.0 & 91.6 & 52.0 & 52.0 & 72.0 & 137 & 95.3 \\
+$\varepsilon$/10GHz & 6.13 & 5.21 & 7.0 & 4.00 & 4.00 & 3.78 & 3.85 & 2.30 \\
+tan$\delta$/10GHz & 0.0038 & 0.0068 & 0.0039 & 0.0026 & 0.0048 & 0.0002 & 0.0010 & 0.0001 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent \small \textit{资料来源: 机载雷达天线罩常用透波复合材料研究进展 (李大进), 国海证券研究所}
+
+\vspace{0.5cm}
+
+当前，我国军机规模与美国相比还存在较大差距。我国全部军机数量约为其 1/4；运输机数量约为其 1/9；武装直升机数量不到其 1/10；教练机数量约为其 1/6；战斗机总量约为其 3/4，但其中含有超过 500 架二代战机。在数量和结构方面与美军差距明显，仅战斗机数量提升和老旧装备更新换代需求就超过千架。随着世界一流军队建设目标的提出，以及 J-20、Y-20 等新一代军机列装进度加快，航空装备产业链景气度有望进一步提升。雷达罩作为军机结构的重要组成部分，其需要将随着军机需求的增长而快速增长。
+
+\vspace{0.5cm}
+
+\begin{figure}[h]
+    \centering
+    \begin{minipage}{0.48\textwidth}
+        \centering
+        \textbf{图 20: 中美全部军机数量对比}
+        \begin{tikzpicture}
+            \begin{axis}[
+                ybar,
+                bar width=12pt,
+                height=8cm,
+                width=\textwidth,
+                ymin=0, ymax=16000,
+                symbolic x coords={全部军机, 作战飞机, 运输机, 武装直升机, 教练机},
+                xtick=data,
+                x tick label style={rotate=0, anchor=center, font=\small},
+                legend style={at={(0.5,1.05)}, anchor=south, legend columns=-1, draw=none},
+                nodes near coords align={vertical},
+                enlarge x limits=0.15,
+            ]
+            \addplot[fill=gray!60] coordinates {(全部军机, 3800) (作战飞机, 3000) (运输机, 500) (武装直升机, 800) (教练机, 1000)};
+            \addplot[fill=black!80] coordinates {(全部军机, 14000) (作战飞机, 4000) (运输机, 2500) (武装直升机, 6500) (教练机, 5000)};
+            \legend{中国 (架), 美国 (架)}
+            \end{axis}
+        \end{tikzpicture}
+        \vspace{0.2cm}
+        \noindent \small \textit{资料来源: World air forces 2017, 国海证券研究所}
+    \end{minipage}\hfill
+    \begin{minipage}{0.48\textwidth}
+        \centering
+        \textbf{图 21: 中美空军战斗机结构}
+        \begin{tikzpicture}
+            \begin{axis}[
+                ybar stacked,
+                bar width=25pt,
+                height=8cm,
+                width=\textwidth,
+                ymin=0, ymax=2000,
+                symbolic x coords={中国, 美国},
+                xtick=data,
+                legend style={at={(0.5,1.05)}, anchor=south, legend columns=-1, draw=none, font=\small},
+                enlarge x limits=0.5,
+            ]
+            % Approximate values based on visual estimation of the stacked bars
+            % China: Total ~1000. 2nd gen ~500, 3rd gen ~100, 4th gen ~400, 5th gen ~0 (or very small)
+            % US: Total ~1800. 2nd gen ~0, 3rd gen ~0, 4th gen ~1700, 5th gen ~100
+            
+            % Note: The legend order in image is 五代, 四代, 三代, 二代 (5th, 4th, 3rd, 2nd)
+            % Stacking order usually goes bottom to top.
+            
+            \addplot[fill=black!80] coordinates {(中国, 0) (美国, 100)}; % 五代 (5th) - Top layer visually? Or bottom? 
+            % Actually, looking at the graph:
+            % China: Bottom dark block (2nd/3rd?), Middle light block (4th?), Top medium block (5th?).
+            % Let's re-evaluate based on standard stacking or visual cues.
+            % Legend: 五代 (darkest?), 四代, 三代, 二代.
+            % China Bar: Bottom is dark (~500), Middle is medium (~100), Top is light (~400). Total 1000.
+            % US Bar: Almost all light grey (~1700), tiny dark top (~100). Total 1800.
+            
+            % Let's map:
+            % 二代 (2nd): Dark gray?
+            % 三代 (3rd): Medium gray?
+            % 四代 (4th): Light gray?
+            % 五代 (5th): Black?
+            
+            % Re-reading legend colors from right to left or left to right?
+            % Legend: ■五代 ■四代 ■三代 ■二代
+            % Colors in legend: Dark, Medium-Dark, Medium-Light, Light? Hard to tell exactly in B&W.
+            % Let's assume standard ordering for simulation.
+            
+            \addplot[fill=gray!30] coordinates {(中国, 400) (美国, 1700)}; % 四代 (4th) - Large portion
+            \addplot[fill=gray!60] coordinates {(中国, 100) (美国, 0)}; % 三代 (3rd)
+            \addplot[fill=gray!80] coordinates {(中国, 500) (美国, 0)}; % 二代 (2nd) - Bottom for China
+            \addplot[fill=black] coordinates {(中国, 0) (美国, 100)}; % 五代 (5th)
+            
+            \legend{五代, 四代, 三代, 二代}
+            \end{axis}
+        \end{tikzpicture}
+        \vspace{0.2cm}
+        \noindent \small \textit{资料来源: World air forces 2017, 维基百科, 国海证券研究所}
+    \end{minipage}
+\end{figure}
+
+\vspace{0.5cm}
+
+在航天领域，公司产品主要用于制作隔热和耐高温材料。根据《2016 中国的航天》白皮书，我国将航天事业作为国家战略的重要组成部分，历来高度重视。未来五年，我国还将继续推进载人航天、月球探测、北斗卫星导航系统、高分辨率对地观测系统、新一代运载火箭等重大工程，并启动一批新的重大科技项目和工程项目。从近年来看，我国航天发射的次数稳步增加，未来有望保持年均 20 次以上。石英棉、石英布以及石英纱作为航天飞行器隔热、耐高温部件的重要原材料，未来需求有望随着我国航天事业的发展，保持稳定的增长。
+
+\vspace{0.5cm}
+
+\textbf{图 22: 飞船返回大气层}
+
+\end{document}
+```

@@ -1,0 +1,91 @@
+# Transcription
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\begin{document}
+
+\noindent অয়োময় \hfill ৪৭ \hfill ১৩৭
+
+\begin{center}
+{\Large \textbf{Ka Set}}
+\end{center}
+
+\begin{center}
+\textbf{JUNIOR SCHOOL CERTIFICATE EXAMINATION,}\\[4pt]
+ENGLISH\\[4pt]
+\textsc{Second Paper}
+\end{center}
+
+\hfill Subject Code : \fbox{1} \fbox{0} \fbox{8}
+
+\begin{center}
+Time---2 hours\\
+Full marks---50
+\end{center}
+
+\begin{center}
+\textit{[N.B.---The figures in the right margin indicate full marks.]}
+\end{center}
+
+\begin{center}
+\textbf{Section A---Grammar}\\
+Marks---30
+\end{center}
+
+\hfill Marks
+
+\begin{enumerate}
+\item Fill in the gaps of the following text with appropriate articles. Put a \hfill $0.5\times6$\\
+cross ($\times$) where there is no article applicable :--- \hfill $=3$\\
+I live in Rajshahi. My elder brother who is \textit{(a)} ------- engineer,
+works in Dhaka. Last summer he asked me to stay \textit{(b)} ------- few
+days with him and sent me \textit{(c)} ------- plane ticket. That was my first
+journey by air. I arrived at \textit{(d)} ------- airport about \textit{(e)} ------- hour
+before the flight. It was \textit{(f)} ------- enjoyable plane journey.
+
+\item Fill in the blanks of the following text with prepositions given in the \hfill $0.5\times6$\\
+box :--- \hfill $=3$
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+for & to & in & with & about & after \\
+\hline
+\end{tabular}
+\end{center}
+
+Money is a must \textit{(a)} ------- our life. But one should not run after
+money because those who hanker \textit{(b)} ------- money cannot enjoy
+mental peace. Sometimes, it may lead one \textit{(c)} ------- some
+unexpected troubles. It also happens that greed \textit{(d)} ------- money
+brings \textit{(e)} ------- many problems. So we should be contented
+\textit{(f)} ------- what we have.
+
+\item Make \textbf{four} meaningful sentences from the substitution table :--- \hfill $1\times4=4$
+
+\begin{center}
+\begin{tabular}{|p{3cm}|c|p{5cm}|}
+\hline
+Youth & \multirow{2}{*}{is} & be built properly. \\
+\cline{1-1}\cline{3-3}
+It & & the time of sowing seeds of life. \\
+\cline{1-3}
+ & must & \\
+\cline{2-2}
+We & & sow the seeds of industry and \\
+\cline{2-2}
+ & will & honesty in this time. \\
+\cline{1-1}\cline{3-3}
+Thus our future & & the best time of life. \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{enumerate}
+
+\hfill \textit{[Please turn over}
+
+\end{document}
+```

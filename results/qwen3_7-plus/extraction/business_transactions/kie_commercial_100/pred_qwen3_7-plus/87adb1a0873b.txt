@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "10/14/18",
+    "order_id": "386384",
+    "vendor_name": "CUMULUS FAYETTEVILLE",
+    "vendor_address": "3599 Momentum Place Chicago, IL 60689-5335",
+    "customer_id": "274724",
+    "customer_billing_name": "American Media Advocacy Group",
+    "customer_billing_address": "815 Slater Lane Alexandria, VA 22314",
+    "amount_total_gross": "$600.00",
+    "amount_paid": "$90.00",
+    "amount_due": "$510.00",
+    "payment_terms": "Due on Receipt"
+}
+```

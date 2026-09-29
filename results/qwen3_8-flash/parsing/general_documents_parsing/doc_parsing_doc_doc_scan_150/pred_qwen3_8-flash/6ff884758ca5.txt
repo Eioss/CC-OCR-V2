@@ -1,0 +1,86 @@
+```latex
+\begin{center}
+50 \hfill AFFILIATION OF THE ALGONQUIN LANGUAGES. \\[1em]
+
+VOCABULARY III. \\
+Comparison of Pronouns.
+\end{center}
+
+\begin{tabular}{lll}
+& \textsc{Algonquin.} & \textsc{Malay-Polynesian.} \\
+I & neya, Cree & naak, Pelew \\
+Thou & keya, " & kow, Pelew; kowe, Ponape \\
+   & ki, Delaware; kee, Shawno & koe, New Zealand; coy, Tonga \\
+   & koai, Ojibbeway & koai, Malay \\
+He & noh, Nattick; neha, Delaware & na, \\
+   & weya, Cree & iya, Tagala, Malay \\
+We & oo, Shawno & aia, Tonga \\
+   & keyanow, Cree & cami, Tagala; kami, Malay \\
+   & kenawun, Nattick & gimowooa, Tonga \\
+you & mow, Micmac & mow, Tonga \\
+   & kistahnon, Blackfoot & kita, Ponape; keeta, Malay \\
+   & neyunow, Cree &naie, Malagasy \\
+   & keyuwow, Cree & koe-ee-oo, Malay \\
+   & kenau, Nattick & kamo, Tagala; kamu, Malay \\
+they & kinawa, Ojibbeway & gimooa, Tonga \\
+   & nahoh, Nattick & now, \\
+   & winawa, Ojibbeway & ginowooa, Tonga \\
+\end{tabular}
+
+\begin{center}
+Prepositions and Adverbs.
+\end{center}
+
+\begin{tabular}{lll}
+before & amooya, Cree & mua, Tahiti; gi-mooa, Tonga \\
+       &                & dee-mooea, Malay \\
+below  & utamik, Cree   & atas, \\
+       & chupuses, Cree; tabassish, Ojibbeway & da-baoua, " \\
+behind & ootak,         & tooa, Tonga \\
+near   & tcik, Algonquin; cheke, Cree & dekat, Malay \\
+at     & kekek, Cree    & ka, " \\
+against, about & ooche, Cree & gi, Tonga \\
+concerning. & & \\
+\end{tabular}
+
+\vspace{2em}
+
+\begin{center}
+VOCABULARY OF MISCELLANEOUS TERMS. \\
+Algonquin and Malay-Polynesian.
+\end{center}
+
+\begin{tabular}{lll}
+& \textsc{Algonquin.} & \textsc{Malay-Polynesian.} \\
+all & misewa, mamo, Cree & mau, Tahiti \\
+alone & pikoo, Cree & be, Tonga \\
+ant & ayik, " & kakai, Amblaw; osea, Celebes \\
+arrow & kanouins, anwi, Algonquin & gnahow, Tonga \\
+      & wepema, Miami & pana, Malay, Java \\
+ashes & utoos, attouche, Cree & dota, Ombay \\
+      & pekootao, Cree; pingwi, Ojibbeway & aptai, Bourn; aftuha, Sula \\
+awake & pakoonao, Cree & kapok, Galela \\
+axe   & togkunk, Algonquin & peekkeeis, Pelew; bangou, Malay \\
+      & kokskin, Blackfoot & togi, Tonga \\
+basket & agucwet, Ojibbeway & kisseeum, Pelew \\
+to be & wutuopewut, Cree & ikiti, Batamerah \\
+belly & itow, Cree & tempat, Malay \\
+bone  & wachtey, Delaware & ada, Malay \\
+boat, canoe & mutai, Cree & wutan, Java; butah, Baju \\
+            & ochkunne, Shawno & motni, Mysol \\
+body        & wuskiwoose, Cree & koknatea, Amblaw \\
+            & missote, Miami & wog, Gani; vaka, Marianes, Tonga \\
+bow         & eeio, Ottawa; yoa, Ojibbeway & oti, Tidore \\
+bread, food & iniwia, Blackfoot & mallayae, Pelew \\
+breast      & uchape, Cree & aoh, Menado; awah, Java \\
+bird        & mechim, " & inawallah, Saparua; nanau, Amblaw \\
+            & ayukoonow, Cree & jobi-jobi, Tidore; djub, Sula \\
+            & pummeh, Mohican & macunnan, Malay \\
+            & totosh, Ojibbeway & kannon, Bissayan \\
+            & penasew, Cree & fafanga, Tonga \\
+            & pethesew, " & tetai, Malay; toot, Pelew \\
+            & benasew, Ojibbeway; pinasy, Algonquin & namo-bangou, Tidore \\
+            & & pitek, Java (fowl) \\
+            & & manok, Java, \&c. \\
+\end{tabular}
+```

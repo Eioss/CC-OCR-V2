@@ -1,0 +1,19 @@
+I'll extract the mathematical formula from this handwritten image.
+
+$$\frac{1}{2}\frac{d}{dt}\|\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\|_{L^2_{x,v}}^2 + \frac{\delta_1}{\varepsilon^2}\|\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\|_{L^2_{x,v}}^2$$
+
+$$\leq \frac{\delta_2}{\varepsilon}\sum_{\beta'<\beta}\|\partial_x^\alpha\partial_v^{\beta'}(1-P)g^{n+1}\|_{L^2_{x,v}}^2$$
+
+$$+\frac{1}{\varepsilon}\sum_{|\beta|=1}\underbrace{C_\beta\langle\partial_v^{\beta'}v\cdot\nabla_x\partial_x^\alpha\partial_v^{\beta-\beta'}(1-P)g^{n+1},\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_1}$$
+
+$$\underbrace{-\gamma\langle\partial_x^\alpha\partial_v^\beta(1-P)(\nabla_x\cdot\phi^n\cdot\nabla_v(1-P)g^{n+1}),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_2}$$
+
+$$\underbrace{+\gamma\langle\partial_x^\alpha\partial_v^\beta(1-P)(\nabla_x\cdot\phi^n\cdot\nabla_v(1-P)g^{n+1}),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_3}$$
+
+$$\underbrace{+\frac{1}{\varepsilon}\langle\partial_x^\alpha\partial_v^\beta\Gamma(g^n,g^n),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_4}$$
+
+$$\underbrace{+\gamma\langle\partial_x^\alpha\partial_v^\beta(1-P)(\nabla_x\phi^n P g^{n+1}),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_5}$$
+
+$$\underbrace{-\frac{1}{\varepsilon}\langle\partial_x^\alpha\partial_v^\beta(1-P)(v\cdot\nabla_x P g^{n+1}),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_6}$$
+
+$$\underbrace{+\frac{1}{\varepsilon}\langle\partial_x^\alpha\partial_v^\beta P(v\cdot\nabla_x(1-P)g^{n+1}),\partial_x^\alpha\partial_v^\beta(1-P)g^{n+1}\rangle_{L^2_{x,v}}}_{S_7}$$

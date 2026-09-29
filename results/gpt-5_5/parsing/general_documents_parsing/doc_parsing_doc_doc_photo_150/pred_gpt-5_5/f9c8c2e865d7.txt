@@ -1,0 +1,43 @@
+```latex
+\[
+\text{7 Singular- plural}
+\]
+
+\begin{tabular}{lllllllll}
+axis & crisis & analysis & basis & thesis & criterion & & & \\
+axes & crises & analyses & bases & theses & criteria & & & \\[0.5em]
+
+datum & medium & erratum & stratum & memorandum & agendum & & & \\
+data & media & errata & strata & memoranda & agenda & & & \\[0.5em]
+
+alumna & formula & antenna & bacterium & aquarium & & & & \\
+alumnae & formulae & antennae & bacteria & aquaria & & & & \\[0.5em]
+
+focus & locus & terminus & alumnus & fungus & - & & & \\
+foci & loci & termini & alumni & fungi & & & & \\[0.5em]
+
+syllabus & radius & stimulus & tooth & foot & goose & & & \\
+syllabi & radii & stimuli & teeth & feet & geese & & & \\[0.5em]
+
+matrix & index & appendix & apex & vertex & genie & & & \\
+matrices & indices & appendices & apices & vertices & genies & & & \\[0.5em]
+
+cupful & dining room & grown up & spoonful & daughter-in-law & & & & \\
+cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law & & & & \\[0.5em]
+
+son-in-law & runner-up & governor-general & army & baby & boy & toy & buffalo & \\
+sons-in-law & runners-up & governors-general & armies & babies & boys & toys & buffaloes & \\[0.5em]
+
+man & woman & child & leaf & thief & knife & wife & life & man-servant \\
+men & women & children & leaves & thieves & knives & wives & lives & men-servants \\[0.5em]
+
+virus & photo & sheep & deer & aircraft & furniture & cattle & & \\
+viruses & photos & sheep & deer & aircraft & furniture & cattle & & \\[0.5em]
+
+corps & species & spectacles & means & premises & series & & & \\
+corps & species & spectacles & means & premises & series & & & \\[0.5em]
+
+innings & pants & & & & & & & \\
+innings & pants & & & & & & &
+\end{tabular}
+```

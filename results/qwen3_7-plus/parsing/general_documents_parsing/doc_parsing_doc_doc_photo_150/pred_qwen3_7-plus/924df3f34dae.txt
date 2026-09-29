@@ -1,0 +1,71 @@
+```latex
+\begin{center}
+    \Large{\textbf{Verification of the Formula of a Hydrated Salt Data Sheet}}
+\end{center}
+
+\noindent Name: \underline{\hspace{8cm}} \hfill Partner's Name: \underline{\hspace{6cm}}
+
+\vspace{0.5cm}
+
+\noindent Hydrated salt you were given: \underline{CoSO$_4$ $\cdot$ 2H$_2$O}
+
+\vspace{0.5cm}
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & \textbf{Trial 1} & \textbf{Trial 2} & \textbf{Trial 3} \\
+\hline
+Mass of crucible and lid (g) & 26.326g & 26.247 & \\
+\hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 32.712g & 30.200g & \\
+\hline
+Mass of hydrated salt (g) & 6.3853g & 3.953g & \\
+\hline
+Mass of crucible, lid, salt AFTER heating (g) & 32.656g & 29.69g & \\
+\hline
+Mass of anhydrous salt (g) & 4.33g & 3.443g & \\
+\hline
+Moles of anhydrous salt (mole) & 0.0310g & 0.02530g & \\
+\hline
+Mass of water of crystallization removed (g) & 1.059g & 0.5100g & \\
+\hline
+Moles of water of crystallization removed (mole) & 0.5870g & 0.2830g & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|c|c|c|}
+\hline
+Ratio moles water : moles salt & ? & ? & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|c|c|}
+\hline
+ & \textbf{Individual} & \textbf{Class} \\
+\hline
+Average Ratio & ? & X \\
+\hline
+Standard Deviation & & X \\
+\hline
+Relative Standard Deviation (\%) & ? & X \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent The Chemical Formula for the hydrate is \underline{?}.
+
+\vspace{1cm}
+
+\noindent This document was prepared by D. Finneran, J. Tierney.
+
+\vfill
+\begin{center}
+    45
+\end{center}
+```

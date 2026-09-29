@@ -1,0 +1,37 @@
+```html
+<table border="1">
+  <tr> 
+    <th rowspan="2">methods</th> 
+    <th colspan="2">Accuracy</th> 
+  </tr>
+  <tr> 
+    <td>$I^0$</td> 
+    <td>$I^1$</td> 
+  </tr>
+  <tr> 
+    <td>AFL</td> 
+    <td>$82.6\pm.5$</td> 
+    <td>$73.0\pm 2.2$</td> 
+  </tr>
+  <tr> 
+    <td>q-FFL</td> 
+    <td>$82.4\pm.1$</td> 
+    <td>$74.4\pm.9$</td> 
+  </tr>
+  <tr> 
+    <td>local</td> 
+    <td>$\mathbf{83.5\pm.0}$</td> 
+    <td>$66.9\pm 1.0$</td> 
+  </tr>
+  <tr> 
+    <td>spo(ours)</td> 
+    <td>$82.8\pm.3$</td> 
+    <td>$\mathbf{77.0\pm.7}$</td> 
+  </tr>
+  <tr> 
+    <td>CE</td> 
+    <td>$\{I^{0}\}$</td> 
+    <td>$\{I^{1}\}$</td> 
+  </tr>
+</table>
+```

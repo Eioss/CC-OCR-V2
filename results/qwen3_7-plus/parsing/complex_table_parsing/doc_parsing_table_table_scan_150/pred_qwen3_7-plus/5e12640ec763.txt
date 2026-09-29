@@ -1,0 +1,123 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        processHtmlClass: 'math-process'
+                        }
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="6" style="background-color:#FFC107; text-align:center; font-size:20px;">碧桂园津湖源著 3#楼预售详情</th>
+   </tr>
+   <tr>
+    <td colspan="2"><b>住宅总户数</b></td>
+    <td colspan="4" style="text-align:center;"><b>32套</b></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>单元</b></td>
+    <td><b>01单元</b></td>
+    <td><b>02单元</b></td>
+    <td><b>03单元</b></td>
+    <td><b>05单元</b></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>建面约</b></td>
+    <td>89.71m²</td>
+    <td>89.71m²</td>
+    <td>89.71m²</td>
+    <td>89.71m²</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>套数</b></td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>预售单价 (元/m²)</b></td>
+    <td>13763.63</td>
+    <td>13410.75</td>
+    <td>13389.63</td>
+    <td>13537.88</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>3#楼预售均价</b></td>
+    <td colspan="4" style="text-align:center; color:red; font-weight:bold; font-size:18px;">13525.47元/m²</td>
+   </tr>
+   <tr>
+    <th colspan="6" style="background-color:#FFC107; text-align:center; font-size:20px;">碧桂园津湖源著 5#楼预售详情</th>
+   </tr>
+   <tr>
+    <td colspan="2"><b>住宅总户数</b></td>
+    <td colspan="4" style="text-align:center;"><b>56套</b></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>单元</b></td>
+    <td><b>01单元</b></td>
+    <td><b>02单元</b></td>
+    <td><b>03单元</b></td>
+    <td><b>05单元</b></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>建面约</b></td>
+    <td>110.24m²</td>
+    <td>109.93m²</td>
+    <td>109.93m²</td>
+    <td>109.93m²</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>套数</b></td>
+    <td>14</td>
+    <td>14</td>
+    <td>14</td>
+    <td>14</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>预售单价 (元/m²)</b></td>
+    <td>13807.50</td>
+    <td>13585.71</td>
+    <td>13533.21</td>
+    <td>13726.93</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>5#楼预售均价</b></td>
+    <td colspan="4" style="text-align:center; color:red; font-weight:bold; font-size:18px;">13663.49元/m²</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>3#楼、5#楼整体预售均价</b></td>
+    <td colspan="4" style="text-align:center; color:red; font-weight:bold; font-size:18px;">13619.64元/m²</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

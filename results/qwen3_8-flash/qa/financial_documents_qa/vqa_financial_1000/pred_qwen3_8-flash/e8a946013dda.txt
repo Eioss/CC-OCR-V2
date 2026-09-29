@@ -1,0 +1,10 @@
+Based on the provided "WATER ANALYSIS" document, specifically in the section titled **"Boiler Water Treatment"** at the bottom left:
+
+- The row for **Sodium Sulfide** shows a value under the column **"Daily Average"**.
+- That value is **0.7**.
+
+Therefore, the average value of sodium sulfide used in boiler water treatment (daily average) is **0.7 lbs**.
+
+*(Note: The table also lists "Total lbs" as 58 for Sodium Sulfide over the campaign period, but the question asks for the "average", which corresponds to the "Daily Average" column.)*
+
+**Answer: 0.7**

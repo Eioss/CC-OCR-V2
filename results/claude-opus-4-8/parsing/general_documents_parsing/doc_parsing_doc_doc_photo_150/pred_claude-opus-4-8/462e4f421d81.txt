@@ -1,0 +1,52 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\noindent {\footnotesize Candidate Statement of Results}
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.55\textwidth}
+\textbf{Season:} \quad June Exams (Summer) 2019 \\[0.5em]
+\textbf{Name:} \quad \rule{2cm}{0.4em} \quad (Alex) \\[0.5em]
+\textbf{Candidate Number:} \quad 4316 \\[0.5em]
+\textbf{UCI:} \quad \rule{2.5cm}{0.4em}
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+\textbf{Series:} \quad (All) \\[0.5em]
+\textbf{Year:} \quad 12 \\[0.5em]
+\textbf{Reg. Group:} \quad 12TAM \\[0.5em]
+\textbf{ULN:}
+\end{minipage}
+
+\vspace{1.5em}
+
+\noindent {\Large Exam Results}
+
+\vspace{1em}
+
+\begin{tabular}{l l l l c c c c c c c}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{\begin{tabular}[c]{@{}l@{}}Element\\Code\end{tabular}} & \textbf{Title} & \textbf{Grd1} & \textbf{Grd2} & \textbf{Mark} & \textbf{Equiv} & \textbf{End1} & \textbf{End2} & \textbf{Points} \\
+\midrule
+OCR      & FSMQ/A   & 6993   & Maths: Additional Mathematics & A &  &     & 109 &  &  &  \\
+CIE      & GCSE/9FC & 0976BY & Geography Opt by               & 9 &  &     &     &  &  &  \\
+EDEXL/GC & GCSE/9FC & 4HI1   & History                       & 9 &  &     & 109 &  &  &  \\
+EDEXL/GC & GCSE/9FC & 4MA1H  & Mathematics A Option H        & 9 &  &     & 176 &  &  &  \\
+AQA      & GCSE/9FC & 8461H  & Biology Tier H                & 9 &  &     &     &  &  &  \\
+AQA      & GCSE/9FC & 8462H  & Chemistry Tier H              & 9 &  &     &     &  &  &  \\
+AQA      & GCSE/9FC & 8463H  & Physics Tier H                & 9 &  &     &     &  &  &  \\
+AQA      & GCSE/9FC & 8658H  & French Tier H                 & 9 &  &     &     &  &  &  \\
+AQA      & GCSE/9FC & 8700   & English Language              & 9 &  &     &     & D &  &  \\
+AQA      & GCSE/9FC & 8702   & English Literature            & 9 &  &     &     &  &  &  \\
+OCR      & GCSE/9FC & J282F  & Latin Option F                & 8 &  &     & 165 &  &  &  \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

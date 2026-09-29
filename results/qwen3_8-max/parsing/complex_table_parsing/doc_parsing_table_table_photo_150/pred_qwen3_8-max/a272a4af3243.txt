@@ -1,0 +1,282 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="7" style="text-align:center; font-size: 20px;">教师用书与配套资源对照表</th>
+   </tr>
+   <tr>
+    <th>主题</th>
+    <th>分主题</th>
+    <th>教师用书</th>
+    <th>幼儿用书</th>
+    <th>幼儿手工</th>
+    <th>幼儿绘画</th>
+    <th>幼儿挂图</th>
+   </tr>
+   <tr>
+    <td rowspan="15" style="writing-mode: vertical-rl; text-align: center;">一、我在长大</td>
+    <td rowspan="6">一、我的身体长得快</td>
+    <td>1. 小熊想长高<sup>2</sup></td>
+    <td>小熊想长高</td>
+    <td>双面小熊</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>2. 我小时候<sup>1</sup></td>
+    <td>成长影集</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>3. 大鞋与小鞋<sup>3</sup></td>
+    <td>谁的脚印</td>
+    <td></td>
+    <td>大鞋小鞋</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>4. 没有牙的大老虎</td>
+    <td>没有牙的大老虎</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5. 健康歌<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>6. 数手指<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td rowspan="9">二、我变能干了</td>
+    <td>1. 我的本领大<sup>1</sup></td>
+    <td>南南和兰兰<br/>整理物品</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>2. 能干的小手<sup>3</sup></td>
+    <td>小手棋</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>3. 手指谣<sup>1</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>4. 小脚也能干<sup>1</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5. 你说我也说<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>6. 玩球<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>7. 学妈妈<sup>2</sup></td>
+    <td>学妈妈</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>8. 机器兵<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>机器兵(一)<br/>(二)(三)</td>
+   </tr>
+   <tr>
+    <td>9. 松鼠学本领<sup>1</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td rowspan="6">三、陪伴我成长的家人</td>
+    <td>1. 摇篮<sup>2</sup></td>
+    <td>摇篮</td>
+    <td>摇篮</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>2. 小鸭的一家<sup>3</sup></td>
+    <td></td>
+    <td></td>
+    <td>小鸭的一家</td>
+    <td>小鸭的一家(一)<br/>(二)</td>
+   </tr>
+   <tr>
+    <td>3. 爸爸的手<sup>1</sup></td>
+    <td>爸爸的手</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>4. 我们的手像我们的家<sup>2</sup></td>
+    <td></td>
+    <td>我们的手像我们的家</td>
+    <td>我家有几口人</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5. 好娃娃<sup>2</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>6. 最好吃的蛋糕<sup>2</sup></td>
+    <td>最好吃的蛋糕</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td rowspan="7" style="writing-mode: vertical-rl; text-align: center;">二、秋天变化多</td>
+    <td rowspan="7">一、树叶变了</td>
+    <td>7. 家<sup>1</sup></td>
+    <td>家</td>
+    <td>布置新家(一)<br/>布置新家(二)</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>8. 我爱照顾我的家人</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>9. 给爸爸送饭<sup>1</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>1. 落叶<sup>3</sup></td>
+    <td></td>
+    <td></td>
+    <td rowspan="2">春天、夏天和秋天</td>
+    <td rowspan="2">秋叶</td>
+   </tr>
+   <tr>
+    <td>2. 秋风和秋叶<sup>3</sup></td>
+    <td>树叶粘贴作品</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>3. 许多树叶在一起<sup>1</sup></td>
+    <td></td>
+    <td>树叶拼画</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>4. 亲亲影子<sup>3</sup></td>
+    <td>亲亲影子<br/>树叶与它的影子</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5. 树叶分类<sup>3</sup></td>
+    <td>叶子小屋</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>6. 追赶小树叶<sup>1</sup></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>7. 一片槐树叶<sup>3</sup></td>
+    <td>一片槐树叶</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

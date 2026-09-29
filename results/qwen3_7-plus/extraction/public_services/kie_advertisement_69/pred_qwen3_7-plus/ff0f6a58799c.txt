@@ -1,0 +1,7 @@
+```json
+{
+    "advertiser": "Shelley Berkley",
+    "flight_from": "7/30/12",
+    "flight_to": "8/10/12"
+}
+```

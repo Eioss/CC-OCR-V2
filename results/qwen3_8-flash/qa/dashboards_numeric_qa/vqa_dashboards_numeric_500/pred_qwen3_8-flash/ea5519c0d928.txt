@@ -1,0 +1,41 @@
+Based on the provided infographic, under the **PHOTO MEDIA** section, we can examine the lifespan bars for each type.
+
+The bar chart shows two values for each media type:
+- The darker green portion represents "REGULAR USE"
+- The lighter green portion represents "UNUSED OR EXTREME CARE"
+
+Looking at the photo media types:
+
+1.  **UNDEVELOPED FILM (1885)**: Regular use ~3 years, total up to 6 years.
+2.  **DIGITAL PHOTOS (1990s)**: Regular use ~30 years, total up to 50 years.
+3.  **PHOTO SLIDES (1941)**: Regular use ~50 years, total up to 70 years.
+4.  **DEVELOPED PHOTOS (1900s)**: Regular use ~50 years, total up to 78 years.
+5.  **MEMORY CARD (1999)**: Regular use ~115 years (the dark green bar extends past the 100+ mark, and the label says 115).
+
+Wait — let’s look more carefully at the **Memory Card** entry.
+
+In the PHOTO MEDIA section:
+> **MEMORY CARD**  
+> Dark green bar (regular use) goes all the way to **115**, with light green extending beyond that.
+
+Also, there's a note next to it:  
+> **GRANDMASTER FLASH**  
+> *Solid state memory decays as it is used and not from time.*
+
+This suggests that while solid-state drives (like USB flash drives or SSDs) degrade with usage cycles, in this context, the “Memory Card” is being given a regular-use lifespan of **115 years**, which exceeds 110.
+
+Additionally, looking back at the COMPUTER MEDIA section, **SOLID STATE HARD DRIVE (1999)** has a regular use bar going to **51**, and unused/extreme care to **100+** — so not over 110 with regular use.
+
+But **Memory Card** explicitly shows **115** under regular use.
+
+---
+
+✅ Therefore, the photo media type with a lifespan of **more than 110 years with regular use** is:
+
+> **MEMORY CARD**
+
+*(Note: While memory cards are technically digital storage devices often categorized under computer media, they are listed here under “Photo Media”, likely because they are commonly used to store photos.)*
+
+---
+
+**Final Answer: MEMORY CARD**

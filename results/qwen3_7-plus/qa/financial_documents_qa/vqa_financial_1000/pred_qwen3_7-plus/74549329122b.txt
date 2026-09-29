@@ -1,0 +1,19 @@
+Based on the provided accounting report, the **total value for the current month** is shown in the row labeled **"130 TOTAL"** under the column **"CURRENT MONTH"**.
+
+That value is:
+
+> **2,029.57-**
+
+The minus sign indicates a credit or reduction (likely expenses or charges against the account).
+
+---
+
+Additionally, at the bottom of the report, under **“*** ACCOUNT TOTAL ***”**, the Current Month total is listed as **0.00**, which suggests that after all transactions and adjustments (including possible offsets or closing entries), the net change for the month is zero — but this is likely an artifact of how the summary was finalized.
+
+However, since your question asks for “the total value of the current month **as shown in the report**”, and the main transactional summary clearly shows **2,029.57-** under “CURRENT MONTH” for the 130 TOTAL line, **that is the figure you should use**.
+
+---
+
+✅ **Final Answer: `2,029.57-`**
+
+*(Note: The negative sign typically denotes a debit/expense in many accounting systems, depending on context — here it likely represents total expenditures for the month.)*

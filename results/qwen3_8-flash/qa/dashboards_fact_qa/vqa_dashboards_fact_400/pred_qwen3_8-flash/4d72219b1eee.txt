@@ -1,0 +1,19 @@
+Based on the provided infographic titled **"KEY REQUIREMENTS FOR IoT SUCCESS"**, there are **6 numbered requirements** listed, each connected to a central "Internet of Things" screen.
+
+Here’s the breakdown:
+
+1.  **DATA PREPARATION** – Filters, aggregates, enriches and analyses data streams.
+2.  **DATA DISCOVERY** – Intelligent suggestions engine for building apps from ingestion to action.
+3.  **STREAMING DATA VISUALIZATION** – HTML5 platform for push-based, real-time visualizations.
+4.  **TIME SERIES DATA** – Record-by-record processing with native time understanding.
+5.  **PREDICTIVE & ADVANCED ANALYTICS** – Real-time data mining, predictive analytics, geospatial analytics.
+6.  **REAL-TIME GEOSPATIAL & LOCATION** – Native geospatial capabilities enhanced via Geo-IP lookup libraries.
+
+Additionally, there is an introductory statement in a blue box (not numbered) that says:  
+> *“As a company with success in the IoT space, we agree wholeheartedly with this assessment and would like to validate this sentiment with a few details of our own.”*
+
+This is context/endorsement, not one of the core requirements.
+
+---
+
+✅ **Final Answer: 6 requirements have been listed for IoT success.**

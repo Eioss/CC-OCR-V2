@@ -1,0 +1,93 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; text-align: right;">
+   <tr>
+    <td colspan="3" style="text-align: center; font-weight: bold;">中国环球租赁有限公司<br/>合并现金流量表 (续)<br/>2018年1月-6月</td>
+   </tr>
+   <tr>
+    <td colspan="3" style="text-align: center;">人民币元</td>
+   </tr>
+   <tr>
+    <th style="text-align: left;">二、投资活动</th>
+    <th>2018年1月–6月</th>
+    <th>2017年1月–6月</th>
+   </tr>
+   <tr>
+    <td style="text-align: left;">收回投资收到的现金</td>
+    <td>-</td>
+    <td>8,358,813</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">取得投资收益收到的现金</td>
+    <td>1,365,633</td>
+    <td>4,902,030</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">收到的其他与投资活动有关的现金</td>
+    <td>476,270,200</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;"><b>投资活动现金流入小计</b></td>
+    <td><b>477,635,833</b></td>
+    <td><b>13,260,843</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">购置固定资产、无形资产及其他长期<br/>资产支付的现金</td>
+    <td>3,254,085</td>
+    <td>7,411,605</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">投资支付的现金</td>
+    <td>-</td>
+    <td>-</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">取得子公司及其他营业单位支付的<br/>现金净额</td>
+    <td>-</td>
+    <td>11,035,027</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;">支付的其他与投资活动有关的现金</td>
+    <td>-</td>
+    <td>538,401,300</td>
+   </tr>
+   <tr>
+    <td style="text-align: left;"><b>投资活动现金流出小计</b></td>
+    <td><b>3,254,085</b></td>
+    <td><b>556,847,932</b></td>
+   </tr>
+   <tr>
+    <td style="text-align: left;"><b>投资活动产生的现金流量净额</b></td>
+    <td><b>474,381,748</b></td>
+    <td><b>-543,587,089</b></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

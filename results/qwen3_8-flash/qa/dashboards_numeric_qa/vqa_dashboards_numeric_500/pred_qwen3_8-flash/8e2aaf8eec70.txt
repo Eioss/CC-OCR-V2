@@ -1,0 +1,26 @@
+Looking at the **“Content Strategy”** section of the infographic, we see a bar chart showing the **Number of Posts** for different content categories.
+
+The bars represent:
+
+- Promotions → 133 posts
+- Corporate Social Responsibility → 83 posts
+- Events → 42 posts
+- Ad Campaigns → 7 posts
+- FB App → 109 posts
+- Brand News → 103 posts
+
+We are asked: **How many contents have more than 100 posts?**
+
+Let’s check which ones exceed 100:
+
+- **Promotions (133)** → ✅ Yes
+- **FB App (109)** → ✅ Yes
+- **Brand News (103)** → ✅ Yes
+
+Others are below 100.
+
+---
+
+✅ **Answer: 3**
+
+There are **3 content categories** with more than 100 posts.

@@ -1,0 +1,3 @@
+```json
+{"date_issue": "05-31-22", "vendor_name": "KMAQ-YOUR HOMETOWN STATION", "vendor_address": "BOX 940 MAQUOKETA, IOWA 52060", "customer_id": "#8136", "customer_billing_name": "MEDIA FINANCIAL SERVICES", "customer_billing_address": "1655 PALM BEACH LAKES BLVD 9TH FLOOR STE #903 WEST PALM BEACH, FL 33401", "customer_other_name": "HEIN FOR STATE HOUSE", "amount_total_gross": "1,008.18", "amount_due": "0.00", "payment_terms": "Charges past 30 days subject to 18% A.P.R. Payment due by 28th of month."}
+```

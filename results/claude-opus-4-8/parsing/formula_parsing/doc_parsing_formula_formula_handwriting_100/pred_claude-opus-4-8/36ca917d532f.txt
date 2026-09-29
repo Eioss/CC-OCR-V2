@@ -1,0 +1,14 @@
+$$\hat{\mathbb{E}}_t\left[\left(c\int_t^T |Z_s|^2 ds\right)^{\frac{a}{2}}\right] \leq C\left\{1 + \hat{\mathbb{E}}_t\left[\sup_{s\in[t,T]} |Y_s|^a\right] + \left(\hat{\mathbb{E}}_t\left[\sup_{s\in[t,T]} |Y_s|^a\right]\right)^{1/2} \left(\hat{\mathbb{E}}_t\left[\left(c\int_t^T h_s ds\right)^a\right]\right)^{1/2}\right\},$$
+
+$$\hat{\mathbb{E}}_t\left[|A_T - A_t|^a\right] \leq C\left\{1 + \hat{\mathbb{E}}_t\left[\sup_{s\in[t,T]} |Y_s|^a\right] + \hat{\mathbb{E}}_t\left[\left(c\int_t^T h_s ds\right)^a\right]\right\},$$
+
+$$\mathbb{P}(\vec{X}_{ec_2)} \in dx) = \bar{a}(\rho,\varsigma)^T \times \bar{v}(\varsigma, x)dx, \quad \mathbb{P}(-X_{ec_2)} \in dx) = \tilde{a}(\hat{\rho},\hat{\varsigma})^T \times \bar{v}(\hat{\varsigma}, x)dx.$$
+
+$$\sum_{\substack{0\leq h<k\leq N \\ (h,k)=1}} \sum_{2a+2b+2c=r} k(a,b,c)(kT)^a \frac{1}{k\sqrt{n}}\left(\frac{n}{k}\right)^{\frac{1}{2}-a-2cl} \ll_{r,T} \sum_{\substack{k\leq N \\ 2a+2b+2c=r}} n^{\frac{1}{2}-a-2cl-\frac{1}{2}k^{a-l\frac{1}{2}-a-2cl}}.$$
+
+$$\delta_+ = \delta\circ\gamma_+ : \Gamma_+ \to \triangle$$
+
+$$X_t = x + Y_t + \int_0^t u(s, X_s)\,ds, \quad t\in[0,T],$$
+
+$$\int_\Omega [A(x)\cdot\nabla T_j(u_m)]\cdot\nabla\varphi S(u_n)dx + \int_\Omega [A(x)\cdot\nabla T_j(u_n)]\cdot\nabla T_j(u_n)S'(u_n)\varphi\,dx$$
+$$= \int_\Omega H(x, u_n, \nabla u_n)\varphi\,dx + \int_\Omega (T_n(f)S(u_n)\varphi\,dx.$$

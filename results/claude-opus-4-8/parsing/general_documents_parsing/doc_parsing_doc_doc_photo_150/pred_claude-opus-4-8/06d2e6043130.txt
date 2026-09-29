@@ -1,0 +1,82 @@
+I'll transcribe this financial document into LaTeX format. Note that the image is photographed at an angle with overlapping/distorted text, so I'll reconstruct it as faithfully as possible.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+% 中国宝安集团股份有限公司 2017 年年度报告全文
+
+% 期末余额表
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}{*}{账龄} & \multicolumn{3}{c}{期末余额} \\
+\cmidrule(l){2-4}
+ & 账面余额 & 坏账准备 & 计提比例(\%) \\
+\midrule
+1 年至 2 年（含 2 年） & 168,402,306.36 & 16,393,581.38 & 9.73 \\
+2 年至 3 年（含 3 年） & 33,866,795.33 & 6,363,947.47 & 18.79 \\
+3 年至 4 年（含 4 年） & 4,057,191.40 & 1,971,416.35 & 48.59 \\
+4 年至 5 年（含 5 年） & 2,321,491.16 & 1,840,187.54 & 79.27 \\
+5 年以上 & 4,986,004.24 & 4,986,004.24 & 100.00 \\
+\midrule
+合计 & 1,898,234,083.45 & 115,048,203.85 & 6.06 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% 期初余额表
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrr}
+\toprule
+\multirow{2}{*}{账龄} & \multicolumn{3}{c}{期初余额} \\
+\cmidrule(l){2-4}
+ & 账面余额 & 坏账准备 & 计提比例(\%) \\
+\midrule
+1 年以内（含 1 年） & 1,394,698,362.02 & 65,334,146.67 & 4.68 \\
+1 年至 2 年（含 2 年） & 92,695,972.94 & 8,945,061.24 & 9.65 \\
+2 年至 3 年（含 3 年） & 12,153,072.66 & 2,307,677.97 & 18.99 \\
+3 年至 4 年（含 4 年） & 8,329,073.15 & 4,147,531.20 & 49.80 \\
+4 年至 5 年（含 5 年） & 1,928,538.18 & 1,469,142.15 & 76.18 \\
+5 年以上 & 7,020,026.19 & 7,020,026.19 & 100.00 \\
+\midrule
+合计 & 1,516,825,045.14 & 89,223,585.42 & 5.88 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+注：确定该组合的依据详见本附注（五）9。
+
+\bigskip
+（2）期末单项金额虽不重大但单项计提坏账准备的应收款项
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrl}
+\toprule
+应收账款内容 & 账面余额 & 坏账准备 & 计提比例(\%) & 计提理由 \\
+\midrule
+项目合作款 & 3,000,000.00 & 3,000,000.00 & 100.00 & 无法收回 \\
+租赁款 & 1,712,000.00 & 1,712,000.00 & 100.00 & 无法收回 \\
+会所服务费 & 900,000.00 & 900,000.00 & 100.00 & 无法收回 \\
+货款 & 24,354,805.45 & 24,354,805.45 & 100.00 & 无法收回 \\
+\midrule
+合计 & 29,966,805.45 & 29,966,805.45 & 100.00 & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{CJK}
+\end{document}
+```
+
+**Note:** This document is photographed at a skewed angle with overlapping rows and warped text in the upper portion, so some cell alignments (particularly in the first table where rows appear shifted) are my best reconstruction. The header reads "中国宝安集团股份有限公司 2017 年年度报告全文" (China Baoan Group Co., Ltd. 2017 Annual Report Full Text). Please verify the figures against the original source if precision is critical.

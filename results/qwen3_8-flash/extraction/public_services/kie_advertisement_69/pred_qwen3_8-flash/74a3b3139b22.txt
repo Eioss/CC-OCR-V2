@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$1,910.00",
+    "advertiser": "Priorities USA Action (72141)",
+    "flight_from": "06/30/20",
+    "flight_to": "07/06/20"
+}
+```

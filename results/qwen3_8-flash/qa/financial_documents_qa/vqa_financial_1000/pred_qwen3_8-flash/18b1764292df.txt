@@ -1,0 +1,11 @@
+Based on the provided financial statement table, to find the **Total assets in 2013**:
+
+1.  Locate the row labeled **"Total assets"**.
+2.  Move across this row to the column labeled **"2013"**.
+3.  The value at the intersection is **132,683**.
+
+The table header indicates that all values are in **Dollars in Millions**.
+
+Therefore, the total assets in 2013 were **$132,683 million** (or $132.683 billion).
+
+**Answer: $132,683 million**

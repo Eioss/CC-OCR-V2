@@ -1,0 +1,19 @@
+```latex
+\subsection*{2.5 Finance formulas -- Practice exercises}
+
+\begin{description}
+    \item[COMPOUND INTEREST FORMULA:] $a = p \left(1 + \frac{r}{12}\right)^{12y}$
+    \item[EQUIVALENT APR FORMULA:] $\text{APR} = \left(1 + \frac{r}{12}\right)^{12} - 1$
+    \item[FUTURE VALUE ANNUITY FORMULA:] $a = p * \frac{\left(1 + \frac{r}{12}\right)^{12y} - 1}{\frac{r}{12}}$
+    \item[LOAN PAYMENT FORMULA:] $p = \frac{a * \frac{r}{12}}{1 - \left(1 + \frac{r}{12}\right)^{-12y}}$
+\end{description}
+
+where
+
+\begin{itemize}
+    \item[$a =$] account balance or loan amount (\$)
+    \item[$p =$] initial deposit (principal), regular deposit, or regular payment (\$)
+    \item[$y =$] time invested (years)
+    \item[$r =$] interest rate compounded monthly (as a decimal)
+\end{itemize}
+```

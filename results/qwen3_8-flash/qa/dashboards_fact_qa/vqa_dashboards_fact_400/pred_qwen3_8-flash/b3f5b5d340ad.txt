@@ -1,0 +1,10 @@
+According to the infographic, **Twitter users send 347,222 tweets every minute**.
+
+This is one of the many data points shown in the “Data Never Sleeps 3.0” visualization by Domo, which illustrates how much digital activity occurs globally each minute across various platforms.
+
+So, the amount of *data* created via Twitter per minute isn’t measured in bytes or terabytes here — it’s represented by the number of **tweets sent**:  
+> **347,222 tweets per minute**
+
+*(Note: Each tweet contains text, metadata, timestamps, user IDs, etc., so the actual data volume would be significantly larger than just counting characters — but this infographic focuses on activity metrics, not storage size.)*
+
+✅ Final Answer: **347,222 tweets are sent on Twitter every minute.**

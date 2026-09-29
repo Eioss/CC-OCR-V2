@@ -1,0 +1,37 @@
+# Requirements for Related Rate Problems
+
+**Requirements for related rate problems**
+
+a) Define ALL the variables used – either by labeling any diagrams used for the problem or with a description or each variable
+
+b) Provide the formula or equation that relates the variables used in the problem. (May require expressing one variable in terms of another)
+
+c) Show the Related Rate formula that relates the variables used along with their derivatives with respect to time. (Take the derivative of part b)
+
+d) Plug in any given information to solve for the requested value or rate. Include the correct units on the requested value
+
+---
+
+**1)** A highway patrol drone hovers 300 feet above a level, straight stretch of road. The pilot sees an oncoming car and with radar determines that at the instant the line-of-sight distance from the helicopter to the car is 500 feet, the line-of-sight distance is \underline{decreasing} at the rate of 74 ft/sec. \hfill (10 pts)
+
+If the posted speed limit is 65 mph, is the car speeding? If yes, how much over the speed limit is the car? If not, how much below the speed limit is the car?
+
+---
+
+**2)** The drone pilot would like to keep the radar pointed at the car, at what rate is the angle $\theta$ changing at the instant the line-of-sight distance is 500 feet. Give your answer in radians per minute. \hfill (10 pts)
+
+---
+
+**3a)** Water is drained out of an inverted cone, with $r = 5$ ft and $h = 15$ ft. Find the rate at which the water is draining from the tank when the water depth is 6 ft and the water level drops at 8 ft/min \hfill (Give an exact value in terms of $\pi$)(10 pts)
+
+**3b)** Find the rate at which the circular surface area of the water level inside the cone is changing when the water depth is 6 ft and dropping at 8 ft/min. \hfill (8 pts)
+
+---
+
+**4)** Find the equation of the line tangent to the graph of $x^3 + 8xy + 8y^2 = 32$ at the point $(2, -3)$ \hfill (Use DEMOS to check your solution) \quad (12 pts)
+
+a) Find $dy/dx$
+
+b) Find the slope at $(2, -3)$
+
+c) Find the equation of the tangent line in slope intercept form

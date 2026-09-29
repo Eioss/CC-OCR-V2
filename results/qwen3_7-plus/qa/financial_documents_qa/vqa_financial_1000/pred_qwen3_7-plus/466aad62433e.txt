@@ -1,0 +1,11 @@
+Based on the provided graph, the **y-axis** is labeled:
+
+> **% ACTIVITY**
+
+This indicates that the vertical axis represents the **percentage of activity**, likely relative to an initial or control value (which appears to be normalized to 100% at time zero).
+
+The scale ranges from **0 to 200**, with major tick marks at intervals of 25.
+
+---
+
+✅ So, the answer is: **% Activity**

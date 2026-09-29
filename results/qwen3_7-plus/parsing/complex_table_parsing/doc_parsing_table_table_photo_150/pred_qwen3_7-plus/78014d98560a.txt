@@ -1,0 +1,56 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+ </head>
+ <body>
+  <table border="1" style="border-collapse: collapse; width: 100%;">
+   <tr>
+    <td>A. Main Dimensions<br/><br/>(i) LOA (m)<br/><br/>(ii) Length between perpendiculars (m)<br/><br/>(iii) Deadweight capacity (DWT) (mts)<br/><br/>(iv) Design draft (m)</td>
+    <td>B. cargo capacity<br/><br/>(i) Cubic capacity<br/><br/>(ii) Rold capacity</td>
+    <td>B2. TEU carrying capacity(state number of containers)<br/><br/>(i) Total on deck<br/>a. 20' /40' /45' TEU<br/>b. No. of reefers<br/><br/>(ii) Total under deck<br/>a. 20' /40' /45' TEU<br/>b. No. of reefers</td>
+   </tr>
+   <tr>
+    <td>Main engine<br/><br/>(i) Maker/Type<br/><br/>(ii) Max. continuous rating (kilowatts at MCR)<br/><br/>(iii) RPM at MCR<br/><br/>(iv) Specific Fuel Oil Consumption at MCR</td>
+    <td colspan="2">D. Average speed<br/><br/>(i) Service speed (knot)at design draft<br/><br/>E. Other matters (optional )</td>
+   </tr>
+   <tr>
+    <td>5. BUILDER's Hull Number</td>
+    <td colspan="2">6. Flag State</td>
+   </tr>
+   <tr>
+    <td>7. Classification Society/Class character</td>
+    <td colspan="2">8. Contract Price and Currency<br/><br/>(a) Price<br/><br/>(b) Currency</td>
+   </tr>
+   <tr>
+    <td>9. Contractual Date of Delivery</td>
+    <td colspan="2" rowspan="2">10. Payments<br/><br/>1st installment<br/><br/>2nd installment<br/><br/>3rd installment<br/><br/>4th installment</td>
+   </tr>
+   <tr>
+    <td>11. BUILDER's Bank Account Data<br/><br/>Name:<br/><br/>Address:<br/><br/>Country:</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

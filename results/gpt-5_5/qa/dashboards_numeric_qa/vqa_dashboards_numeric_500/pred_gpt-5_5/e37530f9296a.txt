@@ -1,0 +1,15 @@
+The fatality rate is calculated as deaths per 100,000 full-time-equivalent workers.
+
+BLS formula:
+
+\[
+\text{Fatality rate}=\frac{\text{Number of fatal work injuries}}{\text{Total hours worked by all workers}} \times 200{,}000{,}000
+\]
+
+Where:
+
+- **Number of fatal work injuries** = work-related deaths in that occupation/industry during the year  
+- **Total hours worked** = total annual hours worked by workers in that group  
+- **200,000,000** = the hours worked by **100,000 full-time workers** working 40 hours/week for 50 weeks/year
+
+So a fatality rate of **135.9** means about **135.9 deaths per 100,000 full-time-equivalent workers per year**.

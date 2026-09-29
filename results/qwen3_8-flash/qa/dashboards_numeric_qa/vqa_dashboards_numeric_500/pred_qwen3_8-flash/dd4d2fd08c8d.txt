@@ -1,0 +1,20 @@
+To find the difference in projected new job demand in 2020 between the US and UAE, we need to:
+
+1. Locate the **Projected New Job Demand (By 2020)** for both countries on the infographic.
+2. Subtract the smaller value from the larger one.
+
+From the map section of the infographic:
+
+- **USA**: Projected New Job Demand = **700,000**  
+  *(Label next to USA flag: “700,000” under “Projected New Job Demand (By 2020)”)*
+
+- **UAE**: Projected New Job Demand = **57,731**  
+  *(Label next to UAE flag: “57,731” under “Projected New Job Demand (By 2020)”)*
+
+Now calculate the difference:
+
+> **700,000 - 57,731 = 642,269**
+
+---
+
+✅ **Final Answer: 642,269**

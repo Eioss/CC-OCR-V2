@@ -1,0 +1,85 @@
+```latex
+\begin{center}
+    \textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \\
+    \textbf{Standard - 11} \hfill Reg. No. \fbox{0}\fbox{1}\fbox{1}\fbox{4} \\
+    \vspace{0.5cm}
+    \textbf{PART - III - MATHEMATICS} \\
+    \vspace{0.5cm}
+    Time Allowed: 2.30 Hours \hfill Maximum Marks: 90
+\end{center}
+
+\vspace{0.5cm}
+
+\textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline and pencil to draw diagrams.
+\end{enumerate}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\textbf{Note:} i) Answer all the questions. \hfill $20 \times 1 = 20$ \\
+ii) Choose the most appropriate answer from the given four alternatives and write the option code and the corresponding answer.
+
+\vspace{0.5cm}
+
+\begin{enumerate}
+    \item The range of the function $\frac{1}{1-2\sin x}$ is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) $(-\infty, -1) \cup \left(\frac{1}{3}, \infty\right)$ & b) $\left(-1, \frac{1}{3}\right)$ \\
+        c) $\left[-1, \frac{1}{3}\right]$ & d) $(-\infty, -1] \cup \left[\frac{1}{3}, \infty\right)$
+    \end{tabular*}
+
+    \item The function $f : [0, 2\pi] \to [-1, 1]$ defined by $f(x) = \sin x$ is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) one-to-one & b) onto \\
+        c) bijection & d) cannot be defined
+    \end{tabular*}
+
+    \item The solution set of the following inequality $|x-1| \ge |x-3|$ is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) $[0, 2]$ & b) $[2, \infty)$ \\
+        c) $(0, 2)$ & d) $(-\infty, 2)$
+    \end{tabular*}
+
+    \item If 3 is the logarithm of 343, then the base is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) 5 & b) 7 \\
+        c) 6 & d) 9
+    \end{tabular*}
+
+    \item In a $\Delta ABC$, $\tan\left(\frac{A}{2}\right) =$
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) $\sqrt{\frac{(s-b)(s-c)}{bc}}$ & b) $\sqrt{\frac{s(s-a)}{bc}}$ \\
+        c) $\sqrt{\frac{(s-b)(s-c)}{s(s-a)}}$ & d) $\sqrt{s(s-a)(s-b)(s-c)}$
+    \end{tabular*}
+
+    \item There are 10 points in a plane and 4 of them are collinear. The number of straight lines joining any two points is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) 45 & b) 40 \\
+        c) 39 & d) 38
+    \end{tabular*}
+
+    \item The $n^{\text{th}}$ term of the sequence 1, 2, 4, 7, 11, ......... is
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) $n^3+3n^2+2n$ & b) $n^3-3n^2+3n$ \\
+        c) $\frac{n(n+1)(n+2)}{3}$ & d) $\frac{n^2-n+2}{2}$
+    \end{tabular*}
+
+    \item The slopes of the line which makes an angle $45^\circ$ with the line $3x-y=-5$ are
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        a) $1, -1$ & b) $\frac{1}{2}, -2$ \\
+        c) $1, \frac{1}{2}$ & d) $2, -\frac{1}{2}$
+    \end{tabular*}
+\end{enumerate}
+
+\vspace{1cm}
+
+\begin{center}
+    Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+```

@@ -1,0 +1,37 @@
+\[
+\lim_{L\to\infty}
+\frac{C_{n;L}^{(1)}\left(\frac12 |z|\right)}
+{\left|\mathcal{R}_L\left(\frac12 |z|\right)\right|^{1/2}}
+\sim e^{-\frac12 |z|}\frac{z^n}{\sqrt{n!}},
+\qquad z:=e^{i\phi}|z|
+\]
+
+\[
+A\left\langle K_1^*x\otimes K_2^*y,\;K_1^*x\otimes K_2^*y\right\rangle_{A\otimes B}
+\le
+\sum_{i\in I,\;j\in J}
+\left\langle \Lambda_i x\otimes \Gamma_j y,\;\Lambda_i x\otimes \Gamma_j y\right\rangle_{A\otimes B}
+\le
+BD\left\langle x\otimes y,\;x\otimes y\right\rangle_{A\otimes B},
+\quad \forall x\in H,\;\forall y\in K
+\]
+
+\[
+\begin{cases}
+\dfrac{u_x^2}{2}+\dfrac{u_y^2}{2}+W(x,y)=\ln m+\overline{H},\\[4pt]
+-\bigl(\theta(u_x)\bigr)_x-\bigl(\theta(u_y)\bigr)_y=0
+\end{cases}
+\]
+
+\[
+\sum_{A(w,c)\in D(T,c)}(2P)^{t_w}
+\le p d_c\,\frac{\exp(\delta/12)}{2\delta}
+=\exp(-\delta/12)t_*\frac{\exp(\delta/12)}{2}
+=\frac{t_*}{2}
+\]
+
+\[
+\Gamma\left(\frac{k+1}{2}\right)
+\le \sqrt{2\pi}\cdot e^{-\frac12}\cdot
+\left(\frac{k}{2e}\right)^{k/2}
+\]

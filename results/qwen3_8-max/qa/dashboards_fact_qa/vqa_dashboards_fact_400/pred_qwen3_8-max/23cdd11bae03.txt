@@ -1,0 +1,21 @@
+Based on the infographic provided, we can find the average annual energy expenditures for each of these categories in the U.S.:
+
+- **Lighting (well lit home)**: The category “Other (Lighting and Electricity)” is listed at **$827**. While this includes more than just lighting, it’s the only category that explicitly includes lighting. Alternatively, if we interpret “well lit home” as referring to the 12% usage for lighting from the pie chart, we’d need total household expenditure to calculate it — but since the bar chart gives direct dollar amounts per category, we should use those.
+
+However, note that the bar chart does **not** have a separate line item for “Lighting” alone — it groups “Other (Lighting and Electricity)” together at $827. So unless specified otherwise, we’ll assume “well lit home” refers to this entire category.
+
+- **Refrigerators**: **$153**
+- **Water Heating**: **$280**
+
+---
+
+### Total Expenditure:
+= Lighting & Other Electricity + Refrigerator + Water Heating  
+= $827 + $153 + $280  
+= **$1,260**
+
+---
+
+✅ **Final Answer: $1,260**
+
+*(Note: If “well lit home” was meant to refer only to the 12% lighting portion from the pie chart, we would need the total annual energy expenditure to compute it — which isn’t directly given. But since the bar chart provides concrete dollar values per category, and “Other (Lighting and Electricity)” is the closest match, we use that.)*

@@ -1,0 +1,5 @@
+The highest value on the Y-axis (labeled "G-ton C") in Chart 6 is **20**.
+
+This can be seen at the top of the vertical axis, where the scale ranges from 0 to 20, with major tick marks at intervals of 4 (0, 4, 8, 12, 16, 20). The IS92a (normative) scenario line approaches but does not exceed this maximum value by the year 2100.
+
+✅ Final Answer: **20**

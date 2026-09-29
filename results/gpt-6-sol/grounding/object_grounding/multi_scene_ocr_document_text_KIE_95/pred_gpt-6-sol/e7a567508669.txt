@@ -1,0 +1,9 @@
+[
+  {"bbox_2d":[99,254,826,273],"label":"seller_name"},
+  {"bbox_2d":[34,295,895,353],"label":"seller_address"},
+  {"bbox_2d":[188,356,738,375],"label":"seller_gst_id"},
+  {"bbox_2d":[36,498,476,517],"label":"doc_no_receipt_no"},
+  {"bbox_2d":[407,519,628,539],"label":"date"},
+  {"bbox_2d":[778,764,897,783],"label":"total_amount"},
+  {"bbox_2d":[800,846,893,864],"label":"total_tax"}
+]

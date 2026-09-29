@@ -1,0 +1,42 @@
+Based on the provided map, the **total number of CAR refugees since January 2013** is shown in the blue boxes with arrows pointing to neighboring countries. These represent refugee populations that have fled *from* the Central African Republic (CAR) to other countries.
+
+The numbers are:
+
+- **Chad**: 14,477
+- **Cameroon**: 4,859
+- **Democratic Republic of the Congo**: 56,309
+- **Republic of the Congo**: 10,748
+
+Adding these together gives the total number of CAR refugees who have fled to neighboring countries since Jan 2013:
+
+> **14,477 + 4,859 + 56,309 + 10,748 = 86,393**
+
+This matches the “Total population of CAR refugees” table in the bottom right corner, which lists:
+
+- Cameroon: 98,504 → *Note: This appears inconsistent with the arrow value; likely includes pre-Jan 2013 or different data.*
+- Chad: 80,364 → *Also inconsistent with arrow value.*
+- DR Congo: 56,000 → *Close to arrow value (56,309)*
+- Congo: 11,000 → *Close to arrow value (10,748)*
+
+However, the question specifically asks for **“CAR refugees since Jan 2013”**, and the map explicitly labels the blue arrows as **“CAR refugees since Jan 2013”**. Therefore, we should use those values.
+
+But wait — there’s a discrepancy between the arrow values and the table. The table says “Total population of CAR refugees”, not necessarily limited to post-Jan 2013 arrivals.
+
+Looking at the legend again:
+
+> **Blue box with arrow = CAR refugees since Jan 2013**
+
+So the correct interpretation is to sum the four blue arrow values:
+
+✅ **14,477 (to Chad)**  
+✅ **4,859 (to Cameroon)**  
+✅ **56,309 (to DRC)**  
+✅ **10,748 (to Congo)**  
+
+**Total = 86,393**
+
+---
+
+### ✅ Final Answer: **86,393**
+
+*(Note: If you were meant to use the table instead, it would be 98,504 + 80,364 + 56,000 + 11,000 = 245,868 — but that contradicts the legend’s definition of “since Jan 2013”. Since the question references “since Jan 2013”, we go by the arrows.)*

@@ -1,0 +1,283 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb,graphicx,tikz}
+\begin{document}
+
+\begin{center}
+{\Large\bfseries PHY 231C FORMULAS}
+\end{center}
+
+\noindent\textbf{Quadratic Formula}
+\[
+ax^{2}+bx+c=0
+\qquad
+x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}
+\]
+
+\noindent\textbf{Geometry}
+
+\noindent Circle: circumference \(=2\pi R\), area \(=\pi R^{2}\)
+
+\noindent Sphere: area \(=4\pi R^{2}\), volume \(=4\pi R^{3}/3\)
+
+\noindent\textbf{Trigonometry}
+
+\begin{tikzpicture}[scale=.75]
+  \draw (0,0)--(3,0)--(3,1.95)--cycle;
+  \draw (2.72,0)--(2.72,.28)--(3,.28);
+  \node at (1.5,-.22) {$B$};
+  \node at (3.18,1) {$A$};
+  \node at (1.42,1.1) {$C$};
+  \node at (.58,.22) {$\alpha$};
+  \node at (2.75,1.58) {$\beta$};
+\end{tikzpicture}
+\qquad
+\[
+\sin\alpha=\frac{A}{C},\qquad
+\cos\alpha=\frac{B}{C},\qquad
+\tan\alpha=\frac{A}{B}
+\]
+
+\begin{tikzpicture}[scale=.75]
+  \draw (0,0)--(3.15,0)--(2.83,1.78)--cycle;
+  \node at (1.57,-.22) {$B$};
+  \node at (3.18,.92) {$A$};
+  \node at (1.37,1.12) {$C$};
+  \node at (.58,.20) {$\alpha$};
+  \node at (2.65,1.48) {$\beta$};
+  \node at (2.87,.22) {$\gamma$};
+\end{tikzpicture}
+\qquad
+\[
+\frac{\sin\alpha}{A}
+=\frac{\sin\beta}{B}
+=\frac{\sin\gamma}{C}
+\]
+\[
+A^{2}+B^{2}-2AB\cos\gamma=C^{2}
+\]
+
+\noindent\textbf{Polar Coordinates}
+\[
+x=r\cos\theta,\qquad y=r\sin\theta
+\]
+\[
+r=\sqrt{x^{2}+y^{2}},\qquad \tan\theta=y/x
+\]
+
+\noindent\textbf{SI Units and Constants}
+\[
+\begin{array}{|c|c|c|}
+\hline
+\text{quantity}&\text{unit}&\text{abbreviation}\\ \hline
+\text{Mass }m&\text{kilograms}&\mathrm{kg}\\ \hline
+\text{Distance }x&\text{meters}&\mathrm{m}\\ \hline
+\text{Time }t&\text{seconds}&\mathrm{s}\\ \hline
+\text{Force }F&\text{Newtons}&\mathrm{N}=\mathrm{kg}\ \mathrm{m}/\mathrm{s}^{2}\\ \hline
+\text{Energy }E&\text{Joules}&\mathrm{J}=\mathrm{N}\ \mathrm{m}\\ \hline
+\text{Power }P&\text{Watts}&\mathrm{W}=\mathrm{J}/\mathrm{s}\\ \hline
+\text{Temperature }T&{}^\circ\mathrm{C},\,{}^\circ\mathrm{K}\text{ or }{}^\circ\mathrm{F}
+&T_{{}^\circ\mathrm{F}}=32+(9/5)T_{{}^\circ\mathrm{C}}\\ \hline
+\text{Pressure }P&\text{Pascals}&\mathrm{Pa}=\mathrm{N}/\mathrm{m}^{2}\\ \hline
+\end{array}
+\]
+\begin{align*}
+g&=9.8\ \mathrm{m}/\mathrm{s}^{2},&
+G&=6.67\times10^{-11}\ \mathrm{N\,m}^{2}/\mathrm{kg}^{2},&
+0^\circ\mathrm{C}&=273.15^\circ\mathrm{K}\\
+R&=8.31\ \mathrm{J}/(\mathrm{mol}\,{}^\circ\mathrm{K}),&
+N_A&=6.023\times10^{23}\\
+k_B&=R/N_A=1.38\times10^{-23}\ \mathrm{J}/{}^\circ\mathrm{K},&
+1\ \mathrm{cal}&=4.1868\ \mathrm{J}\\
+\sigma&=5.67\times10^{-8}\ \mathrm{W}/(\mathrm{m}^{2}\mathrm{K}^{4}),&
+v_{\text{sound}}&=331\sqrt{T/273}\ \mathrm{m}/\mathrm{s}.
+\end{align*}
+
+\noindent\textbf{1-d motion, constant \(a\)}
+\[
+a=\frac{v_f-v_0}{t}
+\]
+\[
+v_{\mathrm{av}}=\frac{v_0+v_f}{2},
+\qquad (x_f-x_0)=v_{\mathrm{av}}t
+\]
+\[
+(x_f-x_0)=v_0t+\frac12at^{2}
+=v_ft-\frac12at^{2}
+\]
+\[
+\frac12v_f^{2}-\frac12v_0^{2}=a(x_f-x_0)
+\]
+
+\noindent\textbf{Projectile Motion}
+\[
+\text{Range}=\frac{v^{2}}{g}\sin2\theta,
+\qquad
+\text{Max. height}=\frac{v_0^{2}}{2g}\sin^{2}\theta
+\]
+
+\noindent\textbf{Momentum, Force and Impulse}
+\[
+p=mv,\qquad F=\frac{\Delta p}{\Delta t}=ma,\qquad
+I=F\Delta t=\Delta p
+\]
+
+\noindent\textbf{Work, Energy and Power}
+\[
+W=\vec F\cdot(\vec r-\vec r_0),\qquad
+KE=\frac12mv^{2},\qquad
+P=\frac{\Delta E}{\Delta t}
+\]
+
+\noindent\textbf{Gravity and circular orbits}
+\[
+PE=-G\frac{Mm}{r},\qquad
+\Delta PE=mgh\text{ (small }h\text{)},\qquad
+F=G\frac{Mm}{r^{2}}=mg
+\]
+\[
+a=\frac{v^{2}}{r},\qquad
+\frac{GM}{4\pi^{2}}=\frac{R^{3}}{T^{2}}
+\]
+
+\noindent\textbf{Rotational Motion \& Gravity}
+\[
+v=\omega r=\frac{2\pi r}{T},\qquad
+\omega=2\pi f=\frac{2\pi}{T},\qquad f=1/T
+\]
+\[
+\alpha=\frac{\omega_f-\omega_0}{t}=\frac{a}{r}
+\]
+\[
+L=I\omega=mvr\sin\theta,\qquad
+(\theta=\text{angle between v and r})
+\]
+\[
+KE=\frac{L^{2}}{2I}=\frac12I\omega^{2}
+\]
+\[
+\tau=rF\sin\theta,\qquad I\alpha=\tau,\qquad
+I_{\text{point}}=mR^{2}
+\]
+\[
+I_{\text{cyl.shell}}=mR^{2},\qquad
+I_{\text{sphere}}=\frac25mR^{2},\qquad
+I_{\text{solid cyl.}}=\frac12mR^{2}.
+\]
+
+\noindent\textbf{Gases, liquids and solids}
+\[
+PV=NRT,\qquad
+\Delta P=\rho gh,\qquad
+\left(\frac12mv^{2}\right)=\frac32k_BT
+\]
+\[
+F_{\text{Bouyant}}
+=\rho_{\text{displaced liq.}}V_{\text{displaced liq.}}g
+\]
+\[
+\text{Stress}=F/A,\qquad
+\text{Strain}=\Delta L/L,\qquad
+Y=\text{Stress}/\text{Strain}
+\]
+\[
+\frac{\Delta L}{L}
+=\frac{F/A}{B}
+=\frac{\Delta P}{B}.
+\]
+\[
+P_a+\frac12\rho_a v_a^{2}+\rho_a gh_a
+=P_b+\frac12\rho_b v_b^{2}+\rho_b gh_b
+\]
+\[
+\Delta L/L=\alpha\Delta T,\qquad
+\Delta V/V=3\alpha\Delta T
+\]
+\[
+Q=mC_v\Delta T+mL\text{ (if phase trans.)},\qquad
+\Delta Q/\Delta t
+=\frac{kA(T_b-T_a)}{x_b-x_a}
+\]
+
+\noindent\textbf{Radiation}
+\[
+P=\epsilon\sigma AT^{4}
+\]
+
+\noindent\textbf{Thermodynamics}
+\[
+\Delta U=Q-W,\qquad W=P\Delta V,\qquad
+\text{ideal gas: }\Delta U=nC_V\Delta T
+\]
+\[
+\text{Adiabatic exp: }pV^\gamma=\text{const},\qquad
+TV^{\gamma-1}=\text{const}
+\]
+\[
+\gamma=C_p/C_v=5/3\text{ for monotonic gas}
+=7/5\text{ for diatomic gas}
+\]
+\[
+Q=T\Delta S,\qquad \Delta S>0
+\]
+\[
+\text{Engines: }\epsilon=W/Q_H
+<(T_H-T_L)/T_H<1
+\]
+\[
+\text{Refrigerators and heat pumps: }
+\epsilon=Q_L/W<T_L/(T_H-T_L)
+\]
+
+\noindent\textbf{Simple Harmonic Motion and Waves}
+
+\noindent Spring:
+\[
+F=-kx,\qquad PE=(1/2)kx^{2},\qquad
+\omega=\sqrt{k/m}
+\]
+\[
+f=\omega/(2\pi),\qquad
+x(t)=A\cos(\omega t)+B\sin(\omega t)
+\]
+
+\noindent Pendulum: \(T=2\pi\sqrt{L/g}\)
+
+\noindent Waves:
+\[
+y(x,t)=A\sin[2\pi(ft-x/\lambda+\delta)],\qquad
+v=f\lambda
+\]
+\[
+I=\text{const}\,A^{2}f^{2},\qquad
+I_2/I_1=R_1^{2}/R_2^{2}
+\]
+\noindent Standing waves: \(\lambda_n=2L/n\)
+
+\noindent Strings: \(v=\sqrt{T/\mu}\), Solid/Liquid:
+\(v=\sqrt{B/\rho}\)
+
+\noindent Sound: \(I=E/(A\cdot\Delta t)=\text{Power}/A\)
+\[
+I_0=10^{-12}\ \mathrm{W}/\mathrm{m}^{2},\qquad
+\text{Intensity in decibels}
+=10\log_{10}(I/I_0)
+\]
+\[
+\text{Beat freq.}=|f_1-f_2|,\qquad
+\text{Doppler:}
+\]
+\[
+f_{\mathrm{obs}}
+=f_{\mathrm{source}}
+\frac{v_{\mathrm{sound}}\pm v_{\mathrm{obs}}}
+{v_{\mathrm{sound}}\pm v_{\mathrm{source}}}
+\]
+\noindent Pipes: same at both ends:
+\(L=\lambda/2,\lambda,3\lambda/2\)
+
+\noindent Pipes: open at only one end:
+\(L=\lambda/4,3\lambda/4\ldots\)
+
+\end{document}
+```

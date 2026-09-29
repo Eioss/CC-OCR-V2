@@ -1,0 +1,7 @@
+Based on the infographic, looking at the UK and US National Newspapers section:
+
+**40.91%** of the newspapers analyzed have integrated either the @author or @site within their default tweet template.
+
+This corresponds to **18 out of 44** newspapers that have either the @author or @site within the default tweet (while 26 out of 44 don't have these elements within their default tweet).
+
+Note: The infographic specifically references the @author or @site mentions (Twitter handles/attribution) rather than hashtags. These are the elements that allow proper attribution when content is shared.

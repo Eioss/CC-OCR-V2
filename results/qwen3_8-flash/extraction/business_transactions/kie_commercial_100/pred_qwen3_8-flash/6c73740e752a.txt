@@ -1,0 +1,23 @@
+```json
+{
+    "date_issue": "10/22/19",
+    "date_due": "12/06/19",
+    "order_id": "2514952837",
+    "vendor_name": "iHeartMedia",
+    "vendor_address": "P.O. Box 406372 Atlanta, GA 30384-6372",
+    "customer_id": "407001",
+    "customer_billing_name": "iHeartMedia Gov Init",
+    "customer_billing_address": "3100 Ponte Morino Drive Suite 200 Cameron Park CA 95682",
+    "customer_other_name": "",
+    "customer_other_address": "",
+    "amount_total_net": "$2,584.00",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$3,040.00",
+    "amount_paid": "$0.00",
+    "amount_due": "$2,584.00",
+    "payment_terms": "Net 45",
+    "tax_detail_net": "$2,584.00",
+    "tax_detail_tax": "$0.00",
+    "tax_detail_gross": "$3,040.00"
+}
+```

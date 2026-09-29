@@ -1,0 +1,76 @@
+Based on the provided infographic, we can determine how many states have the **lowest** average monthly cost of child care by examining the color-coded map and its legend.
+
+### Step 1: Understand the Legend
+The legend titled “AVERAGE MONTHLY COST OF CHILD CARE” uses a color gradient:
+- **Red** = Highest cost
+- **Orange/Yellow** = Mid-range costs
+- **Green** = Lowest cost
+
+Specifically, the **darkest green** represents the **lowest** average monthly cost.
+
+### Step 2: Identify States Colored Darkest Green
+Looking at the map, the states colored in the **darkest green** (indicating the lowest cost) are:
+
+1. **Mississippi** — $402
+2. **Alabama** — $470
+3. **Louisiana** — $479
+4. **Arkansas** — $500
+5. **Tennessee** — $488
+6. **South Dakota** — $472
+7. **Kentucky** — $525 *(Note: This is light green, not darkest — so exclude)*
+   - Wait — let’s double-check. The darkest green appears to be reserved for the very bottom tier.
+
+Actually, looking closely at the map and the values:
+
+- **Mississippi**: $402 → darkest green
+- **Alabama**: $470 → darkest green
+- **Louisiana**: $479 → darkest green
+- **Arkansas**: $500 → darkest green
+- **Tennessee**: $488 → darkest green
+- **South Dakota**: $472 → darkest green
+
+Also:
+- **West Virginia**: $661 → orange/yellow → not lowest
+- **Oklahoma**: $566 → medium green? Let’s check the scale.
+
+Wait — the legend shows a gradient from red (highest) to dark green (lowest). The **darkest green** is used for the **bottom 5–7 states** with the lowest costs.
+
+From the map labels:
+
+✅ **Darkest Green States (Lowest Cost):**
+
+1. **Mississippi** — $402  
+2. **Alabama** — $470  
+3. **Louisiana** — $479  
+4. **Arkansas** — $500  
+5. **Tennessee** — $488  
+6. **South Dakota** — $472  
+
+That’s **6 states**.
+
+But wait — what about **Wyoming**? It’s labeled $545 — that’s lighter green.
+
+What about **North Dakota**? $685 — yellow/orange.
+
+Let’s cross-reference with the actual numbers:
+
+The **lowest 6 values** on the map are:
+
+- Mississippi: $402
+- Alabama: $470
+- Louisiana: $479
+- South Dakota: $472
+- Tennessee: $488
+- Arkansas: $500
+
+Yes — these six are all under $500 or just above, and they’re all shaded in the **darkest green**.
+
+Some sources might include **Kentucky ($525)** or **Oklahoma ($566)**, but visually, those are in a lighter shade of green — indicating they are *not* in the absolute lowest tier.
+
+### Final Answer:
+> **6 states** have the lowest average monthly cost of child care, as indicated by the darkest green coloring on the map:  
+> **Mississippi, Alabama, Louisiana, South Dakota, Tennessee, and Arkansas.**
+
+---
+
+✅ **Answer: 6**

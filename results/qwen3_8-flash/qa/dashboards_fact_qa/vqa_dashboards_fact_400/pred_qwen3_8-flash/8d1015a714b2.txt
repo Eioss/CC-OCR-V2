@@ -1,0 +1,21 @@
+Based on the infographic provided, **there is no direct percentage given for people who used *only* apps on smartphones**.
+
+However, we can infer it from the data presented in the section about device usage:
+
+> - **79%** of learning materials accessed via Apps by smartphone  
+> - **21%** on their tablets  
+> - **17%** installed the App on **both** tablets and smartphones
+
+This suggests that the 79% includes those who used smartphones (possibly also tablets), and the 17% are a subset of that 79% who used both devices.
+
+So, to find the percentage who used **only** smartphones:
+
+→ Subtract those who used **both** from those who used **smartphones**:
+
+**79% (used smartphone) – 17% (used both) = 62%**
+
+---
+
+✅ Therefore, approximately **62%** of users accessed learning materials via apps **only on smartphones**.
+
+*(Note: This assumes the 79% represents all users who ever used the app on a smartphone — including those who also used tablets — which is consistent with how such statistics are typically reported.)*

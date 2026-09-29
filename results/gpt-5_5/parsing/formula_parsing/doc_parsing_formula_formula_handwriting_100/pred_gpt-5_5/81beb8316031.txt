@@ -1,0 +1,44 @@
+\[
+\begin{aligned}
+\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j \delta_t^{a_j}p_h^n,\ell\right)_{D^k}
++\varepsilon_1(Q_h^n,\ell)_{D^k}
++\varepsilon_2\left(f(|u_{1h}^n|^2,|u_{2h}^n|^2)q_h^n,\ell\right)_{D^k}&=0,\\
+(Q_h^n,\beta_1)_{D^k}&=(\Delta_{(\beta-2)/2}r_h^n,\beta_1)_{D^k},\\
+(r_h^n,\phi)_{D^k}&=-(\zeta_h^n,\phi_x)_{D^k}
++\left(\widehat{\zeta_h^n}\phi^-\right)_{k+\frac12}
+-\left(\widehat{\zeta_h^n}\phi^+\right)_{k-\frac12},\\
+(\zeta_h^n,\varphi)_{D^k}&=-(q_h^n,\varphi_x)_{D^k}
++\left(\widehat{q_h^n}\varphi^-\right)_{k+\frac12}
+-\left(\widehat{q_h^n}\varphi^+\right)_{k-\frac12},\\
+\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j \delta_t^{a_j}q_h^n,\chi\right)_{D^k}
+-\varepsilon_1(H_h^n,\chi)_{D^k}
+-\varepsilon_2\left(f(|u_{1h}^n|^2,|u_{2h}^n|^2)p_h^n,\chi\right)_{D^k}&=0,\\
+(H_h^n,\beta_2)_{D^k}&=(\Delta_{(\beta-2)/2}w_h^n,\beta_2)_{D^k},\\
+(w_h^n,\varphi_2)_{D^k}&=-(z_h^n,\varphi_{2x})_{D^k}
++\left(\widehat{z_h^n}\varphi_2^-\right)_{k+\frac12}
+-\left(\widehat{z_h^n}\varphi_2^+\right)_{k-\frac12},\\
+(z_h^n,\zeta)_{D^k}&=-(p_h^n,\zeta_x)_{D^k}
++\left(\widehat{p_h^n}\zeta^-\right)_{k+\frac12}
+-\left(\widehat{p_h^n}\zeta^+\right)_{k-\frac12},\\
+\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j \delta_t^{a_j}v_h^n,\gamma\right)_{D^k}
++\varepsilon_3(L_h^n,\gamma)_{D^k}
++\varepsilon_4\left(g(|u_{1h}^n|^2,|u_{2h}^n|^2)v_h^n,\gamma\right)_{D^k}&=0,\\
+(L_h^n,\beta_3)_{D^k}&=(\Delta_{(\beta-2)/2}\rho_h^n,\beta_3)_{D^k},\\
+(\rho_h^n,\delta)_{D^k}&=-(\bar{\omega}_h^n,\delta_x)_{D^k}
++\left(\widehat{\bar{\omega}_h^n}\delta^-\right)_{k+\frac12}
+-\left(\widehat{\bar{\omega}_h^n}\delta^+\right)_{k-\frac12},\\
+(\bar{\omega}_h^n,S)_{D^k}&=-(v_h^n,S_x)_{D^k}
++\left(\widehat{v_h^n}S^-\right)_{k+\frac12}
+-\left(\widehat{v_h^n}S^+\right)_{k-\frac12},\\
+\left(\sum_{j=1}^{s} w(a_j)\Delta\tau_j \delta_t^{a_j}\theta_h^n,o\right)_{D^k}
+-\varepsilon_3(E_h^n,o)_{D^k}
+-\varepsilon_4\left(g(|u_{1h}^n|^2,|u_{2h}^n|^2)v_h^n,o\right)_{D^k}&=0,\\
+(E_h^n,\beta_4)_{D^k}&=(\Delta_{(\beta-2)/2}\xi_h^n,\beta_4)_{D^k},\\
+(\xi_h^n,w)_{D^k}&=-(e_h^n,w_x)_{D^k}
++\left(\widehat{e_h^n}w^-\right)_{k+\frac12}
+-\left(\widehat{e_h^n}w^+\right)_{k-\frac12},\\
+(e_h^n,\kappa)_{D^k}&=-(\theta_h^n,\kappa_x)_{D^k}
++\left(\widehat{\theta_h^n}\kappa^-\right)_{k+\frac12}
+-\left(\widehat{\theta_h^n}\kappa^+\right)_{k-\frac12}.
+\end{aligned}
+\]

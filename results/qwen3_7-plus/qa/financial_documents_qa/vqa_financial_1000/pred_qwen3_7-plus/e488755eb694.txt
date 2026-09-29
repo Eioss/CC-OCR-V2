@@ -1,0 +1,19 @@
+The **Est Cost for Total Qty** is **160727.22**.
+
+This value appears in the summary section under “EST COST:” aligned with the “TOTAL QTY” column (which shows 9547 cases).
+
+---
+
+### Breakdown from the document:
+
+- **ORDER TOTAL / TOTAL QTY**: 9547 cases
+- **EST COST** corresponding to that total quantity: **160727.22**
+
+Other columns show:
+- **AVAILABLE QTY**: 9293 → Est Cost: 128438.02
+- **BO QTY**: 254 → Est Cost: 32289.20
+
+And indeed:  
+**128438.02 + 32289.20 = 160727.22** ✅
+
+So, the estimated cost for the full ordered quantity (Total Qty) is **$160,727.22**.

@@ -1,0 +1,123 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{amssymb}
+\usepackage{array}
+\begin{document}
+\noindent
+\begin{minipage}[t]{0.47\textwidth}
+\textbf{5.\quad Exemption Claimed for Less Than \$7.5 Million}
+
+\medskip
+\noindent\(\square\)\quad
+\begin{minipage}[t]{0.83\linewidth}
+\textbf{Check this box if claiming eligibility for exemption from CAS coverage based on contracts or subcontracts of less than \$7.5 million, provided that, at the time of award, the business unit or the contractor or subcontractor is not currently performing any CAS-covered contracts or subcontracts valued at \$7.5 million or greater.}
+
+\medskip
+\textbf{The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(7).}
+\end{minipage}
+
+\bigskip
+\noindent\textbf{6.\quad Eligibility for Exemption by an Entity in the United Kingdom}
+
+\medskip
+\noindent\(\square\)\quad
+\begin{minipage}[t]{0.83\linewidth}
+Check this box if claiming eligibility for exemption from CAS coverage as an entity in the United Kingdom with performance substantially in the United Kingdom.
+
+\medskip
+The offeror hereby certifies that it is a United Kingdom contractor and that performance of the work under this contract will be performed substantially in the United Kingdom.
+
+\medskip
+The offeror further certifies that it has filed a completed Disclosure Statement (Form Number CASBDS-1), adequately describing its cost accounting practices, with the United Kingdom Ministry of Defense for retention by the Ministry. When already required to follow United Kingdom Government Accounting Conventions, the offeror certifies that the disclosed practices are in accord with the requirements of those conventions.
+\end{minipage}
+
+\bigskip
+\noindent\textbf{7.\quad Exemption Claimed for NATO PHM Ship Program}
+
+\medskip
+\noindent\(\square\)\quad
+\begin{minipage}[t]{0.83\linewidth}
+Check this box if claiming eligibility for exemption from CAS coverage based on subcontracts under the NATO PHM Ship program to be performed outside the United States by a foreign concern.
+
+\medskip
+The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, 9903.201-1(b)(13).
+\end{minipage}
+
+\bigskip
+\noindent\textbf{8.\quad Exemption Claimed for Performance Outside the United States}
+
+\medskip
+\noindent\(\square\)\quad
+\begin{minipage}[t]{0.83\linewidth}
+Check this box if claiming eligibility for exemption from CAS coverage based on contracts and subcontracts to be executed and performed entirely outside the United States, its territories, and possessions.
+
+\medskip
+The offeror hereby claims exemption from the CAS requirements under the provisions of 48 CFR, \textbf{9903.201-1(b)(14).}
+\end{minipage}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.46\textwidth}
+\begin{center}
+\fbox{\textbf{\Large PART B}}
+\end{center}
+
+\medskip
+\noindent\textbf{\Large Disclosure Statement of Cost Accounting Practices and Certification}
+
+\medskip
+Any offeror submitting a proposal that, if accepted, will result in a contract subject to the requirements of the Cost Accounting Standards Board (CASB) must submit, must have already submitted, or must be exempt from submitting the Disclosure Statement required by Board regulation as a condition of contracting. The Disclosure Statement discloses the practices used in pricing the submitted proposal. The Disclosure Statement must be on form number CASB DS-1 or CASB DS-2, as appropriate. Forms may be obtained from the cognizant Administrative Contracting Officer (ACO).
+
+\medskip
+\noindent\textbf{Caution:} A practice disclosed in a Disclosure Statement will not, by virtue of such disclosure, be deemed to be a proper, approved, or agree-to practice for pricing proposals (Continued on page 3.) or accumulating and reporting contract performance cost data.
+
+\medskip
+Examine each of the sections below and complete the section appropriate to the submitted proposal.
+
+\medskip
+\noindent\textbf{1.\quad Certificate of Concurrent Submission of Disclosure Statement}
+
+\medskip
+\noindent\(\square\)\quad
+\begin{minipage}[t]{0.83\linewidth}
+Check this box if concurrently submitting a Disclosure Statement as part of the proposal. Provide the appropriate information as required below.
+
+\medskip
+The offeror hereby certifies that, as a part of the offer, copies of the Disclosure Statement have been submitted as follows:
+
+\begin{enumerate}
+\item An original and one copy to the cognizant ACO or cognizant Federal Agency official authorized to act in that capacity
+\item One copy to the cognizant contract auditor.
+\end{enumerate}
+
+The offeror further certifies that practices used in estimating costs in pricing this proposal are consistent with the cost accounting practices disclosed in this Disclosure Statement.
+\end{minipage}
+
+\bigskip
+\noindent Date of Disclosure Statement:
+
+\bigskip
+\noindent\rule{\linewidth}{0.4pt}
+
+\noindent Name and address of cognizant ACO or Federal Official where Disclosure Statement filed:
+
+\medskip
+\noindent\rule{\linewidth}{0.4pt}
+
+\bigskip
+\noindent\rule{\linewidth}{0.4pt}
+
+\bigskip
+\noindent\rule{\linewidth}{0.4pt}
+
+\bigskip
+\noindent\rule{\linewidth}{0.4pt}
+
+\bigskip
+\noindent\rule{\linewidth}{0.4pt}
+\end{minipage}
+
+\vfill
+\noindent RF 540 (04/05)\hfill 2\hfill Tab -- Representations and Certifications
+\end{document}
+```

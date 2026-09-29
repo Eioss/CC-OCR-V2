@@ -1,0 +1,190 @@
+```html
+<table border="1">
+  <tr>
+    <td>产品批次</td>
+    <td colspan="2">2001</td>
+    <td colspan="2">产品编号</td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>项目</td>
+    <td>要求</td>
+    <td colspan="3">AH20-01</td>
+    <td colspan="2">AH20-02</td>
+  </tr>
+  <tr>
+    <td>尺寸1</td>
+    <td>$\Phi 259.6_{0}^{+0.1}$</td>
+    <td>259.66</td>
+    <td></td>
+    <td colspan="2">259.66</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸2</td>
+    <td>68.45±0.3</td>
+    <td>68.43</td>
+    <td>68.49</td>
+    <td colspan="2">68.52</td>
+    <td>68.58</td>
+  </tr>
+  <tr>
+    <td>尺寸3</td>
+    <td>$\Phi 297_{-0.32}^{-0.1}$</td>
+    <td>296.74</td>
+    <td>296.80</td>
+    <td colspan="2">296.82</td>
+    <td>296.96</td>
+  </tr>
+  <tr>
+    <td>尺寸4</td>
+    <td>$\Phi 30 \pm 0.3$</td>
+    <td>30.14</td>
+    <td>30.12</td>
+    <td colspan="2">30.10</td>
+    <td>30.12</td>
+  </tr>
+  <tr>
+    <td>尺寸5</td>
+    <td>55.5±0.1</td>
+    <td>55.10</td>
+    <td></td>
+    <td colspan="2">55.50</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸6</td>
+    <td>60±0.1</td>
+    <td>60.0</td>
+    <td></td>
+    <td colspan="2">60.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸7</td>
+    <td>$\Phi 285_{-0.2}^{0}$</td>
+    <td>284.79</td>
+    <td>284.81</td>
+    <td colspan="2">284.81</td>
+    <td>284.89</td>
+  </tr>
+  <tr>
+    <td>尺寸8</td>
+    <td>391.5±0.2</td>
+    <td>391.55</td>
+    <td>391.63</td>
+    <td colspan="2">391.60</td>
+    <td>391.70</td>
+  </tr>
+  <tr>
+    <td>尺寸9</td>
+    <td>266.6±0.5</td>
+    <td>267.22</td>
+    <td></td>
+    <td colspan="2">267.03</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸10</td>
+    <td>55±0.3</td>
+    <td>55.0</td>
+    <td>5.09</td>
+    <td colspan="2">55.08</td>
+    <td>55.12</td>
+  </tr>
+  <tr>
+    <td>尺寸11</td>
+    <td>64.95±0.3</td>
+    <td>64.89</td>
+    <td>64.92</td>
+    <td colspan="2">65.00</td>
+    <td>65.04</td>
+  </tr>
+  <tr>
+    <td>尺寸12</td>
+    <td>223.5±0.3</td>
+    <td>223.43</td>
+    <td>223.45</td>
+    <td colspan="2">223.62</td>
+    <td>223.70</td>
+  </tr>
+  <tr>
+    <td>尺寸13</td>
+    <td>162±0.1</td>
+    <td>162.1</td>
+    <td></td>
+    <td colspan="2">162.1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸14</td>
+    <td>54±0.3</td>
+    <td>53.99</td>
+    <td></td>
+    <td colspan="2">54.02</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸15</td>
+    <td>25±0.1</td>
+    <td>25.02</td>
+    <td></td>
+    <td colspan="2">25.0</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸16</td>
+    <td>4.7±0.1</td>
+    <td>4.76</td>
+    <td></td>
+    <td colspan="2">4.76</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸17</td>
+    <td>$\Phi 285.5_{0}^{+0.32}$</td>
+    <td>285.72</td>
+    <td></td>
+    <td colspan="2">285.77</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸18</td>
+    <td>$\Phi 287.8_{0}^{+0.13}$</td>
+    <td>287.88</td>
+    <td></td>
+    <td colspan="2">287.93</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸19</td>
+    <td>$\Phi 290_{0}^{+0.21}$</td>
+    <td>290</td>
+    <td></td>
+    <td colspan="2">290.20</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸20</td>
+    <td>$\Phi 282.4_{-0.2}^{0}$</td>
+    <td>282.33</td>
+    <td>282.34</td>
+    <td colspan="2">282.33</td>
+    <td>282.36</td>
+  </tr>
+  <tr>
+    <td>尺寸21</td>
+    <td>$\Phi 278_{-0.2}^{0}$</td>
+    <td>277.91</td>
+    <td>277.95</td>
+    <td colspan="2">277.95</td>
+    <td>277.96</td>
+  </tr>
+  <tr>
+    <td colspan="7">操作人：[签名]   日期：2020.11.11</td>
+  </tr>
+  <tr>
+    <td colspan="7">备注：</td>
+  </tr>
+</table>
+```

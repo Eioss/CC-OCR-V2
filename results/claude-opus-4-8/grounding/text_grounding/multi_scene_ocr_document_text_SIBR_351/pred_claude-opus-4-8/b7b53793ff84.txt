@@ -1,0 +1,7 @@
+The text 'Accommodation' appears twice in the image.
+
+First occurrence (11-05-20 row):
+(297, 502, 522, 528)
+
+Second occurrence (11-06-20 row):
+(297, 538, 522, 564)

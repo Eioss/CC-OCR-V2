@@ -1,0 +1,103 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: right;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th colspan="4">Reported results</th>
+    </tr>
+    <tr>
+     <th></th>
+     <th>2018<br/>$m</th>
+     <th>2017<br/>$m</th>
+     <th>2016<br/>$m</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>Net operating income before change in expected credit losses and other credit impairment charges ('revenue')</td>
+     <td>53,780</td>
+     <td>51,445</td>
+     <td>47,966</td>
+    </tr>
+    <tr>
+     <td>ECL/LICs</td>
+     <td>(1,767)</td>
+     <td>(1,769)</td>
+     <td>(3,400)</td>
+    </tr>
+    <tr>
+     <td><b>Net operating income</b></td>
+     <td><b>52,013</b></td>
+     <td><b>49,676</b></td>
+     <td><b>44,566</b></td>
+    </tr>
+    <tr>
+     <td>Total operating expenses</td>
+     <td>(34,659)</td>
+     <td>(34,884)</td>
+     <td>(39,808)</td>
+    </tr>
+    <tr>
+     <td><b>Operating profit</b></td>
+     <td><b>17,354</b></td>
+     <td><b>14,792</b></td>
+     <td><b>4,758</b></td>
+    </tr>
+    <tr>
+     <td>Share of profit in associates and joint ventures</td>
+     <td>2,536</td>
+     <td>2,375</td>
+     <td>2,354</td>
+    </tr>
+    <tr>
+     <td><b>Profit before tax</b></td>
+     <td><b>19,890</b></td>
+     <td><b>17,167</b></td>
+     <td><b>7,112</b></td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

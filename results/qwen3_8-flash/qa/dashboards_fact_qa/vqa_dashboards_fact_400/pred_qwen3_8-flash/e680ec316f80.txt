@@ -1,0 +1,23 @@
+Based on the "Learning Curve" chart in the infographic, we can determine which platform takes longer to master among **iPhone**, **Java ME**, and **Windows Mobile**.
+
+Looking at the horizontal bar chart under **"Learning Curve"**:
+
+- The bars represent the number of months it takes developers to become proficient.
+- The platforms are listed vertically: Android, iPhone, Java ME, Windows Mobile, BlackBerry, Symbian.
+- The x-axis shows time in months (0 to 20).
+
+From the chart:
+
+- **iPhone**: Bar extends to approximately **7–8 months**.
+- **Java ME**: Bar extends to approximately **9–10 months**.
+- **Windows Mobile**: Bar extends to approximately **11–12 months**.
+
+> ✅ Therefore, **Windows Mobile** takes the longest time to master among the three.
+
+Additionally, the text box next to the learning curve says:
+> “The easiest platform to master is Android (5 months), while the hardest is Symbian (15 months)” — this confirms that longer bars = more time required.
+
+---
+
+### Final Answer:
+**Windows Mobile** takes longer to master than iPhone or Java ME.

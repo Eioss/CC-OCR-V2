@@ -1,0 +1,19 @@
+$$\left|\frac{\partial \Gamma_{\varepsilon}^{\alpha\beta}}{\partial x_i}(x,t;y,s) - \frac{\partial \Gamma_0^{\alpha\beta}}{\partial x_i}(x,t;y,s) - \frac{\partial x_1^{\alpha r}}{\partial x_i}(x|\varepsilon,t|\varepsilon^2)\frac{\partial \Gamma_0^{r\beta}}{\partial x_j}(x,t;y,s)\right|$$
+
+$$\deg(T x_0|_{C_1}) - \deg(\mathcal{D}^{\alpha_1})_{C_1} - \deg(\mathcal{D}^{-1}/\mathcal{D}^{\alpha_1})|_{C_1}$$
+
+$$= \deg(\mathcal{D}^{-2}/\mathcal{D})|_{C_1} + \deg(\mathcal{D}^{-3}/\mathcal{D}^{-2})|_{C_1}.$$
+
+$$\langle A_{w,t}u,u\rangle \geq \max\left\{C_1(w,t)\|u\|_V^{\alpha} - m_1(w,t), C_2(w,t)\|Au\|_{V^*}^{\beta} - m_2(w,t)\right\}.$$
+
+$$S_{BS} \approx N^{1/2}(2\lambda + 4r_2^2)^{1/2} \approx (2N\lambda)^{1/2},$$
+
+$$(g_A^* \circ h \circ e)_f(x_{i_1j_1}\cdots x_{i_sj_s} \otimes y_{l_1}\cdots y_{l_t}) = (\psi^* \circ g_k^*)_f(x_{i_1j_1}\cdots x_{i_sj_s} \otimes y_{l_1}\cdots y_{l_t})$$
+
+$$(g_A^* \circ h)_f(x_{i_1}\cdots x_{i_s} \otimes y_{l_1}\cdots y_{l_t}) = \left(\prod_{u=1}^{s}\prod_{k=1}^{c_{iu}} z_{i_uj_uk}\right) \otimes y_{l_1}\cdots y_{l_t}.$$
+
+$$\ell \leq H_{\min}^{\varepsilon_1}(Z_D|S_{\bar{D}}DB') - 2\log_2\frac{1}{\varepsilon_A - 4\varepsilon_1}$$
+
+$$\mathbb{D}: D(A_w\text{-dgmod})^{\circ} \to D(A_w\text{-dgmod}); M \mapsto R\,\mathrm{Hom}_{H_G^*(pt)}(M, H_G^*(pt)),$$
+
+$$S_{\varepsilon}(\gamma(E)) = S_{\varepsilon}(\gamma(VE)) = Q(S_{\varepsilon})_x^{VE} + \sum_{\lambda \in VE} Q(S_{\varepsilon})_x^{VE} = \sum_{\lambda \in VE} Q(S_{\varepsilon})_x^{VE}.$$

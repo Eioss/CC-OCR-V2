@@ -1,0 +1,47 @@
+Based on the image provided, here is the transcription of the text, equations, and table into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\[
+\sin C = \frac{\text{side opposite to angle } C}{\text{hypotenuse}} = \frac{p}{h}
+\]
+
+\[
+\cos C = \frac{\text{side adjacent to angle } C}{\text{hypotenuse}} = \frac{b}{h}
+\]
+
+\[
+\tan C = \frac{\text{side opposite to angle } C}{\text{side adjacent to angle } C} = \frac{p}{b}
+\]
+
+\[
+\text{cosec } \theta = \frac{1}{\sin \theta}; \sec \theta = \frac{1}{\cos \theta}; \cot \theta = \frac{1}{\tan \theta}; \tan \theta = \frac{\sin \theta}{\cos \theta}
+\]
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|}
+\hline
+\textbf{$\angle$A} & \textbf{0$^{\circ}$} & \textbf{30$^{\circ}$} & \textbf{45$^{\circ}$} & \textbf{60$^{\circ}$} & \textbf{90$^{\circ}$} \\
+\hline
+\textbf{Sin A} & 0 & $\frac{1}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{\sqrt{3}}{2}$ & 1 \\
+\hline
+\textbf{Cos A} & 1 & $\frac{\sqrt{3}}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{1}{2}$ & 0 \\
+\hline
+\textbf{Tan A} & 0 & $\frac{1}{\sqrt{3}}$ & 1 & $\sqrt{3}$ & Not defined \\
+\hline
+\textbf{Cosec A} & Not defined & 2 & $\sqrt{2}$ & $\frac{2}{\sqrt{3}}$ & 1 \\
+\hline
+\textbf{Sec A} & 1 & $\frac{2}{\sqrt{3}}$ & $\sqrt{2}$ & 2 & Not defined \\
+\hline
+\textbf{Cot A} & Not defined & $\sqrt{3}$ & 1 & $\frac{1}{\sqrt{3}}$ & 0 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

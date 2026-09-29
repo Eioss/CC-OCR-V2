@@ -1,0 +1,10 @@
+Based on the flowchart:
+
+1.  Start at **"Are you in Canada?"** -> Assuming **No** (since the "Yes" path leads directly to Tim Hortons without the time question).
+2.  Go to **"Is it before 10:30 AM?"** -> You said **Yes**.
+3.  Go to **"Are you a police officer?"** -> You said **No**.
+4.  Follow the "No" arrow to **McDonald's**.
+
+So, you should eat at **McDonald's**.
+
+*(Note: If you had answered "Yes" to being in Canada, the chart would direct you to Tim Hortons immediately, skipping the time and police officer questions.)*

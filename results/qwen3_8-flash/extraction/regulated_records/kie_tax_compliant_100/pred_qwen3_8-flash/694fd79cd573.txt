@@ -1,0 +1,12 @@
+```json
+{
+    "date": "03 Jun 18",
+    "doc_no_receipt_no": "21063",
+    "seller_address": "LOT NO R134,Giant Hypermarket Plentong No3, Jalan Masai Lama 81750 Masai, Johor Bahru",
+    "seller_gst_id": "000750002176",
+    "seller_name": "OLD TOWN WHITE COFFE EXQUISITE GARDEN SDN BHD",
+    "seller_phone": "+607-3536960",
+    "total_amount": "28.00",
+    "total_tax": "0.00"
+}
+```

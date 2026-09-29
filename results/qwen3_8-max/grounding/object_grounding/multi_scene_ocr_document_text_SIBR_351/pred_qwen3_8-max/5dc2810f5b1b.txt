@@ -1,0 +1,24 @@
+```json
+[
+    {"bbox_2d": [487, 846, 580, 857], "label": "Account NO."},
+    {"bbox_2d": [487, 860, 751, 873], "label": "Account Name"},
+    {"bbox_2d": [138, 789, 516, 815], "label": "Address"},
+    {"bbox_2d": [692, 550, 778, 564], "label": "Amount"},
+    {"bbox_2d": [22, 775, 330, 787], "label": "Company Name"},
+    {"bbox_2d": [142, 172, 237, 185], "label": "Date"},
+    {"bbox_2d": [21, 350, 324, 375], "label": "Delivery to"},
+    {"bbox_2d": [138, 861, 242, 872], "label": "Fax"},
+    {"bbox_2d": [142, 551, 180, 565], "label": "Goods Descriptions"},
+    {"bbox_2d": [142, 90, 330, 152], "label": "Order No."},
+    {"bbox_2d": [701, 72, 771, 86], "label": "Page Number"},
+    {"bbox_2d": [142, 833, 189, 844], "label": "Post Code"},
+    {"bbox_2d": [417, 551, 450, 564], "label": "Quantity (PC)"},
+    {"bbox_2d": [487, 832, 590, 843], "label": "SWIFT"},
+    {"bbox_2d": [380, 220, 452, 234], "label": "Shipped By"},
+    {"bbox_2d": [62, 551, 104, 565], "label": "Shipping Mark"},
+    {"bbox_2d": [138, 845, 251, 857], "label": "Tel"},
+    {"bbox_2d": [379, 350, 482, 364], "label": "Terms of Payment"},
+    {"bbox_2d": [355, 33, 493, 54], "label": "Title"},
+    {"bbox_2d": [545, 550, 592, 564], "label": "Unit Price"}
+]
+```

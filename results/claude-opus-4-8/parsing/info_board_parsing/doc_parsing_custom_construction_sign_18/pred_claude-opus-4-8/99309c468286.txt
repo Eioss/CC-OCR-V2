@@ -1,0 +1,86 @@
+# 文明施工与进度公示牌
+
+进度计划 / 现场管理 / 联系方式
+
+<table>
+<tr><td>文档编号</td><td>SG-837451</td></tr>
+<tr><td>日期</td><td>2024-05-08</td></tr>
+</table>
+
+**项目名称：** 云栖湾9号楼主体工程　　**单位名称：** 星海省云栖市云栖极光工程有限公司　　**工程地点：** 临澜省云栖市新栖区澜河路197号 9栋
+
+<table>
+<tr>
+<td colspan="5">第一季度里程碑计划</td>
+<td colspan="5">现场综合检查记录（A区/B区）</td>
+<td colspan="3">月度汇总</td>
+</tr>
+<tr>
+<td>计划日期</td>
+<td>实际日期</td>
+<td>节点名称</td>
+<td>责任人</td>
+<td>状态(√/×)</td>
+<td>检查项编号</td>
+<td>问题描述（含长编号）</td>
+<td>整改措施</td>
+<td>复验人签字</td>
+<td>整改期限</td>
+<td>评级(A/B/C)</td>
+<td>备注</td>
+</tr>
+<tr>
+<td>2024/05/18</td><td>2024/05/10</td><td>节点名称</td><td>李强</td><td>√</td><td>10000</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/05/08</td><td>2024/05/08</td><td>节点名称</td><td>王刚</td><td>×</td><td>10001</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/5/15</td><td>2024/05/11</td><td>节点名称</td><td>李强</td><td>√</td><td>10002</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/5/15</td><td>2024/05/15</td><td>节点名称</td><td>王刚</td><td>√</td><td>10003</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>B</td><td></td>
+</tr>
+<tr>
+<td>2024/5/26</td><td>2024/05/20</td><td>节点名称</td><td>王刚</td><td>√</td><td>10004</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>C</td><td></td>
+</tr>
+<tr>
+<td colspan="5">【A区小计】</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>2024/5/25</td><td>2024/05/28</td><td>节点名称</td><td>李强</td><td>√</td><td>10000</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/5/25</td><td>2024/05/28</td><td>节点名称</td><td>王刚</td><td>×</td><td>10001</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/5/25</td><td>2024/05/28</td><td>节点名称</td><td>王刚</td><td>√</td><td>10002</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>A</td><td></td>
+</tr>
+<tr>
+<td>2024/5/25</td><td>2024/05/28</td><td>节点名称</td><td>王刚</td><td>√</td><td>10003</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>B</td><td></td>
+</tr>
+<tr>
+<td>2024/5/25</td><td>2024/05/28</td><td>节点名称</td><td>王刚</td><td>×</td><td>10004</td><td>166029785954521211</td><td></td><td></td><td>/</td><td>C</td><td></td>
+</tr>
+<tr>
+<td colspan="5">【B区小计】</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td colspan="5">【季度汇总行】</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+
+**备注：**
+
+<table>
+<tr>
+<td rowspan="2">责任人信息</td>
+<td>项目负责人：沈景行</td>
+<td>安全员：严若溪</td>
+<td>联系电话：15134712999</td>
+</tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_2090_1290_2310_1510.jpg" alt="Image" width="8%" /></div>
+
+https://example.com/doc-24745063

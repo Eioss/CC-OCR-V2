@@ -1,0 +1,81 @@
+```latex
+\noindent\textbf{12}\quad Katy weighed out some sugar from a full \(2\text{ kg}\) bag. The mass of the sugar is shown on the scale.
+
+\[
+\begin{array}{c@{\qquad}c}
+1000 & 2\text{ kg}\\
+800\quad g\quad 200 & \text{Sugar}\\
+600\quad 400 &
+\end{array}
+\]
+
+\noindent How much sugar was left in the bag?
+
+\[
+\begin{array}{ll@{\qquad}ll@{\qquad}ll}
+\text{A}&1.55\text{ kg}&\text{B}&1.65\text{ kg}&\text{C}&165\text{ g}\\
+\text{D}&155\text{ g}&\text{E}&1550\text{ kg}
+\end{array}
+\]
+
+\noindent\textbf{13}\quad What is the total cost of 8 rulers and 8 pens?
+
+\[
+\begin{array}{c@{\qquad}c}
+\text{Pen: }\pounds 1.23 & \text{Ruler: }\pounds 1.77
+\end{array}
+\]
+
+\[
+\begin{array}{ll@{\qquad}ll@{\qquad}ll@{\qquad}ll@{\qquad}ll}
+\text{A}&\pounds 2&\text{B}&\pounds 3&\text{C}&\pounds 16&
+\text{D}&\pounds 24&\text{E}&\pounds 32
+\end{array}
+\]
+
+\noindent\textbf{14}\quad Round \(7.038\) to the nearest hundredth.
+
+\[
+\begin{array}{ll@{\qquad}ll@{\qquad}ll@{\qquad}ll@{\qquad}ll}
+\text{A}&7.00&\text{B}&7.03&\text{C}&7.04&
+\text{D}&7.038&\text{E}&7.039
+\end{array}
+\]
+
+\noindent\textbf{15}\quad These shapes are made from \(1\text{ cm}\) cubes.
+
+\[
+\begin{array}{cccc}
+\text{P}&\text{Q}&\text{R}&\text{S}
+\end{array}
+\]
+
+\noindent Which two shapes have the same volume?
+
+\[
+\begin{array}{ll@{\qquad}ll@{\qquad}ll}
+\text{A}&\text{P and Q}&\text{B}&\text{P and R}&\text{C}&\text{P and S}\\
+\text{D}&\text{Q and R}&\text{E}&\text{R and S}
+\end{array}
+\]
+
+\noindent\textbf{16}\quad Which of these shapes are prisms?
+
+\[
+\begin{array}{ccccc}
+\text{P}&\text{Q}&\text{R}&\text{S}&\text{T}
+\end{array}
+\]
+
+\[
+\begin{array}{ll@{\qquad}ll@{\qquad}ll}
+\text{A}&\text{P and S only}&\text{B}&\text{R and T only}&
+\text{C}&\text{Q, R and T}\\
+\text{D}&\text{P, Q and S}&\text{E}&\text{Only S}
+\end{array}
+\]
+
+\noindent 11+ Maths / 10-11 / Paper 1
+\hfill 4 \hfill
+\copyright\ \text{CGP 2018}
+```

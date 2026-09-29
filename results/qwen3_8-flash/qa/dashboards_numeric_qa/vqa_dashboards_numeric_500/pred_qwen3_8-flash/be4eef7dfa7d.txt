@@ -1,0 +1,127 @@
+Based on the provided infographic titled "Hot New Hairstyles 2015", we need to identify and count the **short hairstyles for women**.
+
+Looking at the "Women" section (left side, yellow circles), let's examine each hairstyle:
+
+1.  **Scarlett Johansson’s Asymmetrical Sweep** - This appears to be a short bob or pixie-like cut with sweeping bangs. → **Short**
+2.  **Katie Holmes’ Straight Bangs and Bob** - A classic chin-length bob. Generally considered medium, but often categorized as short in contrast to long hair. However, strictly speaking, it’s not *very* short like a pixie. Let’s hold judgment.
+3.  **Sophie Bush’s Ruffled Lob** - “Lob” stands for long bob, typically shoulder-length. → **Medium/Long**, not short.
+4.  **Suki Waterhouse’s Grown-Out Bangs** - The image shows long, flowing hair with bangs. → **Long**
+5.  **Jaime King’s Airy Bangs** - Image shows very short, almost shaved sides with longer top/bangs? Or perhaps a cropped style. Looks like a short crop or pixie variant. → **Short**
+6.  **Karlie Kloss’s Allover Layers** - Long, layered hair. → **Long**
+7.  **Kate Mara’s Pixie Crop** - Clearly a very short pixie cut. → **Short**
+8.  **Erkah Badu’s Bowl Cut** - A blunt-cut bowl shape, usually ending around the jawline. Often classified as short-to-medium. In this context, compared to lobs and long layers, it’s relatively short. But technically, many bowl cuts are chin-length. Let’s see if there’s a clearer definition.
+9.  **Selena Gomez’s Layered Lob** - Again, “lob” = long bob → **Medium/Long**
+10. **Katy Perry’s Shaggy Crop** - “Crop” implies short; shaggy texture suggests a textured pixie or boyish cut. → **Short**
+11. **Behati Prinsloo’s Full Fringe** - Image shows hair that looks like it could be shoulder-length or slightly above, with heavy bangs. Ambiguous, but likely not *short*. Probably medium.
+12. **Cara Delevingne’s Shaved Side** - One side is clearly shaved/very short, the other has some length. Overall, it’s an asymmetric short cut. → **Short**
+
+---
+
+Now, let’s define **“short”** more precisely based on common hairstyling categories:
+
+- **Pixie/Crop/Buzz/Shaved**: Definitely short.
+- **Bob (chin-length)**: Often called “short bob”, so may qualify.
+- **Lob (shoulder-length)**: Usually considered medium.
+- **Long layers/fringe**: Not short.
+
+Re-evaluating with stricter criteria (hair ending well above shoulders):
+
+✅ **Definitely Short:**
+- Scarlett Johansson’s Asymmetrical Sweep (looks like a short angled bob/pixie)
+- Jaime King’s Airy Bangs (appears cropped)
+- Kate Mara’s Pixie Crop (obvious)
+- Katy Perry’s Shaggy Crop (textured short cut)
+- Cara Delevingne’s Shaved Side (asymmetric short)
+
+❓ **Borderline / Medium:**
+- Katie Holmes’ Straight Bangs and Bob — chin-length bob. Many would call this “short”, especially vs. lob/long. But let’s check others.
+- Erkah Badu’s Bowl Cut — also chin/jaw length. Similar to bob.
+
+If we include **bob-length styles** as “short”, then:
+
+→ Add:
+- Katie Holmes’ Straight Bangs and Bob
+- Erkah Badu’s Bowl Cut
+
+But note: Sophie Bush’s “Ruffled Lob” and Selena Gomez’s “Layered Lob” are explicitly “lob” — which is longer than bob. So they’re out.
+
+Also, Behati Prinsloo’s “Full Fringe” — image doesn’t clearly show shortness; seems to have volume and length past ears. Likely medium.
+
+So, conservative count of **clearly short** (pixie/crop/shaved/asymmetric short):
+
+1. Scarlett Johansson’s Asymmetrical Sweep  
+2. Jaime King’s Airy Bangs  
+3. Kate Mara’s Pixie Crop  
+4. Katy Perry’s Shaggy Crop  
+5. Cara Delevingne’s Shaved Side  
+
+That’s **5**.
+
+If we include **bob-length** as “short”:
+
+6. Katie Holmes’ Straight Bangs and Bob  
+7. Erkah Badu’s Bowl Cut  
+
+Total becomes **7**.
+
+However, looking closely at the images:
+
+- **Scarlett’s** sweep: ends near jaw → short bob.
+- **Jaime’s**: looks like a micro-bob or pixie with fringe → short.
+- **Kate’s**: pixie → short.
+- **Katy’s**: shaggy crop → short.
+- **Cara’s**: shaved side + undercut → short.
+- **Katie Holmes’**: straight bangs + bob → classic short bob.
+- **Erkah Badu’s**: bowl cut → typically hits jaw/chin → often labeled “short”.
+
+The term “short hairstyle” in fashion/beauty contexts often includes bobs and crops.
+
+Therefore, counting all non-long, non-lob styles under “short”:
+
+Exclude only:
+- Suki Waterhouse (long)
+- Karlie Kloss (long)
+- Sophie Bush (lob)
+- Selena Gomez (lob)
+- Behati Prinsloo (ambiguous, but likely medium due to fullness and lack of clear shortness)
+
+Wait — Behati’s image: her hair goes below ears, possibly to neck. Could be considered medium. We’ll exclude it to be safe.
+
+So remaining 7 from 12 total women’s styles:
+
+1. Scarlett – short  
+2. Katie H – short (bob)  
+3. Sophie – NO (lob)  
+4. Suki – NO (long)  
+5. Jaime – short  
+6. Karlie – NO (long)  
+7. Kate M – short (pixie)  
+8. Erkah – short (bowl)  
+9. Selena – NO (lob)  
+10. Katy P – short (crop)  
+11. Behati – ? Let’s say NO (medium/full fringe, not obviously short)  
+12. Cara – short  
+
+Thus, **7 short hairstyles**.
+
+But wait — let’s double-check **Behati Prinsloo’s Full Fringe**. Her silhouette shows hair going down to about neck level, with lots of body. It’s not a pixie or crop. Probably medium. Exclude.
+
+Final list of **short hairstyles for women**:
+
+1. Scarlett Johansson’s Asymmetrical Sweep  
+2. Katie Holmes’ Straight Bangs and Bob  
+3. Jaime King’s Airy Bangs  
+4. Kate Mara’s Pixie Crop  
+5. Erkah Badu’s Bowl Cut  
+6. Katy Perry’s Shaggy Crop  
+7. Cara Delevingne’s Shaved Side  
+
+✅ **Answer: 7**
+
+---
+
+**Note**: If the question expects only *ultra-short* (like pixies, crops, shaved), then answer might be 5. But since “bob” is commonly referred to as a “short haircut”, and given the visual evidence, **7 is the most accurate inclusive count**.
+
+---
+
+### ✅ Final Answer: **7**

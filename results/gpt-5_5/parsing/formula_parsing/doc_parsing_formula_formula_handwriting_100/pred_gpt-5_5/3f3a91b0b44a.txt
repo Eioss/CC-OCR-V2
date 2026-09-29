@@ -1,0 +1,31 @@
+\[
+\begin{aligned}
+S
+&\le \sum_{d\mid w}\sum_{b_1,\ldots,b_k\in B}
+\frac{w}{d}\prod_{p\mid w/d}\left(1-\frac{r_p(b_1,\ldots,b_k)+1}{p}\right) \\
+&\le \sum_{d\mid w}\sum_{b_1,\ldots,b_k\in B}
+\frac{w_1}{d_1}\prod_{p\mid w_1/d_1}\left(1-\frac{2}{p}\right)
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{r_p(b_1,\ldots,b_k)+1}{p}\right) \\
+&= \sum_{d\mid w}\frac{\varphi(w_1)}{d_1}
+\sum_{b_1,\ldots,b_k\in B}
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{r_p(b_1,\ldots,b_k)+1}{p}\right) \\
+&\le \sum_{d\mid w}\frac{\varphi(w_1)}{d_1}
+\sum_{j=-\infty}^{\infty}
+\sum_{\substack{b_1,\ldots,b_k\in B\\ f(b_1,\ldots,b_k)\in[2^j,2^{j+1})}}
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{2k+1}{p}\right)
+\prod_{\substack{p\mid w_3/d_2\\ p\mid f(b_1,\ldots,b_k)}}
+\left(1-\frac{2k+1}{p}\right)^{-1} \\
+&\le \sum_{d\mid w}\frac{\varphi(w_1)}{d_1}
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{2k+1}{p}\right)
+\sum_{j=-\infty}^{\infty}
+\sum_{\substack{b_1,\ldots,b_k\in B\\ f(b_1,\ldots,b_k)\in[2^j,2^{j+1})}}
+e^{C(2k+1)^2j^2} \\
+&\le \sum_{d\mid w}k^2|B|k^{-2}\phi_w
+\frac{\varphi(w_1)}{d_1}
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{2k+1}{p}\right)
+\sum_{j=0}^{\infty}2^{-\exp(cj^2)}e^{(2k+1)^2j^2} \\
+&= C_k k^2|B|k^{-2}\phi_w
+\sum_{d\mid w}\frac{\varphi(w_1)}{d_1}
+\frac{w_3}{d_2}\prod_{p\mid w_3/d_2}\left(1-\frac{2k+1}{p}\right).
+\end{aligned}
+\]

@@ -1,0 +1,85 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+\begin{tabular}{|>{\bfseries}l l|}
+\hline
+\multicolumn{2}{|l|}{\textbf{Word Power}}\\
+Extra & more than what is needed\\
+Instead & as an alternative\\
+Din & noise\\
+Seize & catch by force\\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Test Your Reading}
+
+\begin{enumerate}
+\item \textbf{Complete the following statements :}
+
+\begin{enumerate}
+\item They began \underline{\textit{heating}} the iron and forging it again.
+
+\item The farmer \underline{\textit{led}} the lord to the storeroom.
+
+\item Off rode the \underline{\textit{farmer}} and the lord to get what he had earned.
+
+\item The lord \underline{\textit{heated}} it well and threw it in a tub of water.
+
+\item The lord \underline{\textit{did not}} want the coachman to know the shame.
+\end{enumerate}
+
+\item \textbf{Answer the following questions :}
+
+\begin{enumerate}
+\item What did the lord try to make when he failed to make the plough ?
+
+\item What did the lord try to make when he could not make the axe ?
+
+\item What did the lord make at last ?
+
+\item How did the lord make a sizz ?
+
+\item Why did the lord take the sack to the farmer’s home ?
+
+\item What did the strongmen do ?
+\end{enumerate}
+
+\item \textbf{Who said to whom :}
+
+\begin{enumerate}
+\item Oh all right then.
+
+\begin{tabular}{ll}
+\textit{Who said ?} & \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}} \quad
+\textit{To whom ?} \quad \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}}
+\end{tabular}
+
+\item It’s a fine sizz.
+
+\begin{tabular}{ll}
+\textit{Who said ?} & \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}} \quad
+\textit{To whom ?} \quad \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}}
+\end{tabular}
+
+\item I’ll take the sack and go into the storeroom myself.
+
+\begin{tabular}{ll}
+\textit{Who said ?} & \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}} \quad
+\textit{To whom ?} \quad \fbox{\rule{5cm}{0pt}\rule{0pt}{0.7cm}}
+\end{tabular}
+\end{enumerate}
+
+\end{enumerate}
+
+\begin{center}
+112
+\end{center}
+
+\end{document}
+```

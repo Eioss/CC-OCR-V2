@@ -1,0 +1,70 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\noindent
+I, for one, am far from ready to use online courses for my learning. Don't get me
+\underline{\makebox[1cm]{1}}, I am very happy about all the communication and
+learning opportunities the courses have given us. But for me those opportunities
+should not be used to replace classroom activities. In other words, they are only
+\underline{\makebox[1cm]{2}} to help me learn what has already been
+\underline{\makebox[1cm]{3}} in the classroom.
+
+\medskip
+
+\noindent
+I love the classroom. I love having classmates. There are forty students in my
+class right now, and I think it's great. I even love having classmates who are
+better than me. And, let's \underline{\makebox[1cm]{4}} forget the smell of ink
+on paper, the sound of chalk on a blackboard, the hardness of a wooden bench or
+the heat inside the classroom in early September. I love it all. But most of
+\underline{\makebox[1cm]{5}}, I love having a teacher---a ``real live'' teacher.
+I get excited when I am in the classroom with a good teacher. I learn in a way
+that has been proven to work. I am given insight not only
+\underline{\makebox[1cm]{6}} a certain subject, but also into the world.
+
+\medskip
+
+\noindent
+What makes having a classroom teacher so \underline{\makebox[1cm]{7}}? A good
+teacher pushes me to \underline{\makebox[1cm]{8}}. A good teacher rewards me with
+praise when I have done well and stays \underline{\makebox[1cm]{9}} and gives me
+hope when I am down. I don't believe that a teacher using a virtual classroom can
+\underline{\makebox[1cm]{10}} me in the same way. A teacher communicating
+\underline{\makebox[1cm]{11}} the Internet cannot share the same type of
+\underline{\makebox[1cm]{12}} a classroom teacher and student share.
+
+\medskip
+
+\noindent
+I guess that I am lucky to have had \underline{\makebox[1cm]{13}} to so many
+excellent classroom teachers. I will never forget the kindness and
+\underline{\makebox[1cm]{14}} that those teachers have shown me. Their examples
+make it hard for me to accept a way of learning that
+\underline{\makebox[1cm]{15}} include them. You can call me ``old-fashioned'',
+but as long as there is a classroom, that's where I will be learning.
+
+\bigskip
+
+\begin{tabular}{rlll}
+1.  & A. unhappy      & B. wrong        & C. troubled \\
+2.  & A. tools        & B. terms        & C. directions \\
+3.  & A. served       & B. offered      & C. appeared \\
+4.  & A. don't        & B. not          & C. always \\
+5.  & A. everything   & B. anything     & C. all \\
+6.  & A. at           & B. to           & C. into \\
+7.  & A. virtual      & B. special      & C. favorite \\
+8.  & A. succeed      & B. increase     & C. accept \\
+9.  & A. positive     & B. negative     & C. favorite \\
+10. & A. stay out with & B. reach out to & C. go out with \\
+11. & A. through      & B. to           & C. in \\
+12. & A. relationship & B. situation    & C. relative \\
+13. & A. path         & B. access       & C. entrance \\
+14. & A. commitment   & B. assignment   & C. companion \\
+15. & A. does         & B. does not     & C. may \\
+\end{tabular}
+
+\end{document}
+```

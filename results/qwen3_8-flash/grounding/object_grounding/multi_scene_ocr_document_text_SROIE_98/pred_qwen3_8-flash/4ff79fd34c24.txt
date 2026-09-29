@@ -1,0 +1,21 @@
+```json
+[
+	{"bbox_2d": [203, 78, 745, 116], "label": "address"},
+	{"bbox_2d": [49, 307, 568, 365], "label": "address"},
+	{"bbox_2d": [65, 57, 948, 80], "label": "company"},
+	{"bbox_2d": [49, 274, 607, 304], "label": "company"},
+	{"bbox_2d": [645, 252, 825, 270], "label": "date"},
+	{"bbox_2d": [417, 380, 596, 396], "label": "date"},
+	{"bbox_2d": [723, 435, 821, 453], "label": "total"},
+	{"bbox_2d": [736, 456, 819, 474], "label": "total"},
+	{"bbox_2d": [739, 477, 819, 494], "label": "total"},
+	{"bbox_2d": [720, 497, 819, 515], "label": "total"},
+	{"bbox_2d": [714, 528, 825, 551], "label": "total"},
+	{"bbox_2d": [745, 564, 819, 583], "label": "total"},
+	{"bbox_2d": [745, 591, 825, 615], "label": "total"},
+	{"bbox_2d": [745, 633, 819, 657], "label": "total"},
+	{"bbox_2d": [745, 672, 819, 696], "label": "total"},
+	{"bbox_2d": [714, 712, 825, 736], "label": "total"},
+	{"bbox_2d": [714, 753, 825, 783], "label": "total"}
+]
+```

@@ -1,0 +1,11 @@
+Based on the infographic, under the section "Scotland's climate change plans", it states:
+
+"However, of the 109 'on track' actions, 103 do not have fixed timescales for delivery"
+
+To find how many *do* have fixed timescales, subtract the number without fixed timescales from the total 'on track' actions:
+
+109 (total 'on track') - 103 (no fixed timescale) = **6**
+
+Therefore, **6** of the 109 'on track' actions have fixed timescales for delivery.
+
+This is also visually represented in the donut chart, where the segment labeled "Reported on track" has the value **6**.

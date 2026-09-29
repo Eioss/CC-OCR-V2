@@ -1,0 +1,60 @@
+Based on the image provided, here is the transcription of the text and equations into LaTeX format.
+
+```latex
+\textbf{Exercises}
+
+\textit{Concept Check} In Exercises 1--4, decide whether each statement is true or false.
+
+\begin{enumerate}
+    \item The solution set of $2x + 5 = x - 3$ is $\{-8\}$.
+    \item The equation $5(x - 8) = 5x - 40$ is an example of an identity.
+    \item The equations $x^2 = 4$ and $x + 2 = 4$ are equivalent equations.
+    \item It is possible for a linear equation to have exactly two solutions.
+\end{enumerate}
+
+\begin{enumerate}
+    \setcounter{enumi}{4}
+    \item Explain the difference between an identity and a conditional equation.
+    \item Make a complete list of the steps needed to solve a linear equation. (Some equations will not require every step.)
+\end{enumerate}
+
+\textbf{7.} \textit{Concept Check} Which one is not a linear equation?
+\begin{enumerate}[label=\Alph*.]
+    \item $5x + 7(x - 1) = -3x$
+    \item $9x^2 - 4x + 3 = 0$
+    \item $7x + 8x = 13x$
+    \item $0.04x - 0.08x = 0.40$
+\end{enumerate}
+
+\textbf{8.} In solving the equation $3(2x - 8) = 6x - 24$, a student obtains the result $0 = 0$ and gives the solution set $\{0\}$. Is this correct? Explain.
+
+\textit{Solve each equation. See Examples 1 and 2.}
+
+\begin{multicols}{2}
+\begin{enumerate}
+    \setcounter{enumi}{8}
+    \item $5x + 4 = 3x - 4$
+    \item $9x + 11 = 7x + 1$
+    \item $6(3x - 1) = 8 - (10x - 14)$
+    \item $4(-2x + 1) = 6 - (2x - 4)$
+    \item $\frac{5}{6}x - 2x + \frac{4}{3} = \frac{5}{3}$
+    \item $\frac{7}{4} + \frac{1}{5}x - \frac{3}{2} = \frac{4}{5}x$
+    \item $3x + 5 - 5(x + 1) = 6x + 7$
+    \item $5(x + 3) + 4x - 3 = -(2x - 4) + 2$
+    \item $2[x - (4 + 2x) + 3] = 2x + 2$
+    \item $4[2x - (3 - x) + 5] = -6x - 28$
+    \item $\frac{1}{14}(3x - 2) = \frac{x + 10}{10}$
+    \item $\frac{1}{15}(2x + 5) = \frac{x + 2}{9}$
+    \item $0.2x - 0.5 = 0.1x + 7$
+    \item $0.01x + 3.1 = 2.03x - 2.96$
+    \item $-4(2x - 6) + 8x = 5x + 24 + x$
+    \item $-8(3x + 4) + 6x = 4(x - 8) + 4x$
+    \item $0.5x + \frac{4}{3}x = x + 10$
+    \item $\frac{2}{3}x + 0.25x = x + 2$
+    \item $0.08x + 0.06(x + 12) = 7.72$
+    \item $0.04(x - 12) + 0.06x = 1.52$
+\end{enumerate}
+\end{multicols}
+
+\textit{Determine whether each equation is an identity, a conditional equation, or an inconsistent equation. Give the solution set. See Example 3.}
+```

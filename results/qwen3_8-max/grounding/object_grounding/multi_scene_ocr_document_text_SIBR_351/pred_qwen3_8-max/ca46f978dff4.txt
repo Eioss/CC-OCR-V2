@@ -1,0 +1,16 @@
+```json
+[
+    {"bbox_2d": [300, 155, 741, 167], "label": "Add"},
+    {"bbox_2d": [129, 309, 236, 322], "label": "Date"},
+    {"bbox_2d": [148, 549, 414, 598], "label": "Description of Goods"},
+    {"bbox_2d": [546, 201, 679, 212], "label": "Fax"},
+    {"bbox_2d": [179, 290, 285, 303], "label": "Invoice No"},
+    {"bbox_2d": [107, 576, 115, 588], "label": "No."},
+    {"bbox_2d": [546, 576, 674, 589], "label": "Price"},
+    {"bbox_2d": [459, 576, 500, 589], "label": "Qty"},
+    {"bbox_2d": [137, 460, 242, 472], "label": "TEL"},
+    {"bbox_2d": [372, 201, 491, 211], "label": "Tel"},
+    {"bbox_2d": [365, 252, 656, 271], "label": "Title"},
+    {"bbox_2d": [748, 576, 875, 589], "label": "Total"}
+]
+```

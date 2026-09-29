@@ -1,0 +1,71 @@
+```html
+<table border="1" cellspacing="0">
+    <tr>
+        <th rowspan="2">Method</th>
+        <th rowspan="2">2°, 2 cm</th>
+        <th rowspan="2">5°, 5 cm</th>
+        <th colspan="3">ADD(-S)</th>
+    </tr>
+    <tr>
+        <th>0.02d</th>
+        <th>0.05d</th>
+        <th>0.1d</th>
+    </tr>
+    <tr>
+        <td>CDPN [27]</td>
+        <td>-</td>
+        <td>94.31</td>
+        <td>-</td>
+        <td>-</td>
+        <td><b>89.86</b></td>
+    </tr>
+    <tr>
+        <td>HybridPose [35]</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td><b>91.3</b></td>
+    </tr>
+    <tr>
+        <td>GDRNet* [39]</td>
+        <td>67.1</td>
+        <td>-</td>
+        <td>35.6</td>
+        <td>76.0</td>
+        <td><b>93.6</b></td>
+    </tr>
+    <tr>
+        <td>DPOD [46]</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td><b>95.15</b></td>
+    </tr>
+    <tr>
+        <td>RePOSE [23]</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td><b>96.1</b></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EPro-PnP</td>
+        <td>80.99</td>
+        <td>98.54</td>
+        <td>44.81</td>
+        <td>81.96</td>
+        <td><b>95.80</b></td>
+    </tr>
+</table>
+```

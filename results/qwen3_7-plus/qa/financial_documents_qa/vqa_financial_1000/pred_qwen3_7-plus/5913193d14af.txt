@@ -1,0 +1,14 @@
+The check is to be dated **10/15/95**.
+
+This is clearly indicated in the circled section near the top of the document:  
+> **Check to be dated: 10/15/95**
+
+---
+
+**Additional context:**
+- The voucher itself was created on **10/09/95** (Date field).
+- The payment amount is **$11,000.00**.
+- It’s a quarterly retainer payment to **Johnson, Smith, Densborn, Wright & Heath**.
+- The check will be mailed to the payee (indicated by “X Mail to Payee”).
+
+So, while the voucher was processed on October 9, 1995, the actual check issued will bear the date **October 15, 1995**.

@@ -1,0 +1,51 @@
+```latex
+\textbf{12} Katy weighed out some sugar from a full 2 kg bag. The mass of the sugar is shown on the scale.
+
+How much sugar was left in the bag?
+
+\begin{tabular}{l l l l l}
+\textbf{A} & 1.55 kg & \textbf{B} & 1.65 kg & \textbf{C} & 165 g \\
+\textbf{D} & 155 g & \textbf{E} & 1550 kg & & \\
+\end{tabular}
+
+\vspace{1cm}
+
+\textbf{13} What is the total cost of 8 rulers and 8 pens?
+
+\begin{tabular}{l l l l l}
+\textbf{A} & £2 & \textbf{B} & £3 & \textbf{C} & £16 \\
+\textbf{D} & £24 & \textbf{E} & £32 & & \\
+\end{tabular}
+
+\vspace{1cm}
+
+\textbf{14} Round 7.038 to the nearest hundredth.
+
+\begin{tabular}{l l l l l}
+\textbf{A} & 7.00 & \textbf{B} & 7.03 & \textbf{C} & 7.04 \\
+\textbf{D} & 7.038 & \textbf{E} & 7.039 & & \\
+\end{tabular}
+
+\vspace{1cm}
+
+\textbf{15} These shapes are made from 1 cm cubes.
+
+Which two shapes have the same volume?
+
+\begin{tabular}{l l l l l}
+\textbf{A} & P and Q & \textbf{B} & P and R & \textbf{C} & P and S \\
+\textbf{D} & Q and R & \textbf{E} & R and S & & \\
+\end{tabular}
+
+\vspace{1cm}
+
+\textbf{16} Which of these shapes are prisms?
+
+\begin{tabular}{l l l l l}
+\textbf{A} & P and S only & \textbf{B} & R and T only & \textbf{C} & Q, R and T \\
+\textbf{D} & P, Q and S & \textbf{E} & Only S & & \\
+\end{tabular}
+
+\vfill
+\noindent 11+ Maths / 10-11 / 1 / Paper 1 \hfill 4 \hfill © CGP 2018
+```

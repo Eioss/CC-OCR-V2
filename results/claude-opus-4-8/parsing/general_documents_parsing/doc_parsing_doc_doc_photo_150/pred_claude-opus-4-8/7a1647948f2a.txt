@@ -1,0 +1,88 @@
+# LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{tabularx}
+
+\begin{document}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{3.5cm}|p{3.5cm}|p{3.5cm}|}
+\hline
+110 -- withdrawn socially & 460 -- can't sleep at night & 43 -- become asthmatic \\
+\hline
+20 -- become deaf & 21 -- become blind & 566 -- have frequent headache and stomach ache \\
+\hline
+1,164 -- can't concentrate & 117 -- refuse to go to school & 276 -- are in shock \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent 2. The natural calamities have tragically affected the lives of about 15000 children in recent years in India. The tsunami waves and earthquakes created havoc on a large scale. About 5430 children became homeless due to the tsunami and 5438 were the victims of the earthquakes. Floods displaced 2602 and droughts affected 2036 children. Epidemics affected 1313 children.
+
+Out of these figures, 1093 children live constantly in general fear; 110 children have withdrawn socially; 20 children have become deaf and 16 of them can't speak any more. More than 450 children can't sleep at night while 1164 can't concentrate on anything. The tragedy is that 21 of them have become blind, 43 asthmatic and 276 are still in shock. 566 suffer from frequent headache and stomachache. About 850 children fear water and sound and 117 have refused to go to school.
+
+\vspace{0.3cm}
+
+\noindent 3. Disaster management programmes have not proved up to the mark and up to the task. The Government and the concerned agencies should provide comprehensive aids and help to the survivors, particularly the children. They must provide nutritious food, clothes, shelters and medical aids to them. The efforts should be made to wipe out the scars left by these disasters.
+
+\vspace{0.5cm}
+
+\begin{center}
+\textbf{Number of Children Surviving various Disasters}
+\end{center}
+
+%% Bar Chart Data (transcribed values)
+\begin{center}
+\begin{tabular}{ll}
+\multicolumn{2}{l}{\textbf{Bar Chart Values:}} \\
+Tsunami    & 5430 \\
+Earthquake & 5438 \\
+Floods     & 2602 \\
+Drought    & 2035 \\
+Epidemic   & 1313 \\
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{Legend:} \\
+Tsunami \quad Earthquake \quad Floods \quad Drought \quad Epidemic
+\end{center}
+
+\begin{center}
+\textbf{Children haunted with fear, out of the 16,818 surveyed:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent \textbf{Based on your understanding of the passage, answer the following questions.}
+
+\vspace{0.3cm}
+
+\noindent (i) Based on your understanding of the passage, choose the option that lists the statements that are TRUE.
+
+\vspace{0.3cm}
+
+\noindent 1.
+
+\vspace{0.3cm}
+
+\begin{quote}
+Some people are hugely benefited by a natural calamity.
+\end{quote}
+
+\vspace{0.5cm}
+
+\hfill \textbf{CL X/ PB-1 /ENG/PAGE 3 OF}
+
+\begin{center}
+\large \textcircled{3}
+\end{center}
+
+\end{document}
+```
+
+I've transcribed the document's text, the data table at the top, the passage paragraphs (numbered 2 and 3), the bar chart values and legend, the question prompt, and the footer. Note that the bar chart was rendered as a data table since exact LaTeX bar-chart reproduction would require a plotting package like `pgfplots`—let me know if you'd like that version instead.

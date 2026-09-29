@@ -1,0 +1,152 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th rowspan="2">科名</th>
+      <th rowspan="2">种名</th>
+      <th colspan="7">省份或地区</th>
+    </tr>
+    <tr>
+      <th>海南</th>
+      <th>香港</th>
+      <th>澳门</th>
+      <th>广东</th>
+      <th>广西</th>
+      <th>台湾</th>
+      <th>福建</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1 Acrostichaceae</td>
+      <td style="text-align: left;">1. 卤蕨 <i>Acrostichum aureum</i></td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">2 尖叶卤蕨 <i>A. speciosum</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2. Apocynaceae</td>
+      <td style="text-align: left;">3 海芒果 <i>Cerbera manghas</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. Bignoniaceae</td>
+      <td style="text-align: left;">4 海滨猫尾木 <i>Dolichandrone spathacea</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. Compositae</td>
+      <td style="text-align: left;">5. 阔苞菊 <i>Pluchea indica</i></td>
+      <td>-</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5 Hernandiaceae</td>
+      <td style="text-align: left;">6 莲叶桐 <i>Hernandia sonora</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6 Leguminosae</td>
+      <td style="text-align: left;">7. 水黄皮 <i>Pongamia pinnata</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7 Lythraceae</td>
+      <td style="text-align: left;">8 水芫花 <i>Pemphis acidula</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">8. Malvaceae</td>
+      <td style="text-align: left;">9 黄槿 <i>Hibiscus tiliaceus</i></td>
+      <td>+</td>
+      <td>+</td>
+      <td></td>
+      <td>+</td>
+      <td>+</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">10 杨叶肖槿 <i>Thespesia populnea</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9. Verbenaceae</td>
+      <td style="text-align: left;">11. 钝叶臭黄荆 <i>Premna obtusifolia</i></td>
+      <td>+</td>
+      <td></td>
+      <td></td>
+      <td>+</td>
+      <td>+</td>
+      <td>+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>总计</td>
+      <td></td>
+      <td>11</td>
+      <td>2</td>
+      <td>1</td>
+      <td>8</td>
+      <td>5</td>
+      <td>8</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+```

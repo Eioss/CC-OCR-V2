@@ -1,0 +1,12 @@
+Based on the provided bar chart:
+
+1.  **Case Fatality Ratio for the UK**: The blue bar labeled "UK" shows a value of **13.5%**.
+2.  **Case Fatality Ratio for the US**: The blue bar labeled "US" shows a value of **5.5%**.
+
+To find the percentage of the case fatality ratio in the UK and the US *taken together*, we add these two values:
+
+**13.5% + 5.5% = 19.0%**
+
+---
+
+✅ **Final Answer: 19.0%**

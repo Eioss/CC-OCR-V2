@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "May 31, 1999",
+    "order_id": "050829",
+    "vendor_address": "Cambridge Street Burlington, Massachusetts 01803-4610",
+    "customer_id": "LORI",
+    "customer_billing_name": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info Lorillard Tobacco Company",
+    "customer_billing_address": "714 Green Valley Road PO Box 10529 Greensboro NC 27404-0529",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$129,520.00",
+    "amount_due": "$129,520.00"
+}
+```

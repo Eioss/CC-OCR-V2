@@ -1,0 +1,9 @@
+Based on the provided hotel bill, let's locate the charges for the date **12/2** (which corresponds to the column labeled "2" under the "DATE" row, following "12-1").
+
+1.  Find the row labeled **"CAFE"**.
+2.  Follow this row across to the column for the date **"2"** (representing December 2nd).
+3.  In that cell, the handwritten amount is **138**.
+
+Therefore, the cafe charges for 12/2 were **138** (likely meaning $1.38, as was common notation on such bills).
+
+**Answer: 138**

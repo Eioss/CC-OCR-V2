@@ -1,0 +1,21 @@
+\[
+\begin{aligned}
+\frac{d}{dt}p(t)
+&=H_{i,i+1}(p(t),t)\,\bar m_{i,i+1}(p(t),t)
++\left(\bar q_{i,i+1}(p(t),t)\cdot \frac{d}{dt}p(t)\right)\bar T_{i,i+1}(p(t),t),\\
+h(\varepsilon)
+&=pk\left(\frac{p}{k}-1-\varepsilon\right)
+=(k+1)\varepsilon^2-(2p+pk)\varepsilon+p^2-pk>0,\\
+\sum_{\ell\in[n]\setminus\{i,j\}}\det\!\left(A[\{i,j,\ell\}]\right),\\
+\sup_{\substack{t\ge D,\ F_R^\infty\\ |(w^1,0)|\le 1}} e^{kt}E_R(t)&<\infty,\\
+\widetilde P&=\{(H,p_D)\nu^+(H',p)\},\\
+\left|T_{p_2}[\bar a]\right|_{m,s,\eta}^0
+&\le p e_{s,\eta}|a|_{m,s+\mu_e,\eta}
++|a|_{m,s_0+\psi_e,\eta}|\bar p|_{s,s+\mu_e,\eta+1}\\
+&\le |p e_{s,\eta}|a|_{m,s+\mu_e,\eta+r'}\varepsilon^2
+|a|_{m,s_0+\mu_e,\eta}|f_0|_{s+\mu_2},\\
+G/B^+
+&=\bigsqcup_{w\in W} wB^+/B^+
+=\bigsqcup_{w\in W} B^-\dot w B^+/B^+.
+\end{aligned}
+\]

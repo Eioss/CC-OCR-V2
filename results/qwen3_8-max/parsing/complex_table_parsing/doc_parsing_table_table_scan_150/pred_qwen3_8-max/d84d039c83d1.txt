@@ -1,0 +1,245 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="7" style="text-align:left; font-size: 1.2em;">Effect of different foods on aquarium fish weight over 1 month</th>
+   </tr>
+   <tr>
+    <th style="text-align:left;">Food type</th>
+    <th style="text-align:left;">Fish type</th>
+    <th colspan="5">Weight (g)</th>
+   </tr>
+   <tr>
+    <th></th>
+    <th></th>
+    <th>Week 1</th>
+    <th>Week 2</th>
+    <th>Week 3</th>
+    <th>Week 4</th>
+    <th>Week 5</th>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:left;"><b>Pellets</b></td>
+    <td style="text-align:left;">Goldfish</td>
+    <td>0.75</td>
+    <td>0.79</td>
+    <td>0.82</td>
+    <td>0.86</td>
+    <td>1.16</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Guppy</td>
+    <td>0.59</td>
+    <td>0.62</td>
+    <td>0.64</td>
+    <td>0.67</td>
+    <td>0.71</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Angelfish</td>
+    <td>0.86</td>
+    <td>0.89</td>
+    <td>0.92</td>
+    <td>0.95</td>
+    <td>1.01</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Clownfish</td>
+    <td>0.71</td>
+    <td>0.74</td>
+    <td>0.75</td>
+    <td>0.79</td>
+    <td>0.86</td>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:left;"><b>Tablets</b></td>
+    <td style="text-align:left;">Goldfish</td>
+    <td>0.73</td>
+    <td>0.75</td>
+    <td>0.77</td>
+    <td>0.8</td>
+    <td>1.1</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Guppy</td>
+    <td>0.58</td>
+    <td>0.6</td>
+    <td>0.61</td>
+    <td>0.86</td>
+    <td>0.91</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Angelfish</td>
+    <td>0.83</td>
+    <td>0.85</td>
+    <td>1</td>
+    <td>1.02</td>
+    <td>1.08</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Clownfish</td>
+    <td>0.69</td>
+    <td>0.71</td>
+    <td>0.86</td>
+    <td>0.88</td>
+    <td>1.18</td>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:left;"><b>Sticks</b></td>
+    <td style="text-align:left;">Goldfish</td>
+    <td>0.77</td>
+    <td>0.8</td>
+    <td>0.82</td>
+    <td>0.86</td>
+    <td>1.26</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Guppy</td>
+    <td>0.59</td>
+    <td>0.62</td>
+    <td>0.63</td>
+    <td>0.88</td>
+    <td>0.92</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Angelfish</td>
+    <td>0.81</td>
+    <td>0.84</td>
+    <td>0.99</td>
+    <td>1.03</td>
+    <td>1.09</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Clownfish</td>
+    <td>0.7</td>
+    <td>0.73</td>
+    <td>0.88</td>
+    <td>0.91</td>
+    <td>0.92</td>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:left;"><b>Chips</b></td>
+    <td style="text-align:left;">Goldfish</td>
+    <td>0.71</td>
+    <td>0.73</td>
+    <td>0.75</td>
+    <td>0.78</td>
+    <td>0.85</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Guppy</td>
+    <td>0.56</td>
+    <td>0.58</td>
+    <td>0.73</td>
+    <td>0.98</td>
+    <td>1.02</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Angelfish</td>
+    <td>0.85</td>
+    <td>0.87</td>
+    <td>0.88</td>
+    <td>0.9</td>
+    <td>0.96</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Clownfish</td>
+    <td>0.73</td>
+    <td>0.75</td>
+    <td>0.9</td>
+    <td>0.94</td>
+    <td>1.64</td>
+   </tr>
+   <tr>
+    <td rowspan="4" style="text-align:left;"><b>Natural</b></td>
+    <td style="text-align:left;">Goldfish</td>
+    <td>0.74</td>
+    <td>0.78</td>
+    <td>0.8</td>
+    <td>0.86</td>
+    <td>0.92</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Guppy</td>
+    <td>0.62</td>
+    <td>0.66</td>
+    <td>0.81</td>
+    <td>0.86</td>
+    <td>0.91</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Angelfish</td>
+    <td>0.88</td>
+    <td>0.92</td>
+    <td>0.94</td>
+    <td>1</td>
+    <td>1.06</td>
+   </tr>
+   <tr>
+    <td style="text-align:left;">Clownfish</td>
+    <td>0.71</td>
+    <td>0.75</td>
+    <td>0.77</td>
+    <td>0.82</td>
+    <td>1.52</td>
+   </tr>
+   <tr>
+    <td colspan="2" style="text-align:left;">All</td>
+    <td>0.72</td>
+    <td>0.75</td>
+    <td>0.81</td>
+    <td>0.88</td>
+    <td>1.05</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

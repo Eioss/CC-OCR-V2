@@ -1,0 +1,113 @@
+I'll transcribe this table (appears to be a Chinese invoice/receipt form) into HTML format.
+
+```html
+<table border="1">
+  <tr>
+    <td>序号</td>
+    <td>品名规格</td>
+    <td>单位</td>
+    <td>数量</td>
+    <td>单价</td>
+    <td>金额</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>花生米 ✓</td>
+    <td>斤</td>
+    <td>10</td>
+    <td>￥7.50</td>
+    <td>￥75.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>白糖1*4 ✓</td>
+    <td>桶</td>
+    <td>1</td>
+    <td>￥35.00</td>
+    <td>￥35.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>胡椒粉 ✓</td>
+    <td>斤</td>
+    <td>1</td>
+    <td>￥28.00</td>
+    <td>￥28.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>面浆 ✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥50.00</td>
+    <td>￥50.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>李锦记生抽1.75*6 ✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥95.00</td>
+    <td>￥95.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>恒足豆瓣（竹篓）✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥82.00</td>
+    <td>￥82.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>苹果 ✓</td>
+    <td>件</td>
+    <td>1</td>
+    <td>￥28.00</td>
+    <td>￥28.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>紫菜 ✓</td>
+    <td>包</td>
+    <td>10</td>
+    <td>￥3.50</td>
+    <td>￥35.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>大木耳 ✓</td>
+    <td>斤</td>
+    <td>3</td>
+    <td>￥18.00</td>
+    <td>￥54.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>细木耳2.2 ✓</td>
+    <td>斤</td>
+    <td>2</td>
+    <td>￥38.00</td>
+    <td>￥76.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">合计 金额大写</td>
+    <td colspan="3">伍佰陆拾捌元整</td>
+    <td>￥558.00</td>
+    <td></td>
+  </tr>
+</table>
+```
+
+Note: Some values were partially obscured or unclear in the image (the image quality and angle made certain characters and numbers difficult to read with full certainty), and there's a "暂时样" (temporary sample) stamp overlapping part of the table. I've transcribed to the best of my ability based on what's legible.

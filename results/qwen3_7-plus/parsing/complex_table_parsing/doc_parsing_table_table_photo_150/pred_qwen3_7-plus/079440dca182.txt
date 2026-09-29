@@ -1,0 +1,83 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Migration Options Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .header-row {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .number-col {
+            width: 50px;
+            text-align: center;
+        }
+        .option-col {
+            width: 30%;
+        }
+        .comment-col {
+            width: 65%;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr class="header-row">
+            <th class="number-col">No.</th>
+            <th class="option-col">Migration Option</th>
+            <th class="comment-col">Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="number-col">1</td>
+            <td class="option-col">Decommission workload</td>
+            <td class="comment-col">Although unlikely, this might be a valid option. Be sure to be very specific in your reasoning for suggesting this. One reason for this scenario is the customer already planning or developing for an updated application version.</td>
+        </tr>
+        <tr>
+            <td class="number-col">2</td>
+            <td class="option-col">Migrate current version of SQL Server OLTP workload to Microsoft Azure Virtual Machines</td>
+            <td class="comment-col">This actually means that the current database version for the workload is also compatible and can be migrated (together with the data) to a new server (physical or virtual). Data migration is quite simple due to the same product version being used on both the new and old server. Keep in mind that "compatible" may not mean "supported", so make sure this is clear and understood by the customer.</td>
+        </tr>
+        <tr>
+            <td class="number-col">3</td>
+            <td class="option-col">Upgrade the current version of SQL Server OLTP workload to latest SQL Server version deployed in Microsoft Azure Virtual Machines.</td>
+            <td class="comment-col">This option is similar to option 2, but the current version of the SQL Server database is not compatible, yet there is an updated version of the product that is compatible with recent SQL Server releases. Data migration is more of a challenge due to different versions of the application used but still considered manageable.</td>
+        </tr>
+        <tr>
+            <td class="number-col">4</td>
+            <td class="option-col">Migrate data to SQL Server deployed in Microsoft Azure Virtual Machines</td>
+            <td class="comment-col">In this scenario, you found out that the current version of the database workload implementation is not compatible with recent Windows Server / SQL Server versions. Migrating the data might be a challenge.</td>
+        </tr>
+        <tr>
+            <td class="number-col">5</td>
+            <td class="option-col">Remediate OLTP database structure</td>
+            <td class="comment-col">You choose this scenario when up to this point all other scenarios tests have failed. The customer still needs the workload that is not compatible. You are not supposed to do remediation analysis as part of the delivery, but make sure you make your EM aware because this is a possible follow-up opportunity.</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+```

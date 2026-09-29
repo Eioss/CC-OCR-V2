@@ -1,0 +1,13 @@
+$$\hat { \mathbb { E } } _ { t } \big [ \big ( \int _ { t } ^ { T } | Z _ { s } | ^ { 2 } d s \big ) ^ { \frac { a } { 2 } } \big ] \leq C \{ 1 + \hat { \mathbb { E } } _ { t } \big [ \operatorname* { s u p } _ { s \in [ t , T ] } | Y _ { s } | ^ { a } \big ] + \big ( \hat { \mathbb { E } } _ { t } \big [ \operatorname* { s u p } _ { s \in [ t , T ] } | Y _ { s } | ^ { a } \big ] \big ) ^ { 1 / 2 } \big ( \hat { \mathbb { E } } _ { t } \big [ \big ( \int _ { t } ^ { T } h _ { s } d s \big ) ^ { a } \big ] \big ) ^ { 1 / 2 } \} .$$
+
+$$\hat { \mathbb { E } } _ { t } \big [ | A _ { T } - A _ { t } | ^ { a } \big ] \leq C \{ 1 + \hat { \mathbb { E } } _ { t } \big [ \operatorname* { s u p } _ { s \in [ t , T ] } | Y _ { s } | ^ { a } \big ] + \hat { \mathbb { E } } _ { t } \big [ \big ( C \int _ { t } ^ { T } h _ { s } d s \big ) ^ { a } \big ] \} ,$$
+
+$$P ( X _ { e c q } ) \in d x ) = \bar { a } ( p , \xi ) ^ { T } \times \bar { v } ( \xi , x ) d x , P ( - X _ { e c g } ) \in d x ) = \check { a } ( \hat { p } , \hat { \xi } ) ^ { T } \times \nabla ( \hat { \xi } , x ) d x .$$
+
+$$\begin{array} { r l } { \sum } & { { } \sum \quad \ln ( a , b , c ) ( k T ) ^ { \alpha } \frac { 1 } { k \sqrt { n } } ( \frac { n } { k } ) ^ { | \frac { 1 } { 2 } - a - 2 c | } \ll _ { T , 1 } \sum \sum \quad n ^ { | \frac { 1 } { 2 } - a - 2 c | - \frac { 1 } { 2 } } k ^ { a - | \frac { 1 } { 2 } - a - 2 c | } . } \\ { 0 \leq k < k \leq N } & { { } 2 a + 2 b + 2 c = r \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { ( n , k ) = 1 } & { { } } \end{array}$$
+
+$$\delta _ { + } = \delta _ { 0 } \gamma _ { + } : \Gamma _ { + } \rightarrow \Delta$$
+
+$$x _ { t } = x + y _ { t } + \int _ { 0 } ^ { t } u ( s , x _ { s } ) d s , t \in [ 0 , T ] ,$$
+
+$$\begin{array} { r l } { \int _ { \Omega } \left[ A ( x ) \cdot \nabla I _ { j } ( u _ { n } ) \right] \cdot \nabla \varphi S ( u _ { n } ) d x + \int _ { \Omega } \left[ A ( x ) \cdot \nabla I _ { j } ( u _ { n } ) \right] \cdot \nabla I _ { j } ( u _ { n } ) S ^ { \prime } ( u _ { n } ) \varphi \ d x } \\ { = \int _ { \Omega } H ( x , u _ { n } , \nabla u _ { n } ) \varphi \ d x + \int _ { \Omega } ( T _ { n } ( f ) S ( u _ { n } ) \varphi \ d x \ . } \end{array}$$

@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+\operatorname{Tr}\!\left[(A_m\otimes A_n)R_{AB}\right]
+&=\operatorname{Tr}\!\left[(A_m\otimes A_n)\left(\left(\rho_A\otimes\frac{I}{2}\right)E_{AB}+E_{AB}\left(\rho_A\otimes\frac{I}{2}\right)\right)\right] \\
+&=\frac{1}{2}\operatorname{Tr}\!\left[((A_m\rho_A+\rho_A A_m)\otimes A_n)E_{AB}\right] \\
+&=\frac{1}{2}\sum_i \operatorname{Tr}\!\left[((A_m\rho_A+\rho_A A_m)\otimes A_n)(I_A\otimes V_i)P_{AB}(I_A\otimes V_i^\dagger)\right] \\
+&=\frac{1}{2}\sum_i \operatorname{Tr}\!\left[P_{AB}\left((A_m\rho_A+\rho_A A_m)\otimes V_i^\dagger A_n V_i\right)\right] \\
+&=\frac{1}{2}\sum_i \operatorname{Tr}\!\left[\left((A_m\rho_A+\rho_A A_m)\otimes V_i^\dagger A_n V_i\right)P_{AB}\right] \\
+&=\frac{1}{2}\sum_i \operatorname{Tr}\!\left[(A_m\rho_A+\rho_A A_m)V_i^\dagger A_n V_i\right] \\
+&=\frac{1}{2}\operatorname{Tr}\!\left[(A_m\rho_A+\rho_A A_m)\sum_i V_i^\dagger A_n V_i\right] \\
+&=\frac{1}{2}\operatorname{Tr}\!\left[(A_m\rho_A+\rho_A A_m)\mathcal{E}_{AB}^{\dagger}(A_n)\right] \\
+&=\langle A_m A_n\rangle_{\mathrm{seq}} .
+\end{aligned}
+\]

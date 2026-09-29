@@ -1,0 +1,13 @@
+$$\int_{D_m} f_2 \Delta f_2 \, dx + \int_{D_m} \frac{1}{r} f_2 \partial_r f_2 \, dx + \int_{D_m} \underbrace{(s - \cot^2\phi) \frac{f_2^2}{r^2} \, dx}_{I_1} = \int_{D_m} \underbrace{\frac{f_2}{r^4} \partial_\rho (\rho^4 \sin\phi \, \Omega) \, dx}_{I_2}.$$
+
+$$|\Delta_{n,2}| = \left| \int_{A_n} \left[ E\phi (f_{n,h}^{\wedge b}(x)) - \phi(f_\theta(x)) - (E_f^{\wedge b}_{n,h}(x) - f_\theta(x)) \phi'(f_\theta(x)) \right] dx + \int_{A_n} \left[ \phi(f(x)) - \phi(f_\theta(x)) - (f(x) - f_\theta(x)) \phi'(f_\theta(x)) \right] dx \right|$$
+
+$$I_1 \leq \epsilon \int_0^t \int_0^\infty \frac{R\theta \tilde{v}_x^2}{v^3} \, dx \, ds + C(\epsilon) \int_0^t \int_0^\infty \frac{k r^{2(n-1)} \tilde{v}_x^2}{v\theta^2} \, dx \, ds \cdot \frac{\theta}{k r^{2(n-1)}} \, dx$$
+
+$$\leq \epsilon \int_0^t \int_0^\infty \frac{R\theta \tilde{v}_x^2}{v^3} \, dx \, ds + C(\epsilon)$$
+
+$$T_n \int h(x) \partial_t P(t,x) \, dx \approx \int h(x) \big( P(t+\tau,x) - P(t,x) \big) \, dx,$$
+
+$$\widetilde{p\tau} \, \varphi_\pm \neq e^{i\tilde{\omega} \pm} \varphi_\pm \quad \text{and} \quad \widetilde{p\tau} \, \tilde{\varphi}_\pm = e^{i\tilde{\omega} \pm} \tilde{\varphi}_\pm.$$
+
+$$\frac{1}{(1 - t_1)^m} = \sum_{m \in \mathbb{N}} C_m t_1^m,$$

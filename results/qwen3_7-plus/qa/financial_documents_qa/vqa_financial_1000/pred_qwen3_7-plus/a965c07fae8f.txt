@@ -1,0 +1,7 @@
+The amount given in the voucher is **$900.00**.
+
+This is shown in two places:
+- In the "ISSUE CHECK TO" section: `$ 900` with `XX` in the cents box (indicating 00 cents).
+- In the accounting code section at the bottom: `$ 900.00`.
+
+The explanation notes this is for the “NECSA Golf outing”.

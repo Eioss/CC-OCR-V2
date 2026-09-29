@@ -1,0 +1,17 @@
+Based on the provided bar chart, we can find the Case Fatality Ratio (CFR) for the UK and the US by looking at the blue bars and their corresponding values.
+
+1.  **Find the Case Fatality Ratio for the UK:**
+    - Locate "UK" on the x-axis.
+    - The blue bar represents the "Case Fatality Ratio (%)".
+    - The value labeled above the blue bar for the UK is **13.5**.
+
+2.  **Find the Case Fatality Ratio for the US:**
+    - Locate "US" on the x-axis.
+    - The blue bar represents the "Case Fatality Ratio (%)".
+    - The value labeled above the blue bar for the US is **5.5**.
+
+3.  **Calculate the sum:**
+    - To find the percentage of the case fatality ratio in the UK and the US taken together, we add their individual ratios.
+    - Calculation: $13.5 + 5.5 = 19.0$
+
+The combined case fatality ratio for the UK and the US is **19.0%**.

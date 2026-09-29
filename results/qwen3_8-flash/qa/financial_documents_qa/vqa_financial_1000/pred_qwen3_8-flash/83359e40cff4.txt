@@ -1,0 +1,19 @@
+Based on the provided hotel bill, let's locate the cafe charges for **12/2**.
+
+Looking at the table:
+
+- The columns are labeled by date: `11/28/60`, `29`, `30`, `12-1`, and `2`.
+- The row labeled **"CAFE"** has entries under some of these dates.
+- Under the column **"2"** (which represents December 2), there is a handwritten entry in the "CAFE" row: **138**
+
+This appears to be the only cafe charge listed for that date.
+
+---
+
+✅ **Answer: $1.38**
+
+*(Note: In this type of ledger-style billing from the era, amounts were often written without decimal points — so “138” likely means $1.38. This is consistent with other small charges like local phone calls or tips.)*
+
+Also, looking at the total credits section, we see **$53.38** was paid, which matches if you add up all the line items including the $1.38 cafe charge.
+
+So yes — **the cafe charge for 12/2 was $1.38**.

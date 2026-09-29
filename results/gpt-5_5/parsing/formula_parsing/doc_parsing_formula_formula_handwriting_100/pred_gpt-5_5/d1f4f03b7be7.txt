@@ -1,0 +1,37 @@
+\[
+D^\varepsilon(s)
+=
+\begin{pmatrix}
+x_1(\theta-s)\\
+\vdots\\
+x_d(\theta-s)
+\end{pmatrix}
++
+\sum_{m=1}^{\infty}
+\int_{D_m^s}
+\left\{
+\nabla^b h\left(\left\langle x_{s_m}^n,e_1\right\rangle+\varepsilon w_1 B^{H_1}(s_m),\ldots\right)
+\cdot
+\begin{pmatrix}
+x_1(\theta-s_m)\\
+\vdots\\
+x_d(\theta-s_m)
+\end{pmatrix}
+\right\}
+\prod_{l=1}^{m-1}
+\left\{
+\nabla^b h\left(\left\langle x_{s_l}^n,e_1\right\rangle+\varepsilon w_1 B^{H_1}(s_l),\ldots\right)
+\cdot
+\begin{pmatrix}
+x_1(s_{l+1}-s_l)\\
+\vdots\\
+x_d(s_{l+1}-s_l)
+\end{pmatrix}
+\right\}
+\begin{pmatrix}
+x_1(s_1-s)\\
+\vdots\\
+x_d(s_1-s)
+\end{pmatrix}
+\,ds_m\cdots ds_1 .
+\]

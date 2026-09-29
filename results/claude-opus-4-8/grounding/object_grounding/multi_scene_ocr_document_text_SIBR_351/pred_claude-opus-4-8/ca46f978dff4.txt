@@ -1,0 +1,23 @@
+```json
+[
+  {"bbox_2d": [259, 320, 745, 348], "label": "Add"},
+  {"bbox_2d": [350, 396, 651, 421], "label": "Tel"},
+  {"bbox_2d": [557, 397, 685, 421], "label": "Fax"},
+  {"bbox_2d": [490, 510, 956, 568], "label": "Title"},
+  {"bbox_2d": [126, 593, 416, 618], "label": "Invoice No"},
+  {"bbox_2d": [127, 631, 343, 657], "label": "Date"},
+  {"bbox_2d": [126, 869, 657, 901], "label": "Add"},
+  {"bbox_2d": [126, 939, 366, 966], "label": "TEL"},
+  {"bbox_2d": [129, 1049, 207, 1097], "label": "No."},
+  {"bbox_2d": [228, 1049, 602, 1097], "label": "Description of Goods"},
+  {"bbox_2d": [658, 1049, 754, 1097], "label": "Qty"},
+  {"bbox_2d": [800, 1049, 945, 1097], "label": "Price"},
+  {"bbox_2d": [1146, 1049, 1240, 1097], "label": "Total"},
+  {"bbox_2d": [130, 1126, 204, 1271], "label": "No."},
+  {"bbox_2d": [212, 1126, 602, 1271], "label": "Description of Goods"},
+  {"bbox_2d": [658, 1126, 754, 1271], "label": "Qty"},
+  {"bbox_2d": [792, 1126, 953, 1271], "label": "Price"},
+  {"bbox_2d": [1059, 1126, 1287, 1271], "label": "Total"},
+  {"bbox_2d": [1090, 1305, 1252, 1345], "label": "Total"}
+]
+```

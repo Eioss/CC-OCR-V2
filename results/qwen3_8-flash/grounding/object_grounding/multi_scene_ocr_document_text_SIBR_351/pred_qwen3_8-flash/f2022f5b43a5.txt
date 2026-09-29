@@ -1,0 +1,15 @@
+```json
+[
+	{"bbox_2d": [661, 650, 723, 671], "label": "余额"},
+	{"bbox_2d": [771, 260, 906, 284], "label": "入住日期 Arrival Date"},
+	{"bbox_2d": [375, 237, 463, 266], "label": "客人姓名 Guest Name"},
+	{"bbox_2d": [783, 419, 866, 442], "label": "房价 Rate"},
+	{"bbox_2d": [391, 319, 441, 339], "label": "房号 Room No"},
+	{"bbox_2d": [380, 527, 431, 552], "label": "摘要 Description"},
+	{"bbox_2d": [140, 518, 262, 545], "label": "日期 Date"},
+	{"bbox_2d": [406, 164, 686, 211], "label": "标题"},
+	{"bbox_2d": [769, 336, 899, 362], "label": "离店日期 Departure Date"},
+	{"bbox_2d": [342, 394, 484, 426], "label": "账号 Bill No"},
+	{"bbox_2d": [582, 539, 659, 562], "label": "金额 Amount (+)"}
+]
+```

@@ -1,0 +1,7 @@
+I can see multiple instances of '0.00' in this document. Here are their locations:
+
+(1486, 818, 1556, 845) # First '0.00' in the 房费 row (付款/payment column)
+
+(728, 882, 798, 909) # '0.00' in the 城市挂账 row (消费/consumption column)
+
+(1486, 1078, 1556, 1105) # '0.00' in the 余额/Balance Due row

@@ -1,0 +1,62 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <caption><b>Table 4.8 &nbsp; <i>Education by Age (percentages; Residents)</i></b></caption>
+  <thead>
+    <tr>
+      <th rowspan="2" style="text-align: left;">Education</th>
+      <th colspan="6">Age</th>
+      <th rowspan="2">Total</th>
+    </tr>
+    <tr>
+      <th>18–24</th>
+      <th>25–34</th>
+      <th>35–44</th>
+      <th>45–54</th>
+      <th>55–64</th>
+      <th>65+</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;">No uni. edn</td>
+      <td><b>77</b></td>
+      <td>42</td>
+      <td>43</td>
+      <td>53</td>
+      <td><b>63</b></td>
+      <td>78</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Uni. edn</td>
+      <td>23</td>
+      <td><b>58</b></td>
+      <td><b>57</b></td>
+      <td>47</td>
+      <td>37</td>
+      <td>22</td>
+      <td>42</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Totals</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><i>n</i></td>
+      <td>47</td>
+      <td>81</td>
+      <td>77</td>
+      <td>58</td>
+      <td>56</td>
+      <td>78</td>
+      <td>397</td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,130 @@
+# Example Corporation Balance Sheet — LaTeX Transcription
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+\textbf{\color{teal} Example Corporation}\\
+\textbf{\color{teal} Balance Sheet}\\
+\textbf{\color{teal} December 31, 2023}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\color{teal} Assets} \\[-0.5em]
+\rule{\textwidth}{1pt}
+
+\vspace{0.5em}
+\noindent Current assets
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+\quad Cash and cash equivalents & \$ & 2,200 \\
+\quad Short-term investments    &    & 10,000 \\
+\quad Accounts receivable - net &    & 39,500 \\
+\quad Other receivables         &    & 1,000 \\
+\quad Inventory                 &    & 31,000 \\
+\quad Supplies                  &    & 3,800 \\
+\quad Prepaid expensees         &    & 1,500 \\ \cmidrule(l){3-3}
+\quad\quad Total current assets &    & 89,000 \\
+\end{tabular}
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+Investments                     &    & 36,000 \\ \cmidrule(l){3-3}
+\end{tabular}
+
+\vspace{0.5em}
+\noindent Property, plant \& equipment
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+\quad Land                          &    & 5,500 \\
+\quad Land improvements             &    & 6,500 \\
+\quad Buildings                     &    & 180,000 \\
+\quad Equipment                     &    & 201,000 \\
+\quad Less: accumulated depreciation&    & (56,000) \\ \cmidrule(l){3-3}
+\quad\quad Property, plant \& equip. - net & & 337,000 \\
+\end{tabular}
+
+\vspace{0.5em}
+\noindent Intangible assets
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+\quad Goodwill                  &    & 105,000 \\
+\quad Other intangible assets   &    & 200,000 \\ \cmidrule(l){3-3}
+\quad\quad Total intangible assets & & 305,000 \\
+\end{tabular}
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+Other assets                    &    & 3,000 \\ \cmidrule(l){3-3}
+\end{tabular}
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+Total assets                    & \$ & 770,000 \\ \cmidrule(l){2-3}
+\end{tabular}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\color{teal} Liabilities} \\[-0.5em]
+\rule{\textwidth}{1pt}
+
+\vspace{0.5em}
+\noindent Current liabilities
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+\quad Short-term loans payable          & \$ & 5,000 \\
+\quad Current portion of long-term debt &    & 15,000 \\
+\quad Accounts payable                  &    & 20,900 \\
+\quad Accrued compensation and benefits &    & 8,500 \\
+\quad Income taxes payable              &    & 6,100 \\
+\quad Other accrued liabilities         &    & 4,000 \\
+\quad Deferred revenues                 &    & 1,500 \\ \cmidrule(l){3-3}
+\quad\quad Total current liabilities    &    & 61,000 \\
+\end{tabular}
+
+\vspace{0.5em}
+\noindent Long-term liabilities
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+\quad Notes payable                  &    & 20,000 \\
+\quad Bonds payable                  &    & 375,000 \\
+\quad Deferred income taxes          &    & 25,000 \\ \cmidrule(l){3-3}
+\quad\quad Total long-term liabilities & & 420,000 \\
+\end{tabular}
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+Total liabilities                    &    & 481,000 \\ \cmidrule(l){3-3}
+\end{tabular}
+
+\vspace{0.5em}
+\noindent Commitments and contingencies {\small (see notes)}
+
+\vspace{1em}
+\textbf{\color{teal} Stockholders' Equity} \\[-0.5em]
+\rule{\textwidth}{1pt}
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{0.62\textwidth} r@{\hspace{4pt}} r@{}}
+Common stock                          &    & 110,000 \\
+Retained earnings                     &    & 220,000 \\
+Accum other comprehensive income      &    & 9,000 \\
+Less: Treasury stock                  &    & (50,000) \\ \cmidrule(l){3-3}
+\quad Total stockholders' equity      &    & 289,000 \\
+Total liabilities \& stockholders' equity & \$ & 770,000 \\ \cmidrule(l){2-3}
+\end{tabular}
+
+\end{minipage}
+
+\vspace{2em}
+\noindent\textit{The accompanying notes are an integral part of this statement.}
+
+\end{document}
+```

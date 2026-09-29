@@ -1,0 +1,32 @@
+\[
+\begin{aligned}
+\lim_{\varepsilon\to0}\left[I_{\varepsilon-k,\ell}(\phi)
+-\frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}\right]
+={}&\lim_{\varepsilon\to0}\left[
+\frac{(-1)^k I_{\varepsilon,\ell}(\phi^{(k)})}
+{\prod_{\ell=0}^{k-1}(\varepsilon-\ell)}
++\sum_{j=0}^{k-1}
+\frac{(-1)^j\phi^{(j)}(\rho)\rho^{\varepsilon-k+j+1}}
+{\prod_{\ell=k-j-1}^{k-1}(\varepsilon-\ell)}
+-\frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}
+\right]\\
+={}&\lim_{\varepsilon\to0}\left[
+\frac{(-1)^k}{\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}
+\int_0^\rho\frac{r^{\varepsilon-1}}{\varepsilon}\phi^{(k)}(r)\,dr
++\frac{(-1)^k\int_0^\rho\phi^{(k)}(r)\,dr}
+{\varepsilon\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}
+-\frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}
+\right.\\
+&\left.\qquad
++\frac{(-1)^{k-1}\phi^{(k-1)}(\rho)\rho^\varepsilon}
+{\varepsilon\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}
++\sum_{j=0}^{k-2}
+\frac{(-1)^j\phi^{(j)}(\rho)\rho^{\varepsilon-k+j+1}}
+{\prod_{\ell=k-j-1}^{k-1}(\varepsilon-\ell)}
+\right]\\
+={}&-\frac{1}{(k-1)!}\int_0^\rho(\ln r)\phi^{(k)}(r)\,dr
++\frac{\phi^{(k-1)}(0)}{(k-1)!}\sum_{\nu=1}^{k-1}\frac1\nu
+-\frac{1}{(k-1)!}\sum_{j=0}^{k-2}
+\phi^{(j)}(\rho)\rho^{-k+j+1}(k-j-2)!.
+\end{aligned}
+\]

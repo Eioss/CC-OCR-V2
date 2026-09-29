@@ -1,0 +1,76 @@
+```html
+<table border="1">
+  <tr>
+    <td></td>
+    <td>$R_1$</td>
+    <td>$R_2$</td>
+    <td>$R_L$</td>
+  </tr>
+  <tr>
+    <td>Source Generic</td>
+    <td>27.58</td>
+    <td>3.97</td>
+    <td>14.14</td>
+  </tr>
+  <tr>
+    <td>Target Generic</td>
+    <td><b>27.98</b></td>
+    <td><b>5.52</b></td>
+    <td><b>15.01</b></td>
+  </tr>
+  <tr>
+    <td>MMR, unctrl</td>
+    <td>31.43</td>
+    <td>5.45</td>
+    <td>16.31</td>
+  </tr>
+  <tr>
+    <td>LexRank, unctrl</td>
+    <td>31.74</td>
+    <td>6.67</td>
+    <td>16.71</td>
+  </tr>
+  <tr>
+    <td>TextRank, unctrl</td>
+    <td>32.72</td>
+    <td><b>7.37</b></td>
+    <td>17.25</td>
+  </tr>
+  <tr>
+    <td>MMR, sent-ctrl</td>
+    <td>32.37</td>
+    <td>6.28</td>
+    <td>17.58</td>
+  </tr>
+  <tr>
+    <td>LexRank, sent-ctrl</td>
+    <td>32.60</td>
+    <td>6.66</td>
+    <td>17.48</td>
+  </tr>
+  <tr>
+    <td>TextRank, sent-ctrl</td>
+    <td><b>33.52</b></td>
+    <td>7.20</td>
+    <td><b>17.75</b></td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, unctrl</td>
+    <td>33.31</td>
+    <td>8.63</td>
+    <td>19.67</td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, sent-ctrl</td>
+    <td><b>38.73</b></td>
+    <td><b>10.82</b></td>
+    <td><b>23.05</b></td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, seg-ctrl</td>
+    <td>36.38</td>
+    <td>10.04</td>
+    <td>21.90</td>
+  </tr>
+</table>
+```

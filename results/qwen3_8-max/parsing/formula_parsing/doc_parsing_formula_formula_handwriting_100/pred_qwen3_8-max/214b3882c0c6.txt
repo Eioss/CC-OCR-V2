@@ -1,0 +1,20 @@
+ $$h _ { \epsilon _ { k } } \to h \quad \mathrm { u n i f o r m l y ~ i n ~ } \bar { Q } _ { T } .$$
+
+ $$e _ { i } ^ { s } \mathcal { H } ( L ) ^ { X ^ { L } ( s ) } e _ { i } ^ { s } \cong \left( \mathcal { O } ( T _ { s } ) \otimes \mathrm { E n d } _ { \mathbb { C } } ( e _ { L } ^ { s } V _ { w } ) \right) ^ { X ^ { L } ( s ) }$$
+ $$\cong \bigoplus _ { a \in [ L / H _ { \mu } ] } \left( \mathcal { O } ( T _ { s } ) \otimes \mathrm { E n d } _ { \mathbb { C } } ( V _ { \mu } ) \right) ^ { X ^ { L } ( s ) / X ^ { L } ( w , V _ { \mu } ) } .$$
+
+ $$d = \operatorname* { m a x } \{ | F | \colon F \in \Delta \}$$
+
+ $$K = K ( y , s )$$
+ $$= \| u \| _ { L ^ { \infty } ( Q _ { d } ( y , s ) \cap Q _ { 1 } ^ { + } ) } + \frac { 1 } { \epsilon _ { \circ } } \operatorname* { s u p } _ { r \leq d } \Big [ r ^ { 1 - \alpha } \Big ( r ^ { - ( n + 2 ) } \int _ { Q _ { r } ( y , s ) \cap Q _ { 1 } ^ { + } } | f ( x , t ) | ^ { p ^ { \prime } } d x d t \Big ) ^ { \frac { 1 } { p ^ { \prime } } } \Big ] ,$$
+
+ $$\gamma ( t ) = \int d \omega J ( \omega ) \coth [ \hbar \omega / 2 k _ { B } T ] \sin ( \omega t ) / \omega ,$$
+
+ $${ \tilde { \omega } } _ { t + 1 } = ( 1 - \beta ) \left[ \left[ { \tilde { A } } _ { t } ^ { ( 1 ) } , \dots , { \tilde { A } } _ { t } ^ { ( N ) } \right] \right] + \beta \sum _ { k \in S _ { t } } { \frac { | D _ { k } | } { \displaystyle \sum _ { k \in S _ { t } } | D _ { k } | } } \; { \tilde { \omega } } _ { t , T } ^ { k } .$$
+
+ $$Q ( G , t ) = Q ( G + x y , t ) - Q ( G / x y , t )$$
+ $$= { \frac { Q ( B _ { 1 } + x y , t ) \cdots Q ( B _ { m } + x y , t ) } { t ^ { m - 1 } ( t - 1 ) ^ { m - 1 } } } + { \frac { Q ( B _ { 1 } / x y , t ) \cdots Q ( B _ { m } / x y , t ) } { t ^ { m - 1 } } } .$$
+
+ $$\dim X \cap T _ { N _ { i } } ( Z ) \leq \dim T _ { N _ { i } } ( Z ) = \dim Z \leq \dim X - 1$$
+
+ $$P ( A _ { i } \mid u ( s , x ) , s \leq t _ { i - 1 } , x \in T ) \leq \eta ^ { J }$$

@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+\|H(s)\|_{\mathcal{L}_1}
+&=\max_{i=1,\ldots,m}\sum_{j=1}^{m}\|H_{ij}(s)\|_{\mathcal{L}_1},\\
+\mathcal{N}(x,m,\nu)
+&=\frac{\sqrt{\nu}}{4m}+\mathcal{O}(x^{-1}),\\
+P(k_{\mathrm{regulator}}>t)
+&=2R_e\sum_{j=0}^{n}\exp(kh_j\gamma m_j-t)\sum_{q=0}^{w(j)}\frac{c_q}{\rho_q}W_{q,p+\rho d}(E_i t),\\
+\left\|\partial_2 g_2\phi(z)D_Y\right\|
+&=E\left\|M_{11}z+H_s\right\|\\
+&\le \left\|\partial_2 g_2\right\|_{\infty,1}
+\left[\gamma_{\mathrm{SDT}}^{H_s}+\varepsilon\|M_{11}\|_{2\mu_s}\right],
+\quad \forall \xi\in[0,1],\\
+E(w)
+&=\frac12\left(D_\lambda u+(D_\lambda u)^T\right)
+=\frac12\left(\partial_{\lambda_l}u_k+\partial_{\lambda_k}u_l\right)_{l,k=1,2}.
+\end{aligned}
+\]

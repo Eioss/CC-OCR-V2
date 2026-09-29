@@ -1,0 +1,170 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Size Chart</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", Arial, sans-serif;
+            color: #333;
+            padding: 20px;
+            background-color: #fff;
+        }
+        
+        /* Top Attributes Section */
+        .attributes-container {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 25px;
+        }
+        .attribute-group {
+            width: 45%;
+        }
+        .attr-title {
+            font-size: 16px;
+            margin-bottom: 10px;
+            font-weight: normal;
+        }
+        .slider-track {
+            position: relative;
+            height: 2px;
+            background-color: #333;
+            margin: 15px 0;
+        }
+        .slider-dot {
+            position: absolute;
+            top: -4px;
+            width: 10px;
+            height: 10px;
+            background-color: #333;
+            border-radius: 50%;
+        }
+        .attr-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+        }
+
+        /* Table Section */
+        .note-text {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 10px;
+            font-size: 16px;
+        }
+        thead tr {
+            background-color: #e0e0e0;
+        }
+        tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        /* Footer Section */
+        .footer-note {
+            font-size: 14px;
+            color: #777;
+            line-height: 1.6;
+            border-top: 1px solid #eee;
+            padding-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Attributes -->
+    <div class="attributes-container">
+        <div class="attribute-group">
+            <div class="attr-title">长度</div>
+            <div class="slider-track"><div class="slider-dot" style="left: 50%;"></div></div>
+            <div class="attr-labels">
+                <span>短款</span><span>适中</span><span>中长</span><span>长款</span>
+            </div>
+        </div>
+        <div class="attribute-group">
+            <div class="attr-title">厚度</div>
+            <div class="slider-track"><div class="slider-dot" style="left: 25%;"></div></div>
+            <div class="attr-labels">
+                <span>轻薄</span><span>适中</span><span>厚款</span><span>加厚</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="attributes-container">
+        <div class="attribute-group">
+            <div class="attr-title">版型</div>
+            <div class="slider-track"><div class="slider-dot" style="left: 50%;"></div></div>
+            <div class="attr-labels">
+                <span>紧身</span><span>修身</span><span>适中</span><span>宽松</span>
+            </div>
+        </div>
+        <div class="attribute-group">
+            <div class="attr-title">弹性</div>
+            <div class="slider-track"><div class="slider-dot" style="left: 25%;"></div></div>
+            <div class="attr-labels">
+                <span>无弹</span><span>微弹</span><span>适中</span><span>弹力</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Note -->
+    <p class="note-text">温馨提示：此数据在衣服平铺下测量所得，因测量方法不同会有1-2cm误差，请谅解。</p>
+
+    <!-- Size Chart Table -->
+    <table>
+        <thead>
+            <tr>
+                <th>尺寸表</th>
+                <th>腰围</th>
+                <th>臀围</th>
+                <th>裙长</th>
+                <th>小脚围</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>S</td>
+                <td>58</td>
+                <td>96</td>
+                <td>90</td>
+                <td>109</td>
+            </tr>
+            <tr>
+                <td>M</td>
+                <td>62</td>
+                <td>100</td>
+                <td>91</td>
+                <td>113</td>
+            </tr>
+            <tr>
+                <td>L</td>
+                <td>66</td>
+                <td>104</td>
+                <td>92</td>
+                <td>117</td>
+            </tr>
+            <tr>
+                <td>XL</td>
+                <td>70</td>
+                <td>108</td>
+                <td>93</td>
+                <td>121</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Footer Note -->
+    <p class="footer-note">mikibana产品设计具个性，每款成衣版型不同，尺码数据会存在差异，也因个人体型差异及穿衣习惯不同，请务必参考尺码表参数进行购买，如有疑问请联系客服！</p>
+
+</body>
+</html>
+```

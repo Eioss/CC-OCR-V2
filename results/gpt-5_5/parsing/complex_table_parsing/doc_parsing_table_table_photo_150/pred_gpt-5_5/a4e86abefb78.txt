@@ -1,0 +1,174 @@
+```html
+<table>
+  <tr>
+    <td colspan="4">AMAZON.COM, INC.</td>
+  </tr>
+  <tr>
+    <td colspan="4">CONSOLIDATED STATEMENTS OF OPERATIONS</td>
+  </tr>
+  <tr>
+    <td colspan="4">(in millions, except per share data)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Year Ended December 31,</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2018</td>
+    <td>2019</td>
+    <td>2020</td>
+  </tr>
+
+  <tr>
+    <td>Net product sales</td>
+    <td>$ 141,915</td>
+    <td>$ 160,408</td>
+    <td>$ 215,915</td>
+  </tr>
+  <tr>
+    <td>Net service sales</td>
+    <td>90,972</td>
+    <td>120,114</td>
+    <td>170,149</td>
+  </tr>
+  <tr>
+    <td>Total net sales</td>
+    <td>232,887</td>
+    <td>280,522</td>
+    <td>386,064</td>
+  </tr>
+
+  <tr>
+    <td>Operating expenses:</td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Cost of sales</td>
+    <td>139,156</td>
+    <td>165,536</td>
+    <td>233,307</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Fulfillment</td>
+    <td>34,027</td>
+    <td>40,232</td>
+    <td>58,517</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Technology and content</td>
+    <td>28,837</td>
+    <td>35,931</td>
+    <td>42,740</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Marketing</td>
+    <td>13,814</td>
+    <td>18,878</td>
+    <td>22,008</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;General and administrative</td>
+    <td>4,336</td>
+    <td>5,203</td>
+    <td>6,668</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Other operating expense (income), net</td>
+    <td>296</td>
+    <td>201</td>
+    <td>(75)</td>
+  </tr>
+  <tr>
+    <td>Total operating expenses</td>
+    <td>220,466</td>
+    <td>265,981</td>
+    <td>363,165</td>
+  </tr>
+
+  <tr>
+    <td>Operating income</td>
+    <td>12,421</td>
+    <td>14,541</td>
+    <td>22,899</td>
+  </tr>
+  <tr>
+    <td>Interest income</td>
+    <td>440</td>
+    <td>832</td>
+    <td>555</td>
+  </tr>
+  <tr>
+    <td>Interest expense</td>
+    <td>(1,417)</td>
+    <td>(1,600)</td>
+    <td>(1,647)</td>
+  </tr>
+  <tr>
+    <td>Other income (expense), net</td>
+    <td>(183)</td>
+    <td>203</td>
+    <td>2,371</td>
+  </tr>
+  <tr>
+    <td>Total non-operating income (expense)</td>
+    <td>(1,160)</td>
+    <td>(565)</td>
+    <td>1,279</td>
+  </tr>
+  <tr>
+    <td>Income before income taxes</td>
+    <td>11,261</td>
+    <td>13,976</td>
+    <td>24,178</td>
+  </tr>
+  <tr>
+    <td>Provision for income taxes</td>
+    <td>(1,197)</td>
+    <td>(2,374)</td>
+    <td>(2,863)</td>
+  </tr>
+  <tr>
+    <td>Equity-method investment activity, net of tax</td>
+    <td>9</td>
+    <td>(14)</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>Net income</td>
+    <td>$ 10,073</td>
+    <td>$ 11,588</td>
+    <td>$ 21,331</td>
+  </tr>
+
+  <tr>
+    <td>Basic earnings per share</td>
+    <td>$ 20.68</td>
+    <td>$ 23.46</td>
+    <td>$ 42.64</td>
+  </tr>
+  <tr>
+    <td>Diluted earnings per share</td>
+    <td>$ 20.14</td>
+    <td>$ 23.01</td>
+    <td>$ 41.83</td>
+  </tr>
+
+  <tr>
+    <td>Weighted-average shares used in computation of earnings per share:</td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Basic</td>
+    <td>487</td>
+    <td>494</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Diluted</td>
+    <td>500</td>
+    <td>504</td>
+    <td>510</td>
+  </tr>
+</table>
+```

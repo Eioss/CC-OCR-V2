@@ -1,0 +1,28 @@
+```json
+[
+    {"bbox_2d": [75, 258, 351, 284], "label": "ADDRESS"},
+    {"bbox_2d": [605, 284, 655, 294], "label": "ARRIVAL/入住日期"},
+    {"bbox_2d": [773, 678, 858, 690], "label": "Balance"},
+    {"bbox_2d": [603, 266, 685, 278], "label": "CASHIER/收银员"},
+    {"bbox_2d": [763, 378, 803, 388], "label": "CHARGES/CREDIT"},
+    {"bbox_2d": [768, 634, 820, 644], "label": "CHARGES/CREDIT/费用/可用余额"},
+    {"bbox_2d": [68, 231, 250, 242], "label": "COMPANY 公司"},
+    {"bbox_2d": [605, 220, 661, 230], "label": "CONF.NO/确认号"},
+    {"bbox_2d": [89, 387, 138, 397], "label": "DATE/日期"},
+    {"bbox_2d": [606, 299, 655, 309], "label": "DEPARTURE/离店日期"},
+    {"bbox_2d": [602, 327, 717, 336], "label": "E-MAIL/邮件地址"},
+    {"bbox_2d": [799, 769, 856, 780], "label": "F&B VAT Rate 16%"},
+    {"bbox_2d": [798, 738, 855, 748], "label": "F&B VAT Rate 6%"},
+    {"bbox_2d": [68, 214, 123, 222], "label": "GUEST 客人"},
+    {"bbox_2d": [605, 314, 670, 323], "label": "Marriott Bonvoy#/万豪旅享家号码"},
+    {"bbox_2d": [774, 705, 856, 716], "label": "Net Amount"},
+    {"bbox_2d": [372, 758, 428, 768], "label": "OTHER VAT Rate 10%"},
+    {"bbox_2d": [373, 773, 428, 784], "label": "OTHER VAT Rate 16%"},
+    {"bbox_2d": [372, 742, 427, 753], "label": "OTHER VAT Rate 6%"},
+    {"bbox_2d": [605, 253, 637, 263], "label": "PAGE/账单页数"},
+    {"bbox_2d": [604, 237, 644, 247], "label": "RATE/房价"},
+    {"bbox_2d": [220, 385, 246, 396], "label": "REFERENCE/项目"},
+    {"bbox_2d": [787, 722, 855, 733], "label": "ROOM VAT Rate 6%"},
+    {"bbox_2d": [604, 203, 634, 213], "label": "ROOM/房号"}
+]
+```

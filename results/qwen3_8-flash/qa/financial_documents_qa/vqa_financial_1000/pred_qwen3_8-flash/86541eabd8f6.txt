@@ -1,0 +1,17 @@
+Based on the provided tax form (NYC-1 for 1973), the **Interest-Penalty** is listed in the box labeled "INTEREST-PENALTY (SEE INSTRUCTIONS)" on the right side of the form.
+
+The value entered there is:
+
+> **00 | 00**
+
+This means the interest and penalty amount due is **$0.00**.
+
+---
+
+### Context:
+- The form shows a period from **2/1/74 to 2/28/74**.
+- Tax withheld was **$28.50**.
+- Total amount due (tax + interest/penalty) is also **$28.50**, confirming no additional penalty or interest was assessed.
+- This suggests the return was filed timely and payment made without delay, so no penalties were incurred.
+
+✅ Final Answer: **$0.00**

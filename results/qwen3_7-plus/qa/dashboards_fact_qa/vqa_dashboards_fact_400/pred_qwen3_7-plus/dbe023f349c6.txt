@@ -1,0 +1,26 @@
+Based on the “WHO EARNS WHAT SALARY” section of the infographic, which displays **national average salaries (US)** for various data science roles:
+
+The job with the **lowest average salary** is:
+
+> **Data Analyst** — **$62,379**
+
+This is shown as the leftmost bar in the salary chart, clearly lower than all other listed roles.
+
+---
+
+### For reference, here are the salaries from lowest to highest as shown:
+
+1. **Data Analyst** — $62,379  
+2. **Business Analyst** — $65,991  
+3. **Database Administrator** — $67,672  
+4. **Statistician** — $75,069  
+5. **Data Engineer** — $95,936  
+6. **Data Scientist** — $100,118  
+7. **Data Architect** — $116,725  
+8. **Data and Analytics Manager** — $118,709  
+
+*(Note: The infographic shows Data Scientist at $100,118 and Data Architect at $116,725 — so Data Analyst is indeed the lowest.)*
+
+---
+
+✅ **Final Answer: Data Analyst ($62,379)**

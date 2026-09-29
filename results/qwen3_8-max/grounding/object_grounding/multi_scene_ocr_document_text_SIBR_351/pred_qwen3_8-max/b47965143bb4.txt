@@ -1,0 +1,18 @@
+```json
+[
+    {"bbox_2d": [267, 81, 742, 94], "label": "Address"},
+    {"bbox_2d": [875, 357, 961, 368], "label": "Amount"},
+    {"bbox_2d": [226, 350, 552, 362], "label": "Commodities and Descriptions"},
+    {"bbox_2d": [214, 54, 561, 78], "label": "Company Name"},
+    {"bbox_2d": [815, 208, 909, 219], "label": "Date"},
+    {"bbox_2d": [173, 238, 314, 249], "label": "From"},
+    {"bbox_2d": [815, 157, 915, 167], "label": "Invoice No"},
+    {"bbox_2d": [196, 265, 221, 275], "label": "Letter of Credit No."},
+    {"bbox_2d": [649, 357, 710, 367], "label": "Quantities"},
+    {"bbox_2d": [815, 182, 907, 192], "label": "Sale Contract No"},
+    {"bbox_2d": [89, 167, 219, 178], "label": "TO"},
+    {"bbox_2d": [338, 132, 667, 149], "label": "Title"},
+    {"bbox_2d": [532, 238, 574, 248], "label": "To"},
+    {"bbox_2d": [752, 357, 834, 367], "label": "Unit Price"}
+]
+```

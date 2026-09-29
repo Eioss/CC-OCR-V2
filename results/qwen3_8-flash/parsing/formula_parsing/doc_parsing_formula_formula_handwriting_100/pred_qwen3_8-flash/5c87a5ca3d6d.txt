@@ -1,0 +1,1 @@
+$$\int _ { D _ { m } } f _ { 2 } \Delta f d x + 4 \int _ { D _ { m } } \frac { 1 } { p } f _ { 2 } \partial _ { r } f _ { 2 } d x + \int _ { D _ { m } } ( 5 - \cot ^ { 2 } \phi ) \frac { f _ { 2 } ^ { 3 } } { p ^ { 2 } } d x = \int _ { D _ { m } } \frac { f _ { 2 } ^ { 3 } } { p ^ { 4 } } \partial _ { \phi } ( p ^ { 4 } \sin \phi \Omega ) d x .$$

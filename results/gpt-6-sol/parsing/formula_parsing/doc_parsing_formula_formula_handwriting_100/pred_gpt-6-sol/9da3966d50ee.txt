@@ -1,0 +1,28 @@
+\[
+\begin{aligned}
+\chi_{p,\mathrm{cyc}}^{j}\phi\!\left(\mathcal F_{p,\mathrm{CM}(\eta)}^{r/c}\right)
+&=\Gamma(jt-k\mu_2)G_n(\phi)\,
+\frac{\displaystyle\prod_{p\mid p^{+}f}
+A_p\!\left(\vartheta(\eta)^{p-\mathrm{st}},\phi,j\right)
+L\!\left(\vartheta(\eta)^{p-\mathrm{st}},\phi,j\right)}
+{(-2\pi\sqrt{-1})^{jd}
+(-\Omega_{\mathrm{CM},\infty})^{k\mu_2}
+(-\Omega_{\mathrm{CM},\infty})^{k\mu_1}},\\[1.5ex]
+y^{T}\mathbb E\!\left[\sum_{r=1}^{m}a_ra_r^{T}\right]y
+&=\sum_{r=1}^{m}\mathbb E\!\left[\langle a_r,y\rangle^{2}\right]
+=\sum_{r=1}^{m}\sum_{j=1}^{d}y_j^{2}
+=\sum_{r=1}^{m}\|y\|^{2},\\[1.5ex]
+\eta_r^{2}
+&:=\left(\sum_{t\in T}\eta_t^{2}\right)^{1/2}
+\left(\sum_{t\in T}h_t^{2}\eta_t^{2}\right)^{1/2},\\[1.5ex]
+g_1\cdots g_{r_i}&=R_0R_1\cdots R_n,\\[1.5ex]
+v(\theta,r)&=-1\quad\text{for }r\text{ near }0,
+\qquad
+v(\theta,r)=1\quad\text{for }r\geq Re^{|\theta|},\\[1.5ex]
+\int_{1}^{\infty}
+h(y)e^{-c_0y^{-\gamma/(\gamma-1)}}
+\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}
+&\leq h(1)\int_{1}^{\infty}
+\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}<\infty.
+\end{aligned}
+\]

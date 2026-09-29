@@ -1,0 +1,81 @@
+Here's the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+\noindent\textbf{12} \quad Katy weighed out some sugar from a full 2 kg bag. The mass of the sugar is shown on the scale.
+
+\vspace{1cm}
+\begin{center}
+[Scale showing measurement] \qquad [2 kg Sugar bag]
+\end{center}
+\vspace{0.5cm}
+
+\noindent How much sugar was left in the bag?
+
+\vspace{0.3cm}
+\noindent\textbf{A} \quad 1.55 kg \hspace{1cm} \textbf{B} \quad 1.65 kg \hspace{1cm} \textbf{C} \quad 165 g \hspace{1cm} \textbf{D} \quad 155 g \hspace{1cm} \textbf{E} \quad 1550 g
+
+\vspace{0.8cm}
+
+\noindent\textbf{13} \quad What is the total cost of 8 rulers and 8 pens?
+
+\vspace{1cm}
+\begin{center}
+[Pen labeled £1.23] \qquad [Ruler labeled £1.77]
+\end{center}
+\vspace{0.5cm}
+
+\noindent\textbf{A} \quad £2 \hspace{1cm} \textbf{B} \quad £3 \hspace{1cm} \textbf{C} \quad £16 \hspace{1cm} \textbf{D} \quad £24 \hspace{1cm} \textbf{E} \quad £32
+
+\vspace{0.8cm}
+
+\noindent\textbf{14} \quad Round 7.038 to the nearest hundredth.
+
+\vspace{0.3cm}
+\noindent\textbf{A} \quad 7.00 \hspace{1cm} \textbf{B} \quad 7.03 \hspace{1cm} \textbf{C} \quad 7.04 \hspace{1cm} \textbf{D} \quad 7.038 \hspace{1cm} \textbf{E} \quad 7.039
+
+\vspace{0.8cm}
+
+\noindent\textbf{15} \quad These shapes are made from 1 cm cubes.
+
+\vspace{1cm}
+\begin{center}
+[Shape P] \qquad [Shape Q] \qquad [Shape R] \qquad [Shape S]
+\end{center}
+\vspace{0.5cm}
+
+\noindent Which two shapes have the same volume?
+
+\vspace{0.3cm}
+\noindent\textbf{A} \quad P and Q \hspace{1cm} \textbf{B} \quad P and R \hspace{1cm} \textbf{C} \quad P and S \hspace{1cm} \textbf{D} \quad Q and R \hspace{1cm} \textbf{E} \quad R and S
+
+\vspace{0.8cm}
+
+\noindent\textbf{16} \quad Which of these shapes are prisms?
+
+\vspace{1cm}
+\begin{center}
+[Shape P] \qquad [Shape Q] \qquad [Shape R] \qquad [Shape S] \qquad [Shape T]
+\end{center}
+\vspace{0.5cm}
+
+\noindent\textbf{A} \quad P and S only \hspace{1cm} \textbf{B} \quad R and T only \hspace{1cm} \textbf{C} \quad Q, R and T \\
+\noindent\textbf{D} \quad P, Q and S \hspace{1.2cm} \textbf{E} \quad Only S
+
+\vspace{2cm}
+\begin{center}
+4
+\end{center}
+
+\vspace{0.3cm}
+\noindent\footnotesize 11+ Maths / 10-11 / 1 / Paper 1 \hfill © CGP 2018
+
+\end{document}
+```
+
+**Note:** The image contains several diagrams (a weighing scale, a sugar bag, a pen, a ruler, cube shapes, and 3D geometric shapes) that I've indicated with placeholder text in brackets, as these are visual elements that cannot be directly transcribed into text/LaTeX. The textual content, multiple-choice options, and footer information have been transcribed exactly as shown.

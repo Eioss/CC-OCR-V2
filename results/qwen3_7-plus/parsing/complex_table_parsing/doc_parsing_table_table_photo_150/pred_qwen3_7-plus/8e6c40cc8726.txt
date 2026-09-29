@@ -1,0 +1,340 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>出库单</title>
+    <style>
+        body {
+            font-family: "SimSun", "Songti SC", serif; /* 使用宋体以匹配打印单据风格 */
+            margin: 20px;
+            color: #333;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            letter-spacing: 2px;
+        }
+        .header h2 {
+            margin: 5px 0 15px 0;
+            font-size: 20px;
+            font-weight: normal;
+        }
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        .info-left, .info-right {
+            width: 48%;
+        }
+        .info-right {
+            text-align: right;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            margin-top: 10px;
+        }
+        th, td {
+            padding: 6px 4px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        th {
+            border-bottom: 1px solid #999;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+        td {
+            border-bottom: 1px dashed #ccc;
+        }
+        /* Align specific columns for better readability matching the image */
+        td:nth-child(1), td:nth-child(2) { text-align: left; } /* Batch No, Code */
+        td:nth-child(3) { text-align: left; } /* Name */
+        td:nth-child(4) { text-align: left; } /* Spec */
+        
+        .total-row td {
+            border-bottom: none;
+            font-weight: bold;
+            padding-top: 10px;
+        }
+        .footer-info {
+            margin-top: 20px;
+            font-size: 14px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .color-note {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #555;
+        }
+        .signatures {
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+        }
+        .signature-box {
+            width: 200px;
+            border-bottom: 1px solid #333;
+            height: 30px;
+            position: relative;
+        }
+        .handwritten {
+            font-family: "KaiTi", cursive;
+            font-size: 24px;
+            position: absolute;
+            bottom: -10px;
+            left: 20px;
+            transform: rotate(-5deg);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>深圳市深粮冷运有限公司</h1>
+        <h2>出库单</h2>
+    </div>
+
+    <div class="info-row">
+        <div class="info-left">
+            <!-- Left side is mostly empty in the main document, delivery info is centered below -->
+        </div>
+        <div class="info-right">
+            <div style="font-family: monospace; font-size: 16px; margin-bottom: 5px;">OT20220327334548244</div>
+            <div>打印时间: 2022-03-27 09:52:31</div>
+            <div>出库日期: 2022-03-27</div>
+        </div>
+    </div>
+
+    <div style="text-align: center; margin: 15px 0; font-size: 14px;">
+        配送点:<br>
+        车牌号:
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>商品批号</th>
+                <th>商品代码</th>
+                <th>商品名称</th>
+                <th>规格</th>
+                <th>数量</th>
+                <th>单位</th>
+                <th>生产日期</th>
+                <th>件重(KG)</th>
+                <th>总重(KG)</th>
+                <th>件/板</th>
+                <th>板数</th>
+                <th>出库位置</th>
+                <th>剩余库存</th>
+                <th>柜号</th>
+                <th>备注</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>220215106</td>
+                <td>123301113</td>
+                <td>吾皇万睡大手提纸袋</td>
+                <td>25只*20<br>捆/箱</td>
+                <td>19</td>
+                <td>箱</td>
+                <td>2022-01-17</td>
+                <td>22</td>
+                <td>418</td>
+                <td>50</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>31</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22021526</td>
+                <td>122201003</td>
+                <td>不辣串串撒料1</td>
+                <td>2kg*4袋/<br>箱</td>
+                <td>22</td>
+                <td>箱</td>
+                <td>2022-01-24</td>
+                <td>8</td>
+                <td>176</td>
+                <td>50</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>0</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22021527</td>
+                <td>122201006</td>
+                <td>细粉微辣撒料</td>
+                <td>2kg*4袋/<br>箱</td>
+                <td>50</td>
+                <td>箱</td>
+                <td>2022-01-13</td>
+                <td>8</td>
+                <td>400</td>
+                <td>50</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>11</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22021528</td>
+                <td>122201007</td>
+                <td>细粉特辣撒料</td>
+                <td>2KG*4袋/<br>箱</td>
+                <td>50</td>
+                <td>箱</td>
+                <td>2022-01-20</td>
+                <td>8</td>
+                <td>400</td>
+                <td>50</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>83</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22021619</td>
+                <td>123301124</td>
+                <td>吾皇万睡横版二合一<br>打包袋 (拆箱)</td>
+                <td>20捆/箱</td>
+                <td>15</td>
+                <td>捆</td>
+                <td>2022-02-02</td>
+                <td>2</td>
+                <td>30</td>
+                <td>150</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>126</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22030519</td>
+                <td>122201003</td>
+                <td>不辣串串撒料1</td>
+                <td>2kg*4袋/<br>箱</td>
+                <td>8</td>
+                <td>箱</td>
+                <td>2022-02-22</td>
+                <td>8</td>
+                <td>64</td>
+                <td>60</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>82</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22030523</td>
+                <td>122201021</td>
+                <td>臭豆腐调味料1</td>
+                <td>500g*16<br>袋</td>
+                <td>13</td>
+                <td>箱</td>
+                <td>2022-03-02</td>
+                <td>8</td>
+                <td>104</td>
+                <td>72</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>237</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>22030524</td>
+                <td>122201061</td>
+                <td>孜然粉【拆箱】</td>
+                <td>2.5kg*10<br>包/箱</td>
+                <td>9</td>
+                <td>包</td>
+                <td>2021-12-25</td>
+                <td>2.5</td>
+                <td>22.5</td>
+                <td>24</td>
+                <td>1</td>
+                <td>江西仓</td>
+                <td>15</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr class="total-row">
+                <td colspan="4">合计:</td>
+                <td>515</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>3,334.9</td>
+                <td></td>
+                <td>25</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="4" style="text-align: right; padding-right: 10px;">拣货费</td>
+                <td>515</td>
+                <td>件</td>
+                <td colspan="3" style="text-align: center;">7,210</td>
+                <td colspan="6"></td>
+            </tr>
+            <tr>
+                <td colspan="4" style="text-align: right; padding-right: 10px;">合计:</td>
+                <td colspan="5" style="text-align: center; font-weight: bold;">7210</td>
+                <td colspan="6"></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="color-note">
+        白色联: 存根 &nbsp; 蓝色联: 客户 &nbsp; 红色联: 财务 &nbsp; 黄色联: 装卸
+    </div>
+
+    <div class="signatures">
+        <div>
+            主管:
+            <div class="signature-box"></div>
+        </div>
+        <div>
+            仓管员:
+            <div class="signature-box">
+                <span class="handwritten">刘兵</span>
+            </div>
+        </div>
+        <div>
+            客户:
+            <div class="signature-box">
+                <span class="handwritten" style="left: 10px; font-size: 30px;">(签名)</span>
+            </div>
+        </div>
+        <div>
+            制单员:
+            <div class="signature-box"></div>
+        </div>
+    </div>
+
+</body>
+</html>
+```

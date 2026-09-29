@@ -1,0 +1,19 @@
+\[
+\frac{C_1}{k_{n,j+1}^{2}} \leq \left|\int \frac{Q_{n,j+1}^{2}(x)}{z-x}\frac{H_{n,j+1}(x)d\sigma_{j+1}(x)}{Q_{n,j}(x)Q_{n,j+2}(x)}\right| \leq \frac{C_2}{k_{n,j+1}^{2}}
+\]
+
+\[
+E_\nu[\mathcal{D}_\lambda(w;\nu)] \leq E_\nu[\mathcal{D}_\lambda(\bar{w};\nu)] + \epsilon
+\]
+
+\[
+|h|_{L_+^2(0,T;H^*(A))}^{2} \leq C|\Delta^2 h|_{L_+^2(0,T;H^*(A))}^{2}
+\]
+
+\[
+\langle P_{i,A},P_{j,A}\rangle = -1 = \langle P_{i,A'},P_{j,A'}\rangle
+\]
+
+\[
+\left(x_{t_{k-1}+\ell\beta}-y^j_{t-t_kA_k}\right)\in V
+\]

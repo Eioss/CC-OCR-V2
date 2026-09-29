@@ -1,0 +1,34 @@
+\[
+\begin{aligned}
+p_i^{\pm}
+&=
+\frac{
+\left(\dfrac{\phi_i^{\pm}\cdot\theta}{\beta_i(x_i^0)}\right)^{\frac{1}{\gamma_i+1}}
+}{
+\left(\dfrac{\phi_i^0\cdot(x_i^0)}{\beta_i(x_i^0)^{\gamma_i}}\right)^{\frac{1}{\gamma_i+1}}
++
+\left(\dfrac{\phi_i^{\pm}(x_i^0)}{\beta_i(x_i^0)^{\gamma_i}}\right)^{\frac{1}{\gamma_i+1}}
+}
+\\[4pt]
+\sigma_i&=2h_i-h_{i-1}-h_{i+1}
+\\[4pt]
+\dim_{\mathbb{C}}(\partial N)&<d_\beta:=d+8\delta d
+\\[4pt]
+P(t)&=\sum_{\lambda_0,n_i=0}^{\rho_{\max}(d+1)2^{\lambda_{\max}}}
+\lambda n_i\theta\,|\phi_\lambda(x,t)\rangle\langle\phi_\lambda(x,t)|_{n_i}
+\\[4pt]
+\|t\|&=\|1\|\otimes\|t\|
+\\[4pt]
+\hat{\phi}_i(t+\omega\cdot\sigma)
+&=\frac{1}{2}\left[1+\omega\lambda_i\sigma_i+(t+\omega\lambda_i)\partial_i\right]
+\\[4pt]
+(\nabla_x^M+\nabla_{T_1})I(X_1,X_2)
+&=
+\nabla_x^{-1}(\nabla_{T_1}I(X_1,X_2))
+-(\nabla_{T_1})(\nabla_xX_1,X_2)
+-(\nabla_{T_1})(X_1,\nabla_xX_2)
+\\[4pt]
+R_{ij}(x)&\simeq_{x\to\infty}
+c_{ij}(1+\delta_{ij})\mu(i/N)\nu(j/N)\exp(-\lambda|x|)
+\end{aligned}
+\]

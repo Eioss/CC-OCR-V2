@@ -1,0 +1,52 @@
+I'll transcribe the visible text from this document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{enumitem}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent 5、乙方必须提高安全意识，做到安全生产。如因乙方人员工作失误造成人员伤亡或财产损失的，由乙方承担相应的责任。
+
+\vspace{0.3cm}
+\noindent 六、违约责任及合同的变更
+
+\vspace{0.3cm}
+\noindent 1、甲方随机抽查乙方工作完成情况，每查到一次不合格，从当月服务费中扣除违约金100元；一个月内连续三次抽查不合格，扣违约金1000元；连续两个月抽查不合格，甲方有权单方面终止合同，并扣违约金一个月服务费。
+
+\vspace{0.3cm}
+\noindent 合同正常履行期间，如果一方要提前终止合同，需提前一个月以书面形式向另一方说明，另一方同意后方可终止合同。
+
+\vspace{0.3cm}
+\noindent 七、其他
+
+\vspace{0.3cm}
+\noindent 对此合同未规定的事项及对此合同的解释发生异议时，甲乙双方在诚挚的基础上协商解决。如协商解决不成，可向云和县人民法院提起诉讼。
+
+\vspace{0.3cm}
+\noindent 此合同一式两份，双方各执一份，双方代表签字、盖章后生效，具有同等法律效力。
+
+\vspace{1cm}
+\noindent 甲方（盖章）：\hfill 乙方（盖章）：
+
+\vspace{2cm}
+\noindent 代表（签字）：\hfill 代表（签字）：
+
+\vspace{1.5cm}
+\centerline{2017年11月28日}
+
+\end{CJK}
+\end{document}
+```
+
+**Note on visual elements:**
+
+- **Two red official seals (公章):** 
+  - Left seal (甲方): circular red stamp with a five-pointed star, partial text "...县城西市场管理有限..." 
+  - Right seal (乙方): circular red stamp with a five-pointed star, text "云和县聚力物业有限..."
+- **Two handwritten signatures** appear next to "代表（签字）：" on both the 甲方 and 乙方 sides (illegible cursive).
+- **Handwritten date** at the bottom: "2017年11月28日"
+
+I've transcribed the printed text accurately. The signatures are handwritten and not clearly legible, so I've indicated their positions rather than guessing names.

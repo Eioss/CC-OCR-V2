@@ -1,0 +1,98 @@
+# Physics Formula Sheet
+
+## Mechanics
+
+$$x = x_0 + v_{x0}t + \frac{1}{2}a_xt^2 \qquad a_c = \frac{v^2}{r} \qquad |\vec{F}_{spring}| = k\,|\vec{x}|$$
+
+$$v = v_0 + at \qquad \theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2 \qquad PE_{spring} = \frac{1}{2}kx^2$$
+
+$$v_x^2 - v_{x0}^2 = 2a(x - x_0) \qquad \omega = \omega_0 + \alpha t \qquad T_{spring} = 2\pi\sqrt{\frac{m}{k}}$$
+
+$$\vec{a} = \frac{\Sigma \vec{F}}{m} = \frac{\vec{F}_{net}}{m} \qquad T = \frac{2\pi}{\omega} = \frac{1}{f} \qquad T_{pendulum} = 2\pi\sqrt{\frac{\ell}{g}}$$
+
+$$|\vec{F}_{friction}| \leq \mu\,|\vec{F}_{Normal}| \qquad v = f\lambda$$
+
+$$\vec{p} = m\vec{v} \qquad x = A\cos(2\pi ft) \qquad |\vec{F}_{gravity}| = G\frac{m_1m_2}{r^2}$$
+
+$$\Delta\vec{p} = \vec{F}\Delta t \qquad \vec{\alpha} = \frac{\Sigma\vec{\tau}}{I} = \frac{\vec{\tau}_{net}}{I} \qquad |\vec{F}_{gravity}| = m\vec{g}$$
+
+$$KE = \frac{1}{2}mv^2 \qquad \vec{\tau} = r \times F \qquad PE_{gravity} = -G\frac{m_1m_2}{r}$$
+
+$$\Delta PE = mg\Delta y \qquad L = I\,\omega \qquad \rho = \frac{m}{V}$$
+
+$$\Delta E = W = Fd\cos\theta \qquad \Delta L = \tau\Delta t \qquad KE = \frac{1}{2}I\,\omega^2$$
+
+## Electricity
+
+$$|\vec{F}_E| = k\left|\frac{q_1q_2}{r^2}\right| \qquad \Delta V = IR \qquad R = \frac{\rho\,\ell}{A}$$
+
+$$I = \frac{\Delta q}{\Delta t} \qquad\qquad P = I\Delta V$$
+
+$$R_{series} = R_1 + R_2 + \ldots + R_n \qquad \frac{1}{R_{Parallel}} = \frac{1}{R_1} + \frac{1}{R_2} + \ldots + \frac{1}{R_n}$$
+
+## Geometry
+
+| | | | |
+|---|---|---|---|
+| Rectangle | $A = bh$ | Rectangular Solid $V = \ell wh$ | Triangle $A = \frac{1}{2}bh$ |
+| Circle | $A = \pi r^2$ | Cylinder $V = \pi r^2 \ell$ | Sphere $V = \frac{4}{3}\pi r^3$ |
+| | $C = 2\pi r$ | $S = 2\pi r\ell + 2\pi r^2$ | $S = 4\pi r^2$ |
+
+## Trigonometry
+
+$$c^2 = a^2 + b^2 \qquad \sin\theta = \frac{a}{c} \qquad \cos\theta = \frac{b}{c} \qquad \tan\theta = \frac{a}{b}$$
+
+*(Right triangle with hypotenuse $c$, vertical side $a$, base $b$, and angle $\theta$)*
+
+| $\theta$ | $0°$ | $30°$ | $37°$ | $45°$ | $53°$ | $60°$ | $90°$ |
+|---|---|---|---|---|---|---|---|
+| $\sin\theta$ | $0$ | $1/2$ | $3/5$ | $\sqrt{2}/2$ | $4/5$ | $\sqrt{3}/2$ | $1$ |
+| $\cos\theta$ | $1$ | $\sqrt{3}/2$ | $4/5$ | $\sqrt{2}/2$ | $3/5$ | $1/2$ | $0$ |
+| $\tan\theta$ | $0$ | $\sqrt{3}/3$ | $3/4$ | $1$ | $4/3$ | $\sqrt{3}$ | $\infty$ |
+
+## Variables
+
+| Symbol | Meaning |
+|---|---|
+| $a$ | acceleration |
+| $A$ | amplitude |
+| $A$ | Area |
+| $b$ | base length |
+| $C$ | circumference |
+| $d$ | distance |
+| $E$ | energy |
+| $f$ | frequency |
+| $F$ | force |
+| $h$ | height |
+| $I$ | current |
+| $I$ | rotational inertia |
+| $KE$ | kinetic energy |
+| $k$ | spring constant |
+| $L$ | angular momentum |
+| $\ell$ | length |
+| $m$ | mass |
+| $P$ | power |
+| $p$ | momentum |
+| $q$ | charge |
+| $r$ | radius |
+| $R$ | resistance |
+| $S$ | surface area |
+| $T$ | period |
+| $t$ | time |
+| $PE$ | potential energy |
+| $V$ | electric potential |
+| $V$ | volume |
+| $v$ | velocity |
+| $w$ | width |
+| $W$ | work |
+| $x$ | position |
+| $y$ | height |
+| $\alpha$ | angular acceleration |
+| $\lambda$ | wavelength |
+| $\mu$ | coefficient of friction |
+| $\nu$ | wave speed |
+| $\theta$ | angle |
+| $\rho$ | density |
+| $\rho$ | resistivity |
+| $\tau$ | torque |
+| $\omega$ | angular speed |

@@ -1,0 +1,67 @@
+\[
+\sum_{x\in S,q}^{-N+1}\sum_{a_1,\ldots,a_m\in S_q}\sqrt{\left(1+\sum_i a_i x_i^2\right)y(a_m)^m}
+\]
+
+\[
+X_D T_D = U_T X_D
+\qquad\text{and}\qquad
+\bigvee_{N>0} U_T^{-1}X_DN=\lambda^2(T)
+\]
+
+\[
+\hat{\Sigma}_{\mathrm{new}}
+=
+\hat{\Sigma}_{\mathrm{can}}
+-
+(\hat{x}_A-\hat{x}_B),
+\qquad
+\hat{P}_{\mathrm{new}}
+=
+\hat{P}_{m+1}+\hat{P}_{B_n}
+\]
+
+\[
+(D_{x\to y})\quad
+\sup\{\mu\nabla^2G(y)\mu\}
+\quad\text{subject to } \mu\in K^*
+\text{ and }
+\nabla G(\bar{x})\mu=x^*
+\]
+
+\[
+\frac{d}{dt}\|y(t)\|^2
++
+\bigl(2Ay(t)-(d_t+2)By(t),y(t)\bigr)^2
++
+2\|B_{a_t}(t)\|\|y(t)\|^2
+\]
+
+\[
+=
+2(1-\alpha)\int_{\Omega_n}(y,\psi)(t,\xi)y(t,\xi)\chi\,d\xi
+\ge
+2k\int_{\Omega_n}\bigl(\partial_t y(t,\xi)-y(t,\xi)\bigr)\chi\,d\xi
+\]
+
+\[
+\frac{\partial L}{\partial \hat{w}_{b_1}}
+=
+2\bigl(y-\hat{w}b_1-(z-\hat{w}b_2)\hat{w}b_2\bigr)
+(-\hat{b}_1+\hat{b}_2)
+\]
+
+\[
+\frac{\partial L}{\partial \hat{w}_{b_2}}
+=
+-2(\hat{b}_1+\hat{b}_2)^2
+\]
+
+\[
+G(y)
+=
+\sup_{a\le s\le b}
+\left|
+\sum_{i=1}^{\infty}
+(y_i+\Gamma_i)^{-1}\,dN_i(s)
+\right|
+\]

@@ -1,0 +1,21 @@
+Based on the image provided, let's look at the third row of beer cans/bottles in the "THE 20 MOST POPULAR BEERS IN AMERICA" section.
+
+The third row contains:
+- #11 Modelo Especial (can)
+- #12 Keystone Light (can)
+- #13 Miller High Life (can)
+- #14 Natural Ice (can)
+- #15 Bud Light Platinum (bottle)
+
+Counting them, there are **5** items in the third row.
+
+However, if you are asking specifically for *cans* (excluding bottles), then:
+- Modelo Especial: can
+- Keystone Light: can
+- Miller High Life: can
+- Natural Ice: can
+- Bud Light Platinum: bottle (not a can)
+
+So, there are **4** beer *cans* in the third row.
+
+✅ Final Answer: **4**

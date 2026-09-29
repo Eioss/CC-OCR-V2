@@ -1,0 +1,26 @@
+<table>
+  <tr><td>2</td><td>安装辅材</td><td></td><td>套</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>3</td><td>手动平板推车</td><td></td><td>套</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>六</td><td>声波吹灰系统</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>1</td><td>储气罐</td><td>碳钢</td><td>台</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>2</td><td>爬式吹灰器</td><td></td><td>套</td><td>1</td><td></td><td>0.00</td><td>莱芜电厂、湖北华信、武汉四院</td></tr>
+  <tr><td>3</td><td>阀门管路系统</td><td>配套</td><td>套</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>4</td><td>控制设备</td><td>配套</td><td>套</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>七</td><td>GGH系统</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>1</td><td>GGH本体</td><td>回转式、端差30℃、阻力≤1800Pa、漏风率≤2%</td><td>台</td><td>1</td><td></td><td>0.00</td><td>傲华、豪顿华或同档次</td></tr>
+  <tr><td>2</td><td>低泄露风机</td><td></td><td>台</td><td>2</td><td></td><td>0.00</td><td>随GGH配套</td></tr>
+  <tr><td>3</td><td>GGH耙式吹灰器</td><td></td><td>台</td><td>2</td><td></td><td>0.00</td><td>随GGH配套</td></tr>
+  <tr><td>4</td><td>检修用电动葫芦</td><td>起重5t</td><td>台</td><td>1</td><td></td><td>0.00</td><td>中原起重、新乡矿山、河南卫华</td></tr>
+  <tr><td>5</td><td>GGH高压水冲洗泵</td><td></td><td>台</td><td>1</td><td></td><td>0.00</td><td>随GGH配套</td></tr>
+  <tr><td>八</td><td>高炉煤气加热炉系统</td><td>内置直接式、含燃烧器、主气站、备用助燃风机（1台）高能点火器、火焰检测设备</td><td>台</td><td>2</td><td></td><td>0.00</td><td>北京永振、武汉珞亚、湖北普业</td></tr>
+  <tr><td></td><td>炉前燃料系统</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>1</td><td>高炉煤气管路</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>1.1</td><td>非防爆阀门</td><td>配用执行机构：选用扬修、上海澳托克、天津百利-通机牌</td><td>项</td><td>1</td><td></td><td>0.00</td><td rowspan="2">博纳斯欧阀门、上海阀门五厂、天津塘沽蝶阀厂、石特阀门、江苏神通、飞龙阀门</td></tr>
+  <tr><td>1.2</td><td>防爆阀门</td><td>配用执行机构：选用扬修、上海澳托克、天津百利-通机牌</td><td>项</td><td>1</td><td></td><td>0.00</td></tr>
+  <tr><td>2</td><td>氮气吹扫管路</td><td></td><td>项</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>3</td><td>液化石油气管路</td><td></td><td>项</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td></td><td>助燃风系统</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+  <tr><td>4</td><td>变频助燃风机</td><td></td><td>项</td><td>1</td><td></td><td>0.00</td><td></td></tr>
+  <tr><td></td><td>其他</td><td>…</td><td></td><td></td><td></td><td>0.00</td><td>按标准化自带设备</td></tr>
+  <tr><td>（四）</td><td>电气设备</td><td></td><td></td><td></td><td></td><td>0.00</td><td></td></tr>
+</table>

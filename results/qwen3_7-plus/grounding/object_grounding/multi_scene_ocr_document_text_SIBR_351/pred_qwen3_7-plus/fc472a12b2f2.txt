@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [341, 82, 630, 101], "label": "ADDRESS"},
+	{"bbox_2d": [157, 215, 604, 239], "label": "ADDRESS"},
+	{"bbox_2d": [858, 531, 905, 547], "label": "Amount (USD)"},
+	{"bbox_2d": [859, 556, 913, 573], "label": "Amount (USD)"},
+	{"bbox_2d": [865, 845, 948, 862], "label": "Amount (USD)"},
+	{"bbox_2d": [297, 49, 632, 78], "label": "COMPANY NAME"},
+	{"bbox_2d": [160, 187, 450, 212], "label": "COMPANY NAME"},
+	{"bbox_2d": [250, 531, 296, 548], "label": "CONTRACT NO"},
+	{"bbox_2d": [250, 557, 296, 575], "label": "CONTRACT NO"},
+	{"bbox_2d": [160, 269, 212, 286], "label": "DATE"},
+	{"bbox_2d": [82, 531, 136, 548], "label": "DESCRIPTION"},
+	{"bbox_2d": [82, 557, 129, 575], "label": "DESCRIPTION"},
+	{"bbox_2d": [526, 106, 687, 126], "label": "FAX"},
+	{"bbox_2d": [160, 243, 225, 260], "label": "Invoice No."},
+	{"bbox_2d": [536, 530, 594, 550], "label": "QTY PCS"},
+	{"bbox_2d": [536, 556, 594, 576], "label": "QTY PCS"},
+	{"bbox_2d": [542, 845, 626, 866], "label": "QTY PCS"},
+	{"bbox_2d": [625, 243, 772, 260], "label": "SHIPPING MARK"},
+	{"bbox_2d": [350, 106, 503, 125], "label": "TEL"},
+	{"bbox_2d": [160, 295, 466, 313], "label": "TERMS"},
+	{"bbox_2d": [625, 191, 792, 209], "label": "TERMS OF PAYMENT"},
+	{"bbox_2d": [470, 159, 555, 180], "label": "TITLE"},
+	{"bbox_2d": [705, 531, 753, 547], "label": "Unit Price (USD)"},
+	{"bbox_2d": [705, 556, 753, 573], "label": "Unit Price (USD)"}
+]
+```

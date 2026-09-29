@@ -1,0 +1,61 @@
+<table>
+  <tr><td colspan="10">顺成贝斯特2021年杂货类食材定购价格表</td></tr>
+  <tr><td>序号</td><td>食材名称</td><td>规格</td><td>单位</td><td>原价</td><td>序号</td><td>食材名称</td><td>规格</td><td>单位</td><td>原价</td></tr>
+  <tr><td colspan="5">调味品类</td><td colspan="5">干货类</td></tr>
+  <tr><td>1</td><td>海天生抽</td><td>1.9L/*6</td><td>箱/元</td><td>72</td><td>52</td><td>蜜枣</td><td>斤</td><td>斤/元</td><td>9.5</td></tr>
+  <tr><td>2</td><td>海天草菇老抽</td><td>1.9L/*6</td><td>箱/元</td><td>118</td><td>53</td><td>花生米</td><td>斤</td><td>斤/元</td><td>6.5</td></tr>
+  <tr><td>3</td><td>海天上色老抽</td><td>5L/罐*2</td><td>箱/元</td><td>62</td><td>54</td><td>绿豆</td><td>斤</td><td>斤/元</td><td>6</td></tr>
+  <tr><td>4</td><td>海天爽标生抽</td><td>10.5L/罐*2</td><td>箱/元</td><td>64</td><td>55</td><td>黄豆</td><td>斤</td><td>斤/元</td><td>3</td></tr>
+  <tr><td>5</td><td>海天蚝油</td><td>6kg/罐*2</td><td>箱/元</td><td>68</td><td>56</td><td>甘草</td><td>斤</td><td>斤/元</td><td>15.5</td></tr>
+  <tr><td>6</td><td>海天柱候酱</td><td>6.5kg/罐*2</td><td>箱/元</td><td>122</td><td>57</td><td>桂皮</td><td>斤</td><td>斤/元</td><td>13.5</td></tr>
+  <tr><td>7</td><td>海天黄豆酱</td><td>340g/瓶*15</td><td>箱/元</td><td>88</td><td>58</td><td>香叶</td><td>斤</td><td>斤/元</td><td>15.5</td></tr>
+  <tr><td>8</td><td>海天陈醋</td><td>450g/瓶*12</td><td>箱/元</td><td>52</td><td>59</td><td>党参</td><td>斤</td><td>斤/元</td><td>32</td></tr>
+  <tr><td>9</td><td>海天盐焗鸡粉</td><td>180g/盒</td><td>盒/元</td><td>6</td><td>60</td><td>玉竹</td><td>斤</td><td>斤/元</td><td>36</td></tr>
+  <tr><td>10</td><td>海天金标生抽</td><td>1.6L/罐*6</td><td>箱/元</td><td>92</td><td>61</td><td>剑花</td><td>斤</td><td>斤/元</td><td>23</td></tr>
+  <tr><td>11</td><td>海天皇标生抽</td><td>10.5L/罐*2</td><td>箱/元</td><td>76</td><td>62</td><td>薏米</td><td>斤</td><td>斤/元</td><td>5</td></tr>
+  <tr><td>12</td><td>海天海鲜酱</td><td>7kg/罐*2</td><td>箱/元</td><td>124</td><td>63</td><td>小茴</td><td>斤</td><td>斤/元</td><td>10.5</td></tr>
+  <tr><td>13</td><td>海天叉烧酱</td><td>280g/瓶*15</td><td>箱/元</td><td>91</td><td>64</td><td>八角</td><td>斤</td><td>斤/元</td><td>20.5</td></tr>
+  <tr><td>14</td><td>双桥味精</td><td>谷氨酸钠99%</td><td>500g/包/元</td><td>9.5</td><td>65</td><td>草果</td><td>斤</td><td>斤/元</td><td>33</td></tr>
+  <tr><td>15</td><td>双桥味精</td><td>谷氨酸钠80%</td><td>500g/包/元</td><td>7</td><td>66</td><td>枸杞子</td><td>斤</td><td>斤/元</td><td>27</td></tr>
+  <tr><td>16</td><td>家乐鸡精经典</td><td>1kg/罐</td><td>罐/元</td><td>45</td><td>67</td><td>芝麻</td><td>斤</td><td>斤/元</td><td>10.5</td></tr>
+  <tr><td>17</td><td>家乐鸡精鸡鲜粉</td><td>1kg/罐</td><td>罐/元</td><td>26</td><td>68</td><td>红枣</td><td>斤</td><td>斤/元</td><td>13</td></tr>
+  <tr><td>18</td><td>东古南乳</td><td>1.7kg/罐</td><td>罐/元</td><td>40</td><td>69</td><td>红豆</td><td>斤</td><td>斤/元</td><td>6</td></tr>
+  <tr><td>19</td><td>东古精制白醋</td><td>10kg/桶</td><td>桶/元</td><td>31</td><td>70</td><td>陈皮</td><td>斤</td><td>斤/元</td><td>12</td></tr>
+  <tr><td>20</td><td>美嘉成白醋</td><td>620g/瓶</td><td>瓶/元</td><td>2.5</td><td>71</td><td>洪利萝卜丁</td><td>斤</td><td>斤/元</td><td>2.5</td></tr>
+  <tr><td>21</td><td>美嘉成大红浙醋</td><td>620g/瓶</td><td>瓶/元</td><td>3</td><td>72</td><td>龙口粉丝</td><td>斤</td><td>斤/元</td><td>6</td></tr>
+  <tr><td>22</td><td>美嘉成五柳菜</td><td>4.3kg/桶</td><td>桶/元</td><td>40</td><td>73</td><td>特辣椒粉</td><td>斤</td><td>斤/元</td><td>12.5</td></tr>
+  <tr><td>23</td><td>美嘉成茄汁</td><td>700g/瓶</td><td>瓶/元</td><td>3.5</td><td>74</td><td>辣椒粉</td><td>斤</td><td>斤/元</td><td>12.5</td></tr>
+  <tr><td>24</td><td>广合腐乳</td><td>335g/瓶</td><td>瓶/元</td><td>7.5</td><td>75</td><td>辣椒干</td><td>斤</td><td>斤/元</td><td>12.5</td></tr>
+  <tr><td>25</td><td>美嘉成酸梅酱</td><td>11.5kg/桶</td><td>桶/元</td><td>87</td><td>76</td><td>大碗面</td><td>箱</td><td>箱/元</td><td>27</td></tr>
+  <tr><td>26</td><td>橄榄菜</td><td>450g/罐</td><td>罐/元</td><td>12</td><td>77</td><td>紫菜</td><td>70g/包</td><td>包/元</td><td>1.8</td></tr>
+  <tr><td>27</td><td>红九九火锅料</td><td>400g/包</td><td>包/元</td><td>12.5</td><td>78</td><td>菜干</td><td>斤</td><td>斤/元</td><td>12</td></tr>
+  <tr><td colspan="5">调味品</td><td colspan="5">早餐用品类</td></tr>
+  <tr><td>28</td><td>江门白酒</td><td>18kg/桶</td><td>桶/元</td><td>56</td><td>79</td><td>盛悦莲蓉</td><td>15kg/罐</td><td>罐/元</td><td>105</td></tr>
+  <tr><td>29</td><td>乌江榨菜</td><td>80g/包</td><td>包/元</td><td>1.8</td><td>80</td><td>盛悦豆沙</td><td>15kg/罐</td><td>罐/元</td><td>107</td></tr>
+  <tr><td>30</td><td>花雕酒</td><td>600g/瓶</td><td>瓶/元</td><td>8</td><td>81</td><td>麦芽糖</td><td>15kg/罐</td><td>罐/元</td><td>112</td></tr>
+  <tr><td>31</td><td>裕景沙姜粉</td><td>400g/包</td><td>包/元</td><td>7</td><td>82</td><td>蛋糕纸</td><td>条</td><td>条/元</td><td>152</td></tr>
+  <tr><td>32</td><td>绿湖胡椒粉</td><td>45g/包</td><td>包/元</td><td>6</td><td>83</td><td>椰蓉</td><td>斤</td><td>斤/元</td><td>9</td></tr>
+  <tr><td>33</td><td>恒星豆瓣酱</td><td>10kg/桶</td><td>桶/元</td><td>87</td><td>84</td><td>奶黄</td><td>斤</td><td>斤/元</td><td>17</td></tr>
+  <tr><td>34</td><td>裕景五香粉</td><td>400g/包</td><td>包/元</td><td>4.5</td><td>85</td><td>黄油</td><td>斤</td><td>斤/元</td><td>23</td></tr>
+  <tr><td>35</td><td>军杰剁椒</td><td>1.2kg/瓶</td><td>瓶/元</td><td>6.5</td><td>86</td><td>蛋糕油</td><td>3KG</td><td>桶/元</td><td>43</td></tr>
+  <tr><td>36</td><td>黎红花椒油</td><td>360ml/瓶</td><td>瓶/元</td><td>14.5</td><td>87</td><td>排米粉</td><td>斤</td><td>斤/元</td><td>4</td></tr>
+  <tr><td>37</td><td>斧头石粉</td><td>盒</td><td>盒/元</td><td>4.5</td><td>88</td><td>哈佳尚食肠粉王</td><td>22.5kg/袋</td><td>袋/元</td><td>106</td></tr>
+  <tr><td>38</td><td>蜂泉白糖</td><td>斤</td><td>斤/元</td><td>3.3</td><td>89</td><td>双喜泡打粉</td><td>2.7kg</td><td>罐/元</td><td>52</td></tr>
+  <tr><td>39</td><td>郊边白冰糖</td><td>斤</td><td>斤/元</td><td>4.5</td><td>90</td><td>双燕酵母*20</td><td>500克/包</td><td>包/元</td><td>20</td></tr>
+  <tr><td>40</td><td>北极熊生粉</td><td>50斤/袋</td><td>斤/元</td><td>1.9</td><td>91</td><td>成村枧水</td><td>罐</td><td>罐/元</td><td>11</td></tr>
+  <tr><td>41</td><td>益力味精</td><td>50斤/袋</td><td>袋/元</td><td>218</td><td>92</td><td>煲汤袋</td><td>个</td><td>个/元</td><td>2.5</td></tr>
+  <tr><td>42</td><td>罗定豆豉</td><td>4kg/包</td><td>包/元</td><td>23.5</td><td>93</td><td>珍诚味椒盐</td><td>250g/袋</td><td>袋/元</td><td>4.5</td></tr>
+  <tr><td>43</td><td>郊边冰片糖</td><td>10斤</td><td>斤/元</td><td>4.2</td><td>94</td><td>安琪面包改良剂</td><td>1KG/袋</td><td>袋/元</td><td>28</td></tr>
+  <tr><td>44</td><td>狮牌吉士粉</td><td>300g/瓶</td><td>瓶/元</td><td>7</td><td>95</td><td>安多夫嫩肉粉</td><td>453.6/瓶</td><td>瓶/元</td><td>13</td></tr>
+  <tr><td>45</td><td>麦芽糖</td><td>250g/瓶</td><td>瓶/元</td><td>17</td><td>96</td><td>鸿禧腐竹</td><td>斤</td><td>斤/元</td><td>12</td></tr>
+  <tr><td colspan="5"></td><td>97</td><td>太湖支竹</td><td>斤</td><td>斤/元</td><td>12</td></tr>
+  <tr><td colspan="5">粮油类</td><td colspan="5">杂货</td></tr>
+  <tr><td>46</td><td>大米（雪花）</td><td></td><td></td><td></td><td>98</td><td>饭盒</td><td>sk-11</td><td>条</td><td>18</td></tr>
+  <tr><td>47</td><td>福掌柜食用油</td><td></td><td></td><td></td><td>99</td><td>筷子（一次性）</td><td>75扎</td><td>袋</td><td>152</td></tr>
+  <tr><td>48</td><td>东方高筋面粉</td><td>25kg/袋</td><td>袋/元</td><td>130</td><td>100</td><td>漂白水</td><td>20kg</td><td>斤</td><td>27</td></tr>
+  <tr><td>49</td><td>东方低筋面粉</td><td>25kg/袋</td><td>袋/元</td><td>112</td><td>101</td><td>一次性手套</td><td></td><td>盒/元</td><td>12</td></tr>
+  <tr><td>50</td><td>芝麻油</td><td>750g</td><td>瓶/元</td><td>21</td><td>102</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>51</td><td>干海带</td><td>斤</td><td>斤/元</td><td>8.5</td><td colspan="5"></td></tr>
+</table>
+<p>备注：以上单价含3%普通发票，包送货、卸货。</p>
+<p>审批/日期：</p>

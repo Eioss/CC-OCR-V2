@@ -1,0 +1,105 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <td colspan="8" style="font-size: 24px; font-weight: bold; padding: 10px;">作业检查情况记录表</td>
+  </tr>
+  <tr>
+    <td colspan="8" style="font-size: 18px; text-align: right; padding-right: 20px;">八道沟镇中心小学校</td>
+  </tr>
+  <tr>
+    <td>任课<br>教师</td>
+    <td></td>
+    <td>任教<br>学科</td>
+    <td></td>
+    <td>任教<br>班级</td>
+    <td></td>
+    <td>班级<br>人数</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>作业<br>类型</td>
+    <td colspan="4"></td>
+    <td>作业<br>本数</td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="5">检查内容及要求</td>
+    <td>分值</td>
+    <td>得分</td>
+    <td>备注</td>
+  </tr>
+  <tr>
+    <td rowspan="3">学生<br>作业<br>情况<br>(30分)</td>
+    <td colspan="4">作业本封面整洁、统一格式、填写规范。</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">作业本上交齐全、无破损、保管整齐。</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">学生字迹工整、书写规范、作业统一用<br>笔（五、六年级钢笔），质量较好。</td>
+    <td>20</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">作业<br>设计<br>情况<br>(20分)</td>
+    <td colspan="4">作业量布置适当、次数合理。</td>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">作业题型多样，有梯度、层次。</td>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="5">教师<br>批改<br>情况<br>(50分)</td>
+    <td colspan="4">能按照教学进度完成批改，批改次数与<br>教学进度符合。</td>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">批改细致，符号正确、规范，无错批、<br>漏批，无多题一批现象。</td>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">学生订正及时，教师能及时复批。</td>
+    <td>10</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">有批改等第，日期、字迹清楚，符合要<br>求。</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">教师批语数量适当，批语具有鼓励性及<br>指导性，有助于学生改进（作文有眉批、<br>总评）。</td>
+    <td>15</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>总 评</td>
+    <td colspan="7" style="height: 60px;"></td>
+  </tr>
+  <tr>
+    <td>检查日<br>期</td>
+    <td colspan="4"></td>
+    <td>综合得<br>分</td>
+    <td colspan="2"></td>
+  </tr>
+</table>
+```

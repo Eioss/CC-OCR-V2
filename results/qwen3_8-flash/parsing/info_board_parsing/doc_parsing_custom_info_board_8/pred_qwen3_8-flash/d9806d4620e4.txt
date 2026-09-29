@@ -1,0 +1,82 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1742_160_1859_306.jpg" alt="Image" width="5%" /></div>
+
+青岚省临澜州南桥岚原信息技术有限公司 出行提示表 / 景观维修工单
+负责人：何昊然 | 联系电话：13035204202
+
+https://example.com/doc-33932628
+
+<table border="1">
+  <tr>
+    <td rowspan="10">工单列表/验证记录</td>
+    <td colspan="4"><b>A. 系统工单/问题跟踪</b></td>
+    <td>文档编号 RB-613675</td>
+    <td>日期 2024-11-23</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>问题工单</b></td>
+    <td colspan="3"><b>影响评估</b></td>
+  </tr>
+  <tr>
+    <td><b>工单</b></td>
+    <td><b>模块</b></td>
+    <td><b>版本</b></td>
+    <td><b>影响</b></td>
+    <td><b>负责人</b></td>
+    <td><b>状态</b></td>
+  </tr>
+  <tr>
+    <td>IT-628528</td>
+    <td>登录</td>
+    <td>v1.8</td>
+    <td>一般</td>
+    <td>卫泽宇</td>
+    <td>处理中 ✓</td>
+  </tr>
+  <tr>
+    <td>IT-118708</td>
+    <td>接口</td>
+    <td>v1.8</td>
+    <td>一般</td>
+    <td>赵欣妍</td>
+    <td>(待确认)</td>
+  </tr>
+  <tr>
+    <td>IT-901234</td>
+    <td>支付</td>
+    <td>v1.9</td>
+    <td>严重</td>
+    <td>李明</td>
+    <td>已解决：<i>李</i></td>
+  </tr>
+  <tr>
+    <td colspan="6"><b>B. 验证与回滚记录</b></td>
+  </tr>
+  <tr>
+    <td><b>验证项</b></td>
+    <td><b>结果</b></td>
+    <td><b>回滚</b></td>
+    <td><b>复核</b></td>
+    <td colspan="2"><b>备注</b></td>
+  </tr>
+  <tr>
+    <td>数据一致</td>
+    <td>未通过</td>
+    <td>无需</td>
+    <td>严子航</td>
+    <td colspan="2"><i>留痕：</i>需复核</td>
+  </tr>
+  <tr>
+    <td>数据一致</td>
+    <td>复查中</td>
+    <td>已回滚</td>
+    <td>张若溪</td>
+    <td colspan="2"><i>留痕 OK ok</i></td>
+  </tr>
+  <tr>
+    <td>功能正常</td>
+    <td>通过</td>
+    <td>无需</td>
+    <td>王强</td>
+    <td colspan="2">存档</td>
+  </tr>
+</table>

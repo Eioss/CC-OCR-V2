@@ -1,0 +1,64 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr style="background-color: #333; color: white;">
+            <th style="text-align: left; padding: 8px;">Tipo de requerimiento</th>
+            <th style="padding: 8px;">Año 2015</th>
+            <th style="padding: 8px;">% de<br>oportunidad<br>2015</th>
+            <th style="padding: 8px;">Año 2016</th>
+            <th style="padding: 8px;">% de<br>oportunidad<br>2016</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Derechos de petición</td>
+            <td style="padding: 8px;">5988</td>
+            <td style="padding: 8px;">91%</td>
+            <td style="padding: 8px;">30944</td>
+            <td style="padding: 8px;">78%</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Derechos de petición de consulta</td>
+            <td style="padding: 8px;">2803</td>
+            <td style="padding: 8px;">95%</td>
+            <td style="padding: 8px;">2572</td>
+            <td style="padding: 8px;">97%</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Derechos de petición de información</td>
+            <td style="padding: 8px;">196</td>
+            <td style="padding: 8px;">86%</td>
+            <td style="padding: 8px;">1520</td>
+            <td style="padding: 8px;">86%</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Quejas</td>
+            <td style="padding: 8px;">2034</td>
+            <td style="padding: 8px;">94%</td>
+            <td style="padding: 8px;">4818</td>
+            <td style="padding: 8px;">89%</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Reclamos</td>
+            <td style="padding: 8px;">25</td>
+            <td style="padding: 8px;">91%</td>
+            <td style="padding: 8px;">1248</td>
+            <td style="padding: 8px;">46%</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding: 8px;">Requerimientos</td>
+            <td style="padding: 8px;">167791</td>
+            <td style="padding: 8px;">92%</td>
+            <td style="padding: 8px;">172021</td>
+            <td style="padding: 8px;">95%</td>
+        </tr>
+        <tr style="font-weight: bold;">
+            <td style="text-align: left; padding: 8px;">TOTAL</td>
+            <td style="padding: 8px;">178837</td>
+            <td style="padding: 8px;">-</td>
+            <td style="padding: 8px;">213123</td>
+            <td style="padding: 8px;">-</td>
+        </tr>
+    </tbody>
+</table>
+```

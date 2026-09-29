@@ -1,0 +1,27 @@
+<table>
+  <tr>
+    <td>Type</td>
+    <td>Parametric form</td>
+    <td>Parameter range</td>
+  </tr>
+  <tr>
+    <td>Power exponential</td>
+    <td>C(t) = exp(−βt<sup>a</sup>)</td>
+    <td>0 &lt; a ≤ 1, β &gt; 0</td>
+  </tr>
+  <tr>
+    <td>Matérn</td>
+    <td>C(t) = (βt)<sup>a</sup>K<sub>a</sub>(βt)</td>
+    <td>0 &lt; a ≤ ½, β &gt; 0</td>
+  </tr>
+  <tr>
+    <td>Generalized Cauchy</td>
+    <td>C(t) = (βt<sup>a</sup> + 1)<sup>−ξ/a</sup></td>
+    <td>0 &lt; a ≤ 1, β, ξ &gt; 0</td>
+  </tr>
+  <tr>
+    <td>Dagum</td>
+    <td>C(t) = [1 − (βt<sup>a</sup> / (1 + βt<sup>a</sup>))<sup>ξ/a</sup>]</td>
+    <td>0 &lt; a ≤ 1, 0 &lt; ξ ≤ 1, β &gt; 0</td>
+  </tr>
+</table>

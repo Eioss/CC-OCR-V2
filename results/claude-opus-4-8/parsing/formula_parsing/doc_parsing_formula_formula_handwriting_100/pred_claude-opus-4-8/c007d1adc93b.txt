@@ -1,0 +1,17 @@
+$$\text{Tr}\left[(A_m \otimes A_n)R_{AB}\right] = \text{Tr}\left\{(A_m \otimes A_n)\left[(PA \otimes \tfrac{I}{2})E_{AB} + E_{AB}(PA \otimes \tfrac{I}{2})\right]\right\}$$
+
+$$= \frac{1}{2}\left[\text{Tr}\left((A_m P \otimes A_n)E_{AB}\right) + \text{Tr}\left((A_m \otimes A_n)E_{AB}(P \otimes I)\right)\right]$$
+
+$$= \frac{1}{2}\left[\sum_{ij}\text{Tr}\left(A_m P|i\rangle\langle i|\right)\text{Tr}\left(A_n \mathcal{E}_{A|B}(|i\rangle\langle i|)\right) + \sum_{ij}\text{Tr}\left(A_m|i\rangle\langle i|P\right)\text{Tr}\left(A_n \mathcal{E}_{A|B}(|i\rangle\langle i|)\right)\right]$$
+
+$$= \frac{1}{2}\left[\sum_{ij}\langle i|(A_m P + PA_m)|i\rangle\text{Tr}\left(A_n \mathcal{E}_{A|B}(|i\rangle\langle i|)\right)\right]$$
+
+$$= \frac{1}{2}\left[\sum_{ij}\langle i|(A_m P + PA_m)|i\rangle\langle i|\text{Tr}\left(A_n \sum_k V_k|i\rangle\langle i|V_k^\dagger\right)\right]$$
+
+$$= \frac{1}{2}\left[\sum_{ij}\langle i|(A_m P + PA_m)|i\rangle\langle i|\sum_k V_k^\dagger A_n V_k|i\rangle\right]$$
+
+$$= \frac{1}{2}\text{Tr}\left[\sum_{ij}|i\rangle\langle i|(A_m P + PA_m)\sum_k V_k^\dagger A_n V_k\right]$$
+
+$$= \frac{1}{2}\text{Tr}\left[(A_m P + PA_m)\mathcal{E}_{A|B}^\dagger(A_n)\right]$$
+
+$$= \langle A_m A_n \rangle_{seq}$$

@@ -1,0 +1,72 @@
+<table>
+  <tr>
+    <td colspan="5">风险点</td>
+    <td colspan="2">作业步骤</td>
+    <td colspan="3">排查内容与排查标准</td>
+    <td colspan="2">日常检查</td>
+    <td>专项检查</td>
+    <td colspan="2">综合性检查</td>
+  </tr>
+  <tr>
+    <td>编号</td>
+    <td>类型</td>
+    <td>名称</td>
+    <td>风险等级</td>
+    <td>责任单位</td>
+    <td>序号</td>
+    <td>名称</td>
+    <td>危险源或潜在事件</td>
+    <td colspan="2">管控措施</td>
+    <td>班中巡查</td>
+    <td>班中交接</td>
+    <td>专业检查</td>
+    <td>部门级检查</td>
+    <td>公司级检查</td>
+  </tr>
+  <tr>
+    <td rowspan="7">1</td>
+    <td rowspan="7">操作及作业活动</td>
+    <td rowspan="7">临时用电作业</td>
+    <td rowspan="7">III</td>
+    <td rowspan="7">班组</td>
+    <td rowspan="5">1</td>
+    <td rowspan="5">作业前</td>
+    <td rowspan="5">不按规定要求办理《临时用电审批》，乱接电源。</td>
+    <td>工程技术措施</td>
+    <td></td>
+    <td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>管理措施</td>
+    <td>不按规定要求办理《临时用电审批》，乱接电源的，严格执行《临时用电作业审批制度》。</td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>培训教育措施</td>
+    <td>1、车间每季度至少组织安全培训一次，培训班组安全操作规程、安全制度；3、新员工入职进行安全教育；4、定期参加公司组织的安全培训。</td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>个体防护措施</td>
+    <td>现场施工人员要正确使用个人防护用品，施工人员应穿戴工作服、绝缘手套、绝缘鞋。</td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>应急处置措施</td>
+    <td>发现不符合要求的情况，应立即停止作业，并按应急处置要求处理。</td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">2</td>
+    <td rowspan="2">作业过程控制</td>
+    <td rowspan="2">电源线路绝缘不良，电工个人防护用品和器械不全或不当。</td>
+    <td>工程技术措施</td>
+    <td></td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>管理措施</td>
+    <td>电源线路绝缘不良，电工个人防护用品佩戴不全或不当，严格落实执行《临时用电作业管理制度》。</td>
+    <td></td><td>√</td><td></td><td></td><td></td>
+  </tr>
+</table>

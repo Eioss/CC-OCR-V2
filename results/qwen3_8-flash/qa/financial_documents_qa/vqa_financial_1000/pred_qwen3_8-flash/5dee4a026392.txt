@@ -1,0 +1,12 @@
+Based on the provided hotel bill, let's find the room charge for **11/28/60**.
+
+1.  Locate the column labeled **"DATE"** at the top of the table.
+2.  Find the entry **"11/28/60"** in that row. This is the first date column.
+3.  Look down this column to the row labeled **"ROOM"**.
+4.  The handwritten number in that cell is **8.50**.
+
+Additionally, you can see this amount confirmed elsewhere:
+*   In the header section, next to "ROBERT E", there is a handwritten "8.50" (with "14.00" crossed out above it).
+*   The total charges for the stay are calculated based on these daily rates.
+
+Therefore, the room charge for 11/28 was **$8.50**.

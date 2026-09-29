@@ -1,0 +1,7 @@
+Based on the provided hotel bill, let's locate the room charge for December 1st (12-1).
+
+1.  Find the column labeled **"12-1"** under the "DATE" row.
+2.  Follow that column down to the row labeled **"ROOM"**.
+3.  The value in that cell is **8 50**, which represents $8.50.
+
+Therefore, the room charge for 12/1 was **$8.50**.

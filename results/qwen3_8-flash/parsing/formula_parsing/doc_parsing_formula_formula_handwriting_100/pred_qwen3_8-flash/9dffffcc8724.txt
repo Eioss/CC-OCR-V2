@@ -1,0 +1,9 @@
+$$P _ { n } - P _ { n } ^ { 0 } = \frac { 1 } { 2 \pi i } \int _ { C _ { n } } ( R ( \lambda ) - R ^ { 0 } ( \lambda ) ) d \lambda ,$$
+
+$$f _ { j } ^ { - } = \operatorname* { m i n } _ { x \in [ 1 , j ] } f ( x ) , f _ { j } ^ { + } = \operatorname* { m a x } _ { x \in [ 1 , j ] } f ( x ) , j = 1 , \cdots , n _ { 0 } , \forall f \in C ( [ 1 , n ] ) .$$
+
+$$\partial _ { i } ( \partial _ { j } ( x e _ { k } ) ) = \partial _ { i } ( D _ { j } ( x ) e _ { k } + \delta _ { j } ( x ) e _ { k + j } )$$
+
+$$S \equiv \int _ { 0 } ^ { \infty } r d \tau e ^ { \frac { i } { \hbar } \hat { H } _ { e f f } ^ { \dagger } \tau } \hat { V } e ^ { - \frac { i } { \hbar } \hat { H } _ { e f f } \tau } = \varkappa$$
+
+$$\begin{array} { l } { { \displaystyle \Phi _ { i n } ( \beta _ { H A } , \beta _ { V A } , \beta _ { H B } , \beta _ { V B } ) = \exp \left[ \frac { - \operatorname { t a n h } ^ { 2 } x \left| \beta _ { V A } \right| ^ { 2 } + \operatorname { t a n h } ^ { 2 } x \left| \beta _ { H B } \right| ^ { 2 } - \operatorname { t a n h } x \left( \beta _ { V A } \beta _ { H B } + \beta _ { V A } ^ { * } \beta _ { H B } ^ { * } \right) } { 1 - \operatorname { t a n h } ^ { 4 } x } \right] } } \\ { { \displaystyle ~ \times \exp \left[ \frac { - \operatorname { t a n h } ^ { 2 } x \left| \beta _ { H A } \right| ^ { 2 } + \operatorname { t a n h } ^ { 2 } x \left| \beta _ { V B } \right| ^ { 2 } + \operatorname { t a n h } x \left( \beta _ { H A } \beta _ { V B } + \beta _ { H A } ^ { * } \beta _ { V B } ^ { * } \right) } { 1 - \operatorname { t a n h } ^ { 4 } x } \right] . } } \end{array}$$

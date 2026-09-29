@@ -1,0 +1,152 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage[margin=1in]{geometry}
+
+\newcommand{\blank}{\rule{6cm}{0.4pt}}
+\newcommand{\shortblank}{\rule{4cm}{0.4pt}}
+
+\begin{document}
+
+\section*{\fbox{3} PRESENT CONTINUOUS}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\textbf{Form} & am, is, or are + verb + ing \\
+\hline
+\textbf{Use} & actions happening now, at the moment of speaking. \\
+\hline
+\textbf{Signal words} & now, at the moment, still, Look! Listen!... \\
+\hline
+\end{tabular}
+
+\subsection*{EXERCISE \textcircled{1} Find the signal words for present continuous.}
+
+\begin{enumerate}
+\item Which is a signal word for present continuous?\\
+last -- now -- every night
+\item Which is not a signal word for present continuous?\\
+now -- already -- still
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{2} Put these verbs in present continuous.}
+
+\begin{enumerate}
+\item They / play \(\dashrightarrow\) \blank
+\item Sara and Leila/ dance \(\dashrightarrow\) \blank
+\item I/ not, speak \(\dashrightarrow\) \blank
+\item He/ to sing \(\dashrightarrow\) \blank
+\item David / not, to write \(\dashrightarrow\) \blank
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{3} Put the following verbs in the correct tense.}
+
+\begin{enumerate}
+\item Now, it (rain) heavily outside. \blank
+\item She (not, speak) French at the moment. \blank
+\item Many people (still, fight) against poverty\\
+in Africa. \blank
+\item Mark's children (to play) video games at the moment. \blank
+\item (Sandra, to do) her homework now? \blank
+\end{enumerate}
+
+\section*{\fbox{4} PAST CONTINUOUS}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\textbf{Form} & was or were + verb + ing \\
+\hline
+\textbf{Use} & For actions which were in progress in the past. \\
+\hline
+\textbf{Signal words} & when, while + long action in the past \\
+\hline
+\end{tabular}
+
+\subsection*{EXERCISE \textcircled{1} Find the signal words for past continuous.}
+
+\begin{enumerate}
+\item Which is a signal word for past continuous?\\
+while - by next week - tomorrow
+\item Which is not a signal word for past continuous?\\
+next week -- when - while
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{2} Put these verbs in past continuous.}
+
+\begin{enumerate}
+\item She/ watch \(\dashrightarrow\) \blank
+\item They/ to play \(\dashrightarrow\) \blank
+\item It/ rain \(\dashrightarrow\) \blank
+\item Many students/ to work \(\dashrightarrow\) \blank
+\item He/ not, to drive \(\dashrightarrow\) \blank
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{3} Put the following verbs in the correct tense.}
+
+\begin{enumerate}
+\item Barbara (to do) her homework yesterday when I came in. \blank
+\item When I (write) the E-mail last time,\\
+Mary (to watch) TV. \blank
+\item I saw my teacher yesterday when I (wait) \blank\\
+for the bus.
+\item When Sandra (arrive) home yesterday, her father (not, to cook)\\
+lunch. \blank
+\item (Your brother, to play) the game when the\\
+computer crashed down? \blank
+\end{enumerate}
+
+\section*{\fbox{5} PRESENT PERFECT}
+
+\begin{tabular}{|p{3cm}|p{10cm}|}
+\hline
+\textbf{Form} & have or has + Past Participle \\
+\hline
+\textbf{Use} & For actions which started in the past and continued up to the present. \\
+\hline
+\textbf{Signal words} & just, already, yet, for, since, so far, recently, ever... \\
+\hline
+\end{tabular}
+
+\bigskip
+
+NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give
+more emphasis on the duration of the action. However, some verbs can't be
+used in the continuous form such as own, smell, need, belong, cost, agree,
+contain,... etc.
+
+\subsection*{EXERCISE \textcircled{1} Find the signal words for present perfect.}
+
+\begin{enumerate}
+\item Which is a signal word for present perfect?\\
+still -- usually -- since
+\item Which is not a signal word for present perfect?\\
+since -- before -- for
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{2} Put these verbs in present perfect.}
+
+\begin{enumerate}
+\item They/ to do \(\dashrightarrow\) \blank
+\item Jack / to publish \(\dashrightarrow\) \blank
+\item He/ not, to have \(\dashrightarrow\) \blank
+\item She/ to study \(\dashrightarrow\) \blank
+\item Mike and Lina / to have \(\dashrightarrow\) \blank
+\end{enumerate}
+
+\subsection*{EXERCISE \textcircled{3} Put the following verbs in the correct tense.}
+
+\begin{enumerate}
+\item He (just, phone) Sabrina; she is in\\
+Chicago now.
+\item I (buy, recently) a laptop to Louis.
+\item The maid (not, cook) the\\
+dinner yet.
+\item She (drive) this car for two hours.
+\item He (to be) in\\
+prison since 2003.
+\item (you, ever, read) Hemingway's novels?
+\end{enumerate}
+
+\end{document}
+```

@@ -1,0 +1,17 @@
+$$\widetilde{\gamma_0}(\zeta)(z,w) = \frac{z_0 + \overline{z_0}}{2} - \overline{z}_\alpha A z_\alpha = 0,$$
+
+$$\widetilde{\gamma_1}(\zeta)(z,w) = \frac{iw_0}{2} - i\overline{w_0} = 0,$$
+
+$$\widetilde{\gamma_2}(\zeta)(z,w) = (w_1 - 2w_0\partial_{z_1}\gamma(z)) + \left(\underline{w_1 - 2w_0\partial_{z_1}\gamma(z)}\right) = 0,$$
+
+$$\vdots$$
+
+$$\widetilde{\gamma_{n+1}}(\zeta)(z,w) = (w_n - 2w_0\partial_{z_n}\gamma(z)) + \left(\underline{w_n - 2w_0\partial_{z_n}\gamma(z)}\right) = 0,$$
+
+$$\vdots$$
+
+$$\widetilde{\gamma_{n+2}}(\zeta)(z,w) = i(w_1 - 2w_0\partial_{z_1}\gamma(z)) - i\left(\underline{w_1 - 2w_0\partial_{z_1}\gamma(z)}\right) = 0,$$
+
+$$\vdots$$
+
+$$\widetilde{\gamma_{2n+1}}(\zeta)(z,w) = i(w_n - 2w_0\partial_{z_n}\gamma(z)) - i\left(\underline{w_n - 2w_0\partial_{z_n}\gamma(z)}\right) = 0,$$

@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "09/10/2018",
+    "vendor_name": "Regional Reps",
+    "vendor_email": "djones@regionalreps.com",
+    "customer_billing_name": "Regional Reps",
+    "customer_billing_address": "6505 Rockside Road Suite 200 Cleveland, OH 44131",
+    "customer_other_name": "Regional Reps",
+    "customer_other_address": "6505 Rockside Road Suite 200 Cleveland, OH 44131",
+    "amount_total_gross": "516.00",
+    "amount_due": "516.00"
+}
+```

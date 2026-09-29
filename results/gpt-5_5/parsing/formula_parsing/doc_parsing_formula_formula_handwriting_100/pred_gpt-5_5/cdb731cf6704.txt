@@ -1,0 +1,60 @@
+\[
+T: W^{k,\psi}(\Omega,Cl_n)\to \widetilde W^{k-1,\psi,\psi}(\partial\Omega,Cl_n)
+\]
+
+\[
+I\le \sum_{j=0}^{\infty}2^{-jn+\varepsilon}
+\left\{
+\sum_{\substack{m_\ell:\,h_jm_\ell\le \frac13}}
+\int_{\partial Q_{j,m}}\left|P_{Q(x)}(x)\right|\,dx
+\right\}^{1+\varepsilon}
+\le
+\sum_{j=0}^{\infty}2^{-jn+\varepsilon}
+\left\{
+\int_{\mathbb R^n}h(x)P_{Q(x)}(x)\,dx
+\right\}^{1+\varepsilon}
+\le C.
+\]
+
+\[
+\begin{aligned}
+&\int_s^t E'(\tau)\int_{|\xi|>G(t)}
+\left|(1-\widehat{\phi}(\xi))\widehat{\omega}(\xi,\tau)\right|^2\,d\xi\,d\tau
+-2\int_s^t E(\tau)\int_{|\xi|>G(t)}
+|\xi|^2\left|(1-\widehat{\phi}(\xi))\widehat{\omega}(\xi,\tau)\right|^2\,d\xi\,d\tau \\
+&\le
+\int_s^t\left[E'(\tau)-2E(\tau)G^2(\tau)\right]
+\int_{|\xi|>G(t)}
+\left|(1-\widehat{\phi}(\xi))\widehat{\omega}(\xi,\tau)\right|^2\,d\xi\,d\tau
+=0.
+\end{aligned}
+\]
+
+\[
+F^{DG}_{[xy]}[D,S]
+=
+\chi_1\Delta S
++\chi_2\nabla S\cdot\left(\frac{\nabla P}{P}\right)
++\chi_3\frac{\Delta P}{P}
++\chi_4\left(\frac{\nabla P}{P}\right)^2
++\chi_5(\nabla S)^2.
+\]
+
+\[
+\frac1{|C|}\sum_{(i,j)\in C}x_{ij}
+>
+\frac{n^3-3n^2+n+2-(n-4)^2}{n^2-3n+4}
+=n-1.
+\]
+
+\[
+C_{p,f}(\ell^{\alpha_1},\ell^{\alpha_2})
+=
+\ell^{m\max\{\alpha_1,\alpha_2\}-1}
+\begin{cases}
+\ell-1-\left(\dfrac{p}{\ell}\right)-\left(\dfrac{p-1}{\ell}\right)^2,
+& \text{if }2\mid \alpha_1+\alpha_2,\\[6pt]
+-1-\left(\dfrac{p-1}{\ell}\right)^2,
+& \text{if }2\nmid \alpha_1+\alpha_2.
+\end{cases}
+\]

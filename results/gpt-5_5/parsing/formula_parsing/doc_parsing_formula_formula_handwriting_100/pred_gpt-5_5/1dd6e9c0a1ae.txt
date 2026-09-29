@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+&\beta_m^*\left\{
+\frac{E[(L(t-1))^2]E(T(t+m))-\rho^2E[T(L(t-1))]E(T(t+m))(1-E(T))}
+{E(T^2)E[(L(t-1))^2]-\rho^2E^2[T(L(t-1))]}
+\right.\\
+&\left.\qquad+
+\frac{\rho E(T^2)E[T(t+m)L(t-1)]-\rho E[T(L(t-1))]E(T(t+m))(1-E(T))}
+{E(T^2)E[(L(t-1))^2]-\rho^2E^2[T(L(t-1))]}
+-E(T(t+m))
+\right\}\\
+&+\beta_j^*\left\{
+\frac{\rho E[(L(t-1))^2]E[T(t+m)L(t-1)]-\rho E[T(L(t-1))]E[L(t-1)](1-E(T))}
+{E(T^2)E[(L(t-1))^2]-\rho^2E^2[T(L(t-1))]}
+\right.\\
+&\left.\qquad+
+\frac{E(T^2)E[(L(t-1))^2](1-E(T(t+m)))-\rho^2E[T(L(t-1))]E[T(t+m)L(t-1)](1-E(T))}
+{E(T^2)E[(L(t-1))^2]-\rho^2E^2[T(L(t-1))]}
+-(1-E(T(t+m)))
+\right\}\\
+&=\beta_m^*\left\{E(T)+0-E(T)\right\}
++\beta_j^*\left\{0+(1-E(T))-(1-E(T))\right\}\\
+&=0
+\end{aligned}
+\]

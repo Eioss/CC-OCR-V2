@@ -1,0 +1,25 @@
+```json
+{
+    "menu": [
+        {
+            "name": "5001-Corn Flakes Cookies",
+            "price": "Rp.56.000",
+            "num": "x1",
+            "total_price": "Rp.56.000"
+        },
+        {
+            "name": "5003-Chokoreto Cookies",
+            "price": "Rp.62.000",
+            "num": "x1",
+            "total_price": "Rp.62.000"
+        },
+        {
+            "name": "6002-Plastic Bag Medium",
+            "price": "Rp.0",
+            "num": "x1",
+            "total_price": "Rp.0"
+        }
+    ],
+    "total": "Rp.118.000"
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "10-9-18",
+    "vendor_name": "GLADES MEDIA RADIO GROUP",
+    "vendor_address": "210 W. North Park St., #102 Okeechobee, FL 34972",
+    "vendor_email": "dmhooker@okeechobee.com",
+    "customer_id": "8661",
+    "customer_billing_name": "Deborah M Hooker For County Court Judge",
+    "customer_billing_address": "600 South Parrott Ave Okeechobee, FL 34974-5136",
+    "amount_total_gross": "$2098",
+    "amount_due": "$2098",
+    "payment_terms": "Payment of account is due by the 20th of the month following the billing date."
+}
+```

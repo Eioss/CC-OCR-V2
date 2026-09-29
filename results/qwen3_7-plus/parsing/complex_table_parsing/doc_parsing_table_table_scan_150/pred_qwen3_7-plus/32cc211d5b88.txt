@@ -1,0 +1,358 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: right;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="5" style="text-align:center; font-size:1.2em;">UNITED CHURCH OF LUDLOW<br/>TREASURERS ANNUAL REPORT<br/>October 1, 2013 through September 30, 2014</th>
+   </tr>
+   <tr>
+    <td colspan="5"><b>PER BANK STATEMENT</b></td>
+   </tr>
+   <tr>
+    <td colspan="2">GENL FUND BAL OCT 1, 2013:</td>
+    <td>26,489.80</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="2">PERIOD INCOME:</td>
+    <td>69,997.82</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="2">PERIOD DISBURSEMENTS:</td>
+    <td>65,076.85</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="2">GENL FUND BAL SEPT 30, 2014</td>
+    <td>31,410.77</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="2">MINUS SPECIAL FUNDS:</td>
+    <td>1,748.25</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td colspan="2">FUNDS AVAILABLE SEPT 30</td>
+    <td>29,662.52</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <th rowspan="2">INCOME</th>
+    <th>ACTUAL<br/>10/12-9/13 YEAR</th>
+    <th>ACTUAL<br/>10/13-9/14 YEAR</th>
+    <th>BUDGET FY<br/>10/13-9/14</th>
+    <th>BUDGET PERCENT<br/>100%</th>
+   </tr>
+   <tr>
+    <td>CHURCH USAGE</td>
+    <td>690.00</td>
+    <td>925.00</td>
+    <td>500</td>
+    <td>185%</td>
+   </tr>
+   <tr>
+    <td>INTEREST</td>
+    <td>9.71</td>
+    <td>9.70</td>
+    <td>15</td>
+    <td>65%</td>
+   </tr>
+   <tr>
+    <td><b>OFFERINGS</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Estimates of Giving</td>
+    <td>42,323.00</td>
+    <td>40,824.00</td>
+    <td>38,800</td>
+    <td>105%</td>
+   </tr>
+   <tr>
+    <td>Other Giving</td>
+    <td>21,749.00</td>
+    <td>21,345.00</td>
+    <td>19,750</td>
+    <td>108%</td>
+   </tr>
+   <tr>
+    <td>Discretionary Fund</td>
+    <td>1,196.00</td>
+    <td>0.00</td>
+    <td>100</td>
+    <td>0%</td>
+   </tr>
+   <tr>
+    <td>Sunday School</td>
+    <td>4.00</td>
+    <td>22.00</td>
+    <td>10</td>
+    <td>220%</td>
+   </tr>
+   <tr>
+    <td>Flower Fund</td>
+    <td>471.43</td>
+    <td>670.00</td>
+    <td>450</td>
+    <td>149%</td>
+   </tr>
+   <tr>
+    <td>Fund Raising</td>
+    <td>0.00</td>
+    <td>0.00</td>
+    <td>1,000</td>
+    <td>0%</td>
+   </tr>
+   <tr>
+    <td><b>Total BDGT INCOME:</b></td>
+    <td><b>66443.14</b></td>
+    <td><b>63795.70</b></td>
+    <td><b>60,625</b></td>
+    <td><b>105%</b></td>
+   </tr>
+   <tr>
+    <th colspan="5">DISBURSEMENTS</th>
+   </tr>
+   <tr>
+    <td><b>BENEVOLENCE/MISSIONS</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Mission Outreach</td>
+    <td>4,000.00</td>
+    <td>4,000.00</td>
+    <td>4,000</td>
+    <td>100%</td>
+   </tr>
+   <tr>
+    <td>Discretionary Fund</td>
+    <td>0.00</td>
+    <td>0.00</td>
+    <td>300</td>
+    <td>0%</td>
+   </tr>
+   <tr>
+    <td>Methodist Apportionment</td>
+    <td>192.00</td>
+    <td>181.00</td>
+    <td>200</td>
+    <td>91%</td>
+   </tr>
+   <tr>
+    <td>UCC Per Cap</td>
+    <td>1,005.96</td>
+    <td>1,060.38</td>
+    <td>1,025</td>
+    <td>103%</td>
+   </tr>
+   <tr>
+    <td><b>Total Benevolence/Missions:</b></td>
+    <td><b>5,197.96</b></td>
+    <td><b>5,241.38</b></td>
+    <td><b>5,525</b></td>
+    <td><b>95%</b></td>
+   </tr>
+   <tr>
+    <td><b>INSURANCE</b></td>
+    <td><b>6,801.00</b></td>
+    <td><b>7,208.00</b></td>
+    <td><b>7,000</b></td>
+    <td><b>103%</b></td>
+   </tr>
+   <tr>
+    <td><b>OVERHEAD</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Advertising &amp; PR</td>
+    <td>331.25</td>
+    <td>195.00</td>
+    <td>300</td>
+    <td>65%</td>
+   </tr>
+   <tr>
+    <td>Copy Machine</td>
+    <td>1,192.10</td>
+    <td>232.52</td>
+    <td>1,200</td>
+    <td>19%</td>
+   </tr>
+   <tr>
+    <td>Supplies &amp; Expenses</td>
+    <td>847.87</td>
+    <td>582.86</td>
+    <td>700</td>
+    <td>83%</td>
+   </tr>
+   <tr>
+    <td>Postage</td>
+    <td>135.00</td>
+    <td>49.00</td>
+    <td>150</td>
+    <td>33%</td>
+   </tr>
+   <tr>
+    <td><b>Total Overhead Expenses:</b></td>
+    <td><b>2,506.22</b></td>
+    <td><b>1,059.38</b></td>
+    <td><b>2,350</b></td>
+    <td><b>45%</b></td>
+   </tr>
+   <tr>
+    <td><b>PAYROLL &amp; BENEFITS</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Pastors Salary Package</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>Salary</td>
+    <td>19,662.00</td>
+    <td>20,112.00</td>
+    <td>21,000</td>
+    <td>96%</td>
+   </tr>
+   <tr>
+    <td>Housing Allowance</td>
+    <td>7,864.80</td>
+    <td>8,044.80</td>
+    <td>8,110</td>
+    <td>99%</td>
+   </tr>
+   <tr>
+    <td>Pnsn &amp; Dsblty Insurance</td>
+    <td>2,771.58</td>
+    <td>2,048.76</td>
+    <td>3,000</td>
+    <td>68%</td>
+   </tr>
+   <tr>
+    <td>Conference Costs</td>
+    <td>185.00</td>
+    <td>418.21</td>
+    <td>250</td>
+    <td>167%</td>
+   </tr>
+   <tr>
+    <td>Education</td>
+    <td>97.17</td>
+    <td>335.00</td>
+    <td>350</td>
+    <td>96%</td>
+   </tr>
+   <tr>
+    <td>Travel Allowance</td>
+    <td>1,829.40</td>
+    <td>1,288.00</td>
+    <td>1,800</td>
+    <td>72%</td>
+   </tr>
+   <tr>
+    <td><b>Total Pastors Package:</b></td>
+    <td><b>32,409.95</b></td>
+    <td><b>32,246.77</b></td>
+    <td><b>34,510</b></td>
+    <td><b>93%</b></td>
+   </tr>
+   <tr>
+    <td>Secretarial Services</td>
+    <td>3,932.50</td>
+    <td>3,852.00</td>
+    <td>4,350</td>
+    <td>89%</td>
+   </tr>
+   <tr>
+    <td>Organist Services</td>
+    <td>5,520.00</td>
+    <td>5,590.00</td>
+    <td>5,700</td>
+    <td>98%</td>
+   </tr>
+   <tr>
+    <td>Cleaning Services</td>
+    <td>1,587.50</td>
+    <td>1,350.00</td>
+    <td>1,700</td>
+    <td>79%</td>
+   </tr>
+   <tr>
+    <td>Supply Pastor</td>
+    <td>1,287.25</td>
+    <td>799.50</td>
+    <td>1,500</td>
+    <td>53%</td>
+   </tr>
+   <tr>
+    <td><b>Total Payroll &amp; Benefits:</b></td>
+    <td><b>44,737.20</b></td>
+    <td><b>43,838.27</b></td>
+    <td><b>47,760</b></td>
+    <td><b>92%</b></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

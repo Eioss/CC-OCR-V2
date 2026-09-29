@@ -1,0 +1,145 @@
+\[
+\textbf{SEQUENCE AND SERIES}\hfill 8.3
+\]
+
+\[
+\underline{\textbf{OBJECTIVE QUESTIONS}}
+\]
+
+**1.** If the sum of the first \(2n\) terms of the A.P. \(2,5,8,\ldots\) is equal to the sum of the first \(n\) terms of the A.P. \(57,59,61,\ldots\), then \(n\) equals
+
+\[
+\begin{array}{ll}
+(a)\ 10 & (b)\ 12\\
+(c)\ 11 & (d)\ 13
+\end{array}
+\]
+
+**2.** If \(x,y,z\) are three positive numbers in G.P. then
+\[
+\frac{1}{1+\ln x},\quad
+\frac{1}{1+\ln y},\quad
+\frac{1}{1+\ln z}
+\]
+are in
+
+\[
+\begin{array}{ll}
+(a)\ \text{A.P.} & (b)\ \text{G.P.}\\
+(c)\ \text{H.P.} & (d)\ \text{none of these}
+\end{array}
+\]
+
+**3.** Let \(a,b,c\) are in A.P. and \(a^2,b^2,c^2\) are in G.P. If \(a<b<c\) and \(a+b+c=\dfrac32\), then value of \(a\) is
+
+\[
+\begin{array}{ll}
+(a)\ \dfrac{1}{2\sqrt2} & (b)\ \dfrac{1}{2\sqrt3}\\[6pt]
+(c)\ \dfrac12-\dfrac{1}{\sqrt3} &
+(d)\ \dfrac12-\dfrac{1}{\sqrt2}
+\end{array}
+\]
+
+**4.** If \(1,\log_y x,\log_z y,-15\log_x z\) are in A.P., then
+
+\[
+\begin{array}{ll}
+(a)\ z^3=x & (b)\ x=y^{-1}\\
+(c)\ z^{-3}=y & (d)\ \text{all of these}
+\end{array}
+\]
+
+**5.** The sum to \(n\) terms of the series
+\[
+\frac23+\frac89+\frac{26}{27}+\frac{80}{81}+\cdots
+\]
+is equal to
+
+\[
+\begin{array}{ll}
+(a)\ 1-\left(\dfrac13\right)^n &
+(b)\ 2-\dfrac12\left(\dfrac23\right)^n\\[6pt]
+(c)\ n-n\left(\dfrac13\right)^n &
+(d)\ \text{none of these}
+\end{array}
+\]
+
+**6.** Let \(a_n\) be the \(n\)th term of a G.P. of positive integers. Let
+\[
+\sum_{n=1}^{100}a_{2n}=\alpha
+\quad\text{and}\quad
+\sum_{n=1}^{100}a_{2n+1}=\beta
+\]
+such that \(\alpha\ne\beta\). Thus common ratio of the G.P. is
+
+\[
+\begin{array}{ll}
+(a)\ \dfrac{\alpha}{\beta} & (b)\ \dfrac{\beta}{\alpha}\\[6pt]
+(c)\ \left(\dfrac{\alpha}{\beta}\right)^{1/2} &
+(d)\ \left(\dfrac{\beta}{\alpha}\right)^{1/2}
+\end{array}
+\]
+
+**7.** Let \(T_r\) be the \(r\)th term of an A.P. for \(r=1,2,3,\ldots\). If for some positive integers \(m,n\),
+\[
+T_m=\frac1n,\qquad T_n=\frac1m,
+\]
+then \(T_{mn}\) equals
+
+\[
+\begin{array}{ll}
+(a)\ \dfrac{1}{mn} & (b)\ \dfrac1m+\dfrac1n\\[6pt]
+(c)\ 1 & (d)\ 0
+\end{array}
+\]
+
+**8.** If \(a_1,a_2,\ldots,a_n\) are positive real numbers whose product is a fixed number \(c\), then the minimum value of \(a_1+a_2+\cdots+a_{n-1}+2a_n\) is
+
+\[
+\begin{array}{ll}
+(a)\ n(2c)^{1/n} & (b)\ (n+1)c^{1/n}\\
+(c)\ 2nc^{1/n} & (d)\ (n+1)(2c)^{1/n}
+\end{array}
+\]
+
+**9.** If the first term of an A.P. of consecutive integers is \(p^2+1\), then sum of \((2p+1)\) terms of this series can be expressed as
+
+\[
+\begin{array}{ll}
+(a)\ (p+1)^2 & (b)\ (2p+1)(p+1)^2\\
+(c)\ (p+1)^3 & (d)\ p^3+(p+1)^3
+\end{array}
+\]
+
+**10.** If \(x>1\) and
+\[
+\left(\frac1x\right)^a,\quad
+\left(\frac1x\right)^b,\quad
+\left(\frac1x\right)^c
+\]
+are in G.P., then \(a,b,c\) are in
+
+\[
+\begin{array}{ll}
+(a)\ \text{A.P.} & (b)\ \text{G.P.}\\
+(c)\ \text{H.P.} & (d)\ \text{none of these}
+\end{array}
+\]
+
+**11.** If the positive numbers \(a,b,c,d\) be in A.P., then \(abc,abd,bcd\) are
+
+\[
+\begin{array}{ll}
+(a)\ \text{not in A.P., G.P. and H.P.} & (b)\ \text{in A.P.}\\
+(c)\ \text{in G.P.} & (d)\ \text{in H.P.}
+\end{array}
+\]
+
+**12.** The sixth term of an A.P. is \(2\) and its common difference is greater than one. The value of the common difference of the progression so that the product of the first, fourth and fifth terms is greatest, is
+
+\[
+\begin{array}{ll}
+(a)\ \dfrac85 & (b)\ \dfrac23\\[6pt]
+(c)\ \dfrac58 & (d)\ \dfrac32
+\end{array}
+\]

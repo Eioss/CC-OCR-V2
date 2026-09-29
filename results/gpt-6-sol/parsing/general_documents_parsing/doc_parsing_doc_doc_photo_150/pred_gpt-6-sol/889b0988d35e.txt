@@ -1,0 +1,67 @@
+```latex
+\documentclass{ctexart}
+\usepackage{amsmath}
+\usepackage{array}
+\begin{document}
+
+\begin{center}
+{\LARGE 精密型盐雾试验机使用说明书}
+\end{center}
+
+用15度30度斜置。并按下“操作”按钮，压力桶和试验室同时加温，达到试验所需设定温度时自动停止加温。温度到达设定值后，设定好计时器，并按下“喷雾”和“计时”按钮开始试验。
+
+\noindent 5、设定试验温度
+
+\noindent ★按所需标准设定（按键“▽”为减少，按键“△”为增加）
+
+\begin{tabular}{llr}
+a. & 盐水试验：试验室温度 & \(35\,^\circ\mathrm{C}\)\\
+   & 饱和空气桶温度 & \(47\,^\circ\mathrm{C}\)\\
+b. & 腐蚀试验：试验室温度 & \(50\,^\circ\mathrm{C}\)\\
+   & 饱和空气桶温度 & \(63\,^\circ\mathrm{C}\)
+\end{tabular}
+
+\noindent B、设定试验时间：\(0.1\mathrm{S}\text{--}99\mathrm{H}\)
+
+\noindent （H:时 \qquad M:分 \qquad S:秒）\qquad
+按键“+”为增加 \qquad 按键“-”为减少（请参照定时器操作说明书）
+
+\noindent 按下电源操作按键，先行预温，到达设定温度。
+
+\medskip
+\noindent 6、测试时间
+
+测试时间可根据客户的要求或产品标准的规定进行设定。测试时间若设置的较长，应经常观察压力桶和盐水槽里的溶液是否过少，并即时添加相应的溶液。
+
+\medskip
+\noindent 7、试验条件：
+
+\begin{center}
+\begin{tabular}{lccc}
+项\quad 目 & 中性盐雾试验 NSS & 醋酸盐雾试验 AASS & 铜加速乙酸盐雾试验 CASS\\
+压缩空气压力（\(\mathrm{kgf/cm^2}\)） & \(1.00\pm0.01\) & \(1.00\pm0.01\) & \(1.00\pm0.01\)\\
+喷雾量（\(\mathrm{ml}/80\,\mathrm{cm^2}\cdot\mathrm{H}\)） & \(1.0\sim2.0\) & \(1.0\sim2.0\) & \(1.0\sim2.0\)\\
+配制溶液的PH值 & \(6.4\sim7.0\) & \(3.0\sim3.1\) & \(3.0\sim3.1\)\\
+试验室温度（℃） & \(35\pm1\,^\circ\mathrm{C}\) & \(35\pm1\,^\circ\mathrm{C}\) & \(50\pm1\,^\circ\mathrm{C}\)\\
+压力桶温度（℃） & \(47\pm1\,^\circ\mathrm{C}\) & \(47\pm1\,^\circ\mathrm{C}\) & \(63\pm1\,^\circ\mathrm{C}\)\\
+氯化钠溶液浓度（g/L） & \(50\pm5\) & \(50\pm5\) & \(50\pm5\)\\
+氯化铜浓度（g/L） & —— & —— & \(0.26\pm0.02\)
+\end{tabular}
+\end{center}
+
+\noindent 8、喷雾结果量：
+
+\noindent A、将空气加压之出气阀打开，压力调整为 \(2\,\mathrm{kg/cm^2}\) 一次压力。
+
+\noindent B、将喷雾阀调整 \(1\,\mathrm{kg/cm^2}\) 之压力，其压力可由压力表视之（顺时针增加，逆时针减少）二次压力。
+
+当喷雾量小于 \(1\,\mathrm{ml}/80\,\mathrm{cm^2}\cdot\mathrm{H}\) 或大于 \(2\,\mathrm{ml}/80\,\mathrm{cm^2}\cdot\mathrm{H}\)，可通过调节喷雾塔上方的白色锥形雾量调节器进行调整：锥形扩散器往上调，喷雾量加大；锥形扩散器往下调，喷雾量减少。调节锥形扩散器旋定，直至喷雾量在 \(1\sim2\,\mathrm{ml}/80\,\mathrm{cm^2}\cdot\mathrm{H}\) 之间。
+
+\medskip
+\noindent 9、试验完成后，取出试件，观察试验结果。依次关闭“计时”、“喷雾”、“操作”、“电源”等按钮，若长时间不用盐雾机，须将试验机中的盐水溶液以及试验室中的水清干。
+
+\medskip
+\noindent 10、试验中如有异常之现象，请参照功能异常判断表处理。
+
+\end{document}
+```

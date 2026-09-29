@@ -1,0 +1,225 @@
+I'll transcribe this class schedule table into HTML, preserving the merged cells and layout.
+
+```html
+<table border="1">
+  <tr>
+    <th>时间</th>
+    <th>安排</th>
+    <th>周一</th>
+    <th>周二</th>
+    <th>周三</th>
+    <th>周四</th>
+    <th>周五</th>
+  </tr>
+  <tr>
+    <td>08:50-09:00</td>
+    <td>课前准备</td>
+    <td colspan="5">升旗仪式</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第一节<br>09:00-09:40</td>
+    <td>学科</td>
+    <td>语文</td>
+    <td>语文</td>
+    <td>语文</td>
+    <td>语文</td>
+    <td>语文</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>语文园地五③</td>
+    <td>语文园地五④</td>
+    <td>课文15.古诗二首②</td>
+    <td>课文16.雷雨②</td>
+    <td>课文17.要是你在野外迷了路①</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>景洪春<br>上海市闵行区教育学院</td>
+    <td>景洪春<br>上海市闵行区教育学院</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+  </tr>
+  <tr>
+    <td>09:40-10:00</td>
+    <td>课间休息</td>
+    <td colspan="5">广播操</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第二节<br>10:00-10:40</td>
+    <td>学科</td>
+    <td>数学</td>
+    <td>数学</td>
+    <td>数学</td>
+    <td>英语</td>
+    <td>数学</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>三位数加减法的估算②</td>
+    <td>小练习（2）</td>
+    <td>轻与重①</td>
+    <td>M3U1 The four seasons②</td>
+    <td>轻与重②</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>赵怡韵<br>上海市静安区闸北实验小学</td>
+    <td>赵怡韵<br>上海市静安区闸北实验小学</td>
+    <td>唐晓霞<br>上海市金山区海棠小学</td>
+    <td>吴旻烨<br>上海市宝山区第二中心小学</td>
+    <td>唐晓霞<br>上海市金山区海棠小学</td>
+  </tr>
+  <tr>
+    <td>10:40-11:00</td>
+    <td>课间休息</td>
+    <td colspan="5">眼保健操</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第三节<br>11:00-11:40</td>
+    <td>学科</td>
+    <td>体育与健身</td>
+    <td>体育与健身</td>
+    <td>体育与健身</td>
+    <td>道德与法治</td>
+    <td>体育与健身</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>Happy保龄球①</td>
+    <td>Happy保龄球②</td>
+    <td>基本功（二）：弓马步组合①</td>
+    <td>9.小水滴的诉说①</td>
+    <td>运动项目介绍与欣赏（二）</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>陈立<br>上海市奉贤区育贤小学</td>
+    <td>陈立<br>上海市奉贤区育贤小学</td>
+    <td>王春花<br>上海市奉贤区光明学校</td>
+    <td>徐进<br>上海市第一师范学校附属小学</td>
+    <td>黄春燕<br>上海市金山区松隐小学</td>
+  </tr>
+  <tr>
+    <td>11:40-14:00</td>
+    <td>课间休息</td>
+    <td colspan="5">午休</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第四节<br>14:00-14:40</td>
+    <td>学科</td>
+    <td>英语</td>
+    <td>语文</td>
+    <td>语文</td>
+    <td>语文</td>
+    <td>语文</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>M3U1 The four seasons①</td>
+    <td>课文15.古诗二首①</td>
+    <td>课文16雷雨①</td>
+    <td>写字指导课</td>
+    <td>课文17.要是你在野外迷了路②</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>吴旻烨<br>上海市宝山区第二中心小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+    <td>平丽娜<br>上海市黄浦区曹光彪小学</td>
+  </tr>
+  <tr>
+    <td>14:40-15:00</td>
+    <td>课间休息</td>
+    <td colspan="5">广播操</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第五节<br>15:00-15:40</td>
+    <td>学科</td>
+    <td>道德与法治</td>
+    <td>唱游</td>
+    <td>美术</td>
+    <td>唱游</td>
+    <td>美术</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>8.安全地玩②</td>
+    <td>音乐乐园</td>
+    <td>千变万化的手套</td>
+    <td>听：杜鹃圆舞曲</td>
+    <td>我的小水壶</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>王晓燕<br>上海市静安区彭浦新村第一小学</td>
+    <td>董慧芳<br>上海市闸北田家炳小学</td>
+    <td>杨晓妤<br>上海体育职业学院附属小学</td>
+    <td>秦奕<br>上海市静安区闸北实验小学</td>
+    <td>杨晓妤<br>上海体育职业学院附属小学</td>
+  </tr>
+  <tr>
+    <td>15:40-16:00</td>
+    <td>课间休息</td>
+    <td colspan="5">眼保健操</td>
+  </tr>
+  <tr>
+    <td rowspan="3">第六节<br>16:00-16:40</td>
+    <td>学科</td>
+    <td>科教版自然</td>
+    <td>远东版自然</td>
+    <td>科学与技术</td>
+    <td>科教版自然</td>
+    <td>远东版自然</td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>湿地里的动植物</td>
+    <td>昆虫</td>
+    <td>磁性小车</td>
+    <td>环境变化对生物的影响①</td>
+    <td>蜘蛛和鼠妇</td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>俞巍<br>上海市浦东新区新时代小学</td>
+    <td>徐剑兰<br>上海市青浦瀚文小学</td>
+    <td>田嘉莹<br>上海理工大学附属小学</td>
+    <td>俞巍<br>上海市浦东新区新时代小学</td>
+    <td>徐剑兰<br>上海市青浦瀚文小学</td>
+  </tr>
+  <tr>
+    <td>16:40-17:00</td>
+    <td>课间休息</td>
+    <td colspan="5"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">第七节<br>17:00-17:40</td>
+    <td>学科</td>
+    <td>科学与技术</td>
+    <td></td>
+    <td></td>
+    <td>体育与健身</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>课题</td>
+    <td>磁冰箱贴</td>
+    <td></td>
+    <td></td>
+    <td>基本功（二）：弓马步组合②</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>执教</td>
+    <td>田嘉莹<br>上海理工大学附属小学</td>
+    <td></td>
+    <td></td>
+    <td>王春花<br>上海市奉贤区光明学校</td>
+    <td></td>
+  </tr>
+</table>
+```

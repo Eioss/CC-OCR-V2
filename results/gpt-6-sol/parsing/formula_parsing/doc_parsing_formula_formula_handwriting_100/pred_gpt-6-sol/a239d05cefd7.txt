@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+\tilde r_0(S)(z,w)
+&=\frac{z_\alpha+\bar z_\alpha}{2}-z_\alpha A z_\alpha=0,\\
+\tilde r_1(S)(z,w)
+&=\frac{w_\beta}{z_\beta}-z_\beta w_\beta=0,\\
+\tilde r_2(S)(z,w)
+&=\bigl(w_1-2w_\beta z_1r_{z_1}(z)\bigr)
++\overline{\bigl(w_1-2w_\beta z_1r_{z_1}(z)\bigr)}=0,\\
+&\vdots\\
+\tilde r_{n+1}(S)(z,w)
+&=\bigl(w_n-2w_\beta z_nr_{z_n}(z)\bigr)
++\overline{\bigl(w_n-2w_\beta z_nr_{z_n}(z)\bigr)}=0,\\
+\tilde r_{n+2}(S)(z,w)
+&=i\bigl(w_1-2w_\beta z_1r_{z_1}(z)\bigr)
+-i\overline{\bigl(w_1-2w_\beta z_1r_{z_1}(z)\bigr)}=0,\\
+&\vdots\\
+\tilde r_{2n+1}(S)(z,w)
+&=i\bigl(w_n-2w_\beta z_nr_{z_n}(z)\bigr)
+-i\overline{\bigl(w_n-2w_\beta z_nr_{z_n}(z)\bigr)}=0.
+\end{aligned}
+\]

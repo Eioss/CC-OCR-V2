@@ -1,0 +1,73 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\noindent Name: \underline{\hspace{5cm}} \hfill Grade/Section: \underline{\hspace{3cm}} \\
+Subject: English 8 \hfill Teacher: \underline{\hspace{5cm}} \hfill Score: \underline{\hspace{2cm}}
+
+\vspace{1em}
+
+\noindent Lesson: Quarter 2 Week 1 LAS 2 \\
+Activity Title: Interpreting Graphical Representation Found in Expository Texts \\
+Learning Target: Interpret graphical representation found in expository texts. \\
+Reference(s): SLM English 8, MELC (EN8SS-IIe-1.2) \\
+Writer: Bechiel Angelie Cañedo, T-I
+
+\vspace{1em}
+
+\noindent \textbf{Expository Texts} is a type of text that gives reliable and factual information about a certain topic and is usually comes with graphical representations to highlight important data to see the essential part directly.
+
+\vspace{1em}
+
+\noindent Observe and interpret the entries in the table then answer the questions that follow.
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+ & English & Science & Math & Filipino & Araling Panlipunan & Total \\
+\hline
+Grade 7 & 19 & 17 & 15 & 18 & 15 & 84 \\
+\hline
+Grade 8 & 18 & 20 & 14 & 20 & 17 & 89 \\
+\hline
+Grade 9 & 20 & 16 & 13 & 15 & 15 & 79 \\
+\hline
+Grade 10 & 15 & 16 & 10 & 18 & 19 & 78 \\
+\hline
+Grade 11 & 17 & 12 & 12 & 20 & 20 & 81 \\
+\hline
+Grade 12 & 12 & 15 & 15 & 17 & 17 & 76 \\
+\hline
+Over All Total & 101 & 96 & 79 & 108 & 103 & 487 \\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+Table 1. Number of Students per Grade Level who passed the subject
+\end{center}
+
+\vspace{1em}
+
+\begin{enumerate}
+    \item What is the title of the table? \underline{\hspace{10cm}}
+    \item What grade level has the highest passer in English? \underline{\hspace{10cm}}
+    \item What does the table suggests? \underline{\hspace{10cm}}
+    \item What are the data found in columns? \underline{\hspace{10cm}}
+    \item What are the data found in rows? \underline{\hspace{10cm}}
+    \item What grade level has the highest passer in Filipino? \underline{\hspace{10cm}}
+    \item What grade level has the lowest passer in Math? \underline{\hspace{10cm}}
+    \item How many passers are there in the Science subject? \underline{\hspace{10cm}}
+    \item What grade level has the lowest passer in Araling Panlipunan? \underline{\hspace{10cm}}
+    \item How many students passed the five subjects? \underline{\hspace{10cm}}
+\end{enumerate}
+
+\end{document}
+```

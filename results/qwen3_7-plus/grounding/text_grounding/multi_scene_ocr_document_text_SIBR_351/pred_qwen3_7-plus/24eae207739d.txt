@@ -1,0 +1,1 @@
+(879, 496, 925, 523) # x1, y1, x2, x2 are the normalized coordinates of the bounding box.

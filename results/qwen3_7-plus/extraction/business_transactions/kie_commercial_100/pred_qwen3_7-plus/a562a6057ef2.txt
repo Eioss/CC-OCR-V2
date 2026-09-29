@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "10/11/20",
+    "date_due": "10/11/2020",
+    "order_id": "729864",
+    "vendor_name": "KTKX-FM Cox Radio, Inc.",
+    "vendor_address": "PO Box 83198 Chicago IL 60691-0198",
+    "customer_billing_name": "National Media Research Planning & Placement LLC Attention: Accounts Payable",
+    "customer_billing_address": "815 Slaters Ln Alexandria VA 22314",
+    "amount_total_gross": "$12,600.00",
+    "amount_due": "$10,710.00",
+    "payment_terms": "Cash in Advance"
+}
+```

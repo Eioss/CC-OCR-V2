@@ -1,0 +1,46 @@
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <tr>
+        <td style="padding: 10px;">项目名称</td>
+        <td style="padding: 10px;">2021年道路维修<br>一期一标段</td>
+        <td style="padding: 10px;">施工范围</td>
+        <td style="padding: 10px;">千童大道</td>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">监理单位</td>
+        <td style="padding: 10px;"></td>
+        <td style="padding: 10px;">施工单位</td>
+        <td style="padding: 10px;">中安城投建设<br>有限公司</td>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">开工时间</td>
+        <td style="padding: 10px;"></td>
+        <td style="padding: 10px;">竣工时间</td>
+        <td style="padding: 10px;"></td>
+    </tr>
+    <tr>
+        <td style="padding: 10px; vertical-align: middle;">竣工报告<br><br>申请说明</td>
+        <td colspan="3" style="padding: 20px; text-align: left; vertical-align: top; height: 300px;">
+            <p>一、工程概况 &nbsp;&nbsp;&nbsp;&nbsp;<strong>千童大道</strong></p>
+            <br><br>
+            <p>二、工程现已完工，并自检、初验合格。申请沧州市市政设施管理中心组织竣工验收。</p>
+            <br><br><br><br><br>
+            <div style="display: flex; justify-content: space-between; padding: 0 50px;">
+                <span>监理单位盖章</span>
+                <span>施工单位盖章</span>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">申请单位</td>
+        <td colspan="2" style="padding: 10px;">中安城投建设有限公司</td>
+        <td style="padding: 10px;"></td>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">申请日期</td>
+        <td style="padding: 10px;">2022年5月7日</td>
+        <td style="padding: 10px;">联系方式</td>
+        <td style="padding: 10px;">150 3076 8706</td>
+    </tr>
+</table>
+```

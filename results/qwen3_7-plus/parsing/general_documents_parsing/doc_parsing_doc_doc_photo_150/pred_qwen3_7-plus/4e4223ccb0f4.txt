@@ -1,0 +1,58 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{center}
+    \Large{\textbf{NCERT Solutions for class 10 Maths}} \\
+    \large{\textbf{Chapter 1 - Real Numbers Ex-1.1}}
+\end{center}
+
+\hrulefill
+
+\vspace{1em}
+
+\noindent \textbf{1. Express each number as a product of its prime factors:}
+
+\begin{enumerate}[(i)]
+    \item 140 \\
+    Prime factors of $140 = 2, 2, 5, 7$ \\
+    \phantom{Prime factors of } $= 2^2 \times 5 \times 7$
+
+    \item 156 \\
+    Prime factors of $156 = 2 \times 2 \times 3 \times 13$ \\
+    \phantom{Prime factors of } $= 2^2 \times 3 \times 13$
+
+    \item 3825 \\
+    Prime factors of $3825 = 3 \times 3 \times 5 \times 5 \times 17$ \\
+    \phantom{Prime factors of } $= 3^2 \times 5^2 \times 17$
+
+    \item 5005 \\
+    Prime factors of $5005 = 5 \times 7 \times 11 \times 13$.
+
+    \item 7429 \\
+    Prime factors of $7429 = 17 \times 19 \times 23$
+\end{enumerate}
+
+\vspace{1em}
+\hrulefill
+\vspace{1em}
+
+\noindent \textbf{2. Find the LCM and HCF of the following pairs of integers and verify that LCM $\times$ HCF = Product of the two numbers}
+
+\begin{enumerate}[(i)]
+    \item 26 and 91 \\
+    Prime factors of $26 = 2 \times 13$ \\
+    Prime factors of $91 = 7 \times 13$ \\
+    HCF of 26 and $91 = 13$ \\
+    LCM of 26 and $91 = 2 \times 7 \times 13$ \\
+    \phantom{LCM of 26 and } $= 182$ \\[1em]
+    Product of two numbers $= 26 \times 91 = 2366$ \\
+    LCM $\times$ HCF $= 182 \times 13 = 2366$ \\
+    So, Product of two numbers = LCM $\times$ HCF
+\end{enumerate}
+
+\end{document}
+```

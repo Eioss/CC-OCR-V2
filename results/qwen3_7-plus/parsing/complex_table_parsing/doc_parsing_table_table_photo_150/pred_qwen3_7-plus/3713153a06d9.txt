@@ -1,0 +1,151 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"]
+                        }
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th>Case</th>
+     <th>Age</th>
+     <th>Sex</th>
+     <th>Side</th>
+     <th>AIS</th>
+     <th>ISS</th>
+     <th>Suicidal jump</th>
+     <th>Longitudinal displacement</th>
+     <th>Sacral transverse fracture</th>
+     <th>Type of pelvic fracture (AO)</th>
+     <th>Denis</th>
+     <th>Functional deficit (MMT)</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>1</td>
+     <td>55</td>
+     <td>M</td>
+     <td>lt</td>
+     <td>5</td>
+     <td>34</td>
+     <td>(-)</td>
+     <td>(+)</td>
+     <td>(-)</td>
+     <td>C</td>
+     <td>(-)</td>
+     <td>IP 3, Quad 3, TA 3</td>
+    </tr>
+    <tr>
+     <td rowspan="2">2</td>
+     <td rowspan="2">62</td>
+     <td rowspan="2">M</td>
+     <td>rt</td>
+     <td rowspan="2">5</td>
+     <td rowspan="2">25</td>
+     <td rowspan="2">(-)</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">(-)</td>
+     <td rowspan="2">C</td>
+     <td rowspan="2">Zone I</td>
+     <td rowspan="2">Quad 3, TA 3</td>
+    </tr>
+    <tr>
+     <td>rt</td>
+    </tr>
+    <tr>
+     <td rowspan="2">3</td>
+     <td rowspan="2">31</td>
+     <td rowspan="2">F</td>
+     <td>rt</td>
+     <td rowspan="2">5</td>
+     <td rowspan="2">34</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">B</td>
+     <td rowspan="2">Zone II</td>
+     <td rowspan="2">Quad 0, TA 0</td>
+    </tr>
+    <tr>
+     <td>lt</td>
+    </tr>
+    <tr>
+     <td rowspan="3">4</td>
+     <td rowspan="3">37</td>
+     <td rowspan="3">F</td>
+     <td>rt</td>
+     <td rowspan="3">5</td>
+     <td rowspan="3">29</td>
+     <td rowspan="3">(+)</td>
+     <td rowspan="3">(+)</td>
+     <td rowspan="3">(+)</td>
+     <td rowspan="3">C</td>
+     <td rowspan="3">Zone II</td>
+     <td rowspan="3">Quad 1, TA 1</td>
+    </tr>
+    <tr>
+     <td>lt</td>
+    </tr>
+    <tr>
+     <td>rt</td>
+    </tr>
+    <tr>
+     <td rowspan="2">5</td>
+     <td rowspan="2">25</td>
+     <td rowspan="2">F</td>
+     <td>rt</td>
+     <td rowspan="2">5</td>
+     <td rowspan="2">29</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">(+)</td>
+     <td rowspan="2">B</td>
+     <td rowspan="2">Zone II</td>
+     <td rowspan="2">Quad 2, TA 0</td>
+    </tr>
+    <tr>
+     <td>lt</td>
+    </tr>
+   </tbody>
+  </table>
+  <p>AIS: abbreviated injury score<br/>ISS: injury severity score<br/>MMT: manual muscle-testing scale<br/>IP: Iliopsoas muscle<br/>Quad: Quadriceps muscle</p>
+ </body>
+</html>
+
+```

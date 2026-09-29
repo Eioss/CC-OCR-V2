@@ -1,0 +1,25 @@
+Based on the image provided, here is the transcription of the text and equations into LaTeX format:
+
+\textbf{Graph each equation using the vertex formula. Include the intercepts. Determine the domain and range.}
+
+\begin{enumerate}
+    \setcounter{enumi}{92}
+    \item $x = -\frac{1}{2}y^2 - 3y - \frac{5}{2}$
+    \item $x = 3y^2 - 12y$
+\end{enumerate}
+
+\textbf{(9.7) Solve each inequality. Graph the solution set and write the solution in interval notation.}
+
+\begin{enumerate}
+    \setcounter{enumi}{94}
+    \item $a^2 + 2a - 3 < 0$
+    \item $4m^2 + 8m \ge 21$
+    \item $64v^2 \ge 25$
+    \item $36 - r^2 > 0$
+    \item $(5c + 2)(c - 4)(3c + 1) < 0$
+    \item $(p - 6)^2 \le -5$
+    \item $\frac{t + 7}{2t - 3} > 0$
+    \item $\frac{6}{g - 7} \le 0$
+    \item $\frac{z}{z - 2} \le 3$
+    \item $\frac{1}{n - 4} > -3$
+\end{enumerate}

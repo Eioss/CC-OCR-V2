@@ -1,0 +1,14 @@
+Based on the flowchart, if it is **before 10:30 AM** and you are **not a police officer**, here’s how to follow the path:
+
+1. Start at “Are you in Canada?” → Assume **No** (since we’re going down the non-Canada path).
+2. Then: “Is it before 10:30 AM?” → **Yes**
+3. Then: “Are you a police officer?” → **No**
+4. This leads directly to → **McDonald’s**
+
+✅ So, according to this chart, you should eat at **McDonald’s**.
+
+*(Note: If you were in Canada, the first question would lead you to Tim Hortons — but since you didn’t specify being in Canada, and the question implies following the “No” branch from there, McDonald’s is the answer.)*
+
+---
+
+**Final Answer: 🍔 McDonald’s**

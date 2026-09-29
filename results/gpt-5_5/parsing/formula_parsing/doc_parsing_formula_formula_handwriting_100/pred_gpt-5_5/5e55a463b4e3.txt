@@ -1,0 +1,32 @@
+\[
+\begin{gathered}
+\|f(t,\cdot)\|_{H^{\mu-1}}
+\le C_\varepsilon A\|u(t,\cdot)\|_{H^{\mu-1+\varepsilon}}
++\|\nabla(u-R)(t,\cdot)\|_{H^{\mu-1}},\\[4pt]
+J=\{(k,S_i):i\in K\},\\[4pt]
+\langle \Phi^u,u\rangle\le \langle \Phi^u,v\rangle,\\[4pt]
+R_{i;k}^{\lambda+1}
+=\frac{\alpha R_{i;k}^{\lambda}+\nu_i^k+A_{i;k}^{T}\omega_i^{\lambda,k}}
+{A_{i;k}^{T}A_{i;k}+1},
+\qquad k=1,\ldots,n,\\[4pt]
+\delta(D^2)(t,\Delta t,k,N)
+=(D)^2(t,\Delta t,k,N)+F(D(t,\Delta t,k,N))^3
+=\frac{f(t+\Delta t\,k)}{N},\\[4pt]
+K^*|x(t)-x^*|^2\le (f(x(t))-f^*)=d(t),\\[4pt]
+(R_b(\mu+i\varepsilon_i)f,\phi)
+=\int_{-\infty}^{\infty}
+\frac{e^{s/2}\Gamma(\mu+i e^s)}
+{e^{s/2}\Gamma(\mu+i e^s)}
+\overline{f(s)\phi(e^s)}\,ds\\
+=\int_{0}^{\infty}
+(2\lambda)^{(\alpha-m+1)/2}
+\frac{\partial^{m-1}}{\partial\lambda^{m-1}}
+e^{-\lambda t_i}f(\lambda)\overline{\phi(\lambda)}\,d\lambda,\\[4pt]
+I=\sup_{0\le x}P^{-1}_{B_{0\le\omega}}M_\theta f(y)\,dy,\\[4pt]
+\nu(B)+\nu(\beta+2(1-\eta))-2\nu(B_{r-1})
+\ge
+\ln\!\left(
+1+\frac{(r-\eta)^2}{(p-q+1)(p-q+1)(p+q+1)}
+\right).
+\end{gathered}
+\]

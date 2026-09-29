@@ -1,0 +1,27 @@
+```latex
+\begin{center}
+    A \\
+    \Huge{\textsc{DICTIONARY}} \\
+    LARGE{\textsc{ENGLISH, GERMAN AND FRENCH,}} \\
+    CONTAINING NOT ONLY \\
+    \LARGE{\textsc{THE ENGLISH WORDS}} \\
+    IN THEIR ALPHABETICAL ORDER, \\
+    TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS: \\
+    BUT ALSO \\
+    THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES, \\
+    IDIOMS, AND PROVERBS, \\
+    TAKEN FROM THE BEST NEW \\
+    \huge{\textsc{ENGLISH DICTIONARIES}} \\
+    {\footnotesize BY} \\
+    \Large{\textsc{Mr. CHRISTIAN LUDWIG.}} \\
+    \large{\textsc{SECOND EDITION}} \\
+    CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY \\
+    AUGMENTED. \\
+    
+    % Pegasus illustration placeholder
+    % [Image of a winged horse (Pegasus)]
+    
+    \large{\textsc{LEIPZIG AND FRANKFURT}} \\
+    \large{\textsc{M DCC XXXVI.}}
+\end{center}
+```

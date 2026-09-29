@@ -1,0 +1,15 @@
+$$\operatorname* { l i m } \supset a ( t _ { a } ( u a ) + \| u a \| ^ { 2 } H a ) < + \infty$$
+
+$$\overrightarrow { r } = \sum _ { m } p _ { m } ( \cos ( y _ { m } ) \overrightarrow { b } _ { m } + \sin ( y _ { m } ) \widehat { n } _ { m } \times \overrightarrow { b } _ { m } \\ + ( 1 - \cos ( y _ { m } ) ) \widehat { n } _ { m } \widehat { n } _ { m } . \overrightarrow { b } _ { m } ) .$$
+
+$$T \in T _ { 7 } , T _ { t } , T _ { s e p } , o r T _ { g }$$
+
+$$\left\{ \begin{array} { l l } { \int _ { \Omega } z _ { h } \cdot w _ { h } - \int _ { \Omega } p _ { h } \nabla \cdot w _ { h } = \int _ { \Omega } v \cdot w _ { h } , } & { \forall w _ { h } \in X _ { h } , } \\ { \int _ { \Omega } q _ { h } \nabla \cdot z _ { h } = \int _ { \Omega } q _ { h } \nabla \cdot v , } & { \forall q _ { h } \in M _ { h } \cdot } \end{array} \right.$$
+
+$$\sigma _ { 1 } ( 5 , n ) = \int \limits _ { 0 } ^ { \xi } \int \limits _ { 0 } ^ { n } \sigma _ { 1 } ^ { n } ( x + y ) d y d x \leq \sigma ( 0 ) \zeta n , \qquad ( 5 , n ) \in ( 0 , \infty ) ^ { 2 }$$
+
+$$< ( S _ { n } , ( t _ { 0 } , n , t _ { 1 } , n ) ) | n < 8 >$$
+
+$$D _ { t } ^ { \alpha } f ( t ) : = \frac { d } { d t } ( g _ { 1 - \alpha } * f ) ( t ) = \frac { d } { d t } \int _ { 0 } ^ { t } g _ { 1 - \alpha } ( t - T ) f ( T ) d T .$$
+
+$$\int _ { \pi } \ln \frac { E } { \vert x - y \vert } \zeta ( y ) d y = \int _ { \vert x - y \vert \leq R \in } \ln \frac { E } { \vert x - y \vert } \zeta ( y ) d y + \int _ { \vert x - y \vert \geq R \in } \ln \frac { E } { \vert x - y \vert } \zeta ( y ) d y ,$$

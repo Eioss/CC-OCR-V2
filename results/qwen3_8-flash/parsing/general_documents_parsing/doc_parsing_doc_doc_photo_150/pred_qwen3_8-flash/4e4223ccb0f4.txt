@@ -1,0 +1,41 @@
+```latex
+\noindent \textbf{NCERT Solutions for Class 10 Maths} \\
+\underline{\underline{Chapter 1 - Real Number Ex-1.1}}
+
+\begin{enumerate}
+    \item Express each number as a product of its prime factors:
+    \begin{enumerate}[label=(\roman*)]
+        \item $140$ \\
+        Prime factors of $140 = 2, 2, 5, 7$ \\
+        $\hspace*{3.8cm} = 2^2 \times 5 \times 7$
+        
+        \item $156$ \\
+        Prime factors of $156 = 2 \times 2 \times 3 \times 13$ \\
+        $\hspace*{3.8cm} = 2^2 \times 3 \times 13$
+        
+        \item $3825$ \\
+        Prime factors of $3825 = 3 \times 3 \times 5 \times 5 \times 17$ \\
+        $\hspace*{3.8cm} = 3^2 \times 5^2 \times 17$
+        
+        \item $5005$ \\
+        Prime factors of $5005 = 5 \times 7 \times 11 \times 13$.
+        
+        \item $7429$ \\
+        Prime factors of $7429 = 17 \times 19 \times 23$
+    \end{enumerate}
+
+    \item Find the LCM and HCF of the following pairs of integers and verify that $\text{LCM} \times \text{HCF} = \text{product of the two numbers}$
+    
+    \begin{enumerate}[label=(\roman*)]
+        \item $26$ and $91$ \\
+        Prime factors of $26 = 2 \times 13$ \\
+        Prime factors of $91 = 7 \times 13$ \\
+        HCF of $26$ and $91 = 13$ \\
+        LCM of $26$ and $91 = 2 \times 7 \times 13$ \\
+        $\hspace*{4.2cm} = 182$ \\[1em]
+        Product of two numbers $= 26 \times 91 = 2366$ \\
+        $\text{LCM} \times \text{HCF} = 182 \times 13 = 2366$ \\[0.5em]
+        So, $\text{Product of two numbers} = \text{LCM} \times \text{HCF}$
+    \end{enumerate}
+\end{enumerate}
+```

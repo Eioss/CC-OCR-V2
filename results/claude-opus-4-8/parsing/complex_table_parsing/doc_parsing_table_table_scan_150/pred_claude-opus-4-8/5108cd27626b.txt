@@ -1,0 +1,145 @@
+<table>
+<tr>
+<td rowspan="2">科 名</td>
+<td rowspan="2">种 名</td>
+<td colspan="7">省份或地区</td>
+</tr>
+<tr>
+<td>海南</td>
+<td>香港</td>
+<td>澳门</td>
+<td>广东</td>
+<td>广西</td>
+<td>台湾</td>
+<td>福建</td>
+</tr>
+<tr>
+<td rowspan="2">1 Acrostichaceae</td>
+<td>1.卤蕨 Acrostichum aureum</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>2 尖叶卤蕨 A. speciosum</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2. Apocynaceae</td>
+<td>3 海芒果 Cerbera manghas</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>3. Bignoniaceae</td>
+<td>4 海滨猫尾木 Dolichandron spathacea</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4. Compositae</td>
+<td>5.阔苞菊 Pluchea indica</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>5 Hernandiaceae</td>
+<td>6 莲叶桐 Hernandia sonora</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6 Leguminosae</td>
+<td>7.水黄皮 Pongamia pinnata</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>7 Lythraceae</td>
+<td>8 水芫花 Pemphis acidula</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">8. Malvaceae</td>
+<td>9 黄槿 Hibiscus tiliaceus</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>10 杨叶肖槿 Thespesia populnea</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td>9. Verbenaceae</td>
+<td>11.钝叶臭黄荆 Premna obtusifolia</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">总 计</td>
+<td>11</td>
+<td>2</td>
+<td>1</td>
+<td>8</td>
+<td>5</td>
+<td>8</td>
+<td>2</td>
+</tr>
+</table>

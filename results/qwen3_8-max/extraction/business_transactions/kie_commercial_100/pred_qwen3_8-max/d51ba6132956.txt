@@ -1,0 +1,14 @@
+```json
+{
+    "vendor_name": "KHBM FM PINES BROADCASTING, INC.",
+    "vendor_address": "279 MIDWAY ROUTE MONTICELLO , AR 71655",
+    "customer_id": "829",
+    "customer_billing_name": "LESLIE RUTLEDGE FOR ATTORNEY GENERAL REGIONAL REPS",
+    "customer_billing_address": "6505 ROCKSIDE ROAD SUITE 200 CLEVELAND, OH 44131",
+    "amount_total_net": "$18.06",
+    "amount_total_gross": "$21.25",
+    "amount_due": "$18.06",
+    "tax_detail_net": "",
+    "tax_detail_gross": ""
+}
+```

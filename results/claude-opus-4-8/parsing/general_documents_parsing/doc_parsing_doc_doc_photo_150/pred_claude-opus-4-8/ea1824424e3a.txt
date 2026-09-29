@@ -1,0 +1,44 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\noindent\small{Candidate Statement of Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{4em}}ll@{}}
+\textbf{Season:} & Summer Season 2019 & \textbf{Series:} & (All) \\[0.5em]
+\textbf{Name:} & Anisha \rule{2cm}{0.4em} & \textbf{Year:} & 11 \\[0.5em]
+\textbf{Cand} & \rule{2cm}{0.4em} & & \\[0.5em]
+\textbf{UCI:} & \rule{3cm}{0.4em} & & \\
+\end{tabular}
+
+\vspace{1em}
+
+\noindent{\Large\textbf{Exam Results}}
+
+\vspace{0.5em}
+
+\begin{tabular}{@{}lllll cc@{}}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{Element Code} & \textbf{Title} & & \textbf{Grd1} & \textbf{Grd2} \\
+\midrule
+AQA      & GCSE/9DA & 8464H  & Combined Sci: Trilogy Tier H   & & 99 & \\
+EDEXL/GC & GCSE/9FC & 1GB0   & Geography B                    & & 9  & \\
+AQA      & GCSE/9FC & 8062BA & Religious Studies A Option BA   & & 9  & \\
+AQA      & GCSE/9FC & 8668H  & German Tier H                   & & 9  & \\
+AQA      & GCSE/9FC & 8698H  & Spanish Tier H                  & & 9  & \\
+AQA      & GCSE/9FC & 8700   & English Language                & & 9  & \\
+AQA      & GCSE/9FC & 8702   & English Literature              & & 9  & \\
+OCR      & GCSE/9FC & J560H  & Mathematics (Higher Tier)       & & 7  & \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

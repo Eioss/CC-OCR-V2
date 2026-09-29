@@ -1,0 +1,243 @@
+<table>
+<caption>表1 GC-IMS检测樱桃酒中的挥发物参数<br>Table 1 GC-IMS integration parameters of volatile compounds in cherry wine</caption>
+<tr>
+<td>编号</td>
+<td>名称</td>
+<td>分子质量</td>
+<td>保留指数</td>
+<td>保留时间/s</td>
+<td>相对迁移时间/ms</td>
+</tr>
+<tr>
+<td></td>
+<td>酯类</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>辛酸乙酯</td>
+<td>172.3</td>
+<td>1 462.7</td>
+<td>1 237.9</td>
+<td>1.482</td>
+</tr>
+<tr>
+<td>2</td>
+<td>己酸乙酯-M</td>
+<td>144.2</td>
+<td>1 240.3</td>
+<td>727.23</td>
+<td>1.339</td>
+</tr>
+<tr>
+<td>3</td>
+<td>己酸乙酯-D</td>
+<td>144.2</td>
+<td>1 240.3</td>
+<td>727.23</td>
+<td>1.799</td>
+</tr>
+<tr>
+<td>4</td>
+<td>乙酸异戊酯-M</td>
+<td>130.2</td>
+<td>1 130.1</td>
+<td>526.42</td>
+<td>1.305</td>
+</tr>
+<tr>
+<td>5</td>
+<td>乙酸异戊酯-D</td>
+<td>130.2</td>
+<td>1 130.1</td>
+<td>526.43</td>
+<td>1.749</td>
+</tr>
+<tr>
+<td>6</td>
+<td>丁酸乙酯</td>
+<td>116.2</td>
+<td>1 043.3</td>
+<td>408.42</td>
+<td>1.561</td>
+</tr>
+<tr>
+<td>7</td>
+<td>乙酸异丁酯-M</td>
+<td>116.2</td>
+<td>1 019.9</td>
+<td>382.74</td>
+<td>1.237</td>
+</tr>
+<tr>
+<td>8</td>
+<td>乙酸异丁酯-D</td>
+<td>116.2</td>
+<td>1 019.5</td>
+<td>382.37</td>
+<td>1.615</td>
+</tr>
+<tr>
+<td>9</td>
+<td>异丁酸乙酯</td>
+<td>116.2</td>
+<td>973.4</td>
+<td>341.44</td>
+<td>1.564</td>
+</tr>
+<tr>
+<td>10</td>
+<td>丙酸乙酯</td>
+<td>102.1</td>
+<td>963.9</td>
+<td>335.12</td>
+<td>1.453</td>
+</tr>
+<tr>
+<td>11</td>
+<td>乙酸丙酯</td>
+<td>102.1</td>
+<td>950.6</td>
+<td>326.19</td>
+<td>1.480</td>
+</tr>
+<tr>
+<td>12</td>
+<td>乙酸乙酯</td>
+<td>88.1</td>
+<td>898.4</td>
+<td>291.37</td>
+<td>1.336</td>
+</tr>
+<tr>
+<td></td>
+<td>醛类</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>苯甲醛-M</td>
+<td>106.1</td>
+<td>1579.7</td>
+<td>1 523.18</td>
+<td>1.154</td>
+</tr>
+<tr>
+<td>14</td>
+<td>苯甲醛-D</td>
+<td>106.1</td>
+<td>1581.1</td>
+<td>1 526.6</td>
+<td>1.469</td>
+</tr>
+<tr>
+<td>15</td>
+<td>糠醛-M</td>
+<td>96.1</td>
+<td>1 345.08</td>
+<td>1.085</td>
+<td>1.086</td>
+</tr>
+<tr>
+<td>16</td>
+<td>糠醛-D</td>
+<td>96.1</td>
+<td>1 506.6</td>
+<td>1 345.1</td>
+<td>1.335</td>
+</tr>
+<tr>
+<td>17</td>
+<td>丙醛</td>
+<td>58.1</td>
+<td>783.4</td>
+<td>214.489</td>
+<td>1.155</td>
+</tr>
+<tr>
+<td>18</td>
+<td>戊醛</td>
+<td>86.1</td>
+<td>989.8</td>
+<td>352.43</td>
+<td>1.423</td>
+</tr>
+<tr>
+<td></td>
+<td>醇类</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>己醇</td>
+<td>102.2</td>
+<td>1 364.7</td>
+<td>999.09</td>
+<td>1.331</td>
+</tr>
+<tr>
+<td>20</td>
+<td>3-甲基丁醇-M</td>
+<td>88.1</td>
+<td>1 216.6</td>
+<td>683.11</td>
+<td>1.245</td>
+</tr>
+<tr>
+<td>21</td>
+<td>3-甲基丁醇-D</td>
+<td>88.1</td>
+<td>1 216.6</td>
+<td>683.11</td>
+<td>1.509</td>
+</tr>
+<tr>
+<td>22</td>
+<td>丁醇-M</td>
+<td>74.1</td>
+<td>1 148.5</td>
+<td>559.41</td>
+<td>1.184</td>
+</tr>
+<tr>
+<td>23</td>
+<td>丁醇-D</td>
+<td>74.1</td>
+<td>1 149.6</td>
+<td>561.32</td>
+<td>1.383</td>
+</tr>
+<tr>
+<td>24</td>
+<td>2-甲基丙醇-M</td>
+<td>74.1</td>
+<td>1 100.4</td>
+<td>473.41</td>
+<td>1.171</td>
+</tr>
+<tr>
+<td>25</td>
+<td>2-甲基丙醇-D</td>
+<td>74.1</td>
+<td>1 100.7</td>
+<td>473.96</td>
+<td>1.372</td>
+</tr>
+<tr>
+<td>26</td>
+<td>丙醇</td>
+<td>60.1</td>
+<td>1 043.1</td>
+<td>408.16</td>
+<td>1.263</td>
+</tr>
+</table>

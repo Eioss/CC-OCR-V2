@@ -1,0 +1,78 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{center}
+    \textbf{MODEL QUESTION PAPER} \\
+    CLASS : IV \hfill SUB-MATHS
+\end{center}
+
+\noindent
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|}
+\hline
+COMP & FNC (15) & UBC (20) & AIC (20) & PSA (15) & ORAL (30) & Total (100) & T's sign & \\ \hline
+MARKS & & & & & & & & \\ \hline
+GRADE & & & & & & & & \\ \hline
+\end{tabular}
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{I. FORMING NUMBERS CORRECTLY} (15 marks)
+\end{center}
+
+(1) Fill in the blanks \hfill (5x1=5)
+\begin{enumerate}[label=\alph*.]
+    \item Arrange 5, 3, 7, 2 to form the smallest 4 digit number \underline{\hspace{2cm}} and the greatest 4 digit number \underline{\hspace{2cm}}
+    \item $1000 + 300 + 4 = $ \underline{\hspace{3cm}}
+    \item Expand $4287 = 4000 +$ \underline{\hspace{2cm}} + \underline{\hspace{2cm}} + 7
+    \item 1 kilometre = \underline{\hspace{2cm}} metres and 1 metre = \underline{\hspace{2cm}} cm
+    \item A brick has \underline{\hspace{2cm}} faces and \underline{\hspace{2cm}} edges.
+\end{enumerate}
+
+(2) Do as directed. \hfill (5x2=10)
+
+(i) Write the place value of \textbf{4} in each number
+
+\noindent
+\begin{tabular}{|c|c|c|c|}
+\hline
+4 & 6 & 0 & 9 \\ \hline
+\end{tabular}
+$\longrightarrow$ \underline{\hspace{3cm}}
+
+\noindent
+\begin{tabular}{|c|c|c|c|}
+\hline
+6 & 3 & 4 & 7 \\ \hline
+\end{tabular}
+$\longrightarrow$ \underline{\hspace{3cm}}
+
+\vspace{0.5cm}
+
+(ii) Encircle the pairs of numbers which when added makes more than 500?
+\begin{enumerate}[label=\alph*.]
+    \item 152 and 241
+    \item 321 and 192
+    \item 420 and 184
+    \item 209 and 290
+\end{enumerate}
+
+(iii) Express as 24- hours clock time
+\begin{enumerate}[label=\alph*.]
+    \item 3.15 a.m \underline{\hspace{3cm}}
+    \item 7.40 p.m \underline{\hspace{3cm}}
+\end{enumerate}
+
+(iv) In a circle , if the lengths of the:
+\begin{enumerate}[label=(\alph*)]
+    \item Radius is 4 cm, then the Diameter is \underline{\hspace{3cm}}
+    \item Diameter is 12 cm, then the Radius is \underline{\hspace{3cm}}
+\end{enumerate}
+
+\end{document}
+```

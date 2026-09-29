@@ -1,0 +1,11 @@
+Based on the provided flowchart, under the **"Active in MAILFILE: 200"** branch:
+
+- After calculating the "Calculated Active Universe: 1,440" and applying "Promotion Penetration: 13.9%", the next step is:
+  
+  > **Maximum Allowable: 86**
+
+This number (86) represents the maximum number of active smokers that can be included in the mailfile after suppression to achieve the target promotion penetration of 6.0%.
+
+---
+
+✅ **Answer: 86**

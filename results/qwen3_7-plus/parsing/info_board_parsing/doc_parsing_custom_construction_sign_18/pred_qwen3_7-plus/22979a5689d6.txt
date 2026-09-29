@@ -1,0 +1,219 @@
+```html
+<html><body>
+<div style="text-align: center; font-size: 24px; font-weight: bold;">项目管理信息牌</div> 
+ <div style="float: right; border: 1px solid black; padding: 5px;">文档编号 SG-473614<br/>日 期 2024-04-30</div> 
+ <div style="clear: both;"></div> 
+ <div style="background-color: yellow; text-align: center; margin-top: 10px;">单位信息 / 工程参数 / 监督电话</div> 
+ <table border="1" style="width: 100%; border-collapse: collapse; margin-top: 10px;"> 
+ <tr> 
+ <td style="background-color: yellow; width: 15%;">施工/项目名称:</td> 
+ <td colspan="3">澄岳省岚原州澄岳松影市政工程有限公司 ✓</td> 
+ <td style="background-color: yellow; width: 15%;">责任人</td> 
+ <td colspan="2">项目负责人 吴泽宇</td> 
+ </tr> 
+ <tr> 
+ <td style="background-color: yellow;">工程地点:</td> 
+ <td colspan="3">澄岳省皓月市新栖区北屿路238号 12栋</td> 
+ <td style="background-color: yellow;">安全员</td> 
+ <td colspan="2">蒋明哲</td> 
+ </tr> 
+ <tr> 
+ <td style="background-color: yellow;">责任人员:</td> 
+ <td colspan="3">项目负责人 吴泽宇</td> 
+ <td style="background-color: yellow;">联系电话</td> 
+ <td colspan="2">17284479775</td> 
+ </tr> 
+ </table> 
+ <div style="text-align: right; margin-top: 10px;"><img src="imgs/img_in_image_box_682_492_714_549.jpg" alt="QR Code" width="5%" /> https://example.com/doc-07590929</div> 
+ <div style="background-color: yellow; text-align: center; margin-top: 20px;">问题跟踪/检查记录</div> 
+ <table border="1" style="width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 12px;"> 
+ <tr> 
+ <th>编号</th> 
+ <th>日期</th> 
+ <th>描述</th> 
+ <th>等级</th> 
+ <th>期限</th> 
+ <th>复核</th> 
+ <th>签字</th> 
+ <th>备注/计费规则/整改要求</th> 
+ <th>状态</th> 
+ <th>编码</th> 
+ <th>数值</th> 
+ <th>勾选框</th> 
+ <th>等级</th> 
+ <th>长数字串</th> 
+ <th>日期</th> 
+ </tr> 
+ <tr> 
+ <td>001</td> 
+ <td>2024-05-01</td> 
+ <td>围挡破损</td> 
+ <td>中</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>李工</td> 
+ <td>需加固</td> 
+ <td>待整改</td> 
+ <td>331493574692548216</td> 
+ <td>1.5m</td> 
+ <td>[√]</td> 
+ <td>A</td> 
+ <td>998472365018</td> 
+ <td>2024-05-01</td> 
+ </tr> 
+ <tr> 
+ <td>002</td> 
+ <td>2024-05-02</td> 
+ <td>材料堆放混乱</td> 
+ <td>低</td> 
+ <td>2024-05-04</td> 
+ <td>待复核</td> 
+ <td>张工</td> 
+ <td>清理整齐</td> 
+ <td>进行中</td> 
+ <td>7728394051627384</td> 
+ <td>0.8t</td> 
+ <td>[×]</td> 
+ <td>B</td> 
+ <td>556473829102</td> 
+ <td>2024-05-02</td> 
+ </tr> 
+ <tr> 
+ <td>003</td> 
+ <td>2024-05-02</td> 
+ <td>材料堆放混乱</td> 
+ <td>中</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>李工</td> 
+ <td>已完成 (手写勾选)</td> 
+ <td>进行中</td> 
+ <td>331493574692548216</td> 
+ <td>1.5m</td> 
+ <td>[√]</td> 
+ <td>A</td> 
+ <td>998472365018</td> 
+ <td>2024-05-01</td> 
+ </tr> 
+ <tr> 
+ <td>004</td> 
+ <td>2024-05-02</td> 
+ <td>材料堆放混乱</td> 
+ <td>低</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>张工</td> 
+ <td>已完成 (手写勾选)</td> 
+ <td>进行中</td> 
+ <td>7728394051627384</td> 
+ <td>0.8m</td> 
+ <td>[×]</td> 
+ <td>B</td> 
+ <td>556473829102</td> 
+ <td>2024-05-02</td> 
+ </tr> 
+ <tr> 
+ <td>005</td> 
+ <td>2024-05-01</td> 
+ <td>围挡破损</td> 
+ <td>低</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>张工</td> 
+ <td>清理整齐</td> 
+ <td>进行中</td> 
+ <td>331493574692548216</td> 
+ <td>1.5m</td> 
+ <td>[√]</td> 
+ <td>A</td> 
+ <td>998472365018</td> 
+ <td>2024-05-01</td> 
+ </tr> 
+ <tr> 
+ <td>006</td> 
+ <td>2024-05-01</td> 
+ <td>材料堆放混乱</td> 
+ <td>中</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>李工</td> 
+ <td>蒋明哲</td> 
+ <td>待整改</td> 
+ <td>331493574692548216</td> 
+ <td>1.5m</td> 
+ <td>[√]</td> 
+ <td>A</td> 
+ <td>998472365018</td> 
+ <td>2024-05-01</td> 
+ </tr> 
+ <tr> 
+ <td>007</td> 
+ <td>2024-05-01</td> 
+ <td>围挡破损</td> 
+ <td>中</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>张工</td> 
+ <td>完成 (手写勾选)</td> 
+ <td>进行中</td> 
+ <td>7728394051627384</td> 
+ <td>0.8m</td> 
+ <td>[×]</td> 
+ <td>B</td> 
+ <td>556473829102</td> 
+ <td>2024-05-02</td> 
+ </tr> 
+ <tr> 
+ <td>008</td> 
+ <td>2024-05-02</td> 
+ <td>围挡破损</td> 
+ <td>中</td> 
+ <td>2024-05-13</td> 
+ <td>已复核</td> 
+ <td>李工</td> 
+ <td>需加固</td> 
+ <td>待整改</td> 
+ <td>7728394051627384</td> 
+ <td>0.8t</td> 
+ <td>[×]</td> 
+ <td>B</td> 
+ <td>556473829102</td> 
+ <td>2024-05-02</td> 
+ </tr> 
+ <tr> 
+ <td>009</td> 
+ <td>2024-05-02</td> 
+ <td>围挡破损</td> 
+ <td>低</td> 
+ <td>2024-05-03</td> 
+ <td>已复核</td> 
+ <td>张工</td> 
+ <td>延期至05-05 (手写备注)</td> 
+ <td>进行中</td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ <tr> 
+ <td>10</td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ </table> 
+</body></html>
+```

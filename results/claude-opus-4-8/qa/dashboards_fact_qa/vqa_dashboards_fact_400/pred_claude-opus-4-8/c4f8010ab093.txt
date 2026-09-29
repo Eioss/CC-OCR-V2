@@ -1,0 +1,9 @@
+The **Decentralised** section shows **4 steps**:
+
+1. **Step 1:** The app broadcasts a random ID and collects the random IDs of the other apps it interacts with, and some data about the interaction (time and distance)
+
+2. **Step 2:** If a user reports they are unwell, they can choose to upload their ID to a central database
+
+3. **Step 3:** Users' phones regularly download the most up-to-date version of this database and look for IDs they have interacted with
+
+4. **Step 4:** If they see any ID(s) they have interacted with, their app calculates whether or not to inform them that they have been in contact with an infected person

@@ -1,0 +1,33 @@
+\[
+\begin{aligned}
+(??)\;&\sim \int_{|y|<1}
+\frac{|x-y|^{-d+\alpha-1}\delta_B(y)^{\alpha/2}}{\gamma_B(x,y)^{\alpha/2}}
+\frac{|y-w|^{-d+\alpha-\beta}\delta_B(w)^{\alpha/2}}{\gamma_B(y,w)^{\alpha/2}}
+\left(1\wedge \frac{|y-w|^{\beta-\alpha/2}}{\delta_B(y)^{\beta-\alpha/2}}\right)\,dy \\
+&\le \int_{\substack{|y|<1\\ |y-w|\ge \delta_B(y)}}
+|x-y|^{-d+\alpha-1}|w-y|^{-d+\alpha-\beta}
+\frac{\delta_B(w)^{\alpha/2}\delta_B(y)^{\alpha/2}}
+{\gamma_B(x,y)^{\alpha/2}\gamma_B(y,w)^{\alpha/2}}\,dy \\
+&\quad+\int_{\substack{|y|<1\\ |y-w|<\delta_B(y)}}
+|x-y|^{-d+\alpha-1}|w-y|^{-d+\alpha-\beta}
+\frac{\delta_B(w)^{\alpha/2}}{\gamma_B(x,y)^{\alpha/2}}
+\frac{|w-y|^{\beta-\alpha/2}\delta_B(y)^{\alpha-\beta}}
+{\gamma_B(y,w)^{\alpha/2}}\,dy \\
+&\lesssim \delta_B(w)^{\alpha/2}
+\int_{\substack{|y|<1\\ |y-w|\ge \delta_B(y)}}
+|x-y|^{-d+\alpha-1}|y-w|^{-d+\alpha-\beta}\,dy \\
+&\quad+\delta_B(w)^{\alpha/2}
+\int_{\substack{|y|<1\\ |y-w|< \delta_B(y)}}
+|x-y|^{-d+\alpha-1}|y-w|^{-d+\alpha-\beta}\,dy \\
+&= \delta_B(w)^{\alpha/2}
+\int_{|y|<1}|x-y|^{-d+\alpha-1}|y-w|^{-d+\alpha-\beta}\,dy \\
+&\le \delta_B(w)^{\alpha/2}|x-w|^{-d+(\alpha-1)\wedge(\alpha-\beta)}
+\int_{|y|<1}
+\left(
+|x-y|^{d+\alpha-1-(\alpha-1)\wedge(\alpha-\beta)}
++
+|y-w|^{d+\alpha-\beta-(\alpha-1)\wedge(\alpha-\beta)}
+\right)\,dy \\
+&\lesssim |x-w|^{-d+(\alpha-1)\wedge(\alpha-\beta)}\delta_B(w)^{\alpha/2}.
+\end{aligned}
+\]

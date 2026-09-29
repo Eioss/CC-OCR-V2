@@ -1,0 +1,5 @@
+Based on the invoice provided, the total amount is **$2050.00**.
+
+This is shown in the table under the column for the total price:
+*   The line item shows a quantity of "2@" at "$1025.00" each.
+*   The resulting total in the adjacent columns is listed as "**2050**" and "**00**", which represents $2050.00.

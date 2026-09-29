@@ -1,0 +1,20 @@
+\[
+\begin{aligned}
+\int_{\mathbb R^2}\Lambda^{3/2}(u\cdot\nabla\theta)\,\Lambda^{3/2}\theta\,dx
+&=\int_{\mathbb R^2}\Lambda^{3/2}(u_i\partial_i\theta)\,\Lambda^{3/2}\theta\,dx\\
+&=\int_{\mathbb R^2}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb R^2}u_i\partial_i\Lambda\theta\,\Lambda^2\theta\,dx\\
+&=\int_{\mathbb R^2}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb R^2}\Lambda^{1/2}(u_i\partial_i\Lambda\theta)\,
+\Lambda^{3/2}\theta\,dx\\
+&=\int_{\mathbb R^2}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb R^2}[\Lambda^{1/2},u_i]\partial_i\Lambda\theta\,
+\Lambda^{3/2}\theta\,dx\\
+&\quad+\int_{\mathbb R^2}u_i\partial_i\Lambda^{3/2}\theta\,
+\Lambda^{3/2}\theta\,dx\\
+&=\int_{\mathbb R^2}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb R^2}[\Lambda^{1/2},u_i]\partial_i\Lambda\theta\,
+\Lambda^{3/2}\theta\,dx\\
+&=: \Gamma_1+\Gamma_2.
+\end{aligned}
+\]

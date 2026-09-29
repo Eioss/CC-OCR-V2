@@ -1,0 +1,43 @@
+[
+  {"bbox_2d":[743,84,792,98],"label":"Conf. No. 确认号码"},
+  {"bbox_2d":[744,109,789,123],"label":"Room No. 房号"},
+  {"bbox_2d":[744,132,787,147],"label":"Folio No. 账单号码"},
+  {"bbox_2d":[744,156,837,171],"label":"Arrival 抵店日期"},
+  {"bbox_2d":[745,179,834,194],"label":"Departure 离店日期"},
+  {"bbox_2d":[747,199,850,215],"label":"Cashier 收银员"},
+  {"bbox_2d":[748,227,790,240],"label":"Page(s) 页数"},
+  {"bbox_2d":[749,249,886,264],"label":"Time 时间"},
+
+  {"bbox_2d":[74,363,136,377],"label":"Date 日期"},
+  {"bbox_2d":[75,381,136,396],"label":"Date 日期"},
+  {"bbox_2d":[76,399,137,415],"label":"Date 日期"},
+  {"bbox_2d":[77,417,138,432],"label":"Date 日期"},
+  {"bbox_2d":[78,435,139,451],"label":"Date 日期"},
+  {"bbox_2d":[79,453,140,469],"label":"Date 日期"},
+  {"bbox_2d":[80,470,142,486],"label":"Date 日期"},
+
+  {"bbox_2d":[172,358,207,374],"label":"Description 项目"},
+  {"bbox_2d":[173,376,207,392],"label":"Description 项目"},
+  {"bbox_2d":[173,394,236,411],"label":"Description 项目"},
+  {"bbox_2d":[175,412,253,430],"label":"Description 项目"},
+  {"bbox_2d":[176,430,275,448],"label":"Description 项目"},
+  {"bbox_2d":[177,448,209,465],"label":"Description 项目"},
+  {"bbox_2d":[178,465,277,483],"label":"Description 项目"},
+
+  {"bbox_2d":[429,382,677,399],"label":"Reference 备注"},
+
+  {"bbox_2d":[747,341,806,356],"label":"Debits 消费"},
+  {"bbox_2d":[747,359,806,374],"label":"Debits 消费"},
+  {"bbox_2d":[748,377,806,392],"label":"Debits 消费"},
+  {"bbox_2d":[760,394,806,409],"label":"Debits 消费"},
+  {"bbox_2d":[761,411,806,426],"label":"Debits 消费"},
+  {"bbox_2d":[749,429,807,444],"label":"Debits 消费"},
+  {"bbox_2d":[854,441,920,457],"label":"Credits 付款"},
+  {"bbox_2d":[743,506,809,522],"label":"Debits 消费"},
+  {"bbox_2d":[856,503,922,519],"label":"redits 付款"},
+  {"bbox_2d":[780,541,812,556],"label":"Balance 余额(CNY"},
+
+  {"bbox_2d":[354,890,654,916],"label":"地址"},
+  {"bbox_2d":[472,907,656,930],"label":"电话T"},
+  {"bbox_2d":[245,917,470,935],"label":"传真F"}
+]

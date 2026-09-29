@@ -1,0 +1,234 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border: 2px solid #333;
+        padding: 10px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <h2 style="text-align:center;">山南市建设工程消防设计审查备案表</h2>
+  <p>工程名称： (印章) 申请日期： 年 月 日</p>
+  <table>
+   <tr>
+    <th colspan="2">建设单位</th>
+    <td colspan="4"></td>
+    <th>联系人</th>
+    <td colspan="3"></td>
+    <th>联系电话</th>
+    <td colspan="2"></td>
+   </tr>
+   <tr>
+    <th colspan="2">工程地址</th>
+    <td colspan="4"></td>
+    <th>类别</th>
+    <td colspan="6">□新建 □扩建<br/>□改建（装饰装修、改变用途、建筑保温）</td>
+   </tr>
+   <tr>
+    <th colspan="3">建设工程规划许可文件<br/>（依法需办理的）</th>
+    <td colspan="3"></td>
+    <th colspan="3">临时性建筑批准文件（依法<br/>需办理的）</th>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <th colspan="3">特殊消防设计</th>
+    <td colspan="3">□是 □否</td>
+    <th colspan="3">建筑高度大于250m的建筑<br/>采取加强性消防设计措施</th>
+    <td colspan="4">□是 □否</td>
+   </tr>
+   <tr>
+    <th colspan="3">工程投资额（万元）</th>
+    <td colspan="3"></td>
+    <th colspan="3">总建筑面积（m²）</th>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <th colspan="6">特殊建设工程情形（详见背面）</th>
+    <td colspan="7">□(一) □(二) □(三) □(四) □(五) □(六)<br/>□(七) □(八) □(九) □(十) □(十一) □(十二)</td>
+   </tr>
+   <tr>
+    <th colspan="2">单位类别</th>
+    <th colspan="2">单位名称</th>
+    <th colspan="2">资质等级</th>
+    <th colspan="2">法定代表人<br/>（身份证号）</th>
+    <th colspan="2">项目负责人<br/>（身份证号）</th>
+    <th colspan="3">联系电话（移动电<br/>话和座机）</th>
+   </tr>
+   <tr>
+    <td colspan="2">建设单位</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <td colspan="2">设计单位</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <td colspan="2">技术服务机构（审图）</td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <th rowspan="2">建筑名称</th>
+    <th rowspan="2">结构类型</th>
+    <th rowspan="2">使用性质</th>
+    <th rowspan="2">耐火等级</th>
+    <th colspan="2">层数</th>
+    <th rowspan="2">高度(m)</th>
+    <th rowspan="2">长度(m)</th>
+    <th rowspan="2">占地面积<br/>(m²)</th>
+    <th colspan="2">建筑面积(m²)</th>
+   </tr>
+   <tr>
+    <th>地上</th>
+    <th>地下</th>
+    <th>地上</th>
+    <th>地下</th>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+   <tr>
+    <th rowspan="2">□装饰装修</th>
+    <th colspan="2">装修部位</th>
+    <td colspan="8">□顶棚 □墙面 □地面 □隔断 □固定家具 □装饰织物 □其他</td>
+   </tr>
+   <tr>
+    <th colspan="2">装修面积(m²)</th>
+    <td colspan="3"></td>
+    <th colspan="2">装修所在层数</th>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <th>□改变用途</th>
+    <th colspan="2">使用性质</th>
+    <td colspan="3"></td>
+    <th colspan="2">原有用途</th>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <th rowspan="2">□建筑保温</th>
+    <th colspan="2">材料类别</th>
+    <td colspan="3">□A □B1 □B2</td>
+    <th colspan="2">保温所在层数</th>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <th colspan="2">保温部位</th>
+    <td colspan="3"></td>
+    <th colspan="2">保温材料</th>
+    <td colspan="3"></td>
+   </tr>
+   <tr>
+    <th>消防设施<br/>及其他</th>
+    <td colspan="10">□室内消火栓系统 □室外消火栓系统 □火灾自动报警系统 □自动喷水灭火系统<br/>□气体灭火系统 □泡沫灭火系统 □其他灭火系统 □疏散指示标志<br/>□消防应急照明 □防烟排烟系统 □消防电梯 □灭火器 □其他</td>
+   </tr>
+   <tr>
+    <th>工程简要说明</th>
+    <td colspan="10" style="height: 80px;"></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

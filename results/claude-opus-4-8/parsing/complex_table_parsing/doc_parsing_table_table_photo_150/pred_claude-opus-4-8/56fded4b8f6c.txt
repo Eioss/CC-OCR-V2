@@ -1,0 +1,53 @@
+# Gauge Theories Table
+
+<table border="1">
+  <tr>
+    <th>Gauge Theory</th>
+    <th>Fundamental Forces</th>
+    <th>Structure Group</th>
+  </tr>
+  <tr>
+    <td>Quantum Electrodynamics (QED)</td>
+    <td>Electromagnetism</td>
+    <td>U(1)</td>
+  </tr>
+  <tr>
+    <td>Electroweak Theory (Glashow-Salam-Weinberg)</td>
+    <td>Electromagnetism and weak force</td>
+    <td>SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Quantum Chromodynamics (QCD)</td>
+    <td>Strong force</td>
+    <td>SU(3)</td>
+  </tr>
+  <tr>
+    <td>Standard Model</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(3) × SU(2) × U(1)</td>
+  </tr>
+  <tr>
+    <td>Georgi-Glashow Grand Unified Theory (GUT1)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(5)</td>
+  </tr>
+  <tr>
+    <td>Fritzsch-Georgi-Minkowski Grand Unified Theory (GUT2)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SO(10)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified Theory (GUT3)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>SU(6)</td>
+  </tr>
+  <tr>
+    <td>Grand Unified Theory (GUT4)</td>
+    <td>Strong, weak forces and electromagnetism</td>
+    <td>O(16)</td>
+  </tr>
+</table>
+
+*Caption: Table 1. Gauge Theories*
+
+**Note:** Some cells in the lower portion of the image (particularly the Structure Group entries for GUT3 and GUT4) were partially obscured or blurred, so those values represent my best interpretation of the visible text.

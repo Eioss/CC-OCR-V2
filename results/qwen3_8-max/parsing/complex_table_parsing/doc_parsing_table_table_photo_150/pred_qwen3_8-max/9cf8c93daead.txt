@@ -1,0 +1,59 @@
+```html
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th rowspan="2" style="text-align: left; vertical-align: bottom;">Reported results</th>
+            <th colspan="3" style="text-align: center;">Year ended 31 Dec</th>
+        </tr>
+        <tr>
+            <th style="text-align: right;">2018<br>$m</th>
+            <th style="text-align: right;">2017<br>$m</th>
+            <th style="text-align: right;">2016<br>$m</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Net operating income before change in expected credit losses and other credit impairment charges ('revenue')</td>
+            <td style="text-align: right; font-weight: bold;">53,780</td>
+            <td style="text-align: right;">51,445</td>
+            <td style="text-align: right;">47,966</td>
+        </tr>
+        <tr>
+            <td>ECL/LICs</td>
+            <td style="text-align: right;">(1,767)</td>
+            <td style="text-align: right;">(1,769)</td>
+            <td style="text-align: right;">(3,400)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Net operating income</td>
+            <td style="text-align: right; font-weight: bold;">52,013</td>
+            <td style="text-align: right;">49,676</td>
+            <td style="text-align: right;">44,566</td>
+        </tr>
+        <tr>
+            <td>Total operating expenses</td>
+            <td style="text-align: right;">(34,659)</td>
+            <td style="text-align: right;">(34,884)</td>
+            <td style="text-align: right;">(39,808)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Operating profit</td>
+            <td style="text-align: right; font-weight: bold;">17,354</td>
+            <td style="text-align: right;">14,792</td>
+            <td style="text-align: right;">4,758</td>
+        </tr>
+        <tr>
+            <td>Share of profit in associates and joint ventures</td>
+            <td style="text-align: right;">2,536</td>
+            <td style="text-align: right;">2,375</td>
+            <td style="text-align: right;">2,354</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Profit before tax</td>
+            <td style="text-align: right; font-weight: bold;">19,890</td>
+            <td style="text-align: right;">17,167</td>
+            <td style="text-align: right;">7,112</td>
+        </tr>
+    </tbody>
+</table>
+```

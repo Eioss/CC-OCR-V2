@@ -1,0 +1,238 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Physics Formula Sheet}}
+
+\textbf{Mechanics}
+\end{center}
+
+\[
+\begin{array}{lll}
+x=x_o+v_{xo}t+\frac{1}{2}a_xt^2
+&
+a_c=\frac{v^2}{r}
+&
+\left|\vec{F}_{\text{spring}}\right|=k\left|\vec{x}\right|
+\\[1.2em]
+
+v=v_o+at
+&
+\theta=\theta_o+\omega_ot+\frac{1}{2}\alpha t^2
+&
+PE_{\text{spring}}=\frac{1}{2}kx^2
+\\[1.2em]
+
+v_x^2-v_{xo}^2=2a(x-x_o)
+&
+\omega=\omega_o+\alpha t
+&
+T_{\text{spring}}=2\pi\sqrt{\frac{m}{k}}
+\\[1.2em]
+
+\vec{a}=\frac{\Sigma \vec{F}}{m}=\frac{\vec{F}_{\text{net}}}{m}
+&
+T=\frac{2\pi}{\omega}=\frac{1}{f}
+&
+T_{\text{pendulum}}=2\pi\sqrt{\frac{\ell}{g}}
+\\[1.2em]
+
+\left|\vec{F}_{\text{friction}}\right|\leq \mu \left|\vec{F}_{\text{Normal}}\right|
+&
+v=f\lambda
+&
+\left|\vec{F}_{\text{gravity}}\right|=G\frac{m_1m_2}{r^2}
+\\[1.2em]
+
+\vec{p}=m\vec{v}
+&
+x=A\cos(2\pi ft)
+&
+\left|\vec{F}_{\text{gravity}}\right|=mg
+\\[1.2em]
+
+\Delta \vec{p}=\vec{F}\Delta t
+&
+\vec{\alpha}=\frac{\Sigma \vec{\tau}}{I}=\frac{\vec{\tau}_{\text{net}}}{I}
+&
+PE_{\text{gravity}}=-G\frac{m_1m_2}{r}
+\\[1.2em]
+
+KE=\frac{1}{2}mv^2
+&
+\vec{\tau}=r\times F
+&
+\rho=\frac{m}{V}
+\\[1.2em]
+
+\Delta PE=mg\Delta y
+&
+L=I\omega
+&
+KE=\frac{1}{2}I\omega^2
+\\[1.2em]
+
+\Delta E=W=Fd\cos\theta
+&
+\Delta L=\tau\Delta t
+&
+\end{array}
+\]
+
+\begin{center}
+\textbf{Electricity}
+\end{center}
+
+\[
+\begin{array}{lll}
+\left|\vec{F}_E\right|=k\left|\frac{q_1q_2}{r^2}\right|
+&
+\Delta V=IR
+&
+R=\frac{\rho\ell}{A}
+\\[1.2em]
+
+I=\frac{\Delta q}{\Delta t}
+&
+P=I\Delta V
+&
+\\[1.2em]
+
+R_{\text{series}}=R_1+R_2+\cdots+R_n
+&
+\frac{1}{R_{\text{parallel}}}=\frac{1}{R_1}+\frac{1}{R_2}+\cdots+\frac{1}{R_n}
+&
+\end{array}
+\]
+
+\begin{center}
+\textbf{Geometry}
+\end{center}
+
+\[
+\begin{array}{llll}
+\text{Rectangle} & A=bh
+&
+\text{Rectangular Solid} & V=\ell wh
+\\[0.8em]
+
+\text{Triangle} & A=\frac{1}{2}bh
+&
+\text{Circle} & A=\pi r^2
+\\[0.8em]
+
+& C=2\pi r
+&
+\text{Cylinder} & V=\pi r^2\ell
+\\[0.8em]
+
+&
+&
+& S=2\pi r\ell+2\pi r^2
+\\[0.8em]
+
+&
+&
+\text{Sphere} & V=\frac{4}{3}\pi r^3
+\\[0.8em]
+
+&
+&
+& S=4\pi r^2
+\end{array}
+\]
+
+\begin{center}
+\textbf{Trigonometry}
+\end{center}
+
+\[
+\begin{array}{ccccc}
+\begin{tikzpicture}[scale=1]
+\draw (0,0) -- (3,0) -- (3,1.4) -- cycle;
+\draw (2.75,0) -- (2.75,0.25) -- (3,0.25);
+\node at (1.5,-0.25) {$b$};
+\node at (3.25,0.7) {$a$};
+\node at (1.6,0.95) {$c$};
+\node at (0.55,0.18) {$\theta$};
+\end{tikzpicture}
+&
+c^2=a^2+b^2
+&
+\sin\theta=\frac{a}{c}
+&
+\cos\theta=\frac{b}{c}
+&
+\tan\theta=\frac{a}{b}
+\end{array}
+\]
+
+\[
+\begin{array}{c|ccccccc}
+\theta & 0^\circ & 30^\circ & 37^\circ & 45^\circ & 53^\circ & 60^\circ & 90^\circ \\
+\hline
+\sin\theta & 0 & \frac{1}{2} & \frac{3}{5} & \frac{\sqrt{2}}{2} & \frac{4}{5} & \frac{\sqrt{3}}{2} & 1 \\
+\cos\theta & 1 & \frac{\sqrt{3}}{2} & \frac{4}{5} & \frac{\sqrt{2}}{2} & \frac{3}{5} & \frac{1}{2} & 0 \\
+\tan\theta & 0 & \frac{\sqrt{3}}{3} & \frac{3}{4} & 1 & 1 & \sqrt{3} & \infty
+\end{array}
+\]
+
+\begin{center}
+\textbf{Variables}
+\end{center}
+
+\[
+\begin{array}{ll}
+a & =\text{ acceleration} \\
+A & =\text{ amplitude} \\
+A & =\text{ Area} \\
+b & =\text{ base length} \\
+C & =\text{ circumference} \\
+d & =\text{ distance} \\
+E & =\text{ energy} \\
+f & =\text{ frequency} \\
+F & =\text{ force} \\
+h & =\text{ height} \\
+I & =\text{ current} \\
+I & =\text{ rotational inertia} \\
+KE & =\text{ kinetic energy} \\
+k & =\text{ spring constant} \\
+L & =\text{ angular momentum} \\
+\ell & =\text{ length} \\
+m & =\text{ mass} \\
+P & =\text{ power} \\
+p & =\text{ momentum} \\
+q & =\text{ charge} \\
+r & =\text{ radius} \\
+R & =\text{ resistance} \\
+S & =\text{ surface area} \\
+T & =\text{ period} \\
+t & =\text{ time} \\
+PE & =\text{ potential energy} \\
+V & =\text{ electric potential} \\
+V & =\text{ volume} \\
+v & =\text{ velocity} \\
+w & =\text{ width} \\
+W & =\text{ work} \\
+x & =\text{ position} \\
+y & =\text{ height} \\
+\alpha & =\text{ angular acceleration} \\
+\lambda & =\text{ wavelength} \\
+\mu & =\text{ coefficient of friction} \\
+v & =\text{ wave speed} \\
+\theta & =\text{ angle} \\
+\rho & =\text{ density} \\
+\rho & =\text{ resistivity} \\
+\tau & =\text{ torque} \\
+\omega & =\text{ angular speed}
+\end{array}
+\]
+
+\end{document}
+```

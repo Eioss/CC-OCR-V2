@@ -1,0 +1,7 @@
+The text '150,600.00' appears in two places in the document:
+
+In the line item (Amount column): (700, 685, 818, 706)
+
+In the Net amount line: (1294, 729, 1413, 750)
+
+In the Total amount line: (1294, 765, 1413, 786)

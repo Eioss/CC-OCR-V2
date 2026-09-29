@@ -1,0 +1,29 @@
+```html
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Datasets</th>
+      <th># Nodes</th>
+      <th># Edges</th>
+      <th># Existing e-types</th>
+      <th># New e-types</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>YouTube</td>
+      <td>2,000</td>
+      <td>1,310,617</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Taobao</td>
+      <td>267,869</td>
+      <td>258,306</td>
+      <td>20</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
+```

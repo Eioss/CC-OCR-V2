@@ -1,0 +1,27 @@
+Based on the infographic provided, under the section **"Key Findings"**, there is a subsection titled:
+
+> **Percentage of Kids that Bike/Walk to School**
+
+It shows:
+- **42%** in **1969**
+- **16%** in **2001**
+
+To find the **percentage reduction** from 1969 to 2001, we calculate the *relative decrease* compared to the original value (1969):
+
+### Formula:
+> **Percentage Reduction = [(Original Value - New Value) / Original Value] × 100%**
+
+Plugging in the numbers:
+> = [(42 - 16) / 42] × 100%  
+> = [26 / 42] × 100%  
+> ≈ **61.9%**
+
+---
+
+✅ So, kids walking or cycling to school has **reduced by approximately 61.9%** from 1969 to 2001.
+
+*(Note: The question asks “by what percentage has it reduced”, which implies relative change — not absolute difference. If it asked for the absolute drop, it would be 26 percentage points. But since it says “reduced by what percentage”, 61.9% is correct.)*
+
+---
+
+**Final Answer: Approximately 61.9%**

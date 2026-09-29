@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [453, 265, 555, 276], "label": "Account No."},
+	{"bbox_2d": [164, 202, 427, 233], "label": "Address"},
+	{"bbox_2d": [165, 361, 502, 374], "label": "Address"},
+	{"bbox_2d": [807, 576, 868, 587], "label": "Amount (USD)"},
+	{"bbox_2d": [807, 613, 868, 624], "label": "Amount (USD)"},
+	{"bbox_2d": [579, 244, 848, 256], "label": "Bank Address"},
+	{"bbox_2d": [194, 65, 665, 88], "label": "Company Name"},
+	{"bbox_2d": [163, 187, 410, 200], "label": "Company Name"},
+	{"bbox_2d": [166, 380, 511, 391], "label": "Consignee"},
+	{"bbox_2d": [167, 284, 206, 294], "label": "Contact"},
+	{"bbox_2d": [579, 207, 694, 218], "label": "Contract No."},
+	{"bbox_2d": [578, 188, 662, 199], "label": "Date"},
+	{"bbox_2d": [528, 651, 866, 665], "label": "FOB SHANGHAI"},
+	{"bbox_2d": [161, 262, 302, 273], "label": "Fax"},
+	{"bbox_2d": [166, 415, 291, 425], "label": "Fax;"},
+	{"bbox_2d": [112, 577, 118, 586], "label": "Item"},
+	{"bbox_2d": [579, 226, 853, 239], "label": "Name of Bank"},
+	{"bbox_2d": [188, 568, 553, 596], "label": "Name&Description of Goods"},
+	{"bbox_2d": [168, 457, 225, 468], "label": "P/O No."},
+	{"bbox_2d": [579, 303, 697, 314], "label": "Payment"},
+	{"bbox_2d": [700, 576, 743, 586], "label": "Price (USD/KG)"},
+	{"bbox_2d": [606, 576, 642, 587], "label": "Quantity (KGS)"},
+	{"bbox_2d": [607, 613, 642, 623], "label": "Quantity (KGS)"},
+	{"bbox_2d": [579, 283, 703, 294], "label": "SWIFT Code"},
+	{"bbox_2d": [579, 457, 630, 469], "label": "Shipment"},
+	{"bbox_2d": [166, 244, 306, 255], "label": "Tel"},
+	{"bbox_2d": [167, 399, 291, 410], "label": "Tel"},
+	{"bbox_2d": [371, 121, 592, 134], "label": "Title"}
+]
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "date_issue": "4/ 26/ 99",
+    "order_id": "N41155",
+    "vendor_address": "901 West Bond St., Lincoln, NE 68521",
+    "vendor_name": "xperian",
+    "vendor_tax_id": "#13-3015410",
+    "customer_id": "587876",
+    "customer_billing_name": "LORILLARD TOBACCO COMPANY ANDY PASHELUK",
+    "customer_billing_address": "714 GREEN VALLEY RD GREENSBORO NC 27408",
+    "customer_delivery_name": "MARIA HOWE EPSILON",
+    "customer_delivery_address": "50 CAMBRIDGE ST BURLINGTON MA 01803",
+    "amount_total_gross": "$15664.40",
+    "amount_due": "$15664.40",
+    "payment_terms": "NET 30 DAYS"
+}
+```

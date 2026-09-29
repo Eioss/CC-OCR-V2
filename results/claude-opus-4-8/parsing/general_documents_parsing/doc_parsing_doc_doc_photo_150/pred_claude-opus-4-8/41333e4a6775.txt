@@ -1,0 +1,43 @@
+# Exercise 55
+
+Below is the LaTeX transcription of the visible text from the image. Note that some lines are cut off on the right edge of the page; I have transcribed what is visible.
+
+```latex
+\section*{Exercise 55}
+
+\begin{enumerate}
+    \item The cost of 1 bicycle is \rupee\, 1475. Find the cost of 23 bicycles.
+    
+    \item A man makes 87 toys in 1 day. How many toys does he make in four w\ldots
+    
+    \item Buttons are packed in packets of 576 each. How many buttons are ther\ldots
+    
+    \item The consumption of petrol in a scooter is 54 km per litre. How much di\ldots\\
+    of petrol?
+    
+    \item The price of 17 table fans is \rupee\, 6545. What is the cost of 1 table fan? W\ldots\\
+    of 8 table fans?
+    
+    \item Three planes can carry 1185 passengers. How many passengers can b\ldots\\
+    planes?
+    
+    \item 2250 clips are equally packed in 18 packets. How many clips are there in\ldots
+    
+    \item A car covers 2025 km in 25 hours. How much distance does it cover in\ldots
+    
+    \item An off-set printing machine prints 37600 forms in 16 hours. How many f\ldots
+    
+    \item A factory produces 6816 motor horns in 12 days. How many horns doe\ldots
+    
+    \item If 13 buses can carry 715 passengers, how many passengers can be carri\ldots
+    
+    \item A car runs 285 km on 15 litres of petrol. How many kilometres can it ru\ldots\\
+    on 22 litres of petrol?
+    
+    \item The annual rent of a house is \rupee\, 58500. What is its rent for 17 months?
+    
+    \item A worker earned \rupee\, 1080 in 8 days. How much did he earn in 3 days?
+\end{enumerate}
+```
+
+**Note:** The command `\rupee` requires the `tfrupee` or `wasysym` package, or you can use `\textrupee` from the `marvosym` package to render the ₹ symbol. The handwritten date "2-2-2022" appears at the top and a timestamp "2022/02/02 09:36" is visible at the bottom right of the image.

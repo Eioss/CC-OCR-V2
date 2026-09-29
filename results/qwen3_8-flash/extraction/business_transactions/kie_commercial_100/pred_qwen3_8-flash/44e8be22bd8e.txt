@@ -1,0 +1,3 @@
+```json
+{"date_issue": "7/20/2020", "order_id": "04290580", "vendor_name": "", "customer_billing_name": "", "customer_billing_address": "", "customer_other_name": "PHD USA", "customer_other_address": "3500 LENOX ROAD ATLANTA, GA 30326", "amount_total_gross": "$5,940.00", "amount_due": "$5,940.00"}
+```

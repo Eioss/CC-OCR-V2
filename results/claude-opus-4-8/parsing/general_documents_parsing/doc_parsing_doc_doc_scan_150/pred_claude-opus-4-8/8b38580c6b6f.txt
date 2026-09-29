@@ -1,0 +1,115 @@
+I'll transcribe this Chinese legal study material into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2cm}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent\textbf{觉晓教育} \hfill 民法主观题知识点 + 小案例
+
+\vspace{0.5cm}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|m{2cm}|m{12cm}|}
+\hline
+ & 问4：丙公司与戊公司签订房产买卖合同效力如何？为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+\hline
+\multirow{3}{*}{2010 年} & 问2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？（多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+ & 问6：甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？（被代理人以履行合同的方式追认无权代理） \\
+\cline{2-2}
+ & 问7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？（无权处分不影响买卖合同的效力） \\
+\hline
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\begin{center}
+{\Large\textbf{第一节\quad 合同的成立}}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+\begin{tikzpicture}[every node/.style={font=\small}]
+% 事实判断 box
+\node[draw, align=left] (shishi) at (0,4) {\textbf{\textcolor{blue}{事实判断}}\\1.当事人\\2.意思表示\\3.标的};
+% 价值判断 box
+\node[draw, align=left] (jiazhi) at (5,4) {\textbf{\textcolor{blue}{价值判断}}\\1.民事行为能力\\2.意思表示真实、自由\\3.不违反强制性规定、\\\ \ 不违背公序良俗};
+
+% Arrows down
+\draw[->, line width=2pt] (shishi.south) -- (0,2.5);
+\draw[->, line width=2pt] (jiazhi.south) -- (5,2.5);
+
+% 民事法律行为
+\node[draw, align=center] (minshi) at (-2,0) {民事法律行为};
+\node[draw, align=center] (bucheng) at (1,1) {不成立};
+\node[draw, align=center] (chengli) at (1,-1) {成立};
+
+\node[draw, align=center] (youxiao) at (5,0) {有效};
+\node[draw, align=center] (xiaci) at (5,-2) {效力瑕疵};
+
+\node[draw, align=center] (shengxiao) at (8,1) {生效};
+\node[draw, align=center] (weisheng) at (8,-1) {未生效};
+
+\node[draw, align=center] (most) at (11,1) {大多数合同、婚姻};
+
+% brace-like connections (simplified)
+\draw (minshi.east) -- (bucheng.west);
+\draw (minshi.east) -- (chengli.west);
+\draw (youxiao.east) -- (shengxiao.west);
+\draw (youxiao.east) -- (weisheng.west);
+\draw[->] (shengxiao.east) -- (most.west);
+
+\node[align=left] at (10.7,-1) {附延缓条件\\附始期\\需要审批\\遗嘱};
+\node[align=left] at (7.8,-2) {无效\\可撤销\\效力待定};
+\end{tikzpicture}
+\end{center}
+
+\begin{center}
+\textbf{【民事法律行为成立、有效、生效关系图】}
+\end{center}
+
+\vspace{0.3cm}
+
+\hspace{2em}合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\vspace{0.5cm}
+
+\noindent\textbf{一、合同的订立：要约与承诺}
+
+\vspace{0.3cm}
+
+\noindent\textbf{（一）要约}
+
+\noindent 要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+\noindent 1. 向希望与之订立合同的\textcolor{blue}{\underline{受要约人}}作出。
+
+\noindent 2. 内容\textcolor{blue}{\textbf{具体}}且\textcolor{blue}{\textbf{确定}}：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+\noindent 3. 具有订立合同的目的并表明\textcolor{blue}{\underline{一经承诺即受拘束}}的意思。
+
+\vfill
+\noindent 2
+
+\end{CJK}
+\end{document}
+```
+
+I've transcribed the image content into LaTeX format, including:
+- The table at the top with the legal questions (问4, 问2, 问6, 问7)
+- The section heading (第一节 合同的成立)
+- A TikZ diagram representing the relationship chart (民事法律行为成立、有效、生效关系图)
+- The body text about contract formation (合同的订立)
+
+Note that the flowchart was recreated approximately using TikZ, as the original contains complex branching structures with braces.

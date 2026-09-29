@@ -1,0 +1,15 @@
+CC1=C2C(=CC=C1O)C(=O)C3=C(C2)[C@@H](C)[C@H]4[C@@H](C3=O)... 
+
+Let me re-derive this carefully.
+
+**SMILES:**
+
+```
+CC1=C2C[C@H]3C[C@@H]4[C@@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@]4(O)C(O)=C3C(=O)C2=C(O)C=C1
+```
+
+Wait, the leftmost ring shows =CH2 (exocyclic methylene) with Cl, not a methyl. Let me correct:
+
+```
+ClC(=C)C1=C2C[C@H]3C[C@@H]4[C@@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@]4(O)C(O)=C3C(=O)C2=C(O)C=C1
+```

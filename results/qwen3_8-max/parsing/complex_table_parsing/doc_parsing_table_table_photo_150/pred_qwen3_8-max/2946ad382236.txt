@@ -1,0 +1,112 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        processEnvironments: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        }
+        th, td {
+        border: 2px dashed #444;
+        padding: 12px;
+        text-align: left;
+        }
+  </style>
+ </head>
+ <body>
+  <div style="text-align: right; font-family: monospace; margin-bottom: 20px;">
+   220220221000059276002
+  </div>
+  <h2 style="text-align: center;">附页</h2>
+  <p>货物清单见附页。<br/>上述货物经检验检疫合格评定，予以通关放行。</p>
+  <table>
+   <tr>
+    <th>品名</th>
+    <th>生产厂家名称</th>
+    <th>注册号</th>
+    <th>生产批次号</th>
+    <th>规格</th>
+    <th>数/重量</th>
+   </tr>
+   <tr>
+    <td>冰鲜去骨牛肩胛肉</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>9-Mar-2022</td>
+    <td>***</td>
+    <td>**26箱/507.12千克</td>
+   </tr>
+   <tr>
+    <td>冰鲜去骨牛腿内侧肉（俗称和尚头）</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>5-Mar-2022</td>
+    <td>***</td>
+    <td>**98箱/2003.16千克</td>
+   </tr>
+   <tr>
+    <td>冰鲜去骨牛后腱</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>5…8-Mar-2022</td>
+    <td>***</td>
+    <td>**2箱/35.62千克</td>
+   </tr>
+   <tr>
+    <td>冰鲜去骨牛背肩肉</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>5…7-Mar-2022</td>
+    <td>***</td>
+    <td>**120箱/2000.08千克</td>
+   </tr>
+   <tr>
+    <td>冰鲜去骨前胸牛肉</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>5…8-Mar-2022</td>
+    <td>***</td>
+    <td>**155箱/3013.1千克</td>
+   </tr>
+   <tr>
+    <td>冰鲜去骨牛小黄瓜条</td>
+    <td>SILVER FERN FARMS LIMITED</td>
+    <td>ME52</td>
+    <td>5…8-Mar-2022</td>
+    <td>***</td>
+    <td>**71箱/1518.48千克</td>
+   </tr>
+  </table>
+  <div style="text-align: center; margin-top: 20px;">
+   ********
+  </div>
+ </body>
+</html>
+
+```

@@ -1,0 +1,9 @@
+$$\| H ( S ) \| _ { L _ { 1 } } = \operatorname* { m a x } _ { i = 1 , \ldots , n } ( \sum _ { j = 1 } ^ { n } \| H _ { i j } ( s ) \| _ { c _ { 1 } } ) .$$
+
+$$N ( x , m , v ) = \frac { N ( x ) } { N _ { m } } + o ( x ^ { - \frac { 1 } { n } } ) ,$$
+
+$$P ( k _ { s i g n a l } , T , t ) = 2 R e \sum _ { j } \exp ( i k _ { s i g n a l } \cdot r _ { j } ) \sum _ { \alpha < \beta } M _ { \alpha \beta } ^ { ( j ) } p _ { \alpha \beta } ^ { ( j ) } ( E _ { i } ; t )$$
+
+$$\begin{array} { r l } { \| \partial _ { 0 } ^ { \beta } \partial _ { i } \Phi [ \xi ] \langle \mathcal { D } \rangle ^ { - \frac { | \theta | + 1 } { 2 } } h \| _ { L _ { 1 } ^ { 2 } H _ { 2 } ^ { 2 } } } & { { } } \\ { \leq \| \partial _ { 0 } ^ { \beta } \partial _ { i } \xi \| _ { L _ { 2 } ^ { \infty } S O } ^ { | 0 0 , r } \tau _ { 5 0 } \tau ^ { \frac { 1 } { 2 } + | \beta | } \| h \| _ { L _ { 1 } ^ { 2 } } H _ { 2 } ^ { 2 } , } & { { } \forall s \in [ 0 , 5 ] , } \end{array}$$
+
+$$E ( u ) = \frac { 1 } { 2 } ( D u + ( D u ) ^ { T } ) = \frac { 1 } { 2 } ( \partial _ { j } u _ { k } + \partial _ { k } u _ { j } ) _ { 1 \leq i , k \leq 2 }$$

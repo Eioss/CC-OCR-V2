@@ -1,0 +1,16 @@
+```json
+{
+    "date_issue": "10/1/02",
+    "vendor_address": "101 east 2nd street, seymour, indiana 47274",
+    "vendor_name": "larsen interactive, inc.",
+    "vendor_registration_id": "",
+    "customer_billing_name": "Jason Niosi",
+    "customer_billing_address": "Weber Shandwick - ButtOutNow. 676 North St. Clair Suite 1000 Chicago, IL 60611 USA",
+    "amount_total_net": "2,110.00",
+    "amount_total_gross": "$2,110.00",
+    "amount_due": "$2,110.00",
+    "payment_terms": "Payable upon Receipt",
+    "tax_detail_net": "",
+    "tax_detail_gross": ""
+}
+```

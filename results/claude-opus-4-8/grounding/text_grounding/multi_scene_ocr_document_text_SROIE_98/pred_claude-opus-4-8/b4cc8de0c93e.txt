@@ -1,0 +1,5 @@
+The text '7.60' appears multiple times. Here are the coordinates:
+
+(826, 1259, 925, 1295) # TOTAL line
+(826, 1186, 911, 1218) # Total (Inclusive of GST)
+(826, 1369, 911, 1402) # CASH line

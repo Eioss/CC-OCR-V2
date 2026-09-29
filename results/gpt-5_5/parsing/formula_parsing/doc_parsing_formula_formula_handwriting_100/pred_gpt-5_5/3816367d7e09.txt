@@ -1,0 +1,21 @@
+\[
+\begin{aligned}
+\langle x,y\rangle &\equiv \sum_{\tau\in T/\Gamma_n}\left(T^{-1}\operatorname{Pr}_{x}^{\tau}(x),\operatorname{Pr}_{y}(y)\right)_{\pi}\pmod{q_n-1} \\[4pt]
+\int_{U_a(n^{-1/2+\varepsilon})}\phi_i^{*}e^{-a_n\vec{\theta}^{\,T}\vec{\theta}-R_i(\vec{\theta})}\,d\vec{\theta}
+&\le c'n^2\int_{U_a(n^{-1/2+\varepsilon})}e^{-a_n\vec{\theta}^{\,T}\vec{\theta}-R_i(\vec{\theta})}\,d\vec{\theta}
++O\!\left(e^{-cn^{2\varepsilon}}\right)\int_{\mathbb{R}^2}e^{-a_n\vec{\theta}^{\,T}\vec{\theta}}\,d\vec{\theta} \\[4pt]
+&\sqrt{qr}\,\varepsilon_{(q)}\ast\hat{c}\,\delta_{c\mid h+B^2}\sum_{\chi(q)}^{*}\rho\!\left(\frac{k\bar{z}}{qr}\right)\chi_{(q)}\ast(\chi)e\!\left(\frac{-4\pi r^2}{q}\right) \\[4pt]
+\left\langle\sigma_{\pi:k:m,w}(|a|,|b|)\right\rangle
+&=\left\{\sum_{k=-\infty}^{\infty}|a_{n+k}b_{n-k}|A_k^{(r,k,m)}\right\}_{r,s\to\infty}^{\infty} \\[4pt]
+&\frac{1}{\sqrt{N}}\sin(\sqrt{N}\eta t)\sum_{j=1}^{N}|1\rangle_1\cdots|0\rangle_j\cdots|1\rangle_N|1\rangle_c \\[4pt]
+\mathcal{E}_{\varepsilon_n}(u_n,A)
+&\ge c\sum_{i\in Z_{\varepsilon_n}(A)}\sum_{k=1}^{N}\varepsilon_n^{N}\left|D_{\varepsilon_n}^{e_k}u_n(i)\right|^2-cN|A| \\[4pt]
+\widetilde{R}_{h}^{z,j}
+&=
+\begin{pmatrix}
+\widetilde{T} & h\widetilde{T}^{1/2}e & -h\widetilde{H}+\dfrac{h}{2}\left(\widetilde{T}-\widetilde{T}^{-1}\right) \\
+0 & 1 & -h\widetilde{T}^{-1/2}e \\
+0 & 0 & \widetilde{T}^{-1}
+\end{pmatrix}.
+\end{aligned}
+\]

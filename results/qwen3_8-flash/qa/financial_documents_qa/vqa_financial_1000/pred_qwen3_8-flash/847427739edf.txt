@@ -1,0 +1,16 @@
+The total amount "To Date" as mentioned in the report is **493.72**.
+
+This figure appears in two places:
+- In the top summary row under “TOTAL TO DATE” for account control 110 (TOTAL): `493.72-`
+- In the bottom subtotal row under “TOTAL TO DATE” for account control 130 (TOTAL): `493.72`
+
+Note: The negative sign (`-`) in the first instance likely indicates a credit balance or reversal, but the absolute value of the total to date is **493.72**.
+
+Additionally, handwritten notes at the bottom right show a calculation:
+> Publication Purchases - $30.25  
+> Office - 418.01  
+> **$448.26**
+
+But this appears to be an annotation or reconciliation note, not the official system-reported “Total To Date.”
+
+✅ Therefore, based on the printed accounting system report, the official **Total To Date** is **493.72**.

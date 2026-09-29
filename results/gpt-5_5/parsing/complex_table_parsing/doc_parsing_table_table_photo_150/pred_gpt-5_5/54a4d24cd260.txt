@@ -1,0 +1,37 @@
+```html
+<table>
+  <tr>
+    <td rowspan="2">use type</td>
+    <td colspan="3">Minimum parking required</td>
+  </tr>
+  <tr>
+    <td>in the CBD</td>
+    <td>within 400m distance of a rapid transit station</td>
+    <td>everywhere else</td>
+  </tr>
+  <tr>
+    <td>residential</td>
+    <td colspan="3">1 space per unit</td>
+  </tr>
+  <tr>
+    <td>office</td>
+    <td>1 space per 450m<sup>2</sup></td>
+    <td>1 space per 250m<sup>2</sup></td>
+    <td>1 space per 200m<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td>retail</td>
+    <td>1 space per 400m<sup>2</sup></td>
+    <td>1 space per 200m<sup>2</sup></td>
+    <td>1 space per 150m<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td>factory</td>
+    <td colspan="3">1 space per 450m<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td>other</td>
+    <td colspan="3">1 space per 300m<sup>2</sup></td>
+  </tr>
+</table>
+```

@@ -1,0 +1,78 @@
+```html
+<html><body>
+<h2>投诉处理台账 / 报名签到表</h2> 
+ <p style="text-align: right;">文档编号 RB-337303<br/>日期 2025-07-31</p> 
+ <p>单位：云栖省岚原州岚原云栖信息技术有限公司 | 负责人：陈思远 | 联系电话：15520245142 | 位置/地址：皓月省岚原州东泽区北屿路218号 14栋</p> 
+ <table border="1" data-bbox="150 290 862 807"> 
+  <tr> 
+   <th colspan="4">风险信息</th> 
+   <th colspan="2">复核信息</th> 
+  </tr> 
+  <tr> 
+   <th>风险点</th> 
+   <th>等级</th> 
+   <th>措施</th> 
+   <th>责任</th> 
+   <th>复核</th> 
+   <th>日期</th> 
+  </tr> 
+  <tr> 
+   <td colspan="6"><b>【风险分级管控】</b></td> 
+  </tr> 
+  <tr> 
+   <td rowspan="3">等级分组</td> 
+   <td>A级</td> 
+   <td>电气箱 ✓</td> 
+   <td>限速 (手写勾选) ✓</td> 
+   <td>安环组</td> 
+   <td>施子航 (手写签字)</td> 
+   <td>2025-01-22</td> 
+  </tr> 
+  <tr> 
+   <td>B级</td> 
+   <td>人流拥堵</td> 
+   <td>隔离区</td> 
+   <td>运维组</td> 
+   <td>陈景行 (手写签字)</td> 
+   <td>2025-07-27</td> 
+  </tr> 
+  <tr> 
+   <td>C级</td> 
+   <td>杂物堆积</td> 
+   <td>清理</td> 
+   <td>后勤组</td> 
+   <td>李娜 (手写签字)</td> 
+   <td>2025-07-30</td> 
+  </tr> 
+  <tr> 
+   <td colspan="6"><b>【签批区】</b></td> 
+  </tr> 
+  <tr> 
+   <th>签批</th> 
+   <th>签名栏</th> 
+   <th colspan="3">意见</th> 
+   <th>时间</th> 
+  </tr> 
+  <tr> 
+   <td>批准</td> 
+   <td>(手写: 张伟)</td> 
+   <td colspan="3">复查 OK</td> 
+   <td>2025-08-14</td> 
+  </tr> 
+  <tr> 
+   <td>审核</td> 
+   <td>(手写: 王芳)</td> 
+   <td colspan="3">补充措施 (手写圈注)</td> 
+   <td>2024-09-14</td> 
+  </tr> 
+  <tr> 
+   <td>归档</td> 
+   <td>(手写: 刘强)</td> 
+   <td colspan="3">确认无误</td> 
+   <td>2025-10-01</td> 
+  </tr> 
+ </table> 
+ <div style="text-align: center;"><img src="imgs/img_in_image_box_824_780_862_854.jpg" alt="Image" width="6%" /></div> 
+ <p style="text-align: right;">https://example.com/doc-88665967</p> 
+</body></html>
+```

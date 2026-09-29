@@ -1,0 +1,298 @@
+```html
+<table border="1" width="100%">
+    <tr>
+        <td></td>
+        <td>007</td>
+        <td>图书情报与档案管理类</td>
+        <td>四</td>
+        <td>4</td>
+        <td>5500</td>
+        <td>含图书馆学、档案学</td>
+    </tr>
+    <tr>
+        <td>3242</td>
+        <td colspan="3">专业组: 700 (选考思想政治)</td>
+        <td>2</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>008</td>
+        <td>新闻传播学类</td>
+        <td>四</td>
+        <td>2</td>
+        <td>5500</td>
+        <td>含新闻学、广告学、网络与新媒体</td>
+    </tr>
+    <tr>
+        <td>3242</td>
+        <td colspan="3">专业组: 709 (选考思想政治或地理)</td>
+        <td>2</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>009</td>
+        <td>经济学</td>
+        <td>四</td>
+        <td>2</td>
+        <td>5500</td>
+        <td>基地班</td>
+    </tr>
+    <tr>
+        <td colspan="7"><b>西北工业大学</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& 5 &nbsp;&nbsp;&nbsp;&nbsp; (西安市) (公办)</td>
+    </tr>
+    <tr>
+        <td colspan="7">招生章程网址: http://zsb.nwpu.edu.cn</td>
+    </tr>
+    <tr>
+        <td>3243</td>
+        <td colspan="3">专业组: 999 (不限选考科目)</td>
+        <td>5</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>001</td>
+        <td>经济与贸易类 (国贸与法学)</td>
+        <td>四</td>
+        <td>3</td>
+        <td>5500</td>
+        <td>含国际经济与贸易、法学</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>002</td>
+        <td>外国语言文学类</td>
+        <td>四</td>
+        <td>2</td>
+        <td>5500</td>
+        <td>含英语、德语</td>
+    </tr>
+    <tr>
+        <td colspan="7"><b>西北民族大学</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp...... 26 &nbsp;&nbsp;&nbsp;&nbsp; (兰州市) (公办)</td>
+    </tr>
+    <tr>
+        <td colspan="7">招生章程网址: http://cms.xbmu.edu.cn/zsxx</td>
+    </tr>
+    <tr>
+        <td>3245</td>
+        <td colspan="3">专业组: 999 (不限选考科目)</td>
+        <td>21</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>001</td>
+        <td>金融学</td>
+        <td>四</td>
+        <td>2</td>
+        <td>3800</td>
+        <td>数学成绩达到单科成绩满分的 60%。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>002</td>
+        <td>法学</td>
+        <td>四</td>
+        <td>3</td>
+        <td>3800</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>003</td>
+        <td>中国语言文学类</td>
+        <td>四</td>
+        <td>2</td>
+        <td>3800</td>
+        <td>含汉语言文学、汉语国际教育。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>004</td>
+        <td>英语</td>
+        <td>四</td>
+        <td>2</td>
+        <td>4400</td>
+        <td>语种: 英语, 英语成绩达到单科成绩满分的 60%。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>005</td>
+        <td>阿拉伯语</td>
+        <td>四</td>
+        <td>2</td>
+        <td>4400</td>
+        <td>语种: 英语, 英语成绩达到单科成绩满分的 60%。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>006</td>
+        <td>新闻传播学类</td>
+        <td>四</td>
+        <td>4</td>
+        <td>3800</td>
+        <td>含新闻学、广播电视学、广告学、数字出版。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>007</td>
+        <td>历史学</td>
+        <td>四</td>
+        <td>2</td>
+        <td>3800</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>008</td>
+        <td>工商管理</td>
+        <td>四</td>
+        <td>2</td>
+        <td>3800</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>009</td>
+        <td>公共事业管理</td>
+        <td>四</td>
+        <td>2</td>
+        <td>3800</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3245</td>
+        <td colspan="3">专业组: 700 (选考思想政治)</td>
+        <td>5</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>010</td>
+        <td>社会学类</td>
+        <td>四</td>
+        <td>5</td>
+        <td>3800</td>
+        <td>含社会学、社会工作</td>
+    </tr>
+    <tr>
+        <td colspan="7"><b>西北农林科技大学</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp...... 12 &nbsp;&nbsp;&nbsp;&nbsp; (杨凌) (公办)</td>
+    </tr>
+    <tr>
+        <td colspan="7">招生章程网址: https://zhshw.nwafu.edu.cn</td>
+    </tr>
+    <tr>
+        <td>3246</td>
+        <td colspan="3">专业组: 999 (不限选考科目)</td>
+        <td>7</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>001</td>
+        <td>经济学类</td>
+        <td>四</td>
+        <td>1</td>
+        <td>5500</td>
+        <td>含经济学、国际经济与贸易、金融学、保险学。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>002</td>
+        <td>法学</td>
+        <td>四</td>
+        <td>2</td>
+        <td>5500</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>003</td>
+        <td>社会学类</td>
+        <td>四</td>
+        <td>1</td>
+        <td>5500</td>
+        <td>含社会学、社会工作。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>004</td>
+        <td>英语</td>
+        <td>四</td>
+        <td>1</td>
+        <td>5500</td>
+        <td>语种: 英语。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>005</td>
+        <td>工商管理类</td>
+        <td>四</td>
+        <td>1</td>
+        <td>5500</td>
+        <td>含市场营销、土地资源管理、农林经济管理、工商管理、会计学。</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>006</td>
+        <td>公共管理类</td>
+        <td>四</td>
+        <td>1</td>
+        <td>5500</td>
+        <td>含劳动与社会保障、公共事业管理。</td>
+    </tr>
+    <tr>
+        <td>3246</td>
+        <td colspan="3">专业组: 506 (选考化学或生物)</td>
+        <td>5</td>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>007</td>
+        <td>农学 (农学类)</td>
+        <td>四</td>
+        <td>1</td>
+        <td>6600</td>
+        <td>含农学、种子科学与工程、植物科学与技术</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>008</td>
+        <td>园艺 (园艺类)</td>
+        <td>四</td>
+        <td>1</td>
+        <td>6600</td>
+        <td>含园艺、茶学</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>009</td>
+        <td>植物保护</td>
+        <td>四</td>
+        <td>1</td>
+        <td>6600</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>010</td>
+        <td>林学类</td>
+        <td>四</td>
+        <td>1</td>
+        <td>6600</td>
+        <td>含林学、森林保护</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>011</td>
+        <td>草业科学</td>
+        <td>四</td>
+        <td>1</td>
+        <td>6600</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="7"><b>西北师范大学</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&......

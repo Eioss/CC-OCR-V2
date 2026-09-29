@@ -1,0 +1,213 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                        displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+                        processEscapes: true,
+                        processEnvironments: true
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"]
+                        }
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th colspan="6" style="text-align:left;">PAT0T0~PAT2T0: Pattern Timer 0 (Page 0: Address 0x36 0x3A 0x3E)</th>
+    </tr>
+    <tr>
+     <th>Bit</th>
+     <th>Symbol</th>
+     <th>R/W</th>
+     <th colspan="2">Description</th>
+     <th>Default</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="16">7:4</td>
+     <td rowspan="16">T0</td>
+     <td rowspan="16">R/W</td>
+     <td colspan="2">Ramp rise time</td>
+     <td rowspan="16">0000</td>
+    </tr>
+    <tr>
+     <td>T0</td>
+     <td>Time</td>
+     <td>T0</td>
+     <td>Time</td>
+    </tr>
+    <tr>
+     <td>0000</td>
+     <td>0s</td>
+     <td>1000</td>
+     <td>2.1s</td>
+    </tr>
+    <tr>
+     <td>0001</td>
+     <td>0.13s</td>
+     <td>1001</td>
+     <td>2.6s</td>
+    </tr>
+    <tr>
+     <td>0010</td>
+     <td>0.26s</td>
+     <td>1010</td>
+     <td>3.1s</td>
+    </tr>
+    <tr>
+     <td>0011</td>
+     <td>0.38s</td>
+     <td>1011</td>
+     <td>4.2s</td>
+    </tr>
+    <tr>
+     <td>0100</td>
+     <td>0.51s</td>
+     <td>1100</td>
+     <td>5.2s</td>
+    </tr>
+    <tr>
+     <td>0101</td>
+     <td>0.77s</td>
+     <td>1101</td>
+     <td>6.2s</td>
+    </tr>
+    <tr>
+     <td>0110</td>
+     <td>1.04s</td>
+     <td>1110</td>
+     <td>7.3s</td>
+    </tr>
+    <tr>
+     <td>0111</td>
+     <td>1.6s</td>
+     <td>1111</td>
+     <td>8.3s</td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td rowspan="16">3:0</td>
+     <td rowspan="16">T1</td>
+     <td rowspan="16">R/W</td>
+     <td colspan="2">Hold on time</td>
+     <td rowspan="16">0000</td>
+    </tr>
+    <tr>
+     <td>T1</td>
+     <td>Time</td>
+     <td>T1</td>
+     <td>Time</td>
+    </tr>
+    <tr>
+     <td>0000</td>
+     <td>0.04s</td>
+     <td>1000</td>
+     <td>2.1s</td>
+    </tr>
+    <tr>
+     <td>0001</td>
+     <td>0.13s</td>
+     <td>1001</td>
+     <td>2.6s</td>
+    </tr>
+    <tr>
+     <td>0010</td>
+     <td>0.26s</td>
+     <td>1010</td>
+     <td>3.1s</td>
+    </tr>
+    <tr>
+     <td>0011</td>
+     <td>0.38s</td>
+     <td>1011</td>
+     <td>4.2s</td>
+    </tr>
+    <tr>
+     <td>0100</td>
+     <td>0.51s</td>
+     <td>1100</td>
+     <td>5.2s</td>
+    </tr>
+    <tr>
+     <td>0101</td>
+     <td>0.77s</td>
+     <td>1101</td>
+     <td>6.2s</td>
+    </tr>
+    <tr>
+     <td>0110</td>
+     <td>1.04s</td>
+     <td>1110</td>
+     <td>7.3s</td>
+    </tr>
+    <tr>
+     <td>0111</td>
+     <td>1.6s</td>
+     <td>1111</td>
+     <td>8.3s</td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+    <tr>
+     <td colspan="4"></td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

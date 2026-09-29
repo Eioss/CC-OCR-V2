@@ -1,0 +1,41 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Cap Cay",
+            "item": [
+                {
+                    "name": "Nasi Cap Cay Porsi B esar",
+                    "unit_price": "65.000",
+                    "count": "1",
+                    "price": "65.000"
+                }
+            ]
+        },
+        {
+            "name": "Minuman",
+            "item": [
+                {
+                    "name": "Teh Tawar",
+                    "unit_price": "4.000",
+                    "count": "2",
+                    "price": "8.000"
+                }
+            ]
+        },
+        {
+            "name": "Lain-lain",
+            "item": [
+                {
+                    "name": "Fu Yung Hai",
+                    "unit_price": "65.000",
+                    "count": "1",
+                    "price": "65.000"
+                }
+            ]
+        }
+    ],
+    "sub_total": "Rp 138.000",
+    "total": "Rp 138.000"
+}
+```

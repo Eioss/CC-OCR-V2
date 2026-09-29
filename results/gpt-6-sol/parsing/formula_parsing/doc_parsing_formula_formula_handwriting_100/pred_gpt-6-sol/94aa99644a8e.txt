@@ -1,0 +1,79 @@
+\[
+\begin{aligned}
+\lVert TX^R\rVert_{L_\omega^rL_{[0,T]}^\infty L_x^2}
+&\le \lVert X_0\rVert_{L_\omega^rL_x^2}
++\left\lVert\int_0^t S_\beta(t,s)\theta_R(X^R)(s)
+|X^R(s)|^{2\sigma}X^R(s)\,ds
+\right\rVert_{L_\omega^rL_{[0,T]}^\infty L_x^2}\\
+&\le \lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\bigl\lVert\theta_R(X^R)|X^R|^{2\sigma+1}
+\bigr\rVert_{L_\omega^rL_{[0,T]}^{\gamma'}L_x^{p'}}\\
+&=\lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\lVert
+\left(\int_0^T\theta_R(X^R)^{\gamma'}(t)
+\left(\int_{\mathbb R}|X^R(t)|^{(2\sigma+1)p'}\,dx
+\right)^{\gamma'/p'}dt\right)^{1/\gamma'}
+\right\rVert_{L_\omega^r}.
+\end{aligned}
+\]
+
+Since \(p'=\dfrac{2\sigma+2}{2\sigma+1}\), the right-hand side equals
+\[
+\begin{aligned}
+&\lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\lVert
+\left(\int_0^T\theta_R(X^R)^{\gamma'}(t)
+\lVert X^R(t)\rVert_{L_x^{2\sigma+2}}^{(2\sigma+1)\gamma'}\,dt
+\right)^{1/\gamma'}
+\right\rVert_{L_\omega^r}.
+\end{aligned}
+\]
+Since \(\gamma\ge\gamma'(2\sigma+1)=2\sigma+2\), Hölder’s inequality gives
+\[
+\begin{aligned}
+&\le \lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\lVert
+\left(\int_0^T
+\theta_R(X^R)(t)^{\gamma/(2\sigma+1)}
+\lVert X^R(t)\rVert_{L_x^{2\sigma+2}}^\gamma\,dt
+\right)^{(2\sigma+1)/\gamma}
+T^{\frac{\gamma-\gamma'(2\sigma+1)}{\gamma\gamma'}}
+\right\rVert_{L_\omega^r}.
+\end{aligned}
+\]
+Letting
+\[
+\tilde t(\omega):=\inf\left\{s:
+\lVert X^R(\omega)\rVert_{L^\gamma([0,s];L_x^p)}
+\ge 2R\right\},
+\]
+we have
+\[
+\begin{aligned}
+&= \lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\tilde\beta}
+\left\lVert
+\left(\int_0^{\tilde t}
+\theta_R(X^R)(t)^{\gamma/(2\sigma+1)}
+\lVert X^R(t)\rVert_{L_x^p}^\gamma\,dt
+\right)^{(2\sigma+1)/\gamma}
+\right\rVert_{L_\omega^r}\\
+&\le \lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\tilde\beta}
+\left\lVert
+\left(\int_0^{\tilde t}
+\lVert X^R(t)\rVert_{L_x^{2\sigma+2}}^\gamma\,dt
+\right)^{(2\sigma+1)/\gamma}
+\right\rVert_{L_\omega^r}\\
+&\le \lVert X_0\rVert_{L_\omega^rL_x^2}
++C_{1,p}T^{\tilde\beta}(2R)^{2\sigma}
+\lVert X^R\rVert_{L_\omega^rL_{[0,T]}^\gamma L_x^p},
+\end{aligned}
+\qquad
+\tilde\beta
+=\bar\beta+\frac{\gamma-\gamma'(2\sigma+1)}{\gamma\gamma'}>0.
+\]

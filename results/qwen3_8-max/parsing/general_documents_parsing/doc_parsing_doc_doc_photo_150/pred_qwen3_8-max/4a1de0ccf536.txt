@@ -1,0 +1,83 @@
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{ulem} % For underline if needed, though not strictly used in final table
+\usepackage{fontspec} % For Chinese characters if compiling with XeLaTeX/LuaLaTeX
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    {\Large \textbf{工程款支付/预付证书}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent 工程名称: \underline{长春智能光谷产业园项目(西地块)工程}
+
+\vspace{0.3cm}
+
+\noindent 致: \underline{长春新区发展集团有限公司} (建设单位)
+
+\vspace{0.3cm}
+
+根据施工合同的规定,经审核承包单位的付款申请和报表,并扣除有关款项,同意本期支付工程款/预付款共(大写): \underline{伍佰陆拾壹万壹仟伍佰伍拾陆元零叁角肆分} (小写: \underline{5611556.34} 元),请按合同规定付款。
+
+\vspace{0.3cm}
+
+其中:
+\begin{enumerate}
+    \item[1、] 本期承包单位申报款: \underline{5611556.34} (元)
+    \item[2、] 本期监理审定值: \underline{5611556.34} (元)
+    \item[3、] 本期应扣质保金: \underline{\hspace{3cm}} (元)
+    \item[4、] 本期应付款: \underline{\hspace{3cm}} (元)
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\noindent 附件: \hfill 单位: \\
+\hfill 元
+
+\vspace{0.3cm}
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|c|}
+        \hline
+        \diagbox{月份}{项目} & \begin{tabular}{c}承包单位\\申报款\end{tabular} & 监理审定值 & \begin{tabular}{c}造价咨询单位\\审定值\end{tabular} & 应付款 & 合同价款 & 备注 \\
+        \hline
+        2021年7月 & 1,153,629.00 & 1,153,629.00 & 789,525.55 & 460,451.30 & & \\
+        \hline
+        2021年8月 & 4,897,034.00 & 4,897,034.00 & 4,498,600.86 & 2,623,584.02 & & \\
+        \hline
+        2021年9月 & 18,287,325.00 & 18,287,325.00 & 16,292,617.29 & 9,501,854.40 & & \\
+        \hline
+        2021年10月 & 27,299,926.00 & 27,299,926.00 & 25,787,587.97 & 15,039,321.31 & & \\
+        \hline
+        2021年11月 & 5,611,556.34 & 5,611,556.34 & 5,234,167.81 & 3,052,566.67 & & \\
+        \hline
+        合计 & 57,249,470.34 & 57,249,470.34 & 52,602,499.48 & 30,677,777.70 & & \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|p{0.23\textwidth}|p{0.23\textwidth}|p{0.23\textwidth}|p{0.23\textwidth}|}
+    \hline
+    建设单位(章): & 项目监理机构(章): & 承包单位(章): & 造价咨询单位(章): \\
+    [Seal: 长春新区发展集团有限公司] & [Seal: 吉林东南...管理咨询有限公司] & [Seal: ...建设集团有限公司] & [Seal: 中恒一项目管理咨询有限公司] \\
+    \hline
+    业主代表(签字): & 总监理工程师(签字): & 项目经理(签字): & 项目负责人(签字): \\
+    [Signature] & 刘传彬 & 蔡映静 & \\
+    日期: 2021.11.19 & 日期: 2021.11.18 & 日期: 2021.11.15 & 造价师(签章): [Signature] \\
+    & & & 日期: 2021.11.25 \\
+    \hline
+\end{tabular}
+
+\end{document}
+```

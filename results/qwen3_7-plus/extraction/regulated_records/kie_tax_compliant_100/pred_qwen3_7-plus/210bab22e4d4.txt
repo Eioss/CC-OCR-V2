@@ -1,0 +1,12 @@
+```json
+{
+    "date": "01/05/2018",
+    "doc_no_receipt_no": "36173",
+    "seller_address": "KM 4, JLN AMPANG, HULU LANGAT, 68000 AMAPNG, SELANGOR.",
+    "seller_gst_id": "0009 3395 3536",
+    "seller_name": "VEG FISH FARM THAI RESTAURANT S/B",
+    "seller_phone": "+6012-260 6493 OR +6012-286 8193",
+    "total_amount": "412.90",
+    "total_tax": "23.37"
+}
+```

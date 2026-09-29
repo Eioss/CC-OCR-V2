@@ -1,0 +1,15 @@
+$$\lim_{\varepsilon \to 0}\left[ I_{\varepsilon-k,\varrho}(\phi) - \frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}\right]$$
+
+$$= \lim_{\varepsilon \to 0}\left[ \frac{(-1)^k I_{\varepsilon,\varrho}(\phi^{(k)})}{\prod_{\ell=0}^{k-1}(\varepsilon-\ell)} + \sum_{j=0}^{k-1}\frac{(-1)^j \phi^{(j)}(\varrho)\varrho^{\varepsilon-k+j+1}}{\prod_{\ell=k-j-1}^{k-1}(\varepsilon-\ell)} - \frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}\right]$$
+
+$$= \lim_{\varepsilon \to 0}\left[ \frac{(-1)^k}{\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}\int_{r=0}^{\varrho}\frac{r^{\varepsilon-1}}{\varepsilon}\phi^{(k)}(r) + \frac{(-1)^k\int_{r=0}^{\varrho}\phi^{(k)}(r)}{\varepsilon\prod_{\ell=1}^{k-1}(\varepsilon-\ell)} - \frac{\phi^{(k-1)}(0)}{\varepsilon(k-1)!}\right.$$
+
+$$+ \frac{(-1)^{k-1}\phi^{(k-1)}(\varrho)\varrho^{\varepsilon}}{\varepsilon\prod_{\ell=1}^{k-1}(\varepsilon-\ell)} + \sum_{j=0}^{k-2}\frac{(-1)^j\phi^{(j)}(\varrho)\varrho^{\varepsilon-k+j+1}}{\prod_{\ell=k-j-1}^{k-1}(\varepsilon-\ell)}\Bigg]$$
+
+$$= \lim_{\varepsilon \to 0}\left[ \frac{(-1)^k}{\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}\int_{r=0}^{\varrho}\frac{r^{\varepsilon-1}}{\varepsilon}\phi^{(k)}(r) - \frac{\phi^{(k-1)}(0)}{\varepsilon}\left(\frac{1}{(k-1)!}+\frac{(-1)^k}{\prod_{\ell=1}^{k-1}(\varepsilon-\ell)}\right)\right.$$
+
+$$+ \frac{(-1)^k\phi^{(k-1)}(\varrho)(1-\varrho^{\varepsilon})}{\varepsilon\prod_{\ell=1}^{k-1}(\varepsilon-\ell)} + \sum_{j=0}^{k-2}\frac{(-1)^j\phi^{(j)}(\varrho)\varrho^{\varepsilon-k+j+1}}{\prod_{\ell=k-j-1}^{k-1}(\varepsilon-\ell)}\Bigg]$$
+
+$$= -\frac{1}{(k-1)!}\int_{r=0}^{\varrho}(\ln r)\phi^{(k)}(r)$$
+
+$$+ \frac{\phi^{(k-1)}(0)}{(k-1)!}\sum_{r=1}^{k-1}\frac{1}{\nu} - \frac{1}{(k-1)!}\sum_{j=0}^{k-2}\phi^{(j)}(\varrho)\varrho^{-k+j+1}(k-j-2)!$$

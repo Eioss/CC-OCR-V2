@@ -1,0 +1,120 @@
+\[
+\textbf{Pythagorean identities:}
+\begin{aligned}
+\sin^2\theta+\cos^2\theta&=1\\
+\tan^2\theta+1&=\sec^2\theta\\
+1+\cot^2\theta&=\csc^2\theta
+\end{aligned}
+\]
+
+\[
+\textbf{Reciprocal identities:}
+\begin{aligned}
+\csc x&=\frac{1}{\sin x}\\
+\sec x&=\frac{1}{\cos x}\\
+\cot x&=\frac{1}{\tan x}
+\end{aligned}
+\]
+
+\[
+\textbf{Even-odd identities:}
+\begin{aligned}
+\sin(-x)&=-\sin x\\
+\cos(-x)&=\cos x\\
+\tan(-x)&=-\tan x
+\end{aligned}
+\]
+
+\[
+\textbf{Product to sum formulas:}
+\begin{aligned}
+\sin x\cdot\sin y&=\frac12\left[\cos(x-y)-\cos(x+y)\right]\\
+\cos x\cdot\cos y&=\frac12\left[\cos(x-y)+\cos(x+y)\right]\\
+\sin x\cdot\cos y&=\frac12\left[\sin(x+y)+\sin(x-y)\right]\\
+\cos x\cdot\sin y&=\frac12\left[\sin(x+y)-\sin(x-y)\right]
+\end{aligned}
+\]
+
+\[
+\textbf{Sum to product:}
+\begin{aligned}
+\sin x\pm\sin y&=2\sin\left(\frac{x\pm y}{2}\right)\cos\left(\frac{x\mp y}{2}\right)\\
+\cos x+\cos y&=2\cos\left(\frac{x+y}{2}\right)\cos\left(\frac{x-y}{2}\right)\\
+\cos x-\cos y&=-2\sin\left(\frac{x+y}{2}\right)\sin\left(\frac{x-y}{2}\right)
+\end{aligned}
+\]
+
+\[
+\textbf{Double-angle formulas:}
+\begin{aligned}
+\sin 2\theta&=2\cdot\sin\theta\cos\theta\\
+\cos 2\theta&=\cos^2\theta-\sin^2\theta=1-2\sin^2\theta=2\cos^2\theta-1\\
+\tan 2\theta&=\frac{2\tan\theta}{1-\tan^2\theta}
+\end{aligned}
+\]
+
+\[
+\textbf{Co-function identities:}
+\begin{aligned}
+\cos\left(\frac{\pi}{2}-x\right)&=\sin x\\
+\sin\left(\frac{\pi}{2}-x\right)&=\cos x\\
+\tan\left(\frac{\pi}{2}-x\right)&=\cot x\\
+\cot\left(\frac{\pi}{2}-x\right)&=\tan x\\
+\csc\left(\frac{\pi}{2}-x\right)&=\sec x\\
+\sec\left(\frac{\pi}{2}-x\right)&=\csc x
+\end{aligned}
+\]
+
+\[
+\textbf{Periodicity identities:}
+\begin{aligned}
+\sin(x\pm2\pi)&=\sin x\\
+\cos(x\pm2\pi)&=\cos x\\
+\tan(x\pm\pi)&=\tan x\\
+\cot(x\pm\pi)&=\cot x\\
+\sec(x\pm2\pi)&=\sec x\\
+\csc(x\pm2\pi)&=\csc x
+\end{aligned}
+\]
+
+\[
+\textbf{Sum and difference formulas:}
+\begin{aligned}
+\sin(x\pm y)&=\sin x\cos y\pm\cos x\sin y\\
+\cos(x\pm y)&=\cos x\cos y\mp\sin x\sin y\\
+\tan(x\pm y)&=\frac{\tan x\pm\tan y}{1\mp\tan x\tan y}
+\end{aligned}
+\]
+
+\[
+\textbf{Half-angle formulas:}
+\begin{aligned}
+\sin\left(\frac{x}{2}\right)&=\pm\sqrt{\frac{1-\cos x}{2}}\\
+\cos\left(\frac{x}{2}\right)&=\pm\sqrt{\frac{1+\cos x}{2}}\\
+\tan\left(\frac{x}{2}\right)&=\frac{1-\cos x}{\sin x}
+\end{aligned}
+\]
+
+\[
+\textbf{Law of sines:}\qquad
+\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}
+\]
+
+\[
+\textbf{Law of cosines:}
+\begin{aligned}
+a^2&=b^2+c^2-2bc\cos A\\
+A&=\cos^{-1}\left(\frac{b^2+c^2-a^2}{2bc}\right)
+\end{aligned}
+\]
+
+\[
+\textbf{Area of triangle:}\qquad
+\frac12ab\sin C
+\]
+\[
+\sqrt{s(s-a)(s-b)(s-c)},
+\]
+\[
+\text{where }s=\frac12(a+b+c)
+\]

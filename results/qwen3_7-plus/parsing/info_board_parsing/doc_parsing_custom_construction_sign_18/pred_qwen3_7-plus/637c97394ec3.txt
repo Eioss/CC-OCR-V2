@@ -1,0 +1,107 @@
+```html
+<h2 style="text-align: center;">施工现场信息公示牌</h2>
+<p style="text-align: right;">文档编号 SG-123002<br />日 期 2024-05-27</p>
+<h3 style="text-align: center;">工程概况 / 责任体系 / 检查记录</h3>
+<p>施工/项目名称：临澜省新栖区云杉路综合体项目（一期）<br />单 位 名 称：临澜省皓月市澄岳临澜信息技术有限公司<br />工 程 地 点：青岚省皓月市新栖区云杉路92号 1栋<br />责 任 人：项目负责人 孔安然；安全员 魏清越；联系电话 18363434388</p>
+
+<table border="1">
+    <tr>
+        <th colspan="4">工程基本信息表（含多级表头）</th>
+    </tr>
+    <tr>
+        <th colspan="2">分区/阶段</th>
+        <th>基本参数<br>(面积m²/高度m/层数)</th>
+        <th>进度状态<br>(计划/实际)</th>
+        <th>关键编号/说明</th>
+    </tr>
+    <tr>
+        <td rowspan="2">A区主体结构</td>
+        <td>地下室</td>
+        <td>12500.5 / 6.5 / 2</td>
+        <td>进行中 / 已完成80% √</td>
+        <td>桩基编号：424454259743226415</td>
+    </tr>
+    <tr>
+        <td>地上部分</td>
+        <td>45000.0 / 98.5 / 32</td>
+        <td>计划中 / 进行中</td>
+        <td>备注：需加强防尘措施 (手写)</td>
+    </tr>
+    <tr>
+        <td rowspan="2">B区配套设施</td>
+        <td>水电管网</td>
+        <td>--- / --- / ---</td>
+        <td>未开始 / ---</td>
+        <td>编号：P-2405-B01</td>
+    </tr>
+    <tr>
+        <td>道路硬化</td>
+        <td>8000.0 / --- / ---</td>
+        <td>已完成 / ---</td>
+        <td>---</td>
+    </tr>
+    <tr>
+        <td colspan="2">小计/合计</td>
+        <td>8000.0 / --- / ---</td>
+        <td>---</td>
+        <td></td>
+    </tr>
+</table>
+
+<table border="1">
+    <tr>
+        <th colspan="6">巡检/隐患整改闭环表（含签字确认栏）</th>
+    </tr>
+    <tr>
+        <th>日期</th>
+        <th>检查项/隐患描述</th>
+        <th>整改要求/期限</th>
+        <th>责任人/状态</th>
+        <th>复查结果<br>(合格/不合格)</th>
+        <th>签字确认</th>
+    </tr>
+    <tr>
+        <td>2024-05-25</td>
+        <td>脚手架连接件松动</td>
+        <td>立即加固 / 2024-05-26</td>
+        <td>魏清越 / 待整改</td>
+        <td>合格√ (手写)</td>
+        <td>孔安然 (手写签字)</td>
+    </tr>
+    <tr>
+        <td>2024-05-26</td>
+        <td>材料堆放区积水</td>
+        <td>清理排水 / 2024-05-27</td>
+        <td>李工 / 已整改</td>
+        <td>合格√ (手写)</td>
+        <td>魏清越 (手写签字)</td>
+    </tr>
+    <tr>
+        <td>2024-05-27</td>
+        <td>临时用电箱未上锁</td>
+        <td>立即上锁 / 当日</td>
+        <td>张伟 / 待确认</td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_763_837_792_887.jpg" alt="Image" width="6%" /></div>
+<p style="text-align: center;">https://example.com/doc-56048236</p>
+```

@@ -1,0 +1,74 @@
+Of course. Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{multirow}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent
+\begin{tabular}{@{}p{0.48\textwidth}|p{0.48\textwidth}@{}}
+\multicolumn{2}{c}{\textbf{Statistical Analysis and Probability}} \\
+\hline
+\textbf{Mean} & $\bar{x} = \text{sample mean}$ \\
+$\bar{x} = \frac{1}{n}\sum_{i=1}^{n}x_i$ & $n = \text{size of the sample}$ \\[2ex]
+\textbf{Standard Deviation*} & $s = \text{sample standard deviation (i.e., the sample-based}$ \\
+$S = \sqrt{\frac{\sum(x_i - \bar{x})^2}{n-1}}$ & \quad \text{estimate of the standard deviation of the}$ \\
+& \quad \text{population)} \\[2ex]
+\textbf{Standard Error of the Mean*} & $o = \text{observed results}$ \\
+$SE_{\bar{x}} = \frac{s}{\sqrt{n}}$ & $e = \text{expected results}$ \\[2ex]
+\textbf{Chi-Square} & Degrees of freedom are equal to the number of \\
+$\chi^2 = \sum \frac{(o-e)^2}{e}$ & distinct possible outcomes minus one. \\[2ex]
+\multicolumn{1}{c|}{\textbf{Chi-Square Table}} & \\
+\cline{1-1}
+\multicolumn{1}{c|}{%
+\begin{tabular}{c|cccccccc}
+\textit{p} & \multicolumn{8}{c}{\textbf{Degrees of Freedom}} \\
+\cline{2-9}
+\textbf{value} & \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} & \textbf{8} \\
+\hline
+0.05 & 3.84 & 5.99 & 7.82 & 9.49 & 11.07 & 12.59 & 14.07 & 15.51 \\
+0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09 \\
+\end{tabular}%
+} & \\
+\hline
+\textbf{Laws of Probability} & \multicolumn{1}{c}{\textbf{Metric Prefixes}} \\
+If A and B are mutually exclusive, then: & \\
+\quad $P(\text{A or B}) = P(\text{A}) + P(\text{B})$ &
+\begin{tabular}{lll}
+\textbf{Factor} & \textbf{Prefix} & \textbf{Symbol} \\
+\hline
+$10^9$ & giga & G \\
+$10^6$ & mega & M \\
+$10^3$ & kilo & k \\
+$10^{-2}$ & centi & c \\
+$10^{-3}$ & milli & m \\
+$10^{-6}$ & micro & $\mu$ \\
+$10^{-9}$ & nano & n \\
+$10^{-12}$ & pico & p \\
+\end{tabular}
+\\
+If A and B are independent, then: & \\
+\quad $P(\text{A and B}) = P(\text{A}) \times P(\text{B})$ & \\[2ex]
+\textbf{Hardy-Weinberg Equations} & \\
+$p^2 + 2pq + q^2 = 1$ \quad $p = \text{frequency of the dominant allele}$ & \\
+\quad \quad \quad \quad \quad \quad \quad \quad \text{in a population} & \\
+$p + q = 1$ \quad \quad \quad $q = \text{frequency of the recessive allele}$ & \\
+\quad \quad \quad \quad \quad \quad \quad \quad \text{in a population} & \\
+\hline
+\multicolumn{2}{p{\textwidth}}{Mode = value that occurs most frequently in a data set} \\[1ex]
+\multicolumn{2}{p{\textwidth}}{Median = middle value that separates the greater and lesser halves of a data set} \\[1ex]
+\multicolumn{2}{p{\textwidth}}{Mean = sum of all data points divided by number of data points} \\[1ex]
+\multicolumn{2}{p{\textwidth}}{Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)} \\
+\hline
+\multicolumn{2}{p{\textwidth}}{* \textit{For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, they must understand the underlying concepts and applications.}} \\
+\end{tabular}
+
+\end{document}
+```

@@ -1,0 +1,14 @@
+\[
+\left\{
+\begin{aligned}
+\tilde r_0(\zeta)(z,w) &= \frac{z_0+\bar z_0}{2}-{}^t\bar z_\alpha A z_\alpha=0,\\
+\tilde r_1(\zeta)(z,w) &= i\frac{w_0}{2}-i\zeta\bar w_0=0,\\
+\tilde r_2(\zeta)(z,w) &= \left(w_1-2w_0\partial_{z_1}r(z)\right)+\left(\overline{w_1-2w_0\partial_{z_1}r(z)}\right)=0,\\
+&\vdots\\
+\tilde r_{n+1}(\zeta)(z,w) &= \left(w_n-2w_0\partial_{z_n}r(z)\right)+\left(\overline{w_n-2w_0\partial_{z_n}r(z)}\right)=0,\\
+\tilde r_{n+2}(\zeta)(z,w) &= i\left(w_1-2w_0\partial_{z_1}r(z)\right)-i\left(\overline{w_1-2w_0\partial_{z_1}r(z)}\right)=0,\\
+&\vdots\\
+\tilde r_{2n+1}(\zeta)(z,w) &= i\left(w_n-2w_0\partial_{z_n}r(z)\right)-i\left(\overline{w_n-2w_0\partial_{z_n}r(z)}\right)=0.
+\end{aligned}
+\right.
+\]

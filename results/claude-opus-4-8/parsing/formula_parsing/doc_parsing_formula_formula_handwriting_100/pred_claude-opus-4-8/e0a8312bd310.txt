@@ -1,0 +1,15 @@
+$$
+\begin{pmatrix}
+ & & & & \vdots & & & & \\
+ & & & & x & & & & \\
+ & & ccc & x & ccc & & & \\
+ & & bbc & x & cbb & & & \\
+ & & abc & x & cba & & & \\
+\cdots & x & x & x & x & x & x & x & \cdots \\
+ & & abc & x & cba & & & \\
+ & & bbc & x & cbb & & & \\
+ & & ccc & x & ccc & & & \\
+ & & & & x & & & & \\
+ & & & & \vdots & & & &
+\end{pmatrix}
+$$

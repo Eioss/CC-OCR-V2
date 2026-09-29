@@ -1,0 +1,5 @@
+The carrier code is **001**.
+
+This is found in the bottom right section of the ticket, under the "AIRLINE CODE" field, next to the number "1" (which likely indicates coupon 1). The full airline code shown is "001", which corresponds to American Airlines.
+
+Additionally, you can see "AA" written multiple times in the flight segments (e.g., AA 577Y, AA 232Y), which is the IATA two-letter designator for American Airlines. But the numeric carrier code requested is **001**.

@@ -1,0 +1,89 @@
+Based on the provided map and its legend, we can find the total number of CAR (Central African Republic) refugees in **Congo** and **Cameroon** from the box titled:
+
+> **Total population of CAR refugees¹**
+
+This box lists:
+- **Cameroon**: 98,504
+- **DR Congo**: 56,000 *(Note: “DR Congo” is the Democratic Republic of the Congo — this is what the question refers to as “Congo”)*
+- Chad: 80,364
+- Congo: 11,000 *(Note: This likely refers to the Republic of the Congo, which borders CAR to the southwest)*
+
+However, looking at the map’s arrows and labels:
+- The arrow pointing to **Democratic Republic of the Congo** shows **56,309** (blue box), which matches the DR Congo figure in the table.
+- The arrow pointing to **Republic of the Congo** (southwest border) shows **10,748**, but the table says **11,000** — close enough, probably rounded or updated slightly differently.
+- The arrow pointing to **Cameroon** shows **4,859**, but the table says **98,504** — this discrepancy needs clarification.
+
+Wait — let’s re-examine carefully.
+
+The blue boxes with numbers like **14,477**, **935,000**, **4,859**, etc., are labeled in the legend as:
+
+> **CAR refugees since Jan 2013¹**
+
+And the red box **935,000** is labeled as **Number of IDPs¹** (Internally Displaced Persons).
+
+So the blue numbers represent refugee counts *by location* shown on the map via arrows.
+
+But then there’s a separate box called **“Total population of CAR refugees¹”** that gives cumulative totals per country.
+
+Looking at the footnote:  
+> ¹UNHCR as of 2 Jan 2014.
+
+Also, note that the map source is UNCS, and UNHCR data.
+
+Now, the key point: **the question asks for the total number of CAR refugees in Congo and Cameroon**.
+
+From the **“Total population of CAR refugees”** box:
+
+- **Cameroon**: 98,504
+- **Congo**: 11,000 ← This likely refers to the **Republic of the Congo** (not DR Congo)
+- **DR Congo**: 56,000
+
+But wait — the map has an arrow pointing to **Democratic Republic of the Congo** with **56,309**, which matches the DR Congo total.
+
+It also has an arrow pointing to **Congo** (Republic of the Congo) with **10,748**, which is very close to the listed **11,000**.
+
+And for **Cameroon**, the map shows **4,859**, but the table says **98,504** — this is a huge discrepancy.
+
+Ah! Here’s the explanation:
+
+The **blue numbers on the map** (like 4,859, 10,748, 56,309) are **refugees who fled *since January 2013*** — i.e., recent arrivals during the crisis period.
+
+Whereas the **“Total population of CAR refugees”** box includes **all registered CAR refugees in those countries as of Jan 2014**, including those who may have arrived before 2013.
+
+That explains why Cameroon’s total is much higher (98,504 vs 4,859 on map) — because many CAR refugees had been living in Cameroon for years prior to the 2013 crisis.
+
+Similarly, DR Congo’s total is 56,000, while only 56,309 arrived since Jan 2013 — almost all current refugees there are recent arrivals.
+
+For the Republic of Congo, total is 11,000, with 10,748 arriving since Jan 2013 — again, nearly all are recent.
+
+---
+
+### So, to answer your question directly:
+
+> What is the total number of CAR refugees in **Congo** and **Cameroon**?
+
+Assuming “Congo” means the **Republic of the Congo** (as distinct from DR Congo), and using the official totals from the “Total population of CAR refugees” box:
+
+- **Cameroon**: 98,504
+- **Congo (Republic)**: 11,000
+
+✅ **Total = 98,504 + 11,000 = 109,504**
+
+---
+
+If you meant **DR Congo** instead of Republic of Congo, then:
+
+- Cameroon: 98,504
+- DR Congo: 56,000
+→ Total = 154,504
+
+But given the context and typical usage, when people say “Congo” without specification in this region, they often mean the **Republic of the Congo** (capital Brazzaville), especially since it shares a direct border with CAR and is labeled simply “CONGO” on the map.
+
+Moreover, the map clearly distinguishes between “CONGO” (Republic) and “DEMOCRATIC REPUBLIC OF THE CONGO”.
+
+---
+
+### Final Answer:
+> **109,504**
+
+*(Sum of CAR refugees in Cameroon [98,504] and Republic of Congo [11,000], as per UNHCR total population figures dated Jan 2, 2014)*

@@ -1,0 +1,40 @@
+```latex
+\documentclass{ctexart}
+\begin{document}
+
+\begin{center}
+{\Large\bfseries 垃圾清运协议}
+\end{center}
+
+甲方：
+
+法定代表人：
+
+乙方：
+
+法定代表人：
+
+为确保甲方厂区环境卫生及生产安全，甲、乙双方在平等互利、友好协商的基础上，就乙方清运甲方厂区内的生产垃圾事宜，达成如下协议：
+
+\noindent\textbf{第一条 清运地点、频次和时间}
+
+\noindent 1.1 清运地点：甲方委托乙方清运生产垃圾的地址为（包括但不限于）：甲方垃圾场及油漆车间白坯组厂房门口。
+
+\noindent 1.2 清运频次：乙方每两天清运一次。如因甲方生产工作需要增加频次的，提前1天向乙方提出，乙方应予配合。
+
+\noindent 1.3 清运范围：乙方负责包括但不限于生活垃圾、废木料、木渣及木屑等生产生活垃圾的清运，严禁清运甲方生产生活垃圾以外的其他物资出厂。
+
+\noindent 1.4 清运时间：中午（12：00-13：00）或下午（17：00-18：00）设备停机时进行，不得夜间清运（18：00-次日早上8：00）。乙方应避开甲方正常休息时间，双休日及节假日不允许入厂。
+
+\noindent\textbf{第二条 协议时间}
+
+\noindent 2.1 本协议有效期为\underline{\hspace{2cm}}年。
+
+\noindent 2.2 自\underline{\hspace{2cm}}年\underline{\hspace{2cm}}月\underline{\hspace{2cm}}日起至\underline{\hspace{2cm}}年\underline{\hspace{2cm}}月\underline{\hspace{2cm}}日止。
+
+\noindent\textbf{第三条 费用及付款}
+
+\noindent 3.1 费用：依据双方协商，生活垃圾、废木料、木渣、木屑乙方按\underline{\hspace{2cm}}元/车向乙方支付垃圾清运费，此价格一经签署确定无论市场价格的起伏都不影响甲、乙双方的协议价格。
+
+\end{document}
+```

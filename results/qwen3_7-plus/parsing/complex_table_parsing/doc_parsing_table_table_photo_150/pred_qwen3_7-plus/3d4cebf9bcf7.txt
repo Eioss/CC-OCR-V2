@@ -1,0 +1,172 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: left;
+        }
+  </style>
+ </head>
+ <body>
+  <h2>Chapter 3 — Accounting Program Structure</h2>
+  <p>(continued on next page)</p>
+  <table>
+   <tr>
+    <td>266x Technology Services</td>
+    <td></td>
+    <td>X</td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>267x Records Management</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>268x Interpretation/Translation Services</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>31xx Food Services</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>32xx Enterprise Operations</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>33xx Community Services</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>35xx Child Care</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+   </tr>
+   <tr>
+    <td>4xxx Facilities Acquisition/Construction</td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td>5xxx Other Uses</td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+  </table>
+  <h2>Operational Unit</h2>
+  <table>
+   <tr>
+    <th>School</th>
+    <th>Either</th>
+    <th>trialal</th>
+   </tr>
+   <tr>
+    <td>1100 Instruction</td>
+    <td>1200 Special Programs</td>
+    <td>2300 Executive Admin</td>
+   </tr>
+   <tr>
+    <td>2410 Prtrialal's Office</td>
+    <td>2100 Support of Students</td>
+    <td>2510 Business Direction</td>
+   </tr>
+   <tr>
+    <td>3500 Child Care</td>
+    <td>2200 Support of Instruction</td>
+    <td>2520 Fiscal Services</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2490 Other School Administration</td>
+    <td>2610 Central Direction</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2540 Operation/Maintenance of Plant</td>
+    <td>2620 Planning, Research &amp; Dev</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2550 Transportation</td>
+    <td>2630 Information Services</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2570 Purchasing, Warehouse, Printing</td>
+    <td>2640 Staff Services</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2660 Technology Services</td>
+    <td>2670 Records Management</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>2680 Interpretation/Translation Services</td>
+    <td>5000 Other Uses</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>3100 Food Services</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>3200 Enterprise Operations</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>3300 Community Services</td>
+    <td></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>4000 Facilities AcquisitrialConstruction</td>
+    <td></td>
+   </tr>
+  </table>
+  <p>Charging school-based expenditures directly to the school when possible will produce more accurate cost information in most cases. Special Education costs, however, should be charged centrally because the wide variation of special needs and costs among schools could skew the calculation of cost per student at the school level.</p>
+  <p>When a district receives a grant, which can be identified at the school level, charge the grant to the school level.</p>
+ </body>
+</html>
+
+```

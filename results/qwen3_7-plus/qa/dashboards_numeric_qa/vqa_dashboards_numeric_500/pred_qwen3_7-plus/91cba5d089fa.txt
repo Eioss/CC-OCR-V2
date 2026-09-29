@@ -1,0 +1,54 @@
+Based on the "Source Links" section at the bottom of the infographic, there are **7** distinct source links listed.
+
+Here is the breakdown:
+
+1.  `http://insight.globalwebindex.net/hs-fs/hub/304927/file-2615393...`
+2.  `http://www.jeffbullas.com/2015/04/08/33-social-media-facts-and-statistics-you-should-know-in-2015/`
+3.  `http://www.emarketer.com/Article/Increasing-Audience-Engagement-Key-Objective-Social-Media-Marketing/1013148`
+4.  `http://www.business2community.com/social-media/106-amazing-social-media-marketing-statistics-2014-2015-01151764`
+5.  `http://www.business2community.com/social-media/10-social-media-stats-you-might-not-know-but-should-01245250`
+6.  `http://blogs.forrester.com/nate_elliott/14-04-29-instagram_is_the_king_of_social_engagement`
+7.  *(Note: The first link appears to be a single long URL that wraps across two lines in the image, but it's one source. The second link is also one source. The third, fourth, fifth, and sixth are clearly separate. That makes 6 so far. Let’s recount carefully.)*
+
+Actually, looking closely at the text under “Source Links”:
+
+- Line 1–3: One long URL (globalwebindex) → **1**
+- Line 4–5: jeffbullas.com → **2**
+- Line 6: emarketer.com → **3**
+- Line 7–8: business2community.com (first one) → **4**
+- Line 9–10: business2community.com (second one) → **5**
+- Line 11–12: blogs.forrester.com → **6**
+
+Wait — let me re-examine the actual text provided in your prompt:
+
+> Source Links:
+> http://insight.globalwebindex.net/hs-fs/hub/304927/file-2615393
+> 475-pdf/Reports/SummarySocialMediaEngagementQ12015.pdf?
+> submissionGuid=4b487426-af05-4c8a-9ece-7219857144cb
+> http://www.jeffbullas.com/2015/04/08/33-social-media-facts-and-
+> statistics-you-should-know-in-2015/
+> http://www.emarketer.com/Article/Increasing-Audience-
+> Engagement-Key-Objective-Social-Media-Marketing/1013148
+> http://www.business2community.com/social-media/106-amazing-
+> social-media-marketing-statistics-2014-2015-01151764
+> http://www.business2community.com/social-media/10-social-
+> media-stats-you-might-not-know-but-should-01245250
+> http://blogs.forrester.com/nate_elliott/14-04-29-instagram_is_
+> the_king_of_social_engagement
+
+Each new `http://` starts a new source. So:
+
+1. globalwebindex.net → **1**
+2. jeffbullas.com → **2**
+3. emarketer.com → **3**
+4. business2community.com (106-amazing...) → **4**
+5. business2community.com (10-social-media-stats...) → **5**
+6. blogs.forrester.com → **6**
+
+✅ There are **6** unique source URLs listed.
+
+*(The first URL spans 3 lines, but it’s one link. Each subsequent `http://` begins a new source.)*
+
+---
+
+**Final Answer: 6**

@@ -1,0 +1,36 @@
+\[
+\begin{aligned}
+D^{i_1,i_2,\ldots,i_p=0,i_q=1,\ldots,i_N}
+&=\frac{1}{1+|x|^2}\Bigl[
+D^{i_1,i_2,\ldots,i_p=0,i_q=1,\ldots,i_N}
+-|x|^2D^{i_1,i_2,\ldots,i_p=0,i_q=0,\ldots,i_N}\\
+&\qquad
++xD_{(Aq)_0}^{i_1,i_2,\ldots,i_p=0,\ldots,i_{q-1},i_{q+1},\ldots,i_N}
+-x^*D_{(Aq)_1}^{i_1,i_2,\ldots,i_p=0,\ldots,i_{q-1},i_{q+1},\ldots,i_N}
+\Bigr],\\[1em]
+S(n,k)&=\frac{1}{k!}\sum_{d_1+\cdots+d_k=n}\frac{n!}{d_1!\cdots d_k!},\\[0.5em]
+g_1,\ldots,g_k&\in G(A\cup\mathcal R)\subset\langle A\rangle\cdot\langle\mathcal R\rangle,\\[0.5em]
+\eta_q^2&\xrightarrow{q\to\infty}\nu(k)|\nabla u|^2
+\quad\text{a.e. in }\Omega,\\
+\eta_q^2&\leq\nu(k)|\nabla u|^2,\\[0.5em]
+(1-\delta)\|F_j(\Delta)f\|^2
+&\leq\sum_j\sum_k
+\bigl|\langle F_j(\Delta)f,\theta_{\nu_j,k}\rangle\bigr|^2
+\leq(1+\delta)\|F_j(\Delta)f\|^2,\\[0.5em]
+|\lambda|&>R>\max\bigl\{|u^\sigma|:u^\sigma\in L^\sigma(u)\bigr\},\\[0.5em]
+s_\alpha&:=
+\begin{cases}
+s,&\alpha=\alpha_0,\\
+0,&\alpha\ne\alpha_0,
+\end{cases}\\[0.5em]
+\frac{1}{\sqrt d}\|v\|_x
+&\leq\|v\|_x^{(1)}
+\leq Ce^{\varepsilon k}\|v\|_x,
+\qquad \forall v\in T_xM,\quad x\in\Lambda_k,
+\qquad\cdots\quad(3.1.2),\\[0.5em]
+V_{\mathrm{drift}}
+&=\frac{d}{dt}
+\frac{\langle\phi_N|x|\phi_N\rangle}
+{\langle\phi_N|\phi_N\rangle}.
+\end{aligned}
+\]

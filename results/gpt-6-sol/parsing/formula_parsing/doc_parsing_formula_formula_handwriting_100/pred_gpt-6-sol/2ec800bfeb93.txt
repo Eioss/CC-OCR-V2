@@ -1,0 +1,29 @@
+\[
+\begin{aligned}
+K_x^{[i]}(u)
+&=
+\begin{cases}
+\bigl(a(u-u_a)+K_x^{[i]}(u_a)\bigr)
+\vee
+\bigl(b(u-u_b)+K_x^{[i]}(u_b)\bigr),
+& u\notin(u_a,u_b),\\
+\bigl(a(u-u_a)+K_x^{[i]}(u_a)\bigr)
+\vee
+\bigl(b(u-u_b)+K_x^{[i]}(u_b)\bigr),
+& u\in(u_a,u_b);
+\end{cases}\\[1ex]
+f(x+f(y))
+&=f(p(x))+f(p(y))\\
+&\geq f\bigl(p(x)\to p(y)\bigr)+f\bigl(p(y)\to p(x)\bigr)\\
+&=f\bigl(p(x\to y)\bigr)+f\bigl(p(y\to x)\bigr)\\
+&=f(x\to y)+f(y\to x),\\[1ex]
+\varepsilon_n(w)&=t_n(w),\qquad n=0,1,2,\ldots,\\
+p\bigl[r(m_1),p(m_2)\bigr]
+&=\bigl[r(m_1),p(m_2)\bigr]\ne0,\\
+v(t,x,p)&\approx\bar v,\qquad
+|D_pv(t,x,p)|\leq(p^0)^{-1},\quad |p|>0,\\
+\underbrace{\bigl(iw\cdot l-(a_k(w,j)-a_k(w,k))\bigr)}_{=:\delta_{j,k}(w)}
+\Psi_j^k(l)+R_j^k(l)
+&=(R_1)_j^k(l).
+\end{aligned}
+\]

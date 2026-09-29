@@ -1,0 +1,87 @@
+Based on the image provided, here is the transcription in LaTeX format.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ctex} % For Chinese characters
+\usepackage{booktabs} % For professional tables
+\usepackage{array}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent 福建海峡银行股份有限公司 \\
+财务报表附注 \\
+2018年度（除特别注明外，金额单位为人民币元）
+
+\vspace{0.5cm}
+\hrule
+\vspace{0.5cm}
+
+截至2018年12月31日，本行无需要披露的重要会计估计变更事项。
+
+\section*{四、税项}
+
+主要税种及税率
+
+\begin{center}
+\begin{tabular}{l l c}
+\toprule
+\textbf{税种} & \textbf{计税依据} & \textbf{法定税率\%} \\
+\midrule
+增值税（主营业务） & 应税销售额 & 6 \\
+城市维护建设税 & 应纳流转税额 & 5或7 \\
+企业所得税 & 应纳税所得额 & 25 \\
+教育费附加 & 应纳流转税额 & 3 \\
+地方教育附加 & 应纳流转税额 & 2 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section*{五、财务报表主要项目注释}
+
+\subsection*{1、现金及存放中央银行款项}
+
+\begin{center}
+\begin{tabular}{l r r}
+\toprule
+\textbf{项 目} & \textbf{期末数} & \textbf{期初数} \\
+\midrule
+库存现金 & 219,097,215.49 & 219,005,817.17 \\
+存放中央银行法定准备金 & 8,262,716,679.20 & 10,700,748,003.60 \\
+存放中央银行超额存款准备金 & 4,547,299,365.91 & 3,858,344,831.39 \\
+存放中央银行的其他款项 & 1,532,000.00 & 2,668,000.00 \\
+\midrule
+\textbf{合 计} & \textbf{13,030,645,260.60} & \textbf{14,780,766,652.16} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+(1) 本行按规定向中国人民银行缴存一般性存款的法定准备金，该等存款不能用于本行的日常经营。缴存存款准备金的范围包括机关团体存款、财政预算外存款、个人存款、单位存款及其他各项存款。具体缴存比例为：
+
+\begin{center}
+\begin{tabular}{l r r}
+\toprule
+\textbf{项 目} & \textbf{期末数} & \textbf{期初数} \\
+\midrule
+人民币 & 11.00\% & 13.50\% \\
+外 币 & 5.00\% & 5.00\% \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+(2) 存放中央银行超额存款准备金系本银行存放于中国人民银行超出法定准备金的款项，主要用于资金清算、头寸调拨等。
+
+存放中央银行的其他款项主要系缴存央行财政性存款。缴存央行财政性存款系指本银行按规定向中国人民银行缴存的财政存款，包括本银行代办的中央预算收入、地方金库存款等。中国人民银行对境内机构缴存的财政性存款不计付利息。
+
+\subsection*{2、存放同业款项}
+
+\vfill
+\begin{center}
+- 22 -
+\end{center}
+
+\end{document}
+```

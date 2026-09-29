@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+\tanh(z)
+&=\frac{D_{12}\frac{\partial h}{\partial z}
++E_{12}\frac{\partial h}{\partial z}
+-(D_{11}-E_{11})\sinh(z)}{T_1-T_2},\\[2pt]
+T_j&=L(N/4)\tilde{\lambda}_j,\qquad j=1,\ldots,3,\\
+S_0(e)&=\{s\in S_0:s^{-1}\in S_0(e)\},\\
+\left(\int t^{\,t-2s}|\nabla u|^2\,dx\,dy\right)
+\left(\int t^{\,t-2s}|\nabla v|^2\,dx\,dy\right)
+&\leq \cdots,\\
+\lim_{\lambda\to\infty}
+\frac{\sup_{a^\lambda\leq t\leq a^{\lambda+1}}
+|X(t)-X(a^\lambda)|}
+{a^{\lambda H}(\log a^\lambda)^{1/p+\varepsilon}}
+&=0\qquad\text{a.s.},\\
+\varphi=|\angle utv|
+&=\pi-\alpha-\beta
+\geq\pi-|\angle rus|-|\angle svu|
+=|\angle rsv|=\frac{2\pi}{5}.
+\end{aligned}
+\]

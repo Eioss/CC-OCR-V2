@@ -1,0 +1,51 @@
+\[
+\begin{aligned}
+\frac{\partial \Gamma_i^{\alpha\beta}}{\partial x_i}(x,t;u,s)
+-\frac{\partial \Gamma_0^{\alpha\beta}}{\partial x_i}(x,t;u,s)
+-\frac{\partial \chi_j^{\alpha\gamma}}{\partial x_i}
+\left(\frac{\alpha(\varepsilon,t)}{\varepsilon^2}\right)
+\frac{\partial \Gamma_0^{\gamma\beta}}{\partial x_j}(x,t;u,s)
+\\[1ex]
+\deg(T\chi_0\mid C_1)-\deg(\Theta^{\alpha_i})C_1
+-\deg(\Theta^{-1}/\Theta^{\alpha_i})\mid C_1
+&=\deg(\Theta^{-2}/\Theta)\mid C_1
++\deg(\Theta^{-3}/\Theta^{-2})\mid C_1,
+\\[1ex]
+\langle A_{w,t}u,u\rangle
+&\geq \max\!\left\{
+c_1(w,t)\|u\|_G^\alpha-m_1(w,t);
+c_2(w,t)\|Au\|_{\beta^*}-m_2(w,t)
+\right\},
+\\[1ex]
+S_{\mathrm{BS}}
+&\approx N^{1/2}(2\lambda+4r_2^2)^{1/2}
+\approx (2N\lambda)^{1/2},
+\\[1ex]
+(g_A^*\circ h\circ e)_j
+(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t})
+&=(\psi^*\circ g_k^*)_j
+(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t}),
+\\[1ex]
+(g_A^*\circ h)_j
+(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t})
+&=\left(\prod_{u=1}^{s}\prod_{k=1}^{t}x_{i_u}y_{l_k}\right)
+\otimes y_{l_1}\cdots y_{l_t},
+\\[1ex]
+\ell
+&\leq H_{\min}^{\varepsilon_1}(Z_D\mid S_DDB')
+-2\log_2\frac{1}{\varepsilon_A-4\varepsilon_1},
+\\[1ex]
+D:\ D(A_w\text{-}\mathrm{dgmod})^c
+&\longrightarrow D(A_w\text{-}\mathrm{dgmod}),
+\qquad
+M\longmapsto
+R\operatorname{Hom}_{H_G^*(pt)}
+\bigl(M,H_G^*(pt)\bigr),
+\\[1ex]
+S_\varepsilon(r(E))
+&=S_\varepsilon(r(VE))
+=Q(S_\varepsilon)^{VE}
++\sum_{\lambda\in VE}Q(S_\varepsilon)_{\lambda}^{VE}
+=\sum_{\lambda\in VE}Q(S_\varepsilon)_{\lambda}^{VE}.
+\end{aligned}
+\]

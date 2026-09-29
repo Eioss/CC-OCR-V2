@@ -1,0 +1,69 @@
+Here is the transcription of the text and tables from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent Candidate Statement of Results
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{2cm}}ll@{}}
+\textbf{Season:} & Summer 2018 & \textbf{Series:} & (All) \\
+\textbf{Name:} & \rule{4cm}{0.4pt} & \textbf{Year:} & 11 \\
+\textbf{Candidate Number:} & \rule{2cm}{0.4pt} & \textbf{Reg. Group:} & 11S \\
+\textbf{UCI:} & \rule{3cm}{0.4pt} & \textbf{ULN:} & \rule{2cm}{0.4pt} \\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent \textbf{\large Exam Results}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{@{}llllrccrrr@{}}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{\begin{tabular}[c]{@{}l@{}}Element\\ Code\end{tabular}} & \textbf{Title} & \textbf{Grd1} & \textbf{Grd2} & \textbf{\begin{tabular}[c]{@{}c@{}}Mark Equiv\end{tabular}} & \textbf{End1} & \textbf{End2} & \textbf{Points} \\
+\midrule
+EDEXL/GV & DIDA/CE2 & GCDA2 & Cert.in Dig.Apps.Level 2 & C & & 41 & & & 4 \\
+EDEXL/GC & GCSE/9FC & 1MA1H & Mathematics Option H & 4 & & 58 & & & 4 \\
+EDEXL/GC & GCSE/9FC & 1RA0ZS & Religious Studies A Option ZS & 2 & & 42 & & & 2 \\
+AQA & GCSE/9FC & 8700 & English Language & 4 & & & P & & 4 \\
+AQA & GCSE/9FC & 8702 & English Literature & 5 & & & & & 5 \\
+OCR & GCSE/9FC & J276 & Computer Science & 2 & & & & & 2 \\
+AQA & GCSE/DA & 8464H & Combined Sci: Trilogy Tier H & 44 & & & & & 8 \\
+AQA & GCSE/FC & 4688 & Polish & B & & 303 & & & 5.5 \\
+EDEXL/GV & DIDA/B & DA201 & Digital Applications UN 1 & & & 5 u & & & \\
+EDEXL/GV & DIDA/B & DA204E & Digital Applications UN 4 Option E & & & 36 b & & & \\
+AQA & GCSE/B & 46851 & Polish Unit 1 & & & 74 b & & & \\
+AQA & GCSE/B & 46852 & Polish Unit 2 & & & 78 b & & & \\
+AQA & GCSE/B & 46853 & Polish Unit 3 & & & 73 b & & & \\
+AQA & GCSE/B & 46854 & Polish Unit 4 & & & 78 b & & & \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent \textbf{\large Additional Results}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{tabular}{@{}lllllr@{}}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{\begin{tabular}[c]{@{}l@{}}Subject\\ Code\end{tabular}} & \textbf{Title} & \textbf{Grade} & \textbf{Points} \\
+\midrule
+NCFE & NQF/L2 & HJ1 & NCFE Level 2 Certificate in Health and Fitness & Merit & 5.5 \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

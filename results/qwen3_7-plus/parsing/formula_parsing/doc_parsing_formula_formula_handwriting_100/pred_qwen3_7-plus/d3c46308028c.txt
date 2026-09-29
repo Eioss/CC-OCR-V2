@@ -1,0 +1,9 @@
+$$\frac { C _ { 1 } } { k _ { n , j + 1 } ^ { 2 } } \leq \Bigg | \int \frac { Q _ { n , j + 1 } ^ { 2 } ( x ) } { z - x } \frac { H _ { n , j + 1 } ( x ) d \sigma _ { j + 1 } ( x ) } { Q _ { n , j } ( x ) Q _ { n , j + 2 } ( x ) } \Bigg | \leq \frac { C _ { 2 } } { k _ { n , j + 1 } ^ { 2 } } ,$$
+
+ $$E _ { \nu } [ g _ { \lambda } ( w ; \nu ) ] \leq E _ { \nu } [ g _ { \lambda } ( \bar { w } ; \nu ) ] + \epsilon$$
+
+ $$| h ^ { m } | _ { L _ { F } ^ { 2 } ( 0 , T ; H ^ { k } ( G ) ) } ^ { 2 } \leq C | \Delta ^ { 2 } h ^ { m } | _ { L _ { F } ^ { 2 } ( 0 , T ; L ^ { 2 } ( G ) ) } ^ { 2 } .$$
+
+ $$\langle P _ { i , A } , P _ { j , A } \rangle = - 1 = \langle P _ { j , A ^ { \prime } } , P _ { j , A ^ { \prime } } \rangle$$
+
+ $$( x _ { [ k - 1 ] \setminus \{ d \} } , y _ { d } ^ { i } - t _ { d } , a _ { k } ) \in V$$

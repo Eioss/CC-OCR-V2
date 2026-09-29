@@ -1,0 +1,55 @@
+```html
+<body><table border="1">
+	<tr>
+		<th colspan="9">Match Contribution for the Federal Fiscal Year (HOME)</th>
+	</tr>
+	<tr>
+		<td>Project No. or Other ID</td>
+		<td>Date of Contribution</td>
+		<td>Cash<br>(non-Federal sources)</td>
+		<td>Potriale Taxes, Fees, Charges</td>
+		<td>Appraised Land/Real Property</td>
+		<td>Required Infrastructure</td>
+		<td>Site Preparation, Construction Materials, Donated labor</td>
+		<td>Bond Financing</td>
+		<td>Total Match</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>07/01/14 – 06-30-15</td>
+		<td>$7,637,486</td>
+		<td>$609,490</td>
+		<td>0</td>
+		<td>0</td>
+		<td>$8,262,732</td>
+		<td>$5,389</td>
+		<td>$16,515,097</td>
+	</tr>
+	<tr>
+		<td colspan="9">Table 6 - Match Contribution for the Federal Fiscal Year</td>
+	</tr>
+</table>
+<table border="1">
+	<tr>
+		<th colspan="5">Program Income - Enter the program amounts for the reporting period (HOME)</th>
+	</tr>
+	<tr>
+		<td>Balance on hand at beginning of reporting period $</td>
+		<td>Amount received during reporting period* $</td>
+		<td>Total amount expended during reporting period* $</td>
+		<td>Amount expended for TBRA $</td>
+		<td>Balance on hand at end of reporting period $</td>
+	</tr>
+	<tr>
+		<td>$13,688,955</td>
+		<td>$7,754,639</td>
+		<td>$3,676,913</td>
+		<td>$4,541</td>
+		<td>$17,766,681</td>
+	</tr>
+	<tr>
+		<td colspan="5">Table 7 - Program Income</td>
+	</tr>
+</table>
+</body>
+```

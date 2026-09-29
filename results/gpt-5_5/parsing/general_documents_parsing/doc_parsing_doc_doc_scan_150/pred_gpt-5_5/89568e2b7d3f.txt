@@ -1,0 +1,177 @@
+```latex
+\[
+\begin{array}{lll}
+\textbf{Pythagorean identities :} & \textbf{Co - function identities :} & \textbf{Periodicity identities :} \\[6pt]
+
+\sin^2 \theta + \cos^2 \theta = 1
+&
+\cos\left(\dfrac{\pi}{2} - x\right) = \sin x
+&
+\sin(x \pm 2\pi) = \sin x
+\\[10pt]
+
+\tan^2 \theta + 1 = \sec^2 \theta
+&
+\sin\left(\dfrac{\pi}{2} - x\right) = \cos x
+&
+\cos(x \pm 2\pi) = \cos x
+\\[10pt]
+
+1 + \cot^2 \theta = \csc^2 \theta
+&
+\tan\left(\dfrac{\pi}{2} - x\right) = \cot x
+&
+\tan(x \pm \pi) = \tan x
+\\[10pt]
+
+&
+\cot\left(\dfrac{\pi}{2} - x\right) = \tan x
+&
+\cot(x \pm \pi) = \cot x
+\\[10pt]
+
+\textbf{Reciprocal identities :}
+&
+\csc\left(\dfrac{\pi}{2} - x\right) = \sec x
+&
+\sec(x \pm 2\pi) = \sec x
+\\[10pt]
+
+\csc x = \dfrac{1}{\sin x}
+&
+\sec\left(\dfrac{\pi}{2} - x\right) = \csc x
+&
+\csc(x \pm 2\pi) = \csc x
+\\[14pt]
+
+\sec x = \dfrac{1}{\cos x}
+&
+&
+\textbf{Sum and difference formulas :}
+\\[10pt]
+
+\cot x = \dfrac{1}{\tan x}
+&
+&
+\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y
+\\[14pt]
+
+\textbf{Even - odd identities :}
+&
+&
+\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y
+\\[10pt]
+
+\sin(-x) = -\sin x
+&
+&
+\tan(x \pm y) =
+\dfrac{\tan x \pm \tan y}{1 \mp \tan x \tan y}
+\\[14pt]
+
+\cos(-x) = \cos x
+&
+&
+\textbf{Half - angle formulas :}
+\\[10pt]
+
+\tan(-x) = -\tan x
+&
+&
+\sin\left(\dfrac{x}{2}\right)
+= \pm \sqrt{\dfrac{1 - \cos x}{2}}
+\\[14pt]
+
+\textbf{Product to sum formulas :}
+&
+&
+\cos\left(\dfrac{x}{2}\right)
+= \pm \sqrt{\dfrac{1 + \cos x}{2}}
+\\[10pt]
+
+\sin x \cdot \sin y =
+\dfrac{1}{2}\left[\cos(x-y)-\cos(x+y)\right]
+&
+&
+\tan\left(\dfrac{x}{2}\right)
+= \dfrac{1 - \cos x}{\sin x}
+\\[14pt]
+
+\cos x \cdot \cos y =
+\dfrac{1}{2}\left[\cos(x-y)+\cos(x+y)\right]
+&
+&
+\textbf{Law of sines :}
+\\[10pt]
+
+\sin x \cdot \cos y =
+\dfrac{1}{2}\left[\sin(x+y)+\sin(x-y)\right]
+&
+&
+\dfrac{a}{\sin A} = \dfrac{b}{\sin B} = \dfrac{c}{\sin C}
+\\[14pt]
+
+\cos x \cdot \sin y =
+\dfrac{1}{2}\left[\sin(x+y)-\sin(x-y)\right]
+&
+&
+\textbf{Law of cosines :}
+\\[14pt]
+
+\textbf{Sum to product :}
+&
+&
+a^2 = b^2 + c^2 - 2bc\cos A
+\\[10pt]
+
+\sin x \pm \sin y =
+2\sin\left(\dfrac{x \pm y}{2}\right)
+\cos\left(\dfrac{x \mp y}{2}\right)
+&
+&
+A = \cos^{-1}\left(\dfrac{b^2 + c^2 - a^2}{2bc}\right)
+\\[14pt]
+
+\cos x + \cos y =
+2\cos\left(\dfrac{x+y}{2}\right)
+\cos\left(\dfrac{x-y}{2}\right)
+&
+&
+\textbf{Area of triangle :}
+\\[10pt]
+
+\cos x - \cos y =
+-2\sin\left(\dfrac{x+y}{2}\right)
+\sin\left(\dfrac{x-y}{2}\right)
+&
+&
+\dfrac{1}{2}ab\sin C
+\\[14pt]
+
+\textbf{Double - angle formulas :}
+&
+&
+\sqrt{s(s-a)(s-b)(s-c)},
+\\[10pt]
+
+\sin 2\theta = 2 \cdot \sin\theta \cos\theta
+&
+&
+\text{where } s = \dfrac{1}{2}(a+b+c)
+\\[10pt]
+
+\cos 2\theta =
+\cos^2\theta - \sin^2\theta
+= 1 - 2\sin^2\theta
+= 2\cos^2\theta - 1
+&
+&
+\\[10pt]
+
+\tan 2\theta =
+\dfrac{2\tan\theta}{1-\tan^2\theta}
+&
+&
+\end{array}
+\]
+```

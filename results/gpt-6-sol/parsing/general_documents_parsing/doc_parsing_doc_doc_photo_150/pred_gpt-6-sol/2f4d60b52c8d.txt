@@ -1,0 +1,71 @@
+```latex
+\begin{center}
+2 \hfill ME 831\\
+\hfill Score
+
+\textbf{SECTION - B}
+
+(Answer any 4 questions from 6 to 10. Each question carries 2 scores.)
+\end{center}
+
+\noindent
+\textbf{6.} The molecular mass of water (H$_2$O) is 18.\\
+\hspace*{1cm}(a) Find the mass of 1 GMM H$_2$O. \hfill 1\\
+\hspace*{1cm}(b) How many moles of molecules are there in 180 g of H$_2$O? \hfill 1
+
+\medskip
+\noindent
+\textbf{7.} Haematite is converted into iron by using the blast furnace.\\
+\hspace*{1cm}(a) Which are the substances fed into the blast furnace along with the ore of iron? \hfill 1\\
+\hspace*{1cm}(b) Which compound acts as the reducing agent in the blast furnace? \hfill 1
+
+\medskip
+\noindent
+\textbf{8.} FeCl$_2$ and FeCl$_3$ are two different chlorides of iron.\\
+\hspace*{1cm}[Hint : Atomic number of Fe = 26\\
+\hspace*{1cm}Oxidation state of Cl = ($-1$)]\\
+\hspace*{1cm}(a) Find the oxidation state of Fe in FeCl$_2$. \hfill 1\\
+\hspace*{1cm}(b) Write down the subshell wise electronic configuration of Fe$^{3+}$. \hfill 1
+
+\medskip
+\noindent
+\textbf{9.} (a) Which homologous series do the hydrocarbons with general formula C$_n$H$_{2n}$ belong to? \hfill 1\\
+\hspace*{2cm}[alkane, alkene, alkyne]\\
+\hspace*{1cm}(b) Write the structural formula of a member of the same homologous series having \hfill 1\\
+\hspace*{2cm}3 carbon atoms.
+
+\medskip
+\noindent
+\textbf{10.} Soaps and detergents are cleansing agents.\\
+\hspace*{1cm}(a) Name the byproduct in the industrial production of soap. \hfill 1\\
+\hspace*{1cm}(b) How does excessive use of detergents destroy aquatic life? \hfill 1
+
+\begin{center}
+\textbf{SECTION - C}
+
+(Answer any 4 questions from 11 to 15. Each question carries 3 scores.)
+\end{center}
+
+\noindent
+\textbf{11.} The relation between the volume and temperature of a fixed mass of gas at constant pressure\\
+\hspace*{1cm}is shown in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Volume (V) & Temperature (T)\\
+(L) & (K)\\
+\hline
+600 & 300\\
+\hline
+400 & (P)\\
+\hline
+(Q) & 500\\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+\hspace*{1cm}(a) Find (P) and (Q). \hfill 2\\
+\hspace*{1cm}(b) Which gas law is associated with the given relation? \hfill 1
+```

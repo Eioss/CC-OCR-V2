@@ -1,0 +1,29 @@
+Based on the provided airline ticket, the **fare basis code** for economy class is:
+
+> **Y**
+
+---
+
+### Explanation:
+
+In the section labeled “GOOD FOR PASSAGE BETWEEN POINTS OUTLINED”, you can see two flight segments:
+
+1. **LaGuardia → Nashville**
+   - Fare Basis: **Y**
+   - Carrier: AA (American Airlines)
+   - Flight/Class: 577 Y
+   - Date: Dec 21
+
+2. **Nashville → LaGuardia**
+   - Fare Basis: **Y**
+   - Carrier: AA
+   - Flight/Class: 232 Y
+   - Date: Jan 02
+
+The letter **“Y”** in the “FARE BASIS” column is the standard IATA fare basis code for **full-fare economy class** (also known as “Y-class”). It typically indicates a flexible, refundable, or changeable economy ticket — often the most expensive economy fare.
+
+Additionally, under “FLIGHT/CLASS”, you see entries like “577 Y” and “232 Y”, where the “Y” again denotes the booking class (economy).
+
+---
+
+✅ So, the fare basis code for economy class on this ticket is **Y**.

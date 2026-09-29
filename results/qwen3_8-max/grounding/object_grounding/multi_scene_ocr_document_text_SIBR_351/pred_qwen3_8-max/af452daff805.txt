@@ -1,0 +1,28 @@
+```json
+[
+    {"bbox_2d": [779, 358, 840, 394], "label": "AMOUNT(USD)"},
+    {"bbox_2d": [681, 125, 905, 144], "label": "Address"},
+    {"bbox_2d": [86, 243, 377, 267], "label": "Address"},
+    {"bbox_2d": [586, 257, 913, 318], "label": "Address"},
+    {"bbox_2d": [86, 229, 411, 243], "label": "Company Name"},
+    {"bbox_2d": [586, 257, 870, 268], "label": "Company Name"},
+    {"bbox_2d": [810, 232, 887, 242], "label": "Date"},
+    {"bbox_2d": [189, 652, 276, 662], "label": "Delivery Terms"},
+    {"bbox_2d": [214, 665, 262, 675], "label": "Delivery instructions"},
+    {"bbox_2d": [778, 468, 841, 479], "label": "FOB"},
+    {"bbox_2d": [792, 481, 823, 490], "label": "FREIGHT"},
+    {"bbox_2d": [157, 628, 361, 639], "label": "Fabric No."},
+    {"bbox_2d": [712, 157, 801, 165], "label": "Fax"},
+    {"bbox_2d": [794, 493, 825, 503], "label": "INSURANCE"},
+    {"bbox_2d": [88, 358, 99, 393], "label": "ITEM"},
+    {"bbox_2d": [804, 218, 913, 229], "label": "Invoice Number"},
+    {"bbox_2d": [639, 320, 786, 330], "label": "NPWP"},
+    {"bbox_2d": [520, 358, 569, 394], "label": "Qty"},
+    {"bbox_2d": [738, 146, 828, 154], "label": "Telephone"},
+    {"bbox_2d": [464, 188, 556, 203], "label": "Title"},
+    {"bbox_2d": [776, 603, 843, 614], "label": "Total"},
+    {"bbox_2d": [602, 358, 663, 394], "label": "UNIT PRICE"},
+    {"bbox_2d": [251, 358, 343, 393], "label": "VF Item No./Description"},
+    {"bbox_2d": [680, 168, 752, 175], "label": "Website"}
+]
+```

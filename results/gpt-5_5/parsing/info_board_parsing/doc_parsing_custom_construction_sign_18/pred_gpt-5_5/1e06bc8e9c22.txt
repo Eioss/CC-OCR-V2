@@ -1,0 +1,32 @@
+项目管理信息牌
+
+单位信息 / 工程参数 / 监督电话
+
+文档编号：SG-659496  
+日期：2025-03-28
+
+<table>
+<tr><td>施工/项目名称</td><td>星港市青松区科创大道综合市政及配套设施工程（一标段）</td><td>项目负责人</td><td>秦昊然</td></tr>
+<tr><td>单位名称</td><td>岚原省星港市东泽澄岳市政工程有限公司</td><td>安全员</td><td>何安然</td></tr>
+<tr><td>工程地点</td><td>岚原省星港市青松区科创大道29号 1栋</td><td>联系电话</td><td>18524265338</td></tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_1120_263_1210_352.jpg" alt="Image" width="6%" /></div>
+
+https://example.com/doc-94848433
+
+问题跟踪/检查记录表
+
+<table>
+<tr><td>序号</td><td>日期</td><td>编号</td><td>检查描述</td><td>等级(A/B/C)</td><td>责任人</td><td>期限</td><td>状态(√/×)</td><td>复核人</td><td>复核日期</td><td>备注</td><td>整改要求</td><td>编码串(无语义)</td><td>签字</td><td>勾选</td><td>特殊标记</td></tr>
+<tr><td>1</td><td>2025-03-25</td><td>CHK-1001</td><td>脚手架连接松动</td><td>B</td><td>张伟</td><td>2025-03-27</td><td>√</td><td>李明</td><td>2025-03-27</td><td>已加固</td><td>立即整改</td><td>180631869610686754</td><td>手写签名：张伟</td><td>√</td><td></td></tr>
+<tr><td>2</td><td>2025-03-26</td><td>CHK-1002</td><td>临时用电私拉乱接</td><td>A</td><td>王强</td><td>2025-03-26</td><td>√</td><td>赵敏</td><td>2025-03-26</td><td>已拆除</td><td>限期整改</td><td>987654321012345678</td><td>手写签名：王强</td><td>√</td><td>★</td></tr>
+<tr><td>3</td><td>2025-03-28</td><td>CHK-1003</td><td>部分安全帽破损</td><td>C</td><td>刘阳</td><td>2025-03-29</td><td>待定</td><td>陈工</td><td>2025-03-29</td><td>需要换</td><td>定期检查</td><td>123456789009876543</td><td>手写签名：刘阳</td><td></td><td></td></tr>
+<tr><td>4</td><td>2025-03-29</td><td>CHK-1003</td><td>脚手架松接</td><td>B</td><td>张伟</td><td>2025-03-27</td><td>√</td><td>陈工</td><td>2025-03-29</td><td>需要换</td><td>定期检查</td><td>123456789009876543</td><td>手写签名：刘阳</td><td>?</td><td></td></tr>
+<tr><td>5</td><td>2025-03-20</td><td>CHK-1002</td><td>临时用电私乱接</td><td>A</td><td>张伟</td><td>2025-03-26</td><td>√</td><td>陈工</td><td>2025-03-29</td><td>需要换</td><td>定期检查</td><td>123456789009876543</td><td>手写签名：刘阳</td><td>?</td><td></td></tr>
+<tr><td>6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>

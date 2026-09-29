@@ -1,0 +1,3 @@
+The mode given in the transmission report is **EC**.
+
+This is found in the "TRANSMISSION REPORT" table, under the column labeled "MODE", for the single entry listed. The note at the bottom clarifies that "EC : ERROR CORRECT".

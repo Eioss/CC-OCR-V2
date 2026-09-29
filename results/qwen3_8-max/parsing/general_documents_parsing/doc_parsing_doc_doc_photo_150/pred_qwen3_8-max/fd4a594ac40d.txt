@@ -1,0 +1,59 @@
+```latex
+অয়োময় \hfill ৪৭ \hfill ১৩৭
+
+\begin{center}
+    \textbf{Ka Set} \\
+    \textbf{JUNIOR SCHOOL CERTIFICATE EXAMINATION,} \\
+    ENGLISH \\
+    SECOND PAPER
+\end{center}
+
+\hfill Subject Code : \fbox{1}\fbox{0}\fbox{8}
+
+\begin{center}
+    Time—2 hours \\
+    Full marks—50
+\end{center}
+
+\textit{[N.B.—The figures in the right margin indicate full marks.]}
+
+\begin{center}
+    \textbf{Section A—Grammar} \\
+    Marks—30
+\end{center}
+
+\begin{enumerate}
+    \item Fill in the gaps of the following text with appropriate articles. Put a cross ($\times$) where there is no article applicable :— \hfill \begin{tabular}[t]{@{}r@{}}Marks\\0.5$\times$6\\=3\end{tabular}
+    
+    I live in Rajshahi. My elder brother who is (a) \rule{1.5cm}{0.15mm} engineer, works in Dhaka. Last summer he asked me to stay (b) \rule{1.5cm}{0.15mm} few days with him and sent me (c) \rule{1.5cm}{0.15mm} plane ticket. That was my first journey by air. I arrived at (d) \rule{1.5cm}{0.15mm} airport about (e) \rule{1.5cm}{0.15mm} hour before the flight. It was (f) \rule{1.5cm}{0.15mm} enjoyable plane journey.
+
+    \item Fill in the blanks of the following text with prepositions given in the box :— \hfill \begin{tabular}[t]{@{}r@{}}0.5$\times$6\\=3\end{tabular}
+    
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|}
+            \hline
+            for & to & in & with & about & after \\
+            \hline
+        \end{tabular}
+    \end{center}
+    
+    Money is a must (a) \rule{1.5cm}{0.15mm} our life. But one should not run after money because those who hanker (b) \rule{1.5cm}{0.15mm} money cannot enjoy mental peace: Sometimes, it may lead one (c) \rule{1.5cm}{0.15mm} some unexpected troubles. It also happens that greed (d) \rule{1.5cm}{0.15mm} money brings (e) \rule{1.5cm}{0.15mm} many problems. So we should be contented (f) \rule{1.5cm}{0.15mm} what we have.
+
+    \item Make \textbf{four} meaningful sentences from the substitution table :— \hfill 1$\times$4=4
+    
+    \begin{center}
+        \begin{tabular}{|c|c|l|}
+            \hline
+            Youth & \multirow{2}{*}{is} & be built properly. \\ \cline{3-3}
+            It & & the time of sowing seeds of life. \\ \hline
+            We & \multirow{2}{*}{must} & \\ \cline{3-3}
+            \multirow{2}{*}{Thus our future} & & sow the seeds of industry and \\
+            & will & honesty in this time. \\ \cline{3-3}
+            & & the best time of life. \\
+            \hline
+        \end{tabular}
+    \end{center}
+\end{enumerate}
+
+\hfill \textit{[Please turn over}
+```

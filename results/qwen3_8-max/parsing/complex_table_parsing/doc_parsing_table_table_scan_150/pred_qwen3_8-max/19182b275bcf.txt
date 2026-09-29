@@ -1,0 +1,138 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: right;">
+  <thead>
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 1.2em; padding-bottom: 5px;">瀚华金控股份有限公司</th>
+    </tr>
+    <tr>
+      <th colspan="4" style="text-align: center; font-size: 1.1em; padding-bottom: 5px;">合并资产负债表 (续)</th>
+    </tr>
+    <tr>
+      <th colspan="4" style="text-align: center; padding-bottom: 5px;">2017 年 12 月 31 日</th>
+    </tr>
+    <tr>
+      <th colspan="4" style="text-align: center; padding-bottom: 15px;">(金额单位：人民币千元)</th>
+    </tr>
+    <tr>
+      <th style="text-align: left;"></th>
+      <th style="text-align: center;">附注</th>
+      <th style="text-align: right;">2017 年<br>12 月 31 日</th>
+      <th style="text-align: right;">2016 年<br>12 月 31 日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">负债和股东权益 (续)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">股东权益</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">股本</td>
+      <td style="text-align: center;">六、24</td>
+      <td>4,600,000</td>
+      <td>4,600,000</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">资本公积</td>
+      <td style="text-align: center;">六、25</td>
+      <td>1,711,303</td>
+      <td>1,673,525</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">其他综合收益</td>
+      <td style="text-align: center;">六、26</td>
+      <td>15,471</td>
+      <td>(13,001)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">盈余公积</td>
+      <td style="text-align: center;">六、27</td>
+      <td>110,567</td>
+      <td>82,784</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">一般风险准备</td>
+      <td style="text-align: center;">六、28</td>
+      <td>303,034</td>
+      <td>289,972</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">未分配利润</td>
+      <td style="text-align: center;">六、29</td>
+      <td style="border-bottom: 1px solid black;">245,577</td>
+      <td style="border-bottom: 1px solid black;">207,601</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">归属于母公司股东权益合计</td>
+      <td></td>
+      <td>6,985,952</td>
+      <td>6,840,881</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding-left: 20px;">少数股东权益</td>
+      <td style="text-align: center;">五、1</td>
+      <td style="border-bottom: 1px solid black;">1,085,681</td>
+      <td style="border-bottom: 1px solid black;">638,242</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold;">股东权益合计</td>
+      <td></td>
+      <td style="border-bottom: 3px double black;">8,071,633</td>
+      <td style="border-bottom: 3px double black;">7,479,123</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; font-weight: bold; padding-top: 10px;">负债和股东权益总计</td>
+      <td></td>
+      <td style="border-bottom: 3px double black; padding-top: 10px;">18,906,630</td>
+      <td style="border-bottom: 3px double black; padding-top: 10px;">17,082,749</td>
+    </tr>
+  </tbody>
+</table>
+
+<div style="margin-top: 30px; font-weight: bold;">
+  此财务报表已于 2018 年 3 月 26 日获董事会批准。
+</div>
+
+<table style="width: 100%; margin-top: 20px; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width: 25%; vertical-align: top;">
+      <div style="font-family: 'KaiTi', serif; font-size: 1.5em; margin-bottom: 5px;">张国祥</div>
+      <div style="font-weight: bold;">张国祥</div>
+      <div>法定代表人、董事长</div>
+      <div>(签名和盖章)</div>
+    </td>
+    <td style="width: 25%; vertical-align: top;">
+      <div style="font-family: 'KaiTi', serif; font-size: 1.5em; margin-bottom: 5px;">任为栋</div>
+      <div style="font-weight: bold;">任为栋</div>
+      <div>首席财务官</div>
+      <div>(签名和盖章)</div>
+    </td>
+    <td style="width: 25%; vertical-align: top;">
+      <div style="font-family: 'KaiTi', serif; font-size: 1.5em; margin-bottom: 5px;">崔桂林</div>
+      <div style="font-weight: bold;">崔桂林</div>
+      <div>计划财务部总经理</div>
+      <div>(签名和盖章)</div>
+    </td>
+    <td style="width: 25%; vertical-align: middle;">
+      <div style="border: 2px solid red; border-radius: 50%; width: 100px; height: 100px; display: inline-flex; align-items: center; justify-content: center; color: red; font-weight: bold; transform: rotate(-15deg);">
+        公司盖章
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div style="margin-top: 40px; text-align: left;">
+  刊载于第 21 页至第 125 页的财务报表附注为本财务报表的组成部分。
+</div>
+
+<div style="margin-top: 20px; text-align: center;">
+  第 3 页
+</div>
+```

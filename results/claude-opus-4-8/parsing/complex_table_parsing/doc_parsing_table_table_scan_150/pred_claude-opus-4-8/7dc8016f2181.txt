@@ -1,0 +1,336 @@
+I'll transcribe this vehicle registration table into HTML format.
+
+```html
+<table border="1">
+  <tr>
+    <td rowspan="3" colspan="2"></td>
+    <td rowspan="3">序号</td>
+    <td rowspan="3">车牌号</td>
+    <td rowspan="3">内编号</td>
+    <td colspan="2">车辆年检</td>
+    <td colspan="3">车辆保险</td>
+    <td colspan="2">车辆营运证</td>
+    <td colspan="3">保养</td>
+    <td rowspan="3">备注</td>
+  </tr>
+  <tr>
+    <td rowspan="2">初检日期</td>
+    <td rowspan="2">年检日期</td>
+    <td rowspan="2">初保日期</td>
+    <td rowspan="2">交强险日期</td>
+    <td rowspan="2">商业险日期</td>
+    <td rowspan="2">初营日期</td>
+    <td rowspan="2">营运日期</td>
+    <td rowspan="2">一级保养</td>
+    <td rowspan="2">二级保养</td>
+    <td rowspan="2">三级保养</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="2">√0</td>
+    <td>1</td>
+    <td>川Q83777</td>
+    <td>1</td>
+    <td>2020.3</td>
+    <td>2022.3</td>
+    <td>2020.3.19</td>
+    <td>2022.3.18</td>
+    <td>2022.3.18</td>
+    <td>未办</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">√0</td>
+    <td>2</td>
+    <td>川Q87592</td>
+    <td>2</td>
+    <td>2020.3</td>
+    <td>2022.3</td>
+    <td>2020.3.27</td>
+    <td>2022.3.27</td>
+    <td>2022.3.27</td>
+    <td>未办</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>3</td>
+    <td>川L95005</td>
+    <td>5</td>
+    <td>2020.4.27</td>
+    <td>2022.4</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>2021.8.20</td>
+    <td>2022.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>4</td>
+    <td>川L82692</td>
+    <td>6</td>
+    <td>2020.4.27</td>
+    <td>2022.4</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>2021.8.20</td>
+    <td>22.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△</td>
+    <td>5</td>
+    <td>川L93207</td>
+    <td>7</td>
+    <td>2020.4.27</td>
+    <td>2022.4</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.8</td>
+    <td>22.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>6</td>
+    <td>川L86388</td>
+    <td>8</td>
+    <td>2020.4.27</td>
+    <td>2022.4</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.8</td>
+    <td>22.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>7</td>
+    <td>川L82779</td>
+    <td>9</td>
+    <td>2020.4.27</td>
+    <td>2022.4</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.8</td>
+    <td>22.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">0</td>
+    <td>8</td>
+    <td>川L93072</td>
+    <td>10</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.8</td>
+    <td>22.4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>9</td>
+    <td>川L87820</td>
+    <td>11</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>10</td>
+    <td>川L82680</td>
+    <td>12</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>11</td>
+    <td>川L86703</td>
+    <td>15</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>12</td>
+    <td>川L81272</td>
+    <td>16</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">√</td>
+    <td>13</td>
+    <td>川L97980</td>
+    <td>17</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>14</td>
+    <td>川L97571</td>
+    <td>18</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>15</td>
+    <td>川L83738</td>
+    <td>19</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>16</td>
+    <td>川L87362</td>
+    <td>20</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>2021.7.26</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">△0</td>
+    <td>17</td>
+    <td>川L81227</td>
+    <td>21</td>
+    <td>2020.5.6</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>2021.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">×</td>
+    <td>18</td>
+    <td>川L86272</td>
+    <td>22</td>
+    <td>2020.5.7</td>
+    <td>2022.5</td>
+    <td>2020.4.28</td>
+    <td>2022.4.20</td>
+    <td>2022.4.27</td>
+    <td>21.7</td>
+    <td>22.5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```

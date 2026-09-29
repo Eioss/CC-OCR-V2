@@ -1,0 +1,31 @@
+```json
+[
+    {"bbox_2d": [181, 113, 472, 127], "label": "ADD"},
+    {"bbox_2d": [78, 236, 305, 263], "label": "ADDRESS"},
+    {"bbox_2d": [433, 400, 493, 413], "label": "AMOUNT (USD"},
+    {"bbox_2d": [433, 695, 493, 707], "label": "AMOUNT (USD)"},
+    {"bbox_2d": [151, 92, 251, 106], "label": "COMPANY NAME"},
+    {"bbox_2d": [376, 232, 421, 244], "label": "Date"},
+    {"bbox_2d": [81, 400, 213, 437], "label": "Description of Goods"},
+    {"bbox_2d": [180, 303, 295, 317], "label": "FROM"},
+    {"bbox_2d": [136, 878, 190, 890], "label": "II/S CODE"},
+    {"bbox_2d": [55, 400, 71, 412], "label": "Marks"},
+    {"bbox_2d": [386, 207, 466, 220], "label": "No."},
+    {"bbox_2d": [270, 400, 295, 412], "label": "Quantity (KGS)"},
+    {"bbox_2d": [153, 769, 256, 782], "label": "SUPERLITE"},
+    {"bbox_2d": [226, 164, 339, 183], "label": "TITLE"},
+    {"bbox_2d": [163, 280, 222, 290], "label": "TL"},
+    {"bbox_2d": [331, 302, 454, 316], "label": "TO"},
+    {"bbox_2d": [485, 304, 515, 316], "label": "TRANSPORT METHOD"},
+    {"bbox_2d": [376, 280, 502, 292], "label": "Terms of Payment"},
+    {"bbox_2d": [346, 400, 386, 412], "label": "Unit Price (USD/KG)"},
+    {"bbox_2d": [103, 280, 131, 288], "label": "attn"},
+    {"bbox_2d": [690, 490, 696, 536], "label": "低托数"},
+    {"bbox_2d": [782, 489, 850, 536], "label": "客户订单号"},
+    {"bbox_2d": [866, 489, 910, 536], "label": "已发货过账数"},
+    {"bbox_2d": [702, 490, 719, 536], "label": "币种"},
+    {"bbox_2d": [580, 489, 634, 537], "label": "物料名称"},
+    {"bbox_2d": [726, 489, 776, 536], "label": "销售单价"},
+    {"bbox_2d": [654, 489, 664, 536], "label": "高托数"}
+]
+```

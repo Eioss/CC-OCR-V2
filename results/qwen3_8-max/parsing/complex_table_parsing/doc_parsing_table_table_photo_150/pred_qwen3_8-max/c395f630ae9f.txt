@@ -1,0 +1,347 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: right;">
+    <thead>
+        <tr>
+            <th colspan="6" style="text-align: center; font-size: 1.2em;">Table 1 Panel B<br>Interlochen Center for the Arts<br>Statements of Activities and Changes in Net Assets (Existing and New Format)</th>
+        </tr>
+        <tr>
+            <th style="text-align: left;">Year ended May 31, 2017</th>
+            <th>Unrestricted</th>
+            <th>Temporarily<br>Restricted</th>
+            <th>Permanently<br>Restricted</th>
+            <th>Without Donor<br>Restriction</th>
+            <th>With Donor<br>Restriction</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left;"><b>Revenues and Other Additions</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Gross tuition and student fees</td>
+            <td>$ 42,605,941</td>
+            <td>$ -</td>
+            <td>$ -</td>
+            <td>$42,605,941</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Assets released from restrictions:</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Operating item:<br>&nbsp;&nbsp;Financial aid</td>
+            <td>3,224,308</td>
+            <td>(3,224,308)</td>
+            <td>-</td>
+            <td>3,224,308</td>
+            <td>(3,224,308)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Less financial aid grants</td>
+            <td>(12,456,963)</td>
+            <td>-</td>
+            <td>-</td>
+            <td>(12,456,963)</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black;">
+            <td style="text-align: left;">Net tuition and student fees</td>
+            <td>33,373,286</td>
+            <td>(3,224,308)</td>
+            <td>-</td>
+            <td>33,373,286</td>
+            <td>(3,224,308)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Ticket sales</td>
+            <td>2,485,871</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2,485,871</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Lodging</td>
+            <td>1,466,416</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,466,416</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Retail sales</td>
+            <td>1,989,716</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,989,716</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Contributions and grants</td>
+            <td>4,913,599</td>
+            <td>8,279,615</td>
+            <td>3,313,440</td>
+            <td>4,913,599</td>
+            <td>11,593,055</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Net gain (loss) on investments, net of fees of<br>$219,000 in 2017 and $210,000 in 2016<br>(Note 2)</td>
+            <td>9,185,231</td>
+            <td>5,415,008</td>
+            <td>-</td>
+            <td>9,185,231</td>
+            <td>5,415,008</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Assets released from restrictions:</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Operating item:<br>&nbsp;&nbsp;Cost of operations and general and<br>&nbsp;&nbsp;administrative</td>
+            <td>843,776</td>
+            <td>(843,776)</td>
+            <td>-</td>
+            <td>843,776</td>
+            <td>(843,776)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Other revenues</td>
+            <td>1,003,045</td>
+            <td>3,841</td>
+            <td>-</td>
+            <td>1,003,045</td>
+            <td>3,841</td>
+        </tr>
+        <tr style="border-top: 1px solid black; border-bottom: 3px double black;">
+            <td style="text-align: left;"><b>Total revenues and other additions</b></td>
+            <td><b>55,260,940</b></td>
+            <td><b>9,630,380</b></td>
+            <td><b>3,313,440</b></td>
+            <td><b>55,260,940</b></td>
+            <td><b>12,943,820</b></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><b>Cost of Goods and Services</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Artist fees</td>
+            <td>1,547,346</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,547,346</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Cost of goods sold</td>
+            <td>989,939</td>
+            <td>-</td>
+            <td>-</td>
+            <td>989,939</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black; border-bottom: 1px solid black;">
+            <td style="text-align: left;">Total cost of goods and services</td>
+            <td>2,537,285</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2,537,285</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><b>Cost of Operations</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Salaries, wages and benefits</td>
+            <td>27,971,100</td>
+            <td>-</td>
+            <td>-</td>
+            <td>27,971,100</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Food costs</td>
+            <td>1,421,448</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,421,448</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Contracted services</td>
+            <td>1,082,023</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,082,023</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Supplies</td>
+            <td>2,617,423</td>
+            <td>-</td>
+            <td>-</td>
+            <td>2,617,423</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Repairs and maintenance</td>
+            <td>942,672</td>
+            <td>-</td>
+            <td>-</td>
+            <td>942,672</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Lease and rental</td>
+            <td>432,849</td>
+            <td>-</td>
+            <td>-</td>
+            <td>432,849</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Utilities</td>
+            <td>882,216</td>
+            <td>-</td>
+            <td>-</td>
+            <td>882,216</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Insurance</td>
+            <td>311,404</td>
+            <td>-</td>
+            <td>-</td>
+            <td>311,404</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Telephone and postage</td>
+            <td>593,536</td>
+            <td>-</td>
+            <td>-</td>
+            <td>593,536</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Other operational</td>
+            <td>283,612</td>
+            <td>-</td>
+            <td>-</td>
+            <td>283,612</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black; border-bottom: 1px solid black;">
+            <td style="text-align: left;">Total cost of operations</td>
+            <td>36,538,283</td>
+            <td>-</td>
+            <td>-</td>
+            <td>36,538,283</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><b>General and Administrative</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Marketing</td>
+            <td>$ 805,166</td>
+            <td>$ -</td>
+            <td>$ -</td>
+            <td>805,166</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Travel and entertainment</td>
+            <td>1,170,139</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,170,139</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Professional services</td>
+            <td>1,047,427</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,047,427</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">Other</td>
+            <td>733,613</td>
+            <td>-</td>
+            <td>-</td>
+            <td>733,613</td>
+            <td></td>
+        </tr>
+        <tr style="border-top: 1px solid black; border-bottom: 1px solid black;">
+            <td style="text-align: left;">Total general and administrative</td>
+            <td>3,756,345</td>
+            <td>-</td>
+            <td>-</td>
+            <td>3,756,345</td>
+            <td></td>
+        </tr>
+        <tr style="border-bottom: 1px solid black;">
+            <td style="text-align: left;">Total expenses before depreciation (Note 7)</td>
+            <td>42,831,913</td>
+            <td>-</td>
+            <td>-</td>
+            <td>42,831,913</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">Increase (decrease) in net assets before<br>depreciation and non-operating items</td>
+            <td>12,429,027</td>
+            <td>9,630,380</td>
+            <td>3,313,440</td>
+            <td>12,429,027</td>
+            <td>12,943,820</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><b>Depreciation Expense</b> (Note 7)</td>
+            <td>1,826,711</td>
+            <td>-</td>
+            <td>-</td>
+            <td>1,826,711</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;"><b>Assets Released From</b></td>
+            <td>4,999,140</td>
+            <td>(4,999,140)</td>
+            <td></td>
+            <td>4,999,140</td>
+            <td>(4,999,140)</td>
+        </tr>
+    </tbody>
+</table>
+```

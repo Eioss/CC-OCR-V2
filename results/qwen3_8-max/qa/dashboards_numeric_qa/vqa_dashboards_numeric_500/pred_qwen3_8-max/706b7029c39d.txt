@@ -1,0 +1,101 @@
+Based on the map at the bottom of the infographic, the states with **more Patriots fans** are colored **red**.
+
+Counting the red states:
+1.  Washington (Wait, no, that's green - Seahawks)
+2.  Let's re-evaluate carefully.
+
+**Red States (More Patriot's Fans):**
+1.  Idaho (Actually, looking closely, Idaho is grey? No, let's trace carefully.)
+    *   West Coast: WA (Green), OR (Green), CA (Green).
+    *   Mountain West: NV (Grey), ID (Grey), MT (Green), WY (Grey), UT (Red), CO (Red), AZ (Red), NM (Red). Wait, let's look closer.
+    *   Let's go region by region.
+
+**Northeast:**
+*   ME (Grey)
+*   NH (Grey)
+*   VT (Grey)
+*   MA (Red) - Patriots home
+*   RI (Red)
+*   CT (Red)
+*   NY (Red)
+*   PA (Red)
+*   NJ (Red)
+
+**Midwest:**
+*   OH (Red)
+*   IN (Red)
+*   IL (Red)
+*   MI (Red)
+*   WI (Green)
+*   MN (Green)
+*   IA (Red)
+*   MO (Grey)
+*   ND (Grey)
+*   SD (Grey)
+*   NE (Grey)
+*   KS (Grey)
+
+**South:**
+*   DE (Grey)
+*   MD (Grey)
+*   VA (Grey)
+*   WV (Grey)
+*   KY (Red)
+*   TN (Red)
+*   NC (Green)
+*   SC (Green)
+*   GA (Green)
+*   FL (Red)
+*   AL (Green)
+*   MS (Green)
+*   LA (Green)
+*   AR (Green)
+*   TX (Green)
+*   OK (Green)
+
+**West:**
+*   WA (Green)
+*   OR (Green)
+*   CA (Green)
+*   NV (Grey)
+*   ID (Grey)
+*   MT (Green)
+*   WY (Grey)
+*   UT (Red)
+*   CO (Red)
+*   AZ (Red)
+*   NM (Red)
+*   AK (Not shown)
+*   HI (Not shown)
+
+Let's recount the Red states specifically:
+1.  Massachusetts (MA)
+2.  Rhode Island (RI)
+3.  Connecticut (CT)
+4.  New York (NY)
+5.  Pennsylvania (PA)
+6.  New Jersey (NJ)
+7.  Ohio (OH)
+8.  Indiana (IN)
+9.  Illinois (IL)
+10. Michigan (MI)
+11. Iowa (IA)
+12. Kentucky (KY)
+13. Tennessee (TN)
+14. Florida (FL)
+15. Utah (UT)
+16. Colorado (CO)
+17. Arizona (AZ)
+18. New Mexico (NM)
+
+Total count: 18 states.
+
+Wait, let me re-examine the map colors very carefully.
+-   **Northeast:** ME(grey), NH(grey), VT(grey), MA(red), RI(red), CT(red), NY(red), PA(red), NJ(red). That's 6 red.
+-   **Midwest:** OH(red), IN(red), IL(red), MI(red), WI(green), MN(green), IA(red), MO(grey), ND(grey), SD(grey), NE(grey), KS(grey). That's 5 red. (Total 11)
+-   **South:** DE(grey), MD(grey), VA(grey), WV(grey), KY(red), TN(red), NC(green), SC(green), GA(green), FL(red), AL(green), MS(green), LA(green), AR(green), TX(green), OK(green). That's 3 red. (Total 14)
+-   **West:** WA(green), OR(green), CA(green), NV(grey), ID(grey), MT(green), WY(grey), UT(red), CO(red), AZ(red), NM(red). That's 4 red. (Total 18)
+
+So there are 18 states colored red.
+
+**Answer:** 18

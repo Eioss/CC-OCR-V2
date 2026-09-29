@@ -1,0 +1,9 @@
+Based on the "VMWARE VSPHERE VS. MICROSOFT HYPER-V" table at the bottom of the infographic:
+
+1.  Locate the row for **Failover nodes**.
+2.  Look at the columns under **Microsoft Hyper-V** (Standard, Ent., DC).
+    *   Microsoft Standard: 4
+    *   Microsoft Ent.: 16
+    *   Microsoft DC: 16
+
+There are **2** Microsoft Hyper-V versions (Enterprise and DC) that have Failover nodes equal to 16.

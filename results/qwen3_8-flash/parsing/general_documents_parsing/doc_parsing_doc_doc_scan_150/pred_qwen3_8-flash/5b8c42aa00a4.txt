@@ -1,0 +1,40 @@
+```latex
+continuous indication of the visibility (reported in statute miles or fractions of miles) for the runway. RVR is used in lieu of prevailing visibility in determining minimums for a particular runway.
+
+\subsection*{Tower Visibility}
+
+Tower visibility is the prevailing visibility determined from the airport traffic control tower at locations that also report the surface visibility.
+
+\subsection*{Runway Visual Range (RVR)}
+
+Runway visual range is an instrumentally derived value, based on standard calibrations, that represents the horizontal distance a pilot sees down the runway from the approach end. It is based on the sighting of either high intensity runway lights or on the visual contrast of other targets, whichever yields the greater visual range. RVR, in contrast to prevailing or runway visibility, is based on what a pilot in a moving aircraft should see looking down the runway. RVR is horizontal visual range, not slant visual range. RVR is reported in hundreds of feet, so the values must be converted to SM if the visibility in SM is not reported. [Figure 1-10] It is based on the measurement of a transmissometer made near the touchdown point of the instrument runway and is reported in hundreds of feet. RVR is used in lieu of RVV and/or prevailing visibility in determining minimums for a particular runway.
+
+\subsubsection*{Types of RVR}
+
+The following are types of RVR that may be used:
+\begin{itemize}
+    \item Touchdown RVR---the RVR visibility readout values obtained from RVR equipment serving the runway touchdown zone.
+    \item Mid-RVR---the RVR readout values obtained from RVR equipment located near the runway midpoint.
+    \item Rollout RVR---the RVR readout values obtained from RVR equipment located nearest the rollout end of the runway.
+    \item Far End RVR---when four RVR visibility sensors (VS) are installed, the far end RVR VS is the touchdown RVR VS on the reciprocal runway. The far end sensor will serve as additional information.
+\end{itemize}
+
+RVR is the primary visibility measurement used by Part 121 and Part 135 operators with specific visibility reports and controlling values outlined in their respective OpSpecs. Under their OpSpecs agreements, the operator must have specific, current RVR reports, if available, to proceed with an instrument departure. OpSpecs also outline which visibility report is controlling in various departure scenarios.
+
+\begin{figure}[h]
+    \centering
+    % Placeholder for the image
+    \caption{AWSS installation at Driggs-Reed, Idaho.}
+\end{figure}
+
+\subsection*{Adequate Visual Reference}
+
+Another set of lower-than-standard takeoff minimums is available to Part 121 and Part 135 operations as outlined in their respective OpSpecs document. When certain types of visibility reports are unavailable or specific equipment is out of service, the flight can still depart the airport if the pilot can maintain adequate visual reference. An appropriate visual aid must be available to ensure the takeoff surface can be continuously identified, and directional control can be maintained throughout the takeoff run. Appropriate visual aids include high intensity runway lights, runway centerline lights, runway centerline markings, or other runway lighting and markings. With adequate visual references and appropriate OpSpec approval, commercial operators may take off with a visibility of 1600 RVR or $\frac{1}{4}$ SM.
+
+\subsection*{Ceilings}
+
+Ceiling is the height above the earth's surface of the lowest layer of clouds or obscuring phenomena that is reported as broken, overcast, or obscuration and not classified as thin or partial.
+
+\vfill
+\noindent 1-11
+```

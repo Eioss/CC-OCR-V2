@@ -1,0 +1,33 @@
+\[
+\begin{aligned}
+\mathcal{L}W
+&\le -\frac{\dot\phi}{\nu}\Big(C(n,M_0^2,\rho)\mu_1\operatorname{tr}\nu^{kl}
+-C(n,M_0^2,\rho)\mu_{11}+C(n,M_0^2,\rho)\Big) \\
+&\quad -\frac{\phi}{\nu}\Big(C(n,M_0^2,\rho)\operatorname{tr}\nu^{ij}
++C(n,M_0^2,\rho)\Big)
+-\lambda\frac{\dot\phi}{\nu}\Big[(1-|D\phi|^2)\nu^{ij}\phi_i\phi_j-2|D\phi|^2\Big] \\
+&\quad +\frac{C\rho\lambda}{\nu}\dot\phi\,\operatorname{tr}\nu^{ij}
+-2\lambda\dot\phi
+-C(M_0^2)(1-\lambda)\dot\phi\,\mu_{11} \\
+&\quad -\frac{\phi}{\nu}\Big[2\lambda(1-|D\phi|^2)\nu^{kl}\phi_k\phi_l
++C(M_0^2,\rho)(\operatorname{tr}\nu^{kl}+1)
++C(M_0^2,\rho)\lambda\Big(\frac{\operatorname{tr}\nu^{kl}}{\mu_{11}}+1\Big)\Big] \\
+&\le -\frac{\phi}{\nu}C(n,M_0^2,\rho)\Big(\mu_1(\operatorname{tr}\nu^{kl}-1)+1\Big)
+-\lambda\frac{\dot\phi}{\nu}\Big[3(1-|D\phi|^2)\nu^{ij}\phi_i\phi_j-2|D\phi|^2\Big] \\
+&\quad +\frac{C\rho\lambda}{\nu}\dot\phi\,\operatorname{tr}\nu^{ij}
+-2\lambda\dot\phi
+-C(M_0^2)(1-\lambda)\dot\phi\,\mu_{11}
+-\frac{\phi}{\nu}C(M_0^2,\rho)\lambda\Big(\frac{\operatorname{tr}\nu^{kl}}{\mu_{11}}+1\Big) \\
+&\le -\frac{\phi}{\nu}C(n,M_0^2,\rho)\Big(\mu_1(\operatorname{tr}\nu^{kl}-1)+1\Big)
+-\frac{C(M_0^2)\lambda\dot\phi}{\nu}(\mu_1+1)
++\frac{C\rho\lambda}{\nu}\dot\phi\,\operatorname{tr}\nu^{ij} \\
+&\quad -2\lambda\dot\phi
+-C(M_0^2)\dot\phi(1-\lambda)\mu_1
+-\frac{\phi}{\nu}C(M_0^2,\rho)\lambda\Big(\frac{\operatorname{tr}\nu^{kl}}{\mu_{11}}+1\Big) \\
+&\le -\dot\phi\,\operatorname{tr}\nu^{kl}
+\left(\frac{C(M_0^2,\rho)\lambda}{\mu_{11}}
++C(n,M_0^2,\rho)\mu_1
+-\frac{C\rho\lambda}{\nu}\right)
+-C(n,M_0^2,\rho)\dot\phi\Big(1+\lambda+(1-\lambda)\mu_1\Big).
+\end{aligned}
+\]

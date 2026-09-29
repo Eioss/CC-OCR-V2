@@ -1,0 +1,56 @@
+```latex
+\section*{Functions That Modify JSON Values}
+
+This function was added in MySQL 8.0.3 as a synonym for \texttt{JSON\_MERGE()}. The \texttt{JSON\_MERGE()} function is now deprecated, and is subject to removal in a future release of MySQL.
+
+This function is similar to but differs from \texttt{JSON\_MERGE\_PATCH()} in significant respects; see \texttt{JSON\_MERGE\_PATCH()} compared with \texttt{JSON\_MERGE\_PRESERVE()}, for more information.
+
+\begin{itemize}
+    \item \texttt{JSON\_REMOVE(json\_doc, path[, path] ...)}
+    
+    Removes data from a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL}. An error occurs if the \texttt{json\_doc} argument is not a valid JSON document or any \texttt{path} argument is not a valid path expression or is \$ or contains a * or ** wildcard.
+    
+    The \texttt{path} arguments are evaluated left to right. The document produced by evaluating one path becomes the new value against which the next path is evaluated.
+    
+    It is not an error if the element to be removed does not exist in the document; in that case, the path does not affect the document.
+    
+    \begin{verbatim}
+mysql> SET @j = '["a", ["b", "c"], "d"]';
+mysql> SELECT JSON_REMOVE(@j, '$[1]');
++-------------------------+
+| JSON_REMOVE(@j, '$[1]') |
++-------------------------+
+| ["a", "d"]              |
++-------------------------+
+    \end{verbatim}
+    
+    \item \texttt{JSON\_REPLACE(json\_doc, path, val[, path, val] ...)}
+    
+    Replaces existing values in a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL}. An error occurs if the \texttt{json\_doc} argument is not a valid JSON document or any \texttt{path} argument is not a valid path expression or contains a * or ** wildcard.
+    
+    The path-value pairs are evaluated left to right. The document produced by evaluating one pair becomes the new value against which the next pair is evaluated.
+    
+    A path-value pair for an existing path in the document overwrites the existing document value with the new value. A path-value pair for a nonexisting path in the document is ignored and has no effect.
+    
+    In MySQL 8.0.4, the optimizer can perform a partial, in-place update of a JSON column instead of removing the old document and writing the new document in its entirety to the column. This optimization can be performed for an update statement that uses the \texttt{JSON\_REPLACE()} function and meets the conditions outlined in Partial Updates of JSON Values.
+    
+    For a comparison of \texttt{JSON\_INSERT()}, \texttt{JSON\_REPLACE()}, and \texttt{JSON\_SET()}, see the discussion of \texttt{JSON\_SET()}.
+    
+    \begin{verbatim}
+mysql> SET @j = '{ "a": 1, "b": [2, 3]}';
+mysql> SELECT JSON_REPLACE(@j, '$.a', 10, '$.c', '[true, false]');
++-----------------------------------------------------+
+| JSON_REPLACE(@j, '$.a', 10, '$.c', '[true, false]') |
++-----------------------------------------------------+
+| {"a": 10, "b": [2, 3]}                              |
++-----------------------------------------------------+
+    \end{verbatim}
+    
+    \item \texttt{JSON\_SET(json\_doc, path, val[, path, val] ...)}
+    
+    Inserts or updates data in a JSON document and returns the result. Returns \texttt{NULL} if any argument is \texttt{NULL} or \texttt{path}, if given, does not locate an object. An error occurs if the \texttt{json\_doc} argument is not
+\end{itemize}
+
+\vspace{2cm}
+2370
+```

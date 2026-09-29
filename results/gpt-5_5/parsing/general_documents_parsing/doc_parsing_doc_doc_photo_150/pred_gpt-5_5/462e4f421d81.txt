@@ -1,0 +1,47 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\noindent \textit{Candidate Statement of Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{5cm}}ll@{}}
+\textbf{Season:} & June Exams (Summer) 2019 & \textbf{Series:} & (All) \\
+\textbf{Name:} & \rule{3.2cm}{0.4pt} (Alex) & \textbf{Year:} & 12 \\
+\textbf{Candidate Number:} & 4316 & \textbf{Reg. Group:} & 12TAM \\
+\textbf{UCI:} & \rule{3.2cm}{0.4pt} & \textbf{ULN:} & \\
+\end{tabular}
+
+\vspace{1em}
+
+\noindent \textit{Exam Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}lllllllllll@{}}
+\hline
+\textbf{Board} & \textbf{Level} & \textbf{Element} & \textbf{Title} & \textbf{Grd1} & \textbf{Grd2} & \textbf{Mark} & \textbf{Equiv} & \textbf{End1} & \textbf{End2} & \textbf{Points} \\
+ &  & \textbf{Code} &  &  &  &  &  &  &  &  \\
+\hline
+OCR & FSMQ/A & 6993 & Maths: Additional Mathematics & A &  &  &  &  &  &  \\
+CIE & GCSE/9FC & 0976BY & Geography Opt by & 9 &  &  &  &  &  &  \\
+EDEXL/GC & GCSE/9FC & 4HI1 & History & 9 &  & 109 &  &  &  &  \\
+EDEXL/GC & GCSE/9FC & 4MA1H & Mathematics A Option H & 9 &  & 176 &  &  &  &  \\
+AQA & GCSE/9FC & 8461H & Biology Tier H & 9 &  &  &  &  &  &  \\
+AQA & GCSE/9FC & 8462H & Chemistry Tier H & 9 &  &  &  &  &  &  \\
+AQA & GCSE/9FC & 8463H & Physics Tier H & 9 &  &  &  &  &  &  \\
+AQA & GCSE/9FC & 8658H & French Tier H & 9 &  &  &  &  &  &  \\
+AQA & GCSE/9FC & 8700 & English Language & 9 &  &  &  & D &  &  \\
+AQA & GCSE/9FC & 8702 & English Literature & 9 &  &  &  &  &  &  \\
+OCR & GCSE/9FC & J282F & Latin Option F & 8 &  & 165 &  &  &  &  \\
+\hline
+\end{tabular}
+
+\end{document}
+```

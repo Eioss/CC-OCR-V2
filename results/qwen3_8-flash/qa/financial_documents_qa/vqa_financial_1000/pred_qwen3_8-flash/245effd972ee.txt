@@ -1,0 +1,11 @@
+Based on the provided image of the employee pay statement, the **Net Amount** is located in the column labeled "NET AMOUNT" on the far right side of the table.
+
+The handwritten value in that cell is:
+
+> **2200.39**
+
+This represents the amount of money the employee actually received after all deductions (Social Security, Federal Withholding Tax, State Withholding Tax, City Withholding Tax, etc.) were subtracted from their total pay.
+
+---
+
+✅ **Answer: $2,200.39**

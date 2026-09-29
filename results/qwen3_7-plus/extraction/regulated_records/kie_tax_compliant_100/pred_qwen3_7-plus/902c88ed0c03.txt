@@ -1,0 +1,12 @@
+```json
+{
+    "date": "06/12/2016",
+    "doc_no_receipt_no": "K074-001096",
+    "seller_address": "2ND FLOOR, WISMA COSWAY, JALAN RAJA CHULAN, 50200 KUALA LUMPUR, MALAYSIA.",
+    "seller_gst_id": "000743903232",
+    "seller_name": "COSWAY (M) SDN BHD",
+    "seller_phone": "603-2030 1000",
+    "total_amount": "RM111.90",
+    "total_tax": "RM6.33"
+}
+```

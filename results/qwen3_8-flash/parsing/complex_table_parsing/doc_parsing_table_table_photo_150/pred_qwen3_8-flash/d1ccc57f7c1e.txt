@@ -1,0 +1,8 @@
+```html
+<table border="1">
+  <tr> <td></td> <td>k = 0</td> <td>k = 1</td> <td>k = 2</td> </tr>
+  <tr> <td>j = 0</td> <td>$-\frac{2}{5}$</td> <td>$\frac{2}{21}$</td> <td>$\frac{4}{105}$</td> </tr>
+  <tr> <td>j = 1</td> <td>$-\frac{22}{105}$</td> <td>$\frac{4}{105}$</td> <td>$\frac{2}{105}$</td> </tr>
+  <tr> <td>j = 2</td> <td>0</td> <td>$-\frac{2}{105}$</td> <td>0</td> </tr>
+</table>
+```

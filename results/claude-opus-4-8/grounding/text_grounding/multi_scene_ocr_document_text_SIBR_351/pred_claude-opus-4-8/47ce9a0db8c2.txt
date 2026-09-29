@@ -1,0 +1,7 @@
+I can see multiple instances of 'CNY' in this document. Here are their locations:
+
+(803, 489, 855, 510) # Balance row
+(803, 564, 855, 585) # Total Amount Before Taxes row
+(803, 605, 855, 627) # Total Amount Non Taxable row
+(803, 645, 855, 667) # Total VAT row
+(803, 686, 855, 707) # Total Amount with Taxes row

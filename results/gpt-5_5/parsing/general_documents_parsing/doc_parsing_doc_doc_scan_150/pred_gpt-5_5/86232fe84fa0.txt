@@ -1,0 +1,45 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
+\newcommand{\tocline}[2]{\noindent #1\dotfill #2\par}
+
+\begin{document}
+
+\begin{center}
+\rule{0.78\textwidth}{0.4pt}
+
+\vspace{1.2em}
+
+{\Large\bfseries 排污许可证目录}
+\end{center}
+
+\tocline{一、排污单位基本情况}{1}
+\tocline{二、大气污染物排放}{1}
+\tocline{（一）有组织排放许可限值}{1}
+\tocline{（二）无组织排放许可条件}{2}
+\tocline{（三）特殊情况下许可限值}{6}
+\tocline{（四）排污单位大气排放总许可量}{8}
+\tocline{三、水污染物排放}{9}
+\tocline{（一）排放口}{9}
+\tocline{（二）排放许可限值}{10}
+\tocline{四、固体废物排放信息}{13}
+\tocline{五、环境管理要求}{15}
+\tocline{（一）自行监测}{15}
+\tocline{（二）环境管理台账记录}{19}
+\tocline{（三）执行（守法）报告}{23}
+\tocline{（四）信息公开}{24}
+\tocline{（五）其他控制及管理要求}{25}
+\tocline{六、许可证变更、延续记录}{27}
+\tocline{七、其他许可内容}{27}
+\tocline{八、附图和附件}{28}
+
+\vfill
+
+\begin{center}
+1
+\end{center}
+
+\end{document}
+```

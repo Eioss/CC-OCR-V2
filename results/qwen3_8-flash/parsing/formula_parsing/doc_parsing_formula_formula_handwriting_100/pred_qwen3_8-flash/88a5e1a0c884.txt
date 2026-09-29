@@ -1,0 +1,8 @@
+$$( A - \langle A \rangle ) | \psi \rangle = \beta ( B - \langle B \rangle ) | \psi \rangle$$
+$$d^2 = - ( a^2 + ab + b^2 ) = - 3 x^2 y^2$$
+$$E ( D_n ) = \{ v u_i ; 1 \leq i \leq n \} \cup \{ u_i w_i ; 1 \leq i \leq n \}$$
+$$\int_B \varphi \circ f_t ( x ) \operatorname{Leb}_B ( d t ) = \varphi ( x )$$
+$$t^* ( \lambda ) = \min \left\{ k \in \mathbb { N } : d _ { H } ( \nu , \mathbb { N } ) , k > 4 \right\} = \frac { \pi } { \lambda } + O ( 1 ) ,$$
+$$\begin{array} { r l } { E _ { n , m } = } & { { } { \frac { - m \lambda ^ { 4 } + 3 2 \eta ^ { 3 } \left( m ^ { 2 } + 4 ( 1 + n ) ^ { 2 } + ( \varepsilon _ { 1 } + \varepsilon _ { 2 } ) ^ { 2 } + 4 { \sqrt { m ^ { 2 } + ( \varepsilon _ { 1 } + \varepsilon _ { 2 } ) ^ { 2 } } } ( 1 + n ) \right) } { ( \lambda ^ { 2 } - 4 \eta w ) ^ { 2 } } } } \\ { + } & { { } { \frac { 8 m \eta w ( \lambda ^ { 2 } - 2 \eta w ) } { ( \lambda ^ { 2 } - 4 \eta w ) ^ { 2 } } } } \end{array}$$
+$$g _ { j } ( x ) : = \operatorname* { l i m } _ { t \to 0 ^ { + } } \biggl ( g _ { j } ( x + i t ) - \frac { 2 \operatorname { a r t a n h } ( \frac { 1 } { \sqrt { 3 } } ) } { \pi | c _ { \pm } | t } \Phi M _ { x } ^ { - 1 } ( j , 0 ) \biggr ) ,$$
+$$\hat { L } ^ { - } [ w ] : = M ^ { - } ( D ^ { 2 } w ) - \hat { b } | D w | , \mathrm { ~ f o r ~ } \hat { b } = b + 2 \mu _ { 2 } \| D u _ { 0 } \| _ { \infty } ,$$

@@ -1,0 +1,20 @@
+\[
+\begin{aligned}
+\theta(t)
+&=\frac12\int_0^t x(s)\,ds
+=\arctan\!\left\{\sqrt{1-a^2}\left[c_2\pm\left(c_1\mp\sqrt{k^2-\frac{c_2^2}{1-a^2}}\right)\tanh\!\left(\frac{\mu(t)}{2}\right)\right]\right\},\\[4pt]
+Z&=\prod_{j=1}^{d}\left(iv_j\times z_{\vec v}\right),\\[4pt]
+\left|(\phi_i\circ g_i)(\gamma_1^{-1}(x))-(\phi_i\circ g_i)(\gamma_2^{-1}(x))\right|
+&\le L_{\phi_i\circ g_i}\left|\gamma_1^{-1}-\gamma_2^{-1}\right|(x)
+\le L_{\phi_i\circ g_i}\left\|\gamma_1^{-1}-\gamma_2^{-1}\right\|_{C^0(\Omega,\mathbb R^d)},\\[4pt]
+\frac{(c,d)}{(a,b)}
+&=\left(\frac{ca+db}{a^2+b^2},\frac{da-cb}{a^2+b^2}\right),
+\qquad a^2+b^2\ne0,\\[4pt]
+A_L^*\varphi^*&=\varphi^*(A_L^*-B_R^*K^{-1})Q,
+\qquad
+B_L^*\varphi^*=\varphi^*(B_L^*-A_R^*K^{-1})Q,\\
+Q(A_\ell-KB_r)\varphi^*&=\varphi^*A_\ell,
+\qquad
+Q(B_\ell-K^{-1}A_r)\varphi^*=\varphi^*B_\ell.
+\end{aligned}
+\]

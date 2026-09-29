@@ -1,0 +1,27 @@
+```latex
+\textbf{4.} Consider the following table:
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+$x$ & 0.3 & 0.4 & 0.5 & 0.6 & 0.7 \\
+\hline
+$f(x)$ & 1.5 & 2 & 5 & 7 & 12 \\
+\hline
+\end{tabular}
+\end{center}
+
+Let $x_{i+1} = x_i + h, \quad i = 0, \dots, 3$.
+
+\begin{enumerate}
+    \item[(a)] Approximate $f'(0.5)$ using $D_h^+ f(0.5)$ and $h = 0.1$.
+    
+    \item[(b)] Compute $D_h^{(2)} f(0.5)$ using the Central Difference Formula and step size $h = 0.2$. \\
+    \underline{Note:} You may use the following formula for Central Difference Formula:
+    $$ D_h^{(2)} f(x_1) = \frac{D_h^+ f(x_1) - D_h^- f(x_1)}{h} $$
+    
+    \item[(c)] Compare the answer from (b) with the following approximation:
+    $$ D_h^{(2)} f(x_1) = \frac{f(x_2) - 2f(x_1) + f(x_0)}{h^2}, $$
+    with $x_1 = 0.5$, $h = 0.2$.
+\end{enumerate}
+```

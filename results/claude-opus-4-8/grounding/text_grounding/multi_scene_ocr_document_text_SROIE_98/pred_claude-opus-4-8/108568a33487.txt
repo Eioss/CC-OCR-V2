@@ -1,0 +1,5 @@
+The text '101.76' appears multiple times. Here are the locations:
+
+(675, 1227, 793, 1262) # Total Qty row
+(645, 1631, 793, 1672) # Total Sales (Inclusive of GST)
+(645, 1693, 793, 1730) # CASH

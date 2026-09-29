@@ -1,0 +1,9 @@
+Based on the provided invoice document, let's locate the item with number **23740**.
+
+1.  Look at the table under the "ITEM NO." column.
+2.  Find the row where "ITEM NO." is `23740`.
+3.  In that same row, look at the adjacent column labeled "ITEM SIZE".
+
+The value in the "ITEM SIZE" column for item number 23740 is **12M**.
+
+Therefore, the item size of item number 23740 is **12M**.

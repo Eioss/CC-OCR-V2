@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "1/8/2020",
+    "vendor_name": "Katz Communications \u2022 Katz Media Group Inc",
+    "vendor_address": "125 W. 55th St., New York, New York 10019",
+    "customer_billing_name": "Buying Time",
+    "customer_billing_address": "650 Massachusetts Avenue, NW , Massachusetts 20001",
+    "customer_other_name": "Buying Time LLC",
+    "amount_total_tax": "$0.00",
+    "amount_total_gross": "$187,341.70",
+    "amount_due": "$187,341.70",
+    "tax_detail_tax": "$0.00",
+    "tax_detail_gross": "$187,341.70"
+}
+```

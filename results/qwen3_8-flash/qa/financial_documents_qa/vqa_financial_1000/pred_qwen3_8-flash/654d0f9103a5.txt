@@ -1,0 +1,7 @@
+The VAT Amount listed on the invoice is **0.00**.
+
+This is clearly shown in two places:
+1.  In the bottom-left table under "VAT AMOUNT": `0.00`
+2.  In the bottom-right summary table under "INVOICE VAT": `0.00`
+
+Additionally, the "VAT RATE" is also listed as `0.00`, confirming no tax was applied to this transaction (likely because it's an export to the U.S.A.).

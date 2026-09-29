@@ -1,0 +1,49 @@
+# Gravitation Formulas
+
+## 1. Force between two masses (Newton's Law of Gravitation).
+
+From $F \propto \dfrac{1}{r^2}$ and $F \propto m_1 m_2$
+
+$$F = G\frac{Mm}{r^2}, \qquad G = 6.67 \times 10^{-11}$$
+
+## 2. Gravitational Field Strength "g" due to mass M.
+
+$$g = \frac{F}{m} = \frac{GMm}{r^2 m}$$
+
+Gives
+
+$$g = \frac{-GM}{r^2}$$
+
+Where M is source mass and m is test mass.
+
+## 3. Gravitational Potential "ø".
+
+$$work\ done = \frac{F \times d}{mass}$$
+
+Gives
+
+$$\varphi = \frac{-GM}{r}$$
+
+## 4. Gravitational Potential Energy.
+
+$$\varphi = \frac{-GMm}{r}$$
+
+## 5. Speed of Satellite in Orbit.
+
+$$F_g = F_c$$
+
+$$\frac{GMm}{r^2} = \frac{mv^2}{r}$$
+
+Gives
+
+$$v^2 = \frac{GM}{r}$$
+
+## 6. Period or Distance of Satellite.
+
+$$v = \frac{d}{t} = \frac{2\pi r}{T} \quad squaring\ v^2 = \frac{4\pi^2 r^2}{T^2}$$
+
+$$v^2 = \frac{4\pi^2 r^2}{T^2} = \frac{GM}{r}$$
+
+Rearranging gives where r is distance and T is period
+
+$$T^2 = \left(\frac{4\pi^2}{Gm}\right) r^3$$

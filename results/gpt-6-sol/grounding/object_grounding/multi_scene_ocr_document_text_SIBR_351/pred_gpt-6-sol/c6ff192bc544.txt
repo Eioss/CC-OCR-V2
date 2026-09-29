@@ -1,0 +1,22 @@
+[
+  {"bbox_2d":[161,110,334,123],"label":"COMPANY NAME"},
+  {"bbox_2d":[162,136,388,150],"label":"ADDRESS"},
+  {"bbox_2d":[193,178,303,191],"label":"TEL"},
+  {"bbox_2d":[193,192,303,205],"label":"FAX"},
+  {"bbox_2d":[162,215,225,228],"label":"COMPANY NAME"},
+  {"bbox_2d":[158,233,375,279],"label":"ADDRESS"},
+  {"bbox_2d":[232,299,333,313],"label":"PHONE NO."},
+  {"bbox_2d":[163,319,209,333],"label":"SHIPMENT"},
+  {"bbox_2d":[163,348,260,363],"label":"FROM"},
+  {"bbox_2d":[163,378,277,393],"label":"TO"},
+  {"bbox_2d":[452,231,624,286],"label":"TITLE"},
+  {"bbox_2d":[422,362,548,379],"label":"INVOICE No."},
+  {"bbox_2d":[580,362,654,379],"label":"DATE"},
+  {"bbox_2d":[169,487,399,505],"label":"DESCRIPTION OF GOODS"},
+  {"bbox_2d":[85,526,140,543],"label":"MARKS"},
+  {"bbox_2d":[427,487,458,505],"label":"QTY (PCS)"},
+  {"bbox_2d":[488,487,554,505],"label":"UNIT PRICE"},
+  {"bbox_2d":[574,487,657,505],"label":"AMOUNT"},
+  {"bbox_2d":[427,676,458,694],"label":"QTY (PCS)"},
+  {"bbox_2d":[574,676,657,694],"label":"AMOUNT"}
+]

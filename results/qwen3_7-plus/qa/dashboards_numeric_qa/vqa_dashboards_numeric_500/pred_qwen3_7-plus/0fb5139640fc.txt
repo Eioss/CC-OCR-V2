@@ -1,0 +1,20 @@
+Based on the data provided in the infographic under **“COVID-19 in China”** (as of February 21, 2020):
+
+- **Total reported cases**: 75,569  
+- **Cases in Chinese mainland**: 75,467 (which is stated as 99% of total)
+
+To find the number of reported cases **not from Chinese Mainland**, subtract:
+
+> **75,569 – 75,467 = 102**
+
+---
+
+✅ **Answer: 102**
+
+These 102 cases likely represent infections outside the Chinese mainland — possibly in Hong Kong, Macau, Taiwan, or other regions under China’s reporting umbrella at the time, though the infographic does not specify further. The key point is that **99% were in the mainland**, so **1% (≈102 cases)** were elsewhere.
+
+*(Note: 1% of 75,569 is ~755.7 — but since the graphic explicitly states “75,467 (99%)”, we trust the exact numbers given rather than rounding. So 75,569 – 75,467 = 102 is the precise difference.)*
+
+---
+
+📌 **Final Answer: 102**

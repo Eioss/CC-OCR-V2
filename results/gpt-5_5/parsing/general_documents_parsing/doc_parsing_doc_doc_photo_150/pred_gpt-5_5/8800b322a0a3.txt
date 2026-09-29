@@ -1,0 +1,25 @@
+```latex
+7. [T] Complete the following table with the appropriate values: \(y\)-coordinate of \(Q\), the point \(Q(x, y)\), and the slope of the secant line passing through points \(P\) and \(Q\). Round your answer to eight significant digits.
+
+\[
+\begin{array}{|c|c|c|c|}
+\hline
+x & y & Q(x,y) & m_{\mathrm{sec}} \\
+\hline
+4.1 & \text{a.} & \text{e.} & \text{i.} \\
+\hline
+4.01 & \text{b.} & \text{f.} & \text{j.} \\
+\hline
+4.001 & \text{c.} & \text{g.} & \text{k.} \\
+\hline
+4.0001 & \text{d.} & \text{h.} & \text{l.} \\
+\hline
+\end{array}
+\]
+
+8. Use the values in the right column of the table in the preceding exercise to guess the value of the slope of the tangent line to \(f\) at \(x=4\).
+
+9. Use the value in the preceding exercise to find the equation of the tangent line at point \(P\).
+
+For the following exercises, points \(P(1.5, 0)\) and \(Q(\phi, y)\) are on the graph of the function \(f(\phi)=\cos(\pi\phi)\).
+```

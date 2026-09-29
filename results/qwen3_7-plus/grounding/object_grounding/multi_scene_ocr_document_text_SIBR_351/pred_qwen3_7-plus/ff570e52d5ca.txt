@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [170, 462, 279, 473], "label": "Account No"},
+	{"bbox_2d": [21, 265, 401, 276], "label": "Address"},
+	{"bbox_2d": [482, 265, 862, 275], "label": "Address"},
+	{"bbox_2d": [861, 343, 930, 356], "label": "Amount"},
+	{"bbox_2d": [860, 361, 930, 374], "label": "Amount"},
+	{"bbox_2d": [170, 439, 444, 450], "label": "Banker"},
+	{"bbox_2d": [21, 255, 162, 264], "label": "Company Name"},
+	{"bbox_2d": [483, 255, 625, 264], "label": "Company Name"},
+	{"bbox_2d": [357, 123, 472, 134], "label": "Fax"},
+	{"bbox_2d": [274, 180, 338, 189], "label": "Invoice Date (发票日期)"},
+	{"bbox_2d": [274, 169, 339, 178], "label": "Invoice No (发票号码)"},
+	{"bbox_2d": [105, 343, 375, 357], "label": "Item name"},
+	{"bbox_2d": [242, 309, 264, 318], "label": "Mode of delivery (交货方式)"},
+	{"bbox_2d": [76, 344, 84, 355], "label": "No"},
+	{"bbox_2d": [170, 430, 234, 439], "label": "Payment Terms"},
+	{"bbox_2d": [736, 298, 795, 309], "label": "Port of destination (目的口岸)"},
+	{"bbox_2d": [242, 299, 295, 308], "label": "Port of shipment (装运口岸)"},
+	{"bbox_2d": [706, 343, 761, 356], "label": "Price"},
+	{"bbox_2d": [275, 201, 328, 210], "label": "Purchase Order (订单号)"},
+	{"bbox_2d": [464, 343, 534, 357], "label": "Quantity"},
+	{"bbox_2d": [176, 451, 236, 461], "label": "SWIFT"},
+	{"bbox_2d": [60, 121, 177, 132], "label": "Tel"},
+	{"bbox_2d": [721, 169, 793, 180], "label": "Title"},
+	{"bbox_2d": [735, 181, 779, 193], "label": "Title"},
+	{"bbox_2d": [653, 361, 691, 373], "label": "USD"},
+	{"bbox_2d": [542, 343, 580, 356], "label": "Unit"}
+]
+```

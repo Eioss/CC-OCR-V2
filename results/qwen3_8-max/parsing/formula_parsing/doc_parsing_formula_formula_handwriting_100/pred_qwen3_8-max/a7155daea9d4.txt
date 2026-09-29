@@ -1,0 +1,17 @@
+ $$\Sigma _ { P } ( r ) = \{ \xi _ { 0 } \Sigma _ { B } B _ { r / 2 } ( p ) \colon \eta _ { P + Q ^ { F } } ( \xi ) \in ( p + Q _ { P } ) \cap B _ { r / 4 } ( p ) \}$$
+
+ $$\phi _ { o } ( x ) = 1 \; \; \; ( 0 \leq x < 1 / 2 ) \; \; \; \; \; \; \phi _ { 1 } ( x + 1 ) = \phi _ { 1 } ( x )$$
+
+ $$\phi _ { o } ( x ) = - 1 \; \; ( 1 / 2 \leq x < 1 ) \; \; \; \; \; \; \phi _ { 1 } ( x ) = \phi _ { 1 } ( 2 ^ { k } x )$$
+
+ $$g \in { \left\{ \begin{array} { l l } { ( a , s , \infty ) } & { i f \ 0 \leq s \leq 1 / 2 } \\ { ( c , s , \infty ) } & { i f \ 1 / 2 < s } \end{array} \right. }$$
+
+ $$< [ \frac { G } { g _ { j } } , x _ { \theta } - \phi _ { e } ] > \, < \, [ \frac { G } { g _ { j } } , x _ { \theta } ] > - < [ \frac { G } { g _ { j } } , \psi _ { 1 } ] > - 1 - \delta ( \epsilon , g )$$
+
+ $$v ( x , \overrightarrow { p } ^ { \prime } ( g + 1 ) ) - v ( x , \overrightarrow { p } ^ { \prime \prime } ) = \sum _ { k = 0 } ^ { j - 1 } ( v ( x , \overrightarrow { \alpha } ^ { \prime \prime ( k + 1 ) } ) - v ( x , \overrightarrow { \alpha } ^ { \prime \prime ( k ) } ) ) = V ( x , \overrightarrow { \alpha } ^ { \prime \prime } ) - V ( x , \overrightarrow { \alpha } ^ { \prime \prime ( j ) } ) ,$$
+
+ $$a = \textstyle { \frac { 1 } { 2 } } ( 1 + 1 - { \frac { \varepsilon } { 2 + R } } ) .$$
+
+ $$G _ { k l } \Big ( \operatorname * { l i m } _ { i } X _ { m } \Big ) = | g _ { m } | ^ { \frac { 1 } { d } } \sum _ { k \in P } \psi ( Q _ { k } ( X _ { m } + i y _ { m } ) ) = | g _ { m } | ^ { \frac { 1 } { d } } \sum _ { k \in i n j } \psi ( Q ( g _ { k } X _ { m } + i y _ { m } ) ) ,$$
+
+ $$i \oplus j \equiv ( i + j ) \mod 2$$

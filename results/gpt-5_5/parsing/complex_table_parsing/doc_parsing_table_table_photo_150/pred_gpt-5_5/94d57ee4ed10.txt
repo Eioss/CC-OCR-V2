@@ -1,0 +1,50 @@
+```html
+<table>
+  <tr>
+    <td>N</td>
+    <td>Emertimi</td>
+    <td>NenAn.</td>
+    <td>Shuma ne leke</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Libra dhe publike profesionale</td>
+    <td>602100</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Aktivitet promovues, prodhimet vendore</td>
+    <td>602209</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Iftar per muajin e ramazanit</td>
+    <td>602209</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Aktivitete per festat kombetare</td>
+    <td>602209</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Aktivitete social-kulturore</td>
+    <td>602209</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Aktivitete Sportive</td>
+    <td>602209</td>
+    <td>2,200,000</td>
+  </tr>
+  <tr>
+    <td colspan="3">Totali Lekë</td>
+    <td></td>
+  </tr>
+</table>
+```

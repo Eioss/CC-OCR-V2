@@ -1,0 +1,15 @@
+Based on the provided line graph, "FIGURE C.2: AGE ADJUSTED MOTOR VEHICLE ACCIDENT MORTALITY RATE CANADA", we can determine the 'actual' value for the year 1975 as follows:
+
+1.  **Locate the year 1975** on the horizontal (x) axis.
+2.  **Move vertically upwards** from the 1975 mark until you intersect the solid line, which represents the "ACTUAL" data according to the legend.
+3.  **Look horizontally to the left** from that intersection point to read the corresponding value on the vertical (y) axis, labeled "PER 1000".
+
+The solid line at the year 1975 is positioned slightly below the 0.24 mark and above the 0.22 mark. Visually estimating its position, it appears to be approximately halfway between 0.22 and 0.24, but closer to 0.24. A reasonable estimate would be around **0.238**.
+
+However, looking more closely at the peak just before 1975 (around 1973), the actual value reaches nearly 0.28. By 1975, the line has dropped significantly. It aligns very closely with the grid line for **0.24**, perhaps a tiny bit lower.
+
+Given the resolution of the chart and standard interpretation practices for such graphs, the most accurate reading is approximately **0.24 per 1000**.
+
+---
+
+**Answer:** The ‘actual’ value per 1000 during the year 1975 is approximately **0.24**.

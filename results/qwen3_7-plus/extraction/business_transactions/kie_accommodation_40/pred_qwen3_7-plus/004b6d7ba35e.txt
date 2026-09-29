@@ -1,0 +1,11 @@
+```json
+{
+    "Departure Date": "2020-11-12 07:32:15",
+    "Arrival Date": "2020-11-09 20:53:50",
+    "Total Amount": "1674.00",
+    "Name": "周志强",
+    "Balance": "1674.00",
+    "Address": "www.themulian.com",
+    "Hotel Name": "新宇龙信息网络酒店"
+}
+```

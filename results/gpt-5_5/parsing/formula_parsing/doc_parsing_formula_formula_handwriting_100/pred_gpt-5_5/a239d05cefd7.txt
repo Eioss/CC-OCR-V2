@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+\tilde V_0(s)(z,w) &= \frac{z_0+\overline{z_0}}{z_0-z_2w}+\frac{\overline{z_2w}}{\overline{z_2w}-\overline{z_0}}=0,\\
+\tilde V_1(s)(z,w) &= \frac{w}{z_2}-\overline{z_2w}=0,\\
+\vdots \qquad & \qquad \vdots\\
+\tilde V_2(s)(z,w) &= \overline{(w_1-2w_0z_1r(z))}+(w_1-2w_0z_1r(z))=0,\\
+\vdots \qquad & \qquad \vdots\\
+\tilde V_{n+1}(s)(z,w) &= \overline{(w_n-2w_0z_nr(z))}+(w_n-2w_0z_nr(z))=0,\\
+\tilde V_{n+2}(s)(z,w) &= i\,\overline{(w_1-2w_0z_1r(z))}-i\,(w_1-2w_0z_1r(z))=0,\\
+\vdots \qquad & \qquad \vdots\\
+\tilde V_{2n+1}(s)(z,w) &= i\,\overline{(w_n-2w_0z_nr(z))}-i\,(w_n-2w_0z_nr(z))=0.
+\end{aligned}
+\]

@@ -1,0 +1,39 @@
+\[
+\begin{gathered}
+\chi_{p,\alpha\beta\phi}^{j}\!\left(c_{f_p,CM}^{\mathrm{cyc}}(\eta)\right)
+=
+r(j+k_{\mu,1})G_0(\phi)
+\frac{
+\prod_{p\mid p\ne fF} A_p c\mathcal{L}(\eta)^{p-s_t},\phi,j)\,L(\alpha\eta)^{p-s_t},\phi;j)
+}{
+(-2\pi\sqrt{-1})^{jd}(-\bar{\Omega}_{CM,\infty})^{k_{\mu,z}}(\Omega_{CM,\infty})^{k_{\mu,u}}
+}
+\\[1em]
+y^T\mathbb{E}\!\left[\sum_{r=1}^{m} a_r a_r^T\right]y
+=
+\sum_{r=1}^{m}\mathbb{E}\!\left[\langle a_r,y\rangle^2\right]
+=
+\sum_{r=1}^{m}\sum_{j=1}^{d} y_j^2
+=
+\sum_{r=1}^{m}\|y\|^2
+\\[1em]
+\eta_r^2
+:=
+\left(\sum_{t\in T}\eta_t^2\right)^{1/2}
+\cdot
+\left(\sum_{t\in T}h_t^2\eta_t^2\right)^{1/2}
+\\[1em]
+g_1\cdots g_{t_i}=R_0R_1\cdots R_n
+\\[1em]
+\nu(\theta,r)=-1\ \text{for }r\text{ near }0,\qquad
+\nu(\theta,r)=1\ \text{for }r\ge Re^{|\theta|}
+\\[1em]
+\int_{1}^{\infty}
+h(y)e^{-c\sigma y^{1/(d-1)}}\cdot
+\frac{dy}{y^{(2\nu-1)/(d-1)}}
+\le
+h(1)\int_{1}^{\infty}
+\frac{dy}{y^{(2\nu-1)/(d-1)}}
+<\infty
+\end{gathered}
+\]

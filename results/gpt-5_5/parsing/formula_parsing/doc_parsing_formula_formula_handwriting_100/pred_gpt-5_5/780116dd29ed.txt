@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+m=|E(G)|&\ge
+\begin{cases}
+\dfrac{3n-14}{8} & \text{for even } n,\\[4pt]
+\dfrac{3n-7}{8} & \text{for odd } n,
+\end{cases}\\[6pt]
+W_k(X_1,\ldots,X_k)
+&\stackrel{\mathrm{def}}{=}
+\frac{1}{k!}\sum_{\sigma\in S_k}\operatorname{sgn}(\sigma)\operatorname{Tr}\left(
+X_{\sigma(1)}\circ X_{\sigma(2)}\circ\cdots\circ X_{\sigma(k)}
+\right),\\[6pt]
+V\cap U&=N=W\cap U,\\[6pt]
+Y_r^{t,\omega}
+&=\xi^{t,\omega}
++\int_r^T g_u^{t,\omega}\left(\omega^t,Y_u^{t,\omega},Z_u^{t,\omega}\right)\,du
+-\int_r^T Z_u^{t,\omega}\,dW_u^t,
+\quad P^t\text{-a.s. }r\in[t,T],\\[6pt]
+\operatorname{Hom}\left(I_D/I_D^2,\ I_D^2/I_D^3\right)
+&\simeq I_D/I_D^2\simeq \mathcal{O}_D(-K_D),\\[6pt]
+\phi(E)&=\phi(E_1)\cup'\phi(E_2).
+\end{aligned}
+\]

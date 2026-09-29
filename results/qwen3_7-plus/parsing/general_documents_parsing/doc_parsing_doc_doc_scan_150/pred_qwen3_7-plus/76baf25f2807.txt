@@ -1,0 +1,79 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+% Define colors based on the image
+\definecolor{headergreen}{RGB}{0, 128, 128} % Dark teal/green for table header
+\definecolor{rowlightgreen}{RGB}{204, 255, 204} % Light green for alternating rows
+\definecolor{titlepurple}{RGB}{128, 0, 128} % Purple for "passive voice"
+\definecolor{titlered}{RGB}{255, 0, 0} % Red for "The" and "voice" (approximate)
+\definecolor{titleorange}{RGB}{255, 165, 0} % Orange for "The" (approximate)
+\definecolor{titleblue}{RGB}{0, 0, 255} % Blue for "passive" (approximate)
+\definecolor{titleyellow}{RGB}{255, 255, 0} % Yellow for "voice" (approximate)
+\definecolor{titlepink}{RGB}{255, 192, 203} % Pink for "voice" (approximate)
+
+\begin{document}
+
+\begin{center}
+    \huge{\textbf{\textcolor{titlered}{The} \textcolor{titleblue}{passive} \textcolor{titlepurple}{voice}}}
+\end{center}
+
+\vspace{1em}
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{lXX}
+\toprule
+ & \multicolumn{1}{c}{\textbf{Active Voice}} & \multicolumn{1}{c}{\textbf{Passive Voice}} \\
+\midrule
+\rowcolor{rowlightgreen}
+\textbf{Present Simple} & They serve dinner at 6pm & Dinner is served at 6pm \\
+\rowcolor{rowlightgreen}
+\textbf{Present Continuous} & They are serving dinner now. & Dinner is being served now. \\
+\textbf{Past Simple} & They served dinner. & Dinner was served. \\
+\textbf{Past Continuous} & They were serving dinner. & Dinner was being served. \\
+\rowcolor{rowlightgreen}
+\textbf{Future Simple} & They will serve dinner. & Dinner will be served. \\
+\rowcolor{rowlightgreen}
+\textbf{Present Perfect} & They have served dinner. & Dinner has been served. \\
+\textbf{Past Perfect} & They had served dinner. & Dinner had been served. \\
+\textbf{Future Perfect} & They will have served dinner. & Dinner will have been served. \\
+\rowcolor{rowlightgreen}
+\textbf{Present infinitive} & They should serve dinner. & Dinner should be served. \\
+\rowcolor{rowlightgreen}
+\textbf{Perfect infinitive} & They should have served dinner. & Dinner should have been served. \\
+\textbf{-ing form} & He likes people serving his dinner & He likes his dinner being served. \\
+\textbf{Perfect-ing form} & Having served dinner,... & Dinner having been served... \\
+\textbf{Modals+ be + p.p.} & You must serve dinner. & Dinner must be served. \\
+\bottomrule
+\end{tabularx}
+
+\vspace{2em}
+
+\section*{Exercise}
+
+Karen is writing an article about Vivienne Tam for the school newspaper. Help her to complete the article using the correct passive form of the verbs in brackets. One of the verbs is negative.
+
+\vspace{1em}
+
+Fashion designer Vivienne Tam $^{(1)}$ \underline{\hspace{4cm}} (name) 'Yin Yok' when she was born. She $^{(2)}$ \underline{\hspace{4cm}} (give) her English name when she started studying in Hong Kong. She $^{(3)}$ \underline{\hspace{4cm}} (teach) English at school but spoke Cantonese at home. She $^{(4)}$ \underline{\hspace{4cm}} (tell) to always remember her Chinese culture. At the same time, western ideas $^{(5)}$ \underline{\hspace{4cm}} (introduce) to her since people from many cultures were living in Hong Kong. This mix of East and West in her life $^{(6)}$ \underline{\hspace{4cm}} (see) in her designs even now.
+
+Vivienne moved to New York when she was twenty-five. Her new and interesting designs $^{(7)}$ \underline{\hspace{4cm}} (like) by important shops there, so a lot of orders for her clothing $^{(8)}$ \underline{\hspace{4cm}} (place). Today her East-meets-West clothes $^{(9)}$ \underline{\hspace{4cm}} (sell) only in New York, but also in cities around the world.
+
+\vspace{2em}
+
+\begin{center}
+    \large{\textit{Try your best!}}
+\end{center}
+
+\vfill
+\begin{flushright}
+    ISLCollective.com
+\end{flushright}
+
+\end{document}
+```

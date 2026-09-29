@@ -1,0 +1,48 @@
+To find how much more the **total civilian casualties per month** were in **2012** compared to **2011**, we subtract the 2011 monthly average from the 2012 monthly average:
+
+- **2011**: 2,510 total civilian casualties per month  
+- **2012**: 2,882 total civilian casualties per month  
+
+**Difference** = 2,882 – 2,510 = **372**
+
+---
+
+✅ So, there were **372 more civilian casualties per month in 2012** than in 2011.
+
+This aligns with the infographic’s stated **+26% increase in total civilian casualties (killed & injured)** between the two years — since 372 is approximately 26% of 2,510 (2,510 × 0.26 ≈ 652.6 — wait, that doesn’t match).
+
+Actually, let’s double-check the percentage:
+
+Total annual casualties:
+- 2011: 18,803
+- 2012: 24,603
+
+Increase = 24,603 – 18,803 = **5,800**
+
+Percentage increase = (5,800 / 18,803) × 100 ≈ **30.85%**
+
+But the infographic says **+26%** — this may be a rounding or data source discrepancy. However, for the **monthly** figures given:
+
+> 2011: 2,510/month → 2,510 × 12 = **30,120** (but actual reported is 18,803 — inconsistency!)
+
+Wait — here’s the issue:
+
+The infographic states:
+- **18,803 civilian casualties in populated areas in 2011**
+- But then says **2,510 total civilian casualties per month** → 2,510 × 12 = **30,120**, which contradicts 18,803.
+
+Similarly for 2012:
+- Reported: **24,603**
+- Monthly: **2,882 × 12 = 34,584** — again, inconsistent.
+
+So likely, the **“total civilian casualties per month”** figure includes **all** casualties (not just those in populated areas), while the pie charts refer only to **casualties in populated areas**.
+
+Therefore, to answer your question based on the **explicitly stated monthly numbers**:
+
+> **2012: 2,882 per month**  
+> **2011: 2,510 per month**  
+> **Difference: 2,882 – 2,510 = 372**
+
+---
+
+✅ Final Answer: **372 more civilian casualties per month in 2012 than in 2011.**

@@ -1,0 +1,5 @@
+Based on the infographic, there are **3** basic approaches mentioned for organizing websites (which make up the network/web):
+
+1.  **Crawling:** Search engines follow links to browse the pages that make up the web.
+2.  **Sorting:** Results get sorted by a variety of factors.
+3.  **Indexing:** Sorted pages get stored in an index so search engines can match queries with results faster.

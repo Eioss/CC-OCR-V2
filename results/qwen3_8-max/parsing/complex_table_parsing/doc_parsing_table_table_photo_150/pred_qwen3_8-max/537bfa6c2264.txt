@@ -1,0 +1,62 @@
+```html
+<table border="1" style="border-collapse: collapse; text-align: center; font-family: serif;">
+  <thead>
+    <tr>
+      <th style="padding: 5px 15px; border-bottom: 2px solid black;">Team</th>
+      <th style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">Main Score</th>
+      <th style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">SROCC</th>
+      <th style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">PLCC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 5px 15px; font-weight: bold; text-align: left;">TB-VQA(ours)</td>
+      <td style="padding: 5px 15px; font-weight: bold; border-left: 1px solid black;">0.8576</td>
+      <td style="padding: 5px 15px; font-weight: bold; border-left: 1px solid black;">0.8493</td>
+      <td style="padding: 5px 15px; font-weight: bold; border-left: 1px solid black;">0.8659</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">2nd</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8396</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8408</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8383</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">3rd</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8289</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8261</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8317</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">4th</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8199</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8163</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8236</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">5th</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7994</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7962</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.8026</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">6th</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7859</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7896</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7822</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left;">7th</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7850</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7879</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black;">0.7821</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px 15px; text-align: left; border-bottom: 2px solid black;">8th</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">0.7727</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">0.7756</td>
+      <td style="padding: 5px 15px; border-left: 1px solid black; border-bottom: 2px solid black;">0.7698</td>
+    </tr>
+  </tbody>
+</table>
+```

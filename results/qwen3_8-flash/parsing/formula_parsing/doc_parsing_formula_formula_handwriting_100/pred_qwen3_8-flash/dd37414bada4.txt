@@ -1,0 +1,23 @@
+$$\partial _ { \alpha } \left( \frac { z _ { x x } ( x ) } { c _ { \alpha } } \right) = - \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } \langle z _ { x } ( x ) - z _ { x } ( x - y ) , z ( x ) - z ( x - y ) \rangle d y$$
+
+$$- \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { \alpha } } \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$+ \alpha \int \frac { z _ { x } ( x ) - z _ { x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } \langle z _ { x } ( x ) - z _ { x } ( x - y ) , z ( x ) - z ( x - y ) \rangle \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$\partial _ { \alpha } \left( \frac { z _ { x x x } ( x ) } { c _ { \alpha } } \right) = - 2 \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } \langle z _ { x } ( x ) - z _ { x } ( x - y ) , z ( x ) - z ( x - y ) \rangle d y$$
+
+$$- \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } | z _ { x } ( x ) - z _ { x } ( x - y ) | ^ { 2 } d y$$
+
+$$+ ( 2 \alpha + 2 ) \int \frac { z _ { x } ( x ) - z _ { x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 4 + \alpha } } \left( \langle z _ { x x } ( x ) - z _ { x x } ( x - y ) , z ( x ) - z ( x - y ) \rangle \right) ^ { 2 } d y$$
+
+$$- \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } \langle z _ { x x } ( x ) - z _ { x x } ( x - y ) , z ( x ) - z ( x - y ) \rangle d y .$$
+
+$$- \int \frac { z _ { x x x } ( x ) - z _ { x x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { \alpha } } \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$+ 2 \alpha \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 3 + \alpha } } \langle z _ { x } ( x ) - z _ { x } ( x - y ) , z ( x ) - z ( x - y ) \rangle \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$+ \alpha \int \frac { z _ { x } ( x ) - z _ { x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } | z _ { x } ( x ) - z _ { x } ( x - y ) | ^ { 2 } \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$- \alpha ( \alpha + 2 ) \int \frac { z _ { x } ( x ) - z _ { x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 4 + \alpha } } \left( \langle z _ { x x } ( x ) - z _ { x x } ( x - y ) , z ( x ) - z ( x - y ) \rangle \right) ^ { 2 } \log \left( | z ( x ) - z ( x - y ) | \right) d y$$
+
+$$+ \alpha \int \frac { z _ { x x } ( x ) - z _ { x x } ( x - y ) } { | z ( x ) - z ( x - y ) | ^ { 2 + \alpha } } \langle z _ { x x } ( x ) - z _ { x x } ( x - y ) , z ( x ) - z ( x - y ) \rangle \log \left( | z ( x ) - z ( x - y ) | \right) d y .$$

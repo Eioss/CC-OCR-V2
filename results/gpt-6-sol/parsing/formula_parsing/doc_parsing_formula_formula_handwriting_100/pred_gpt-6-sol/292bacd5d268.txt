@@ -1,0 +1,18 @@
+\[
+\begin{aligned}
+&\int_0^T G\bigl(T-s,z(T)-z(s)\bigr)\,\phi(z(s))z'(s)\,ds\\
+&=\sum_{j=1}^{J} A_j\int_0^T
+\frac{e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t}-pt+q_jz(T-t)}}{\sqrt{4\pi t}}\,
+z'(T-t)\,dt\\
+&\quad -Vk\int_0^T
+\frac{e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t}-pt+z(T-t)}}{\sqrt{4\pi t}}\,
+z'(T-t)\,dt\\
+&=\sum_{j=1}^{J} A_j\sqrt{T}\int_0^1
+\frac{e^{-\frac{[z(T)-z(\bar\zeta T)-k\zeta T]^2}{4\zeta T}-p\zeta T+q_jz(\bar\zeta T)}}{\sqrt{4\pi\zeta}}\,
+z'(\bar\zeta T)\,d\zeta\\
+&\quad -Vk\sqrt{T}\int_0^1
+\frac{e^{-\frac{[z(T)-z(\bar\zeta T)-k\zeta T]^2}{4\zeta T}-p\zeta T+z(\bar\zeta T)}}{\sqrt{4\pi\zeta}}\,
+z'(\bar\zeta T)\,d\zeta\\
+&= (\mathrm{Term}\ 1)+(\mathrm{Term}\ 2).
+\end{aligned}
+\]

@@ -1,0 +1,85 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{xcolor}
+
+\begin{document}
+
+\section*{Course Structure}
+
+\noindent
+\colorbox{black}{\textcolor{white}{\large (2023-24)}}
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{|c|l|c|}
+\hline
+Section & & Total Weightage \\
+\hline
+A & Reading Skills & 22 \\
+\hline
+B & Writing Skills & 22 \\
+\hline
+C & Grammar & 10 \\
+\hline
+D & Literature Textbook & 26 \\
+\hline
+& TOTAL & 80 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\textbf{SECTION A: READING SKILLS} \hfill \textbf{(12+10=22 Marks)} \hfill \textbf{50 Periods}
+
+\begin{itemize}
+    \item The section will have two unseen passages with the maximum word limit of 750 words. The passages can have continuous and non-continuous text inspired from the themes in prescribed books. Please refer to the Main Course Book (MCB) for types of non-continuous texts. (For example-- Unit 1 has lists, tables, cues, message, telephone conversation etc.).
+    
+    \item Objective Type Questions (including Multiple Choice Questions), Very Short Answer Type Questions (one word/ one phrase / one sentence) and Short Answer Type Questions (30-40 words each) will be asked to test interpretation, analysis, inference, evaluation and vocabulary in context.
+\end{itemize}
+
+\vspace{1em}
+
+\noindent
+\textbf{SECTION B: WRITING SKILLS} \hfill \textbf{22 Marks} \hfill \textbf{50 Periods}
+
+\noindent
+This section will have a variety of short and long writing tasks.
+
+\begin{itemize}
+    \item Email to school authorities (Application for leave/ change of subject /change of section/ bus-timings or similar topics) in maximum 50 words \hfill \textbf{3 Marks}
+    
+    \item Factual Description of a person/object in maximum 100 words \hfill \textbf{4 Marks}
+    
+    \item One out of two formal letters, in maximum 120 words, thematically aligned to topics in MCB. \hfill \textbf{7 Marks}
+    
+    \item One out of two articles based on verbal cues, in maximum 150 words, thematically aligned to MCB topics. \hfill \textbf{8 Marks}
+\end{itemize}
+
+\vspace{1em}
+
+\noindent
+\textbf{SECTION C: GRAMMAR} \hfill \textbf{10 Marks} \hfill \textbf{20 periods}
+
+\noindent
+Grammar items will be taught and assessed over a period of time.
+
+\begin{enumerate}
+    \item Tenses
+    \item Modals
+    \item Subject -- verb concord
+    \item Reported speech
+\end{enumerate}
+
+\begin{itemize}
+    \item Commands and requests
+    \item Statements
+    \item Questions
+\end{itemize}
+
+\end{document}
+```

@@ -1,0 +1,24 @@
+```latex
+\textbf{ON THE}
+
+\section*{REDUCTION OF THE BAROMETER TO SEA LEVEL.}
+
+BY CHARLES CARPMAEL, M.A., F.R.A.S., \\
+(LATE FELLOW OF ST. JOHN'S COLL., CAMB.) \\
+Deputy Superintendent of the Meteorological Service of Canada.
+
+The application of an approximately correct reduction to barometric readings, taken at various levels, in order to reduce them to what they would have been at one specified level, is absolutely necessary for their intercomparison. In the following paper several formulæ which have been employed for this purpose are examined; and tables are appended by means of which, with very little calculation, a sufficiently correct reduction may be obtained, and which are, moreover, peculiarly adapted to the computation of tables of reduction for individual stations.
+
+Guyot's Tables* D, XVI. and XIX'., are commonly employed, on this continent, for the purpose of effecting the reduction. These give the height, in English feet, of a column of air corresponding to a tenth of an inch in the barometer at various temperatures, the barometric pressure at the base of the column being from 22 inches to 30.4 inches.
+
+A formula is given for use with Table XVI., which may be written
+$$ R = \frac{Z}{N} \times \frac{\beta}{10b}, \quad \text{(i.)} $$
+where $R$ represents the required reduction in inches, $Z$ the difference of height between the two stations, or the height above the sea (expressed in feet), $N$ the number in the table, $\beta$ the observed reading of the barometer reduced to 32° Fahr., and $b$ the pressure on which the tabular number $N$ is based,$^\dagger$ that is, 30 inches.
+
+\vspace{1em}
+* Meteorological and Physical Tables. Third edition. Washington, 1859. By Arnold Guyot, P.D., IY.D., Professor of Geology and Physical Geography, College of New Jersey.
+
+$^\dagger$ Guyot defines what is here represented by $b$, as ``the normal height of barometer at the sea-level,'' and in an example which he gives, he employs 30 in. It is, however, only because the table is based on a barometric reading of 30 in., that this value of $b$ is to be employed.
+
+(Proceed. Can. Inst. Vol. I. Part 1)
+```

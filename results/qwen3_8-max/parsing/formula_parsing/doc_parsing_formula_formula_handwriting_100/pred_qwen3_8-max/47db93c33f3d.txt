@@ -1,0 +1,13 @@
+ $$\tan h ( z ) = \frac { \left( D _ { 1 2 } \frac { \partial h } { \partial z _ { 2 } } + E _ { 1 2 } \frac { \partial h } { \partial z _ { 1 } } - ( D _ { 1 1 } - E _ { 1 1 } ) \right) \sin h ( z ) } { T _ { 1 } - T _ { 2 } } .$$
+
+ $$T _ { i } = L ( \pi / 4 ; \, i ) , \, i = 1 , \ldots , 3$$
+
+ $$S _ { \Theta } ^ { 1 } ( t ) = \{ s \in S _ { \Theta } : s ^ { - 1 } \in S _ { \Theta } ^ { - } ( t ) \} \, .$$
+
+ $$\begin{array} { r l } & { \bigl ( \int _ { \Sigma } t ^ { - 2 s } | \triangledown u ^ { - } | ^ { 2 } d x d y \bigr ) \bigl ( \int _ { \Sigma } t ^ { - 2 s } | \triangledown v ^ { - } | ^ { 2 } d x d y \bigr ) } \\ & { \qquad \le ( \rho _ { N } \eta ^ { 2 } u ( o ) \varphi ) \bigl \{ \psi _ { [ \{ \alpha ( n ) v ^ { - } ( o ) > 0 \} } ] ^ { 2 s / n } | | d | | _ { \infty } \omega | | d | | _ { \infty } | | c | | _ { \infty } | | u | | _ { L ^ { 2 n / ( n - 2 ) } ( \Omega ) } ^ { 2 } | | v | | _ { L ^ { 2 n - 2 s } ) ( \Omega ) } ^ { 2 } . } \end{array}$$
+
+ $$| | F _ { X ^ { - 2 } } \otimes _ { \Lambda } F _ { 3 } ^ { * } F _ { b } F ^ { c } | | _ { L ^ { p } } \lesssim _ { k } k ! | | F ^ { a } | | _ { S } | | F _ { b } | | _ { S } | | F ^ { c } | | _ { S } ,$$
+
+ $$\operatorname* { l i m } _ { n \rightarrow \infty } { \frac { \operatorname* { s u p } _ { a \leq t \leq a ^ { \star n } } | X ( t ) - X ( a ^ { n } ) | } { a ^ { \kappa H } ( \log a n ) ^ { 1 / p + \varepsilon } } } = 0 \quad a . s .$$
+
+ $$\phi = | \angle u + v | = \pi - \alpha - \beta \geq \pi - | \angle v u s | - | \angle s v u | = | \angle u s v | - 2 \pi / 5 .$$

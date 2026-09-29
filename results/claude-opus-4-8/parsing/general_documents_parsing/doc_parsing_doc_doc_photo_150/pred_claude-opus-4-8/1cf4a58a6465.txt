@@ -1,0 +1,71 @@
+# Transcription
+
+```latex
+\documentclass{article}
+\usepackage{array}
+\begin{document}
+
+\begin{center}
+2
+\end{center}
+
+\hfill Marks
+
+\begin{enumerate}
+\setcounter{enumi}{1}
+\item Answer the following questions from your reading of the above text : \hfill $2\times4=8$
+\begin{enumerate}
+\item[(a)] Why did Shamima leave her husband Kamal Uddin Joarder?
+\item[(b)] What is Shamima's vow now?
+\item[(c)] What are the products that Shamima sells in her shop?
+\item[(d)] Why did she search for the helpless people?
+\end{enumerate}
+
+\item Read the following text and fill in the gaps with appropriate words to \hfill $1\times5=5$ \\
+make it a meaningful one.
+
+Folk songs have enriched our culture tremendously. The \textit{(a)} ------- styles are followed in themes, words and \textit{(b)} ------- of these songs. In the minds of common people the folk songs have \textit{(c)} ------- for a long time. The history and \textit{(d)} ------- of folk songs in our country are very rich. The most \textit{(e)} ------- songs are Palligiti, Bhatiali, Bhawaiya, Jari, Sari, Lalongiti, etc.
+
+\begin{center}
+\textbf{B : Unseen Part}
+\end{center}
+
+Read the following text and answer questions 4 and 5 :
+
+The Charter on Elimination of all forms of discrimination against women known as the CEDAW Charter was adopted on 18 December in 1979 by the United Nations General Assembly, and came into effect on September 3, 1981 with the support of 20 countries. 132 countries including Bangladesh ratified this Charter so far. A special feature of this charter is that it is a complete charter on the rights of women, which comprises of different issues adopted at different times in order to eliminate discrimination against women.
+
+\item Complete the table below with appropriate information from the \hfill $1\times5=5$ \\
+given passage :
+
+\begin{center}
+\begin{tabular}{|m{3.5cm}|m{3.5cm}|m{4cm}|}
+\hline
+\multicolumn{1}{|c|}{Who/What} & \multicolumn{1}{c|}{Event} & \multicolumn{1}{c|}{Where/When} \\
+\hline
+\textit{(i)} \dotfill & adopted CEDAW & in 1979 \\
+\hline
+CEDAW & was adopted & \textit{(ii)} \dotfill \\
+\hline
+\textit{(iii)} \dotfill & came into effect & on September, 1981 \\
+\hline
+\textit{(iv)} \dotfill & supported CEDAW & \\
+\hline
+132 countries including Bangladesh & \textit{(v)} \dotfill & \\
+\hline
+\end{tabular}
+\end{center}
+
+\item Read the passage again and write whether the statements are true or \hfill $1\times5=5$ \\
+false. Give the correct answer if the statement is false :
+\begin{enumerate}
+\item[(a)] CEDAW was adopted to eliminate discrimination against female child.
+\item[(b)] The United Nations General Assembly did not approve CEDAW.
+\item[(c)] The number of countries that supported CEDAW was 20.
+\item[(d)] CEDAW is a complete charter on the rights of women.
+\item[(e)] Comprising of different issues CEDAW was adopted only once.
+\end{enumerate}
+
+\end{enumerate}
+
+\end{document}
+```

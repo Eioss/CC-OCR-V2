@@ -1,0 +1,11 @@
+Based on the provided airline ticket, the round trip fare charge is **$246.00**.
+
+This amount is indicated in two places on the ticket:
+1.  In the "FARE" box on the right side, it shows `7 246.00`.
+2.  In the bottom left corner, under "TOTAL", it clearly states `$246.00`.
+
+The ticket details a round trip:
+*   **Outbound:** LaGuardia (LGA) to Nashville (BNA) on AA flight 577Y on Dec 21.
+*   **Return:** Nashville (BNA) to LaGuardia (LGA) on AA flight 232Y on Jan 02.
+
+Each leg has a fare calculation of $123.00, which sums to the total round trip fare of $246.00.

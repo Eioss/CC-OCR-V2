@@ -1,0 +1,19 @@
+\[
+\left(
+\begin{array}{ccccccc}
+ &  &  & \vdots &  &  &  \\
+ &  &  & x &  &  &  \\
+ &  &  & x &  &  &  \\
+o & o & o & x & o & o & o \\
+o & q & q & x & q & q & o \\
+o & q & o & x & o & q & o \\
+\cdots & x & x & x & x & x & x & \cdots \\
+o & q & o & x & o & q & o \\
+o & q & q & x & q & q & o \\
+o & o & o & x & o & o & o \\
+ &  &  & x &  &  &  \\
+ &  &  & x &  &  &  \\
+ &  &  & \vdots &  &  &
+\end{array}
+\right)
+\]

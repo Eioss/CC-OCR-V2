@@ -1,0 +1,70 @@
+As of April 4, 2020, **Spain** had surpassed Italy and had the **2nd most COVID-19 cases in the world**, meaning **Italy still had the most recorded cases globally** at that time — according to the infographic.
+
+However, note: The text says “Spain surpasses Italy, 2nd most COVID-19 cases in the world.” This implies Spain moved into 2nd place, so **Italy remained #1**.
+
+But wait — this contradicts real-world data from early April 2020, when the U.S. actually overtook Italy around March 26–27, 2020. The infographic may be outdated or misstated.
+
+Looking closely at the table under “CASE UPDATES”:
+
+- It lists countries with columns for “Total Cases”, “New Cases”, “Deaths”, etc.
+- The top row (likely USA) shows **308,551 total cases** — which is far higher than any other country listed.
+- Then China: 82,361
+- Then Italy: 124,632? Wait — no, let’s read carefully.
+
+Actually, the table appears to have formatting issues. But if we look at the header row:
+
+> In+COVID | New COV+DAYS | TOTAL CASES | DEATHS | REC+COVID
+
+And then rows:
+
+- First row: 308,551 | ... → likely **USA**
+- Second: 82,361 → **China**
+- Third: 124,632 → possibly **Italy**? But that doesn’t match known data.
+
+Wait — there’s a contradiction in the text vs. table.
+
+The text says:  
+> “Worldwide Statistics: Spain surpasses Italy, 2nd most COVID-19 cases in the world.”
+
+That would mean **Italy was #1**, Spain became #2.
+
+But the table seems to show **USA with 308,551**, which would make it #1 by far.
+
+Given the date — **April 4, 2020** — real-world data confirms:
+
+✅ **United States** had already surpassed Italy and become #1 in total cases by late March 2020.
+
+So the text statement “Spain surpasses Italy, 2nd most...” is either:
+
+- Outdated (from before US took #1), or
+- Misleading/incorrectly phrased.
+
+But since the question asks **“as per worldwide statistics... as on April 4, 2020”** *in this image*, we must go by what the image states.
+
+The image explicitly says:
+
+> “Spain surpasses Italy, 2nd most COVID-19 cases in the world.”
+
+This implies **Italy is still #1**.
+
+However, the table below shows a country with **308,551 total cases** — which matches the US count around that date.
+
+There’s an inconsistency in the infographic itself.
+
+---
+
+### Final Answer Based on Image Text:
+
+According to the **text section** titled “Worldwide Statistics” in the image:
+
+> “Spain surpasses Italy, 2nd most COVID-19 cases in the world.”
+
+→ Therefore, **Italy** is stated to have the **most recorded cases** as of April 4, 2020, per this document.
+
+*(Even though real-world data and the table suggest otherwise, the question asks “as per” the image’s stated statistics.)*
+
+---
+
+✅ **Answer: Italy**
+
+*(Per the explicit wording in the “Worldwide Statistics” section of the infographic.)*

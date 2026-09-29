@@ -1,0 +1,92 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_436_198_570_305.jpg" alt="Image" width="5%" /></div>
+
+公示编号/发布日期
+
+# 发放批次表 / 场馆预约表
+
+单位：岚原省云栖市极光云栖城市运营有限公司
+负责人：蒋若溪
+联系电话：15007684690
+位置/地址：澄岳省北屿市西岭区青岚街226号 13栋
+
+文档编号 RB-403913
+日期 2025-10-06
+
+<table border="1">
+	<tr>
+		<th colspan="7">环境监测公示</th>
+	</tr>
+	<tr>
+		<td colspan="4">环境监测</td>
+		<td colspan="3">监测数据/阈值判定</td>
+	</tr>
+	<tr>
+		<td rowspan="4">点位<br/>监测</td>
+		<td>点位</td>
+		<td>采样时</td>
+		<td>指标</td>
+		<td>数值</td>
+		<td>阈值</td>
+		<td>超标</td>
+	</tr>
+	<tr>
+		<td>河道边</td>
+		<td>16:10</td>
+		<td>TVOC</td>
+		<td>24</td>
+		<td>1.5</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<td>机房侧</td>
+		<td>08:30</td>
+		<td>浊度</td>
+		<td>24</td>
+		<td>1.5</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<td>大厅角</td>
+		<td>14:20</td>
+		<td>甲醛</td>
+		<td>0.03</td>
+		<td>0.08</td>
+		<td>否</td>
+	</tr>
+	<tr>
+		<th colspan="7">处置与复测</th>
+	</tr>
+	<tr>
+		<td rowspan="4">处置<br/>闭环</td>
+		<td>处置</td>
+		<td>责任</td>
+		<td>时限</td>
+		<td>复测</td>
+		<td>结果</td>
+		<td>备注</td>
+	</tr>
+	<tr>
+		<td>更换滤芯(QC)</td>
+		<td>运维组</td>
+		<td>当日</td>
+		<td>√</td>
+		<td>通过</td>
+		<td>留痕</td>
+	</tr>
+	<tr>
+		<td>冲洗管线</td>
+		<td>物业</td>
+		<td>当日</td>
+		<td>√</td>
+		<td>待复测</td>
+		<td>留痕</td>
+	</tr>
+	<tr>
+		<td>设备调试</td>
+		<td>厂商ID</td>
+		<td>48h</td>
+		<td>×</td>
+		<td>待定</td>
+		<td>需ETA</td>
+	</tr>
+</table>

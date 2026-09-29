@@ -1,0 +1,9 @@
+ $$P _ { n } - P _ { n } ^ { 0 } = { \frac { 1 } { 2 \pi i } } \int _ { C _ { n } } \left( R ( \lambda ) - R ^ { 0 } ( \lambda ) \right) \, d \lambda ,$$
+
+ $$f _ { j } ^ { - } = \operatorname* { m i n } _ { x \in { \overline { { \Omega } } } ^ { j } } f ( x ) , f _ { j } ^ { + } = \operatorname* { m a x } _ { x \in { \overline { { \Omega } } } ^ { j } } f ( x ) , j = 1 , \cdots , n _ { 0 } , \forall f \in C ( { \overline { { \Omega } } } ) ,$$
+
+ $$\partial _ { i } \left( \partial _ { i } ( x e _ { k } ) \right) = \partial _ { i } ( D _ { i } ( x ) \, e _ { k } + \delta _ { i } ( x ) \, e _ { k } + \underline { { { 1 } } } _ { i } )$$
+
+ $$S \equiv \int _ { 0 } ^ { \infty } r d \tau e ^ { \frac { i } { \hbar } \hat { H } _ { e f f } ^ { \dagger } \tau } \hat { V } e ^ { - \frac { i } { \hbar } \hat { H } _ { e f f } \tau } = 1 \! \! 1$$
+
+ $$\begin{array} { c } { { \Phi _ { i n } ( \beta _ { H A } , \beta _ { V A } , \beta _ { H B } , \beta _ { V B } ) = e x p \left[ \frac { - t a n h ^ { 2 } x | \beta _ { V A } | ^ { 2 } + t a n h ^ { 2 } x | \beta _ { H B } | ^ { 2 } - t a n h x ( \beta _ { V A } \beta _ { H B } + \beta _ { V A } ^ { * } \beta _ { H B } ^ { * } ) } { 1 - t a n h ^ { 2 } x } \right] } } \\ { { { } } } \\ { { \times \; e x p \left[ \frac { - t a n h ^ { 2 } x | \beta _ { H A } | ^ { 2 } + t a n h ^ { 2 } x | \beta _ { V B } | ^ { 2 } + t a n h x ( \beta _ { H A } \beta _ { V B } + \beta _ { H A } ^ { * } \beta _ { V B } ^ { * } ) } { 1 - t a n h ^ { 2 } x } \right] . } } \end{array}$$

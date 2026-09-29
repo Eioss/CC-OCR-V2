@@ -1,0 +1,27 @@
+In Exercises 33-40, find an equation of the tangent line to the graph of $y=f(x)$ at the given $x$. Do not apply formula (6), but proceed as we did in Example 4.
+
+33. $f(x)=x^{3}, x=-2$
+34. $f(x)=x^{2}, x=-\frac{1}{2}$
+35. $f(x)=3x+1, x=4$
+36. $f(x)=5, x=-2$
+37. $f(x)=\sqrt{x}, x=\frac{1}{9}$
+38. $f(x)=\frac{1}{x}, x=.01$
+39. $f(x)=\frac{1}{\sqrt{x}}, x=1$
+40. $f(x)=\frac{1}{x^{3}}, x=3$
+
+41. The point-slope form of the equation of the tangent line to the graph of $y=x^{4}$ at the point $(1,1)$ is $y-1=4(x-1)$. Explain how this equation follows from formula (6).
+
+42. The tangent to the graph of $y=\frac{1}{x}$ at the point $P=(a,\frac{1}{a})$, where $a>0$, is perpendicular to the line $y=4x+1$. Find $P$.
+
+43. The line $y=2x+b$ is tangent to the graph of $y=\sqrt{x}$ at the point $P=(a,\sqrt{a})$. Find $P$ and determine $b$.
+
+44. The line $y=ax+b$ is tangent to the graph of $y=x^{3}$ at the point $P=(-3,-27)$. Find $a$ and $b$.
+
+45. (a) Find the point on the curve $y=\sqrt{x}$ where the tangent line is parallel to the line $y=\frac{x}{8}$.
+(b) On the same axes, plot the curve $y=\sqrt{x}$, the line $y=\frac{x}{8}$, and the tangent line to $y=\sqrt{x}$ that is parallel to $y=\frac{x}{8}$.
+
+46. There are two points on the graph of $y=x^{3}$ where the tangent lines are parallel to $y=x$. Find these points.
+
+47. Is there any point on the graph of $y=x^{3}$ where the tangent line is perpendicular to $y=x$? Justify your answer.
+
+48. The graph of $y=f(x)$ goes through the point $(2,3)$ and the equation of the tangent line at that point is $y=-2x+7$. Find $f(2)$ and $f^{\prime}(2)$.

@@ -1,0 +1,60 @@
+```html
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <td>品名</td>
+    <td>生产<br>厂家名<br>称</td>
+    <td>注册<br>号</td>
+    <td>生产批次号</td>
+    <td>规格</td>
+    <td>数/重量</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>肩胛肉</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>9-Mar-2022</td>
+    <td>***</td>
+    <td>**26箱/507.12千克</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>腿肉（俗<br>称和尚<br>头）</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>5-Mar-2022</td>
+    <td>***</td>
+    <td>**98箱/2003.16千克</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>后腱</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>5---8-Mar-2022</td>
+    <td>***</td>
+    <td>**2箱/35.62千克</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>背肩肉</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>5---7-Mar-2022</td>
+    <td>***</td>
+    <td>**120箱/2000.08千克</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>腱子肉</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>5---8-Mar-2022</td>
+    <td>***</td>
+    <td>**155箱/3013.1千克</td>
+  </tr>
+  <tr>
+    <td>冰鲜<br>去骨牛<br>小黄瓜<br>条</td>
+    <td>SILVE<br>R FERN<br>FARMS<br>LIMIT<br>ED</td>
+    <td>ME52</td>
+    <td>5---8-Mar-2022</td>
+    <td>***</td>
+    <td>**71箱/1518.48千克</td>
+  </tr>
+</table>
+```

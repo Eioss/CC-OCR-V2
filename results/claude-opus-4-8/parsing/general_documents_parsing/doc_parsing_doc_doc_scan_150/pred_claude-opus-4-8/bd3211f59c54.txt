@@ -1,0 +1,52 @@
+# Balance Sheet Transcription
+
+```latex
+\documentclass{article}
+\usepackage[a4paper, landscape, margin=1cm]{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+
+\begin{document}
+
+\begin{table}[ht]
+\centering
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{l r r r r r}
+\toprule
+\textbf{BALANCE SHEET - Months} & \textbf{Jan 2021} & \textbf{Feb 2021} & \textbf{Mar 2021} & \textbf{Apr 2021} & \textbf{May 2021} \\
+\midrule
+\quad ASSETS & & & & & \\
+$\vee$ Fixed Assets & & & & & \\
+\quad $\vee$ Assets & & & & & \\
+\quad\quad $>$ On-site assets & 5,843.33 & 5,786.77 & 6,350.31 & 6,283.95 & 6,217.70 \\
+\quad\quad $>$ Other assets & 5,950.00 & 5,900.42 & 5,851.25 & 5,802.49 & 5,754.13 \\
+\quad\quad\quad Total of Assets & 11,793.33 & 11,687.19 & 12,201.56 & 12,086.44 & 11,971.83 \\
+\quad\quad Total of Fixed Assets & 11,793.33 & 11,687.19 & 12,201.56 & 12,086.44 & 11,971.83 \\
+$\vee$ Investments & & & & & \\
+\quad $\vee$ Funding & & & & & \\
+\quad\quad $>$ Borrowing & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad\quad\quad Total of Funding & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad\quad Total of Investments & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\quad\quad Non - Current Assets & 12,797.50 & 12,695.54 & 13,214.11 & 13,103.21 & 12,992.84 \\
+ & & & & & \\
+$\vee$ Accounts Receivable & & & & & \\
+\quad $>$ Sales & 800.00 & 800.00 & 800.00 & 800.00 & \\
+\quad\quad Total of Accounts Receivable & 800.00 & 800.00 & 800.00 & 800.00 & \\
+$\vee$ Inventory & & & & & \\
+\quad $\vee$ Sales & & & & & \\
+\quad\quad $>$ Coffee - Hot Drinks & 2,428.40 & 4,449.82 & 6,472.31 & 8,495.92 & 10,520.72 \\
+\quad\quad $>$ Other Hot Drinks & 333.38 & 364.48 & 398.59 & 435.99 & 477.00 \\
+\quad\quad $>$ Cold Beverages & 103.00 & 108.00 & 118.00 & 133.00 & 143.00 \\
+\quad\quad\quad Total of Sales & 2,864.78 & 4,922.30 & 6,988.90 & 9,064.91 & 11,140.72 \\
+\quad\quad Total of Inventory & 2,864.78 & 4,922.30 & 6,988.90 & 9,064.91 & 11,140.72 \\
+\quad Surplus Cash & 5,435.07 & 4,366.74 & 2,774.01 & 1,743.97 & 2,559.79 \\
+\quad VAT Asset & 2,059.41 & 1,426.00 & & & \\
+\quad Current Assets & 11,159.26 & 11,515.04 & 10,562.91 & 11,608.88 & 13,700.51 \\
+ & & & & & \\
+\quad Total Assets & 23,956.76 & 24,210.58 & 23,777.02 & 24,712.09 & 26,693.35 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
+```

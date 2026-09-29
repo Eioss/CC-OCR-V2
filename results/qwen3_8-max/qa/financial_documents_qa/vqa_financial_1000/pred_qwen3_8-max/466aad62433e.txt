@@ -1,0 +1,5 @@
+Based on the provided image, the y-axis is labeled **"% ACTIVITY"**.
+
+This indicates that the vertical axis represents the percentage of activity (likely enzymatic or biological activity) measured over time under different temperature conditions. The scale ranges from 0 to 200, with major tick marks at intervals of 25.
+
+The data points (marked with '+') and trend lines show how this % Activity changes over time (days) at three different temperatures: 25°C, 30°C, and 37°C.

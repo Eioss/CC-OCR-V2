@@ -1,0 +1,8 @@
+In the **Decentralised** section of the infographic, there are **4 steps** of app processing shown:
+
+1. The app broadcasts a random ID and collects other apps’ IDs + interaction data (time/distance).
+2. If a user reports being unwell, they upload their ID to a central database.
+3. Users’ phones regularly download the most up-to-date version of this database and look for IDs they’ve interacted with.
+4. If they see any ID(s) they have interacted with, their app calculates whether or not to inform them that they have been in contact with an infected person.
+
+✅ So, the answer is: **4 steps**.

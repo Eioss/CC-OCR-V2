@@ -1,0 +1,128 @@
+```html
+<table border="1" style="width: 100%; border-collapse: collapse; text-align: right;">
+    <thead>
+        <tr>
+            <th style="text-align: left; width: 50%;">负债和股东权益</th>
+            <th style="width: 25%;">2018年6月30日<br>审阅数</th>
+            <th style="width: 25%;">2017年12月31日<br>审定数</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">流动负债</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">短期借款</td>
+            <td>2,077,061,001</td>
+            <td>1,631,658,237</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">应付票据及应付账款</td>
+            <td>1,306,098,728</td>
+            <td>1,324,957,002</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">预收款项</td>
+            <td>-</td>
+            <td>36,335,867</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">合同负债</td>
+            <td>80,963,955</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">应付职工薪酬</td>
+            <td>2,566,086</td>
+            <td>2,897,586</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">应交税费</td>
+            <td>9,662,387</td>
+            <td>11,514,548</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">其他应付款</td>
+            <td>44,885,945</td>
+            <td>78,900,023</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">一年内到期的非流动负债</td>
+            <td>597,263,872</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">其他流动负债</td>
+            <td style="border-bottom: 1px solid black;">3,300,000</td>
+            <td style="border-bottom: 1px solid black;">3,303,146</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">流动负债合计</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">4,121,801,974</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">3,089,566,409</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">长期负债</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">应付债券</td>
+            <td style="border-bottom: 1px solid black;">-</td>
+            <td style="border-bottom: 1px solid black;">596,542,088</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">长期负债合计</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">-</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">596,542,088</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">负债合计</td>
+            <td style="border-bottom: 3px double black; font-weight: bold;">4,121,801,974</td>
+            <td style="border-bottom: 3px double black; font-weight: bold;">3,686,108,497</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">股东权益</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">股本</td>
+            <td>666,667,000</td>
+            <td>666,667,000</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">资本公积</td>
+            <td>520,974,131</td>
+            <td>520,974,131</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">盈余公积</td>
+            <td>38,722,476</td>
+            <td>38,722,476</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">其他综合收益</td>
+            <td>(2,420,081)</td>
+            <td>(1,075,304)</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; padding-left: 20px;">未分配利润</td>
+            <td style="border-bottom: 1px solid black;">42,668,784</td>
+            <td style="border-bottom: 1px solid black;">48,734,004</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">股东权益合计</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">1,266,612,310</td>
+            <td style="border-bottom: 1px solid black; font-weight: bold;">1,274,022,307</td>
+        </tr>
+        <tr>
+            <td style="text-align: left; font-weight: bold;">负债和股东权益总计</td>
+            <td style="border-bottom: 3px double black; font-weight: bold;">5,388,414,284</td>
+            <td style="border-bottom: 3px double black; font-weight: bold;">4,960,130,804</td>
+        </tr>
+    </tbody>
+</table>
+```

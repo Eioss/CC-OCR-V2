@@ -1,0 +1,39 @@
+I'll transcribe this Chinese legal document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
+\begin{document}
+
+\begin{center}
+\textbf{代理词}
+\end{center}
+
+尊敬的审判长、书记员：
+
+\hspace{2em}北京市元甲律师事务所接受祁俊彤委托，指派周春花律师就其与秦旭珊法定继承纠纷一案发表如下代理意见：
+
+\hspace{2em}一、\quad 关于财产
+
+\hspace{2em}（一）秦旭珊名下的国美第一城增值部分属于秦旭珊与祁勇夫妻共有财产，被告有权继承其中一部份份额
+
+\hspace{2em}根据原告提供的录音资料、微信截图及秦旭珊在重庆市北培区派出所作的谈话笔录，可以证明秦旭珊与祁勇于2008年开始同居生活，依据最高人民法院印发《关于人民法院审理未办结婚登记而以夫妻名义同居生活案件的若干意见》的通知第10条规定秦旭珊与祁勇的在此期间购房的房产应按份共同处理。国美第一城祁勇还贷及增值部分，祁勇有权根据还贷金额按比例享有份额。
+
+\hspace{2em}国美第一城系秦旭珊2005年12月3日购买，首付148687.00元，2006年6月19日收房交了10480.00万的契税，以上共计159167.00元（约15.92万元）。2006年1月11日房贷55万元，其二人共同生活或婚姻登记后，2009年还贷10000.00元；2010年5月18日至2012年10月8日还贷90,421.3元（推算）；2012年10月9日一次还贷本息359,578.7元，共计还贷549999.6元（约55万元）。总房价70.92万，秦旭珊婚前付款约占22.45\%，婚后夫妻还贷月占77.55\%。
+
+\hspace{2em}（二）、远洋傲北别墅及两个车库
+
+\hspace{2em}首先，原告提供的约定书显示被告秦旭珊与祁勇对远洋傲北别墅
+
+\vfill
+\begin{flushright}
+1
+\end{flushright}
+
+\end{document}
+```
+
+I've transcribed the visible text from the document. Note that the last line is cut off at the bottom of the image, ending with "远洋傲北别墅" (which appears to continue beyond the visible page).

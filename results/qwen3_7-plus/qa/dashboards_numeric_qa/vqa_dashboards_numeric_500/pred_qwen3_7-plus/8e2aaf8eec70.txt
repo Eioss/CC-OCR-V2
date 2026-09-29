@@ -1,0 +1,46 @@
+Looking at the **“Content Strategy”** section of the infographic, we see a bar chart showing the **Number of Posts** for different content categories.
+
+The categories and their post counts are:
+
+- **Promotions**: 133 posts
+- **Corporate Social Responsibility**: 83 posts
+- **Events**: 140 posts
+- **Ad Campaigns**: 7 posts
+- **FB App**: 10 posts
+- **Brand News**: 109 posts
+- **Engagement Oriented Posts**: 29 posts (this is under “Promotions” in the green line — but the blue bar for Promotions is 133)
+- **Question to Fans**: 45 posts
+- **Careers**: 39 posts
+- **Contests**: 37 posts
+- **Customer Loyalty Programs**: 6 posts
+
+Wait — let’s clarify: The **blue bars** represent **Number of Posts**, and the **green line** represents **Engagement Score**.
+
+So focusing only on the **blue bars (Number of Posts)**:
+
+✅ **Promotions**: 133 → **>100**
+
+✅ **Events**: 140 → **>100**
+
+✅ **Brand News**: 109 → **>100**
+
+All others are below 100:
+
+- Corporate Social Responsibility: 83
+- Ad Campaigns: 7
+- FB App: 10
+- Engagement Oriented Posts: 29 (but this seems to be part of Promotions? Actually, looking closely, “Engagement Oriented Posts” is labeled under the first group, but the blue bar for that category is 29 — which is less than 100)
+- Question to Fans: 45
+- Careers: 39
+- Contests: 37
+- Customer Loyalty Programs: 6
+
+So, only **three categories** have more than 100 posts:
+
+1. **Promotions** (133)
+2. **Events** (140)
+3. **Brand News** (109)
+
+---
+
+✅ **Final Answer: 3**

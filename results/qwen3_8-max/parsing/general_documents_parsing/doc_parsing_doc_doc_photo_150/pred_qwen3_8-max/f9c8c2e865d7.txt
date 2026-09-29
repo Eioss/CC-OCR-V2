@@ -1,0 +1,63 @@
+Based on the image provided, here is the transcription of the handwritten text into LaTeX format. The content appears to be a list of English nouns with their singular and plural forms, categorized by different pluralization rules.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\section*{7 Singular - plural}
+
+\begin{tabular}{llllll}
+axis & crisis & analysis & basis & thesis & criterion \\
+axes & crises & analyses & bases & theses & criteria \\[6pt]
+
+datum & medium & erratum & stratum & memorandum & agendum \\
+data & media & errata & strata & memoranda & agenda \\[6pt]
+
+alumna & formula & antenna & bacterium & aquarium & \\
+alumnae & formulae & antennae & bacteria & aquaria & \\[6pt]
+
+focus & locus & terminus & alumnus & fungus & \\
+foci & loci & termini & alumni & fungi & \\[6pt]
+
+Syllabus & radius & stimulus & tooth & foot & goose \\
+syllabi & radii & stimuli & teeth & feet & geese \\[6pt]
+
+matrix & index & appendix & apex & vertex & genie \\
+matrices & indices & appendices & apices & vertices & genies \\[6pt]
+
+Cupful & dining room & grown up & spoonful & daughter-in-law & \\
+Cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law & \\[6pt]
+
+Son-in-law & runner-up & governor-general & army & baby & boy \\
+Sons-in-law & runners-up & governors-general & armies & babies & boys \\[6pt]
+
+toy & buffalo & & & & \\
+toys & buffaloes & & & & \\[6pt]
+
+man & woman & child & leaf & thief & knife \\
+men & women & children & leaves & thieves & knives \\[6pt]
+
+wife & life & man-servant & & & \\
+wives & lives & men-servants & & & \\[6pt]
+
+Virus & photo & sheep & deer & aircraft & furniture \\
+Viruses & photos & sheep & deer & aircraft & furniture \\[6pt]
+
+cattle & & & & & \\
+cattle & & & & & \\[6pt]
+
+Corps & species & spectacles & means & premises & series \\
+Corps & species & spectacles & means & premises & series \\[6pt]
+
+innings & pants & & & & \\
+innings & pants & & & & \\
+
+\end{tabular}
+
+\end{document}
+```

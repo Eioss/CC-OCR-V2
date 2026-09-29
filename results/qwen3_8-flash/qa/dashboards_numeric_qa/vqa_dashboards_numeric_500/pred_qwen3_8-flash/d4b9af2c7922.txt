@@ -1,0 +1,14 @@
+Based on the information provided in the infographic, we can calculate the number of unemployed people with a disability in the UK.
+
+The relevant statistic is found in the section labeled "6 million":
+> "There are over **6 million** disabled people of working age in the UK - a significant talent pool. Only about 3.2 million are currently in employment."
+
+To find the number of unemployed people with a disability, we subtract the number of employed individuals from the total number of disabled people of working age:
+
+*   Total disabled people of working age: **6 million**
+*   Disabled people in employment: **3.2 million**
+
+Calculation:
+$6 \text{ million} - 3.2 \text{ million} = 2.8 \text{ million}$
+
+Therefore, based on the data in the image, there are approximately **2.8 million** unemployed people with a disability in the UK.

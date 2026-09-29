@@ -1,0 +1,32 @@
+<table>
+  <caption>Effect of different foods on aquarium fish weight over 1 month</caption>
+  <tr>
+    <td rowspan="2">Food type</td>
+    <td rowspan="2">Fish type</td>
+    <td colspan="5">Weight (g)</td>
+  </tr>
+  <tr>
+    <td>Week 1</td><td>Week 2</td><td>Week 3</td><td>Week 4</td><td>Week 5</td>
+  </tr>
+  <tr><td rowspan="4">Pellets</td><td>Goldfish</td><td>0.75</td><td>0.79</td><td>0.82</td><td>0.86</td><td>1.16</td></tr>
+  <tr><td>Guppy</td><td>0.59</td><td>0.62</td><td>0.64</td><td>0.67</td><td>0.71</td></tr>
+  <tr><td>Angelfish</td><td>0.86</td><td>0.89</td><td>0.92</td><td>0.95</td><td>1.01</td></tr>
+  <tr><td>Clownfish</td><td>0.71</td><td>0.74</td><td>0.75</td><td>0.79</td><td>0.86</td></tr>
+  <tr><td rowspan="4">Tablets</td><td>Goldfish</td><td>0.73</td><td>0.75</td><td>0.77</td><td>0.8</td><td>1.1</td></tr>
+  <tr><td>Guppy</td><td>0.58</td><td>0.6</td><td>0.61</td><td>0.86</td><td>0.91</td></tr>
+  <tr><td>Angelfish</td><td>0.83</td><td>0.85</td><td>1</td><td>1.02</td><td>1.08</td></tr>
+  <tr><td>Clownfish</td><td>0.69</td><td>0.71</td><td>0.86</td><td>0.88</td><td>1.18</td></tr>
+  <tr><td rowspan="4">Sticks</td><td>Goldfish</td><td>0.77</td><td>0.8</td><td>0.82</td><td>0.86</td><td>1.26</td></tr>
+  <tr><td>Guppy</td><td>0.59</td><td>0.62</td><td>0.63</td><td>0.88</td><td>0.92</td></tr>
+  <tr><td>Angelfish</td><td>0.81</td><td>0.84</td><td>0.99</td><td>1.03</td><td>1.09</td></tr>
+  <tr><td>Clownfish</td><td>0.7</td><td>0.73</td><td>0.88</td><td>0.91</td><td>0.92</td></tr>
+  <tr><td rowspan="4">Chips</td><td>Goldfish</td><td>0.71</td><td>0.73</td><td>0.75</td><td>0.78</td><td>0.85</td></tr>
+  <tr><td>Guppy</td><td>0.56</td><td>0.58</td><td>0.73</td><td>0.98</td><td>1.02</td></tr>
+  <tr><td>Angelfish</td><td>0.85</td><td>0.87</td><td>0.88</td><td>0.9</td><td>0.96</td></tr>
+  <tr><td>Clownfish</td><td>0.73</td><td>0.75</td><td>0.9</td><td>0.94</td><td>1.64</td></tr>
+  <tr><td rowspan="4">Natural</td><td>Goldfish</td><td>0.74</td><td>0.78</td><td>0.8</td><td>0.86</td><td>0.92</td></tr>
+  <tr><td>Guppy</td><td>0.62</td><td>0.66</td><td>0.81</td><td>0.86</td><td>0.91</td></tr>
+  <tr><td>Angelfish</td><td>0.88</td><td>0.92</td><td>0.94</td><td>1</td><td>1.06</td></tr>
+  <tr><td>Clownfish</td><td>0.71</td><td>0.75</td><td>0.77</td><td>0.82</td><td>1.52</td></tr>
+  <tr><td></td><td>All</td><td>0.72</td><td>0.75</td><td>0.81</td><td>0.88</td><td>1.05</td></tr>
+</table>

@@ -1,0 +1,211 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: Arial, sans-serif;
+        }
+        thead tr th {
+            border-top: 2px solid #000;
+            border-bottom: 2px solid #000;
+            padding: 8px;
+            background: #f6f6f6;
+        }
+        tbody td {
+            border-bottom: 1px solid #aaa;
+            padding: 8px;
+            text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <td colspan="4"><b>Example:</b></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;"><b>"ABC Design</b></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;"><b>Balance Sheet</b></td>
+   </tr>
+   <tr>
+    <td colspan="4" style="text-align:center;"><b>As at December 31, 2022</b></td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>ASSETS</b></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>Current Assets</b></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Cash and cash equivalents</td>
+    <td>$</td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Accounts Receivable</td>
+    <td></td>
+    <td>150.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Inventories</td>
+    <td></td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Prepaid and other assets</td>
+    <td></td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><b>Total Current Assets</b></td>
+    <td></td>
+    <td>450.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Long-term Investment</td>
+    <td></td>
+    <td>200.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Property &amp; Equipment</td>
+    <td></td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Other assets</td>
+    <td></td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>TOTAL ASSETS</b></td>
+    <td>$</td>
+    <td>850.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>LIABILITIES</b></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>Current Liabilities</b></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Accounts Payable</td>
+    <td>$</td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Unearned Revenue</td>
+    <td></td>
+    <td>50.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Short-term debt</td>
+    <td></td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><b>Total Current Liabilities</b></td>
+    <td></td>
+    <td>250.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Long-term debt</td>
+    <td></td>
+    <td>200.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>TOTAL LIABILITIES</b></td>
+    <td>$</td>
+    <td>450.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="4"><b>OWNER'S EQUITY</b></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Equity</td>
+    <td>$</td>
+    <td>100.00</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Retained Earnings</td>
+    <td></td>
+    <td>300.00</td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>TOTAL EQUITY</b></td>
+    <td>$</td>
+    <td>400.00</td>
+   </tr>
+   <tr>
+    <td colspan="4"></td>
+   </tr>
+   <tr>
+    <td colspan="2"><b>TOATL LIABILITIES AND OWNER'S EQUITY</b></td>
+    <td>$</td>
+    <td>850.00</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

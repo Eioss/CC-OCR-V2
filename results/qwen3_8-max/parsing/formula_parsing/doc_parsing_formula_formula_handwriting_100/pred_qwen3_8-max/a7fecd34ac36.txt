@@ -1,0 +1,17 @@
+ $$\left\{ z \in \partial \Omega : ( u ) _ { \beta } ^ { * } ( z ) > t \right\} \subset \left\{ z \in \partial \Omega : M _ { \partial \Omega } ( \chi _ { E } ) ( z ) \geq c \right\} ,$$
+
+ $$U \left( { \frac { \pi } { 2 } } , 0 , - { \frac { \pi } { 2 } } \right) = U _ { 2 } ^ { Q C } ( \pi , \pi ) , U \left( { \frac { \pi } { 2 } } , 0 , 0 \right) = U _ { 2 } ^ { Q C } ( { \frac { \pi } { 2 } } , - { \frac { \pi } { 2 } } )$$
+
+ $$\int _ { s } ^ { t } g _ { r } * d W _ { r } = \sum _ { i = 1 } ^ { d } \Big ( \int _ { s } ^ { t } g _ { i } ( r , W _ { r } ) d W _ { r } ^ { i } + \int _ { s } ^ { t } g _ { i } ( r , W _ { r } ) \overleftarrow { d W _ { r } ^ { i } } \Big ) .$$
+
+ $$\Bigl \{ m _ { k } + \sum _ { 1 \le j \le k - 1 } w _ { j } m _ { j } \colon k \ge 1 , ( w _ { 1 } , \ldots , w _ { k - 1 } ) \in \{ - 1 , 0 , 1 \} ^ { k - 1 } \Bigr \}$$
+
+ $$i \partial _ { t } a _ { q } = { \textstyle { \frac { 1 } { 2 } } } \, ( 2 \Delta _ { c } + i r ) a _ { q } + \chi ( 2 a _ { c l } ^ { * } \, a _ { c l } a _ { q } + a _ { c l } ^ { 2 } \, a _ { q } ^ { * } + a _ { q } ^ { * } \, a _ { q } ^ { 2 } ) \; ,$$
+
+ $$g _ { n } \colon ( C _ { n } , M _ { C { n } } ) \to ( X , M _ { X } )$$
+
+ $$| H \cdot S | \leq ( 1 - \varepsilon / 2 ) | S | + ( 1 - \varepsilon / 2 ) | H | \, .$$
+
+ $$L _ { v } ( r ) : = \frac { 2 } { r } \, \big ( \operatorname * { m a x } _ { y \in \{ 2 r , \, - 2 r \} ^ { m _ { 1 } + m _ { 2 } } } | v ( y ) | + 2 \, | v ( 0 ) | \ \big ) .$$
+
+ $$F ^ { ' } = x _ { j } ^ { 2 } x _ { k } + x _ { j } h _ { 1 } + h _ { 2 }$$

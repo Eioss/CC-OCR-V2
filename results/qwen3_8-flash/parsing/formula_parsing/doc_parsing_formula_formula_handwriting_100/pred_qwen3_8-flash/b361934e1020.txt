@@ -1,0 +1,13 @@
+$$( ( ? ? ) \leq \int _ { | y | < 1 } \frac { | x - y | ^ { - d + \alpha - 1 } \delta _ { B } ( y ) ^ { \alpha / 2 } } { \tau _ { B } ( x , y ) ^ { \alpha / 2 } } | y - w | ^ { - d + \alpha - \beta } \frac { \delta _ { B } ( w ) ^ { \alpha / 2 } } { \tau _ { B } ( y , w ) ^ { \alpha / 2 } } ( 1 \wedge \frac { | y - w | ^ { \beta - \alpha / 2 } } { \delta _ { B } ( y ) ^ { \beta - \alpha / 2 } } ) d y$$
+
+$$\begin{array} { r l } { \leq } & { \int _ { | y | < 1 , | y - w | \geq \delta _ { B } ( y ) } \frac { | x - y | ^ { - d + \alpha - 1 } | y - w | ^ { - d + \alpha + \beta } } { \delta _ { B } ( w ) ^ { \alpha / 2 } } \frac { | w - y | ^ { \beta - \alpha / 2 } \delta _ { B } ( y ) ^ { \alpha - \beta } } { \tau _ { B } ( x , w ) ^ { \alpha / 2 } } d y } \\ { + } & { \int _ { | y | < 1 , | y - w | < \delta _ { B } ( y ) } \frac { | x - y | ^ { - d + \alpha - 1 } | y - w | ^ { - d + \alpha + \beta } } { \delta _ { B } ( w ) ^ { \alpha / 2 } } \frac { \delta _ { B } ( y ) ^ { \alpha - \beta } } { \tau _ { B } ( x , y ) ^ { \alpha / 2 } \tau _ { B } ( y , w ) ^ { \alpha / 2 } } d y } \end{array}$$
+
+$$\leq \delta _ { B } ( w ) ^ { \alpha / 2 } \int _ { | y | < 1 , ~ | y - w | \geq \delta _ { B } ( y ) } | x - y | ^ { - d + \alpha - 1 } | y - w | ^ { - d + \alpha - \beta } d y$$
+
+$$+ \delta _ { B } ( w ) ^ { \alpha / 2 } \int _ { | y | < 1 , ~ | y - w | < \delta _ { B } ( y ) } | x - y | ^ { - d + \alpha - 1 } \| y - w \| ^ { - d + \alpha - \beta } d y$$
+
+$$= \delta _ { B } ( w ) ^ { \alpha / 2 } \int _ { | y | < 1 } | x - y | ^ { - d + \alpha - 1 } | y - w | ^ { - d + \alpha - \beta } d y$$
+
+$$\lesssim \delta _ { B } ( w ) ^ { \alpha / 2 } | x - w | ^ { - d + ( \alpha - 1 ) \wedge ( \alpha - \beta ) } \int _ { | y | < 1 } ( | x - y | ^ { - d - ( \alpha - 1 ) \wedge ( \alpha - \beta ) } + | y - w | ^ { \alpha - \beta - ( \alpha - 1 ) \wedge ( \alpha - \beta ) } ) d y$$
+
+$$\lesssim | x - w | ^ { - d + ( \alpha - 1 ) \wedge ( \alpha - \beta ) } \delta _ { B } ( w ) ^ { \alpha / 2 }$$

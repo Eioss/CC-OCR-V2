@@ -1,0 +1,23 @@
+$$\mathbb{E}[\psi_3(X,A,Z,M,Y)S_0(O)]$$
+
+$$= \mathbb{E}[\psi_3(X,A,Z,M,Y)(S_0(X)+S_0(Z|X,A)+S_0(M|X,A,Z)+S_0(Y|X,A,Z,M))]$$
+
+$$= \mathbb{E}[(S_0(X)+S_0(A|X)+S_0(Z|X,A)+S_0(M|X,A,Z))\underbrace{\mathbb{E}[\psi_3(X,A,Z,M,Y)|X,A,Z,M]}_{=0}]$$
+
+$$+ \mathbb{E}[\psi_3(X,A,Z,M,Y)S_0(Y|X,A,Z,M)]$$
+
+$$= \mathbb{E}[\psi_3(X,A,Z,M,Y)S_0(Y|X,A,Z,M)]$$
+
+$$= \mathbb{E}\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)YS_0(Y|X,A,Z,M)}{\Pr[A=a|X]\Pr[M=m|X,A=a,Z]}\right]$$
+
+$$- \mathbb{E}\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)\mathbb{E}[Y|X,A=a,Z,M=m]}{\Pr[A=a|X]\Pr[M=m|X,A=a,Z]}\underbrace{\mathbb{E}[S_0(Y|X,A,Z,M)|X,A,Z,M]}_{=0}\right]$$
+
+$$= \mathbb{E}\left\{\mathbb{E}\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)YS_0(Y|X,A,Z,M)}{\Pr[A=a|X]\Pr[M=m|X,A=a,Z]}\bigg|X,A,Z,M=m\right]\Pr[M=m|X,A,Z]\right\}$$
+
+$$= \mathbb{E}_{X,A}\mathbb{E}\left[\frac{\mathbb{I}(A=a)\Pr[M=m|X,A,Z]\mathbb{E}[S_0(Y|X,A,Z,M)|X,A,Z,M=m]}{\Pr[A=a|X]\Pr[M=m|X,A=a,Z]}\bigg|X,A\right]$$
+
+$$= \mathbb{E}_X\left\{\mathbb{E}\left[\frac{\mathbb{I}(A=a)\Pr[M=m|X,A,Z]}{\Pr[A=a|X]\Pr[M=m|X,A=a,Z]}\mathbb{E}[YS_0(Y|X,A,Z,M)|X,A,Z,M=m]\bigg|_{X,A=a}\right]\right\}$$
+
+$$= \mathbb{E}_X\left\{\mathbb{E}[\mathbb{E}[YS_0(Y|X,A,Z,M)|X,A,Z,M=m]|X,A=a]\right\}$$
+
+$$= \phi_3$$

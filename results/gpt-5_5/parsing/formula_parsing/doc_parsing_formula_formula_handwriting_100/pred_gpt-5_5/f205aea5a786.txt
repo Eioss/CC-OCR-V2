@@ -1,0 +1,36 @@
+\[
+\begin{gathered}
+\left|
+\frac{\partial \Gamma_{\varepsilon}^{\alpha\beta}}{\partial x_i}(x,t;y,s)
+-\frac{\partial \Gamma_{0}^{\alpha\beta}}{\partial x_i}(x,t;y,s)
+-\frac{\partial \chi_{j}^{\alpha\gamma}}{\partial z_i}\left(\frac{x}{\varepsilon},\frac{t}{\varepsilon^2}\right)
+\frac{\partial \Gamma_{0}^{\gamma\beta}}{\partial y_j}(x,t;y,s)
+\right| \\[2mm]
+\deg(T\lambda_0\mid C_1)-\deg(\partial\Omega^\alpha)\big|_{C_1}
+-\deg(\partial^{-1}\mid \partial\Omega^\alpha)\big|_{C_1} \\
+=\deg(\partial^{-2}\mid \partial)\big|_{C_1}
++\deg(\partial^{-3}\mid \partial^{-2})\big|_{C_1} \\[2mm]
+\langle A_{w_s+u}u,u\rangle
+\ge
+\max\left\{
+C_1(w,t)\|u\|_V^\alpha-m_1(w,t),
+C_2(w,t)\|Au\|_{B^*}^\beta-m_2(w,t)
+\right\} \\[2mm]
+S_{BS}\approx N^{1/2}(2\lambda+4r_2^2)^{1/2}\approx (2N\lambda)^{1/2} \\[2mm]
+(g^*\circ h\circ f)(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t})
+=(y_i^*\circ g_i^*)f(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t}) \\[2mm]
+(g^*\circ h)f(x_{i_1}\cdots x_{i_s}\otimes y_{l_1}\cdots y_{l_t})
+=
+\left(\prod_{u=1}^{s}\sum_{k=1}^{c_{i_u}}x_{i_u j_u k}\right)
+\otimes y_{l_1}\cdots y_{l_t} \\[2mm]
+\ell \le H_{\min}^{\varepsilon'}(Z_D\mid S_\delta D B')
+-2\log_2\frac{1}{\varepsilon_A-4\varepsilon_1} \\[2mm]
+D:D(A_w\text{-}\mathrm{dgmod})'\to D(A_w\text{-}\mathrm{dgmod});
+\quad
+M\mapsto R\operatorname{Hom}_{H_G^*(pt)}(M,H_G^*(pt)) \\[2mm]
+S_\epsilon(rE)=S\epsilon(r\mid VE\mid)
+=G(S_\epsilon)^{VE}
++\sum_{\lambda\in VE}G(S_\epsilon)^{\lambda VE}
+=\sum_{\lambda\in VE}Q(S_\epsilon)_\lambda^{VE}
+\end{gathered}
+\]

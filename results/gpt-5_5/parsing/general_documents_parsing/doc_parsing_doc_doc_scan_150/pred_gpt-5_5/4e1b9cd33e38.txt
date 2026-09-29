@@ -1,0 +1,79 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{有限责任公司董事会议事规则}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyfoot[C]{1}
+
+\begin{document}
+
+\begin{center}
+{\heiti 有限公司董事会议事规则}
+\end{center}
+
+\begin{center}
+{\heiti 第一章\quad 总则}
+\end{center}
+
+\noindent
+{\heiti 第一条}\quad 为规范\quad 有限公司（以下简称）董事会的组织和行为，保障董事的合法权益以及公司董事会依法行使职权，履行义务，提高董事会工作效率和科学决策能力，根据《中华人民共和国公司法》（以下简称《公司法》）和《\quad 公司章程》（以下简称《公司章程》）及有关法律法规的规定，特制定本规则。
+
+\noindent
+{\heiti 第二条}\quad 公司董事会为公司常设权力机构，负责经营和管理公司的法人财产。是公司的经营决策机构，根据公司章程及本议事规则之规定，负责公司的重大决策。
+
+\begin{center}
+{\heiti 第二章\quad 董事会}
+\end{center}
+
+\noindent
+{\heiti 第三条}\quad 公司董事会由\quad 名董事组成，其中设董事长一名，董事\quad 名。
+
+\noindent
+{\heiti 第四条}\quad 公司董事会成员由股东大会选举和更换，每届任期三年。董事任期届满，连选可以连任。董事长由董事会选举产生。
+
+\noindent
+{\heiti 第五条}\quad 董事会对股东大会负责，依法行使下列职权：
+
+\noindent
+一、决定召集股东大会，并向股东大会报告工作；
+
+\noindent
+二、执行股东大会决议；
+
+\noindent
+三、决定公司的经营方针；
+
+\noindent
+四、审定公司的年度经营计划、财务预算方案、决算方案；
+
+\noindent
+五、制订公司年度财务预、决算方案；
+
+\noindent
+六、制订利润分配方案和弥补亏损方案；
+
+\noindent
+七、制订增减注册资本方案；
+
+\noindent
+八、聘任或者解聘公司总经理。根据总经理提名，聘任或者解聘公司副总经理、财务负责人，决定其报酬事项；
+
+\noindent
+九、审定公司的基本管理制度；
+
+\noindent
+十、对公司的各类风险进行管理、监督公司财务控制系统和审计系统的运行；
+
+\noindent
+十一、拟订公司合并、分立、变更公司组织形式、解散方案；
+
+\noindent
+十二、决定公司的经营计划和投资方案。其中，一次性投资在人民币500万元（含500万
+
+\end{document}
+```

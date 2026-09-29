@@ -1,0 +1,15 @@
+Based on the infographic, **6 key requirements** have been listed for IoT success:
+
+1. **Data Preparation** - Filters, aggregates, enriches and analyses all kinds of data streams
+
+2. **Data Discovery** - An intelligent suggestions engine supports users in creating complete apps
+
+3. **Streaming Data Visualization** - An HTML5 platform for building push-based, real-time visualizations
+
+4. **Time Series Data** - Record by record processing with native time-understanding capability
+
+5. **Predictive & Advanced Analytics** - Real-time data mining, predictive analytics, and geospatial predictive analytics
+
+6. **Real-Time Geospatial & Location** - Native geospatial analytics capabilities enhanced via bundled libraries for Geo-IP lookups
+
+These are numbered 1 through 6 in the infographic, all connecting to the central "Internet of Things" hub.

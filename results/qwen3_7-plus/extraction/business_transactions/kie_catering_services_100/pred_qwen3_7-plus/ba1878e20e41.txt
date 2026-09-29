@@ -1,0 +1,33 @@
+```json
+{
+    "menu": [
+        {
+            "name": "[LG] BLACK SAKURA",
+            "num": "1",
+            "price": "59,091"
+        },
+        {
+            "name": "LONGAN",
+            "num": "1",
+            "price": "0"
+        },
+        {
+            "name": "ROASTED ALMOND",
+            "num": "1",
+            "price": "0"
+        },
+        {
+            "name": "MANGGO",
+            "num": "1",
+            "price": "0"
+        },
+        {
+            "name": "MINERAL WATER (bundling) 5k",
+            "num": "1",
+            "price": "4,545"
+        }
+    ],
+    "sub_total": "63,636",
+    "total": "70,000"
+}
+```

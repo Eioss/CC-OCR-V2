@@ -1,0 +1,17 @@
+ $$\int _ { \Omega } u ^ { + } ( x ) g _ { \alpha , \beta } ( x ) ^ { p } \varphi ( x ) d x = \int _ { \{ f \geq 0 \} } \gamma _ { \beta } ^ { + } ( u ( x ) ) f ( x ) \varphi ( x ) d x + \int _ { \{ f < 0 \} } \gamma _ { \alpha } ^ { - } ( u ( x ) ) f ( x ) \varphi ( x ) d x .$$
+
+ $$W _ { i j } ^ { H } [ f ] ( x , y , \theta ) = \alpha ^ { - 1 } \! \! \int _ { R ^ { 2 } } \! \! f ( x ) e ^ { \frac { i } { 2 \theta _ { i } } ( x _ { + } ^ { 2 } - y _ { + } ^ { 2 } ) } \psi ( r _ { i \! \cdot \! } e _ { \theta } \, \alpha ^ { \prime } ( x \! - \! y ) ) \; e ^ { \frac { - i } { 2 \theta _ { i } } ( x _ { - } ^ { 2 } - y _ { - } ^ { 2 } ) } d x .$$
+
+ $$\psi ( p _ { A } ) = { \frac { - ( 8 \cos ^ { 2 } ( \alpha _ { s } ) + 1 ) + \delta } { - ( 8 \cos ^ { 2 } ( \alpha _ { s } ) + 1 ) - \delta } } = { \frac { t r ( U ) + 1 - \delta } { t r ( U ) + 1 + \delta } } \eqno ( 3 . 1 1 )$$
+
+ $$\frac { 1 } { 8 } + \frac { \tau _ { H } ( \tau ) } { 4 } \leq \frac { | D _ { k } ( 1 , \frac { y ^ { 2 } } { 1 + k ^ { 2 } } , \mathrm { \boldmath ~ x ~ } _ { k } ) | } { | D _ { k } ( \frac { y ^ { 2 } } { 1 + k ^ { 2 } } , \mathrm { \boldmath ~ x ~ } _ { k } ) | }$$
+
+ $${ \widetilde { V } } ( t + T _ { 7 } , M ^ { \circ } ) \geq u ( t + T _ { 6 } , M ^ { \circ } ) { \mathrm { ~ } } f o r { \mathrm { ~ } } t \geq 0 ,$$
+
+ $$( \int _ { 0 } ^ { t } S ( t _ { 1 } - \tau ) \, B u \left( \tau \right) d \tau , g ) = \int _ { 0 } ^ { t _ { 1 } } ( S ( t _ { 1 } - \tau ) \, B u \left( \tau \right) , g ) \, d \tau .$$
+
+ $$\begin{array} { c } { { T _ { \epsilon } \left( t \right) = \alpha _ { \xi } \delta \left( t \right) - \left( \alpha _ { t } + 1 \right) ( \frac { \epsilon \gamma _ { s } } 2 + \lambda \triangle C L S ) } } \\ { { { } } } \\ { { \times e ^ { - \left( \left( w _ { t } + \lambda \triangle C L S \right) t _ { 0 } - \Gamma _ { \zeta ^ { \epsilon } } \right) } \theta \left( t \right) , } } \end{array}$$
+
+ $$\frac { a _ { k } } { P _ { k } } \leq C s \; \; \; \; \forall k \in T \; a n d \; \; \forall \; T \subseteq F ,$$
+
+ $$v ^ { T } Q ^ { ( k + 1 , \, k + 1 ) } v = v ^ { T } D ^ { ( k + 1 , \, k + 1 ) } v - v ^ { T } \tilde { P } ^ { ( k + 1 , \, k + 1 ) } v + z v ^ { T } v - \lambda ( v ^ { T } v ) ^ { 2 }$$

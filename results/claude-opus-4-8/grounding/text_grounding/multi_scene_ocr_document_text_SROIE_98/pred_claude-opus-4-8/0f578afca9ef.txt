@@ -1,0 +1,5 @@
+The text '7.00' appears multiple times. Here are the regions:
+
+(615, 943, 681, 974) # First "7.00" (10.00 NOS x 0.70)
+(615, 1019, 681, 1052) # Subtotal "7.00"
+(615, 1101, 681, 1132) # Total Incl. of GST "7.00"

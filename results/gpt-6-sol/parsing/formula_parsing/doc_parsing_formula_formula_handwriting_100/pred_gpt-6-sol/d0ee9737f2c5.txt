@@ -1,0 +1,68 @@
+\[
+\begin{aligned}
+F_{f\varepsilon}(\varepsilon_{rnt})
+&=F_{f\varepsilon}(\varepsilon_0)
++\int_0^t \gamma_n L_{VM}^{u_n}F_{f\varepsilon}(\varepsilon_{rnr})\,dr+Mt\\
+&\leq F_{f\varepsilon}(\varepsilon_0)
++\int_0^t 2\gamma_n\sum_{x\in E_n}\pi^{(n)}(x)
+\int_S f_\varepsilon\bigl(\sigma,\varepsilon_{rnr}(x)\bigr)\,d\mu_n(\sigma)\,dr+Mt.
+\end{aligned}
+\]
+
+\[
+P(r,t)=\frac{N}{V}\sum_j d_{eg}^{*}\langle\sigma_{ge}\rangle
+e^{i(k_jz-\nu_jt)}.
+\]
+
+\[
+u=-\frac{\partial\Psi}{\partial z}
+=u_0\frac{H_1}{H_1-h},
+\qquad
+w=\frac{\partial\Psi}{\partial x}
+=u_0H_1\frac{dh}{dx}\frac{H_1-z}{(H_1-h)^2}.
+\]
+
+\[
+\frac{dh}{dx}
+=-h_0\left[
+\beta\cos^2(\alpha x)\sin(2\beta x)
++\alpha\cos^2(\beta x)\sin(2\alpha x)
+\right].
+\]
+
+\[
+|\Psi\rangle_{AB}
+=|\Psi\rangle_A\otimes|\phi\rangle_B
+=|\Psi\rangle_A\otimes
+\left(\cos\frac{\theta}{2}|0\rangle_B
++\sin\frac{\theta}{2}|1\rangle_B\right).
+\]
+
+\[
+\delta\sum_{k=0}^{n}a_k\|x_k-T(x_k)\|^2
+\leq\|x_0-T(x_0)\|^2-\|x_{n+1}-T(x_{n+1})\|^2
+\leq\|x_0-T(x_0)\|^2.
+\]
+
+\[
+\min_{\theta}\operatorname{Tr}(Z^{T}LZ)
+\quad\text{subject to}\quad Z^{T}DZ=I.
+\]
+
+\[
+\begin{aligned}
+\left|\sum_{|h|\geq H}a_{h,H}
+\sum_{n\sim\delta N}e^{2j\pi f_x(n+\frac12)h}\right|
+&\leq C\sum_{|h|\geq H}
+H\left(Nh^{-3/2}L^{-1/2}+h^{-5/2}L^{1/2}\right)\\
+&\leq C\left(NH^{1/2}L^{-1/2}+H^{-1/2}L^{1/2}\right).
+\end{aligned}
+\]
+
+\[
+\left(\widetilde{\nabla}_{\phi^2W}\widetilde{R}\right)
+(\phi^2X,\phi^2Y)\phi^2Z
+=
+\left(\widetilde{\nabla}_{W}\widetilde{R}\right)
+(\phi^2X,\phi^2Y)\phi^2Z.
+\]

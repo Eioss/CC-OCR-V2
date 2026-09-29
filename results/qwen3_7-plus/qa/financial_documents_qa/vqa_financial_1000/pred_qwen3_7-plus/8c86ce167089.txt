@@ -1,0 +1,26 @@
+Based on the provided pay statement, the **Total Pay** is listed as:
+
+> **3333.00**
+
+This amount is shown in the column labeled **“TOTAL PAY”**, which corresponds to the gross earnings before deductions.
+
+---
+
+### Breakdown of Deductions (for context):
+
+- **Soc. Sec.**: 1037.36  
+- **Fed. W.T.**: 80.00  
+- **State W.T.**: 15.25  
+- **City W.T.**: *(blank — likely $0 or not applicable)*  
+- **Wash. W.T.**: *(blank)*  
+- **Va. W.T.**: *(blank)*  
+
+Total deductions = 1037.36 + 80.00 + 15.25 = **1132.61**
+
+Net Amount = Total Pay – Deductions = 3333.00 – 1132.61 = **2200.39**
+
+Which matches the **NET AMOUNT** field: **2200.39**
+
+---
+
+✅ So, the **Total Pay** is **$3,333.00**.

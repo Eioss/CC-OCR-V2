@@ -1,0 +1,15 @@
+\tan h(z) = \frac{\left(D_{12}\dfrac{\partial h}{\partial z_2} + E_{12}\dfrac{\partial h}{\partial z_1}\right) - (D_{11}-E_{11})\sin h(z)}{T_1 - T_2}.
+
+\tau_j = L(\pi/4)\,\hat{z}_j,\ \hat{z} = 1,\ldots,3
+
+S_\Theta^+(t) = \{s \in S_\Theta : s^{-1} \in S_{\overline{\Theta}}(t)\}.
+
+\left(\int_C t^{1-2s}\,|\nabla x^-|^2\,dxdy\right)\left(\int_C t^{1-2s}\,|\nabla v^-|^2\,dxdy\right)
+
+\leq |\Omega|\{u(\cdot,0)>0\}|^{1/n}|\Omega|\{v(\cdot,0)>0\}|^{2s/n}\|d\|_{C^0(\Omega)}\|d\|_{C^0(\Omega)}\|u^-\|_{L^{2}(N(1-2s)\Omega)}^2\|v^-\|_{L_{1}^{2}}^2(\Omega).
+
+\|F_{x\to z}\mathfrak{S}_\Lambda[F^a,F^b\,F^c]\|_\infty^{L^3}\leq k\|F^a\|_S\|F^b\|_S\|F^c\|_S,
+
+\lim_{n\to\infty}\frac{\sup_{a^n\leq t\leq a^{n+1}}|X(t)-X(a^n)|}{a^{nH}(\log a^n)^{1/p+\varepsilon}} = 0\quad a.s.
+
+\varphi = |\angle u+v| = |\pi-\alpha-\beta| \geq \pi - |\angle v\cap s| - |\angle s\cap v| = |\angle u\cap s\cap v| = 2\pi/5.

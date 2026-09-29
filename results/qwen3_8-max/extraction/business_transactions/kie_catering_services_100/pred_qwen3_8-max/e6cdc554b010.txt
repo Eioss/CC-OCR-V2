@@ -1,0 +1,48 @@
+```json
+{
+    "menu": [
+        {
+            "name": "Chicken Maryland",
+            "price": "47619.00"
+        },
+        {
+            "name": "Cappucino (Hot/Iced)",
+            "price": "30303.00"
+        },
+        {
+            "name": "Naga Lychee Juice",
+            "price": "34632.00"
+        },
+        {
+            "name": "Cafe Latte",
+            "price": "30303.00"
+        },
+        {
+            "name": "Hot Chocolate Marshmallo",
+            "price": "30303.00"
+        },
+        {
+            "name": "Chicken Cesar Salad",
+            "price": "43290.00"
+        },
+        {
+            "name": "Mineral Water",
+            "price": "12987.00"
+        },
+        {
+            "name": "Mineral Water",
+            "price": "12987.00"
+        },
+        {
+            "name": "Lychee/Peach/Lemon/Mango",
+            "price": "25974.00"
+        },
+        {
+            "name": "Chicken Maryland",
+            "price": "47619.00"
+        }
+    ],
+    "sub_total": "316017.00",
+    "total": "365000.00"
+}
+```

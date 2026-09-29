@@ -1,0 +1,17 @@
+$$A_{2m+2}(v,z) \sim (-\zeta)^{1/4}\left\{1 + \frac{1}{2}\tilde{\mathcal{E}}_{2m+2,r}(v,j\infty)\right\},$$
+
+$$\mathbb{P}^{\mathcal{G}}(R_k^i = \ell_k^i, i=1,\cdots,\bar{n}) \leq \bar{n}\,\Upsilon(w,\bar{n},(\ell_0^{y})_i = 1,\cdots,\bar{n},(\ell_k^i)_i = 1,\cdots,\bar{n}).$$
+
+$$d = O(\log n + \log(1/\epsilon))$$
+
+$$L_f = \sup_{x \neq y} \Omega_f(x,y) \frac{|f(x) - f(y)|}{|x-y|}$$
+
+$$I^+ \frac{1}{2}(V^+ + V^-) = \frac{1}{2}(V^+ - V^-)I^+,$$
+
+$$I^- \frac{1}{2}(V^+ + V^-) = \frac{1}{2}(-V^+ - V^-)I^-,$$
+
+$$-u_1 \cdot n_1 + a p_{1,r} + S_r \partial_t p_{1,r} + \mathrm{div}_r u_{r,1} = -u_2 \cdot n_1 + a p_{2,r} \qquad \text{on } r \times (0,T),$$
+
+$$u_{r,1} = -k_r \delta \nabla_r p_{1,r}$$
+
+$$|z_0\rangle \otimes |\xi(z_0)\rangle \xrightarrow{\;I\;} |z_0\rangle \otimes |\phi(z_0)\rangle,$$

@@ -1,0 +1,25 @@
+```json
+{
+    "menu": [
+        {
+            "name": "BUBUR GO",
+            "unit_price": "20.000",
+            "quantity": "2",
+            "subtotal": "40.000"
+        },
+        {
+            "name": "PUYUH GO",
+            "unit_price": "",
+            "quantity": "",
+            "subtotal": "6.000"
+        },
+        {
+            "name": "SATE ATi GO",
+            "unit_price": "3.000",
+            "quantity": "3",
+            "subtotal": "9.000"
+        }
+    ],
+    "total": "55.000"
+}
+```

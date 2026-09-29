@@ -1,0 +1,56 @@
+```json
+{
+    "menu": [
+        {
+            "name": "TALAM UNGU",
+            "num": "1X",
+            "unit_price": "6500",
+            "price": "6,500"
+        },
+        {
+            "disc_item": "-40.000%",
+            "amount": "-2 600"
+        },
+        {
+            "name": "AREM - AREM",
+            "num": "1X",
+            "unit_price": "3000",
+            "price": "8,000"
+        },
+        {
+            "disc_item": "-40.000%",
+            "amount": "-3,200"
+        },
+        {
+            "name": "LEMPER",
+            "num": "2X",
+            "unit_price": "9000",
+            "price": "18,000"
+        },
+        {
+            "disc_item": "-40.000%",
+            "amount": "-7,200"
+        },
+        {
+            "name": "MIKA SEDANG",
+            "num": "1X",
+            "unit_price": "0",
+            "price": "0"
+        },
+        {
+            "name": "PLASTIK KECIL",
+            "num": "1X",
+            "unit_price": "0",
+            "price": "0"
+        },
+        {
+            "name": "TEH KOTAK",
+            "num": "1X",
+            "unit_price": "5000",
+            "price": "5,000"
+        }
+    ],
+    "sub_total": "24,500",
+    "total": "24,500"
+}
+```

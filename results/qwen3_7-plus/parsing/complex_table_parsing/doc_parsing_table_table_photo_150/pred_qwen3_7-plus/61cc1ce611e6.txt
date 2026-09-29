@@ -1,0 +1,120 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Alpine House, Inc. Income Statement</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h3 {
+            text-align: center;
+            margin-bottom: 5px;
+            font-size: 1.2em;
+        }
+        h2 {
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        td {
+            padding: 6px 10px;
+            vertical-align: bottom;
+            line-height: 1.4;
+        }
+        .indent-1 {
+            padding-left: 30px;
+        }
+        .indent-2 {
+            padding-left: 60px;
+        }
+        .text-right {
+            text-align: right;
+        }
+        .underline-single {
+            border-bottom: 1px solid black;
+        }
+        .underline-double {
+            border-bottom: 3px double black;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        .note {
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h3>Exercise 1-15 (20 minutes)</h3>
+    <h3>1. Traditional income statement</h3>
+    
+    <h2>The Alpine House, Inc.</h2>
+    <h2>Traditional Income Statement</h2>
+
+    <table>
+        <tr>
+            <td>Sales....................................................................................................</td>
+            <td></td>
+            <td class="text-right">$150,000</td>
+        </tr>
+        <tr>
+            <td>Cost of goods sold<br>($30,000 + $100,000 - $40,000).................................</td>
+            <td></td>
+            <td class="text-right underline-single">90,000</td>
+        </tr>
+        <tr>
+            <td>Gross margin.....................................................................................</td>
+            <td></td>
+            <td class="text-right">60,000</td>
+        </tr>
+        <tr>
+            <td>Selling and administrative expenses:</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="indent-1">Selling expenses (($50 per unit &times; 200 pairs of<br>skis*) + $20,000)...........................................................</td>
+            <td class="text-right">$30,000</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="indent-1">Administrative expenses (($10 per unit &times; 200<br>pairs of skis) + $20,000).................................................</td>
+            <td class="text-right underline-single">22,000</td>
+            <td class="text-right underline-single">52,000</td>
+        </tr>
+        <tr>
+            <td>Net operating income......................................................................</td>
+            <td></td>
+            <td class="text-right bold underline-double">$ 8,000</td>
+        </tr>
+    </table>
+
+    <div class="note">
+        *$150,000 sales &divide; $750 per pair of skis = 200 pairs of skis.
+    </div>
+</div>
+
+</body>
+</html>
+```

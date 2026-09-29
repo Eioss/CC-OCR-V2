@@ -1,0 +1,123 @@
+```html
+<html><body><div class="image" data-bbox="738 715 784 790"><img src="imgs/img_in_qrcode_box_738_715_784_790.jpg" alt="Image"/></div>
+<div class="image" data-bbox="60 67 92 98"><img src="imgs/img_in_image_box_60_67_92_98.jpg" alt="Image"/></div>
+
+<div class="image" data-bbox="903 32 957 92"><img src="imgs/img_in_image_box_903_32_957_92.jpg" alt="Image"/></div>
+<h1>项目管理信息牌</h1>
+<p>单位信息/工程参数/监督电话</p>
+<p>文档编号 SG-628506</p>
+<p>日期 2025-04-18</p>
+<p>施工/项目名称:云栖市松影临澜市政工程一期</p>
+<p>单位名称:青岚省云栖市松影临澜市政工程有限公司</p>
+<p>工程地点:云栖省青岚市松影区科创大道238号11栋</p>
+<p>项目负责人:严明哲</p>
+<p>安全员:陈思远</p>
+<p>联系电话:19001479163</p>
+<h2>问题跟踪/检查记录</h2>
+<table border="1">
+	<tr>
+		<td colspan="2">编号</td>
+		<td>日期</td>
+		<td>问题描述</td>
+		<td>等级(√/×/Lvl)</td>
+		<td>期限</td>
+		<td>复核人</td>
+		<td>签字</td>
+	</tr>
+	<tr>
+		<td rowspan="4">A区<br/>检查项</td>
+		<td></td>
+		<td></td>
+		<td>已整改(严)</td>
+		<td>等级 A</td>
+		<td>/</td>
+		<td>严明哲</td>
+		<td>陈思远</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>2025.04.25</td>
+		<td>需跟进</td>
+		<td>等级 A</td>
+		<td>/</td>
+		<td>严明哲</td>
+		<td>陈思远</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="4">B区<br/>检查项</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>543468852229617492</td>
+		<td>复核人</td>
+		<td>签字</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>日期</td>
+		<td>问题描述</td>
+		<td>等级 A</td>
+		<td>/</td>
+		<td>陈思远</td>
+		<td>陈思远</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>2025.04.25</td>
+		<td></td>
+		<td></td>
+		<td>/</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td rowspan="2">汇总统计</td>
+		<td></td>
+		<td>日期</td>
+		<td>问题描述</td>
+		<td>等级(√/×/Lvl)</td>
+		<td>期限</td>
+		<td>复核人</td>
+		<td>签字</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>2025.04.25</td>
+		<td>需跟进</td>
+		<td>等级 A</td>
+		<td></td>
+		<td>严明哲</td>
+		<td>严明哲</td>
+	</tr>
+</table>
+<p>https://example.com/doc-30091409</p>
+</body></html>
+```

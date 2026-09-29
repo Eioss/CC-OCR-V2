@@ -1,0 +1,90 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        th, td {
+        border: 1px solid #000;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="9">Match Contribution for the Federal Fiscal Year (HOME)</th>
+   </tr>
+   <tr>
+    <th>Project No. or<br/>Other ID</th>
+    <th>Date of<br/>Contribution</th>
+    <th>Cash<br/>(non-Federal sources)</th>
+    <th>Fotriale Taxes, Fees,<br/>Charges</th>
+    <th>Appraised Land/Real<br/>Property</th>
+    <th>Required Infrastructure</th>
+    <th>Site Preparation,<br/>Construction Materials,<br/>Donated labor</th>
+    <th>Bond Financing</th>
+    <th>Total Match</th>
+   </tr>
+   <tr>
+    <td></td>
+    <td>07/01/14 –<br/>06-30-15</td>
+    <td>$7,637,486</td>
+    <td>$609,490</td>
+    <td>0</td>
+    <td>0</td>
+    <td>$8,262,732</td>
+    <td>$5,389</td>
+    <td>$16,515,097</td>
+   </tr>
+  </table>
+  <p style="text-align:center;">Table 6 – Match Contribution for the Federal Fiscal Year</p>
+  <table>
+   <tr>
+    <th colspan="5">Program Income – Enter the program amounts for the reporting period (HOME)</th>
+   </tr>
+   <tr>
+    <th>Balance on hand at beginning of reporting period $</th>
+    <th>Amount received during reporting period* $</th>
+    <th>Total amount expended during reporting period* $</th>
+    <th>Amount expended for TBRA $</th>
+    <th>Balance on hand at end of reporting period $</th>
+   </tr>
+   <tr>
+    <td>$13,688,955</td>
+    <td>$7,754,639</td>
+    <td>$3,676,913</td>
+    <td>$4,541</td>
+    <td>$17,766,681</td>
+   </tr>
+  </table>
+  <p style="text-align:center;">Table 7 – Program Income</p>
+ </body>
+</html>
+
+```

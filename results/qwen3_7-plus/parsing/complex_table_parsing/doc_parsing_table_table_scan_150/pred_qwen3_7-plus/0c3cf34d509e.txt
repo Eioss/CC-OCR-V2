@@ -1,0 +1,140 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        processEscapes: true,
+                        },
+                        options: {
+                        skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                        },
+                    };
+                    if(window.MathJax && window.MathJax.typeset) {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+                    }
+  </script>
+  <style>
+   table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: Arial, sans-serif;
+        }
+        thead tr th {
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
+        padding: 8px;
+        background: #f6f6f6;
+        }
+        tbody td {
+        border-bottom: 1px solid #aaa;
+        padding: 8px;
+        text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <tr>
+    <th colspan="2" rowspan="2">表面活性剂</th>
+    <th colspan="5">逆转倍数</th>
+   </tr>
+   <tr>
+    <th>ADM</th>
+    <th>DNR</th>
+    <th>VCR</th>
+    <th>VP-16</th>
+    <th>HRT</th>
+   </tr>
+   <tr>
+    <td rowspan="7">K562/A02</td>
+    <td>PEG-1000</td>
+    <td>$1.1 \pm 0.1$</td>
+    <td>$1.0 \pm 0.1$</td>
+    <td>$1.3 \pm 0.2$</td>
+    <td>$0.9 \pm 0.1$</td>
+    <td>$1.2 \pm 0.3$</td>
+   </tr>
+   <tr>
+    <td>S-40</td>
+    <td>$15.3 \pm 0.6$</td>
+    <td>$7.3 \pm 1.5$</td>
+    <td>$17.4 \pm 3.2$</td>
+    <td>$4.1 \pm 0.4$</td>
+    <td>$15.9 \pm 1.8$</td>
+   </tr>
+   <tr>
+    <td>F-68</td>
+    <td>$34.2 \pm 1.5$</td>
+    <td>$12.7 \pm 2.4$</td>
+    <td>$30.3 \pm 4.9$</td>
+    <td>$8.1 \pm 1.2$</td>
+    <td>$28.6 \pm 4.5$</td>
+   </tr>
+   <tr>
+    <td>EL-35</td>
+    <td>$15.8 \pm 1.2$</td>
+    <td>$8.2 \pm 2.3$</td>
+    <td>$21.2 \pm 3.5$</td>
+    <td>$5.4 \pm 0.9$</td>
+    <td>$17.7 \pm 1.6$</td>
+   </tr>
+   <tr>
+    <td>T-60</td>
+    <td>$3.1 \pm 0.7$</td>
+    <td>$6.2 \pm 1.1$</td>
+    <td>$16.9 \pm 2.7$</td>
+    <td>$4.8 \pm 0.9$</td>
+    <td>$16.1 \pm 2.0$</td>
+   </tr>
+   <tr>
+    <td>Triton-100</td>
+    <td>$13.4 \pm 4.1$</td>
+    <td>$10.6 \pm 1.5$</td>
+    <td>$23.5 \pm 2.4$</td>
+    <td>$6.4 \pm 0.9$</td>
+    <td>$19.0 \pm 1.8$</td>
+   </tr>
+   <tr>
+    <td>CTAB</td>
+    <td>$0.9 \pm 0.2$</td>
+    <td>$1.0 \pm 0.0$</td>
+    <td>$0.9 \pm 0.1$</td>
+    <td>$0.9 \pm 0.0$</td>
+    <td>$1.0 \pm 0.2$</td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Ver</td>
+    <td>$12.3 \pm 2.8$</td>
+    <td>$7.1 \pm 2.1$</td>
+    <td>$19.3 \pm 2.4$</td>
+    <td>$6.0 \pm 0.9$</td>
+    <td>$11.2 \pm 1.9$</td>
+   </tr>
+   <tr>
+    <td>K562/S</td>
+    <td>F-68</td>
+    <td>$1.0 \pm 0.0$</td>
+    <td>$0.9 \pm 0.1$</td>
+    <td>$1.0 \pm 0.2$</td>
+    <td>$0.9 \pm 0.1$</td>
+    <td>$1.1 \pm 0.1$</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+```

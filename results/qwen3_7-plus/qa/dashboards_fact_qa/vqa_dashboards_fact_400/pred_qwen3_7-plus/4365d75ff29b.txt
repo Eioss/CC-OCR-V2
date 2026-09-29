@@ -1,0 +1,18 @@
+Based on the infographic, **40.91%** of UK and US national newspapers analyzed have integrated either the `@author` or `@site` within their default tweet template.
+
+This is explicitly stated in the section “UK AND US NATIONAL NEWSPAPERS”:
+
+> *“Of the newspapers analysed, 40.91% have integrated either the @author or @site within their default tweet template.”*
+
+---
+
+### Clarification:
+The infographic does not refer to “hashtags” — it refers to **Twitter handles** (`@author` or `@site`) being included in the default tweet text when users click the onsite Twitter button. This is a best practice for attribution and branding, not hashtag usage.
+
+So, if you meant “required handles/mentions” (not hashtags), then the answer is **40.91%**.
+
+If you literally meant **hashtags** (like `#news`, `#breaking`, etc.), the infographic **does not provide any data** on that — it only tracks whether `@author` or `@site` is included by default.
+
+---
+
+✅ Final Answer: **40.91%** of newspaper companies use the `@author` or `@site` handle in their default tweets (not hashtags).

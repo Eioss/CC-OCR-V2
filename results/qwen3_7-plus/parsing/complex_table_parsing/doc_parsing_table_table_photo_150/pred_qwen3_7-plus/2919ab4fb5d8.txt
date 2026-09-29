@@ -1,0 +1,89 @@
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+  <script>
+   window.MathJax = {
+                        tex: {
+                        inlineMath: [
+                            ["$", "$"],
+                            ["\\(", "\\)"],
+                        ],
+                        displayMath: [
+                            ["$$", "$$"],
+                            ["\\[", "\\]"],
+                        ],
+                        },
+                        svg: {
+                        fontCache: "global",
+                        },
+                    };
+  </script>
+  <style>
+   table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+  </style>
+ </head>
+ <body>
+  <table>
+   <thead><tr><th style="width: 5%;">序号</th>
+     <th colspan="2" style="width: 15%;">主要任务</th>
+     <th style="width: 30%;">工作内容</th>
+     <th style="width: 20%;">工作进展<br/>或完成情况</th>
+     <th style="width: 15%;">专项工作小组牵头处室</th>
+     <th style="width: 15%;">责任处室</th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td rowspan="3" style="text-align: center;"><b>24</b></td>
+     <td rowspan="3" style="text-align: center;">(十八)发挥社会化服务组织的带动作用</td>
+     <td colspan="2" rowspan="3">要把推进农业生产“三品一标”作为生产托管服务项目的一项重要内容，培育一批专业化社会化农业服务组织，集中连片开展代耕代种代收、病虫统防统治、肥料统配统施等，推动农业生产标准化、专业化、集约化。</td>
+     <td rowspan="3"></td>
+     <td>经作处</td>
+     <td rowspan="3">合作经济处、粮油处、农机化处</td>
+    </tr>
+    <tr>
+     <td>畜牧处</td>
+    </tr>
+    <tr>
+     <td>渔业处</td>
+    </tr>
+    <tr>
+     <td style="text-align: center;"><b>25</b></td>
+     <td rowspan="3" style="text-align: center;">七、<br/>强化市场拉动</td>
+     <td>(十九)加大宣传推介</td>
+     <td>综合运用报纸、电视、网络，特别是新媒体，宣传品牌内涵，讲好品牌故事，提高品牌的美誉度、知名度和影响力。</td>
+     <td></td>
+     <td rowspan="3">市场品牌处</td>
+     <td>组织宣传处、发展规划处、安监处、市场品牌处、种业处等相关处室</td>
+    </tr>
+    <tr>
+     <td style="text-align: center;"><b>26</b></td>
+     <td rowspan="2">(二十)推动展示展销</td>
+     <td>利用各种农业展会、产销对接会等平台，鼓励开设农产品品牌专馆专柜专区，推动名优产品进商场、进超市、进酒店。</td>
+     <td></td>
+     <td>市场品牌处等相关处室</td>
+    </tr>
+    <tr>
+     <td style="text-align: center;"><b>27</b></td>
+     <td>组织引导国内优秀农业品牌走出去，参加国际知名展会，建立境外展示展销中心，提升品牌知名度。</td>
+     <td></td>
+     <td>对外合作处、市场品牌处</td>
+    </tr>
+   </tbody>
+  </table>
+ </body>
+</html>
+
+```

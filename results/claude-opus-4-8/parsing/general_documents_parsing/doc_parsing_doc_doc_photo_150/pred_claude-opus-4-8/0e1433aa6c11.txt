@@ -1,0 +1,68 @@
+# Transcription
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{center}
+
+{\large A}
+
+{\Huge\bfseries \textcolor{red}{DICTIONARY}}
+
+\vspace{0.3em}
+{\large ENGLISH, GERMAN AND FRENCH,}
+
+\vspace{0.3em}
+{\footnotesize CONTAINING NOT ONLY}
+
+\vspace{0.3em}
+{\Large\bfseries \textcolor{red}{THE ENGLISH WORDS}}
+
+\vspace{0.3em}
+{\small IN THEIR ALPHABETICAL ORDER,}
+
+{\small TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS;}
+
+\vspace{0.3em}
+{\footnotesize BUT ALSO}
+
+\vspace{0.3em}
+{\small THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES,}
+
+{\small IDIOMS, AND PROVERBS,}
+
+\vspace{0.5em}
+{\small TAKEN FROM THE BEST NEW}
+
+\vspace{0.3em}
+{\Large\bfseries \textcolor{red}{ENGLISH DICTIONARIES}}
+
+\vspace{0.3em}
+{\footnotesize BY}
+
+\vspace{0.3em}
+{\Large \textcolor{red}{Mr. CHRISTIAN LUDWIG.}}
+
+\vspace{0.5em}
+{\large\bfseries \textcolor{red}{SECOND EDITION}}
+
+{\small CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY}
+
+{\small AUGMENTED.}
+
+\vspace{1em}
+\includegraphics[width=0.3\textwidth]{pegasus.png}
+
+\vspace{1em}
+{\large \textcolor{red}{LEIPZIG} AND \textcolor{red}{FRANCFURT}}
+
+{\large M\,DCC\,XXXVI.}
+
+\end{center}
+
+\end{document}
+```

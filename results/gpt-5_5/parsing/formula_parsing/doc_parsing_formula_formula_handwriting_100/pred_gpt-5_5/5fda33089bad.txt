@@ -1,0 +1,44 @@
+\[
+\begin{aligned}
+&Z\left(s,W_{\ell_1;k_1,0},W_{\ell_3;k_1-k_2}\right) \\
+&=\sum_{i=0}^{\ell_3-k_2}\sum_{j=0}^{\ell_2+k_1}\sum_{m=0}^{k_1-k_2}
+(-1)^{i+j+m}(\sqrt{-1})^{-k_1-k_2-j+i+m}
+\binom{\ell_3-k_2}{i}\binom{\ell_2+k_1}{j}\binom{k_1-k_2}{m} \\
+&\quad\times \int_{SU(3)}
+\alpha^{k_1-k_2-i-j}\bar{\beta}^{\,i+j}
+\bar{\alpha}^{\,k_1-k_2-m}\beta^m\,dk \\
+&\quad\times \int_0^\infty d^\times a_1\int_0^\infty d^\times a_2
+\int_{L_1}\frac{ds_1}{2\pi\sqrt{-1}}
+\int_{L_2}\frac{ds_2}{2\pi\sqrt{-1}}
+\int_{L_3}\frac{ds_3}{2\pi\sqrt{-1}}\,
+a_1^{-s_1-s_3+2s}a_2^{-s_2+4s} \\
+&\quad\times
+\Gamma_{\mathbb C}\left(\frac{s_1+\ell_1+k_2+i+j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1-\ell_2-k_2-i+j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1-\ell_3-k_2-i-j}{2}\right) \\
+&\quad\times
+\Gamma_{\mathbb C}\left(\frac{s_2-\ell_2-\ell_3-k_1-k_2}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_2+\ell_1-\ell_3-k_1+k_2}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_2+\ell_1+\ell_2+k_1+k_2}{2}\right) \\
+&\quad\times
+\Gamma_{\mathbb C}\left(\frac{s_3+m}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_3+k_1-k_2-m}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1+s_2+\ell_1-\ell_2-\ell_3-k_1-i+j}{2}\right)^{-1} \\
+&=(k_1-k_2+1)^{-1}(\sqrt{-1})^{-k_1-k_2}
+\Gamma_{\mathbb C}\left(2s+\frac{-\ell_2-\ell_3-k_1-k_2}{2}\right)
+\Gamma_{\mathbb C}\left(2s+\frac{\ell_1-\ell_3-k_1+k_2}{2}\right)
+\Gamma_{\mathbb C}\left(2s+\frac{\ell_1+\ell_2+k_1+k_2}{2}\right) \\
+&\quad\times
+\sum_{i=0}^{\ell_3-k_2}\sum_{j=0}^{\ell_2+k_1}
+\binom{-\ell_2-k_2}{i}\binom{\ell_2+k_1}{j}
+\int_{L_1}\frac{ds_1}{2\pi\sqrt{-1}} \\
+&\quad\times
+\Gamma_{\mathbb C}\left(\frac{s_1+\ell_1+k_2+i+j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1-\ell_2-k_2-i+j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1-\ell_3-k_2-i-j}{2}\right) \\
+&\quad\times
+\Gamma_{\mathbb C}\left(\frac{-s_1+2s+i+j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{-s_1+2s+k_1-k_2-i-j}{2}\right)
+\Gamma_{\mathbb C}\left(\frac{s_1+4s+\ell_1-\ell_2-\ell_3-k_1-i+j}{2}\right)^{-1}.
+\end{aligned}
+\]

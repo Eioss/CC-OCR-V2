@@ -1,0 +1,13 @@
+$$\pi ( x , v ) = \frac { 1 } { | g _ { v } | } \sum _ { \overline { { { x } } } \leq M } e p ( \overline { { { x } } } ) < x , \overline { { { x } } } > v ( \overline { { { x } } } ) ^ { - 1 } < \lambda _ { m o n } x ) .$$
+
+$$v ( t , h , e ) \geq 1 - \exp ( - c \frac { e ^ { 2 } } { ( t - t _ { 0 } ) ^ { \gamma } } ) , \overline { { e } } \geq \Lambda + l ( t - t _ { 0 } ) + \delta ,$$
+
+$$v ( t _ { 0 } , h , e ) \leq \exp ( - c \frac { e ^ { 2 } } { ( t - t _ { 0 } ) ^ { 3 / 2 } } ) , \overline { { e } } \geq \Lambda - \delta .$$
+
+$$S _ { n } ( \theta ) \leq S _ { n } ( 0 ) = \int _ { 0 } ^ { \infty } C e ^ { 2 ( 1 - \theta ) } - 1 ) S _ { n } ( 0 ) \sin \theta r y \theta$$
+
+$$( n - 1 ) H - \frac { 1 } { 2 } \frac { \phi H ( x ) } { H - \frac { 1 } { 2 } } \leq \int _ { 0 } ^ { x } ( \nu ( n - 1 ) ) H - \frac { 1 } { 2 } ( \nu ( n - 1 ) - x ) H - \frac { 3 } { 2 } d \nu \leq n ^ { H - \frac { 1 } { 2 } } \frac { \phi H ( x ) } { H - \frac { 1 } { 2 } } .$$
+
+$$P _ { k , L } ^ { ( 2 ) } ( h _ { k , L } ^ { ( i ) } ) = \frac { 1 } { 4 } \sigma ^ { \prime \prime } ( E _ { k , L } ^ { ( i ) } ) M _ { i , L } ( h _ { k , L } ^ { ( i ) } ) ^ { 2 } + N _ { k , L } ( h _ { k , L } ^ { ( i ) } )$$
+
+$$= \frac { 1 } { 4 } \sigma ^ { \prime \prime } ( E _ { k , L } ^ { ( 2 ) } ) M _ { 2 , L } ^ { ( i ) } ( h _ { k , L } ^ { ( 2 ) } ) ^ { 2 } + \frac { 1 } { 2 } \sigma ^ { \prime } ( 0 ) ( X _ { k , L } ^ { ( 2 ) } + Y _ { k , L } ^ { ( 2 ) } + Z _ { k , L } ^ { ( 2 ) } ) .$$

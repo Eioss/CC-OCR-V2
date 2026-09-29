@@ -1,0 +1,70 @@
+```latex
+\begin{center}
+    \textbf{Argumentative Essay Structure}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{|p{\dimexpr\linewidth-2\tabcolsep-2\arrayrulewidth}|}
+\hline
+\textbf{Paragraph 1: Introduction} \\
+- Background \\
+(a) Overview of current situation/ Context based on question \\
+(b) Contextual Definition of key terms (if necessary) \\
+(c) Why this issue is interesting/significant \\
+\quad - Persuasive techniques: Hook (Statistics/ Facts/ Social trends from credible sources)/ Anecdote \\
+\quad / Rhetorical question / Relevant Quote/ Astounding statement/ Alliteration/ Addressing reader \\
+\quad in second person pronoun/ Figurative language) \\
+(d) Comparison of different viewpoints (if necessary) \\
+(e) My Stand: Using synonyms (varied vocab) to rephrase question \& defining a boundary for \\
+\quad discussion \\
+(f) Summarised Points (of 3 supporting reasons) \\
+\hline
+\textbf{Paragraph 2: Point 1 (Most significant/strongest point)} \\
+- State Point (topic sentence) \\
+- Give Explanation and Elaboration of Point \\
+- Example 1 to support Point \\
+- Explanation and Elaboration of Example 1 \\
+- Example 2 to support Point (if necessary) \\
+- Explanation and Elaboration of Example 2 (if necessary) \\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence) \\
+\hline
+\textbf{Paragraph 3: Point 2 (Second most significant/ strongest point)} \\
+- State Point (topic sentence) \\
+- Give Explanation and Elaboration of Point \\
+- Example 1 to support Point \\
+- Explanation and Elaboration of Example 1 \\
+- Example 2 to support Point (if necessary) \\
+- Explanation and Elaboration of Example 2 (if necessary) \\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence) \\
+\hline
+\textbf{Paragraph 4: Counterargument and Rebuttal} \\
+- An argument, usually a popular or common argument, that someone will use to tear down \\
+one of your topic sentence or your stand (addressing the other side of the argument to make it \\
+seem 'balanced') \\
+- A rebuttal to crush/demolish/defeat the counterargument (as a defence of your \\
+stand/supporting points) \\
+- Explanation \& Examples to support and show why your supporting argument/stand is still \\
+stronger \\
+- Link (use synonyms (varied vocab) to re-emphasise stand) \\
+\hline
+\textbf{Paragraph 5: Point 3 (Third most significant/ strongest point)} \\
+- State Point (topic sentence) \\
+- Give Explanation and Elaboration of Point \\
+- Example 1 to support Point \\
+- Explanation and Elaboration of Example 1 \\
+- Example 2 to support Point (if necessary) \\
+- Explanation and Elaboration of Example 2 (if necessary) \\
+- Link (use synonyms (varied vocab) to further re-emphasise topic sentence) \\
+\hline
+\textbf{Paragraph 6: Conclusion} \\
+- Restate stand (using synonyms (varied vocab) to rephrase question) \\
+- Summarised Points \\
+- End with a bang! - Statistics/ Rhetorical question / Relevant Quote/ Astounding statement/ \\
+Alliteration/ Addressing reader in second person pronoun/ figurative language \\
+- Suggest something out of the box (a solution/future possibilities) related to topic/question (if \\
+applicable) \\
+\hline
+\end{tabular}
+```

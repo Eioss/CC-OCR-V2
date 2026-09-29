@@ -1,0 +1,101 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{xeCJK}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Ruijin Hospital Shanghai Jiaotong University School of Medicine}}\\
+{\large \textbf{Clinical Laboratory Report}}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}lX lX@{}}
+\textbf{Name :} & [redacted] &
+\textbf{Sample Number :} & [partly illegible]7443 \\
+
+\textbf{Gender :} & [redacted] &
+\textbf{Birthday :} & 1[redacted] \\
+
+\textbf{Age :} & [redacted] &
+\textbf{Sample Type :} & Nasopharynx swab \\
+
+\textbf{PatientNo/PassportNo :} & 1320021[redacted] &
+\textbf{Testing Time :} & 2021-08-14 \\
+
+\textbf{Clinical Diagnosis :} & Regular inspection & & \\
+\end{tabularx}
+
+\vspace{0.5em}
+
+\noindent
+\textbf{Application Section Office :} Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\vspace{0.5em}
+\hrule
+\vspace{0.3em}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}l l l X@{}}
+\textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+\hline
+SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\end{tabularx}
+
+\vspace{4em}
+
+\noindent
+\textbf{Statement:}\\
+1. The testing result may be affected by the sampling time, sampling body parts as well as the\\
+methodology limitations. The result should be analyzed with clinical manifestations.\\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}lX lX@{}}
+\textbf{Sampling Time :} & 21-08-14 09:52 &
+\textbf{Reporting Time :} & 21-08-14 12:40 \\
+
+\textbf{Received Time :} & 21-08-14 11:03 &
+\textbf{Printing Time :} & 21-08-15 07:59 \\
+\end{tabularx}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}lX lX@{}}
+\textbf{Inspector} & [signature/stamp] &
+\textbf{Auditor :} & [signature] \\
+\end{tabularx}
+
+\vspace{0.5em}
+
+\noindent
+\textbf{The test results are just responsible for the sample;and used only for reference by clinical doctors.}
+
+\vspace{1em}
+
+\noindent
+\textbf{add.:}No197 Ruijin 2 Road,Huangpu district,Shanghai
+\hfill
+\textbf{Tel.:} 8621-64370045
+
+\vspace{0.5em}
+\hrule
+\vspace{0.5em}
+
+\begin{center}
+Sheet 1 \hspace{3em} (病毒室)
+\end{center}
+
+\end{document}
+```

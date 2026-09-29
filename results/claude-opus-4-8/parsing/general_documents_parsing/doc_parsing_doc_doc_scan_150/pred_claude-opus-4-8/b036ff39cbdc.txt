@@ -1,0 +1,98 @@
+I'll transcribe this financial statement image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{CJKutf8}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage[margin=1in]{geometry}
+\usepackage{siunitx}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\noindent 福建海峡银行股份有限公司\\
+财务报表附注\\
+2018年度（除特别注明外，金额单位为人民币元）
+
+\vspace{1em}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{项\quad 目} & \textbf{期末数} & \textbf{期初数} \\
+\midrule
+存放及拆放同业款项利息 & 24,866,583.13 & 3,514,725.18 \\
+存放中央银行款项利息 & 4,122,258.78 & 5,457,365.54 \\
+债券及其他投资利息 & 747,178,758.84 & 789,315,650.90 \\
+发放贷款和垫款利息 & 541,009,851.93 & 488,991,237.54 \\
+买入返售款项利息 & 8,377,817.12 & 5,646,045.04 \\
+\textbf{应收利息账面价值} & \textbf{1,325,555,269.80} & \textbf{1,292,925,024.20} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+\noindent 7、发放贷款和垫款
+
+\vspace{0.5em}
+
+\noindent （1）按个人和企业分布情况
+
+\vspace{0.5em}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{项\quad 目} & \textbf{期末数} & \textbf{期初数} \\
+\midrule
+\textbf{个人贷款和垫款} & \textbf{26,233,634,312.60} & \textbf{25,771,731,917.72} \\
+\quad 个人经营性贷款 & 20,865,609,794.73 & 20,346,771,427.73 \\
+\quad 个人住房和商用房贷款 & 2,718,906,364.12 & 2,958,402,553.02 \\
+\quad 信用卡 & 2,638,720,235.40 & 2,462,011,756.03 \\
+\quad 其他 & 10,397,918.35 & 4,546,180.94 \\
+\textbf{企业贷款和垫款} & \textbf{39,424,024,107.55} & \textbf{40,395,562,040.09} \\
+\quad 贷款 & 33,009,690,001.73 & 35,483,189,120.16 \\
+\quad 贴现 & 6,414,334,105.82 & 4,912,372,919.93 \\
+\textbf{贷款和垫款总额} & \textbf{65,657,658,420.15} & \textbf{66,167,293,957.81} \\
+减：贷款减值准备 & 1,891,443,734.52 & 2,452,419,935.02 \\
+\textbf{贷款和垫款账面价值} & \textbf{63,766,214,685.63} & \textbf{63,714,874,022.79} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+\noindent （2）按行业分布情况
+
+\vspace{0.5em}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrr}
+\toprule
+ & \multicolumn{2}{c}{\textbf{期末数}} & \multicolumn{2}{c}{\textbf{期初数}} \\
+\textbf{行\quad 业} & 账面余额 & 比例\% & 账面余额 & 比例\% \\
+\midrule
+制造业 & 9,189,581,839.28 & 14.00 & 10,035,556,018.88 & 15.17 \\
+批发和零售业 & 6,264,273,954.84 & 9.54 & 9,005,311,681.87 & 13.61 \\
+房地产业 & 4,435,190,139.65 & 6.76 & 4,537,212,256.09 & 6.86 \\
+建筑业 & 3,460,844,735.78 & 5.27 & 3,940,845,818.36 & 5.96 \\
+租赁和商务服务业 & 4,129,739,427.89 & 6.29 & 3,136,837,700.18 & 4.74 \\
+水利、环境和公共设施管理业 & 1,650,484,795.65 & 2.51 & 1,051,510,066.53 & 1.59 \\
+交通运输、仓储和邮政业 & 912,613,136.29 & 1.39 & 1,020,257,621.48 & 1.54 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{2em}
+\begin{center}
+- 24 -
+\end{center}
+
+\end{CJK}
+\end{document}
+```

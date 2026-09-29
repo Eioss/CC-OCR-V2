@@ -1,0 +1,42 @@
+Based on the infographic provided, specifically the chart titled **"UNIFORMED FEMALE PERSONNEL BY MISSION"** in the bottom right corner, we can determine which mission had the least number of female personnel.
+
+Looking at the bar chart:
+
+- The values are listed above each red triangle (representing the number of uniformed female personnel).
+- Scanning from left to right:
+  - Abyei: 272
+  - Afghanistan¹: 89
+  - DR Congo: 572
+  - Côte d’Ivoire: 96
+  - Cyprus: 78
+  - Darfur: **964** ← *This is actually the highest*
+  - Golan: 102
+  - Haiti: 330
+  - India & Pakistan: 4
+  - Kosovo: 2
+  - Lebanon: 365
+  - Liberia: 266
+  - Mali: 52
+  - Middle East: 5
+  - South Sudan: 474
+  - Western Sahara: **14**
+
+The smallest value shown is **2**, corresponding to **Kosovo**.
+
+However, note that **India & Pakistan** has **4**, and **Middle East** has **5**, so **Kosovo (2)** is lower than those.
+
+Also, **Western Sahara** has **14**, which is higher than Kosovo’s 2.
+
+✅ Therefore, the mission with the **least number of uniformed female personnel** according to this chart is:
+
+> **Kosovo — with 2 personnel**
+
+---
+
+⚠️ Important Note: This data refers only to **uniformed female personnel by mission**, not total female personnel (which includes civilians). Also, some missions like “Middle East” may refer to UNTSO or similar observer groups, and their low numbers might reflect small-scale operations.
+
+But based strictly on the visual data presented in the "Uniformed Female Personnel by Mission" chart, **Kosovo** has the lowest count.
+
+---
+
+**Final Answer: Kosovo**

@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "Nov. 29, 2020",
+    "order_id": "12008",
+    "vendor_name": "OHANA MEDIA GROUP",
+    "vendor_address": "833 GAMBELL STREET ANCHORAGE, AK 99501 (907)344-4045",
+    "customer_billing_name": "OPTIMA PUBLIC RELATIONS",
+    "customer_billing_address": "PO BOX 101134, ANCHORAGE, AK 99510",
+    "amount_total_gross": "$420.00",
+    "amount_paid": "$0.00",
+    "amount_due": "$357.00",
+    "payment_terms": "NET 30 - A LATE FEE OF $50 CAN BE ADDED TO ACCOUNT IF NOT PAID WITHIN TERMS"
+}
+```

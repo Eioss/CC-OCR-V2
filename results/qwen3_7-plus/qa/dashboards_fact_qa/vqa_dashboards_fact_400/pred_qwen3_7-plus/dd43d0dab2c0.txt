@@ -1,0 +1,22 @@
+Based on the “Search Engine Popularity” section of the infographic (dated August 2014), the market share breakdown is:
+
+- **Google**: 67%
+- **Bing**: 19%
+- **Yahoo**: 10%
+- **Ask Network**: 2%
+- **AOL, Inc.**: 1%
+
+The question asks for search engines with **less than 10%** popularity.
+
+Looking at the list:
+
+- **Ask Network** → 2% → ✅ Less than 10%
+- **AOL, Inc.** → 1% → ✅ Less than 10%
+
+Yahoo has exactly 10%, so it does **not** qualify as “less than 10%”.
+
+---
+
+✅ **Answer: 2**
+
+*(Ask Network and AOL, Inc.)*

@@ -1,0 +1,7 @@
+```json
+{
+    "menu": "1 XXL Crispy Chicken 40,000\n1 - Sedang 0",
+    "sub_total": "40,000",
+    "total": "40,000"
+}
+```
