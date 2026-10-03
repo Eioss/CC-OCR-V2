@@ -1,4 +1,4 @@
-# CC-OCR V2: Benchmarking Large Multimodal Models for Literacy in Real-world Document Processing
+# CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding
 
 <div align="center">
 
@@ -100,7 +100,7 @@ If you find our work to be of value and helpful to your research, please acknowl
 
 ```bibtex
 @article{xu2026ccocr,
-  title={CC-OCR V2: Benchmarking Large Multimodal Models for Literacy in Real-world Document Processing},
+  title={CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding},
   author={Zhipeng Xu and Junhao Ji and Zulong Chen and Zhenghao Liu and Qing Liu and Chunyi Peng and Zubao Qin and Ze Xu and Jianqiang Wan and Jun Tang and Zhibo Yang and Shuai Bai and Dayiheng Liu},
   journal={arXiv preprint arXiv:2605.03903},
   year={2026}
