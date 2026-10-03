@@ -99,10 +99,11 @@ You can also use the provided shell scripts to evaluate all models or tasks:
 If you find our work to be of value and helpful to your research, please acknowledge our contributions by citing us in your publications or projects:
 
 ```bibtex
-@article{xu2026ccocr,
+@article{peng2026cc,
   title={CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding},
-  author={Zhipeng Xu and Junhao Ji and Zulong Chen and Zhenghao Liu and Qing Liu and Chunyi Peng and Zubao Qin and Ze Xu and Jianqiang Wan and Jun Tang and Zhibo Yang and Shuai Bai and Dayiheng Liu},
-  journal={arXiv preprint arXiv:2605.03903},
+  author={Peng, Chunyi and Xu, Zhipeng and Xiong, Yuqi and Chen, Zulong and Ji, Junhao and Liu, Qing and Liu, Zhenghao and Qin, Zubao and Zhao, Bing and Wan, Jianqiang and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2605},
   year={2026}
 }
 ```
