@@ -94,6 +94,10 @@ You can also use the provided shell scripts to evaluate all models or tasks:
 ./scripts/eval_all_models.sh
 ```
 
+### Evaluation with EvalScope
+
+[EvalScope](https://github.com/modelscope/evalscope) also supports CC-OCR V2 evaluation with OpenAI-compatible model endpoints, saving predictions, scores, and reports. See the [EvalScope usage guide](https://evalscope.readthedocs.io/en/latest/benchmarks/cc_ocr_v2.html) for installation and CLI/Python examples.
+
 ## 📝 Citation
 
 If you find our work to be of value and helpful to your research, please acknowledge our contributions by citing us in your publications or projects:
