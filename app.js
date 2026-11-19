@@ -1,5 +1,6 @@
 'use strict';
 const names={
+  'kimi-k3.1-pro':'Kimi K3.1 Pro',
   'Step3-VL-10B':'Step3-VL-10B','InternVL3_5-8B':'InternVL3.5-8B','MiniCPM-o-4_5':'MiniCPM-o 4.5','Qwen3_5-9B':'Qwen3.5-9B',
   'gpt-5_4-0305-global':'GPT-5.4','qwen-vl-max-latest':'Qwen-VL-Max','claude-opus-4-6-20260205':'Claude Opus 4.6','claude-sonnet-4-6':'Claude Sonnet 4.6',
   'claude-opus-4-8':'Claude Opus 4.8','gemini-3_1-flash-lite-preview':'Gemini 3.1 Flash Lite','gpt-5_5':'GPT-5.5','gemini-3_1-pro-preview':'Gemini 3.1 Pro',
@@ -45,7 +46,7 @@ function renderScores(){
   }).join(''):`<tr><td class="empty" colspan="${cols.length+2}">No models match “${escapeHtml(state.query)}”. Try another name or choose All models.</td></tr>`;
   document.getElementById('score-table').classList.toggle('category-table',state.view==='categories');
   document.getElementById('model-count').textContent=`${visible.length}${visible.length!==group.length?` of ${group.length}`:''} models · Higher is better`;
-  document.getElementById('score-updated').textContent='Updated Nov 19, 2026';
+  document.getElementById('score-updated').textContent='Updated Nov 20, 2026';
   document.getElementById('download-scores').href=state.view==='tasks'?'assets/task-scores.csv':'assets/category-scores.csv';
   document.getElementById('score-panel').setAttribute('aria-labelledby',state.view==='tasks'?'task-tab':'category-tab');
   document.querySelector('#score-panel>.table-scroll').scrollTop=0;

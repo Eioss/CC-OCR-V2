@@ -18,6 +18,7 @@ On-Server LMMs,doubao-seed-2-0-pro-260215,92.48,66.78,58.67,63.80,83.11,72.97
 On-Server LMMs,kimi-k2_5,87.26,67.94,55.64,67.13,88.74,73.34
 On-Server LMMs,gpt-6-sol,87.31,68.27,74.80,60.39,78.54,73.86
 On-Server LMMs,qwen3_5-plus,91.11,61.92,64.65,68.27,86.75,74.54
+On-Server LMMs,kimi-k3.1-pro,91.67,66.52,69.70,69.55,80.81,75.65
 On-Server LMMs,qwen3_8-flash,91.66,63.92,68.54,68.54,86.19,75.77
 On-Server LMMs,qwen3_7-plus,91.23,64.31,69.57,68.53,87.49,76.23
 On-Server LMMs,qwen3_6-plus,92.31,64.97,69.37,68.48,87.34,76.50

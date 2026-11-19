@@ -192,6 +192,16 @@ window.CCOCR_SCORES = {
     },
     {
       "Category": "On-Server LMMs",
+      "Model": "kimi-k3.1-pro",
+      "Recognition": 91.67,
+      "Parsing": 66.52,
+      "Grounding": 69.7,
+      "Extraction": 69.55,
+      "QA": 80.81,
+      "Average": 75.65
+    },
+    {
+      "Category": "On-Server LMMs",
       "Model": "qwen3_8-flash",
       "Recognition": 91.66,
       "Parsing": 63.92,
@@ -528,6 +538,21 @@ window.CCOCR_SCORES = {
       "Average": 78.06
     },
     {
+      "Model": "kimi-k3.1-pro",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 87.93,
+      "10-Labels & Screens": 87.89,
+      "2-Reports & Memos": 81.6,
+      "3-Marketing & Editorial": 76.38,
+      "4-Legal & Public Notices": 80.45,
+      "5-Forms & Personal Records": 81.11,
+      "6-Receipts & Transactions": 69.27,
+      "7-Certificates & Medical": 78.09,
+      "8-Handwritten Pages": 64.6,
+      "9-Charts & Diagrams": 73.53,
+      "Average": 78.09
+    },
+    {
       "Model": "doubao-seed-2-0-pro-260215",
       "Model_Category": "On-Server LMMs",
       "1-Books & Academic": 87.38,
@@ -663,5 +688,5 @@ window.CCOCR_SCORES = {
       "Average": 85.18
     }
   ],
-  "snapshot": "2026-11-19"
+  "snapshot": "2026-11-20"
 };

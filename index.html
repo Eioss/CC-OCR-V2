@@ -13,9 +13,9 @@
   <meta property="og:description" content="A benchmark for real-world document understanding: 7,093 samples, five evaluation tracks, ten document categories, and ten diagnostic factors.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://eioss.github.io/CC-OCR-V2/">
-  <script src="scores-data.js?v=20261119b" defer></script>
+  <script src="scores-data.js?v=20261120a" defer></script>
   <script src="examples-data.js" defer></script>
-  <script src="app.js?v=20261119b" defer></script>
+  <script src="app.js?v=20261120a" defer></script>
   <script src="examples.js" defer></script>
   <script src="diagnostics.js" defer></script>
 </head>
@@ -60,7 +60,7 @@
   <div class="leaderboard-header"><div class="tabs score-tabs" role="tablist" aria-label="Score view"><button id="task-tab" role="tab" aria-selected="true" aria-controls="score-panel" data-view="tasks">Five Tasks</button><button id="category-tab" role="tab" aria-selected="false" aria-controls="score-panel" tabindex="-1" data-view="categories">Ten Document Categories</button></div></div>
   <div class="table-controls"><div class="model-filters" role="group" aria-label="Model type"><button data-filter="all" aria-pressed="true">All models</button><button data-filter="device" aria-pressed="false">On-device</button><button data-filter="server" aria-pressed="false">On-server</button></div><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="model-search" type="search" placeholder="Search models" aria-label="Find a model"></label></div>
   <div id="score-panel" role="tabpanel" aria-labelledby="task-tab"><div class="table-scroll" tabindex="0" role="region" aria-label="Leaderboard scores; scroll vertically for all models and horizontally for all columns"><table id="score-table"><caption class="sr-only">CC-OCR V2 model scores on a 0–100 scale</caption><colgroup id="score-columns"></colgroup><thead id="score-head"></thead><tbody id="score-body"><tr><td>Loading scores…</td></tr></tbody></table></div></div>
-  <div class="table-bottom"><div class="table-metadata"><p id="model-count" role="status" aria-live="polite">Loading scores…</p><span class="snapshot-date" id="score-updated">Updated Nov 19, 2026</span></div><a id="download-scores" href="assets/task-scores.csv" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Download CSV</a></div>
+  <div class="table-bottom"><div class="table-metadata"><p id="model-count" role="status" aria-live="polite">Loading scores…</p><span class="snapshot-date" id="score-updated">Updated Nov 20, 2026</span></div><a id="download-scores" href="assets/task-scores.csv" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Download CSV</a></div>
   <p class="score-note"><strong>Bold</strong>: best · <span class="runner-up-key">Underlined</span>: second-best in the selected model group. Select a column heading to sort; scroll for all results.</p>
   <noscript><p>Download <a href="assets/task-scores.csv">task results</a> and <a href="assets/category-scores.csv">document-category results</a> to view scores without JavaScript.</p></noscript>
   <details class="paper-tables"><summary>Representative model results · original repository figures</summary><figure><a href="assets/task-results.png" target="_blank"><img src="assets/task-results.png" loading="lazy" width="1806" height="996" alt="Repository figure comparing representative models on the five document-processing tasks"></a><figcaption>Representative LMMs across five document-processing tasks.</figcaption></figure><figure><a href="assets/category-results.png" target="_blank"><img src="assets/category-results.png" loading="lazy" width="1776" height="968" alt="Repository figure comparing representative models on the ten document categories"></a><figcaption>Representative LMMs across ten document categories.</figcaption></figure></details>
