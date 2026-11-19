@@ -1,0 +1,5 @@
+Where is the region of the text '94.60'?
+
+Output the normalized coordinates of the left-top and right-bottom corners of the bounding box. The coordinates should be normalized ranging from 0 to 1000 by the image width and height.
+Your answer should be in the following format:
+(x1, y1, x2, y2) # x1, y1, x2, y2 are the normalized coordinates of the bounding box.

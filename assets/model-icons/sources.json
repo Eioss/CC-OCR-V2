@@ -1,0 +1,19 @@
+{
+  "retrieved": "2026-10-05",
+  "additional_retrievals": {"grok": "2026-11-19", "deepseek": "2026-11-19"},
+  "collection": "https://github.com/lobehub/lobe-icons",
+  "minicpm_provider_profile": "https://huggingface.co/openbmb",
+  "icons": {
+    "openai": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+    "qwen": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg",
+    "claude": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg",
+    "gemini": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg",
+    "kimi": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi.svg",
+    "seed": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/bytedance-color.svg",
+    "stepfun": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/stepfun-color.svg",
+    "internvl": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/internlm-color.svg",
+    "grok": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/grok.svg",
+    "deepseek": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg",
+    "minicpm": "https://cdn-avatars.huggingface.co/v1/production/uploads/1670387859384-633fe7784b362488336bbfad.png"
+  }
+}

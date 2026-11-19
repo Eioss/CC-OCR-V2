@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding. 7,093 samples, five tasks, and ten diagnostic factors.">
+  <meta name="theme-color" content="#363636">
+  <title>CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23173b5b'/%3E%3Cpath d='M9 8h14v16H9z' fill='none' stroke='white' stroke-width='2'/%3E%3Cpath d='M12 12h8m-8 4h8m-8 4h5' stroke='%233bc2a0' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css?v=20261005f">
+  <link rel="canonical" href="https://eioss.github.io/CC-OCR-V2/">
+  <meta property="og:title" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures">
+  <meta property="og:description" content="A benchmark for real-world document understanding: 7,093 samples, five evaluation tracks, ten document categories, and ten diagnostic factors.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://eioss.github.io/CC-OCR-V2/">
+  <script src="scores-data.js?v=20261119" defer></script>
+  <script src="examples-data.js" defer></script>
+  <script src="app.js?v=20261119" defer></script>
+  <script src="examples.js" defer></script>
+  <script src="diagnostics.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#introduction">Skip to content</a>
+<nav class="page-nav" aria-label="Page navigation"><a href="#overview">Overview</a><a href="#leaderboard">Leaderboard</a><a href="#diagnostics">Diagnostics</a><a href="#examples">Examples</a><a href="#citation">BibTeX</a></nav>
+<main id="top">
+<header class="paper-header">
+  <h1><span class="project-title">CC-OCR V2<span class="sr-only">:</span></span><span class="paper-subtitle">Fine-Grained Attribution of LMM Failures<br class="wide-only"> in Real-World Visual Document Understanding</span></h1>
+  <p class="authors"><span class="author">Chunyi Peng<sup>1</sup></span>, <span class="author">Zhipeng Xu<sup>2</sup></span>, <span class="author">Yuqi Xiong<sup>1</sup></span>, <span class="author">Zulong Chen<sup>2</sup></span>, <span class="author">Junhao Ji<sup>2</sup></span>,<br class="wide-only"> <span class="author">Qing Liu<sup>2</sup></span>, <span class="author">Zhenghao Liu<sup>1</sup></span>, <span class="author">Zubao Qin<sup>2</sup></span>, <span class="author">Bing Zhao<sup>2</sup></span>, <span class="author">Jianqiang Wan<sup>3</sup></span>,<br class="wide-only"> <span class="author">Jun Tang<sup>3</sup></span>, <span class="author">Zhibo Yang<sup>3</sup></span>, <span class="author">Shuai Bai<sup>3</sup></span>, <span class="author">Dayiheng Liu<sup>3</sup></span>, <span class="author">Maosong Sun<sup>4</sup></span></p>
+  <p class="affiliations"><span><sup>1</sup>Northeastern University</span><span><sup>2</sup>Alibaba Group</span><span><sup>3</sup>Qwen Team, Alibaba Group</span><span><sup>4</sup>Tsinghua University</span></p>
+  <div class="publication-links">
+    <a href="https://arxiv.org/abs/2605.03903" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 16h6"/></svg>Paper</a>
+    <a href="https://github.com/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 6-6 6 6 6m8-12 6 6-6 6M14 3l-4 18"/></svg>Code</a>
+    <a href="https://huggingface.co/datasets/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v7c0 4 16 4 16 0V5M4 12v7c0 4 16 4 16 0v-7"/></svg>Dataset</a>
+    <a href="#leaderboard"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 21V11h4v10M10 21V3h4v18M16 21V7h4v14"/></svg>Leaderboard</a>
+    <a href="#examples"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h7l2 2 2-2h7v16h-7l-2 2-2-2H3zM12 6v16"/></svg>Examples</a>
+  </div>
+</header>
+<section class="overview-section content" id="overview" aria-label="Benchmark overview">
+  <figure class="teaser"><a href="assets/overview.png" target="_blank" aria-label="View overview at full resolution"><img src="assets/overview.png" width="2038" height="1260" alt="CC-OCR V2: examples from five document-processing tracks, ten diagnostic dimensions, and performance profiles"></a><figcaption><strong>CC-OCR V2 overview.</strong> Five document-processing tracks and ten diagnostic dimensions for evaluating real-world visual document understanding.</figcaption></figure>
+</section>
+<section class="introduction-section content" id="introduction" aria-labelledby="introduction-title">
+  <h2 id="introduction-title">Introduction</h2>
+  <p>CC-OCR V2 evaluates large multimodal models on five real-world document tasks: recognition, parsing, grounding, key information extraction, and question answering. It contains 7,093 samples across 16 subtasks, 74 application scenarios, and ten document categories, with 32 languages in the recognition suite. Sample-level annotations along ten diagnostic dimensions help identify how layout, image quality, geometry, and other document conditions contribute to model failures.</p>
+  <details class="task-scope" id="benchmark"><summary>Task coverage and document categories</summary>
+  <div class="table-scroll benchmark-table-wrap"><table class="benchmark-table"><thead><tr><th scope="col">Track</th><th scope="col">Evaluation scope</th></tr></thead><tbody>
+    <tr><th scope="row">Text Recognition</th><td>Multilingual recognition (32 languages) and natural-scene recognition (nine subsets).</td></tr>
+    <tr><th scope="row">Document Parsing</th><td>General document parsing, formula recognition, and molecular structure parsing.</td></tr>
+    <tr><th scope="row">Document Grounding</th><td>Text and object localization within document images.</td></tr>
+    <tr><th scope="row">Key Information Extraction</th><td>Structured field extraction from business, public-service, and regulated documents.</td></tr>
+    <tr><th scope="row">Document Question Answering</th><td>Questions grounded in financial documents and numerical dashboards.</td></tr>
+  </tbody></table></div>
+  <h3>Document categories</h3>
+  <p>The benchmark spans Books &amp; Academic, Reports &amp; Memos, Marketing &amp; Editorial, Legal &amp; Public Notices, Forms &amp; Personal Records, Receipts &amp; Transactions, Certificates &amp; Medical, Handwritten Pages, Charts &amp; Diagrams, and Labels &amp; Screens.</p>
+
+  </details>
+</section>
+<section class="section results-section" id="leaderboard"><div class="results-width">
+  <h2>Leaderboard</h2>
+  <p class="section-intro">Results across five document-processing tasks and ten document categories.</p>
+  <div class="leaderboard-header"><div class="tabs score-tabs" role="tablist" aria-label="Score view"><button id="task-tab" role="tab" aria-selected="true" aria-controls="score-panel" data-view="tasks">Five Tasks</button><button id="category-tab" role="tab" aria-selected="false" aria-controls="score-panel" tabindex="-1" data-view="categories">Ten Document Categories</button></div></div>
+  <div class="table-controls"><div class="model-filters" role="group" aria-label="Model type"><button data-filter="all" aria-pressed="true">All models</button><button data-filter="device" aria-pressed="false">On-device</button><button data-filter="server" aria-pressed="false">On-server</button></div><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="model-search" type="search" placeholder="Search models" aria-label="Find a model"></label></div>
+  <div id="score-panel" role="tabpanel" aria-labelledby="task-tab"><div class="table-scroll" tabindex="0" role="region" aria-label="Leaderboard scores; scroll vertically for all models and horizontally for all columns"><table id="score-table"><caption class="sr-only">CC-OCR V2 model scores on a 0–100 scale</caption><colgroup id="score-columns"></colgroup><thead id="score-head"></thead><tbody id="score-body"><tr><td>Loading scores…</td></tr></tbody></table></div></div>
+  <div class="table-bottom"><div class="table-metadata"><p id="model-count" role="status" aria-live="polite">Loading scores…</p><span class="snapshot-date" id="score-updated">Updated Nov 19, 2026</span></div><a id="download-scores" href="assets/task-scores.csv" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Download CSV</a></div>
+  <p class="score-note"><strong>Bold</strong>: best · <span class="runner-up-key">Underlined</span>: second-best in the selected model group. Select a column heading to sort; scroll for all results.</p>
+  <noscript><p>Download <a href="assets/task-scores.csv">task results</a> and <a href="assets/category-scores.csv">document-category results</a> to view scores without JavaScript.</p></noscript>
+  <details class="paper-tables"><summary>Representative model results · original repository figures</summary><figure><a href="assets/task-results.png" target="_blank"><img src="assets/task-results.png" loading="lazy" width="1806" height="996" alt="Repository figure comparing representative models on the five document-processing tasks"></a><figcaption>Representative LMMs across five document-processing tasks.</figcaption></figure><figure><a href="assets/category-results.png" target="_blank"><img src="assets/category-results.png" loading="lazy" width="1776" height="968" alt="Repository figure comparing representative models on the ten document categories"></a><figcaption>Representative LMMs across ten document categories.</figcaption></figure></details>
+</div></section>
+<section class="section content" id="diagnostics">
+  <h2>Fine-Grained Diagnosis</h2>
+  <p class="diagnostic-intro">Explore performance across ten diagnostic dimensions, from document structure to visual interference.</p>
+  <div class="diagnostic-explorer">
+    <div class="diagnostic-navigation">
+      <p class="diagnostic-nav-label" id="diagnostic-nav-label">Diagnostic dimensions</p>
+      <div class="diagnostic-tabs" role="tablist" aria-labelledby="diagnostic-nav-label" aria-orientation="vertical">
+        <button type="button" id="diagnostic-layout-tab" role="tab" aria-selected="true" aria-controls="diagnostic-panel" tabindex="0" data-diagnostic="layout" data-description="Tables, forms, paragraphs, lists, and other content structures.">Layout Structure</button>
+        <button type="button" id="diagnostic-imaging-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="imaging" data-description="Photographs, scans, screenshots, and reproduced images.">Imaging Method</button>
+        <button type="button" id="diagnostic-font-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="font" data-description="Printed, handwritten, decorative, and curved text.">Font &amp; Text Form</button>
+        <button type="button" id="diagnostic-geometry-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="geometry" data-description="Rotation, perspective distortion, dense text, and text direction.">Geometry &amp; Arrangement</button>
+        <button type="button" id="diagnostic-quality-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="quality" data-description="Clear images, low resolution, and motion or defocus blur.">Image Quality</button>
+        <button type="button" id="diagnostic-lighting-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="lighting" data-description="Shadows, reflections, and screen artifacts.">Lighting &amp; Screen</button>
+        <button type="button" id="diagnostic-interference-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="interference" data-description="Background clutter, occlusion, stamps, and watermarks.">Natural Interference</button>
+        <button type="button" id="diagnostic-adversarial-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="adversarial" data-description="Distracting text, misleading annotations, and competing candidates.">Adversarial / Misleading Factors</button>
+        <button type="button" id="diagnostic-language-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="language" data-description="Performance across language and writing-system groups.">Language</button>
+        <button type="button" id="diagnostic-mixed-layout-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="mixed-layout" data-description="Mixed languages, directions, blocks, and annotations.">Mixed Layout</button>
+      </div>
+      <label class="diagnostic-mobile-label" for="diagnostic-select">Diagnostic dimension</label>
+      <select id="diagnostic-select">
+        <option value="layout">Layout Structure</option>
+        <option value="imaging">Imaging Method</option>
+        <option value="font">Font &amp; Text Form</option>
+        <option value="geometry">Geometry &amp; Arrangement</option>
+        <option value="quality">Image Quality</option>
+        <option value="lighting">Lighting &amp; Screen</option>
+        <option value="interference">Natural Interference</option>
+        <option value="adversarial">Adversarial / Misleading Factors</option>
+        <option value="language">Language</option>
+        <option value="mixed-layout">Mixed Layout</option>
+      </select>
+    </div>
+    <div id="diagnostic-panel" role="tabpanel" aria-labelledby="diagnostic-layout-tab" tabindex="0">
+      <h3 id="diagnostic-title">Layout Structure</h3>
+      <p id="diagnostic-description">Tables, forms, paragraphs, lists, and other content structures.</p>
+      <figure class="diagnostic-chart">
+        <a id="diagnostic-image-link" href="assets/diagnostics/layout.png" target="_blank" rel="noopener noreferrer" aria-label="Open Layout Structure chart at full resolution"><img id="diagnostic-image" src="assets/diagnostics/layout.png" width="1440" height="1018" loading="lazy" alt="Radar chart comparing six models on Layout Structure: Tables, forms, paragraphs, lists, and other content structures."></a>
+        <figcaption class="sr-only" id="diagnostic-chart-caption">Layout Structure. Scores range from 0 to 100; higher is better.</figcaption>
+      </figure>
+      <ul class="diagnostic-legend" aria-label="Models in diagnostic figures"><li style="--model-color:#df4f73">Seed 2.0 Pro</li><li style="--model-color:#4175d0">Gemini 3.1 Pro</li><li style="--model-color:#1baf95">GPT-5.5</li><li style="--model-color:#8b6bd0">Qwen3.7-Plus</li><li style="--model-color:#e99639">Claude Opus 4.8</li><li style="--model-color:#966457">Kimi K2.6</li></ul>
+    </div>
+  </div>
+  <div class="diagnostic-footer"><p>Six representative models · Scores 0–100 · Higher is better</p><div><a id="diagnostic-original" href="assets/diagnostics/layout.png" target="_blank" rel="noopener noreferrer">Full-resolution figure ↗</a><a href="https://github.com/Eioss/CC-OCR-V2/blob/main/classification_taxonomy.csv" target="_blank" rel="noopener noreferrer">Full taxonomy ↗</a></div></div>
+  <noscript><p>Choose from the original figures: <a href="assets/diagnostics/layout.png">Layout Structure</a>, <a href="assets/diagnostics/imaging.png">Imaging Method</a>, <a href="assets/diagnostics/font.png">Font &amp; Text Form</a>, <a href="assets/diagnostics/geometry.png">Geometry &amp; Arrangement</a>, <a href="assets/diagnostics/quality.png">Image Quality</a>, <a href="assets/diagnostics/lighting.png">Lighting &amp; Screen</a>, <a href="assets/diagnostics/interference.png">Natural Interference</a>, <a href="assets/diagnostics/adversarial.png">Adversarial / Misleading Factors</a>, <a href="assets/diagnostics/language.png">Language</a>, <a href="assets/diagnostics/mixed-layout.png">Mixed Layout</a>.</p></noscript>
+</section>
+<section class="section content examples-section" id="examples">
+  <h2>Dataset Examples</h2>
+  <p class="section-intro">Sample images, task prompts, and reference answers from the five evaluation tracks.</p>
+  <div class="tabs example-tabs" role="tablist" aria-label="Example task">
+    <button id="example-recognition-tab" role="tab" aria-selected="true" aria-controls="example-panel" data-example-task="recognition">Recognition</button>
+    <button id="example-parsing-tab" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="parsing">Parsing</button>
+    <button id="example-grounding-tab" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="grounding">Grounding</button>
+    <button id="example-extraction-tab" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="extraction">Extraction</button>
+    <button id="example-qa-tab" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="qa">Question Answering</button>
+  </div>
+  <div id="example-panel" role="tabpanel" aria-labelledby="example-recognition-tab">
+    <div class="example-heading"><h3 id="example-title">Text on crumpled paper</h3><div class="example-pager"><button id="example-prev" type="button" aria-label="Previous example">←</button><span id="example-position" aria-live="polite">1 / 2</span><button id="example-next" type="button" aria-label="Next example">→</button></div></div>
+    <p id="example-description" class="example-description">Transcribe printed text despite folds, perspective distortion, and pen marks.</p>
+    <div class="case-layout" id="case-layout">
+      <figure class="case-visual">
+        <div class="case-image-frame" id="case-image-frame" tabindex="0" aria-label="Document image; scroll when enlarged"><div class="case-image-wrap" id="case-image-wrap"><img id="case-image" src="assets/examples/86307ef9eb94.jpg" alt="Text on crumpled paper" loading="lazy"><span id="case-box" class="case-box" aria-hidden="true" hidden></span></div></div>
+        <figcaption class="case-image-tools"><button id="example-zoom" type="button" aria-pressed="false">Enlarge image</button><a id="example-image-link" href="assets/examples/86307ef9eb94.jpg" target="_blank" rel="noopener noreferrer">Open original ↗</a></figcaption>
+      </figure>
+      <div class="case-text">
+        <h4 id="example-prompt-label">Prompt</h4><p id="example-prompt">Please output only the text content from the image without any additional descriptions or formatting.</p>
+        <h4 id="example-answer-label">Reference answer (excerpt)</h4><pre class="case-answer" id="example-answer">ran ran gentle careful winter read mirror chance map but sighed wrote sudden ink dangerous everything someone dim something! after sharp noticed almost simple Noah library asked door ticket dusty laughed thunder... letter the until mirror hid stairs never strange room nearby and library winter someone Clara choice. opened the or wind asked while read read…</pre><button class="answer-expand" id="example-expand" type="button" aria-expanded="false">Show full answer</button><p id="example-answer-note" class="example-note" hidden></p>
+        <p class="example-files"><a id="example-prompt-file" href="assets/examples/86307ef9eb94-prompt.txt" target="_blank" rel="noopener noreferrer">Full prompt</a> · <a id="example-answer-file" href="assets/examples/86307ef9eb94-answer.txt" target="_blank" rel="noopener noreferrer">Reference annotation</a></p>
+      </div>
+    </div>
+    <p class="example-source">Sample <code id="example-id">86307ef9eb94</code> · Original image and annotation from the CC-OCR V2 dataset.</p>
+  </div>
+</section>
+<section class="citation-section" id="citation"><div class="reading-width">
+  <div class="citation-heading"><h2>BibTeX</h2><button id="copy-citation" type="button">Copy citation</button></div>
+  <pre><code id="bibtex">@article{peng2026cc,
+  title={CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding},
+  author={Peng, Chunyi and Xu, Zhipeng and Xiong, Yuqi and Chen, Zulong and Ji, Junhao and Liu, Qing and Liu, Zhenghao and Qin, Zubao and Zhao, Bing and Wan, Jianqiang and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2605},
+  year={2026}
+}</code></pre><span id="copy-status" class="sr-only" role="status" aria-live="polite"></span>
+</div></section>
+</main>
+<footer><p>CC-OCR V2 · <a href="https://arxiv.org/abs/2605.03903">Paper</a> · <a href="https://github.com/Eioss/CC-OCR-V2">GitHub</a> · <a href="https://huggingface.co/datasets/Eioss/CC-OCR-V2">Dataset</a></p></footer>
+</body>
+</html>
