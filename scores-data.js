@@ -438,6 +438,21 @@ window.CCOCR_SCORES = {
       "Average": 70.8
     },
     {
+      "Model": "deepseek-v4_1-flash-1017",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 80.08,
+      "10-Labels & Screens": 84.51,
+      "2-Reports & Memos": 83.45,
+      "3-Marketing & Editorial": 80.99,
+      "4-Legal & Public Notices": 76.06,
+      "5-Forms & Personal Records": 59.86,
+      "6-Receipts & Transactions": 51.94,
+      "7-Certificates & Medical": 69.19,
+      "8-Handwritten Pages": 66.28,
+      "9-Charts & Diagrams": 78.59,
+      "Average": 73.1
+    },
+    {
       "Model": "gpt-6-sol",
       "Model_Category": "On-Server LMMs",
       "1-Books & Academic": 83.91,
@@ -496,6 +511,21 @@ window.CCOCR_SCORES = {
       "8-Handwritten Pages": 71.06,
       "9-Charts & Diagrams": 85.88,
       "Average": 77.77
+    },
+    {
+      "Model": "gpt-6_1-sol",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 88.07,
+      "10-Labels & Screens": 86.53,
+      "2-Reports & Memos": 81.2,
+      "3-Marketing & Editorial": 75.99,
+      "4-Legal & Public Notices": 80.53,
+      "5-Forms & Personal Records": 80.06,
+      "6-Receipts & Transactions": 76.43,
+      "7-Certificates & Medical": 62.11,
+      "8-Handwritten Pages": 72.29,
+      "9-Charts & Diagrams": 77.37,
+      "Average": 78.06
     },
     {
       "Model": "doubao-seed-2-0-pro-260215",
@@ -573,6 +603,36 @@ window.CCOCR_SCORES = {
       "Average": 81.11
     },
     {
+      "Model": "claude-opus-5_5",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 88.65,
+      "10-Labels & Screens": 88.43,
+      "2-Reports & Memos": 83.29,
+      "3-Marketing & Editorial": 81.21,
+      "4-Legal & Public Notices": 82.55,
+      "5-Forms & Personal Records": 81.27,
+      "6-Receipts & Transactions": 73.1,
+      "7-Certificates & Medical": 80.52,
+      "8-Handwritten Pages": 73.75,
+      "9-Charts & Diagrams": 80.11,
+      "Average": 81.29
+    },
+    {
+      "Model": "gemini-4-hydrogen",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 89.95,
+      "10-Labels & Screens": 90.99,
+      "2-Reports & Memos": 83.99,
+      "3-Marketing & Editorial": 83.87,
+      "4-Legal & Public Notices": 83.54,
+      "5-Forms & Personal Records": 83.17,
+      "6-Receipts & Transactions": 72.08,
+      "7-Certificates & Medical": 89.32,
+      "8-Handwritten Pages": 75.64,
+      "9-Charts & Diagrams": 82.47,
+      "Average": 83.5
+    },
+    {
       "Model": "qwen3_8-max",
       "Model_Category": "On-Server LMMs",
       "1-Books & Academic": 88.07,
@@ -586,7 +646,22 @@ window.CCOCR_SCORES = {
       "8-Handwritten Pages": 70.8,
       "9-Charts & Diagrams": 82.64,
       "Average": 83.99
+    },
+    {
+      "Model": "qwen4-max",
+      "Model_Category": "On-Server LMMs",
+      "1-Books & Academic": 90.05,
+      "10-Labels & Screens": 91.74,
+      "2-Reports & Memos": 89.3,
+      "3-Marketing & Editorial": 85.33,
+      "4-Legal & Public Notices": 85.04,
+      "5-Forms & Personal Records": 85.03,
+      "6-Receipts & Transactions": 78.2,
+      "7-Certificates & Medical": 90.81,
+      "8-Handwritten Pages": 71.77,
+      "9-Charts & Diagrams": 84.5,
+      "Average": 85.18
     }
   ],
-  "snapshot": "2026-09-29"
+  "snapshot": "2026-11-19"
 };

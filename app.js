@@ -5,7 +5,7 @@ const names={
   'claude-opus-4-8':'Claude Opus 4.8','gemini-3_1-flash-lite-preview':'Gemini 3.1 Flash Lite','gpt-5_5':'GPT-5.5','gemini-3_1-pro-preview':'Gemini 3.1 Pro',
   'kimi-k2_6':'Kimi K2.6','doubao-seed-2-0-pro-260215':'Seed 2.0 Pro','kimi-k2_5':'Kimi K2.5','gpt-6-sol':'GPT-6 Sol',
   'qwen3_5-plus':'Qwen3.5-Plus','qwen3_8-flash':'Qwen3.8-Flash','qwen3_7-plus':'Qwen3.7-Plus','qwen3_6-plus':'Qwen3.6-Plus','qwen3_8-max':'Qwen3.8-Max',
-  'grok-4_7':'Grok-4.7','deepseek-v4_1-flash-1017':'DeepSeek-V4.1-Flash-1017','gpt-6_1-sol':'GPT-6.1-sol',
+  'grok-4_7':'Grok-4.7','deepseek-v4_1-flash-1017':'DeepSeek-V4.1-Flash-1017','gpt-6_1-sol':'GPT-6.1-Sol',
   'claude-opus-5_5':'Claude Opus 5.5','gemini-4-hydrogen':'Gemini 4 Hydrogen','qwen4-max':'Qwen4 Max'
 };
 const columns={tasks:[['Recognition','Recognition'],['Parsing','Parsing'],['Grounding','Grounding'],['Extraction','Extraction'],['QA','QA'],['Average','Average']],categories:[['1-Books & Academic','Books'],['2-Reports & Memos','Reports'],['3-Marketing & Editorial','Marketing'],['4-Legal & Public Notices','Legal'],['5-Forms & Personal Records','Forms'],['6-Receipts & Transactions','Receipts'],['7-Certificates & Medical','Medical'],['8-Handwritten Pages','Handwriting'],['9-Charts & Diagrams','Charts'],['10-Labels & Screens','Screens'],['Average','Average']]};
@@ -45,7 +45,7 @@ function renderScores(){
   }).join(''):`<tr><td class="empty" colspan="${cols.length+2}">No models match “${escapeHtml(state.query)}”. Try another name or choose All models.</td></tr>`;
   document.getElementById('score-table').classList.toggle('category-table',state.view==='categories');
   document.getElementById('model-count').textContent=`${visible.length}${visible.length!==group.length?` of ${group.length}`:''} models · Higher is better`;
-  document.getElementById('score-updated').textContent=state.view==='tasks'?'Updated Nov 19, 2026':'Updated Sep 29, 2026';
+  document.getElementById('score-updated').textContent='Updated Nov 19, 2026';
   document.getElementById('download-scores').href=state.view==='tasks'?'assets/task-scores.csv':'assets/category-scores.csv';
   document.getElementById('score-panel').setAttribute('aria-labelledby',state.view==='tasks'?'task-tab':'category-tab');
   document.querySelector('#score-panel>.table-scroll').scrollTop=0;
