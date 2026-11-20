@@ -64,7 +64,8 @@
     byId('example-zoom').setAttribute('aria-pressed', String(enlarged));
     requestAnimationFrame(focusImage);
   }
-  function render() {
+  let entrance;
+  function render(direction = 0) {
     const item = current();
     expanded = false;
     enlarged = task === 'qa' || (task === 'grounding' && item.width / item.height < 3);
@@ -100,21 +101,31 @@
     if (nearby) prepare();
     showAnswer();
     setImageSize();
+    entrance?.cancel();
+    if (direction && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      entrance = byId('case-layout').animate([
+        { transform: `translateX(${Math.sign(direction) * 7}px)`, opacity: .88 },
+        { transform: 'translateX(0)', opacity: 1 }
+      ], { duration: 155, easing: 'cubic-bezier(.2,.8,.2,1)' });
+    }
   }
   document.querySelectorAll('[data-example-task]').forEach(button => {
     button.addEventListener('click', () => {
+      if (task === button.dataset.exampleTask) return;
+      const order = Object.keys(indexByTask);
+      const direction = order.indexOf(button.dataset.exampleTask) - order.indexOf(task);
       task = button.dataset.exampleTask;
       document.querySelectorAll('[data-example-task]').forEach(tab => {
         const active = tab === button;
         tab.setAttribute('aria-selected', String(active));
         tab.tabIndex = active ? 0 : -1;
       });
-      render();
+      render(direction);
     });
   });
   function move(delta) {
     indexByTask[task] = (indexByTask[task] + delta + examples[task].length) % examples[task].length;
-    render();
+    render(delta);
   }
   byId('example-prev').addEventListener('click', () => move(-1));
   byId('example-next').addEventListener('click', () => move(1));

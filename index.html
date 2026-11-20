@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#363636">
   <title>CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23173b5b'/%3E%3Cpath d='M9 8h14v16H9z' fill='none' stroke='white' stroke-width='2'/%3E%3Cpath d='M12 12h8m-8 4h8m-8 4h5' stroke='%233bc2a0' stroke-width='2'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css?v=20261120-fit">
+  <link rel="stylesheet" href="styles.css?v=20261120-motion">
   <link rel="canonical" href="https://eioss.github.io/CC-OCR-V2/">
   <meta property="og:title" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures">
   <meta property="og:description" content="A benchmark for real-world document understanding: 7,093 samples, five evaluation tracks, ten document categories, and ten diagnostic factors.">
@@ -15,8 +15,8 @@
   <meta property="og:url" content="https://eioss.github.io/CC-OCR-V2/">
   <script src="scores-data.js?v=20261120a" defer></script>
   <script src="examples-data.js" defer></script>
-  <script src="app.js?v=20261120a" defer></script>
-  <script src="examples.js?v=20261120-preview" defer></script>
+  <script src="app.js?v=20261120-motion" defer></script>
+  <script src="examples.js?v=20261120-motion" defer></script>
   <script src="diagnostics.js?v=20261120-preload" defer></script>
 </head>
 <body>
@@ -36,6 +36,7 @@
   </div>
 </header>
 <section class="overview-section content" id="overview" aria-label="Benchmark overview">
+  <dl class="scope-strip" aria-label="Dataset coverage"><div><dt>Document samples</dt><dd>7,093</dd></div><div><dt>Evaluation tasks</dt><dd>5</dd></div><div><dt>Document categories</dt><dd>10</dd></div><div><dt>Diagnostic dimensions</dt><dd>10</dd></div></dl>
   <figure class="teaser"><a href="assets/overview.png" target="_blank" aria-label="View overview at full resolution"><img src="assets/overview.png" width="2038" height="1260" alt="CC-OCR V2: examples from five document-processing tracks, ten diagnostic dimensions, and performance profiles"></a><figcaption><strong>CC-OCR V2 overview.</strong> Five document-processing tracks and ten diagnostic dimensions for evaluating real-world visual document understanding.</figcaption></figure>
 </section>
 <section class="introduction-section content" id="introduction" aria-labelledby="introduction-title">
@@ -56,7 +57,7 @@
 </section>
 <section class="section results-section" id="leaderboard"><div class="results-width">
   <h2>Leaderboard</h2>
-  <p class="section-intro">Results across five document-processing tasks and ten document categories.</p>
+  <p class="section-intro" id="view-summary">Compare model performance across five document-processing tasks.</p>
   <div class="leaderboard-header"><div class="tabs score-tabs" role="tablist" aria-label="Score view"><button id="task-tab" role="tab" aria-selected="true" aria-controls="score-panel" data-view="tasks">Five Tasks</button><button id="category-tab" role="tab" aria-selected="false" aria-controls="score-panel" tabindex="-1" data-view="categories">Ten Document Categories</button></div></div>
   <div class="table-controls"><div class="model-filters" role="group" aria-label="Model type"><button data-filter="all" aria-pressed="true">All models</button><button data-filter="device" aria-pressed="false">On-device</button><button data-filter="server" aria-pressed="false">On-server</button></div><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="model-search" type="search" placeholder="Search models" aria-label="Find a model"></label></div>
   <div id="score-panel" role="tabpanel" aria-labelledby="task-tab"><div class="table-scroll" tabindex="0" role="region" aria-label="Leaderboard scores; scroll vertically for all models and horizontally for all columns"><table id="score-table"><caption class="sr-only">CC-OCR V2 model scores on a 0–100 scale</caption><colgroup id="score-columns"></colgroup><thead id="score-head"></thead><tbody id="score-body"><tr><td>Loading scores…</td></tr></tbody></table></div></div>
@@ -67,7 +68,7 @@
 </div></section>
 <section class="section content" id="diagnostics">
   <h2>Fine-Grained Diagnosis</h2>
-  <p class="diagnostic-intro">Explore performance across ten diagnostic dimensions, from document structure to visual interference.</p>
+  <p class="diagnostic-intro">Where do models struggle? Select a document condition to compare six models on the same radar chart.</p>
   <div class="diagnostic-explorer">
     <div class="diagnostic-navigation">
       <p class="diagnostic-nav-label" id="diagnostic-nav-label">Diagnostic dimensions</p>

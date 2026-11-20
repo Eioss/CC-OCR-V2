@@ -28,6 +28,9 @@ function renderScores(){
   const visible=group.filter(row=>((names[row.Model]||row.Model)+' '+row.Model).toLowerCase().includes(state.query));
   visible.sort((a,b)=>(state.direction==='desc'?1:-1)*((b[state.sort]??-1)-(a[state.sort]??-1))||(names[a.Model]||a.Model).localeCompare(names[b.Model]||b.Model));
   const cols=[['Average','Average'], ...columns[state.view].filter(([key])=>key!=='Average')];
+  document.getElementById('view-summary').textContent=state.view==='tasks'
+    ? `Five tasks · ${all.length} models. Average gives equal weight to recognition, parsing, grounding, extraction and QA.`
+    : `Ten document categories · ${all.length} models. Average gives equal weight to each document category.`;
   document.getElementById('score-columns').innerHTML='<col class="rank-width"><col class="model-width"><col class="average-width">'+cols.slice(1).map(()=>'<col>').join('');
   const scoreHeading=([key,label],rowspan=1)=>`<th scope="col" rowspan="${rowspan}" class="${key==='Average'?'average-heading':''}" aria-sort="${state.sort===key?(state.direction==='desc'?'descending':'ascending'):'none'}"><button type="button" data-sort="${escapeHtml(key)}" title="Sort by ${escapeHtml(key.replace(/^\d+-/,''))}">${label}<span class="sort-icon ${state.sort===key?'is-active':''}" aria-hidden="true">${state.sort===key?(state.direction==='asc'?'↑':'↓'):'↕'}</span></button></th>`;
   document.getElementById('score-head').innerHTML=`<tr class="score-group-row"><th scope="col" rowspan="2" class="rank-col" title="Rank by the selected score within the model group">#</th><th scope="col" rowspan="2" class="model-col">Model</th>${scoreHeading(cols[0],2)}<th scope="colgroup" colspan="${cols.length-1}" class="score-group-heading">${state.view==='tasks'?'Document Processing Tasks':'Document Categories'}</th></tr><tr class="score-column-row">${cols.slice(1).map(col=>scoreHeading(col)).join('')}</tr>`;

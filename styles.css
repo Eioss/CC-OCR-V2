@@ -24,6 +24,25 @@
 .example-description{font-size:14px;color:#777;line-height:1.6;margin-bottom:20px}
 .case-layout{display:grid;grid-template-columns:1.05fr 1fr;gap:30px;align-items:start}
 .case-layout>*{min-width:0}.case-visual{margin:0}
+.scope-strip{display:grid;grid-template-columns:repeat(4,1fr);margin:0 0 30px;padding:18px 0;border-block:1px solid #cbd4dc;color:#243849}
+.scope-strip div{display:flex;flex-direction:column-reverse;padding-inline:18px;align-items:flex-start}
+.scope-strip div+div{border-left:1px solid #dbe1e6}
+.scope-strip dd{margin:0;font:400 clamp(28px,3vw,40px)/1.15 Georgia,serif;font-variant-numeric:lining-nums tabular-nums}
+.scope-strip dt{margin-top:5px;font-size:14px;color:#536473}
+.results-section #view-summary{max-width:72ch;margin-inline:auto;text-wrap:balance}
+@media(max-width:620px){.scope-strip{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:18px}.scope-strip div:nth-child(3){border-left:0}}
+@media(prefers-reduced-motion:no-preference){
+ .example-pager button,.example-tabs button,.diagnostic-tabs button,.score-tabs button{transition:background-color 120ms ease,color 120ms ease,border-color 120ms ease}
+ .example-pager button:active{transform:translateY(1px);background:#e9eff5}
+ .diagnostic-tabs button,.example-tabs button{position:relative}
+ .diagnostic-tabs button[aria-selected=true]::after,.example-tabs button[aria-selected=true]::after{content:'';position:absolute;background:currentColor;pointer-events:none}
+ .diagnostic-tabs button[aria-selected=true]::after{left:-2px;top:0;bottom:0;width:2px;animation:diagnosis-rule 145ms ease-out;border-radius:1px}
+ .example-tabs button[aria-selected=true]::after{bottom:-3px;left:0;right:0;height:3px;animation:example-rule 145ms ease-out}
+ .example-tabs button[aria-selected=true]{border-bottom-color:transparent}
+ .diagnostic-tabs button[aria-selected=true]{border-left-color:transparent}
+ @keyframes example-rule{from{transform:scaleX(.65);opacity:.45}to{transform:scaleX(1);opacity:1}}
+ @keyframes diagnosis-rule{from{transform:scaleY(.65);opacity:.45}to{transform:scaleY(1);opacity:1}}
+}
 .case-image-frame{display:flex;align-items:center;justify-content:center;height:420px;overflow:auto;background:#fafafa;border:1px solid #e8e8e8;scrollbar-width:thin}
 .case-image-wrap{position:relative;flex:none;width:var(--fit-width,315px);max-width:100%;margin:0 auto}
 .case-image-wrap img{width:100%;height:auto}
