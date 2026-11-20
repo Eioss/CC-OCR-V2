@@ -5,6 +5,28 @@
   const image = document.getElementById('diagnostic-image');
   const imageLink = document.getElementById('diagnostic-image-link');
   const original = document.getElementById('diagnostic-original');
+  const warmed = new Map();
+  function warm(key) {
+    if (warmed.has(key)) return;
+    const chart = new Image();
+    warmed.set(key, chart);
+    chart.fetchPriority = 'low';
+    chart.src = `assets/diagnostics/${key}.png`;
+    chart.decode().catch(() => warmed.delete(key));
+  }
+  for (const tab of tabs) {
+    for (const event of ['pointerenter', 'focus']) {
+      tab.addEventListener(event, () => warm(tab.dataset.diagnostic));
+    }
+  }
+  if ('IntersectionObserver' in window && !navigator.connection?.saveData) {
+    const observer = new IntersectionObserver(entries => {
+      if (!entries.some(entry => entry.isIntersecting)) return;
+      observer.disconnect();
+      tabs.forEach(tab => warm(tab.dataset.diagnostic));
+    }, { rootMargin: '600px' });
+    observer.observe(panel);
+  }
 
   function showDimension(key, updateHash = true) {
     const selected = tabs.find(tab => tab.dataset.diagnostic === key);
