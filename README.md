@@ -3,7 +3,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.03903-orange)](https://arxiv.org/abs/2605.03903)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/eioss/CC-OCR-V2)
+[![Project Homepage](https://img.shields.io/badge/Project-Homepage-blue)](https://eioss.github.io/CC-OCR-V2/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/Eioss/CC-OCR-V2)
 
 </div>
