@@ -32,7 +32,7 @@
     const wide = item.width / item.height > 3;
     byId('case-layout').classList.toggle('is-wide', wide);
     frame.classList.toggle('is-enlarged', enlarged);
-    wrap.style.setProperty('--fit-width', `${Math.min(Math.max(item.width, 200), 420 * item.width / item.height)}px`);
+    byId('case-layout').style.setProperty('--fit-width', `${Math.min(Math.max(item.width, 200), 420 * item.width / item.height)}px`);
     byId('example-zoom').hidden = wide;
     byId('example-zoom').textContent = enlarged ? 'Fit whole image' : 'Enlarge image';
     byId('example-zoom').setAttribute('aria-pressed', String(enlarged));

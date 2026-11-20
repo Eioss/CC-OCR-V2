@@ -28,6 +28,8 @@
 .case-image-wrap{position:relative;flex:none;width:var(--fit-width,315px);max-width:100%;margin:0 auto}
 .case-image-wrap img{width:100%;height:auto}
 .case-image-frame.is-enlarged{display:block}
+.case-layout:not(.is-wide) .case-image-frame:not(.is-enlarged){height:auto;width:fit-content;max-width:100%}
+@media(min-width:761px){.case-layout:not(.is-wide):not(:has(.is-enlarged)){grid-template-columns:min(49%,calc(var(--fit-width,315px) + 2px)) minmax(0,1fr)}}
 .case-image-frame.is-enlarged .case-image-wrap{width:100%}
 .case-box{position:absolute;border:2px solid #256fc4;background:#3273b812;pointer-events:none;box-shadow:0 0 0 1px #ffffff80}
 .case-box[hidden]{display:none}
