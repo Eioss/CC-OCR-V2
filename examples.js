@@ -10,7 +10,33 @@
   const current = () => examples[task][indexByTask[task]];
   const frame = byId('case-image-frame');
   const wrap = byId('case-image-wrap');
-  const img = byId('case-image');
+  let img = byId('case-image');
+  const previews = new Map();
+  let nearby = false;
+  function preview(item) {
+    if (!previews.has(item.id)) {
+      const picture = new Image();
+      picture.alt = item.title + '. ' + item.description;
+      picture.width = item.width;
+      picture.height = item.height;
+      picture.onerror = () => { picture.onerror = null; picture.src = item.image; };
+      picture.src = 'assets/examples/preview/' + item.id + '.webp';
+      previews.set(item.id, picture);
+    }
+    return previews.get(item.id);
+  }
+  function prepare() {
+    if (!navigator.connection?.saveData) examples[task].forEach(item => preview(item).decode().catch(() => {}));
+  }
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      if (!entries.some(entry => entry.isIntersecting)) return;
+      nearby = true;
+      observer.disconnect();
+      prepare();
+    }, { rootMargin: '500px' });
+    observer.observe(frame);
+  }
   function showAnswer() {
     const item = current();
     const long = item.answer.length > 480;
@@ -63,9 +89,15 @@
       box.style.width = `${(x2 - x1) / 10}%`;
       box.style.height = `${(y2 - y1) / 10}%`;
     }
-    img.alt = item.title + '. ' + item.description;
-    img.onload = focusImage;
-    img.src = item.image;
+    const next = preview(item);
+    if (img !== next) {
+      img.onload = null;
+      next.id = 'case-image';
+      img.replaceWith(next);
+      img = next;
+    }
+    next.onload = focusImage;
+    if (nearby) prepare();
     showAnswer();
     setImageSize();
   }
