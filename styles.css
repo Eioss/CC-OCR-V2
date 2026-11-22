@@ -1444,31 +1444,6 @@ figcaption strong {
   text-decoration: underline;
 }
 
-.diagnostic-footer {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 10px 20px;
-  border-top: 1px solid #e8ecf0;
-  margin-top: 24px;
-  padding-top: 14px;
-  color: var(--subtle);
-  font-size: 12px;
-}
-
-.diagnostic-footer p {
-  margin: 0;
-}
-
-.diagnostic-footer > div {
-  display: flex;
-  gap: 20px;
-}
-
-.diagnostic-footer a {
-  color: #4f6d8a;
-}
-
 /* Dataset Examples */
 .examples-section {
   padding-top: 48px;
