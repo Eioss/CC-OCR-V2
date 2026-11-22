@@ -1289,6 +1289,7 @@ h2 {
   background: #fff;
   border-radius: 18px;
   padding: 26px 30px 30px;
+  min-height: 540px;
 }
 
 .example-toolbar {
@@ -1475,6 +1476,7 @@ h2 {
   border-radius: 2px;
 }
 
+.case-image-wrap img[hidden],
 .case-box[hidden],
 .scroll-badge[hidden],
 .case-image-tools [hidden],
@@ -1486,13 +1488,12 @@ h2 {
   position: absolute;
   right: 10px;
   bottom: 10px;
-  background: rgba(29, 29, 31, 0.72);
+  background: rgba(29, 29, 31, 0.82);
   color: #fff;
   font-size: 11px;
   padding: 3px 9px;
   border-radius: 980px;
   pointer-events: none;
-  backdrop-filter: blur(8px);
 }
 
 .case-image-tools {
@@ -1776,6 +1777,7 @@ footer a {
   .example-sheet {
     padding: 20px 18px;
     border-radius: 14px;
+    min-height: 0;
   }
   .case-layout {
     grid-template-columns: 1fr !important;
