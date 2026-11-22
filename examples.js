@@ -173,7 +173,7 @@
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.setAttribute('aria-pressed', String(idx === indexByTask[task]));
-      btn.textContent = `${idx + 1}. ${entry.title}`;
+      btn.textContent = `${idx + 1} · ${entry.title}`;
       btn.addEventListener('click', () => {
         if (indexByTask[task] === idx) return;
         const delta = idx - indexByTask[task];

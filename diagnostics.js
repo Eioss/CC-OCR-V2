@@ -175,9 +175,9 @@
 
     svg.querySelectorAll('[data-spoke-line]').forEach((line, idx) => {
       const isAct = idx === activeAxis;
-      line.setAttribute('stroke', isAct ? '#3273b8' : '#d5dde6');
-      line.setAttribute('stroke-width', isAct ? '1.8' : '1');
-      line.setAttribute('stroke-dasharray', isAct ? '4 3' : 'none');
+      line.setAttribute('stroke', isAct ? '#1d1d1f' : '#e8e8ed');
+      line.setAttribute('stroke-width', isAct ? '1.4' : '1');
+      line.setAttribute('stroke-dasharray', isAct ? '3 3' : 'none');
     });
 
     svg.querySelectorAll('.radar-axis-label').forEach((lbl, idx) => {
@@ -194,7 +194,7 @@
     svg.innerHTML = '';
 
     const gridGroup = createSvg('g');
-    // Subtle concentric rings matching academic polar style
+    // Clean Apple-style hairline concentric rings
     for (let i = RINGS.length - 1; i >= 0; i--) {
       const val = RINGS[i];
       const rad = (val / 100) * R;
@@ -202,9 +202,9 @@
         cx: CX,
         cy: CY,
         r: rad.toFixed(2),
-        fill: i % 2 === 0 ? '#f8fafc' : '#ffffff',
-        stroke: val === 100 ? '#bcc7d3' : '#e1e7ee',
-        'stroke-width': val === 100 ? '1.2' : '1'
+        fill: val === 100 ? '#fbfbfd' : 'none',
+        stroke: val === 100 ? '#d2d2d7' : '#e8e8ed',
+        'stroke-width': '1'
       }));
     }
 

@@ -4,14 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding. 7,093 samples, five tasks, ten categories, and ten diagnostic dimensions.">
-  <meta name="theme-color" content="#243849">
+  <meta name="theme-color" content="#ffffff">
   <title>CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding</title>
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23173b5b'/%3E%3Cpath d='M9 8h14v16H9z' fill='none' stroke='white' stroke-width='2'/%3E%3Cpath d='M12 12h8m-8 4h8m-8 4h5' stroke='%233bc2a0' stroke-width='2'/%3E%3C/svg%3E">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap"></noscript>
-  <link rel="stylesheet" href="styles.css?v=20261122d">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231d1d1f'/%3E%3Cpath d='M9 8h14v16H9z' fill='none' stroke='white' stroke-width='1.8'/%3E%3Cpath d='M12 12h8m-8 4h8m-8 4h5' stroke='%23a1a1a6' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css?v=20261122e">
   <link rel="canonical" href="https://eioss.github.io/CC-OCR-V2/">
   <meta property="og:title" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures">
   <meta property="og:description" content="A benchmark for real-world visual document understanding: 7,093 samples, five evaluation tracks, ten document categories, and ten diagnostic dimensions.">
@@ -22,12 +18,12 @@
   <meta name="twitter:title" content="CC-OCR V2: Fine-Grained Attribution of LMM Failures">
   <meta name="twitter:description" content="7,093 challenging document samples across 5 tracks, 10 document categories, and 10 fine-grained diagnostic dimensions.">
   <meta name="twitter:image" content="https://eioss.github.io/CC-OCR-V2/assets/overview.png">
-  <script src="scores-data.js?v=20261122c" defer></script>
-  <script src="diagnostics-data.js?v=20261122c" defer></script>
-  <script src="examples-data.js?v=20261122c" defer></script>
-  <script src="app.js?v=20261122c" defer></script>
-  <script src="diagnostics.js?v=20261122c" defer></script>
-  <script src="examples.js?v=20261122c" defer></script>
+  <script src="scores-data.js?v=20261122e" defer></script>
+  <script src="diagnostics-data.js?v=20261122e" defer></script>
+  <script src="examples-data.js?v=20261122e" defer></script>
+  <script src="app.js?v=20261122e" defer></script>
+  <script src="diagnostics.js?v=20261122e" defer></script>
+  <script src="examples.js?v=20261122e" defer></script>
 </head>
 <body>
 <a class="skip" href="#overview">Skip to content</a>
@@ -43,115 +39,133 @@
     </div>
   </div>
 </nav>
+
 <main id="top">
 <header class="paper-header">
-  <h1><span class="project-title">CC-OCR V2<span class="sr-only">:</span></span><span class="paper-subtitle">Fine-Grained Attribution of LMM Failures<br class="wide-only"> in Real-World Visual Document Understanding</span></h1>
+  <h1>
+    <span class="project-title">CC-OCR V2<span class="sr-only">:</span></span>
+    <span class="paper-subtitle">Fine-Grained Attribution of LMM Failures<br class="wide-only"> in Real-World Visual Document Understanding</span>
+  </h1>
   <p class="authors"><span class="author">Chunyi Peng<sup>1</sup></span>, <span class="author">Zhipeng Xu<sup>2</sup></span>, <span class="author">Yuqi Xiong<sup>1</sup></span>, <span class="author">Zulong Chen<sup>2</sup></span>, <span class="author">Junhao Ji<sup>2</sup></span>,<br class="wide-only"> <span class="author">Qing Liu<sup>2</sup></span>, <span class="author">Zhenghao Liu<sup>1</sup></span>, <span class="author">Zubao Qin<sup>2</sup></span>, <span class="author">Bing Zhao<sup>2</sup></span>, <span class="author">Jianqiang Wan<sup>3</sup></span>,<br class="wide-only"> <span class="author">Jun Tang<sup>3</sup></span>, <span class="author">Zhibo Yang<sup>3</sup></span>, <span class="author">Shuai Bai<sup>3</sup></span>, <span class="author">Dayiheng Liu<sup>3</sup></span>, <span class="author">Maosong Sun<sup>4</sup></span></p>
-  <p class="affiliations"><span><sup>1</sup>Northeastern University</span><span><sup>2</sup>Alibaba Group</span><span><sup>3</sup>Qwen Team, Alibaba Group</span><span><sup>4</sup>Tsinghua University</span></p>
+  <p class="affiliations">
+    <span><sup>1</sup>Northeastern University</span>
+    <span><sup>2</sup>Alibaba Group</span>
+    <span><sup>3</sup>Qwen Team, Alibaba Group</span>
+    <span><sup>4</sup>Tsinghua University</span>
+  </p>
   <div class="publication-links">
     <a class="pub-btn pub-btn-primary" href="https://arxiv.org/abs/2605.03903" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 16h6"/></svg>Paper</a>
     <a class="pub-btn pub-btn-primary" href="https://github.com/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 6-6 6 6 6m8-12 6 6-6 6M14 3l-4 18"/></svg>Code</a>
     <a class="pub-btn pub-btn-primary" href="https://huggingface.co/datasets/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v7c0 4 16 4 16 0V5M4 12v7c0 4 16 4 16 0v-7"/></svg>Dataset</a>
-    <a class="pub-btn pub-btn-secondary" href="#leaderboard"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 21V11h4v10M10 21V3h4v18M16 21V7h4v14"/></svg>Leaderboard</a>
-    <a class="pub-btn pub-btn-secondary" href="#examples"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h7l2 2 2-2h7v16h-7l-2 2-2-2H3zM12 6v16"/></svg>Examples</a>
+    <a class="pub-btn pub-btn-secondary" href="#leaderboard">Leaderboard</a>
+    <a class="pub-btn pub-btn-secondary" href="#examples">Examples</a>
   </div>
 </header>
 
 <section class="overview-section content" id="overview" aria-label="Benchmark overview">
   <dl class="scope-strip" aria-label="Dataset coverage">
     <div><dt>Document samples</dt><dd>7,093</dd></div>
-    <div><dt>Evaluation tasks</dt><dd>5</dd></div>
+    <div><dt>Evaluation tracks</dt><dd>5</dd></div>
     <div><dt>Document categories</dt><dd>10</dd></div>
     <div><dt>Diagnostic dimensions</dt><dd>10</dd></div>
   </dl>
+
   <div class="introduction-lead" id="introduction">
-    <p><strong>CC-OCR V2</strong> evaluates large multimodal models across five real-world document workflows—recognition, parsing, spatial grounding, key information extraction, and question answering—spanning <strong>16 subtasks</strong>, <strong>74 scenarios</strong>, and <strong>32 languages</strong>. Every sample carries fine-grained annotations along ten diagnostic dimensions to isolate how layout complexity, acquisition artifacts, geometry, and interference trigger model failures.</p>
+    <p>CC-OCR V2 evaluates large multimodal models on five real-world document tasks—recognition, parsing, grounding, key information extraction, and question answering—across 16 subtasks, 74 scenarios, and 32 languages. Sample-level annotations along ten diagnostic dimensions isolate how layout structure, image quality, geometry, and visual interference contribute to model failures.</p>
   </div>
+
   <figure class="teaser">
     <a href="assets/overview.png" target="_blank" rel="noopener noreferrer" aria-label="View overview figure at full resolution">
       <img src="assets/overview.png" width="2038" height="1260" alt="CC-OCR V2: examples from five document-processing tracks, ten diagnostic dimensions, and performance profiles">
     </a>
-    <figcaption><strong>CC-OCR V2 overview.</strong> Five practical document-processing tracks, ten diagnostic dimensions, and multi-model capability profiles.</figcaption>
+    <figcaption><strong>CC-OCR V2 overview.</strong> Five document-processing tracks and ten diagnostic dimensions for evaluating real-world visual document understanding.</figcaption>
   </figure>
+
   <details class="task-scope" id="benchmark">
-    <summary>Task coverage and ten document categories</summary>
-    <div class="table-scroll benchmark-table-wrap">
-      <table class="benchmark-table">
-        <thead><tr><th scope="col">Track</th><th scope="col">Evaluation scope</th></tr></thead>
-        <tbody>
-          <tr><th scope="row">Text Recognition</th><td>Multilingual recognition (32 languages) and natural-scene recognition (nine subsets).</td></tr>
-          <tr><th scope="row">Document Parsing</th><td>General document parsing, handwritten/printed formula recognition, and molecular structure parsing.</td></tr>
-          <tr><th scope="row">Document Grounding</th><td>Fine-grained text and object localization within dense document images.</td></tr>
-          <tr><th scope="row">Key Information Extraction</th><td>Structured schema extraction from business transactions, public services, and regulated records.</td></tr>
-          <tr><th scope="row">Document Question Answering</th><td>Reasoning over financial statements and numerical infographic dashboards.</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="category-chip-block">
-      <h3>Ten document categories <span class="chip-hint">Select any category to rank models in the leaderboard</span></h3>
-      <div class="category-chips">
-        <button type="button" data-jump-category="1-Books &amp; Academic">Books &amp; Academic</button>
-        <button type="button" data-jump-category="2-Reports &amp; Memos">Reports &amp; Memos</button>
-        <button type="button" data-jump-category="3-Marketing &amp; Editorial">Marketing &amp; Editorial</button>
-        <button type="button" data-jump-category="4-Legal &amp; Public Notices">Legal &amp; Public Notices</button>
-        <button type="button" data-jump-category="5-Forms &amp; Personal Records">Forms &amp; Personal Records</button>
-        <button type="button" data-jump-category="6-Receipts &amp; Transactions">Receipts &amp; Transactions</button>
-        <button type="button" data-jump-category="7-Certificates &amp; Medical">Certificates &amp; Medical</button>
-        <button type="button" data-jump-category="8-Handwritten Pages">Handwritten Pages</button>
-        <button type="button" data-jump-category="9-Charts &amp; Diagrams">Charts &amp; Diagrams</button>
-        <button type="button" data-jump-category="10-Labels &amp; Screens">Labels &amp; Screens</button>
+    <summary>Task coverage and document categories</summary>
+    <div class="task-scope-body">
+      <div class="table-scroll benchmark-table-wrap">
+        <table class="benchmark-table">
+          <thead><tr><th scope="col">Track</th><th scope="col">Evaluation scope</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Text Recognition</th><td>Multilingual recognition (32 languages) and natural-scene recognition (nine subsets).</td></tr>
+            <tr><th scope="row">Document Parsing</th><td>General document parsing, formula recognition, and molecular structure parsing.</td></tr>
+            <tr><th scope="row">Document Grounding</th><td>Text and object localization within document images.</td></tr>
+            <tr><th scope="row">Key Information Extraction</th><td>Structured field extraction from business, public-service, and regulated documents.</td></tr>
+            <tr><th scope="row">Document Question Answering</th><td>Questions grounded in financial documents and numerical dashboards.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="category-chip-block">
+        <h3>Document categories</h3>
+        <div class="category-chips">
+          <button type="button" data-jump-category="1-Books &amp; Academic">Books &amp; Academic</button>
+          <button type="button" data-jump-category="2-Reports &amp; Memos">Reports &amp; Memos</button>
+          <button type="button" data-jump-category="3-Marketing &amp; Editorial">Marketing &amp; Editorial</button>
+          <button type="button" data-jump-category="4-Legal &amp; Public Notices">Legal &amp; Public Notices</button>
+          <button type="button" data-jump-category="5-Forms &amp; Personal Records">Forms &amp; Personal Records</button>
+          <button type="button" data-jump-category="6-Receipts &amp; Transactions">Receipts &amp; Transactions</button>
+          <button type="button" data-jump-category="7-Certificates &amp; Medical">Certificates &amp; Medical</button>
+          <button type="button" data-jump-category="8-Handwritten Pages">Handwritten Pages</button>
+          <button type="button" data-jump-category="9-Charts &amp; Diagrams">Charts &amp; Diagrams</button>
+          <button type="button" data-jump-category="10-Labels &amp; Screens">Labels &amp; Screens</button>
+        </div>
       </div>
     </div>
   </details>
 </section>
 
-<section class="section results-section" id="leaderboard">
+<section class="section section-alt results-section" id="leaderboard">
   <div class="results-width">
     <h2>Leaderboard</h2>
     <p class="section-intro" id="view-summary">Compare model performance across five document-processing tasks.</p>
+
     <div class="leaderboard-header">
       <div class="tabs score-tabs" role="tablist" aria-label="Score view">
         <button id="task-tab" type="button" role="tab" aria-selected="true" aria-controls="score-panel" data-view="tasks">Five Tasks</button>
         <button id="category-tab" type="button" role="tab" aria-selected="false" aria-controls="score-panel" tabindex="-1" data-view="categories">Ten Document Categories</button>
       </div>
     </div>
-    <div class="table-controls">
-      <div class="model-filters" role="group" aria-label="Model deployment type">
-        <button type="button" data-filter="all" aria-pressed="true">All models <span class="filter-count" id="count-all"></span></button>
-        <button type="button" data-filter="device" aria-pressed="false">On-device <span class="filter-count" id="count-device"></span></button>
-        <button type="button" data-filter="server" aria-pressed="false">On-server <span class="filter-count" id="count-server"></span></button>
-      </div>
-      <div class="table-tools-right">
-        <button type="button" id="toggle-heatmap" class="tool-toggle" aria-pressed="false" title="Shade score cells by relative performance within each column">Score shading</button>
+
+    <div class="leaderboard-sheet">
+      <div class="table-controls">
+        <div class="model-filters" role="group" aria-label="Model deployment type">
+          <button type="button" data-filter="all" aria-pressed="true">All <span class="filter-count" id="count-all"></span></button>
+          <button type="button" data-filter="device" aria-pressed="false">On-device <span class="filter-count" id="count-device"></span></button>
+          <button type="button" data-filter="server" aria-pressed="false">On-server <span class="filter-count" id="count-server"></span></button>
+        </div>
         <label class="search">
           <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-          <input id="model-search" type="search" placeholder="Search models…" aria-label="Find a model">
+          <input id="model-search" type="search" placeholder="Search" aria-label="Find a model">
         </label>
       </div>
-    </div>
-    <div id="score-panel" role="tabpanel" aria-labelledby="task-tab">
-      <div class="table-scroll-wrap" id="score-scroll-wrap">
-        <div class="table-scroll" id="score-scroll" tabindex="0" role="region" aria-label="Leaderboard scores; scroll vertically for all models and horizontally for all columns">
-          <table id="score-table">
-            <caption class="sr-only">CC-OCR V2 model scores on a 0–100 scale</caption>
-            <colgroup id="score-columns"></colgroup>
-            <thead id="score-head"></thead>
-            <tbody id="score-body"><tr><td>Loading scores…</td></tr></tbody>
-          </table>
+
+      <div id="score-panel" role="tabpanel" aria-labelledby="task-tab">
+        <div class="table-scroll-wrap" id="score-scroll-wrap">
+          <div class="table-scroll" id="score-scroll" tabindex="0" role="region" aria-label="Leaderboard scores; scroll vertically for all models and horizontally for all columns">
+            <table id="score-table">
+              <caption class="sr-only">CC-OCR V2 model scores on a 0–100 scale</caption>
+              <colgroup id="score-columns"></colgroup>
+              <thead id="score-head"></thead>
+              <tbody id="score-body"><tr><td>Loading scores…</td></tr></tbody>
+            </table>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="table-bottom">
-      <div class="table-metadata">
-        <p id="model-count" role="status" aria-live="polite">Loading scores…</p>
-        <span class="snapshot-date" id="score-updated">Updated Nov 20, 2026</span>
-        <span class="snapshot-date" id="category-coverage-note" hidden>· 27 of 28 models include category breakdowns</span>
+
+      <div class="table-bottom">
+        <div class="table-metadata">
+          <p id="model-count" role="status" aria-live="polite">Loading scores…</p>
+          <span class="snapshot-date" id="score-updated">Updated Nov 20, 2026</span>
+          <span class="snapshot-date" id="category-coverage-note" hidden>· 27 of 28 models include category breakdowns</span>
+        </div>
+        <a id="download-scores" href="assets/task-scores.csv" download>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Download CSV
+        </a>
       </div>
-      <a id="download-scores" href="assets/task-scores.csv" download>
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Download CSV
-      </a>
     </div>
-    <p class="score-note"><strong>Bold</strong>: best · <span class="runner-up-key">Underlined</span>: second-best in the selected group · <span class="device-badge device-badge-key">Device</span>: on-device open LMM (8B–10B). Select any column heading to sort.</p>
+
+    <p class="score-note"><strong>Bold</strong>: best · <span class="runner-up-key">Underlined</span>: second-best in the selected group. Select any column heading to sort.</p>
     <noscript><p>Download <a href="assets/task-scores.csv">task results</a> and <a href="assets/category-scores.csv">document-category results</a> to view scores without JavaScript.</p></noscript>
   </div>
 </section>
@@ -159,10 +173,11 @@
 <section class="section diagnostics-section" id="diagnostics">
   <div class="results-width">
     <h2>Fine-Grained Diagnosis</h2>
-    <p class="diagnostic-intro">Where do models struggle? Explore ten sample-level diagnostic dimensions across six representative LMMs from the paper’s controlled attribution study.</p>
+    <p class="section-intro">Where do models struggle? Select a document condition to compare six representative models across sub-attributes.</p>
+
     <div class="diagnostic-explorer">
       <div class="diagnostic-navigation">
-        <p class="diagnostic-nav-label" id="diagnostic-nav-label">Diagnostic dimensions</p>
+        <p class="diagnostic-nav-label" id="diagnostic-nav-label">Dimensions</p>
         <div class="diagnostic-tabs" role="tablist" aria-labelledby="diagnostic-nav-label" aria-orientation="vertical">
           <button type="button" id="diagnostic-layout-tab" role="tab" aria-selected="true" aria-controls="diagnostic-panel" tabindex="0" data-diagnostic="layout" data-description="Tables, forms, paragraphs, lists, and other content structures.">Layout Structure</button>
           <button type="button" id="diagnostic-imaging-tab" role="tab" aria-selected="false" aria-controls="diagnostic-panel" tabindex="-1" data-diagnostic="imaging" data-description="Photographs, scans, screenshots, and reproduced images.">Imaging Method</button>
@@ -207,18 +222,16 @@
           </div>
           <aside class="diagnostic-readout" id="diagnostic-readout" aria-label="Condition score breakdown">
             <div class="readout-head">
-              <div>
-                <span class="readout-eyebrow" id="readout-eyebrow">Condition breakdown</span>
-                <h4 id="readout-axis-title">Monospace Text</h4>
-              </div>
+              <span class="readout-eyebrow" id="readout-eyebrow">Selected axis</span>
+              <h4 id="readout-axis-title">Monospace Text</h4>
             </div>
             <div class="readout-bars" id="readout-bars"></div>
-            <p class="readout-hint">Hover or select any radar axis to inspect scores.</p>
+            <p class="readout-hint">Hover or tap any axis to compare scores.</p>
           </aside>
         </div>
         <div class="diagnostic-legend-bar">
           <div class="diagnostic-legend" id="diagnostic-legend" role="group" aria-label="Toggle or spotlight models in radar chart"></div>
-          <button type="button" id="diagnostic-reset-models" class="legend-reset" hidden>Show all models</button>
+          <button type="button" id="diagnostic-reset-models" class="legend-reset" hidden>Show all</button>
         </div>
       </div>
     </div>
@@ -226,74 +239,86 @@
   </div>
 </section>
 
-<section class="section content examples-section" id="examples">
-  <h2>Dataset Examples</h2>
-  <p class="section-intro">Sample documents, task prompts, reference annotations, and sample-level diagnostic attributes across the five tracks.</p>
-  <div class="tabs example-tabs" role="tablist" aria-label="Example task">
-    <button id="example-recognition-tab" type="button" role="tab" aria-selected="true" aria-controls="example-panel" data-example-task="recognition">Recognition</button>
-    <button id="example-parsing-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="parsing">Parsing</button>
-    <button id="example-grounding-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="grounding">Grounding</button>
-    <button id="example-extraction-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="extraction">Extraction</button>
-    <button id="example-qa-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="qa">Question Answering</button>
-  </div>
-  <div id="example-panel" role="tabpanel" aria-labelledby="example-recognition-tab">
-    <div class="example-toolbar">
-      <div class="example-case-pills" id="example-case-pills" role="group" aria-label="Select sample within current track"></div>
-      <div class="example-pager">
-        <button id="example-prev" type="button" aria-label="Previous example">←</button>
-        <span id="example-position" aria-live="polite">1 / 2</span>
-        <button id="example-next" type="button" aria-label="Next example">→</button>
+<section class="section section-alt examples-section" id="examples">
+  <div class="content">
+    <h2>Dataset Examples</h2>
+    <p class="section-intro">Sample images, task prompts, and reference annotations from the five evaluation tracks.</p>
+
+    <div class="example-tabs-wrap">
+      <div class="tabs example-tabs" role="tablist" aria-label="Example task">
+        <button id="example-recognition-tab" type="button" role="tab" aria-selected="true" aria-controls="example-panel" data-example-task="recognition">Recognition</button>
+        <button id="example-parsing-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="parsing">Parsing</button>
+        <button id="example-grounding-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="grounding">Grounding</button>
+        <button id="example-extraction-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="extraction">Extraction</button>
+        <button id="example-qa-tab" type="button" role="tab" aria-selected="false" aria-controls="example-panel" tabindex="-1" data-example-task="qa">Question Answering</button>
       </div>
     </div>
-    <div class="example-heading">
-      <h3 id="example-title">Text on crumpled paper</h3>
-      <div class="example-tags" id="example-tags" aria-label="Document category and diagnostic factors"></div>
-    </div>
-    <p id="example-description" class="example-description">Transcribe printed text despite folds, perspective distortion, and pen marks.</p>
-    <div class="case-layout" id="case-layout">
-      <figure class="case-visual">
-        <div class="case-frame-outer">
-          <div class="case-image-frame" id="case-image-frame" tabindex="0" aria-label="Document image; scroll when enlarged">
-            <div class="case-image-wrap" id="case-image-wrap">
-              <img id="case-image" src="assets/examples/preview/86307ef9eb94.webp" alt="Text on crumpled paper" loading="lazy">
-              <span id="case-box" class="case-box" aria-hidden="true" hidden></span>
+
+    <div id="example-panel" class="example-sheet" role="tabpanel" aria-labelledby="example-recognition-tab">
+      <div class="example-toolbar">
+        <div class="example-case-pills" id="example-case-pills" role="group" aria-label="Select sample within current track"></div>
+        <div class="example-pager">
+          <button id="example-prev" type="button" aria-label="Previous example">‹</button>
+          <span id="example-position" aria-live="polite">1 / 2</span>
+          <button id="example-next" type="button" aria-label="Next example">›</button>
+        </div>
+      </div>
+
+      <div class="example-heading">
+        <div>
+          <h3 id="example-title">Text on crumpled paper</h3>
+          <p id="example-description" class="example-description">Transcribe printed text despite folds, perspective distortion, and pen marks.</p>
+        </div>
+        <div class="example-tags" id="example-tags" aria-label="Document category and diagnostic factors"></div>
+      </div>
+
+      <div class="case-layout" id="case-layout">
+        <figure class="case-visual">
+          <div class="case-frame-outer">
+            <div class="case-image-frame" id="case-image-frame" tabindex="0" aria-label="Document image; scroll when enlarged">
+              <div class="case-image-wrap" id="case-image-wrap">
+                <img id="case-image" src="assets/examples/preview/86307ef9eb94.webp" alt="Text on crumpled paper" loading="lazy">
+                <span id="case-box" class="case-box" aria-hidden="true" hidden></span>
+              </div>
             </div>
+            <span class="scroll-badge" id="case-scroll-badge" hidden>Scroll ↕</span>
           </div>
-          <span class="scroll-badge" id="case-scroll-badge" hidden>Scroll image ↕</span>
-        </div>
-        <figcaption class="case-image-tools">
-          <div class="case-tools-left">
-            <button id="example-zoom" type="button" aria-pressed="false">Enlarge image</button>
-            <span id="example-res" class="example-res"></span>
+          <figcaption class="case-image-tools">
+            <div class="case-tools-left">
+              <button id="example-zoom" type="button" aria-pressed="false">Enlarge image</button>
+              <span id="example-res" class="example-res"></span>
+            </div>
+            <a id="example-image-link" href="assets/examples/86307ef9eb94.jpg" target="_blank" rel="noopener noreferrer">Open original ↗</a>
+          </figcaption>
+        </figure>
+
+        <div class="case-text">
+          <h4 id="example-prompt-label">Prompt</h4>
+          <p id="example-prompt">Please output only the text content from the image without any additional descriptions or formatting.</p>
+
+          <div class="answer-heading-row">
+            <h4 id="example-answer-label">Reference answer (excerpt)</h4>
+            <button id="copy-answer" type="button" class="inline-copy">Copy</button>
           </div>
-          <a id="example-image-link" href="assets/examples/86307ef9eb94.jpg" target="_blank" rel="noopener noreferrer">Open original ↗</a>
-        </figcaption>
-      </figure>
-      <div class="case-text">
-        <h4 id="example-prompt-label">Prompt</h4>
-        <p id="example-prompt">Please output only the text content from the image without any additional descriptions or formatting.</p>
-        <div class="answer-heading-row">
-          <h4 id="example-answer-label">Reference answer (excerpt)</h4>
-          <button id="copy-answer" type="button" class="inline-copy">Copy</button>
+          <pre class="case-answer" id="example-answer">ran ran gentle careful winter read mirror chance map but sighed wrote sudden ink dangerous everything someone dim something! after sharp noticed almost simple Noah library asked door ticket dusty laughed thunder... letter the until mirror hid stairs never strange room nearby and library winter someone Clara choice. opened the or wind asked while read read…</pre>
+          <button class="answer-expand" id="example-expand" type="button" aria-expanded="false">Show full answer</button>
+          <p id="example-answer-note" class="example-note" hidden></p>
+          <p class="example-files">
+            <a id="example-prompt-file" href="assets/examples/86307ef9eb94-prompt.txt" target="_blank" rel="noopener noreferrer">Full prompt</a>
+            · <a id="example-answer-file" href="assets/examples/86307ef9eb94-answer.txt" target="_blank" rel="noopener noreferrer">Reference annotation</a>
+            · <span class="example-source-inline">Sample <code id="example-id">86307ef9eb94</code></span>
+          </p>
         </div>
-        <pre class="case-answer" id="example-answer">ran ran gentle careful winter read mirror chance map but sighed wrote sudden ink dangerous everything someone dim something! after sharp noticed almost simple Noah library asked door ticket dusty laughed thunder... letter the until mirror hid stairs never strange room nearby and library winter someone Clara choice. opened the or wind asked while read read…</pre>
-        <button class="answer-expand" id="example-expand" type="button" aria-expanded="false">Show full answer</button>
-        <p id="example-answer-note" class="example-note" hidden></p>
-        <p class="example-files">
-          <a id="example-prompt-file" href="assets/examples/86307ef9eb94-prompt.txt" target="_blank" rel="noopener noreferrer">Full prompt</a>
-          · <a id="example-answer-file" href="assets/examples/86307ef9eb94-answer.txt" target="_blank" rel="noopener noreferrer">Reference annotation</a>
-          · <span class="example-source-inline">Sample <code id="example-id">86307ef9eb94</code></span>
-        </p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="citation-section" id="citation">
+<section class="section citation-section" id="citation">
   <div class="reading-width">
     <div class="citation-heading">
       <h2>BibTeX</h2>
-      <button id="copy-citation" type="button">Copy citation</button>
+      <button id="copy-citation" type="button">Copy</button>
     </div>
     <pre><code id="bibtex">@article{peng2026ccocrv2,
   title={CC-OCR V2: Fine-Grained Attribution of LMM Failures in Real-World Visual Document Understanding},
@@ -308,6 +333,7 @@
   </div>
 </section>
 </main>
+
 <footer>
   <p>CC-OCR V2 · <a href="https://arxiv.org/abs/2605.03903" target="_blank" rel="noopener noreferrer">Paper</a> · <a href="https://github.com/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://huggingface.co/datasets/Eioss/CC-OCR-V2" target="_blank" rel="noopener noreferrer">Dataset</a></p>
 </footer>

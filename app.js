@@ -169,23 +169,19 @@ function renderScores({ resetScrollTop = true } = {}) {
       const rank = 1 + group.filter(other => other[state.sort] > row[state.sort]).length;
       const device = modelType(row).includes('Device');
       const icon = modelIcon(row.Model);
-      return `<tr class="${device ? 'model-device' : 'model-server'}"><td class="rank-col"><span class="rank-number ${rank <= 3 ? 'rank-leading' : ''}">${rank}</span></td><th scope="row" class="model-col"><span class="model-name" title="${escapeHtml(row.Model)}">${icon ? `<span class="model-icon-wrap" aria-hidden="true"><img class="model-icon" src="assets/model-icons/${icon}" width="18" height="18" alt=""></span>` : ''}<span class="model-label">${escapeHtml(names[row.Model] || row.Model)}</span>${device ? '<span class="device-badge" title="On-device open LMM">Device</span>' : ''}</span><span class="sr-only">, ${device ? 'On-device' : 'On-server'}</span></th>` +
+      return `<tr class="${device ? 'model-device' : 'model-server'}"><td class="rank-col"><span class="rank-number ${rank <= 3 ? 'rank-leading' : ''}">${rank}</span></td><th scope="row" class="model-col"><span class="model-name" title="${escapeHtml(row.Model)}">${icon ? `<span class="model-icon-wrap" aria-hidden="true"><img class="model-icon" src="assets/model-icons/${icon}" width="17" height="17" alt=""></span>` : ''}<span class="model-label">${escapeHtml(names[row.Model] || row.Model)}</span>${device ? '<span class="device-badge" title="On-device open LMM">On-device</span>' : ''}</span><span class="sr-only">, ${device ? 'On-device' : 'On-server'}</span></th>` +
         cols.map(([key]) => {
           const value = row[key];
           const top = Number.isFinite(value) && value === leaders[key][0];
           const second = Number.isFinite(value) && value === leaders[key][1];
           const formatted = Number.isFinite(value) ? value.toFixed(2) : '—';
-          const heat = Number.isFinite(value)
-            ? Math.max(0, Math.min(1, (value - ranges[key].min) / ranges[key].span)).toFixed(3)
-            : '0';
-          return `<td class="score-cell ${key === 'Average' ? 'average' : ''} ${top ? 'best' : second ? 'second-best' : ''}" style="--heat:${heat}"><span class="score-value">${formatted}</span>${top ? '<span class="sr-only">, best score</span>' : second ? '<span class="sr-only">, second-best score</span>' : ''}</td>`;
+          return `<td class="score-cell ${key === 'Average' ? 'average' : ''} ${top ? 'best' : second ? 'second-best' : ''}"><span class="score-value">${formatted}</span>${top ? '<span class="sr-only">, best score</span>' : second ? '<span class="sr-only">, second-best score</span>' : ''}</td>`;
         }).join('') + '</tr>';
     }).join('')
     : `<tr><td class="empty" colspan="${cols.length + 2}">No models match “${escapeHtml(state.query)}”. Try another name or choose All models.</td></tr>`;
 
   const tableEl = document.getElementById('score-table');
   tableEl.classList.toggle('category-table', state.view === 'categories');
-  tableEl.classList.toggle('has-heatmap', state.heatmap);
 
   document.getElementById('model-count').textContent =
     `${visible.length}${visible.length !== group.length ? ` of ${group.length}` : ''} models · Higher is better`;
@@ -238,11 +234,14 @@ document.querySelectorAll('[data-filter]').forEach(button =>
   })
 );
 
-document.getElementById('toggle-heatmap').addEventListener('click', event => {
-  state.heatmap = !state.heatmap;
-  event.currentTarget.setAttribute('aria-pressed', String(state.heatmap));
-  document.getElementById('score-table').classList.toggle('has-heatmap', state.heatmap);
-});
+const heatmapBtn = document.getElementById('toggle-heatmap');
+if (heatmapBtn) {
+  heatmapBtn.addEventListener('click', event => {
+    state.heatmap = !state.heatmap;
+    event.currentTarget.setAttribute('aria-pressed', String(state.heatmap));
+    document.getElementById('score-table').classList.toggle('has-heatmap', state.heatmap);
+  });
+}
 
 document.getElementById('model-search').addEventListener('input', event => {
   state.query = event.target.value.toLowerCase().trim();
@@ -351,7 +350,7 @@ document.getElementById('copy-citation').addEventListener('click', async () => {
     await navigator.clipboard.writeText(text);
     button.textContent = 'Copied';
     document.getElementById('copy-status').textContent = 'BibTeX citation copied to clipboard';
-    setTimeout(() => { button.textContent = 'Copy citation'; }, 2200);
+    setTimeout(() => { button.textContent = 'Copy'; }, 2200);
   } catch {
     const selection = window.getSelection();
     const range = document.createRange();
