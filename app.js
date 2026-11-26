@@ -196,8 +196,10 @@ function renderScores({ resetScrollTop = true } = {}) {
     }
   }
 
-  document.getElementById('download-scores').href =
-    state.view === 'tasks' ? 'assets/task-scores.csv' : 'assets/category-scores.csv';
+  const downloadLink = document.getElementById('download-scores');
+  if (downloadLink) {
+    downloadLink.href = state.view === 'tasks' ? 'assets/task-scores.csv' : 'assets/category-scores.csv';
+  }
   document.getElementById('score-panel').setAttribute(
     'aria-labelledby',
     state.view === 'tasks' ? 'task-tab' : 'category-tab'
@@ -289,7 +291,7 @@ if (window.CCOCR_SCORES) {
   renderScores();
 } else {
   document.getElementById('score-body').innerHTML =
-    '<tr><td class="empty">Scores could not load. Use Download CSV to view the results.</td></tr>';
+    '<tr><td class="empty">Scores could not load.</td></tr>';
   document.getElementById('model-count').textContent = 'Score data unavailable';
 }
 

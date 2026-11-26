@@ -137,7 +137,7 @@ details summary {
 }
 
 .results-width {
-  max-width: 1120px;
+  max-width: 1260px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -155,7 +155,7 @@ details summary {
 }
 
 .page-nav-inner {
-  max-width: 1120px;
+  max-width: 1260px;
   height: 100%;
   margin: 0 auto;
   padding: 0 24px;
@@ -677,8 +677,8 @@ h2 {
 
 #score-table {
   width: 100%;
-  min-width: 960px;
-  table-layout: fixed;
+  min-width: 780px;
+  table-layout: auto;
   font-size: 14px;
   line-height: 1.45;
   border-collapse: separate;
@@ -686,19 +686,20 @@ h2 {
 }
 
 #score-table.category-table {
-  min-width: 1460px;
+  min-width: 1020px;
+  font-size: 13.5px;
 }
 
 #score-table col.rank-width {
-  width: 42px;
+  width: 36px;
 }
 
 #score-table col.model-width {
-  width: 248px;
+  width: 218px;
 }
 
 #score-table col.average-width {
-  width: 98px;
+  width: 86px;
 }
 
 #score-table thead {
@@ -719,7 +720,7 @@ h2 {
 }
 
 #score-table .score-group-heading {
-  padding: 9px 12px 7px;
+  padding: 9px 10px 7px;
   text-align: center;
   font-size: 12px;
   font-weight: 500;
@@ -732,9 +733,9 @@ h2 {
   display: inline-flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 4px;
+  gap: 3px;
   width: 100%;
-  padding: 9px 11px;
+  padding: 9px 8px;
   border: 0;
   background: none;
   font-size: 12.5px;
@@ -742,6 +743,11 @@ h2 {
   font-weight: 500;
   color: var(--secondary);
   white-space: nowrap;
+}
+
+#score-table.category-table thead th button {
+  padding: 9px 6px;
+  font-size: 12px;
 }
 
 #score-table thead th button:hover {
@@ -774,11 +780,16 @@ h2 {
 
 #score-table td,
 #score-table tbody th {
-  padding: 12px 11px;
+  padding: 11px 8px;
   border-bottom: 1px solid #f2f2f5;
   background: #fff;
   font-weight: 400;
   vertical-align: middle;
+}
+
+#score-table.category-table td,
+#score-table.category-table tbody th {
+  padding: 11px 6px;
 }
 
 #score-table tbody tr:last-child td,
@@ -796,8 +807,9 @@ h2 {
   position: sticky;
   left: 0;
   z-index: 2;
-  width: 42px;
-  min-width: 42px;
+  width: 36px;
+  min-width: 36px;
+  max-width: 36px;
   font-size: 12px;
   text-align: center;
   color: var(--tertiary);
@@ -821,16 +833,17 @@ h2 {
 
 #score-table .model-col {
   position: sticky;
-  left: 42px;
+  left: 36px;
   z-index: 2;
-  min-width: 248px;
+  width: 218px;
+  min-width: 218px;
   text-align: left;
   white-space: nowrap;
   transition: box-shadow 0.15s ease;
 }
 
 #score-table thead .model-col {
-  padding: 0 11px;
+  padding: 0 8px;
   font-size: 12.5px;
   z-index: 5;
   background: #fff;
@@ -897,7 +910,12 @@ h2 {
   font-size: 14px;
   color: var(--secondary);
   text-align: right;
+  white-space: nowrap;
   font-variant-numeric: tabular-nums;
+}
+
+#score-table.category-table .score-cell {
+  font-size: 13.5px;
 }
 
 #score-table .average-heading button {
@@ -1819,9 +1837,11 @@ footer a {
   #score-table .rank-col {
     width: 30px;
     min-width: 30px;
+    max-width: 30px;
   }
   #score-table .model-col {
     left: 30px;
+    width: 190px;
     min-width: 190px;
     max-width: 190px;
   }
