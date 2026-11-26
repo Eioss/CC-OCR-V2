@@ -113,7 +113,13 @@ function updateScrollShadows() {
 }
 
 if (scrollEl) {
-  scrollEl.addEventListener('scroll', updateScrollShadows, { passive: true });
+  let scrollHideTimer = null;
+  scrollEl.addEventListener('scroll', () => {
+    updateScrollShadows();
+    scrollEl.classList.add('is-scrolling');
+    clearTimeout(scrollHideTimer);
+    scrollHideTimer = setTimeout(() => scrollEl.classList.remove('is-scrolling'), 750);
+  }, { passive: true });
   window.addEventListener('resize', updateScrollShadows, { passive: true });
 }
 

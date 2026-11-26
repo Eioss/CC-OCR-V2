@@ -671,8 +671,49 @@ h2 {
   max-height: 580px;
   border-top: 1px solid var(--hairline);
   border-bottom: 1px solid var(--hairline);
-  scrollbar-width: thin;
-  scrollbar-color: #d2d2d7 transparent;
+}
+
+#score-scroll::-webkit-scrollbar,
+.case-image-frame::-webkit-scrollbar,
+.case-text .case-answer::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+#score-scroll::-webkit-scrollbar-track,
+.case-image-frame::-webkit-scrollbar-track,
+.case-text .case-answer::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#score-scroll::-webkit-scrollbar-thumb,
+.case-image-frame::-webkit-scrollbar-thumb,
+.case-text .case-answer::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 980px;
+}
+
+#score-scroll.is-scrolling::-webkit-scrollbar-thumb,
+#score-scroll::-webkit-scrollbar-thumb:hover,
+.case-image-frame.is-scrolling::-webkit-scrollbar-thumb,
+.case-image-frame::-webkit-scrollbar-thumb:hover,
+.case-text .case-answer.is-scrolling::-webkit-scrollbar-thumb,
+.case-text .case-answer::-webkit-scrollbar-thumb:hover {
+  background: rgba(29, 29, 31, 0.24);
+}
+
+@supports not selector(::-webkit-scrollbar) {
+  #score-scroll,
+  .case-image-frame,
+  .case-text .case-answer {
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+  }
+  #score-scroll.is-scrolling,
+  .case-image-frame.is-scrolling,
+  .case-text .case-answer.is-scrolling {
+    scrollbar-color: rgba(29, 29, 31, 0.24) transparent;
+  }
 }
 
 #score-table {
@@ -1464,7 +1505,6 @@ h2 {
   background: #fff;
   border: 1px solid rgba(0, 0, 0, 0.08);
   border-radius: 10px;
-  scrollbar-width: thin;
 }
 
 .case-image-frame.is-enlarged {

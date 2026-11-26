@@ -115,6 +115,19 @@
     scrollBadge.textContent = canScrollH && !canScrollV ? 'Scroll ↔' : 'Scroll ↕';
   }
 
+  function bindAutoHideScrollbar(el) {
+    if (!el) return;
+    let timer = null;
+    el.addEventListener('scroll', () => {
+      el.classList.add('is-scrolling');
+      clearTimeout(timer);
+      timer = setTimeout(() => el.classList.remove('is-scrolling'), 750);
+    }, { passive: true });
+  }
+
+  bindAutoHideScrollbar(frame);
+  bindAutoHideScrollbar(byId('example-answer'));
+
   frame.addEventListener('scroll', () => {
     if (scrollBadge && !scrollBadge.hidden) scrollBadge.hidden = true;
   }, { passive: true });
