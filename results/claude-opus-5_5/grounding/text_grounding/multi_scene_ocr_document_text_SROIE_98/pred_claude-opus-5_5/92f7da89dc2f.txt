@@ -1,0 +1,3 @@
+There are four instances of "750.00" on this receipt: the unit price, the line amount, the rounded total and the credit card payment. This box is for the unit price in the item line:
+
+(420, 676, 538, 693)

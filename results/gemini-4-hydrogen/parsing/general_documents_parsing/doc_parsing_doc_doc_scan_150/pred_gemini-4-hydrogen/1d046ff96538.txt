@@ -1,0 +1,50 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+\begin{center}
+    {\large \textbf{\underline{Fourier Transform Pairs}}} \\[4pt]
+    $\left(n, t, \omega, a, \omega_o, t_o \text{ are Real numbers ; } j = \text{complex number ; } n = \text{integer ; } \omega = \text{angular frequency}\right)$
+\end{center}
+
+\vspace{4pt}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.8}
+\begin{tabular}{|c|c|p{0.3cm}|c|c|}
+\hline
+\textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} & & \textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} \\
+\cline{1-2}\cline{4-5}
+$f(t)$ & $\displaystyle \int_{-\infty}^{+\infty} f(t)e^{-j\omega t}\,dt$ & & $\displaystyle \frac{1}{2\pi}\int_{-\infty}^{+\infty} F(\omega)e^{j\omega t}\,d\omega$ & $F(\omega)$ \\
+\cline{1-2}\cline{4-5}
+$a_1 f_1(t) + a_2 f_2(t)$ & $a_1 F_1(\omega) + a_2 F_2(\omega)$ & & $\begin{array}{c} f(a \cdot t) \\ a \neq 0 \end{array}$ & $\displaystyle \frac{1}{|a|} F\!\left(\frac{\omega}{a}\right)$ \\
+\cline{1-2}\cline{4-5}
+$e^{j\omega_o t} f(t)$ & $F(\omega - \omega_o)$ & & $f(t - t_o)$ & $e^{-j\omega t_o} F(\omega)$ \\
+\cline{1-2}\cline{4-5}
+$\begin{array}{c} \displaystyle \frac{d^n\big[f(t)\big]}{dt^n} \\ (n > 0) \end{array}$ & $(j\omega)^n F(\omega)$ & & $\begin{array}{c} (-jt)^n f(t) \\ (n > 0) \end{array}$ & $\displaystyle \frac{d^n\big[F(\omega)\big]}{d\omega^n}$ \\
+\cline{1-2}\cline{4-5}
+$\begin{array}{c} e^{-at} u(t) \\ a > 0 \end{array}$ & $\displaystyle \frac{1}{a + j\omega}$ & & $\begin{array}{c} e^{at} u(-t) \\ a > 0 \end{array}$ & $\displaystyle \frac{1}{a - j\omega}$ \\
+\cline{1-2}\cline{4-5}
+$\cos(\omega_o t)$ & $\pi\big[\delta(\omega - \omega_o) + \delta(\omega + \omega_o)\big]$ & & $\sin(\omega_o t)$ & $\displaystyle \frac{\pi}{j}\big[\delta(\omega - \omega_o) - \delta(\omega + \omega_o)\big]$ \\
+\cline{1-2}\cline{4-5}
+$\delta(t)$ & $1$ & & $\delta(t - t_o)$ & $e^{-j\omega t_o}$ \\
+\cline{1-2}\cline{4-5}
+$1$ & $2\pi \cdot \delta(\omega)$ & & $e^{j\omega_o t}$ & $2\pi \cdot \delta(\omega - \omega_o)$ \\
+\cline{1-2}\cline{4-5}
+$u(t)$ & $\displaystyle \pi \cdot \delta(\omega) + \frac{1}{j\omega}$ & & $u(-t)$ & $\displaystyle \pi \cdot \delta(\omega) - \frac{1}{j\omega}$ \\
+\cline{1-2}\cline{4-5}
+$u(t) - u(-t)$ & $\displaystyle \frac{2}{j\omega}$ & & $u(t) + u(-t)$ & $2\pi\delta(\omega)$ \\
+\hline
+$\begin{array}{c} t^{(n-1)} \cdot e^{-a \cdot t} \cdot u(t) \\ a > 0 \text{ ; } n > 0 \end{array}$ & $\displaystyle \frac{(n-1)!}{(a + j\omega)^n}$ & & $\begin{array}{c} t^{(n-1)} \cdot e^{a \cdot t} \cdot u(-t) \\ a > 0 \text{ ; } n > 0 \end{array}$ & $\displaystyle \frac{(n-1)!}{(a - j\omega)^n} \cdot (-1)^{n-1}$ \\
+\hline
+$\cos(\omega_o t) \cdot f(t)$ & $\displaystyle \frac{1}{2}\big[F(\omega - \omega_o) + F(\omega + \omega_o)\big]$ & & $\sin(\omega_o t) \cdot f(t)$ & $\displaystyle \frac{1}{2j}\big[F(\omega - \omega_o) - F(\omega + \omega_o)\big]$ \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

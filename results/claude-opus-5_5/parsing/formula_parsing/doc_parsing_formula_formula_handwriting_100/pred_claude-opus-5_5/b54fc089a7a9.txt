@@ -1,0 +1,11 @@
+$$
+\begin{gathered}
+A=\begin{pmatrix} -z & \cdots & -z \\ -w & \cdots & -w \end{pmatrix}. \\[2ex]
+\frac{1}{NW}\sum_{n=1}^{NW}\Lambda'(n)e(ag(n)\lambda)-\frac{1}{\Phi(W)}\sum_{r\in R(W)}\frac{1}{N}\sum_{n=1}^{N}e(ag(Wn+r)\lambda)\Bigg|<\epsilon. \\[2ex]
+\min_{1\le j\le n}\lambda_1(F_{(j)})\geq\max_{1\le j\le n}\bar{N}^{-1}\|\vec{y}_j\|^2 \\[2ex]
+(X\circ Y)(n)=\bigvee_{d}X(d)\wedge_{\Sigma_d}\Big(\bigvee_{\phi:n\to d}Y(n_1(\phi))\wedge\cdots\wedge Y(n_d(\phi))\Big). \\[2ex]
+\frac{1}{N}z_j^*\Big(\frac{1}{n}\sum_{i\neq j}\psi(\tau_i\theta)z_iz_i^*\Big)^{-1}z_j<1 \\[2ex]
+\Psi_r(x;k)=x+\int_0^r uk(u)\,du+E(x;k), \\[2ex]
+I_4+I_5\le(\delta+\beta)\tilde{K}_{\mu\epsilon^{1-\frac{\gamma}{2}}}d_\beta^{\gamma-2}.
+\end{gathered}
+$$

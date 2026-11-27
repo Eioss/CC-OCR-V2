@@ -1,0 +1,45 @@
+\[
+\int_{D_n^*} f_2\Delta f_2\,dt
++4\int_{D_n^*}\rho f_2\partial_\rho f_2\,dx
++\int_{D_n^*}(5-\cot^2\phi)f_2^2\,dx
+=\int_{D_n^*}\frac{f_2^2}{\rho^4}\partial_\rho\!\left(\rho^4\sin\phi\,\Omega\right)dx .
+\]
+
+\[
+|\Delta_{n2}|
+=\left|
+\int_{A_n}\left[
+E\phi(f_{n,h}(x))-\phi(f_\theta(x))
+-\left(Ef_{n,h}(x)-f_\theta(x)\right)\phi'(f_\theta(x))
+\right]dx
++\int_{A_n}\left[
+\phi(f(x))-\phi(f_\theta(x))
+-\left(f(x)-f_\theta(x)\right)\phi'(f_\theta(x))
+\right]dx
+\right|
+\]
+
+\[
+I_1\leq c\int_0^t\int_0^\infty
+\frac{R\theta v_x}{v^3}\,dx\,ds
++C(\epsilon)\int_0^\infty
+\frac{kr^{2(n-1)}\theta_x^2}{v\theta^2}
+\cdot\frac{\theta}{kr^{2(n-1)}}\,dx
+\]
+
+\[
+\int h(x)\partial_tP(t,x)\,dx
+\approx
+\int h(x)\left(P(t+\tau,x)-P(t,x)\right)dx ,
+\]
+
+\[
+\widetilde{\partial_t\varphi_t}+e^{i\omega t}\varphi_t
+\qquad\text{and}\qquad
+\widetilde{\partial_t\varphi_t}
+=e^{i\omega t}\widetilde{\varphi_t}.
+\]
+
+\[
+\frac{1}{[t]!}\sqrt{\sum_{n\leq N}c_n t^n}\,,\qquad t_1
+\]

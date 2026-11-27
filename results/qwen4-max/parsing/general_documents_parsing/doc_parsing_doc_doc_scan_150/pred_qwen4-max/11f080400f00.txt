@@ -1,0 +1,142 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{graphicx}
+
+% Define colors based on the image
+\definecolor{sjsuBlue}{RGB}{0, 85, 140}
+\definecolor{sjsuGold}{RGB}{218, 165, 32}
+\definecolor{tableHeaderBlue}{RGB}{200, 220, 240}
+\definecolor{tableRowGray}{RGB}{235, 235, 235}
+\definecolor{lightBlueRow}{RGB}{220, 235, 250}
+
+% Custom section formatting
+\titleformat{\section}{\Large\bfseries\color{sjsuBlue}}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries\color{sjsuBlue}}{}{0em}{}
+
+\newcommand{\sjsulogo}{%
+    \textbf{\fontsize{24}{28}\selectfont\color{sjsuBlue} SJSU} %
+    \textbf{\fontsize{10}{12}\selectfont\color{sjsuGold} SAN JOSÉ STATE UNIVERSITY}%
+}
+
+\begin{document}
+
+\sjsulogo
+
+\section*{INTERNATIONAL APPLICANT FINANCIAL FORM}
+
+International applicants must affirm that they are responsible for paying all tuition, fees and living expenses for the entire period of intended study by completing the Declaration of Finance form. In order to issue your I-20, we are required to collect documentation that shows you have funds available to pay for the total estimated expense for the first year of your academic program. Estimated expenses include tuition, fees, living expenses and health insurance. Actual expenses may vary.
+
+\subsection*{INSTRUCTIONS}
+\begin{itemize}[label=$\blacktriangleright$, leftmargin=*]
+    \item \textbf{Part I.} Answer questions 1--8 completely.
+    \item \textbf{Part II.} Indicate the source(s) of your funding and the amount available from each source; have your sponsor(s) verify their sponsorship by signing the form. Submit the required documentation as indicated below to show that you and your sponsor(s) have available liquid assets equal to or greater than at least one year's cost.
+\end{itemize}
+
+\subsection*{ESTIMATED EXPENSES}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \centering
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{3.2cm}|c|c|}
+        \hline
+        \rowcolor{tableRowGray} \textbf{Fall 2019-Spring 2020 Academic Year} & \cellcolor{tableHeaderBlue}\textbf{Undergraduate} & \cellcolor{tableHeaderBlue}\textbf{Graduate} \\
+        \rowcolor{tableRowGray} & \cellcolor{tableHeaderBlue}\small{(12 units/semester)} & \cellcolor{tableHeaderBlue}\small{(9 units/semester)} \\
+        \hline
+        \rowcolor{tableRowGray} Tuition Fees & \cellcolor{lightBlueRow}\$17,300 & \cellcolor{lightBlueRow}\$16,358 \\
+        \hline
+        \rowcolor{tableRowGray} Living Expenses & \cellcolor{lightBlueRow}\$21,397 & \cellcolor{lightBlueRow}\$21,397 \\
+        \hline
+        \rowcolor{tableRowGray} Medical Insurance & \cellcolor{lightBlueRow}\$1,888 & \cellcolor{lightBlueRow}\$1888 \\
+        \hline
+        \rowcolor{tableRowGray} \textbf{Total} & \cellcolor{lightBlueRow}\textbf{\$40,585} & \cellcolor{lightBlueRow}\textbf{\$39,643*} \\
+        \hline
+    \end{tabular}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \centering
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabular}{|>{\raggedright\arraybackslash}p{3.2cm}|c|c|}
+        \hline
+        \rowcolor{tableRowGray} \textbf{Fall 2018-Spring 2019 Academic Year} & \cellcolor{tableHeaderBlue}\textbf{Undergraduate} & \cellcolor{tableHeaderBlue}\textbf{Graduate} \\
+        \rowcolor{tableRowGray} & \cellcolor{tableHeaderBlue}\small{(12 units/semester)} & \cellcolor{tableHeaderBlue}\small{(9 units/semester)} \\
+        \hline
+        \rowcolor{tableRowGray} Tuition Fees & \cellcolor{lightBlueRow}\$17,225 & \cellcolor{lightBlueRow}\$16,283 \\
+        \hline
+        \rowcolor{tableRowGray} Living Expenses & \cellcolor{lightBlueRow}\$20,445 & \cellcolor{lightBlueRow}\$20,445 \\
+        \hline
+        \rowcolor{tableRowGray} Medical Insurance & \cellcolor{lightBlueRow}\$1,529 & \cellcolor{lightBlueRow}\$1,529 \\
+        \hline
+        \rowcolor{tableRowGray} \textbf{Total} & \cellcolor{lightBlueRow}\textbf{\$39,199} & \cellcolor{lightBlueRow}\textbf{\$38,257*} \\
+        \hline
+    \end{tabular}
+\end{minipage}
+
+\vspace{0.2cm}
+\noindent *The Graduate School of Business and Special Session programs have different amounts. Please check program websites for fee information.
+
+\vspace{0.3cm}
+\noindent Financial documents that demonstrate proof of funding must be in English and must:
+\begin{itemize}
+    \item Be on official bank letterhead with a stamp/seal and/or bank officer's signature.
+    \item Demonstrate at least the minimum total estimated expenses for one academic year in your academic program.
+    \item Include an issue date that is within the recent 6 months of when you submit your online application.
+    \item Include the account holder's name.
+    \item Include a specific amount in dollars (USD).
+\end{itemize}
+
+\subsection*{DEPENDENT SUPPORT}
+Students wishing to have a spouse or children accompany them to San José State University (SJSU) must be able to provide proof of funding for an additional \$5,000 for each family member. A copy of marriage certificate and passport are required for adding a spouse. A copy of birth certificate(s) and passport(s) are required for each child. Additional proof of funding will also be required. *Please note a dependent cannot also be a sponsor.
+
+\subsection*{FINANCIAL DOCUMENTATION}
+
+\noindent
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{|p{9cm}|c|c|}
+    \hline
+    \rowcolor{tableRowGray} \textbf{Type of Documentation*} & \cellcolor{tableHeaderBlue}\textbf{Acceptable} & \cellcolor{tableHeaderBlue}\textbf{Not Acceptable} \\
+    \hline
+    \rowcolor{tableRowGray} Bank Letters & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Bank Statements (Savings or Checking Accounts) & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Fixed/Term/Time Deposits - \textbf{must be able to be withdrawn at any time without penalty} & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Loan Letters & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Scholarship Letters (Private, Government, School, etc.) & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Solvency Letter - Bank letter indicating funds immediately available to the individual & \cellcolor{lightBlueRow}$\checkmark$ & \cellcolor{lightBlueRow} \\
+    \hline
+    \rowcolor{tableRowGray} Employer Letters / Salary Statements & \cellcolor{lightBlueRow} & \cellcolor{lightBlueRow}\textbf{x} \\
+    \hline
+    \rowcolor{tableRowGray} Line of Credit Letters & \cellcolor{lightBlueRow} & \cellcolor{lightBlueRow}\textbf{x} \\
+    \hline
+    \rowcolor{tableRowGray} Provident (Retirement) Fund Statements & \cellcolor{lightBlueRow} & \cellcolor{lightBlueRow}\textbf{x} \\
+    \hline
+    \rowcolor{tableRowGray} Stock Market, Equity, or Mutual Fund Statements & \cellcolor{lightBlueRow} & \cellcolor{lightBlueRow}\textbf{x} \\
+    \hline
+    \rowcolor{tableRowGray} Valuation Statements (Jewelry, Gold, Property) & \cellcolor{lightBlueRow} & \cellcolor{lightBlueRow}\textbf{x} \\
+    \hline
+\end{tabular}
+
+\vspace{0.3cm}
+\noindent \textbf{*This information is required for visa eligibility determination.}
+
+\vfill
+\begin{flushright}
+    \small Revised(s) Sept. 2018
+\end{flushright}
+
+\end{document}
+```

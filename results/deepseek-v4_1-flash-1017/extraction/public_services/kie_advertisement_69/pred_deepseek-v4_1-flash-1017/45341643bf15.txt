@@ -1,0 +1,8 @@
+```json
+{
+  "gross_amount": "$120.00",
+  "advertiser": "Elizabeth Warren for President-D ((133004))",
+  "flight_from": "3/2/2020",
+  "flight_to": "3/8/2020"
+}
+```

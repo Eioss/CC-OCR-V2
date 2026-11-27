@@ -1,0 +1,90 @@
+Here is the transcription of the provided image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{补充资料} & \textbf{本年金额} & \textbf{上年金额} \\
+\midrule
+加：现金等价物的期末余额 & & \\
+减：现金等价物的期初余额 & & \\
+现金及现金等价物净增加额 & -444,430,290.95 & -832,049,298.50 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent (2) 现金及现金等价物的构成
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrr}
+\toprule
+\textbf{项 目} & \textbf{年末余额} & \textbf{年初余额} \\
+\midrule
+一、现金 & 296,528,795.28 & 740,959,086.23 \\
+\quad 其中：库存现金 & 25,744.69 & 15,792.59 \\
+\quad \quad \quad 可随时用于支付的银行存款 & 296,503,050.59 & 740,943,293.64 \\
+\quad \quad \quad 可随时用于支付的其他货币资金 & & \\
+二、现金等价物 & & \\
+\quad 其中：三个月内到期的债券投资 & & \\
+三、年末现金及现金等价物余额 & 296,528,795.28 & 740,959,086.23 \\
+\quad 其中：母公司或集团内子公司使用受限制的现金和现金等价物 & & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent (四十六) 所有权或使用权受限制的资产
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lrl}
+\toprule
+\textbf{项 目} & \textbf{年末账面价值} & \textbf{受限原因} \\
+\midrule
+货币资金 & 398,790,442.67 & 保证金 \\
+无形资产 & 578,552,325.00 & 抵押借款 \\
+投资性房地产 & 3,187,971,800.00 & 抵押借款 \\
+固定资产 & 88,335,290.10 & 抵押借款 \\
+存货 & 102,620,000.00 & 抵押借款 \\
+\midrule
+合 计 & 4,356,269,857.77 & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+\noindent 七、在其他主体中的权益 \\
+\noindent 1、在子公司中的权益 \\
+\noindent (1) 企业集团的构成
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lcccccc}
+\toprule
+\multirow{2}{*}{\textbf{子公司名称}} & \multirow{2}{*}{\textbf{主要经营地}} & \multirow{2}{*}{\textbf{注册地}} & \multirow{2}{*}{\textbf{业务性质}} & \multicolumn{2}{c}{\textbf{持股比例（\%）}} & \multirow{2}{*}{\textbf{取得方式}} \\
+\cmidrule(lr){5-6}
+& & & & \textbf{直接} & \textbf{间接} & \\
+\midrule
+扬州石化化工实业有限公司 & 仪征市 & 仪征市 & 商品销售 & 92.50\% & --- & 设立 \\
+扬州化工产业园公共管廊有限公司 & 仪征市 & 仪征市 & 管廊建设 & 98.13\% & 1.73\% & 设立 \\
+扬州华泰石化物流有限公司 & 仪征市 & 仪征市 & 港口码头 & 90.00\% & 10.00\% & 设立 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+\centering 70
+
+\end{document}
+```

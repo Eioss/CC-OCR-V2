@@ -1,0 +1,16 @@
+```latex
+\begin{aligned}
+\partial_\alpha \left( \frac{z_{xt}(x)}{C_\alpha} \right) &= -\int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle \, dy \\
+&\quad - \int \frac{z_{xx}(x) - z_{xx}(x-y)}{|z(x) - z(x-y)|^\alpha} \log(|z(x) - z(x-y)|) \, dy \\
+&\quad + \alpha \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle \log(|z(x) - z(x-y)|) \, dy \\
+\partial_\alpha \left( \frac{z_{xxt}(x)}{C_\alpha} \right) &= -2 \int \frac{z_{xx}(x) - z_{xx}(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle \, dy \\
+&\quad - \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} |z_x(x) - z_x(x-y)|^2 \, dy \\
+&\quad + (2\alpha + 2) \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{4+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle^2 \, dy \\
+&\quad - \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_{xx}(x) - z_{xx}(x-y), z(x) - z(x-y) \rangle \, dy \\
+&\quad - \int \frac{z_{xxx}(x) - z_{xxx}(x-y)}{|z(x) - z(x-y)|^\alpha} \log(|z(x) - z(x-y)|) \, dy \\
+&\quad + 2\alpha \int \frac{z_{xx}(x) - z_{xx}(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle \log(|z(x) - z(x-y)|) \, dy \\
+&\quad + \alpha \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} |z_x(x) - z_x(x-y)|^2 \log(|z(x) - z(x-y)|) \, dy \\
+&\quad - \alpha(\alpha+2) \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{4+\alpha}} \langle z_x(x) - z_x(x-y), z(x) - z(x-y) \rangle^2 \log(|z(x) - z(x-y)|) \, dy \\
+&\quad + \alpha \int \frac{z_x(x) - z_x(x-y)}{|z(x) - z(x-y)|^{2+\alpha}} \langle z_{xx}(x) - z_{xx}(x-y), z(x) - z(x-y) \rangle \log(|z(x) - z(x-y)|) \, dy.
+\end{aligned}
+```

@@ -1,0 +1,3 @@
+The total in the **"Previous"** column is **$2,523.29**.
+
+It appears as 2,523.29- on the account 110 "Total" line and as 2,523.29 on the account 130 "Total" line. Because these two entries offset each other, the overall "Account Total" for the Previous column is 0.00.

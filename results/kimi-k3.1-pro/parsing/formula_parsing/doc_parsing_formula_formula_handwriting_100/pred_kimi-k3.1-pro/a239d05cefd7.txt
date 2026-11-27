@@ -1,0 +1,22 @@
+\[
+\begin{aligned}
+\tilde{\gamma}_{0}(\zeta)(z,w)
+&=\frac{\zeta}{z_{0}+w_{0}}-t_{z_{\alpha}}A_{z_{\alpha}}=0,\\
+\tilde{\gamma}_{1}(\zeta)(z,w)
+&=i\frac{\zeta}{w_{0}}-i\zeta w_{0}=0,\\
+\tilde{\gamma}_{2}(\zeta)(z,w)
+&=\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)
++\overline{\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)}=0,\\
+&\ \vdots\\
+\tilde{\gamma}_{n+1}(\zeta)(z,w)
+&=\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)
++\overline{\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)}=0,\\
+\tilde{\gamma}_{n+2}(\zeta)(z,w)
+&=i\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)
+-i\overline{\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)}=0,\\
+&\ \vdots\\
+\tilde{\gamma}_{2n+1}(\zeta)(z,w)
+&=i\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)
+-i\overline{\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)}=0.
+\end{aligned}
+\]

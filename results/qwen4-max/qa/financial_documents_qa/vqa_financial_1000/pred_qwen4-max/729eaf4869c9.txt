@@ -1,0 +1,5 @@
+The amount paid is **217.00**.
+
+This appears in two places on the Temporary Payment Detail Report:
+- **AMOUNT PAID:** 217.00
+- In the line-item table under **AMOUNT** for the description "'97 VAP PK & SHP" (7.75 units): 217.00

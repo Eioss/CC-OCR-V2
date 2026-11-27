@@ -1,0 +1,60 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large ACCEPTED MANUSCRIPT}
+\end{center}
+
+\vspace{1em}
+
+\noindent\textbf{\Large Life cycle assessment for environmental product declaration of concrete in the Gulf States}
+
+\vspace{1em}
+
+\noindent Wahidul K. Biswas$^{a,*}$, Yousef Alhorr$^{b}$, Krishna K. Lawania$^{a}$, Prabir K. Sarker$^{c}$, Esam Elsarrag$^{b}$
+
+\vspace{0.5em}
+
+\noindent\textit{$^{a}$Sustainable Engineering Group, School of Civil and Mechanical Engineering, Curtin University, Perth, WA 6845, Australia.}
+
+\noindent\textit{$^{b}$Gulf Organization for Research and Development, Qatar Science \& Technology Park (QSTP), Tech 1, Level 2, Suite 203P.O. Box: 210162, Doha, Qatar.}
+
+\noindent\textit{$^{c}$Department of Civil Engineering, School of Civil and Mechanical Engineering, Curtin University, Perth, WA 6845, Australia.}
+
+\vspace{1.5em}
+
+\noindent Highlights
+
+\vspace{0.5em}
+
+\noindent This LCA, the first of its kind, has been carried out following Gulf Green Mark -- Environmental Product Declaration -- Product Category Role (GGM-EPD PCR) to assess the environmental performance of precast and ready-mix concrete using data from a Qatari concrete manufacturer.
+
+\vspace{1.5em}
+
+\noindent ABSTRACT
+
+\vspace{1em}
+
+\noindent Construction is the fastest-growing sector in Qatar, with a growth rate of 11.4 \% per year due to commencement of mega-projects. The construction industry causes significant environmental impacts in terms of global warming impacts and embodied energy consumption. Qatar has set an ambitious target to build a large number of `green or carbon-neutral' buildings across the Middle East and North Africa (Mena) by 2030. Life cycle assessment (LCA) has been a crucial part in achieving this target of green infrastructure design as it offers an objective and consistent way to measure environmental impacts of construction materials and assemblies. This LCA, the first of its kind, has been carried out following Gulf Green Mark -- Environmental Product Declaration -- Product Category Role (GGM-EPD PCR) to assess the environmental performance of precast and ready-mix concrete using data from a Qatari concrete manufacturer. This methodology can potentially be applied to similar and other construction materials in the Gulf States to mitigate environmental impacts associated with the continuous booming of their construction industries. Current analysis shows that the use of recycled steel and electricity generated from solar radiation for concrete materials and concrete production in could further reduce the environmental impacts of these Qatari products.
+
+\vfill
+
+\noindent\rule{0.4\textwidth}{0.4pt}
+
+\noindent\footnotesize{$^{*}$Corresponding author. Tel.: 61 08 92664520; fax: +61 08 9266 4811}
+
+\noindent\footnotesize{\textit{E-mail address:} \underline{w.biswas@curtin.edu.au} (Wahidul K. Biswas).}
+
+\begin{center}
+    1
+\end{center}
+
+\end{document}
+```

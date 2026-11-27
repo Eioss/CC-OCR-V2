@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$4,100.00",
+    "advertiser": "POL/Committee to Defend the President",
+    "flight_from": "02/24/20",
+    "flight_to": "03/01/20"
+}
+```

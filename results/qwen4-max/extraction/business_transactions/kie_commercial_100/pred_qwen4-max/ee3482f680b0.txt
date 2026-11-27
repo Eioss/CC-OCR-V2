@@ -1,0 +1,15 @@
+```json
+{
+    "date_issue": "April 9, 1999",
+    "vendor_name": "The Biltmore Hotel",
+    "vendor_address": "1200 Anastasia Avenue Coral Gables, FL 33134",
+    "customer_billing_name": "Ms. Lisa M. Frissora Philip Morris",
+    "customer_billing_address": "120 Park Avenue New York, NY 10017-5592",
+    "amount_total_net": "$47,500.00",
+    "amount_total_gross": "$47,500.00",
+    "amount_due": "$47,500.00",
+    "payment_terms": "July 1",
+    "tax_detail_net": "",
+    "tax_detail_gross": ""
+}
+```

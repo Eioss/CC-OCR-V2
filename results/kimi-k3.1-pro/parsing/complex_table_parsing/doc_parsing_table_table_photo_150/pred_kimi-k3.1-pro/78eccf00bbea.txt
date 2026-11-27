@@ -1,0 +1,42 @@
+<table>
+  <tr>
+    <td rowspan="2">Method</td>
+    <td colspan="3">T=20</td>
+    <td colspan="3">T=50</td>
+  </tr>
+  <tr>
+    <td>IPV</td>
+    <td>BL</td>
+    <td>CTR</td>
+    <td>IPV</td>
+    <td>BL</td>
+    <td>CTR</td>
+  </tr>
+  <tr>
+    <td>GREEDY</td>
+    <td>68.06</td>
+    <td>216.38</td>
+    <td>0.31</td>
+    <td>68.23</td>
+    <td>217.93</td>
+    <td>0.31</td>
+  </tr>
+  <tr>
+    <td>Beam Search</td>
+    <td>105.52</td>
+    <td>427.80</td>
+    <td>0.25</td>
+    <td>107.06</td>
+    <td>439.59</td>
+    <td>0.24</td>
+  </tr>
+  <tr>
+    <td>SSP</td>
+    <td>189.11</td>
+    <td>999.51</td>
+    <td>0.19</td>
+    <td>242.77</td>
+    <td>1632.56</td>
+    <td>0.15</td>
+  </tr>
+</table>

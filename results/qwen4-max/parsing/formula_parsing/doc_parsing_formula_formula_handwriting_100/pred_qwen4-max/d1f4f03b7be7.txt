@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+& D_\theta \Xi(s) \\
+& =\left(\begin{array}{c}
+x_1(\theta-s) \\
+\vdots \\
+x_d(\theta-s)
+\end{array}\right)+\sum_{m=1}^{\infty} \int_{\Delta_{\theta, s}^m}\left\{\nabla b^n\left(\left\langle x_{s_m}^n, e_1\right\rangle+\varepsilon w_1 B^{H_1}\left(s_m\right), \cdots\right) \cdot\left(\begin{array}{c}
+x_1\left(\theta-s_m\right) \\
+\vdots \\
+x_d\left(\theta-s_m\right)
+\end{array}\right)\right. \\
+& \left.\cdot \prod_{l=1}^{m-1} \nabla b^n\left(\left\langle x_{s_1}^n, e_1\right\rangle+\varepsilon w_1 B^{H_1}\left(s_l\right), \cdots\right) \cdot\left(\begin{array}{c}
+x_1\left(s_{l+1}-s_l\right) \\
+\vdots \\
+x_d\left(s_{l+1}-s_l\right)
+\end{array}\right)\right\}\left(\begin{array}{c}
+x_1\left(s_1-s\right) \\
+\vdots \\
+x_d\left(s_1-s\right)
+\end{array}\right) d s_m \cdots d s_1 .
+\end{aligned}
+\]

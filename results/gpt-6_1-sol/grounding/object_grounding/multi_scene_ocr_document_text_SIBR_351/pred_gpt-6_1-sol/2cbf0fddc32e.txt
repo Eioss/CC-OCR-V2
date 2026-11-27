@@ -1,0 +1,17 @@
+[
+  {"bbox_2d":[732,160,887,199],"label":"入住日期 CHECK IN"},
+  {"bbox_2d":[271,309,447,323],"label":"协议单位 AGENT"},
+  {"bbox_2d":[453,691,549,710],"label":"合计金额 AMOUNT"},
+  {"bbox_2d":[257,171,346,190],"label":"客户名称 GUEST NAME"},
+  {"bbox_2d":[458,770,551,789],"label":"已收定金 DEPOSIT RECEIVED"},
+  {"bbox_2d":[269,263,362,282],"label":"帐号 ACCOUNT NUM"},
+  {"bbox_2d":[266,217,313,233],"label":"房号 ROOM NUMBER"},
+  {"bbox_2d":[246,636,335,655],"label":"房费"},
+  {"bbox_2d":[333,394,495,413],"label":"摘要 DESCRIPTION"},
+  {"bbox_2d":[704,832,804,853],"label":"收款员 CASHIER"},
+  {"bbox_2d":[137,400,273,418],"label":"日期DATE"},
+  {"bbox_2d":[340,121,646,177],"label":"标题"},
+  {"bbox_2d":[734,200,888,238],"label":"离店日期 CHECK OUT"},
+  {"bbox_2d":[674,936,777,955],"label":"第二联 The second"},
+  {"bbox_2d":[702,386,793,404],"label":"金额 AMOUNT"}
+]

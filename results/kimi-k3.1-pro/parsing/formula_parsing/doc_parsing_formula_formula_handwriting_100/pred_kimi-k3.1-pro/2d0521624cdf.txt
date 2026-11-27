@@ -1,0 +1,34 @@
+\[
+\frac{\partial v}{\partial t}-\nu\Delta v+(v\cdot\nabla)v=-\nabla p+f
+\]
+
+\[
+\bar D_{\bar X}\bar S-\rho\bar X=(xh-Hg(X,C)-xp)\partial_t+\frac{x f'}{f}S+\frac{h f'}{f}X+D_XS-\rho X
+\]
+
+\[
+\langle vx,w\rangle=\langle c,w\delta(x)\rangle
+\]
+
+\[
+(\tilde{\pi}_{*}^{b}E)(\Sigma^{\infty}G/H_{+}):=\pi_{*}(E\wedge G/H_{+})_{hG}\simeq\pi_{*}E_{hH}
+\]
+
+\[
+\int_Y r^0A^0e_i\cdot\nabla\varphi=0
+\qquad \forall\,\varphi\in C^\infty(T^n)
+\]
+
+\[
+\langle\beta(\varepsilon)-\beta(\tilde{\varepsilon}),\varepsilon-\tilde{\varepsilon}\rangle>0,
+\quad \text{for every }\varepsilon,\tilde{\varepsilon}\in X\text{ with }\varepsilon\neq\tilde{\varepsilon}.
+\]
+
+\[
+\begin{aligned}
+&\int_\Omega\left(|p^{(n)}|^2+|\nabla u^{(n)}|^2\right)(x,t)\,dx
++\int_0^t\int_\Omega\left(|\nabla p^{(n)}|^2+\eta|\Delta u^{(n)}|^2+|\nabla u_t^{(n)}|^2\right)(x,t)\,dx\,dt\\
+&\quad+\int_0^t\int_{\partial\Omega}\alpha(x)|p^{(n)}|^2(x,t)\,ds(x)\,dt
+\le C_k\left(1+\int_0^t\int_\Omega\left(|f^{(n)}|^2+|\operatorname{div}u^{(n)}|^2\right)(x,t)\,dx\,dt\right).
+\end{aligned}
+\]

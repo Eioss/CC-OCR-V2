@@ -1,0 +1,6 @@
+\mathbb{E}\left[\int_{t_0}^{(to+th)\wedge\mu(u)\wedge Ts} f(s, X_s^{to,x_0,u}) ds + \sum_{j \geq 1} c(T_j, \xi_j) \cdot 1_{\{T_j \leq (to+th)\wedge\mu(u)\wedge Ts\}} \right.
++ G(\mu(u)\wedge Ts, X_{\mu(u)\wedge Ts}^{to,x_0,u}) \cdot 1_{\{\mu(u)\wedge Ts \leq to+th\}} \Bigg]
++ \mathbb{E}\left[\int_{to+th}^{\hat{\mu}(u_{[to+th,Ts]})\wedge Ts} f(s, X_s^{to+th, X_{to+th}^{to,x_0,u}, u_{[to+th,Ts]}}) ds \right.
++ \sum_{j \geq 1} c(T_j', \xi_j) \cdot 1_{\{\hat{\mu}(u_{[to+th,Ts]})\wedge Ts \geq T_j' > to+th\}}
++ G\left(\hat{\mu}(u_{[to+th,Ts]})\wedge Ts, X_{\hat{\mu}(u_{[to+th,Ts]})\wedge Ts}^{to+th, X_{to+th}^{to,x_0,u}, u_{[to+th,Ts]}}\right) \cdot 1_{\{\hat{\mu}(u_{[to+th,Ts]})\wedge Ts < \infty\}}
+\left. \cdot 1_{\{\hat{\mu}(u_{[to+th,Ts]})\wedge Ts \geq to+th\}} \right] - \varepsilon

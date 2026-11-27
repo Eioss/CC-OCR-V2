@@ -1,0 +1,180 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.25}
+
+\newcommand{\answerline}{\rule{4cm}{0.4pt}}
+\newcommand{\exercise}[2]{%
+  \vspace{0.8em}
+  \noindent\textbf{EXERCISE #1}\quad\textbf{#2}\par\smallskip
+}
+
+\begin{document}
+
+\section*{3\quad PRESENT CONTINUOUS}
+
+\begin{tabular}{|>{\bfseries}p{0.18\textwidth}|p{0.72\textwidth}|}
+\hline
+Form & am, is, or are + verb + ing \\
+\hline
+Use & actions happening now, at the moment of\newline speaking. \\
+\hline
+Signal words & now, at the moment, still, Look! Listen!... \\
+\hline
+\end{tabular}
+
+\exercise{1}{Find the signal words for present continuous.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item Which is a signal word for present continuous?\\
+  last -- now -- every night
+
+  \item Which is \textbf{not} a signal word for present continuous?\\
+  now - already - still
+\end{enumerate}
+
+\exercise{2}{Put these verbs in present continuous.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item They / play \hfill \answerline
+  \item Sara and Leila/ dance \hfill \answerline
+  \item I/ not, speak \hfill \answerline
+  \item He/ to sing \hfill \answerline
+  \item David / not, to write \hfill \answerline
+\end{enumerate}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item Now, it (rain) heavily outside. \hfill \answerline
+  \item She (not, speak) French at the moment.
+  \item Many people (still, ght) against poverty \hfill \answerline\\
+  in Africa.
+  \item Mark's children (to play) video games at the moment.
+  \item (Sandra, to do) her homework now?\\
+  \answerline
+\end{enumerate}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\section*{4\quad PAST CONTINUOUS}
+
+\begin{tabular}{|>{\bfseries}p{0.18\textwidth}|p{0.72\textwidth}|}
+\hline
+Form & was or were + verb + ing \\
+\hline
+Use & For actions which were in progress in the\newline past. \\
+\hline
+Signal words & when, while + long action in the past \\
+\hline
+\end{tabular}
+
+\exercise{1}{Find the signal words for past continuous.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item Which is a signal word for past continuous?\\
+  while - by next week - tomorrow
+
+  \item Which is \textbf{not} a signal word for past continuous?\\
+  next week -- when - while
+\end{enumerate}
+
+\exercise{2}{Put these verbs in past continuous.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item She/ watch \hfill \answerline
+  \item They/ to play \hfill \answerline
+  \item It/ rain \hfill \answerline
+  \item Many students/ to work \hfill \answerline
+  \item He/ not, to drive \hfill \answerline
+\end{enumerate}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*-]
+  \item Barbara (to do) her homework yesterday\\
+  when I came in.
+
+  \item When I (write) the E-mail last time, \hfill \answerline\\
+  Mary (to watch) TV. \hfill \answerline
+
+  \item I saw my teacher yesterday when I (wait) \hfill \answerline\\
+  for the bus.
+
+  \item When Sandra (arrive) home yesterday, her father (not, to cook)\\
+  lunch. \hfill \answerline
+
+  \item (Your brother, to play) the game when the\\
+  computer crashed down?
+\end{enumerate}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\section*{5\quad PRESENT PERFECT}
+
+\begin{tabular}{|>{\bfseries}p{0.18\textwidth}|p{0.72\textwidth}|}
+\hline
+Form & have or has + Past Participle \\
+\hline
+Use & For actions which started in the past and\newline continued up to the present. \\
+\hline
+Signal words & just, already, yet, for, since, so far, recently,\newline ever... \\
+\hline
+\end{tabular}
+
+\vspace{0.8em}
+
+\noindent NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give
+more emphasis on the duration of the action. However, some verbs can't be
+used in the continuous form such as own, smell, need, belong, cost, agree,
+contain..., etc.
+
+\exercise{1}{Find the signal words for present perfect.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item Which is a signal word for present perfect?\\
+  still -- usually -- since
+
+  \item Which is \textbf{not} a signal word for present perfect?\\
+  since -- before -- for
+\end{enumerate}
+
+\exercise{2}{Put these verbs in present perfect.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item They/ to do \hfill \answerline
+  \item Jack / to publish \hfill \answerline
+  \item He/ not, to have \hfill \answerline
+  \item She/ to study \hfill \answerline
+  \item Mike and Lina / to have \hfill \answerline
+\end{enumerate}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+
+\begin{enumerate}[leftmargin=*,label=\arabic*.]
+  \item He (just, phone) Sabrina; she is in \hfill \answerline\\
+  Chicago now.
+
+  \item I (buy, recently) a laptop to Louis.
+
+  \item The maid (not, cook) the dinner yet.
+
+  \item She (drive) this car for two hours.
+
+  \item He (to be) in prison since 2003.
+
+  \item (you, ever, read) Hemingway's novels?\\
+  \answerline\\
+  \answerline
+\end{enumerate}
+
+\end{document}
+```

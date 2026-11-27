@@ -1,0 +1,3 @@
+There are two places where '42.21' appears: the unit price and the total price on the same row. This box is for the unit-price one:
+
+(576, 744, 678, 770)

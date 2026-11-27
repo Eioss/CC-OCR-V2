@@ -1,0 +1,30 @@
+```latex
+\noindent 7. Singular- plural
+
+\begin{tabular}{@{}l@{}}
+axis \quad crisis \quad analysis \quad basis \quad thesis \quad criterion \\
+axes \quad crises \quad analyses \quad bases \quad theses \quad criteria \\
+datum \quad medium \quad erratum \quad stratum \quad memorandum \quad agendum \\
+data \quad media \quad errata \quad strata \quad memoranda \quad agenda \\
+alumna \quad formula \quad antenna \quad bacterium \quad aquarium \\
+alumnae \quad formulae \quad antennae \quad bacteria \quad aquaria \\
+focus \quad locus \quad terminus \quad alumnus \quad fungus \\
+foci \quad loci \quad termini \quad alumni \quad fungi \\
+Syllabus \quad radius \quad stimulus \quad tooth \quad foot \quad goose \\
+syllabi \quad radii \quad stimuli \quad teeth \quad feet \quad geese \\
+matrix \quad index \quad appendix \quad apex \quad vertex \quad genie \\
+matrices \quad indices \quad appendices \quad apices \quad vertices \quad genies \\
+cupful \quad dining room \quad grown up \quad spoonful \quad daughter-in-law \\
+Cupfuls \quad dining rooms \quad grown ups \quad spoonfuls \quad daughters-in-law \\
+Son-in-law \quad runner-up \quad governor-general \quad army \quad baby \quad boy \quad toy \quad buffalo \\
+Sons-in-law \quad runners-up \quad governors-general \quad armies \quad babies \quad boys \quad toys \quad buffaloes \\
+man \quad woman \quad child \quad leaf \quad thief \quad knife \quad wife \quad life \quad man-servant \\
+men \quad women \quad children \quad leaves \quad thieves \quad knives \quad wives \quad lives \quad men-servants \\
+Virus \quad photo \quad sheep \quad deer \quad aircraft \quad furniture \quad cattle \\
+Viruses \quad photos \quad sheep \quad deer \quad aircraft \quad furniture \quad cattle \\
+Corps \quad Species \quad spectacles \quad means \quad premises \quad series \\
+Corps \quad species \quad spectacles \quad means \quad premises \quad series \\
+innings \quad pants \\
+innings \quad pants
+\end{tabular}
+```

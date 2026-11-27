@@ -1,0 +1,35 @@
+<table>
+  <tr>
+    <td rowspan="2">use type</td>
+    <td colspan="3">Minimum parking required</td>
+  </tr>
+  <tr>
+    <td>in the CBD</td>
+    <td>within 400m distance of a<br>rapid transit station</td>
+    <td>everywhere else</td>
+  </tr>
+  <tr>
+    <td>residential</td>
+    <td colspan="3">1 space per unit</td>
+  </tr>
+  <tr>
+    <td>office</td>
+    <td>1 space per 450 m²</td>
+    <td>1 space per 250 m²</td>
+    <td>1 space per 200 m²</td>
+  </tr>
+  <tr>
+    <td>retail</td>
+    <td>1 space per 400 m²</td>
+    <td>1 space per 200 m²</td>
+    <td>1 space per 150 m²</td>
+  </tr>
+  <tr>
+    <td>factory</td>
+    <td colspan="3">1 space per 450 m²</td>
+  </tr>
+  <tr>
+    <td>other</td>
+    <td colspan="3">1 space per 300 m²</td>
+  </tr>
+</table>

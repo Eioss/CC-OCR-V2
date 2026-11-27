@@ -1,0 +1,13 @@
+```latex
+\begin{array}{l}
+\langle\rho_{N}(\mathrm{Id}-\Delta_{-1})u_{N}-\rho u_{HF},\psi\rangle=\langle\rho_{N}((\mathrm{Id}-\Delta_{-1})u_{N}-u_{HF}),\psi\rangle+\langle\rho-\rho_{N},\psi u_{HF}\rangle. \\
+D_{T}:=(0,T)\times D,\ \partial D_{T}:=(0,T)\times\partial D,\ \mathbb{R}_{T}^{n}:=(0,T)\times\mathbb{R}^{n}. \\
+\liminf_{\varepsilon\to0}\sum_{j=0}^{m}\int_{S_{\varepsilon}^{j}}G_{\varepsilon}^{j}|[(u_{\varepsilon})_{T}]_{S_{\varepsilon}^{j}}|\,d\sigma(x)\geq\sum_{j=0}^{m}\langle G^{j},|[U_{T}]_{S^{j}}+r_{T}^{j}|\rangle_{C_{0}(\omega\times S^{j}),\mathcal{M}(\omega\times S^{j})} \\
+A_{\infty}=\lim_{k\to\infty}A_{k}=\lim_{k\to\infty}\sum_{i=1}^{d}x_{ki}^{\otimes m}=\sum_{i=1}^{d}x_{\infty i}^{\otimes m}\in CP^{n,m}(\mathbb{K}), \\
+r:=\max\{r_{i}\}_{i\in\{1,\ldots,m\}} \\
+A_{\gamma}\circ M_{x}=A_{x},\quad A_{-x}\circ C=A_{x} \\
+a\{n\}=(a_{2})\ldots(a_{k}) \\
+V(\varepsilon_{1},\varepsilon_{2})=V\setminus(\{|z|<\varepsilon_{1}\}\cup\{|\zeta|<\varepsilon_{2}\}). \\
+\dfrac{a_{2}^{3}}{a_{2}^{3}-27a_{3}^{2}}\searrow-\infty\text{ as }A\searrow0\text{ and }\dfrac{a_{2}^{3}}{a_{2}^{3}-27a_{3}^{2}}\nearrow1\text{ as }A\nearrow\infty.
+\end{array}
+```

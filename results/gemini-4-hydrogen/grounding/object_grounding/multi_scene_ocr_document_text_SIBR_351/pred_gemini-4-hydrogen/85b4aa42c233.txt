@@ -1,0 +1,27 @@
+```json
+[
+  {"bbox_2d": [58, 0, 174, 16], "label": "标题"},
+  {"bbox_2d": [102, 44, 275, 57], "label": "酒店名称"},
+  {"bbox_2d": [82, 89, 118, 102], "label": "Room No. 房间号"},
+  {"bbox_2d": [412, 85, 459, 98], "label": "Guest Name 客人姓名"},
+  {"bbox_2d": [725, 76, 874, 92], "label": "Arrival date 抵店时间"},
+  {"bbox_2d": [83, 133, 93, 145], "label": "Member No. 会员号"},
+  {"bbox_2d": [398, 130, 452, 142], "label": "Res No. 预订号"},
+  {"bbox_2d": [726, 119, 874, 134], "label": "Departure date 离店时间"},
+  {"bbox_2d": [47, 196, 89, 208], "label": "Date 日期"},
+  {"bbox_2d": [211, 193, 333, 207], "label": "DESCRIPTION 项目"},
+  {"bbox_2d": [606, 188, 654, 200], "label": "DEBIT 消费"},
+  {"bbox_2d": [762, 183, 795, 195], "label": "CREDIT 付款"},
+  {"bbox_2d": [49, 229, 92, 240], "label": "Date 日期"},
+  {"bbox_2d": [213, 225, 335, 239], "label": "DESCRIPTION 项目"},
+  {"bbox_2d": [607, 219, 654, 231], "label": "住宿详单-第2行-DEBIT 消费"},
+  {"bbox_2d": [763, 215, 795, 227], "label": "CREDIT 付款"},
+  {"bbox_2d": [52, 260, 93, 271], "label": "Date 日期"},
+  {"bbox_2d": [214, 256, 337, 270], "label": "DESCRIPTION 项目"},
+  {"bbox_2d": [608, 250, 655, 262], "label": "DEBIT 消费"},
+  {"bbox_2d": [763, 247, 795, 258], "label": "CREDIT 付款"},
+  {"bbox_2d": [765, 285, 821, 297], "label": "TOTAL DEBIT消费总计"},
+  {"bbox_2d": [766, 332, 796, 344], "label": "TOTAL CREDIT付款总计"},
+  {"bbox_2d": [767, 370, 822, 381], "label": "BALANCE 余额"}
+]
+```

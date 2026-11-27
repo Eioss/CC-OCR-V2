@@ -1,0 +1,104 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+% Custom commands for formatting
+\newcommand{\companylogo}{\textbf{awinic}}
+\newcommand{\chinesecompanyname}{上海艾为电子技术股份有限公司}
+\newcommand{\englishcompanyname}{shanghai awinic technology co., ltd.}
+\newcommand{\partnumber}{AW36526}
+\newcommand{\versiondate}{July 2019 V1.3}
+\newcommand{\iic}{I$^2$C}
+\newcommand{\degreeC}{$^\circ$C}
+
+\begin{document}
+
+\begin{center}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r}
+        \companylogo & \partnumber \\
+        \chinesecompanyname & \versiondate \\
+        \englishcompanyname & \\
+    \end{tabular*}
+\end{center}
+\vspace{0.5cm}
+\hrule
+\vspace{0.5cm}
+
+\begin{center}
+    \Large\textbf{Inductorless, Triple Channel Flash \& Indicator 2in1 LED Driver}
+\end{center}
+\vspace{0.5cm}
+
+\begin{minipage}[t]{0.48\textwidth}
+\section*{FEATURES}
+\begin{itemize}
+    \item Flash and Indicator 2in1 application
+    \item Dual Independent 1.0A LED1/LED2 Current Source
+    \begin{itemize}
+        \item[$\triangleright$] Flash: 3.91mA$\sim$1.0A, 256 levels \\ 3.91mA/level
+        \item[$\triangleright$] Torch: 1.46mA$\sim$375mA, 256 levels \\ 1.46mA/level
+        \item[$\triangleright$] Indicator: 0.37mA$\sim$375mA, 1024 levels \\ 0.37mA/level
+        \item[$\triangleright$] Flash Timeout: 40ms$\sim$1.6s, 16 levels
+    \end{itemize}
+    \item Independent 375 mA LED3 Current Sink
+    \begin{itemize}
+        \item[$\triangleright$] Flash: 1.46mA$\sim$375mA, 256 levels \\ 1.46mA/level
+        \item[$\triangleright$] Torch: 1.46mA$\sim$375mA, 256 levels \\ 1.46mA/level
+        \item[$\triangleright$] Indicator: 0.73mA$\sim$375mA, 512 levels \\ 0.73mA/level
+        \item[$\triangleright$] Flash Timeout: 40ms$\sim$1.6s, 16 levels
+    \end{itemize}
+    \item Optimized Flash LED Current During Low Battery Conditions (IVFM)
+    \item Hardware Strobe Enable (STROBE)
+    \item 400kHz \iic: AW36526 (\iic Address=0x63)
+    \item 0.4mm Pitch, FCQFN-10L Package
+\end{itemize}
+
+\section*{APPLICATION}
+Smartphone Camera Flash
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\section*{GENERAL DESCRIPTION}
+The AW36526 is a inductorless triple channel flash \& Indicator 2in1 LED driver that provides a high level of adjustability within a ultra-small solution size. The AW36526 includes two current sources and a current sink which is controlled independently by \iic-compatible interface. The AW36526 provides IVFM protection mode to prevent system reset or shutdown under low battery condition.
+
+The AW36526 is controlled via an \iic-compatible interface. The main features of the AW36526 include: flash / torch / IR / Indicator current, flash timeout duration, IVFM and breath features. The AW36526 also provides hardware flash pin (STROBE) to control flash event.
+
+The device operates over a –40\degreeC{} to +85\degreeC{} ambient temperature range.
+
+The AW36526 is available in small 0.4mm pitch 1.6mm$\times$1.2mm FCQFN-10L package.
+\end{minipage}
+
+\vspace{1cm}
+
+\section*{TYPICAL APPLICATION CIRCUIT}
+\begin{figure}[h!]
+    \centering
+    % The circuit diagram is represented by a placeholder as it cannot be transcribed into text/LaTeX code directly.
+    % In a real scenario, this would be an image file or a TikZ drawing.
+    \fbox{\parbox[c][6cm][c]{0.8\textwidth}{\centering Circuit Diagram Placeholder \\ (See Fig 1 in original document)}}
+    \caption{Typical Application Circuit of AW36526}
+    \label{fig:circuit}
+\end{figure}
+
+\vfill
+
+\hrule
+\vspace{0.2cm}
+\begin{small}
+\noindent \textit{All trademarks are the property of their respective owners.}
+\vspace{0.2cm}
+\hrule
+\vspace{0.2cm}
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l c r}
+    www.awinic.com.cn & 1 & Copyright \copyright{} 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD \\
+\end{tabular*}
+\end{small}
+
+\end{document}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "date_issue": "05/11/22",
+  "order_id": "1174548",
+  "vendor_name": "WTTG",
+  "vendor_address": "7272 Wisconsin Ave Suite 700, Bethesda, MD 20814",
+  "customer_billing_name": "GMMB",
+  "customer_billing_address": "3050 K STREET, NW, SUITE 100, Washington, DC 20007",
+  "amount_total_gross": "$22,000.00",
+  "amount_due": "$18,700.00"
+}
+```

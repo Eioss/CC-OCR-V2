@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+& S_1 \cdot \lambda_{n(t^\theta, j)+1} \le t^{2\beta} < S_1 \cdot \lambda_{n(t^\theta, j)} \\
+& \beta(\theta) = L_1 \cdot \left\| \frac{\partial \Sigma(\theta)}{\partial \theta} \right\|_2 + L_0 \cdot \left( \left\| \frac{\partial \Sigma(\theta)}{\partial \theta} \right\|_2^2 / \Sigma(\theta) \right). \\
+& + \Omega^{<j+1>} \dots \Omega^{<j>} X_{i_1 \dots i_{k+1}} \left( \sum_{k=1}^r (-1)^{r-k} \sigma_{<k}^{-1} \right) \gamma_{i_1} \dots \gamma_{i_{k-1}} \chi_{i_k} + \dots \\
+& 0 \to P_n \to \dots \to P_3 \to P_2 \to G'_1 \to B \to 0 \\
+& x_n \le y_n + \sum_{1 \le k < R_0 2^n} \vartheta(k 2^{-n}) N_{k 2^{-n}} (\langle t^{k 2^{-n}} \rangle) y_n \\
+& |\rho - \frac{m}{n}| \ge \frac{K}{n^{2+\nu}}. \\
+& (I - J) D_1 P D_1^{-1} I = (I - J)^2 D_2 P D_2^{-1} I = I,
+\end{align*}
+```

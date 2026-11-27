@@ -1,0 +1,117 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{booktabs}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{证券研究报告}
+\fancyfoot[R]{17}
+
+\begin{document}
+
+% ---------------- 图 19 ----------------
+\noindent\textbf{图 19：机载雷达天线罩常用透波纤维及性能}
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lcccccccc}
+\toprule
+性能 & \shortstack{E玻璃\\纤维} & \shortstack{S玻璃\\纤维} & \shortstack{M玻璃\\纤维} & \shortstack{D玻璃\\纤维} & \shortstack{高硅氧玻璃\\纤维} & \shortstack{石英玻璃\\纤维} & Kevlar49 & Spectra 1000 \\
+\midrule
+密度/(g/cm$^3$)        & 2.54   & 2.49   & 2.77   & 2.16   & 2.30   & 2.20   & 1.45   & 0.97   \\
+拉伸强度/GPa           & 3.45   & 4.00   & 3.7    & 2.40   & 2.50   & 1.70   & 3.45   & 3.0    \\
+杨氏模量/GPa           & 72.0   & 85.0   & 91.6   & 52.0   & 52.0   & 72.0   & 137    & 95.3   \\
+$\varepsilon$/10GHz    & 6.13   & 5.21   & 7.0    & 4.00   & 4.00   & 3.78   & 3.85   & 2.30   \\
+$\tan\delta$/10GHz     & 0.0038 & 0.0068 & 0.0039 & 0.0026 & 0.0048 & 0.0002 & 0.0010 & 0.0001 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent{\small 资料来源：机载雷达天线罩常用透波复合材料研究进展（李大进），国海证券研究所}
+
+\bigskip
+
+当前，我国军机规模与美国相比还存在较大差距，我国全部军机数量约为其 1/4；运输机数量约为其 1/9；武装直升机数量不到其 1/10；教练机数量约为其 1/6；战斗机总量约为其 3/4，但其中含有超过 500 架二代战机。在数量和结构方面与美军差距明显，仅战斗机数量提升和老旧装备更新换代需求就超过千架。随着世界一流军队建设目标的提出，以及 J-20、Y-20 等新一代军机列装进度加快，航空装备产业链景气度有望进一步提升。雷达罩作为军机结构的重要组成部分，其需要将随着军机需求的增长而快速增长。
+
+\bigskip
+
+% ---------------- 图 20 & 图 21 ----------------
+% 注：柱状图数值为根据图像目测估计的近似值
+\noindent
+\begin{minipage}[t]{0.5\textwidth}
+\textbf{图 20：中美全部军机数量对比}
+
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    width=\textwidth, height=6cm,
+    bar width=6pt,
+    ymin=0, ymax=16000,
+    ytick={0,2000,4000,6000,8000,10000,12000,14000,16000},
+    symbolic x coords={全部军机,作战飞机,运输机,武装直升机,教练机},
+    xtick=data,
+    x tick label style={font=\scriptsize},
+    y tick label style={font=\scriptsize},
+    legend style={at={(0.5,1.02)},anchor=south,legend columns=2,font=\scriptsize,draw=none},
+    scaled y ticks=false
+]
+\addplot[fill=gray!50] coordinates {(全部军机,3500) (作战飞机,2850) (运输机,300) (武装直升机,900) (教练机,2700)};
+\addplot[fill=black!80] coordinates {(全部军机,13700) (作战飞机,3900) (运输机,2500) (武装直升机,6700) (教练机,5100)};
+\legend{中国（架）,美国（架）}
+\end{axis}
+\end{tikzpicture}
+
+{\small 资料来源：World air forces 2017、国海证券研究所}
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+\textbf{图 21：中美空军战斗机结构}
+
+\begin{tikzpicture}
+\begin{axis}[
+    ybar stacked,
+    width=\textwidth, height=6cm,
+    bar width=25pt,
+    ymin=0, ymax=2000,
+    ytick={0,200,400,600,800,1000,1200,1400,1600,1800,2000},
+    symbolic x coords={中国,美国},
+    xtick=data,
+    enlarge x limits=0.5,
+    x tick label style={font=\scriptsize},
+    y tick label style={font=\scriptsize},
+    legend style={at={(0.5,1.02)},anchor=south,legend columns=4,font=\scriptsize,draw=none}
+]
+\addplot[fill=black!80] coordinates {(中国,0)   (美国,0)};    % 五代（顺序按图例）
+\addplot[fill=gray!30]  coordinates {(中国,0)   (美国,0)};
+\addplot[fill=black]    coordinates {(中国,0)   (美国,0)};
+\addplot[fill=gray!50]  coordinates {(中国,480) (美国,0)};    % 二代
+\addplot[fill=black]    coordinates {(中国,120) (美国,0)};    % 三代
+\addplot[fill=gray!30]  coordinates {(中国,370) (美国,1760)}; % 四代
+\addplot[fill=black!80] coordinates {(中国,0)   (美国,110)};  % 五代
+\legend{五代,四代,三代,二代}
+\end{axis}
+\end{tikzpicture}
+
+{\small 资料来源：World air forces 2017、维基百科、国海证券研究所}
+\end{minipage}
+
+\bigskip
+
+在航天领域，公司产品主要用于制作隔热和耐高温材料。根据《2016 中国的航天》白皮书，我国将航天事业作为国家战略的重要组成部分，历来高度重视。未来五年，我国还将继续推进载人航天、月球探测、北斗卫星导航系统、高分辨率对地观测系统、新一代运载火箭等重大工程，并启动一批新的重大科技项目和工程项目。从近年来看，我国航天发射的次数稳步增加，未来有望保持年均 20 次以上。石英棉、石英布以及石英纱作为航天飞行器隔热、耐高温部件的重要原材料，未来需求有望随着我国航天事业的发展，保持稳定的增长。
+
+\bigskip
+
+\noindent\textbf{图 22：飞船返回大气层}
+
+\end{document}
+```
+
+**Notes:**
+- The table values and all body text are transcribed as printed.
+- The bar values in Figures 20 and 21 are not printed on the page. I estimated them from the bar heights, so they are approximate.
+- The color-to-generation mapping in Figure 21 is hard to read in the photo. I inferred it from the text (China has over 500 second-generation fighters at the bottom of its bar).
+- The empty `\addplot` lines in Figure 21 only set up the legend entries.

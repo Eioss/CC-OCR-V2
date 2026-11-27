@@ -1,0 +1,59 @@
+# LaTeX Transcription
+
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=1in, landscape]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+\begin{document}
+
+\noindent{\scriptsize Candidate Statement of Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabularx}{\textwidth}{@{}l X l l@{}}
+\textbf{Season:} & June Exams (Summer) 2019 & \textbf{Series:} & (All) \\[4pt]
+\textbf{Name:}   & \rule{3.5cm}{0.8em} (Alex) & \textbf{Year:} & 12 \\[4pt]
+\textbf{Candidate Number:} & 4316 & \textbf{Reg. Group:} & 12TAM \\[4pt]
+\textbf{UCI:}    & \rule{3.5cm}{0.8em} & \textbf{ULN:} & \\
+\end{tabularx}
+
+\vspace{1em}
+
+\noindent{\large Exam Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}l l l l c c c c c c@{}}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{Element Code} & \textbf{Title} &
+\textbf{Grd1} & \textbf{Grd2} & \textbf{Mark Equiv} & \textbf{End1} &
+\textbf{End2} & \textbf{Points} \\
+\midrule
+OCR      & FSMQ/A   & 6993   & Maths: Additional Mathematics & A &  &     &   &  &  \\
+CIE      & GCSE/9FC & 0976BY & Geography Opt by              & 9 &  &     &   &  &  \\
+EDEXL/GC & GCSE/9FC & 4HI1   & History                       & 9 &  & 109 &   &  &  \\
+EDEXL/GC & GCSE/9FC & 4MA1H  & Mathematics A Option H        & 9 &  & 176 &   &  &  \\
+AQA      & GCSE/9FC & 8461H  & Biology Tier H                & 9 &  &     &   &  &  \\
+AQA      & GCSE/9FC & 8462H  & Chemistry Tier H              & 9 &  &     &   &  &  \\
+AQA      & GCSE/9FC & 8463H  & Physics Tier H                & 9 &  &     &   &  &  \\
+AQA      & GCSE/9FC & 8658H  & French Tier H                 & 9 &  &     &   &  &  \\
+AQA      & GCSE/9FC & 8700   & English Language              & 9 &  &     & D &  &  \\
+AQA      & GCSE/9FC & 8702   & English Literature            & 9 &  &     &   &  &  \\
+OCR      & GCSE/9FC & J282F  & Latin Option F                & 8 &  & 165 &   &  &  \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The surname and UCI were blurred in the original image. They are shown as black bars (`\rule`) rather than invented values.
+- The ULN, Grd2, End2 and Points fields are blank in the source, so they are left empty.
+- The document contains no equations.
+- The "D" for English Language appears under the **End1** column, matching its position in the image.
+- `landscape` geometry is used so the 10-column table fits on the page. The document requires the `booktabs` and `tabularx` packages.

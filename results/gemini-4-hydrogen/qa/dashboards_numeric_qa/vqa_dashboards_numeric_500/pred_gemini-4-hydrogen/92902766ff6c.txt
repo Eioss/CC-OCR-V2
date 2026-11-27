@@ -1,0 +1,5 @@
+Based on the "VMWARE VSPHERE VS. MICROSOFT HYPER-V" table at the bottom of the infographic, the maximum number of host processors is **160** for **3** VMware editions:
+
+1. VMware STANDARD
+2. VMware ENTERPRISE
+3. VMware ENT. PLUS

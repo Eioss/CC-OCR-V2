@@ -1,0 +1,27 @@
+\[
+\begin{aligned}
+\left[\tilde{\Phi}_{k}^{(\lambda)\dagger}\tilde{\Phi}_{k}^{(\lambda)}\right]
+|f_0\rangle^{\otimes n-1}\otimes|f_{\mathrm{in}}\rangle
+&=d^{2\lambda}(\tilde{k},k)^\lambda
+|f_0\rangle^{\otimes n-1}\otimes|f_{\mathrm{in}}\rangle,\\[1em]
+L_{[n\pi]-1}&<L_{[2n\pi]},\\[1em]
+d\cdot L/T&=d\cdot MW(J(f))\subseteq M,\\[1em]
+\sum_{r=\gamma_1+1}^{\delta-\delta_0+\gamma_1}S(\gamma_1,r)
+&=\sum_{r=\gamma_1+1}^{\delta-\delta_0+\gamma_1}
+(-1)^r
+\frac{(\delta-\delta_0+\gamma_1-1)!}
+{\gamma_1!(r-\gamma_1)!(\delta-\delta_0+\gamma_1-r)!}
+\binom{d-d_0-1}{\gamma_1-1}\\
+&=(-1)^{\gamma_1+1}
+\binom{\delta-\delta_0+\gamma_1-1}{\gamma_1-1}
+\binom{d-d_0-1}{\gamma_1-1},\\[1em]
+\overline{\bar{x}}&=x,\qquad
+x+\bar{x}=n(x,1)1,\qquad
+x\cdot\bar{x}=\bar{x}\cdot x=n(x)1,\\[1em]
+h^{x,x+1}\bigl((\mu_{j\to i},\lambda_{i\to j}),(\mu,\lambda)\bigr)
+&=q^{\mu_i+\cdots+\mu_{j-1}}\{\mu_j\}_q\,
+q^{\lambda_{i+1}+\cdots+\lambda_j}\{\lambda_i\}_q\,
+q^{2(\mu_{j+1}+\cdots+\mu_n)}\,
+q^{2(\lambda_1+\cdots+\lambda_{i-1})}.
+\end{aligned}
+\]

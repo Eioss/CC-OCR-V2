@@ -1,0 +1,16 @@
+Here is the LaTeX representation of the formulas from the image:
+
+$$
+\begin{align*}
+& \| F(t, \cdot) \|_{H^{k+1}} \le C \varepsilon_A (\| u(t, \cdot) \|_{H^{k-1}} + \| \nabla (u - Q)(t, \cdot) \|_{H^{k-1}}). \\
+& F = (K_i, S_i) : i \in K) \\
+& \langle \phi^r, u \rangle < \langle \phi^r, v \rangle \\
+& P_{jk}^{j+1} = \frac{\alpha_{j+1}^{j+1} y_{jk}^{j+1} + A_{j+1}^{-1} w_{jk}^{j}}{A_{j+1}^{j+1}}, \quad k = 1, \dots, n \\
+& \delta(D^2)(t, \Delta t, k, N) \equiv (D^2)(t, \Delta t, k, N) - f(D(t, \Delta t, k, N))^2 = \frac{\delta(\varepsilon^2)(t, \Delta t, k)}{N} \\
+& K(t) \| x(t) - x^* \|^2 \le t (F(x(t)) - F^*) = a(t), \\
+& (R_\delta(u + i\varepsilon)f, g) = \int_{-\infty}^{\infty} \frac{1}{\varepsilon^2 / 2 - (u + i\varepsilon)} \frac{f(\xi) \overline{g(\xi)} d\xi}{\overline{g(\xi)} d\xi} \\
+& = \int_0^\infty \frac{1}{(2\lambda)^{(m-3)/2}} \frac{1}{\lambda - u - i\varepsilon} \int_{S^{m-1}} f(\sqrt{2\lambda}\omega) \overline{g(\sqrt{2\lambda}\omega)} d\omega d\lambda, \\
+& I = \sup_{0 < r < R} r^{-n} \int_{B_r(0)} M^p f(y) dy, \\
+& \psi(\beta) + \psi(\beta + 2(1-r)) - 2\psi(\beta + 1 - r) \le \ln \left( 1 + \frac{(1-r)^2}{(1-\beta)(1-\beta+r)} \right).
+\end{align*}
+$$

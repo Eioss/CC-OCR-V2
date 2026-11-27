@@ -1,0 +1,27 @@
+```json
+[
+  {"bbox_2d": [93, 69, 108, 344], "label": "Company Name"},
+  {"bbox_2d": [107, 67, 138, 332], "label": "Address"},
+  {"bbox_2d": [140, 132, 149, 217], "label": "Tax ID No."},
+  {"bbox_2d": [173, 68, 192, 349], "label": "Title"},
+  {"bbox_2d": [200, 195, 212, 389], "label": "Company Name"},
+  {"bbox_2d": [216, 195, 238, 548], "label": "Address"},
+  {"bbox_2d": [224, 661, 234, 734], "label": "DATE"},
+  {"bbox_2d": [250, 660, 260, 744], "label": "PURCHASE ORDER NO"},
+  {"bbox_2d": [252, 195, 263, 309], "label": "Phone"},
+  {"bbox_2d": [298, 195, 307, 258], "label": "Vendor Code"},
+  {"bbox_2d": [327, 194, 340, 458], "label": "Company Name"},
+  {"bbox_2d": [359, 193, 368, 288], "label": "Contact"},
+  {"bbox_2d": [428, 369, 437, 419], "label": "Payment Terms"},
+  {"bbox_2d": [478, 56, 486, 62], "label": "No."},
+  {"bbox_2d": [478, 84, 497, 204], "label": "Item No."},
+  {"bbox_2d": [480, 213, 501, 355], "label": "Item Description"},
+  {"bbox_2d": [481, 358, 491, 418], "label": "Quantity"},
+  {"bbox_2d": [482, 442, 490, 470], "label": "Unit"},
+  {"bbox_2d": [482, 492, 491, 532], "label": "Unit Price (USD)"},
+  {"bbox_2d": [483, 565, 492, 631], "label": "金额(USD)"},
+  {"bbox_2d": [484, 718, 492, 761], "label": "FSC NW(KG)"},
+  {"bbox_2d": [904, 331, 913, 438], "label": "Website"},
+  {"bbox_2d": [910, 839, 919, 864], "label": "Page No"}
+]
+```

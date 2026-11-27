@@ -1,0 +1,46 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\[
+\sin C = \frac{\textit{side opposite to angle } C}{\textit{hypotenuse}} = \frac{p}{h}
+\]
+
+\[
+\cos C = \frac{\textit{side adjacent to angle } C}{\textit{hypotenuse}} = \frac{b}{h}
+\]
+
+\[
+\tan C = \frac{\textit{side opposite to angle } C}{\textit{side adjacent to angle } C} = \frac{p}{b}
+\]
+
+\[
+\operatorname{cosec}\theta = \frac{1}{\sin\theta};\ \sec\theta = \frac{1}{\cos\theta};\ \cot\theta = \frac{1}{\tan\theta};\ \tan\theta = \frac{\sin\theta}{\cos\theta}
+\]
+
+\begin{center}
+\renewcommand{\arraystretch}{1.8}
+\begin{tabular}{|l|l|l|l|l|l|}
+\hline
+$\angle A$ & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+\textbf{Sin A} & $0$ & $\dfrac{1}{2}$ & $\dfrac{1}{\sqrt{2}}$ & $\dfrac{\sqrt{3}}{2}$ & $1$ \\
+\hline
+\textbf{Cos A} & $1$ & $\dfrac{\sqrt{3}}{2}$ & $\dfrac{1}{\sqrt{2}}$ & $\dfrac{1}{2}$ & $0$ \\
+\hline
+\textbf{Tan A} & $0$ & $\dfrac{1}{\sqrt{3}}$ & $1$ & $\sqrt{3}$ & Not defined \\
+\hline
+\textbf{Cosec A} & Not defined & $2$ & $\sqrt{2}$ & $\dfrac{2}{\sqrt{3}}$ & $1$ \\
+\hline
+\textbf{Sec A} & $1$ & $\dfrac{2}{\sqrt{3}}$ & $\sqrt{2}$ & $2$ & Not defined \\
+\hline
+\textbf{Cot A} & Not defined & $\sqrt{3}$ & $1$ & $\dfrac{1}{\sqrt{3}}$ & $0$ \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

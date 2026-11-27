@@ -1,0 +1,68 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{xeCJK}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{ulem}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+\begin{document}
+
+\begin{flushright}
+Contract No.: \qquad\qquad\\
+\textbf{合同编号：}\qquad\qquad
+\end{flushright}
+
+\vspace{4em}
+
+\begin{center}
+{\LARGE xxx engineering contract}
+
+\vspace{1em}
+
+{\LARGE \textbf{xxx 工程合同}}
+
+\vspace{3em}
+
+Party A: xxxCompany Limited
+
+\textbf{甲方：xxx 有限公司}
+
+Party B:xxx Company Limited
+
+\textbf{乙方：xxx 有限公司}
+\end{center}
+
+\vspace{2em}
+
+This contract is made and entered into on the \hspace{2em} day of \hspace{2em} , 2014 by the following Parties in \hspace{2em} .
+
+本合同于\underline{\hspace{4em}}年\underline{\hspace{3.5em}}月\underline{\hspace{3.5em}}日由以下当事方在\underline{\hspace{3.5em}}签署。
+
+Party A: xxx Company Limited,
+
+甲方：xxx 有限公司，xxx 经营的公司，住所地为 xxx，（下称“甲方”），法定代表人：xxx
+
+Party B: xxx Company Limited,
+
+乙方：xxx 有限公司，一家 xxx 经营的公司，注册地址是：xxx，（下称“乙方”），法定代表人：xxx
+
+Party A and Party B are called by a joint name of Both Parties under this contract, each of which is called as A Party.
+
+甲方和乙方在本合同项下统称为“双方”，单独称为“一方”。
+
+1.\quad \uline{Work Content and Requirements}
+
+1.\quad \uline{工作内容、要求}
+
+\begin{itemize}
+\item[1.1] In accordance with the items stipulated in this Contract, Party B shall conduct the project as per the Project standard and quality standard stipulated by Ministry of Engineering of the Union of xx.
+\item[1.1] 依据本合同所限定的条款，乙方应以 xx 工程部规定的建筑标准和质量要求执行本工程。
+\end{itemize}
+
+2.\quad \uline{Contract Period}
+
+\end{document}
+```
+
+Compile this with XeLaTeX so the Chinese characters render through `xeCJK`. The page contains no tables or equations, so the transcription is text and layout only.

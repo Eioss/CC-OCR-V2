@@ -1,0 +1,136 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{amsmath}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{flushright}
+    \textbf{Tnkvali.Net}
+\end{flushright}
+
+\begin{center}
+    \textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019}\\
+    \textbf{Standard - 11} \hfill Reg.No. \framebox[1.5cm]{\rule{0pt}{10pt}}\\
+    \textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent
+Time Allowed: 2.30 Hours \hfill Maximum Marks: 70
+
+\vspace{0.5cm}
+\noindent
+\textbf{Instructions:}
+\begin{enumerate}[label=\textbf{\arabic*.}, leftmargin=*]
+    \item \textbf{Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.}
+    \item \textbf{Use Blue or Black ink to write and underline.}
+\end{enumerate}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\noindent
+\textbf{Answer the following questions:} \hfill \textbf{15 \(\times\) 1 = 15}
+
+\begin{enumerate}[label=\textbf{\arabic*)}, leftmargin=*]
+    \item The \_\_\_\_\_\_\_ patterns of questions are commonly known as Interrogative sentences.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item 4
+        \item 3
+        \item 2
+        \item 5
+    \end{enumerate}
+    
+    \item A cruise is a journey on a
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item ferry
+        \item ocean lines
+        \item ship
+        \item boat
+    \end{enumerate}
+    
+    \item An information paper document is
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item brochure
+        \item pamphlet
+        \item itinerary
+        \item notice
+    \end{enumerate}
+    
+    \item The pair of words 'united-untied' is an example of
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item homograph
+        \item contranyms
+        \item homophones
+        \item antigrams
+    \end{enumerate}
+    
+    \item A \_\_\_\_\_\_\_ is a short informal performance intended to educate or inform.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item play
+        \item parody
+        \item skit
+        \item drama
+    \end{enumerate}
+    
+    \item The association of one word with multiple meanings is known as \_\_\_\_\_\_\_.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item polygenesis
+        \item polysemy
+        \item polycentric
+        \item polyomial
+    \end{enumerate}
+    
+    \item The process of reading quickly to get the specific information from a given text.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item decoding
+        \item scanning
+        \item encoding
+        \item skimming
+    \end{enumerate}
+    
+    \item One who treats old people
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item geriatrician
+        \item pediatrician
+        \item neurologist
+        \item pathologist
+    \end{enumerate}
+    
+    \item Epitasis means
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item gum disease
+        \item iron deficiency
+        \item nose bleed
+        \item feverishness
+    \end{enumerate}
+    
+    \item Bluefin is a type of \_\_\_\_\_\_\_.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item bass
+        \item cod
+        \item gold
+        \item tuna
+    \end{enumerate}
+    
+    \item Hud Herd cyclone is named after a bird \_\_\_\_\_\_\_.
+    \begin{enumerate}[label=\alph*), itemsep=0pt, parsep=0pt]
+        \item Hawk
+        \item Heron
+        \item Hoopoc
+        \item Halnan
+    \end{enumerate}
+\end{enumerate}
+
+\vfill
+\begin{center}
+    \footnotesize \textbf{Send Your Study Materials to Our Email Id - Tnkvali.Net@gmail.com}
+\end{center}
+
+\end{document}
+```

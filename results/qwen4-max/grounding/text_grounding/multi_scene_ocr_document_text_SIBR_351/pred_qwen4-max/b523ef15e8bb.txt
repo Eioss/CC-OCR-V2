@@ -1,0 +1,5 @@
+Looking at the SHIP TO section, the text 'USS Romero FPO AA 34117' appears next to the TEL: label. I need to locate its bounding box coordinates.
+
+The text is positioned in the ship-to address block, on the line with "TEL:". Estimating the normalized coordinates: left edge around x=205, top around y=412, right edge around x=332, bottom around y=420.
+
+(205, 412, 332, 420)

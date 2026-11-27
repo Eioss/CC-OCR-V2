@@ -1,0 +1,87 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{graphicx}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large \textbf{Ruijin Hospital Shanghai Jiaotong University School of Medicine}\\
+    \Large \textbf{Clinical Laboratory Report}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.5\textwidth}
+    \textbf{Name:} \\
+    \textbf{Gender:} \\
+    \textbf{Age:} \\
+    \textbf{Application Section Office:} Ruijin Hospital Shanghai Jiaotong University School of Medicine
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+    \raggedleft
+    \textbf{Sample Num:} 10243 \\
+    \textbf{PatientNo/PassportNo:} 13200210 \\
+    \textbf{Clinical Diagnosis:} Regular inspection \\
+    \textbf{Sample Type:} Nasopharynx swab \\
+    \textbf{Testing Time:} 2021-08-14
+\end{minipage}
+
+\vspace{0.5cm}
+
+\noindent
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|l|l|l|l|}
+    \hline
+    \textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+    \hline
+    SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Statement:}\\
+1. The testing result may be affected by the sampling time, sampling procedures as well as the methodology limitations. The result should be analyzed with clinical manifestations.\\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+    \textbf{Sampling Time:} 21-08-14 09:52 \\
+    \textbf{Received Time:} 21-08-14 11:03 \\
+    \textbf{The test results are just responsible for the sample, and used only for reference by clinical doctors.}
+\end{minipage}%
+\begin{minipage}[t]{0.4\textwidth}
+    \textbf{Reporting Time:} 21-08-14 13:25 \\
+    \textbf{Printing Time:} 21-08-14 07:09 \\
+    \vspace{0.2cm} \\
+    \textbf{Inspector} \rule{2cm}{0.4pt} \quad \textbf{Auditor} \rule{2cm}{0.4pt}
+\end{minipage}
+
+\vspace{1cm}
+
+\noindent
+add: No.197 Ruijin 2 Road, Huangpu district, Shanghai \hfill Tel.: 8621-64370045
+
+\vspace{0.2cm}
+\noindent
+\rule{\textwidth}{0.4pt}
+
+\noindent
+Sheet 1 \hfill (病毒室)
+
+\end{document}
+```

@@ -1,0 +1,48 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{array}
+\usepackage{longtable}
+
+\begin{document}
+
+\noindent{\LARGE Ionic Chemical Formulas/PreAICE Chemistry}\\[6pt]
+\noindent{\large NAME:\underline{\hspace{8cm}} PERIOD\underline{\hspace{1.5cm}}}\\[4pt]
+\noindent\textbf{Directions:} Using the Chemical Formulas program sheet, fill in the table below. Use subscripts \& superscripts.\\
+Remember to use romam numerals to show the valence of the transition metals in the compound name.
+
+\vspace{6pt}
+
+\renewcommand{\arraystretch}{1.6}
+\begin{longtable}{|>{\centering\arraybackslash}m{2.6cm}|>{\centering\arraybackslash}m{1.6cm}|>{\centering\arraybackslash}m{2.4cm}|>{\centering\arraybackslash}m{1.5cm}|>{\centering\arraybackslash}m{2.2cm}|>{\centering\arraybackslash}m{5.2cm}|}
+\hline
+\small METAL CATION (+) & \small CATION FORMULA & \small NONMETAL ANION (-) & \small ANION FORMULA & \small COMPOUND FORMULA & \small COMPOUND NAME \\
+\hline
+\endhead
+\textbf{sodium}       & Na+1  & hydroxide & OH-    & NaOH        & sodium hydroxide \\ \hline
+\textbf{magnesium}    & Mg+2  & phosphate & PO4-3  & Mg3(PO4)2   & magnesium phosphate \\ \hline
+\textbf{calcium}      & Ca+2  & chloride  & Cl-    & CaCl2       & calcium chloride \\ \hline
+gold(I)               & Au+1  & sulfite   & SO3-2  & Au2SO3      & gold(I) sulfite \\ \hline
+copper(II)            & Cu+2  & hydroxide & OH-    & Cu(OH)2     & copper(II) hydroxide \\ \hline
+Iron(III)             & Fe+3  & telluride & Te-2   & Fe2Te3      & iron(III) telluride \\ \hline
+magnesium             & Mg+2  & bromide   & Br-1   & MgBr2       & magnesium bromide \\ \hline
+manganese(II)         & Mn+2  & sulfide   & S-2    & MnS         & manganese(II) sulfide \\ \hline
+boron                 & B+3   & oxide     & O-2    & B2O3        & boron oxide \\ \hline
+potassium             & K+    & nitrate   & NO3-   & KNO3        & potassium nitrate \\ \hline
+barium                & Ba+2  & bromide   & Br-    & BaBr2       & barium bromide \\ \hline
+strontium             & Sr+2  & sulfate   & SO4-2  & SrSO4       & strontium sulfate \\ \hline
+iron(III)             & Fe+3  & oxide     & O-2    & Fe2O3       & iron(III) oxide \\ \hline
+silver(I)             & Ag+1  & chloride  & Cl-    & AgCl        & silver(I) chloride \\ \hline
+aluminum              & Al+3  & carbonate & CO3-2  & Al2(CO3)3   & aluminum carbonate \\ \hline
+gold(II)              & Au+2  & nitride   & N-3    & Au3N2       & gold(II) nitride \\ \hline
+cesium                & Cs+1  & phosphate & PO4-3  & Cs3PO4      & cesium phosphate \\ \hline
+ammonium              & NH4+  & sulfide   & S-2    & (NH4)2S     & ammonium sulfide \\ \hline
+zinc(II)              & Zn+2  & nitrite   & NO2-   & Zn(NO2)2    & zinc(II) nitrite \\ \hline
+chromium(I)           & Cr+1  & nitride   & N-3    & Cr3N        & chromium(I) nitride \\ \hline
+mercury(II)           & Hg+2  & oxide     & O-2    & HgO         & mercury(II) oxide \\ \hline
+sodium                & Na+   & sulfite   & SO3-2  & Na2SO3      & sodium sulfite \\ \hline
+magnesium             & Mg+2  & oxide     & O-2    & MgO         & magnesium oxide \\ \hline
+\end{longtable}
+
+\end{document}
+```

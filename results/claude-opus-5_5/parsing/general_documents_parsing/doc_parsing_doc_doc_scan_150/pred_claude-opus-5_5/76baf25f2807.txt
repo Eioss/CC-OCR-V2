@@ -1,0 +1,79 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage[table]{xcolor}
+\usepackage{array}
+\usepackage{booktabs}
+
+\definecolor{headergreen}{RGB}{0,128,96}
+\definecolor{lightgreen}{RGB}{220,245,220}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+\newcommand{\blank}{\underline{\hspace{5cm}}}
+
+\begin{document}
+
+\begin{center}
+{\Huge\bfseries The passive voice}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.1}
+\begin{tabular}{>{\bfseries}l l l}
+\rowcolor{headergreen}
+ & \textcolor{white}{\textbf{Active Voice}} & \textcolor{white}{\textbf{Passive Voice}} \\
+\rowcolor{lightgreen}
+Present Simple & They \red{serve} dinnner at 6pm & Dinner \red{is served} at 6pm \\
+\rowcolor{lightgreen}
+Present Continuous & They \red{are serving} dinner now. & Dinner \red{is being served} now. \\
+Past Simple & They \red{served} dinner. & Dinner \red{was served.} \\
+Past Continuous & They \red{were serving} dinner. & Dinner \red{was being served.} \\
+\rowcolor{lightgreen}
+Future Simple & They \red{will serve} dinner. & Dinner \red{will be served.} \\
+\rowcolor{lightgreen}
+Present Perfect & They \red{have served} dinner. & Dinner \red{has been served.} \\
+Past Perfect & They \red{had served} dinner. & Dinner \red{had been served.} \\
+Future Perfect & They \red{will have served} dinner. & Dinner \red{will have been served.} \\
+\rowcolor{lightgreen}
+Present infinitive & They \red{should serve} dinner. & Dinner \red{should be served.} \\
+\rowcolor{lightgreen}
+Perfect infinitive & They \red{should have served} dinner. & Dinner \red{should have been served.} \\
+-ing form & He likes people \red{serving} his dinner & He likes his dinner \red{being served.} \\
+Perfect-ing form & \red{Having served} dinner,... & Dinner \red{havig been served}... \\
+\midrule
+Modals+ be + p.p. & You \red{must serve} dinner. & Dinner \red{must be served.} \\
+\end{tabular}
+\end{center}
+
+\vspace{0.8cm}
+
+\noindent\textbf{Exercise}
+
+\medskip
+
+\noindent\textit{Karen is writing an article about Vivienne Tam for the school newspaper. Help her to complete the article using the correct passive form of the verbs in brackets. One of the verbs is negative.}
+
+\medskip
+
+\noindent Fashion designer Vivienne Tam $^{(1)}$ \blank\ (name) `Yin Yok' when she was born. She $^{(2)}$ \blank\ (give) her English name when she started studying in Hong Kong. She $^{(3)}$ \blank\ (teach) English at school but spoke Cantonese at home. She $^{(4)}$ \blank\ (tell) to always remember her Chinese culture. At the same time, western ideas $^{(5)}$ \blank\ (introduce) to her since people from many cultures were living in Hong Kong. This mix of East and West in her life $^{(6)}$ \blank\ (see) in her designs even now.
+
+\medskip
+
+\noindent Vivienne moved to New York when she was twenty-five. Her new and interesting designs $^{(7)}$ \blank\ (like) by important shops there, so a lot of orders for her clothing $^{(8)}$ \blank\ (place). Today her East-meets-West clothes $^{(9)}$ \blank\ (sell) only in New York, but also in cities around the world.
+
+\vspace{1cm}
+
+\begin{center}
+\fbox{\textbf{\textcolor{blue}{Try your best!}}}
+\end{center}
+
+\vfill
+\begin{flushright}
+\small iSLCollective.com
+\end{flushright}
+
+\end{document}
+```
+
+Notes: The original typos ("dinnner", "havig") were preserved as requested. Decorative images (cartoon characters) are omitted, and the speech bubble is represented with a framed box.

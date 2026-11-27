@@ -1,0 +1,68 @@
+\[
+\int_{\Omega}u^{+}(x)(-\Delta)^{s}\varphi(x)\,dx
+\leq
+\int_{\{f\geq 0\}}\gamma_{\delta}(u(x))f(x)\varphi(x)\,dx
++
+\int_{\{f<0\}}\gamma_{\delta}(u(x))f(x)\varphi(x)\,dx .
+\]
+
+\[
+W_{\psi}^{H}[f](a,y,\theta)
+=
+a^{-1}\int_{\mathbb{R}^{2}}f(x)
+e^{\frac{i}{2b_{2}}(x_{2}^{2}-y_{2}^{2})}
+\overline{\psi\!\left(r_{\theta}a^{-1}(x-y)\right)}
+e^{\frac{i}{2b_{1}}(x_{1}^{2}-y_{1}^{2})}\,dx .
+\]
+
+\[
+\psi(\beta_A)
+=
+\frac{-(8\cos^{2}(\alpha_{2})+1)+\delta}
+{-(8\cos^{2}(\alpha_{2})+1)-\delta}
+=
+\frac{\operatorname{tr}(U)+1-\delta}
+{\operatorname{tr}(U)+1+\delta}
+\tag{3.11}
+\]
+
+\[
+\frac{1}{8}+\frac{2u(T)}{4}
+\leq
+\frac{\left|D_t\!\left(1,\frac{\gamma^{2}}{12t},x_t\right)\right|}
+{\left|D_t\!\left(\frac{\gamma^{2}}{12t},x_t\right)\right|}.
+\]
+
+\[
+\widetilde{V}(t+T_{7},M^{0})\geq u(t+T_{6},M^{0})
+\quad \text{for }t\geq 0,
+\]
+
+\[
+\left(\int_{0}^{t_{1}}S(t_{1}-\tau)Bu(\tau)\,d\tau,g\right)
+=
+\int_{0}^{t_{1}}\left(S(t_{1}-\tau)Bu(\tau),g\right)d\tau .
+\]
+
+\[
+\begin{aligned}
+T_t(t)
+={}&\alpha_t\delta(t)-(\alpha_t+1)
+\left(\frac{\gamma_s}{2}+i\Delta_{CLS}\right)\\
+&\times e^{-i(\omega_t+\Delta_{CLS})t_e-\Gamma_t t}\theta(t),
+\end{aligned}
+\]
+
+\[
+\frac{h_K}{\rho_K}\leq C_S
+\qquad \forall K\in\mathcal{T}\ \text{and}\ \forall\mathcal{T}\in\mathcal{F},
+\]
+
+\[
+v^{T}Q^{(k+1,k+1)}v
+=
+v^{T}D^{(k+1,k+1)}v
+-v^{T}\beta^{(k+1,k+1)}v
++zv^{T}v
+-\lambda\left(v^{T}\mathbf{1}\right)^{2}.
+\]

@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+\{\theta_k, g\}_{\alpha\beta} &= \{q_k \cdot f_{1, \beta+1}, g\}_{\alpha\beta} - \{\overrightarrow{q_k} \cdot \overleftarrow{f}_{1, \beta+1}, g\}_{\alpha\beta} \\
+&= q_k \{f_{1, \beta+1}, g\}_{\alpha\beta} + f_{1, \beta+1} \{q_k, g\}_{\alpha\beta} \\
+&\quad - \overrightarrow{q_k} \{\overleftarrow{f}_{1, \beta+1}, g\}_{\alpha\beta} - \overleftarrow{f}_{1, \beta+1} \{\overrightarrow{q_k}, g\}_{\alpha\beta} \\
+&= q_k \{f_{1, \beta+1}, g\}_{std} - q_k \overleftarrow{f}_{1, \beta+1} \cdot \vec{g} + f_{1, \beta+1} \{q_k, g\}_{std} \\
+&\quad - \overrightarrow{q_k} \{\overleftarrow{f}_{1, \beta+1}, g\}_{std} - \overleftarrow{f}_{1, \beta+1} \{\overrightarrow{q_k}, g\}_{std} \\
+&= (w_{f_{1, \beta+1}, g} + w_{q_k, g}) q_k \cdot f_{1, \beta+1} \cdot g \\
+&\quad - (w_{q_k, g} + w_{f_{1, \beta+1}, g} - sw_{\alpha\beta}(g)) \overrightarrow{q_k} \cdot \overleftarrow{f}_{1, \beta+1} \cdot g,
+\end{align*}
+```

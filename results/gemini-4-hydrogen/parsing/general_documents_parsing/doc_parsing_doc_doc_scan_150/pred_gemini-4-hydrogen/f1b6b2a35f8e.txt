@@ -1,0 +1,103 @@
+```latex
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xeCJK} % For Chinese characters when compiling with XeLaTeX
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+
+\geometry{margin=0.8in}
+\definecolor{awinicblue}{RGB}{24, 34, 155}
+\definecolor{awinicgreen}{RGB}{140, 200, 180}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\fancyhead[L]{%
+    \textcolor{awinicgreen}{\textbf{\Large awinic}} \quad
+    \textcolor{awinicgreen}{\scriptsize \makecell[l]{\textbf{上海艾为电子技术股份有限公司} \\ shanghai awinic technology co., ltd.}}%
+}
+\fancyhead[R]{%
+    \makecell[r]{\textbf{AW32905E} \\ \footnotesize Mar. 2023 V1.0}%
+}
+
+\fancyfoot[L]{\footnotesize www.awinic.com}
+\fancyfoot[C]{\footnotesize 5}
+\fancyfoot[R]{\footnotesize \textcopyright\ 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved}
+
+\begin{document}
+
+\vspace*{0.2cm}
+
+\noindent\textcolor{awinicblue}{\large \textbf{Ordering Information}}
+
+\vspace{0.3cm}
+
+\noindent
+\begin{tabular}{|c|c|c|c|c|c|c|}
+    \hline
+    \textbf{Part Number} & \textbf{Temperature} & \textbf{Package} & \textbf{Marking} & \makecell{\textbf{Moisture} \\ \textbf{Sensitivity} \\ \textbf{Level}} & \makecell{\textbf{Environmental} \\ \textbf{Information}} & \makecell{\textbf{Delivery} \\ \textbf{Form}} \\
+    \hline
+    AW32905EFCR & $-40^\circ\text{C} - 85^\circ\text{C}$ & \makecell{FCQFN \\ $1.3\text{mm}\times1.8\text{mm}$ \\ -12L} & RZR & MSL1 & ROHS+HF & \makecell{3000 units/ \\ Tape and \\ Reel} \\
+    \hline
+\end{tabular}
+
+\vspace{0.8cm}
+
+\noindent\textcolor{awinicblue}{\large \textbf{Absolute Maximum Ratings}} \textsuperscript{(NOTE 1)}
+
+\vspace{0.3cm}
+
+\noindent
+\begin{tabular}{|c|l|l|c|c|c|}
+    \hline
+    \textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\
+    \hline
+    $\text{V}_{\text{IN}}$ & Input voltage & & -0.3 & 29 & V \\
+    \hline
+    $\text{V}_{\text{OUT}}$ & Output voltage & & -0.3 & See\textsuperscript{(NOTE 2)} & V \\
+    \hline
+    $\text{V}_{\text{OVLO}}$ & OVLO voltage & & -0.3 & 6 & V \\
+    \hline
+    $\text{V}_{\overline{\text{ACOK}}}$ & $\overline{\text{ACOK}}$ voltage & & -0.3 & 6 & V \\
+    \hline
+    $\text{V}_{\overline{\text{EN}}}$ & $\overline{\text{EN}}$ voltage & & -0.3 & 6 & V \\
+    \hline
+    $\text{I}_{\text{SW}}$ & \makecell[l]{Continuous current of switch \\ IN-OUT\textsuperscript{(NOTE 3)}} & \makecell[l]{Continuous current on IN and \\ OUT pin} & & 5 & A \\
+    \hline
+    $\text{I}_{\text{PEAK}}$ & Peak current & \makecell[l]{Peak input and output current \\ on IN and OUT pin(10ms)} & & 8 & A \\
+    \hline
+    $\text{I}_{\text{DIODE}}$ & Continuous diode current & \makecell[l]{Continuous forward current \\ through the nFET body diode} & & 1.5 & A \\
+    \hline
+    $\text{T}_{\text{A}}$ & Ambient temperature & & -40 & 85 & $^\circ\text{C}$ \\
+    \hline
+    $\text{T}_{\text{J}}$ & Junction temperature & & -40 & 150 & $^\circ\text{C}$ \\
+    \hline
+    $\text{T}_{\text{STG}}$ & Storage temperature & & -65 & 150 & $^\circ\text{C}$ \\
+    \hline
+    $\text{T}_{\text{LEAD}}$ & Soldering temperature & At leads, 10 seconds & & 260 & $^\circ\text{C}$ \\
+    \hline
+    Surge & Input surge protection & \makecell[l]{IEC61000-4-5 test with $2\Omega$ \\ equivalent series resistance} & 120 & & V \\
+    \hline
+\end{tabular}
+
+\vspace{0.3cm}
+
+\noindent\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\vspace{0.2cm}
+
+\noindent\textit{NOTE2: 29V or $V_{\text{IN}}$+0.3V, whichever is smaller.}
+
+\vspace{0.2cm}
+
+\noindent\textit{NOTE3: Limited by thermal design.}
+
+\end{document}
+```

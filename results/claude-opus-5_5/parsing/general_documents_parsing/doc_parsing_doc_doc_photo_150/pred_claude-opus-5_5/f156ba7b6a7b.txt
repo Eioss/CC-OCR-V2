@@ -1,0 +1,85 @@
+```latex
+\documentclass[12pt,a4paper]{ctexart}
+\usepackage{geometry}
+\usepackage{array}
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries 定海七中家长开放日邀请函}
+\end{center}
+
+\vspace{0.5em}
+
+为了增强孩子与父母之间的沟通和理解，让家长亲身经历子女在校的学习和生活，让家长走近孩子，倾听心声，走进教室，关注教育；为了增强学校、教师与家长的沟通，从而更好地配合学校，共同关注孩子的健康成长。因此，学校特举办此次家长开放日。我们真诚地期待您的光临，并为学校的进一步发展留下宝贵的评价意见。
+
+\noindent 一、家长开放日时间：
+
+\begin{center}
+\textbf{2018 年 11 月 15 日（星期四）}
+\end{center}
+
+\noindent 二、家长开放日方法：
+
+\noindent 1、您可以在这一天选取您想听取、了解的任何一门或所有的课程进入教室听课，并请在我们给您的回执中在想要听取的课程旁边打个“$\surd$”，周二交到班主任处，以便我们掌握听课的人数并及时作出安排。
+
+\noindent 2、到校后请在班主任处签，您听的是哪几节，就签到相应的节次。
+
+\noindent 3、在您结束所有的听课后，请填写《家长开放日活动反馈表》（不具名），交到学校一楼门岗处意见箱内。以便学校及时掌握家长对教师、班级、学校的意见、建议，及时在今后的教学工作中作出调整。
+
+\vspace{0.5em}
+
+\noindent\textbf{注：班主任请将回执于周二放学前上交到教导处，并在第一页写清听课最多的科目的人数，以备凳子。}
+
+\vspace{1em}
+\noindent\makebox[\linewidth]{\dotfill}
+
+\begin{center}
+回\quad 执
+\end{center}
+
+\noindent 七（2）班\underline{\hspace{3cm}}同学：
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|p{2cm}|p{1.8cm}|p{1.5cm}|p{2.8cm}|}
+\hline
+星期四 & 七(1) & 打 $\surd$ & 上课时间 \\
+\hline
+第一节 & 数学 & & 8:00--8:40 \\
+\hline
+第二节 & 英语 & & 8:50--9:30 \\
+\hline
+第三节 & 科学 & & 9:50--10:30 \\
+\hline
+第四节 & 体育 & & 10:40--11:20 \\
+\hline
+第五节 & 道法 & & 13:20—14:00 \\
+\hline
+第六节 & 语文 & & 14：15-15:55 \\
+\hline
+第七节 & 信息 & & 15:10—15:50 \\
+\hline
+第八节 & 思维 & & 16:00-16:40 \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+
+\begin{flushright}
+家长签名：\hspace{2cm}\\
+2018/11/12\hspace{1.2cm}
+\end{flushright}
+
+\end{document}
+```
+
+Notes on the transcription:
+- The text is kept exactly as printed, including the original wording such as “以备凳子”. The time “14：15-15:55” for 第六节 also stays as printed, with its full-width colon.
+- The dash styles (`--`, `—`, `-`) follow the varying separators in the original table.
+- The table header reads “七(1)” while the reply slip says “七（2）班”. Both are kept as they appear.
+- The partially visible, upside-down header from another document at the top of the photo (“2018–2019 学年度 第6期”) is left out because it isn't part of this invitation letter.
+- Compile with XeLaTeX, since the `ctexart` class is needed for Chinese text.

@@ -1,0 +1,43 @@
+\[
+\begin{aligned}
+&\beta_{w}^{*}\left\{
+\frac{\left(E[(1-T)^{2}]E[T(T+\eta)]-\rho^{2}E[T(1-T)]E[(1-T)(T+\eta)]\right)E(T)}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+\right.\\
+&\quad\left.
++\frac{\left(\rho E[T^{2}]E[(T+\eta)(1-T)]-\rho E[T(1-T)]E[T(T+\eta)]\right)(1-E(T))}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+-E(T+\eta)
+\right\}\\
+&\quad+\beta_{g}^{*}\left\{
+\frac{\left(\rho E[(1-T)^{2}]E[T(1-T-\eta)]-\rho E[T(1-T)]E[(1-T)(1-T-\eta)]\right)E(T)}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+\right.\\
+&\quad\left.
++\frac{\left(E(T^{2})E[(1-T)(1-T-\eta)]-\rho^{2}E[T(1-T)]E[T(1-T-\eta)]\right)(1-E(T))}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+-(1-E(T+\eta))
+\right\}\\
+&=\beta_{w}^{*}\left\{
+\frac{\left(E[(1-T)^{2}]E(T^{2})-\rho^{2}E[T(1-T)]E[T(1-T)]\right)E(T)}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+\right.\\
+&\quad\left.
++\frac{\left(\rho E(T^{2})E[T(1-T)]-\rho E[T(1-T)]E[T^{2}]\right)(1-E(T))}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+-E(T)
+\right\}\\
+&\quad+\beta_{g}^{*}\left\{
+\frac{\left(\rho E[(1-T)^{2}]E[T(1-T)]-\rho E[T(1-T)]E[(1-T)^{2}]\right)E(T)}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+\right.\\
+&\quad\left.
++\frac{\left(E(T^{2})E[(1-T)^{2}]-\rho^{2}E[T(1-T)]E[T(1-T)]\right)(1-E(T))}
+{E(T^{2})E[(1-T)^{2}]-\rho^{2}E^{2}[T(1-T)]}
+-(1-E(T))
+\right\}\\
+&=\beta_{w}^{*}\left\{E(T)+0-E(T)\right\}
++\beta_{g}^{*}\left\{0+(1-E(T))-(1-E(T))\right\}\\
+&=0.
+\end{aligned}
+\]

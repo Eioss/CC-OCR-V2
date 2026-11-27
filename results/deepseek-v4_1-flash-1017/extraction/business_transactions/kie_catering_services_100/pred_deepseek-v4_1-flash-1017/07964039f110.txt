@@ -1,0 +1,13 @@
+```json
+{
+  "menu": [
+    {
+      "name": "DONAT GULA",
+      "quantity": "1X",
+      "price": "11,000"
+    }
+  ],
+  "sub_total": "11,000",
+  "total": "11,000"
+}
+```

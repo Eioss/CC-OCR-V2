@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [168, 196, 182, 718], "label": "Factory"},
+  {"bbox_2d": [195, 158, 206, 263], "label": "TEL"},
+  {"bbox_2d": [193, 308, 204, 412], "label": "FAX"},
+  {"bbox_2d": [194, 481, 204, 576], "label": "E-mail"},
+  {"bbox_2d": [194, 642, 205, 738], "label": "Website"},
+  {"bbox_2d": [243, 317, 286, 540], "label": "Title"},
+  {"bbox_2d": [340, 22, 351, 118], "label": "Invoice to"},
+  {"bbox_2d": [379, 22, 390, 118], "label": "Company Name"},
+  {"bbox_2d": [396, 18, 408, 277], "label": "Address"},
+  {"bbox_2d": [453, 19, 464, 284], "label": "Shipper"},
+  {"bbox_2d": [475, 19, 485, 211], "label": "Address"},
+  {"bbox_2d": [322, 686, 331, 741], "label": "Date"},
+  {"bbox_2d": [341, 686, 350, 753], "label": "INV No."},
+  {"bbox_2d": [361, 686, 371, 772], "label": "PO No."},
+  {"bbox_2d": [381, 686, 390, 716], "label": "Country of Origin"},
+  {"bbox_2d": [400, 686, 410, 759], "label": "Delivery Terms"},
+  {"bbox_2d": [604, 78, 614, 108], "label": "Model No."},
+  {"bbox_2d": [565, 170, 593, 399], "label": "Product Name"},
+  {"bbox_2d": [597, 215, 608, 362], "label": "Size"},
+  {"bbox_2d": [612, 224, 623, 353], "label": "Input"},
+  {"bbox_2d": [628, 231, 639, 284], "label": "0utput"},
+  {"bbox_2d": [643, 224, 654, 246], "label": "45g"},
+  {"bbox_2d": [605, 464, 616, 510], "label": "Quantity (PCS)"},
+  {"bbox_2d": [605, 597, 614, 626], "label": "Unit Price (USD) /PC"},
+  {"bbox_2d": [605, 720, 615, 811], "label": "Amount USD"},
+  {"bbox_2d": [733, 171, 745, 444], "label": "1.Payment Terms"},
+  {"bbox_2d": [754, 171, 766, 238], "label": "2.Ex-factory date"}
+]
+```

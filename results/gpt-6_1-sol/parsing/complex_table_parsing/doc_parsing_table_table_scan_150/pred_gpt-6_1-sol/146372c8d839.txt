@@ -1,0 +1,26 @@
+<table>
+  <tr>
+    <td>Data Split</td>
+    <td>max</td>
+    <td>med</td>
+    <td>avg</td>
+  </tr>
+  <tr>
+    <td>train</td>
+    <td>7276</td>
+    <td>1482</td>
+    <td>1368</td>
+  </tr>
+  <tr>
+    <td>validation</td>
+    <td>3762</td>
+    <td>1427</td>
+    <td>1352</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>5144</td>
+    <td>1454</td>
+    <td>1352</td>
+  </tr>
+</table>

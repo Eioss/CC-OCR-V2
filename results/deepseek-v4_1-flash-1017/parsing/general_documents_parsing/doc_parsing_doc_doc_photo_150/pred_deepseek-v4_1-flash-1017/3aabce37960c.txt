@@ -1,0 +1,72 @@
+Here is the transcription of the image content into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{\large Test Your Reading} \hfill
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Word Power}} \\
+\hline
+\textbf{Extra} & more than what is needed \\
+\textbf{Instead} & as an alternative \\
+\textbf{Din} & noise \\
+\textbf{Seize} & catch by force \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent \textbf{1. Complete the following statements :}
+
+\begin{enumerate}
+    \item[(a)] They began \underline{\hspace{2cm}heating\hspace{2cm}} the iron and forging it again.
+    \item[(b)] The farmer \underline{\hspace{2cm}led\hspace{2cm}} the lord to the storeroom.
+    \item[(c)] Off rode the \underline{\hspace{2cm}farmer\hspace{2cm}} and the lord to get what he had earned.
+    \item[(d)] The lord \underline{\hspace{2cm}heated\hspace{2cm}} it well and threw it in a tub of water.
+    \item[(e)] The lord \underline{\hspace{1cm}did not\hspace{1cm}} want the coachman to know the shame.
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{2. Answer the following questions :}
+
+\begin{enumerate}
+    \item[(a)] What did the lord try to make when he failed to make the plough ?
+    \item[(b)] What did the lord try to make when he could not make the axe ?
+    \item[(c)] What did the lord make at last ?
+    \item[(d)] How did the lord make a sizz ?
+    \item[(e)] Why did the lord take the sack to the farmer's home ?
+    \item[(f)] What did the strongmen do ?
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{3. Who said to whom :}
+
+\begin{enumerate}
+    \item[(a)] Oh all right then.
+    
+    \textbf{Who said ?} \framebox(150,20){} \hspace{1cm} \textbf{To whom ?} \framebox(150,20){}
+    
+    \item[(b)] It's a fine sizz.
+    
+    \textbf{Who said ?} \framebox(150,20){} \hspace{1cm} \textbf{To whom ?} \framebox(150,20){}
+    
+    \item[(c)] I'll take the sack and go into the storeroom myself.
+    
+    \textbf{Who said ?} \framebox(150,20){} \hspace{1cm} \textbf{To whom ?} \framebox(150,20){}
+\end{enumerate}
+
+\vspace{2em}
+\begin{center}
+    12
+\end{center}
+
+\end{document}
+```

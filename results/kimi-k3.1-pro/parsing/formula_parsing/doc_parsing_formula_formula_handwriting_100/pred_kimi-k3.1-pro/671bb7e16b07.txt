@@ -1,0 +1,75 @@
+\[
+\pi(k,z,\theta\mid y,p,P,\gamma)\propto
+\frac{(2\pi)^{-n/2}}{v^{k+1}\sigma^{n}}p^{k}(1-p)^{n-k-1}
+\prod_{j=1}^{k+1}\left(T_j-T_{j-1}+\frac{1}{v^2}\right)^{-1/2}
+\exp\left\{-\frac{1}{2\sigma^2}\left(
+SS_j+\frac{\mu_0^2}{v^2}
+-\frac{\left(S_j+\frac{\mu_0}{v^2}\right)^2}
+{T_j-T_{j-1}+\frac{1}{v^2}}
+\right)\right\}.
+\]
+
+\[
+\begin{aligned}
+R_n'(t):={}&\frac{\gamma(2^n+P_n^N)}{4}
+\left(\frac{(1+2^{n-1}y_{n+1}^N)^2}{1+2^ny_n^N}-1\right)
+(P_{n+1}^N-P_n^N)\\
+&-\bar{\mu}_n\!\left(A^N\!\left(A^N(t),P^N(t)\right)\right)
+\gamma(2^{n+1}+P_{n+1}^N)
+\left(\frac{1+2^{n+1}y_{n+1}^N}{1+2^ny_n^N}-1\right)
+(P_n^N-P_{n+1}^N),
+\end{aligned}
+\]
+
+\[
+\operatorname{gen}_H(f^{c_2})\leq \operatorname{gen}_H(f^{c_1})
++\#\left\{(-u_i,u_i):C_1\leq f(u_i)\leq C_2,\ f'(u_i)=0\right\},
+\]
+
+\[
+\begin{aligned}
+&P(T_*\in A\mid \min_{a\leq t\leq b}X(t)>u)\\
+&=\frac{\displaystyle\int_0^\infty
+\exp\left\{-\frac{ux}{\sigma_*^2(a,b)}\right\}
+P\left(Y\leq x,\ \min_{a\leq t\leq b}X(t)>0,\ T_*\in A\right)\,dx}
+{\displaystyle\int_0^\infty
+\exp\left\{-\frac{ux}{\sigma_*^2(a,b)}\right\}
+P\left(Y\leq x,\ \min_{a\leq t\leq b}X(t)>0\right)\,dx},
+\end{aligned}
+\]
+
+\[
+S_j\geq
+\frac{(1+9\epsilon/10)d-2^j}{2^j}
+\geq
+\frac{1+9\epsilon/10}{1+\epsilon/10}\,d_j-1
+\geq
+(1+7\epsilon/10)d_j.
+\]
+
+\[
+I^{sym}(\alpha_1\boxdot\alpha_2)
+\subseteq I^{sym}(\alpha_1'\boxdot\alpha_2')
+\quad\text{and}\quad
+O^{sym}(\alpha_1\boxdot\alpha_2)
+\subseteq O^{sym}(\alpha_1'\boxdot\alpha_2').
+\]
+
+\[
+x=(0,0,\ldots,0,x_{i+1},\ldots,x_n)
+\]
+
+\[
+\begin{aligned}
+\frac{t_i}{64\left(1+t_i d(x_i,\partial B_R)^{-4}\right)}
+f_{k,i}(x,t)
+&\leq
+\frac{t_i+\frac{t}{\sigma_i}}
+{1+\left(t_i+\frac{t}{\sigma_i}\right)
+d\left(x_i+\frac{x}{\sigma_i},\partial B_R\right)^{-4}}
+f_{k,i}(x,t)\\
+&\leq
+\frac{t_i}{1+t_i d(x_i,\partial B_R)^{-4}}
+f_{k,i}(0,0).
+\end{aligned}
+\]

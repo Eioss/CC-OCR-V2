@@ -1,0 +1,13 @@
+```latex
+\begin{aligned}
+\mathbb{P}_{zK}\left[T^{z^{u_\Sigma}}_{\alpha,M_\Sigma}<T^{z^{u_\Sigma}}_{D}\right]
+&=\frac{\sum_{n=1}^{zK}\frac{1}{1-p_\Sigma(n)}\frac{1}{\mu(n)}}{\sum_{n=1}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\frac{1}{1-p_\Sigma(n)}\frac{1}{\mu(n)}}\\
+&=\frac{\sum_{n=1}^{zK}\prod_{k=1}^{n-1}\frac{1+2C_0kK^{-1}}{1-2C_0kK^{-1}}}{\sum_{n=1}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\prod_{k=1}^{n-1}\frac{1+2C_0kK^{-1}}{1-2C_0kK^{-1}}}\\
+&=\frac{\sum_{n=1}^{zK}\exp\left(\sum_{k=1}^{n-1}\ln\left(\frac{1+2C_0kK^{-1}}{1-2C_0kK^{-1}}\right)\right)}{\sum_{n=1}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(\sum_{k=1}^{n-1}\ln\left(\frac{1+2C_0kK^{-1}}{1-2C_0kK^{-1}}\right)\right)}\\
+&\le\frac{\sum_{n=1}^{zK}\exp\left(\sum_{k=1}^{n-1}4C_0kK^{-1}\right)}{\sum_{n=1}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(\sum_{k=1}^{n-1}4C_0kK^{-1}-O\left((kK^{-1})^{2}\right)\right)}\\
+&\le\frac{\sum_{n=1}^{zK}\exp\left(2C_0n^{2}K^{-1}-2C_0nK^{-1}\right)}{\sum_{n=1}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(2C_0n^{2}K^{-1}-2C_0nK^{-1}-O\left(n(nK^{-1})^{2}\right)\right)}\\
+&\le\frac{zK\exp\left(2C_0z^{2}K\right)}{\sum_{n=2M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}^{3M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}K}\exp\left(2C_0n^{2}K^{-1}-2C_0nK^{-1}-O\left(n(nK^{-1})^{2}\right)\right)}\\
+&\le\frac{z}{M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}}\frac{\exp\left(2C_0z^{2}K\right)}{\exp\left(8C_0M_\Sigma^{2}(x^{4i}\varepsilon^{4})^{1+\alpha}K-4C_0M_\Sigma(x^{2i}\varepsilon^{2})^{1+\alpha}-O\left((x^{6i}\varepsilon^{6})^{1+\alpha}K\right)\right)}\\
+&\le\exp\left(-2C_0K\left(2M_\Sigma^{2}(x^{4i}\varepsilon^{4})^{1+\alpha}-z^{2}\right)\right).
+\end{aligned}
+```

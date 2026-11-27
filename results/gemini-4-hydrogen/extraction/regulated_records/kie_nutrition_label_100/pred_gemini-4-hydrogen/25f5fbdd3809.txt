@@ -1,0 +1,3 @@
+```json
+{"CE-D": "6 %", "CE-P1": "504 kJ (121 Cal)", "CE-PS": "504 kJ (121 Cal)", "PRO-PS": "3.3 g", "PRO-D": "7 %", "PRO-P1": "3.3 g", "TF-D": "3 %", "TF-P1": "1.9 g", "TF-PS": "1.9 g", "CAR-P1": "20.2 g", "CAR-PS": "20.2 g", "CAR-D": "7 %", "SO-PS": "LESS THAN 5 mg", "SO-D": "0.2 %", "SO-P1": "LESS THAN 5 mg", "SS": "100g"}
+```

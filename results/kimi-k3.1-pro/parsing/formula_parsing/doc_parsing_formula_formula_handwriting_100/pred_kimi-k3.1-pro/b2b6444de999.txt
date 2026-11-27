@@ -1,0 +1,46 @@
+\[
+S_{w}(Z(a,h(a)))-S_{w}(\Phi_{w})
+=\left.\frac{a^{2}}{2}\frac{d^{2}}{da^{2}}S_{w}(Z_{w}(a,h(a)))\right|_{a=\theta a}<0
+\quad \text{for all } a\in(-a_{1},a_{1}),
+\]
+
+\[
+t\to+\infty,\qquad \operatorname{Im}(\lambda)\to+\infty,\qquad
+\zeta_{0}+\zeta_{1}\to-i(\xi',-j),
+\]
+
+\[
+\zeta_{0}\cdot\zeta_{1}-\lambda\to-\frac{1}{2}\left(|\xi'|^{2}+j^{2}\right).
+\]
+
+\[
+n\cdot\mathbb{E}\!\left(\mathbf{1}_{x_{0}^{i}=1}\mathbf{1}_{\sum_{1\le j\le p-1}x_{j}^{i}\ge1}\right)
+\le n\sum_{i\le p}\mathbb{E}\,\mathbf{1}_{B_{r}(q)\times S^{1}}\,
+\mathbf{1}_{B_{r}(q)\times S^{1}}\circ f^{2}
+\]
+
+\[
+0\to j_{\beta!}j_{\beta}^{!}\mathcal{F}'\to\mathcal{F}
+\to j_{\alpha*}j_{\alpha}^{*}\mathcal{F}''\to0.
+\]
+
+\[
+\|V\|_{X,+}=\sup_{x\in[0,X]}e^{\alpha(X-x)}|V(x)|
+\]
+
+\[
+\|V\|_{X,-}=\sup_{x\in[-X,0]}e^{\alpha(X+x)}|V(x)|,
+\]
+
+\[
+d\langle\hat{Q}\rangle
+=\operatorname{Tr}\!\left[(d\hat{\rho}_{AB})\hat{H}_{AB}\right]=0,
+\]
+
+\[
+\mu_{w}=i\mu v_{x}
+\]
+
+\[
+\|\varphi-\varphi^{\varepsilon}\|_{L^{2}(\mathbb{T}^{2})}<\varepsilon/4M
+\]

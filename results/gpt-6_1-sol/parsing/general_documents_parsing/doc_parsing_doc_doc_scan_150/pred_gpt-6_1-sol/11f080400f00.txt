@@ -1,0 +1,156 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.55in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{tabularx,array}
+\usepackage[table]{xcolor}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{newtxtext}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\definecolor{sjsublue}{RGB}{30,110,140}
+\definecolor{tablegray}{RGB}{230,230,230}
+\definecolor{tableblue}{RGB}{201,217,235}
+
+\newcommand{\sectiontitle}[1]{%
+  \par\medskip{\large\bfseries\color{sjsublue}#1}\par
+}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+\begin{document}
+
+{\Huge\bfseries\color{sjsublue}SJSU}
+\quad
+\begin{tabular}{@{}l@{}}
+{\color{olive}SAN JOSE STATE}\\
+{\color{olive}UNIVERSITY}
+\end{tabular}
+
+\medskip
+{\LARGE\bfseries\color{sjsublue}
+INTERNATIONAL APPLICANT FINANCIAL FORM}
+
+International applicants must affirm that they are responsible for paying all tuition, fees and living expenses for the entire period of intended study by completing the Declaration of Finance form. In order to issue your I-20, we are required to collect documentation that shows you have funds available to pay for the total estimated expense for the first year of your academic program. Estimated expenses include tuition, fees, living expenses and health insurance. Actual expenses may vary.
+
+\bigskip
+\begin{tabularx}{\textwidth}{@{}p{1.15in}X@{}}
+{\large\bfseries\color{sjsublue}INSTRUCTIONS}
+&
+{\color{sjsublue}$\blacktriangleright$ \textbf{Part I.}}
+Answer questions 1--8 completely.
+\\[5pt]
+&
+{\color{sjsublue}$\blacktriangleright$ \textbf{Part II.}}
+Indicate the source(s) of your funding and the amount available from each source; have your sponsor(s) verify their sponsorship by signing the form. Submit the required documentation as indicated below to show that you and your sponsor(s) have available liquid assets equal to or greater than at least one year's cost.
+\end{tabularx}
+
+\sectiontitle{ESTIMATED EXPENSES}
+
+\begin{minipage}[t]{0.49\textwidth}
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\linewidth}{|>{\columncolor{tablegray}}X|
+>{\columncolor{tableblue}}C|
+>{\columncolor{tableblue}}C|}
+\hline
+\centering\bfseries Fall 2019-Spring 2020 Academic Year
+&
+\textbf{Undergraduate}\newline
+{\scriptsize (12 units/semester)}
+&
+\textbf{Graduate}\newline
+{\scriptsize (9 units/semester)}
+\\ \hline
+\raggedleft Tuition Fees & \textbf{\$17,300} & \textbf{\$16,358}\\ \hline
+\raggedleft Living Expenses & \textbf{\$21,397} & \textbf{\$21,397}\\ \hline
+\raggedleft Medical Insurance & \textbf{\$1,888} & \textbf{\$1888}\\ \hline
+\raggedleft\textbf{Total} & \textbf{\$40,585} & \textbf{\$39,643*}\\ \hline
+\end{tabularx}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.49\textwidth}
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\linewidth}{|>{\columncolor{tablegray}}X|
+>{\columncolor{tableblue}}C|
+>{\columncolor{tableblue}}C|}
+\hline
+\centering\bfseries Fall 2018-Spring 2019 Academic Year
+&
+\textbf{Undergraduate}\newline
+{\scriptsize (12 units/semester)}
+&
+\textbf{Graduate}\newline
+{\scriptsize (9 units/semester)}
+\\ \hline
+\raggedleft Tuition Fees & \textbf{\$17,225} & \textbf{\$16,283}\\ \hline
+\raggedleft Living Expenses & \textbf{\$20,445} & \textbf{\$20,445}\\ \hline
+\raggedleft Medical Insurance & \textbf{\$1,529} & \textbf{\$1,529}\\ \hline
+\raggedleft\textbf{Total} & \textbf{\$39,199} & \textbf{\$38,257*}\\ \hline
+\end{tabularx}
+\end{minipage}
+
+*The Graduate School of Business and Special Session programs have different amounts. Please check program websites for fee information.
+
+\medskip
+Financial documents that demonstrate proof of funding must be in English and must:
+\begin{itemize}[leftmargin=1.5em,itemsep=2pt,topsep=4pt]
+\item Be on official bank letterhead with a stamp/seal and/or bank officer's signature.
+\item Demonstrate at least the minimum total estimated expenses for one academic year in your academic program.
+\item Include an issue date that is within the recent 6 months of when you submit your online application.
+\item Include the account holder's name.
+\item Include a specific amount in dollars (USD).
+\end{itemize}
+
+\sectiontitle{DEPENDENT SUPPORT}
+
+Students wishing to have a spouse or children accompany them to San Jos\'e State University (SJSU) must be able to provide proof of funding for an additional \$5,000 for each family member. \textbf{A copy of marriage certificate and passport are required for adding a spouse. A copy of birth certificate(s) and passport(s) are required for each child.} Additional proof of funding will also be required. *Please note a dependent cannot also be a sponsor.
+
+\sectiontitle{FINANCIAL DOCUMENTATION}
+
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\textwidth}{|>{\columncolor{tablegray}}X|
+>{\columncolor{tableblue}}p{0.85in}|
+>{\columncolor{tableblue}}p{0.85in}|}
+\hline
+{\bfseries\color{sjsublue}Type of Documentation*}
+& \centering\bfseries Acceptable
+& \centering\arraybackslash\bfseries Not Acceptable
+\\ \hline
+Bank Letters
+& \centering $\checkmark$ & \\ \hline
+Bank Statements (Savings or Checking Accounts)
+& \centering $\checkmark$ & \\ \hline
+Fixed/Term/Time Deposits - \textbf{must be able to be withdrawn at any time without penalty}
+& \centering $\checkmark$ & \\ \hline
+Loan Letters
+& \centering $\checkmark$ & \\ \hline
+Scholarship Letters (Private, Government, School, etc.)
+& \centering $\checkmark$ & \\ \hline
+Solvency Letter - Bank letter indicating funds immediately available to the individual
+& \centering $\checkmark$ & \\ \hline
+Employer Letters / Salary Statements
+& & \centering\arraybackslash\textbf{x}\\ \hline
+Line of Credit Letters
+& & \centering\arraybackslash\textbf{x}\\ \hline
+Provident (Retirement) Fund Statements
+& & \centering\arraybackslash\textbf{x}\\ \hline
+Stock Market, Equity, or Mutual Fund Statements
+& & \centering\arraybackslash\textbf{x}\\ \hline
+Valuation Statements (Jewelry, Gold, Property)
+& & \centering\arraybackslash\textbf{x}\\ \hline
+\end{tabularx}
+
+\medskip
+\textbf{*This information is required for visa eligibility determination.}
+
+\begin{flushright}
+\scriptsize\textbf{Revised(s) Sept. 2018}
+\end{flushright}
+
+\end{document}
+```

@@ -1,0 +1,9 @@
+$$\begin{aligned}
+&\lambda^2 = \lambda_n^2 = \left(\frac{\pi n}{2}\right)^2, \quad n \in \mathbb{N} \\
+&V_1 = \sum_{e_n \in \mathcal{E}_n} \int_{e_n} [u_h] \left( \{ F_n \nabla r_n z_n i (\delta e_n n^{-2} - p^{-1} n_n) \} + d \{ F_n \nabla r_n z_n i H n_n \} \right) ds_n \\
+&= \sum_{P \in N_n} \sum_{e_n \ni P} \int_{e_n} z_P^1 [u_h] \{ F_n \nabla r_n \varphi_P i (\delta e_n n^{-1} - p^{-1} n_n) \} + z_P^1 [u_h] d \{ F_n \nabla r_n \varphi_P i H n_n \} ds_n \\
+&\Delta_p u \equiv [(u_x)^2 + (u_y)^2]^{\frac{p-2}{2}} \Delta u + x [(u_x)^2 + (u_y)^2]^{\frac{p-2}{2}} [(u_x)^2 u_{xx} + 2 u_x u_y u_{xy} + (u_y)^2 u_{yy}] = 0, \\
+&\#(O) = |\{ x \mid B(x) = 0 \text{ and } \phi(x) = 0 \}|, \\
+&\| R_{\tau, A, u} \|_{L^{\frac{\tilde{p}}{p+p}}(\Omega)} \le C \| u \|_{W_p^s(\Omega)} / \tau^\delta \quad \forall \tau \ge \tau_1, \\
+&H = \frac{x_1' x_2'' - x_1'' x_2'}{2 \sqrt{1 + (r')^2}} n_1,
+\end{aligned}$$

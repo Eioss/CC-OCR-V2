@@ -1,0 +1,5 @@
+Looking at the receipt, there are two instances of '20/08/2017'. The first appears after "Date:" near the top right.
+
+The "Date: 20/08/2017" line is located around y=260-275. The date text spans approximately x=650 to x=840.
+
+(650, 259, 842, 276)

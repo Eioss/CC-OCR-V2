@@ -1,0 +1,23 @@
+```json
+{
+  "menu": [
+    {
+      "name": "GRILLED BABY POTATO (R",
+      "quantity": "1",
+      "price": "50,500"
+    },
+    {
+      "name": "HOT TUNA",
+      "quantity": "1",
+      "price": "67,000"
+    },
+    {
+      "name": "HOT TUNA",
+      "quantity": "1",
+      "price": "67,000"
+    }
+  ],
+  "sub_total": "117,500",
+  "total": "148,127"
+}
+```

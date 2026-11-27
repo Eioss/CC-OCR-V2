@@ -1,0 +1,64 @@
+Here is the transcription of the document into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, top=1in, bottom=1in, left=1in, right=1in}
+
+\begin{document}
+
+\begin{flushright}
+Contract No.: \\
+合同编号:
+\end{flushright}
+
+\vspace{2cm}
+
+\begin{center}
+{\Large xxx engineering contract} \\
+\vspace{0.5cm}
+{\Large \textbf{xxx 工程合同}}
+\end{center}
+
+\vspace{1.5cm}
+
+\begin{center}
+Party A: xxxCompany Limited \\
+甲方: xxx 有限公司 \\
+\vspace{0.3cm}
+Party B:xxx Company Limited \\
+乙方: xxx 有限公司
+\end{center}
+
+\vspace{1.5cm}
+
+This contract is made and entered into on the \underline{\hspace{1cm}} day of \underline{\hspace{1cm}} , 2014 by the following Parties in \underline{\hspace{1cm}} .
+
+本合同于\underline{\hspace{1cm}}年\underline{\hspace{1cm}}月\underline{\hspace{1cm}}日由以下当事方在\underline{\hspace{1cm}}签署。
+
+Party A: xxx Company Limited,
+
+甲方: xxx 有限公司, xxx经营的公司, 住所地为 xxx, (下称“甲方”), 法定代表人: xxx
+
+Party B: xxx Company Limited,
+
+乙方: xxx 有限公司, 一家 xxx经营的公司, 注册地址是: xxx, (下称“乙方”), 法定代表人: xxx
+
+Party A and Party B are called by a joint name of Both Parties under this contract, each of which is called as A Party.
+
+甲方和乙方在本合同项下统称为“双方”, 单独称为“一方”。
+
+\begin{enumerate}
+    \item \underline{Work Content and Requirements}
+    \item \underline{工作内容、要求}
+    \begin{enumerate}
+        \item[1.1] In accordance with the items stipulated in this Contract, Party B shall conduct the project as per the Project standard and quality standard stipulated by Ministry of Engineering of the Union of xx.
+        
+        1.1 依据本合同所限定的条款, 乙方应以 xx 工程部规定的建筑标准和质量要求执行本工程。
+    \end{enumerate}
+    \item \underline{Contract Period}
+\end{enumerate}
+
+\end{document}
+```

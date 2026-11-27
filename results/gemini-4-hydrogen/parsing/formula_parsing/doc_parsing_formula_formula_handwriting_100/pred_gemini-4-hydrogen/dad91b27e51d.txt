@@ -1,0 +1,15 @@
+```latex
+\begin{gather*}
+\lim_{L \to \infty} \frac{c_{n;L}^{(II)}\left(\frac{L}{2}|z|\right)}{\left[\mathfrak{N}_L\left(\frac{L}{2}|z|\right)\right]^{1/2}} \sim e^{-\frac{1}{2}|z|^2} \frac{z^n}{\sqrt{n!}}, \quad z = e^{i\phi}|z|, \\[1em]
+\begin{aligned}
+AC \langle K_1^* x \otimes K_2^* y, K_1^* x \otimes K_2^* y \rangle_{A \otimes B} &\le \sum_{i \in I, j \in J} \langle \Lambda_i x \otimes \Gamma_j y, \Lambda_i x \otimes \Gamma_j y \rangle_{A \otimes B} \\
+&\le BD \langle x \otimes y, x \otimes y \rangle_{A \otimes B}, \quad \forall x \in \mathcal{H}, \forall y \in \mathcal{K}.
+\end{aligned} \\[1em]
+\begin{cases}
+\frac{w_x^2}{2} + \frac{w_y^2}{2} + W(x,y) = \ln m + \bar{H}, \\
+-(\theta(w_x))_x - (\theta(w_y))_y = 0,
+\end{cases} \\[1em]
+\sum_{A(w,c') \in D(\nu,c)} (2p)^{t_w} \le p d_\nu \exp(\delta/72) / 2\delta = \exp(-\delta/72) t_\nu \exp(\delta/72) / 2 = t_\nu / 2. \\[1em]
+\Gamma\left(\frac{k+1}{2}\right) \le \sqrt{2\pi} \cdot e^{\frac{1}{12}} \cdot \left(\frac{k}{2e}\right)^{k/2}
+\end{gather*}
+```

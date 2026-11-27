@@ -1,0 +1,16 @@
+```json
+{
+  "CE-P1": "Energy kcal",
+  "CE-PS": "250",
+  "CE-D": "14%",
+  "TF-P1": "Fat",
+  "TF-PS": "17.4g",
+  "TF-D": "27%",
+  "CAR-P1": "Carbohydrate",
+  "CAR-PS": "1.8g",
+  "CAR-D": "1%",
+  "PRO-P1": "Protein",
+  "PRO-PS": "21.6g",
+  "PRO-D": "48%"
+}
+```

@@ -1,0 +1,109 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\textbf{SUPER MOCK : MATHS} \hfill \textbf{PAPER 1}\\
+\hfill \textbf{OBJECTIVE TEST}\\
+\hfill \textbf{Answer all questions.}
+
+Each question is followed by four options lettered A to D. Find the correct option for each
+question and shade in pencil on your answer sheet the answer space which bears the same
+letter as the option you have chosen.
+
+\textbf{1.} Find the product of $2.3 \times 10^{5} \times 3.0 \times 10^{4}$
+leaving your answer in standard form.\\
+A. $6.9 \times 10^{9}$\\
+B. $6.59 \times 10^{8}$\\
+C. $6.9 \times 10^{8}$\\
+D. $6.59 \times 10^{-8}$
+
+\textbf{2.} Round down $4,872,500$ to the nearest
+$10,000$.\\
+A. $4,872,000$\\
+B. $4,870,000$\\
+C. $4,870,500$\\
+D. $4,871,000$
+
+\textbf{3.} In a school, $\frac{1}{2}$ of the learners like
+English, $\frac{1}{4}$ like Mathematics and the
+rest like Science. What fraction of the
+learners like Science?\\
+A. $1$\\
+B. $\frac{1}{4}$\\
+C. $0$\\
+D. $2$
+
+\textbf{4.} If $P = \{1, 7, 13\}$ and $Q = \{7, 9, 13\}$ are
+subsets of $U = \{1,2, 3, 4,\ldots 15\}$ Find $P \cap Q$\\
+A. $\{1,7, 9\}$\\
+B. $\{1, 7, 9, 13\}$\\
+C. $\{7, 9\}$\\
+D. $\{7, 13\}$
+
+\textbf{5.} Convert $0.125$ to a common fraction.\\
+A. $\dfrac{3}{4}$\\
+B. $\dfrac{1}{8}$\\
+C. $\dfrac{2}{5}$\\
+D. $\dfrac{3}{5}$
+
+\textbf{6.} Find the value of the side marked $x$ in
+the diagram below. (Take $\mathrm{Tan}\ 35^\circ = 0.70$)
+
+\begin{center}
+\begin{tikzpicture}[scale=0.9]
+    \draw (0,0) -- (0,2.8) node[midway,left] {$x$};
+    \draw (0,0) -- (3.3,0) node[midway,below] {$5\mathrm{m}$};
+    \draw (0,2.8) -- (3.3,0);
+    \draw (0,0.23) -- (0.23,0.23) -- (0.23,0);
+    \draw (2.62,0) arc[start angle=180,end angle=140,radius=0.68];
+    \node at (2.62,0.29) {$35^\circ$};
+\end{tikzpicture}
+\end{center}
+
+A. $3.50\mathrm{m}$\\
+B. $35\mathrm{m}$\\
+C. $60\mathrm{m}$\\
+D. $7.2\mathrm{m}$
+
+\textbf{7.} Simplify: $2\sqrt{2} + 2\sqrt{2} + 3\sqrt{3} + 3\sqrt{3}$\\
+A. $\sqrt{2} + \sqrt{3}$\\
+B. $4\sqrt{2} + 6\sqrt{3}$\\
+C. $4 + 6\sqrt{3}$\\
+D. $\sqrt{2} + 6\sqrt{3}$
+
+\textbf{8.} Given that vector $a =
+\begin{pmatrix}
+3\\
+4
+\end{pmatrix}$
+and $b =
+\begin{pmatrix}
+2\\
+3
+\end{pmatrix}$,\\
+evaluate : $2(a + b)$\\
+A. $\begin{pmatrix}4\\6\end{pmatrix}$\\
+B. $\begin{pmatrix}6\\8\end{pmatrix}$\\
+C. $\begin{pmatrix}10\\14\end{pmatrix}$\\
+D. $\begin{pmatrix}5\\7\end{pmatrix}$
+
+\textbf{9.} A fair die and a coin are rolled together
+once. Find the probability of obtaining a
+tail and a prime number.\\
+A. $\dfrac{1}{2}$\\
+B. $\dfrac{2}{3}$\\
+C. $\dfrac{1}{3}$\\
+D. $\dfrac{1}{4}$
+
+Mathematics / Super Mock
+
+\begin{center}
+4
+\end{center}
+
+\end{document}
+```

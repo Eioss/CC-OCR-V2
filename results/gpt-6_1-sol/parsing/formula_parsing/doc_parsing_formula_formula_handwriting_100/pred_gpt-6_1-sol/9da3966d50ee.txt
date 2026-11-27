@@ -1,0 +1,51 @@
+\[
+\chi_{p,c/c}^{j}\phi\!\left(\mathcal{L}_{p,\mathrm{CM}}^{c/c}(\eta)\right)
+=
+\Gamma(jt-k_{\mu,1})G(\phi)\,
+\frac{
+\displaystyle\prod_{\mathfrak p\mid p\mathfrak F^{+}}
+A_{\mathfrak p}\!\left(\vartheta(\eta)^{p\text{-}\mathrm{st}},\phi,j\right)
+L\!\left(\vartheta(\eta)^{p\text{-}\mathrm{st}},\phi,j\right)
+}{
+(-2\pi\sqrt{-1})^{jd}
+(-\overline{\Omega}_{\mathrm{CM},\infty})^{k_{\mu,2}}
+(-\Omega_{\mathrm{CM},\infty})^{-k_{\mu,1}}
+\]
+
+\[
+y^{T}\mathbb{E}\!\left[\sum_{r=1}^{m}a_ra_r^{T}\right]y
+=
+\sum_{r=1}^{m}\mathbb{E}\!\left[\langle a_r,y\rangle^{2}\right]
+=
+\sum_{r=1}^{m}\sum_{j=1}^{d}y_j^{2}
+=
+\sum_{r=1}^{m}\|y\|^{2}.
+\]
+
+\[
+\eta_{\mathcal T}^{2}
+:=
+\left(\sum_{T\in\mathcal T}\eta_T^{2}\right)^{1/2}
+\cdot
+\left(\sum_{T\in\mathcal T}h_T^{2}\eta_T^{2}\right)^{1/2},
+\]
+
+\[
+g_i\cdots g_{r_i}=R_0R_1\cdots R_n
+\]
+
+\[
+\nu(\theta,r)=-1\quad\text{for }r\text{ near }0,
+\qquad
+\nu(\theta,r)=1\quad\text{for }r\geq Re^{|\theta|}.
+\]
+
+\[
+\int_{1}^{\infty}
+h(y)e^{-c_0y^{-\gamma/(\gamma-1)}}
+\cdot\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}
+\leq
+h(1)\int_{1}^{\infty}
+\frac{dy}{y^{(2\gamma-1)/(\gamma-1)}}
+<\infty.
+\]

@@ -1,0 +1,61 @@
+Here is the transcription of the handwritten notes into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent III. CALCULATIONS:
+
+\vspace{1em}
+\noindent Calculating the volume of the given examined bodies based on the formula:
+\[
+V_b = a \cdot b \cdot c
+\]
+\(V_b\) - volume of examined bodies \([cm^3]\), \(a\) - width of examined bodies \([cm]\), \(b\) - length of examined bodies \([cm]\), \(c\) - height of examined bodies \([cm]\).
+\[
+V_b = 2,5 [cm] \cdot 4,2 [cm] \cdot 1,5 [cm] = 15,75 [cm^3]
+\]
+
+\vspace{1em}
+\noindent Calculating the material density of the given examined bodies based on the formula:
+\[
+\rho_b = \frac{m_b}{V_b}
+\]
+\(\rho_b\) - material density of given body \([g/cm^3]\), \(m_b\) - mass of given body \([g]\), \(V_b\) - volume of examined body.
+\begin{align*}
+\rho_b \text{ (ebonite)} &= \frac{22,7}{15,75} [g/cm^3] = 1,44127 [g/cm^3] = 1441,27 [kg/m^3] \\
+\rho_b \text{ (bakelite)} &= \frac{19,8}{15,75} [g/cm^3] = 1,25714 [g/cm^3] = 1257,14 [kg/m^3] \\
+\rho_b \text{ (aluminium (10))} &= \frac{42,6}{15,75} [g/cm^3] = 2,70476 [g/cm^3] = 2704,76 [kg/m^3]
+\end{align*}
+
+\vspace{1em}
+\noindent Calculating the material density using areometer based on the formula:
+\[
+\rho_b' = \frac{m_1 - m_2}{m_1 - m_2} \rho_w
+\]
+\(\rho_b'\) - material density of given body using areometer \([g/cm^3]\), \(m_n\) - values of mass from experiment \([g]\), \(\rho_w\) - density of distilled water \(= 1 [g/cm^3]\).
+\begin{align*}
+\rho_b' \text{ (ebonite)} &= \frac{110 - 67}{103 - 67} [g/1] \cdot 1 [g/cm^3] = \frac{23}{16} [g/cm^3] = 1,4375 [g/cm^3] = 1437,5 [kg/m^3] \\
+\rho_b' \text{ (bakelite)} &= \frac{110 - 90}{105 - 90} [g/1] \cdot 1 [g/cm^3] = \frac{20}{15} [g/cm^3] = 1,33333 [g/cm^3] = 1333,33 [kg/m^3] \\
+\rho_b' \text{ (aluminium (10))} &= \frac{110 - 67}{81 - 67} [g/1] \cdot 1 [g/cm^3] = \frac{43}{14} [g/cm^3] = 2,6975 [g/cm^3] = 2697,5 [kg/m^3] \\
+\rho_b' \text{ (aluminium (11))} &= \frac{110 - 86}{94 - 86} [g/1] \cdot 1 [g/cm^3] = \frac{24}{8} [g/cm^3] = 3 [g/cm^3] = 3000 [kg/m^3]
+\end{align*}
+
+\vspace{1em}
+\noindent Comparing calculated density values with table density values:
+\begin{align*}
+\rho_b \text{ (ebonite)} - \rho_{tab} \text{ (ebonite)} &= 1441,27 [kg/m^3] - 1150 [kg/m^3] = 291,27 [kg/m^3] = 22,46 [\%] \\
+\rho_b' \text{ (ebonite)} - \rho_{tab} \text{ (ebonite)} &= 1437,5 [kg/m^3] - 1150 [kg/m^3] = 287,5 [kg/m^3] = 22,22 [\%] \\
+\rho_b \text{ (bakelite)} - \rho_{tab} \text{ (bakelite)} &= 1257,14 [kg/m^3] - 1300 [kg/m^3] = 42,86 [kg/m^3] = 3,35 [\%] \\
+\rho_b' \text{ (bakelite)} - \rho_{tab} \text{ (bakelite)} &= 1333,33 [kg/m^3] - 1300 [kg/m^3] = 33,33 [kg/m^3] = 2,53 [\%] \\
+\rho_b \text{ (aluminium (10))} - \rho_{tab} \text{ (aluminium)} &= 2704,76 [kg/m^3] - 2700 [kg/m^3] = 4,76 [kg/m^3] = 0,17 [\%] \\
+\rho_b' \text{ (aluminium (10))} - \rho_{tab} \text{ (aluminium)} &= 2697,5 [kg/m^3] - 2700 [kg/m^3] = 2,5 [kg/m^3] = 0,46 [\%] \\
+\rho_b' \text{ (aluminium (11))} - \rho_{tab} \text{ (aluminium)} &= 3000 [kg/m^3] - 2700 [kg/m^3] = 300 [kg/m^3] = 10,53 [\%]
+\end{align*}
+
+\end{document}
+```

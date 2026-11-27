@@ -1,0 +1,14 @@
+```latex
+\begin{aligned}
+&\beta_w^*\Bigg\{\frac{\left\{E[(1-\tau)^2]E[\tau(\tau+\eta)]-\rho^2E[\tau(1-\tau)]E[(\tau+\eta)(1-\tau)]\right\}E(\tau)}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}\\
+&+\frac{\left\{\rho E[\tau^2]E[(\tau+\eta)(1-\tau)]-\rho E[\tau(1-\tau)]E[\tau(\tau+\eta)]\right\}(1-E(\tau))}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}-E(\tau+\eta)\Bigg\}+\\
+&\beta_g^*\Bigg\{\frac{\left\{\rho E[(1-\tau)^2]E[\tau(1-\tau+\eta)]-\rho E[\tau(1-\tau)]E[(1-\tau)(1-\tau-\eta)]\right\}E(\tau)}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}\\
+&+\frac{\left\{E(\tau^2)E[(1-\tau)(1-\tau+\eta)]-\rho^2E[\tau(1-\tau)]E[\tau(1-\tau-\eta)]\right\}(1-E(\tau))}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}-(1-E(\tau+\eta))\Bigg\}\\
+=&\,\beta_w^*\Bigg\{\frac{\left\{E[(1-\tau)^2]E(\tau^2)-\rho^2E[\tau(1-\tau)]E[\tau(1-\tau)]\right\}E(\tau)}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}\\
+&+\frac{\left\{\rho E[\tau^2]E[\tau(1-\tau)]-\rho E[\tau(1-\tau)]E[\tau^2]\right\}(1-E(\tau))}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}-E(\tau)\Bigg\}+\\
+&\beta_g^*\Bigg\{\frac{\left\{\rho E[(1-\tau)^2]E[\tau(1-\tau)]-\rho E[\tau(1-\tau)]E[(1-\tau)^2]\right\}E(\tau)}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}\\
+&+\frac{\left\{E(\tau^2)E[(1-\tau)^2]-\rho^2E[\tau(1-\tau)]E[\tau(1-\tau)]\right\}(1-E(\tau))}{E(\tau^2)E[(1-\tau)^2]-\rho^2E^2[\tau(1-\tau)]}-(1-E(\tau))\Bigg\}\\
+=&\,\beta_w^*\left\{E(\tau)+0-E(\tau)\right\}+\beta_g^*\left\{0+(1-E(\tau))-(1-E(\tau))\right\}\\
+=&\,0.
+\end{aligned}
+```

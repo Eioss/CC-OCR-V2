@@ -1,0 +1,14 @@
+```latex
+\begin{align*}
+&Z(S, W_{\xi_1\xi_2\nu, 0}, W_{\xi_1 k_1-k_2}) \\
+&= \sum_{\vec{j}=0}^{-\frac{k_1-k_2}{2}} \sum_{j=0}^{\frac{k_1+k_2}{2}} \sum_{m=0}^{k_1-k_2} (-1)^{\vec{j}+j+m} (\sqrt{-1})^{k_1-k_2-\vec{j}-j+m} (-l_2-k_2) \binom{l_2+k_1}{i} \binom{k_1-k_2}{j} \binom{l_2+k_1}{m} \\
+&\quad \times \int_{SU(2)} \alpha^{k_1-k_2-\vec{j}-j} \bar{\beta}^{\vec{j}+j} \alpha^{-k_1-k_2-m} \beta^m dk \\
+&\quad \times \int_0^\infty dx_1 \int_0^\infty dx_2 \int \frac{ds_1}{2\pi\sqrt{-1}} \int \frac{ds_2}{2\pi\sqrt{-1}} \int \frac{ds_3}{2\pi\sqrt{-1}} a_1^{-s_1-s_3+2} a_2^{-s_2+s_3} \\
+&\quad \times \Gamma_C\left(\frac{s_1+l_1+k_2+\vec{j}+j}{2}\right) \Gamma_C\left(\frac{s_1-l_2-k_2-\vec{j}-j}{2}\right) \Gamma_C\left(\frac{s_1-l_3-k_2-\vec{j}-j}{2}\right) \\
+&\quad \times \Gamma_C\left(\frac{s_2-l_2-l_3-k_1-k_2}{2}\right) \Gamma_C\left(\frac{s_2+l_1+l_2+k_1+k_2}{2}\right) \Gamma_C\left(\frac{s_2+l_1-l_3-k_1+k_2}{2}\right) \\
+&\quad \times \Gamma_C\left(\frac{s_3+m}{2}\right) \Gamma_C\left(\frac{s_3+k_1-k_2-m}{2}\right) \Gamma_C\left(\frac{s_1+s_2+l_1-l_2-l_3-k_1-\vec{j}-j}{2}\right)^{-1} \\
+&= (k_1-k_2+1)^{-1} (\sqrt{-1})^{-k_1-k_2} \Gamma_C\left(2s+\frac{-l_2-l_3-k_1-k_2}{2}\right) \Gamma_C\left(2s+\frac{l_1-l_3-k_1+k_2}{2}\right) \Gamma_C\left(2s+\frac{l_1+l_2+k_1+k_2}{2}\right) \\
+&\quad \times \sum_{\vec{j}=0}^{-\frac{k_1-k_2}{2}} \sum_{j=0}^{\frac{k_1+k_2}{2}} (-l_2-k_2) \binom{l_2+k_1}{\vec{j}} \binom{l_2+k_1}{j} \int_L \frac{ds}{2\pi\sqrt{-1}} \Gamma_C\left(\frac{s_1+l_1+k_2+\vec{j}+j}{2}\right) \Gamma_C\left(\frac{s_1-l_2-k_2-\vec{j}+j}{2}\right) \Gamma_C\left(\frac{s_1-l_3-k_2-\vec{j}-j}{2}\right) \\
+&\quad \times \Gamma_C\left(\frac{-s_1+2s+\vec{j}+j}{2}\right) \Gamma_C\left(\frac{-s_1+2s+k_1-k_2-\vec{j}-j}{2}\right) \Gamma_C\left(\frac{s_1+4s+l_1-l_2-l_3-k_1-\vec{j}-j}{2}\right)^{-1}
+\end{align*}
+```

@@ -1,0 +1,39 @@
+\[
+A_{2m+2}(\nu,z)\sim(-\zeta)^{1/4}\left\{1+\frac{1}{2}\widetilde{\mathcal{E}}_{2m+2,r}(\nu,i\infty)\right\},
+\]
+
+\[
+\mathbb{P}^{\mathcal{G}}\!\left(R_k^i=\ell_k^i,\ i=1,\ldots,\bar n\right)
+\leq \bar n\,\Upsilon\!\left(w,\bar n,(\ell_0^{u_i})_{i=1,\ldots,\bar n},(\ell_k^i)_{i=1,\ldots,\bar n}\right).
+\]
+
+\[
+d=O\!\left(\log n+\log(1/\epsilon)\right)
+\]
+
+\[
+L_f=\sup_{x\neq y}\Omega_f(x,y)\frac{|f(x)-f(y)|}{|x-y|}
+\]
+
+\[
+I^{+}\frac{1}{2}(V^{+}+V^{-})=\frac{1}{2}(V^{+}-V^{-})I^{+},
+\]
+\[
+I^{-}\frac{1}{2}(V^{+}+V^{-})=\frac{1}{2}(-V^{+}-V^{-})I^{-},
+\]
+
+\[
+-u_1\cdot n_1+\alpha p_{1,\gamma}+s_\gamma\partial_t p_{1,\gamma}
++\operatorname{div}_{\gamma}u_{\gamma,1}
+=-u_2\cdot n_1+\alpha p_{2,\gamma}
+\qquad \text{on }\gamma\times(0,T),
+\]
+\[
+u_{\gamma,1}=-k_\gamma\delta\nabla_\gamma p_{1,\gamma}
+\]
+
+\[
+|z_0\rangle\otimes|\xi(z_0)\rangle
+\xrightarrow{\mathcal{I}}
+|z_0\rangle\otimes|\phi(z_0)\rangle,
+\]

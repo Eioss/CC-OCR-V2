@@ -1,0 +1,23 @@
+```json
+{
+  "menu": [
+    {
+      "item_name": "Nasi Cap Cay Porsi B esar",
+      "quantity": "1",
+      "price": "65.000"
+    },
+    {
+      "item_name": "Teh Tawar",
+      "quantity": "2",
+      "price": "4.000"
+    },
+    {
+      "item_name": "Fu Yung Hai",
+      "quantity": "1",
+      "price": "65.000"
+    }
+  ],
+  "sub_total": "Rp 138.000",
+  "total": "Rp 138.000"
+}
+```

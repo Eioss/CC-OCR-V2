@@ -1,0 +1,10 @@
+\begin{align*}
+&\frac{\partial v}{\partial t} - v \bar{\Delta} v + (v \cdot \vec{\nabla})v = - \vec{\nabla} p + f \\
+&\tilde{D}_x \tilde{s} - p \tilde{\chi} = (x \dot{h} - f + g(X, G) - xp)\partial_x + \frac{xj}{f}s + \frac{hf}{f}x + D_x s - pX \\
+&\langle v x, w \rangle = \langle c, w \sigma(x) \rangle \\
+&(\pi_*^{\mathbb{G}} E)(\Sigma^{\mathbb{G}} G/H_+) := \pi_*(E \wedge G/H_+)_{hG} \cong \pi_* E \tilde{\wedge}_H \\
+&\int_Y \gamma^0 A^0 a_i \cdot \nabla \varphi = 0 \quad \forall \varphi \in C^{\infty}(T^n). \\
+&\langle \beta(\xi) - \beta(\tilde{\xi}), \xi - \tilde{\xi} \rangle > 0, \text{ for every } \xi, \tilde{\xi} \in X \text{ with } \xi \neq \tilde{\xi}. \\
+&\int_{\Omega} (|p_N|^2 + |\nabla_M u^N|^2)(x, t) dx + \int_0^T \int_{\Omega} (|v_N|^2 + \eta |\Delta v^N|^2 + |\nabla_M u^N|^2 + |\nabla_M \frac{\partial u^N}{\partial t}|^2)(x, t) dx dt \\
+&+ \int_0^T \int_{\partial \Omega} \alpha(x) |p^N|^2(x, t) ds(x) dt \leq C_R (1 + \int_0^T \int_{\Omega} (|p^N|^2 + |\nabla_M u^N|^2)(x, t) dx dt).
+\end{align*}

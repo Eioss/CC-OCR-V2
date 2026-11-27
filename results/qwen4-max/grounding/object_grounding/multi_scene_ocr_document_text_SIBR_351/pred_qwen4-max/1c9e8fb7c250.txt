@@ -1,0 +1,29 @@
+I need to map each field label and its corresponding value from the commercial invoice. Let me work through the document systematically, identifying bounding boxes for each category including the title, header fields, seller/manufacturer blocks, and the various terms and reference numbers.
+
+```json
+[
+	{"bbox_2d": [33, 94, 204, 107], "label": "Title"},
+	{"bbox_2d": [91, 115, 190, 124], "label": "C/I No"},
+	{"bbox_2d": [90, 137, 156, 145], "label": "Date"},
+	{"bbox_2d": [263, 136, 470, 145], "label": "Company Name"},
+	{"bbox_2d": [558, 140, 765, 149], "label": "Company Name"},
+	{"bbox_2d": [33, 181, 215, 190], "label": "Company Name"},
+	{"bbox_2d": [263, 149, 510, 158], "label": "Address"},
+	{"bbox_2d": [560, 151, 800, 160], "label": "Address"},
+	{"bbox_2d": [292, 168, 389, 176], "label": "TEL"},
+	{"bbox_2d": [429, 170, 523, 178], "label": "FAX"},
+	{"bbox_2d": [592, 172, 686, 180], "label": "TEL"},
+	{"bbox_2d": [725, 172, 823, 180], "label": "FAX"},
+	{"bbox_2d": [262, 211, 347, 221], "label": "Terms of Delivery"},
+	{"bbox_2d": [261, 245, 322, 253], "label": "Terms of Payment"},
+	{"bbox_2d": [262, 293, 289, 300], "label": "Currency"},
+	{"bbox_2d": [411, 294, 470, 303], "label": "Destination"},
+	{"bbox_2d": [561, 246, 627, 254], "label": "ETD"},
+	{"bbox_2d": [561, 213, 607, 222], "label": "Type of Container"},
+	{"bbox_2d": [750, 188, 786, 196], "label": "Cust NO."},
+	{"bbox_2d": [755, 232, 791, 240], "label": "Your Cont."},
+	{"bbox_2d": [751, 252, 845, 262], "label": "PO NO."},
+	{"bbox_2d": [33, 166, 77, 174], "label": "Sold to"},
+	{"bbox_2d": [28, 270, 205, 278], "label": "Delivery Address"}
+]
+```

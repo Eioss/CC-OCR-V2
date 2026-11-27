@@ -1,0 +1,51 @@
+\[
+H'(\xi_{1})=3(1-\alpha)\xi_{1}^{2}+3\xi_{1}^{2}-6\xi\xi_{1}-3(1-\alpha)\xi_{1}-3-6|\xi_{1}|\geq 2(1-\alpha)\xi_{1}^{2}
+\]
+
+\[
+\int_{0}^{T}\left(|\dot{\theta}(t)|_{q}^{q}\right)^{\frac{5-b}{3(q-1-b)}}\,dt
+\leq C\left(1+\int_{0}^{T}|\nabla\dot{\theta}(t)|_{2}^{2}\,dt\right)
+\leq C\left(1+\int_{0}^{T}|\dot{\theta}(t)|_{2-a}^{2-a}\,dt\right).
+\]
+
+\[
+I\approx \|f\|_{p}^{2}\sum_{\sigma_{k}\in G_{2}}^{nd-2an}\int_{\sigma_{k}}|x-u|^{-2a}\,du\,dx
+=\|f\|_{p}^{2}\sum^{nd-2an}\int_{\theta}|x-u|^{-2a}\,du\,dx,
+\]
+
+\[
+\left\|E_{a}^{2}\left(C_{k}\frac{f\xi^{k}}{|\xi^{k}|}
++\left(C_{k}\frac{f\xi^{k}}{|\xi^{k}|}\right)^{a-k+1}\right)\right\|_{p/2}
+\leq \|C_{0}\|_{p/2}\sum_{k=p}^{k-1}\int_{E}(1-|y|)^{a-k}\frac{f^{2}(y)}{|y|}\,d\nu(y)
+\]
+
+\[
+\# f^{2}(\xi_{0})=\frac{1}{|\xi_{0}|}\int_{-\xi_{0}}^{\xi_{0}}f^{n+1}H_{p/2}.
+\]
+
+\[
+\left|\sum_{n\in C}\frac{1}{\#\mu A\theta\#}\right|^{p}
+\leq \frac{3^{p}}{2^{p-1}}\zeta(2p)a^{p}-\zeta(2p)a^{p}
++2p^{3}\zeta(2p)a^{2}.
+\]
+
+\[
+\int_{-s^{-t}}^{s^{-t}}x^{-s}\log x\,dx
+\qquad \text{if }s=t
+\]
+
+\[
+\beta\nu(n)=\frac{x^{t-s}-x^{s-t}}{s-t}
+\qquad \text{if }s\neq t
+\]
+
+\[
+\Gamma(n-r)=\frac{\gamma(n-r)}{A}\left(\frac{A}{n+t}\right)^{A+t}
+\to\infty
+\qquad \text{as }n\to\infty,
+\]
+
+\[
+\int_{0}^{\infty}u^{b-1}(u+1)^{a-c}(vu+\lambda)^{-a}\,du
+=\lambda^{-a}B(b,c-b)\,{}_{2}F_{1}\left[a,b;c;1-\frac{v}{\lambda}\right].
+\]

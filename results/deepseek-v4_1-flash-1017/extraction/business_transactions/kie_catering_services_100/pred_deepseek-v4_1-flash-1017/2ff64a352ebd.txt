@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "name": "BBQ Chicken",
+      "quantity": "1",
+      "price": "41,000"
+    },
+    {
+      "name": "- Tidak Pedas",
+      "quantity": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": "41,000",
+  "total": "41,000"
+}
+```

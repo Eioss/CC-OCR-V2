@@ -1,0 +1,12 @@
+```latex
+\begin{gathered}
+(A-\langle A\rangle)|\psi\rangle=\beta(B-\langle B\rangle)|\psi\rangle \\
+d^{2}=-(a^{2}+ab+b^{2})=-3x^{2}y^{2} \\
+E(D_{n})=\{vu_{i}\mid 1\leq i\leq n\}\cup\{u_{i}w_{i}\mid 1\leq i\leq n\} \\
+\int_{B}\varphi\circ f_{t}(x)\,\mathrm{Leb}_{B}(dt)=\varphi(x) \\
+t^{*}(\lambda)=\min\{k\in\mathbb{N}:d_{H}(4\nu,\mathbb{N}),k>4\}=\frac{\pi}{\lambda}+O(1), \\
+E_{n,m'}=\frac{-m\lambda^{4}+32\eta^{3}\left(m'^{2}+4(1+n)^{2}+(\varepsilon_{1}+\varepsilon_{2})^{2}+4\sqrt{m'^{2}+(\varepsilon_{1}+\varepsilon_{2})^{2}}\,(1+n)\right)}{(\lambda^{2}-4\eta w)^{2}}+\frac{8m\eta w(\lambda^{2}-2\eta w)}{(\lambda^{2}-4\eta w)^{2}} \\
+\vartheta_{j}(x):=\lim_{t\to 0^{+}}\left(g_{j}(x+it)-\frac{2\operatorname{artanh}\left(\frac{1}{\sqrt{3}}\right)}{\pi|C_{x}|t}\Phi M_{x}^{-1}(j,0)\right), \\
+\hat{\mathcal{L}}^{-}[w]:=\mathcal{M}^{-}(D^{2}w)-\hat{b}|Dw|,\ \text{for } \hat{b}=b+2\mu_{2}\|Du_{0}\|_{\infty},
+\end{gathered}
+```

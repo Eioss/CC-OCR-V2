@@ -1,0 +1,48 @@
+```latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\definecolor{titlered}{RGB}{180,40,40}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+
+{\large A}\\[2pt]
+{\color{titlered}\Huge\textbf{DICTIONARY}}\\[6pt]
+{\Large ENGLISH, GERMAN AND FRENCH,}\\[4pt]
+{\small CONTAINING NOT ONLY}\\[2pt]
+{\color{titlered}\LARGE\textbf{THE ENGLISH WORDS}}\\[2pt]
+{\normalsize IN THEIR ALPHABETICAL ORDER,}\\
+{\normalsize TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS;}\\[2pt]
+{\small BUT ALSO}\\[2pt]
+{\normalsize THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES,}\\
+{\normalsize IDIOMS, AND PROVERBS,}\\[6pt]
+{\normalsize TAKEN FROM THE BEST NEW}\\[2pt]
+{\color{titlered}\LARGE ENGLISH DICTIONARIES}\\[2pt]
+{\scriptsize BY}\\[2pt]
+{\Large Mr. CHRISTIAN LUDWIG.}\\[8pt]
+{\color{titlered}\large SECOND EDITION}\\[2pt]
+{\small CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY}\\
+{\small AUGMENTED.}\\[16pt]
+
+% Printer's device: engraving of Pegasus (winged horse)
+\fbox{\parbox[c][3cm][c]{4cm}{\centering\textit{[Illustration: Pegasus]}}}\\[24pt]
+
+{\color{titlered}\Large L\textsc{eipzig and} F\textsc{rancfurt}}\\[4pt]
+{\large M DCC XXXVI.}
+
+\end{center}
+
+\end{document}
+```
+
+Notes on the transcription:
+- Text shown in red on the original (DICTIONARY, THE ENGLISH WORDS, ENGLISH DICTIONARIES, SECOND EDITION, LEIPZIG AND FRANCFURT) is rendered with the `titlered` color.
+- The central engraved printer's device (a winged horse, Pegasus) is represented by a placeholder box, since it is an image rather than text.
+- The imprint date "M DCC XXXVI" corresponds to 1736.
+- The page contains no tables or equations.

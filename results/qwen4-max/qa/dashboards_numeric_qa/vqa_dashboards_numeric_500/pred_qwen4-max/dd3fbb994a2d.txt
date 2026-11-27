@@ -1,0 +1,13 @@
+Looking at the comparison table "VMWARE VSPHERE VS. MICROSOFT HYPER-V" in the infographic, I need to find the row about maximum guest machines per host.
+
+The relevant row is "Max guests per host":
+- VMware STANDARD: 512
+- VMware ENTERPRISE: 512
+- VMware ENT. PLUS: 512
+- Microsoft STANDARD: 384
+- Microsoft ENT.: 384
+- Microsoft DC: 384
+
+All three VMware editions (Standard, Enterprise, and Enterprise Plus) support the same maximum of **512** guest machines per host, which is higher than Microsoft's 384.
+
+So the highest number of guest machines that can be connected is **512**, supported by all VMware vSphere editions (Standard, Enterprise, and Enterprise Plus).

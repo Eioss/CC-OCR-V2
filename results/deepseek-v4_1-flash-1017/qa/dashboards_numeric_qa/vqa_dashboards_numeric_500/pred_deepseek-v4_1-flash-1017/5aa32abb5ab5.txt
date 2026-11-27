@@ -1,0 +1,10 @@
+Based on the table at the bottom of the infographic titled "VMWARE VSPHERE VS. MICROSOFT HYPER-V":
+
+1.  Locate the row labeled **"Failover nodes"**.
+2.  Look across the row to the columns under the **Microsoft Hyper-V** section.
+3.  The value **16** appears in two columns:
+    *   **Microsoft Standard**
+    *   **Microsoft Ent.**
+    *   (The Microsoft DC column has a value of 16 as well, but the question asks for "Microsoft Hyper-Vs" generally, and there are two distinct product tiers listed with that value).
+
+Therefore, there are **2** Microsoft Hyper-V product tiers listed with 16 failover nodes.

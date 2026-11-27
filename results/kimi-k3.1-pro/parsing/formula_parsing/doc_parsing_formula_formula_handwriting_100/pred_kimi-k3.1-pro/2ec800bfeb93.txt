@@ -1,0 +1,56 @@
+\[
+\int_{B\cap R_{i,j}\setminus B\cap R}\nabla v\nabla\varphi_{\alpha}\,dv_{g_{\alpha}}
+\le C\|\varphi\|_{H^{1}(M)}
+\left(\int_{B+2\delta R_{i,j}\setminus B+R}|\nabla v|^{2}\,dx\right)^{1/2}
+=O\!\left(\|\varphi\|_{H^{2}(M)}\right)\varepsilon(R)^{2}.
+\]
+
+\[
+K_{Y}^{[i]}(t,x)=
+\begin{cases}
+K_{X}^{[i]}(u), & \text{if }u\notin(u_a,u_b),\\[4pt]
+\left(a(u-u_a)+K_{X}^{[i]}(u_a)\right)\vee
+\left(b(u-u_b)+K_{X}^{[i]}(u_b)\right), & \text{if }u\in(u_a,u_b).
+\end{cases}
+\]
+
+\[
+\begin{aligned}
+f(x)+f(y)
+&=f(p(x))+f(p(y))
+\ge f(p(x)\to p(y))+f(p(y)\to p(x))\\
+&=f(p(x\to y))+f(p(y\to x))
+=f(x\to y)+f(y\to x).
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&-qh''\!\left(\frac{d(x)}{\epsilon/2}\right)
++W''\!\left(q\!\left(\frac{d(x)}{\epsilon/2}\right)\right)
+-b\left(q\!\left(\frac{d(x)}{\epsilon/2}\right)
+-q\!\left(\frac{d(x)}{\epsilon/2}\right)\right)^{2}\Delta d(x)\\
+&\quad+30\left(q\!\left(\frac{d(x)}{\epsilon/2}\right)
+-q\!\left(\frac{d(x)}{\epsilon/2}\right)\right)^{2}\lambda_p=0.
+\end{aligned}
+\]
+
+\[
+\varepsilon_n(\omega)=\hbar\omega_n,\qquad n=0,1,2,\ldots
+\]
+
+\[
+p[r(m_1),p(m_2)]=[r(m_1),p(m_2)]\ne 0,
+\]
+
+\[
+v(t,x,p)\approx 1,\qquad\text{and}\qquad
+|D_p f v(t,x,p)|\le \langle p^0\rangle^{-1},\qquad |p|\ge Q.
+\]
+
+\[
+\left(i\omega\cdot l-\left(d_r(\omega,j)-d_r(\omega,k)\right),
+\Psi_j^k(l)+\mathcal{R}_j^k(l)\right)
+=([R])_j^k(l)
+=:\sigma_{i,j,k}(\omega).
+\]

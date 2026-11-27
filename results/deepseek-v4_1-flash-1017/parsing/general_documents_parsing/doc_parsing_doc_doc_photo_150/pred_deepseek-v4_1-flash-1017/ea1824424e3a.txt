@@ -1,0 +1,62 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textcolor{gray}{\small Candidate Statement of Results}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}{0.5\textwidth}
+    \textbf{\Large Season:} Summer Season 2019 \\
+    \vspace{0.2cm}
+    \textbf{\Large Name:} Anisha \rule{3cm}{0.5cm} \\
+    \vspace{0.2cm}
+    \textbf{\Large Candidate No:} \rule{4cm}{0.5cm} \\
+    \vspace{0.2cm}
+    \textbf{\Large UCI:} \rule{5cm}{0.5cm}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+    \raggedleft
+    \textbf{\Large Series:} (All) \\
+    \vspace{0.2cm}
+    \textbf{\Large Year:} 11 \\
+    \vspace{0.2cm}
+    \rule{4cm}{0.5cm} \\
+    \vspace{0.2cm}
+    \rule{4cm}{0.5cm}
+\end{minipage}
+
+\vspace{1cm}
+
+\noindent \textbf{\Large Exam Results}
+
+\vspace{0.5cm}
+
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{llllc}
+    \textbf{Board} & \textbf{Level} & \textbf{Element Code} & \textbf{Title} & \textbf{Grd1} \\
+    \hline
+    AQA & GCSE/9DA & 8464H & Combined Sci: Trilogy Tier H & 99 \\
+    EDEXL/GC & GCSE/9FC & 1GB0 & Geography B & 9 \\
+    AQA & GCSE/9FC & 8062BA & Religious Studies A Option BA & 9 \\
+    AQA & GCSE/9FC & 8668H & German Tier H & 9 \\
+    AQA & GCSE/9FC & 8698H & Spanish Tier H & 9 \\
+    AQA & GCSE/9FC & 8700 & English Language & 9 \\
+    AQA & GCSE/9FC & 8702 & English Literature & 9 \\
+    OCR & GCSE/9FC & J560H & Mathematics (Higher Tier) & 7 \\
+\end{tabular}
+
+\end{document}
+```

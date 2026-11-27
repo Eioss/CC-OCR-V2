@@ -1,0 +1,87 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=2cm]{geometry}
+
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+
+\begin{document}
+
+\begin{center}
+ADDITIONS TO THE LIBRARY OF THE CHEMICAL SOCIETY\\
+DURING THE YEAR 1935.
+\end{center}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\small
+
+\textsc{Acta Physicochimica U.R.S.S.} Vol. I, etc. Moscow 1934 +. \textit{(Reference.)}
+
+\textsc{Aldis, R. W.} \textit{See} \textsc{Indian Lac Research Institute.}
+
+\textsc{Alexander, W. B.} \textit{See} \textsc{Department of Scientific and Industrial Research.} \textit{Water Pollution Research.} Technical Paper No. 5.
+
+\textsc{Allsop, G.} \textit{See} \textsc{Mines Department.} \textit{Safety in Mines Research Board.} Papers Nos. 89 and 91.
+
+\textsc{Altman, Reinout Ferdinand Alexander.} Contribution à l'étude des médicaments de synthèse contre la malaria. Delft 1935. pp. 182. ill.
+
+\textsc{Aluminium Company of America.} Chemical analysis of aluminum. New Kensington, Pa. 1935. pp. 83.
+
+\textsc{American Petroleum Institute.} A report on fundamental research in petroleum. New York 1932. pp. 56. ill.
+
+\textsc{American Public Health Association and Association of Official Agricultural Chemists.} Standard methods of milk analysis, bacteriological and chemical. 6th edition. New York 1934. pp. xiv + 105. ill.
+
+\textsc{Angerer, Ernst von.} Apparate und Methoden der Spektroskopie. (Handbuch der Experimentalphysik, 21, pp. 205--396.) Leipzig 1927. ill.
+
+\textsc{Armstrong, E. F.,} and \textsc{Armstrong, K. F.} The carbohydrates. 5th edition. (Monographs on Biochemistry.) London 1934. pp. viii + 288.
+
+\textsc{Armstrong, E. F.,} and \textsc{Armstrong, E. F.}
+
+\textsc{Association of British Chemical Manufacturers.} British chemicals and their manufacturers. London 1935. pp. 459. \textit{(Reference.)}
+
+\textsc{Association of Official Agricultural Chemists.} \textit{See} \textsc{American Public Health Association.}
+
+\textsc{Australia, Commonwealth of.} \textit{Council for Scientific and Industrial Research.} Bulletin No. 83. Natural pastures : their response to superphosphate. By J. G. \textsc{Davies,} A. E. \textsc{Scott,} and K. M. \textsc{Fraser.} Melbourne 1934. pp. 76. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Bulletin No. 84. The basal standard metabolism of the Australian merino sheep---II. By A. W. \textsc{Peirce.} Melbourne 1934. pp. 22.
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\small
+
+\textsc{Australia, Commonwealth of.} \textit{Council for Scientific and Industrial Research.} Bulletin No. 85. Studies on the phosphorus requirements of sheep. II. By H. R. \textsc{Marston} [and others]. Melbourne 1934. pp. 22. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Bulletin No. 86. A soil survey of the Berri, Cobdogla, Kingston, and Moorook irrigation areas, and the Lyrup village district, South Australia. By T. J. \textsc{Marshall} and P. D. \textsc{Hooper.} Melbourne 1935. pp. 55. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Bulletin No. 92. The apple-growing soils of Tasmania. By C. G. \textsc{Stephens} and J. K. \textsc{Taylor.} Melbourne 1935. pp. 55. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Pamphlet No. 49. Some important poison plants of North Australia. Compiled by the Poison Plants Committee. Melbourne 1934. pp. 44. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Pamphlet No. 51. The chemistry of Australian timbers. Part 4.---A study of the lignin determination. ii. By W. E. \textsc{Cohen.} Melbourne 1934. pp. 20. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Pamphlet No. 53. The identification of wood by chemical means. Part II. By W. E. \textsc{Cohen.} Melbourne 1935. pp. 23.
+
+\noindent\rule{3em}{0.3pt}\quad Pamphlet No. 55. The selection, preservation, distribution, and identification of Australian pine timbers. By J. E. \textsc{Cummins} and H. E. \textsc{Dadswell.} Melbourne 1935. pp. 79. ill.
+
+\noindent\rule{3em}{0.3pt}\quad Pamphlet No. 57. Tests of the efficacy of the oxy-acetylene scarfing and fuming process for assisting partly decayed poles. By J. E. \textsc{Cummins.} Melbourne 1935. pp. 43. ill.
+
+\textsc{Aykroyd, W. R.} Three philosophers (Lavoisier, Priestley and Cavendish). London 1935. pp. xii + 277. ill.
+
+\textsc{Barker, A. S.} The use of fertilizers. A guide to the manuring of crops in Great Britain. London 1935. pp. x + 204.
+
+\textsc{Baroni, A.} \textit{See} \textsc{Levi, Giorgio Renato.}
+
+\textsc{Barrett, Thomas,} and \textsc{Dunster, George William.} Varnish making. London [1934]. pp. xii + 132. ill.
+
+\textsc{Basle. Society of Chemical Industry.} (Fifty years' history) 1884--1934. Basle 1934. pp. 85. ill.
+
+\textsc{Bassingdale, R.} \textit{See} \textsc{Department of Scientific and Industrial Research.} \textit{Water Pollution Research.} Technical Paper No. 5.
+
+\end{minipage}
+
+\end{document}
+```

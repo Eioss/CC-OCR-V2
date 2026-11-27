@@ -1,0 +1,8 @@
+\begin{align*}
+& \|H(s)\|_{L_1} = \max_{i=1,\dots,n} \left( \sum_{j=1}^n |H_{ij}(s)| \right)_{L_1}, \\
+& \mathcal{N}(x, m, v) = \frac{\mathcal{N}(\infty)}{A_{tot}} + \mathcal{O}(x^{-\frac{1}{m}}), \\
+& P(K_{signal}, T, t) = 2Re \sum_{j} \exp(iK_{signal} \cdot r_j) \sum_{0 \le p} M_{p, p, p}^{(j)}(E_{i, j, t}) \\
+& \| \partial_x^\beta \partial_t^\alpha \Phi(\cdot, D) \cdot \frac{e^{-\frac{|x|^2}{4t}}}{t^{\frac{n}{2}}} \|_{L_1^q L_x^p} \\
+& \le C \| \partial_x^\beta \partial_t^\alpha \Phi \|_{L_1^q L_x^p} \| u_0 \|_{L_x^p L_t^q}, \quad \forall s \in [0, s_1], \\
+& \mathcal{E}(u) = \frac{1}{2} (D u + (D u)^T) = \frac{1}{2} (\partial_j u_k + \partial_k u_j)_{1 \le j, k \le 2}
+\end{align*}

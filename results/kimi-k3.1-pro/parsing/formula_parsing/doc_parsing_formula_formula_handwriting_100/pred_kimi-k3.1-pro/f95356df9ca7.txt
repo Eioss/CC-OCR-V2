@@ -1,0 +1,64 @@
+\[
+\Gamma=\left\{(x,y):\|x\|=u(y),\ |y|\leq d\right\}
+\]
+
+\[
+P_{\mathrm{est}}=\frac{4}{3}\frac{n(\mathcal{N}_{v}^{p})-n_{00}(\mathcal{N}_{v}^{p})}{n(\mathcal{N}_{v}^{p})},
+\]
+
+\[
+\|\mu\|_{BL}:=\sup_{\psi\in\mathcal{L}}\int_{\mathbb{R}_{0}^{+}}\psi\,\mu,\qquad \mu\in\mathcal{M}
+\]
+
+\[
+V:=\left\{\check{\sigma}_{u,((x_{1},s_{1}),\ldots,(x_{l},s_{l})),\pi_{B}}\ \middle|\ 
+\left(u,((x_{1},s_{1}),\ldots,(x_{l},s_{l})),\pi_{B}\right)\in\dot{V}\right\}.
+\]
+
+\[
+\begin{aligned}
+&\frac{1}{h}\left(\eta_{h,i}^{v}-\eta_{h,i-1}^{v},w\right)_{L^{2}(\Omega)}
++\left(\nabla\eta_{h,i}^{v},\nabla w\right)_{L^{2}(\Omega)^{N}}
++\left(g(\eta_{h,i}^{v}),w\right)_{L^{2}(\Omega)}\\
+&\qquad+\left(a'(\eta_{h,i}^{v})\left|\nabla\theta_{h,i-1}^{v}\right|v,w\right)_{L^{2}(\Omega)}=0,
+\qquad \text{for every }w\in H^{1}(\Omega)\text{ and }i\in\mathcal{N},
+\end{aligned}
+\]
+
+\[
+\sum_{i=1}^{4}\left(C_{\mathrm{trace}}^{N_{0}(k_{i})}\right)^{2}\geq 2(1+r^{2})\qquad \forall r,
+\]
+
+\[
+\sum_{i=1}^{4}\left(C_{\mathrm{trace}}^{N_{0}(k_{i})}\right)^{2}\leq 2(1+2r^{2})
+\qquad \text{for }r\leq\frac{1}{\sqrt{2}}
+\]
+
+\[
+\begin{aligned}
+[Au,v]&=2\mu(\epsilon(u),\epsilon(v)),&
+[Bp,v]&=(p,\nabla\cdot v),\\
+[Cp,q]&=(p,q),&
+[D\eta,v]&=(\eta,v)
+\end{aligned}
+\]
+
+\[
+\mathfrak{h}_{\theta}=\theta^{\perp}
+=\left\{X\in\mathfrak{h}\mid \alpha(X)=0\ \forall\alpha\in\theta\right\},\qquad
+\mathfrak{l}_{\theta}=\mathfrak{z}_{\mathfrak{g}}(\mathfrak{h}_{\theta})
+=\mathfrak{h}\oplus\sum\mathfrak{g}^{\alpha},\qquad
+\mathfrak{n}_{\theta}^{\pm}
+=\sum_{\alpha\in\Sigma^{\pm}\setminus\langle\theta\rangle^{\pm}}\mathfrak{g}^{\alpha}
+\]
+
+\[
+\begin{aligned}
+&\exp\left(\sum_{\xi\in\mathcal{B}_{0}}\chi_{J_{0}\vee\xi}(t)\right)
+\prod_{\xi\in\mathcal{B}_{0}}\left\|BA_{0}^{-1}e_{J_{0}}\wedge e_{\xi}\right\|\\
+&=\exp\left(|\mathcal{B}_{0}|\sum_{j=0}^{a_{1}}
+\left(\frac{d_{j}}{l_{j}}-\frac{d_{j+1}}{l_{j+1}}\right)
+\left(\sum_{i=1}^{j}\chi_{J_{0}}(t)+\chi_{[l_{i}]}(t)\right)\right)
+\prod_{\xi\in\mathcal{B}_{0}}\left\|BA_{0}^{-1}e_{J_{0}}\wedge e_{\xi}\right\|
+\end{aligned}
+\]

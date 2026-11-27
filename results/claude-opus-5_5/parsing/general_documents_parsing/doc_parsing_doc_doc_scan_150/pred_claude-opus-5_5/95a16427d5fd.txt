@@ -1,0 +1,126 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{enumitem}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% Top-left notice (Sinhala text followed by English)
+\noindent{\scriptsize\textit{[Sinhala text]}\\ \textit{All Rights Reserved}}
+
+\begin{center}
+% [Sri Lanka Government Emblem]
+\vspace{0.5cm}
+{\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}}\\[4pt]
+{\Large\textbf{THIRD TERM TEST - 2020}}
+\end{center}
+
+\noindent\textbf{Grade 11}\hfill{\LARGE\textbf{ENGLISH LANGUAGE - I}}\hfill\textbf{One Hour}
+
+\vspace{4pt}
+\noindent\framebox[\textwidth][l]{Name / Index No. :}
+
+\vspace{6pt}
+\noindent\textbf{Answer all questions on this paper itself.}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+%--------------------------- TEST 1 ---------------------------
+\noindent\textbf{Test - 1}\quad \textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given.} \textit{The first one is done for you.}
+
+\vspace{6pt}
+\noindent
+\begin{minipage}[t]{0.75\textwidth}
+\begin{tabular}{@{}p{2.2cm}@{}p{0.4cm}p{9.5cm}@{}}
+\textit{Postal clerk} & : & What can I do for you today? \\
+\textit{Anne} & : & I need to mail this (1) \underline{\hspace{0.3cm}(b)\hspace{0.3cm}} to Galle, please. \\
+\textit{Postal clerk} & : & OK, let's see how much it (2) \dotfill Well, It's about 350 grams. \\
+\textit{Anne} & : & I need to send it by (3) \dots\dots\dots\dots\dots\dots mail. \\
+\textit{Postal clerk} & : & If you do so, it \ will get there (4) \dots\dots\dots\dots.. Or you can send it priority and it will get there by Saturday. \\
+\textit{Anne} & : & Saturday is fine. How much will that be? \\
+\textit{Postal clerk} & : & Rs.750. Do you (5) \dots\dots\dots\dots\dots\dots\dots\dots. anything else? \\
+\textit{Anne} & : & Oh, yes! I almost forgot. I need a book of (6) \dots\dots\dots\dots\dots, too. \\
+\textit{Postal clerk} & : & OK, your total is Rs.1950. \\
+\end{tabular}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.2\textwidth}
+\begin{tabular}{|l|}
+\hline
+(a) \ want \\
+(b) \ package \\
+(c) \ stamps \\
+(d) \ weighs \\
+(e) \ express \\
+(f) \ tomorrow \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+\textbf{\scriptsize Marks}\\
+\begin{tabular}{|p{1.4cm}|}
+\hline
+\scriptsize 1 x 5 \\[0.8cm]
+\scriptsize Total\underline{\hspace{0.3cm}} \\
+\hfill\scriptsize 05 \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\vspace{10pt}
+%--------------------------- TEST 2 ---------------------------
+\noindent\textbf{Test - 2}\quad \textbf{Read the following guidelines given by of a hotel to its guests \ and complete them with the correct prepositions given below.} \textit{The first one is done for you.}
+
+\begin{center}
+during, \ till, \ for, \ of, \ from, \ on
+\end{center}
+
+\noindent
+\begin{minipage}[t]{0.82\textwidth}
+\fbox{%
+\begin{minipage}{0.95\textwidth}
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+\textsf{The following information will help you to have an enjoyable stay:}
+\begin{itemize}[label=$\diamondsuit$]
+  \item The restaurant is open daily (1) \underline{\hspace{0.4cm}from\hspace{0.4cm}} \ 6.30 a.m. to 9.30 p.m.
+  \item You can order breakfast in your room by hanging the Menu card (2) \dots\dots\dots\dots\dots\dots\ the door.
+  \item If you need a doctor (3) \dots\dots\dots\dots\dots\dots\dots\dots\ the night, please call 100.
+  \item There is a play room (4) \dots\dots\dots\dots\dots\dots\dots.. kids below 10 years
+  \item There is free wifi in the rooms and the password is given in the back (5) \dots\dots\dots\dots\dots\dots\dots\ your room key.
+  \item The main gate is open (6) \dots\dots\dots\dots\dots\dots\dots\ 10.00 p.m.
+\end{itemize}
+\end{minipage}}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.14\textwidth}
+\vspace{4.2cm}
+\textbf{\scriptsize Marks}\\
+\begin{tabular}{|p{1.4cm}|}
+\hline
+\scriptsize 1 x 5 \\[0.8cm]
+\scriptsize Total\underline{\hspace{0.3cm}} \\
+\hfill\scriptsize 05 \\
+\hline
+\end{tabular}
+\end{minipage}
+
+\vfill
+\begin{center}
+{\small (01)}\\
+{\scriptsize\textit{[Sinhala text: copyright/reproduction notice]}}
+\end{center}
+
+\end{document}
+```
+
+**Notes:**
+- The Sinhala text at the top left (above "All Rights Reserved") and the footer notice at the bottom are shown as placeholders. Compiling actual Sinhala script would require XeLaTeX/LuaLaTeX with a Sinhala font (e.g., `\usepackage{fontspec}` with *Noto Sans Sinhala*).
+- The government emblem at the top is marked with a comment. You can insert it with `\includegraphics` if you have the image file.
+- The original's wording and errors are kept unchanged, for example "it \ will get there," "given by of a hotel," and "Total___."

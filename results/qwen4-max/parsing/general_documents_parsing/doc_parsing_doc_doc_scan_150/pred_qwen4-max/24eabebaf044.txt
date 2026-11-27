@@ -1,0 +1,33 @@
+A more detailed example is shown in Figure 2. The user requested to first detect the pose of the person in the example image, then generate a new image based on that pose and the specified text, and finally generate a speech describing the image. HuggingGPT first parsed 6 tasks based on the request, including pose detection, text-to-image conditional on pose, object detection, image classification, image captioning, and text-to-speech. We observed that HuggingGPT can correctly orchestrate the execution order and resource dependencies of tasks, e.g., pose conditional text-to-image task need to be executed after pose detection and use its output as input. After that, HuggingGPT selects the appropriate model for each task and finally summarizes the results of the model execution into a final response. For more demonstrations, please refer to the Appendix A.3.
+
+4.3 Quantitative Evaluation
+
+In HuggingGPT, task planning is the first but also the most important step in the whole workflow, since it directly determines the result of the subsequent pipeline. Therefore, we deem that the quality of task planning also reflects the capability of LLMs in some aspects (e.g., reasoning and decision). In other words, assessing task planning provides a reliable metric for evaluating the ability of LLMs. We simplified the evaluation by only
+
+<table><tr><td>LLM</td><td>Acc ↑</td><td>Pre ↑</td><td>Recall ↑</td><td>F1 ↑</td></tr><tr><td>Alpaca-7b</td><td>6.48</td><td>35.60</td><td>6.64</td><td>4.88</td></tr><tr><td>Vicuna-7b</td><td>23.86</td><td>45.51</td><td>26.51</td><td>29.44</td></tr><tr><td>GPT-3.5</td><td>52.62</td><td>54.45</td><td>32.26</td><td>39.05</td></tr></table>
+
+Table 3: Evaluation for the single task. “Acc” and “Pre” represents Accuracy and Precision.
+
+considering the task type without its arguments. To better conduct evaluations on task planning, we group tasks into three distinct categories (see Table 2) and formulate different metrics for them:
+
+• Single Task refers to a request that involves only one task. We consider the planning to be correct when and only when the task name (i.e., "task") and the predicted label are identically equal. F1 and accuracy are chosen as evaluation metrics for single-task scenarios.
+
+• Sequential Task represents that the intent of the user request can be decomposed as a sequence of multiple sub-tasks. Here, we use F1 and normalized Edit Distance [35] as the metrics.
+
+• Graph Task indicates that user requests can be decomposed into directed acyclic graphs. Considering the possibility of multiple planning topologies within graph tasks, only using F1-score is not enough to reflect the LLM capability in planning. To address this, following Vicuna [36], we employed GPT-4 as a critic to evaluate whether the planning is correct. The accuracy is obtained by evaluating the judgment of GPT-4, referred to as the GPT-4 Score. Detailed information about the GPT-4 Score can be found in Appendix A.1.5.
+
+Dataset To conduct our evaluation, we invite some annotators to submit some requests. We collect these data as the evaluation dataset. We use GPT-4 to generate task planning as the pseudo labels, which cover single, sequential, and graph tasks. Furthermore, we also invite some expert annotators to label task planning for some complex requests (46 examples) as a high-quality human-annotated dataset. We also plan to further improve the quality and quantity of this dataset to better
+
+<table><tr><td>LLM</td><td>ED ↓</td><td>Pre ↑</td><td>Recall ↑</td><td>F1 ↑</td></tr><tr><td>Alpaca-7b</td><td>0.83</td><td>22.27</td><td>23.35</td><td>22.80</td></tr><tr><td>Vicuna-7b</td><td>0.80</td><td>19.15</td><td>28.45</td><td>22.89</td></tr><tr><td>GPT-3.5</td><td>0.54</td><td>61.09</td><td>45.15</td><td>51.92</td></tr></table>
+
+Table 4: Evaluation for the sequential task. “ED” means Edit Distance.
+
+help us to evaluate the LLM capability in planning, which leaves as future work. More details about this dataset are in Appendix A.2. Based on this dataset, we deploy some experimental evaluations on different LLMs (Alpaca-7b [37], Vicuna-7b [36], and GPT models) for task planning.
+
+<table><tr><td>LLM</td><td>GPT-4 Score ↑</td><td>Pre ↑</td><td>Recall ↑</td><td>F1 ↑</td></tr><tr><td>Alpaca-7b</td><td>13.14</td><td>16.18</td><td>28.33</td><td>20.59</td></tr><tr><td>Vicuna-7b</td><td>19.17</td><td>18.66</td><td>13.97</td><td>28.08</td></tr><tr><td>GPT-3.5</td><td>50.48</td><td>54.90</td><td>49.23</td><td>51.91</td></tr></table>
+
+Table 5: Evaluation for the graph task.
+
+Tables 3, 4 and 5 show the planning capabilities of HuggingGPT on the three categories of GPT-4 annotated datasets, respectively. We observed that GPT-3.5 exhibits more prominent planning capabilities, outperforming the open-source LLMs Alpaca-7b and Vicuna-7b in terms of all types of user requests. Specifically, in more complex tasks
+
+8

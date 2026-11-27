@@ -1,0 +1,65 @@
+\[
+\begin{aligned}
+F_{fe}(\xi_{r_n t})
+&=F_{fe}(\xi_0)+\int_0^t r_n L_{\mathrm{VM}}^{u_n}F_{fe}(\xi_{r_n r})\,dr+M_t\\
+&\leq F_{fe}(\xi_0)+\int_0^t 2r_n\sum_{x\in E_n}\pi^{(n)}(x)
+\int_S f_e\bigl(\sigma,\xi_{r_n r}(x)\bigr)\,du_n(\sigma)\,dr+M_t.
+\end{aligned}
+\]
+
+\[
+P(r,t)=\frac{N}{V}\sum_j d_{eg}^{*}\langle\sigma_{ge}\rangle e^{i(k_jz-\nu_jt)}.
+\]
+
+\[
+u=-\frac{\partial\Psi}{\partial z}
+=u_0\frac{H_1}{H_1-h},
+\qquad
+w=\frac{\partial\Psi}{\partial x}
+=u_0H_1\frac{dh}{dx}\frac{H_1-z}{(H_1-h)^2}.
+\]
+
+\[
+\frac{dh}{dx}
+=-h_0\left[\beta\cos^2(\alpha x)\sin(2\beta x)
++\alpha\cos^2(\beta x)\sin(2\alpha x)\right].
+\]
+
+\[
+|\Psi\rangle_{AB}
+=|\psi\rangle_A\otimes|\phi\rangle_B
+=|\psi\rangle_A\otimes
+\left(\cos\frac{\theta}{2}|0\rangle_B
++\sin\frac{\theta}{2}|1\rangle_B\right).
+\]
+
+\[
+\delta\sum_{k=0}^{n}a_k\|x_k-T(x_k)\|^2
+\leq \|x_0-T(x_0)\|^2-\|x_{n+1}-T(x_{n+1})\|^2
+\leq \|x_0-T(x_0)\|^2.
+\]
+
+\[
+\min_{\theta}\operatorname{Tr}(Z^TLZ)
+\quad\text{subject to}\quad Z^TDZ=I.
+\]
+
+\[
+\begin{aligned}
+\left|\sum_{|h|\geq H}a_{h,H}
+\sum_{n\sim\delta N}e^{2i\pi f_x(n+\frac12)h}\right|
+&\leq C\sum_{|h|\geq H}
+H\left(Nh^{-\frac32}L^{-\frac12}
++h^{-\frac52}L^{\frac12}\right)\\
+&\leq C\left(NH^{\frac12}L^{-\frac12}
++H^{-\frac12}L^{\frac12}\right).
+\end{aligned}
+\]
+
+\[
+(\widetilde{\nabla}_{\phi^2W}\widetilde{R})
+(\phi^2X,\phi^2Y)\phi^2Z
+=
+(\widetilde{\nabla}_{W}\widetilde{R})
+(\phi^2X,\phi^2Y)\phi^2Z.
+\]

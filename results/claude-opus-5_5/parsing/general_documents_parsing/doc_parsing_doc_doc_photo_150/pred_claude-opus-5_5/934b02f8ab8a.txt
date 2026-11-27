@@ -1,0 +1,85 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage{enumitem}
+\usepackage{ulem}
+\normalem
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Al Mubeen School System}}\\[4pt]
+Old Campus: Rubina Sulehry StreetNew Campus, 0313-4949533\\
+Kashif Cosmetics Street Makkah Chowk, 0336-8770948
+\end{center}
+
+\textbf{Name:} \underline{\textit{Hizra Yousaf}} \hfill \textbf{Paper English: Grade 4} \hfill \textbf{Total Marks 75}
+
+\vspace{10pt}
+
+% ---------------- Question 1 ----------------
+\textbf{Q: Read the given paragraph and notice the use of nouns.} \hfill \textbf{Marks \quad /05}
+
+\begin{quote}
+We spent last week in \uline{Nathia Gali}. We visited \uline{Muskeshpuri} Top and the National \uline{Park}. It was my first visit to a hill \uline{station}. And I enjoyed it a lot. During these \uline{holidays}, I did a lot of things like hiking, mount climbing and camping. I also learnt horse \uline{riding}. I am very good at \uline{cricket}, but I like horse \uline{riding}.
+\end{quote}
+
+% ---------------- Question 2 ----------------
+\textbf{Q: Answer the following questions. Ignore grammar rules. [two to three lines]} \hfill \textbf{Marks \quad /10}
+
+\begin{enumerate}[label=\alph*)]
+  \item How do you spend your Sundays?
+  \item What kind of TV programs do you like?
+  \item What are the things you buy for your brothers or sisters on Eid?
+  \item Describe the place where you live. Do you really like your hometown?
+  \item Who do you like the most in your family? And why do you like him or her?
+\end{enumerate}
+
+% ---------------- Question 3 ----------------
+\textbf{Q: Use parts of speech: adjectives, prepositions and linking words to make the sentences longer. Example: I play [I play football with my father in the park on Sunday]} \hfill \textbf{Marks \quad /10}
+
+\begin{quote}
+a) I drive. \qquad b) I help. \qquad c) I drink. d) I speak. \qquad e) I clean.
+\end{quote}
+
+% ---------------- Question 4 ----------------
+\textbf{Q: Write a dialogue between two friends and discuss a birthday party of your friend. How was the party and did they really enjoy it?} \hfill \textbf{Marks \quad /10}
+
+\vspace{8pt}
+
+% ---------------- Question 5 ----------------
+\textbf{Q: Read the following passage and answer the following questions.} \hfill \textbf{Marks \quad /15}
+
+\begin{quote}
+Different people have different hobbies. People love to stay busy in their free time but they usually don't find any interesting activities. In my opinion, people should choose those activities which could help them learn something new and also provide them some entertainment. Some people like to watch movies while others like to read books. Books are really great friends they never cheat and they also talk when you are alone. Books help you think and understand the things differently. There are many kinds of books such as stories, poetry and science books.
+\end{quote}
+
+\begin{enumerate}[label=\alph*)]
+  \item How do the people spend their free time?
+  \item What's your favourite free-time activity?
+  \item What kind of books should we read?
+  \item Which of the top qualities of the books have been mentioned in the passage?
+  \item In your opinion, which is the best book in the world?
+\end{enumerate}
+
+% ---------------- Question 6 ----------------
+\textbf{Q: Use the given noun phrases into sentences [as subject or object]. For example, [a tall man with black long hair] is eating food.} \hfill \textbf{Marks \quad /10}
+
+\begin{quote}
+\begin{tabular}{@{}ll@{}}
+1) A beautiful lady with golden hair & 2) Those two famous scientists from Germany \\[4pt]
+3) That interesting student of our class & 4) The girl in the kitchen \\[4pt]
+5) A tall nurse in the hospital & 6) That brilliant teacher of English \\
+\end{tabular}
+\end{quote}
+
+% ---------------- Question 7 ----------------
+\textbf{Q: Write a story about a child who was going home from school and got lost. At least one page. Write in your own words. [Ignore grammar and spelling rules].} \hfill \textbf{Marks \quad /15}
+
+\end{document}
+```
+
+**Notes:**
+- Underlines in the first paragraph reproduce the handwritten underlining of the nouns. The handwritten "N" marks beneath them, the tick marks beside the questions, and the circled numbers in the reading passage were left out.
+- The printed text is kept as it appears, including "StreetNew Campus" and "mount climbing."

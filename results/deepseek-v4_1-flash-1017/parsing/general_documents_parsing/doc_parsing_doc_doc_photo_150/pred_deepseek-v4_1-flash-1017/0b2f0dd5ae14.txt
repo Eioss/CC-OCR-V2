@@ -1,0 +1,106 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{array}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    第 20 页, 共 61 页
+\end{center}
+
+\vspace{1em}
+
+\begin{center}
+    \Large \textbf{郑州大学第二附属医院专购品入库汇总单}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}llll@{}}
+    供货单位: 河南华润医疗器械有限公司 & & 发票号: & \\
+    编制日期: 2021-11-02 \quad 至 \quad 2021-11-30 & & 仓 \quad 库: 器械库 & \\
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|l|l|l|l|r|r|r|l|}
+    \hline
+    \textbf{材料编码} & \textbf{材料名称} & \textbf{规格型号} & \textbf{单位} & \textbf{数量} & \textbf{单价} & \textbf{金额} & \textbf{生产厂商} \\
+    \hline
+    010303010610 & 一体式封堵器介入输送装置 & ASD-10F & 套 & 1.00 & 4800.00 & 4800.00 & 上海形状记忆合金材料有 \\
+    010303010610 & 一体式封堵器介入输送装置 & ASD-12F & 套 & 1.00 & 4800.00 & 4800.00 & 上海形状记忆合金材料有 \\
+    010303010610 & 颅内可电解脱弹簧圈 & FG9001003-061 & 个 & 2.00 & 6260.00 & 12520.00 & 上海加奇 \\
+    010303010610 & 颅内可电解脱弹簧圈 & FG9001003-051 & 个 & 1.00 & 6260.00 & 6260.00 & 上海加奇 \\
+    010303010710 & 室间隔缺损封堵器/记忆VSD & SQFDQ-III 07 & 支 & 2.00 & 11592.00 & 23184.00 & 上海形状记忆合金材料有 \\
+    010303010710 & 血管缝合器系统 & 12673 & 支 & 1.00 & 2420.00 & 2420.00 & 美国雅培 \\
+    \hline
+    \multicolumn{4}{|l|}{数量合计: 3868.00} & \multicolumn{4}{l|}{金额合计: 玖佰贰拾玖万玖仟玖佰捌拾捌元捌角伍} \\
+    \multicolumn{4}{|l|}{} & \multicolumn{4}{l|}{金额合计小写: 9299988.85} \\
+    \hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}p{0.2\textwidth}p{0.2\textwidth}p{0.2\textwidth}p{0.2\textwidth}@{}}
+    会计: & 采购: & 仓管: & 制表: \\
+\end{tabular}
+
+\vspace{2em}
+
+\begin{center}
+    第 21 页, 共 61 页
+\end{center}
+
+\vspace{1em}
+
+\begin{center}
+    \Large \textbf{郑州大学第二附属医院专购品入库汇总单}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}llll@{}}
+    供货单位: 河南华润医疗器械有限公司 & & 发票号: & \\
+    编制日期: 2021-11-02 \quad 至 \quad 2021-11-30 & & 仓 \quad 库: 器械库 & \\
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|l|l|l|l|r|r|r|l|}
+    \hline
+    \textbf{材料编码} & \textbf{材料名称} & \textbf{规格型号} & \textbf{单位} & \textbf{数量} & \textbf{单价} & \textbf{金额} & \textbf{生产厂商} \\
+    \hline
+    010303010710 & 滤器回收套件 & SRK35 & 个 & 2.00 & 9800.00 & 19600.00 & 美国巴德 \\
+    010303010710 & 弹簧圈系统 & 8210-0306 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+    010303010710 & 房间隔缺损封堵器/记忆ASD & FQFDQ-1 24 & 支 & 1.00 & 13000.00 & 13000.00 & 上海形状记忆合金材料有 \\
+    010303010710 & 弹簧圈系统 & 8510-0103 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+    010303010710 & 弹簧圈系统 & 8510-0154 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+    010303010710 & 弹簧圈系统 & 8510-0206 & 个 & 1.00 & 14800.00 & 14800.00 & MicroVention, Inc \\
+    \hline
+    \multicolumn{4}{|l|}{数量合计: 3868.00} & \multicolumn{4}{l|}{金额合计: 玖佰贰拾玖万玖仟玖佰捌拾捌元捌角伍} \\
+    \multicolumn{4}{|l|}{} & \multicolumn{4}{l|}{金额合计小写: 9299988.85} \\
+    \hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}p{0.2\textwidth}p{0.2\textwidth}p{0.2\textwidth}p{0.2\textwidth}@{}}
+    会计: & 采购: & 仓管: & 制表: \\
+\end{tabular}
+
+\end{document}
+```

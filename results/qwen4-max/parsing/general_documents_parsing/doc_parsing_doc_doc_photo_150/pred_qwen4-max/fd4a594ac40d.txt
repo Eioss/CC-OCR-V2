@@ -1,0 +1,82 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+% For Bengali text, a package like 'fontspec' with XeLaTeX or LuaLaTeX is needed.
+% This code assumes a compatible compiler and font setup.
+% \usepackage{fontspec}
+% \setmainfont{...}[BengaliFontName] 
+% \newfontfamily\bengalifont{...}[BengaliFontName]
+
+\begin{document}
+
+\noindent
+অয়োময় \hfill ৪৭ \hfill ১৩৭
+
+\begin{center}
+    \Large\textbf{Ka Set} \\
+    \large\textbf{JUNIOR SCHOOL CERTIFICATE EXAMINATION,} \\
+    \large\textbf{ENGLISH} \\
+    \large\textbf{S\small{ECOND} P\small{APER}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Subject Code :} \fbox{1}\fbox{0}\fbox{8}
+
+\vspace{0.5cm}
+
+\noindent
+Time---2 hours \\
+Full marks---50
+
+\vspace{0.5cm}
+
+\noindent
+\textit{[N.B.—The figures in the right margin indicate full marks.]}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{Section A—Grammar} \\
+    Marks—30
+\end{center}
+
+\begin{enumerate}
+    \item Fill in the gaps of the following text with appropriate articles. Put a cross ($\times$) where there is no article applicable :--- \hfill \parbox[t]{2cm}{\raggedleft Marks \\ 0$\cdot$5$\times$6 \\ =3} \\
+    I live in Rajshahi. My elder brother who is (a) \rule{2cm}{0.4pt} engineer, works in Dhaka. Last summer he asked me to stay (b) \rule{2cm}{0.4pt} few days with him and sent me (c) \rule{2cm}{0.4pt} plane ticket. That was my first journey by air. I arrived at (d) \rule{2cm}{0.4pt} airport about (e) \rule{2cm}{0.4pt} hour before the flight. It was (f) \rule{2cm}{0.4pt} enjoyable plane journey.
+
+    \item Fill in the blanks of the following text with prepositions given in the box :--- \hfill \parbox[t]{2cm}{\raggedleft 0$\cdot$5$\times$6 \\ =3} \\
+    \begin{tabular}{|c|c|c|c|c|c|}
+        \hline
+        for & to & in & with & about & after \\
+        \hline
+    \end{tabular} \\
+    Money is a must (a) \rule{2cm}{0.4pt} our life. But one should not run after money because those who hanker (b) \rule{2cm}{0.4pt} money cannot enjoy mental peace: Sometimes, it may lead one (c) \rule{2cm}{0.4pt} some unexpected troubles. It also happens that greed (d) \rule{2cm}{0.4pt} money brings (e) \rule{2cm}{0.4pt} many problems. So we should be contented (f) \rule{2cm}{0.4pt} what we have.
+
+    \item Make \textbf{four} meaningful sentences from the substitution table :--- \hfill 1$\times$4=4 \\
+    \begin{tabular}{|l|c|l|}
+        \hline
+        Youth & is & be built properly. \\
+        \cline{1-1}\cline{3-3}
+        It & must & the time of sowing seeds of life. \\
+        \cline{1-1}\cline{3-3}
+        We & will & sow the seeds of industry and honesty in this time. \\
+        \cline{1-1}\cline{3-3}
+        Thus our future & & the best time of life. \\
+        \hline
+    \end{tabular}
+\end{enumerate}
+
+\vfill
+\begin{flushright}
+    \textit{[Please turn over}
+\end{flushright}
+
+\end{document}
+```

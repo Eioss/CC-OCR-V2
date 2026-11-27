@@ -1,0 +1,12 @@
+```latex
+\begin{gathered}
+\tanh(z)=\frac{\left(D_{12}\frac{\partial h}{\partial z_{2}}+E_{12}\frac{\partial h}{\partial z_{1}}-(D_{11}-E_{11})\sinh(z)\right)}{T_{1}-T_{2}}. \\
+T_{j}=\lfloor(\pi/4)j\rfloor,\ j=1,\cdots,3. \\
+S_{\theta}^{+}(t)=\{s\in S_{\theta}:s^{-1}\in S_{\theta}^{-}(t)\}. \\
+\left(\int_{\mathcal{C}}t^{1-2s}|\nabla u^{-}|^{2}\,dx\,dy\right)\left(\int_{\mathcal{C}}t^{1-2s}|\nabla v^{-}|^{2}\,dx\,dy\right)\\
+\leq|\Omega\cap\{u^{-}(\cdot,0)>0\}|^{1/n}|\Omega\cap\{v^{-}(\cdot,0)>0\}|^{2s/n}\|d\|_{L^{\infty}(\Omega)}\|d\|_{L^{\infty}(\Omega)}\|u^{-}\|_{L^{2n/(n-2s)}(\Omega)}^{2}\|v^{-}\|_{L^{2n/(n-2s)}(\Omega)}^{2}. \\
+\|F_{x\to\Xi}\wedge[F^{a},F^{b},F^{c}]\|_{L_{x\in Z}^{\infty}L_{\Xi}^{2}}\leq k\|F^{a}\|_{S}\|F^{b}\|_{S}\|F^{c}\|_{S}, \\
+\lim_{n\to\infty}\frac{\sup_{a^{n}\leq t\leq a^{n+1}}|X(t)-X(a^{n})|}{a^{nH}(\log a^{n})^{1/p+\epsilon}}=0\ \text{a.s.} \\
+\varphi=|\angle utv|=\pi-\alpha-\beta\geq\pi-|\angle vus|-|\angle svu|=|\angle usv|=2\pi/5.
+\end{gathered}
+```

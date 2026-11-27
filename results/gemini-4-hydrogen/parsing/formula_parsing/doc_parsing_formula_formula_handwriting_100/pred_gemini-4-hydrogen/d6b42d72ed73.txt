@@ -1,0 +1,9 @@
+```latex
+s_1 \cdot \lambda_{n(t^\beta, 1)+1} \leq t^{2\beta} < s_1 \cdot \lambda_{n(t^\beta, 1)} \\
+\beta(\theta) = L_1 \cdot \left\| \frac{\partial \mathcal{L}(\theta)}{\partial \theta} \right\|_2 + L_0 \cdot \left( \left\| \frac{\partial \mathcal{L}(\theta)}{\partial \theta} \right\|_2^2 / \mathcal{L}(\theta) \right). \\
++\Omega^{<r+1|} \dots \Omega^{<1|} X_{|1 \dots r+1>}^{<1 \dots r|} \left( \sum_{k=1}^r (-1)^{r-k} \sigma_{\leftarrow k}^{-1} \right) \gamma_{|1>} \dots \gamma_{|r-1>} \chi_{|r>} + \dots \\
+0 \to P_n \to \dots \to P_3 \to P_2 \to G_1' \to B \to 0 \\
+x_n \leq y_n + \sum_{1 \leq k < R_0 2^n} \nu(k 2^{-n}) N_{k 2^{-n}} \left( \langle \ell^{k 2^{-n}} \rangle \right) y_n \\
+\left| \rho - \frac{m}{n} \right| \geq \frac{K}{|n|^{2+\nu}}. \\
+(I - J) D_1 P D_1^{-1} I = (I - J)^2 D_2 P D_2^{-1} I = I,
+```

@@ -1,0 +1,37 @@
+\[
+\begin{aligned}
+&Z\!\left(s,W_{(\ell_{1};k_{1},0)},W_{(\ell_{2};k_{1}-k_{2})}\right)\\
+&=\sum_{i=0}^{-\ell_{2}-k_{2}}\sum_{j=0}^{\ell_{2}+k_{1}}\sum_{m=0}^{k_{1}-k_{2}}
+(-1)^{i+j+m}(\sqrt{-1})^{-k_{1}-k_{2}-i-j+m}
+\binom{-\ell_{2}-k_{2}}{i}\binom{\ell_{2}+k_{1}}{j}\binom{k_{1}-k_{2}}{m}\\
+&\quad\times\int_{SU(2)}\alpha^{k_{1}-k_{2}-i-j}\overline{\beta}^{\,i+j}
+\overline{\alpha}^{\,k_{1}-k_{2}-m}\beta^{m}\,dk\\
+&\quad\times\int_{0}^{\infty}d^{\times}a_{1}\int_{0}^{\infty}d^{\times}a_{2}
+\int_{L_{1}}\frac{ds_{1}}{2\pi\sqrt{-1}}
+\int_{L_{2}}\frac{ds_{2}}{2\pi\sqrt{-1}}
+\int_{L_{3}}\frac{ds_{3}}{2\pi\sqrt{-1}}\,
+a_{1}^{-s_{1}-s_{3}+2s}a_{2}^{-s_{2}+4s}\\
+&\quad\times\Gamma_{\mathrm C}\!\left(\frac{s_{1}+\ell_{1}+k_{2}+i+j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}-\ell_{2}-k_{2}-i+j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}-\ell_{3}-k_{2}-i-j}{2}\right)\\
+&\quad\times\Gamma_{\mathrm C}\!\left(\frac{s_{2}-\ell_{2}-\ell_{3}-k_{1}-k_{2}}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{2}+\ell_{1}-\ell_{3}-k_{1}+k_{2}}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{2}+\ell_{1}+\ell_{2}+k_{1}+k_{2}}{2}\right)\\
+&\quad\times\Gamma_{\mathrm C}\!\left(\frac{s_{3}+m}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{3}+k_{1}-k_{2}-m}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}+s_{2}+\ell_{1}-\ell_{2}-\ell_{3}-k_{1}-i+j}{2}\right)^{-1}\\
+&=(k_{1}-k_{2}+1)^{-1}(\sqrt{-1})^{-k_{1}-k_{2}}
+\Gamma_{\mathrm C}\!\left(2s+\frac{-\ell_{2}-\ell_{3}-k_{1}-k_{2}}{2}\right)
+\Gamma_{\mathrm C}\!\left(2s+\frac{\ell_{1}-\ell_{3}-k_{1}+k_{2}}{2}\right)
+\Gamma_{\mathrm C}\!\left(2s+\frac{\ell_{1}+\ell_{2}+k_{1}+k_{2}}{2}\right)\\
+&\quad\times\sum_{i=0}^{-\ell_{2}-k_{2}}\sum_{j=0}^{\ell_{2}+k_{1}}
+\binom{-\ell_{2}-k_{2}}{i}\binom{\ell_{2}+k_{1}}{j}
+\int_{L_{1}}\frac{ds_{1}}{2\pi\sqrt{-1}}\,
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}+\ell_{1}+k_{2}+i+j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}-\ell_{2}-k_{2}-i+j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}-\ell_{3}-k_{2}-i-j}{2}\right)\\
+&\quad\times\Gamma_{\mathrm C}\!\left(\frac{-s_{1}+2s+i+j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{-s_{1}+2s+k_{1}-k_{2}-i-j}{2}\right)
+\Gamma_{\mathrm C}\!\left(\frac{s_{1}+4s+\ell_{1}-\ell_{2}-\ell_{3}-k_{1}-i+j}{2}\right)^{-1}.
+\end{aligned}
+\]

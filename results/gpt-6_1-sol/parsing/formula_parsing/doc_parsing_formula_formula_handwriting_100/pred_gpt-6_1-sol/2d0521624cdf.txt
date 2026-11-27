@@ -1,0 +1,30 @@
+\[
+\begin{gathered}
+\frac{\partial v}{\partial t}-\nu\Delta v+(v\cdot\nabla)v=-\nabla p+f,\\[4pt]
+\bar D_XS-\rho_X
+=(x\dot\ell-f\dot g)(X,c)-xp\,\partial_2\cdot\frac{x^j}{j}S
++\frac{k^f}{f}x+D_XS-\rho_X,\\[4pt]
+\langle v_x,w\rangle=\langle c,w\delta(x)\rangle,\\[4pt]
+(\pi_k^G E)(\Sigma^\infty G/H_+)
+:=\pi_k(E\wedge G/H_+)^G
+\cong\pi_k E^H,\\[4pt]
+\int_Y\gamma^0 A^0_{0i}\cdot\nabla\varphi=0
+\qquad\forall\varphi\in C^\infty(T^n),\\[4pt]
+\langle\beta(E)-\beta(\widetilde E),E-\widetilde E\rangle>0,
+\quad\text{for every }E,\widetilde E\in X\text{ with }E\ne\widetilde E,\\[6pt]
+\begin{aligned}
+&\int_\Omega
+\left(|u^{(n)}|^2+|\nabla_{x,t}u^{(n)}|^2\right)(x,t)\,dx\\
+&\quad+\int_0^t\int_\Omega
+\left(
+|\nabla_xu^{(n)}|^2
++\eta|\partial_tu^{(n)}|^2
++|\nabla_xu^{(n)}|^2
+\right)(x,s)\,dx\,ds\\
+&\quad+\int_0^t\int_{\partial\Omega}
+\chi(s)|u^{(n)}|^2(x,s)\,d\sigma(x)\,dt\\
+&\le C_2(L+1)\int_0^T\int_\Omega
+\left(|u^{(n)}|^2+|\nabla_xu^{(n)}|^2\right)(x,t)\,dx\,dt.
+\end{aligned}
+\end{gathered}
+\]

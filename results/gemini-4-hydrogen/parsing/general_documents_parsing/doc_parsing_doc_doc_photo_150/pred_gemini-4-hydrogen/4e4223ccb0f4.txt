@@ -1,0 +1,73 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{ulem}
+
+\begin{document}
+
+\begin{center}
+    {\Large NCERT Solutions for class 10 Maths} \\[0.5em]
+    \uuline{\large Chapter 1 - Real Number Ex - 1.1}
+\end{center}
+
+\vspace{1em}
+
+\noindent 1. Express each number as a product of its prime factors:
+
+\begin{enumerate}
+    \item[(i)] $140$
+    \begin{align*}
+        \text{Prime factors of } 140 &= 2, 2, 5, 7 \\
+        &= 2^2 \times 5 \times 7
+    \end{align*}
+
+    \item[(ii)] $156$
+    \begin{align*}
+        \text{Prime factors of } 156 &= 2 \times 2 \times 3 \times 13 \\
+        &= 2^2 \times 3 \times 13
+    \end{align*}
+
+    \item[(iii)] $3825$
+    \begin{align*}
+        \text{Prime factors of } 3825 &= 3 \times 3 \times 5 \times 5 \times 17 \\
+        &= 3^2 \times 5^2 \times 17
+    \end{align*}
+
+    \item[(iv)] $5005$
+    \begin{align*}
+        \text{Prime factors of } 5005 &= 5 \times 7 \times 11 \times 13.
+    \end{align*}
+
+    \item[(v)] $7429$
+    \begin{align*}
+        \text{Prime factors of } 7429 &= 17 \times 19 \times 23
+    \end{align*}
+\end{enumerate}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{0.5em}
+
+\noindent 2. Find the LCM and HCF of the following pairs of integers and verify that $\text{LCM} \times \text{HCF} = \text{product of the two numbers}$
+
+\begin{enumerate}
+    \item[(i)] $26$ and $91$
+    \begin{align*}
+        \text{Prime factors of } 26 &= 2 \times 13 \\
+        \text{Prime factors of } 91 &= 7 \times 13
+    \end{align*}
+    \begin{align*}
+        \text{HCF of } 26 \text{ and } 91 &= 13 \\
+        \text{LCM of } 26 \text{ and } 91 &= 2 \times 7 \times 13 \\
+        &= 182
+    \end{align*}
+    \begin{align*}
+        \text{Product of two numbers} &= 26 \times 91 = 2366 \\
+        \text{LCM} \times \text{HCF} &= 182 \times 13 = 2366
+    \end{align*}
+    So, $\text{Product of two numbers} = \text{LCM} \times \text{HCF}$
+\end{enumerate}
+
+\end{document}
+```

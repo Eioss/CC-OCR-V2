@@ -1,0 +1,234 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.65in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\usepackage{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\renewcommand{\familydefault}{\sfdefault}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.7em}
+
+\definecolor{navy}{HTML}{171D3B}
+\definecolor{gold}{HTML}{FDB922}
+\definecolor{green}{HTML}{83AF8A}
+\definecolor{textgray}{HTML}{8B8B8B}
+
+\begin{document}
+
+\begin{flushright}
+\small
+CHAIRMAN'S LETTER
+\qquad
+\textcolor{textgray}{MINERALS TECHNOLOGIES INC.}
+\quad
+\textcolor{gold}{5}
+\end{flushright}
+{\color{navy}\hrule height 4pt}
+
+\vspace{1.2cm}
+
+\hspace*{0.335\textwidth}
+\begin{minipage}{0.64\textwidth}
+{\color{gold}\fontsize{34}{36}\selectfont\bfseries
+BOTH BUSINESS\\
+SEGMENTS---}
+
+{\large
+Specialty Minerals and Refractories---contributed to this outstanding
+performance through record-breaking financial results.}
+\end{minipage}
+
+\vspace{0.7cm}
+
+\small
+\color{textgray}
+
+\begin{minipage}[t]{0.30\textwidth}
+Contributing to these financial results was excellent execution of our
+2013 operating plan initiatives, which included growth, return on capital,
+productivity improvements, expense control, and safety. Since 2007, the
+company has improved productivity by 5 percent compounded annually and we
+kept our 2013 expenses flat with 2012 while continuing to grow our base
+business profitably.
+
+The company's safety performance continued on a strong track in 2013.
+We achieved our lowest lost workday rate of 0.386 injuries per 100
+employees, which is approaching world class safety levels, and our
+recordable injury rate declined from the previous year to 1.594 injuries
+per 100 employees. We are committed to making MTI a safe working
+environment for our employees. Our goal is for our employees to go home
+each day after work in the same condition they arrived.
+
+MTI's Return on Capital continued to improve. Our return is now 9.5
+percent compared to 9.2 percent in 2012. The company generated \$138
+million in cash from operations and we repurchased \$52 million of our
+shares during the year.
+
+{\color{green}Accomplishments}
+
+Let's take a look at what drove our outstanding 2013 performance. Our
+two major strategies---geographic expansion and new product
+innovation---continue to gain traction. In 2013, we signed contracts
+for two new satellites, one in China, and
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.30\textwidth}
+the second in Europe. The plant in China is a joint venture agreement
+with Nanning Jindaxing Paper Industry Co. Ltd. for the construction of a
+45,000-metric ton satellite PCC facility at Jindaxing Paper's
+papermaking facility in Guangxi Province, China. The satellite plant,
+which will produce PCC for paper filling, will become operational in
+the fourth quarter of 2014. The satellite facility in Europe is for
+paper filling and is with a papermaker that wished to remain unnamed
+for competitive reasons.
+
+More recently, in early January, we announced an agreement with
+UPM-Kymmene Corporation to build a satellite PCC plant on site at
+UPM's paper mill in Changshu, China, located in Jiangsu province.
+The satellite plant, scheduled to begin operation early in 2015, will
+provide PCC for paper filling and will have an initial capacity of
+100,000 tons.
+
+\vspace{0.6cm}
+
+{\color{navy}Return on Capital*}
+
+\begin{tikzpicture}
+\begin{axis}[
+    width=\linewidth,
+    height=5.5cm,
+    ybar,
+    bar width=20pt,
+    ymin=5,
+    ymax=10.4,
+    xmin=2009.5,
+    xmax=2013.5,
+    xtick={2010,2011,2012,2013},
+    xticklabels={2010,2011,2012,2013},
+    ytick={5,10},
+    ylabel={ROC \%},
+    axis lines=none,
+    tick style={draw=none},
+    tick label style={font=\scriptsize,text=textgray},
+    label style={font=\scriptsize,text=textgray},
+    point meta=y,
+    nodes near coords,
+    nodes near coords style={font=\scriptsize,text=gold},
+    clip=false
+]
+\addplot[fill=gold,draw=none] coordinates {
+    (2010,8.4)
+    (2011,8.8)
+    (2012,9.2)
+};
+\addplot[
+    fill=navy,
+    draw=none,
+    nodes near coords style={font=\scriptsize,text=textgray}
+] coordinates {
+    (2013,9.5)
+};
+\end{axis}
+\end{tikzpicture}
+
+{\scriptsize * Bloomberg Method}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.30\textwidth}
+In total, we are now constructing four new satellite PCC plants in
+China. These include the plant at Jianghe Paper in Henan Province
+and the 100,000-ton coating facility for Sun Paper in Shandong
+Province, both of which we signed in the fourth quarter of 2012.
+Our growth in China will continue. We have developed the operational
+capability through added resources to further expand in this growing
+market.
+
+During the year, we also began ramping up three satellite facilities,
+two in India and one in Thailand. MTI now has seven satellite plants
+in China and 16 in Asia, which is now second only to the 25 satellites
+we operate in North America. In addition, our North American PCC
+plant expansions are moving forward and we expect them to be
+contributing volume in 2014.
+
+\vspace{1.1cm}
+
+{\color{navy}Quarterly Underlying Sales Growth}
+
+\begin{tikzpicture}
+\begin{axis}[
+    width=\linewidth,
+    height=5.5cm,
+    xmin=0.65,
+    xmax=4.35,
+    ymin=-3,
+    ymax=8,
+    xtick={1,2,3,4},
+    xticklabels={Q1,Q2,Q3,Q4},
+    ytick={-3,-2,-1,0,1,2,3,4,5,6,7,8},
+    yticklabels={
+        -3\%,-2\%,-1\%,0\%,1\%,2\%,3\%,4\%,5\%,6\%,7\%,8\%
+    },
+    axis x line=middle,
+    axis y line=none,
+    axis line style={textgray},
+    tick style={draw=none},
+    tick label style={font=\scriptsize,text=textgray},
+    legend style={
+        draw=none,
+        font=\tiny,
+        text=textgray,
+        at={(0.5,-0.04)},
+        anchor=north,
+        legend columns=1
+    },
+    clip=false
+]
+\addplot[
+    ybar,
+    bar width=19pt,
+    fill=navy,
+    draw=none
+] coordinates {
+    (1,-2)
+    (2,2)
+    (3,2)
+    (4,6)
+};
+\addlegendentry{Reported Sales Growth}
+
+\addplot[
+    color=gold,
+    densely dotted,
+    mark=*,
+    mark size=2.5pt,
+    point meta=y,
+    nodes near coords={\pgfmathprintnumber{\pgfplotspointmeta}\%},
+    nodes near coords style={font=\scriptsize,text=gold},
+    visualization depends on={y \as \myy},
+    every node near coord/.append style={
+        anchor={\ifdim\myy pt<0pt north\else south\fi}
+    }
+] coordinates {
+    (1,-1)
+    (2,4)
+    (3,4)
+    (4,7)
+};
+\addlegendentry{Underlying Sales Growth}
+
+\node[font=\scriptsize,text=textgray,anchor=north]
+    at (axis cs:1,-2) {-2\%};
+\node[font=\scriptsize,text=textgray,anchor=south]
+    at (axis cs:2,2) {2\%};
+\node[font=\scriptsize,text=textgray,anchor=south]
+    at (axis cs:3,2) {2\%};
+\node[font=\scriptsize,text=white,anchor=north]
+    at (axis cs:4,5.9) {6\%};
+\end{axis}
+\end{tikzpicture}
+\end{minipage}
+
+\end{document}
+```

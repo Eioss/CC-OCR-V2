@@ -1,0 +1,20 @@
+```latex
+\begin{align*}
+&\beta^* \left\{ \left[ E(1-\tau) - p \right] E(\tau+\eta) - p E[\tau(1-\tau)] \right\} \left[ E(\tau(1-\tau+\eta)) (1-E(\tau)) E(\tau) \right. \\
+&\quad \left. + \left[ p E(\tau^2) E(1-\tau+\eta) (1-\tau) - p E[\tau(1-\tau)] E(\tau+\eta) \right] (1-E(\tau)) \right. \\
+&\quad \left. - E(\tau+\eta) \right\} \\
+&+ \beta^* \left\{ \left[ E(1-\tau+\eta) \right] E(1-\tau+\eta) - p E[\tau(1-\tau)] E(1-\tau+\eta) (1-\tau-\eta) \right\} E(\tau) \\
+&\quad - E(\tau)^2 E(1-\tau) \} - p E^2 E(\tau) (1-\tau) \\
+&+ \left[ E(\tau^2) E(1-\tau+\eta) - p E^2 E(\tau) (1-\tau) \right] \\
+&- \beta^* \left\{ \left[ E(1-\tau+\eta) \right] E(\tau^2) - p^2 E[\tau(1-\tau)] E(\tau) \right\} E(\tau) \\
+&\quad \left. E(\tau^2) \right] E(1-\tau) - p^2 E^2 E(\tau) (1-\tau) \\
+&+ (p E[\tau] E(1-\tau) - p E[\tau(1-\tau)] E(\tau)) (1-E(\tau)) \\
+&\quad - E(\tau)^2 \} E(1-\tau+\eta) - p^2 E^2 E(\tau) (1-\tau) \\
+&\beta^* \left\{ \left[ p E(1-\tau+\eta) - p E[\tau(1-\tau)] \right] E(1-\tau+\eta) E(\tau) \right. \\
+&\quad \left. E(\tau^2) E(1-\tau+\eta) - p^2 E^2 E(\tau) (1-\tau) \right\} \\
+&+ \left[ E(\tau^2) E(1-\tau+\eta) - p^2 E[\tau(1-\tau)] E(\tau) (1-\tau+\eta) \right] (1-E(\tau)) \\
+&\quad - (1-E(\tau+\eta)) \\
+&= \beta^* \left\{ E(\tau) + 0 - E(\tau) \right\} + \beta^* \left\{ 0 + (1-E(\tau)) - (1-E(\tau)) \right\} \\
+&= 0.
+\end{align*}
+```

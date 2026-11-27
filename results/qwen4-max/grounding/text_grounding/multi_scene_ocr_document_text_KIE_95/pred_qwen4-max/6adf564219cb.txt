@@ -1,0 +1,5 @@
+Looking at the receipt, I need to locate the GST ID number '000473792512' which appears in the line "(GST ID No :000473792512)".
+
+The text '000473792512' starts after the colon and extends to before the closing parenthesis.
+
+(471, 316, 728, 335)

@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+& \mathbb{E} \| A^\eta [X_1(t) - X_1(s)] \|^2 \\
+& \leq \frac{4 L_1^2 - \rho L_{\eta+\rho-\beta}^2}{\rho} \mathbb{E} \| A^\beta \xi \|^2 \epsilon^{2(\beta-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + 4 \left[ \frac{L_1^{1-\rho} L_{\eta+\rho} B(\beta, 1-\eta-\rho)}{\rho} + L_\eta B(\eta+\rho, 1-\eta) \right]^2 \\
+& \quad \times \mathbb{E} \| F_1 \|_{F_{\beta,\sigma}(E)}^2 \epsilon^{2(\beta-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + \frac{8 L_1^2 - \rho L_{\eta+\rho}^2 c_{F_2}^2 \kappa^2 B(1+2\beta-2\eta, 1-\eta-\rho)}{\rho^2 (1-\eta-\rho)} \\
+& \quad \times \max \left\{ \epsilon^{2(1+\beta-2\eta-\rho)}, T_{loc}^{2(1+\beta-2\eta-\rho)} \right\} (t-s)^{2\rho} \\
+& \quad + \frac{8 L_\eta^2 - \rho L_{\eta+\rho}^2 \mathbb{E} \| F_2(0) \|^2}{\rho} T_{loc}^{2(1-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + 8 L_\eta^2 c_{F_2}^2 \kappa^2 B(\frac{1}{2}+\beta, 1-2\eta) T_{loc}^{\frac{1}{2}+\beta-2\eta} (t-s)^{\frac{3}{2}+\beta-2\eta} \\
+& \quad + \frac{8 L_\eta^2 \mathbb{E} \| F_2(0) \|^2}{1-2\eta} (t-s)^{2(1-\eta)}, \quad 0 \leq s < t \leq T_{loc}.
+\end{aligned}
+\]

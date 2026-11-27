@@ -1,0 +1,46 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+
+\begin{document}
+
+Yasmin attempted to use the quadratic formula to determine the exact values of $x$ in
+the equation $-2x^2 + 7x - 3 = 0$, but she made at least one error. Her work is
+shown below.
+
+\begin{center}
+\renewcommand{\arraystretch}{2.5}
+\begin{tabular}{c|c}
+\begin{tabular}{@{}c@{}}Step\\ 1\end{tabular} &
+$\dfrac{-(7) \pm \sqrt{(7)^2 - 4(-2)(-3)}}{2(-2)}$ \\
+\hline
+\begin{tabular}{@{}c@{}}Step\\ 2\end{tabular} &
+$\dfrac{-7 \pm \sqrt{25}}{-4}$ \\
+\hline
+\begin{tabular}{@{}c@{}}Step\\ 3\end{tabular} &
+$\dfrac{-7 \pm 5}{-4}$ \\
+\hline
+\begin{tabular}{@{}c@{}}Step\\ 4\end{tabular} &
+$\dfrac{-7+5}{-4} = -8.25 \quad \text{and} \quad \dfrac{-7-5}{-4} = -5.75$ \\
+\end{tabular}
+\end{center}
+
+\begin{enumerate}
+  \item Yasmin recorded her \textbf{first} mistake in
+
+  \begin{itemize}
+    \item[$\square$] Step 1
+    \item[$\square$] Step 4
+    \item[$\square$] Step 2
+    \item[$\square$] Step 3
+  \end{itemize}
+\end{enumerate}
+
+\end{document}
+```
+
+**Note on the math:** Steps 1–3 are correct, since $(7)^2 - 4(-2)(-3) = 49 - 24 = 25$ and $\sqrt{25} = 5$. The first mistake is in **Step 4**. The correct values are:
+
+$$\frac{-7+5}{-4} = \frac{-2}{-4} = 0.5 \qquad \text{and} \qquad \frac{-7-5}{-4} = \frac{-12}{-4} = 3$$

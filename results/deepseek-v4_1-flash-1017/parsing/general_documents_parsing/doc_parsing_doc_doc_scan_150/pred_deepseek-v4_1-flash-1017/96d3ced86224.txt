@@ -1,0 +1,94 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+% Header Section
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+    \vspace{0pt}
+    {\Huge \textbf{awinic}} \\
+    \vspace{5pt}
+    {\color{cyan} \textbf{上海艾为电子技术股份有限公司}} \\
+    {\color{cyan} \scriptsize shanghai awinic technology co., ltd.}
+\end{minipage}%
+\begin{minipage}[t]{0.4\textwidth}
+    \vspace{0pt}
+    \raggedleft
+    \textbf{\Large AW350X5D} \\
+    \textbf{\Large AW350X5} \\
+    Apr. 2023 V1.0
+\end{minipage}
+
+\vspace{5pt}
+\hrule
+\vspace{15pt}
+
+% Section: Functional Description
+\section*{Functional Description}
+The AW350X5D/AW350X5 is a P channel MOSFET power distribution switch with current limit function. In addition, the switch also features fast short-circuit response, under voltage lockout, over temperature protection and reverse current protection.
+
+\section*{CURRENT LIMIT THRESHOLD SETTING}
+The AW35005D/025D/035D/045D/055D/005/025/035/045/055 provides fixed current limit threshold. The current limit function can prevent the switch from over current condition. \\
+The minimum current limit is 400mA, beyond 2.5A is forbidden.
+
+\vspace{10pt}
+\begin{center}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|l|l|}
+\hline
+AW35005D/AW35005 & 0.5A fixed current limit \\ \hline
+AW35025D/AW35025 & 1.1A fixed current limit \\ \hline
+AW35035D/AW35035 & 1.5A fixed current limit \\ \hline
+AW35045D/AW35045 & 2.1A fixed current limit \\ \hline
+AW35055D/AW35055 & 2.5A fixed current limit \\ \hline
+\end{tabular}
+\end{center}
+
+\section*{FAST SHORT CIRCUIT PROTECTION}
+The AW350X5D/AW350X5 provides short circuit protection function which can limit the output current to a safe level without damaging the switch.
+
+\section*{UNDER VOLTAGE LOCKOUT (UVLO)}
+The AW350X5D/AW350X5 has under voltage lockout function which can disable the switch until the input voltage reaches the UVLO threshold (typical 2.3V). The UVLO threshold has a 95mV hysteresis voltage which can prevent the unwanted on/off cycling when there is noise on the input voltage.
+
+\section*{OVER TEMPERATURE PROTECTION (OTP)}
+When the junction temperature exceeds 155\(^{\circ}\)C, the internal OTP circuit turn off the power switch. There is a temperature hysteresis 25\(^{\circ}\)C, in other words, the OTP circuit can turn on the switch only if the junction temperature is below 130\(^{\circ}\)C.
+
+\section*{QUICK OUTPUT DISCHARGE}
+The AW35005D/AW35025D/AW35035D/AW3545D/AW35055D include the Quick Output Discharge (QOD) feature, in order to discharge the application capacitor connected on OUT pin. When EN pin is set to low level, a discharge resistance with a typical value of 75\(\Omega\) is connected between the output and ground, pull down the output and prevent it from floating when the device is disabled.
+
+\section*{REVERSE CURRENT PROTECTION (RCP)}
+The AW350X5D/AW350X5 includes the Reverse Current Protection(RCP) function, which can prevent the current to flowing through the P-FET or the body diode when \(V_{OUT}\) greater than \(V_{IN}\). Whatever the switch is on or off, the AW350X5D/AW350X5 always has this function. When \(V_{OUT}-V_{IN}\) greater than \(V_{REV}\), the internal comparator quickly turns off the switch, in order to prevent large reverse current from \(V_{OUT}\) to \(V_{IN}\). The switch will return to normal operation once the reverse voltage scenario disappeared.
+
+The \(I_{REV\_ACT}\) parameter in the figure 6 can be calculated by the following formula: 
+\[
+I_{REV\_ACT} = \frac{V_{REV}}{R_{dson}}
+\]
+
+\vspace{20pt}
+\hrule
+\vspace{5pt}
+\noindent
+\begin{minipage}{0.33\textwidth}
+    www.awinic.com
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \centering
+    12
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \raggedleft
+    \footnotesize \copyright 2023 Shanghai Awinic Technology CO., Ltd. All Rights Reserved
+\end{minipage}
+
+\end{document}
+```

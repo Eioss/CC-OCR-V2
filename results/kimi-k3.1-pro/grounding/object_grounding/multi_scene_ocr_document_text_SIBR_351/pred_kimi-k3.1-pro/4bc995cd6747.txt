@@ -1,0 +1,19 @@
+[
+  {"bbox_2d": [407, 354, 526, 371], "label": "1. Packing"},
+  {"bbox_2d": [407, 374, 456, 390], "label": "2. Shipping Marks"},
+  {"bbox_2d": [407, 411, 522, 428], "label": "4. Port of loading"},
+  {"bbox_2d": [406, 430, 572, 447], "label": "5. Port of destination"},
+  {"bbox_2d": [407, 449, 446, 464], "label": "6. Terms of payment"},
+  {"bbox_2d": [407, 467, 518, 483], "label": "7. Insurance"},
+  {"bbox_2d": [333, 83, 666, 98], "label": "Add"},
+  {"bbox_2d": [72, 64, 450, 87], "label": "Company Name"},
+  {"bbox_2d": [738, 134, 863, 188], "label": "Contract No."},
+  {"bbox_2d": [738, 188, 827, 206], "label": "Date"},
+  {"bbox_2d": [77, 296, 256, 313], "label": "Name of Commodity and specifications"},
+  {"bbox_2d": [294, 315, 345, 332], "label": "Quantity PCS"},
+  {"bbox_2d": [75, 506, 873, 814], "label": "REMARKS"},
+  {"bbox_2d": [232, 98, 713, 133], "label": "Title"},
+  {"bbox_2d": [75, 155, 395, 201], "label": "To Messrs"},
+  {"bbox_2d": [565, 315, 684, 332], "label": "Total Amount CNY"},
+  {"bbox_2d": [415, 315, 493, 332], "label": "Unit Price CNY"}
+]

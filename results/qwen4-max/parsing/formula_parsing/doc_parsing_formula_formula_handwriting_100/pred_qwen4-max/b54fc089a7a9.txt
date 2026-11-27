@@ -1,0 +1,7 @@
+$$A = \begin{pmatrix} - z & \cdots & - z \\ - w & \cdots & - w \end{pmatrix}.$$
+$$\frac { 1 } { N W } \sum _ { n = 1 } ^ { N W } \Lambda ^ { \prime } ( n ) e ( a q ( n ) \lambda ) - \frac { 1 } { \phi ( w ) } \sum _ { r \in R ( w ) } \frac { 1 } { N } \sum _ { n = 1 } ^ { N } e ( a q ( W n + r ) \lambda ) | < \epsilon .$$
+$$\min _ { 1 \leq j \leq n } \lambda _ { 1 } ( F _ { ( j ) } ) \geq \max _ { 1 \leq j \leq n } \tilde { N } ^ { - 1 } \| \tilde { y } _ { j } \| ^ { 2 }$$
+$$( X \circ Y ) ( n ) = \bigvee _ { d } X ( d ) \wedge \Sigma _ { d } \left( \bigvee _ { \phi : n \rightarrow d } Y ( n _ { 1 } ( \phi ) ) \wedge \cdots \wedge Y ( n _ { d } ( \phi ) ) \right) .$$
+$$\frac { 1 } { N } z _ { j } ^ { * } \left( \frac { 1 } { n } \sum _ { i \neq j } \psi ( r _ { i } q ) z _ { i } z _ { i } ^ { * } \right) ^ { - 1 } z _ { j } < 1$$
+$$\Psi _ { \Gamma } ( x ; k ) = x + \int _ { 0 } ^ { x } u _ { k } ( u ) d u + E ( x ; k ) ,$$
+$$I _ { 4 } + I _ { 5 } \leq ( \delta + \beta ) \tilde { K } _ { \mu } e ^ { 1 - \frac { \gamma } { 2 } } \alpha _ { \beta } ^ { \gamma - 2 } .$$

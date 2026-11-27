@@ -1,0 +1,44 @@
+<table>
+  <tr>
+    <td></td>
+    <td>Singapore</td>
+    <td>Edinburgh</td>
+    <td>Toronto</td>
+    <td>Pittsburgh</td>
+  </tr>
+  <tr>
+    <td>Singapore</td>
+    <td>-</td>
+    <td>90.0%<br>(-4.4%)</td>
+    <td>84.7%<br>(-6.8%)</td>
+    <td>91.4%<br>(-2.1%)</td>
+  </tr>
+  <tr>
+    <td>Edinburgh</td>
+    <td>76.7%<br>(-9.6%)</td>
+    <td>-</td>
+    <td>83.8%<br>(-7.7%)</td>
+    <td>90.4%<br>(-3.1%)</td>
+  </tr>
+  <tr>
+    <td>Toronto</td>
+    <td>80.4%<br>(-5.9%)</td>
+    <td>91.3%<br>(-3.1%)</td>
+    <td>-</td>
+    <td>93.1%<br>(-0.4%)</td>
+  </tr>
+  <tr>
+    <td>Pittsburgh</td>
+    <td>79.7%<br>(-6.6%)</td>
+    <td>89.3%<br>(-5.1%)</td>
+    <td>86.4%<br>(-5.1%)</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Avg ΔF1</td>
+    <td>-7.4%</td>
+    <td>-4.2%</td>
+    <td>-6.5%</td>
+    <td>-1.9%</td>
+  </tr>
+</table>

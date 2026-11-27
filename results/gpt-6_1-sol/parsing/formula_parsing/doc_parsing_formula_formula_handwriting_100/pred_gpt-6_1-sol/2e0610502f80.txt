@@ -1,0 +1,86 @@
+\[
+a_{k,j}
+=
+\frac{\operatorname{Re}F\!\left(\lambda_k-\lambda_0+i(\mu_j-\mu_k)\right)}
+{F(\lambda_k-\lambda_0)},
+\qquad
+b_{k,j}
+=
+\frac{\operatorname{Re}F\!\left(-\lambda_0+i(\mu_j-\mu_k)\right)}
+{F(-\lambda_0)}.
+\]
+
+\[
+\widetilde{A}_{\varepsilon,0}^{(k)}
+\in C_0^\infty
+\left(\partial\Omega\times\partial\Omega\times\Omega\times\mathbb{R}^{n-1}\right).
+\]
+
+\[
+\begin{aligned}
+\sum_j |E_{4j}|
+&\le C\int_0^t
+\|u_\lambda-u_p\|_{B_{2,2}^{1}}
+\|\nabla b_\lambda\|_{B_{2,2}^{s-1}}
+\|b_\lambda-b_p\|_{L_t^\infty(\dot B_{2,2}^{0})}\,dt'
+\\
+&\le
+\overline C\|u_\lambda-u_p\|_{L_t^\infty(\dot B_{2,2}^{0})}^{2}
++C_t\|b_\lambda\|_{L_t^\infty(\dot B_{2,2}^{0})}^{2}
+\|b_\lambda-b_p\|_{L_t^\infty(\dot B_{2,2}^{0})}^{2}.
+\end{aligned}
+\]
+
+\[
+\frac{1-\varepsilon/10}{2}
+\left(
+(1-1/r)^{j-1}(1-\varepsilon/2)\operatorname{OPI}-f(S)
+\right).
+\]
+
+\[
+\begin{aligned}
+\partial_t^2y_1+u_1
+&+\left(
+2i\frac{\partial A(X)}{\partial X}
+-A^*(X)e^{i\phi_{d2}}
+\right)e^{iT}
+\\
+&+\left(
+2i\frac{\partial A^*(X)}{\partial A}
++A(X)e^{-i\phi_{d2}}
+\right)e^{-iT}
+\\
+&-A(X)e^{3iT+i\phi_{d2}}
+-A^*(X)e^{-3iT-i\phi_{d2}}
+=0.
+\end{aligned}
+\]
+
+\[
+\|u_{\varepsilon,\lambda}-u_0\|_{L^2(\Omega_0)}
+\le
+C(1+\lambda)\varepsilon
+\left\{
+\|F\|_{L^2(\Omega_0)}
++\|G\|_{H^2(\Omega_0)}
+\right\}.
+\]
+
+\[
+\delta\|r\theta,h\|_{X'(a<x<\infty)}^2
++\|r\theta,h\|_{X'(a<x<\infty)}^2
+=
+\delta\|h\|_{X'(\mathbb{R}^3)}^2+\varepsilon_5.
+\]
+
+\[
+U_f(0,s)=
+\begin{cases}
+\displaystyle
+\exp\left(-\int_s^0\alpha(r)\,dr\right),
+& \text{if }s\in[-1,0],\\[6pt]
+z\left(-s-1,f_{s+1},\phi(f_s)\right),
+& \text{if }s\le -1.
+\end{cases}
+\]

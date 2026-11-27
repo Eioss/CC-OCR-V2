@@ -1,0 +1,86 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Verification of the Formula of a Hydrated Salt Data Sheet}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent Name \underline{\hspace{5cm}} \hfill Partner's Name \underline{\hspace{5cm}}
+
+\vspace{0.5em}
+
+\noindent Hydrated salt you were given \underline{ $\text{CaSO}_4 \cdot 2\text{H}_2\text{O}$ \hspace{2cm}}
+
+\vspace{1em}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|p{6cm}|c|c|c|}
+\hline
+ & Trial 1 & Trial 2 & Trial 3 \\
+\hline
+Mass of crucible and lid (g) & 28.326 g & 26.247 & \\
+\hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 33.713 g & 30.200 g & \\
+\hline
+Mass of hydrated salt (g) & 5.387 g & 3.953 g & \\
+\hline
+Mass of crucible, lid, salt AFTER heating (g) & 32.656 g & 29.69 g & \\
+\hline
+Mass of anhydrous salt (g) & 4.33 g & 3.443 g & \\
+\hline
+Moles of anhydrous salt (mole) & 0.0310 g & 0.02530 g & \\
+\hline
+Mass of water of crystallization removed (g) & 1.057 g & 0.5100 g & \\
+\hline
+Moles of water of crystallization removed (mole) & 0.5870 g & 0.2830 g & \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|p{6cm}|c|c|c|}
+\hline
+Ratio moles water : moles salt & \hspace{0.8cm} ? \hspace{0.8cm} & \hspace{0.8cm} ? \hspace{0.8cm} & \hspace{1.8cm} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|p{5cm}|c|c|}
+\hline
+ & Individual & Class \\
+\hline
+Average Ratio & ? & X \\
+\hline
+Standard Deviation & & X \\
+\hline
+Relative Standard Deviation (\%) & ? & X \\
+\hline
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+\noindent The Chemical Formula for the hydrate is \underline{\hspace{1.5cm} ? \hspace{1.5cm}}.
+
+\vspace{2em}
+
+\noindent \small{This document was prepared by D. Finneran, J. Tierney.}
+
+\begin{center}
+    \small{45}
+\end{center}
+
+\end{document}
+```

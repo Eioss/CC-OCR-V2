@@ -1,0 +1,28 @@
+```html
+<table>
+  <tr>
+    <td>Treatment</td>
+    <td>&lt;1 month</td>
+    <td>1 month- 1 year</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td>Ivermectin</td>
+    <td>25</td>
+    <td>97</td>
+    <td>122</td>
+  </tr>
+  <tr>
+    <td>Natural</td>
+    <td>20</td>
+    <td>25</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>45</td>
+    <td>122</td>
+    <td>167</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,23 @@
+[
+	{"bbox_2d": [36, 87, 379, 98], "label": "ADDRESS"},
+	{"bbox_2d": [35, 413, 309, 425], "label": "ARTICLE"},
+	{"bbox_2d": [30, 75, 338, 88], "label": "COMPANY NAME"},
+	{"bbox_2d": [586, 615, 941, 642], "label": "CUTOFF DATE"},
+	{"bbox_2d": [851, 99, 958, 110], "label": "DATE"},
+	{"bbox_2d": [452, 294, 636, 307], "label": "FAX"},
+	{"bbox_2d": [216, 215, 373, 230], "label": "FAX"},
+	{"bbox_2d": [36, 365, 130, 376], "label": "FROM"},
+	{"bbox_2d": [177, 99, 310, 109], "label": "Fax"},
+	{"bbox_2d": [589, 491, 607, 501], "label": "IN"},
+	{"bbox_2d": [217, 153, 339, 164], "label": "INVOICE No"},
+	{"bbox_2d": [337, 99, 414, 108], "label": "P.C"},
+	{"bbox_2d": [490, 451, 619, 463], "label": "QUANTITY"},
+	{"bbox_2d": [449, 332, 554, 343], "label": "SCHEDULED ON"},
+	{"bbox_2d": [213, 331, 401, 341], "label": "SHIPPED PER"},
+	{"bbox_2d": [214, 295, 391, 308], "label": "TEL"},
+	{"bbox_2d": [451, 219, 609, 231], "label": "TEL"},
+	{"bbox_2d": [758, 50, 896, 64], "label": "TITLE"},
+	{"bbox_2d": [217, 365, 279, 376], "label": "TO"},
+	{"bbox_2d": [36, 99, 166, 109], "label": "Tel"},
+	{"bbox_2d": [570, 428, 752, 441], "label": "UNIT-PRICE"}
+]

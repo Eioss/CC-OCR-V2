@@ -1,0 +1,13 @@
+```latex
+\begin{aligned}
+& E \| A^\eta [X_1(t) - X_1(s)] \|^2 \\
+& \le 4 L_{1-\rho}^2 L_{\eta+\rho-\beta} E \| A^\beta \xi \|^2 \epsilon^{2(\beta-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + 4 \left[ \frac{L_{1-\rho} L_{\eta+\rho} B(\beta, 1-\eta-\rho)}{\rho} + L_\eta B(\eta+\rho, 1-\eta) \right]^2 \\
+& \quad \times E \| F_1 \|_{F.B.O.}^2 \epsilon^{2(\beta-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + \frac{8 L_{1-\rho}^2 L_{\eta+\rho}^2 C_{F_2}^2 K^2 B(1+2\beta-2\eta, 1-\eta-\rho)}{\rho^2 (1-\eta-\rho)} \\
+& \quad \times \max \{ \epsilon^{2(1+\beta-2\eta-\rho)}, T_{loc}^{2(1+\beta-2\eta-\rho)} \} (t-s)^{2\rho} \\
+& \quad + 8 L_{1-\rho}^2 L_{\eta+\rho}^2 E \| F_2(0) \|^2 T_{loc}^{2(1-\eta-\rho)} (t-s)^{2\rho} \\
+& \quad + 8 L_\eta^2 C_{F_2}^2 K^2 B\left(\frac{1}{2}+\beta, 1-2\eta\right) T_{loc}^{\frac{1}{2}+\beta-2\eta} (t-s)^{\frac{3}{2}+\beta-2\eta} \\
+& \quad + \frac{8 L_\eta^2 E \| F_2(0) \|^2}{1-2\eta} (t-s)^{2(1-\eta)}, \quad \epsilon \le s < t \le T_{loc}.
+\end{aligned}
+```

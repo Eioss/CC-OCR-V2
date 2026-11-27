@@ -1,0 +1,3 @@
+\[
+\begin{array}{l}{{(2\pi\hbar)^{-1}\int\int e^{i[s E-s\theta]/\hbar}C(s,\theta;\hbar)d\theta d s=\mathcal{O}(1).}}\\ {{\displaystyle\tilde{W}(\xi)=\frac{1}{2\pi\hbar}\int\!d x\exp(-\frac{i}{\hbar}\xi\wedge x)W(x),}}\\ {{\left\{\begin{array}{ll}{{|\nabla\psi_{3,-}(\vec{x})|=\frac{1}{F(\psi_{3,-}(\vec{x}))}}}&{{\mathrm{on~}\mathcal{U}_{3,-}}}\\ {{\psi_{3,-}(\vec{x})=0}}&{{\mathrm{on~}\mathcal{C}_{0}}}\end{array}\right.}}\\ {{\omega X_{t}(x)<X_{t}(\omega x),\quad\mathrm{for~all~}x>0\mathrm{~and~}\omega\in(0,1).}}\\ {{\sigma\in\mathfrak{S}_{2g+1}\setminus\{(1,j)\}_{2\le j\le d}}}\end{array}
+\]

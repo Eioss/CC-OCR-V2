@@ -1,0 +1,7 @@
+$$\lambda ^ { 2 } = \lambda _ { n } ^ { 2 } = ( \frac { \pi n } { 2 } ) ^ { 2 } , \quad n \in N$$
+$$V _ { I } = \sum _ { \substack { e _ { h } \in \varepsilon _ { h } \\ \epsilon _ { h } \in \varepsilon _ { h } } } \int _ { e _ { h } } [ u _ { h } ] ( \{ F _ { n } \nabla r _ { n } z _ { n } ; ( \delta e _ { n } n ^ { - i } - P ^ { - i } r _ { n } ) \} + d \{ F _ { n } \nabla r _ { n } z _ { n } ; H _ { n n } \} ) d s _ { h }$$
+$$= \sum _ { \substack { P \in N \in \partial P } } \sum _ { \substack { P \in N \in \partial P } } \int _ { e _ { h } } z _ { P } ^ { t } [ u _ { n } ] \{ F _ { n } \nabla r _ { n } \varphi _ { j } ; ( \delta e _ { n } n ^ { - 1 } - P ^ { - 1 } r _ { n } ) \} + z _ { P } ^ { t } [ u _ { n } ] d \{ F _ { n } \nabla r _ { n } \varphi _ { j } ; H _ { n n } \} d s _ { h } .$$
+$$\Delta p u \equiv [ ( u _ { x } ) ^ { 2 } + ( u _ { y } ) ^ { 2 } ] ^ { \frac { n } { 2 } } \Delta u + n [ ( u _ { x } ) ^ { 2 } + ( u _ { y } ) ^ { 2 } ] ^ { \frac { n - 2 } { 2 } } [ ( u _ { x } ) ^ { 2 } u _ { x x } + 2 u _ { x } u _ { y } u _ { x y } + ( u _ { y } ) ^ { 2 } u _ { y y } ] = 0 ,$$
+$$\# ( 0 ) = | \{ x | B ( x ) = 0 a n d \phi ( x ) = 0 \} | ,$$
+$$\| R _ { T , A _ { 1 } } u \| _ { L ^ { \frac { p \tilde { p } } { p - \tilde { p } } } ( \Omega ) } \leq C \| u \| _ { W _ { p } ^ { 1 } ( \Omega ) } \| _ { T ^ { \delta } } \forall _ { T } \geq T _ { 1 } ,$$
+$$H = \frac { x _ { 1 } ^ { \prime } x _ { 2 } ^ { \prime \prime } - x _ { 1 } ^ { \prime \prime } x _ { 2 } ^ { \prime } } { 2 \sqrt { 1 + ( r ^ { \prime } ) ^ { 2 } } } r _ { 1 } ,$$

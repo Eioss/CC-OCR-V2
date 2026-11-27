@@ -1,0 +1,111 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{enumitem}
+\usepackage{array}
+
+\begin{document}
+
+\noindent\textbf{12}\quad Katy weighed out some sugar from a full $2\text{ kg}$ bag. The mass of the sugar is shown on the scale.
+
+\begin{center}
+\begin{tabular}{c@{\qquad}c}
+\fbox{\parbox{3.8cm}{\centering
+\textit{[Scale diagram]}\\[4pt]
+Dial marked in $\text{g}$: \\
+$0, 200, 400, 600, 800, 1000$\\
+Needle pointing to $450\text{ g}$
+}} &
+\fbox{\parbox{2.2cm}{\centering
+\textit{[Bag diagram]}\\[6pt]
+\textbf{$2\text{ kg}$}\\
+\textbf{Sugar}
+}}
+\end{tabular}
+\end{center}
+
+\noindent How much sugar was left in the bag?
+
+\begin{tabular}{@{}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}@{}}
+\textbf{A}\quad $1.55\text{ kg}$ & \textbf{B}\quad $1.65\text{ kg}$ & \textbf{C}\quad $165\text{ g}$ & \textbf{D}\quad $155\text{ g}$ & \textbf{E}\quad $1550\text{ kg}$
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent\textbf{13}\quad What is the total cost of $8$ rulers and $8$ pens?
+
+\begin{center}
+\begin{tabular}{c@{\qquad}c}
+\fbox{\parbox{3.2cm}{\centering
+\textit{[Pen diagram]}\\
+Price tag: \pounds$1.23$
+}} &
+\fbox{\parbox{4.2cm}{\centering
+\textit{[Ruler diagram ($1\text{ cm}$ to $10$)]}\\
+Price tag: \pounds$1.77$
+}}
+\end{tabular}
+\end{center}
+
+\begin{tabular}{@{}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}@{}}
+\textbf{A}\quad \pounds$2$ & \textbf{B}\quad \pounds$3$ & \textbf{C}\quad \pounds$16$ & \textbf{D}\quad \pounds$24$ & \textbf{E}\quad \pounds$32$
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent\textbf{14}\quad Round $7.038$ to the nearest hundredth.
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}@{}}
+\textbf{A}\quad $7.00$ & \textbf{B}\quad $7.03$ & \textbf{C}\quad $7.04$ & \textbf{D}\quad $7.038$ & \textbf{E}\quad $7.039$
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent\textbf{15}\quad These shapes are made from $1\text{ cm}$ cubes.
+
+\begin{center}
+\begin{tabular}{c@{\quad}c@{\quad}c@{\quad}c}
+\fbox{\parbox{2.6cm}{\centering \textit{[Cuboid $3 \times 2 \times 4$]} \\ \textbf{P}}} &
+\fbox{\parbox{2.6cm}{\centering \textit{[Cuboid $3 \times 1 \times 6$]} \\ \textbf{Q}}} &
+\fbox{\parbox{2.6cm}{\centering \textit{[Cuboid $2 \times 2 \times 6$]} \\ \textbf{R}}} &
+\fbox{\parbox{2.6cm}{\centering \textit{[Cuboid $3 \times 3 \times 2$]} \\ \textbf{S}}}
+\end{tabular}
+\end{center}
+
+\noindent Which two shapes have the same volume?
+
+\vspace{0.5em}
+\begin{tabular}{@{}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}p{2.8cm}@{}}
+\textbf{A}\quad P and Q & \textbf{B}\quad P and R & \textbf{C}\quad P and S & \textbf{D}\quad Q and R & \textbf{E}\quad R and S
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent\textbf{16}\quad Which of these shapes are prisms?
+
+\begin{center}
+\begin{tabular}{c@{\quad}c@{\quad}c@{\quad}c@{\quad}c}
+\fbox{\parbox{2.2cm}{\centering \textit{[Hexagonal prism]} \\ \textbf{P}}} &
+\fbox{\parbox{2.2cm}{\centering \textit{[Triangular prism]} \\ \textbf{Q}}} &
+\fbox{\parbox{2.2cm}{\centering \textit{[Square-based pyramid]} \\ \textbf{R}}} &
+\fbox{\parbox{2.2cm}{\centering \textit{[Cube]} \\ \textbf{S}}} &
+\fbox{\parbox{2.2cm}{\centering \textit{[Cone]} \\ \textbf{T}}}
+\end{tabular}
+\end{center}
+
+\begin{tabular}{@{}p{4.5cm}p{4.5cm}p{4.5cm}@{}}
+\textbf{A}\quad P and S only & \textbf{B}\quad R and T only & \textbf{C}\quad Q, R and T \\[4pt]
+\textbf{D}\quad P, Q and S & \textbf{E}\quad Only S &
+\end{tabular}
+
+\vfill
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lcr@{}}
+\footnotesize 11+ Maths / 10-11 / 1 / Paper 1 & 4 & \footnotesize \copyright\ CGP 2018
+\end{tabular*}
+
+\end{document}
+```

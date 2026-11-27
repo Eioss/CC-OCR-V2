@@ -1,0 +1,165 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    vertical-align: middle;
+  }
+  .center-text {
+    text-align: center;
+  }
+  .col-num {
+    width: 8%;
+    text-align: center;
+  }
+  .col-code {
+    width: 12%;
+    text-align: center;
+  }
+  .col-name {
+    width: 65%;
+  }
+  .col-period {
+    width: 15%;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th class="col-num">序号</th>
+      <th class="col-code">编号</th>
+      <th class="col-name">归档文件名称</th>
+      <th class="col-period">保管<br>期限</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- A类 Section -->
+    <tr>
+      <td colspan="4" class="center-text">A类 工程准备阶段文件</td>
+    </tr>
+    <!-- A1 Section -->
+    <tr>
+      <td colspan="4" class="center-text">A1 工程立项文件</td>
+    </tr>
+    <tr>
+      <td class="col-num">1</td>
+      <td class="col-code">A1-1</td>
+      <td class="col-name">项目建议书</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">2</td>
+      <td class="col-code">A1-2</td>
+      <td class="col-name">项目建议书的批复文件</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">3</td>
+      <td class="col-code">A1-3</td>
+      <td class="col-name">可行性研究报告及附件</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">4</td>
+      <td class="col-code">A1-4</td>
+      <td class="col-name">可行性研究报告审批意见</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">5</td>
+      <td class="col-code">A1-5</td>
+      <td class="col-name">工程立项有关会议纪要、文件</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">6</td>
+      <td class="col-code">A1-6</td>
+      <td class="col-name">专家建议文件</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">7</td>
+      <td class="col-code">A1-7</td>
+      <td class="col-name">工程项目评估研究材料</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">8</td>
+      <td class="col-code">A1-8</td>
+      <td class="col-name">发改委（局）批准的立项文件</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <!-- A2 Section -->
+    <tr>
+      <td colspan="4" class="center-text">A2 建设用地管理文件</td>
+    </tr>
+    <tr>
+      <td class="col-num">1</td>
+      <td class="col-code">A2-1</td>
+      <td class="col-name">征占地的批准文件和对使用国有土地的批准意见</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">2</td>
+      <td class="col-code">A2-2</td>
+      <td class="col-name">建设用地规划许可证及附件、附图</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">3</td>
+      <td class="col-code">A2-3</td>
+      <td class="col-name">划拨用地文件和国有土地使用证</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <tr>
+      <td class="col-num">4</td>
+      <td class="col-code">A2-4</td>
+      <td class="col-name">其他</td>
+      <td class="col-period">永久</td>
+    </tr>
+    <!-- A3 Section -->
+    <tr>
+      <td colspan="4" class="center-text">A3 建设规划管理文件</td>
+    </tr>
+    <tr>
+      <td class="col-num">1</td>
+      <td class="col-code">A3-1</td>
+      <td class="col-name">建设工程规划许可证及附件</td>
+      <td class="col-period">长期</td>
+    </tr>
+    <tr>
+      <td class="col-num">2</td>
+      <td class="col-code">A3-2</td>
+      <td class="col-name">规划验线合格资料</td>
+      <td class="col-period">长期</td>
+    </tr>
+    <tr>
+      <td class="col-num">3</td>
+      <td class="col-code">A3-3</td>
+      <td class="col-name">其他建设规划管理文件</td>
+      <td class="col-period">长期</td>
+    </tr>
+    <!-- A4 Section -->
+    <tr>
+      <td class="col-num">四</td>
+      <td colspan="3" class="center-text">A4 招投标文件</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+```

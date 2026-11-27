@@ -1,0 +1,15 @@
+Here is the LaTeX representation of the formulas in the image:
+
+$$
+\begin{aligned}
+&\sum_j \psi_j(r) := \int_{\xi \in \sum \cap B_{r/4}(p)} \eta_p \circ \varphi_\xi(\xi \in (p + G^\mu) \cap B_{r/4}(p)) \\
+&\phi_0(x) = 1 \quad (0 \le x < 1/2) \qquad \phi_0(x+1) = \phi_0(x) \\
+&\phi_0(x) = -1 \quad (1/2 \le x < 1) \qquad \phi_k(x) = \phi_0(2^k x) \\
+&q \in \begin{cases} (3/2, \infty) & \text{if } 0 \le s \le 1/2 \\ (s, \infty) & \text{if } 1/2 < s \end{cases} \\
+&\langle 1_{\tilde{G}_j}, x_\theta - \psi_k \rangle = \langle 1_{\tilde{G}_j}, x_\theta \rangle - \langle 1_{\tilde{G}_j}, \psi_k \rangle - 1 - \delta(z, j) \\
+&v(x, \vec{P}(j+1)) - v(x, \vec{P}(j)) = \sum_{k=0}^{j-1} (v(x, \vec{Q}^{(k+1)}) - v(x, \vec{Q}^{(k)})) = v(x, \vec{Q}^{(j)}) - v(x, \vec{Q}^{(0)}) \\
+&a = \frac{1}{2} (|I| + 1 - \frac{\varepsilon}{2^s H}) \\
+&\Theta_{\Sigma} ( \bigcup_{x \in \mathcal{X}} x_{\alpha, \infty} ) = |y_{\alpha, \infty}| \pm \sum_{y \in F} \psi(Q(q(x_{\alpha, \infty} + iy_{\alpha, \infty}))) = |y_{\alpha, \infty}| \pm \sum_{q \in \mathcal{Q}_F} \psi(Q(q(x_{\alpha, \infty} + iy_{\alpha, \infty}))) \\
+&i \circ \partial y \equiv (z+y) \bmod 2
+\end{aligned}
+$$

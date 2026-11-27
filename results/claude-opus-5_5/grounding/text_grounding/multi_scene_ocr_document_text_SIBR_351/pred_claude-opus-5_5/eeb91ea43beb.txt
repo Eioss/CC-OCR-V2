@@ -1,0 +1,5 @@
+The standalone total "6.00" (in the 合计 row) is at:
+
+(593, 771, 703, 802)
+
+The text "诊查费:6.00" higher up also contains "6.00"; I've given the box for the standalone total.

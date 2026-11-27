@@ -1,0 +1,11 @@
+\[
+\begin{aligned}
+V(G) &= \max_{D}\left\{E_{p_{\mathrm{data}}(x)}[\log D(x)] + E_{p(z)}[\log(1-D(G(z)))]\right\},\\
+D^{*}(x) &= \frac{p_{\mathrm{data}}(x)}{p_{\mathrm{data}}(x)+p_{g}(x)},\\
+\log D^{*}(x) &= \log\frac{p_{\mathrm{data}}(x)}{p_{\mathrm{data}}(x)+p_{g}(x)},\\
+\log(1-D^{*}(x)) &= \log\frac{p_{g}(x)}{p_{\mathrm{data}}(x)+p_{g}(x)},\\
+V(G,D^{*}) &= -\log 4 + \operatorname{KL}\!\left(p_{\mathrm{data}}\,\middle\|\,\frac{p_{\mathrm{data}}+p_{g}}{2}\right)
++ \operatorname{KL}\!\left(p_{g}\,\middle\|\,\frac{p_{\mathrm{data}}+p_{g}}{2}\right),\\
+C(G) &= -\log 4 + 2\,\operatorname{JSD}(p_{\mathrm{data}}\|p_{g}).
+\end{aligned}
+\]

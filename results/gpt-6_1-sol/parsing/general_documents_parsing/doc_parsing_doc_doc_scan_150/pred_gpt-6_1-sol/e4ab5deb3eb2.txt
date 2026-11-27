@@ -1,0 +1,151 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{ulem}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\pagestyle{empty}
+
+\begin{document}
+
+\noindent
+\underline{\textbf{Task 2:Complete with the right word from the box (There are 2 extra}}\\
+\underline{\textbf{words)(2.5mks)}}
+
+\noindent
+\begin{tabular}{|p{0.96\textwidth}|}
+\hline
+\centering\textbf{Onions/market/strawberries/near/ animals/sells /lions}
+\tabularnewline
+\hline
+\end{tabular}
+
+\noindent
+Uncle Fred has got a big farm where he keeps many 1)................He also grows
+fruit and vegetables:potatoes,2)................,tomatoes , green peppers and some
+fruit like oranges,almonds and3)................Uncle Fred usually4)................
+his fruit and vegetables on the5)................day.Many people like to buy uncle
+Fred's fruit and vevetables because they are fresh.
+
+\bigskip
+\bigskip
+
+\noindent
+\underline{\textbf{Task 3:Match the sentence parts in A with their completions in B(there is an}}\\
+\underline{\textbf{extra part in B) (3mks)}}
+
+\noindent
+\begin{tabular}{|p{0.405\textwidth}|p{0.375\textwidth}|p{0.12\textwidth}|}
+\hline
+1-Sami lives with
+&
+a-small hall in the middle
+&
+1.....\\
+
+2-Their house has two bedrooms,a kitchen
+&
+b-beautiful flowers
+&
+2.....\\
+
+3-The bedrooms are on
+&
+c-is on the left
+&
+3.....\\
+
+4-The kitchen is next
+&
+d-his family in a big house
+&
+4.....\\
+
+5-The living room is quite big and it
+&
+e-the right near the bathroom
+&
+5.....\\
+
+6-The house has got a
+&
+f- a living room and a bathroom
+&
+6.....\\
+
+&
+g-to the children's bedroom
+&
+\\
+\hline
+\end{tabular}
+
+\noindent
+\underline{\textbf{Task 4:Match the dialogue with its functions (2 mks)}}
+
+\noindent
+\begin{tabular}{|p{0.565\textwidth}|p{0.24\textwidth}|p{0.1\textwidth}|}
+\hline
+\textbf{Dialogue}
+&
+\textbf{Function}
+&
+\textbf{Answers}
+\\
+
+\begin{minipage}[t]{\linewidth}
+-Tourist:Oh! These are nice dates.
+
+-Greengrocer:Yes,sir. Taste them,they are from
+\begin{center}
+Tozeur.
+\end{center}
+-Tourist:\underline{\textbf{Mmm! They are delicious.}}(1)
+
+\begin{center}
+\underline{\textbf{Can I have 1 kilo?(2)}}
+\end{center}
+-Greengrocer:Yes of course,here you are.
+
+-Tourist:\underline{\textbf{Thanks}}(3) good bye.
+
+-Greengrocer:\underline{\textbf{Good bye.(4)}}
+\end{minipage}
+&
+\begin{minipage}[t]{\linewidth}
+1.\ thanking
+
+2.\ greeting
+
+3.\ request
+
+4.\ taking leave
+
+5.\ appreciation
+\end{minipage}
+&
+\begin{minipage}[t]{\linewidth}
+1..........
+
+2..........
+
+3..........
+
+4..........
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\noindent
+\textbf{III/Writing (5 marks)}
+
+\vfill
+
+\begin{flushright}
+iSLCollective.com
+\end{flushright}
+
+\end{document}
+```

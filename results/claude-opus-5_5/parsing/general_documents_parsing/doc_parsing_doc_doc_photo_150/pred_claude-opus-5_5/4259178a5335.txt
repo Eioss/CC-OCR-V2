@@ -1,0 +1,40 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{parskip}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.6\textwidth}
+\textbf{\Large X. I. E.}\\
+\small Mahim, Mumbai
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.3\textwidth}
+\raggedleft
+Page No. : \underline{\hspace{2cm}}\\[4pt]
+Date : \underline{\hspace{2cm}}
+\end{minipage}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\underline{Exam Question}: Some people today believe that the world's increase in population is unsustainable and will eventually lead to a global crisis. Other people believe that the world population increase is necessary and beneficial as it creates the growth of world's economy and society.
+
+\setlength{\parindent}{2em}
+
+\indent The population of the world is ever growing. Some people believe that this increase has created an unsustainable situation and that it will lead to a global crisis. Other people believe that only through an increasing population can the worlds economy and society develop.
+
+\indent This population increase is not constant around the world, population is undergoing significant growth especially in less developed countries, and the continent of Africa is predicted to undergo the highest increase. Many people living in these less developed countries frequently face shortages such as water, food, heating, cooking fuel and medicines, and people have to live in substandard living conditions by western standards. With more inhabitants these dificulties will become exacerbated and helping these countries might also create strain on the resources and economies of other countries.
+
+\indent On the other hand, many countries are unable to reach their economic potential due to lack of skilled work forces. For these countries a growing population can mean a stronger economy and due to that a better standard of living. Growing populations can also lead to growing demand for goods, allowing economies to expand. The problem is however, that the countries that are in need of labour forces and increasing demand are already the more developed countries and they meet some of these needs by immigration and exporting goods.
+
+\end{document}
+```
+
+**Notes:**
+- The page contains no tables or equations, only handwritten prose.
+- The original spelling and punctuation are kept exactly as written, such as "dificulties" and "worlds economy."
+- In the question, a small correction mark between "the" and "world" was left out, and the text reads "the world population."

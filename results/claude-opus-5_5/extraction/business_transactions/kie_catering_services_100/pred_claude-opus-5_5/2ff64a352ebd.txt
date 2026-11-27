@@ -1,0 +1,3 @@
+```json
+{"menu": [{"cnt": "1", "nm": "BBQ Chicken", "price": "41,000"}, {"cnt": "1", "nm": "- Tidak Pedas", "price": "0"}], "sub_total": {"subtotal_price": "41,000"}, "total": {"total_price": "41,000", "menuqty_cnt": "1", "cashprice": "50,000", "changeprice": "9,000"}}
+```

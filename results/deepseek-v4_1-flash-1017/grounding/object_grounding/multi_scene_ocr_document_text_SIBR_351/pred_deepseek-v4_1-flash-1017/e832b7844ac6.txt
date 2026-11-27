@@ -1,0 +1,24 @@
+```json
+[
+  {"bbox_2d": [287, 68, 714, 86], "label": "ADD"},
+  {"bbox_2d": [461, 88, 714, 103], "label": "TEL"},
+  {"bbox_2d": [724, 88, 914, 103], "label": "FAX"},
+  {"bbox_2d": [335, 120, 531, 146], "label": "Title"},
+  {"bbox_2d": [83, 168, 347, 183], "label": "TO"},
+  {"bbox_2d": [83, 187, 347, 202], "label": "Address"},
+  {"bbox_2d": [83, 206, 347, 221], "label": "Address"},
+  {"bbox_2d": [536, 168, 630, 183], "label": "No."},
+  {"bbox_2d": [536, 187, 630, 202], "label": "Date"},
+  {"bbox_2d": [536, 206, 630, 221], "label": "Terms of Payment"},
+  {"bbox_2d": [83, 240, 347, 255], "label": "FROM"},
+  {"bbox_2d": [83, 259, 347, 274], "label": "Marks"},
+  {"bbox_2d": [83, 278, 347, 293], "label": "Description of Goods"},
+  {"bbox_2d": [83, 297, 347, 312], "label": "Quantity (KGS)"},
+  {"bbox_2d": [83, 316, 347, 331], "label": "Unit Price (JPY/KG)"},
+  {"bbox_2d": [83, 335, 347, 350], "label": "Amount (JPY)"},
+  {"bbox_2d": [83, 354, 347, 369], "label": "PrQuantity (KGS)"},
+  {"bbox_2d": [83, 373, 347, 388], "label": "P/O-No."},
+  {"bbox_2d": [83, 392, 347, 407], "label": "H/S CODE"},
+  {"bbox_2d": [83, 411, 347, 426], "label": "Company Name"}
+]
+```

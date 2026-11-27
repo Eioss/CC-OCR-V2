@@ -1,0 +1,32 @@
+\[
+\theta(t)=\frac{1}{2}\int^{t}\chi(s)\,ds
+=\arctan\!\left\{\sqrt{1-\alpha^{2}}\left[C_{2}+\left(C_{1}\mp\sqrt{C_{1}^{2}-C_{2}^{2}-\frac{1}{1-\alpha^{2}}}\right)\tanh\!\left[\frac{\mu(t)}{2}\right]\right]\right\}.
+\]
+
+\[
+Z=\bigsqcup_{i=1}^{d}\left(\{i\}\times Z_{i}\right),
+\]
+
+\[
+\left|(\phi'\circ g_{1})(y_{1}^{-1}(x))-(\phi'\circ g_{1})(y_{2}^{-1}(x))\right|
+\le L_{\phi'\circ g_{1},x}\left|y_{1}^{-1}-y_{2}^{-1}\right|(x)
+\le L_{\phi'\circ g_{1},x}\left\|y_{1}^{-1}-y_{2}^{-1}\right\|_{C^{0}([0,\ell])}.
+\]
+
+\[
+\frac{(c,d)}{(a,b)}
+=\left(\frac{c\cdot a+d\cdot b}{a^{2}+b^{2}},\,
+\frac{d\cdot a-c\cdot b}{a^{2}+b^{2}}\right),
+\qquad a^{2}+b^{2}\ne 0
+\]
+
+\[
+\begin{aligned}
+A_{L}^{*}\varphi^{*}&=\varphi^{*}\left(A_{L}^{*}-B_{R}^{*}K\right)Q,
+\qquad
+B_{L}^{*}\varphi^{*}=\varphi^{*}\left(B_{L}^{*}-A_{R}^{*}K^{-1}\right)Q,\\
+Q\left(A_{\ell}-KB_{r}\right)\varphi^{*}&=\varphi^{*}A_{\ell},
+\qquad
+Q\left(B_{\ell}-K^{-1}A_{r}\right)\varphi^{*}=\varphi^{*}B_{r}.
+\end{aligned}
+\]

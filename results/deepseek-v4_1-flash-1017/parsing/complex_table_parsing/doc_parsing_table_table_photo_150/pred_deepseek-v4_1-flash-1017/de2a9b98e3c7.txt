@@ -1,0 +1,261 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  .document-container {
+    background-color: #e8e8e8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .header-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #333;
+  }
+  .header-item {
+    display: flex;
+    flex-direction: column;
+  }
+  .header-line {
+    border-bottom: 1px solid #333;
+    width: 150px;
+    margin-top: 5px;
+    height: 15px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    color: #333;
+    background-color: #e8e8e8;
+  }
+  th, td {
+    border: 1px solid #b0b0b0;
+    padding: 8px 4px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  th {
+    font-weight: normal;
+    color: #555;
+    background-color: #e0e0e0;
+  }
+  .col-service { width: 12%; }
+  .col-order { width: 10%; }
+  .col-total { width: 6%; }
+  .col-vol { width: 10%; }
+  .col-weight { width: 10%; }
+  .col-doc-vol { width: 10%; }
+  .col-doc-weight { width: 10%; }
+  .col-sku { width: 8%; }
+  .col-manage { width: 8%; }
+  .col-second { width: 8%; }
+  
+  .footer-section {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+  }
+  .footer-total {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer-total span {
+    border-bottom: 1px solid #333;
+    padding: 0 10px;
+  }
+  .footer-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 30px;
+  }
+  .form-row {
+    display: flex;
+    align-items: center;
+    width: 300px;
+  }
+  .form-label {
+    width: 60px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  .form-line {
+    flex-grow: 1;
+    border-bottom: 1px solid #333;
+    height: 15px;
+  }
+</style>
+</head>
+<body>
+
+<div class="document-container">
+  
+  <div class="header-section">
+    <div class="header-item">
+      <div>结算方式: <span class="header-line" style="display:inline-block; width: 100px;"></span></div>
+    </div>
+    <div class="header-item">
+      <div>付款方式: <span class="header-line" style="display:inline-block; width: 100px;"></span></div>
+    </div>
+    <div class="header-item">
+      <div>收货日期: <span class="header-line" style="display:inline-block; width: 100px;">2022-03-08</span></div>
+    </div>
+    <div class="header-item">
+      <div>本次应收合计: <span class="header-line" style="display:inline-block; width: 80px;">8.17635</span></div>
+    </div>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th class="col-service">服务单号</th>
+        <th class="col-order">订单号</th>
+        <th class="col-total">总数量</th>
+        <th class="col-vol">商品体积/m³</th>
+        <th class="col-weight">商品重量/kg</th>
+        <th class="col-doc-vol">单据体积<br>(m³)</th>
+        <th class="col-doc-weight">单据重量<br>(kg)</th>
+        <th class="col-sku">SKU<br>数量</th>
+        <th class="col-manage">理货<br>数量</th>
+        <th class="col-second">二次<br>理货<br>数量</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>VS122030<br>80823610</td>
+        <td>677105<br>139</td>
+        <td>14</td>
+        <td>0.006<br>398</td>
+        <td>1.4</td>
+        <td>0.006<br>398</td>
+        <td>1.4</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823615</td>
+        <td>677104<br>717</td>
+        <td>1</td>
+        <td>0.004<br>818</td>
+        <td>1.48</td>
+        <td>0.004<br>818</td>
+        <td>1.48</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823619</td>
+        <td>677105<br>355</td>
+        <td>16</td>
+        <td>0.003<br>409</td>
+        <td>0.89</td>
+        <td>0.003<br>409</td>
+        <td>0.89</td>
+        <td>3</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823625</td>
+        <td>677104<br>896</td>
+        <td>3</td>
+        <td>0.003<br>907</td>
+        <td>1.94</td>
+        <td>0.003<br>907</td>
+        <td>1.94</td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823630</td>
+        <td>677104<br>932</td>
+        <td>7</td>
+        <td>0.056<br>644</td>
+        <td>4.9</td>
+        <td>0.056<br>644</td>
+        <td>4.9</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823634</td>
+        <td>677227<br>036</td>
+        <td>22</td>
+        <td>0.431<br>344</td>
+        <td>16.435</td>
+        <td>0.431<br>344</td>
+        <td>16.435</td>
+        <td>4</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823641</td>
+        <td>677104<br>767</td>
+        <td>4</td>
+        <td>0.035<br>573</td>
+        <td>3.18</td>
+        <td>0.035<br>573</td>
+        <td>3.18</td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>VS122030<br>80823646</td>
+        <td>677105<br>356</td>
+        <td>12</td>
+        <td>0.003<br>024</td>
+        <td>0.68</td>
+        <td>0.003<br>024</td>
+        <td>0.68</td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="footer-section">
+    <div class="footer-total">
+      本次应收合计: <span>8.17635</span>
+    </div>
+    
+    <div class="footer-form">
+      <div class="form-row">
+        <div class="form-label">交款人:</div>
+        <div class="form-line"></div>
+      </div>
+      <div class="form-row">
+        <div class="form-label">电话:</div>
+        <div class="form-line"></div>
+      </div>
+      <div class="form-row">
+        <div class="form-label">备注:</div>
+        <div class="form-line"></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
+```

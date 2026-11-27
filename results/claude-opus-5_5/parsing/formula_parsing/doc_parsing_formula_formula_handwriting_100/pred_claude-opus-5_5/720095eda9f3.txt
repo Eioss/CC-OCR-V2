@@ -1,0 +1,9 @@
+```latex
+\begin{gathered}
+\|H(s)\|_{\mathcal{L}_1} = \max_{i=1,\ldots,n} \left( \sum_{j=1}^{m} \|H_{ij}(s)\|_{\mathcal{L}_1} \right), \\
+\mathcal{N}(x; m, \nu) = \frac{\mathcal{N}(x)}{N_m} + O\left(x^{1-\frac{1}{n}}\right), \\
+P(k_{signal}, \tau, T, t) = 2\,\mathrm{Re} \sum_{j} \exp(i k_{signal} \cdot r_j) \sum_{\alpha<\beta} \mu^{(j)}_{\alpha\beta} \rho^{(j)}_{\beta\alpha}(E_j; t) \\
+\left\| \partial_\varphi^\beta \partial_i \Phi[\vec{a}] \langle D \rangle^{-\frac{|\beta|+1}{2}} h \right\|_{L^2_\varphi H^s_x} \lesssim_s \|\partial_i \vec{a}\|^{k_0,\gamma}_{s+s_0+\frac{1}{2}+|\beta|} \|h\|_{L^2_\varphi H^s_x}, \quad \forall s \in [0, \bar{s}_1], \\
+\varepsilon(u) = \frac{1}{2}\left(Du + (Du)^T\right) = \frac{1}{2}\left(\partial_i u_k + \partial_k u_i\right)_{1 \le i, k \le 2}
+\end{gathered}
+```

@@ -1,0 +1,53 @@
+```latex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage[margin=2.5cm]{geometry}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\newcommand{\tocentry}[2]{%
+  \par\noindent#1\dotfill#2\par
+}
+\newcommand{\tocsubentry}[2]{%
+  \par\noindent\hspace*{2em}#1\dotfill#2\par
+}
+
+\begin{document}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{2em}
+
+\begin{center}
+  {\Large\bfseries 排污许可证目录}
+\end{center}
+
+\tocentry{一、排污单位基本情况}{1}
+\tocentry{二、大气污染物排放}{1}
+\tocsubentry{（一）有组织排放许可限值}{1}
+\tocsubentry{（二）无组织排放许可条件}{2}
+\tocsubentry{（三）特殊情况下许可限值}{6}
+\tocsubentry{（四）排污单位大气排放总许可量}{8}
+\tocentry{三、水污染物排放}{9}
+\tocsubentry{（一）排放口}{9}
+\tocsubentry{（二）排放许可限值}{10}
+\tocentry{四、固体废物排放信息}{13}
+\tocentry{五、环境管理要求}{15}
+\tocsubentry{（一）自行监测}{15}
+\tocsubentry{（二）环境管理台账记录}{19}
+\tocsubentry{（三）执行（守法）报告}{23}
+\tocsubentry{（四）信息公开}{24}
+\tocsubentry{（五）其他控制及管理要求}{25}
+\tocentry{六、许可证变更、延续记录}{27}
+\tocentry{七、其他许可内容}{27}
+\tocentry{八、附图和附件}{28}
+
+\vfill
+
+\begin{center}
+  1
+\end{center}
+
+\end{document}
+```

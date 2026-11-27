@@ -1,0 +1,5 @@
+I need to map each labeled field to its value on this Beijing medical outpatient receipt. Let me work through the layout systematically, reading values next to each label and converting coordinates to 0-1000 relative format.
+
+Key values: NO 9777140200; 业务流水号 2020080218673866; 交易流水号 071100010M200802001039; 医保类型 城镇职工; 医疗机构类型 综合医院; 单价 120.000; 数量 1/次; 金额 120.0000; 等级 全自付; 姓名 (redacted); 性别 男; 实时结算 ★; 社会保障卡号 413281256; 收款人 刘柳; 年 2020; 月 8; 合计大写 壹佰贰拾元整; 个人支付金额 120.00; 自费 120.00; various 0.00 fields; 标题 北京市医疗门诊收费票据; 财 16139-54-05; 项目 新型冠状病毒核酸检测(/ and 检查费.
+
+Let me produce bounding boxes.

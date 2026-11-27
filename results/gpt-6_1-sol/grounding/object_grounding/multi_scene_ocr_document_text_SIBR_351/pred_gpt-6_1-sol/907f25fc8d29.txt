@@ -1,0 +1,17 @@
+[
+  {"bbox_2d":[572,224,828,263],"label":"住址 Address"},
+  {"bbox_2d":[288,441,465,487],"label":"入住时间 Check-in time"},
+  {"bbox_2d":[209,511,306,551],"label":"备注 Remarks"},
+  {"bbox_2d":[131,281,188,319],"label":"姓名 Name"},
+  {"bbox_2d":[236,394,325,431],"label":"客人押金 Guest deposit"},
+  {"bbox_2d":[213,281,250,316],"label":"性别 Sex"},
+  {"bbox_2d":[361,325,431,363],"label":"房价 Room Rate"},
+  {"bbox_2d":[208,339,257,375],"label":"房间号 Room No"},
+  {"bbox_2d":[367,60,576,127],"label":"标题"},
+  {"bbox_2d":[746,88,845,132],"label":"登记单号 Registration number"},
+  {"bbox_2d":[663,415,846,461],"label":"离店时间 Departure"},
+  {"bbox_2d":[209,558,274,596],"label":"联房列表 Linked list"},
+  {"bbox_2d":[347,258,538,306],"label":"证件号码 Certificate No."},
+  {"bbox_2d":[277,271,332,313],"label":"证件类型 Document"},
+  {"bbox_2d":[460,378,528,416],"label":"预授权 Pre licensing"}
+]

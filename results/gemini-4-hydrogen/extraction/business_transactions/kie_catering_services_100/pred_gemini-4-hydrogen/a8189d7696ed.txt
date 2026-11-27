@@ -1,0 +1,7 @@
+```json
+{
+  "menu": "1 BLACKCURRANT 32,000\n1 SPRITE 32,000\n1 GRILLED CALAMARI 85,000\n1 DINE FOR 2 129,000\n* DANISH FISH & CHIPS DF\n* NEW YORK FISH & CHIPS",
+  "sub_total": "278,000",
+  "total": "330,264"
+}
+```

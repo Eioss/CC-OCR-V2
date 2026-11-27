@@ -1,0 +1,13 @@
+```json
+{
+  "date_issue": "April 15, 2002",
+  "order_id": "223656",
+  "vendor_name": "WEBER SHANDWICK WORLDWIDE",
+  "vendor_address": "676 N. St. Clair\nChicago, IL 60611-2976",
+  "customer_billing_name": "LORILLARD TOBACCO COMPANY",
+  "customer_billing_address": "714 Green Valley Road\nP.O. Box 10529\nGreensboro, NC 27408",
+  "amount_total_gross": "$23,163.42",
+  "amount_due": "$23,163.42",
+  "payment_terms": "due upon receipt"
+}
+```

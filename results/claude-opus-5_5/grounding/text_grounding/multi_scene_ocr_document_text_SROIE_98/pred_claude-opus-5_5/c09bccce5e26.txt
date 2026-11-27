@@ -1,0 +1,3 @@
+There are two instances of '79.50' on the receipt: one on the "Total Amt Incl. GST @ 6%" line and one on the "Total Amt Payable" line. This box is for the first one (Total Amt Incl. GST):
+
+(755, 570, 830, 593)

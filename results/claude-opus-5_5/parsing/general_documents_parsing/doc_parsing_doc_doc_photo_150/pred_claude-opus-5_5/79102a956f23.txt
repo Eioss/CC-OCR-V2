@@ -1,0 +1,76 @@
+```latex
+\documentclass[12pt]{ctexart}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{array}
+
+\renewcommand{\arraystretch}{1.4}
+
+\begin{document}
+
+\noindent\textbf{第 20 条\quad 建设规模及项目产出}
+
+\vspace{1em}
+
+\noindent 本建设项目的建设规模及产出如下：
+
+\vspace{1em}
+
+\noindent 20.1\quad \underline{\hspace{4cm}}工程建设项目
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|p{6.5cm}|p{1.8cm}|p{1.8cm}|p{1.8cm}|}
+\hline
+项目 & 数值 & 单位 & 备注 \\ \hline
+用地面积 & & m$^2$ & \\ \hline
+建筑占地 & & m$^2$ & \\ \hline
+建筑总面积 & & m$^2$ & \\ \hline
+水域面积 & & m$^2$ & \\ \hline
+道路、铺装面积 & & m$^2$ & \\ \hline
+绿化面积 & & m$^2$ & \\ \hline
+容积率 & & & \\ \hline
+绿化率 & & \% & \\ \hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent 20.2\quad \underline{\hspace{4cm}}工程建设项目
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|p{5.5cm}|p{2cm}|p{2.2cm}|p{2.2cm}|}
+\hline
+项目 & 单位 & 数量 & 备注 \\ \hline
+建筑总面积 & m$^2$ & & \\ \hline
+规划总用地 & m$^2$ & & \\ \hline
+建筑基底 & m$^2$ & & \\ \hline
+道路硬地 & m$^2$ & & \\ \hline
+水系 & m$^2$ & & \\ \hline
+绿地 & m$^2$ & & \\ \hline
+廊桥 & 座 & & \\ \hline
+ & 座 & & \\ \hline
+ & 座 & & \\ \hline
+ & 座 & & \\ \hline
+ & m$^2$ & & \\ \hline
+ & m$^2$ & & \\ \hline
+绿地 & m$^2$ & & \\ \hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent 20.3\quad \underline{\hspace{4cm}}工程建设项目
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{|p{5.5cm}|p{2cm}|p{2.2cm}|p{2.2cm}|}
+\hline
+项目 & 单位 & 数量 & 备注 \\ \hline
+建筑总面积 & m$^2$ & & \\ \hline
+规划总用地 & m$^2$ & & \\ \hline
+\end{tabular}
+
+\end{document}
+```

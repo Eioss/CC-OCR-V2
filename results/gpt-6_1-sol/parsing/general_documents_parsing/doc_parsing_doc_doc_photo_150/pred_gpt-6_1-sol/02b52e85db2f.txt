@@ -1,0 +1,87 @@
+```latex
+\section*{Exercises}
+
+\noindent
+\textbf{Concept Check}\quad
+\textit{In Exercises 1--4, decide whether each statement is true or false.}
+
+\begin{enumerate}
+    \item The solution set of \(2x + 5 = x - 3\) is \(\{-8\}\).
+    \item The equation \(5(x - 8) = 5x - 40\) is an example of an identity.
+    \item The equations \(x^2 = 4\) and \(x + 2 = 4\) are equivalent equations.
+    \item It is possible for a linear equation to have exactly two solutions.
+    \item Explain the difference between an identity and a conditional equation.
+    \item Make a complete list of the steps needed to solve a linear equation.
+    (Some equations will not require every step.)
+    \item \textbf{Concept Check}\quad Which one is not a linear equation?
+    \[
+    \begin{array}{ll}
+    \textbf{A.}\quad 5x + 7(x - 1) = -3x
+    &
+    \textbf{B.}\quad 9x^2 - 4x + 3 = 0
+    \\[4pt]
+    \textbf{C.}\quad 7x + 8x = 13x
+    &
+    \textbf{D.}\quad 0.04x - 0.08x = 0.40
+    \end{array}
+    \]
+    \item In solving the equation \(3(2x - 8) = 6x - 24\), a student
+    obtains the result \(0 = 0\) and gives the solution set \(\{0\}\).
+    Is this correct? Explain.
+\end{enumerate}
+
+\noindent
+\textit{Solve each equation. See Examples 1 and 2.}
+
+\[
+\begin{array}{ll}
+9.\quad 5x + 4 = 3x - 4
+&
+10.\quad 9x + 11 = 7x + 1
+\\[8pt]
+11.\quad 6(3x - 1) = 8 - (10x - 14)
+&
+12.\quad 4(-2x + 1) = 6 - (2x - 4)
+\\[8pt]
+13.\quad \dfrac{5}{6}x - 2x + \dfrac{4}{3} = \dfrac{5}{3}
+&
+14.\quad \dfrac{7}{4} + \dfrac{1}{5}x - \dfrac{3}{2} = \dfrac{4}{5}x
+\\[10pt]
+15.\quad 3x + 5 - 5(x + 1) = 6x + 7
+&
+16.\quad 5(x + 3) + 4x - 3 = -(2x - 4) + 2
+\\[8pt]
+17.\quad 2[x - (4 + 2x) + 3] = 2x + 2
+&
+18.\quad 4[2x - (3 - x) + 5] = -6x - 28
+\\[8pt]
+19.\quad \dfrac{1}{14}(3x - 2) = \dfrac{x + 10}{10}
+&
+20.\quad \dfrac{1}{15}(2x + 5) = \dfrac{x + 2}{9}
+\\[10pt]
+21.\quad 0.2x - 0.5 = 0.1x + 7
+&
+22.\quad 0.01x + 3.1 = 2.03x - 2.96
+\\[8pt]
+23.\quad -4(2x - 6) + 8x = 5x + 24 + x
+&
+24.\quad -8(3x + 4) + 6x = 4(x - 8) + 4x
+\\[8pt]
+25.\quad 0.5x + \dfrac{4}{3}x = x + 10
+&
+26.\quad \dfrac{2}{3}x + 0.25x = x + 2
+\\[10pt]
+27.\quad 0.08x + 0.06(x + 12) = 7.72
+&
+28.\quad 0.04(x - 12) + 0.06x = 1.52
+\end{array}
+\]
+
+\noindent
+Determine whether each equation is an identity, a conditional
+
+\noindent
+tion. Give the solution set. \textit{See Examples 3 and 4.}
+```
+
+*The final instruction is partially cut off in the image; only its visible text is transcribed.*

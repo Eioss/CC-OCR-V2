@@ -1,0 +1,8 @@
+```json
+{
+    "gross_amount": "$65,000.00",
+    "advertiser": "COALITION AGAINST SURPRISE MED",
+    "flight_from": "02/19/20",
+    "flight_to": "02/19/20"
+}
+```

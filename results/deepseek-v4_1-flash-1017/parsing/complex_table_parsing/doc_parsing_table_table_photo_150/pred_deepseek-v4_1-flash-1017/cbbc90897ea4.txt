@@ -1,0 +1,176 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 4px;
+  }
+  .title {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    border: none;
+    padding-bottom: 10px;
+  }
+  .subtitle {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+  }
+  .notes {
+    text-align: left;
+    font-size: 12px;
+    border: none;
+    padding-top: 10px;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td colspan="12" class="title">一、橱柜-乐活系列延米价格表（标准售价，单位：元/米）（整单标准率100%的订单价格表）</td>
+  </tr>
+  <tr>
+    <td rowspan="2">序号</td>
+    <td rowspan="2">产品<br>系列</td>
+    <td rowspan="2">基础<br>配置</td>
+    <td rowspan="2">名称款式</td>
+    <td colspan="8">（标准深度地柜/中立柜/高柜560，吊柜台上柜330）</td>
+    <td rowspan="2">非标准高度柜系列（元/米）<br>（深度地柜/中立柜/高柜560，吊柜/台上柜330）</td>
+    <td rowspan="2">单独加<br>工费<br>（元/平<br>方米）</td>
+    <td rowspan="2">备 注</td>
+  </tr>
+  <tr>
+    <td>门板材料</td>
+    <td>门板级别</td>
+    <td>地柜<br>660/720</td>
+    <td>吊柜<br>360/420/<br>450</td>
+    <td>吊柜720</td>
+    <td>吊柜<br>840/<br>900</td>
+    <td>台上柜</td>
+    <td>中立柜</td>
+    <td>高柜2100</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1</td>
+    <td rowspan="2">乐活系列</td>
+    <td rowspan="2">经典配置</td>
+    <td>烤漆</td>
+    <td>靓晶漆</td>
+    <td>1184</td>
+    <td>780</td>
+    <td>1062</td>
+    <td>1194</td>
+    <td>1974</td>
+    <td>2369</td>
+    <td>2961</td>
+    <td rowspan="2">地柜<br>H≤360<br>&lt;720<br>H&lt;450<br>&lt;900<br>&lt;1560<br>≤950<br>&lt;1440<br>H≤2400</td>
+    <td rowspan="2">地柜<br>360&lt;H<br>&lt;720<br>上柜<br>450&lt;H<br>&lt;900<br>上柜<br>900&lt;H<br>&lt;1560<br>中立柜<br>720&lt;H<br>&lt;950<br>中立柜<br>950&lt;H<br>&lt;1440<br>高柜柜<br>1440&lt;H<br>≤2400</td>
+    <td rowspan="2">931</td>
+    <td rowspan="2">单面烤漆饰面，背面哑白饰面，基材为中纤板“双加工”平板工艺YK001、YM002”，双面烤漆加乘1.3系数</td>
+  </tr>
+  <tr>
+    <td>三维膜</td>
+    <td>三维膜C级</td>
+    <td>1100</td>
+    <td>729</td>
+    <td>1001</td>
+    <td>1142</td>
+    <td>1890</td>
+    <td>2200</td>
+    <td>2754</td>
+  </tr>
+  <tr>
+    <td rowspan="2">2</td>
+    <td rowspan="2">乐活系列</td>
+    <td rowspan="2">经典配置</td>
+    <td>防火板</td>
+    <td>美耐板</td>
+    <td>1025</td>
+    <td>677</td>
+    <td>921</td>
+    <td>1034</td>
+    <td>1711</td>
+    <td>2049</td>
+    <td>2566</td>
+    <td rowspan="2">870<br>1310<br>760<br>1320<br>2180<br>1690<br>2620<br>3280</td>
+    <td rowspan="2">940<br>1400<br>820<br>1460<br>2400<br>1810<br>2810<br>3520</td>
+    <td rowspan="2">752</td>
+    <td rowspan="2">正面防火板饰面，背面贴带胶深标识的哑白防火板</td>
+  </tr>
+  <tr>
+    <td>UV超晶板</td>
+    <td>超晶板C级</td>
+    <td>1043</td>
+    <td>682</td>
+    <td>949</td>
+    <td>1067</td>
+    <td>1758</td>
+    <td>2087</td>
+    <td>2613</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3</td>
+    <td rowspan="2">乐活系列</td>
+    <td rowspan="2">经典配置</td>
+    <td>爱家板</td>
+    <td>爱家板</td>
+    <td>888</td>
+    <td>583</td>
+    <td>799</td>
+    <td>902</td>
+    <td>1485</td>
+    <td>1777</td>
+    <td>2218</td>
+    <td rowspan="2">760<br>1130<br>660<br>1150<br>1900<br>1460<br>2270<br>2830</td>
+    <td rowspan="2">1010<br>1510<br>880<br>1520<br>2520<br>1950<br>3020<br>3780</td>
+    <td rowspan="2">743</td>
+    <td rowspan="2">基材为刨花板，单面UV漆饰面</td>
+  </tr>
+  <tr>
+    <td colspan="2">（空白）</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td colspan="3">（空白）</td>
+    <td colspan="8">（空白）</td>
+    <td>639</td>
+    <td colspan="2">饰面纸饰面，PVC封边</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td colspan="3">（空白）</td>
+    <td colspan="8">（空白）</td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+</table>
+
+<div class="notes">
+  <strong>备注：</strong><br>
+  1、整单标准化率：单个正常合同订单中（不含补单），所有地柜、吊柜、立柜（非必选）柜体模块、门板布局、尺寸均按标准设计，装饰部件及线材类按工艺标准设计，同时在设计软件中判定为“100%标准化”的正常订单（即整单标准率100%）<br>
+  2、烟机吊柜高度尺寸为600/620/640/650时按标准吊柜H720延米价格计价，烟机吊柜高度尺寸为760/820时按标准吊柜H900延米价格计价。<br>
+  3、普通吊柜高度尺寸为600/620/640/650时按标准吊柜H720延米价格*1.1计价，普通吊柜高度尺寸为760/820时按标准吊柜H900延米价格*1.1计价。
+</div>
+
+</body>
+</html>
+```

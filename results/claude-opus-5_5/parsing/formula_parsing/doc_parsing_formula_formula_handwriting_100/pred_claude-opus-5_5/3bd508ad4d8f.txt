@@ -1,0 +1,15 @@
+$$
+\begin{aligned}
+\int_{\mathbb{R}^2}\Lambda^{\frac{3}{2}}(u\cdot\nabla\theta)\Lambda^{\frac{3}{2}}\theta\,dx
+&=\int_{\mathbb{R}^2}\Lambda^{\frac{3}{2}}(u_i\partial_i\theta)\Lambda^{\frac{3}{2}}\theta\,dx\\
+&=\int_{\mathbb{R}^2}\Lambda(u_i\partial_i\theta)\Lambda^{2}\theta\,dx\\
+&=\int_{\mathbb{R}^2}[\Lambda,u_i]\partial_i\theta\Lambda^{2}\theta\,dx+\int_{\mathbb{R}^2}u_i\Lambda\partial_i\theta\Lambda^{2}\theta\,dx\\
+&=\int_{\mathbb{R}^2}[\Lambda,u_i]\partial_i\theta\Lambda^{2}\theta\,dx+\int_{\mathbb{R}^2}\Lambda^{\frac{1}{2}}(u_i\Lambda\partial_i\theta)\Lambda^{\frac{3}{2}}\theta\,dx\\
+&=\int_{\mathbb{R}^2}[\Lambda,u_i]\partial_i\theta\Lambda^{2}\theta\,dx+\int_{\mathbb{R}^2}[\Lambda^{\frac{1}{2}},u_i]\Lambda\partial_i\theta\Lambda^{\frac{3}{2}}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^2}u_i\Lambda^{\frac{3}{2}}\partial_i\theta\Lambda^{\frac{3}{2}}\theta\,dx\\
+&=\int_{\mathbb{R}^2}[\Lambda,u_i]\partial_i\theta\Lambda^{2}\theta\,dx+\int_{\mathbb{R}^2}[\Lambda^{\frac{1}{2}},u_i]\Lambda\partial_i\theta\Lambda^{\frac{3}{2}}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^2}u_i\partial_i\Lambda^{\frac{3}{2}}\theta\Lambda^{\frac{3}{2}}\theta\,dx\\
+&=\int_{\mathbb{R}^2}[\Lambda,u_i]\partial_i\theta\Lambda^{2}\theta\,dx+\int_{\mathbb{R}^2}[\Lambda^{\frac{1}{2}},u_i]\Lambda\partial_i\theta\Lambda^{\frac{3}{2}}\theta\,dx\\
+&\triangleq\tilde{\Gamma}_1+\tilde{\Gamma}_2.
+\end{aligned}
+$$

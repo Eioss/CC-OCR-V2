@@ -1,0 +1,17 @@
+Here is the LaTeX code for the formulas in the image. I have transcribed them line by line as they appear.
+
+```latex
+A = \begin{pmatrix} -x & \cdots & -z \\ \vdots & \ddots & \vdots \\ -u & \cdots & -w \end{pmatrix}.
+
+\frac{1}{NW} \sum_{n=1}^{N} \Lambda(n) e(a q(n) \lambda) - \frac{1}{\Phi(N)} \sum_{\chi \pmod N} \overline{\chi}(a) \sum_{n=1}^{N} e(a q(n) \lambda) \overline{\chi}(n) < \varepsilon.
+
+\min_{1 \le j \le k} \lambda_j(F(g)) \ge \max_{1 \le j \le n} |s_j| n^{-\frac{1}{4}+\frac{\varepsilon}{2}}.
+
+(x \circ y)(n) = \bigvee_{d \mid n} (x(d) \wedge \bigvee_{m \le \frac{n}{d}} y(m) \wedge \gamma(n(d\phi))).
+
+\frac{1}{N} z_i^* \left( \frac{1}{n} \sum_{j=1}^{n} \psi(\tau_j \phi) z_i z_j^* \right)^{-1} z_i < 1.
+
+\Psi_f(x; k) = x + \int_0^x u k(u) du + E(x; k),
+
+I_u + I_{\varepsilon} \le (\delta + \beta) K_M e^{-\frac{1}{8} \alpha \beta^2}.
+```

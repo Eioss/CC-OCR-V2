@@ -1,0 +1,5 @@
+Looking at the bottom right area of the receipt, I can see the date information. The text '2020' appears as part of the date stamp near the bottom of the document.
+
+Based on the location of '2020' in the image, the normalized coordinates are:
+
+(621, 901, 660, 927)

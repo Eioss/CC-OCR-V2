@@ -1,0 +1,4 @@
+There are two instances of "0.00" in the image:
+
+(129, 826, 161, 850) # 0.00 after "门诊减免:"
+(203, 857, 236, 880) # 0.00 after "预存账户支付:"

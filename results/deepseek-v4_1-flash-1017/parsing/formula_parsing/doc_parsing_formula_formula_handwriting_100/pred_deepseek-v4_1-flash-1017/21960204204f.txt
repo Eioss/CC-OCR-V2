@@ -1,0 +1,11 @@
+```latex
+\sum_{\substack{\{\xi, l\} \neq 0 \\ m \geq 1 \\ l+m \geq 0 \\ l+2m \neq 0}} \frac{(-1)^l x^m e^{i(l+2m)\theta}}{l^{p-5}(l+m)^q(l+2m)^r} \\
+- 2 \sum_{j=0}^{p} \sum_{\xi=0}^{q} \phi(p-j) \lambda_{p-j} \frac{i^{\xi}}{\xi!} \sum_{\omega=0}^{r} \frac{(-1)^{(\omega+r-1)}}{\omega} \binom{\omega+r-1}{\omega} (-1)^\omega \\
+\times \frac{1}{2^{j+\omega}} \sum_{m=1}^{\infty} \frac{x^m e^{im\theta}}{m^{5+j+\omega-\xi+r}} \frac{(i\theta)^\xi}{\xi!} \\
++ 2 \sum_{j=0}^{q} \sum_{\xi=0}^{p} \phi(q-j) \lambda_{q-j} \frac{i^{\xi}}{\xi!} \sum_{\omega=0}^{r} \frac{(-1)^{(\omega+r-1)}}{\omega} \binom{\omega+r-1}{\omega} (-1)^\omega \\
+\times \frac{(-1)^{p-1}}{p-1} \sum_{m=1}^{\infty} \frac{(-1)^m x^m e^{im\theta}}{m^{5+p+\omega-\xi+r}} \frac{(i\theta)^\xi}{\xi!} \\
++ 2 \sum_{j=0}^{r} \sum_{\xi=0}^{p} \phi(r-j) \lambda_{r-j} \frac{i^{\xi}}{\xi!} \sum_{\omega=0}^{q-1} \frac{(-1)^{q-1-\omega}}{\omega} \binom{q-2-\omega}{q-1} (-1)^\omega \\
+\times \sum_{m=1}^{\infty} \frac{x^m e^{im\theta}}{m^{5+p+q-j-\xi}} \frac{(i\theta)^\xi}{\xi!} \\
+- 2 \sum_{j=0}^{r} \sum_{\xi=0}^{q} \phi(r-j) \lambda_{r-j} \frac{i^{\xi}}{\xi!} \sum_{\omega=0}^{p-1} \frac{(-1)^{p-1-\omega}}{\omega} \binom{p-2-\omega}{p-1} (-1)^\omega \\
+\times \sum_{m=1}^{\infty} \frac{x^m e^{im\theta}}{m^{5+p+q-j-\xi}} \frac{(i\theta)^\xi}{\xi!} = 0
+```

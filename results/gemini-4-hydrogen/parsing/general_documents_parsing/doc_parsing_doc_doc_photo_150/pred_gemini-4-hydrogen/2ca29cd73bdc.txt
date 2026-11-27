@@ -1,0 +1,116 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{enumitem}
+
+\begin{document}
+
+\noindent \textbf{SUPER MOCK : MATHS}
+
+\begin{center}
+    \textbf{PAPER 1} \\
+    \textbf{OBJECTIVE TEST} \\
+    \textbf{Answer all questions.}
+\end{center}
+
+\noindent \textit{Each question is followed by four options lettered A to D. Find the correct option for each question and shade in pencil on your answer sheet the answer space which bears the same letter as the option you have chosen.}
+
+\begin{multicols}{2}
+
+\begin{enumerate}[leftmargin=*]
+    \item Find the product of $2.3 \times 10^5 \times 3.0 \times 10^4$ leaving your answer in standard form.
+    \begin{enumerate}[label=\Alph*.]
+        \item $6.9 \times 10^9$
+        \item $6.59 \times 10^5$
+        \item $6.9 \times 10^4$
+        \item $6.59 \times 10^{-5}$
+    \end{enumerate}
+
+    \item Round down $4,872,500$ to the nearest $10,000$.
+    \begin{enumerate}[label=\Alph*.]
+        \item $4,872,000$
+        \item $4,870,000$
+        \item $4,870,500$
+        \item $4,871,000$
+    \end{enumerate}
+
+    \item In a school, $^{1}/_{3}$ of the learners like English, $^{2}/_{3}$ like Mathematics and the rest like Science. What fraction of the learners like Science?
+    \begin{enumerate}[label=\Alph*.]
+        \item $1$
+        \item $^{1}/_{2}$
+        \item $0$
+        \item $2$
+    \end{enumerate}
+
+    \item If $P = \{1, 7, 13\}$ and $Q = \{7, 9, 13\}$ are subsets of $U = \{1, 2, 3, 4 \dots 15\}$ Find $P \cap Q)$
+    \begin{enumerate}[label=\Alph*.]
+        \item $\{1, 7, 9\}$
+        \item $\{1, 7, 9, 13\}$
+        \item $\{7, 9\}$
+        \item $\{7, 13\}$
+    \end{enumerate}
+
+    \item Convert $0.125$ to a common fraction.
+    \begin{enumerate}[label=\Alph*.]
+        \item $\dfrac{3}{4}$
+        \item $\dfrac{1}{8}$
+        \item $\dfrac{2}{5}$
+        \item $\dfrac{3}{5}$
+    \end{enumerate}
+
+\columnbreak
+
+    \item Find the value of the side marked $x$ in the diagram below. $[\text{Take } \text{Tan } 35^\circ = 0.70]$
+    
+    \begin{center}
+    \begin{tikzpicture}[scale=0.8]
+        \draw (0,0) -- (3,0) node[midway, below] {$5\text{m}$} -- (0,2.1) -- cycle;
+        \node[left] at (0,1.05) {$x$};
+        \draw (0,0.25) -- (0.25,0.25) -- (0.25,0);
+        \draw (2.1,0) arc (180:145:0.9);
+        \node at (2.4,0.22) {\small $35^\circ$};
+    \end{tikzpicture}
+    \end{center}
+    
+    \begin{enumerate}[label=\Alph*.]
+        \item $3.50\text{m}$
+        \item $35\text{m}$
+        \item $60\text{m}$
+        \item $7.2\text{m}$
+    \end{enumerate}
+
+    \item Simplify: $2\sqrt{2} + 2\sqrt{2} + 3\sqrt{3} + 3\sqrt{3}$
+    \begin{enumerate}[label=\Alph*.]
+        \item $\sqrt{2} + \sqrt{3}$
+        \item $4\sqrt{2} + 6\sqrt{3}$
+        \item $4 + 6\sqrt{3}$
+        \item $\sqrt{2} + 6\sqrt{3}$
+    \end{enumerate}
+
+    \item Given that vector $a = \begin{pmatrix} 3 \\ 4 \end{pmatrix}$ and $b = \begin{pmatrix} 2 \\ 3 \end{pmatrix}$, evaluate : $2(a + b)$
+    \begin{enumerate}[label=\Alph*.]
+        \item $\begin{bmatrix} 4 \\ 6 \end{bmatrix}$
+        \item $\begin{bmatrix} 6 \\ 8 \end{bmatrix}$
+        \item $\begin{bmatrix} 10 \\ 4 \end{bmatrix}$
+        \item $\begin{bmatrix} 5 \\ 7 \end{bmatrix}$
+    \end{enumerate}
+
+    \item A fair die and a coin are rolled together once. Find the probability of obtaining a tail and a prime number.
+    \begin{enumerate}[label=\Alph*.]
+        \item $^{1}/_{2}$
+        \item $^{2}/_{3}$
+        \item $^{1}/_{3}$
+        \item $^{1}/_{4}$
+    \end{enumerate}
+\end{enumerate}
+
+\end{multicols}
+
+\vfill
+\noindent \textit{Mathematics / Super Mock} \hfill 4 \hfill \phantom{\textit{Mathematics / Super Mock}}
+
+\end{document}
+```

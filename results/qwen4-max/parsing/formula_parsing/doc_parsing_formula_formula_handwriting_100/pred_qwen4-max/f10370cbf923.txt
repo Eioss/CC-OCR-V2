@@ -1,0 +1,7 @@
+\[\frac{d}{dt}p(t)=H_{i,i+1}(p(t),t)\vec{\bar{n}}_{i,i+1}(p(t),t)+\left(\bar{\tau}_{i,i+1}(p(t),(t)\cdot\frac{d}{dt}p(t)\right)\bar{\tau}_{i,i+1}(p(t),t)\]
+\[h(\varepsilon)=pk(\frac{p}{k}-1-\varepsilon)=(k+1)\varepsilon^{2}-(2p+pk)+p^{2}-pk>0.\]
+\[\sum_{l\in[n]\setminus\{i,j\}}\det(A[\{i,j,l\})\]
+\[\sup_{\substack{t\geq0,E_{R}^{(\alpha)}(u)(0)\leq1}}e^{kt}E_{R}(t)<\infty\]
+\[\tilde{P}=\{(H,\rho_{D})\xrightarrow{V^{\dagger}}(H^{\prime},\rho)\}\]
+\[\begin{aligned}|T_{P_{2}}[a]|_{m,s,\eta}&\leq pe,s,\eta|a|_{m,s+\mu_{0},\eta}+|a|_{m,s_{0}+\mu_{0},\eta}|\bar{p}|_{1,s+\mu_{0},\eta+1}\\&\leq pe,s,\eta|a|_{m,s+\mu_{0},\eta}+\gamma^{-1}\varepsilon^{2}|a|_{m,s_{0}+\mu_{0},\eta}||\gamma_{\delta+\mu_{0}}.\end{aligned}\]
+\[G/B^{+}=\sqcup_{w\in W}B^{+}/B^{+}=\sqcup_{w\in W}B^{-}wB^{+}/B^{+}\]

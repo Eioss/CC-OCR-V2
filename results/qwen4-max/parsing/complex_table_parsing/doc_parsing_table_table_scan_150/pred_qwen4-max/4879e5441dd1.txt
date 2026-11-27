@@ -1,0 +1,3 @@
+```html
+<table><tr><td>Generation Modes</td><td>\( {\mathrm{C}}_{i} \)</td><td>\( {\mathrm{C}}_{t} \)</td><td>\( {\mathrm{C}}_{S} \)</td></tr><tr><td>Synthesis</td><td></td><td>✓</td><td></td></tr><tr><td>Augmentation</td><td>✓</td><td></td><td></td></tr><tr><td>Recovery</td><td>✓</td><td>✓</td><td></td></tr><tr><td>Imitation</td><td>✓</td><td>✓</td><td>✓</td></tr></table>
+```

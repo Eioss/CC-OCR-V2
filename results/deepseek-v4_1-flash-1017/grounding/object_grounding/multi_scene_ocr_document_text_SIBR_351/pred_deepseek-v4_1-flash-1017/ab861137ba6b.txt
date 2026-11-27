@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [166, 128, 638, 156], "label": "COMPANY NAME"},
+  {"bbox_2d": [248, 160, 750, 181], "label": "ADDRESS"},
+  {"bbox_2d": [411, 184, 587, 201], "label": "ADDRESS"},
+  {"bbox_2d": [354, 201, 644, 217], "label": "TEL"},
+  {"bbox_2d": [654, 201, 827, 217], "label": "FAX"},
+  {"bbox_2d": [477, 225, 584, 248], "label": "TITLE"},
+  {"bbox_2d": [196, 272, 330, 287], "label": "INV.NO."},
+  {"bbox_2d": [625, 272, 755, 287], "label": "PO NO."},
+  {"bbox_2d": [196, 291, 350, 307], "label": "INV.DATE."},
+  {"bbox_2d": [196, 309, 460, 325], "label": "ADDRESS"},
+  {"bbox_2d": [290, 327, 630, 343], "label": "ADDRESS"},
+  {"bbox_2d": [290, 345, 500, 361], "label": "ADDRESS"},
+  {"bbox_2d": [290, 363, 420, 379], "label": "Tel"},
+  {"bbox_2d": [290, 381, 420, 397], "label": "Fax"},
+  {"bbox_2d": [196, 415, 430, 431], "label": "PAYMENT"},
+  {"bbox_2d": [143, 468, 220, 486], "label": "DESCRIPTION"},
+  {"bbox_2d": [300, 488, 440, 506], "label": "DESCRIPTION"},
+  {"bbox_2d": [300, 506, 420, 524], "label": "DESCRIPTION"},
+  {"bbox_2d": [490, 488, 550, 506], "label": "QUANTITY"},
+  {"bbox_2d": [630, 488, 730, 506], "label": "UNIT PRICE"},
+  {"bbox_2d": [780, 488, 860, 506], "label": "AMOUNT"},
+  {"bbox_2d": [780, 488, 860, 506], "label": "AMOUNT"},
+  {"bbox_2d": [160, 733, 380, 749], "label": "BANK A/C NO."},
+  {"bbox_2d": [160, 751, 350, 767], "label": "SWIFT"},
+  {"bbox_2d": [160, 769, 670, 785], "label": "BANK NAME"},
+  {"bbox_2d": [160, 787, 460, 803], "label": "BRANCH LOCATION (CITY)"},
+  {"bbox_2d": [160, 805, 810, 821], "label": "ADDRESS OF THE BANK"}
+]
+```

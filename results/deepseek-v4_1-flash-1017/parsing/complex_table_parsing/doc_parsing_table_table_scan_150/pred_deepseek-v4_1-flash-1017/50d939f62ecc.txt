@@ -1,0 +1,247 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  th, td {
+    padding: 4px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    font-weight: normal;
+  }
+  .center {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <td colspan="7" style="text-align: center; font-size: 14px; padding-bottom: 10px;">附页</td>
+      <td colspan="2" style="text-align: right; font-size: 12px;">224820221000069142001</td>
+    </tr>
+    <tr>
+      <th>序号</th>
+      <th>货物品名</th>
+      <th>品牌</th>
+      <th>原产国</th>
+      <th>规格</th>
+      <th>数/重量</th>
+      <th colspan="3">生产日期(批号)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>冷冻去骨牛胸腩连体</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约23.71千克/箱</td>
+      <td>**5144千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>冷冻去骨牛后腱</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.5千克/箱</td>
+      <td>**585千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>冷冻去骨牛砧扒带盖</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.71千克/箱</td>
+      <td>**1975千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>冷冻去骨牛小黄瓜条</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.8千克/箱</td>
+      <td>**456千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>冷冻去骨牛色腱带金钱腱</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约23.11千克/箱</td>
+      <td>**670千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>冷冻去骨牛霖</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约21.77千克/箱</td>
+      <td>**1589千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>冷冻去骨牛臀腰肉</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约21.79千克/箱</td>
+      <td>**1329千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>冷冻去骨牛西冷带侧边2.2KG+</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约26.84千克/箱</td>
+      <td>**79千克</td>
+      <td colspan="3">(220221)</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>冷冻去骨牛西冷带侧边2.7KG+</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约24.99千克/箱</td>
+      <td>**1108千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>冷冻去骨牛柳去侧边2/3LBS</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22千克/箱</td>
+      <td>**572千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>冷冻去骨牛前胸肉</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约20.29千克/箱</td>
+      <td>**142千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>冷冻去骨牛眼肉去盖1.5KG+</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.45千克/箱</td>
+      <td>**202千克</td>
+      <td colspan="3">(220223)</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>冷冻去骨牛眼肉去盖2.0KG+</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约21.4千克/箱</td>
+      <td>**706千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>冷冻去骨牛眼肉盖</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约17.79千克/箱</td>
+      <td>**249千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>冷冻去骨牛金钱腱</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.45千克/箱</td>
+      <td>**202千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>冷冻去骨牛前腱</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约24.74千克/箱</td>
+      <td>**742千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>冷冻去骨牛上脑</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约21.4千克/箱</td>
+      <td>**1284千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>冷冻去骨牛肩胛肌</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约23.28千克/箱</td>
+      <td>**419千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>冷冻去骨牛板腱</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.71千克/箱</td>
+      <td>**545千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>冷冻去骨抢掠牛前部位肉</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约24.98千克/箱</td>
+      <td>**1973千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>冷冻去骨牛肉块</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约25.13千克/箱</td>
+      <td>**3919千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>冷冻去骨牛辣条</td>
+      <td>无中文品牌、英文品牌KINGWARM</td>
+      <td>阿根廷</td>
+      <td>约22.23千克/箱</td>
+      <td>**401千克</td>
+      <td colspan="3">(220221、220222、220223)</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+```

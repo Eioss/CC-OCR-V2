@@ -1,0 +1,10 @@
+```latex
+\begin{align*}
+&\int_{0}^{T} G(T-s, z(T)-z(s)) \phi(z(s)) z'(s) ds \\
+&= \sum_{j=1}^{J} A_j \int_{0}^{T} \frac{1}{\sqrt{4\pi t}} e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t} - \rho t + q_j z(T-t)} z'(T-t) dt \\
+&\quad - V K \int_{0}^{T} \frac{1}{\sqrt{4\pi t}} e^{-\frac{[z(T)-z(T-t)-kt]^2}{4t} - \rho t + z(T-t)} z'(T-t) dt \\
+&= \sum_{j=1}^{J} A_j \sqrt{T} \int_{0}^{1} \frac{1}{\sqrt{4\pi \zeta}} e^{-\frac{[z(T)-z(\zeta T)-K\zeta T]^2}{4\zeta T} - \rho \zeta T + q_j z(\zeta T)} z'(\zeta T) d\zeta \\
+&\quad - V K \sqrt{T} \int_{0}^{1} \frac{1}{\sqrt{4\pi \zeta}} e^{-\frac{[z(T)-z(\zeta T)-K\zeta T]^2}{4\zeta T} - \rho \zeta T + z(\zeta T)} z'(\zeta T) d\zeta \\
+&:= (\text{Term 1}) + (\text{Term 2}).
+\end{align*}
+```

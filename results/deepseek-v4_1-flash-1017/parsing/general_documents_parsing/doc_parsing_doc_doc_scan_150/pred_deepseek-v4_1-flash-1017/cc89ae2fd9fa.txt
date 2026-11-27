@@ -1,0 +1,83 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{color}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{\textcolor{yellow!80!orange}{\Large 108}}
+
+\vspace{1em}
+
+\noindent \textbf{(iii) Non-cash transactions}
+\newline
+The consolidated statements of cash flows exclude the following non-cash transactions:
+
+\vspace{0.5em}
+
+\begin{center}
+\begin{tabular}{p{0.8\textwidth} r}
+\toprule
+ & \textbf{2000} \\
+\midrule
+Common shares issued on acquisition (note 3) & 199,856 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{2em}
+
+\begin{center}
+\textit{\textcolor{gray}{16. RECONCILIATION OF CANADIAN GAAP TO U.S. GAAP}}
+\end{center}
+
+\vspace{1em}
+
+\noindent The consolidated financial statements of the Company are prepared in Canadian dollars in accordance with accounting principles generally accepted in Canada (“Canadian GAAP”). The following adjustments and disclosures would be required in order to present these consolidated financial statements in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”).
+
+\vspace{0.5em}
+
+\noindent (a) Reconciliation to accounting principles generally accepted in the United States
+
+\vspace{0.5em}
+
+\begin{center}
+\small
+\begin{tabular}{l r r r}
+\toprule
+(thousands of Canadian dollars) & \textbf{2000} & \textbf{1999} & \textbf{1998} \\
+\midrule
+Net income (loss) using Canadian GAAP & 155,984 & 7,375 & (4,284) \\
+Add (deduct) adjustments for & & & \\
+\hspace{1em} Deferred charges (1) & 631 & (957) & (2,465) \\
+\hspace{1em} Foreign exchange gains (2) & 4,066 & -- & -- \\
+\hspace{1em} Equity in earnings of WIC (3) & 7,692 & -- & -- \\
+\hspace{1em} Income tax effect of adjustments & (6,828) & 431 & 1,109 \\
+\cmidrule{1-4}
+Net income (loss) using U.S. GAAP & 161,345 & 6,849 & (5,640) \\
+Unrealized gains on investments classified as & & & \\
+\hspace{1em} available for sale, net of tax (4) & 4,040 & 18,945 & 12,030 \\
+Realized losses on investments classified & & & \\
+\hspace{1em} as available for sale, net of tax & (19,781) & -- & -- \\
+\cmidrule{1-4}
+Comprehensive income using U.S. GAAP & 145,604 & 25,794 & 6,390 \\
+\cmidrule{1-4}
+Net income per share using U.S. GAAP & & & \\
+Basic & 4.83 & -- & -- \\
+Fully diluted & 4.73 & -- & -- \\
+Comprehensive income per share using U.S. GAAP & & & \\
+Basic & 4.36 & -- & -- \\
+Fully diluted & 4.27 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\end{document}
+```

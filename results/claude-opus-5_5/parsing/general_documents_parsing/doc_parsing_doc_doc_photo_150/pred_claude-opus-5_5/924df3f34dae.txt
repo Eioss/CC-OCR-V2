@@ -1,0 +1,88 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage[version=4]{mhchem}
+
+\begin{document}
+
+\begin{center}
+\textbf{\large Verification of the Formula of a Hydrated Salt Data Sheet}
+\end{center}
+
+\noindent Name \rule{8cm}{0.4pt}
+
+\vspace{0.3cm}
+\noindent \hspace{5cm} Partner's Name \rule{5cm}{0.4pt}
+
+\vspace{0.3cm}
+\noindent Hydrated salt you were given: \underline{\ce{CaSO4*2H2O}}
+
+\vspace{0.5cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|>{\raggedright\arraybackslash}p{6cm}|p{2.5cm}|p{2.5cm}|p{2.5cm}|}
+\hline
+ & \textbf{Trial 1} & \textbf{Trial 2} & \textbf{Trial 3} \\
+\hline
+Mass of crucible and lid (g) & 28.326 g & 26.247 & \\
+\hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 33.713 g & 30.200 g & \\
+\hline
+Mass of hydrated salt (g) & 5.387 g & 3.953 g & \\
+\hline
+Mass of crucible, lid, salt AFTER heating (g) & 32.656 g & 29.69 g & \\
+\hline
+Mass of anhydrous salt (g) & 4.33 g & 3.443 g & \\
+\hline
+Moles of anhydrous salt (mole) & 0.0310 g & 0.02530 g & \\
+\hline
+Mass of water of crystallization removed (g) & 1.057 g & 0.5100 g & \\
+\hline
+Moles of water of crystallization removed (mole) & 0.5870 g & 0.02830 g & \\
+\hline
+\multicolumn{4}{c}{} \\
+\hline
+Ratio moles water : moles salt & ? & ? & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|>{\raggedright\arraybackslash}p{6cm}|p{4cm}|p{4cm}|}
+\hline
+ & \textbf{Individual} & \textbf{Class} \\
+\hline
+Average Ratio & ? & X \\
+\hline
+Standard Deviation & & X \\
+\hline
+Relative Standard Deviation (\%) & ? & X \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent The Chemical Formula for the hydrate is \underline{\hspace{1.5cm}?\hspace{1.5cm}}.
+
+\vspace{1cm}
+
+\noindent {\small This document was prepared by D. Finneran, J. Tierney.}
+
+\vspace{0.5cm}
+\begin{center}
+45
+\end{center}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- Handwritten entries are reproduced as written, including the "g" units the student wrote in the mole rows.
+- The Trial 1 "moles of water" entry appears as "0.5870 g" on the sheet. Based on the mass (1.057 g ÷ 18.02 g/mol), it was likely meant to be 0.0587.
+- Trial 3 has no data, and the Standard Deviation (Individual) cell is blank on the sheet.

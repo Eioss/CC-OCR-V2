@@ -1,0 +1,51 @@
+<table>
+  <tr><td colspan="5" style="text-align:center"><strong>XYZ COMPANY LIMITED</strong></td></tr>
+  <tr><td colspan="5" style="text-align:center"><strong>BALANCE SHEET</strong></td></tr>
+  <tr><td colspan="5" style="text-align:center"><strong>AS AT</strong></td></tr>
+  <tr><td colspan="5" style="text-align:center"><strong>JUNE 30, 2002</strong></td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td colspan="5" style="text-align:center"><u>UNAUDITED - See "Notice to Reader"</u></td></tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center"><u>2002</u></td>
+    <td colspan="2" style="text-align:center"><u>2001</u></td>
+  </tr>
+  <tr><td style="text-align:center"><strong><u>ASSETS</u></strong></td><td colspan="4"></td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>CURRENT</td><td colspan="4"></td></tr>
+  <tr><td style="padding-left:16px">Cash</td><td>$</td><td>11,552</td><td>$</td><td>--</td></tr>
+  <tr><td style="padding-left:16px">Accounts receivable</td><td></td><td>42,790</td><td></td><td>50,595</td></tr>
+  <tr><td style="padding-left:16px">Deposits and prepaid expenses</td><td></td><td>2,942</td><td></td><td>2,688</td></tr>
+  <tr><td style="padding-left:16px">Inventory</td><td></td><td>159,144</td><td></td><td>156,657</td></tr>
+  <tr><td></td><td></td><td style="border-top:1px solid">216,608</td><td></td><td style="border-top:1px solid">209,940</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>PROPERTY, PLANT AND EQUIPMENT (Note 2)</td><td></td><td>59,890</td><td></td><td>76,318</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>INVESTMENTS</td><td></td><td>--</td><td></td><td>45,001</td></tr>
+  <tr><td></td><td>$</td><td style="border-top:1px solid;border-bottom:3px double">276,498</td><td>$</td><td style="border-top:1px solid;border-bottom:3px double">331,259</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td style="text-align:center"><strong><u>LIABILITIES</u></strong></td><td colspan="4"></td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>CURRENT</td><td colspan="4"></td></tr>
+  <tr><td style="padding-left:16px">Bank overdraft</td><td>$</td><td>--</td><td>$</td><td>9,474</td></tr>
+  <tr><td style="padding-left:16px">Bank loan</td><td></td><td>--</td><td></td><td>60,000</td></tr>
+  <tr><td style="padding-left:16px">Accounts payable and accrued liabilities</td><td></td><td>82,053</td><td></td><td>91,343</td></tr>
+  <tr><td style="padding-left:16px">Long-term debt - current portion</td><td></td><td>25,200</td><td></td><td>--</td></tr>
+  <tr><td style="padding-left:16px">Income tax payable</td><td></td><td>14,387</td><td></td><td>--</td></tr>
+  <tr><td></td><td></td><td style="border-top:1px solid">121,640</td><td></td><td style="border-top:1px solid">160,817</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>DUE TO SHAREHOLDER (Note 3)</td><td></td><td>51,591</td><td></td><td>231,791</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>LONG-TERM DEBT (Note 4)</td><td></td><td>86,100</td><td></td><td>--</td></tr>
+  <tr><td></td><td></td><td style="border-top:1px solid;border-bottom:1px solid">259,331</td><td></td><td style="border-top:1px solid;border-bottom:1px solid">392,608</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td style="text-align:center"><strong><u>SHAREHOLDER'S EQUITY</u></strong></td><td colspan="4"></td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>STATED CAPITAL (Note 5)</td><td></td><td>1</td><td></td><td>1</td></tr>
+  <tr><td colspan="5">&nbsp;</td></tr>
+  <tr><td>RETAINED EARNINGS (DEFICIT)</td><td></td><td>17,166</td><td></td><td>(61,350)</td></tr>
+  <tr><td></td><td></td><td style="border-top:1px solid">17,167</td><td></td><td style="border-top:1px solid">(61,349)</td></tr>
+  <tr><td></td><td>$</td><td style="border-top:1px solid;border-bottom:3px double">276,498</td><td>$</td><td style="border-top:1px solid;border-bottom:3px double">331,259</td></tr>
+  <tr><td style="text-align:center">APPROVED</td><td colspan="4"></td></tr>
+  <tr><td style="text-align:center">____________________________</td><td colspan="4"></td></tr>
+</table>

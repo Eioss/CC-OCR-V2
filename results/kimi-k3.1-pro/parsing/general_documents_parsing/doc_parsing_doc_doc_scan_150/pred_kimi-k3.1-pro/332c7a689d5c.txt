@@ -1,0 +1,126 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.65in]{geometry}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{amssymb}
+\usepackage{xcolor}
+
+\setlength{\parindent}{0pt}
+
+\newcommand{\sectionbar}[1]{%
+  \par\medskip
+  \noindent\colorbox{gray!70}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+      \centering\color{white}\bfseries #1
+    }%
+  }\par\smallskip
+}
+
+\begin{document}
+
+\begin{center}
+  {\Large\bfseries Transfer/Rollover Form}\\[2pt]
+  {\Large\bfseries Instructions}
+\end{center}
+
+\sectionbar{1. YOUR INFORMATION}
+
+Please provide personal information requested.
+
+\sectionbar{2. EMPLOYER PLAN RECEIVING ASSETS}
+
+Please provide us with information about the plan receiving your assets. The chart below provides general guidelines about the portability of assets. If you do not know what type of plan you are sending your assets to, call a Retirement Services Specialist at 1-800-343-0860.
+
+\begin{center}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{1.35}
+\begin{tabular}{|>{\raggedright\arraybackslash}p{0.25\textwidth}|*{8}{c|}}
+\hline
+\multicolumn{9}{|c|}{%
+  \makecell{General Rules for Availability of \textbf{Rollovers}\\
+  For Eligible Pre-Tax Contributions\\
+  and Transfers}
+}\\
+\hline
+&
+\multicolumn{2}{c|}{\makecell{To\\Qualified Plans\\(401(a)/401(k))}} &
+\multicolumn{2}{c|}{\makecell{To\\403(b) Plans}} &
+\multicolumn{2}{c|}{\makecell{To\\Gov't 457(b)\\Plans}} &
+\multicolumn{2}{c|}{\makecell{To\\IRAs\\(excl. Roth IRAs)}}\\
+\hline
+& Transfer & Rollover & Transfer & Rollover
+& Transfer & Rollover & Transfer & Rollover\\
+\hline
+From Qualified Plans\newline (401(a)/401(k))
+& YES\textsuperscript{*} & YES\textsuperscript{**}
+& NO & YES
+& NO & YES
+& NO & YES\textsuperscript{**}\\
+\hline
+From 403(b) Plans
+& NO\textsuperscript{***} & YES
+& YES & YES\textsuperscript{**}
+& NO & YES
+& NO & YES\textsuperscript{**}\\
+\hline
+From Governmental 457(b) Plans
+& NO\textsuperscript{***} & YES
+& NO & YES\textsuperscript{*}
+& YES & YES
+& NO & YES\\
+\hline
+From Non-governmental 457(b) Plans
+& \multicolumn{8}{c|}{Transfer to another tax-exempt\textsuperscript{\textdagger} 457(b) plan only.}\\
+\hline
+From IRAs\newline (excluding Roth IRAs)
+& NO & YES
+& NO & YES
+& NO & YES
+& YES & YES\textsuperscript{**}\\
+\hline
+\end{tabular}
+\end{center}
+
+{\footnotesize
+\noindent\textsuperscript{*} General transfers from one plan to another plan apply only for plan-level transfers resulting from plan mergers.\par
+\noindent\textsuperscript{**} After-tax rollovers may also be allowed, subject to plan restrictions.\par
+\noindent\textsuperscript{***} Transfers are allowed from a governmental 403(b) plan and a governmental 457(b) plan, respectively, to a governmental defined benefit plan to purchase past service credit.\par
+\noindent\textsuperscript{\textdagger} Transfers allowed only upon separation from employment.\par
+}
+
+\medskip
+
+\textbf{Tax-Exempt 457(b) plans} do not have the option to roll over assets, but may allow Transfers to the same type of plan.
+
+\textbf{Generally, 403(b) and qualified plans} allow \textbf{in-plan transfers} between vendors. Please call 1-800-343-0860 for additional information about portability provisions applicable to your plan. You may also want to check with your employer before initiating a transfer or rollover request.
+
+\sectionbar{3. YOUR PREVIOUS INVESTMENT PROVIDER}
+
+Unless otherwise instructed, when assets are coming from a different employer's plan than the employer listed in Section 2, this transaction will be processed as a rollover. Any grandfathered pre-1987 and/or pre-1989 balance information will not be carried over. If you are requesting assets from a previous employer's plan and wish to initiate a transfer instead of a rollover, please include a letter of instruction with your form.
+
+\medskip
+
+You may use this form for a direct rollover or for an indirect (60-day) rollover.
+
+\medskip
+
+If you have already received a check from your prior investment provider and would like to make an indirect rollover, please be sure to include:
+
+\medskip
+
+\noindent$\square$ A check payable to the plan custodian or trustee
+
+\begin{center}
+\textbf{AND}
+\end{center}
+
+\noindent$\square$ A distribution statement from your prior investment provider
+
+\medskip
+
+\textit{Please note:} A rollover contribution must be received by Fidelity within 60 days of your receipt of such distribution. Your plan sponsor reserves the right to require sufficient evidence that your distribution is from an eligible retirement plan or IRA.
+
+\end{document}
+```

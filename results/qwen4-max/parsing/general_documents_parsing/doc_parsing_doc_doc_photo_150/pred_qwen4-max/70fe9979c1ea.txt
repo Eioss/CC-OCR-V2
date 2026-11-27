@@ -1,0 +1,91 @@
+Certainly! Below is the accurate transcription of the provided image content into LaTeX format, preserving all text, tables, and structure without alteration. This includes Bengali script at the top (transcribed as-is), numbered questions, table with placeholders, sentence matching columns, and rearrangement task — all formatted for faithful reproduction in a LaTeX document.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{fontspec} % For XeLaTeX/LuaLaTeX to handle Bengali if needed
+\setmainfont{Arial} % Or any font supporting Latin + Bengali if compiling with XeLaTeX
+
+% If using pdfLaTeX, uncomment below and comment fontspec above:
+% \usepackage[bengali]{babel}
+% \usepackage{fontenc}
+
+\geometry{margin=1in}
+
+\begin{document}
+
+\noindent একাধিক ও সার্থক বাক্যটি ১৯৬৫ সালের ৯ ফেব্রুয়ারি মৃত্যুবরণ করেন।
+
+\section*{4. Complete the table below with information from the passage. \hfill $1 \times 5 = 5$}
+
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{3cm}|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i) — & M.A. \\
+\hline
+Ahsanullah & 1911 & & (ii) — \\
+\hline
+(iii) — & 1914 & & \\
+\hline
+Member of Royal Society & (iv) — & & \\
+\hline
+& 1919 & & (v) — \\
+\hline
+\end{tabular}
+
+\section*{5. Write a summary of the passage in no more than 90 to 100 words. \hfill 10}
+
+\section*{6. Match the parts of sentences given in column `A' and column `B' to write five complete sentences. There are more parts of sentences in column `B' than required. \hfill $1 \times 5 = 5$}
+
+\begin{tabular}{|p{6cm}|p{6cm}|}
+\hline
+\textbf{Column `A'} & \textbf{Column `B'} \\
+\hline
+(a) Man can turn a clean environment & i. man improves his environment \\
+(b) Clean environment is essential & ii. man pollutes his environment. \\
+(c) Our total environment influences & iii. our way of living. \\
+(d) When the relationship between things is disturbed, life & iv. really beautiful. \\
+(e) By many unwise acts & v. into a bad polluted one. \\
+& vi. for a healthier and happier life. \\
+& vii. becomes difficult or impossible. \\
+\hline
+\end{tabular}
+
+\section*{7. Re-arrange the following sentences according to sequence and re-write them in a paragraph. \hfill $1 \times 8 = 8$}
+
+\begin{enumerate}[label=(\alph*)]
+    \item The first friend climbed up a tree but the later could not climb.
+    \item Suddenly a bear came there.
+    \item Once upon a time two friends were passing by a forest.
+    \item They were talking about their love for each other.
+\end{enumerate}
+
+\end{document}
+```
+
+---
+
+### Notes:
+
+- **Bengali Text**: Transcribed verbatim as seen at the top. To render properly in LaTeX, use XeLaTeX or LuaLaTeX with appropriate fonts (e.g., `SolaimanLipi`, `Noto Sans Bengali`) via `\usepackage{fontspec}`. If using pdfLaTeX, you may need additional packages like `bengali` babel support.
+  
+- **Table Structure**: Preserved exactly as shown, including placeholder markers `(i)—`, `(ii)—`, etc.
+
+- **Matching Exercise**: Column A and B are presented side-by-side with full entries; extra options in Column B are included as per original.
+
+- **Sentence Rearrangement**: Listed alphabetically as in source, ready for student to reorder.
+
+- **Scoring Notation**: All point values (`1 × 5 = 5`, `10`, etc.) preserved in section headers.
+
+This LaTeX code will faithfully reproduce the visual layout and textual content of the original image when compiled appropriately. You can adjust margins, fonts, or spacing as needed for your specific output requirements.
+
+Let me know if you’d like a version optimized for PDF rendering with Bengali support or a simplified plain-text variant.

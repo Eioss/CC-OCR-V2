@@ -1,0 +1,10 @@
+{
+  "date_issue": "10/26/2020",
+  "vendor_name": "NOALMARK BROADCASTING CORP.- HOBBS",
+  "vendor_address": "P.O. BOX 5629\nHOBBS, NM 88241",
+  "customer_billing_name": "MEDIA FINANCIAL SERVICES",
+  "customer_billing_address": "1675 PALM BEACH LAKES BLVD\nSUITE 300\nWEST PALM BEACH, FL 33401",
+  "customer_other_name": "House Majority Forward",
+  "amount_total_gross": "$339.00",
+  "amount_due": "$237.30"
+}

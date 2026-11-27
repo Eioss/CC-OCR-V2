@@ -1,0 +1,92 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+    {\Large INDEX OF SUBJECTS.}
+    \vspace{0.5em}
+    \hrulefill
+    \vspace{0.5em}
+
+    \textbf{ABSTRACTS. \quad 1900. \quad Parts I \& II.}
+
+    \vspace{0.3em}
+    (Marked A. i and A. ii respectively); and also to Transactions, 1900 (marked T.); and to Proceedings of the Session 1899---1900; Nos. 213 to 226, Nov., 1899---June, 1900 (marked P.).
+\end{center}
+
+\vspace{0.5em}
+\hrule
+\vspace{0.5em}
+
+\setlength{\columnseprule}{0.4pt}
+\begin{multicols}{2}
+
+\begin{center}
+    \textbf{A.}
+\end{center}
+
+\noindent \textbf{Abienic, $\alpha$-} and \textbf{$\beta$-Abietinolic and Abietolic acids} and \textbf{Abietoresen} (\textsc{Tschirch} and \textsc{Weigel}), A., i, 679.
+
+\noindent \textit{Abies canadensis}, balsam of (\textsc{Tschirch} and \textsc{Brüning}), A., i, 678.
+
+\noindent \textit{Abies pectinata}, balsam of (\textsc{Tschirch} and \textsc{Weigel}), A., i, 679.
+
+\noindent \textbf{Absorption} in the small intestine (\textsc{Cohnheim}), A., ii, 289.
+\begin{itemize}
+    \item[] of carbohydrates, fats, and proteids (\textsc{Mosso}), A., ii, 605.
+    \item[] of fat (\textsc{Hofbauer}), A., ii, 605 ; (\textsc{Pflüger}), A., ii, 667 ; (\textsc{Friedenthal}), A., ii, 668.
+    \item[] of fat in the large intestine (\textsc{Hamburger}), A., ii, 418.
+    \item[] of iodides by the skin (\textsc{Gallard}), A., ii, 419.
+    \item[] of iron by the intestine (\textsc{Abderhalden}), A., ii, 223, 289, 416.
+    \item[] of free oxygen by normal urine (\textsc{Berthelot}), A., ii, 740.
+    \item[] of saline solutions by the small intestine (\textsc{Wallace} and \textsc{Cushny}), A., ii, 31.
+    \item[] of sugars in the intestine (\textsc{Hédon}), A., ii, 223.
+\end{itemize}
+
+\noindent \textbf{Acacetin} from \textit{Robinia Pseudacacia} and its acetyl derivative (\textsc{Perkin}), T., 430 ; P., \textbf{1900}, 45.
+
+\noindent \textbf{Accumulators.} See Electrochemistry.
+
+\noindent \textbf{Acet-.} See also Aceto-, Acetyl-, and under the Parent Substance.
+
+\noindent \textbf{Acetal-\textit{m}-} and \textbf{-\textit{p}-cresol} and \textbf{-resorcinol} (\textsc{Fosse} and \textsc{Ettlinger}), A., i, 392.
+
+\noindent \textbf{Acetaldehyde,} heat of combustion and of formation of (\textsc{Berthelot} and \textsc{Delépine}), A., ii, 334.
+
+\columnbreak
+
+\noindent \textbf{Acetaldehyde,} condensation of, with propaldehyde (\textsc{Schmalzhofer}), A., i, 626.
+\begin{itemize}
+    \item[] colour reaction of (\textsc{Rimini}), A., ii, 56, 454 ; (\textsc{Lewin}), A., ii, 179.
+    \item[] detection of, in ether (\textsc{Blaser}), A., ii, 179.
+    \item[] detection of, in fermentation vinegar (\textsc{Böttinger}), A., ii, 773.
+\end{itemize}
+
+\noindent \textbf{Acetaldehyde,} \textit{di}bromo-, hydrate of (\textsc{Wittorff}), A., i, 421.
+
+\noindent \textbf{Acetaldoxime,} spectrum of (\textsc{Hartley} and \textsc{Dobbie}), T., 321 ; P., \textbf{1900}, 14.
+
+\noindent \textbf{Acetamide,} action of chloro\textit{di}nitrobenzene on (\textsc{Kym}), A., i, 158.
+\begin{itemize}
+    \item[] thiocyano- (\textsc{Frerichs} and \textsc{Beckurts}), A., i, 478.
+\end{itemize}
+
+\noindent \textbf{Acetanilide,} action of dry silver oxide and ethyl iodide on (\textsc{Lander}), T., 737 ; P., \textbf{1900}, 6, 90.
+
+\noindent \textbf{Acetanilide,} 3:5-\textit{di}bromo-, 4:2- and 2:4-chlorobromo-, 2:4-bromonitro-, and 2:6:4-\textit{di}bromonitro- (\textsc{Chattaway} and \textsc{Orton}), A., i, 643.
+\begin{itemize}
+    \item[] \textit{o-mono}- and 2:4-\textit{di}-bromo- and -chloro-, formation of (\textsc{Chattaway} and \textsc{Orton}), T., 798 ; P., \textbf{1900}, 112.
+    \item[] \textit{m}-chloro-, action of bleaching powder on a hot acetic acid solution of (\textsc{Chattaway}, \textsc{Orton}, and \textsc{Hurtley}), T., 804.
+    \item[] substituted nitrogen chlorides from, and their transformation (\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurtley}), T., 800 ; P., \textbf{1900}, 125.
+    \item[] \textit{di}-, \textit{tri}-, and \textit{tetra}-chloro-derivatives of, from substituted nitrogen chlorides (\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurtley}), T., 800 ; P., \textbf{1900}, 125.
+\end{itemize}
+
+\end{multicols}
+
+\end{document}
+```

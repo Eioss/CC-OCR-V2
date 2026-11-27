@@ -1,0 +1,102 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 40px;
+    font-size: 14px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  th {
+    font-weight: bold;
+  }
+  .table-title {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+  }
+  .table-caption {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Table 6 -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="9" class="table-title">Match Contribution for the Federal Fiscal Year (HOME)</th>
+    </tr>
+    <tr>
+      <th>Project No. or<br>Other ID</th>
+      <th>Date of<br>Contribution</th>
+      <th>Cash<br>(non-Federal<br>sources)</th>
+      <th>Forfeiture<br>Taxes, Fees,<br>Charges</th>
+      <th>Appraised<br>Land/Real<br>Property</th>
+      <th>Required<br>Infrastructure</th>
+      <th>Site<br>Preparation,<br>Construction<br>Materials,<br>Donated labor</th>
+      <th>Bond<br>Financing</th>
+      <th>Total Match</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>07/01/14 –<br>06-30-15</td>
+      <td>$7,637,486</td>
+      <td>$609,490</td>
+      <td>0</td>
+      <td>0</td>
+      <td>$8,262,732</td>
+      <td>$5,389</td>
+      <td>$16,515,097</td>
+    </tr>
+  </tbody>
+</table>
+<div class="table-caption">Table 6 – Match Contribution for the Federal Fiscal Year</div>
+
+<!-- Table 7 -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="5" class="table-title">Program Income – Enter the program amounts for the reporting period (HOME)</th>
+    </tr>
+    <tr>
+      <th>Balance on hand at<br>beginning of reporting<br>period<br>$</th>
+      <th>Amount received during<br>reporting period*<br>$</th>
+      <th>Total amount expended<br>during reporting period*<br>$</th>
+      <th>Amount expended for<br>TBRA<br>$</th>
+      <th>Balance on hand at end<br>of reporting period<br>$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$13,688,955</td>
+      <td>$7,754,639</td>
+      <td>$3,676,913</td>
+      <td>$4,541</td>
+      <td>$17,766,681</td>
+    </tr>
+  </tbody>
+</table>
+<div class="table-caption">Table 7 – Program Income</div>
+
+</body>
+</html>
+```

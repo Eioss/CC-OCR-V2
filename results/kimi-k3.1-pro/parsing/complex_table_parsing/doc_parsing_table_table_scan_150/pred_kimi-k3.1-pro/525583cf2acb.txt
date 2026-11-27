@@ -1,0 +1,37 @@
+<table>
+  <tr>
+    <td>尺寸表</td>
+    <td>腰围</td>
+    <td>臀围</td>
+    <td>裙长</td>
+    <td>小脚围</td>
+  </tr>
+  <tr>
+    <td>S</td>
+    <td>58</td>
+    <td>96</td>
+    <td>90</td>
+    <td>109</td>
+  </tr>
+  <tr>
+    <td>M</td>
+    <td>62</td>
+    <td>100</td>
+    <td>91</td>
+    <td>113</td>
+  </tr>
+  <tr>
+    <td>L</td>
+    <td>66</td>
+    <td>104</td>
+    <td>92</td>
+    <td>117</td>
+  </tr>
+  <tr>
+    <td>XL</td>
+    <td>70</td>
+    <td>108</td>
+    <td>93</td>
+    <td>121</td>
+  </tr>
+</table>

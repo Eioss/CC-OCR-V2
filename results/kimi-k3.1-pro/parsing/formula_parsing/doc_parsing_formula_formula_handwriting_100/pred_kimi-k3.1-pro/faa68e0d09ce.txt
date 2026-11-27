@@ -1,0 +1,28 @@
+\[
+\begin{aligned}
+&\frac{1}{2}\frac{d}{dt}\left\|\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\|_{L^2_{x,v}}^2
++\frac{\delta_1}{\epsilon^2}\left\|\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\|_{L^2_{x,v}(\nu)}^2\\
+&\quad\le \frac{\delta_1}{\epsilon^2}\sum_{\beta'\le\beta}
+\left\|\partial_x^\alpha\partial_v^{\beta'}(I-P)g^{n+1}\right\|_{L^2_{x,v}}^2\\
+&\qquad+\frac{1}{\epsilon}\sum_{|\beta'|=1}C_\beta^{\beta'}
+\left\langle\partial_v^{\beta'}v\cdot\nabla_x\partial_x^\alpha\partial_v^{\beta-\beta'}(I-P)g^{n+1},
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad-\gamma\left\langle\partial_x^\alpha\partial_v^\beta(I-P)
+\left(\nabla_x\phi^n\cdot\nabla_v(I-P)g^{n+1}\right),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad+\gamma\left\langle\partial_x^\alpha\partial_v^\beta(I-P)
+\left(v\cdot\nabla_x\phi^n(I-P)g^{n+1}\right),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad+\frac{1}{\epsilon}\left\langle\partial_x^\alpha\partial_v^\beta Q(g^n,g^n),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad+\gamma\left\langle\partial_x^\alpha\partial_v^\beta(I-P)
+\left(v\cdot\nabla_x\phi^nPg^{n+1}\right),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad-\frac{1}{\epsilon}\left\langle\partial_x^\alpha\partial_v^\beta(I-P)
+\left(v\cdot\nabla_xPg^{n+1}\right),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}}\\
+&\qquad+\frac{1}{\epsilon}\left\langle\partial_x^\alpha\partial_v^\beta P
+\left(v\cdot\nabla_x(I-P)g^{n+1}\right),
+\partial_x^\alpha\partial_v^\beta(I-P)g^{n+1}\right\rangle_{L^2_{x,v}} .
+\end{aligned}
+\]

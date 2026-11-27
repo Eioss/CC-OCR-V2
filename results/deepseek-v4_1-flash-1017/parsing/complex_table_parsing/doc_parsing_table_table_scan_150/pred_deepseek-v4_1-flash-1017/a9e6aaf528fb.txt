@@ -1,0 +1,159 @@
+Here is the HTML transcription of the table from the image.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+  }
+  th {
+    text-align: left;
+    padding-bottom: 10px;
+    font-weight: normal;
+  }
+  td {
+    padding: 2px 5px;
+  }
+  .title {
+    font-style: italic;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="12">
+        <span style="font-weight: bold;">Table 3.1</span> &nbsp; <span class="title">Raw data on Religion (Students)</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td><td>5</td><td>1</td><td>1</td><td>6</td><td>7</td><td>7</td><td>4</td><td>7</td><td>7</td><td>1</td><td>1</td>
+    </tr>
+    <tr>
+      <td>1</td><td>7</td><td>1</td><td>7</td><td>1</td><td>7</td><td>1</td><td>1</td><td>6</td><td>1</td><td>6</td><td>1</td>
+    </tr>
+    <tr>
+      <td>7</td><td>1</td><td>1</td><td>7</td><td>6</td><td>7</td><td>2</td><td>2</td><td>7</td><td>1</td><td>7</td><td>4</td>
+    </tr>
+    <tr>
+      <td>3</td><td>4</td><td>1</td><td>7</td><td>6</td><td>1</td><td>1</td><td>1</td><td>7</td><td>7</td><td>4</td><td>6</td>
+    </tr>
+    <tr>
+      <td>4</td><td>6</td><td>1</td><td>1</td><td>2</td><td>4</td><td>1</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td>
+    </tr>
+    <tr>
+      <td>4</td><td>1</td><td>7</td><td>2</td><td>7</td><td>2</td><td>1</td><td>2</td><td>2</td><td>7</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>4</td><td>4</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>1</td><td>1</td><td>7</td><td>1</td>
+    </tr>
+    <tr>
+      <td>6</td><td>7</td><td>1</td><td>2</td><td>6</td><td>1</td><td>7</td><td>6</td><td>1</td><td>4</td><td>6</td><td>7</td>
+    </tr>
+    <tr>
+      <td>7</td><td>1</td><td>7</td><td>7</td><td>1</td><td>6</td><td>7</td><td>5</td><td>7</td><td>3</td><td>7</td><td>7</td>
+    </tr>
+    <tr>
+      <td>3</td><td>6</td><td>1</td><td>7</td><td>7</td><td>7</td><td>1</td><td>1</td><td>3</td><td>7</td><td>7</td><td>6</td>
+    </tr>
+    <tr>
+      <td>1</td><td>1</td><td>2</td><td>1</td><td>7</td><td>2</td><td>1</td><td>2</td><td>1</td><td>1</td><td>7</td><td>7</td>
+    </tr>
+    <tr>
+      <td>2</td><td>1</td><td>7</td><td>3</td><td>3</td><td>1</td><td>7</td><td>1</td><td>7</td><td>7</td><td>3</td><td>7</td>
+    </tr>
+    <tr>
+      <td>7</td><td>7</td><td>7</td><td>2</td><td>1</td><td>2</td><td>4</td><td>1</td><td>6</td><td>7</td><td>7</td><td>7</td>
+    </tr>
+    <tr>
+      <td>1</td><td>7</td><td>1</td><td>2</td><td>7</td><td>7</td><td>7</td><td>6</td><td>1</td><td>1</td><td>6</td><td>6</td>
+    </tr>
+    <tr>
+      <td>2</td><td>1</td><td>7</td><td>1</td><td>7</td><td>6</td><td>7</td><td>1</td><td>1</td><td>1</td><td>7</td><td>6</td>
+    </tr>
+    <tr>
+      <td>1</td><td>1</td><td>1</td><td>7</td><td>7</td><td>7</td><td>7</td><td>1</td><td>7</td><td>3</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>1</td><td>1</td><td>1</td><td>7</td><td>6</td><td>1</td><td>7</td><td>3</td><td>1</td><td>1</td><td>2</td><td>2</td>
+    </tr>
+    <tr>
+      <td>1</td><td>1</td><td>1</td><td>7</td><td>7</td><td>3</td><td>1</td><td>7</td><td>5</td><td>7</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>6</td><td>1</td><td>3</td><td>1</td><td>7</td><td>7</td><td>1</td><td>7</td><td>2</td><td>2</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>7</td><td>2</td><td>5</td><td>7</td><td>5</td><td>1</td><td>1</td><td>2</td><td>1</td><td>7</td><td>7</td><td>6</td>
+    </tr>
+    <tr>
+      <td>5</td><td>6</td><td>6</td><td>7</td><td>7</td><td>1</td><td>5</td><td>2</td><td>1</td><td>6</td><td>3</td><td>7</td>
+    </tr>
+    <tr>
+      <td>2</td><td>3</td><td>1</td><td>7</td><td>1</td><td>7</td><td>1</td><td>1</td><td>1</td><td>3</td><td>1</td><td>6</td>
+    </tr>
+    <tr>
+      <td>7</td><td>2</td><td>5</td><td>7</td><td>7</td><td>6</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>7</td><td>6</td><td>7</td><td>1</td><td>7</td><td>3</td><td>3</td><td>6</td><td>1</td><td>1</td><td>7</td><td>6</td>
+    </tr>
+    <tr>
+      <td>3</td><td>1</td><td>2</td><td>2</td><td>7</td><td>6</td><td>1</td><td>2</td><td>3</td><td>2</td><td>2</td><td>1</td>
+    </tr>
+    <tr>
+      <td>4</td><td>6</td><td>1</td><td>7</td><td>7</td><td>6</td><td>4</td><td>7</td><td>1</td><td>7</td><td>3</td><td>2</td>
+    </tr>
+    <tr>
+      <td>7</td><td>7</td><td>2</td><td>1</td><td>1</td><td>7</td><td>3</td><td>5</td><td>3</td><td>7</td><td>2</td><td>7</td>
+    </tr>
+    <tr>
+      <td>4</td><td>7</td><td>6</td><td>7</td><td>6</td><td>1</td><td>2</td><td>2</td><td>7</td><td>2</td><td>2</td><td>7</td>
+    </tr>
+    <tr>
+      <td>7</td><td>7</td><td>2</td><td>6</td><td>2</td><td>1</td><td>3</td><td>7</td><td>2</td><td>7</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>2</td><td>2</td><td>7</td><td>7</td><td>7</td><td>7</td><td>6</td><td>3</td><td>7</td><td>2</td><td>7</td><td>2</td>
+    </tr>
+    <tr>
+      <td>1</td><td>7</td><td>6</td><td>6</td><td>7</td><td>6</td><td>7</td><td>1</td><td>1</td><td>1</td><td>7</td><td>2</td>
+    </tr>
+    <tr>
+      <td>6</td><td>1</td><td>2</td><td>7</td><td>5</td><td>1</td><td>3</td><td>3</td><td>1</td><td>2</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>1</td><td>3</td><td>4</td><td>1</td><td>1</td><td>1</td><td>7</td><td>1</td><td>1</td><td>1</td><td>7</td><td>1</td>
+    </tr>
+    <tr>
+      <td>7</td><td>7</td><td>6</td><td>7</td><td>2</td><td>1</td><td>6</td><td>1</td><td>7</td><td>6</td><td>1</td><td>7</td>
+    </tr>
+    <tr>
+      <td>3</td><td>2</td><td>4</td><td>2</td><td>3</td><td>7</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td>
+    </tr>
+    <tr>
+      <td>2</td><td>7</td><td>6</td><td>4</td><td>3</td><td>2</td><td>1</td><td>1</td><td>2</td><td>7</td><td>1</td><td>5</td>
+    </tr>
+    <tr>
+      <td>7</td><td>7</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>7</td><td>1</td><td>7</td><td>7</td><td>7</td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+```

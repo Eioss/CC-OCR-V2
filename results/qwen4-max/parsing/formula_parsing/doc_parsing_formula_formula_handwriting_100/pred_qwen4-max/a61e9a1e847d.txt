@@ -1,0 +1,42 @@
+\[
+\begin{aligned}
+& \frac{1}{2}\left[\begin{array}{c}
+D^{F_0} \\
+X^U \\
+1^{F_1}
+\end{array}\right]^T\left[\begin{array}{ccc}
+Q^{F_0 F_0} & Q^{F_0 U} & Q^{F_0 F_1} \\
+Q^{U F_0} & Q^{U U} & Q^{U F_1} \\
+Q^{F_1 F_0} & Q^{F_1 U} & Q^{F_1 F_1}
+\end{array}\right]\left[\begin{array}{c}
+D^{F_0} \\
+X^U \\
+1^{F_1}
+\end{array}\right]+\left[\begin{array}{c}
+C^{F_0} \\
+C^U \\
+C^{F_1}
+\end{array}\right]^T\left[\begin{array}{c}
+D^{F_0} \\
+X^U \\
+1^{F_1}
+\end{array}\right] \\
+& =\frac{1}{2}\left[\begin{array}{c}
+X^U \\
+1^{F_1}
+\end{array}\right]^T\left[\begin{array}{cc}
+Q^{U U} & Q^{U F_1} \\
+\left(Q^{U F_1}\right)^T & Q^{F_1 F_1}
+\end{array}\right]\left[\begin{array}{c}
+X^U \\
+1^{F_1}
+\end{array}\right]+\left[\begin{array}{c}
+C^U \\
+C^{F_1}
+\end{array}\right]^T\left[\begin{array}{c}
+X^U \\
+1^{F_1}
+\end{array}\right] \\
+& =\frac{1}{2}\left(X^U\right)^T Q^{U U} X^U+\left(X^U\right)^T Q^{U F_1} 1^{F_1}+(C U)^T X^U+\xi^{F_1, U},
+\end{aligned}
+\]

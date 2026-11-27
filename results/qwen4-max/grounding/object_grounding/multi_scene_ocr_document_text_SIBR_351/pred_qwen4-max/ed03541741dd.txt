@@ -1,0 +1,44 @@
+I'll examine each field on the invoice and map values to their categories with bounding boxes.
+
+Working through the document top to bottom: header address lines, Chinese company/address block, guest info left column, room/dates right column, the charges table, totals, and the VAT breakdown at the bottom. I'll assign each value its bbox.
+
+```json
+[
+	{"bbox_2d": [87, 60, 321, 71], "label": "ADDRESS"},
+	{"bbox_2d": [834, 577, 879, 589], "label": "BALANCE 余额"},
+	{"bbox_2d": [89, 155, 217, 167], "label": "CHINESE Address"},
+	{"bbox_2d": [90, 141, 191, 154], "label": "CHINESE Company Name"},
+	{"bbox_2d": [86, 46, 245, 57], "label": "COMPANY Name"},
+	{"bbox_2d": [360, 652, 389, 664], "label": "F&B餐饮费 - VAT Rate 10%"},
+	{"bbox_2d": [361, 674, 390, 686], "label": "F&B餐饮费 - VAT Rate 16%"},
+	{"bbox_2d": [360, 631, 389, 643], "label": "F&B餐饮费 - VAT Rate 6%"},
+	{"bbox_2d": [343, 586, 386, 598], "label": "NET AMOUNT 净额"},
+	{"bbox_2d": [361, 716, 391, 727], "label": "OTHER其他 - VAT Rate 10%"},
+	{"bbox_2d": [363, 738, 392, 750], "label": "OTHER其他 - VAT Rate 16%"},
+	{"bbox_2d": [362, 696, 390, 708], "label": "OTHER其他 - VAT Rate 6%"},
+	{"bbox_2d": [351, 608, 388, 620], "label": "Room房费 - VAT Rate 6%"},
+	{"bbox_2d": [795, 385, 942, 397], "label": "TITLE"},
+	{"bbox_2d": [86, 110, 211, 122], "label": "WEBSITE"},
+	{"bbox_2d": [239, 300, 273, 311], "label": "address/地址"},
+	{"bbox_2d": [781, 224, 853, 236], "label": "arrival/入住日期"},
+	{"bbox_2d": [781, 310, 871, 324], "label": "cashier/收银员"},
+	{"bbox_2d": [830, 461, 874, 473], "label": "charges/credit/费用/可用余额"},
+	{"bbox_2d": [840, 490, 877, 502], "label": "charges/credit/费用/可用余额"},
+	{"bbox_2d": [238, 345, 398, 356], "label": "company/公司"},
+	{"bbox_2d": [783, 285, 826, 297], "label": "conf No./确认号码"},
+	{"bbox_2d": [95, 470, 149, 482], "label": "date/日期"},
+	{"bbox_2d": [96, 500, 149, 512], "label": "date/日期"},
+	{"bbox_2d": [782, 253, 854, 266], "label": "departure/离店日期"},
+	{"bbox_2d": [198, 469, 285, 482], "label": "description/项目"},
+	{"bbox_2d": [198, 498, 290, 511], "label": "description/项目"},
+	{"bbox_2d": [239, 232, 363, 243], "label": "email/address/电子邮件"},
+	{"bbox_2d": [240, 324, 304, 336], "label": "loyalty number/会员号码"},
+	{"bbox_2d": [239, 205, 310, 222], "label": "name/姓名"},
+	{"bbox_2d": [788, 368, 819, 379], "label": "page number/页数"},
+	{"bbox_2d": [785, 339, 856, 351], "label": "printed date/打印日期"},
+	{"bbox_2d": [782, 198, 810, 209], "label": "room/房号"},
+	{"bbox_2d": [90, 95, 215, 107], "label": "tel"},
+	{"bbox_2d": [240, 374, 462, 387], "label": "travel agent/旅行社"},
+	{"bbox_2d": [314, 155, 356, 166], "label": "邮编"}
+]
+```

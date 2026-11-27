@@ -1,0 +1,89 @@
+```latex
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+
+\begin{document}
+
+\begin{center}
+\begin{tabular}{p{7cm}rr}
+\toprule
+\multicolumn{1}{c}{补充资料} & \multicolumn{1}{c}{本年金额} & \multicolumn{1}{c}{上年金额} \\
+\midrule
+加：现金等价物的期末余额 & & \\
+减：现金等价物的期初余额 & & \\
+现金及现金等价物净增加额 & -444,430,290.95 & -832,049,298.50 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent\hspace{2em}（2）现金及现金等价物的构成
+
+\begin{center}
+\begin{tabular}{p{7.5cm}rr}
+\toprule
+\multicolumn{1}{c}{项\quad 目} & \multicolumn{1}{c}{年末余额} & \multicolumn{1}{c}{年初余额} \\
+\midrule
+一、现金 & 296,528,795.28 & 740,959,086.23 \\
+\quad 其中：库存现金 & 25,744.69 & 15,792.59 \\
+\qquad\quad 可随时用于支付的银行存款 & 296,503,050.59 & 740,943,293.64 \\
+\qquad\quad 可随时用于支付的其他货币资金 & & \\
+二、现金等价物 & & \\
+\quad 其中：三个月内到期的债券投资 & & \\
+三、年末现金及现金等价物余额 & 296,528,795.28 & 740,959,086.23 \\
+\quad 其中：母公司或集团内子公司使用受限制的现金和现金等价物 & & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent\hspace{2em}\textbf{（四十六）所有权或使用权受限制的资产}
+
+\begin{center}
+\begin{tabular}{lrc}
+\toprule
+\multicolumn{1}{c}{项\quad 目} & \multicolumn{1}{c}{年末账面价值} & 受限原因 \\
+\midrule
+货币资金 & 398,790,442.67 & 保证金 \\
+无形资产 & 578,552,325.00 & 抵押借款 \\
+投资性房地产 & 3,187,971,800.00 & 抵押借款 \\
+固定资产 & 88,335,290.10 & 抵押借款 \\
+存货 & 102,620,000.00 & 抵押借款 \\
+\multicolumn{1}{c}{合\qquad 计} & 4,356,269,857.77 & \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+\noindent\hspace{2em}\textbf{七、在其他主体中的权益}
+
+\noindent\hspace{2em}\textbf{1、在子公司中的权益}
+
+\noindent\hspace{2em}（1）企业集团的构成
+
+\begin{center}
+\begin{tabular}{|p{3.5cm}|c|c|c|r|r|c|}
+\hline
+\multirow{2}{*}{子公司名称} & \multirow{2}{*}{\shortstack{主要经\\营地}} & \multirow{2}{*}{注册地} & \multirow{2}{*}{业务性质} & \multicolumn{2}{c|}{持股比例（\%）} & \multirow{2}{*}{取得方式} \\
+\cline{5-6}
+ & & & & \multicolumn{1}{c|}{直接} & \multicolumn{1}{c|}{间接} & \\
+\hline
+扬州市\quad 茂化工实业有限公司 & 仪征市 & 仪征市 & 商品销售 & 92.50\% & —— & 设立 \\
+\hline
+扬州化工产业园公共管廊有限公司 & 仪征市 & 仪征市 & 管廊建设 & 98.13\% & 1.73\% & 设立 \\
+\hline
+扬州华泰石化物流有限公 & 仪征市 & 仪征市 & 港口码头 & 90.00\% & 10.00\% & 设立 \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+70
+\end{center}
+
+\end{document}
+```
+
+Note: One character in the first subsidiary's name (扬州市_茂化工实业有限公司) is illegible in the source image, so I left a blank space there. The last subsidiary name (扬州华泰石化物流有限公) is cut off in the original and is transcribed as shown.

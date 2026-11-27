@@ -1,0 +1,126 @@
+Here is the transcription of the image content into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \small 中华医学遗传学杂志 2002 年 4 月第 19 卷第 2 期 Chin J Med Genet, April 2002, Vol. 19, No. 2 \hfill \(\cdot\) 117 \(\cdot\)
+
+\vspace{1em}
+
+\begin{table}[h]
+\centering
+\caption{HTG 组和正常对照组血脂和载脂蛋白水平比较}
+\small
+\begin{tabular}{lccc}
+\toprule
+Item & Control group & HTG group & \(P\) value \\
+(项目) & (对照组) & (HTG 组) & (\(P\) 值) \\
+ & (\(n=171\)) & (\(n=106\)) & \\
+\midrule
+Age (year) (年龄, 岁) & \(53\pm11\) & \(57\pm12\) & NS \\
+Sex (M/F) (性别, 男/女) & 86/85 & 76/30 & \(<0.001\) \\
+BMI (kg/m\(^2\)) & \(23.0\pm3.6\) & \(25.0\pm2.8\) & \(<0.001\) \\
+TG (mmol/L) & \(1.23\pm0.44\) & \(3.47\pm1.68\) & \(<0.001\) \\
+TC (mmol/L) & \(5.09\pm0.75\) & \(5.04\pm1.01\) & NS \\
+HDL-C (mmol/L) & \(1.45\pm0.41\) & \(0.98\pm0.26\) & \(<0.001\) \\
+nHDL-C (mmol/L) & \(3.65\pm0.80\) & \(4.14\pm0.80\) & \(<0.05\) \\
+LDL-C (mmol/L) & \(3.08\pm0.75\) & \(2.72\pm0.78^*\) & \(<0.001\) \\
+apoA I (mg/L) & \(1310\pm210\) & \(1180\pm190\) & \(<0.001\) \\
+apoA II (mg/L) & \(290\pm60\) & \(280\pm60\) & NS \\
+apoB 100 (mg/L) & \(780\pm140\) & \(940\pm170\) & \(<0.001\) \\
+apoC II (mg/L) & \(47\pm19\) & \(84\pm37\) & \(<0.001\) \\
+apoC III (mg/L) & \(112\pm31\) & \(188\pm76\) & \(<0.001\) \\
+apoE (mg/L) & \(43\pm12\) & \(61\pm24\) & \(<0.001\) \\
+TG/HDL-C & \(2.1\pm1.0\) & \(8.5\pm4.64\) & \(<0.001\) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent \footnotesize * Subjects with TG \(>4.516\) mmol/L (400 mg/dl) were excluded in the calculation of LDLC concentration, the number of cases is 91 [\(n=91\), TG \(>4.516\) mmol/L (400 mg/dl) 者在计算 LDLC 浓度时未包括]
+
+\vspace{1em}
+
+\begin{figure}[h]
+\centering
+% Placeholder for the electropherogram image
+\framebox{\parbox{0.8\textwidth}{\centering \vspace{2cm} [Image of sequencing electropherograms] \vspace{2cm}}}
+\caption{密码子 9 A\(\rightarrow\)G 突变序列测定结果 a: 纯合子 A/A; b: 杂合子 A/G; c: 纯合子 G/G}
+\end{figure}
+
+\noindent \footnotesize Fig 1 Sequencing analysis of A\(\rightarrow\)G mutation at codon 9 a: homozygote for A/A; b: heterozygote for A/G; c: homozygote for G/G
+
+\vspace{1em}
+
+\noindent \small 点通过错配引物而引入 PCR 产物。
+
+\noindent \textbf{2.2.2} 内含子 2 多态位点 测序结果显示该位点碱基发生 C\(\rightarrow\)T 的突变。用限制性内切酶 \textit{Msp} I 消化 PCR 产物后，在琼脂糖凝胶电泳谱该位点显示 3 种基因型：纯合子 C/C 存在 \textit{Msp} I 酶切点，显示 585 bp 1 条电泳带。当该位点发生了 1 个碱基置换后，\textit{Msp} I 酶切点消失，如为杂合子 C/T 则显示 585 和 619 bp 两条带，如为纯合子 T/T 则显示 619 bp 1 条带，酶切产生的 83 和 34 bp 小片段未显示。
+
+\noindent \textbf{2.2.3} 密码子 347 和 360 多态位点 测序结果显示，这两个位点的碱基分别为 A/A 和 G/G 纯合子，未发现密码子 347 的 ACT\(\rightarrow\)TCT 突变或密码子 360 的 CAG\(\rightarrow\)CAT 突变。
+
+\noindent \textbf{2.3} HTG 组与对照组 apo AIV 基因多态位点基因型及等位基因频率比较 由表 2 可见，HTG 组密码子 9 G 等位基因频率较对照组显著为高 (\(0.453\) vs \(0.366\), \(P<0.05\))，而 \textit{Msp} I 位点的突变频率两组之间未见差异。密码子 347 和密码子 360 位点分别为 ACT 和 CAG，未见 TCT 和 CAT 突变。
+
+\vspace{1em}
+
+\begin{table}[h]
+\centering
+\caption{正常对照组、HTG 组和合并组密码子 9、\textit{Msp} I、密码子 347 和密码子 360 位点基因型和等位基因频率的比较}
+\small
+\begin{tabular}{lccc}
+\toprule
+Item & \multicolumn{3}{c}{Frequencies (频率)} \\
+\cmidrule(lr){2-4}
+(项目) & Control group & HTG group & Combined group \\
+ & (对照组) & (HTG 组) & (合并组) \\
+\midrule
+Codon 9 (密码子 9) & & & \\
+\quad Genotype (基因型) & & & \\
+\quad\quad A/A & 0.414 (65) & 0.302 (32) & 0.369 (97) \\
+\quad\quad A/G & 0.439 (69) & 0.491 (52) & 0.460 (121) \\
+\quad\quad G/G & 0.146 (23) & 0.207 (22) & 0.171 (45) \\
+\quad Allele (等位基因) & & & \\
+\quad\quad A & 0.634 (199) & 0.547 (116)* & 0.599 (315) \\
+\quad\quad G & 0.366 (115) & 0.453 (96)* & 0.401 (211) \\
+\textit{Msp} I site (\textit{Msp} I 位点) & & & \\
+\quad Genotype (基因型) & & & \\
+\quad\quad C/C & 0.871 (149) & 0.902 (92) & 0.883 (241) \\
+\quad\quad C/T & 0.129 (22) & 0.088 (9) & 0.113 (31) \\
+\quad\quad T/T & 0.000 (0) & 0.010 (1) & 0.004 (1) \\
+\quad Allele (等位基因) & & & \\
+\quad\quad C & 0.936 (320) & 0.946 (193) & 0.940 (513) \\
+\quad\quad T & 0.064 (22) & 0.054 (11) & 0.060 (33) \\
+Codon 347 (密码子 347) & & & \\
+\quad Genotype (基因型) & & & \\
+\quad\quad A/A & 1.000 (97) & 1.000 (47) & 1.000 (95) \\
+\quad\quad A/T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+\quad\quad T/T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+\quad Allele (等位基因) & & & \\
+\quad\quad A & 1.000 (194) & 1.000 (94) & 1.000 (190) \\
+\quad\quad T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+Codon 360 (密码子 360) & & & \\
+\quad Genotype (基因型) & & & \\
+\quad\quad G/G & 1.000 (97) & 1.000 (47) & 1.000 (95) \\
+\quad\quad G/T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+\quad\quad T/T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+\quad Allele (等位基因) & & & \\
+\quad\quad G & 1.000 (194) & 1.000 (94) & 1.000 (190) \\
+\quad\quad T & 0.000 (0) & 0.000 (0) & 0.000 (0) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent \footnotesize *: Compared with control group (与正常对照组比较), \(\chi^2=3.950\), \(P<0.05\); numbers in parentheses indicate number of subjects with each genotype or number of alleles of each type (括号中的数字代表基因型的例数或等位基因的数目)
+
+\vspace{1em}
+
+\noindent \small \textbf{2.4} 中国人于欧洲白种人及日本人 apo AIV 基因多态位点基因型及等位基因频率的比较 中国人 apo AIV 基因密码子 9 G 等位基因频率为 0.366，欧洲白种人为 0.032，两者差异有显著性 (\(P<0.001\))，而与日本人的 0.388 相近 (\(P>0.05\))。内含子 2 的 \textit{Msp} I C\(\rightarrow\)T 突变仅在日本人报道\(^{[6]}\)，其等位基因频率为 0.096，
+
+\end{document}
+```

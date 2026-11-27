@@ -1,0 +1,154 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{fontspec}
+
+\setmainfont{Times New Roman}
+\newfontfamily\sinhalafont{Noto Serif Sinhala}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+{\small
+{\sinhalafont සියලුම හිමිකම් ඇවිරිණි.}\\
+All Rights Reserved
+}
+
+% A circular official emblem appears above the heading.
+
+\begin{center}
+\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}\\[3pt]
+{\Large\textbf{THIRD TERM TEST - 2020}}\\[3pt]
+{\LARGE\textbf{ENGLISH LANGUAGE - I}}
+\end{center}
+
+\textbf{Grade 11}\hfill\textbf{One Hour}
+
+\medskip
+\fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{
+Name / Index No. :
+}}
+
+\medskip
+\textbf{Answer all questions on this paper itself.}
+
+\smallskip
+\hrule
+\medskip
+
+\begin{tabular}{@{}p{0.09\linewidth}p{0.88\linewidth}@{}}
+\textbf{Test - 1} &
+\textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given.}
+\textit{The first one is done for you.}
+\end{tabular}
+
+\medskip
+
+\begin{minipage}[t]{0.81\linewidth}
+\begin{tabular}{@{}>{\itshape}p{0.16\linewidth}cp{0.77\linewidth}@{}}
+Postal clerk & : & What can I do for you today?\\[6pt]
+Anne & : & I need to mail this (1) \underline{\hspace{1cm}(b)\hspace{1cm}} to Galle, please.\\[6pt]
+Postal clerk & : & OK, let's see how much it (2) \dotfill. Well, It's about 350 grams.\\[6pt]
+Anne & : & I need to send it by (3)\dotfill\ mail.\\[6pt]
+Postal clerk & : & If you do so, it will get there (4) \dotfill. Or you can send it priority and it will get there by Saturday.\\[6pt]
+Anne & : & Saturday is fine. How much will that be?\\[6pt]
+Postal clerk & : & Rs.750. Do you (5) \dotfill\ anything else?\\[6pt]
+Anne & : & Oh, yes! I almost forgot. I need a book of (6) \dotfill, too.\\[6pt]
+Postal clerk & : & OK, your total is Rs.1950.
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.17\linewidth}
+\fbox{%
+\begin{tabular}{@{}ll@{}}
+(a) & want\\[4pt]
+(b) & package\\[4pt]
+(c) & stamps\\[4pt]
+(d) & weighs\\[4pt]
+(e) & express\\[4pt]
+(f) & tomorrow
+\end{tabular}
+}
+
+\medskip
+\begin{center}
+\textbf{Marks}\\
+\begin{tabular}{|p{1.5cm}|}
+\hline
+\textbf{1 x 5}\\[1.3cm]
+\textbf{Total}\\
+\hline
+\hfill\textbf{05}\\
+\hline
+\end{tabular}
+\end{center}
+\end{minipage}
+
+\bigskip
+
+\begin{tabular}{@{}p{0.09\linewidth}p{0.88\linewidth}@{}}
+\textbf{Test - 2} &
+\textbf{Read the following guidelines given by a hotel to its guests and complete them with the correct prepositions given below.}
+\textit{The first one is done for you.}
+\end{tabular}
+
+\begin{center}
+during,\quad till,\quad for,\quad of,\quad from,\quad on
+\end{center}
+
+\hspace*{0.08\linewidth}%
+\begin{minipage}[t]{0.79\linewidth}
+\fbox{%
+\begin{minipage}{\dimexpr\linewidth-2\fboxsep-2\fboxrule}
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+
+The following information will help you to have an enjoyable stay:
+
+\begin{list}{$\diamond$}{\leftmargin=1.4em\itemsep=7pt}
+\item The restaurant is open daily (1)
+\(\underset{\text{....................}}{\text{\textbf{from}}}\)
+6.30 a.m. to 9.30 p.m.
+
+\item You can order breakfast in your room by hanging the Menu card
+(2) ......................... the door.
+
+\item If you need a doctor (3)................................. the night, please call 100.
+
+\item There is a play room (4) ............................. kids below 10 years
+
+\item There is free wifi in the rooms and the password is given in the back
+(5)................................. your room key.
+
+\item The main gate is open (6)............................. 10.00 p.m.
+\end{list}
+\end{minipage}
+}
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.11\linewidth}
+\begin{center}
+\textbf{Marks}\\
+\begin{tabular}{|p{1.5cm}|}
+\hline
+\textbf{1 x 5}\\[1.3cm]
+\textbf{Total}\\
+\hline
+\hfill\textbf{05}\\
+\hline
+\end{tabular}
+\end{center}
+\end{minipage}
+
+\begin{center}
+(01)
+\end{center}
+
+% A small Sinhala footer appears along the bottom edge.
+% Its text is not sufficiently legible in the supplied image
+% to transcribe reliably.
+
+\end{document}
+```

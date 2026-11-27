@@ -1,0 +1,34 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\geometry{a4paper,margin=2.5cm}
+\usepackage{array}
+\renewcommand{\arraystretch}{1.6}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{tabular}{@{}p{0.62\textwidth}p{0.30\textwidth}@{}}
+\multicolumn{2}{@{}l}{二、酒及酒精}\\
+\quad 1. 白酒 & 20\%加 0.5 元/500 克\\
+ & （或者 500 毫升）\\
+\quad 2. 黄酒 & 240 元/吨\\
+\quad 3. 啤酒 & \\
+\qquad (1) 甲类啤酒 & 250 元/吨\\
+\qquad (2) 乙类啤酒 & 220 元/吨\\
+\quad 4. 其他酒 & 10\%\\
+\quad 5. 酒精 & 5\%\\
+三、化妆品 & 30\%\\
+\multicolumn{2}{@{}l}{四、贵重首饰及珠宝玉石}\\
+\quad 1. 金银首饰、铂金首饰和钻石及钻石饰品 & 5\%\\
+\quad 2. 其他贵重首饰和珠宝玉石 & 10\%\\
+五、鞭炮、焰火 & 15\%\\
+成品油 & \\
+\quad 1. 汽油 & \\
+\qquad (1) 含铅汽油 & 0.28 元/升\\
+\qquad (2) 无铅汽油 & 0.20 元/升\\
+\quad 2. 柴油 & 0.10 元/升\\
+\end{tabular}
+
+\end{document}
+```

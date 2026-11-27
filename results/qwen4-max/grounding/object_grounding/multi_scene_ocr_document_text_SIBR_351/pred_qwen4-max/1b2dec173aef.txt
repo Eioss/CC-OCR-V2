@@ -1,0 +1,30 @@
+I need to identify the bounding boxes for each specified field on this hotel bill. Let me work through the document systematically, locating each label and its corresponding value.
+
+Starting with the header: 邮编 is at top right (311121), 标题 "账单信息" is centered. Then the guest info block: 姓名 Name = 刘健, 收银员 Cashier = 01FOZPM, 公司/旅行社CO/TA = 国光信息信息酒店, Page No. = 1 of 1. Right column: 房间号码 ROOM NO. = 72624, 到店日期 ARRIVAL = 2020/11/01 11:40:4, 离店日期 DEPARTURE = 2020/11/04 12:00:0, 账号 Accnt No. = F2010310016.
+
+Table headers: 日期 DATE, 说明 DESCRIPTION, 消费(人民币), 付款(人民币). Row: 房费 (3), 876.00, 0.00. Total row: 876.00, 0.00. Balance Due CNY = 876.00. There's also a 时间 at bottom (12:00:00).
+
+Let me assign coordinates carefully for each value/label pair as requested.```json
+[
+	{"bbox_2d": [834, 448, 904, 461], "label": "Balance Due CNY"},
+	{"bbox_2d": [167, 319, 177, 330], "label": "Page No."},
+	{"bbox_2d": [202, 319, 223, 330], "label": "Page No."},
+	{"bbox_2d": [245, 319, 255, 330], "label": "Page No."},
+	{"bbox_2d": [856, 381, 903, 394], "label": "付款(人民币)"},
+	{"bbox_2d": [850, 425, 903, 438], "label": "付款(人民币)"},
+	{"bbox_2d": [273, 297, 352, 306], "label": "公司/旅行社CO/TA"},
+	{"bbox_2d": [717, 264, 925, 278], "label": "到店日期 ARRIVAL"},
+	{"bbox_2d": [270, 256, 315, 271], "label": "姓名 Name"},
+	{"bbox_2d": [717, 300, 844, 313], "label": "帐号 Accnt No."},
+	{"bbox_2d": [717, 245, 784, 259], "label": "房间号码 ROOM NO."},
+	{"bbox_2d": [257, 278, 348, 292], "label": "收银员 Cashier"},
+	{"bbox_2d": [549, 976, 628, 992], "label": "时间"},
+	{"bbox_2d": [426, 162, 524, 180], "label": "标题"},
+	{"bbox_2d": [729, 381, 798, 394], "label": "消费(人民币)"},
+	{"bbox_2d": [706, 425, 786, 439], "label": "消费(人民币)"},
+	{"bbox_2d": [717, 282, 925, 296], "label": "离店日期 DEPARTURE"},
+	{"bbox_2d": [250, 381, 293, 396], "label": "说明 DESCRIPTION"},
+	{"bbox_2d": [341, 381, 369, 396], "label": "说明 DESCRIPTION"},
+	{"bbox_2d": [605, 127, 655, 138], "label": "邮编"}
+]
+```

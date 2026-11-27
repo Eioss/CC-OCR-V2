@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+& \left\|\Psi(u)-\Psi(v)\right\|_{X} \\
+& \lesssim\left\|D^{s_{p}-\frac{1}{2}}\left(|u|^{p-1} u g(|u|)-|v|^{p-1} v g(|v|)\right)\right\|_{\widetilde{W}\left(\left[0, T_{l}\right]\right)}+\left\|D^{2-\frac{1}{2}}\left(|u|^{p-1} u g(|u|)-|v|^{p-1} v g(|v|)\right)\right\|_{\widetilde{W}\left(\left[0, T_{l}\right]\right)} \\
+& \lesssim g\left(\|u\|_{L_{t}^{\infty} L_{x}^{\infty}\left(\left[0, T_{l}\right]\right)}\right) \times \\
+& \left(\begin{array}{l}
+\left(\|u\|_{S\left(\left[0, T_{l}\right]\right)}^{p-1}+\|v\|_{S\left(\left[0, T_{l}\right]\right)}^{p-1}\right)\left(\left\|D^{s_{p}-\frac{1}{2}}(u-v)\right\|_{W\left(\left[0, T_{l}\right]\right)}+\left\|D^{2-\frac{1}{2}}(u-v)\right\|_{W\left(\left[0, T_{l}\right]\right)}\right) \\
++\left(\|u\|_{S\left(\left[0, T_{l}\right]\right)}^{p-2}+\|v\|_{S\left(\left[0, T_{l}\right]\right)}^{p-2}\right)\left(\left\|D^{s_{p}-\frac{1}{2}} u\right\|_{W\left(\left[0, T_{l}\right]\right)}+\left\|D^{2-\frac{1}{2}} u\right\|_{W\left(\left[0, T_{l}\right]\right)}+\left\|D^{s_{p}-\frac{1}{2}} v\right\|_{W\left(\left[0, T_{l}\right]\right)}\right. \\
+\left.\quad+\left\|D^{2-\frac{1}{2}} v\right\|_{W\left(\left[0, T_{l}\right]\right)}\right. \\
+\left.\|u-v\|_{S\left(\left[0, T_{l}\right]\right)}\right.
+\end{array}\right) \\
+& \lesssim\left(g(2 C M)(2 \delta)^{p-1}+(2 \delta)^{p-2}(2 C M)\right)\|u-v\|_{X}
+\end{aligned}
+\]

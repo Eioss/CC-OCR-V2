@@ -1,0 +1,5 @@
+$$n ^ { e } ( v ) \tilde { v } ^ { e } ( v ) + n ^ { e ^ { \prime } } ( v ) v ^ { e ^ { \prime } } ( v ) = 0 , n ^ { e ^ { \prime } } ( v ) \hat { v } ^ { e ^ { \prime } } ( v ) = 1 , a n d \hat { v } \equiv 0 o n \xi \backslash \{ e , e ^ { \prime } \} .$$
+$$H ^ { s e } = - \hbar \int ( n _ { H } | H > _ { s } < H | + n _ { v } | V > _ { s } < V | ) \otimes w | w > _ { e } < w | d w ,$$
+$$\sup _ { 0 \leq t \leq T } \| v ^ { M } ( t ) - u ( t ) \| _ { 1 } = O ( \| v ^ { M } ( 0 ) - u ( 0 ) \| _ { 1 } + \| W ^ { ( M ) } - W \| _ { O _ { p , 1 } } ) .$$
+$$\hat { R } _ { i } ^ { ( j , m ) } = \Phi ( \{ Q _ { i } ^ { ( i ) } , N _ { i } ^ { ( i ) } , \{ C _ { ( i , r ) } ^ { ( j ) } \} , \{ \hat { R } _ { ( i , r ) } ^ { ( j - 1 , m ) } \} ) , i = 1 , \ldots , m ,$$
+$$C _ { n } ( - r ) = ( - 1 ) ^ { n } C _ { n } ( r )$$

@@ -1,0 +1,139 @@
+```latex
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{pifont}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.4\textwidth}
+\scriptsize
+\textit{සියලුම හිමිකම් ඇවිරිණි.}\\
+\textit{All Rights Reserved}
+\end{minipage}
+
+\begin{center}
+\textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE} \\
+\textbf{\Large THIRD TERM TEST - 2020} \\
+\end{center}
+
+\noindent
+\textbf{\large Grade 11} \hfill \textbf{\LARGE ENGLISH LANGUAGE - I} \hfill \textbf{One Hour}
+
+\vspace{0.2cm}
+\noindent
+\begin{tabular}{|p{0.97\textwidth}|}
+\hline
+Name / Index No. : \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+\noindent
+\textbf{Answer all questions on this paper itself.}
+
+\vspace{0.4cm}
+\noindent
+\textbf{Test - 1} \quad \textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given.} \textit{The first one is done for you.}
+
+\vspace{0.2cm}
+\noindent
+\begin{minipage}[t]{0.75\textwidth}
+\begin{tabular}{@{}l l p{0.7\textwidth}}
+\textit{Postal clerk} & : & What can I do for you today? \\
+\textit{Anne} & : & I need to mail this (1) \underline{\quad (b) \quad} to Galle, please. \\
+\textit{Postal clerk} & : & OK, let's see how much it (2) .................... Well, It's about 350 grams. \\
+\textit{Anne} & : & I need to send it by (3) ........................ mail. \\
+\textit{Postal clerk} & : & If you do so, it will get there (4) .................... Or you can send it priority and it will get there by Saturday. \\
+\textit{Anne} & : & Saturday is fine. How much will that be? \\
+\textit{Postal clerk} & : & Rs.750. Do you (5) ................................ anything else? \\
+\textit{Anne} & : & Oh, yes! I almost forgot. I need a book of (6) ..........................., too. \\
+\textit{Postal clerk} & : & OK, your total is Rs.1950. \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.22\textwidth}
+\begin{tabular}{|l|}
+\hline
+(a) \quad want \\
+(b) \quad package \\
+(c) \quad stamps \\
+(d) \quad weighs \\
+(e) \quad express \\
+(f) \quad tomorrow \\
+\hline
+\end{tabular}
+
+\vspace{0.3cm}
+\begin{flushright}
+\textbf{\footnotesize Marks} \\
+\begin{tabular}{|l|}
+\hline
+\textbf{\footnotesize 1 x 5} \\
+\\
+\\
+\textbf{\footnotesize Total \underline{\hspace{0.5cm}}} \\
+\multicolumn{1}{|r|}{\textbf{\footnotesize 05}} \\
+\hline
+\end{tabular}
+\end{flushright}
+\end{minipage}
+
+\vspace{0.5cm}
+\noindent
+\textbf{Test - 2} \quad \textbf{Read the following guidelines given by of a hotel to its guests and complete them with the correct prepositions given below.} \textit{The first one is done for you.}
+
+\begin{center}
+during, \quad till, \quad for, \quad of, \quad from, \quad on
+\end{center}
+
+\noindent
+\begin{minipage}[t]{0.82\textwidth}
+\begin{tabular}{|p{0.95\textwidth}|}
+\hline
+\begin{center}
+\textbf{The Moon Hotel}
+\end{center}
+The following information will help you to have an enjoyable stay:
+\begin{itemize}[label=\ding{118}]
+    \item The restaurant is open daily (1) \underline{\quad \textbf{from} \quad} 6.30 a.m. to 9.30 p.m.
+    \item You can order breakfast in your room by hanging the Menu card (2) ............................ the door.
+    \item If you need a doctor (3) ..................................... the night, please call 100.
+    \item There is a play room (4) ................................. kids below 10 years
+    \item There is free wifi in the rooms and the password is given in the back (5) .................................... your room key.
+    \item The main gate is open (6) ................................ 10.00 p.m.
+\end{itemize} \\
+\hline
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.15\textwidth}
+\begin{flushright}
+\textbf{\footnotesize Marks} \\
+\begin{tabular}{|l|}
+\hline
+\textbf{\footnotesize 1 x 5} \\
+\\
+\\
+\textbf{\footnotesize Total \underline{\hspace{0.5cm}}} \\
+\multicolumn{1}{|r|}{\textbf{\footnotesize 05}} \\
+\hline
+\end{tabular}
+\end{flushright}
+\end{minipage}
+
+\vfill
+\begin{center}
+\footnotesize
+(01) \\
+මෙම ප්‍රශ්න පත්‍ර සියලුම සෞඛ්‍යාරක්ෂිත ක්‍රමවේද අනුගමනය කරමින් සෞඛ්‍ය අමාත්‍යාංශයේ නිර්දේශ අනුව මුද්‍රණය, පැකට් කිරීම හා බෙදාහැරීම සිදුකර ඇත.
+\end{center}
+
+\end{document}
+```

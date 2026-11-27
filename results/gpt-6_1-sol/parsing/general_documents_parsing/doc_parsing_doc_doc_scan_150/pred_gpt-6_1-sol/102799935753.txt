@@ -1,0 +1,51 @@
+```latex
+\[
+\sin C
+= \frac{\textit{side opposite to angle } C}{\textit{hypotenuse}}
+= \frac{p}{h}
+\]
+
+\[
+\cos C
+= \frac{\textit{side adjacent to angle } C}{\textit{hypotenuse}}
+= \frac{b}{h}
+\]
+
+\[
+\tan C
+= \frac{\textit{side opposite to angle } C}
+       {\textit{side adjacent to angle } C}
+= \frac{p}{b}
+\]
+
+\[
+\operatorname{cosec}\theta = \frac{1}{\sin\theta};
+\quad
+\sec\theta = \frac{1}{\cos\theta};
+\quad
+\cot\theta = \frac{1}{\tan\theta};
+\quad
+\tan\theta = \frac{\sin\theta}{\cos\theta}
+\]
+
+\[
+\renewcommand{\arraystretch}{1.8}
+\begin{array}{|l|c|c|c|c|l|}
+\hline
+\angle A & 0^\circ & 30^\circ & 45^\circ & 60^\circ & 90^\circ \\
+\hline
+\text{Sin A} & 0 & \frac{1}{2} & \frac{1}{\sqrt{2}} & \frac{\sqrt{3}}{2} & 1 \\
+\hline
+\text{Cos A} & 1 & \frac{\sqrt{3}}{2} & \frac{1}{\sqrt{2}} & \frac{1}{2} & 0 \\
+\hline
+\text{Tan A} & 0 & \frac{1}{\sqrt{3}} & 1 & \sqrt{3} & \text{Not defined} \\
+\hline
+\text{Cosec A} & \text{Not defined} & 2 & \sqrt{2} & \frac{2}{\sqrt{3}} & 1 \\
+\hline
+\text{Sec A} & 1 & \frac{2}{\sqrt{3}} & \sqrt{2} & 2 & \text{Not defined} \\
+\hline
+\text{Cot A} & \text{Not defined} & \sqrt{3} & 1 & \frac{1}{\sqrt{3}} & 0 \\
+\hline
+\end{array}
+\]
+```

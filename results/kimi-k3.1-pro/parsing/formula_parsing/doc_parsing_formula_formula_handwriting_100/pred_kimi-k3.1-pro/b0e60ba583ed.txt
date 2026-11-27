@@ -1,0 +1,36 @@
+\[
+\begin{aligned}
+&\sum_{2\gamma+|\beta|\leq \bar{s}_{k+1}+2}
+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\left(\partial_y\bar{u}_{k+1,\parallel}^{\pm},
+\partial_y\bar{\theta}_{k+1}^{\pm}\right)(t,x_\parallel,0)
+\right\|_{L^2_{x_\parallel}}\\
+&\leq C\Bigg(
+\sum_{i=0}^{1}\sum_{2\gamma+|\beta|\leq \bar{s}_{k+1}+4}
+\left\|\bar{w}_{k_i}\partial_t^\gamma\nabla_x^\beta f_i(t)\right\|_{L^2_xL^\infty_v}
++\sum_{2\gamma+|\beta|\leq \bar{s}_{k+1}+4}
+\left\|w_{k_1}\partial_t^\gamma\nabla_x^\beta f^\pm(t)\right\|_{L^2_xL^\infty_v}\\
+&\quad+\sum_{2\gamma+|\beta|\leq \bar{s}_{k+1}+2}\Bigg[
+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\bar{u}_{k+1,3}^{\pm}(t,x_\parallel,0)\right\|_{L^2_{x_\parallel}}
++\left\|\partial_t^\gamma\nabla_\parallel^\beta G_{k+1}^{\pm}\right\|_{L^2_{x_\parallel}L^\infty_v}\\
+&\quad+\sum_{i=1}^{2}
+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\left(\langle A_{ki},J_k^{\pm,0}\rangle,
+\langle B_3,J_k^{\pm,0}\rangle\right)
+\right\|_{L^2_{x_\parallel}L^\infty_v}\\
+&\quad+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\left(\hat{A}_{k+2}^{\pm},\hat{B}_{k+2}^{\pm},\hat{C}_{k+2}^{\pm}\right)
+(t,x_\parallel,0)\right\|_{L^2_{x_\parallel}}\\
+&\quad+\left\|\partial_t^\gamma\nabla_\parallel^\beta
+\left(\hat{A}_{k+3}^{\pm},\hat{B}_{k+3}^{\pm},\hat{C}_{k+3}^{\pm}\right)
+(t,x_\parallel,0)\right\|_{L^2_{x_\parallel}}
+\Bigg]\Bigg)\\
+&\leq C\left(
+D_k+\bar{D}_k^\pm+\hat{D}_k^\pm
++\sum_{\gamma+|\beta|\leq s_{k+1}}
+\left\|\partial_t^\gamma\nabla_x^\beta
+(p_{k+1},u_{k+1},\theta_{k+1})(0)\right\|_{L^2_x}
+\right).
+\end{aligned}
+\]

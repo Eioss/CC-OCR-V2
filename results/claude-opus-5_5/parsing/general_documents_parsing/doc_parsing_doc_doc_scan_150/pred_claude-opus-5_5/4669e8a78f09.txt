@@ -1,0 +1,71 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.6in,landscape]{geometry}
+\usepackage{array}
+\usepackage{xcolor}
+
+\definecolor{headblue}{RGB}{20,60,90}
+
+\newcommand{\ind}{\hspace{1.5em}}
+\newcommand{\indd}{\hspace{3em}}
+\newcommand{\dunderline}[1]{\underline{\underline{#1}}}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+{\color{headblue}\textbf{Example Corporation}}\\
+{\color{headblue}\textbf{Balance Sheet}}\\
+{\color{headblue}\textbf{December 31, 2023}}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{tabular}{@{}l r r @{\hspace{4em}} l r r@{}}
+\multicolumn{3}{@{}l}{\color{headblue}\textbf{Assets}} &
+\multicolumn{3}{l@{}}{\color{headblue}\textbf{Liabilities}} \\
+\hline
+ & & & & & \\
+Current assets & & & Current liabilities & & \\
+\ind Cash and cash equivalents & \$ & 2,200 & \ind Short-term loans payable & \$ & 5,000 \\
+\ind Short-term investments & & 10,000 & \ind Current portion of long-term debt & & 15,000 \\
+\ind Accounts receivable - net & & 39,500 & \ind Accounts payable & & 20,900 \\
+\ind Other receivables & & 1,000 & \ind Accrued compensation and benefits & & 8,500 \\
+\ind Inventory & & 31,000 & \ind Income taxes payable & & 6,100 \\
+\ind Supplies & & 3,800 & \ind Other accrued liabilities & & 4,000 \\
+\ind Prepaid expensees & & 1,500 & \ind Deferred revenues & & 1,500 \\
+\cline{3-3}\cline{6-6}
+\indd Total current assets & & \underline{89,000} & \indd Total current liabilities & & \underline{61,000} \\
+ & & & & & \\
+Investments & & \underline{36,000} & Long-term liabilities & & \\
+ & & & \ind Notes payable & & 20,000 \\
+Property, plant \& equipment & & & \ind Bonds payable & & 375,000 \\
+\ind Land & & 5,500 & \ind Deferred income taxes & & 25,000 \\
+\cline{6-6}
+\ind Land improvements & & 6,500 & \indd Total long-term liabilities & & \underline{420,000} \\
+\ind Buildings & & 180,000 & & & \\
+\ind Equipment & & 201,000 & Total liabilities & & \underline{481,000} \\
+\ind Less: accumulated depreciation & & (56,000) & & & \\
+\cline{3-3}
+\indd Property, plant \& equip. - net & & \underline{337,000} & Commitments and contingencies {\small (see notes)} & & \\
+ & & & & & \\
+Intangible assets & & & \multicolumn{3}{l@{}}{\color{headblue}\textbf{Stockholders' Equity}} \\
+\cline{4-6}
+\ind Goodwill & & 105,000 & & & \\
+\ind Other intangible assets & & 200,000 & \ind Common stock & & 110,000 \\
+\cline{3-3}
+\indd Total intangible assets & & \underline{305,000} & \ind Retained earnings & & 220,000 \\
+ & & & \ind Accum other comprehensive income & & 9,000 \\
+Other assets & & \underline{3,000} & \ind Less: Treasury stock & & (50,000) \\
+\cline{6-6}
+ & & & \indd Total stockholders' equity & & \underline{289,000} \\
+Total assets & \$ & \dunderline{770,000} & Total liabilities \& stockholders' equity & \$ & \dunderline{770,000} \\
+\end{tabular}
+
+\vspace{2em}
+
+\noindent\textit{The accompanying notes are an integral part of this statement.}
+
+\end{document}
+```

@@ -1,0 +1,3 @@
+Looking at the receipt, there are two instances of '56.00' — one next to "Total Incl GST" and one next to "Pay Cash". I'll provide the bounding box for the first occurrence (Total Incl GST).
+
+(748, 612, 905, 639)

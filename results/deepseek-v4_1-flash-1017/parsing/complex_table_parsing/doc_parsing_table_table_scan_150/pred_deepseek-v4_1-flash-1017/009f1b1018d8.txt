@@ -1,0 +1,109 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .header-title {
+    font-size: 24px;
+    text-align: center;
+    flex-grow: 1;
+  }
+  .header-number {
+    font-size: 14px;
+    text-align: right;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    font-weight: normal;
+  }
+  .col-seq { width: 5%; }
+  .col-name { width: 25%; }
+  .col-brand { width: 8%; }
+  .col-origin { width: 10%; }
+  .col-spec { width: 8%; }
+  .col-weight { width: 14%; }
+  .col-date { width: 30%; }
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header-container">
+  <div style="width: 20%;"></div>
+  <div class="header-title">附页</div>
+  <div class="header-number">224820221000057415001</div>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th class="col-seq">序号</th>
+      <th class="col-name">货物品名</th>
+      <th class="col-brand">品牌</th>
+      <th class="col-origin">原产国</th>
+      <th class="col-spec">规格</th>
+      <th class="col-weight">数/重量</th>
+      <th class="col-date">生产日期(批号)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>冷冻去骨牛肉冷冻<br>去骨牛后腱FROZEN<br>BONELESS BEEF<br>SHANK</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**6754千克</td>
+      <td>(20220218、20220219、<br>20220221、20220222、<br>20220223、20220224)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>冷冻去骨牛肉冷冻<br>去骨牛前腱FROZEN<br>BONELESS BEEF<br>SHIN</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**12492千克</td>
+      <td>(20220216、20220217、<br>20220218、20220221、<br>20220222、20220223、<br>20220224、20220225)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>冷冻去骨牛肉冷冻<br>去骨牛龟腱带腱心<br>FROZEN BONELESS<br>BEEF HEEL MUSCLE<br>WITH GOLDEN COIN</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**6754千克</td>
+      <td>(20220218、20220219、<br>20220221、20220222、<br>20220223、20220224)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="footer">
+  *******
+</div>
+
+</body>
+</html>
+```

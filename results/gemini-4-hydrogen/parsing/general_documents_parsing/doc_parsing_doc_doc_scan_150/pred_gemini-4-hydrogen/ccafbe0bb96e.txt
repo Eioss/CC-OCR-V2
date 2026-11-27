@@ -1,0 +1,128 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large PRACTICE TEST 9}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent\textbf{\textit{Ex1. ERROR IDENTIFICATION: Mark the letter A, B, C or D to indicate the underlined part that needs correction.}}
+
+\noindent 1. They \underline{work} \underline{in} a hospital \underline{sponsoring} \underline{by} the government.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{4.5cm}p{3.5cm}p{3cm}@{}}
+A. work & B. in & C. sponsoring & D. by
+\end{tabular}
+
+\noindent 2. Mary \underline{write} another letter \underline{to} the little girls yesterday, \underline{and} her father helped her \underline{send} it.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. write & B. to & C. and & D. send
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent\textbf{\textit{Ex2. Choose the word (A, B, C or D) that has underlined part is pronounced differently from the rest.}}
+
+\noindent 1.
+\begin{tabular}{@{}p{3.8cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. s\underline{w}allow & B. s\underline{w}itch & C. s\underline{w}eet & D. s\underline{w}ord
+\end{tabular}
+
+\noindent 2.
+\begin{tabular}{@{}p{3.8cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. \underline{s}aying & B. \underline{s}ervice & C. \underline{s}ixty & D. \underline{s}ugar
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent\textbf{\textit{Ex3. Choose the best option (A, B, C or D) to complete the following sentences.}}
+
+\noindent 1. Many efforts have been made to protect \underline{\hspace{2em}} nature.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. danger & B. dangerous & C. endanger & D. endangered
+\end{tabular}
+
+\noindent 2. The natural environment consists \underline{\hspace{3em}} all natural resources.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. in & B. of & C. to & D. on
+\end{tabular}
+
+\noindent 3. Because power demand is increasing very rapidly, fossil fuels will be \underline{\hspace{4em}} within a relatively short time.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. set up & B. come across & C. taken in & D. used up
+\end{tabular}
+
+\noindent 4. Their efforts were much \underline{\hspace{3.5em}} when they won 2 gold, medals in bodybuilding and billiards.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. considered & B. required & C. expended & D. appreciated
+\end{tabular}
+
+\noindent 5. Non-renewable energy sources are running \underline{\hspace{2.5em}}.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. up & B. on & C. to & D. out
+\end{tabular}
+
+\noindent 6. My friend, \underline{\hspace{2.5em}} I visited last week, is taking a holiday soon.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. that & B. whom & C. which & D. whose
+\end{tabular}
+
+\noindent 7. Tom, \underline{\hspace{2.5em}} sits next to me, is from Canada.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3cm}@{}}
+A. that & B. whom & C. who & D. whose
+\end{tabular}
+
+\noindent 8. My friend \underline{\hspace{8em}} shows a great talent for art.
+
+\noindent\hspace*{1.5em}
+\begin{tabular}{@{}p{7cm}p{7cm}@{}}
+A. , that lives next to my house, & B. that lives next to my house, \\
+C. , who lives next to my house, & D. who lives next to my house
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent\textbf{\textit{Ex4.Read the following passage and choose the letter (A, B, C or D) to indicate the correct word or phrase that best fits each of the numbered blanks.}}
+
+\noindent When man first learned how making a fire, he began to (1) \underline{\hspace{4.5em}} fuel for the first time. The first fuel he used was probably wooden. As time passed, man eventually discovered that substance such as coal and oil will burn. Coal (2)\underline{\hspace{4.5em}} not used very wide as a source of energy until the 19th century. With the coming of the (3) \underline{\hspace{4.5em}} revolution, it was soon realized that production would double if coal was used instead of wood. Nowadays, much of the huge factories and electricity generating stations would be impossible to function if there was no coal. In the last twenty or thirty years, (4)\underline{\hspace{5em}}, the use of coal has declined. As (5)\underline{\hspace{5em}} result, there were changes in the coal industry.
+
+\noindent
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+1. A. store & B. make & C. use & D. create \\
+2. A. is & B. were & C. was & D. are \\
+3. A. industry & B. industrial & C. industrious & D. industrialized \\
+4. A. however & B. although & C. despite & D. because \\
+5. A. the & B. an & C. a & D. any
+\end{tabular}
+
+\vspace{1em}
+
+\noindent\textbf{\textit{Ex5. Read the following passage and circle the letter A, B, C, or D to indicate the correct answer to each of the questions.}}
+
+\hspace*{1.5em} Fifty - three years ago, two Americans landed on the moon, taking the human race to another planet for the first time. On July 16, 1969 Armstrong, Aldrin and Collins climbed into Apollo 11 .The unit's Saturn V rocket, equipped with the most powerful engines ever built, blasted them into space. Their trajectory took them around the Earth and toward the moon when a third-
+
+\end{document}
+```

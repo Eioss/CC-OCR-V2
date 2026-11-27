@@ -1,0 +1,47 @@
+```latex
+\noindent\textbf{Data (Sodium Bicarbonate - \(\mathrm{NaHCO}_{3}\)):}
+
+\begin{tabular}{|p{6.5cm}|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\
+\hline
+Evaporating Dish + Watch Glass & 97.20 g & x & x \\
+\hline
+Evaporating Dish + Watch Glass + \(\mathrm{NaHCO}_{3}\) & 97.59 g & x & x \\
+\hline
+\(\mathrm{NaHCO}_{3}\) & 0.39 g & & \\
+\hline
+\(\mathrm{NaCl}\) & 0.13 g & & \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent\textbf{Analysis}
+
+\begin{enumerate}
+    \item According to the balanced chemical equation, what would you expect the molar ratio of \(\mathrm{NaHCO}_{3}\) to \(\mathrm{NaCl}\) to be? Do your results agree with this? Explain.
+
+    \item What was your percent yield of \(\mathrm{NaCl}\)? (Hint: First calculate the theoretical yield of \(\mathrm{NaCl}\) from the mole ratio of reactant to product. \(\mathrm{HCl}\) is added in excess.)
+
+    \item List at least two possible sources of error that may have caused your yield to be lower than 100\%.
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent\textbf{Data (Sodium Carbonate Decahydrate - \(\mathrm{Na}_{2}\mathrm{CO}_{3}\cdot 10\mathrm{H}_{2}\mathrm{O}\)):}
+
+\begin{tabular}{|p{6.5cm}|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\
+\hline
+Evaporating Dish + Watch Glass & 88.59 g & x & x \\
+\hline
+Evaporating Dish + Watch Glass + \(\mathrm{Na}_{2}\mathrm{CO}_{3}\cdot 10\mathrm{H}_{2}\mathrm{O}\) & 88.95 g & x & x \\
+\hline
+\(\mathrm{Na}_{2}\mathrm{CO}_{3}\cdot 10\mathrm{H}_{2}\mathrm{O}\) & 0.36 g & & \\
+\hline
+\(\mathrm{NaCl}\) & & & \\
+\hline
+\end{tabular}
+```

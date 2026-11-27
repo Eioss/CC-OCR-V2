@@ -1,0 +1,137 @@
+Based on the image provided, here is the HTML transcription of the table. The table is oriented sideways in the image, so I have transcribed it as if it were rotated to a standard reading orientation.
+
+```html
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">区域</th>
+      <th>目的地省份</th>
+      <th>0-1kg/票<br>(实际重量)</th>
+      <th>1-2kg/票<br>(实际重量)</th>
+      <th>2-3.2kg/<br>票(实际重量)</th>
+      <th>3.2-5kg每公斤<br>(实际重量)</th>
+      <th>5-10kg每公斤<br>(实际重量)</th>
+      <th>10-999kg每公斤<br>(实际重量)</th>
+      <th>包号算费<br>(实际重量)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">一区</td>
+      <td rowspan="3">北京、天津、<br>河北、河<br>南、山东、<br>上海、浙江<br>、江苏、安<br>徽、江西、<br>陕西、湖南<br>、湖北、广<br>东</td>
+      <td></td>
+      <td>0.38</td>
+      <td>0.1+0.35*W</td>
+      <td>4.5+1.7*(W-5)</td>
+      <td>8.5+2.7*(W-5)</td>
+      <td></td>
+      <td>0.08*W</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">二区</td>
+      <td rowspan="3">黑龙江、吉<br>林、辽宁、<br>甘肃、福建<br>、云南、四<br>川、贵州</td>
+      <td></td>
+      <td>0.42</td>
+      <td>0.1+0.39*W</td>
+      <td>5+1.8*(W-5)</td>
+      <td>11+3.2*(W-5)</td>
+      <td></td>
+      <td>0.08*W</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">三区</td>
+      <td rowspan="3">内蒙古、甘<br>肃、宁夏、<br>重庆、海南<br>、青海</td>
+      <td></td>
+      <td>0.6</td>
+      <td>0.1+2.2*W</td>
+      <td>11+3*(W-5)</td>
+      <td>11+4.2*(W-5)</td>
+      <td></td>
+      <td>0.2*W</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="3">省内</td>
+      <td rowspan="3">山西</td>
+      <td></td>
+      <td>0.3</td>
+      <td>0.1*W</td>
+      <td>1.7*W</td>
+      <td>1.2*W</td>
+      <td></td>
+      <td>0.08*W</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+```

@@ -1,0 +1,9 @@
+```latex
+\begin{aligned}
+&\| H(s) \|_{C_1} = \max_{i=1,\dots,n} \left( \sum_{j=1}^n \| H_{ij}(s) \|_{C_1} \right), \\
+&N(x; m, \nu) = \frac{N(x)}{N_m} + O\left(x^{1 - \frac{1}{n}}\right), \\
+&P(k_{\text{signal}}, \tau, T, t) = 2 \operatorname{Re} \sum_j \exp(i k_{\text{signal}} \cdot r_j) \sum_{\alpha < \beta} \mu_{\alpha\beta}^{(\omega)} \rho_{\beta\alpha}^{(\omega)} (E_{j;t}) \\
+&\left\| \partial_\phi^\beta \partial_t a \left[ \frac{t}{T} \right] \langle D \rangle^{-\frac{|\beta|+1}{2}} h \right\|_{L_\phi^2 H_x^s} \le_s \left\| \partial_t a \left[ \frac{t}{T} \right] \right\|_{s + s_0 + \frac{1}{2} + |\beta|}^{k_0, \tau} \| h \|_{L_\phi^2 H_x^s}, \quad \forall s \in [0, s_1], \\
+&\varepsilon(u) = \frac{1}{2} \left( Du + (Du)^T \right) = \frac{1}{2} (\partial_i u_k + \partial_k u_i)_{1 \le i, k \le 2}
+\end{aligned}
+```

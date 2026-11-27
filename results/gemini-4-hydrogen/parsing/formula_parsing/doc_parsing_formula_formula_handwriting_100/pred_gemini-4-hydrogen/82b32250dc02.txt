@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+\mathcal{L} W &\le -\frac{\dot{\varphi}}{v} \left( C(n, M_0^n, \rho) l_{11} \operatorname{tr} l^{kl} - C(n, M_0^n, \rho) l_{11} + C(n, M_0^n, \rho) \right) \\
+&\quad - \frac{\dot{\varphi}}{v} \left( C(n, M_0^n, \rho) \operatorname{tr} l^{ij} + C(n, M_0^n, \rho) \right) - \frac{\lambda \dot{\varphi}}{n} \left[ (1 - |D\varphi|^2) l^{ij} \varphi_i \varphi_j - 2|D\varphi|^2 \right] \\
+&\quad + \frac{C_\rho \lambda}{n} \dot{\varphi} \operatorname{tr} l^{ij} - 2\lambda \dot{\varphi} - C(M_0^n)(1 - \lambda) \dot{\varphi} l_{11} \\
+&\quad - \frac{\dot{\varphi}}{n} \left[ 2\lambda (1 - |D\varphi|^2) l^{kl} \varphi_k \varphi_l + \frac{C(M_0^n, \rho)}{v} (\operatorname{tr} l^{kl} + 1) + C(M_0^n, \rho) \lambda \left( \frac{\operatorname{tr} l^{kl}}{l_{11}} + 1 \right) \right] \\
+&\le -\frac{\dot{\varphi}}{v} C(n, M_0^n, \rho) (l_{11} (\operatorname{tr} l^{kl} - 1) + 1) - \frac{\lambda \dot{\varphi}}{n} \left[ 3(1 - |D\varphi|^2) l^{ij} \varphi_i \varphi_j - 2|D\varphi|^2 \right] \\
+&\quad + \frac{C_\rho \lambda}{n} \dot{\varphi} \operatorname{tr} l^{ij} - 2\lambda \dot{\varphi} - C(M_0^n)(1 - \lambda) \dot{\varphi} l_{11} - \frac{\dot{\varphi}}{n} C(M_0^n, \rho) \lambda \left( \frac{\operatorname{tr} l^{kl}}{l_{11}} + 1 \right) \\
+&\le -\frac{\dot{\varphi}}{v} C(n, M_0^n, \rho) (l_{11} (\operatorname{tr} l^{kl} - 1) + 1) - \frac{C(M_0^n) \lambda \dot{\varphi}}{n} (l_{11} + 1) + \frac{C_\rho \lambda}{n} \dot{\varphi} \operatorname{tr} l^{ij} \\
+&\quad - 2\lambda \dot{\varphi} - C(M_0^n) \dot{\varphi} (1 - \lambda) l_{11} - \frac{\dot{\varphi}}{n} C(M_0^n, \rho) \lambda \left( \frac{\operatorname{tr} l^{kl}}{l_{11}} + 1 \right) \\
+&\le -\dot{\varphi} \operatorname{tr} l^{kl} \left( \frac{C(M_0^n, \rho) \lambda}{l_{11}} + C(n, M_0^n, \rho) l_{11} - \frac{C_\rho \lambda}{n} \right) - C(n, M_0^n, \rho) \dot{\varphi} \left( 1 + \lambda + \left(1 - \frac{1}{2}\lambda\right) l_{11} \right).
+\end{align*}
+```

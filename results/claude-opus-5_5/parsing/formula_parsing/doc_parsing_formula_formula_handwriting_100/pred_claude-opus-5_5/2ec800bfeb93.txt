@@ -1,0 +1,15 @@
+$$
+\begin{aligned}
+&\int_{B(20R_\alpha^{-1})\setminus B(R)} \nabla v \nabla \varphi_\alpha \, dv_{g_\alpha} \le C\|\varphi\|_{H_1^2(M)} \left(\int_{B(16R_\alpha^{-1})\setminus B(R)} |\nabla v|^2 \, dx\right)^{\frac{1}{2}} \\
+&\qquad = O\left(\|\varphi\|_{H_1^2(M)}\right) \varepsilon(R), \\[2ex]
+&K_Y^{[1]}(u) = \begin{cases} K_X^{[1]}(u), & \text{if } u \notin (u_a, u_b), \\ \left(a(u-u_a) + K_X^{[1]}(u_a)\right) \vee \left(b(u-u_b) + K_X^{[1]}(u_b)\right), & \text{if } u \in (u_a, u_b). \end{cases} \\[2ex]
+&f(x)+f(y) = f(p(x)) + f(p(y)) \ge f(p(x)\to p(y)) + f(p(y)\to p(x)) = \\
+&\qquad f(p(x\to y)) + f(p(y\to x)) = f(x\to y) + f(y\to x) \\[2ex]
+&-qh''\left(\frac{d(x)}{\varepsilon/3}\right) + W''\left(q\left(\frac{d(x)}{\varepsilon/3}\right)\right) - 6\left(q\left(\frac{d(x)}{\varepsilon/3}\right) - q\left(\frac{d(x)}{\varepsilon/3}\right)^2\right)\Delta d(x) \\
+&\qquad + 30\left(q\left(\frac{d(x)}{\varepsilon/3}\right) - q\left(\frac{d(x)}{\varepsilon/3}\right)^2\right)^2 \lambda_0 = 0. \\[2ex]
+&\mathcal{E}_n(w) = \hbar w n, \quad n = 0, 1, 2, \ldots \\[2ex]
+&P[\underline{r(m_1)}, P(m_2)] = [r(m_1), P(m_2)] \neq 0, \\[2ex]
+&v(t,x,p) \gtrsim 1, \quad \text{and} \quad |D_p^{\ell} v(t,x,p)| \lesssim (p^0)^{-\ell}, \quad |p| > 0. \\[2ex]
+&\underbrace{\left(i w\cdot l - \left(d_r(w,j) - d_r(w,k)\right)\right)}_{=:\,\delta_{l,j,k}(w)} \Psi_j^k(l) + \mathcal{R}_j^k(l) = ([R])_j^k(l).
+\end{aligned}
+$$

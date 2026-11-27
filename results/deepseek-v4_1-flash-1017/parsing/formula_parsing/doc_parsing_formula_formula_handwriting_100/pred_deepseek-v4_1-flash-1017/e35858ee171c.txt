@@ -1,0 +1,16 @@
+Here is the LaTeX representation of the formulas in the image:
+
+```latex
+\begin{align*}
+& F_{\pm} = 4 \langle (\Delta \hat{p})^2 \rangle \\
+& \partial_t u_{\epsilon}(x) = \frac{1}{2} \Delta u_{\epsilon}(x) + \sigma(x, u_{\epsilon}(x)) \dot{W}_{\epsilon}(x), \ t \in [0, T], \ x \in \mathbb{R}, \\
+& \bar{D}u_{\epsilon}(x) = 0 \quad \forall x \in \partial \Omega \setminus \partial U. \\
+& A \circledast B \in SC(X \times X \times \mathbb{R}) \\
+& \limsup_{t \to \infty} t^{\frac{2}{d} + \frac{1}{2}} |I_{i, j}^{\delta}(t)| \leq C \lim_{t \to \infty} \int_{0}^{\infty} |u_j| \geq t^{\frac{2}{d}} |U_j(w, \tau)| dw d\tau = 0. \\
+& |\mathbb{E} T^q S_q \xi| = \frac{\varepsilon^q A_{\varepsilon}}{(x T A_0^{\frac{1}{2}} A A_0^{\frac{1}{2}} x^r)^q} |(x^r x)^T (y - x) - (y - x) T x| \xi \frac{\varepsilon^q A_{\varepsilon} (|c x| + |c^r x|) |x y|}{(x^r A_0^{\frac{1}{2}} A A_0^{\frac{1}{2}} x^r)^2} \\
+& \qquad \times \exp_q(t D_1 \circledast D_2) = \text{mo}(i d \circledast i d; s + D_1 \circledast D_2 + \frac{1}{1+q} (t^2 D_1^2 \circledast D_2^2)) \\
+& \sum_{n \geq 1} \mu \{ T_m = z \} < \infty \\
+& \Lambda_1 = -2 \kappa \frac{\rho}{\rho^2} \partial_{\bar{\rho}} = -2 \kappa \sum_{j=1}^{2} \frac{z_j}{z \bar{z}} \partial_{z_j}, \\
+& \Lambda_2 = \frac{\mu |z|^2 \langle z \rangle - \mu}{\langle z \rangle^3} + \frac{\mu |z| \cosh |z|}{\langle z \rangle^3 \sinh |z|}
+\end{align*}
+```

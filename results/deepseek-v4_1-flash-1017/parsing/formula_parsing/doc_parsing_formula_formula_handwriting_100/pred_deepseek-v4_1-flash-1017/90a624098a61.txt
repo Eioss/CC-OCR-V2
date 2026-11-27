@@ -1,0 +1,45 @@
+Here is the LaTeX representation of the formulas in the image:
+
+$$
+P_{\pm} = \left( \frac{\psi_{\pm}^*(x^0, 0)}{\psi^*(x^0, 0)} \right)^{\frac{1}{\tau+1}}
+$$
+
+$$
+\left( \frac{\psi^*(x^0, 0)}{(\phi^+ + x^0, 0)^2} \right)^{\frac{1}{\tau+1}} + \left( \frac{\psi_{\pm}^*(x^0, 0)}{(\phi^+ + x^0, 0)^2} \right)^{\frac{1}{\tau+1}}
+$$
+
+$$
+\sigma_i := \lambda_1, \lambda_2, \dots, \lambda_d \quad \text{and} \quad \sigma_{i+2} := \nu_1, \nu_2, \dots, \nu_d
+$$
+
+$$
+\dim_{\mathbb{B}}(\partial N) < d_0 := d - 1 + \delta \le d
+$$
+
+$$
+\rho(t) = \sum_{n \ge 0, m=0} \rho_{n,m}(t) |n \times m|_c \otimes |\phi_n(\gamma, t)\rangle \langle \phi_m(\gamma, t)|
+$$
+
+$$
+\|t\| = \| \oplus_n t_n \|
+$$
+
+$$
+\Phi\left(\frac{1}{2}[1 + w \cdot \sigma]\right) = \frac{1}{2} \left[ 1 + w_1 \lambda_1 \sigma_1 + (t + w_2 \lambda_2) \sigma_2 \right]
+$$
+
+$$
+(\tilde{\nabla}_{X_1}(\nabla T_*)(X_2, X_3) = \nabla_{X_1}^T (\nabla T_*)(X_2, X_3) - (\nabla T_*)(\nabla_{X_1}^T X_2, X_3) - (\nabla T_*)(X_2, \nabla_{X_1}^T X_3)
+$$
+
+$$
+R_{ij}(z) \underset{z \to \infty}{\sim} c_i^2 (1 + \delta_{ij}) \varphi(j/N) \phi(1/N) \exp(-2\lambda z).
+$$
+
+$$
+1722 (66)
+$$
+
+$$
+1722 (99)
+$$

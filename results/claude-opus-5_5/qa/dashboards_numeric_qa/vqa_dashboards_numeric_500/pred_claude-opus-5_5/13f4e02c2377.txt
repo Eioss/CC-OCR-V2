@@ -1,0 +1,7 @@
+According to the flowchart, you should eat at **McDonald's**, assuming you're **not in Canada**. The path is:
+
+1. Are you in Canada? → **No**
+2. Is it before 10:30 AM? → **Yes**
+3. Are you a police officer? → **No** → **McDonald's**
+
+If you *are* in Canada, the chart sends you straight to **Tim Hortons**, regardless of the time.

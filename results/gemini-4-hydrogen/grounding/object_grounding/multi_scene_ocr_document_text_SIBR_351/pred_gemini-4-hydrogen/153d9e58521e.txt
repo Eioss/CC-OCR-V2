@@ -1,0 +1,27 @@
+```json
+[
+  {"bbox_2d": [55, 232, 74, 796], "label": "Company Name"},
+  {"bbox_2d": [108, 312, 121, 756], "label": "Add"},
+  {"bbox_2d": [128, 301, 139, 422], "label": "Tel"},
+  {"bbox_2d": [127, 657, 139, 779], "label": "Fax"},
+  {"bbox_2d": [190, 346, 209, 698], "label": "Title"},
+  {"bbox_2d": [257, 711, 269, 769], "label": "S/C NO."},
+  {"bbox_2d": [275, 756, 287, 833], "label": "INVOICE NO."},
+  {"bbox_2d": [317, 151, 329, 261], "label": "TEL"},
+  {"bbox_2d": [348, 744, 362, 856], "label": "Issued Date"},
+  {"bbox_2d": [370, 258, 381, 419], "label": "Port of destination"},
+  {"bbox_2d": [462, 68, 493, 359], "label": "Address"},
+  {"bbox_2d": [497, 68, 530, 309], "label": "Description"},
+  {"bbox_2d": [536, 114, 548, 171], "label": "PDE"},
+  {"bbox_2d": [554, 198, 566, 245], "label": "Vendor ltem No."},
+  {"bbox_2d": [573, 142, 585, 212], "label": "Quantity"},
+  {"bbox_2d": [591, 165, 603, 293], "label": "Dimension"},
+  {"bbox_2d": [610, 183, 623, 238], "label": "Gross Weight"},
+  {"bbox_2d": [628, 164, 639, 221], "label": "Carton No."},
+  {"bbox_2d": [646, 208, 657, 253], "label": "Country of Origin"},
+  {"bbox_2d": [496, 389, 564, 586], "label": "Description of Goods"},
+  {"bbox_2d": [533, 616, 545, 659], "label": "Quantity (boxes)"},
+  {"bbox_2d": [531, 712, 543, 839], "label": "Unit Price (FOB Shanghai)"},
+  {"bbox_2d": [531, 878, 543, 940], "label": "Amount (USD)"}
+]
+```

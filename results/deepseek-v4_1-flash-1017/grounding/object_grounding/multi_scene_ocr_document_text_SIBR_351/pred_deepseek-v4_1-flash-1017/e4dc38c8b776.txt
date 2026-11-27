@@ -1,0 +1,28 @@
+```json
+[
+  {"bbox_2d": [381, 93, 617, 121], "label": "Title"},
+  {"bbox_2d": [318, 134, 679, 158], "label": "Title"},
+  {"bbox_2d": [137, 200, 172, 215], "label": "Company Name"},
+  {"bbox_2d": [178, 200, 482, 217], "label": "Company Name"},
+  {"bbox_2d": [137, 222, 545, 241], "label": "Address"},
+  {"bbox_2d": [617, 203, 789, 219], "label": "CONTRACT NO."},
+  {"bbox_2d": [617, 224, 762, 240], "label": "SIGNED AT"},
+  {"bbox_2d": [617, 245, 747, 261], "label": "DATE"},
+  {"bbox_2d": [137, 275, 201, 292], "label": "SELLERS"},
+  {"bbox_2d": [206, 275, 545, 293], "label": "Company Name"},
+  {"bbox_2d": [137, 297, 151, 312], "label": "ADD"},
+  {"bbox_2d": [156, 296, 680, 314], "label": "Address"},
+  {"bbox_2d": [137, 357, 237, 373], "label": "Description of goods"},
+  {"bbox_2d": [388, 356, 451, 373], "label": "Quantity"},
+  {"bbox_2d": [581, 356, 625, 373], "label": "Price"},
+  {"bbox_2d": [728, 356, 786, 373], "label": "Amount"},
+  {"bbox_2d": [137, 387, 237, 404], "label": "Description of goods"},
+  {"bbox_2d": [388, 387, 477, 404], "label": "Quantity"},
+  {"bbox_2d": [581, 387, 661, 404], "label": "Price"},
+  {"bbox_2d": [728, 387, 831, 404], "label": "Amount"},
+  {"bbox_2d": [137, 423, 189, 439], "label": "Packing"},
+  {"bbox_2d": [137, 443, 201, 460], "label": "Shipment"},
+  {"bbox_2d": [137, 478, 197, 495], "label": "Insurance"},
+  {"bbox_2d": [137, 498, 193, 515], "label": "Payment"}
+]
+```

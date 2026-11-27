@@ -1,0 +1,20 @@
+$$
+\begin{aligned}
+&\Big(\sum_{j=1}^{s} w(\alpha_j)\Delta\tau_j\,\delta_t^{\alpha_j} p_h^n, v_1\Big)_{D^k} + \varepsilon_1 (Q_h^n, v_1)_{D^k} + \varepsilon_2\big(f(|u_{1h}^n|^2, |u_{2h}^n|^2)\, q_h^n, v_1\big)_{D^k} = 0,\\
+&(Q_h^n, \beta_1)_{D^k} = (\Delta_{(\beta-2)/2}\, r_h^n, \beta_1)_{D^k},\\
+&(r_h^n, \phi)_{D^k} = -(s_h^n, \phi_x)_{D^k} + \big((\hat{s}_h^n \phi^-)_{k+\frac12} - (\hat{s}_h^n \phi^+)_{k-\frac12}\big),\\
+&(s_h^n, \varphi)_{D^k} = -(q_h^n, \varphi_x)_{D^k} + \big((\hat{q}_h^n \varphi^-)_{k+\frac12} - (\hat{r}_h^n \varphi^+)_{k-\frac12}\big),\\
+&\Big(\sum_{j=1}^{s} w(\alpha_j)\Delta\tau_j\,\delta_t^{\alpha_j} q_h^n, \chi\Big)_{D^k} - \varepsilon_1 (H_h^n, \chi)_{D^k} - \varepsilon_2\big(f(|u_{1h}^n|^2, |u_{2h}^n|^2)\, p_h^n, \chi\big)_{D^k} = 0,\\
+&(H_h^n, \beta_2)_{D^k} = (\Delta_{(\beta-2)/2}\, w_h^n, \beta_2)_{D^k},\\
+&(w_h^n, \psi)_{D^k} = -(z_h^n, \psi_x)_{D^k} + \big((\hat{z}_h^n \psi^-)_{k+\frac12} - (\hat{z}_h^n \psi^+)_{k-\frac12}\big),\\
+&(z_h^n, \varsigma)_{D^k} = -(p_h^n, \varsigma_x)_{D^k} + \big((\hat{p}_h^n \varsigma^-)_{k+\frac12} - (\hat{p}_h^n \varsigma^+)_{k-\frac12}\big),\\
+&\Big(\sum_{j=1}^{s} w(\alpha_j)\Delta\tau_j\,\delta_t^{\alpha_j} v_h^n, \gamma\Big)_{D^k} + \varepsilon_3 (L_h^n, \gamma)_{D^k} + \varepsilon_4\big(g(|u_{1h}^n|^2, |u_{2h}^n|^2)\, \vartheta_h^n, \gamma\big)_{D^k} = 0,\\
+&(L_h^n, \beta_3)_{D^k} = (\Delta_{(\beta-2)/2}\, \rho_h^n, \beta_3)_{D^k},\\
+&(\rho_h^n, \delta)_{D^k} = -(\varpi_h^n, \delta_x)_{D^k} + \big((\hat{\varpi}_h^n \delta^-)_{k+\frac12} - (\hat{\varpi}_h^n \delta^+)_{k-\frac12}\big),\\
+&(\varpi_h^n, \varsigma)_{D^k} = -(\vartheta_h^n, \varsigma_x)_{D^k} + \big((\hat{\vartheta}_h^n \varsigma^-)_{k+\frac12} - (\hat{\varpi}_h^n \varsigma^+)_{k-\frac12}\big),\\
+&\Big(\sum_{j=1}^{s} w(\alpha_j)\Delta\tau_j\,\delta_t^{\alpha_j} \vartheta_h^n, o\Big)_{D^k} - \varepsilon_3 (E_h^n, o)_{D^k} - \varepsilon_4\big(g(|u_{1h}^n|^2, |u_{2h}^n|^2)\, v_h^n, o\big)_{D^k} = 0,\\
+&(E_h^n, \beta_4)_{D^k} = (\Delta_{(\beta-2)/2}\, \xi_h^n, \beta_4)_{D^k},\\
+&(\xi_h^n, w)_{D^k} = -(e_h^n, w_x)_{D^k} + \big((\hat{e}_h^n w^-)_{k+\frac12} - (\hat{e}_h^n w^+)_{k-\frac12}\big),\\
+&(e_h^n, \kappa)_{D^k} = -(v_h^n, \kappa_x)_{D^k} + \big((\hat{u}_h^n \kappa^-)_{k+\frac12} - (\hat{v}_h^n \kappa^+)_{k-\frac12}\big).
+\end{aligned}
+$$

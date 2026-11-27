@@ -1,0 +1,11 @@
+```latex
+\begin{gathered}
+E\left[\int_0^1 |V(T^{-1}r)_t|_{\mathbb{R}^d}^2\,dt\right]=E\left[\int_0^1 |V(r)_t|_{\mathbb{R}^d}^2\,dt\,\varphi\right]\\
+\leq E\left[\exp\left\{\int_0^1 |V(r)_t|_{\mathbb{R}^d}^2\,dt\right\}\varphi\right]=E\left[\frac{1}{\varphi^{-1}}\right]<\infty\\
+=\sum_{i\in N_u}\left(2V_i(x)+2r_i(x)\right)+\sum_{i\in N_v}2V_i(x)\\
+\sum_{t=1}^{n}\hat{l}_t^{T}w_t-\sum_{t=1}^{n}\hat{l}_t^{T}u\leq D_I(u,w_1)+\sum_{t=1}^{n}\sum_{i=1}^{d}\frac{\hat{l}_{t,i}^2}{2(\psi^{-1})'(w_{t,i})},\\
+C^h(D):=\left\{f\in C(D)\,\middle|\,\|f\|_{C^h(D)}<\infty\right\},\\
+\|(t+|x|)L_v+(d-1)v\|_{L^2}+\|(t-|x|)\underline{L}_v+(d-1)v\|_{L^2}\lesssim \mathcal{E}(t)^{1/2},\\
+\left|\int_{\frac{1}{n}\leq|t|\leq\pi}L_n(t)\,d\varphi_x(t)\right|\leq c\left(\int_{\frac{1}{n}\leq|t|\leq\pi}\frac{|d\varphi_x(t)|}{nt^2}+\int_{\frac{1}{n}\leq|t|\leq\pi}\frac{|d\varphi_x(t)|}{n^2t^3}+\int_{\frac{1}{n}\leq|t|\leq\pi}\frac{|d\varphi_x(t)|}{n^3t^4}\right)
+\end{gathered}
+```

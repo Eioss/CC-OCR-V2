@@ -1,0 +1,78 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{bengali}
+\newfontfamily\bengalifont[Script=Bengali]{Noto Sans Bengali}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{bengali}
+সংস্কারক ও সাধক ব্যক্তিটি ১৯৬৫ সালের ৯ ফেব্রুয়ারি মৃত্যুবরণ করেন।
+\end{bengali}
+
+\begin{enumerate}[start=4, label=\textbf{\arabic*.}]
+
+\item \textbf{Complete the table below with information from the passage.} \hfill $1 \times 5 = 5$
+
+\begin{center}
+\begin{tabular}{|p{3.2cm}|p{2.8cm}|p{2cm}|p{3cm}|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i)--- & MA \\
+\hline
+Ahsanullah & 1911 & & (ii)--- \\
+\hline
+(iii)--- & 1914 & & \\
+\hline
+Member of Royal Society & (iv)--- & & \\
+\hline
+ & 1919 & & (v)--- \\
+\hline
+\end{tabular}
+\end{center}
+
+\item \textbf{Write a summary of the passage in no more than 90 to 100 words.} \hfill 10
+
+\item \textbf{Match the parts of sentences given in column `A' and column `B' to write five complete sentences. There are more parts of sentences in column `B' than required.} \hfill $1 \times 5 = 5$
+
+\begin{center}
+\begin{tabular}{|p{6cm}|p{6.5cm}|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Column `A'}} & \multicolumn{1}{c|}{\textbf{Column `B'}} \\
+\hline
+(a) Man can turn a clean environment & i.\ \ man improves his environment \\
+(b) Clean environment is essential & ii.\ \ man pollutes his environment. \\
+(c) Our total environment influences & iii.\ \ our way of living. \\
+(d) When the relationship between things is disturbed, life & iv.\ \ really beautiful. \\
+(e) By many unwise acts & v.\ \ into a bad polluted one. \\
+ & vi.\ \ for a healthier and happier life. \\
+ & vii.\ \ becomes difficult or impossible. \\
+\hline
+\end{tabular}
+\end{center}
+
+\item \textbf{Re-arrange the following sentences according to sequence and re-write them in a paragraph.} \hfill $1 \times 8 = 8$
+
+\begin{enumerate}[label=(\alph*)]
+\item The first friend climbed up a tree but the later could not climb.
+\item Suddenly a bear came there.
+\item Once upon a time two friends were passing by a forest.
+\item They were talking about their love for each other.
+\end{enumerate}
+
+\end{enumerate}
+
+\end{document}
+```
+
+**Notes:**
+- Compile with **XeLaTeX** or **LuaLaTeX**, since the Bengali line requires `fontspec`/`polyglossia` and a Bengali font such as Noto Sans Bengali.
+- The text is reproduced as written, including "the later" in 7(a), which is likely meant to be "the latter."
+- The Bengali line at the top is partially cut off in the image, so only the visible portion is included.

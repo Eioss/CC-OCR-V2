@@ -1,0 +1,89 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+其他 & 6,661,995.51 & 4,588,467.60 \\
+合 计 & 94,758,024.28 & 89,871,230.50 \\
+\midrule
+\multicolumn{3}{l}{\textbf{（三十七）财务费用}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+利息支出 & 147,344,183.04 & 154,044,323.30 \\
+减：利息收入 & 14,461,263.80 & 20,709,052.57 \\
+手续费支出 & 671,382.41 & 457,291.01 \\
+汇兑净损益 & & \\
+合 计 & 133,554,301.85 & 133,792,561.74 \\
+\midrule
+\multicolumn{3}{l}{\textbf{（三十八）资产减值损失}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+坏账准备 & -6,594,710.00 & -244,540.38 \\
+合 计 & -6,594,710.00 & -244,540.38 \\
+\midrule
+\multicolumn{3}{l}{\textbf{（三十九）其他收益}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+稳岗补贴 & 22,858.25 & 35,572.01 \\
+土地开发及配套设施补贴 & 89,454,208.00 & 100,740,000.00 \\
+合 计 & 89,477,066.25 & 100,775,572.01 \\
+\midrule
+\multicolumn{3}{l}{\textbf{（四十）投资收益}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+处置了公司确认的投资收益 & 637,698.05 & -4,518,780.65 \\
+权益法核算的长期股权投资收益 & 7,680,000.00 & -12,071.37 \\
+可供出售金融资产在持有期间的投资收益 & 37,503,807.01 & 19,200,000.00 \\
+理财产品收益 & 45,821,505.06 & 81,307,300.59 \\
+合 计 & & 95,976,448.57 \\
+\midrule
+\multicolumn{3}{l}{\textbf{（四十一）公允价值变动}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{产生公允价值变动收益的来源}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+按公允价值计量的投资性房地产 & 51,749,200.00 & \\
+合 计 & 51,749,200.00 & \\
+\midrule
+\multicolumn{3}{l}{\textbf{（四十二）营业外收入}} \\
+\midrule
+\multicolumn{1}{c}{\multirow{2}{*}{项 目}} & \multicolumn{2}{c}{} \\
+\cmidrule(lr){2-3}
+ & 本年发生额 & 上年发生额 \\
+\midrule
+\multicolumn{3}{c}{67} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
+```

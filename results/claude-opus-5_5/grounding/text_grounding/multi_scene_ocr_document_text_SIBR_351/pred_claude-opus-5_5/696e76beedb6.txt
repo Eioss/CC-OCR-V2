@@ -1,0 +1,7 @@
+The character '乙' appears twice on the receipt, in the category column:
+
+1. In the 独一味胶囊 row:
+(599, 284, 619, 297)
+
+2. In the 汉防己甲素片 row:
+(599, 343, 619, 356)

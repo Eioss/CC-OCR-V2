@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+&\|(a_\varepsilon K_j) * (\omega_0^\pi - \omega_0^m)\|_{L^2}^2 = \int_{\mathbb{R}^2} \left| \int_{B_{2\varepsilon}(x)} a_\varepsilon(x-y) K_j(x-y) (\omega_0^\pi(y) - \omega_0^m(y)) dy \right|^2 dx \\
+&\le \int_{\mathbb{R}^2} \left( \int_{B_{2\varepsilon}(x)} \frac{1}{|x-y|} |\omega_0^\pi(y) - \omega_0^m(y)| dy \right)^2 dx \\
+&= \int_{\mathbb{R}^2} \left( \int_{B_{2\varepsilon}(x)} \frac{1}{|x-y|} (\log(1/|x-y|))^{2\alpha} |\omega_0^\pi(y) - \omega_0^m(y)| (\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^\alpha \right. \\
+&\quad \left. \times \frac{(\log(1/|x-y|))^\alpha}{\sqrt{(\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^{2\alpha}}} \frac{|\omega_0^\pi(y) - \omega_0^m(y)|}{|\omega_0^\pi(y) - \omega_0^m(y)|} dy \right)^2 dx \\
+&\le \int_{\mathbb{R}^2} \int_{B_{2\varepsilon}(x)} \frac{1}{|x-y|^2 (\log(1/|x-y|))^{2\alpha}} |\omega_0^\pi(y) - \omega_0^m(y)| (\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^\alpha dy \\
+&\quad \times \int_{B_{2\varepsilon}(x)} \frac{(\log(1/|x-y|))^{2\alpha}}{(\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^{2\alpha}} \frac{|\omega_0^\pi(y) - \omega_0^m(y)|}{|\omega_0^\pi(y) - \omega_0^m(y)|} dy dx \\
+&\le \sup_{x} \int_{B_{2\varepsilon}(x)} \frac{(\log(1/|x-y|))^{2\alpha}}{(\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^{2\alpha}} dy \\
+&\quad \times \int_{\mathbb{R}^2} \int_{B_{2\varepsilon}(x)} \frac{1}{|x-y|^2 (\log(1/|x-y|))^{2\alpha}} |\omega_0^\pi(y) - \omega_0^m(y)| (\log(e + |\omega_0^\pi(y) - \omega_0^m(y)|))^\alpha dy dx \\
+&\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad (II*)
+\end{align*}
+```

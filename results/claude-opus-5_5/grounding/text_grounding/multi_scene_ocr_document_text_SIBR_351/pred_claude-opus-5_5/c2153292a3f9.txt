@@ -1,0 +1,4 @@
+The text "2472" appears twice on the invoice, in the Units column of the totals section:
+
+1. Sub Total row: (696, 626, 726, 636)
+2. Total Amount row: (696, 668, 726, 678)

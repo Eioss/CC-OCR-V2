@@ -1,0 +1,5 @@
+Looking at the receipt, the phone number "012-2060 778" appears on the TEL line.
+
+Estimating coordinates: The text starts after "TEL : " around x=425 and ends around x=660. Vertically it's on the line below the address, around y=308 to y=328.
+
+(425, 308, 660, 328)

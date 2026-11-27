@@ -1,0 +1,8 @@
+```json
+[
+	{"bbox_2d": [74, 259, 843, 339], "label": "address"},
+	{"bbox_2d": [212, 203, 732, 230], "label": "company"},
+	{"bbox_2d": [6, 779, 191, 803], "label": "date"},
+	{"bbox_2d": [843, 615, 940, 639], "label": "total"}
+]
+```

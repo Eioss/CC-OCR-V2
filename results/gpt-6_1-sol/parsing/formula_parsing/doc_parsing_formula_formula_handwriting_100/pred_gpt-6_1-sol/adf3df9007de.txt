@@ -1,0 +1,68 @@
+\[
+\begin{aligned}
+\left\|(a_\epsilon K_i)*(\omega_0^n-\omega_0^m)\right\|_{L^2}^2
+&=\int_{\mathbb R^2}
+\left|
+\int_{B_{2\epsilon}(x)}
+a_\epsilon(x-y)K_i(x-y)
+\bigl(\omega_0^n(y)-\omega_0^m(y)\bigr)\,dy
+\right|^2\,dx\\
+&\leq \int_{\mathbb R^2}
+\left(
+\int_{B_{2\epsilon}(x)}
+\frac{1}{|x-y|}
+\left|\omega_0^n(y)-\omega_0^m(y)\right|\,dy
+\right)^2\,dx\\
+&=\int_{\mathbb R^2}
+\left(
+\int_{B_{2\epsilon}(x)}
+\frac{
+\sqrt{
+\left|\omega_0^n(y)-\omega_0^m(y)\right|
+\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha
+}
+}{
+|x-y|\left(\log\frac{1}{|x-y|}\right)^\alpha
+}
+\left(\log\frac{1}{|x-y|}\right)^\alpha
+\sqrt{
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|}
+{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha}
+}\,dy
+\right)^2\,dx\\
+&\leq \int_{\mathbb R^2}
+\left(
+\int_{B_{2\epsilon}(x)}
+\frac{
+\left|\omega_0^n(y)-\omega_0^m(y)\right|
+\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha
+}{
+|x-y|^2\left(\log\frac{1}{|x-y|}\right)^{2\alpha}
+}\,dy
+\right)\\
+&\qquad\times
+\left(
+\int_{B_{2\epsilon}(x)}
+\left(\log\frac{1}{|x-y|}\right)^{2\alpha}
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|}
+{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha}
+\,dy
+\right)\,dx\\
+&\leq
+\sup_x\int_{B_{2\epsilon}(x)}
+\left(\log\frac{1}{|x-y|}\right)^{2\alpha}
+\frac{\left|\omega_0^n(y)-\omega_0^m(y)\right|}
+{\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha}
+\,dy\\
+&\qquad\times
+\underbrace{
+\int_{\mathbb R^2}\int_{B_{2\epsilon}(x)}
+\frac{
+\left|\omega_0^n(y)-\omega_0^m(y)\right|
+\left(\log\left(e+\left|\omega_0^n(y)-\omega_0^m(y)\right|\right)\right)^\alpha
+}{
+|x-y|^2\left(\log\frac{1}{|x-y|}\right)^{2\alpha}
+}\,dy\,dx
+}_{(II^*)}.
+\end{aligned}
+\]

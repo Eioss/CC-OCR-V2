@@ -1,0 +1,13 @@
+Here is the LaTeX representation of the formulas in the image:
+
+```latex
+\begin{align*}
+&m(\pi, v) = \frac{1}{|S_\psi|} \sum_{\bar{x} \in S_\psi} e_\psi(\bar{x}) \langle x, \bar{x} \rangle v(x)^{-1} < \lambda_{n \infty}, x \rangle. \\
+&v(t_0, \bar{\rho}, \varepsilon) \geq 1 - \exp(-c \frac{\delta^2}{(T-t_0)^2}), \quad \bar{\varepsilon} \geq \lambda + L(T-t_0) + \delta, \\
+&v(t_0, \bar{\rho}, \varepsilon) \leq \exp(-c \frac{\delta^2}{(T-t_0)^2}), \quad \bar{\varepsilon} \leq \lambda - \delta. \\
+&S_\gamma(\theta) \leq S_\gamma(\theta) \leq e^{c(C e^{2|\theta|} - 1)} S_\gamma(0) \quad \text{for every } \theta \\
+&(n-1) H^{-\frac{1}{2}} \frac{\phi_n^H(x)}{H-\frac{1}{2}} \leq \int_0^1 (v + n - 1)^{H-\frac{1}{2}} (v + n - 1 - x)^{H-\frac{3}{2}} dv \leq n^{H-\frac{1}{2}} \frac{\phi_n^H(x)}{H-\frac{1}{2}}. \\
+&D_{k, \ell}^{(L)}(h_k^{(L)}) = \frac{1}{6} \sigma'''(\xi_{k, \ell}^{(L)}) M_{k, \ell}^{(L)}(h_k^{(L)})^3 + N_{k, \ell}^{(L)}(h_k^{(L)}) \\
+&\qquad\qquad\quad = \frac{1}{6} \sigma'''(\xi_{k, \ell}^{(L)}) M_{k, \ell}^{(L)}(h_k^{(L)})^3 + \frac{1}{2} \sigma''(0) (X_{k, \ell}^{(L)} + Y_{k, \ell}^{(L)} + J_{k, \ell}^{(L)}).
+\end{align*}
+```

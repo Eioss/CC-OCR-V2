@@ -1,0 +1,1 @@
+[{"bbox_2d":[57,57,183,86],"label":"name"},{"bbox_2d":[471,74,612,86],"label":"email"},{"bbox_2d":[640,74,774,85],"label":"phone"}]

@@ -1,0 +1,174 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  th, td {
+    padding: 8px;
+    vertical-align: bottom;
+  }
+  .header-text {
+    text-align: left;
+    font-weight: normal;
+    padding-bottom: 20px;
+  }
+  .col-header {
+    text-align: right;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+  }
+  .col-header-center {
+    text-align: center;
+    font-weight: bold;
+  }
+  .row-label {
+    text-align: left;
+    width: 50%;
+  }
+  .amount {
+    text-align: right;
+    width: 25%;
+  }
+  .underline {
+    border-bottom: 1px solid black;
+  }
+  .double-underline {
+    border-bottom: 3px double black;
+  }
+  .section-title {
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  .indent {
+    padding-left: 20px;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Main Title and Info -->
+  <tr>
+    <td colspan="3" class="header-text" style="font-size: 18px; font-weight: bold; padding-bottom: 10px;">合併現金流量表 (未經審計)</td>
+  </tr>
+  <tr>
+    <td colspan="3" class="header-text" style="padding-bottom: 5px;">編製單位：中國國際金融股份有限公司</td>
+  </tr>
+  <tr>
+    <td colspan="3" class="header-text" style="padding-bottom: 30px;">單位：人民幣元</td>
+  </tr>
+
+  <!-- Column Headers -->
+  <tr>
+    <td class="row-label"></td>
+    <td colspan="2" class="col-header-center" style="border-bottom: none; padding-bottom: 0;">截至9月30日止九個月期間</td>
+  </tr>
+  <tr>
+    <td class="row-label"></td>
+    <td class="col-header">2018年</td>
+    <td class="col-header">2017年</td>
+  </tr>
+
+  <!-- Section: Operating Activities Cash Inflows -->
+  <tr>
+    <td colspan="3" class="section-title">經營活動產生的現金流量：</td>
+  </tr>
+  <tr>
+    <td class="row-label">融出資金淨減少額</td>
+    <td class="amount">3,101,747,593</td>
+    <td class="amount">572,843,249</td>
+  </tr>
+  <tr>
+    <td class="row-label">資金拆借淨增加額</td>
+    <td class="amount">–</td>
+    <td class="amount">2,438,356,000</td>
+  </tr>
+  <tr>
+    <td class="row-label">收取利息、手續費及佣金的現金</td>
+    <td class="amount">8,969,544,868</td>
+    <td class="amount">9,032,594,470</td>
+  </tr>
+  <tr>
+    <td class="row-label">回購業務資金淨增加額</td>
+    <td class="amount">554,182,486</td>
+    <td class="amount">8,432,199,631</td>
+  </tr>
+  <tr>
+    <td class="row-label">收到其他與經營活動有關的現金</td>
+    <td class="amount underline">13,885,893,509</td>
+    <td class="amount underline">10,115,658,362</td>
+  </tr>
+
+  <!-- Subtotal: Operating Activities Cash Inflows -->
+  <tr>
+    <td class="row-label" style="padding-top: 20px;">經營活動現金流入小計</td>
+    <td class="amount underline" style="padding-top: 20px;">26,511,368,456</td>
+    <td class="amount underline" style="padding-top: 20px;">30,591,651,712</td>
+  </tr>
+
+  <!-- Section: Operating Activities Cash Outflows -->
+  <tr>
+    <td class="row-label" style="padding-top: 20px;">代理買賣證券款淨減少額</td>
+    <td class="amount" style="padding-top: 20px;">(4,296,230,188)</td>
+    <td class="amount" style="padding-top: 20px;">(225,495,869)</td>
+  </tr>
+  <tr>
+    <td class="row-label">資金拆借淨減少額</td>
+    <td class="amount">(735,799,775)</td>
+    <td class="amount">–</td>
+  </tr>
+  <tr>
+    <td class="row-label">買賣以公允價值計量且其變動計入當期<br>損益的金融工具、其他債權投資及<br>可供出售金融資產支付的現金淨額</td>
+    <td class="amount">(12,738,005,313)</td>
+    <td class="amount">(29,910,108,786)</td>
+  </tr>
+  <tr>
+    <td class="row-label">支付利息、手續費及佣金的現金</td>
+    <td class="amount">(1,862,466,898)</td>
+    <td class="amount">(1,492,803,182)</td>
+  </tr>
+  <tr>
+    <td class="row-label">支付給職工以及為職工支付的現金</td>
+    <td class="amount">(5,139,963,297)</td>
+    <td class="amount">(4,515,074,442)</td>
+  </tr>
+  <tr>
+    <td class="row-label">支付的各項稅費</td>
+    <td class="amount">(931,675,218)</td>
+    <td class="amount">(1,142,736,282)</td>
+  </tr>
+  <tr>
+    <td class="row-label">支付其他與經營活動有關的現金</td>
+    <td class="amount underline">(12,319,722,356)</td>
+    <td class="amount underline">(13,069,350,006)</td>
+  </tr>
+
+  <!-- Subtotal: Operating Activities Cash Outflows -->
+  <tr>
+    <td class="row-label" style="padding-top: 20px;">經營活動現金流出小計</td>
+    <td class="amount underline" style="padding-top: 20px;">(38,023,863,045)</td>
+    <td class="amount underline" style="padding-top: 20px;">(50,355,568,567)</td>
+  </tr>
+
+  <!-- Net Cash Flow from Operating Activities -->
+  <tr>
+    <td class="row-label" style="padding-top: 30px; padding-bottom: 20px;">經營活動使用的現金流量淨額</td>
+    <td class="amount double-underline" style="padding-top: 30px; padding-bottom: 20px;">(11,512,494,589)</td>
+    <td class="amount double-underline" style="padding-top: 30px; padding-bottom: 20px;">(19,763,916,855)</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+```

@@ -1,0 +1,32 @@
+\[
+\begin{aligned}
+&E\left[\int_{0}^{1}\left|V(T^{-1}\gamma)_{t}\right|_{\mathbb{R}^{d}}^{2}\,dt\right]
+=E\left[\int_{0}^{1}\left|V(\gamma)_{t}\right|_{\mathbb{R}^{d}}^{2}\,dt\,\varphi\right]\\
+&\qquad \le E\left[\exp\left\{\int_{0}^{1}\left|V(\gamma)_{t}\right|_{\mathbb{R}^{d}}^{2}\,dt\right\}\varphi\right]
+=E\left[\frac{1}{\varphi^{2}}\right]<\infty .
+\end{aligned}
+\]
+\[
+=\sum_{i\in N_{u}}\left(2v_{i}(\pi)+2r_{i}(\pi)\right)+\sum_{i\in N_{v}}2v_{i}(\pi)
+\]
+\[
+\sum_{t=1}^{n}\hat{\ell}_{t}^{T}w_{t}-\sum_{t=1}^{n}\hat{\ell}_{t}^{T}u
+\le D_{F}(u,w_{1})+\sum_{t=1}^{n}\sum_{i=1}^{d}
+\frac{\hat{\ell}_{i,t}^{2}}{2(\psi^{-1})'(w_{i,t})}.
+\]
+\[
+C^{k}(D):=\left\{f\in C(D)\,\middle|\,\|f\|_{C^{k}(D)}<\infty\right\},
+\]
+\[
+\left\||z+|x|\right\|_{L^{\infty}}+(d-1)\|v\|_{L^{2}}
++\left\|(t-|x|)\right\|_{L^{2}}+(d-1)\|v\|_{L^{2}}
+\lesssim \mathcal{E}(t)^{1/2},
+\]
+\[
+\int_{\frac1n\le |t|\le\pi}L_{n}(t)\,d\varphi_{\varepsilon}(t)
+\le C\left(
+\int_{\frac1n\le |t|\le\pi}\frac{|d\varphi_{\varepsilon}(t)|}{nt^{2}}
++\int_{\frac1n\le |t|\le\pi}\frac{|d\varphi_{\varepsilon}(t)|}{n^{3}t^{4}}
++\int_{\frac1n\le |t|\le\pi}\frac{|d\varphi_{\varepsilon}(t)|}{n^{5}t^{6}}
+\right).
+\]

@@ -1,0 +1,113 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{amssymb}
+
+\setlength{\parindent}{0pt}
+\newcommand{\blank}{\rule{1.2cm}{0.4pt}}
+\newcommand{\options}[4]{%
+  \par\noindent\hspace*{1em}#1\hfill #2\hfill #3\hfill #4\par
+}
+
+\begin{document}
+
+\noindent
+{\Large \textbf{11}}\textsuperscript{th} Std.
+\hfill
+\textbf{Tnkalvi.Net}
+
+\begin{center}
+COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019
+\end{center}
+
+\noindent
+\hfill Standard - 11 \hfill
+Reg.No\ \(\square\!\square\!\square\!\square\!\square\!\square\)
+
+\begin{center}
+PART - III - COMMUNICATIVE ENGLISH
+\end{center}
+
+\noindent
+Time Allowed: 2.30 Hours
+\hfill
+Maximum Marks: 70
+
+\medskip
+
+\noindent
+\textbf{Instructions:}\quad
+1.\quad Check the question paper for fairness of printing.\\
+\hspace*{5em}If there is any lack of fairness, inform the Hall\\
+\hspace*{5em}Supervisor immediately.
+
+\noindent
+\hspace*{5em}2.\quad Use Blue or Black ink to write and underline.
+
+\begin{center}
+PART - I
+\end{center}
+
+\noindent
+Answer the following questions:
+\hfill
+$15\times1=15$
+
+\medskip
+
+\noindent
+1) The \blank\ patterns of questions are commonly known as interrogative\\
+sentences.
+\options{a) 4}{b) 3}{c) 2}{d) 5}
+
+\noindent
+2) A cruise is a journey on a
+\options{a) ferry}{b) ocean lines}{c) ship}{d) boat}
+
+\noindent
+3) An information paper document is
+\options{a) brochure}{b) pamphlet}{c) itinerary}{d) notice}
+
+\noindent
+4) The pair of words `united-untied' is an example of
+\options{a) homograph}{b) contranyms}{c) homophones}{d) antigrams}
+
+\noindent
+5) A \blank\ is a short informal performance intended to educate or\\
+inform.
+\options{a) play}{b) parody}{c) skit}{d) drama}
+
+\noindent
+6) The association of one word with multiple meanings is known as\\
+\blank
+\options{a) polygenesis}{b) polysemy}{c) polycentric}{d) polynomial}
+
+\noindent
+7) The process of reading quickly to get the specific information from a\\
+given text.
+\options{a) decoding}{b) scanning}{c) encoding}{d) skimming}
+
+\noindent
+8) One who treats old people
+\options{a) geriatrician}{b) pediatrician}{c) neurologist}{d) pathologist}
+
+\noindent
+9) Epitasis means
+\options{a) gum disease}{b) iron deficiency}{c) nose bleed}{d) feverishness}
+
+\noindent
+10) Bluefin is a type of \blank
+\options{a) bass}{b) cod}{c) gold}{d) tuna}
+
+\noindent
+11) Hud Herd cyclone is named after a bird \blank
+\options{a) Hawk}{b) Heron}{c) Hoopoc}{d) Hainan}
+
+\vfill
+
+\begin{center}
+Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,90 @@
+```html
+<table>
+  <tr>
+    <td></td>
+    <td colspan="3"><b>2018</b></td>
+    <td colspan="2"><b>2017</b></td>
+    <td colspan="2"><b>2016</b></td>
+  </tr>
+  <tr>
+    <td><b>Reported results</b></td>
+    <td><b>$m</b></td>
+    <td><b>£m</b></td>
+    <td><b>€m</b></td>
+    <td><b>$m</b></td>
+    <td><b>£m</b></td>
+    <td><b>$m</b></td>
+    <td><b>£m</b></td>
+  </tr>
+  <tr>
+    <td><b>Net operating income before change in expected credit losses and other credit impairment charges ('revenue')</b></td>
+    <td>53,780</td>
+    <td></td>
+    <td></td>
+    <td>51,445</td>
+    <td></td>
+    <td>47,966</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ECL/LICs</td>
+    <td>(1,767)</td>
+    <td></td>
+    <td></td>
+    <td>(1,769)</td>
+    <td></td>
+    <td>(3,400)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Net operating income</b></td>
+    <td>52,013</td>
+    <td></td>
+    <td></td>
+    <td>49,676</td>
+    <td></td>
+    <td>44,566</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Total operating expenses</td>
+    <td>(34,659)</td>
+    <td></td>
+    <td></td>
+    <td>(34,884)</td>
+    <td></td>
+    <td>(39,808)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Operating profit</b></td>
+    <td>17,354</td>
+    <td></td>
+    <td></td>
+    <td>14,792</td>
+    <td></td>
+    <td>4,758</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Share of profit in associates and joint ventures</td>
+    <td>2,536</td>
+    <td></td>
+    <td></td>
+    <td>2,375</td>
+    <td></td>
+    <td>2,364</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Profit before tax</b></td>
+    <td>19,890</td>
+    <td></td>
+    <td></td>
+    <td>17,167</td>
+    <td></td>
+    <td>7,112</td>
+    <td></td>
+  </tr>
+</table>
+```

@@ -1,0 +1,66 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+    {\Large \textbf{Quadratic Formula Assignment}} \\[0.5em]
+    Recite, from memory, the quadratic formula to one teacher, \\
+    one family member, and one additional person of your choice.
+\end{center}
+
+\vspace{1em}
+
+\noindent \textbf{In Math:}
+
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\vspace{1em}
+
+\noindent \textbf{In English:}
+
+\vspace{0.5em}
+
+\noindent X equals negative b plus or minus the square root of b squared minus 4ac all over 2a.
+
+\vspace{2em}
+
+\noindent\fbox{%
+    \parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
+        \vspace{0.5em}
+        I do hereby testify that \rule{5cm}{0.4pt} recited the quadratic formula to me from memory with zero mistakes. \\[2em]
+        Signature \rule{6.5cm}{0.4pt} Date \rule{2.5cm}{0.4pt}
+        \vspace{0.5em}
+    }%
+}
+
+\vspace{0.5em}
+
+\noindent\fbox{%
+    \parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
+        \vspace{0.5em}
+        I do hereby testify that \rule{5cm}{0.4pt} recited the quadratic formula to me from memory with zero mistakes. \\[2em]
+        Signature \rule{6.5cm}{0.4pt} Date \rule{2.5cm}{0.4pt}
+        \vspace{0.5em}
+    }%
+}
+
+\vspace{0.5em}
+
+\noindent\fbox{%
+    \parbox{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}{%
+        \vspace{0.5em}
+        I do hereby testify that \rule{5cm}{0.4pt} recited the quadratic formula to me from memory with zero mistakes. \\[2em]
+        Signature \rule{6.5cm}{0.4pt} Date \rule{2.5cm}{0.4pt}
+        \vspace{0.5em}
+    }%
+}
+
+\end{document}
+```

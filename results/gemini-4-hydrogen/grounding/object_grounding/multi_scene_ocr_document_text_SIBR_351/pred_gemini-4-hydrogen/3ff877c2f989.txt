@@ -1,0 +1,25 @@
+```json
+[
+  {"bbox_2d": [23, 464, 54, 639], "label": "标题"},
+  {"bbox_2d": [103, 511, 117, 595], "label": "地址"},
+  {"bbox_2d": [196, 241, 212, 272], "label": "姓名 Guest Name"},
+  {"bbox_2d": [229, 244, 242, 271], "label": "房号 Room No"},
+  {"bbox_2d": [255, 242, 274, 382], "label": "入住时间 Arrival Date"},
+  {"bbox_2d": [284, 240, 297, 309], "label": "退房时间 Departure Date"},
+  {"bbox_2d": [311, 239, 323, 247], "label": "人数 Person(s)"},
+  {"bbox_2d": [218, 686, 233, 738], "label": "团队名称 Group Name"},
+  {"bbox_2d": [247, 684, 258, 720], "label": "账单号 Receipt No."},
+  {"bbox_2d": [273, 683, 286, 750], "label": "预订号 Reservation No."},
+  {"bbox_2d": [356, 680, 370, 749], "label": "收银号 Cashier"},
+  {"bbox_2d": [439, 59, 454, 128], "label": "日期 Date"},
+  {"bbox_2d": [442, 200, 459, 237], "label": "账目说明 Description"},
+  {"bbox_2d": [457, 560, 469, 599], "label": "消费 CNY Consumptions"},
+  {"bbox_2d": [468, 59, 483, 127], "label": "日期 Date"},
+  {"bbox_2d": [471, 200, 489, 327], "label": "账目说明 Description"},
+  {"bbox_2d": [485, 559, 498, 590], "label": "消费 CNY Consumptions"},
+  {"bbox_2d": [496, 58, 511, 127], "label": "日期 Date"},
+  {"bbox_2d": [500, 200, 517, 239], "label": "账目说明 Description"},
+  {"bbox_2d": [519, 759, 531, 798], "label": "付款 CNY Payment"},
+  {"bbox_2d": [601, 787, 613, 813], "label": "Balance 余额"}
+]
+```

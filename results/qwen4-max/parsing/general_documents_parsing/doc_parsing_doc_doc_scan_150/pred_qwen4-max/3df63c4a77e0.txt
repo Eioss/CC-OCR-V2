@@ -1,0 +1,128 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{Physics Formula Sheet}
+\end{center}
+
+\section*{Mechanics}
+\begin{minipage}[t]{0.65\textwidth}
+\begin{align*}
+x &= x_0 + v_{x0}t + \frac{1}{2}a_x t^2 & a_c &= \frac{v^2}{r} & |\vec{F}_{\text{spring}}| &= k|\vec{x}| \\
+v &= v_0 + at & \theta &= \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2 & PE_{\text{spring}} &= \frac{1}{2}kx^2 \\
+v_x^2 - v_{x0}^2 &= 2a(x - x_0) & \omega &= \omega_0 + \alpha t & T_{\text{spring}} &= 2\pi\sqrt{\frac{m}{k}} \\
+\bar{a} &= \frac{\Sigma \vec{F}}{m} = \frac{\vec{F}_{\text{net}}}{m} & T &= \frac{2\pi}{\omega} = \frac{1}{f} & T_{\text{pendulum}} &= 2\pi\sqrt{\frac{l}{g}} \\
+|\vec{F}_{\text{friction}}| &\le \mu |\vec{F}_{\text{Normal}}| & v &= f\lambda \\
+\vec{p} &= m\vec{v} & x &= A\cos(2\pi ft) & |\vec{F}_{\text{gravity}}| &= G\frac{m_1 m_2}{r^2} \\
+\Delta \vec{p} &= \vec{F}\Delta t & \bar{\alpha} &= \frac{\Sigma \vec{\tau}}{I} = \frac{\vec{\tau}_{\text{net}}}{I} & |\vec{F}_{\text{gravity}}| &= mg \\
+KE &= \frac{1}{2}mv^2 & \vec{\tau} &= r \times F & PE_{\text{gravity}} &= -G\frac{m_1 m_2}{r} \\
+\Delta PE &= mg\Delta y & L &= I\omega & \rho &= \frac{m}{V} \\
+\Delta E &= W = Fd\cos\theta & \Delta L &= \tau\Delta t & KE &= \frac{1}{2}I\omega^2
+\end{align*}
+\end{minipage}%
+\begin{minipage}[t]{0.3\textwidth}
+\section*{Variables}
+\begin{tabular}{@{}l@{ }l@{}}
+a & = acceleration \\
+A & = amplitude \\
+A & = Area \\
+b & = base length \\
+C & = circumference \\
+d & = distance \\
+E & = energy \\
+f & = frequency \\
+F & = force \\
+h & = height \\
+I & = current \\
+I & = rotational inertia \\
+KE & = kinetic energy \\
+k & = spring constant \\
+L & = angular momentum \\
+$\ell$ & = length \\
+m & = mass \\
+P & = power \\
+p & = momentum \\
+q & = charge \\
+r & = radius \\
+R & = resistance \\
+S & = surface area \\
+T & = period \\
+t & = time \\
+PE & = potential energy \\
+V & = electric potential \\
+V & = volume \\
+v & = velocity \\
+w & = width \\
+W & = work \\
+x & = position \\
+y & = height \\
+$\alpha$ & = angular acceleration \\
+$\lambda$ & = wavelength \\
+$\mu$ & = coefficient of friction \\
+$\nu$ & = wave speed \\
+$\theta$ & = angle \\
+$\rho$ & = density \\
+$\rho$ & = resistivity \\
+$\tau$ & = torque \\
+$\omega$ & = angular speed \\
+\end{tabular}
+\end{minipage}
+
+\section*{Electricity}
+\begin{align*}
+|\vec{F}_E| &= k\left|\frac{q_1 q_2}{r^2}\right| & \Delta V &= IR & R &= \frac{\rho \ell}{A} \\
+I &= \frac{\Delta q}{\Delta t} & P &= I\Delta V \\
+R_{\text{series}} &= R_1 + R_2 + \dots + R_n & \frac{1}{R_{\text{Parallel}}} &= \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
+\end{align*}
+
+\section*{Geometry}
+\begin{tabular}{@{}ll@{\hspace{2em}}ll@{\hspace{2em}}ll@{}}
+Rectangle & $A = bh$ & Rectangular Solid & $V = \ell wh$ & Triangle & $A = \frac{1}{2}bh$ \\
+Circle & $A = \pi r^2$ & Cylinder & $V = \pi r^2 \ell$ & Sphere & $V = \frac{4}{3}\pi r^3$ \\
+& $C = 2\pi r$ & & $S = 2\pi r \ell + 2\pi r^2$ & & $S = 4\pi r^2$ \\
+\end{tabular}
+
+\section*{Trigonometry}
+\begin{minipage}[c]{0.3\textwidth}
+% Placeholder for the triangle diagram
+\begin{tabular}{c}
+\textit{[Right triangle diagram]} \\
+Hypotenuse: c \\
+Opposite: a \\
+Adjacent: b \\
+Angle: $\theta$
+\end{tabular}
+\end{minipage}%
+\begin{minipage}[c]{0.65\textwidth}
+\begin{align*}
+c^2 &= a^2 + b^2 & \sin\theta &= \frac{a}{c} & \cos\theta &= \frac{b}{c} & \tan\theta &= \frac{a}{b}
+\end{align*}
+\end{minipage}
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+$\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin\theta$ & 0 & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & 1 \\
+\hline
+$\cos\theta$ & 1 & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & 0 \\
+\hline
+$\tan\theta$ & 0 & $\sqrt{3}/3$ & $3/4$ & 1 & 1 & $\sqrt{3}$ & $\infty$ \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

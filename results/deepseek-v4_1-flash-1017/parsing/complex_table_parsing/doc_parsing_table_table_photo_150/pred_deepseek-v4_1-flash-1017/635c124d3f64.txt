@@ -1,0 +1,209 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 4px;
+  }
+  .header-title {
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .col-header {
+    font-weight: bold;
+  }
+  .vertical-text {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    white-space: nowrap;
+    padding: 5px 2px;
+  }
+  .left-align {
+    text-align: left;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Main Title -->
+  <tr>
+    <td colspan="22" class="header-title">2021 年度师德考核学生评价表</td>
+  </tr>
+
+  <!-- Column Headers -->
+  <tr>
+    <th rowspan="2">项目</th>
+    <th rowspan="2">分值<br>100</th>
+    <th rowspan="2">考核主要内容</th>
+    <th colspan="19">教 师 姓 名</th>
+  </tr>
+  <tr>
+    <th class="vertical-text">安宗志</th>
+    <th class="vertical-text">万里明</th>
+    <th class="vertical-text">徐根前</th>
+    <th class="vertical-text">林水根</th>
+    <th class="vertical-text">蒋立平</th>
+    <th class="vertical-text">沈金鸥</th>
+    <th class="vertical-text">蒋卫民</th>
+    <th class="vertical-text">蒋奇松</th>
+    <th class="vertical-text">柳阳春</th>
+    <th class="vertical-text">殷节峰</th>
+    <th class="vertical-text">蒋正宏</th>
+    <th class="vertical-text">汪童</th>
+    <th class="vertical-text">蒋徐尉</th>
+    <th class="vertical-text">刘畅</th>
+    <th class="vertical-text">储江敏</th>
+    <th class="vertical-text">王瑞</th>
+    <th class="vertical-text">王青</th>
+    <th class="vertical-text">柳欣欣</th>
+    <th class="vertical-text">李钰茜</th>
+    <th class="vertical-text">胡森茂</th>
+    <th class="vertical-text">徐瑶</th>
+    <th class="vertical-text">刘同锐</th>
+    <th class="vertical-text">华莹莹</th>
+    <th class="vertical-text">王超</th>
+    <th class="vertical-text">刘姣</th>
+  </tr>
+
+  <!-- Row 1: 爱国守法 -->
+  <tr>
+    <td rowspan="3">爱国<br>守法</td>
+    <td>5</td>
+    <td class="left-align">热爱祖国，热爱人民，拥护中国共产党领导，拥护社会主义；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">全面贯彻国家教育方针，自觉遵守教育法律法规，依法履行教师职责；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">没有违背党和国家方针政策的言行。</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+
+  <!-- Row 2: 爱岗敬业 -->
+  <tr>
+    <td rowspan="4">爱岗<br>敬业</td>
+    <td>5</td>
+    <td class="left-align">忠诚于人民教育事业，志存高远，勤恳敬业，甘为人梯，乐于奉献；</td>
+    <td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">对工作高度负责，认真备课上课，认真批改作业，认真辅导学生；</td>
+    <td>4</td><td>4</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">严格遵守劳动纪律，按质按量完成教育教学任务；</td>
+    <td>4</td><td>4</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">没有离岗脱岗现象。</td>
+    <td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td>
+  </tr>
+
+  <!-- Row 3: 关爱学生 -->
+  <tr>
+    <td rowspan="4">关爱<br>学生</td>
+    <td>5</td>
+    <td class="left-align">关心爱护全体学生，尊重学生人格，平等公正对待学生；</td>
+    <td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">对学生严慈相济，做学生良师益友；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">保护学生安全，关心学生健康，维护学生合法权益；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">不讽刺、歧视学生，不体罚或变相体罚学生。</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>5</td><td>5</td><td>4</td><td>5</td><td>4</td><td>5</td><td>4</td><td>4</td><td>5</td>
+  </tr>
+
+  <!-- Row 4: 教书育人 -->
+  <tr>
+    <td rowspan="3">教书<br>育人</td>
+    <td>5</td>
+    <td class="left-align">遵循教育规律，实施素质教育；</td>
+    <td>4</td><td>4</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">循循善诱，诲人不倦，因材施教；</td>
+    <td>4</td><td>4</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">培养学生良好品行，激发学生创新精神，促进学生全面发展，不以分数作为评价学生的唯一标准</td>
+    <td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+
+  <!-- Row 5: 为人师表 -->
+  <tr>
+    <td rowspan="4">为人<br>师表</td>
+    <td>5</td>
+    <td class="left-align">坚守高尚情操，严于律己，以身作则，衣着得体，语言规范，举止文明</td>
+    <td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">关心集体，团结协作，尊重同事，尊重家长；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">作风正派，廉洁奉公；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">自觉抵制有偿家教，不利用职业之便谋取私利。</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+
+  <!-- Row 6: 终身学习 -->
+  <tr>
+    <td rowspan="2">终身<br>学习</td>
+    <td>5</td>
+    <td class="left-align">崇尚科学精神，树立终身学习理念，拓宽知识视野，更新知识结构；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="left-align">潜心钻研业务，勇于探索创新，不断提高专业素养和教育教学水平。</td>
+    <td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td>
+  </tr>
+
+  <!-- Row 7: 得分 -->
+  <tr>
+    <td colspan="3" style="font-weight: bold; font-size: 16px;">得 分</td>
+    <td>95</td><td>95</td><td>99</td><td>93</td><td>99</td><td>99</td><td>99</td><td>98</td><td>99</td><td>99</td><td>92</td><td>99</td><td>97</td><td>99</td><td>97</td><td>99</td><td>99</td><td>99</td><td>99</td><td>99</td><td>97</td><td>97</td><td>99</td><td>99</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+```

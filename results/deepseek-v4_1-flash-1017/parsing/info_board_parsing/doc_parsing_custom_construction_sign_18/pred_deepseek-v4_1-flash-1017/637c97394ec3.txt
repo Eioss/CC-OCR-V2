@@ -1,0 +1,94 @@
+# 施工现场信息公示牌
+工程概况 / 责任体系 / 检查记录
+文档编号 SG-123002
+日 期 2024-05-27
+
+施工/项目名称：临澜省新栖区云杉路综合体项目（一期）
+单位名称：临澜省皓月市澄岳临澜信息技术有限公司
+工程地点：青岚省皓月市新栖区云杉路92号 1栋
+责任人：项目负责人 孔安然；安全员 魏清越；联系电话 18363434388
+
+<table>
+  <tr>
+    <td colspan="5" style="text-align: center; font-weight: bold;">工程基本信息表（含多级表头）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; font-weight: bold;">分区/阶段</td>
+    <td style="text-align: center; font-weight: bold;">基本参数<br>（面积m²/高度m/层数）</td>
+    <td style="text-align: center; font-weight: bold;">进度状态<br>（计划/实际）</td>
+    <td colspan="2" style="text-align: center; font-weight: bold;">关键编号/说明</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align: center;">A区主体结构</td>
+    <td style="text-align: center;">地下室</td>
+    <td style="text-align: center;">12500.5 / 6.5 / 2</td>
+    <td style="text-align: center;">进行中 / 已完成80% √</td>
+    <td style="text-align: center;">桩基编号：424454259743226415</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">地上部分</td>
+    <td style="text-align: center;">45000.0 / 98.5 / 32</td>
+    <td style="text-align: center;">计划中 / 进行中</td>
+    <td style="text-align: center;">备注：需加强防尘措施（手写）</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align: center;">B区配套设施</td>
+    <td style="text-align: center;">水电管网</td>
+    <td style="text-align: center;">--- / --- / ---</td>
+    <td style="text-align: center;">未开始 / ---</td>
+    <td style="text-align: center;">编号：P-2405-B01</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">道路硬化</td>
+    <td style="text-align: center;">8000.0 / --- / ---</td>
+    <td style="text-align: center;">已完成 / ---</td>
+    <td style="text-align: center;">---</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">小计/合计</td>
+    <td style="text-align: center;">8000.0 / --- / ---</td>
+    <td style="text-align: center;">---</td>
+    <td style="text-align: center;"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5" style="text-align: center; font-weight: bold;">巡检/隐患整改闭环表（含签字确认栏）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; font-weight: bold;">日期</td>
+    <td style="text-align: center; font-weight: bold;">检查项/隐患描述</td>
+    <td style="text-align: center; font-weight: bold;">整改要求/期限</td>
+    <td style="text-align: center; font-weight: bold;">责任人/状态</td>
+    <td style="text-align: center; font-weight: bold;">复查结果<br>（合格/不合格）</td>
+    <td style="text-align: center; font-weight: bold;">签字确认</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-05-25</td>
+    <td style="text-align: center;">脚手架连接件松动</td>
+    <td style="text-align: center;">立即加固 / 2024-05-26</td>
+    <td style="text-align: center;">魏清越 / 待整改</td>
+    <td style="text-align: center;">合格√（手写）</td>
+    <td style="text-align: center;">孔安然（手写签字）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-05-26</td>
+    <td style="text-align: center;">材料堆放区积水</td>
+    <td style="text-align: center;">清理排水 / 2024-05-27</td>
+    <td style="text-align: center;">李工 / 已整改</td>
+    <td style="text-align: center;">合格√（手写）</td>
+    <td style="text-align: center;">魏清越（手写签字）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-05-27</td>
+    <td style="text-align: center;">临时用电箱未上锁</td>
+    <td style="text-align: center;">立即上锁 / 当日</td>
+    <td style="text-align: center;">张伟 / 待确认</td>
+    <td style="text-align: center;">---</td>
+    <td style="text-align: center;">---</td>
+  </tr>
+</table>
+
+https://example.com/doc-56048236
+<div style="text-align: center;"><img src="imgs/img_in_image_box_781_862_835_915.jpg" alt="Image" width="6%" /></div>

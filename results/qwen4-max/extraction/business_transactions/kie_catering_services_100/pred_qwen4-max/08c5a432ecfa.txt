@@ -1,0 +1,25 @@
+```json
+{
+    "menu": [
+        {
+            "name": "S-Bubble Milk Tea",
+            "price": "@20,000",
+            "unitprice": "20,000",
+            "cnt": "1X",
+            "sub": {
+                "name": "100%"
+            }
+        },
+        {
+            "name": "S-Caramel Milk Tea",
+            "price": "@20,000",
+            "unitprice": "20,000",
+            "cnt": "1X",
+            "sub": {
+                "name": "100%"
+            }
+        }
+    ],
+    "total": "40,000"
+}
+```

@@ -1,0 +1,87 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[UTF8]{ctex}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+
+\renewcommand{\arraystretch}{1.8}
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+\begin{document}
+
+\begin{center}
+\textbf{2021-2022年资金监管系统运维项目【重新招标】-中标候选人公示}\\
+\textbf{(招标编号：0675-210JOC009007A)}
+\end{center}
+
+\noindent\hspace{2em}公示开始时间：2021年05月13日00时00分00秒
+
+\noindent\hspace{2em}公示结束时间：2021年05月16日00时00分00秒
+
+\vspace{1em}
+
+\noindent\hspace{2em}本2021-2022年资金监管系统运维项目【重新招标】（招标项目编号：0675-210JOC009007A）经评标委员会评审，确定001 2021-2022年资金监管系统运维项目的中标候选人，现公示如下：
+
+\section*{一、评标情况}
+
+\noindent\hspace{2em}0012021-2022年资金监管系统运维项目
+
+\noindent\hspace{2em}1、中标候选人基本情况
+
+\begin{center}
+\begin{tabularx}{0.95\textwidth}{|C|C|C|C|C|}
+\hline
+\textbf{排序} & \textbf{中标候选人名称} & \textbf{投标报价} & \textbf{质量} & \textbf{工期/交货期} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & /万元(人民币) & / & / \\
+\hline
+2 & 北京用友审计软件有限公司 & /万元(人民币) & / & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & /万元(人民币) & / & / \\
+\hline
+\end{tabularx}
+\end{center}
+
+\noindent\hspace{2em}2、中标候选人按照招标文件要求承诺的项目负责人情况
+
+\begin{center}
+\begin{tabularx}{0.95\textwidth}{|C|C|C|C|}
+\hline
+\textbf{序号} & \textbf{中标候选人名称} & \textbf{项目负责人姓名} & \textbf{相关证书名称及编号} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & / & / \\
+\hline
+2 & 北京用友审计软件有限公司 & / & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & / & / \\
+\hline
+\end{tabularx}
+\end{center}
+
+\noindent\hspace{2em}3、中标候选人响应招标文件要求的资格能力条件
+
+\begin{center}
+\begin{tabularx}{0.95\textwidth}{|C|C|C|}
+\hline
+\textbf{序号} & \textbf{中标候选人名称} & \textbf{响应情况} \\
+\hline
+1 & 厦门融通信息技术有限责任公司 & / \\
+\hline
+2 & 北京用友审计软件有限公司 & / \\
+\hline
+3 & 厦门市四美达科技发展有限公司 & / \\
+\hline
+\end{tabularx}
+\end{center}
+
+\section*{二、提出异议的渠道和方式}
+
+\noindent\hspace{2em}/
+
+\section*{三、其他公示内容}
+
+\end{document}
+```
+
+Note: The image contains no mathematical equations; all content consists of text and tables, which have been transcribed above. The document appears to be cut off after the heading "三、其他公示内容", so that section is left empty.

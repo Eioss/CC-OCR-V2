@@ -1,0 +1,15 @@
+```json
+{
+  "date_issue": "05/08/22",
+  "order_id": "483992",
+  "vendor_name": "WJZ-TV",
+  "vendor_address": "P.O. Box 32060 New York, NY 10087-2060",
+  "customer_billing_name": "Screen Strategies Media",
+  "customer_billing_address": "11150 Fairfax Blvd Ste 505 Fairfax, VA 22030-5066 US",
+  "customer_other_name": "John King for Governor",
+  "customer_other_address": "PO Box 8429 Silver Spring, MD 20907 US",
+  "amount_total_gross": "$3,750.00",
+  "amount_due": "$3,187.50",
+  "payment_terms": "30 Days"
+}
+```

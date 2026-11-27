@@ -1,0 +1,19 @@
+[
+  {"bbox_2d": [30, 70, 508, 86], "label": "ADDRESS"},
+  {"bbox_2d": [762, 388, 848, 406], "label": "Amount (EURO)"},
+  {"bbox_2d": [751, 528, 848, 545], "label": "Amount (EURO)"},
+  {"bbox_2d": [193, 9, 630, 42], "label": "COMPANY NAME"},
+  {"bbox_2d": [194, 44, 629, 66], "label": "COMPANY NAME"},
+  {"bbox_2d": [480, 88, 611, 101], "label": "FAX"},
+  {"bbox_2d": [142, 165, 223, 179], "label": "INV.DATE"},
+  {"bbox_2d": [142, 110, 251, 159], "label": "INV.NO"},
+  {"bbox_2d": [62, 388, 290, 406], "label": "Item no.&Description"},
+  {"bbox_2d": [14, 358, 56, 374], "label": "Marks&Nos."},
+  {"bbox_2d": [461, 388, 478, 406], "label": "Quantity (PKGS)"},
+  {"bbox_2d": [461, 528, 478, 545], "label": "Quantity (PKGS)"},
+  {"bbox_2d": [614, 109, 828, 158], "label": "S/C NO"},
+  {"bbox_2d": [280, 88, 394, 101], "label": "TEL"},
+  {"bbox_2d": [359, 128, 414, 144], "label": "TITLE"},
+  {"bbox_2d": [351, 165, 418, 179], "label": "TITLE"},
+  {"bbox_2d": [541, 388, 612, 406], "label": "Unit Price (EURO)"}
+]

@@ -1,0 +1,5 @@
+There are four "0.00" values on this receipt, so the question is ambiguous. This box is for the one next to "公补支付" (public subsidy payment):
+
+(786, 768, 826, 794)
+
+The other three are next to "大额补助支付" (large-amount subsidy payment), "统筹金支付" (pooled fund payment) and "个人现金支付" (personal cash payment). I can give coordinates for any of those if you meant a different one.

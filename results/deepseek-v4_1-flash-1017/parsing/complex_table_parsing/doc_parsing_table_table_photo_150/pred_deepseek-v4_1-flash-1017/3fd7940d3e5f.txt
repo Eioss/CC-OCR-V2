@@ -1,0 +1,262 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    padding-bottom: 10px;
+  }
+  .left-align {
+    text-align: left;
+  }
+  .no-border-bottom {
+    border-bottom: none;
+  }
+  .no-border-top {
+    border-top: none;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Title Row -->
+  <tr>
+    <td colspan="7" class="title" style="border: none;">安徽中工套筒首件详细检验测试记录表</td>
+  </tr>
+
+  <!-- Header Row 1 -->
+  <tr>
+    <td>产品批次</td>
+    <td colspan="2">2001</td>
+    <td colspan="2">产品编号</td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Header Row 2 -->
+  <tr>
+    <td>项目</td>
+    <td>要求</td>
+    <td colspan="2">AH20-01</td>
+    <td colspan="2">AH20-02</td>
+    <td></td>
+  </tr>
+
+  <!-- Data Rows -->
+  <tr>
+    <td>尺寸 1</td>
+    <td>Φ259.6<sup>+0.1</sup><sub>0</sub></td>
+    <td colspan="2">259.66</td>
+    <td colspan="2">259.66</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 2</td>
+    <td>68.45±0.3</td>
+    <td>68.43</td>
+    <td>68.49</td>
+    <td>68.52</td>
+    <td>68.58</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 3</td>
+    <td>Φ297<sup>+0.1</sup><sub>-0.32</sub></td>
+    <td>296.74</td>
+    <td>296.80</td>
+    <td>296.82</td>
+    <td>296.96</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 4</td>
+    <td>Φ30±0.3</td>
+    <td>30.14</td>
+    <td>30.12</td>
+    <td>30.10</td>
+    <td>30.12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 5</td>
+    <td>55.5±0.1</td>
+    <td>55.10</td>
+    <td></td>
+    <td>55.50</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 6</td>
+    <td>60±0.1</td>
+    <td>60.0</td>
+    <td></td>
+    <td>60.1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 7</td>
+    <td>Φ285<sup>0</sup><sub>-0.2</sub></td>
+    <td>284.79</td>
+    <td>284.81</td>
+    <td>284.81</td>
+    <td>284.89</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 8</td>
+    <td>391.5±0.2</td>
+    <td>391.55</td>
+    <td>391.63</td>
+    <td>391.60</td>
+    <td>391.70</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 9</td>
+    <td>266.6±0.5</td>
+    <td>267.22</td>
+    <td></td>
+    <td>267.03</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 10</td>
+    <td>55±0.3</td>
+    <td>55.0</td>
+    <td>5.09</td>
+    <td>55.08</td>
+    <td>55.12</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 11</td>
+    <td>64.95±0.3</td>
+    <td>64.89</td>
+    <td>64.92</td>
+    <td>65.00</td>
+    <td>65.04</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 12</td>
+    <td>223.5±0.3</td>
+    <td>223.43</td>
+    <td>223.45</td>
+    <td>223.62</td>
+    <td>223.70</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 13</td>
+    <td>162±0.1</td>
+    <td>162.1</td>
+    <td></td>
+    <td>162.1</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 14</td>
+    <td>54±0.3</td>
+    <td>53.99</td>
+    <td></td>
+    <td>54.02</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 15</td>
+    <td>25±0.1</td>
+    <td>25.02</td>
+    <td></td>
+    <td>25.0</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 16</td>
+    <td>4.7±0.1</td>
+    <td>4.76</td>
+    <td></td>
+    <td>4.76</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 17</td>
+    <td>Φ285.5<sup>+0.32</sup><sub>0</sub></td>
+    <td>285.72</td>
+    <td></td>
+    <td>285.77</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 18</td>
+    <td>Φ287.8<sup>+0.13</sup><sub>0</sub></td>
+    <td>287.88</td>
+    <td></td>
+    <td>287.93</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 19</td>
+    <td>Φ290<sup>+0.21</sup><sub>0</sub></td>
+    <td>290</td>
+    <td></td>
+    <td>290.20</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 20</td>
+    <td>Φ282.4<sup>0</sup><sub>-0.2</sub></td>
+    <td>282.33</td>
+    <td>282.34</td>
+    <td>282.33</td>
+    <td>282.36</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>尺寸 21</td>
+    <td>Φ278<sup>0</sup><sub>-0.2</sub></td>
+    <td>277.91</td>
+    <td>277.95</td>
+    <td>277.95</td>
+    <td>277.96</td>
+    <td></td>
+  </tr>
+
+  <!-- Footer Rows -->
+  <tr>
+    <td colspan="2" class="left-align" style="height: 40px;">操作人：<span style="font-family: cursive; font-size: 18px; margin-left: 10px;">曾舒威</span></td>
+    <td colspan="5" class="left-align">日期：<span style="font-family: cursive; font-size: 16px; margin-left: 10px;">2020.11.11</span></td>
+  </tr>
+  <tr>
+    <td colspan="7" class="left-align" style="height: 30px;">备注：</td>
+  </tr>
+</table>
+
+</body>
+</html>
+```

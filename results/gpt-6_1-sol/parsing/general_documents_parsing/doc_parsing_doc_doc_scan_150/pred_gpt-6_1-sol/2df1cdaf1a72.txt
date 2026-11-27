@@ -1,0 +1,102 @@
+```latex
+\documentclass[12pt]{ctexart}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{enumitem}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{flushright}
+Contract No.:\\
+合同编号：
+\end{flushright}
+
+\vspace{2.5cm}
+
+\begin{center}
+{\LARGE xxx engineering contract}
+
+\vspace{0.5cm}
+
+{\LARGE\bfseries xxx 工程合同}
+
+\vspace{1cm}
+
+Party A: xxxCompany Limited
+
+\vspace{0.3cm}
+
+甲方：xxx 有限公司
+
+\vspace{0.3cm}
+
+Party B:xxx Company Limited
+
+\vspace{0.3cm}
+
+乙方：xxx 有限公司
+\end{center}
+
+\vspace{0.8cm}
+
+This contract is made and entered into on the \hspace{1cm} day of
+\hspace{1cm}, 2014 by the following Parties in \hspace{1cm}.
+
+\medskip
+
+本合同于\underline{\hspace{1.5cm}}年\underline{\hspace{1.3cm}}月%
+\underline{\hspace{1.3cm}}日由以下当事方在\underline{\hspace{1.3cm}}签署。
+
+\medskip
+
+Party A: xxx Company Limited,
+
+\medskip
+
+甲方：xxx 有限公司，xxx 经营的公司，住所地为 xxx，（下称“甲方”），法定代表人：xxx
+
+\medskip
+
+Party B: xxx Company Limited,
+
+\medskip
+
+乙方：xxx 有限公司，一家 xxx 经营的公司，注册地址是：xxx，（下称“乙方”），法定代表人：xxx
+
+\medskip
+
+Party A and Party B are called by a joint name of Both Parties under this contract,
+each of which is called as A Party.
+
+\medskip
+
+甲方和乙方在本合同项下统称为“双 方”，单独称为“一方”。
+
+\medskip
+
+1.\quad \underline{Work Content and Requirements}
+
+\medskip
+
+1.\quad \underline{工作内容、要求}
+
+\medskip
+
+\begin{description}[leftmargin=1cm,labelwidth=0.8cm,font=\normalfont]
+\item[1.1] In accordance with the items stipulated in this Contract, Party B shall conduct
+the project as per the Project standard and quality standard stipulated by
+Ministry of Engineering of the Union of xx.
+\end{description}
+
+\medskip
+
+\begin{description}[leftmargin=1cm,labelwidth=0.8cm,font=\normalfont]
+\item[1.1] 根据本合同所限定的条款，乙方应以 xx 工程部规定的建筑标准和质量要求执行本工程。
+\end{description}
+
+\medskip
+
+2.\quad \underline{Contract Period}
+
+\end{document}
+```

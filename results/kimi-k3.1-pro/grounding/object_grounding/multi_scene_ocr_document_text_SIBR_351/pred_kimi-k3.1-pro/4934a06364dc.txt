@@ -1,0 +1,23 @@
+[
+  {"bbox_2d": [104, 574, 217, 588], "label": "A/C NO."},
+  {"bbox_2d": [128, 84, 556, 98], "label": "ADD"},
+  {"bbox_2d": [80, 533, 544, 548], "label": "ADD"},
+  {"bbox_2d": [79, 195, 340, 221], "label": "ADDRESS"},
+  {"bbox_2d": [835, 342, 922, 354], "label": "AMOUNT"},
+  {"bbox_2d": [833, 446, 922, 460], "label": "AMOUNT"},
+  {"bbox_2d": [37, 55, 568, 87], "label": "COMPANY NAME"},
+  {"bbox_2d": [79, 181, 330, 196], "label": "COMPANY NAME"},
+  {"bbox_2d": [312, 348, 356, 362], "label": "COUNTRY OF ORIGIN"},
+  {"bbox_2d": [781, 91, 890, 105], "label": "FAX"},
+  {"bbox_2d": [516, 212, 605, 223], "label": "INVOICE DATE"},
+  {"bbox_2d": [516, 189, 626, 201], "label": "INVOICE No."},
+  {"bbox_2d": [175, 320, 400, 333], "label": "PRODUCT NAME"},
+  {"bbox_2d": [545, 337, 608, 350], "label": "QUANTITY"},
+  {"bbox_2d": [516, 231, 621, 242], "label": "S/C No."},
+  {"bbox_2d": [350, 553, 476, 569], "label": "SWIFT NO"},
+  {"bbox_2d": [589, 88, 708, 103], "label": "TEL"},
+  {"bbox_2d": [673, 215, 693, 225], "label": "TERM OF PAYMENT"},
+  {"bbox_2d": [303, 129, 689, 154], "label": "TITLE"},
+  {"bbox_2d": [71, 552, 211, 567], "label": "TLX"},
+  {"bbox_2d": [669, 340, 784, 353], "label": "USD"}
+]

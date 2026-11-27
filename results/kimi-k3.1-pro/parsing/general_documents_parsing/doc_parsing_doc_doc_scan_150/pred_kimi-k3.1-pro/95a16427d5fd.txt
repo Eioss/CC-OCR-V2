@@ -1,0 +1,158 @@
+```latex
+\documentclass{article}
+\usepackage[a4paper,margin=1.6cm]{geometry}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blank}[1]{\makebox[#1]{\dotfill}}
+\newcommand{\marksbox}{%
+  \begin{tabular}{|c|}
+    \hline
+    Marks \\
+    \hline
+    1 x 5 \\[2.5em]
+    Total \makebox[1cm]{\hrulefill} \\
+    05 \\
+    \hline
+  \end{tabular}%
+}
+
+\begin{document}
+
+{\scriptsize All Rights Reserved}
+
+\begin{center}
+  \textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE}\\
+  {\Large \textbf{THIRD TERM TEST - 2020}}
+\end{center}
+
+\noindent
+\begin{tabular*}{\textwidth}
+  {@{}l@{\extracolsep{\fill}}c@{\extracolsep{\fill}}r@{}}
+  \textbf{Grade 11}
+  & {\LARGE \textbf{ENGLISH LANGUAGE - I}}
+  & \textbf{One Hour}
+\end{tabular*}
+
+\vspace{0.5em}
+
+\noindent
+\fbox{\textbf{Name / Index No. :}\hspace{12cm}\rule{0pt}{2em}}
+
+\vspace{0.5em}
+
+\noindent
+\textbf{Answer all questions on this paper itself.}
+
+\hrule
+\vspace{0.8em}
+
+\noindent
+\textbf{Test - 1}
+
+\noindent
+\textbf{Fill in the blanks in the following dialogue. Use the words given in the box.
+Write the letter of the correct word in the space given.}
+\textit{The first one is done for you.}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}>{\itshape}l@{\hspace{0.6em}}c@{\hspace{0.6em}}p{12.2cm}@{}}
+Postal clerk & : & What can I do for you today? \\
+Anne & : & I need to mail this (1)
+  $\underline{\quad\text{(b)}\quad}$ to Galle, please. \\
+Postal clerk & : & OK, let's see how much it (2) \blank{3cm}
+  Well, It's about 350 grams. \\
+Anne & : & I need to send it by (3) \blank{3cm} mail. \\
+Postal clerk & : & If you do so, it will get there (4) \blank{3cm}
+  Or you can send it priority and it will get there by Saturday. \\
+Anne & : & Saturday is fine. How much will that be? \\
+Postal clerk & : & Rs.750. Do you (5) \blank{3cm} anything else? \\
+Anne & : & Oh, yes! I almost forgot. I need a book of (6)
+  \blank{3cm}, too. \\
+Postal clerk & : & OK, your total is Rs.1950.
+\end{tabular}
+
+\vspace{0.8em}
+
+\noindent
+\fbox{%
+  \begin{tabular}{@{}ll@{}}
+    (a) & want \\
+    (b) & package \\
+    (c) & stamps \\
+    (d) & weighs \\
+    (e) & express \\
+    (f) & tomorrow
+  \end{tabular}%
+}
+\hfill
+\marksbox
+
+\vspace{1em}
+
+\noindent
+\textbf{Test - 2}
+
+\noindent
+\textbf{Read the following guidelines given by of a hotel to its guests and complete
+them with the correct prepositions given below.}
+\textit{The first one is done for you.}
+
+\begin{center}
+  during, \quad till, \quad for, \quad of, \quad from, \quad on
+\end{center}
+
+\begin{center}
+\fbox{%
+  \parbox{0.86\textwidth}{%
+    \begin{center}
+      \textbf{The Moon Hotel}
+    \end{center}
+
+    \textbf{The following information will help you to have an enjoyable stay:}
+
+    \begin{itemize}[
+      label=\(\blacklozenge\),
+      leftmargin=1.5em,
+      itemsep=0.7em
+    ]
+      \item The restaurant is open daily (1)
+        $\stackrel{\text{from}}{\text{.....................}}$
+        6.30 a.m. to 9.30 p.m.
+
+      \item You can order breakfast in your room by hanging the Menu card\\
+        (2) \blank{4cm} the door.
+
+      \item If you need a doctor (3) \blank{4cm} the night, please call\\
+        100.
+
+      \item There is a play room (4) \blank{4cm} kids below 10 years
+
+      \item There is free wifi in the rooms and the password is given in the back\\
+        (5) \blank{4cm} your room key.
+
+      \item The main gate is open (6) \blank{4cm} 10.00 p.m.
+    \end{itemize}
+  }%
+}
+\end{center}
+
+\noindent
+\hfill
+\marksbox
+
+\vfill
+
+\begin{center}
+  (01)
+\end{center}
+
+\end{document}
+```

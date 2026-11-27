@@ -1,0 +1,11 @@
+```latex
+\begin{gathered}
+\lambda^{2}=\lambda_{n}^{2}=\left(\frac{\pi n}{l}\right)^{2},\quad n\in N\\
+V_{1}=\sum_{e_{h}\in\mathcal{E}_{h}}\int_{e_{h}}[u_{h}]\left(\{F_{h}\nabla r_{h}z_{h};(\delta e_{h}n^{-l}-p^{-l}_{n_{h}})\}+d\{F_{h}\nabla r_{h}z_{h};Hn_{h}\}\right)ds_{h}\\
+=\sum_{p\in N}\sum_{e_{h}\ni p}\int_{e_{h}}\chi_{p}^{-1}[u_{h}]\{F_{h}\nabla r_{h}\varphi_{p};(\delta e_{h}n^{-1}-p^{-1}_{n_{h}})\}+\chi_{p}^{-1}[u_{h}]d\{F_{h}\nabla r_{h}\varphi_{p};Hn_{h}\}ds_{h}\\
+\Delta_{p}u=\left[(u_{x})^{2}+(u_{y})^{2}\right]^{\frac{p-2}{2}}\Delta u+n\left[(u_{x})^{2}+(u_{y})^{2}\right]^{\frac{n-2}{2}}\left[(u_{x})^{2}u_{xx}+2u_{x}u_{y}u_{xy}+(u_{y})^{2}u_{yy}\right]=0,\\
+\#(0)=\left|\{X\mid B(X)=0\ \text{and}\ \phi(X)=0\}\right|,\\
+\|R_{T,A_{1}}u\|_{L^{\frac{p\tilde{p}}{p-\tilde{p}}}(\Omega)}\leq C\|u\|_{W^{1}_{\tilde{p}}(\Omega)}T^{-\delta}\quad\forall T\geq T_{1},\\
+H=\frac{X_{1}'X_{2}''-X_{1}''X_{2}'}{2\sqrt{1+(\alpha')^{2}}}n_{1},
+\end{gathered}
+```

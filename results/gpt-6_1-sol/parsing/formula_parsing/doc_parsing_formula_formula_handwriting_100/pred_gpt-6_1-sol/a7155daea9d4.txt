@@ -1,0 +1,32 @@
+\[
+\begin{aligned}
+\Sigma_\lambda(x)
+&:=\left\{\varrho\in\Sigma\cap B_{V_\lambda}(\lambda):
+\Pi_\varrho\in\varrho\bigl(V_\varepsilon(\lambda)+G_\lambda\bigr)
+\cap B_{V_\lambda}(\lambda)\right\},\\[4pt]
+\phi_0(x)&=1 \qquad \left(0\le x<\tfrac12\right),
+&\phi_0(x+1)&=\phi_0(x),\\
+\phi_0(x)&=-1 \qquad \left(\tfrac12\le x<1\right),
+&\phi_n(x)&=\phi_0(2^n x),\\[4pt]
+q&\in
+\begin{cases}
+(2/s,\infty),&\text{if }0\le s\le\tfrac12,\\
+(s,\infty),&\text{if }\tfrac12<s,
+\end{cases}\\[4pt]
+\left\langle I_{\vec g}^{a},\chi_0-\psi_\lambda\right\rangle
+&=\left\langle I_{\vec g}^{a},\chi_0\right\rangle
+-\left\langle I_{\vec g}^{a},\psi_\lambda\right\rangle
+=1-\delta(\lambda,J),\\[4pt]
+v\bigl(x,\vec P^{(j+1)}\bigr)-v\bigl(x,\vec P^{(j)}\bigr)
+&=\sum_{k=0}^{j-1}
+\left(v\bigl(x,\vec Q^{(k+1)}\bigr)-v\bigl(x,\vec Q^{(k)}\bigr)\right)\\
+&=v\bigl(x,\vec Q^{(j)}\bigr)-v\bigl(x,\vec Q^{(0)}\bigr),\\[4pt]
+a&=\frac12\left(|l|+1-\frac{\varepsilon}{2\pi\lambda}\right),\\[4pt]
+\Theta_a\bigl(e^{y_a}\chi_\infty\bigr)
+&=|y_a|+\sum_{\lambda\in\Sigma}
+\psi_\lambda\bigl(Q(\lambda\chi_\infty+i y_a)\bigr)\\
+&=|y_a|+\sum_{\varrho\in Q_\varrho}
+\psi\bigl(Q(\varrho)(\chi_\infty+i y_a)\bigr),\\[4pt]
+i\oplus j&\equiv(i+j)\pmod 2.
+\end{aligned}
+\]

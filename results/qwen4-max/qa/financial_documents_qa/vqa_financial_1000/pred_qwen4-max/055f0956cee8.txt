@@ -1,0 +1,7 @@
+The total amount on the deposit slip is **2,200.39**.
+
+This is shown in the "TOTAL" row of the table:
+- **Dollars:** 2,200
+- **Cents:** 39
+
+This matches the single check entry listed above it (2,200 dollars and 39 cents), with no currency or coins deposited.

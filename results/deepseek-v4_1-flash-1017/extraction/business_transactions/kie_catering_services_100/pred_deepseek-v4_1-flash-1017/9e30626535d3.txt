@@ -1,0 +1,43 @@
+```json
+{
+  "menu": [
+    {
+      "name": "FL-Xmas 30 Off",
+      "quantity": "1",
+      "price": "68,180"
+    },
+    {
+      "name": "PAKET SLICES",
+      "quantity": "1",
+      "price": "0"
+    },
+    {
+      "name": "» FL Cake - French Vanilla SLC",
+      "quantity": "1",
+      "price": "0"
+    },
+    {
+      "name": "PAKET SLICES",
+      "quantity": "1",
+      "price": "0"
+    },
+    {
+      "name": "» FL Cake - Green Tea SLC",
+      "quantity": "1",
+      "price": "0"
+    },
+    {
+      "name": "PAKET SLICES",
+      "quantity": "1",
+      "price": "0"
+    },
+    {
+      "name": "FL Cake - Belgium Choco SLC",
+      "quantity": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": "68,180",
+  "total": "75,000"
+}
+```

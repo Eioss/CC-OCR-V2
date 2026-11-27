@@ -1,0 +1,15 @@
+I'll map each field value to its bounding box. Let me work through the document systematically, identifying values (not labels) for each category.
+
+Title: 中国医科大学附属第-医院 / 导诊及清单费用
+登记号: 4421258030
+卡号: 000990260013053
+姓名: 刘波
+年龄: 30岁
+性别: 男
+病人类型: 自费
+就诊科室: 门诊皮肤科
+收费时间: 2021-02-19 09:05:42
+科室/位置: 门诊西药调剂(门诊一楼)
+名称 column header + drug names; 单位/数量/单价/金额 headers and values.
+
+Let me produce coordinates.

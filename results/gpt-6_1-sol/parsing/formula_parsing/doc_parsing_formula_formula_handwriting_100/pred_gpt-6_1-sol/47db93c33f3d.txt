@@ -1,0 +1,42 @@
+\[
+\begin{gathered}
+\tanh(z)=
+\frac{\left(D_{12}\frac{\partial h}{\partial z_2}
++E_{12}\frac{\partial h}{\partial z_1}
+-(D_{11}-E_{11})\right)\sinh(z)}
+{T_1-T_2}.
+\\[4pt]
+T_j=L(\eta/4)\,2^j,\qquad j=1,\ldots,3.
+\\[4pt]
+S_\varepsilon(t)=\{s\in S_0:s^{-1}\in\overline{S}_0(t)\}.
+\\[4pt]
+\left(\int_{C_t^{1-2s}}|\nabla u|^2\,dx\,dy\right)
+\left(\int_{C_t^{1-2s}}|\nabla v|^2\,dx\,dy\right)
+\\
+\le
+|\Omega\cap\{u(\cdot,0)>0\}|^{1/2}
+|\Omega\cap\{v(\cdot,0)>0\}|^{1/2}
+\|u\|_{L^\infty(\Omega)}
+\|\nabla v\|_{L^2(\Omega)}^2
+\|v\|_{L^\infty(\Omega)}
+\|\nabla u\|_{L^2(\Omega)}^2
+t^{2-2s}(\Omega).
+\\[4pt]
+\left\|F_{x\in\Omega}\Lambda[F^A,F^b,F^C]\right\|_{L^2}
+\lesssim_K
+\|F^A\|_S\|F^b\|_S\|F^C\|_S.
+\\[4pt]
+\lim_{k\to\infty}
+\sup_{a^k\le t\le a^{k+1}}
+\frac{|X(t)-X(a^k)|}
+{a^{kH}(\log a^k)^{1/p+\varepsilon}}
+=0\qquad\text{a.s.}
+\\[4pt]
+\varphi
+=|\angle utv|
+=\pi-\alpha-\beta
+\ge\pi-|\angle vus|-|\angle swu|
+=|\angle vsu|
+=\frac{2\pi}{5}.
+\end{gathered}
+\]

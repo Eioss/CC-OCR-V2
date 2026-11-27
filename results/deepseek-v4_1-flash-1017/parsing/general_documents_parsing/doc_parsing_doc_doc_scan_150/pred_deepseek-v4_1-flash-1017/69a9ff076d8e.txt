@@ -1,0 +1,108 @@
+Here is the transcription of the resume image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{xcolor}
+
+% Define colors matching the image
+\definecolor{headerblue}{RGB}{220, 230, 242}
+\definecolor{sectionblue}{RGB}{155, 185, 220}
+
+\geometry{a4paper, margin=0.5in}
+
+\begin{document}
+
+% --- Personal Information Section ---
+\noindent
+\begin{tabular}{|>{\bfseries}p{2.5cm}|p{3.5cm}|>{\bfseries}p{2cm}|p{4.5cm}|p{2.5cm}|}
+\hline
+\multicolumn{5}{|l|}{\textbf{Personal Information}} \\
+\hline
+Name & Songxxxx & Objective & Management Trainee & \multirow{6}{*}{\parbox{2.5cm}{\centering (Photo)}} \\
+\cline{1-4}
+Gender & Male & Birth & 1993.09 & \\
+\cline{1-4}
+Political affiliation & Party Member & Nation & Han & \\
+\cline{1-4}
+Cell no. & 189----7742 & Origo & Heilongjiang Wuchang & \\
+\cline{1-4}
+E-mail & xxxxx & School & Harbin Engineering University & \\
+\cline{1-4}
+Degree & Bachelor & Major & Naval Architecture and Marine Engineering & \\
+\cline{1-4}
+Cet 4/6 & 545/515 & Score & 85.34 & \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+
+% --- Prizes & Rewards Section ---
+\noindent
+\begin{tabular}{|>{\bfseries}p{3.5cm}|p{11.5cm}|}
+\hline
+\multicolumn{2}{|l|}{\textbf{Prizes \& Rewards}} \\
+\hline
+Academic Skills & 2011- 2014 Awarded second-grade scholarship 4 times \newline 2013.10 \quad Awarded third-grade scholarship \\
+\hline
+Creative Ability & 2013.04 \quad Accomplish two University's scientific research projects \newline 2012.10 \quad The second prize of ``WuSi'' Science competition \\
+\hline
+Ideological Morality & 2012.10 \quad ``Merit Student'' \newline 2013.10 \quad ``Excellent Student Cadre'' \newline 2014.05 \quad ``Excellent League Member'' \\
+\hline
+Communicational Ability & 2013.05 \quad ``Top Ten Hoster'' in campus(4/230) \newline 2012.05 \quad The First Prize of ``student cadres Speech Contest'' \newline 2013.04 \quad The First Prize of ``Presentation Contest'' \\
+\hline
+Working attitude & 2013.09 \quad Outstanding worker in anniversary of the founding of school \newline 2012.12 \quad Outstanding Volunteer of national ``TRIZ'' Science competition \newline 2013.09 \quad Outstanding worker of college \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+
+% --- Associations Experience Section ---
+\noindent
+\begin{tabular}{|p{15cm}|}
+\hline
+\textbf{Associations Experience:} \\
+\hline
+\textbf{2013.6-2014.6 \quad College of shipbuilding engineering \quad Secretary-general of Student union} \\
+\newline
+\newline
+\(\blacksquare\) \textbf{Files arrangement:} In charge of the plans of activities and arrangement of files in student union. Familiar with the use of OFFICE and PHOTOSHOP software. Had accomplished plans of 22 activities, and arranged 135 files of 16 sections in student union. besides, organized 4 events as the leader. \\
+\newline
+\(\blacksquare\) \textbf{Accounting:} In charge of accounting and applying for reimbursement for cost of student union, which is about 25,000 yuan totally. \\
+\newline
+\(\blacksquare\) \textbf{Nerve:} In charge of communicating with various sections, and coordinate their work. Under my coordinating, the student union had accomplished 3 large-scale events. \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+
+% --- Self Description Section ---
+\noindent
+\begin{tabular}{|p{15cm}|}
+\hline
+\textbf{Self Description:} \\
+\hline
+``opportunities always favor the prepared mind''. I regard it as my motto, and One of key words of my character is plan. I am used to making a genral plan before i start my work, there is no doubt taht a good plan could always save much precious time. \\
+\newline
+I had a colorful college life. i was the Secretary-general of Student union, in three years work, i learned how to communicate and cooperation with others and come to realized how important personal sense of responsibility is to the whole teams success. \\
+\hline
+\end{tabular}
+
+\vspace{0.2cm}
+
+% --- Personal Hobby Section ---
+\noindent
+\begin{tabular}{|p{15cm}|}
+\hline
+\textbf{Personal hobby} \\
+\hline
+harmonicon \hspace{1cm} football \hspace{1cm} photography \\
+\hline
+\end{tabular}
+
+\end{document}
+```

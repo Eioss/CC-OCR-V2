@@ -1,0 +1,7 @@
+The legend shows **three** temperature ranges:
+
+1. **Dark blue** (5 snowflakes): the coldest category
+2. **Medium blue** (3 snowflakes): a middle category
+3. **Light blue** (1 snowflake): the warmest category
+
+The legend has no actual temperature values, and the map itself seems to use a few more intermediate shades than the three in the legend. The note on the image explains why: it's a **template with placeholder data**, and it says the legend "doesn't make sense at the moment" and should be updated with real data. So the map doesn't show real average home temperatures.

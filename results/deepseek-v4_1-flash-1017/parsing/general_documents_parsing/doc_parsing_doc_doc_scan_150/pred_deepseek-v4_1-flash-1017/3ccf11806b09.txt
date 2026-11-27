@@ -1,0 +1,115 @@
+Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+% Header Section
+\begin{minipage}{0.33\textwidth}
+    \color{cyan}\Large\textbf{awinic} \\
+    \vspace{2mm}
+    \color{cyan}\small 上海艾为电子技术股份有限公司 \\
+    \color{cyan}\scriptsize shanghai awinic technology co., ltd.
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \centering
+    % Placeholder for logo alignment
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \raggedleft
+    \textbf{AW36526} \\
+    July 2019 V1.3
+\end{minipage}
+
+\vspace{2mm}
+\hrule
+\vspace{5mm}
+
+% Title
+{\Large \textbf{Inductorless, Triple Channel Flash \& Indicator 2in1 LED Driver}}
+
+\vspace{5mm}
+
+% Two Column Layout
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \section*{\color{cyan}FEATURES}
+    \begin{itemize}
+        \item Flash and Indicator 2in1 application
+        \item Dual Independent 1.0A LED1/LED2 Current Source
+        \begin{itemize}
+            \item[\(\triangleright\)] Flash: 3.91mA\(\sim\)1.0A, 256 levels 3.91mA/level
+            \item[\(\triangleright\)] Torch: 1.46mA\(\sim\)375mA, 256 levels 1.46mA/level
+            \item[\(\triangleright\)] Indicator: 0.37mA\(\sim\)375mA, 1024 levels 0.37mA/level
+            \item[\(\triangleright\)] Flash Timeout: 40ms\(\sim\)1.6s, 16 levels
+        \end{itemize}
+        \item Independent 375 mA LED3 Current Sink
+        \begin{itemize}
+            \item[\(\triangleright\)] Flash: 1.46mA\(\sim\)375mA, 256 levels 1.46mA/level
+            \item[\(\triangleright\)] Torch: 1.46mA\(\sim\)375mA, 256 levels 1.46mA/level
+            \item[\(\triangleright\)] Indicator: 0.73mA\(\sim\)375mA, 512 levels 0.73mA/level
+            \item[\(\triangleright\)] Flash Timeout: 40ms\(\sim\)1.6s, 16 levels
+        \end{itemize}
+        \item Optimized Flash LED Current During Low Battery Conditions (IVFM)
+        \item Hardware Strobe Enable (STROBE)
+        \item 400kHz \(I^2C\): AW36526 (\(I^2C\) Address=0x63)
+        \item 0.4mm Pitch, FCQFN-10L Package
+    \end{itemize}
+
+    \section*{\color{cyan}APPLICATION}
+    Smartphone Camera Flash
+
+    \section*{\color{cyan}TYPICAL APPLICATION CIRCUIT}
+    % Diagram placeholder
+    \begin{center}
+        \includegraphics[width=\textwidth]{placeholder_circuit.png} % Placeholder for the circuit diagram
+    \end{center}
+    \textbf{Fig 1 \quad Typical Application Circuit of AW36526}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \section*{\color{cyan}GENERAL DESCRIPTION}
+    The AW36526 is a inductorless triple channel flash \& Indicator 2in1 LED driver that provides a high level of adjustability within a ultra-small solution size. The AW36526 includes two current sources and a current sink which is controlled independently by \(I^2C\)-compatible interface. The AW36526 provides IVFM protection mode to prevent system reset or shutdown under low battery condition.
+
+    \vspace{3mm}
+    The AW36526 is controlled via an \(I^2C\)-compatible interface. The main features of the AW36526 include: flash / torch / IR / Indicator current, flash timeout duration, IVFM and breath features. The AW36526 also provides hardware flash pin (STROBE) to control flash event.
+
+    \vspace{3mm}
+    The device operates over a \(-40^{\circ}C\) to \(+85^{\circ}C\) ambient temperature range.
+
+    \vspace{3mm}
+    The AW36526 is available in small 0.4mm pitch 1.6mm\(\times\)1.2mm FCQFN-10L package.
+\end{minipage}
+
+\vspace{10mm}
+
+% Footer
+\footnotesize
+\textit{All trademarks are the property of their respective owners.}
+
+\vspace{5mm}
+\hrule
+\vspace{2mm}
+\noindent
+\begin{minipage}{0.33\textwidth}
+    www.awinic.com.cn
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \centering
+    1
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \raggedleft
+    Copyright \copyright 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD
+\end{minipage}
+
+\end{document}
+```

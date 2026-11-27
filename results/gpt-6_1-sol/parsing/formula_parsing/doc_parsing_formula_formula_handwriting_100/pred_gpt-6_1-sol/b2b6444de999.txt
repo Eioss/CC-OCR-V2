@@ -1,0 +1,32 @@
+\[
+\begin{aligned}
+S_w(Z(a,h(a)))-S_w(\Phi_w)
+&=\left.\frac{a^2}{2}\frac{d^2}{da^2}S_w(Z_w(a,h(a)))\right|_{a=\theta a<0},
+\qquad \text{for all }a\in(-a_1,a_1),\\[4pt]
+t&\to+\infty,\qquad \operatorname{Im}(\lambda)\to+\infty,\\
+\zeta_0+\zeta_1&\to-i(\xi',-j),\\
+\zeta_0\cdot\zeta_1-\lambda
+&\to-\frac12\left(|\xi'|^2+j^2\right),\\[4pt]
+n\,\mathbb E\!\left(
+\mathbf 1_{X'_0=1}\,
+\mathbf 1_{\sum_{1\le j\le p}X'_j\ge1}
+\right)
+&\le n\sum_{i\le p}\mathbb E\!\left[
+\mathbf 1_{B_r(q)\times S'}\,
+\mathbf 1_{B_r(q)\times S'}\circ f^i
+\right],\\[4pt]
+0&\longrightarrow j_{\beta!}\mathcal F'
+\longrightarrow\mathcal F
+\longrightarrow j_{\alpha*}\mathcal F''
+\longrightarrow0,\\[4pt]
+\|V\|_{X,+}
+&=\sup_{x\in[0,X]}e^{\alpha(X-x)}|V(x)|,\\
+\|V\|_{X,-}
+&=\sup_{x\in[-X,0]}e^{\alpha(X+x)}|V(x)|,\\[4pt]
+d\langle\widehat Q\rangle
+&=\operatorname{Tr}\!\left[d\widehat\rho_{AB}\,\widehat H_{AB}\right]=0,\\
+\mu_w&=i\mu\nu_x,\\[4pt]
+\|\varphi-\varphi^\varepsilon\|_{L^2(\mathbb T^2)}
+&<\frac{\varepsilon}{4M}.
+\end{aligned}
+\]

@@ -1,0 +1,465 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: left;
+  }
+  th {
+    text-align: center;
+    font-weight: bold;
+  }
+  .center-text {
+    text-align: center;
+  }
+  .right-text {
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align: left; border: none; font-size: 14px; padding-bottom: 10px;">
+        2017年 中国火炬统计年鉴
+      </th>
+    </tr>
+    <tr>
+      <th colspan="6" style="border: none; text-align: center; font-size: 14px; padding-bottom: 5px;">
+        1-5 各高新区企业人员情况
+      </th>
+    </tr>
+    <tr>
+      <th colspan="6" style="border: none; text-align: center; font-size: 12px; padding-bottom: 10px;">
+        Personnel Statistics of Enterprises in National Hi-tech Zones
+      </th>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: left; border: none; font-size: 10px;">单位：人</th>
+      <th colspan="4" style="text-align: right; border: none; font-size: 10px;">(person)</th>
+    </tr>
+    <tr>
+      <th rowspan="2" style="width: 15%;">地 区</th>
+      <th rowspan="2" style="width: 20%;">Region</th>
+      <th rowspan="2" style="width: 15%;">年末从业人员<br>Year End<br>Number of<br>Employees</th>
+      <th style="width: 15%;">留学归国人员<br>Returned<br>Overseas<br>Scholars</th>
+      <th style="width: 15%;">外籍常驻人员<br>Foreign<br>Personnel<br>in Residence</th>
+      <th style="width: 20%;">大专以上<br>College and<br>Higher Level</th>
+    </tr>
+    <tr>
+      <!-- Empty row for the sub-headers to align properly -->
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>合 计</td>
+      <td>Total</td>
+      <td class="right-text">18059323</td>
+      <td class="right-text">117638</td>
+      <td class="right-text">57708</td>
+      <td class="right-text">9898957</td>
+    </tr>
+    <tr>
+      <td>北京中关村</td>
+      <td>Beijing Zhongguancun</td>
+      <td class="right-text">2482615</td>
+      <td class="right-text">30197</td>
+      <td class="right-text">7153</td>
+      <td class="right-text">1846334</td>
+    </tr>
+    <tr>
+      <td>天津滨海</td>
+      <td>Tianjin Binhai</td>
+      <td class="right-text">372824</td>
+      <td class="right-text">3030</td>
+      <td class="right-text">2349</td>
+      <td class="right-text">238907</td>
+    </tr>
+    <tr>
+      <td>石家庄</td>
+      <td>Shijiazhuang</td>
+      <td class="right-text">119325</td>
+      <td class="right-text">510</td>
+      <td class="right-text">108</td>
+      <td class="right-text">88001</td>
+    </tr>
+    <tr>
+      <td>唐 山</td>
+      <td>Tangshan</td>
+      <td class="right-text">16573</td>
+      <td class="right-text">44</td>
+      <td class="right-text">46</td>
+      <td class="right-text">9037</td>
+    </tr>
+    <tr>
+      <td>保 定</td>
+      <td>Baoding</td>
+      <td class="right-text">114303</td>
+      <td class="right-text">157</td>
+      <td class="right-text">311</td>
+      <td class="right-text">58418</td>
+    </tr>
+    <tr>
+      <td>承 德</td>
+      <td>Chengde</td>
+      <td class="right-text">12064</td>
+      <td class="right-text">5</td>
+      <td class="right-text"></td>
+      <td class="right-text">5301</td>
+    </tr>
+    <tr>
+      <td>燕 郊</td>
+      <td>Yanjiao</td>
+      <td class="right-text">36018</td>
+      <td class="right-text">107</td>
+      <td class="right-text">168</td>
+      <td class="right-text">14350</td>
+    </tr>
+    <tr>
+      <td>太 原</td>
+      <td>Taiyuan</td>
+      <td class="right-text">119348</td>
+      <td class="right-text">193</td>
+      <td class="right-text">20</td>
+      <td class="right-text">74476</td>
+    </tr>
+    <tr>
+      <td>长 治</td>
+      <td>Changzhi</td>
+      <td class="right-text">50892</td>
+      <td class="right-text">9</td>
+      <td class="right-text">1</td>
+      <td class="right-text">21387</td>
+    </tr>
+    <tr>
+      <td>呼和浩特</td>
+      <td>Hohhot</td>
+      <td class="right-text">59228</td>
+      <td class="right-text">68</td>
+      <td class="right-text">12</td>
+      <td class="right-text">36594</td>
+    </tr>
+    <tr>
+      <td>包 头</td>
+      <td>Baotou</td>
+      <td class="right-text">90820</td>
+      <td class="right-text">339</td>
+      <td class="right-text">33</td>
+      <td class="right-text">41983</td>
+    </tr>
+    <tr>
+      <td>沈 阳</td>
+      <td>Shenyang</td>
+      <td class="right-text">109696</td>
+      <td class="right-text">483</td>
+      <td class="right-text">62</td>
+      <td class="right-text">70124</td>
+    </tr>
+    <tr>
+      <td>大 连</td>
+      <td>Dalian</td>
+      <td class="right-text">180671</td>
+      <td class="right-text">4708</td>
+      <td class="right-text">927</td>
+      <td class="right-text">123822</td>
+    </tr>
+    <tr>
+      <td>鞍 山</td>
+      <td>Anshan</td>
+      <td class="right-text">38375</td>
+      <td class="right-text">131</td>
+      <td class="right-text">17</td>
+      <td class="right-text">19757</td>
+    </tr>
+    <tr>
+      <td>本 溪</td>
+      <td>Benxi</td>
+      <td class="right-text">9543</td>
+      <td class="right-text">18</td>
+      <td class="right-text">3</td>
+      <td class="right-text">3937</td>
+    </tr>
+    <tr>
+      <td>锦 州</td>
+      <td>Jinzhou</td>
+      <td class="right-text">21379</td>
+      <td class="right-text">10</td>
+      <td class="right-text">16</td>
+      <td class="right-text">7965</td>
+    </tr>
+    <tr>
+      <td>营 口</td>
+      <td>Yingkou</td>
+      <td class="right-text">34260</td>
+      <td class="right-text">113</td>
+      <td class="right-text">19</td>
+      <td class="right-text">8695</td>
+    </tr>
+    <tr>
+      <td>阜 新</td>
+      <td>Fuxin</td>
+      <td class="right-text">17436</td>
+      <td class="right-text">7</td>
+      <td class="right-text">1</td>
+      <td class="right-text">4652</td>
+    </tr>
+    <tr>
+      <td>辽 阳</td>
+      <td>Liaoyang</td>
+      <td class="right-text">38976</td>
+      <td class="right-text">27</td>
+      <td class="right-text">9</td>
+      <td class="right-text">14561</td>
+    </tr>
+    <tr>
+      <td>长 春</td>
+      <td>Changchun</td>
+      <td class="right-text">171482</td>
+      <td class="right-text">1876</td>
+      <td class="right-text">766</td>
+      <td class="right-text">109101</td>
+    </tr>
+    <tr>
+      <td>长春净月</td>
+      <td>Changchun Jingyue</td>
+      <td class="right-text">135130</td>
+      <td class="right-text">819</td>
+      <td class="right-text">155</td>
+      <td class="right-text">103451</td>
+    </tr>
+    <tr>
+      <td>吉 林</td>
+      <td>Jilin</td>
+      <td class="right-text">68126</td>
+      <td class="right-text">34</td>
+      <td class="right-text"></td>
+      <td class="right-text">40388</td>
+    </tr>
+    <tr>
+      <td>通 化</td>
+      <td>Tonghua</td>
+      <td class="right-text">78556</td>
+      <td class="right-text">22</td>
+      <td class="right-text">1</td>
+      <td class="right-text">31755</td>
+    </tr>
+    <tr>
+      <td>延 吉</td>
+      <td>Yanji</td>
+      <td class="right-text">13385</td>
+      <td class="right-text">11</td>
+      <td class="right-text">23</td>
+      <td class="right-text">8061</td>
+    </tr>
+    <tr>
+      <td>哈尔滨</td>
+      <td>Harbin</td>
+      <td class="right-text">96524</td>
+      <td class="right-text">169</td>
+      <td class="right-text">9</td>
+      <td class="right-text">58560</td>
+    </tr>
+    <tr>
+      <td>齐齐哈尔</td>
+      <td>Qiqihaer</td>
+      <td class="right-text">25689</td>
+      <td class="right-text">25</td>
+      <td class="right-text"></td>
+      <td class="right-text">11318</td>
+    </tr>
+    <tr>
+      <td>大 庆</td>
+      <td>Daqing</td>
+      <td class="right-text">112391</td>
+      <td class="right-text">85</td>
+      <td class="right-text">135</td>
+      <td class="right-text">54525</td>
+    </tr>
+    <tr>
+      <td>上海张江</td>
+      <td>Shanghai Zhangjiang</td>
+      <td class="right-text">913156</td>
+      <td class="right-text">9635</td>
+      <td class="right-text">8043</td>
+      <td class="right-text">617316</td>
+    </tr>
+    <tr>
+      <td>上海紫竹</td>
+      <td>Shanghai Zizhu</td>
+      <td class="right-text">22112</td>
+      <td class="right-text">1801</td>
+      <td class="right-text">542</td>
+      <td class="right-text">19053</td>
+    </tr>
+    <tr>
+      <td>南 京</td>
+      <td>Nanjing</td>
+      <td class="right-text">249453</td>
+      <td class="right-text">1266</td>
+      <td class="right-text">582</td>
+      <td class="right-text">150368</td>
+    </tr>
+    <tr>
+      <td>无 锡</td>
+      <td>Wuxi</td>
+      <td class="right-text">247778</td>
+      <td class="right-text">4740</td>
+      <td class="right-text">3209</td>
+      <td class="right-text">137121</td>
+    </tr>
+    <tr>
+      <td>江 阴</td>
+      <td>Jiangyin</td>
+      <td class="right-text">93021</td>
+      <td class="right-text">359</td>
+      <td class="right-text">225</td>
+      <td class="right-text">26729</td>
+    </tr>
+    <tr>
+      <td>徐 州</td>
+      <td>Xuzhou</td>
+      <td class="right-text">40793</td>
+      <td class="right-text">49</td>
+      <td class="right-text">14</td>
+      <td class="right-text">22329</td>
+    </tr>
+    <tr>
+      <td>常 州</td>
+      <td>Changzhou</td>
+      <td class="right-text">164026</td>
+      <td class="right-text">1717</td>
+      <td class="right-text">1308</td>
+      <td class="right-text">84008</td>
+    </tr>
+    <tr>
+      <td>武 进</td>
+      <td>Wujin</td>
+      <td class="right-text">108299</td>
+      <td class="right-text">367</td>
+      <td class="right-text">386</td>
+      <td class="right-text">48532</td>
+    </tr>
+    <tr>
+      <td>苏 州</td>
+      <td>Suzhou</td>
+      <td class="right-text">225468</td>
+      <td class="right-text">1418</td>
+      <td class="right-text">1881</td>
+      <td class="right-text">101999</td>
+    </tr>
+    <tr>
+      <td>昆 山</td>
+      <td>Kunshan</td>
+      <td class="right-text">186631</td>
+      <td class="right-text">344</td>
+      <td class="right-text">1161</td>
+      <td class="right-text">60639</td>
+    </tr>
+    <tr>
+      <td>常 熟</td>
+      <td>Changshu</td>
+      <td class="right-text">77048</td>
+      <td class="right-text">217</td>
+      <td class="right-text">643</td>
+      <td class="right-text">25000</td>
+    </tr>
+    <tr>
+      <td>南 通</td>
+      <td>Nantong</td>
+      <td class="right-text">95920</td>
+      <td class="right-text">366</td>
+      <td class="right-text">53</td>
+      <td class="right-text">60937</td>
+    </tr>
+    <tr>
+      <td>连云港</td>
+      <td>Lianyungang</td>
+      <td class="right-text">41237</td>
+      <td class="right-text">72</td>
+      <td class="right-text">30</td>
+      <td class="right-text">26197</td>
+    </tr>
+    <tr>
+      <td>盐 城</td>
+      <td>Yancheng</td>
+      <td class="right-text">54662</td>
+      <td class="right-text">138</td>
+      <td class="right-text">241</td>
+      <td class="right-text">13333</td>
+    </tr>
+    <tr>
+      <td>扬 州</td>
+      <td>Yangzhou</td>
+      <td class="right-text">37670</td>
+      <td class="right-text">109</td>
+      <td class="right-text">40</td>
+      <td class="right-text">15563</td>
+    </tr>
+    <tr>
+      <td>镇 江</td>
+      <td>Zhenjiang</td>
+      <td class="right-text">65232</td>
+      <td class="right-text">99</td>
+      <td class="right-text">85</td>
+      <td class="right-text">26936</td>
+    </tr>
+    <tr>
+      <td>泰 州</td>
+      <td>Taizhou</td>
+      <td class="right-text">46738</td>
+      <td class="right-text">218</td>
+      <td class="right-text">80</td>
+      <td class="right-text">28349</td>
+    </tr>
+    <tr>
+      <td>杭 州</td>
+      <td>Hangzhou</td>
+      <td class="right-text">291863</td>
+      <td class="right-text">2354</td>
+      <td class="right-text">785</td>
+      <td class="right-text">223868</td>
+    </tr>
+    <tr>
+      <td>萧山临江</td>
+      <td>Xiaoshan Linjiang</td>
+      <td class="right-text">70975</td>
+      <td class="right-text">56</td>
+      <td class="right-text">132</td>
+      <td class="right-text">19273</td>
+    </tr>
+    <tr>
+      <td>宁 波</td>
+      <td>Ningbo</td>
+      <td class="right-text">171125</td>
+      <td class="right-text">527</td>
+      <td class="right-text">143</td>
+      <td class="right-text">63771</td>
+    </tr>
+    <tr>
+      <td>温 州</td>
+      <td>Wenzhou</td>
+      <td class="right-text">108791</td>
+      <td class="right-text">55</td>
+      <td class="right-text">34</td>
+      <td class="right-text">19783</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+```

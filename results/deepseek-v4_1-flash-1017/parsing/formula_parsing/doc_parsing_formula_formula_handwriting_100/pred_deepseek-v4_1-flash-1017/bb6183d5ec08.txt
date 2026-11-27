@@ -1,0 +1,17 @@
+Here is the LaTeX code for the formulas in the image:
+
+```latex
+\begin{align*}
+& E\left[\sum_{a}\sum_{z} \frac{I\{PS=s\} I\{Z=z\} I\{A_{a}=z\} a(a+z) Y_{a}}{X}\right] \\
+&\quad = \left[\sum_{a}\sum_{z} \frac{I(PS=s) I(A_{a}=a) a(a+z) Y_{a}}{z}\right] f(z|X) \\
+& \lambda_{z} - \lambda_{z+1} \geq \begin{cases} w(c_{z}, c_{z+1}), & \text{if } c_{z} < 2^{k-1} \\ w(c_{z}, \delta(c_{z}-2^{k-1}, c_{z+1})), & \text{if } c_{z} \geq 2^{k-1} \end{cases} \\
+& h_{\min}(x^{s-1}) > h_{\min}(x^{s}) > h_{\min}(x^{s+1}) > \dots > h_{\min}(x^{n}) \\
+& \sum_{t} \kappa(\tilde{u}_{t}^{i}) \leq \sum_{t} (\kappa(u_{t}) - 1) \leq \sum_{t} \kappa(u_{t}) - d \leq n \\
+& P_{0}(\bar{\kappa}_{j}) = P(\beta_{j, r}, \kappa_{j, r} = 0, \beta_{k, l}, \gamma_{j, r} = 0 \mid y) \\
+& \quad \leq \min \{ P(\beta_{j, r}, \kappa_{j, r} = 0 \mid y), P(\beta_{k, l}, \gamma_{j, r} = 0 \mid y) \} \\
+& A_{0} \lesssim \int_{0}^{T} |u^{k+l}| L_{x}^{\infty} \| D_{x}^{k} (u^{k+l} u_{x}^{k+l}) \|_{L_{x}^{2}} dt + \int_{0}^{T} \| D_{x}^{k} (u^{k+l} u_{x}^{k+l}) \|_{L_{x}^{2}} dt \\
+& \quad = A_{1} + A_{2} \\
+& \| Du \|_{L^{2}(\partial \Omega)} \geq \| \frac{\lambda(\Omega)}{N} |x - x_{0}| - 1 \| Du \|_{L^{1}(\partial \Omega)} \\
+& \quad \geq \| \frac{\lambda(\Omega)}{N} |x - x_{0}| - 1 \|_{L^{2}(\partial \Omega)} - \| 1 \| Du \| - 1 \|_{L^{2}(\partial \Omega)}
+\end{align*}
+```

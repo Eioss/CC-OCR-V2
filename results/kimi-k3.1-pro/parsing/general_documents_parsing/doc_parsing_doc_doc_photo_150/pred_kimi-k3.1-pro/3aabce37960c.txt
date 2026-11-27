@@ -1,0 +1,92 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\setlength{\parindent}{0pt}
+\newcommand{\answerbox}{\fbox{\rule{0pt}{2em}\hspace{4.2cm}}}
+
+\begin{document}
+
+{\Large \textbf{Word Power}}
+
+\begin{tabular}{ll}
+\textbf{Extra} & more than what is needed \\
+\textbf{Instead} & as an alternative \\
+\textbf{Din} & noise \\
+\textbf{Seize} & catch by force \\
+\end{tabular}
+
+\vspace{1em}
+
+{\Large \textbf{Test Your Reading}}
+
+\vspace{1em}
+
+\textbf{1. Complete the following statements :}
+
+(a) They began \underline{\textit{heating}} the iron and forging it \\
+again.
+
+(b) The farmer \underline{\textit{led}} the lord to the storeroom.
+
+(c) Off rode the \underline{\textit{farmer}} and the lord to get what he had earned.
+
+(d) The lord \underline{\textit{heated}} it well and threw it in a tub of water.
+
+(e) The lord \underline{\textit{did not}} want the coachman to know the shame.
+
+\vspace{1em}
+
+\textbf{2. Answer the following questions :}
+
+(a) What did the lord try to make when he failed to make the plough ?
+
+(b) What did the lord try to make when he could not make the axe ?
+
+(c) What did the lord make at last ?
+
+(d) How did the lord make a sizz ?
+
+(e) Why did the lord take the sack to the farmer's home ?
+
+(f) What did the strongmen do ?
+
+\vspace{1em}
+
+\textbf{3. Who said to whom :}
+
+(a) Oh all right then.
+
+\vspace{0.5em}
+
+\textbf{\textit{Who said ?}} \answerbox
+\hfill
+\textbf{\textit{To whom ?}} \answerbox
+
+\vspace{1em}
+
+(b) It's a fine sizz.
+
+\vspace{0.5em}
+
+\textbf{\textit{Who said ?}} \answerbox
+\hfill
+\textbf{\textit{To whom ?}} \answerbox
+
+\vspace{1em}
+
+(c) I'll take the sack and go into the storeroom myself.
+
+\vspace{0.5em}
+
+\textbf{\textit{Who said ?}} \answerbox
+\hfill
+\textbf{\textit{To whom ?}} \answerbox
+
+\vfill
+
+\begin{center}
+12
+\end{center}
+
+\end{document}
+```

@@ -1,0 +1,45 @@
+```html
+<table border="1">
+  <tr><td colspan="3"><b>Example:</b></td></tr>
+  <tr><td colspan="3" align="center"><b>ABC Design</b></td></tr>
+  <tr><td colspan="3" align="center"><b>Balance Sheet</b></td></tr>
+  <tr><td colspan="3" align="center"><b>As at December 31, 2022</b></td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td colspan="3"><b>ASSETS</b></td></tr>
+  <tr><td colspan="3"><b>Current Assets</b></td></tr>
+  <tr><td>Cash and cash equivalents</td><td>$</td><td align="right">100.00</td></tr>
+  <tr><td>Accounts Receivable</td><td></td><td align="right">150.00</td></tr>
+  <tr><td>Inventories</td><td></td><td align="right">100.00</td></tr>
+  <tr><td>Prepaid and other assets</td><td></td><td align="right">100.00</td></tr>
+  <tr><td><b>Total Current Assets</b></td><td></td><td align="right">450.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td>Long-term Investment</td><td></td><td align="right">200.00</td></tr>
+  <tr><td>Property &amp; Equipment</td><td></td><td align="right">100.00</td></tr>
+  <tr><td>Other assets</td><td></td><td align="right">100.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td><b>TOTAL ASSETS</b></td><td>$</td><td align="right">850.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td colspan="3"><b>LIABILITIES</b></td></tr>
+  <tr><td colspan="3"><b>Current Liabilities</b></td></tr>
+  <tr><td>Accounts Payable</td><td>$</td><td align="right">100.00</td></tr>
+  <tr><td>Unearned Revenue</td><td></td><td align="right">50.00</td></tr>
+  <tr><td>Short-term debt</td><td></td><td align="right">100.00</td></tr>
+  <tr><td><b>Total Current Liabilities</b></td><td></td><td align="right">250.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td>Long-term debt</td><td></td><td align="right">200.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td><b>TOTAL LIABILITIES</b></td><td>$</td><td align="right">450.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td colspan="3"><b>OWNER'S EQUITY</b></td></tr>
+  <tr><td>Equity</td><td>$</td><td align="right">100.00</td></tr>
+  <tr><td>Retained Earnings</td><td></td><td align="right">300.00</td></tr>
+  <tr><td><b>TOTAL EQUITY</b></td><td>$</td><td align="right">400.00</td></tr>
+  <tr><td colspan="3"></td></tr>
+  <tr><td><b>TOATL LIABILITIES AND OWNER'S EQUITY</b></td><td>$</td><td align="right">850.00</td></tr>
+</table>
+```
+
+Notes:
+- The title and section-heading rows span all three columns (`colspan="3"`) to reflect their merged, centered layout in the image.
+- The original typo "TOATL" in the final row has been preserved as shown in the image.

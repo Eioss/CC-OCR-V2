@@ -1,0 +1,47 @@
+\[
+\mu(t,\lambda|\mu^{1};\Sigma C_{\theta}A[\mu_{t}(\lambda,\lambda)|\mu^{1}];+\lambda[\nabla(\mu-Q)(t,\lambda)]\mu^{1-\mu}).
+\]
+
+\[
+I=(\lambda[\,],S;i\in K)
+\]
+
+\[
+\langle\phi,\mu\rangle<\langle\phi,\nu\rangle
+\]
+
+\[
+p_{i}^{t+1}=\frac{\alpha_{t+i}y_{j_{i}\mu}+A_{t}w_{j}^{t}}{A_{t+1}}
+\qquad k=1,\ldots,n
+\]
+
+\[
+\delta(D^{2})(t,\Delta t,k,N)\equiv(D^{2})(t,\Delta t,k,N)-\{D(t,\Delta t,k,N)\}^{2}
+\equiv N\,\underline{\delta(\epsilon^{2})(t,A+k)}
+\]
+
+\[
+K+|x(t)-x^{*}|^{2}\leq t(F(x(t))-F^{*})=a(t),
+\]
+
+\[
+(R_{\Omega}(\mu+i\epsilon)f,g)
+=\int_{R^{n}}\frac{\overline{f(\xi)}g(\xi)\,d\xi}{\xi^{2}/2-(\mu+i\epsilon)}
+\]
+
+\[
++\int_{0}^{\infty}(2\lambda)^{(m-2)/2}
+\frac{1}{(\lambda-\mu-i\epsilon)^{m}}
+\hat f(\sqrt{2\lambda}\omega)
+\overline{\hat g(\sqrt{2\lambda}\omega)}
+\,d\omega\,d\lambda,
+\]
+
+\[
+I=\sup_{0<\rho<1}\rho^{-1}\int_{B_{\rho}(x)}M_{\rho}f(y)\,dy,
+\]
+
+\[
+\mu(\beta)+\psi(\beta+2(1-\lambda))-2\psi(\beta+1-\lambda)
+\leq\ln\!\left(1+\frac{c_{1}-n^{2}}{\beta-2\lambda+1/4}\alpha\psi\phi\xi\right).
+\]

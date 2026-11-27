@@ -1,0 +1,3 @@
+Based on the chemical structure shown in the image, here is the corresponding SMILES string:
+
+`Cc1ccc2c(c1)c1CCN(C)Cc1n2CC(O)CNc1cccc(OC)c1`

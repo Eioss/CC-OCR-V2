@@ -1,0 +1,7 @@
+The text 'USD2807.20' appears twice on the invoice:
+
+1. In the AMOUNT column of the line item:
+(778, 519, 866, 531)
+
+2. On the TOTAL line:
+(791, 607, 879, 620)

@@ -1,0 +1,69 @@
+```latex
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+\usepackage{xeCJK} % Required for Chinese characters: （照片）
+
+\definecolor{headerblue}{RGB}{217, 226, 243}
+
+\begin{document}
+
+\noindent
+\begin{tabular}{|p{3.2cm}|p{3.2cm}|p{2.2cm}|p{5.5cm}|p{2.2cm}|}
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Personal Information}} \\
+\hline
+\textbf{Name} & Songxxxx & \textbf{Objective} & Management Trainee & \multirow{7}{2.2cm}{\centering （照片）} \\
+\cline{1-4}
+\textbf{Gender} & Male & \textbf{Birth} & 1993 09 & \\
+\cline{1-4}
+\textbf{Political affiliation} & Party Member & \textbf{Nation} & Han & \\
+\cline{1-4}
+\textbf{Cell no.} & 189----7742 & \textbf{Origo} & Heilongjiang Wuchang & \\
+\cline{1-4}
+\textbf{E-mail} & xxxxx & \textbf{School} & Harbin Engineering University & \\
+\cline{1-4}
+\textbf{Degree} & Bachelor & \textbf{Major} & Naval Architecture and Marine Engineering & \\
+\cline{1-4}
+\textbf{Cet 4/6} & \textbf{545/515} & \textbf{Score} & \textbf{85.34} & \\
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Prizes \& Rewards}} \\
+\hline
+\multicolumn{2}{|c|}{\textbf{Academic Skills}} & \multicolumn{3}{p{10.5cm}|}{2011- 2014 Awarded second-grade scholarship 4 times \newline 2013.10 \quad Awarded third-grade scholarship} \\
+\hline
+\multicolumn{2}{|c|}{\textbf{Creative Ability}} & \multicolumn{3}{p{10.5cm}|}{2013.04 \quad Accomplish two University's scientific research projects \newline 2012.10 \quad The second prize of ``WuSi''Science competition} \\
+\hline
+\multicolumn{2}{|c|}{\textbf{Ideological Morality}} & \multicolumn{3}{p{10.5cm}|}{2012.10 \quad ``Merit Student'' \newline 2013.10 \quad ``Excellent Student Cadre'' \newline 2014.05 \quad ``Excellent League Member''} \\
+\hline
+\multicolumn{2}{|c|}{\textbf{Communicational Ability}} & \multicolumn{3}{p{10.5cm}|}{2013.05 \quad ``Top Ten Hoster'' in campus(4/230) \newline 2012.05 \quad The First Prize of ``student cadres Speech Contest'' \newline 2013.04 \quad The First Prize of ``Presentation Contest''} \\
+\hline
+\multicolumn{2}{|c|}{\textbf{Working attitude}} & \multicolumn{3}{p{10.5cm}|}{2013.09 \quad Outstanding worker in anniversary of the founding of school \newline 2012.12 \quad Outstanding Volunteer of national ``TRIZ'' Science competition \newline 2013.09 \quad Outstanding worker of college} \\
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Associations Experience:}} \\
+\hline
+\multicolumn{5}{|p{17.5cm}|}{
+\textbf{2013.6-2014.6 \qquad College of shipbuilding engineering \qquad Secretary-general of Student union} \newline
+$\blacksquare$\textbf{Files arrangement:} In charge of the plans of activities and arrangement of files in student union. Familiar with the use of OFFICE and PHOTOSHOP software.Had accomplished plans of 22 activities,and arranged 135 files of 16 sections in student union.besides, organized 4 events as the leader. \newline
+$\blacksquare$\textbf{Accounting:} In charge of accounting and applying for reimbursement for cost of student union,which is about 25,000 yuan totally. \newline
+$\blacksquare$\textbf{Nerve:} In charge of communicating with various sections,and coordinate their work. Under my coordinating,the student union had acommplished 3 large-scale events.
+} \\
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Self Description:}} \\
+\hline
+\multicolumn{5}{|p{17.5cm}|}{
+\quad ``opportunities always favor the prepared mind'',I regard it as my motto,and One of key words of my character is plan,I am used to makeing a gengral plan before i start my work,there is no doubt taht a good plan could always save much precious time. \newline
+\quad I had a colorful colloege life.i was the Secretary-general of Student union,in three years work,i learned how to communicate and cooperation with others and come to realized how important personal sense of resopnsbility is to the whole teams success.
+} \\
+\hline
+\multicolumn{5}{|l|}{\cellcolor{headerblue}\textbf{Personal hobby}} \\
+\hline
+\multicolumn{5}{|l|}{harmonicon \qquad football \qquad photography} \\
+\hline
+\end{tabular}
+
+\end{document}
+```

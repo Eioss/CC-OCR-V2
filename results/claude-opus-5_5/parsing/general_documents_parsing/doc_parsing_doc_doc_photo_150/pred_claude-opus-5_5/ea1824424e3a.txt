@@ -1,0 +1,59 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+{\small Candidate Statement of Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{@{}l l@{}}
+\textbf{\large Season:} & {\large Summer Season 2019} \\
+\textbf{\large Name:}   & {\large Anisha \rule{6cm}{0.4pt}} \quad \textit{[redacted]} \\
+\textbf{\large Can\ldots} & \textit{[redacted]} \\
+\textbf{\large UCI:}    & \textit{[redacted]} \\
+\end{tabular}
+\hfill
+\begin{tabular}{@{}l l@{}}
+\textbf{\large Series:} & {\large (All)} \\
+\textbf{\large Year:}   & {\large 11} \\
+\end{tabular}
+
+\vspace{1em}
+
+\noindent{\large Exam Results}
+
+\vspace{0.5em}
+
+\noindent
+\begin{tabular}{l l l l c c c}
+\toprule
+\textbf{Board} & \textbf{Level} & \textbf{Element Code} & \textbf{Title} & \textbf{Grd1} & \textbf{Grd2} & \textbf{M} \\
+\midrule
+AQA        & GCSE/9DA & 8464H  & Combined Sci: Trilogy Tier H    & 99 & & \\
+EDEXL/GC   & GCSE/9FC & 1GB0   & Geography B                     & 9  & & \\
+AQA        & GCSE/9FC & 8062BA & Religious Studies A Option BA   & 9  & & \\
+AQA        & GCSE/9FC & 8668H  & German Tier H                   & 9  & & \\
+AQA        & GCSE/9FC & 8698H  & Spanish Tier H                  & 9  & & \\
+AQA        & GCSE/9FC & 8700   & English Language                & 9  & & \\
+AQA        & GCSE/9FC & 8702   & English Literature\textsuperscript{*} & 9 & & \\
+OCR        & GCSE/9FC & J560H  & Mathematics (Higher Tier)       & 7  & & \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.5em}
+
+\noindent{\footnotesize \textsuperscript{*}Row circled in the original image.}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The redacted fields (surname, candidate number, UCI, and the partially hidden number on the right) are marked as `[redacted]` rather than reconstructed.
+- The faint background text behind the table is illegible and was not transcribed.
+- The image contains no equations, only text and a table.
+- The "M" column header is cut off at the image edge and has no visible entries.

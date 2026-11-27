@@ -1,0 +1,86 @@
+\[
+\begin{aligned}
+&\left(
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{\frac1p}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{\frac1q}
+\right)^{m}
+\\
+&\leq
+\frac{m}{p}\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}
++\frac{m}{q}\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}
+\\
+&\quad-
+\sum_{j=1}^{N}
+\left(
+(-1)^{r_j}2^{j-1}\frac{m}{p}
++(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]
+\right)
+\\
+&\qquad\times
+\left(
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{k_j}
+}
+-
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}
+}
+\right)^{2}
+\\
+&\leq
+\frac{m}{p}\sum_{i=1}^{n}\langle |T_i|^{p}x,y\rangle
++\frac{m}{q}\sum_{i=1}^{n}\langle |T_i^{*}|^{q}x,y\rangle
+\\
+&\quad-
+\sum_{j=1}^{N}
+\left(
+(-1)^{r_j}2^{j-1}\frac{m}{p}
++(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]
+\right)
+\\
+&\qquad\times
+\left(
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{k_j}
+}
+-
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}
+}
+\right)^{2}
+\qquad\text{(by (??))}
+\\
+&=
+\frac{m}{p}\left\langle
+\left(\sum_{i=1}^{n}|T_i|^{p}\right)x,y
+\right\rangle
++\frac{m}{q}\left\langle
+\left(\sum_{i=1}^{n}|T_i^{*}|^{q}\right)x,y
+\right\rangle
+\\
+&\quad-
+\sum_{j=1}^{N}
+\left(
+(-1)^{r_j}2^{j-1}\frac{m}{p}
++(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]
+\right)
+\\
+&\qquad\times
+\left(
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{2^{j-1}-k_j}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{k_j}
+}
+-
+\sqrt[2^{j}]{
+\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}
+\left(\sum_{i=1}^{n}\langle |T_i^{*}|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}
+}
+\right)^{2}
+\qquad\text{(by Lemma (?), (a)).}
+\end{aligned}
+\]

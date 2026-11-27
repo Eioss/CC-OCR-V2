@@ -1,0 +1,83 @@
+\[
+R=K[x,y]/\left\langle x^{2}+y^{2}-1\right\rangle
+\]
+
+\[
+\begin{cases}
+F(x,t,D^{2}u)-\partial_{t}u=B_{\epsilon}(u)u^{\gamma-1} & \text{in }\Omega_{T},\\[4pt]
+u=\varphi & \text{on }\partial_{p}\Omega_{T},
+\end{cases}
+\]
+
+\[
+A=\left\{x\in[k]_{0}^{n}:\left|\left\{i:x_{i}=t\right\}\right|<m\right\}.
+\]
+
+\[
+\text{data}\mid\lambda\overset{d}{=}\operatorname{Poisson}(\lambda),\qquad
+\Lambda\mid\theta\overset{d}{=}\theta e^{-\lambda\theta},\qquad
+\Theta\overset{d}{=}\operatorname{IS}_{\alpha,\rho}(\theta),\qquad
+\alpha,\rho\text{-known}.
+\]
+
+\[
+\begin{aligned}
+d\hat{\rho}_{t}
+={}&-i[\hat{H},\hat{\rho}_{t}]\,dt
+-k_{t}[\hat{\sigma}_{t},[\hat{\sigma}_{t},\hat{\rho}_{t}]]\,dt\\
+&+\sqrt{2k_{t}}\left[
+\hat{\sigma}_{t}\hat{\rho}_{t}
++\hat{\rho}_{t}\hat{\sigma}_{t}
+-2\operatorname{Tr}(\hat{\sigma}_{t}\hat{\rho}_{t})\hat{\rho}_{t}
+\right]dW_{t}.
+\end{aligned}
+\]
+
+\[
+\partial TV(u)=
+\left\{
+\operatorname{div}\varphi\ \middle|\ 
+\|\varphi\|_{L^{\infty}(\Omega;\mathbb{R}^{n})}\leq 1,\ 
+\varphi\cdot n|_{\partial\Omega}=0,\ 
+\langle\operatorname{div}\varphi,u\rangle_{L^{2}(\Omega)}=TV(u)
+\right\},
+\]
+
+\[
+\delta x_{\xi}(t)=
+\left[R-\xi/\cos(\omega_{r}t)\right]
+\Theta\!\left(x-|\omega_{r}t|\right),
+\]
+
+\[
+\delta y_{\xi}(t)=
+\xi\left[\omega_{r}t\tan(x)/x-\tan(\omega_{r}t)\right]
+\Theta\!\left(x-|\omega_{r}t|\right)
+\]
+
+\[
+\mathcal{H}^{2}(\widetilde{\Sigma})
++T_{h}(\Sigma,\widetilde{\Sigma})
+\leq
+\mathcal{H}^{2}(\widetilde{\Sigma})
++T_{h}(\Sigma,\widetilde{\Sigma})
++\mathcal{H}^{2}(\partial B)
+-c\mathcal{H}^{3}(B)
+\leq \mathcal{H}^{2}(\Sigma),
+\]
+
+\[
+\begin{aligned}
+\mathbb{P}(X_{n}>x)
+\sim{}&
+\mathbb{E}(X_{0})m_{\xi}^{n-1}
+\sum_{i=0}^{n-1}m_{\xi}^{i(\beta-1)}
+\mathbb{P}(\xi>x)
++m_{\xi}^{n\beta}\mathbb{P}(X_{0}>x)\\
+&+m_{\epsilon}\sum_{j=1}^{n-1}m_{\xi}^{n-j-1}
+\sum_{i=0}^{n-j-1}m_{\xi}^{i(\beta-1)}
+\mathbb{P}(\xi>x)
++\sum_{j=1}^{n}m_{\xi}^{(n-j)\beta}
+\mathbb{P}(\epsilon>x)
+\end{aligned}
+\]

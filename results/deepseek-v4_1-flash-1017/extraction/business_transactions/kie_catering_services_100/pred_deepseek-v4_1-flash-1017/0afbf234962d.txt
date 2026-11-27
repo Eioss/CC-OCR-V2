@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "name": "BASO TAHU",
+      "quantity": "1",
+      "price": "43,181"
+    },
+    {
+      "name": "ES JERUK",
+      "quantity": "1",
+      "price": "13,000"
+    }
+  ],
+  "sub_total": "56,181",
+  "total": "61,799"
+}
+```

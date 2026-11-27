@@ -1,0 +1,134 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=1.1cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.25}
+\definecolor{sectionblue}{RGB}{213,224,239}
+
+\newcommand{\sectionbar}[1]{%
+  \noindent\colorbox{sectionblue}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{\textbf{#1}}}%
+  \par\smallskip
+}
+
+\begin{document}
+\footnotesize
+
+\sectionbar{Personal Information}
+
+\noindent
+\begin{tabular}{
+|>{\bfseries\centering\arraybackslash}p{2.8cm}
+|>{\centering\arraybackslash}p{2.8cm}
+|>{\bfseries\centering\arraybackslash}p{1.8cm}
+|>{\centering\arraybackslash}p{7.4cm}
+|>{\centering\arraybackslash}p{1.8cm}|}
+\hline
+Name & Songxxxx & Objective & Management Trainee &
+\multirow{7}{*}{(照片)}\\
+\cline{1-4}
+Gender & Male & Birth & 1993 09 & \\
+\cline{1-4}
+Political affiliation & Party Member & Nation & Han & \\
+\cline{1-4}
+Cell no. & 189----7742 & Origo & Heilongjiang Wuchang & \\
+\cline{1-4}
+E-mail & xxxxx & School & Harbin Engineering University & \\
+\cline{1-4}
+Degree & Bachelor & Major & Naval Architecture and Marine Engineering & \\
+\cline{1-4}
+Cet 4/6 & 545/515 & Score & 85.34 & \\
+\hline
+\end{tabular}
+
+\smallskip
+\sectionbar{Prizes \& Rewards}
+
+\noindent
+\begin{tabularx}{\textwidth}{
+|>{\centering\arraybackslash}p{4.2cm}
+|>{\centering\arraybackslash}p{1.8cm}
+|>{\raggedright\arraybackslash}X|}
+\hline
+\multirow{2}{*}{\textbf{Academic Skills}}
+& 2011- 2014 & Awarded second-grade scholarship 4 times\\
+\cline{2-3}
+& 2013.10 & Awarded third-grade scholarship\\
+\hline
+\multirow{2}{*}{\textbf{Creative Ability}}
+& 2013.04 & Accomplish two University's scientific research projects\\
+\cline{2-3}
+& 2012.10 & The second prize of ``WuSi''Science competition\\
+\hline
+\multirow{3}{*}{\textbf{Ideological Morality}}
+& 2012.10 & ``Merit Student''\\
+\cline{2-3}
+& 2013.10 & ``Excellent Student Cadre''\\
+\cline{2-3}
+& 2014.05 & ``Excellent League Member''\\
+\hline
+\multirow{3}{*}{\textbf{Communicational Ability}}
+& 2013.05 & ``Top Ten Hoster'' in campus(4/230)\\
+\cline{2-3}
+& 2012.05 & The First Prize of ``student cadres Speech Contest''\\
+\cline{2-3}
+& 2013.04 & The First Prize of ``Presentation Contest''\\
+\hline
+\multirow{3}{*}{\textbf{Working attitude}}
+& 2013.09 & Outstanding worker in anniversary of the founding of school\\
+\cline{2-3}
+& 2012.12 & Outstanding Volunteer of national ``TRIZ'' Science competition\\
+\cline{2-3}
+& 2013.09 & Outstanding worker of college\\
+\hline
+\end{tabularx}
+
+\smallskip
+\sectionbar{Associations Experience:}
+
+\noindent
+\begin{tabularx}{\textwidth}{
+@{}p{2.8cm}p{6.2cm}>{\raggedright\arraybackslash}X@{}}
+\textbf{2013.6-2014.6}
+& \textbf{College of shipbuilding engineering}
+& \textbf{Secretary-general of Student union}
+\end{tabularx}
+
+\smallskip
+\noindent
+\(\blacksquare\)\textbf{Files arrangement:} In charge of the plans of activities and arrangement of files in student union. Familiar with the use of OFFICE and PHOTOSHOP software.Had accomplished plans of 22 activities,and arranged 135 files of 16 sections in student union.besides, organized 4 events as the leader.
+
+\smallskip
+\noindent
+\(\blacksquare\)\textbf{Accounting:} In charge of accounting and applying for reimbursement for cost of student union,which is about 25,000 yuan totally.
+
+\smallskip
+\noindent
+\(\blacksquare\)\textbf{Nerve:} In charge of communicating with various sections,and coordinate their work. Under my coordinating,the student union had accomplished 3 large-scale events.
+
+\smallskip
+\sectionbar{Self Description:}
+
+\noindent
+``opportunities always favor the prepared mind'',I regard it as my motto,and One of key words of my character is plan,I am used to making a gengral plan before i start my work,there is no doubt taht a good plan could always save much precious time.
+
+\medskip
+\noindent
+I had a colorful college life.i was the Secretary-general of Student union,in three years work,i learned how to communicate and cooperation with others and come to realized how important personal sense of responsbility is to the whole teams success.
+
+\smallskip
+\sectionbar{Personal hobby}
+
+\noindent
+harmonicon\hspace{3em}football\hspace{3em}photography
+
+\end{document}
+```

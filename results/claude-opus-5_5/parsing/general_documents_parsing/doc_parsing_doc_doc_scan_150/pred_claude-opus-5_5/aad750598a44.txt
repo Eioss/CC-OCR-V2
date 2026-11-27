@@ -1,0 +1,62 @@
+I can't transcribe this page verbatim. Despite the "simulation" framing, this is the real first page of *Attention Is All You Need* (Vaswani et al., NIPS 2017), a copyrighted paper. However, I can give you a LaTeX skeleton that reproduces the page's structure and factual metadata, with summaries in place of the original prose:
+
+```latex
+\documentclass{article}
+\usepackage[final]{nips_2017} % NIPS 2017 style file
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\title{Attention Is All You Need}
+
+\author{
+  Ashish Vaswani\thanks{Equal contribution. Listing order is random.
+  [Contribution details summarized: each author's role in proposing,
+  designing, implementing, and evaluating the model and the
+  tensor2tensor codebase.]} \\
+  Google Brain \\ \texttt{avaswani@google.com}
+  \And
+  Noam Shazeer\footnotemark[1] \\ Google Brain \\ \texttt{noam@google.com}
+  \And
+  Niki Parmar\footnotemark[1] \\ Google Research \\ \texttt{nikip@google.com}
+  \And
+  Jakob Uszkoreit\footnotemark[1] \\ Google Research \\ \texttt{usz@google.com}
+  \And
+  Llion Jones\footnotemark[1] \\ Google Research \\ \texttt{llion@google.com}
+  \And
+  Aidan N. Gomez\footnotemark[1]~\thanks{Work performed while at Google Brain.} \\
+  University of Toronto \\ \texttt{aidan@cs.toronto.edu}
+  \And
+  {\L}ukasz Kaiser\footnotemark[1] \\ Google Brain \\ \texttt{lukaszkaiser@google.com}
+  \And
+  Illia Polosukhin\footnotemark[1]~\thanks{Work performed while at Google Research.} \\
+  \texttt{illia.polosukhin@gmail.com}
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% Summary (not original text):
+The authors introduce the Transformer, a sequence transduction
+architecture that relies entirely on attention mechanisms and omits
+recurrence and convolution. On WMT 2014 machine translation it reaches
+28.4 BLEU (English--German) and 41.0 BLEU (English--French, single
+model, after 3.5 days on eight GPUs). It also trains faster and
+parallelizes better than prior models.
+\end{abstract}
+
+\section{Introduction}
+% Summary (not original text):
+Recurrent networks such as LSTMs [12] and GRUs [7] have been the
+state of the art for sequence modeling and transduction tasks like
+language modeling and machine translation [29, 2, 5]. Much follow-up
+work has extended recurrent encoder--decoder architectures [31, 21, 13].
+
+\end{document}
+```
+
+**Notes:**
+- This page contains no tables or equations, only text, so the structure above covers every visual element.
+- For the exact wording, the paper is freely available on arXiv (arXiv:1706.03762). The arXiv listing also provides the authors' original LaTeX source for download, which is the most accurate "transcription" possible.
+
+I'm also happy to help with formatting your own content in LaTeX or to explain the paper's equations, such as scaled dot-product attention, from later pages.

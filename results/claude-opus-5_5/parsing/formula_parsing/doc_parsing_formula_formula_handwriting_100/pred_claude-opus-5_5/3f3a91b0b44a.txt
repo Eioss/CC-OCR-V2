@@ -1,0 +1,11 @@
+$$
+\begin{aligned}
+S &\le \sum_{d\mid W}\ \sum_{b_1,\dots,b_k\in B} \frac{W}{d}\prod_{p\mid W/d}\left(1-\frac{\gamma_p(b_1,\dots,b_k)+1}{p}\right)\\
+&\le \sum_{d\mid W}\ \sum_{b_1,\dots,b_k\in B} \frac{W_1}{d_1}\prod_{p\mid W_1/d_1}\left(1-\frac{2}{p}\right)\frac{W_2}{d_2}\prod_{p\mid W_2/d_2}\left(1-\frac{\gamma_p(b_1,\dots,b_k)+1}{p}\right)\\
+&= \sum_{d\mid W}\varphi_{W_1/d_1}\sum_{b_1,\dots,b_k\in B}\frac{W_2}{d_2}\prod_{p\mid W_2/d_2}\left(1-\frac{\gamma_p(b_1,\dots,b_k)+1}{p}\right)\\
+&\le \sum_{d\mid W}\varphi_{W_1/d_1}\sum_{j=-\infty}^{\infty}\ \sum_{\substack{b_1,\dots,b_k\in B\\ f(b_1,\dots,b_k)\in[2^j,2^{j+1})}}\frac{W_2}{d_2}\prod\left(1-\frac{2k+1}{p}\right)\prod_{\substack{p\mid W_2/d_2\\ \gamma_p(b_1,\dots,b_k)\le 2k-1}}\left(1-\frac{2k+1}{p}\right)^{-1}\\
+&\le \sum_{d\mid W}\varphi_{W_1/d_1}\frac{W_2}{d_2}\prod_{p\mid W_2/d_2}\left(1-\frac{2k+1}{p}\right)\sum_{j=-\infty}^{\infty}\ \sum_{\substack{b_1,\dots,b_k\in B\\ f(b_1,\dots,b_k)\in[2^j,2^{j+1})}} e^{(2k+1)2^{j+2}}\\
+&\le \sum_{d\mid W} k^2|B|^{k-2}\varphi_W^2\varphi_{W_1/d_1}\frac{W_2}{d_2}\prod_{p\mid W_2/d_2}\left(1-\frac{2k+1}{p}\right)\sum_{j=0}^{\infty}2^{-\exp(2^j/ck^2)}e^{(2k+1)2^{j+2}}\\
+&= C_k k^2|B|^{k-2}\varphi_W^2\sum_{d\mid W}\varphi_{W_1/d_1}\frac{W_2}{d_2}\prod_{p\mid W_2/d_2}\left(1-\frac{2k+1}{p}\right),
+\end{aligned}
+$$

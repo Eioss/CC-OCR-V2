@@ -1,0 +1,30 @@
+```html
+<table>
+  <tr>
+    <td>Models</td>
+    <td>Precision</td>
+    <td>Recall</td>
+    <td>F<sub>1</sub></td>
+  </tr>
+  <tr>
+    <td>Pipeline</td>
+    <td>16.58</td>
+    <td>22.11</td>
+    <td>18.95</td>
+  </tr>
+  <tr>
+    <td>Traversal</td>
+    <td>24.06</td>
+    <td><b>38.74</b></td>
+    <td>29.69</td>
+  </tr>
+  <tr>
+    <td>Multi-task</td>
+    <td><b>43.54</b></td>
+    <td>30.57</td>
+    <td><b>35.92</b></td>
+  </tr>
+</table>
+```
+
+The table has no merged cells. I left out the faint mirrored text that shows through from the back of the page, since it isn't part of the table.

@@ -1,0 +1,51 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1cm]{geometry}
+\usepackage{graphicx}
+
+\begin{document}
+
+\section*{7. Singular - plural}
+
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllll}
+axis & crisis & analysis & basis & thesis & criterion & & & \\
+axes & crises & analyses & bases & theses & criteria & & & \\[6pt]
+
+datum & medium & erratum & stratum & memorandum & agendum & & & \\
+data & media & errata & strata & memoranda & agenda & & & \\[6pt]
+
+alumna & formula & antenna & bacterium & aquarium & & & & \\
+alumnae & formulae & antennae & bacteria & aquaria & & & & \\[6pt]
+
+focus & locus & terminus & alumnus & fungus & & & & \\
+foci & loci & termini & alumni & fungi & & & & \\[6pt]
+
+Syllabus & radius & stimulus & tooth & foot & goose & & & \\
+syllabi & radii & stimuli & teeth & feet & geese & & & \\[6pt]
+
+matrix & index & appendix & apex & vertex & genie & & & \\
+matrices & indices & appendices & apices & vertices & genies & & & \\[6pt]
+
+Cupful & dining room & grown up & spoonful & daughter-in-law & & & & \\
+Cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law & & & & \\[6pt]
+
+Son-in-law & runner-up & governor-general & army & baby & boy & toy & buffalo & \\
+Sons-in-law & runners-up & governors-general & armies & babies & boys & toys & buffaloes & \\[6pt]
+
+man & woman & child & leaf & thief & knife & wife & life & man-servant \\
+men & women & children & leaves & thieves & knives & wives & lives & men-servants \\[6pt]
+
+Virus & photo & sheep & deer & aircraft & furniture & cattle & & \\
+Viruses & photos & sheep & deer & aircraft & furniture & cattle & & \\[6pt]
+
+Corps & species & spectacles & means & premises & series & & & \\
+Corps & species & spectacles & means & premises & series & & & \\[6pt]
+
+innings & pants & & & & & & & \\
+innings & pants & & & & & & &
+\end{tabular}%
+}
+
+\end{document}
+```

@@ -1,0 +1,59 @@
+```latex
+For each of the following formulae, choose the sentence that provides the best English translation of
+the formula according to the following symbolization key:
+
+\begin{tabular}{|c|l|}
+\hline
+$B$ & Bob is gathering eggs. \\
+\hline
+$C$ & Bob has fed the chickens. \\
+\hline
+$D$ & Bob has fed the ducks. \\
+\hline
+$F$ & Bob is chasing the fox away. \\
+\hline
+$P$ & The ducks are playing in the pond. \\
+\hline
+$Q$ & The ducks are quacking loudly. \\
+\hline
+$S$ & The chickens are playing in the pond. \\
+\hline
+\end{tabular}
+
+\textbf{Question 10}
+
+\[
+(F \rightarrow (Q \mathbin{\&} \neg S))
+\]
+
+\begin{flushright}
+Select one answer.\\
+2 points
+\end{flushright}
+
+\noindent\textbf{A.} If the ducks are quacking loudly and the chickens aren't playing
+in the pond, then Bob is chasing the fox away.
+
+\noindent\textbf{B.} The ducks are quacking loudly and the chickens aren't playing in the pond unless Bob is
+chasing the fox away.
+
+\noindent\textbf{C.} The ducks are quacking loudly and the chickens aren't playing in the pond if Bob is
+chasing the fox away.
+
+\noindent\textbf{D.} The ducks are quacking loudly and the chickens aren't playing in the pond only if Bob is
+chasing the fox away.
+
+\textbf{Question 11}
+
+\[
+((P \mathbin{\&} Q) \mathbin{\&} S)
+\]
+
+\begin{flushright}
+Select one answer.\\
+2 points
+\end{flushright}
+
+\noindent\textbf{A.} The ducks are quacking loudly and playing in the pond, and the
+chickens are also playing in the pond.
+```

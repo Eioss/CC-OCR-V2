@@ -1,0 +1,11 @@
+$$E \left[ \sum_{a} \sum_{z} \frac{I\{PS=S4\} I\{Z=z\} I\{A_z=z\} a(a+z) Y_a}{2} \mid X \right]$$
+$$= \left[ \sum_{a} \sum_{z} \frac{I(PS=S4) I(A_z=a) a(a+z) Y_a}{2} \right] f(z \mid X)$$
+$$\lambda_i - \lambda_{i+1} \geq \begin{cases} w(c_i) + \delta(c_i, c_{i+1}), & \text{if } c_i < 2^{n-1} \\ w(c_i) + \delta(c_i - 2^{n-1}, c_{i+1}). & \text{if } c_i > 2^{n-1} \end{cases}$$
+$$h_{\min}(x^{s-1}) > h_{\min}(x^s) > h_{\min}(x^{s+1}) > \dots > h_{\min}(x^{2m}).$$
+$$\sum_{\ell} \kappa(\tilde{u}_\ell) \leq \sum_{\ell} (\kappa(u_\ell) - 1) \leq \sum_{\ell} \kappa(u_\ell) - d \leq n$$
+$$P_0(\bar{k}_r) = P(\beta_{j(r), k(r)} = 0, \beta_{k(r), j(r)} = 0 \mid y)$$
+$$\leq \min \{ P(\beta_{j(r), k(r)} = 0 \mid y), P(\beta_{k(r), j(r)} = 0 \mid y) \}$$
+$$A_0 \lesssim \int_{0}^{T} |u^{-7k/4} \| L_{xy}^{\infty} \| D_x^{\delta}(u^{k/4} u_x) \| L_{xy}^2 dt' + \int_{0}^{T} \| D_x^{\delta}(u^{7k/4}) u^{k/4} u_x) \| L_{xy}^2 dt'$$
+$$= A_1 + A_2.$$
+$$\|Dw\|_{L^2(\partial\Omega)} \geq \left\| \frac{\lambda(\Omega)}{N} |x - x_0| - |Du| \right\|_{L^2(\partial\Omega)}$$
+$$\geq \left\| \frac{\lambda(\Omega)}{N} |x - x_0| - 1 \right\|_{L^2(\partial\Omega)} - \left\| |Du| - 1 \right\|_{L^2(\partial\Omega)},$$

@@ -1,0 +1,30 @@
+I need to map each field label to its corresponding value on the receipt. Let me work through the document systematically, identifying values next to each label.
+
+- 医院名称: 太极网络人民医院
+- 标题: 上海市 医疗门（急）诊收费票据
+- 业务流水: 56751250mz0015020
+- NO: 1271882601
+- 医疗机构类型: 专科医院
+- 姓名: 柯伟
+- 性别: 女
+- 医保类型: 计划生育
+- 社会保障号: 010302120411
+- 项目: 诊查费自费 / 诊查费 (two rows)
+- 金额(元): 3 / 15
+- 合计(大写): 壹拾捌元整
+- 现金支付: 0
+- 个人账户支付: 0
+- 医保统筹支付: 0
+- 附加支付: 0
+- 分类自负: 0
+- 自负: 0.00
+- 自费: 0
+- 当年账户余额: 0
+- 历年账户余额: 0
+- 转诊减免: 0
+- (现金)预存账户支付: 0
+- 收款*: Bob Smith
+- 日期: 2020/06
+- 第一联: 收据联
+
+Now I'll produce bounding boxes for the values.

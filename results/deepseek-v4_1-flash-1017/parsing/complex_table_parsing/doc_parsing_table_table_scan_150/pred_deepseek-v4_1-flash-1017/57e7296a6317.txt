@@ -1,0 +1,354 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+    body {
+        font-family: sans-serif;
+        margin: 20px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14px;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+        vertical-align: middle;
+    }
+    .center-text {
+        text-align: center;
+    }
+    .no-border {
+        border: none;
+    }
+    .header-title {
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .header-info {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .checkbox-group {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .checkbox-item {
+        display: inline-block;
+    }
+</style>
+</head>
+<body>
+
+<div class="header-title">山南市建设工程消防设计审查备案表</div>
+
+<div class="header-info">
+    <span>工程名称：</span>
+    <span>（印章）</span>
+    <span>申请日期：&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;日</span>
+</div>
+
+<table>
+    <!-- Row 1 -->
+    <tr>
+        <td style="width: 15%;">建设单位</td>
+        <td style="width: 35%;"></td>
+        <td style="width: 15%;">联系人</td>
+        <td style="width: 15%;"></td>
+        <td style="width: 20%;">联系电话</td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+        <td>工程地址</td>
+        <td></td>
+        <td>类 别</td>
+        <td colspan="2">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□新建</span>
+                <span class="checkbox-item">□扩建</span>
+                <span class="checkbox-item">□改建（装饰装修、改变用途、建筑保温）</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
+        <td>建设工程规划许可文件（依法需办理的）</td>
+        <td></td>
+        <td>临时性建筑批准文件（依法需办理的）</td>
+        <td colspan="2"></td>
+    </tr>
+    <!-- Row 4 -->
+    <tr>
+        <td>特殊消防设计</td>
+        <td>
+            <span class="checkbox-item">□是</span>
+            <span class="checkbox-item">□否</span>
+        </td>
+        <td>建筑高度大于250m的建筑采取加强性消防设计措施</td>
+        <td colspan="2">
+            <span class="checkbox-item">□是</span>
+            <span class="checkbox-item">□否</span>
+        </td>
+    </tr>
+    <!-- Row 5 -->
+    <tr>
+        <td>工程投资额（万元）</td>
+        <td></td>
+        <td>总建筑面积（m²）</td>
+        <td colspan="2"></td>
+    </tr>
+    <!-- Row 6 -->
+    <tr>
+        <td>特殊建设工程情形（详见背面）</td>
+        <td colspan="4">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□（一）</span>
+                <span class="checkbox-item">□（二）</span>
+                <span class="checkbox-item">□（三）</span>
+                <span class="checkbox-item">□（四）</span>
+                <span class="checkbox-item">□（五）</span>
+                <span class="checkbox-item">□（六）</span>
+                <span class="checkbox-item">□（七）</span>
+                <span class="checkbox-item">□（八）</span>
+                <span class="checkbox-item">□（九）</span>
+                <span class="checkbox-item">□（十）</span>
+                <span class="checkbox-item">□（十一）</span>
+                <span class="checkbox-item">□（十二）</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 7 -->
+    <tr>
+        <td class="center-text">单位类别</td>
+        <td class="center-text">单位名称</td>
+        <td class="center-text">资质等级</td>
+        <td class="center-text">法定代表人<br>（身份证号）</td>
+        <td class="center-text">项目负责人<br>（身份证号）</td>
+        <td class="center-text">联系电话（移动电话和座机）</td>
+    </tr>
+    <!-- Row 8 -->
+    <tr>
+        <td class="center-text">建设单位</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 9 -->
+    <tr>
+        <td class="center-text">设计单位</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 10 -->
+    <tr>
+        <td class="center-text">技术服务机构（审图）</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 11: Building Details Header -->
+    <tr>
+        <td rowspan="2" class="center-text">建筑名称</td>
+        <td rowspan="2" class="center-text">结构<br>类型</td>
+        <td rowspan="2" class="center-text">使用<br>性质</td>
+        <td rowspan="2" class="center-text">耐火等级</td>
+        <td colspan="2" class="center-text">层数</td>
+        <td rowspan="2" class="center-text">高度（m）</td>
+        <td rowspan="2" class="center-text">长度（m）</td>
+        <td rowspan="2" class="center-text">占地面积<br>（m²）</td>
+        <td colspan="2" class="center-text">建筑面积（m²）</td>
+    </tr>
+    <!-- Row 12: Building Details Sub-header -->
+    <tr>
+        <td class="center-text">地上</td>
+        <td class="center-text">地下</td>
+        <td class="center-text">地上</td>
+        <td class="center-text">地下</td>
+    </tr>
+    <!-- Row 13: Empty Building Row 1 -->
+    <tr>
+        <td style="height: 25px;"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 14: Empty Building Row 2 -->
+    <tr>
+        <td style="height: 25px;"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 15: Empty Building Row 3 -->
+    <tr>
+        <td style="height: 25px;"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 16: Empty Building Row 4 -->
+    <tr>
+        <td style="height: 25px;"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 17: Empty Building Row 5 -->
+    <tr>
+        <td style="height: 25px;"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <!-- Row 18: Decoration -->
+    <tr>
+        <td rowspan="2" class="center-text">□装饰装修</td>
+        <td class="center-text">装修部位</td>
+        <td colspan="9">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□顶棚</span>
+                <span class="checkbox-item">□墙面</span>
+                <span class="checkbox-item">□地面</span>
+                <span class="checkbox-item">□隔断</span>
+                <span class="checkbox-item">□固定家具</span>
+                <span class="checkbox-item">□装饰织物</span>
+                <span class="checkbox-item">□其他</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 19: Decoration Area -->
+    <tr>
+        <td class="center-text">装修面积（m²）</td>
+        <td colspan="4"></td>
+        <td colspan="2" class="center-text">装修所在层数</td>
+        <td colspan="3"></td>
+    </tr>
+    <!-- Row 20: Change of Use -->
+    <tr>
+        <td rowspan="2" class="center-text">□改变用途</td>
+        <td class="center-text">使用性质</td>
+        <td colspan="4"></td>
+        <td colspan="2" class="center-text">原有用途</td>
+        <td colspan="3"></td>
+    </tr>
+    <!-- Row 21: Change of Use (Empty row for alignment) -->
+    <tr>
+        <td colspan="10" style="border-top: none;"></td>
+    </tr>
+    <!-- Row 22: Building Insulation -->
+    <tr>
+        <td rowspan="2" class="center-text">□建筑保温</td>
+        <td class="center-text">材料类别</td>
+        <td colspan="4">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□A</span>
+                <span class="checkbox-item">□B1</span>
+                <span class="checkbox-item">□B2</span>
+            </div>
+        </td>
+        <td colspan="2" class="center-text">保温所在层数</td>
+        <td colspan="3"></td>
+    </tr>
+    <!-- Row 23: Insulation Location -->
+    <tr>
+        <td class="center-text">保温部位</td>
+        <td colspan="4"></td>
+        <td colspan="2" class="center-text">保温材料</td>
+        <td colspan="3"></td>
+    </tr>
+    <!-- Row 24: Fire Facilities -->
+    <tr>
+        <td rowspan="3" class="center-text">消防设施<br>及其他</td>
+        <td colspan="10">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□室内消火栓系统</span>
+                <span class="checkbox-item">□室外消火栓系统</span>
+                <span class="checkbox-item">□火灾自动报警系统</span>
+                <span class="checkbox-item">□自动喷水灭火系统</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 25: Fire Facilities 2 -->
+    <tr>
+        <td colspan="10">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□气体灭火系统</span>
+                <span class="checkbox-item">□泡沫灭火系统</span>
+                <span class="checkbox-item">□其他灭火系统</span>
+                <span class="checkbox-item">□疏散指示标志</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 26: Fire Facilities 3 -->
+    <tr>
+        <td colspan="10">
+            <div class="checkbox-group">
+                <span class="checkbox-item">□消防应急照明</span>
+                <span class="checkbox-item">□防烟排烟系统</span>
+                <span class="checkbox-item">□消防电梯</span>
+                <span class="checkbox-item">□灭火器</span>
+                <span class="checkbox-item">□其他</span>
+            </div>
+        </td>
+    </tr>
+    <!-- Row 27: Brief Description -->
+    <tr>
+        <td class="center-text" style="height: 80px;">工程简要说明</td>
+        <td colspan="10"></td>
+    </tr>
+</table>
+
+</body>
+</html>
+```

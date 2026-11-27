@@ -1,0 +1,207 @@
+Below is a faithful LaTeX transcription of the text, tables, diagrams, and equations visible in the image, preserving the original wording, numbering, and printed formulas without alteration (with `[...]` indicating torn or cut-off portions).
+
+```latex
+\documentclass{article}
+\usepackage{amsmath, amssymb, array}
+
+\begin{document}
+
+\section*{MATHEMATICS RU[...]}
+
+\subsection*{Trigonometry}
+
+\subsubsection*{1) Trigonometry Ratios :}
+
+% Right-angled triangle ABC (right angle at B):
+% Vertex A (top), Vertex B (bottom-left), Vertex C (bottom-right)
+% Side AB labeled "Opp", Side BC labeled "Adj", Side AC labeled "Hyp"
+
+\begin{align*}
+\text{Sin}\theta &= \frac{\text{Opp}}{\text{Hyp}} \quad ; & \text{Cos}\theta &= \frac{\text{Adj}}{\text{Hyp}} \\
+\text{tan}\theta &= \frac{\text{Opp}}{\text{Adj}} \quad ; & \text{Cot}\theta &= \frac{\text{Adj}}{\text{Opp}} \\
+\text{Sec}\theta &= \frac{\text{Hyp}}{\text{Adj}} \quad ; & \text{Cosec}\theta &= \frac{\text{Hyp}}{\text{Opp}}
+\end{align*}
+
+\subsubsection*{2) Imp - Results :}
+
+\begin{align*}
+\text{i) } & \text{Sin}\theta.\text{Cosec}\theta = 1 &
+\text{ii) } & \text{Cos}\theta.\text{Sec}\theta = 1 \\
+\text{iii) } & \text{tan}\theta.\text{Cot}\theta = 1 &
+\text{iv) } & \text{tan}\theta = \frac{\text{Sin}\theta}{\text{Cos}\theta} \\
+\text{v) } & \text{Cot}\theta = \frac{\text{Cos}\theta}{\text{Sin}\theta} &
+\text{vi) } & \text{Sin}^2\theta + \text{Cos}^2\theta = 1 \\
+\text{vii) } & \text{Sec}^2\theta = 1 + \text{tan}^2\theta &
+\text{viii) } & \text{Cosec}^2\theta = 1 + \text{Cot}^2\theta \\
+\text{ix) } & \pi^c = 180^\circ &
+\text{x) } & \text{length of arc } s = r\theta \\
+\text{xi) } & \text{Area of sector} = \frac{1}{2}r^2\theta
+\end{align*}
+
+\subsubsection*{3) Trigonometry Ratios of [St]andared Angles :}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+T. Ratios & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ & $90^\circ$ & $180^\circ$ & $270^\circ$ & $360^\circ$ \\
+\hline
+Sin & $0$ & $\frac{1}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{\sqrt{3}}{2}$ & $1$ & $0$ & $-1$ & $0$ \\
+\hline
+Cos & $1$ & $\frac{\sqrt{3}}{2}$ & $\frac{1}{\sqrt{2}}$ & $\frac{1}{2}$ & $0$ & $-1$ & $0$ & $1$ \\
+\hline
+tan & $0$ & $\frac{1}{\sqrt{3}}$ & $1$ & $\sqrt{3}$ & $\infty$ & $0$ & $\infty$ & $0$ \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection*{3) Sign Convention :-}
+
+% Quadrant cross diagram:
+% Top-left: Sin / II     | Top-right: All / I
+% Bottom-left: Tan / III | Bottom-right: Cos / IV
+
+\begin{center}
+\begin{tabular}{cc|cc}
+Sin & II & All & I \\
+\hline
+Tan & III & Cos & IV \\
+\end{tabular}
+\quad
+\begin{tabular}{|c|c|c|c|}
+\hline
+Quadrant & Sin & Cos & Tan \\
+\hline
+I & + & + & + \\
+\hline
+II & + & - & - \\
+\hline
+III & - & - & + \\
+\hline
+IV & - & + & - \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent * The above information can be conveniently remembered with the phrase ``Add Sugar To Coffee''
+
+\subsubsection*{4) Allied - Angles :}
+
+\begin{align*}
+\text{1) } & \text{Sin}(-\theta) = -\text{Sin}\theta &
+\text{2) } & \text{Sin}(90^\circ - \theta) = \text{Cos}\theta \\
+& \text{Cos}(-\theta) = -\text{Cos}\theta &
+& \text{Cos}(90^\circ - \theta) = \text{Sin}\theta \\
+& \text{tan}(-\theta) = -\text{tan}\theta &
+& \text{tan}(90^\circ - \theta) = \text{Cot}\theta \\
+& \text{Cot}(-\theta) = -\text{Cot}\theta &
+& \text{Cot}(90^\circ - \theta) = \text{tan}\theta \\
+& \text{Sec}(-\theta) = -\text{Sec}\theta &
+& \text{Sec}(90^\circ - \theta) = \text{Cosec}\theta \\
+& \text{Cosec}(-\theta) = -\text{Cosec}\theta &
+& \text{Cosec}(90^\circ - \theta) = \text{Sec}\theta
+\end{align*}
+
+\subsubsection*{5) Compound Angles :}
+
+\begin{align*}
+\text{i) } & \text{Sin}(A+B) = \text{Sin }A\,\text{Cos }B + \text{Cos }A\,\text{Sin }B \\
+\text{ii) } & \text{Sin}(A-B) = \text{Sin }A\,\text{Cos }B - \text{Cos }A\,\text{Sin }B \\
+\text{iii) } & \text{Cos}(A+B) = \text{Cos }A\,\text{Cos }B - \text{Sin }A\,\text{Sin }B \\
+\text{iv) } & \text{Cos}(A-B) = \text{Cos }A\,\text{Cos }B + \text{Sin }A\,\text{Sin }B \\
+\text{[v)] } & \text{[t]an}(A+B) = \frac{\text{tan }A + \text{tan }B}{1 - \text{tan }A\,\text{tan }B} \\
+\text{vi) } & \text{tan}(A+B) = \frac{\text{tan }A + \text{tan }B}{1 + \text{tan }A\,\text{tan }B}
+\end{align*}
+
+\subsubsection*{[6)] Multiple Angle and Sub Multiple Angle :}
+
+\begin{align*}
+\text{Sin }2A &= 2\text{Sin }A\,\text{Cos }A &
+\text{i) } \text{Sin }A &= 2\text{Sin}\left(\frac{A}{2}\right)\text{Cos}\left(\frac{A}{2}\right) \\
+[\text{Cos }]2A &= \text{Cos}^2 A - \text{Sin}^2 A &
+\text{ii) } \text{Cos }A &= \text{Cos}^2\left(\frac{A}{2}\right) - \text{Sin}^2\left(\frac{A}{2}\right) \\
+[\dots] &= 1 - 2\text{Sin}^2 A &
+\text{iii) } \text{Cos }A &= 1 - 2\text{Sin}^2\left(\frac{A}{2}\right) \\
+[\dots] &= \frac{[\dots]\text{tan }A}{[\dots]\text{tan}^2 A} &
+\text{iv) } \text{Cos }A &= 2\text{Cos}^2\left(\frac{A}{2}\right) - 1 \\
+[\dots] & \text{Cos}^2\left(\frac{A}{2}\right) &
+\text{v) } \text{Cos }A &= \frac{1 - \text{tan}^2\left(\frac{A}{2}\right)}{1 + \text{tan}^2\left(\frac{A}{2}\right)} \\
+&& \text{vi) } \text{Sin }A &= \frac{2 - \text{tan}\left(\frac{A}{2}\right)}{1 + \text{tan}^2\left(\frac{A}{2}\right)} \\
+&& \text{vii) } \text{tan }A &= \frac{2 - \text{tan}\left(\frac{A}{2}\right)}{1 - \text{tan}^2\left(\frac{A}{2}\right)} \\
+&& \text{viii) } 1 - \text{Cos }A &= 2\text{Sin}^2\left(\frac{A}{2}\right)
+\end{align*}
+
+\subsubsection*{7) Triple Angle Formulae :-}
+
+\begin{align*}
+\text{i) } & \text{Sin}3\theta = 3\text{sin }\theta - 4\text{ sin}^3\theta &
+\text{ii) } & \text{cos }3\theta = 4\text{ cos}^3\theta - 3\text{ cos }\theta \\
+\text{iii) } & \text{tan}3\theta = \frac{3\text{tan }\theta - \text{tan}^3\theta}{1 - 3\text{tan}^2\theta} \\
+\text{iv) } & \text{cos}^3\theta = \frac{\text{cos }3\theta + 3\text{cos }\theta}{4} &
+\text{v) } & \text{sin}^3\theta = \frac{3\text{sin }\theta - \text{sin }3\theta}{4}
+\end{align*}
+
+\subsubsection*{8) Factorization Formulae :-}
+
+\begin{align*}
+\text{i. } & \text{sin }C + \text{sin }D = 2\text{ sin}\left(\frac{C+D}{2}\right)\text{cos}\left(\frac{C-D}{2}\right) \\
+\text{ii. } & \text{sin }C - \text{sin }D = 2\text{ sin}\left(\frac{C+D}{2}\right)\text{sin}\left(\frac{C-D}{2}\right) \\
+\text{iii. } & \text{cos }C + \text{cos }D = 2\text{ cos}\left(\frac{C+D}{2}\right)\text{cos}\left(\frac{C-D}{2}\right) \\
+\text{iv. } & \text{cos }C - \text{cos }D = 2\text{ sin}\left(\frac{C+D}{2}\right)\text{sin}\left(\frac{C-D}{2}\right) \text{ if } C > D \\
+&\phantom{\text{cos }C - \text{cos }D} = 2\text{ sin}\left(\frac{C+D}{2}\right)\text{sin}\left(\frac{D-C}{2}\right) \text{ if } D > C
+\end{align*}
+
+\subsubsection*{9) Defactorization formulae :-}
+
+\begin{align*}
+\text{i. } & 2\text{ sin }A\,\text{cos }B = \text{sin}(A+B) + \text{sin}(A-B) \\
+\text{ii. } & 2\text{ cos }A\,\text{sin }B = \text{sin}(A+B) - \text{sin}(A-B) \\
+\text{iii. } & 2\text{ cos }A\,\text{cos }B = \text{cos}(A+B) + \text{cos}(A-B) \\
+\text{iv. } & 2\text{ sin }A\,\text{sin }B = \text{cos}(A-B) - \text{cos}(A+B)
+\end{align*}
+
+\subsection*{Co - Ordinate - Geometry (2D)}
+
+\begin{enumerate}
+\item Distance Formula : $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
+\item Section Formula :
+$P(x, y) = \left(\dfrac{mx_2+nx_1}{m+n}, \dfrac{my_2+ny_1}{m+n}\right)$ Internally \\
+$Q(x, y) = \left(\dfrac{mx_2-nx_1}{m-n}, \dfrac{my_2-ny_1}{m-n}\right)$ Externally
+\item Mid point Formula : $\left(\dfrac{x_1+x_2}{2}, \dfrac{y_1+y_2}{2}\right)$
+\item Centroid of triangle : $G\left(\dfrac{x_1+x_2+x_3}{3}, \dfrac{y_1+y_2+y_3}{2}\right)$
+\item Area of triangle $\triangle = \frac{1}{2}\left[x_1(y_2-y_3) + x_2(y_3-y_1) + x_3(y_1-y_2)\right]$
+\item Slope of straight line : $m = \tan \theta$
+\item One point Form : $y - y_1 = m(x - x_1)$
+\item Slope Intercept from : $y = mx + C$
+\item Two point Form : $\dfrac{y+y_1}{x+x_1} = \dfrac{y_2+y_1}{x_2+x_1}$
+\item Intercept Form : $\dfrac{x}{a} + \dfrac{y}{b} = 1$
+\item Normal Form : $x\text{ Cos } + y\text{ Sin } = p$
+\item Slope of line $ax + by + c = 0$ is $-\dfrac{a}{b}$
+\item Intersetion fo two lines : $L_1 + \lambda L_2 = 0$
+\item Angle between two s.t. lines : $\tan \theta = \left|\dfrac{m_1 + m_2}{1 + m_1 m_2}\right|$
+\item If the lines are parallel : $m_1, m_2$ \\
+If the lines are $\perp^r$ : $m_1 m_2 = -1$
+\item Length of $\perp^r$ form : $\left|\dfrac{ax_1 + by_1 + c}{\sqrt{a^2 + b^2}}\right|$
+\item Bisector Equations : $\dfrac{a_1 x + b_1 y + c_1}{\sqrt{a_1^2 + b_1^2}} = \pm \dfrac{a_2 x + b_2 y + c_2}{\sqrt{a_2^2 + b_2^2}}$
+\item Distance bet$^n$ parallel lines : $\left|\dfrac{c_1 + c_2}{\sqrt{a^2 + b^2}}\right|$
+\item Homogeneous Equation : $ax^2 + 2hxy + by^2 = 0$ \\
+$\tan \theta = \left|\dfrac{2\sqrt{h^2 - ab}}{a + b}\right|$
+\item General Equation : $ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$ \\
+represents a pair of lines \\
+If $abc + 2fgh - af^2 - bg^2 - ch^2 = 0$ \\
+Point of intersection $(x, y) = \left(\dfrac{hf - bg}{ab - h^2}, \dfrac{hg - af}{ab - h^2}\right)$
+\end{enumerate}
+
+\subsection*{Co - Ordinate - Geometry (3D)}
+
+\begin{enumerate}
+\item Distance Formula : $\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$
+\item Section Formula : $\left(\dfrac{mx_2+nx_1}{m+n}, \dfrac{my_2+ny_1}{m+n}, \dfrac{mz_2+nz_1}{m+n}\right)$ Internally
+\end{enumerate}
+
+% Far-right column fragments (cut off at the right edge of the image):
+% 3. / 4. / I) / iii) / vi) / ix) / La... / i) / ii) / iv) / III / 1.
+% Sta... / 1. / 2. A / i. / iii. / 3. T / i. / iii. / v. / 4. E / i. / iii.
+% 5. D / i. / iii. / v. / 6. E / 1. I / 2. i / 3. i / 4. i / 5. i / 6. i / 7. E / 1. i / (2) / (3) / (4)
+
+\end{document}
+```

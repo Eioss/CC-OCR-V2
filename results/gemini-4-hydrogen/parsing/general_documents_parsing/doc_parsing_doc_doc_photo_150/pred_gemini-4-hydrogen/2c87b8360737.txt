@@ -1,0 +1,91 @@
+```latex
+\documentclass{article}
+\usepackage{array}
+
+\begin{document}
+
+\noindent (vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+\noindent Mother: Why are you looking so worried? \\
+Daughter: My exams are approaching.
+
+\noindent In response to the question of the mother, the daughter replied that \underline{\hspace{2.5cm}}.
+
+\vspace{1em}
+
+\noindent (viii) Identify the error in the given sentence:
+
+\noindent The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+\noindent Use the given format for your response
+
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{3cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+& \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+\noindent (ix) Ritu and Randeep are talking. Report Ritu's question.
+
+\noindent Ritu: Where are you going?
+
+\noindent Ritu asked \underline{\hspace{2.5cm}}.
+
+\vspace{1em}
+
+\noindent (x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\noindent \underline{\hspace{2.5cm}} smile and pass it to others.
+
+\begin{tabular}{p{3cm} p{3cm}}
+(a) Happy & (b) Short \\
+(c) Always & (d) Humble \\
+\end{tabular}
+
+\vspace{1em}
+
+\noindent (xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+\noindent Anil: Where are you going? \\
+Sanjeev: To the airport. \\
+Anil: May I drop you there as I'm going in that direction?
+
+\noindent Anil asked Sanjeev where he was going and offered to drop him as \underline{\hspace{2.5cm}}.
+
+\noindent (a) he could be going in that direction. \\
+(b) he would be going in the direction. \\
+(c) he is going in the direction \\
+(d) he was going in that direction
+
+\vspace{1em}
+
+\noindent (xii) Identify the error in the newspaper headline.
+
+\noindent Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+\noindent Use the given format for your response:
+
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}p{3cm}|>{\centering\arraybackslash}p{3cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+& \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{2em}
+
+\begin{flushright}
+\textbf{CL X/ PB-I /ENG/PAG}
+\end{flushright}
+
+\end{document}
+```

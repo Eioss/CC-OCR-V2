@@ -1,0 +1,15 @@
+\[
+\begin{aligned}
+& (D^{i_{1} i_{2} \cdots i_{p}=0, i_{q}=1, \cdots i_{N}})^{\prime}=\frac{1}{1+|x|^{2}}\left[D^{i_{1} i_{2} \cdots i_{p}=0, i_{p}=0, i_{q}=1, \cdots i_{N}}-|x|^{2} D^{i_{1} i_{2} \cdots i_{p}=0, i_{q}=0, \cdots i_{N}}\right. \\
+& \left.+x D_{(A q)_{0}}^{i_{1} i_{2} \cdots i_{p}=0 \cdots, i_{q}-1, i_{q+1}, \cdots i_{N}}-x^{*} D_{(A q)_{1}}^{i_{1} i_{2} \cdots i_{p}=0 \cdots, i_{q-1}, i_{q+1}, \cdots i_{N}}\right] \\
+& S(n, k)=\frac{1}{k!} \sum_{d_{1}+\cdots+d_{k}=n} \frac{n!}{d_{1} ! \cdots d_{k} !} \\
+& g_{i}, \cdots, g_{k} \in G(A \cup R) \subset\langle A\rangle \cdot\langle R\rangle \\
+& \eta_{q}^{2} \underset{q \rightarrow \infty}{\longrightarrow} v(k)|\nabla u|^{2} \text { a.e. in } \Omega \\
+& \eta_{q}^{2} \leqslant v(k)|\nabla u|^{2} \\
+& (1-\delta)\left\|F_{j}(\Delta) f\right\|^{2} \leq \sum_{J} \sum_{K}\left|\left\langle F_{j}(\Delta) f, \theta_{V ; j, k}\right\rangle\right|^{2} \leq(1+\delta)\left\|F_{j}(\Delta) f\right\|^{2} \\
+& |\lambda|>R>\max \left\{\left|\mu^{\sigma}\right|: \mu^{\sigma} \in L^{\sigma}(\mu)\right\} \\
+& \underline{S}_{\alpha}:= \begin{cases}S & \text { if } \alpha=\alpha_{0}, \\ 0 & \text { if } \alpha \neq \alpha_{0},\end{cases} \\
+& \frac{1}{\sqrt{d}}\|v\|_{x} \leq\|v\|_{x}^{(1)} \leq C e^{\varepsilon k}\|v\|_{x}, \forall v \in T_{x} M, x \in \Lambda_{k}, \cdots \\
+& V_{\text {drift }}=\frac{d\left\langle\phi_{N H}|x| \phi_{N H}\right\rangle}{\frac{\left\langle\phi_{N H} \mid \phi_{N H}\right\rangle}{d t}}
+\end{aligned}
+\]

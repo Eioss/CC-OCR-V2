@@ -1,0 +1,14 @@
+$$
+\begin{aligned}
+&= \sum_{t=1}^{T} R_t \\
+&\leq \sum_{t=1}^{T} \mathop{\mathbb{E}}_{r_{t,i},\, i \in [n]} \Big[ \underbrace{\Big| f_2\big(\phi(x_t, i^*); \theta_{t-1}^{2,*}\big) - \big(r_{t,i^*} - f_1(x_t, i^*; \theta_{t-1}^{1,*})\big) \Big|}_{I_2} \\
+&\quad + \sum_{t=1}^{T} \underbrace{\Big| f_2\big(\phi(x_t, i^*); \theta_{t-1}^{2,*}\big) - f_2\big(\phi(x_t, i^*); \theta_{t-1}^{2}\big) \Big|}_{I_3} \Big] \\
+&\quad + \sum_{t=1}^{T} \underbrace{\Big| f_1(x_t, i^*; \theta_{t-1}^{1,*}) - f_1(x_t, i^*; \theta_{t-1}^{1}) \Big|}_{I_4} \\
+&\quad + \sum_{t=1}^{T} \mathop{\mathbb{E}}_{r_{t,i},\, i \in [n]} \Big[ \underbrace{\Big| f_2\big(\phi(x_t, \hat{i}); \theta_{t-1}^{2}\big) - \big(r_{t,\hat{i}} - f_1(x_t, \hat{i}; \theta_{t-1}^{1})\big) \Big|}_{I_5} \Big] \\
+&\leq 2 \sum_{t=1}^{T} \left( \frac{\sqrt{\Psi(\theta_0^2, R/m^{1/4})} + \mathcal{O}(1)}{\sqrt{T}} + \sqrt{\frac{2\log(\mathcal{O}(1)/\delta)}{T}} \right) \\
+&\quad + 2 \sum_{t=1}^{T} \left( \mathcal{O}\big(\sqrt{L}\, R / m^{1/4}\big) + \mathcal{O}\big(R^{4/3} L^2 \sqrt{\log m} / m^{1/3}\big) \right) \\
+&\leq \sum_{t=1}^{T} \left( \frac{2\sqrt{\Psi(\theta_0^2, R/m^{1/4})} + \mathcal{O}(1)}{\sqrt{T}} + 2\sqrt{\frac{2\log(\mathcal{O}(1)/\delta)}{T}} \right) \\
+&\quad + \mathcal{O}\big(\sqrt{L}\, T R / m^{1/4}\big) + \mathcal{O}\big(T R^{4/3} L^2 \sqrt{\log m} / m^{1/3}\big) \\
+&\overset{b}{\leq} 2\sqrt{\Psi(\theta_0^2, R/m^{1/4})\, T} + 2\sqrt{2\log(\mathcal{O}(1)/\delta)\, T} + \mathcal{O}(1)
+\end{aligned}
+$$

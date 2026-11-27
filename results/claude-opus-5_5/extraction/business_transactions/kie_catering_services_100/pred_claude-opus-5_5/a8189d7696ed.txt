@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "BLACKCURRANT", "cnt": "1", "price": "32,000"}, {"nm": "SPRITE", "cnt": "1", "price": "32,000"}, {"nm": "GRILLED CALAMARI", "cnt": "1", "price": "85,000"}, {"nm": "DINE FOR 2", "cnt": "1", "price": "129,000", "sub": [{"nm": "DANISH FISH & CHIPS DF", "price": "---"}, {"nm": "NEW YORK FISH & CHIPS", "price": "---"}]}], "sub_total": {"subtotal_price": "278,000", "service_price": "22,240", "tax_price": "30,024"}, "total": {"total_price": "330,264"}}
+```

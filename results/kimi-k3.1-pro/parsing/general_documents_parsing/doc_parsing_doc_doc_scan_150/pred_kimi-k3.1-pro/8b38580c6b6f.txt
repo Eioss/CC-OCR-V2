@@ -1,0 +1,162 @@
+```latex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{array,tabularx,multirow}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\definecolor{tealblue}{HTML}{36B7C9}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\pagestyle{empty}
+\setlength{\parindent}{2em}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[b]{0.24\textwidth}
+{\color{tealblue}\bfseries KEEP AWAKE}\par
+{\color{tealblue}觉晓教育}
+\end{minipage}%
+\hfill
+\begin{minipage}[b]{0.72\textwidth}
+\centering
+{\Large\bfseries 民法主观题知识点 + 小案例}
+\end{minipage}
+\par\medskip
+\hrule
+\medskip
+
+\renewcommand{\arraystretch}{1.7}
+\noindent
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}m{2.1cm}|Y|}
+\hline
+ & 问4：丙公司与戊公司签订房产买卖合同效力如何？ 为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+\hline
+\multirow{3}{*}{2010年}
+ & 问2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？ 为什么？（多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+ & 问6：甲公司与乙公司签订的绿豆买卖合同效力如何？ 为什么？（被代理人以履行合同的方式追认无权代理） \\
+\cline{2-2}
+ & 问7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？ 为什么？（无权处分不影响买卖合同的效力） \\
+\hline
+\end{tabularx}
+
+\vspace{1.2em}
+\begin{center}
+{\color{tealblue}\Large\bfseries 第一节\quad 合同的成立}
+\end{center}
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[
+  font=\small,
+  box/.style={
+    draw, rounded corners=2pt, align=center,
+    inner sep=6pt, minimum width=2.1cm, minimum height=9mm
+  },
+  listbox/.style={
+    draw, rounded corners=2pt, align=left,
+    inner sep=8pt, text width=3.1cm
+  },
+  arr/.style={
+    -{Triangle[length=4mm,width=4mm]}, line width=1.2pt
+  }
+]
+
+\node[listbox] (fact) at (0,0) {%
+\textcolor{tealblue}{\textbf{事实判断}}\\
+1.当事人\\
+2.意思表示\\
+3.标的
+};
+
+\node[listbox,text width=4.4cm] (value) at (5.2,0) {%
+\textcolor{tealblue}{\textbf{价值判断}}\\
+1.民事行为能力\\
+2.意思表示真实、自由\\
+3.不违反强制性规定、\\
+不违背公序良俗
+};
+
+\draw[arr] (fact.south) -- ++(0,-1.35);
+\draw[arr] (value.south) -- ++(0,-1.35);
+\draw[dotted,line width=1pt] (2.6,1.6) -- (2.6,-8.8);
+
+\node[box] (civil) at (-3.8,-5.1) {民事法律行为};
+\node[box] (no) at (0,-4.0) {不成立};
+\node[box] (yes) at (0,-6.1) {成立};
+
+\node[box] (valid) at (5.2,-5.1) {有效};
+\node[box] (defect) at (5.2,-7.3) {效力瑕疵};
+
+\node[box] (effective) at (8.5,-4.0) {生效};
+\node[box] (uneffective) at (8.5,-6.1) {未生效};
+\node[box] (most) at (12.2,-4.0) {大多数合同、婚姻};
+
+\node[align=left] (reasons) at (11.2,-6.1) {%
+附延缓条件\\
+附始期\\
+需要审批\\
+遗嘱
+};
+
+\node[align=left] (defects) at (8.5,-7.5) {%
+无效\\
+可撤销\\
+效力待定
+};
+
+\draw (civil.east) -- ++(0.45,0) coordinate (c1);
+\draw (c1) |- (no.west);
+\draw (c1) |- (yes.west);
+
+\draw (yes.east) -- ++(0.5,0) coordinate (c2);
+\draw (c2) |- (valid.west);
+\draw (c2) |- (defect.west);
+
+\draw (valid.east) -- ++(0.4,0) coordinate (c3);
+\draw (c3) |- (effective.west);
+\draw (c3) |- (uneffective.west);
+
+\draw[arr] (effective.east) -- (most.west);
+\draw (uneffective.east) -- (reasons.west);
+\draw (defect.east) -- (defects.west);
+
+\end{tikzpicture}%
+}
+
+\medskip
+{\bfseries 【民事法律行为成立、有效、生效关系图】}
+\end{center}
+
+\noindent
+合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\vspace{1em}
+\noindent
+{\Large\bfseries 一、合同的订立：要约与承诺}
+
+\vspace{0.6em}
+\noindent
+{\large\bfseries （一）要约}
+
+\noindent
+要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+\noindent
+1. 向希望与之订立合同的\textcolor{tealblue}{\textbf{受要约人}}作出。
+
+\noindent
+2. 内容\textcolor{tealblue}{\textbf{具体且确定}}：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+\noindent
+3. 具有订立合同的目的并表明\textcolor{tealblue}{\textbf{一经承诺即受拘束}}的意思。
+
+\par\medskip
+\noindent
+2
+
+\end{document}
+```

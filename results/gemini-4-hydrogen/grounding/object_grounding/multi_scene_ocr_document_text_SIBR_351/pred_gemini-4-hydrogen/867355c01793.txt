@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [111, 38, 712, 55], "label": "TITLE"},
+  {"bbox_2d": [365, 62, 466, 74], "label": "订单号 PURCHASE ORDER NO."},
+  {"bbox_2d": [58, 108, 299, 124], "label": "COMPANY NAME"},
+  {"bbox_2d": [63, 129, 639, 144], "label": "ADDRESS"},
+  {"bbox_2d": [65, 183, 360, 199], "label": "COMPANY NAME"},
+  {"bbox_2d": [64, 202, 709, 217], "label": "ADDRESS"},
+  {"bbox_2d": [538, 259, 659, 272], "label": "TRANSACTION METHOD"},
+  {"bbox_2d": [189, 276, 349, 288], "label": "PRODUCT NAME"},
+  {"bbox_2d": [279, 294, 793, 309], "label": "Konjac pasta including"},
+  {"bbox_2d": [66, 349, 604, 364], "label": "2.BAG MARKING"},
+  {"bbox_2d": [66, 405, 701, 420], "label": "3.UNIT PRICE 单价"},
+  {"bbox_2d": [65, 479, 355, 492], "label": "VARIETY 品类"},
+  {"bbox_2d": [421, 480, 464, 490], "label": "Total Bags总袋数"},
+  {"bbox_2d": [585, 480, 612, 490], "label": "Total Cartons 总箱数"},
+  {"bbox_2d": [754, 479, 763, 490], "label": "Total Pallets总托盘数"},
+  {"bbox_2d": [65, 497, 360, 510], "label": "VARIETY 品类"},
+  {"bbox_2d": [421, 499, 464, 508], "label": "Total Bags总袋数"},
+  {"bbox_2d": [585, 499, 611, 508], "label": "Total Cartons 总箱数"},
+  {"bbox_2d": [753, 497, 763, 508], "label": "Total Pallets总托盘数"},
+  {"bbox_2d": [65, 517, 294, 530], "label": "VARIETY 品类"},
+  {"bbox_2d": [421, 518, 464, 528], "label": "Total Bags总袋数"},
+  {"bbox_2d": [586, 518, 611, 527], "label": "Total Cartons 总箱数"},
+  {"bbox_2d": [754, 517, 763, 527], "label": "Total Pallets总托盘数"},
+  {"bbox_2d": [66, 574, 191, 587], "label": "5.TOTAL AMOUNT 总金额"},
+  {"bbox_2d": [66, 630, 320, 645], "label": "6.TIME OF SHIPPMENT"},
+  {"bbox_2d": [279, 662, 423, 671], "label": "7.PORT OF LOADING"},
+  {"bbox_2d": [66, 720, 814, 735], "label": "8.PAYMENT"}
+]
+```

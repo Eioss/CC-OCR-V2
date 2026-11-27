@@ -1,0 +1,11 @@
+\begin{align*}
+M' &\cong \mathbb{L}_{B} \circ \mathbb{L}_{B^{\perp\perp}} \\
+&\cong \mathbb{L}_{B^{\perp\perp}}[1] \\
+&= i_A^L \circ i_A + [1] \\
+&\cong i_A^L + \circ S \circ i_A + [1] \\
+&\cong i_A^L + \circ i_A - \circ i_A^L - \circ S \circ i_A + [1] \\
+&= \mathbb{L}_B \circ i_A^L - \circ S \circ i_A + [1] \\
+&\cong i_A^L - \circ S \circ i_A + [2] \\
+&\cong i_A^L + \circ S \circ i_A - \circ i_A^L - \circ S \circ i_A + [2] \\
+&= i_A^L + \circ S^2 \circ i_A + [2]
+\end{align*}

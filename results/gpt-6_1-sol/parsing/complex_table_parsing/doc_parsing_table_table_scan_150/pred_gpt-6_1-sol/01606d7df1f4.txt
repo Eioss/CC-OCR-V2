@@ -1,0 +1,35 @@
+<table>
+  <tr>
+    <td>Dataset</td>
+    <td># sequence</td>
+    <td># user questions</td>
+    <td># databases</td>
+    <td># domain</td>
+    <td># tables</td>
+    <td>Avg. len</td>
+    <td>Vocab</td>
+    <td>Avg. turns</td>
+  </tr>
+  <tr>
+    <td>SParC</td>
+    <td>4,298</td>
+    <td>12,726</td>
+    <td>200</td>
+    <td>138</td>
+    <td>1,020</td>
+    <td>8.1</td>
+    <td>3,794</td>
+    <td>3.0</td>
+  </tr>
+  <tr>
+    <td>CoSQL</td>
+    <td>3,007</td>
+    <td>15,498</td>
+    <td>200</td>
+    <td>138</td>
+    <td>1,020</td>
+    <td>11.2</td>
+    <td>9,585</td>
+    <td>5.2</td>
+  </tr>
+</table>

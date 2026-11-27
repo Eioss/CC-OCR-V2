@@ -1,0 +1,217 @@
+Here is the HTML table transcription of the provided image. I have used `colspan` to represent the merged cells for the headers and totals, and aligned the text to match the visual layout.
+
+```html
+<table border="1" style="border-collapse: collapse; width: 100%; font-family: sans-serif; text-align: left;">
+    <tbody>
+        <!-- Row 1: Example Label -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px;">Example:</td>
+        </tr>
+        <!-- Row 2: Company Name -->
+        <tr>
+            <td colspan="4" style="text-align: center; font-weight: bold; padding: 5px;">*ABC Design</td>
+        </tr>
+        <!-- Row 3: Report Title -->
+        <tr>
+            <td colspan="4" style="text-align: center; font-weight: bold; padding: 5px;">Balance Sheet</td>
+        </tr>
+        <!-- Row 4: Date -->
+        <tr>
+            <td colspan="4" style="text-align: center; font-weight: bold; padding: 5px;">As at December 31, 2022</td>
+        </tr>
+        <!-- Row 5: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 6: ASSETS Header -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px;">ASSETS</td>
+        </tr>
+        <!-- Row 7: Current Assets Header -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px 5px 5px 20px;">Current Assets</td>
+        </tr>
+        <!-- Row 8: Cash -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Cash and cash equivalents</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 9: Accounts Receivable -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Accounts Receivable</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">150.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 10: Inventories -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Inventories</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 11: Prepaid -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Prepaid and other assets</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px; border-bottom: 1px solid black;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 12: Total Current Assets -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px 5px 5px 20px;">Total Current Assets</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">450.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 13: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 14: Long-term Investment -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Long-term Investment</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">200.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 15: Property & Equipment -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Property & Equipment</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 16: Other assets -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Other assets</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 17: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 18: TOTAL ASSETS -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px;">TOTAL ASSETS</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">850.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 19: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 20: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 21: LIABILITIES Header -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px;">LIABILITIES</td>
+        </tr>
+        <!-- Row 22: Current Liabilities Header -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px 5px 5px 20px;">Current Liabilities</td>
+        </tr>
+        <!-- Row 23: Accounts Payable -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Accounts Payable</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 24: Unearned Revenue -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Unearned Revenue</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">50.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 25: Short-term debt -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Short-term debt</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px; border-bottom: 1px solid black;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 26: Total Current Liabilities -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px 5px 5px 20px;">Total Current Liabilities</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">250.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 27: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 28: Long-term debt -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Long-term debt</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px;">200.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 29: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 30: TOTAL LIABILITIES -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px;">TOTAL LIABILITIES</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">450.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 31: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 32: OWNER'S EQUITY Header -->
+        <tr>
+            <td colspan="4" style="font-weight: bold; padding: 5px;">OWNER'S EQUITY</td>
+        </tr>
+        <!-- Row 33: Equity -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Equity</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px;">100.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 34: Retained Earnings -->
+        <tr>
+            <td style="padding: 5px 5px 5px 40px;">Retained Earnings</td>
+            <td style="padding: 5px;"></td>
+            <td style="text-align: right; padding: 5px; border-bottom: 1px solid black;">300.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 35: TOTAL EQUITY -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px;">TOTAL EQUITY</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">400.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 36: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+        <!-- Row 37: TOTAL LIABILITIES AND OWNER'S EQUITY -->
+        <tr>
+            <td style="font-weight: bold; padding: 5px;">TOATL LIABILITIES AND OWNER'S EQUITY</td>
+            <td style="text-align: right; padding: 5px;">$</td>
+            <td style="text-align: right; padding: 5px; border-bottom: 3px double black;">850.00</td>
+            <td style="padding: 5px;"></td>
+        </tr>
+        <!-- Row 38: Spacer -->
+        <tr>
+            <td colspan="4" style="padding: 5px;">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+```

@@ -1,0 +1,78 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[margin=2.5cm]{geometry}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries 投资经营合作合同范本}
+\end{center}
+
+\vspace{1em}
+
+投资经营合作合同范本一
+
+\medskip
+
+甲方：
+
+\medskip
+
+乙方：
+
+\medskip
+
+根据有关法律、法规，本着平等互利的原则，甲、乙双方共同合作投
+
+资经营商铺做安防
+
+项目，经友好协商一致，特订立本协议书。
+
+\medskip
+
+第一章\quad 合作项目
+
+\medskip
+
+第一条：
+
+\medskip
+
+1、双方拟共同投资经营的项目为位于
+
+xx 电脑城，并挂靠甲方的名义，甲方无偿提供
+
+商铺内一切货源和安防配套经营
+
+\medskip
+
+2、合作本项目内容为：
+
+\medskip
+
+乙方同意共同出资购买 xx 电脑城商铺，并装修，同时按照双方确定
+
+的
+
+安防材料设备的标准及规模进行装修
+
+\medskip
+
+4、本合作项目期限为 x 年，自本合同签订之日开始计算。
+
+\medskip
+
+第二章\quad 出资及盈亏分担
+
+\medskip
+
+第二条：乙方确认本项目的第一期投资为 x 万元，甲方负责商店的进
+
+\end{document}
+```
+
+Notes:
+- The original skips item "3" (going from 2 to 4); this is preserved as-is.
+- The last line is cut off at the bottom of the image ("甲方负责商店的进…"), so it is transcribed only as far as visible.
+- Compile with XeLaTeX (required for `ctexart` with Chinese text).

@@ -1,0 +1,5 @@
+There are two dates that match '2020-##-17' on this receipt. The bounding box below is for the one next to 开票日期 (issue date) in the upper right:
+
+(779, 190, 853, 218)
+
+The other match is next to 就诊日期 (visit date) at about (785, 648, 860, 673).

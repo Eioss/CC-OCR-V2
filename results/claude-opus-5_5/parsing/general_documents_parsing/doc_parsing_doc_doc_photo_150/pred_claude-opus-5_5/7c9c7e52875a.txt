@@ -1,0 +1,59 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+
+\section*{\ldots ichment Worksheet}
+
+\subsection*{Formulas For a Line}
+
+You can think of the slope-intercept form of an equation for a line, $y = mx + b$, as a formula for the line given $m$ and $b$.
+
+\medskip
+
+\noindent\textbf{Example:} Write the formula for a line given two points $(x_1, y_1)$ and $(x_2, x_2)$.
+
+\medskip
+
+Use the idea that the slope of a line is the same between any two points.
+\[
+\frac{y - y_1}{x - x_1} = \frac{y_2 - y_1}{x_2 - x_1}
+\]
+
+\noindent Multiply each side by $(x - x_1)$.
+\[
+y - y_1 = \frac{y_2 - y_1}{x_2 - x_1}(x - x_1) \qquad \textit{Two-point formula}
+\]
+
+If you know two points of a line, you can write an equation for the line directly using this formula.
+
+\bigskip
+
+\noindent\textbf{\textit{Use the two-point formula to write an equation for the line that passes through the given points.}}
+
+\medskip
+
+\noindent
+\begin{tabular}{p{0.3\textwidth}p{0.3\textwidth}p{0.3\textwidth}}
+\textbf{1.} $(3, 1)$ and $(2, -1)$ & \textbf{2.} $(-3, 1)$ and $(6, 7)$ & \textbf{3.} $(-4, 4)$ and $(0, 3)$ \\[3em]
+\textbf{4.} $(-5, -3)$ and $(7, -3)$ & \textbf{5.} $(10, 0)$ and $(0, 9)$ & \textbf{6.} $(a, 0)$ and $(0, b)$ \\
+\end{tabular}
+
+\bigskip
+
+\noindent\textbf{\textit{Write the standard form of each equation in Exercises 1--6.}}
+
+\medskip
+
+\noindent
+\begin{tabular}{p{0.3\textwidth}p{0.3\textwidth}p{0.3\textwidth}}
+\textbf{7.} Exercise 1 & \textbf{8.} Exercise 2 & \textbf{9.} Exercise 3 \\
+\end{tabular}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The header is partially cut off in the image; only "…ichment Worksheet" is visible (likely "Enrichment Worksheet").
+- The example as printed reads "$(x_2, x_2)$". This is kept exactly as shown, though it is likely a typo for $(x_2, y_2)$.

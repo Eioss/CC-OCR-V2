@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [91, 67, 634, 80], "label": "Address"},
+	{"bbox_2d": [830, 320, 905, 332], "label": "Amount"},
+	{"bbox_2d": [830, 348, 896, 359], "label": "Amount"},
+	{"bbox_2d": [831, 376, 881, 386], "label": "Amount"},
+	{"bbox_2d": [830, 404, 905, 416], "label": "Amount"},
+	{"bbox_2d": [88, 45, 508, 63], "label": "Company Name"},
+	{"bbox_2d": [749, 181, 852, 194], "label": "Date"},
+	{"bbox_2d": [221, 87, 349, 99], "label": "Fax"},
+	{"bbox_2d": [211, 213, 376, 226], "label": "From"},
+	{"bbox_2d": [746, 103, 838, 114], "label": "Invoice No."},
+	{"bbox_2d": [146, 320, 275, 332], "label": "Marks & Numbers"},
+	{"bbox_2d": [146, 348, 232, 359], "label": "Marks & Numbers"},
+	{"bbox_2d": [146, 377, 237, 388], "label": "Marks & Numbers"},
+	{"bbox_2d": [266, 234, 308, 246], "label": "Payment"},
+	{"bbox_2d": [486, 320, 591, 332], "label": "Quantities and Descriptions"},
+	{"bbox_2d": [495, 348, 591, 359], "label": "Quantities and Descriptions"},
+	{"bbox_2d": [484, 376, 591, 388], "label": "Quantities and Descriptions"},
+	{"bbox_2d": [779, 160, 892, 172], "label": "Sales Confirmation No."},
+	{"bbox_2d": [90, 89, 216, 99], "label": "Tel"},
+	{"bbox_2d": [423, 117, 586, 138], "label": "Title"},
+	{"bbox_2d": [87, 156, 548, 171], "label": "To"},
+	{"bbox_2d": [623, 319, 729, 331], "label": "Unit Price"},
+	{"bbox_2d": [623, 347, 737, 359], "label": "Unit Price"},
+	{"bbox_2d": [623, 376, 721, 387], "label": "Unit Price"}
+]
+```

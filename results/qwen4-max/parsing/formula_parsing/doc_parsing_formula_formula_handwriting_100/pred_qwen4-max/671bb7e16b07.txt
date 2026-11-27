@@ -1,0 +1,14 @@
+\[\begin{aligned}
+\pi(k,z,\theta|y,p,p,\gamma)&\propto\frac{(2\pi)^{-n/2}}{v^{k+1}\sigma^{n}}p^{k}(1-p)^{n-k-1}\\
+&\prod_{j=1}^{k+1}\left(\tau_{j}-\tau_{j-1}+\frac{1}{v^{2}}\right)^{1/2}\exp\left\{-\frac{1}{2\sigma^{2}}\left(SS_{j}+\frac{\mu_{0}^{2}}{v^{2}}-\frac{(S_{j}+\frac{\mu_{0}}{v^{2}})^{2}}{\tau_{j}-\tau_{j-1}+\frac{1}{v^{2}}}\right)\right\}\\
+R_{n}'(t):&=\frac{\gamma(2^{n}+p_{n}^{N})}{4}\left(\frac{(1+2^{n-1}y_{n-1}^{N})^{2}}{(1+2^{n}y_{n}^{N})}-1\right)(p_{n-1}^{N}-p_{n}^{N})\\
+&-\bar{\mu}_{n}(A^{N}(A^{N}(t),p^{N}(t))\gamma(2^{n+1}+p_{n+1}^{N})\left(\frac{(1+2^{n+1}y_{n+1}^{N})}{(1+2^{n}y_{n}^{N})}-1\right)(p_{n}^{N}-p_{n+1}^{N}),\\
+\operatorname{gen}_{H}(f^{c_{2}})&\leq\operatorname{gen}_{H}(f^{e_{1}})+\#\{(-u_{i},u_{i}):C_{1}\leq f(u_{i})\leq C_{2},f'(u_{i})=0\},\\
+P(T_{*}\in A|\min_{a\leq t\leq b}X(t)>u)\\
+&=\frac{\int_{0}^{\infty}\exp\{-ux/\sigma_{*}^{2}(a,b)\}P(Y\leq x,\min_{a\leq t\leq b}X(t)>0,T_{*}\in A)dx}{\int_{0}^{\infty}\exp\{-ux/\sigma_{*}^{2}(a,b)\}P(Y\leq x,\min_{a\leq t\leq b}X(t)>0)dx},\\
+S_{j}&\geq\frac{(1+9\varepsilon/10)d-2^{j}}{2^{j}}\geq\frac{1+9\varepsilon/10}{1+\varepsilon/10}d_{j-1}\geq(1+7\varepsilon/10)d_{j}.\\
+I^{\mathrm{syn}}(\alpha_{1}\boxdot\alpha_{2})&\subseteq I^{\mathrm{syn}}(\alpha_{1}'\boxdot\alpha_{2}')\text{ and }O^{\mathrm{syn}}(\alpha_{1}\boxdot\alpha_{2})\subseteq O^{\mathrm{syn}}(\alpha_{1}'\boxdot\alpha_{2}').\\
+x&=(0,0,\cdots,0,x_{i+1},\cdots x_{n})\\
+\frac{t_{i}}{64(1+t_{i}d(x_{i},\partial B_{R})^{-4})}f_{k,i}(x,t)&\leq\frac{(t_{i}+\frac{t}{\sigma_{i}})}{1+(t_{i}+\frac{t}{\sigma_{i}})d(x_{i}+\frac{x}{\sqrt{\sigma_{i}}},\partial B_{R})^{-4}}f_{k,i}(x,t)\\
+&\leq\frac{t_{i}}{1+t_{i}d(x_{i},\partial B_{R})^{-4}}f_{k,i}(0,0).
+\end{aligned}\]

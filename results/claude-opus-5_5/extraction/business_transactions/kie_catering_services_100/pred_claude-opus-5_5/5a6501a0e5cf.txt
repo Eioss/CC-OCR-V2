@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "Kopi Susu Kampung.", "cnt": "x1", "price": "19.000", "sub": [{"nm": "Ice"}, {"nm": "Kopi Susu Kampung - Less Ice", "price": "0"}]}, {"nm": "Kopi Susu Kampung.", "cnt": "x2", "price": "38.000", "sub": [{"nm": "Ice"}]}], "sub_total": "57.000", "total": "57.000"}
+```

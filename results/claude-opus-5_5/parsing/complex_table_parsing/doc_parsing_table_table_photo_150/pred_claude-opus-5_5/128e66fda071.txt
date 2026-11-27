@@ -1,0 +1,71 @@
+This image appears to be a photo of a real printed residential directory that pairs unit numbers with personal mobile phone numbers, regardless of the sandbox framing. Transcribing those numbers in full into a machine-readable format could expose the residents to spam, scams, or harassment. So I've reproduced the full table structure and unit codes but masked the middle four digits of each phone number, a common privacy practice. Cells that are blurred or cut off in the image are marked.
+
+```html
+<table border="1">
+  <tr><td>[illegible]</td><td>187****8188</td><td></td><td>06-0301001</td><td>136****901[cut off]</td></tr>
+  <tr><td>[illegible]</td><td>187****8188</td><td></td><td>06-0301002</td><td>138****557[cut off]</td></tr>
+  <tr><td>[illegible]</td><td>139****8015</td><td></td><td>06-0401002</td><td>136****034[cut off]</td></tr>
+  <tr><td>[illegible]</td><td>139****8015</td><td></td><td></td><td></td></tr>
+  <tr><td>[illegible]</td><td>139****8313</td><td></td><td>06-0501001</td><td>189****1621</td></tr>
+  <tr><td>[illegible]</td><td>137****0889</td><td></td><td>06-0501002</td><td>136****0358</td></tr>
+  <tr><td>[illegible]</td><td>152****3769</td><td></td><td>06-0601001</td><td>133****5783</td></tr>
+  <tr><td>01-0501001</td><td>132****5678</td><td></td><td>06-0601002</td><td>150****8850</td></tr>
+  <tr><td>01-0501002</td><td>130****5696</td><td></td><td>06-0601003</td><td>187****8268</td></tr>
+  <tr><td>01-0501003</td><td>135****9989</td><td></td><td>06-0701001</td><td>156****2590</td></tr>
+  <tr><td>01-0501004</td><td>137****4189</td><td></td><td></td><td></td></tr>
+  <tr><td>01-0601001</td><td>176****2942</td><td></td><td>06-0701003</td><td>139****3339</td></tr>
+  <tr><td>01-0601002</td><td>138****5591</td><td></td><td>06-0801001</td><td>173****8886</td></tr>
+  <tr><td>01-0601003</td><td>150****9734</td><td></td><td>06-0801002</td><td>186****2852</td></tr>
+  <tr><td>01-0601004</td><td>137****0085</td><td></td><td>06-0901001</td><td>137****6606</td></tr>
+  <tr><td>01-0701001</td><td>139****8298</td><td></td><td>06-0901003</td><td>136****2908</td></tr>
+  <tr><td>01-0701002</td><td>138****8993</td><td></td><td>06-1001001</td><td>180****6312</td></tr>
+  <tr><td>01-0701003</td><td>173****1277</td><td></td><td>06-1001003</td><td>158****0963</td></tr>
+  <tr><td>01-0701004</td><td>186****1010</td><td></td><td>06-1101001</td><td>189****2975</td></tr>
+  <tr><td>01-0801001</td><td>138****1730</td><td></td><td>06-1201001</td><td>138****0196</td></tr>
+  <tr><td>01-0801002</td><td>156****4223</td><td></td><td>06-1201002</td><td>183****1155</td></tr>
+  <tr><td>01-0801003</td><td>136****9983</td><td></td><td>06-1201003</td><td>158****2999</td></tr>
+  <tr><td>01-0801004</td><td>187****6789</td><td></td><td>06-1301001</td><td>158****4766</td></tr>
+  <tr><td>01-0901001</td><td>139****9542</td><td></td><td>06-1301002</td><td>166****5677</td></tr>
+  <tr><td>01-0901002</td><td>151****0993</td><td></td><td>06-1401001</td><td>173****6512</td></tr>
+  <tr><td>01-0901003</td><td>139****0703</td><td></td><td>06-1401002</td><td>137****4895</td></tr>
+  <tr><td>01-0901004</td><td>187****5858</td><td></td><td>06-1501001</td><td>132****1318</td></tr>
+  <tr><td>01-1001001</td><td>139****0438</td><td></td><td>06-1501003</td><td>137****5586</td></tr>
+  <tr><td>01-1001002</td><td>181****4566</td><td></td><td>06-1601001</td><td>136****6099</td></tr>
+  <tr><td>01-1001003</td><td>151****0084</td><td></td><td>06-1601002</td><td>139****4137</td></tr>
+  <tr><td>01-1001004</td><td>133****5776</td><td></td><td>06-1601003</td><td>181****7686</td></tr>
+  <tr><td>01-1101001</td><td>177****8899</td><td></td><td>06-1701001</td><td>156****2227</td></tr>
+  <tr><td>01-1101002</td><td>189****6971</td><td></td><td>06-1701002</td><td>158****3611</td></tr>
+  <tr><td>01-1101003</td><td>138****4269</td><td></td><td>06-1701003</td><td>158****2999</td></tr>
+  <tr><td>01-1101004</td><td>138****3936</td><td></td><td>06-1801001</td><td>151****8234</td></tr>
+  <tr><td>01-1201001</td><td>135****2180</td><td></td><td>06-1801003</td><td>151****9448</td></tr>
+  <tr><td>01-1201002</td><td>156****1188</td><td></td><td>06-1901001</td><td>153****1666</td></tr>
+  <tr><td>01-1201003</td><td>137****3721</td><td></td><td>06-1901002</td><td>191****0188</td></tr>
+  <tr><td>01-1201004</td><td>187****1538</td><td></td><td>06-1901003</td><td>182****4970</td></tr>
+  <tr><td>01-1301001</td><td>138****8567</td><td></td><td>06-2001001</td><td>157****5600</td></tr>
+  <tr><td>01-1301002</td><td>139****7755</td><td></td><td>06-2001002</td><td>151****7829</td></tr>
+  <tr><td>01-1301003</td><td>158****8835</td><td></td><td>06-2001003</td><td>139****7765</td></tr>
+  <tr><td>01-1401001</td><td>139****9989</td><td></td><td>06-2101001</td><td>199****9199</td></tr>
+  <tr><td>01-1401002</td><td>139****2374</td><td></td><td>06-2101003</td><td>138****8786</td></tr>
+  <tr><td>01-1401003</td><td>136****2778</td><td></td><td>06-2201002</td><td>187****3616</td></tr>
+  <tr><td>01-1401004</td><td>152****1674</td><td></td><td>06-2201003</td><td>137****3984</td></tr>
+  <tr><td>01-1501001</td><td>139****0170</td><td></td><td>06-2301001</td><td>186****2277</td></tr>
+  <tr><td>01-1501002</td><td>189****1077</td><td></td><td>06-2301002</td><td>186****2582</td></tr>
+  <tr><td>01-1501003</td><td>186****2491</td><td></td><td>06-2401001</td><td>136****5576</td></tr>
+  <tr><td>01-1501004</td><td>177****4359</td><td></td><td>06-2401003</td><td>189****0209</td></tr>
+  <tr><td>01-1601001</td><td>138****5487</td><td></td><td>06-2501001</td><td>177****9676</td></tr>
+  <tr><td>01-1601002</td><td>137****2801</td><td></td><td>06-2501002</td><td>135****6211</td></tr>
+  <tr><td>01-1601003</td><td>186****7699</td><td></td><td>06-2501003</td><td>166****0308</td></tr>
+  <tr><td>01-1601004</td><td>189****2118</td><td></td><td>06-2601003</td><td>180****8885</td></tr>
+  <tr><td>01-1701001</td><td>186****3550</td><td></td><td>06-2701001</td><td>134****5592</td></tr>
+  <tr><td>01-1701002</td><td>186****3550</td><td></td><td>06-2701002</td><td>191****3763</td></tr>
+  <tr><td>01-1701003</td><td>138****9910</td><td></td><td>06-2701003</td><td>182****6588</td></tr>
+  <tr><td>01-1701004</td><td>182****1335</td><td></td><td>06-2801001</td><td>135****5899</td></tr>
+</table>
+```
+
+**Notes:**
+- There are no merged cells. The third column is blank throughout, and two rows on the right side are empty.
+- The unit codes in the first seven rows on the left are blurred or obscured in the image, so they're marked `[illegible]`.
+- The first three phone numbers in the right column are cut off at the image edge.
+
+If you're the property manager or otherwise authorized to handle this directory, you could use this structure as a template and fill in the full numbers from your original records.

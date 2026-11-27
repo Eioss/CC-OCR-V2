@@ -1,0 +1,45 @@
+\[
+\begin{array}{l}
+\displaystyle \big\vert y_{1}^{*}(t)-y_{2}^{*}(t)\big\vert \\[6pt]
+\displaystyle \leq \frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}\big(\Psi(t)-\Psi(a)\big)^{\mu}
+      +\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert\,\Omega_{\Psi}^{\rho}(t,a)\Big\vert \\[4pt]
+\displaystyle \quad +\int_{a}^{t}\sum_{k=1}^{\infty}
+      \frac{L^{k}}{\Gamma(k\mu)}\,\mathcal{E}_{\Psi}^{k\mu}(t,\eta)
+      \left(\frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}
+            \big(\Psi(\eta)-\Psi(a)\big)^{\mu}
+            +\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert\,
+             \Omega_{\Psi}^{\rho}(t,a)\right)d\eta \\[8pt]
+\displaystyle =\frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}
+      \big(\Psi(t)-\Psi(a)\big)^{\mu}
+      +\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert\,\Omega_{\Psi}^{\rho}(t,a)\Big\vert \\[4pt]
+\displaystyle \quad +\frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}
+      \sum_{k=1}^{\infty}L^{k}\,
+      \mathcal{I}_{a^{+}}^{k\mu;\Psi}
+      \big(\Psi(t)-\Psi(a)\big)^{\mu}
+      +\frac{\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert}{\Gamma(\rho)}
+      \sum_{k=1}^{\infty}L^{k}\,
+      \mathcal{I}_{a^{+}}^{k\mu;\Psi}
+      \big(\Psi(t)-\Psi(a)\big)^{\rho-1} \\[8pt]
+\displaystyle =\frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}
+      \big(\Psi(t)-\Psi(a)\big)^{\mu}
+      +\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert\,\Omega_{\Psi}^{\rho}(t,a)\Big\vert \\[4pt]
+\displaystyle \quad +\frac{(\varepsilon_{1}+\varepsilon_{2})}{\Gamma(\mu+1)}
+      \sum_{k=1}^{\infty}L^{k}\,
+      \frac{\Gamma(\mu+1)}{\Gamma((k+1)\mu+1)}
+      \big(\Psi(t)-\Psi(a)\big)^{(k+1)\mu} \\[4pt]
+\displaystyle \quad +\frac{\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert}{\Gamma(\rho)}
+      \sum_{k=1}^{\infty}
+      \frac{L^{k}\,\Gamma(\rho)}{\Gamma(\rho+k\mu)}
+      \big(\Psi(t)-\Psi(a)\big)^{k\mu+\rho-1} \\[8pt]
+\displaystyle =(\varepsilon_{1}+\varepsilon_{2})
+      \left(\frac{\big(\Psi(t)-\Psi(a)\big)^{\mu}}{\Gamma(\mu+1)}
+            +\sum_{k=1}^{\infty}
+             \frac{L^{k}}{\Gamma((k+1)\mu+1)}
+             \big(\Psi(t)-\Psi(a)\big)^{(k+1)\mu}\right) \\[8pt]
+\displaystyle \quad +\big\vert y_{a}^{(1)}-y_{a}^{(2)}\big\vert
+      \left(\frac{\big(\Psi(t)-\Psi(a)\big)^{\rho-1}}{\Gamma(\rho)}
+            +\sum_{k=1}^{\infty}
+             \frac{L^{k}}{\Gamma(\rho+k\mu)}
+             \big(\Psi(t)-\Psi(a)\big)^{k\mu+\rho-1}\right)
+\end{array}
+\]

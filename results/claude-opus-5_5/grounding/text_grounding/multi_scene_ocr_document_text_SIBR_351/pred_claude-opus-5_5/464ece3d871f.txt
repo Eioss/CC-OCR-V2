@@ -1,0 +1,5 @@
+There are two instances of "8.80" on the receipt, both in the third row of the itemized list on the right. This box is for the one in the unit-price (单价) column:
+
+(734, 389, 772, 412)
+
+The other instance, in the amount (金额) column, is at approximately (881, 385, 920, 408).

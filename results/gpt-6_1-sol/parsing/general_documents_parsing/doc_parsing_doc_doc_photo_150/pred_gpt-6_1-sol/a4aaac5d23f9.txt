@@ -1,0 +1,133 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{flushright}
+\textbf{\textit{Tnkalvi.Net}}
+\end{flushright}
+
+\begin{center}
+COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019
+\end{center}
+
+\noindent
+11th Std.
+\hfill
+\textbf{Standard - 11}
+\hfill
+Reg. No. \(\square\square\square\square\square\square\)
+
+\begin{center}
+\textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent
+Time Allowed: 2.30 Hours
+\hfill
+Maximum Marks: 70
+
+\medskip
+
+\noindent
+\begin{tabular}{@{}l r p{11.5cm}@{}}
+\textbf{Instructions:} & \textbf{1.} &
+\textbf{Check the question paper for fairness of printing.
+If there is any lack of fairness, inform the Hall
+Supervisor immediately.} \\[4pt]
+& \textbf{2.} &
+\textbf{Use Blue or Black ink to write and underline.}
+\end{tabular}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\noindent
+\textbf{Answer the following questions:}
+\hfill
+\(\mathbf{15\times1=15}\)
+
+\begin{enumerate}[label=\arabic*),leftmargin=1.5em]
+
+\item The \underline{\hspace{1.2cm}} patterns of questions are commonly known as Interrogative sentences.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) 4 & b) 3 & c) 2 & d) 5
+\end{tabular}
+
+\item A cruise is a journey on a
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) ferry & b) ocean liner & c) ship & d) boat
+\end{tabular}
+
+\item An information paper document is
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) brochure & b) pamphlet & c) itinerary & d) notice
+\end{tabular}
+
+\item The pair of words `united-untied' is an example of
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) homograph & b) contranyms & c) homophones & d) antigrams
+\end{tabular}
+
+\item A \underline{\hspace{1.2cm}} is a short informal performance intended to educate or inform.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) play & b) parody & c) skit & d) drama
+\end{tabular}
+
+\item The association of one word with `multiple' meanings is known as
+\underline{\hspace{1.2cm}}.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) polygenesis & b) polysemy & c) polycentric & d) polynomial
+\end{tabular}
+
+\item The process of reading quickly to get the specific information from a given text.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) decoding & b) scanning & c) encoding & d) skimming
+\end{tabular}
+
+\item One who treats old people
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) geriatrician & b) pediatrician & c) neurologist & d) pathologist
+\end{tabular}
+
+\item Epitasis means
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) gum disease & b) iron deficiency & c) nose bleed & d) feverishness
+\end{tabular}
+
+\item Bluefin is a type of \underline{\hspace{1.2cm}}.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) bass & b) cod & c) gold & d) tuna
+\end{tabular}
+
+\item Hud Herd cyclone is named after a bird \underline{\hspace{1.2cm}}.
+
+\begin{tabular}{@{}p{3.5cm}p{3.5cm}p{3.5cm}p{3.5cm}@{}}
+a) Hawk & b) Heron & c) Hoopoe & d) Hainan
+\end{tabular}
+
+\end{enumerate}
+
+\vfill
+
+\begin{center}
+\small
+Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+
+\end{document}
+```

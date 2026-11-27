@@ -1,0 +1,169 @@
+Here is the transcription of the provided image into LaTeX format.
+
+```latex
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{enumitem}
+
+% Set margins to match the document
+\geometry{
+    top=1in,
+    bottom=1in,
+    left=1in,
+    right=1in
+}
+
+\begin{document}
+
+% Header Section
+\noindent
+\begin{minipage}{0.3\textwidth}
+    \small \textit{සියලුම හිමිකම් ඇවිරිණි} \\
+    \small \textit{All Rights Reserved}
+\end{minipage}
+\hfill
+\begin{minipage}{0.4\textwidth}
+    \centering
+    % Placeholder for the emblem
+    \includegraphics[width=2cm, height=2cm]{emblem_placeholder.png} 
+\end{minipage}
+\hfill
+\begin{minipage}{0.3\textwidth}
+    \raggedleft
+    \small \textbf{One Hour}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{PROVINCIAL DEPARTMENT OF EDUCATION NORTH WESTERN PROVINCE} \\
+    \Large \textbf{THIRD TERM TEST - 2020} \\
+    \Large \textbf{ENGLISH LANGUAGE - I}
+\end{center}
+
+\vspace{0.3cm}
+
+\noindent
+\textbf{Grade 11} \hfill
+
+\vspace{0.2cm}
+
+\noindent
+\framebox[\textwidth]{\textbf{Name / Index No. :} \hspace{10cm}}
+
+\vspace{0.3cm}
+
+\noindent
+\textbf{Answer all questions on this paper itself.}
+
+\vspace{0.5cm}
+
+% Test 1 Section
+\noindent
+\textbf{Test - 1} \quad \textbf{Fill in the blanks in the following dialogue. Use the words given in the box. Write the letter of the correct word in the space given. \textit{The first one is done for you.}}
+
+\vspace{0.3cm}
+
+\noindent
+\begin{minipage}{0.7\textwidth}
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{ll}
+        \textit{Postal clerk} & : What can I do for you today? \\
+        \textit{Anne} & : I need to mail this (1) \underline{\ (b)\ } to Galle, please. \\
+        \textit{Postal clerk} & : OK, let's see how much it (2) .................... Well, It's about \\
+                              & \quad 350 grams. \\
+        \textit{Anne} & : I need to send it by (3) .................... mail. \\
+        \textit{Postal clerk} & : If you do so, it will get there (4) .................... Or you can \\
+                              & \quad send it priority and it will get there by Saturday. \\
+        \textit{Anne} & : Saturday is fine. How much will that be? \\
+        \textit{Postal clerk} & : Rs.750. Do you (5) .................... anything else? \\
+        \textit{Anne} & : Oh, yes! I almost forgot. I need a book of (6) ...................., too. \\
+        \textit{Postal clerk} & : OK, your total is Rs.1950.
+    \end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{0.25\textwidth}
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabular}{|l|}
+        \hline
+        (a) want \\
+        (b) package \\
+        (c) stamps \\
+        (d) weighs \\
+        (e) express \\
+        (f) tomorrow \\
+        \hline
+    \end{tabular}
+    
+    \vspace{0.2cm}
+    
+    \textbf{Marks} \\
+    \framebox[2cm]{
+        \begin{tabular}{c}
+            1 \(\times\) 5 \\
+            \hline
+            Total \quad 05
+        \end{tabular}
+    }
+\end{minipage}
+
+\vspace{0.8cm}
+
+% Test 2 Section
+\noindent
+\textbf{Test - 2} \quad \textbf{Read the following guidelines given by of a hotel to its guests and complete them with the correct prepositions given below. \textit{The first one is done for you.}}
+
+\vspace{0.2cm}
+
+\begin{center}
+    \textit{during, till, for, of, from, on}
+\end{center}
+
+\vspace{0.2cm}
+
+\noindent
+\begin{minipage}{0.75\textwidth}
+    \begin{center}
+        \textbf{The Moon Hotel}
+    \end{center}
+    \noindent
+    \textbf{The following information will help you to have an enjoyable stay:}
+    \begin{itemize}[label=\(\diamond\)]
+        \item The restaurant is open daily (1) \underline{\ from \ } 6.30 a.m. to 9.30 p.m.
+        \item You can order breakfast in your room by hanging the Menu card (2) .................... the door.
+        \item If you need a doctor (3) .................... the night, please call 100.
+        \item There is a play room (4) .................... kids below 10 years
+        \item There is free wifi in the rooms and the password is given in the back (5) .................... your room key.
+        \item The main gate is open (6) .................... 10.00 p.m.
+    \end{itemize}
+\end{minipage}
+\hfill
+\begin{minipage}{0.2\textwidth}
+    \textbf{Marks} \\
+    \framebox[2cm]{
+        \begin{tabular}{c}
+            1 \(\times\) 5 \\
+            \hline
+            Total \quad 05
+        \end{tabular}
+    }
+\end{minipage}
+
+\vspace{1cm}
+
+% Footer
+\begin{center}
+    (01)
+\end{center}
+
+\noindent
+\scriptsize
+\textit{සියලුම හිමිකම් ඇවිරිණි. මෙම ප්‍රශ්න පත්‍රයේ කිසිදු කොටසක් අනුමත නොකළ ආකාරයකින් ප්‍රකාශයට පත් කිරීම, ගබඩා කිරීම හෝ සම්ප්‍රේෂණය කිරීම සපුරා තහනම් වේ.}
+
+\end{document}
+```

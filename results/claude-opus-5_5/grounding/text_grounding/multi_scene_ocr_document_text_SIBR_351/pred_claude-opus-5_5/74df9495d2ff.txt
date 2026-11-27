@@ -1,0 +1,5 @@
+There are two instances of "1.20" on the receipt: the 材料费 subtotal and the 一次性真空采血器 line item. This is the 材料费 subtotal:
+
+(630, 377, 692, 394)
+
+The line-item "1.20" is at approximately (629, 404, 682, 418).

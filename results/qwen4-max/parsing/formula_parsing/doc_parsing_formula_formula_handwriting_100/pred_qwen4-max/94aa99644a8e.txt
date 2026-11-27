@@ -1,0 +1,29 @@
+\[
+\begin{aligned}
+\|TX^R\|_{L^\gamma_\omega L^\infty_{[0,T]}L^2_x}&\leq |X_0|_{L^\gamma_\omega L^2_x}+\left|\int_0^t S_\beta(t,s)\varrho_R(X^R)(s)|X^R(s)|^{2\sigma}X^R(s)\,ds\right|_{L^\gamma_\omega L^\infty_{[0,T]}L^2_x}\\
+&\leq |X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\bar\beta}\left|\varrho_R(X^R)|X^R|^{2\sigma+1}\right|_{L^\gamma_\omega L^{r'}_{[0,T]}L^{\ell'}_x}\\
+&=|X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\bar\beta}\left[\left(\int_0^T\varrho_R(X^R)^{r'}(t)\Big(\int_{\mathbb R}|X^R(t)|^{(2\sigma+1)\ell'}dx\Big)^{r'/\ell'}dt\right)^{1/r'}\right]_{L^\gamma_\omega}.
+\end{aligned}
+\]
+
+Since \(p'=\frac{2\sigma+2}{2\sigma+1}\), the right hand side equals
+\[
+=|X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\bar\beta}\left[\left(\int_0^T\varrho_R(X^R)^{r'}(t)|X^R(t)|_{L^{p}_{x}}^{(2\sigma+1)r'}dt\right)^{1/r'}\right]_{L^\gamma_\omega}.
+\]
+
+Since \(\gamma\ge p=2\sigma+2\), we can apply Hölder's inequality to get
+\[
+\leq |X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\bar\beta}\left(\int_0^T[\varrho_R(X^R)(t)]^{r/(2\sigma+1)}|X^R(t)|_{L^{p}_x}^{\gamma}dt\right)^{\frac{2\sigma+1}{\gamma}}T^{\frac{\gamma-r'(2\sigma+1)}{\gamma r'}}\Bigg|_{L^\gamma_\omega}.
+\]
+
+Letting \(\tilde t(\omega):=\inf\{s:|X^R(\omega)|_{L^\gamma([0,s];L^{p}_x)}\ge 2R\}\), from definition of \(\varrho_R\) in (??), we have
+\[
+=|X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\tilde\beta}\left(\int_0^{\tilde t}[\varrho_R(X^R)(t)]^{r/(2\sigma+1)}|X^R(t)|_{L^{p}_x}^{\gamma}dt\right)^{\frac{2\sigma+1}{\gamma}}\Bigg|_{L^\gamma_\omega},
+\]
+where \(\tilde\beta=\bar\beta+\frac{\gamma-r'(2\sigma+1)}{\gamma r'}>0\). Furthermore,
+\[
+\begin{aligned}
+&\leq |X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\tilde\beta}\left(\int_0^{\tilde t}|X^R(t)|_{L^{p}_x}^{\gamma}dt\right)^{\frac{2\sigma+1}{\gamma}}\Bigg|_{L^\gamma_\omega}\\
+&\leq |X_0|_{L^\gamma_\omega L^2_x}+c_{r,p}T^{\tilde\beta}(2R)^{2\sigma}|X^R|_{L^\gamma_\omega L^{\ell}_{[0,T]}L^{p}_x}.
+\end{aligned}
+\]

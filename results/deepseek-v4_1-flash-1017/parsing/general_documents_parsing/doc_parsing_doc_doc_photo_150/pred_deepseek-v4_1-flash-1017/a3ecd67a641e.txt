@@ -1,0 +1,50 @@
+Here is the transcription of the image content into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent The steps to derive the quadratic formula are shown below.
+
+\vspace{1em}
+
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Step 1} & \(ax^2 + bx + c = 0\) \\
+\hline
+\textbf{Step 2} & \(ax^2 + bx = -c\) \\
+\hline
+\textbf{Step 3} & \(x^2 + \frac{b}{a}x = -\frac{c}{a}\) \\
+\hline
+\textbf{Step 4} & \(x^2 + \frac{b}{a}x + \frac{b^2}{4a^2} = -\frac{c}{a} + \frac{b^2}{4a^2}\) \\
+\hline
+\textbf{Step 5} & \(x^2 + \frac{b}{a}x + \frac{b^2}{4a^2} = \frac{4ac}{4a^2} + \frac{b^2}{4a^2}\) \\
+\hline
+\textbf{Step 6} & \(\left(x + \frac{b}{2a}\right)^2 = \frac{b^2 - 4ac}{4a^2}\) \\
+\hline
+\textbf{Step 7} & \(\left(x + \frac{b}{2a}\right) = \pm \sqrt{\frac{b^2 - 4ac}{4a^2}} = \pm \frac{\sqrt{b^2 - 4ac}}{4a}\) \\
+\hline
+\textbf{Step 8} & \(x = -\frac{b}{2a} \pm \frac{\sqrt{b^2 - 4ac}}{2a}\) \\
+\hline
+\textbf{Step 9} & \(x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\) \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+
+\noindent Which of the following is the first incorrect step?
+
+\begin{itemize}
+    \item[\(\bigcirc\)] Step 4
+    \item[\(\bigcirc\)] Step 6
+    \item[\(\bigcirc\)] Step 7
+    \item[\(\bigcirc\)] Step 8
+\end{itemize}
+
+\end{document}
+```

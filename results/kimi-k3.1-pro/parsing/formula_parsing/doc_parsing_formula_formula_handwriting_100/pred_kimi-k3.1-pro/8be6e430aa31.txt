@@ -1,0 +1,16 @@
+\[
+\frac{\partial^{2}\lambda_{k}}{\partial W_{pq}\,\partial W_{rs}}
+=\sum_{j\neq k}\left[
+\frac{\partial W_{kj}}{\partial W_{pq}}
+\frac{\partial \tau^{k,j}}{\partial W_{rs}}
++
+\frac{\partial W_{kj}}{\partial W_{rs}}
+\frac{\partial \tau^{k,j}}{\partial W_{pq}}
+\right]
+=
+\begin{cases}
+\dfrac{1}{\lambda_{k}-\lambda_{q}}, & p=k,\ q\neq k,\ r=q,\ s=k;\\[6pt]
+\dfrac{1}{\lambda_{k}-\lambda_{s}}, & r=k,\ s\neq k,\ p=s,\ q=k;\\[6pt]
+0, & \text{otherwise}.
+\end{cases}
+\]

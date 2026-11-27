@@ -1,0 +1,29 @@
+```json
+[
+  {"bbox_2d": [133, 60, 843, 88], "label": "Company Name"},
+  {"bbox_2d": [98, 102, 870, 123], "label": "Address"},
+  {"bbox_2d": [308, 133, 486, 149], "label": "TEL"},
+  {"bbox_2d": [551, 136, 729, 152], "label": "FAX"},
+  {"bbox_2d": [344, 169, 650, 191], "label": "Title"},
+  {"bbox_2d": [232, 227, 319, 239], "label": "Contract No"},
+  {"bbox_2d": [774, 227, 859, 240], "label": "Date"},
+  {"bbox_2d": [230, 249, 538, 263], "label": "Company Name"},
+  {"bbox_2d": [229, 273, 500, 302], "label": "Address"},
+  {"bbox_2d": [264, 312, 395, 326], "label": "Tel"},
+  {"bbox_2d": [285, 331, 474, 345], "label": "Email"},
+  {"bbox_2d": [671, 288, 933, 340], "label": "Address"},
+  {"bbox_2d": [719, 348, 874, 361], "label": "TEL"},
+  {"bbox_2d": [721, 368, 875, 381], "label": "FAX"},
+  {"bbox_2d": [148, 453, 250, 465], "label": "HS Code"},
+  {"bbox_2d": [52, 495, 198, 567], "label": "Product Name"},
+  {"bbox_2d": [253, 524, 344, 536], "label": "Item No"},
+  {"bbox_2d": [417, 524, 459, 536], "label": "Net Weight(KG)"},
+  {"bbox_2d": [522, 524, 582, 537], "label": "Quantity"},
+  {"bbox_2d": [599, 524, 672, 537], "label": "PO.NO"},
+  {"bbox_2d": [685, 524, 767, 538], "label": "Unit price(USD"},
+  {"bbox_2d": [799, 525, 928, 538], "label": "Amount(USD)"},
+  {"bbox_2d": [418, 631, 460, 643], "label": "Net Weight(KG)"},
+  {"bbox_2d": [523, 631, 583, 643], "label": "Quantity"},
+  {"bbox_2d": [799, 631, 929, 645], "label": "Amount(USD)"}
+]
+```

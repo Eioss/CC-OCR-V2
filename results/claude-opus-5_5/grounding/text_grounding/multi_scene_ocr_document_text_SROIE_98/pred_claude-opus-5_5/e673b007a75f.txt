@@ -1,0 +1,5 @@
+There are two instances of "6.60" on this receipt. The one on the item line ("2 X 3.30 6.60") is located at:
+
+(800, 506, 893, 529)
+
+The other instance, in the "Total Incl. GST@6%" line ("RM 6.60"), is approximately at (853, 618, 941, 638).

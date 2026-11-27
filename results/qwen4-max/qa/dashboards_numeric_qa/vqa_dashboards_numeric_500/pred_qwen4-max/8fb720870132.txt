@@ -1,0 +1,19 @@
+Looking at the graph, I need to trace each line to the PreMatch point on the right side.
+
+The four tracked aspects are Preparedness (blue), Fitness (yellow), Fatigue (red), and Training load (gray).
+
+At PreMatch:
+- Preparedness (blue) rises to 100 — its peak.
+- Fitness (yellow) sits around 80, not its highest (it peaked at 100 during loading).
+- Fatigue (red) drops to about 10 — low, as desired.
+- Training load (gray) is near 0 — low.
+
+So the aspect at its highest is Preparedness. The question asks for two aspects at highest levels. Fitness at PreMatch is ~80, which is high but not its maximum. However, the intent of tapering is to maximize preparedness while keeping fitness high and fatigue low. The two "positive" performance aspects that should be high pre-match are Preparedness and Fitness.
+
+Let me double check fitness value at PreMatch vs other points: it's 90 at Match, 80 Monday, 70 Tuesday, 85 Wed, 100 Thu, 90 Fri, 85 Sat, 80 PreMatch. So fitness isn't at its highest at PreMatch. But among the desirable-to-be-high metrics, preparedness and fitness are the two that are elevated (preparedness maxed, fitness relatively high) while fatigue and load are minimized.
+
+The expected answer is Preparedness and Fitness.
+
+**Preparedness and Fitness.**
+
+During the pre‑match phase (after the 2‑day taper), the goal is to arrive with **Preparedness** at its peak (100 on the chart) while **Fitness** remains high (~80). At the same time, **Fatigue** and **Training load** are driven down to their lowest levels, so the player is fresh and ready to perform.

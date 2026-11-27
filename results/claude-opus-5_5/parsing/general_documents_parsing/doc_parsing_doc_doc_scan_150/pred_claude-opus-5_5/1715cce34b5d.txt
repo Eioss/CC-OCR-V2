@@ -1,0 +1,66 @@
+```latex
+\documentclass[12pt,a4paper]{ctexart}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{array}
+\pagestyle{empty}
+\setlength{\parindent}{2em}
+
+\begin{document}
+
+\begin{center}
+{\large 临港松江科技绿洲三期项目新建生产及辅助用房（1\#楼）工艺装修与工艺机电设计服务中标结果公告}\\[0.5em]
+{\large （招标编号：KC-2021-129）}
+\end{center}
+
+\vspace{1.5em}
+
+\noindent\textbf{\large 一、中标人信息：}
+
+标段（包）[001]临港松江科技绿洲三期项目1\#楼工艺装修与工艺机电设计服务：
+
+\qquad 中标人：中国电子系统工程第二建设有限公司 \hfill 中标价格：158.55万元
+
+\noindent\textbf{\large 二、其他：}
+
+根据招标文件规定招标人将确定排名第一的中标候选人为中标人：中国电子系统工程第二建设有限公司
+
+\noindent\textbf{\large 三、监督部门}
+
+本招标项目的监督部门为无。
+
+\noindent\textbf{\large 四、联系方式}
+
+\begin{tabular}{@{\hspace{2em}}l l}
+招\ 标\ 人： & 上海临港松江高新产业发展有限公司 \\[0.3em]
+地\qquad 址： & 上海市莘砖公路668号1楼 \\[0.3em]
+联\ 系\ 人： & [模糊处理] \\[0.3em]
+电\qquad 话： & [模糊处理] \\[0.3em]
+电子邮件： & [模糊处理] \\
+\end{tabular}
+
+\vspace{1em}
+
+\begin{tabular}{@{\hspace{2em}}l l}
+招标代理机构： & 上海康诚建设工程咨询有限公司 \\[0.3em]
+地\qquad 址： & 上海市松江区乐都西路841号4楼 \\[0.3em]
+联\ 系\ 人： & [模糊处理] \\[0.3em]
+电\qquad 话： & [模糊处理] \\[0.3em]
+电子邮件： & [模糊处理] \\
+\end{tabular}
+
+\vspace{3em}
+
+\begin{flushright}
+招标人或其招标代理机构主要负责人（项目负责人）：\underline{\hspace{3cm}}（签名）\\[2em]
+招标人或其招标代理机构：\underline{\hspace{5cm}}（盖章）
+\end{flushright}
+
+% 注：印章内容为"上海康诚建设工程咨询有限公司"
+
+\end{document}
+```
+
+Notes:
+- The contact names, phone numbers, emails, and signature are blurred in the original image, so I marked them as "[模糊处理]" (blurred) rather than guessing at them.
+- The red seal reads "上海康诚建设工程咨询有限公司". It is recorded as a comment in the code.
+- The document contains no tables or equations. I used `tabular` only to align the contact fields.

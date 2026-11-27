@@ -1,0 +1,172 @@
+# LaTeX Transcription of the AP Biology Formula Sheet
+
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{textcomp}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|p{0.47\textwidth}|p{0.47\textwidth}|}
+\hline
+%================ LEFT COLUMN (TOP) ================
+\begin{minipage}[t]{\linewidth}
+\vspace{4pt}
+\begin{center}
+\textbf{Statistical Analysis and Probability}
+\end{center}
+
+\begin{minipage}[t]{0.48\linewidth}
+\underline{\textbf{Mean}}
+\[
+\bar{x} = \frac{1}{n}\sum_{i=1}^{n} x_i
+\]
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\linewidth}
+\underline{\textbf{Standard Deviation}}*
+\[
+S = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n-1}}
+\]
+\end{minipage}
+
+\vspace{6pt}
+
+\begin{minipage}[t]{0.48\linewidth}
+\underline{\textbf{Standard Error of the Mean}}*
+\[
+SE_{\bar{x}} = \frac{s}{\sqrt{n}}
+\]
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\linewidth}
+\underline{\textbf{Chi-Square}}
+\[
+\chi^2 = \sum \frac{(o-e)^2}{e}
+\]
+\end{minipage}
+
+\vspace{6pt}
+
+\begin{center}
+\underline{\textbf{Chi-Square Table}}
+
+\vspace{4pt}
+\small
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{\shortstack{\textbf{\textit{p}}\\ \textbf{value}}} 
+  & \multicolumn{8}{c|}{\textbf{Degrees of Freedom}} \\
+\cline{2-9}
+ & \textbf{1} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} & \textbf{8} \\
+\hline
+0.05 & 3.84 & 5.99 & 7.82  & 9.49  & 11.07 & 12.59 & 14.07 & 15.51 \\
+\hline
+0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{6pt}
+
+\underline{\textbf{Laws of Probability}}
+
+If A and B are mutually exclusive, then:
+\[
+P(\text{A or B}) = P(\text{A}) + P(\text{B})
+\]
+If A and B are independent, then:
+\[
+P(\text{A and B}) = P(\text{A}) \times P(\text{B})
+\]
+
+\underline{\textbf{Hardy-Weinberg Equations}}
+
+\vspace{4pt}
+\begin{tabular}{@{}p{0.38\linewidth}p{0.55\linewidth}@{}}
+$p^2 + 2pq + q^2 = 1$ & $p$ = frequency of the dominant allele in a population \\[4pt]
+$p + q = 1$           & $q$ = frequency of the recessive allele in a population \\
+\end{tabular}
+\vspace{4pt}
+\end{minipage}
+&
+%================ RIGHT COLUMN (TOP) ================
+\begin{minipage}[t]{\linewidth}
+\vspace{4pt}
+$\bar{x}$ = sample mean
+
+\vspace{8pt}
+$n$ = size of the sample
+
+\vspace{8pt}
+$s$ = sample standard deviation (i.e., the sample-based estimate of the standard deviation of the population)
+
+\vspace{8pt}
+$o$ = observed results
+
+\vspace{8pt}
+$e$ = expected results
+
+\vspace{8pt}
+Degrees of freedom are equal to the number of distinct possible outcomes minus one.
+
+\vspace{12pt}
+\hrule
+\vspace{8pt}
+
+\begin{center}
+\textbf{Metric Prefixes}
+
+\vspace{6pt}
+\begin{tabular}{lll}
+\underline{\textbf{Factor}} & \underline{\textbf{Prefix}} & \underline{\textbf{Symbol}} \\
+$10^{9}$   & giga  & G \\
+$10^{6}$   & mega  & M \\
+$10^{3}$   & kilo  & k \\
+$10^{-2}$  & centi & c \\
+$10^{-3}$  & milli & m \\
+$10^{-6}$  & micro & $\mu$ \\
+$10^{-9}$  & nano  & n \\
+$10^{-12}$ & pico  & p \\
+\end{tabular}
+\end{center}
+\end{minipage}
+\\
+\hline
+%================ BOTTOM ROW ================
+\multicolumn{2}{|p{0.97\textwidth}|}{%
+\begin{minipage}[t]{\linewidth}
+\vspace{6pt}
+Mode = value that occurs most frequently in a data set
+
+\vspace{8pt}
+Median = middle value that separates the greater and lesser halves of a data set
+
+\vspace{8pt}
+Mean = sum of all data points divided by number of data points
+
+\vspace{8pt}
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)
+\vspace{6pt}
+\end{minipage}} \\
+\hline
+\multicolumn{2}{|p{0.97\textwidth}|}{%
+\small\textit{* For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, they must understand the underlying concepts and applications.}} \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```
+
+## Notes on the Transcription
+
+- **Layout:** The two-column boxed structure of the original is reproduced with a bordered `tabular`. The Metric Prefixes section is separated from the variable definitions by a horizontal rule, and the definitions and footnote span both columns at the bottom.
+- **Content:** All text, equations, table values, and the asterisk footnotes are kept exactly as shown, including the capital $S$ in the Standard Deviation formula and the lowercase $s$ in the Standard Error formula and the definitions.
+- **Packages:** `amsmath` handles the equations and `multirow` handles the merged "*p* value" header cell in the Chi-Square table.

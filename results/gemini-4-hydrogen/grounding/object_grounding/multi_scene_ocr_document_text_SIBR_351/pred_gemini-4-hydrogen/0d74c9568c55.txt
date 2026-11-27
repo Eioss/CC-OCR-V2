@@ -1,0 +1,30 @@
+```json
+[
+  {"bbox_2d": [50, 353, 59, 533], "label": "地址"},
+  {"bbox_2d": [49, 608, 56, 642], "label": "邮编"},
+  {"bbox_2d": [86, 529, 96, 619], "label": "网址"},
+  {"bbox_2d": [93, 571, 102, 625], "label": "中国免费订房电话 China toll-free"},
+  {"bbox_2d": [126, 302, 155, 658], "label": "标题"},
+  {"bbox_2d": [197, 32, 209, 132], "label": "人名"},
+  {"bbox_2d": [177, 781, 188, 807], "label": "房间号码 Room No."},
+  {"bbox_2d": [190, 782, 203, 899], "label": "抵店日期 Arrival"},
+  {"bbox_2d": [205, 783, 218, 900], "label": "离店日期 Departure"},
+  {"bbox_2d": [221, 785, 232, 820], "label": "页码 Page"},
+  {"bbox_2d": [236, 784, 247, 834], "label": "账单号 Folio No."},
+  {"bbox_2d": [251, 784, 261, 834], "label": "预订号 Conf. No."},
+  {"bbox_2d": [265, 783, 276, 850], "label": "中央预订 CRS No."},
+  {"bbox_2d": [281, 783, 292, 850], "label": "收银员 Cashier"},
+  {"bbox_2d": [290, 784, 304, 900], "label": "打印日期 Print Date"},
+  {"bbox_2d": [365, 42, 377, 119], "label": "日期 Date"},
+  {"bbox_2d": [362, 134, 374, 265], "label": "账项 Description"},
+  {"bbox_2d": [347, 750, 358, 796], "label": "消费 Charges"},
+  {"bbox_2d": [379, 43, 390, 121], "label": "日期 Date"},
+  {"bbox_2d": [375, 135, 387, 266], "label": "账项 Description"},
+  {"bbox_2d": [360, 751, 370, 796], "label": "消费 Charges"},
+  {"bbox_2d": [392, 44, 402, 121], "label": "日期 Date"},
+  {"bbox_2d": [387, 135, 399, 267], "label": "账项 Description"},
+  {"bbox_2d": [372, 752, 382, 797], "label": "消费 Charges"},
+  {"bbox_2d": [391, 908, 401, 938], "label": "付款 Credits"},
+  {"bbox_2d": [403, 882, 414, 938], "label": "余额(人民币) Balance(CNY)"}
+]
+```

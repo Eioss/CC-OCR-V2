@@ -1,0 +1,54 @@
+Below is the faithful LaTeX transcription of the text in the image, preserving the Traditional Chinese characters, punctuation, and the visual hierarchy between the main text and the indented `【解】` commentary blocks (originally arranged vertically from right to left).
+
+```latex
+\documentclass[12pt]{article}
+\usepackage{xeCJK}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+% Set a CJK font that supports Traditional Chinese and CJK Extension B (e.g., 𢶍)
+% \setCJKmainfont{Noto Serif CJK TC}
+
+\newenvironment{commentary}
+  {\begin{list}{}{\leftmargin=2em \rightmargin=0pt \parsep=0pt \itemsep=0pt}
+   \item\relax}
+  {\end{list}}
+
+\begin{document}
+
+\noindent
+動之則分。靜之則合。
+
+\begin{commentary}
+【解】凡練太極。心意一動則分發四肢。太極生兩儀。四象。八卦。九宮。卽掤𢶍擠按採挒\\
+肘靠中定也。靜則反本還元。復歸無極。心神合一。滿身空空洞洞。稍有接觸卽能知覺。
+\end{commentary}
+
+\noindent
+無過不及。隨曲就伸。
+
+\begin{commentary}
+【解】不論練拳對敵。毋過毋不及。過與不及皆失重心和也。如敵來攻不逞欲退。我隨彼退時就伸。伸者出手發勁也。過有頂之弊。不及有丟之弊。\\
+不能隨曲謂之抗。不能就伸謂之離。謹記丟頂抗離四病而去之。功到不卽不離。方能隨手湊\\
+巧。運用自如。
+\end{commentary}
+
+\noindent
+人剛我柔謂之走。我順人背謂之黏。
+
+\begin{commentary}
+【解】與人對敵。如對方出力剛直。則我用柔軟之手搭上。如皮鞭鞭物。緊緊纏搭在彼勁\\
+上。能放能長。對方縱欲摔開甚難。譬如彼出大力。我隨粘其手腕往後坐身。但手仍緊搭不\\
+離。往懷收轉半個圈謂之走。走爲化。以化其力。向其左方伸手使敵身側不得力。則我爲\\
+順。人爲背。黏之使不能走脫也。
+\end{commentary}
+
+\noindent
+動急則急應。動緩則緩隨。
+
+\begin{commentary}
+【解】今者習拳同志多知柔化。不知急應之法。不易與外功對敵。如敵來勢緩則柔化跟隨。
+\end{commentary}
+
+\end{document}
+```

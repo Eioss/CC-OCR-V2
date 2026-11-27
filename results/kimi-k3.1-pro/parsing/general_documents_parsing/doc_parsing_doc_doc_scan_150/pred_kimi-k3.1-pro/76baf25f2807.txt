@@ -1,0 +1,81 @@
+```latex
+\documentclass{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\newcommand{\blank}{\underline{\hspace{3.2cm}}}
+
+\begin{document}
+
+\begin{center}
+    {\Huge The passive voice}
+\end{center}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{>{\bfseries}p{3.5cm}p{5.2cm}p{5.5cm}}
+\hline
+ & \textbf{Active Voice} & \textbf{Passive Voice} \\
+Present Simple & They serve dinner at 6pm & Dinner is served at 6pm \\
+Present Continuous & They are serving dinner now. & Dinner is being served now. \\
+Past Simple & They served dinner. & Dinner was served. \\
+Past Continuous & They were serving dinner. & Dinner was being served. \\
+Future Simple & They will serve dinner. & Dinner will be served. \\
+Present Perfect & They have served dinner. & Dinner has been served. \\
+Past Perfect & They had served dinner. & Dinner had been served. \\
+Future Perfect & They will have served dinner. & Dinner will have been served. \\
+Present infinitive & They should serve dinner. & Dinner should be served. \\
+Perfect infinitive & They should have served dinner. & Dinner should have been served. \\
+-ing form & He likes people serving his dinner & He likes his dinner being served. \\
+Perfect-ing form & Having served dinner,... & Dinner havig been served... \\
+Modals+ be + p.p. & You must serve dinner. & Dinner must be served. \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1em}
+
+\textbf{Exercise}
+
+\vspace{0.5em}
+
+\textit{Karen is writing an article about Vivienne Tam for the school newspaper. Help her to
+complete the article using the correct passive form of the verbs in brackets. One of the verbs
+is negative.}
+
+\vspace{1em}
+
+Fashion designer Vivienne Tam \textsuperscript{(1)} \blank\ (name) `Yin Yok'
+when she was born. She \textsuperscript{(2)} \blank\ (give) her English name
+when she started studying in Hong Kong. She \textsuperscript{(3)} \blank\
+(teach) English at school but spoke Cantonese at home. She \textsuperscript{(4)}
+\blank\ (tell) to always remember her Chinese culture. At
+the same time, western ideas \textsuperscript{(5)} \blank\ (introduce) to her
+since people from many cultures were living in Hong Kong. This mix of East and
+West in her life
+\textsuperscript{(6)} \blank\ (see) in her designs even now.
+
+\vspace{1em}
+
+Vivienne moved to New York when she was twenty-five. Her new and interesting
+designs \textsuperscript{(7)} \blank\ (like) by important shops there, so a lot of
+orders for her clothing \textsuperscript{(8)} \blank\ (place). Today her East-
+meets-West clothes
+\textsuperscript{(9)} \blank\ (sell) only in New York, but also in cities around
+the world.
+
+\vspace{2em}
+
+\begin{center}
+    \textbf{\textit{Try your best!}}
+\end{center}
+
+\vfill
+
+\begin{flushright}
+iSLCollective.com
+\end{flushright}
+
+\end{document}
+```

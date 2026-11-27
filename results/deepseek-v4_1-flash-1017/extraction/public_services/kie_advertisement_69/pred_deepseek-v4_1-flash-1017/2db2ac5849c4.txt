@@ -1,0 +1,8 @@
+```json
+{
+  "gross_amount": "$1,640.00",
+  "advertiser": "Committee to Re-Elect Jim Justice(34026)",
+  "flight_from": "03/30/2020",
+  "flight_to": "04/26/2020"
+}
+```

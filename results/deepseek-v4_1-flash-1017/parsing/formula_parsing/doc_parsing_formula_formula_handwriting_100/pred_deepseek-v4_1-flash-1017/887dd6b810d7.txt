@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+&(\Gamma_{B_1B_2B_3} \circ \dots \circ \Gamma_{b_1b_2b_3})(c) = (b-a)\gamma_0 + \sum_{i=1}^5 A_i \gamma_i \\
+&= (b-a) \cdot f(c) + \frac{(b-a)^2 - (a-c)^2}{2\beta_1} \cdot \frac{\beta_2 A_2}{\beta_1} - \frac{\beta_3 A_3}{\beta_1} \cdot \frac{\beta_4 A_4}{\beta_1} + \\
+&\quad - \frac{\beta_2 A_2}{\beta_1} \cdot f'(c) + \frac{(b-c)^2 - (a-c)^2}{3\beta_1^2} \cdot \frac{2\beta_1 A_2}{\beta_1} + \\
+&\quad \left( \frac{\beta_2 A_2}{\beta_1} + \frac{\beta_3 A_3}{\beta_1} \right) \cdot A_3 + \left( \frac{\beta_2 A_2}{\beta_1} + \frac{\beta_3 A_3}{\beta_1} \right) \cdot \left[ f_b(c) + \frac{1}{2} f''(c) + \frac{1}{2} \beta_1^2 f^{(2)}(c) \right] + \\
+&\quad + \left[ \frac{(b-c)^3 - (a-c)^3}{4\beta_1^3} - \frac{3\beta_2 A_2}{\beta_1} - 3 \left( \frac{\beta_2}{\beta_1} + \frac{\beta_3}{\beta_1} \right) A_2 \right] \cdot \left[ \beta_3 f(c) + \right. \\
+&\quad \left. + \beta_1 \beta_2 \frac{f^{(2)}(c)}{2} + \frac{1}{3} \beta_1^3 f^{(3)}(c) \right] + \left[ \frac{(b-c)^5 - (a-c)^5}{5\beta_1^4} - \frac{4\beta_3 A_3}{\beta_1} \right] \cdot \left[ \beta_4 f(c) + \right. \\
+&\quad \left. + \left( \beta_1 \beta_3 + \frac{1}{2} \beta_2^2 \right) \frac{f^{(2)}(c)}{2} + \frac{1}{2} \beta_1^2 \beta_2 \frac{f^{(3)}(c)}{3} + \frac{1}{24} \beta_1^4 f^{(4)}(c) \right] + \\
+&\quad + \left[ \frac{(b-c)^6 - (a-c)^6}{6\beta_1^5} \right] \cdot \left[ \beta_5 f(c) + \left( \beta_1 \beta_4 + \beta_2 \beta_3 \right) \frac{f^{(2)}(c)}{2} + \right. \\
+&\quad \left. + \frac{1}{2} \left( \beta_1^2 \beta_3 + \beta_1 \beta_2^2 \right) \frac{f^{(3)}(c)}{3!} + \frac{1}{6} \beta_1^3 \beta_2 \frac{f^{(4)}(c)}{4!} + \frac{1}{120} \beta_1^5 f^{(5)}(c) \right]
+\end{align*}
+```

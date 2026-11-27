@@ -1,0 +1,21 @@
+[
+  {"bbox_2d":[282,25,655,67],"label":"ADDRESS"},
+  {"bbox_2d":[538,55,591,68],"label":"NUMBER"},
+  {"bbox_2d":[319,70,444,82],"label":"Tel"},
+  {"bbox_2d":[487,70,608,82],"label":"Fax"},
+  {"bbox_2d":[9,28,214,51],"label":"TITLE"},
+  {"bbox_2d":[143,118,432,144],"label":"COMPANY NAME"},
+  {"bbox_2d":[336,147,425,160],"label":"COMPANY NO"},
+  {"bbox_2d":[143,160,367,175],"label":"Address"},
+  {"bbox_2d":[143,189,205,203],"label":"NUMBER"},
+  {"bbox_2d":[141,216,461,259],"label":"Address"},
+  {"bbox_2d":[609,118,696,131],"label":"EN Nb."},
+  {"bbox_2d":[609,147,695,160],"label":"EN Date"},
+  {"bbox_2d":[609,161,695,174],"label":"Pickup Date"},
+  {"bbox_2d":[609,176,638,188],"label":"Shipped per"},
+  {"bbox_2d":[659,246,706,259],"label":"Country of Origin"},
+  {"bbox_2d":[617,275,712,289],"label":"Payment Term"},
+  {"bbox_2d":[143,260,243,274],"label":"Price Term"},
+  {"bbox_2d":[50,544,214,855],"label":"SHIPPING MARKS"},
+  {"bbox_2d":[872,943,886,956],"label":"PAGE NUMBER"}
+]

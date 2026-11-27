@@ -1,0 +1,3 @@
+There are four instances of "398" in the image (the line-item amount, the daily total 当日消费, the subtotal 小计, and the grand total 合计). This box is for the first one, the line-item amount in the 消费金额 (Debit/Credit) column:
+
+(518, 331, 544, 344)

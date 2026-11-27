@@ -1,0 +1,1 @@
+[{"bbox_2d": [216, 180, 792, 201], "label": "seller_name"}, {"bbox_2d": [151, 236, 864, 312], "label": "seller_address"}, {"bbox_2d": [431, 317, 778, 340], "label": "seller_gst_id"}, {"bbox_2d": [791, 597, 937, 620], "label": "total_amount"}, {"bbox_2d": [723, 698, 873, 721], "label": "total_tax"}, {"bbox_2d": [86, 752, 186, 775], "label": "date"}]

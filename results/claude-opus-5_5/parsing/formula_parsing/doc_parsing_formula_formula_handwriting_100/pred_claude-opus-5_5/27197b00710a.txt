@@ -1,0 +1,17 @@
+```latex
+\begin{gathered}
+A_{2m+2}(\nu,z)\sim(-\zeta)^{1/4}\left\{1+\frac{1}{2}\tilde{\varepsilon}_{2m+2,r}(\nu,i\infty)\right\},\\
+\mathbb{P}^{g}(R_{k}^{i}=\ell_{k}^{i},i=1,\cdots,\bar{n})\leq\bar{n}\Upsilon(w,\bar{n},(\ell_{0}^{v_{i}})_{i=1,\cdots,\bar{n}},(\ell_{k}^{i})_{i=1,\cdots,\bar{n}}).\\
+d=O(\log n+\log(1/\epsilon))\\
+L_{f}=\sup_{x\neq y}\Omega_{f}(x,y)\frac{|f(x)-f(y)|}{|x-y|}\\
+\begin{aligned}
+I^{+}\frac{1}{2}(V^{+}+V^{-})&=\frac{1}{2}(V^{+}-V^{-})I^{+},\\
+I^{-}\frac{1}{2}(V^{+}+V^{-})&=\frac{1}{2}(-V^{+}-V^{-})I^{-},
+\end{aligned}\\
+\begin{aligned}
+-u_{1}\cdot n_{1}+\alpha p_{1,\gamma}+s_{\gamma}\partial_{t}p_{1,\gamma}+\mathrm{div}_{\tau}u_{\gamma,1}&=-u_{2}\cdot n_{1}+\alpha p_{2,\gamma}\quad\text{on }\gamma\times(0,T),\\
+u_{\gamma,1}&=-K_{\gamma}\delta\nabla_{\tau}p_{1,\gamma}
+\end{aligned}\\
+|x_{0}\rangle\otimes|\xi(x_{0})\rangle\xRightarrow{\mathcal{I}_{1}}|x_{0}\rangle\otimes|\phi(x_{0})\rangle,
+\end{gathered}
+```

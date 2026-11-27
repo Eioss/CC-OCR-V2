@@ -1,0 +1,12 @@
+To find the number of reported cases **not from Chinese Mainland**, we use the data provided for **COVID-19 in China as of February 21, 2020**:
+
+- **Total reported cases**: 75,569  
+- **Cases in Chinese mainland**: 75,467 (which is 99% of total)
+
+So, subtracting:
+
+> **75,569 – 75,467 = 102**
+
+✅ Therefore, the number of reported cases **not from Chinese Mainland** is **102**.
+
+*(Note: These likely include cases in other parts of China such as Hong Kong, Macau, and Taiwan — though the infographic doesn’t specify.)*

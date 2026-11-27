@@ -1,0 +1,5 @@
+Looking at the image, I need to locate the text "14.00" which appears next to "西药费" (Western medicine fee) in the middle-left area of the receipt.
+
+The text "14.00" is positioned roughly at x: 225-312, y: 548-578 in pixel coordinates. Normalizing to 0-1000 range based on the image dimensions:
+
+(225, 546, 312, 580)

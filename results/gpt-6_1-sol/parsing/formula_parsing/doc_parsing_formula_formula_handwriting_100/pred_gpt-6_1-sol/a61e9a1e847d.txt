@@ -1,0 +1,61 @@
+\[
+\begin{aligned}
+&\frac12
+\begin{bmatrix}
+0^{F_0}\\
+x^U\\
+1^{F_1}
+\end{bmatrix}^{T}
+\begin{bmatrix}
+Q^{F_0F_0} & Q^{F_0U} & Q^{F_0F_1}\\
+Q^{UF_0} & Q^{UU} & Q^{UF_1}\\
+Q^{F_1F_0} & Q^{F_1U} & Q^{F_1F_1}
+\end{bmatrix}
+\begin{bmatrix}
+0^{F_0}\\
+x^U\\
+1^{F_1}
+\end{bmatrix}
++
+\begin{bmatrix}
+c^{F_0}\\
+c^U\\
+c^{F_1}
+\end{bmatrix}^{T}
+\begin{bmatrix}
+0^{F_0}\\
+x^U\\
+1^{F_1}
+\end{bmatrix}
+\\
+&=
+\frac12
+\begin{bmatrix}
+x^U\\
+1^{F_1}
+\end{bmatrix}^{T}
+\begin{bmatrix}
+Q^{UU} & Q^{UF_1}\\
+\left(Q^{UF_1}\right)^T & Q^{F_1F_1}
+\end{bmatrix}
+\begin{bmatrix}
+x^U\\
+1^{F_1}
+\end{bmatrix}
++
+\begin{bmatrix}
+c^U\\
+c^{F_1}
+\end{bmatrix}^{T}
+\begin{bmatrix}
+x^U\\
+1^{F_1}
+\end{bmatrix}
+\\
+&=
+\frac12(x^U)^TQ^{UU}x^U
++(x^U)^TQ^{UF_1}1^{F_1}
++(c^U)^Tx^U
++\xi^{F_1,U}.
+\end{aligned}
+\]

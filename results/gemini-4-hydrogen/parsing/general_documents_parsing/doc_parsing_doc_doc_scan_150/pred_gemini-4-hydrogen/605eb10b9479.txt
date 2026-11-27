@@ -1,0 +1,167 @@
+```latex
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{ctex} % For Chinese characters in header
+
+\definecolor{headergray}{RGB}{220,226,236}
+
+\begin{document}
+
+% Header
+\noindent
+\begin{minipage}[b]{0.6\textwidth}
+    \textbf{\Large awinic} \quad \textbf{上海艾为电子技术股份有限公司} \\
+    \hspace*{1.8cm} \scriptsize shanghai awinic technology co., ltd.
+\end{minipage}%
+\begin{minipage}[b]{0.4\textwidth}
+    \raggedleft
+    \textbf{\large AW36526} \\
+    July 2019 V1.3
+\end{minipage}
+\vspace{2pt}
+\hrule
+\vspace{12pt}
+
+\noindent \textbf{\large REGISTER DETAILED DESCRIPTION}
+\vspace{10pt}
+
+% Chip ID Register
+\noindent $\diamond$ \textbf{Chip ID Register (0x00), default(0x17)}
+\vspace{4pt}
+
+\noindent
+\begin{tabular}{|*{8}{>{\centering\arraybackslash}p{1.85cm}|}}
+    \hline
+    \rowcolor{headergray} \textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+    \hline
+    \multicolumn{8}{|l|}{
+        \begin{minipage}{16cm}
+            \vspace{4pt}
+            \textbf{Chip ID: ``0001 0111''} \\
+            Write 55H To Reset All Registers
+            \vspace{4pt}
+        \end{minipage}
+    } \\
+    \hline
+\end{tabular}
+\vspace{12pt}
+
+% Enable Register
+\noindent $\diamond$ \textbf{Enable Register (0x01), default(0x00)}
+\vspace{4pt}
+
+\noindent
+\begin{tabular}{|p{1.85cm}|p{1.85cm}|p{3.95cm}|p{1.85cm}|p{1.85cm}|p{1.85cm}|p{1.85cm}|}
+    \hline
+    \rowcolor{headergray} 
+    \centering\textbf{Bit 7} & \centering\textbf{Bit 6} & \centering\textbf{Bit 5 \qquad\quad Bit 4} & \centering\textbf{Bit 3} & \centering\textbf{Bit 2} & \centering\textbf{Bit 1} & \centering\arraybackslash\textbf{Bit 0} \\
+    \hline
+    \textbf{Strobe Type} \newline 0=Level Triggered (Default) \newline 1=Edge Triggered & 
+    \textbf{Strobe Enable} \newline 0=Disabled (Default) \newline 1=Enabled & 
+    \textbf{Mode Bits: M1, M0} \newline 00=Standby (Default) \newline 01=IR Drive \newline 10=Torch \newline 11=Flash & 
+    \textbf{RFU} & 
+    \textbf{LED3 Enable} \newline 0=OFF (Default) \newline 1=ON & 
+    \textbf{LED2 Enable} \newline 0=OFF (Default) \newline 1=ON & 
+    \textbf{LED1 Enable} \newline 0=OFF (Default) \newline 1=ON \\
+    \hline
+\end{tabular}
+\vspace{6pt}
+
+\noindent \textbf{Note:} \\
+In Edge or Level Strobe Mode, it is recommended that the trigger pulse width be set greater than 1ms to ensure proper turn-on of the device.
+\vspace{12pt}
+
+% IVFM Register
+\noindent $\diamond$ \textbf{IVFM Register (0x02) , default(0xE1)}
+\vspace{4pt}
+
+\noindent
+\begin{tabular}{|p{2.7cm}|p{1.8cm}|p{1.8cm}|p{1.8cm}|p{4.8cm}|p{1.8cm}|}
+    \hline
+    \rowcolor{headergray} 
+    \centering\textbf{Bit 7} & \centering\textbf{Bit 6} & \centering\textbf{Bit 5} & \centering\textbf{Bit 4} & \centering\textbf{Bit 3 \qquad\quad Bit 2 \qquad\quad Bit 1} & \centering\arraybackslash\textbf{Bit 0} \\
+    \hline
+    \textbf{LEDX Enable Setting} \newline 0= if LED1 or LED2 is Enabled, LED3 is Disabled Internally \newline 1=No Limitation (Default) & 
+    \textbf{LED3 Pin Short Fault Detect} \newline 0=Disabled \newline 1=Enabled (Default) & 
+    \textbf{LED1/2 Pin Short Fault Detect} \newline 0=Disabled \newline 1=Enabled (Default) & 
+    \textbf{UVLO Enable} \newline 0=Disabled (Default) \newline 1=Enabled & 
+    \textbf{IVFM Levels} \newline 000=2.9 V (Default) \newline 001=3.0 V \newline 010=3.1 V \newline 011=3.2 V \newline 100=3.3 V \newline 101=3.4 V \newline 110=3.5 V \newline 111=3.6 V & 
+    \textbf{IVFM Enable} \newline 0=Disabled \newline 1=Enabled (Default) \\
+    \hline
+\end{tabular}
+\vspace{12pt}
+
+% LED1 Flash Brightness Register
+\noindent $\diamond$ \textbf{LED1 Flash Brightness Register (0x03) , default(0x7F)}
+\vspace{4pt}
+
+\noindent
+\begin{tabular}{|*{8}{>{\centering\arraybackslash}p{1.85cm}|}}
+    \hline
+    \rowcolor{headergray} \textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+    \hline
+    \multicolumn{8}{|l|}{
+        \begin{minipage}{16cm}
+            \vspace{4pt}
+            \textbf{LED1 Flash Brightness Levels} \\
+            $I_{\text{FLASH}}(\text{mA}) \approx (\text{Brightness Code} * 3.91\text{mA}) + 3.91\text{mA}$ \\[6pt]
+            00000000=3.91 mA \\
+            ........... \\
+            01111111=500 mA \quad (Default) \\
+            ........... \\
+            11111111=1.0 A
+            \vspace{4pt}
+        \end{minipage}
+    } \\
+    \hline
+\end{tabular}
+\vspace{12pt}
+
+% LED1 Torch Brightness Register
+\noindent $\diamond$ \textbf{LED1 Torch Brightness Register (0x04) , default(0x7F)}
+\vspace{4pt}
+
+\noindent
+\begin{tabular}{|*{8}{>{\centering\arraybackslash}p{1.85cm}|}}
+    \hline
+    \rowcolor{headergray} \textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} & \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\
+    \hline
+    \multicolumn{8}{|l|}{
+        \begin{minipage}{16cm}
+            \vspace{4pt}
+            \textbf{LED1 Torch Brightness Levels} \\
+            $I_{\text{TORCH}}(\text{mA}) \approx (\text{Brightness Code} * 1.46\text{mA}) + 1.46\text{mA}$ \\[6pt]
+            00000000=1.46 mA \\
+            ........... \\
+            01111111=187.5 mA \quad (Default) \\
+            ........... \\
+            11111111=375 mA
+            \vspace{4pt}
+        \end{minipage}
+    } \\
+    \hline
+\end{tabular}
+
+\vfill
+\hrule
+\vspace{4pt}
+\noindent
+\begin{minipage}{0.33\textwidth}
+    www.awinic.com.cn
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \centering 20
+\end{minipage}%
+\begin{minipage}{0.33\textwidth}
+    \raggedleft \footnotesize Copyright \textcopyright\ 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD
+\end{minipage}
+
+\end{document}
+```

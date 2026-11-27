@@ -1,0 +1,10 @@
+$$E \int _ { Q } \int _ { Q } | K g ( t , x ) - K g ( s , y ) | ^ { p } d t d x d s d y$$
+$$= E \int _ { Q } \int _ { Q } | \int _ { 0 } ^ { t } \int _ { R ^ { d } } K ( t - r , z ) g ( x - z ) d z d W ( r )$$
+$$- \int _ { 0 } ^ { s } \int _ { R ^ { d } } K ( s - r , z ) g ( y - z ) d z d W ( r ) | ^ { p } d t d x d s d y$$
+$$\leq N ( p ) E \int _ { Q } \int _ { Q } | \int _ { 0 } ^ { s } \int _ { R ^ { d } } ( K ( t - r , z ) - K ( s - r , z ) ) g ( y - z ) d z d W ( r ) | ^ { p }$$
+$$+ N ( p ) E \int _ { Q } \int _ { Q } | \int _ { 0 } ^ { s } \int _ { R ^ { d } } K ( t - r , z ) ( g ( x - z ) - g ( y - z ) ) d z d W ( r ) | ^ { p }$$
+$$+ N ( p ) E \int _ { Q } \int _ { Q } | \int _ { s } ^ { t } \int _ { R ^ { d } } K ( t - r , z ) g ( x - z ) d z d W ( r ) | ^ { p } d t d x d s d y$$
+$$\leq N ( p ) E \int _ { Q } \int _ { Q } ( \int _ { 0 } ^ { s } | \int _ { R ^ { d } } ( K ( t - r , z ) - K ( s - r , z ) ) g ( y - z ) d z | ^ { 2 } d r ) ^ { \frac { p } { 2 } }$$
+$$+ N ( p ) E \int _ { Q } \int _ { Q } ( \int _ { 0 } ^ { s } | \int _ { R ^ { d } } K ( t - r , z ) ( g ( x - z ) - g ( y - z ) ) d z | ^ { 2 } d r ) ^ { \frac { p } { 2 } }$$
+$$+ N ( p ) E \int _ { Q } \int _ { Q } ( \int _ { s } ^ { t } | \int _ { R ^ { d } } K ( t - r , z ) g ( x - z ) d z | ^ { 2 } d r ) ^ { \frac { p } { 2 } }$$
+$$=: I _ { 1 } + I _ { 2 } + I _ { 3 } .$$

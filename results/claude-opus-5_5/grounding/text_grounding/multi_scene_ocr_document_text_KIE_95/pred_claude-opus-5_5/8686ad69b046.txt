@@ -1,0 +1,3 @@
+The text on the receipt actually reads **169.78** (not 167.78). It's the Total Sales (Inclusive GST) amount, and this is its location:
+
+(765, 605, 858, 622)

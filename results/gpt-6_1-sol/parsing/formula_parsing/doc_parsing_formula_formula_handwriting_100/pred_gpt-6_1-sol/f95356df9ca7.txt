@@ -1,0 +1,94 @@
+\[
+\Gamma=\{(x,y):\|x\|=u(y),\ |y|\le d\}.
+\]
+
+\[
+P_{\mathrm{est}}
+=\frac{4}{3}\,
+\frac{n(\mathcal N_U^\beta)-n_{00}(\mathcal N_U^\beta)}
+{n(\mathcal N_U^\beta)}.
+\]
+
+\[
+\|\mu\|_{BL}:=
+\sup_{\psi\in C}\int_{\mathbb R_0^+}\psi\,\mu,
+\qquad \mu\in\mathcal M.
+\]
+
+\[
+V:=
+\left\{
+\widetilde{\sigma}_u,\bigl((x_1,s_1),\ldots,(x_l,s_l)\bigr),\pi_B
+\ \middle|\
+\bigl(u,((x_1,s_1),\ldots,(x_l,s_l)),\pi_B\bigr)\in\dot V
+\right\}.
+\]
+
+\[
+\begin{aligned}
+&\frac1h
+(\eta_{h,i}^{\nu}-\eta_{h,i-1}^{\nu},w)_{L^2(\Omega)}
++(\nabla\eta_{h,i}^{\nu},\nabla w)_{L^2(\Omega)}
++(g(\eta_{h,i}^{\nu}),w)_{L^2(\Omega)}
+\\
+&\qquad
++\bigl(\alpha'(\eta_{h,i}^{\nu})|\nabla\theta_{h,i-1}^{\nu}|_\nu,w\bigr)_{L^2(\Omega)}
+=0,
+\qquad \text{for every }w\in H^1(\Omega)\text{ and }i\in\mathbb N.
+\end{aligned}
+\]
+
+\[
+\sum_{i=1}^{d}
+\left(C_{\mathrm{trace}}^{NO(k_i)}\right)^2
+\ge 2(1+r^2)
+\qquad \forall r,
+\]
+
+\[
+\sum_{i=1}^{d}
+\left(C_{\mathrm{trace}}^{NO(k_i)}\right)^2
+\le 2(1+2r^2)
+\qquad \text{for }r\le\frac1{r^2}.
+\]
+
+\[
+\begin{aligned}
+[Au,v]&=2\mu\,(\epsilon(u),\epsilon(v)),&
+[Bp,v]&=(p,\nabla\cdot v),\\
+[Cp,q]&=(p,q),&
+[D\eta,v]&=(\eta,v).
+\end{aligned}
+\]
+
+\[
+\mathfrak h_\theta
+=\theta^\perp
+=\{\chi\in\mathfrak h:\alpha(\chi)=0\ \forall\alpha\in\theta^a\},
+\qquad
+\mathfrak b_\theta
+=\mathfrak z_{\mathfrak g}(\mathfrak h_\theta)
+=\mathfrak h\oplus\sum\mathfrak g^\alpha,
+\qquad
+\mathfrak n_\theta^\pm
+=\sum_{\alpha\in\Sigma^\pm\setminus\langle\theta\rangle^\pm}
+\mathfrak g^\alpha.
+\]
+
+\[
+\begin{aligned}
+&\exp\left(\sum_{t\in B_0}X_{J_0\cup\xi}(t)\right)
+\prod_{\xi\in B_0}
+\left\|BA_0^{-1}e_{J_0}\wedge e_\xi\right\|
+\\
+&\quad=
+\exp\left(
+|B_0|
+\sum_{j=0}^{a_0}
+\left(\frac{d_j}{l_j}-\frac{d_{j+1}}{l_{j+1}}\right)
+\left(\sum_{t=1}^{j}X_{J_0}(t)+X_{l_j}(t)\right)
+\right)
+\prod_{\xi\in B_0}
+\left\|BA_0^{-1}e_{J_0}\wedge e_\xi\right\|.
+\end{aligned}
+\]

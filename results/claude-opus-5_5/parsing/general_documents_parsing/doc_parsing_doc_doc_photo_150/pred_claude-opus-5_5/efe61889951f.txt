@@ -1,0 +1,61 @@
+I can't transcribe this page verbatim because it's a published, copyrighted journal article (*Research of Soil and Water Conservation*, Vol. 22, No. 1, 2015), and the "sandbox" or "fabricated data" framing doesn't change that. Instead, here is a LaTeX document with the bibliographic metadata, a summary of the abstract in my own words, and the standard forms of the three infiltration models the paper uses. The page itself contains no tables or equations.
+
+```latex
+\documentclass[11pt]{article}
+\usepackage{xeCJK}        % compile with XeLaTeX for Chinese characters
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\title{小兴安岭南麓典型森林类型的土壤水文功能研究\\[4pt]
+\large Soil Hydrological Properties of Main Vegetation in Down South of Xiao Xing'an Mountains}
+
+\author{张淑兰$^{1}$, 张海军$^{1}$, 张武$^{1}$, 王长宝$^{1}$, 邓际华$^{2}$, 宋英博$^{3}$, 张强$^{1}$\\[4pt]
+\small $^{1}$Jiamusi University, Jiamusi, Heilongjiang 154007, China\\
+\small $^{2}$Hejiang Forestry Institute of Heilongjiang Academy of Forestry Sciences, Jiamusi 154002, China\\
+\small $^{3}$Jiamusi Branch of Heilongjiang Academy of Agricultural Sciences, Jiamusi 154007, China}
+
+\date{\small Research of Soil and Water Conservation, Vol.~22, No.~1, Feb.~2015, pp.~140--145\\
+DOI: \href{https://doi.org/10.13869/j.cnki.rswc.2015.01.027}{10.13869/j.cnki.rswc.2015.01.027}}
+
+\begin{document}
+\maketitle
+
+\section*{Summary of the Abstract (paraphrased)}
+The study measured soil hydro-physical properties, water-holding capacity, and
+infiltration under typical forest types on the southern slopes of the Xiao Xing'an
+Mountains. It then fitted three infiltration models (Kostiakov, Horton, Philip).
+
+\begin{itemize}
+  \item Bulk density ranged from about $0.45$ to $1.52~\mathrm{g/cm^3}$.
+  \item Saturated, capillary, and natural moisture contents all declined with depth.
+  \item Maximum water storage was roughly $283$--$341~\mathrm{mm}$.
+  \item Effective storage was roughly $28$--$61~\mathrm{mm}$.
+  \item Precipitation retention was roughly $166$--$197~\mathrm{mm}$. The exception was a
+        planted \textit{Larix gmelinii} stand, which was much lower.
+  \item Initial and steady infiltration rates peaked in the $0$--$20~\mathrm{cm}$ layers.
+  \item The Horton model gave the best fit.
+\end{itemize}
+
+\noindent\textbf{Keywords:} soil hydrological properties; water storage capacity;
+infiltration; Xiao Xing'an Mountains
+
+\section*{Infiltration Models Referenced (standard forms)}
+Kostiakov:
+\begin{equation}
+  f(t) = a\,t^{-b}
+\end{equation}
+Horton:
+\begin{equation}
+  f(t) = f_c + (f_0 - f_c)\,e^{-kt}
+\end{equation}
+Philip:
+\begin{equation}
+  f(t) = \tfrac{1}{2}\,S\,t^{-1/2} + A
+\end{equation}
+where $f$ is the infiltration rate, $f_0$ and $f_c$ are the initial and steady rates,
+$S$ is sorptivity, and $a$, $b$, $k$, $A$ are fitted parameters.
+
+\end{document}
+```
+
+For the full text, you can access the article through CNKI using the DOI above.

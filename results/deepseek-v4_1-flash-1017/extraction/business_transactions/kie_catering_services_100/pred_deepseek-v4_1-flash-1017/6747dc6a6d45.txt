@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "name": "BASO KUAH",
+      "quantity": "1",
+      "price": "43.636"
+    },
+    {
+      "name": "A.MINERAL GELAS",
+      "quantity": "1",
+      "price": "3.000"
+    }
+  ],
+  "sub_total": "46.636",
+  "total": "51.300"
+}
+```

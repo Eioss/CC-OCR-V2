@@ -1,0 +1,90 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\newcommand{\blank}[1][2.5cm]{\underline{\hspace{#1}}}
+
+\begin{document}
+
+\begin{center}
+\textbf{MODEL QUESTION PAPER}
+\end{center}
+
+\noindent\textbf{CLASS : IV} \hfill \textbf{SUB:MATHS}
+
+\vspace{0.3cm}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+\hline
+\textbf{COMP} & \textbf{FNC} & \textbf{UBC} & \textbf{AIC} & \textbf{PSA} & \textbf{ORAL} & \textbf{Total} & \textbf{Tr's sign} \\
+ & \textbf{(15)} & \textbf{(20)} & \textbf{(20)} & \textbf{(15)} & \textbf{(30)} & \textbf{(100)} & \\
+\hline
+\textbf{MARKS} & & & & & & & \\
+\hline
+\textbf{GRADE} & & & & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\textbf{\underline{I. FORMING NUMBERS CORRECTLY}} (15 marks)
+\end{center}
+
+\noindent\textbf{(1) \underline{Fill in the blanks}} \hfill \textbf{(5x1=5)}
+
+\begin{enumerate}[label=\alph*.]
+  \item Arrange $5$, $\mathbf{3}$, $\mathbf{7}$, $\mathbf{2}$ to form the smallest 4 digit number \blank\ and the greatest 4 digit number \blank
+  \item $1000 + 300 + 4 = $ \blank[3cm]
+  \item Expand $4287 = 4000 + $ \blank[3cm] $+$ \blank\ $+\ 7$
+  \item 1 kilometre $=$ \blank\ metres and 1 metre $=$ \blank\ cm
+  \item A brick has \blank\ faces and \blank\ edges.
+\end{enumerate}
+
+\noindent\textbf{(2) \underline{Do as directed}} \hfill \textbf{(5x2= 10)}
+
+\begin{enumerate}[label=(\roman*)]
+  \item \underline{Write the \textbf{place value of 4} in each number.}
+
+  \vspace{0.2cm}
+  \begin{tabular}{|c|c|c|c|}
+  \hline
+  \textbf{4} & 6 & 0 & 9 \\
+  \hline
+  \end{tabular}
+  \quad $\longrightarrow$ \quad \blank[3cm]
+
+  \vspace{0.2cm}
+  \begin{tabular}{|c|c|c|c|}
+  \hline
+  6 & 3 & \textbf{4} & 7 \\
+  \hline
+  \end{tabular}
+  \quad $\longrightarrow$ \quad \blank[3cm]
+
+  \item \underline{Encircle the pairs of numbers which when \textbf{added makes more than 500}?}
+  \begin{enumerate}[label=\alph*.]
+    \item 152 and 241
+    \item 321 and 192
+    \item 420 and 184
+    \item 209 and 290
+  \end{enumerate}
+
+  \item \underline{Express as \textbf{24- hours clock time}}
+  \begin{enumerate}[label=\alph*.]
+    \item 3.15 a.m \blank[3cm]
+    \item 7.40 p.m \blank[3cm]
+  \end{enumerate}
+
+  \item \underline{In a circle}, if the lengths of the:
+  \begin{enumerate}[label=(\alph*)]
+    \item \textbf{Radius is 4 cm}, then the \textbf{Diameter} is \blank[3cm]
+    \item \textbf{Diameter is 12 cm}, then the \textbf{Radius} is \blank[3cm]
+  \end{enumerate}
+\end{enumerate}
+
+\end{document}
+```

@@ -1,0 +1,56 @@
+Here is the transcription of the formula sheet into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=0.5in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Formula Sheet for Physics 251}
+\end{center}
+
+\begin{tabular}{p{0.23\textwidth} p{0.23\textwidth} p{0.23\textwidth} p{0.23\textwidth}}
+    \underline{\textbf{Constants}} & $m_{tot} = nM$ & \underline{\textbf{Heat Engines}} & \underline{\textbf{Many Sources}} \\
+    $R = 8.3145 \, \frac{\text{J}}{\text{m} \cdot \text{K}}$ & $M = N_A m$ & $W = Q_H + Q_C$ & $\vec{E}_T = \sum_i \vec{E}_i$ \\
+    $N_A = 6.02 \times 10^{23}$ & $N = N_A n$ & $e = \frac{W}{Q_H}$ & $U_T = \sum_{\text{pairs}} U_{ij}$ \\
+    $k_B = \frac{R}{N_A} = 1.38 \times 10^{-23} \, \frac{\text{J}}{\text{m} \cdot \text{K}}$ & \underline{\textbf{Ideal gases}} & $e_c = 1 - \frac{T_C}{T_H}$ & \underline{\textbf{"Elementary" E Fields}} \\
+    $e = 1.602 \times 10^{-19} \, \text{C}$ & $* PV = nrT$ & \underline{\textbf{Refrigerators}} & $\vec{E} = k \frac{Q}{r^2} \hat{r} \text{ sphere}$ \\
+    $k = \frac{1}{4\pi\varepsilon_0} = 9 \times 10^9 \, \frac{\text{N} \cdot \text{m}^2}{\text{C}^2}$ & $* PV = NkT$ & $W = Q_H + Q_C$ & $\vec{E} = \frac{\lambda}{2\pi\varepsilon_0 r} \hat{r} \text{ line}$ \\
+    $\mu_0 = 4\pi \times 10^{-7} \, \frac{\text{T} \cdot \text{m}}{\text{A}}$ & $* v_{RMS} = \sqrt{\frac{3RT}{M}}$ & $K = \frac{|Q_C|}{|W|}$ & $\vec{E} = \frac{\sigma}{2\varepsilon_0} \hat{n} \text{ plane}$ \\
+    $c = 3 \times 10^8 \, \frac{\text{m}}{\text{s}}$ & $* C_V = \frac{3}{2} R \text{ (monatomic)}$ & $K_c = \frac{T_C}{T_H - T_C}$ & $\vec{E} = \frac{\sigma}{\varepsilon_0} \hat{n} \text{ conducting surface}$ \\
+     & $* C_V = \frac{5}{2} R \text{ (diatomic)}$ & & \\
+    \underline{\textbf{Thermal Expansion}} & $* C_P = C_V + R$ & \underline{\textbf{Force, Field, Energy and Potential}} & \underline{\textbf{Capacitors}} \\
+    $\Delta L = \alpha L_0 \Delta T$ & & $\vec{F} = q\vec{E}$ & $C = \frac{Q}{V}$ \\
+    $\beta = 3\alpha$ & \underline{\textbf{Isobaric Processes}} & $\Delta U = q\Delta V$ & $C_T = \sum_i C_i \text{ parallel}$ \\
+     & $W = P\Delta V$ & $V_{ab} = \int_a^b \vec{E} \cdot d\vec{l}$ & $\frac{1}{C_T} = \sum_i \frac{1}{C_i} \text{ series}$ \\
+    \underline{\textbf{Heat}} & $Q = nC_P \Delta T$ & $\vec{E} = -\nabla V$ & $U = \frac{1}{2}CV^2 = \frac{Q^2}{2C} = \frac{1}{2}QV$ \\
+    $Q = mc\Delta T$ & $* \Delta U = nC_V \Delta T$ & & $\dagger C = \varepsilon_0 \frac{A}{d}$ \\
+    $Q = \pm mL$ & & \underline{\textbf{1 Point Charge}} & $\dagger |\vec{E}| = \frac{V}{d} = \frac{\sigma}{\varepsilon_0}$ \\
+    $Q = nC_V \Delta T$ & \underline{\textbf{Isothermal Processes}} & $\vec{E} = k \frac{q}{r^2} \hat{r}$ & \\
+    $Q = nC_P \Delta T$ & $* W = nRT \ln\left(\frac{V_f}{V_i}\right)$ & $V = k \frac{q}{r}$ & \underline{\textbf{Flux and Gauss's Law}} \\
+     & $* Q = nRT \ln\left(\frac{V_f}{V_i}\right)$ & & $\Phi = \iint \vec{E} \cdot d\vec{a}$ \\
+    \underline{\textbf{Heat Current}} & $* \Delta U = 0$ & \underline{\textbf{2 Point Charges}} & $\Phi_{\text{closed}} = \frac{Q_{\text{enclosed}}}{\varepsilon_0}$ \\
+    $H = k \frac{A}{L} (T_H - T_C)$ & & $\vec{F} = k \frac{q_1 q_2}{r^2} \hat{r}$ & \\
+    $H = A \sigma e T^4$ & \underline{\textbf{Adiabatic Processes}} & $U = k \frac{q_1 q_2}{r}$ & \underline{\textbf{Current and Current Density}} \\
+     & $* W = -nC_V \Delta T$ & & $I = \frac{dq}{dt}$ \\
+    \underline{\textbf{Quantities}} & $Q = 0$ & \underline{\textbf{Distributed Charge}} & $I = \iint \vec{J} \cdot d\vec{a}$ \\
+     & $* \Delta U = nC_V \Delta T$ & $\vec{E} = \int k \frac{dq}{r^2} \hat{r}$ & $\vec{J} = nq\vec{v}_d$ \\
+    \underline{\textbf{Work}} & $* P_i V_i^\gamma = P_f V_f^\gamma$ & $V = \int k \frac{dq}{r}$ & \\
+    $W = \int_{V_i}^{V_f} P dV$ & $* T_i V_i^{\gamma-1} = T_f V_f^{\gamma-1}$ & & \\
+     & $\gamma = \frac{C_P}{C_V}$ & & \\
+    \underline{\textbf{Isochoric Processes}} & & & \\
+    $W = 0$ & \underline{\textbf{Cyclic Processes}} & & \\
+    $Q = nC_V \Delta T$ & $W = Q$ & & \\
+    $* \Delta U = nC_V \Delta T$ & $\Delta U = 0$ & & \\
+\end{tabular}
+
+\vspace{0.5cm}
+\noindent * indicates formulas that are specific to ideal gases \\
+\noindent $\dagger$ indicates formulas that are specific to parallel-plate capacitors
+
+\end{document}
+```

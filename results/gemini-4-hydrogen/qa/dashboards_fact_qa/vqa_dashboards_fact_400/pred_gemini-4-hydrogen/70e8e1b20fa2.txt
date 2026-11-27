@@ -1,0 +1,16 @@
+To find the combined percentage of free apps in the iPhone and Android stores, we can use the data from the **"Top Mobile App Stores"** and **"Heavy Hitters"** sections of the infographic:
+
+1. **Total available apps:**
+   * **iPhone:** 375,566 apps
+   * **Android:** 224,808 apps
+   * **Combined total:** $375,566 + 224,808 = 600,374$ apps
+
+2. **Number of free apps:**
+   * **iPhone (29% free):** $375,566 \times 0.29 = 108,914.14$ apps
+   * **Android (60% free):** $224,808 \times 0.60 = 134,884.8$ apps
+   * **Combined free apps:** $108,914.14 + 134,884.8 = 243,798.94$ apps
+
+3. **Combined percentage of free apps:**
+   $$\frac{243,798.94}{600,374} \approx 0.4061 \text{ or } \mathbf{40.6\%}$$
+
+Taken together, approximately **40.6%** of the apps in the iPhone and Android stores are free.

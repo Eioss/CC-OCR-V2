@@ -1,0 +1,70 @@
+\[
+H'(\xi_1)
+=3(1-\alpha)\xi_1^2+3\xi^2-6\xi\xi_1
+\ge 3(1-\alpha)\xi_1^2-3-6|\xi_1|
+\ge 2(1-\alpha)\xi_1^2.
+\]
+
+\[
+\int_0^T
+\left(|\dot{\theta}(t)|_q^q\right)^{\frac{5-b}{3(a-1-b)}}\,dt
+\le C\left(1+\int_0^T|\nabla\dot{\theta}(t)|_2^2\,dt\right)
+\le C\left(1+\int_0^T|\dot{\theta}(t)|_{2-a}^{2-a}\,dt\right).
+\]
+
+\[
+\begin{aligned}
+I
+&\le \|f\|_p^2\,2^{nd-2\alpha n}
+\sum_{\sigma_l\in G_1}\sum_{\sigma_k\in G_2}
+\int_{\sigma_l}\int_{\sigma_k}|x-u|^{-2\alpha}\,du\,dx\\
+&=\|f\|_p^2\,2^{nd-2\alpha n}
+\int_Q\int_{\mathbb{R}^d\setminus Q'}|x-u|^{-2\alpha}\,du\,dx.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+\left\|
+F_a\frac{f^2(\zeta_k)}{|\zeta_k|}
+(1-|\zeta_k|)^{n-k+1}
+\right\|_{p/2}
+&\le \|\zeta_0\|_{p/2}
+\sum_{i=0}^{k-1}
+\int_E(1-|y|)^{n-2}\frac{f^2(y)}{|y|}\,d\nu(y)\\
+&\quad+
+\left\|f^2(\zeta_0)\zeta_0^{-1}
+(1-|\zeta_0|)^{n+1}\right\|_{p/2}.
+\end{aligned}
+\]
+
+\[
+\left|
+\sum_{m\in C}\frac{1}{m^p\|m\alpha\|^p}
+-\zeta(2p)a_l^p
+\right|
+\le \frac{3^p}{2p-1}
++2p\,3^{p-1}\zeta(2p)a_l^{p-1}.
+\]
+
+\[
+d\nu(\Lambda)=
+\begin{cases}
+-s^2x^{s-1}\log x\,dx, & \text{if }s=t,\\[4pt]
+st\,\dfrac{x^{t-1}-x^{s-1}}{s-t}\,dx, & \text{if }s\ne t.
+\end{cases}
+\]
+
+\[
+\frac{\Gamma(n-\gamma j)}{\Gamma(n+1)}
+=n^{-\gamma j}\left(n^{-1}+O(n^{-2})\right),
+\qquad n\to\infty.
+\]
+
+\[
+\int_0^\infty
+u^{b-1}(u+1)^{a-c}(w+vu)^{-a}\,du
+=
+v^{-a}B(b,c-b)\,
+{}_2F_1\!\left[a,b;c;1-\frac{w}{v}\right].
+\]

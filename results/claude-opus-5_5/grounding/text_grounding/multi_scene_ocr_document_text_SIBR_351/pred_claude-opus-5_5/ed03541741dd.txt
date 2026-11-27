@@ -1,0 +1,4 @@
+There are two occurrences of "10/27/20" in the image:
+
+(95, 470, 150, 484) # first occurrence (Room Charge row)
+(95, 499, 150, 513) # second occurrence (Room VAT 6% row)

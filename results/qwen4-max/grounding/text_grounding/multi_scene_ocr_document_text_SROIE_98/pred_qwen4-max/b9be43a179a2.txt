@@ -1,0 +1,14 @@
+Looking at the receipt, the text "PETRON BKT LANJAN SB" appears at the top as the business name header.
+
+I need to estimate its bounding box coordinates normalized to 0-1000.
+
+The image dimensions appear to be roughly 432 wide by 1024 tall (typical receipt scan). The text "PETRON BKT LANJAN SB" is centered near the top.
+
+Horizontally it spans from about x=115 to x=300 in pixel terms out of ~432 width → roughly 266 to 694.
+Vertically it's around y=85 to y=105 out of ~1024 → roughly 83 to 103.
+
+Let me refine: top line starts around y=85px. Normalized y1 ≈ 85/1024*1000 ≈ 83, y2 ≈ 105/1024*1000 ≈ 103.
+
+Horizontal: left edge ~115/432*1000 ≈ 266, right edge ~300/432*1000 ≈ 694.
+
+(266, 83, 694, 103)

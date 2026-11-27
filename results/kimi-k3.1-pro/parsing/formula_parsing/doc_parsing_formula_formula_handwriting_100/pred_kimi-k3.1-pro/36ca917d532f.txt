@@ -1,0 +1,50 @@
+\[
+\widehat{\mathbb{E}}_{t}\!\left[\left(\int_{t}^{T}|Z_{s}|^{2}\,ds\right)^{\frac{\alpha}{2}}\right]
+\le C\left\{1+\widehat{\mathbb{E}}_{t}\!\left[\sup_{s\in[t,T]}|Y_{s}|^{\alpha}\right]
++\left(\widehat{\mathbb{E}}_{t}\!\left[\sup_{s\in[t,T]}|Y_{s}|^{\alpha}\right]\right)^{1/2}
+\left(\widehat{\mathbb{E}}_{t}\!\left[\left(\int_{t}^{T}h_{s}\,ds\right)^{\alpha}\right]\right)^{1/2}\right\},
+\]
+
+\[
+\widehat{\mathbb{E}}_{t}\!\left[|A_{T}-A_{t}|^{\alpha}\right]
+\le C\left\{1+\widehat{\mathbb{E}}_{t}\!\left[\sup_{s\in[t,T]}|Y_{s}|^{\alpha}\right]
++\widehat{\mathbb{E}}_{t}\!\left[\left(\int_{t}^{T}h_{s}\,ds\right)^{\alpha}\right]\right\},
+\]
+
+\[
+\mathbb{P}\!\left(\overline{X}_{\mathbf{e}(q)}\in dx\right)
+=\bar{a}(\rho,\zeta)^{T}\times\bar{v}(\zeta,x)\,dx,
+\qquad
+\mathbb{P}\!\left(-\underline{X}_{\mathbf{e}(q)}\in dx\right)
+=\bar{a}(\hat{\rho},\hat{\zeta})^{T}\times\bar{v}(\hat{\zeta},x)\,dx.
+\]
+
+\[
+\sum_{\substack{0\le h<k\le N\\(h,k)=1}}
+\sum_{2a+2b+2c=r}
+k\,c(a,b,c)(kT)^{a}\frac{1}{k\sqrt{n}}
+\left(\frac{n}{k}\right)^{\left|\frac12-a-2c\right|}
+\ll_{r,T}
+\sum_{k\le N}\sum_{2a+2b+2c=r}
+n^{\left|\frac12-a-2c\right|-\frac12}
+k^{a-\left|\frac12-a-2c\right|}.
+\]
+
+\[
+\delta_{+}=\delta\circ\gamma_{+}:\Gamma_{+}\longrightarrow\Delta
+\]
+
+\[
+X_{t}=x+Y_{t}+\int_{0}^{t}u(s,X_{s})\,ds,\qquad t\in[0,T],
+\]
+
+\[
+\begin{aligned}
+&\int_{\Omega}\left[A(x)\cdot\nabla T_{j}(u_{n})\right]\cdot
+\nabla\varphi\,S(u_{n})\,dx
++\int_{\Omega}\left[A(x)\cdot\nabla T_{j}(u_{n})\right]\cdot
+\nabla T_{j}(u_{n})S'(u_{n})\varphi\,dx\\
+&\qquad=\int_{\Omega}H(x,u_{n},\nabla u_{n})\varphi\,dx
++\int_{\Omega}T_{n}(f)S(u_{n})\varphi\,dx.
+\end{aligned}
+\]

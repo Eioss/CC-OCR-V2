@@ -1,0 +1,7 @@
+\begin{align*}
+& n(v) v^T e(v) + m e^T(v) v e^T(v) = 0, \quad v \in \mathbb{R}^n \setminus \{0\}, \quad \text{and } \exists \delta \ge 0 \text{ on } \Sigma \setminus \{e_3\} \\
+& H^\infty = -h \left( m_1 |H| > \langle H + m, v \rangle \langle v \rangle \otimes v \rangle \langle v | dw, \right. \\
+& \sup_{0 \le t \le 1} \| v^m(t) - u(t) \| = o \left( \| v^m(0) - u(0) \| + \| v^m \| \right) \\
+& \hat{R}_{ij}(m) = \Phi(Q_{ij}^{(m)}, N_{ij}^{(m)}, f(Q_{ij}^{(m)}), f(Q_{ij}^{(m)}), f(Q_{ij}^{(m)}), \dots, f(Q_{ij}^{(m)})) \\
+& C_n(-\tau) = (-1)^n C_n(\tau)
+\end{align*}

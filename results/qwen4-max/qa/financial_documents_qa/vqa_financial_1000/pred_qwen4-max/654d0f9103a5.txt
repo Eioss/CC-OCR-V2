@@ -1,0 +1,3 @@
+Looking at the VAT table near the bottom of the invoice, there are columns for GOODS, VAT RATE, and VAT AMOUNT. The VAT RATE is 0.00 and the VAT AMOUNT column shows 0.00. This is also confirmed in the INVOICE VAT box on the right, which reads 0.00.
+
+**0.00**

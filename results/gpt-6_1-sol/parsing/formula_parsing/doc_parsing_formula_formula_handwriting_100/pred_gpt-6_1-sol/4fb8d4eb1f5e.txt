@@ -1,0 +1,24 @@
+\[
+\left\{
+\begin{aligned}
+\widetilde r_0(\zeta)(z,w)
+&=\frac{z_0+\overline{z_0}}{2}-{}^{t}\overline{z_\alpha}Az_\alpha=0,\\
+\widetilde r_0(\zeta)(z,w)
+&=i\frac{w_0}{\zeta}-i\zeta\overline{w_0}=0,\\
+\widetilde r_2(\zeta)(z,w)
+&=\left(w_1-2w_0\partial_{z_1}r(z)\right)
++\overline{\left(w_1-2w_0\partial_{z_1}r(z)\right)}=0,\\
+&\vdots\\
+\widetilde r_{n+1}(\zeta)(z,w)
+&=\left(w_n-2w_0\partial_{z_n}r(z)\right)
++\overline{\left(w_n-2w_0\partial_{z_n}r(z)\right)}=0,\\
+\widetilde r_{n+2}(\zeta)(z,w)
+&=i\left(w_1-2w_0\partial_{z_1}r(z)\right)
+-i\overline{\left(w_1-2w_0\partial_{z_1}r(z)\right)}=0,\\
+&\vdots\\
+\widetilde r_{2n+1}(\zeta)(z,w)
+&=i\left(w_n-2w_0\partial_{z_n}r(z)\right)
+-i\overline{\left(w_n-2w_0\partial_{z_n}r(z)\right)}=0.
+\end{aligned}
+\right.
+\]

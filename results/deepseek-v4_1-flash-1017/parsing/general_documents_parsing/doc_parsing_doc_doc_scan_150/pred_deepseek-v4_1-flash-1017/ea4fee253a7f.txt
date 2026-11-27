@@ -1,0 +1,99 @@
+Here is the transcription of the text and mathematical content from the image:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Prerana Model paper-1 \hspace{1cm} MCQ questions \hspace{1cm} click the correct one}
+\end{center}
+
+\begin{enumerate}
+    \item Sum of ``n'' terms of the Arithmetic Progression \(1+3+5+7+9+..........\) which one is correct
+    \begin{itemize}
+        \item[A)] \(n(n+1)\)
+        \item[B)] \(n^2\)
+        \item[C)] \(25\)
+        \item[D)] \(2n\)
+    \end{itemize}
+
+    \item Solutions of the equation \(a_1x + b_1y + c_1 = 0\) and \(a_2x + b_2y + c_2 = 0\) are consistent then the correct form among the following is.
+    \begin{itemize}
+        \item[A)] \(\frac{a_1}{a_2} \neq \frac{b_1}{b_2}\)
+        \item[B)] \(\frac{a_1}{a_2} = \frac{b_1}{b_2}\)
+        \item[C)] \(\frac{a_1}{b_1} = \frac{a_2}{b_2} = \frac{c_2}{c_1}\)
+        \item[D)] \(\frac{a_1}{a_2} = \frac{b_1}{b_2} \neq \frac{c_1}{c_2}\)
+    \end{itemize}
+
+    \item In a quadratic equation the value of the discriminant is -33 then the equation has
+    \begin{itemize}
+        \item[A)] Real \& distinct roots
+        \item[B)] Real \& equal roots
+        \item[C)] not real roots
+        \item[D)] rational and distinct roots.
+    \end{itemize}
+
+    \item If \(\tan A = 1\) then the value \(A\) is
+    \begin{itemize}
+        \item[A)] \(90^\circ\)
+        \item[B)] \(0^\circ\)
+        \item[C)] \(60^\circ\)
+        \item[D)] \(45^\circ\)
+    \end{itemize}
+
+    \item When a cone is cut by a plane horizontally, parallel to base of the cone then the part other than smaller cone obtained is called.
+    \begin{itemize}
+        \item[A)] Frustum of cone
+        \item[B)] cylinder
+        \item[C)] major cone
+        \item[D)] Hemisphere
+    \end{itemize}
+
+    \item Formula used to find volume of right circular cylinder is
+    \begin{itemize}
+        \item[A)] \(\pi r h^2\)
+        \item[B)] \(\frac{2}{3}\pi r^2 h\)
+        \item[C)] \(\frac{1}{3}\pi r^2 h\)
+        \item[D)] \(\pi r^2 h\)
+    \end{itemize}
+
+    \item The coordinates of the midpoint of the line joining the points \((3,7)\) and \((5,5)\) is
+    \begin{itemize}
+        \item[A)] \((4,6)\)
+        \item[B)] \((6,4)\)
+        \item[C)] \((2,-2)\)
+        \item[D)] \((4,4)\)
+    \end{itemize}
+
+    \item Roots of the quadratic equation \((2x + 1)(x + 2) = 0\) are
+    \begin{itemize}
+        \item[A)] \(\frac{1}{2}\) and \(2\)
+        \item[B)] \(\frac{-1}{2}\) and \(-2\)
+        \item[C)] \(\frac{-1}{2}\) and \(2\)
+        \item[D)] \(\frac{1}{2}\) and \(-2\)
+    \end{itemize}
+
+    \item \(2x^2+3x-5=0\) Discriminant value of this quadratic equation?
+    \begin{itemize}
+        \item[A)] \(19\)
+        \item[B)] \(-49\)
+        \item[C)] \(-31\)
+        \item[D)] \(49\)
+    \end{itemize}
+
+    \item AR, AD, AB, AP \& PC are the tangents of the circle of centre O. which relations is correct?
+    \begin{itemize}
+        \item[A)] \(AP=AR\)
+        \item[B)] \(AR = RD\)
+        \item[C)] \(RA = PC\)
+        \item[D)] \(RA = RB\)
+    \end{itemize}
+\end{enumerate}
+
+\end{document}
+```

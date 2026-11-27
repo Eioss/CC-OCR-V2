@@ -1,0 +1,18 @@
+To determine the **expected rise in bird deaths due to turbines by 2030** from the current figure, we use the data provided in the infographic:
+
+- **Current annual bird deaths from wind turbines**: **440,000**
+- **Projected annual bird deaths by 2030**: **Exceeds 1 million** (i.e., >1,000,000)
+
+---
+
+### Calculation:
+> **Rise = Projected deaths – Current deaths**  
+> **Rise > 1,000,000 – 440,000**  
+> **Rise > 560,000**
+
+---
+
+### Final Answer:
+✅ **The expected rise is more than 560,000 additional bird deaths per year by 2030.**
+
+*(Note: Since the projection says “exceed 1 million,” the actual increase will be slightly more than 560,000 — but 560,000 is the minimum expected rise.)*

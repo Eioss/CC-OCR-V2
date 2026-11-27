@@ -1,0 +1,117 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{array}
+
+\definecolor{heading}{RGB}{25,75,85}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.35}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\color{heading}Example Corporation}\\
+    \textbf{\color{heading}Balance Sheet}\\
+    \textbf{\color{heading}December 31, 2023}
+\end{center}
+
+\vspace{1em}
+
+\begin{minipage}[t]{0.47\textwidth}
+\begin{tabularx}{\linewidth}{@{}X r@{}}
+\multicolumn{2}{@{}l}{\textbf{\color{heading}Assets}}\\
+\hline
+&\\[-0.6em]
+Current assets &\\
+\quad Cash and cash equivalents & \$\quad 2,200\\
+\quad Short-term investments & 10,000\\
+\quad Accounts receivable - net & 39,500\\
+\quad Other receivables & 1,000\\
+\quad Inventory & 31,000\\
+\quad Supplies & 3,800\\
+\quad Prepaid expenses & 1,500\\
+\cline{2-2}
+\qquad Total current assets & 89,000\\
+\cline{2-2}
+&\\
+Investments & 36,000\\
+\cline{2-2}
+&\\
+Property, plant \& equipment &\\
+\quad Land & 5,500\\
+\quad Land improvements & 6,500\\
+\quad Buildings & 180,000\\
+\quad Equipment & 201,000\\
+\quad Less: accumulated depreciation & (56,000)\\
+\cline{2-2}
+\qquad Property, plant \& equip. - net & 337,000\\
+\cline{2-2}
+&\\
+Intangible assets &\\
+\quad Goodwill & 105,000\\
+\quad Other intangible assets & 200,000\\
+\cline{2-2}
+\qquad Total intangible assets & 305,000\\
+\cline{2-2}
+&\\
+Other assets & 3,000\\
+\cline{2-2}
+&\\
+Total assets & \$\quad 770,000\\
+\cline{2-2}\cline{2-2}
+\end{tabularx}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.47\textwidth}
+\begin{tabularx}{\linewidth}{@{}X r@{}}
+\multicolumn{2}{@{}l}{\textbf{\color{heading}Liabilities}}\\
+\hline
+&\\[-0.6em]
+Current liabilities &\\
+\quad Short-term loans payable & \$\quad 5,000\\
+\quad Current portion of long-term debt & 15,000\\
+\quad Accounts payable & 20,900\\
+\quad Accrued compensation and benefits & 8,500\\
+\quad Income taxes payable & 6,100\\
+\quad Other accrued liabilities & 4,000\\
+\quad Deferred revenues & 1,500\\
+\cline{2-2}
+\qquad Total current liabilities & 61,000\\
+\cline{2-2}
+&\\
+Long-term liabilities &\\
+\quad Notes payable & 20,000\\
+\quad Bonds payable & 375,000\\
+\quad Deferred income taxes & 25,000\\
+\cline{2-2}
+\qquad Total long-term liabilities & 420,000\\
+\cline{2-2}
+&\\
+Total liabilities & 481,000\\
+\cline{2-2}
+&\\
+\multicolumn{2}{@{}l}{Commitments and contingencies {\small (see notes)}}\\
+&\\
+\multicolumn{2}{@{}l}{\textbf{\color{heading}Stockholders' Equity}}\\
+\hline
+&\\[-0.6em]
+\quad Common stock & 110,000\\
+\quad Retained earnings & 220,000\\
+\quad Accum other comprehensive income & 9,000\\
+\quad Less: Treasury stock & (50,000)\\
+\cline{2-2}
+\qquad Total stockholders' equity & 289,000\\
+\cline{2-2}
+Total liabilities \& stockholders' equity & \$\quad 770,000\\
+\cline{2-2}\cline{2-2}
+\end{tabularx}
+\end{minipage}
+
+\vspace{2em}
+
+\textit{The accompanying notes are an integral part of this statement.}
+
+\end{document}
+```

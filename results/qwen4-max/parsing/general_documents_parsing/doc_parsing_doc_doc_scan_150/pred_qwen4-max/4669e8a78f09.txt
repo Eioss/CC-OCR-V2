@@ -1,0 +1,131 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+
+% Define colors based on the image
+\definecolor{headerblue}{RGB}{0, 70, 100}
+
+% Set page margins
+\geometry{a4paper, margin=1in}
+
+% Custom column type for right-aligned numbers with fixed width
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\begin{document}
+
+% Main Title
+\begin{center}
+    \textbf{\large \textcolor{headerblue}{Example Corporation}} \\
+    \textbf{\large \textcolor{headerblue}{Balance Sheet}} \\
+    \textbf{\large \textcolor{headerblue}{December 31, 2023}}
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    % --- ASSETS COLUMN ---
+    \textbf{\large \textcolor{headerblue}{Assets}} \\
+    \textcolor{headerblue!30}{\rule{\linewidth}{1pt}}
+    \vspace{0.2cm}
+
+    \begin{tabular}{@{}p{5.5cm} R{0.5cm} R{1.5cm}@{}}
+        Current assets & & \\
+        \quad Cash and cash equivalents & \$ & 2,200 \\
+        \quad Short-term investments & & 10,000 \\
+        \quad Accounts receivable - net & & 39,500 \\
+        \quad Other receivables & & 1,000 \\
+        \quad Inventory & & 31,000 \\
+        \quad Supplies & & 3,800 \\
+        \quad Prepaid expenses & & 1,500 \\
+        \cline{3-3}
+        \quad Total current assets & & 89,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Investments & & 36,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Property, plant \& equipment & & \\
+        \quad Land & & 5,500 \\
+        \quad Land improvements & & 6,500 \\
+        \quad Buildings & & 180,000 \\
+        \quad Equipment & & 201,000 \\
+        \quad Less: accumulated depreciation & & (56,000) \\
+        \cline{3-3}
+        \quad Property, plant \& equip. - net & & 337,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Intangible assets & & \\
+        \quad Goodwill & & 105,000 \\
+        \quad Other intangible assets & & 200,000 \\
+        \cline{3-3}
+        \quad Total intangible assets & & 305,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Other assets & & 3,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Total assets & \$ & 770,000 \\
+        \cline{3-3} \cline{3-3}
+    \end{tabular}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    % --- LIABILITIES COLUMN ---
+    \textbf{\large \textcolor{headerblue}{Liabilities}} \\
+    \textcolor{headerblue!30}{\rule{\linewidth}{1pt}}
+    \vspace{0.2cm}
+
+    \begin{tabular}{@{}p{5.5cm} R{0.5cm} R{1.5cm}@{}}
+        Current liabilities & & \\
+        \quad Short-term loans payable & \$ & 5,000 \\
+        \quad Current portion of long-term debt & & 15,000 \\
+        \quad Accounts payable & & 20,900 \\
+        \quad Accrued compensation and benefits & & 8,500 \\
+        \quad Income taxes payable & & 6,100 \\
+        \quad Other accrued liabilities & & 4,000 \\
+        \quad Deferred revenues & & 1,500 \\
+        \cline{3-3}
+        \quad Total current liabilities & & 61,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Long-term liabilities & & \\
+        \quad Notes payable & & 20,000 \\
+        \quad Bonds payable & & 375,000 \\
+        \quad Deferred income taxes & & 25,000 \\
+        \cline{3-3}
+        \quad Total long-term liabilities & & 420,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Total liabilities & & 481,000 \\
+        \cline{3-3}
+        \addlinespace[0.3cm]
+        Commitments and contingencies {\small (see notes)} & & \\
+        \addlinespace[0.5cm]
+        
+        % --- STOCKHOLDERS' EQUITY SECTION ---
+        \textbf{\large \textcolor{headerblue}{Stockholders' Equity}} \\
+        \textcolor{headerblue!30}{\rule{\linewidth}{1pt}} \\
+        \addlinespace[0.2cm]
+        Common stock & & 110,000 \\
+        Retained earnings & & 220,000 \\
+        Accum other comprehensive income & & 9,000 \\
+        Less: Treasury stock & & (50,000) \\
+        \cline{3-3}
+        Total stockholders' equity & & 289,000 \\
+        \cline{3-3}
+        \addlinespace[0.2cm]
+        Total liabilities \& stockholders' equity & \$ & 770,000 \\
+        \cline{3-3} \cline{3-3}
+    \end{tabular}
+\end{minipage}
+
+\vspace{1.5cm}
+\noindent \textit{The accompanying notes are an integral part of this statement.}
+
+\end{document}
+```

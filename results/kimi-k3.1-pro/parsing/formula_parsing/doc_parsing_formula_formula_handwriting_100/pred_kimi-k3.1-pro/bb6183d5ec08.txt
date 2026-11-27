@@ -1,0 +1,21 @@
+\[
+\begin{gathered}
+E\left[\sum_{a}\sum_{z}\frac{I\{PS=S4\}\,I\{Z=z\}\,I\{A_a=z\}\,a(a+z)Y_a}{2}(X)\right]\\
+=\left[\sum_{a}\sum_{z}\frac{I\{PS=S4\}\,I\{A_a=a\}\,a(a+z)Y_a}{2}\right]f(z\mid X)\\
+\lambda_i-\lambda_{i+1}\ge
+\begin{cases}
+w(c_i)+\delta(c_i,c_{i+1}), & \text{if } c_i<2^{n-1},\\
+w(c_i)+\delta(c_i-2^{n-1},c_{i+1}), & \text{if } c_i>2^{n-1},
+\end{cases}\\
+h_{\min}\!\left(x^{2^{s-1}}\right)>h_{\min}\!\left(x^{2^s}\right)>h_{\min}\!\left(x^{2^{s+1}}\right)>\cdots>h_{\min}\!\left(x^{2^m}\right)\\
+\sum_t\kappa(\tilde u_t)\le \sum_t\bigl(\kappa(u_t)-1\bigr)\le \sum_t\kappa(u_t)-d\le n\\
+P_0(\bar k_r)=P\!\left(\beta_{j(r),k(r)}=0,\ \beta_{k(r),j(r)}=0\mid y\right)\\
+\le \min\left\{P\!\left(\beta_{j(r),k(r)}=0\mid y\right),\ P\!\left(\beta_{k(r),j(r)}=0\mid y\right)\right\}\\
+A_0\lesssim\int_0^T\left\|u^{k/4}\right\|_{L_{xy}^4}\left\|D_x^\delta\!\left(u^{k/4}u_x\right)\right\|_{L_{xy}^2}dt'
++\int_0^t\left\|D_x^\delta\!\left(u^{k/4}\right)u^{k/4}u_x\right\|_{L_{xy}^2}dt'\\
+=A_1+A_2\\
+\|Dw\|_{L^2(\Omega)}\ge\left\|\frac{\lambda(\Omega)}{N}|x-x_0|-|Du|\right\|_{L^2(\partial\Omega)}\\
+\ge\left\|\frac{\lambda(\Omega)}{N}|x-x_0|\right\|_{L^2(\partial\Omega)}
+-\left\||Du|-1\right\|_{L^2(\partial\Omega)}
+\end{gathered}
+\]

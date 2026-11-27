@@ -1,0 +1,8 @@
+Looking at the receipt, the company name "PRINT EXPERT SDN BHD" appears as the header text near the top of the document.
+
+The text spans horizontally from approximately x=215 to x=805, and vertically from about y=130 to y=153 in the original image coordinates.
+
+Converting to normalized coordinates (0-1000 range):
+- x1 ≈ 215/720 × 1000 ≈ 299... let me estimate directly from proportions. The text starts around 21% width and ends around 80% width; vertically around 13% to 15.3%.
+
+(215, 130, 805, 153)

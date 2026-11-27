@@ -1,0 +1,113 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+\noindent
+\begin{tabular}{|p{0.48\textwidth}|p{0.48\textwidth}|}
+\hline
+\begin{minipage}[t]{\linewidth}
+\centering
+\textbf{Statistical Analysis and Probability}
+
+\vspace{0.5em}
+\raggedright
+\begin{tabular}{@{}p{0.48\linewidth} p{0.48\linewidth}@{}}
+\textbf{\underline{Mean}} & \textbf{\underline{Standard Deviation}}$^*$ \\
+$\displaystyle \bar{x} = \frac{1}{n}\sum_{i=1}^{n} x_i$ & $\displaystyle S = \sqrt{\frac{\sum(x_i - \bar{x})^2}{n-1}}$ \\[1.5em]
+\textbf{\underline{Standard Error of the Mean}}$^*$ & \textbf{\underline{Chi-Square}} \\
+$\displaystyle SE_{\bar{x}} = \frac{s}{\sqrt{n}}$ & $\displaystyle \chi^2 = \sum \frac{(o - e)^2}{e}$ \\
+\end{tabular}
+
+\vspace{1em}
+\centering
+\textbf{\underline{Chi-Square Table}} \\[0.3em]
+\small
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{\begin{tabular}{@{}c@{}}\textit{p}\\value\end{tabular}} & \multicolumn{8}{c|}{\textbf{Degrees of Freedom}} \\
+\cline{2-9}
+ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+\hline
+0.05 & 3.84 & 5.99 & 7.82 & 9.49 & 11.07 & 12.59 & 14.07 & 15.51 \\
+\hline
+0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09 \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+\raggedright
+\textbf{\underline{Laws of Probability}} \\
+If A and B are mutually exclusive, then:
+\[
+P(\text{A or B}) = P(\text{A}) + P(\text{B})
+\]
+If A and B are independent, then:
+\[
+P(\text{A and B}) = P(\text{A}) \times P(\text{B})
+\]
+
+\vspace{0.5em}
+\textbf{\underline{Hardy-Weinberg Equations}} \\
+\begin{tabular}{@{}l@{\hspace{1.5em}}l@{}}
+$p^2 + 2pq + q^2 = 1$ & $p =$ frequency of the dominant allele \\
+ & \hspace{1.2em} in a population \\[0.5em]
+$p + q = 1$ & $q =$ frequency of the recessive allele \\
+ & \hspace{1.2em} in a population \\
+\end{tabular}
+\vspace{0.5em}
+\end{minipage}
+&
+\begin{minipage}[t]{\linewidth}
+\vspace{0.5em}
+$\bar{x} =$ sample mean \\[1em]
+$n =$ size of the sample \\[1em]
+$s =$ sample standard deviation (i.e., the sample-based estimate of the standard deviation of the population) \\[1em]
+$o =$ observed results \\[1em]
+$e =$ expected results \\[1em]
+Degrees of freedom are equal to the number of distinct possible outcomes minus one.
+\vspace{1em}
+
+\hrule
+\vspace{0.8em}
+
+\centering
+\textbf{Metric Prefixes} \\[0.8em]
+\begin{tabular}{l@{\hspace{3em}}l@{\hspace{3em}}l}
+\textbf{\underline{Factor}} & \textbf{\underline{Prefix}} & \textbf{\underline{Symbol}} \\[0.4em]
+$10^9$ & giga & G \\[0.2em]
+$10^6$ & mega & M \\[0.2em]
+$10^3$ & kilo & k \\[0.2em]
+$10^{-2}$ & centi & c \\[0.2em]
+$10^{-3}$ & milli & m \\[0.2em]
+$10^{-6}$ & micro & $\mu$ \\[0.2em]
+$10^{-9}$ & nano & n \\[0.2em]
+$10^{-12}$ & pico & p \\
+\end{tabular}
+\vspace{0.5em}
+\end{minipage}
+\\
+\hline
+\multicolumn{2}{|p{0.98\textwidth}|}{
+\vspace{0.3em}
+Mode = value that occurs most frequently in a data set \\[0.8em]
+Median = middle value that separates the greater and lesser halves of a data set \\[0.8em]
+Mean = sum of all data points divided by number of data points \\[0.8em]
+Range = value obtained by subtracting the smallest observation (sample minimum) from the greatest (sample maximum)
+\vspace{0.3em}
+} \\
+\hline
+\multicolumn{2}{|p{0.98\textwidth}|}{
+\textit{* For the purposes of the AP Exam, students will not be required to perform calculations using this equation; however, they must understand the underlying concepts and applications.}
+} \\
+\hline
+\end{tabular}
+
+\end{document}
+```

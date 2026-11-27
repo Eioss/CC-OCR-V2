@@ -1,0 +1,11 @@
+\begin{aligned}
+CW &\le -\frac{\psi}{4} (C(n, M_0^n, p) \iota_1 \mathrm{tr} \tau^{kl} - C(n, M_0^n, p) \iota_1 + C(n, M_0^n, p) \\
+&\quad - \frac{\psi}{4} (C(n, M_0^n, p) \mathrm{tr} \tau^{ij} + C(n, M_0^n, p)) - \frac{\lambda \psi}{4} [3(1 - |D\varphi|^2) \dot{\iota}^j \dot{\iota}_j - 2|D\varphi|^2] \\
+&\quad + \frac{c \rho \lambda}{\pi} \dot{\psi} \mathrm{tr} \tau^{ij} - 2\lambda \dot{\psi} - C(M_0^n)(1-\lambda) \dot{\iota} \iota_1 \\
+&\quad - \frac{\psi}{\pi} [2\lambda(1-|D\varphi|^2) \iota^{kl} \varphi_k \varphi_l + C(M_0^n, p)(\mathrm{tr} \tau^{kl} + 1) + C(M_0^n, p) \lambda (\frac{\mathrm{tr} \tau^{kl}}{\iota_1} + 1)] \\
+&\le -\frac{\psi}{4} C(n, M_0^n, p) (\iota_1 (\mathrm{tr} \tau^{kl} - 1) + 1) - \frac{\lambda \psi}{4} [3(1 - |D\varphi|^2) \dot{\iota}^j \dot{\iota}_j - 2|D\varphi|^2] \\
+&\quad + \frac{c \rho \lambda}{\pi} \dot{\psi} \mathrm{tr} \tau^{ij} - 2\lambda \dot{\psi} - C(M_0^n)(1-\lambda) \dot{\iota} \iota_1 - \frac{\psi}{\pi} C(M_0^n, p) \lambda (\frac{\mathrm{tr} \tau^{kl}}{\iota_1} + 1) \\
+&\le -\frac{\psi}{4} C(n, M_0^n, p) (\iota_1 (\mathrm{tr} \tau^{kl} - 1) + 1) - \frac{C(M_0^n) \lambda \dot{\psi}}{\pi} (\iota_1 + 1) + \frac{c \rho \lambda}{\pi} \dot{\psi} \mathrm{tr} \tau^{ij} \\
+&\quad - 2\lambda \dot{\psi} - C(M_0^n) \dot{\psi} (1-\lambda) \iota_1 - \frac{\psi}{\pi} C(M_0^n, p) \lambda (\frac{\mathrm{tr} \tau^{kl}}{\iota_1} + 1) \\
+&\le -\dot{\psi} \mathrm{tr} \tau^{kl} \left( \frac{C(M_0^n, p) \lambda}{\iota_1} + C(n, M_0^n, p) \iota_1 - \frac{c \rho \lambda}{\pi} \right) - C(n, M_0^n, p) \dot{\psi} (\iota_1 + (1 - \frac{1}{2}\lambda)\iota_1).
+\end{aligned}

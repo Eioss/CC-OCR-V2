@@ -1,0 +1,12 @@
+```latex
+\begin{aligned}
+&\frac{d}{dt} p(t) = H_{i, i+1}(p(t), t) \vec{n}_{i, i+1}(p(t), t) + \left( \bar{\tau}_{i, i+1}(p(t), t) \cdot \frac{d}{dt} p(t) \right) \bar{\tau}_{i, i+1}(p(t), t) \\
+&h(\varepsilon) = pk \left( \frac{p}{k} - 1 - \varepsilon \right) = (k+1)\varepsilon^2 - (2p + pk) + p^2 - pk > 0. \\
+&\sum_{l \in [n] \setminus \{i, j\}} \det(A[\{i, j, l\}]) \\
+&\sup_{t \ge 0, E_R^{(\alpha)}(u)(0) \le 1} e^{kt} E_R(t) < \infty \\
+&\widetilde{P} = \{(H, p_D) \xrightarrow{V^+} (H', p)\} \\
+&|T_{p_2}[a]|_{m, s, \eta} \le p_{e, s, \eta} |a|_{m, s+\mu_0, \eta} + |a|_{m, s_0+\mu_0, \eta} |\bar{p}|_{1, s+\mu_0, \eta+1} \\
+&\qquad\qquad\quad \le p_{e, s, \eta} |a|_{m, s+\mu_0, \eta} + \gamma^{-1} \varepsilon^2 |a|_{m, s_0+\mu_0, \eta} |\gamma_\delta + \mu_0| \\
+&G / B^+ = \bigsqcup_{w \in W} B^+ / B^+ = \bigsqcup_{w \in W} B^- \dot{w} B^+ / B^+
+\end{aligned}
+```

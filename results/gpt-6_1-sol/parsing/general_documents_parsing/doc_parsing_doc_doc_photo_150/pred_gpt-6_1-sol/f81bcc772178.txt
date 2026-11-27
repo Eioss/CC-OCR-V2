@@ -1,0 +1,68 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{dashrule}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE\bfseries Quadratic Formula Assignment}
+\end{center}
+
+\noindent
+Recite, from memory, the quadratic formula to one teacher,\\
+one family member, and one additional person of your choice.
+
+\bigskip
+\noindent
+{\large\bfseries In Math:}
+
+\[
+x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}
+\]
+
+\bigskip
+\noindent
+{\large\bfseries In English:}
+
+\bigskip
+\noindent
+{\large\bfseries
+X equals negative b plus or minus the square root of b\\
+squared minus 4ac all over 2a.
+}
+
+\bigskip
+
+\noindent\hdashrule{\textwidth}{0.4pt}{2pt}
+\noindent
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\bigskip
+\noindent
+Signature \underline{\hspace{3.3in}} Date \underline{\hspace{1in}}
+
+\noindent\hdashrule{\textwidth}{0.4pt}{2pt}
+\noindent
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\bigskip
+\noindent
+Signature \underline{\hspace{3.3in}} Date \underline{\hspace{1in}}
+
+\noindent\hdashrule{\textwidth}{0.4pt}{2pt}
+\noindent
+I do hereby testify that \underline{\hspace{2.5in}} recited the\\
+quadratic formula to me from memory with zero mistakes.
+
+\bigskip
+\noindent
+Signature \underline{\hspace{3.3in}} Date \underline{\hspace{1in}}
+
+\noindent\hdashrule{\textwidth}{0.4pt}{2pt}
+
+\end{document}
+```

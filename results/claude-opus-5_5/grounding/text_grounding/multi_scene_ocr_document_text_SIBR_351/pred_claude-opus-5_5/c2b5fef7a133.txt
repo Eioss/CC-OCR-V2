@@ -1,0 +1,5 @@
+There are two instances of "0.00" on this receipt. This box is for the one after "医保余额" (insurance balance):
+
+(437, 603, 485, 634)
+
+The other "0.00", after "结算后余额" (balance after settlement), is at approximately (681, 603, 731, 634).

@@ -1,0 +1,35 @@
+```latex
+\noindent Factor the difference of two squares.
+
+\[
+(16x^{4} - 81)
+\]
+
+\noindent \(\bigcirc\) \((2x + 3)^{2}(2x - 3)^{2}\)
+
+\noindent \(\bigcirc\) \((4x^{2} + 9)(4x^{2} + 9)\)
+
+\noindent \(\bigcirc\) \((4x^{2} + 9)(2x + 3)(2x - 3)\)
+
+\noindent \(\bigcirc\) \((4x^{2} + 9)(4x^{2} - 9)\)
+
+\bigskip
+
+\noindent \textbf{Question 8}
+
+\bigskip
+
+\noindent Factor using the formula for the sum or difference of two cubes.
+
+\[
+27x^{3} + 64
+\]
+
+\noindent \(\bigcirc\) \((3x + 4)(9x^{2} + 12x + 16)\)
+
+\noindent \(\bigcirc\) \((3x + 4)(9x^{2} + 16)\)
+
+\noindent \(\bigcirc\) \((3x + 4)(9x^{2} - 12x + 16)\)
+
+\noindent \(\bigcirc\) \((3x - 4)(9x^{2} + 12x + 16)\)
+```

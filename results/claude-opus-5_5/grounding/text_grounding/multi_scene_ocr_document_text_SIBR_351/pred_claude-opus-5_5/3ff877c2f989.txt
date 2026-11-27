@@ -1,0 +1,5 @@
+The text "380.00" appears three times on the receipt:
+
+1. Payment line (支付宝 entry): (758, 518, 798, 533)
+2. Total consumption: (557, 551, 598, 567)
+3. Total payment: (757, 557, 797, 573)

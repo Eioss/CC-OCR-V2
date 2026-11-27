@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "name": "XXL Crispy Chicken",
+      "quantity": "1",
+      "price": "40,000"
+    },
+    {
+      "name": "- Sedang",
+      "quantity": "1",
+      "price": "0"
+    }
+  ],
+  "sub_total": "40,000",
+  "total": "40,000"
+}
+```

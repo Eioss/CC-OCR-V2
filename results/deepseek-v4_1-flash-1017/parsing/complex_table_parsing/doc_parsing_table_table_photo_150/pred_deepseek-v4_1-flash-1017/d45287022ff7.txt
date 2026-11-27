@@ -1,0 +1,34 @@
+```html
+<table>
+  <tr>
+    <td><b>Type/Tput(MOPS)</b></td>
+    <td><b>Alloc</b></td>
+    <td><b>Free</b></td>
+  </tr>
+  <tr>
+    <td><b>Glibc</b></td>
+    <td>21.0</td>
+    <td>57.0</td>
+  </tr>
+  <tr>
+    <td><b>Pmem</b></td>
+    <td>1.42</td>
+    <td>1.38</td>
+  </tr>
+  <tr>
+    <td><b>RPC allocator</b></td>
+    <td>0.33</td>
+    <td>0.88</td>
+  </tr>
+  <tr>
+    <td><b>Two-tier allocator (slab-size: 128 Bytes)</b></td>
+    <td>1.33</td>
+    <td>2.41</td>
+  </tr>
+  <tr>
+    <td><b>Two-tier allocator (slab-size: 1024 Bytes)</b></td>
+    <td>6.42</td>
+    <td>13.90</td>
+  </tr>
+</table>
+```

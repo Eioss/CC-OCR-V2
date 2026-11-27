@@ -1,0 +1,106 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=2.2cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{makecell}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcommand{\fillblank}[1]{\underline{\hspace*{#1}}}
+
+\begin{document}
+
+截至募集说明书签署日，发行人、发行人子公司及其控股子公司无已发行尚未兑付或逾期
+未兑付的企业（公司）债券、中期票据、短期融资券、资产证券化产品、信托计划、保险
+债权计划、理财产品，不存在代建回购、融资租赁、售后回租等方式融资情况。
+
+\vspace{1em}
+\noindent\textbf{第十二条\quad 筹集资金用途}
+
+\vspace{1em}
+\noindent 一、募集资金总量及用途
+
+\vspace{1em}
+本期债券募集资金总额为人民币\fillblank{1.8cm}万元，其中人民币\fillblank{1.8cm}万元用于补充营运资金，
+占比20\%；剩余80\%的募集资金即人民币\fillblank{1.8cm}万元拟用于\fillblank{4cm}项目建设，具
+体情况如下：
+
+\vspace{1em}
+\noindent 募集资金使用情况表
+
+\vspace{1em}
+\noindent 单位：万元
+
+\begin{center}
+\small
+\renewcommand{\arraystretch}{1.8}
+\begin{tabularx}{\textwidth}{|L{1.8cm}|L{1.8cm}|L{1.8cm}|Y|Y|Y|}
+\hline
+项目名称 &
+\makecell[l]{项目建设\\主体} &
+\makecell[l]{项目总投\\资额} &
+\makecell[l]{拟使用本期债券\\募集资金} &
+\makecell[l]{债券资金占项目总\\投资比例} &
+\makecell[l]{占本期债券募集资\\金的比例} \\
+\hline
+项目 & \makecell[l]{有限责任\\公司} & & & & \\
+\hline
+\makecell[l]{补充营运\\资金} & & & & & \\
+\hline
+合计 & & & & & 100\% \\
+\hline
+\end{tabularx}
+\end{center}
+
+\vspace{1em}
+\noindent 二、募集资金投资项目概况
+
+\vspace{1.5em}
+\noindent 1.\ \fillblank{4cm}项目
+
+\vspace{1.5em}
+\noindent 1. 项目概况
+
+\vspace{1.5em}
+\noindent 2. 项目审批情况
+
+\vspace{1.5em}
+\noindent\fillblank{4cm}项目已经获得相关主管部门的批准，具体批准文件情况如下表所示：
+
+\begin{center}
+\small
+\renewcommand{\arraystretch}{1.8}
+\begin{tabularx}{\textwidth}{|L{0.8cm}|Y|L{1.4cm}|L{3.2cm}|L{2.8cm}|}
+\hline
+序号 & 批准文件 & 批准部门 & 文件编号 & 批准时间 \\
+\hline
+1 &
+\makecell[l]{《关于\hspace{2.5cm}项目节能评估报告表的批\\复》} &
+发改局 &
+发改[\hspace{1.2cm}] 号 &
+年\quad 月\quad 日 \\
+\hline
+2 &
+《建设项目选址意见书》 &
+规划局 &
+选字第\hspace{1.2cm}号 &
+年\quad 月\quad 日 \\
+\hline
+3 &
+《建设项目选址意见书》 &
+规划局 &
+选字第\hspace{1.2cm}号 &
+年\quad 月\quad 日 \\
+\hline
+4 &
+《关于\hspace{1.5cm}项目社会稳定风险评估报告的 &
+信访办 &
+/ &
+年\quad 月\quad 日 \\
+\hline
+\end{tabularx}
+\end{center}
+
+\end{document}
+```

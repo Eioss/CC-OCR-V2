@@ -1,0 +1,25 @@
+```json
+[
+  {"bbox_2d": [67, 307, 83, 687], "label": "Company Name"},
+  {"bbox_2d": [146, 637, 155, 703], "label": "Date"},
+  {"bbox_2d": [159, 166, 169, 260], "label": "Attn"},
+  {"bbox_2d": [159, 635, 169, 892], "label": "From"},
+  {"bbox_2d": [174, 166, 184, 266], "label": "Tel No."},
+  {"bbox_2d": [214, 638, 224, 734], "label": "Address"},
+  {"bbox_2d": [216, 162, 226, 336], "label": "Invoice Address"},
+  {"bbox_2d": [242, 166, 250, 338], "label": "Invoice Address"},
+  {"bbox_2d": [284, 638, 294, 725], "label": "Project No"},
+  {"bbox_2d": [305, 639, 315, 725], "label": "Client order No"},
+  {"bbox_2d": [326, 90, 337, 150], "label": "Title"},
+  {"bbox_2d": [342, 613, 353, 648], "label": "CURRENCY"},
+  {"bbox_2d": [377, 91, 388, 313], "label": "Description"},
+  {"bbox_2d": [378, 387, 388, 407], "label": "Qty"},
+  {"bbox_2d": [378, 453, 387, 483], "label": "Unit"},
+  {"bbox_2d": [378, 549, 387, 591], "label": "Unit Price"},
+  {"bbox_2d": [378, 747, 387, 801], "label": "Amount"},
+  {"bbox_2d": [496, 211, 506, 292], "label": "SLEW BEARING"},
+  {"bbox_2d": [514, 286, 524, 350], "label": "The estimated shipping date"},
+  {"bbox_2d": [529, 206, 540, 489], "label": "Payment Terms"},
+  {"bbox_2d": [542, 206, 552, 286], "label": "Delivery Terms"}
+]
+```

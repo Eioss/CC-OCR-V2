@@ -1,0 +1,9 @@
+<table>
+  <tr><td colspan="2">2. Passive sentences</td></tr>
+  <tr><th>Summary</th><th>Location statement</th></tr>
+  <tr><td>An example interface model</td><td>is shown in Fig. 1.</td></tr>
+  <tr><td>The interface model dimensions and<br>number of atoms</td><td>are presented in Table 1.</td></tr>
+  <tr><td>The activity loss for each 1 ml SIR-spheres®<br>sample during chemical digestion</td><td>is tabulated in Table 3.</td></tr>
+  <tr><td>Some of these nodes</td><td>are listed in Table 1.</td></tr>
+  <tr><td>An effectiveness ratio, $\varepsilon = q'' / \phi''$, versus<br>the vapor mass flow rate ratio</td><td>is plotted in Fig. 7.</td></tr>
+</table>

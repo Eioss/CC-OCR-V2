@@ -1,0 +1,10 @@
+```latex
+\begin{align*}
+&\sum_{2\gamma+|\beta|\leq S_{k+1}+2}\|\partial_t^\gamma \nabla_\|^\beta(\partial_y\tilde{u}_{k+1}^{\pm,1},\partial_y\tilde{\theta}_{k+1}^\pm)(t,x_\|,0)\|_{L^2_\|}^2\\
+\leq& C\bigg(\sum_{i=0}^1\sum_{2\gamma+|\beta|\leq S_{k+1}+4}\|\vec{\omega}_{k_i}\partial_t^\gamma\nabla_x^\beta f_i(t)\|_{L^2_\|L^\infty_V}^2+\sum_{2\gamma+|\beta|\leq S_{k+1}+4}\|\partial_{x_i}\partial_t^\gamma\nabla_x^\beta f_i^\pm(t)\|_{L^2_\|L^\infty_V}^2\\
+&+\sum_{2\gamma+|\beta|\leq S_{k+1}+2}\big[\|\partial_t^\gamma\nabla_\|^\beta\tilde{u}_{k+1}^{\pm,3}(t,x_\|,0)\|_{L^2_\|}^2+\|\partial_t^\gamma\nabla_\|^\beta\tilde{G}_{k+1}^\pm\|_{L^2_\|L^2_V}^2\\
+&+\sum_{j=1}^2\|\partial_t^\gamma\nabla_\|^\beta\langle A_{i,j},J_k^{\pm,0}\rangle\langle B_j,J_k^{\pm,0}\rangle\|_{L^2_\|L^\infty_V}^2+\|\partial_t^\gamma\nabla_\|^\beta(\hat{A}_{k+2}^\pm,\hat{B}_{k+2}^\pm,\hat{C}_{k+2}^\pm)(t,x_\|,0)\|_{L^2_\|}^2\\
+&+\|\partial_t^\gamma\nabla_\|^\beta(\hat{A}_{k+3}^\pm,\hat{B}_{k+3}^\pm,\hat{C}_{k+3}^\pm)(t,x_\|,0)\|_{L^2_\|}^2\big]\bigg)\\
+\leq& C\big(D_k+\tilde{D}_k^1+\hat{D}_k^2,\sum_{\gamma+|\beta|\leq S_{k+1}}\|\partial_t^\gamma\nabla_x^\beta(p_{k+1},u_{k+1},\theta_{k+1})(0)\|_{L^2_x}^2\big).
+\end{align*}
+```

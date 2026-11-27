@@ -1,0 +1,121 @@
+```latex
+\begin{center}
+\underline{\textbf{\Large Fourier Transform Pairs}}
+
+\[
+\left(
+n,t,\omega,a,\omega_o,t_o\ \text{are Real numbers}\ ;\
+j=\text{complex number}\ ;\
+n=\text{integer}\ ;\
+\omega=\text{angular frequency}
+\right)
+\]
+
+\renewcommand{\arraystretch}{2.2}
+\begin{tabular}{|c|c|@{\qquad}|c|c|}
+\cline{1-2}\cline{3-4}
+\textbf{\textit{Time Domain}} &
+\textbf{\textit{Fourier Transform}} &
+\textbf{\textit{Time Domain}} &
+\textbf{\textit{Fourier Transform}} \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle f(t)$ &
+$\displaystyle \int_{-\infty}^{+\infty} f(t)e^{-j\omega t}\,dt$ &
+$\displaystyle \frac{1}{2\pi}
+ \int_{-\infty}^{+\infty} F(\omega)e^{j\omega t}\,d\omega$ &
+$\displaystyle F(\omega)$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle a_1f_1(t)+a_2f_2(t)$ &
+$\displaystyle a_1F_1(\omega)+a_2F_2(\omega)$ &
+$\displaystyle \begin{gathered}
+f(a\cdot t)\\
+a\ne 0
+\end{gathered}$ &
+$\displaystyle \frac{1}{|a|}F\left(\frac{\omega}{a}\right)$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle e^{j\omega_o t}f(t)$ &
+$\displaystyle F(\omega-\omega_o)$ &
+$\displaystyle f(t-t_o)$ &
+$\displaystyle e^{-j\omega t_o}F(\omega)$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \begin{gathered}
+\frac{d^n[f(t)]}{dt^n}\\
+(n>0)
+\end{gathered}$ &
+$\displaystyle (j\omega)^nF(\omega)$ &
+$\displaystyle \begin{gathered}
+(-jt)^nf(t)\\
+(n>0)
+\end{gathered}$ &
+$\displaystyle \frac{d^n[F(\omega)]}{d\omega^n}$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \begin{gathered}
+e^{-at}u(t)\\
+a>0
+\end{gathered}$ &
+$\displaystyle \frac{1}{a+j\omega}$ &
+$\displaystyle \begin{gathered}
+e^{at}u(-t)\\
+a>0
+\end{gathered}$ &
+$\displaystyle \frac{1}{a-j\omega}$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \cos(\omega_o t)$ &
+$\displaystyle \pi\left[\delta(\omega-\omega_o)+\delta(\omega+\omega_o)\right]$ &
+$\displaystyle \sin(\omega_o t)$ &
+$\displaystyle \frac{\pi}{j}
+\left[\delta(\omega-\omega_o)-\delta(\omega+\omega_o)\right]$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \delta(t)$ &
+$\displaystyle 1$ &
+$\displaystyle \delta(t-t_o)$ &
+$\displaystyle e^{-j\omega t_o}$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle 1$ &
+$\displaystyle 2\pi\cdot\delta(\omega)$ &
+$\displaystyle e^{j\omega_o t}$ &
+$\displaystyle 2\pi\cdot\delta(\omega-\omega_o)$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle u(t)$ &
+$\displaystyle \pi\cdot\delta(\omega)+\frac{1}{j\omega}$ &
+$\displaystyle u(-t)$ &
+$\displaystyle \pi\cdot\delta(\omega)-\frac{1}{j\omega}$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle u(t)-u(-t)$ &
+$\displaystyle \frac{2}{j\omega}$ &
+$\displaystyle u(t)+u(-t)$ &
+$\displaystyle 2\pi\delta(\omega)$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \begin{gathered}
+t^{(n-1)}\cdot e^{-a\cdot t}\cdot u(t)\\
+a>0\ ;\ n>0
+\end{gathered}$ &
+$\displaystyle \frac{(n-1)!}{(a+j\omega)^n}$ &
+$\displaystyle \begin{gathered}
+t^{(n-1)}\cdot e^{a\cdot t}\cdot u(-t)\\
+a>0\ ;\ n>0
+\end{gathered}$ &
+$\displaystyle \frac{(n-1)!}{(a-j\omega)^n}\cdot(-1)^{n-1}$ \\
+\cline{1-2}\cline{3-4}
+
+$\displaystyle \cos(\omega_o t)\cdot f(t)$ &
+$\displaystyle \frac{1}{2}
+\left[F(\omega-\omega_o)+F(\omega+\omega_o)\right]$ &
+$\displaystyle \sin(\omega_o t)\cdot f(t)$ &
+$\displaystyle \frac{1}{2j}
+\left[F(\omega-\omega_o)-F(\omega+\omega_o)\right]$ \\
+\cline{1-2}\cline{3-4}
+\end{tabular}
+\end{center}
+```

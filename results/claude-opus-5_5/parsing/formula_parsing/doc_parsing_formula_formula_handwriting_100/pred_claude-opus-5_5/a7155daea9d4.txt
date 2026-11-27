@@ -1,0 +1,35 @@
+$$
+\Sigma_p(r)=\{\xi\in\Sigma\cap B_{r/2}(p):\Pi_{p+G_P}(\xi)\in(p+G_P)\cap B_{r/4}(p)\}
+$$
+
+$$
+\phi_0(x)=1\quad(0\le x<1/2)\qquad \phi_0(x+1)=\phi_0(x)
+$$
+
+$$
+\phi_0(x)=-1\quad(1/2\le x<1)\qquad \phi_k(x)=\phi_0(2^k x)
+$$
+
+$$
+q\in\begin{cases}(3/2,\infty) & \text{if } 0\le s\le 1/2\\ (s,\infty) & \text{if } 1/2<s\end{cases}
+$$
+
+$$
+\langle 1_{0_g}^{G},x_0-\phi_i\rangle=\langle 1_{0_g}^{G},x_0\rangle-\langle 1_{0_g}^{G},\phi_i\rangle-1-\delta(i,g)
+$$
+
+$$
+v(x,\vec{P}(j+1))-v(x,\vec{P}(j))=\sum_{k=0}^{r-1}\left(v(x,\vec{Q}^{(k+1)})-v(x,\vec{Q}^{(k)})\right)=v(x,\vec{Q}^{(r)})-v(x,\vec{Q}^{(0)}),
+$$
+
+$$
+a=\frac{1}{2}\left(|l|+1-\frac{c}{4\pi h}\right).
+$$
+
+$$
+\theta_Q\left(\begin{pmatrix}y_\infty & x_\infty\\ & 1\end{pmatrix}\right)=|y_\infty|^{\frac{t}{4}}\sum_{r\in F}\psi\big(Q(r)(x_\infty+iy_\infty)\big)=|y_\infty|^{\frac{t}{4}}\sum_{q\in\mathcal{O}_F}\psi\big(Q(q)(x_\infty+iy_\infty)\big).
+$$
+
+$$
+i\oplus g\equiv(i+g)\bmod 2
+$$

@@ -1,0 +1,58 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\underline{\textbf{Task 2:Complete with the right word from the box (There are 2 extra words)(2.5mks)}}
+
+\begin{center}
+\fbox{\textbf{Onions/market/strawberries/near/ animals/sells /lions}}
+\end{center}
+
+Uncle Fred has got a big farm where he keeps many 1)\dots\dots\dots\dots\dots He also grows fruit and vegetables:potatoes,2)\dots\dots\dots\dots\dots,tomatoes , green peppers and some fruit like oranges,almonds and3)\dots\dots\dots\dots\dots Uncle Fred usually4)\dots\dots\dots\dots\dots his fruit and vegetables on the5)\dots\dots\dots\dots\dots day.Many people like to buy uncle Fred's fruit and vevetables because they are fresh.
+
+\vspace{0.5cm}
+
+\underline{\textbf{Task 3:Match the sentence parts in A with their completions in B(there is an extra part in B) (3mks)}}
+
+\begin{center}
+\begin{tabular}{|p{6cm}|p{6cm}|p{1cm}|}
+\hline
+1-Sami lives with & a-small hall in the middle & 1\dots \\
+2-Their house has two bedrooms,a kitchen & b-beautiful flowers & 2\dots \\
+3-The bedrooms are on & c-is on the left & 3\dots \\
+4-The kitchen is next & d-his family in a big house & 4\dots \\
+5-The living room is quite big and it & e-the right near the bathroom & 5\dots \\
+6-The house has got a & f- a living room and a bathroom & 6\dots \\
+ & g-to the children's bedroom & \\
+\hline
+\end{tabular}
+\end{center}
+
+\underline{\textbf{Task 4:Match the dialogue with its functions (2 mks)}}
+
+\begin{center}
+\begin{tabular}{|p{7cm}|p{4cm}|p{2cm}|}
+\hline
+\textbf{Dialogue} & \textbf{Function} & \textbf{Answers} \\
+-Tourist:Oh! These are nice dates. & \hspace{0.5cm} 1. thanking & 1\dots\dots\dots \\
+-Greengrocer:Yes,sir.Taste them,they are from Tozeur. & \hspace{0.5cm} 2. greeting & 2\dots\dots\dots \\
+-Tourist:\underline{\textbf{Mmm! They are delicious.(1)}} & \hspace{0.5cm} 3. request & 3\dots\dots\dots \\
+\hspace{1cm} \underline{\textbf{Can I have 1 kilo?(2)}} & \hspace{0.5cm} 4. taking leave & 4\dots\dots\dots \\
+-Greengrocer:Yes of course,here you are. & \hspace{0.5cm} 5. appreciation & \\
+-Tourist:\underline{\textbf{Thanks(3)}} good bye. & & \\
+-Greengrocer:\underline{\textbf{Good bye.(4)}} & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\textbf{III/Writing (5 marks)}
+
+\vfill
+\hfill iSLCollective.com
+
+\end{document}
+```

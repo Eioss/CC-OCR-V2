@@ -1,0 +1,248 @@
+# LaTeX Transcription
+
+Below is a transcription of the visible content of the chart. Where the poster is torn, obscured, or cut off at the right edge, I've marked it with comments. Apparent misprints on the original are kept as printed and flagged with `% [sic]` comments.
+
+```latex
+\documentclass[10pt]{article}
+\usepackage{amsmath,amssymb,array,multicol,geometry,gensymb}
+\geometry{margin=1.5cm}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\Huge\bfseries MATHEMATICS RU}% title cut off at right edge
+\end{center}
+
+\begin{multicols}{2}
+
+\begin{center}\textbf{\large Trigonometry}\end{center}
+
+\textbf{1) Trigonometry Ratios :}
+
+% Figure: right triangle ABC, right angle at B.
+% AB = Opp, BC = Adj, AC = Hyp.
+\[
+\sin\theta=\frac{\text{Opp}}{\text{Hyp}}\ ;\quad
+\cos\theta=\frac{\text{Adj}}{\text{Hyp}}
+\]
+\[
+\tan\theta=\frac{\text{Opp}}{\text{Adj}}\ ;\quad
+\cot\theta=\frac{\text{Adj}}{\text{Opp}}
+\]
+\[
+\sec\theta=\frac{\text{Hyp}}{\text{Adj}}\ ;\quad
+\operatorname{cosec}\theta=\frac{\text{Hyp}}{\text{Opp}}
+\]
+
+\textbf{2) Imp - Results :}
+
+\begin{tabular}{ll}
+i) $\sin\theta\cdot\operatorname{cosec}\theta=1$ &
+ii) $\cos\theta\cdot\sec\theta=1$\\[2pt]
+iii) $\tan\theta\cdot\cot\theta=1$ &
+iv) $\tan\theta=\dfrac{\sin\theta}{\cos\theta}$\\[6pt]
+v) $\cot\theta=\dfrac{\cos\theta}{\sin\theta}$ &
+vi) $\sin^2\theta+\cos^2\theta=1$\\[6pt]
+vii) $\sec^2\theta=1+\tan^2\theta$ &
+viii) $\operatorname{cosec}^2\theta=1+\cot^2\theta$\\[2pt]
+ix) $\pi^c=180^\circ$ &
+x) length of arc $s=r\theta$\\[2pt]
+xi) Area of sector $=\dfrac{1}{2}r^2\theta$ &
+\end{tabular}
+
+\textbf{3) Trigonometric Ratios of Standarded Angles :}
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+Ratios & $0^\circ$ & $30^\circ$ & $45^\circ$ & $60^\circ$ &
+$90^\circ$ & $180^\circ$ & $270^\circ$ & $360^\circ$\\
+\hline
+Sin & $0$ & $\frac12$ & $\frac{1}{\sqrt2}$ & $\frac{\sqrt3}{2}$ &
+$1$ & $0$ & $-1$ & $0$\\
+\hline
+Cos & $1$ & $\frac{\sqrt3}{2}$ & $\frac{1}{\sqrt2}$ & $\frac12$ &
+$0$ & $-1$ & $0$ & $1$\\
+\hline
+tan & $0$ & $\frac{1}{\sqrt3}$ & $1$ & $\sqrt3$ &
+$\infty$ & $0$ & $\infty$ & $0$\\
+\hline
+\end{tabular}
+
+\medskip
+\textbf{3) Sign Convention :-}
+
+\begin{tabular}{c|c}
+Sin & All\\
+II & I\\
+\hline
+Tan & Cos\\
+III & IV
+\end{tabular}
+\qquad
+\begin{tabular}{|c|c|c|c|}
+\hline
+Quadrant & Sin & Cos & Tan\\
+\hline
+I   & $+$ & $+$ & $+$\\
+II  & $+$ & $-$ & $-$\\
+III & $-$ & $-$ & $+$\\
+IV  & $-$ & $+$ & $-$\\
+\hline
+\end{tabular}
+
+\smallskip
+$\bullet$ The above information can be conveniently remembered
+with the phrase ``Add Sugar To Coffee''
+
+\medskip
+\textbf{4) Allied - Angles :}
+
+\begin{tabular}{ll}
+1) $\sin(-\theta)=-\sin\theta$ & 2) $\sin(90^\circ-\theta)=\cos\theta$\\
+\phantom{1) }$\cos(-\theta)=-\cos\theta$ % [sic]
+& \phantom{2) }$\cos(90^\circ-\theta)=\sin\theta$\\
+\phantom{1) }$\tan(-\theta)=-\tan\theta$ & \phantom{2) }$\tan(90^\circ-\theta)=\cot\theta$\\
+\phantom{1) }$\cot(-\theta)=-\cot\theta$ & \phantom{2) }$\cot(90^\circ-\theta)=\tan\theta$\\
+\phantom{1) }$\sec(-\theta)=-\sec\theta$ % [sic]
+& \phantom{2) }$\sec(90^\circ-\theta)=\operatorname{cosec}\theta$\\
+\phantom{1) }$\operatorname{cosec}(-\theta)=-\operatorname{cosec}\theta$ &
+\phantom{2) }$\operatorname{cosec}(90^\circ-\theta)=\sec\theta$
+\end{tabular}
+
+\medskip
+\textbf{5) Compound Angles :}% left margin partly torn
+\begin{align*}
+&\sin(A+B)=\sin A\cos B+\cos A\sin B\\
+&\sin(A-B)=\sin A\cos B-\cos A\sin B\\
+&\cos(A+B)=\cos A\cos B-\sin A\sin B\\
+&\cos(A-B)=\cos A\cos B+\sin A\sin B\\
+&\tan(A+B)=\frac{\tan A+\tan B}{1-\tan A\tan B}\\
+\text{vi) }&\tan(A+B)=\frac{\tan A+\tan B}{1+\tan A\tan B}
+% [sic] -- as printed
+\end{align*}
+
+\textbf{6) Multiple Angle and Sub Multiple Angle :}
+
+% Left sub-column (heavily torn; only fragments legible):
+% \sin 2A = 2\sin A\cos A
+% \cos 2A = \cos^2 A - \sin^2 A
+% ... \sin^2 A ...        [illegible]
+% ... \tan A ...          [illegible]
+% \cos^2\left(\frac{A}{2}\right) ...   [illegible]
+
+\begin{align*}
+\text{i) }&\sin A=2\sin\left(\tfrac{A}{2}\right)\cos\left(\tfrac{A}{2}\right)\\
+\text{ii) }&\cos A=\cos^2\left(\tfrac{A}{2}\right)-\sin^2\left(\tfrac{A}{2}\right)\\
+\text{iii) }&\cos A=1-2\sin^2\left(\tfrac{A}{2}\right)\\
+\text{iv) }&\cos A=2\cos^2\left(\tfrac{A}{2}\right)-1\\
+\text{v) }&\cos A=\frac{1-\tan^2\left(\frac{A}{2}\right)}{1+\tan^2\left(\frac{A}{2}\right)}\\
+\text{vi) }&\sin A=\frac{2-\tan\left(\frac{A}{2}\right)}{1+\tan^2\left(\frac{A}{2}\right)}
+% [sic] numerator as printed
+\\
+\text{vii) }&\tan A=\frac{2-\tan\left(\frac{A}{2}\right)}{1-\tan^2\left(\frac{A}{2}\right)}
+% [sic] numerator as printed
+\\
+\text{viii) }&1-\cos A=2\sin^2\left(\tfrac{A}{2}\right)
+\end{align*}
+
+\columnbreak
+
+\textbf{7) Triple Angle Formulae :-}
+
+i) $\sin3\theta=3\sin\theta-4\sin^3\theta$\quad
+ii) $\cos3\theta=4\cos^3\theta-3\cos\theta$
+
+iii) $\tan3\theta=\dfrac{3\tan\theta-\tan^3\theta}{1-3\tan^2\theta}$
+
+iv) $\cos^3\theta=\dfrac{\cos3\theta+3\cos\theta}{4}$\quad
+v) $\sin^3\theta=\dfrac{3\sin\theta-\sin3\theta}{4}$
+
+\medskip
+\textbf{8) Factorization Formulae :-}
+\begin{align*}
+\text{i. }&\sin C+\sin D=2\sin\left(\tfrac{C+D}{2}\right)\cos\left(\tfrac{C-D}{2}\right)\\
+\text{ii. }&\sin C-\sin D=2\sin\left(\tfrac{C+D}{2}\right)\sin\left(\tfrac{C-D}{2}\right)
+% [sic] as printed
+\\
+\text{iii. }&\cos C+\cos D=2\cos\left(\tfrac{C+D}{2}\right)\cos\left(\tfrac{C-D}{2}\right)\\
+\text{iv. }&\cos C-\cos D=2\sin\left(\tfrac{C+D}{2}\right)\sin\left(\tfrac{C-D}{2}\right)\ \text{if } C>D\\
+&\phantom{\cos C-\cos D}=2\sin\left(\tfrac{C+D}{2}\right)\sin\left(\tfrac{D-C}{2}\right)\ \text{if } D>C
+\end{align*}
+
+\textbf{9) Defactorization formulae :-}
+\begin{align*}
+\text{i. }&2\sin A\cos B=\sin(A+B)+\sin(A-B)\\
+\text{ii. }&2\cos A\sin B=\sin(A+B)-\sin(A-B)\\
+\text{iii. }&2\cos A\cos B=\cos(A+B)+\cos(A-B)\\
+\text{iv. }&2\sin A\sin B=\cos(A-B)-\cos(A+B)
+\end{align*}
+
+\begin{center}\textbf{\large Co - Ordinate - Geometry (2D)}\end{center}
+
+\begin{enumerate}
+\item Distance Formula : $\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$
+\item Section Formula :
+$P(x,y)=\left(\dfrac{mx_2+nx_1}{m+n},\ \dfrac{my_2+ny_1}{m+n}\right)$
+\hfill Internally\\
+$Q(x,y)=\left(\dfrac{mx_2-nx_1}{m-n},\ \dfrac{my_2-ny_1}{m-n}\right)$
+\hfill Externally
+\item Mid point Formula : $\left(\dfrac{x_1+x_2}{2},\ \dfrac{y_1+y_2}{2}\right)$
+\item Centroid of triangle :
+$G\left(\dfrac{x_1+x_2+x_3}{3},\ \dfrac{y_1+y_2+y_3}{3}\right)$
+\item Area of triangle
+$\triangle=\dfrac12\left|x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)\right|$
+\item Slope of straight line : $m=\tan\theta$
+\item One point Form : $y-y_1=m(x-x_1)$
+\item Slope Intercept from : $y=mx+C$
+\item Two point Form : $\dfrac{y-y_1}{x-x_1}=\dfrac{y_2-y_1}{x_2-x_1}$
+\item Intercept Form : $\dfrac{x}{a}+\dfrac{y}{b}=1$
+\item Normal Form : $x\cos\alpha+y\sin\alpha=p$
+\item Slope of line $ax+by+c=0$ is $-\dfrac{a}{b}$
+\item Intersection fo two lines : $L_1+\lambda L_2=0$
+\item Angle between two s.t lines :
+$\tan\theta=\left|\dfrac{m_1-m_2}{1+m_1m_2}\right|$
+\item If the lines are parallel : $m_1=m_2$\\
+If the lines are $\perp$ : $m_1m_2=-1$
+\item Length of $\perp$ form : $\left|\dfrac{ax_1+by_1+c}{\sqrt{a^2+b^2}}\right|$
+\item Bisector Equations :
+$\dfrac{a_1x+b_1y+c_1}{\sqrt{a_1^2+b_1^2}}=\pm\dfrac{a_2x+b_2y+c_2}{\sqrt{a_2^2+b_2^2}}$
+\item Distance bet$^{n}$ parallel lines :
+$\left|\dfrac{c_1-c_2}{\sqrt{a^2+b^2}}\right|$
+\item Homogeneous Equation : $ax^2+2hxy+by^2=0$\\
+$\tan\theta=\left|\dfrac{2\sqrt{h^2-ab}}{a+b}\right|$
+\item General Equation : $ax^2+2hxy+by^2+2gx+2fy+c=0$\\
+represents a pair of lines\\
+If $abc+2fgh-af^2-bg^2-ch^2=0$\\
+Point of intersection
+$(x,y)=\left(\dfrac{hf-bg}{ab-h^2},\ \dfrac{hg-af}{ab-h^2}\right)$
+\end{enumerate}
+
+\begin{center}\textbf{\large Co - Ordinate - Geometry (3D)}\end{center}
+
+\begin{enumerate}
+\item Distance Formula :
+$\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}$
+\item Section Formula :
+$\left(\dfrac{mx_2+nx_1}{m+n},\ \dfrac{my_2+ny_1}{m+n},\ \dfrac{mz_2+nz_1}{m+n}\right)$
+\hfill Internally
+\end{enumerate}
+
+\end{multicols}
+
+% Third column at the right edge is cut off in the image;
+% only fragmentary numbering is visible (e.g. "3.", "4.", "1)",
+% "iii)", "vi)", "ix)", "La", "i)", "ii)", "iv)", "III", "Sta",
+% "2.A", "3.T", "4.E", "5.D", "6.I", "7.") and cannot be transcribed.
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- **Torn or obscured areas:** Part of Section 6's left sub-column is torn away, and the right-hand column of the poster is cut off. These parts are marked with comments rather than reconstructed.
+- **Misprints kept as printed:** Several formulas appear to differ from the standard identities. They are reproduced exactly as printed and flagged with `% [sic]`:
+  - Allied angles: the standard forms are cos(−θ) = cos θ and sec(−θ) = sec θ.
+  - Compound angles, item (vi): the standard form is tan(A−B) = (tan A − tan B)/(1 + tan A tan B).
+  - Multiple angles, items (vi) and (vii): the numerators should be 2 tan(A/2).
+  - Factorization, item (ii): the standard form is 2 cos((C+D)/2) sin((C−D)/2).
+- **Uncertain reading:** In 2D formula 14, the numerator of the angle formula is hard to read in the image. I transcribed it as m₁ − m₂.

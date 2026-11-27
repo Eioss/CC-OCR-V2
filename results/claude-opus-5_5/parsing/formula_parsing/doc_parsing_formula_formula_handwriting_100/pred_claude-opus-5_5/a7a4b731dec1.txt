@@ -1,0 +1,9 @@
+\begin{aligned}
+&m(\pi,v)=\frac{1}{|S_{\psi}|}\sum_{\bar{x}\in S_{\psi}}e_{\psi}(\bar{x})\langle x,\bar{x}\rangle v(x)^{-1}\langle\lambda_{\infty},x\rangle.\\
+&v(t_{0},p,e)\geq 1-\exp\left(-c\frac{\delta^{2}}{(T-t_{0})^{2}}\right),\ \bar{e}\geq\Lambda+\ell(T-t_{0})+\delta,\\
+&v(t_{0},p,e)\leq\exp\left(-c\frac{\delta^{2}}{(T-t_{0})^{2}}\right),\ \bar{e}\leq\Lambda-\delta\\
+&S_{2}(\theta)\leq S_{1}(\theta)\leq e^{C\left(e^{2|\theta|}-1\right)}S_{1}(0)\ \text{for every }\theta\\
+&(n-1)^{H-\frac{1}{2}}\frac{\phi_{n}^{H}(x)}{H-\frac{1}{2}}\leq\int_{0}^{x}(v+n-1)^{H-\frac{1}{2}}(v+n-1-x)^{H-\frac{3}{2}}dv\leq n^{H-\frac{1}{2}}\frac{\phi_{n}^{H}(x)}{H-\frac{1}{2}}.\\
+&\mathcal{D}_{k,\ell}^{(L)}(h_{k}^{(L)})=\frac{1}{6}\sigma'''(\mathcal{E}_{k,\ell}^{(L)})M_{k,\ell}^{(L)}(h_{k}^{(L)})^{2}+N_{k,\ell}^{(L)}(h_{k}^{(L)})\\
+&\qquad=\frac{1}{6}\sigma'''(\mathcal{E}_{k,\ell}^{(L)})M_{k,\ell}^{(L)}(h_{k}^{(L)})^{3}+\frac{1}{2}\sigma''(0)(X_{k,\ell}^{(L)}+Y_{k,\ell}^{(L)}+J_{k,\ell}^{(L)}).
+\end{aligned}

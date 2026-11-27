@@ -1,0 +1,44 @@
+Here is the transcription of the handwritten notes from the image, formatted in LaTeX.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \textbf{\Large Beautiful Sentences \& Your Translations:}
+
+\vspace{0.5cm}
+
+\noindent \large
+When they were inside the garden, Colin looked round and round.\\
+He saw the walls and the earth and the trees with their new green\\
+leaves. In the grass under the trees there were flowers --- gold and\\
+purple and white. The trees were covered in pink and white flowers.\\
+The sun was warm on his face.
+
+\vspace{0.5cm}
+
+\noindent 当他们在花园里的时候，Colin 环顾四周，他看到了墙壁、大地和树木都布满了\\
+新绿叶。在树下的草地上，有花——金色的、紫色的、白色的。树上覆盖着粉色的\\
+和白色的花。阳光照在他的脸上。
+
+\vspace{1cm}
+
+\noindent \textbf{\Large Key words or phrases}
+
+\vspace{0.5cm}
+
+\noindent \large
+moor ; locked ; dreary ; peaceful ; weed ; wheelchair ;\\
+trust ; explore ; alive ; experiment ; magic ; grown-up ;\\
+the secret garden ; dig a hole ; in pain ;
+
+\vspace{2cm}
+
+% Note: The bottom section contains a decorative washi tape strip with the word "nature" and small tree/bird illustrations, followed by faint, illegible text.
+
+\end{document}
+```

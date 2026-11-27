@@ -1,0 +1,91 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{array}
+\usepackage[margin=1in]{geometry}
+
+% Handwritten annotations from the original page are rendered in italics
+\newcommand{\hw}[1]{\textit{#1}}
+
+\begin{document}
+
+\noindent\textbf{1.} Write the appropriate formula for each of the following:
+
+\begin{enumerate}
+  \item[i.] Standard error of the estimate of a single value of y at a given value of x.
+
+  \hw{(handwritten, crossed out: $S_e = SSR/SSE$)} \quad
+  \hw{$S_e = \sqrt{\dfrac{SSE}{n-2}}$}
+
+  \item[ii.] Standard error of the estimate of the coefficient of x in the SLR equation.
+
+  \hw{$S_b = \sqrt{\dfrac{\sigma^2}{S_{xx}}}$}
+
+  \item[iii.] Adjusted sum of squares of variable y
+
+  \item[iv.] Total SS (SSTo) of the dependent variable in the (SLR) regression of Y against X.
+
+  \item[v.] Write the linear transformation for the model: $y = ae^{bx}$ where a and b are constants?
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent\textbf{2 i.} In linear regression modeling, what assumptions are usually made about the error term in the model: $Y = \beta_0 + \beta_1 x + e$
+
+\hw{unexplained variation of Y}
+
+\vspace{0.5em}
+
+\noindent\textbf{ii.} Is the prediction or confidence interval of constant width over the range of the regressor variable? \textbf{Explain} your answer briefly.
+
+\hw{Prediction interval because a prediction interval is over a single value while confidence is an average of values}
+
+\vspace{1em}
+
+\noindent\textbf{3. State whether the following are true or false}
+
+\begin{itemize}
+  \item[] If variable Y and X (a regressor variable) are strongly statistically associated then we can predict Y from X reasonably accurately.
+
+  \item[] In all cases, in a SLR model, if variable Y and X are strongly statistically associated then X causes Y.
+
+  \item[] If a test for the X coefficient in the model `$Y = \beta_0 + \beta_1 x$' shows that it is non-significant, then we can use the mean of Y as an estimate for Y at any valid value of X.
+
+  \item[] `Regressor' and `predictor' are synonyms for `independent variable' in a SLR model.
+\end{itemize}
+
+\vspace{1em}
+
+\noindent\textbf{4.} An experiment was conducted to determine the effect of population size in various cities on ozone (air pollution) concentration. The table below shows the results: the 1999 population in millions (Y) and the amount of ozone present in ppb (parts per billion (X).
+
+\vspace{0.5em}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Population (million), Y & 126 & 135 & 124 & 128 & 130 & 128 & 126 & 128 & 128 & 129 \\
+\hline
+Ozone conc (ppb), X     & 0.6 & 4.9 & 0.2 & 0.5 & 1.1 & 0.1 & 1.1 & 2.3 & 0.6 & 2.3 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.5em}
+
+\noindent\textbf{i.} Derive the predictive equation for the simple linear regression model of Y as a function of X, showing your formulas and calculations.
+
+\hw{$\hat{y} = 125.93462 + 1.654X$}
+
+\vfill
+\begin{center}
+\textcircled{2}
+\end{center}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- Handwritten answers on the page are wrapped in `\hw{}` (italics) to keep them separate from the printed question text.
+- The struck-out handwritten attempt in 1(i) is noted as crossed out.
+- The circled page number "2" at the bottom uses `\textcircled{}`.
+- Questions 1(iii), 1(iv), 1(v), and all of Question 3 have no handwritten answers on the page, so none were added.

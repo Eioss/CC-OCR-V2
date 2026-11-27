@@ -1,0 +1,15 @@
+```json
+{
+  "CE-P1": "628kJ",
+  "CE-PS": "150kcal(8%*)",
+  "CE-D": "2092kJ 501kcal",
+  "TF-P1": "7.8g(11%*)",
+  "TF-PS": "1.0g(5%*)",
+  "TF-D": "25.9g 3.4g",
+  "CAR-P1": "17.2g",
+  "CAR-PS": "0.8g(1%*)",
+  "PRO-P1": "2.0g",
+  "PRO-PS": "0.36g(6%*)",
+  "SS": "THIS PACK CONTAINS 6 SERVINGS"
+}
+```

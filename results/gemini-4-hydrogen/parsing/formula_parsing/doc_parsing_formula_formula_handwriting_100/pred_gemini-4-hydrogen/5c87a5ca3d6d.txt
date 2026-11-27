@@ -1,0 +1,10 @@
+\begin{aligned}
+&\underbrace{\int_{D_m} f_2 \Delta f_2 dx}_{I_1} + 4 \int_{D_m} \frac{1}{\rho} f_2 \partial_\rho f_2 dx + \int_{D_m} (5 - \cot^2 \phi) \frac{f_2^2}{\rho^2} dx = \underbrace{\int_{D_m} \frac{f_2}{\rho^4} \partial_\rho (\rho^4 \sin \phi \Omega) dx}_{I_2}. \\
+&|\Delta_{n2}| = \left| \int_{A_n} \left[ \mathbb{E} \phi(\hat{f}_{n,h}^b(x)) - \phi(f_\theta(x)) - (\mathbb{E} \hat{f}_{n,h}^b(x) - f_\theta(x)) \phi'(f_\theta(x)) \right] dx + \right. \\
+&\qquad \left. \int_{A_n} \left[ \phi(f(x)) - \phi(f_\theta(x)) - (f(x) - f_\theta(x)) \phi'(f_\theta(x)) \right] dx \right| \\
+&I_1 \le \epsilon \int_0^t \int_0^\infty \frac{R \theta v_x^2}{v^3} dx ds + C(\epsilon) \int_0^t \int_0^\infty \frac{k r^2 (n-1) \theta_x^2}{v \theta^2} \cdot \frac{\theta}{k r^2 (n-1)} dx \\
+&\quad \le \epsilon \int_0^t \int_0^\infty \frac{R \theta v_x^2}{v^3} dx ds + C(\epsilon) \\
+&\tau_n \int h(x) \partial_t P(t,x) dx \approx \int h(x) (P(t+\tau, x) - P(t,x)) dx, \\
+&\widetilde{\mathcal{PT}} \varphi_\pm \neq e^{i \omega_\pm} \varphi_\pm \quad \text{and} \quad \widetilde{\mathcal{PT}} \tilde{\varphi}_\pm = e^{i \tilde{\omega}_\pm} \tilde{\varphi}_\pm. \\
+&\frac{1}{(1-t_1)^{r_1}} = \sum_{m \in \mathbb{N}} c_m t_1^m
+\end{aligned}

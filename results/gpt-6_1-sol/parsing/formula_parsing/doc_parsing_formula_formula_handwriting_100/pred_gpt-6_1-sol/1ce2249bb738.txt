@@ -1,0 +1,30 @@
+\[
+\begin{aligned}
+\mathbb{E}\!\left[\int_0^1 \left|V(T^{-1}x)_t\right|^2\,dx\,dt\right]
+&=\mathbb{E}\!\left[\int_0^1 |V(x_t)|^2\,dx\,dt\right] \\
+&\leq \mathbb{E}\!\left[\exp\!\left\{\int_0^1 V(x_t)^2\,dx\,dt\right\}\varphi\right]
+-\mathbb{E}\!\left[\frac{1}{\varphi^2}\right]<\infty,
+\\[1ex]
+&=\sum_{i\in N_u}\bigl(2v_i(\pi)+2v_i(\lambda)\bigr)
++\sum_{i\in N_v}2v_i(\lambda),
+\\[1ex]
+\sum_{t=1}^{n}\ell_t^{T}w_t-\sum_{t=1}^{n}\ell_t^{T}u
+&\leq D_R(u,w_1)
++\sum_{t=1}^{n}\sum_{i=1}^{d}
+\frac{\ell_{i,t}^{2}}{2\varphi_i''(w_{i,t})},
+\\[1ex]
+C^h(D)&:=\left\{f\in C(D):\|f\|_{C^h(D)}<\infty\right\},
+\\[1ex]
+\left\|(t+|x|)Lv+(d-1)v\right\|_{L^2}
++\left\|(t-|x|)\underline{L}v+(d-1)v\right\|_{L^2}
+&\lesssim \widetilde{\mathcal E}(t)^{1/2},
+\\[1ex]
+\left|\int_{\substack{|t|\leq 1\\|t|\geq\lambda}}
+L_{u(t)}\,d\varphi_u(t)\right|
+&\leq C\left(
+\int_{\lambda\leq |t|\leq\kappa}\frac{|d\varphi_u(t)|}{nt^2}
++\int_{\kappa\leq |t|\leq\Lambda}\frac{|d\varphi_u(t)|}{nt^2}
++\int_{\kappa\leq |t|\leq\infty}\frac{|d\varphi_u(t)|}{nt^2}
+\right).
+\end{aligned}
+\]

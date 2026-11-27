@@ -1,0 +1,38 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+
+\begin{document}
+
+The steps to derive the quadratic formula are shown below:
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|l|}
+\hline
+Step 1 & $ax^2 + bx + c = 0$ \\ \hline
+Step 2 & $ax^2 + bx = -c$ \\ \hline
+Step 3 & $x^2 + \dfrac{b}{a}x = -\dfrac{c}{a}$ \\ \hline
+Step 4 & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{c}{a} + \dfrac{b^2}{4a^2}$ \\ \hline
+Step 5 & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{4ac}{4a^2} + \dfrac{b^2}{4a^2}$ \\ \hline
+Step 6 & $\left(x + \dfrac{b}{2a}\right)^2 = \dfrac{b^2 - 4ac}{4a^2}$ \\ \hline
+Step 7 & $\left(x + \dfrac{b}{2a}\right) = \pm\sqrt{\dfrac{b^2 - 4ac}{4a^2}} = \pm\dfrac{\sqrt{b^2 - 4ac}}{4a}$ \\ \hline
+Step 8 & $x = -\dfrac{b}{2a} \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$ \\ \hline
+Step 9 & $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\ \hline
+\end{tabular}
+\end{table}
+
+Which of the following is the first incorrect step?
+
+\begin{itemize}
+    \item[$\odot$] Step 4
+    \item[$\bigcirc$] Step 6
+    \item[$\bigcirc$] Step 7
+    \item[$\bigcirc$] Step 8
+\end{itemize}
+
+\end{document}
+```

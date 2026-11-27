@@ -1,0 +1,182 @@
+Here is the HTML representation of the financial statement table from the image.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  th {
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+  td {
+    padding: 2px 5px;
+    vertical-align: top;
+  }
+  .header-row td {
+    font-weight: bold;
+    padding-top: 10px;
+  }
+  .indent {
+    padding-left: 20px;
+  }
+  .amount {
+    text-align: right;
+    width: 100px;
+  }
+  .total-row td {
+    border-top: 1px solid black;
+    font-weight: bold;
+  }
+  .double-underline {
+    border-bottom: 3px double black;
+  }
+  .single-underline {
+    border-bottom: 1px solid black;
+  }
+  .spacer {
+    height: 15px;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Header Section -->
+  <tr>
+    <td colspan="3" style="text-align: center; font-weight: bold;">Patel</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center; font-weight: bold;">Statement of financial position at 31 December 2014</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="amount" style="font-weight: bold;">$</td>
+    <td class="amount" style="font-weight: bold;">$</td>
+  </tr>
+
+  <!-- Assets Section -->
+  <tr class="header-row">
+    <td colspan="3">ASSETS</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="font-weight: bold;">Non-current assets</td>
+  </tr>
+  <tr>
+    <td>Land and buildings</td>
+    <td></td>
+    <td class="amount">60 000</td>
+  </tr>
+  <tr>
+    <td>Fixtures and fittings</td>
+    <td></td>
+    <td class="amount">7 000</td>
+  </tr>
+  <tr>
+    <td>Vehicles</td>
+    <td></td>
+    <td class="amount single-underline">21 000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td class="amount">88 000</td>
+  </tr>
+
+  <tr class="spacer"></tr>
+
+  <!-- Current Assets Section -->
+  <tr>
+    <td colspan="3" style="font-weight: bold;">Current assets</td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td class="amount">1 010</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Trade receivables</td>
+    <td class="amount">1 740</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank balance</td>
+    <td class="amount">1 840</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td class="amount single-underline">480</td>
+    <td class="amount single-underline">5 070</td>
+  </tr>
+  <tr class="total-row">
+    <td>Total assets</td>
+    <td></td>
+    <td class="amount double-underline">93 070</td>
+  </tr>
+
+  <tr class="spacer"></tr>
+
+  <!-- Capital and Liabilities Section -->
+  <tr class="header-row">
+    <td colspan="3">CAPITAL AND LIABILITIES</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="font-weight: bold;">Capital</td>
+  </tr>
+  <tr>
+    <td>Capital introduced</td>
+    <td></td>
+    <td class="amount">70 000</td>
+  </tr>
+  <tr>
+    <td>Add Profit</td>
+    <td></td>
+    <td class="amount single-underline">23 750</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td class="amount">93 750</td>
+  </tr>
+  <tr>
+    <td>Less Drawings</td>
+    <td></td>
+    <td class="amount single-underline">2 170</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td class="amount single-underline">91 580</td>
+  </tr>
+
+  <tr class="spacer"></tr>
+
+  <!-- Current Liabilities Section -->
+  <tr>
+    <td colspan="3" style="font-weight: bold;">Current liabilities</td>
+  </tr>
+  <tr>
+    <td>Trade payables</td>
+    <td></td>
+    <td class="amount">1 490</td>
+  </tr>
+  <tr class="total-row">
+    <td>Total capital and liabilities</td>
+    <td></td>
+    <td class="amount double-underline">93 070</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+```

@@ -1,0 +1,106 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{textcomp}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{flushleft}
+    \textbf{\Large 蝴蝶里 (hudieli) \quad 月销售报表} \hfill \textbf{编号: 621d2683a441e15f9c0727f2}
+\end{flushleft}
+
+\vspace{0.5cm}
+
+\noindent 南京河西天街 | 河西天街-5F-22
+
+\vspace{0.5cm}
+
+\noindent 销售数据 (2022 年 08 月 - 2022 年 08 月)
+
+\vspace{0.2cm}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{销售周期 / 类别} & \multirow{2}{*}{销售金额} & \multirow{2}{*}{月销售笔数} \\
+\cline{1-2}
+2022-08-01 到 2022-08-31 & & & \\
+\hline
+\multicolumn{2}{|c|}{} & \multicolumn{1}{r|}{\textyen 1,041,401.50} & \multicolumn{1}{r|}{5,154} \\
+\hline
+\multicolumn{3}{|c|}{} & 计提金额 \\
+\cline{4-4}
+\multicolumn{3}{|c|}{} & \multicolumn{1}{r|}{\textyen 1,041,401.50} \\
+\hline
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\begin{flushright}
+    \textbf{公司/授权签章} \\
+    \vspace{0.5cm}
+    \includegraphics[width=3cm]{stamp_placeholder.png} % Placeholder for the red stamp
+\end{flushright}
+
+\vspace{0.5cm}
+
+\noindent 附: 销售明细
+
+\vspace{0.2cm}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|c|r|r|c|}
+\hline
+\multicolumn{1}{|c|}{日期} & \multicolumn{1}{c|}{销售金额} & \multicolumn{1}{c|}{日销售笔数} & 上报人 \\
+\hline
+2022 年 08 月 01 日 & \textyen 27,555.53 & 147 & 徐洋 \\
+2022 年 08 月 02 日 & \textyen 21,156.02 & 119 & 徐洋 \\
+2022 年 08 月 03 日 & \textyen 27,131.93 & 149 & 徐洋 \\
+2022 年 08 月 04 日 & \textyen 52,787.87 & 231 & 徐洋 \\
+2022 年 08 月 05 日 & \textyen 37,208.17 & 173 & 徐洋 \\
+2022 年 08 月 06 日 & \textyen 47,855.70 & 223 & 徐洋 \\
+2022 年 08 月 07 日 & \textyen 44,463.96 & 213 & 徐洋 \\
+2022 年 08 月 08 日 & \textyen 20,856.42 & 117 & 徐洋 \\
+2022 年 08 月 09 日 & \textyen 23,901.38 & 134 & 徐洋 \\
+2022 年 08 月 10 日 & \textyen 24,888.90 & 133 & 徐洋 \\
+2022 年 08 月 11 日 & \textyen 32,011.27 & 161 & 徐洋 \\
+2022 年 08 月 12 日 & \textyen 30,475.82 & 156 & 徐洋 \\
+2022 年 08 月 13 日 & \textyen 52,727.27 & 243 & 徐洋 \\
+2022 年 08 月 14 日 & \textyen 41,710.20 & 192 & 徐洋 \\
+2022 年 08 月 15 日 & \textyen 22,200.41 & 121 & 徐洋 \\
+2022 年 08 月 16 日 & \textyen 22,716.71 & 134 & 徐洋 \\
+2022 年 08 月 17 日 & \textyen 18,731.60 & 123 & 徐洋 \\
+2022 年 08 月 18 日 & \textyen 25,510.61 & 136 & 徐洋 \\
+2022 年 08 月 19 日 & \textyen 34,933.94 & 167 & 徐洋 \\
+2022 年 08 月 20 日 & \textyen 52,780.03 & 228 & 徐洋 \\
+2022 年 08 月 21 日 & \textyen 52,653.13 & 242 & 徐洋 \\
+2022 年 08 月 22 日 & \textyen 26,519.72 & 157 & 徐洋 \\
+2022 年 08 月 23 日 & \textyen 21,931.63 & 134 & 徐洋 \\
+2022 年 08 月 24 日 & \textyen 34,727.67 & 155 & 徐洋 \\
+2022 年 08 月 25 日 & \textyen 25,512.45 & 137 & 徐洋 \\
+2022 年 08 月 26 日 & \textyen 39,292.33 & 183 & 徐洋 \\
+2022 年 08 月 27 日 & \textyen 54,662.32 & 240 & 徐洋 \\
+2022 年 08 月 28 日 & \textyen 46,923.92 & 207 & 徐洋 \\
+2022 年 08 月 29 日 & \textyen 20,789.00 & 99 & 徐洋 \\
+2022 年 08 月 30 日 & \textyen 27,087.95 & 136 & 徐洋 \\
+2022 年 08 月 31 日 & \textyen 29,697.64 & 164 & 徐洋 \\
+\hline
+\end{tabular}
+\end{table}
+
+\end{document}
+```

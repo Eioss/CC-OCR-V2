@@ -1,0 +1,7 @@
+I need to identify each labeled field on this Beijing medical outpatient receipt and provide bounding boxes. Let me work through the document systematically, reading values and locating them.
+
+Title at top center: 北京市医疗门诊收费票据. NO. top right: 0351351365. 财 code: 16139-54-02. 业务流水号: 1180550401101011018000. 交易流水号: 55133031556240. 姓名: 梁东. 性别: 女. 医保类型: 城镇职工. 医疗机构类型: 综合医院. 社会保障卡号: 122... 实时结算: ★.
+
+Then the item table with 项目规格, 单价, 数量, 单位, 金额, 等级 columns on left and right. Then summary fields at bottom: 门诊大额支付 0.00, 退休补充支付 0.00, 残军补助支付 0.00, 基金支付 0.00, 本次医保范围内金额 103.28, 累计医保内范围金额 103.28, 年度门诊大额累计支付 0.00, 个人账户支付 0.00, 个人支付金额 0.00, 自付一 103.28, 自付二 0.00, 自费 0.00, 起付金额 103.28, 超封顶金额 0.00. 合计大写: 壹佰零叁元贰角捌分. 收款人 69051. 年 2010 月 5.
+
+Let me produce coordinates carefully matching positions.

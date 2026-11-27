@@ -1,0 +1,95 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{array}
+\usepackage{pgfplots}
+\usetikzlibrary{patterns}
+\pgfplotsset{compat=1.17}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% ---------------- Table ----------------
+\begin{tabular}{|p{4.2cm}|p{4.2cm}|p{4.2cm}|}
+\hline
+110 -- withdrawn socially & 460 -- can't sleep at night & 43 -- become asthmatic \\
+\hline
+20 -- become deaf & 21 -- become blind & 566 -- have frequent headache and stomach ache \\
+\hline
+1,164 -- can't concentrate & 117 -- refuse to go to school & 276 -- are in shock \\
+\hline
+\end{tabular}
+
+\vspace{0.5em}
+
+% ---------------- Paragraph 2 ----------------
+2. The natural calamities have tragically affected the lives of about 15000 children in recent years in India. The tsunami waves and earthquakes created havoc on a large scale. About 5430 children became homeless due to the tsunami and 5438 were the victims of the earthquakes. Floods displaced 2602 and droughts affected 2036 children. Epidemics affected 1313 children.\\
+Out of these figures, 1093 children live constantly in general fear; 110 children have withdrawn socially; 20 children have become deaf and 16 of them can't speak any more. More than 450 children can't sleep at night while 1164 can't concentrate on anything. The tragedy is that 21 of them have become blind, 43 asthmatic and 276 are still in shock. 566 suffer from frequent headache and stomachache. About 850 children fear water and sound and 117 have refused to go to school.
+
+\vspace{0.5em}
+
+% ---------------- Paragraph 3 ----------------
+3. Disaster management programmes have not proved up to the mark and up to the task. The Government and the concerned agencies should provide comprehensive aids and help to the survivors, particularly the children. They must provide nutritious food, clothes, shelters and medical aids to them. The efforts should be made to wipe out the scars left by these disasters.
+
+\vspace{1em}
+
+% ---------------- Chart ----------------
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[
+    title={\textbf{Number of Children Surviving various Disasters}},
+    ybar=0pt,
+    bar width=18pt,
+    ymin=0, ymax=6000,
+    axis lines=none,
+    xtick=\empty, ytick=\empty,
+    enlarge x limits=0.6,
+    nodes near coords,
+    every node near coord/.append style={font=\small},
+    legend style={at={(1.05,0.5)}, anchor=west, draw=none, font=\small},
+    legend cell align=left,
+    width=8cm, height=6cm,
+    xlabel={\textbf{Children haunted with fear, out of the 16,818 surveyed:}},
+]
+\addplot[pattern=horizontal lines] coordinates {(1,5430)};
+\addplot[pattern=crosshatch dots] coordinates {(1,5438)};
+\addplot[fill=black!70] coordinates {(1,2602)};
+\addplot[pattern=north east lines] coordinates {(1,2035)};
+\addplot[fill=white] coordinates {(1,1313)};
+\legend{Tsunami, Earthquake, Floods, Drought, Epidemic}
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\vspace{1em}
+
+% ---------------- Questions ----------------
+\textbf{Based on your understanding of the passage, answer the following questions.}
+
+\vspace{0.5em}
+
+(i) Based on your understanding of the passage, choose the option that lists the statements that are TRUE.
+
+\vspace{0.5em}
+
+1.
+
+\vspace{0.5em}
+
+\fbox{\parbox{0.75\textwidth}{\vspace{0.4em}Some people are hugely benefited by a natural calamity.\vspace{0.6em}}}
+
+\vfill
+
+\hfill \textbf{CL X/ PB-I /ENG/PAGE 3 OF}
+
+\begin{center}
+\textcircled{3}
+\end{center}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The text was kept exactly as printed, including inconsistencies in the source. The passage says "droughts affected 2036 children," but the chart label reads 2035. The caption says "16,818 surveyed," while the passage says "about 15000."
+- The footer is cut off in the image ("PAGE 3 OF"), so it is reproduced as-is.
+- `\textcircled{3}` stands in for the handwritten circled page number. For a larger circle, you can use `\tikz\node[draw,circle]{3};` instead.

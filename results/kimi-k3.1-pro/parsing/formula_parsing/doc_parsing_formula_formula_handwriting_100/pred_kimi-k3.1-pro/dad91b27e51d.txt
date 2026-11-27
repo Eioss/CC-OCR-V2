@@ -1,0 +1,41 @@
+\[
+\lim_{L\to\infty}
+\frac{c_{n;L}^{(\mathrm{II})}\!\left(\frac{L}{2}|z|\right)}
+{\left[\mathfrak{N}_{L}\!\left(\frac{L}{2}|z|\right)\right]^{1/2}}
+\sim e^{-\frac{1}{2}|z|^{2}}\frac{z^{n}}{\sqrt{n!}},
+\qquad z=e^{i\phi}|z|,
+\]
+
+\[
+\begin{aligned}
+AC\left\langle K_{1}^{*}x\otimes K_{2}^{*}y,\,
+K_{1}^{*}x\otimes K_{2}^{*}y\right\rangle_{A\otimes B}
+&\leq \sum_{i\in I,\,j\in J}
+\left\langle \Lambda_{i}x\otimes\Gamma_{j}y,\,
+\Lambda_{i}x\otimes\Gamma_{j}y\right\rangle_{A\otimes B}\\
+&\leq BD\left\langle x\otimes y,\,x\otimes y\right\rangle_{A\otimes B},
+\qquad \forall x\in\mathcal{H},\ \forall y\in\mathcal{K}.
+\end{aligned}
+\]
+
+\[
+\left\{
+\begin{aligned}
+&\frac{w_x^{2}}{2}+\frac{w_y^{2}}{2}+W(x,y)=\ln m+\bar{H},\\
+&-\bigl(\theta(w_x)\bigr)_x-\bigl(\theta(w_y)\bigr)_y=0,
+\end{aligned}
+\right.
+\]
+
+\[
+\sum_{A(w,c')\in D(v,c)}(2p)^{t_w}
+\leq \frac{p d_v\exp(\delta/72)}{2\delta}
+=\frac{\exp(-\delta/72)\,t_v\exp(\delta/72)}{2}
+=\frac{t_v}{2}.
+\]
+
+\[
+\Gamma\!\left(\frac{k+1}{2}\right)
+\leq \sqrt{2\pi}\cdot e^{\frac{1}{12}}\cdot
+\left(\frac{k}{2e}\right)^{k/2}
+\]

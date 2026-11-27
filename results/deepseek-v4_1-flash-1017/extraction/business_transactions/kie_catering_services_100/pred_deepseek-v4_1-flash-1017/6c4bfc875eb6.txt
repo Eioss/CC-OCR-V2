@@ -1,0 +1,33 @@
+```json
+{
+  "menu": [
+    {
+      "name": "cashew nuts chkn",
+      "quantity": "1",
+      "price": "64,500"
+    },
+    {
+      "name": "garlic pepper beef",
+      "quantity": "1",
+      "price": "79,500"
+    },
+    {
+      "name": "red curry beef",
+      "quantity": "1",
+      "price": "69,500"
+    },
+    {
+      "name": "phad thai",
+      "quantity": "1",
+      "price": "64,500"
+    },
+    {
+      "name": "steamed rice",
+      "quantity": "4",
+      "price": "47,600"
+    }
+  ],
+  "sub_total": "325,600",
+  "total": "377,859"
+}
+```

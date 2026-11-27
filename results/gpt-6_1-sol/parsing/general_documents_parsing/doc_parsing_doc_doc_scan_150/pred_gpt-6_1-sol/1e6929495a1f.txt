@@ -1,0 +1,123 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=1.5cm]{geometry}
+\usepackage{array,makecell,graphicx}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{c|r|r|r|r|r}
+\hline
+项\quad 目 & 年初余额 & \makecell{本期\\增加}
+& \makecell{本期\\减少} & 期末余额 & \makecell{持股\\比例}\\
+\hline
+潜江市国资委 & 50,000,000.00 & & & 50,000,000.00 & 1.1552\%\\
+天门市国资委 & 50,000,000.00 & & & 50,000,000.00 & 1.1552\%\\
+\hline
+合\quad 计 & 4,328,339,232.79 & 200,000,000.00
+& 200,000,000.00 & 4,328,339,232.79 & 100.00\%\\
+\hline
+\end{tabular}%
+}
+\end{center}
+
+\bigskip
+\noindent 37、其他权益工具
+
+\medskip
+\noindent （1）分类情况
+
+\begin{center}
+\begin{tabular}{c|r|r}
+\hline
+项\qquad 目 & 期末余额 & 年初余额\\
+\hline
+永续债 & 21,193,120,000.00 & 18,293,690,000.00\\
+\hline
+合\qquad 计 & 21,193,120,000.00 & 18,293,690,000.00\\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent （2）期末发行在外的永续债基本情况
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{
+    >{\raggedright\arraybackslash}p{3.0cm}|
+    >{\centering\arraybackslash}p{1.7cm}|
+    >{\centering\arraybackslash}p{1.5cm}|
+    >{\centering\arraybackslash}p{3.5cm}|
+    >{\raggedleft\arraybackslash}p{3.0cm}|
+    >{\centering\arraybackslash}p{2.2cm}|
+    >{\raggedleft\arraybackslash}p{3.0cm}|
+    >{\raggedleft\arraybackslash}p{3.2cm}
+}
+\hline
+\makecell{其他权益\\工具名称}
+& \makecell{发行\\时间}
+& \makecell{会计\\分类}
+& \makecell{投资\\收益率}
+& \makecell{约定投资/借款\\额（万元）}
+& \makecell{到期日\\或续期\\情况}
+& \makecell{实际收到款项\\（万元）}
+& \makecell{权益工具余额\\（万元）}\\
+\hline
+\makecell[l]{华能贵诚信托\\50亿永续债(注\\1)}
+& 2015年
+& \makecell{权益\\工具}
+& M1=8.8\%
+& 500,000.00
+& \makecell{无固定到\\期日}
+& 500,000.00
+& 240,000.00\\[1.5em]
+
+\makecell[l]{平安财富汇融\\16号单一资金信\\托之永续债权\\益投资计划(注\\4)}
+& 2016年
+& \makecell{权益\\工具}
+& M1=7.5\%
+& 30,000.00
+& \makecell{无固定到\\期日}
+& 30,000.00
+& 30,000.00\\[1.5em]
+
+\makecell[l]{兴业信托-兴发\\53号单一资金信\\托(1期)（注5）}
+& 2016年
+& \makecell{权益\\工具}
+& 基准利率上浮5\%
+& 100,000.00
+& \makecell{60个月(可\\续期)}
+& 100,000.00
+& 100,000.00\\[1.5em]
+
+\makecell[l]{兴业信托-兴发\\53号单一资金信\\托(2期)（注5）}
+& 2016年
+& \makecell{权益\\工具}
+& 基准利率上浮5\%
+& 100,000.00
+& \makecell{60个月(可\\续期)}
+& 100,000.00
+& 100,000.00\\[1.5em]
+
+16 鄂 联 投
+& 2016年
+& 权益
+& M1=3.99\%
+& 100,000.00
+& 60个月
+& 100,000.00
+& 100,000.00\\
+\hline
+\end{tabular}%
+}
+\end{center}
+
+\vfill
+\begin{center}
+本报告书共218页第114页
+\end{center}
+
+\end{document}
+```

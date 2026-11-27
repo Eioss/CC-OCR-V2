@@ -1,0 +1,44 @@
+\[
+A_{2m+2}(\nu,z)\sim(-\zeta)^{1/4}
+\left\{1+\frac12\widetilde{E}_{2m+2,r}(\nu,i\infty)\right\}.
+\]
+
+\[
+\mathbb{P}^{G}\left(R_k^i=\ell_k^i,\ i=1,\ldots,\bar n\right)
+\leq \bar n\,\Upsilon\left(w,\bar n,
+(\ell_0^i)_{i=1,\ldots,\bar n},
+(\ell_k^i)_{i=1,\ldots,\bar n}\right).
+\]
+
+\[
+d=O\left(\log n+\log(1/\epsilon)\right).
+\]
+
+\[
+L_f=\sup_{x\neq y}\Omega_f(x,y)
+\frac{|f(x)-f(y)|}{|x-y|}.
+\]
+
+\[
+\begin{aligned}
+I^+\frac12(V^++V^-)&=\frac12(V^+-V^-)I^+,\\
+I^-\frac12(V^++V^-)&=\frac12(-V^+-V^-)I^-.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+-u_1\cdot n_1+\alpha p_{1,\gamma}
++s_\gamma\partial_t p_{1,\gamma}
++\operatorname{div}_{\tau}u_{\gamma,1}
+&=-u_2\cdot n_1+\alpha p_{2,\gamma},
+&&\text{on }\gamma\times(0,T),\\
+u_{\gamma,1}&=-k_\gamma\delta\nabla_\tau p_{1,\gamma}.
+\end{aligned}
+\]
+
+\[
+|z_0\rangle\otimes|\xi(z_0)\rangle
+\xrightarrow{T}
+|z_0\rangle\otimes|\phi(z_0)\rangle.
+\]

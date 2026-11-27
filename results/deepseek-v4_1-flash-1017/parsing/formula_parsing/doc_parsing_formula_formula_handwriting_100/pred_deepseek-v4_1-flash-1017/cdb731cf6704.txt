@@ -1,0 +1,15 @@
+```latex
+T : W^{k, \psi}(\Omega, \mathbb{C}l_n) \to \widetilde{W}^{k-1, \psi}(\partial\Omega, \mathbb{C}l_n)
+
+I \le \sum_{j=0}^{\infty} 2^{-jn\frac{\xi}{1+\xi}} \{ \sum_{\{m: h_{j,m} \le 1\}} \int_{Q_{j,m}} h_{j,m}^{p_0(x)} dx \}^{\frac{1}{1+\xi}}
+\le \sum_{j=0}^{\infty} 2^{-jn\frac{\xi}{1+\xi}} \{ \int_{\mathbb{R}^n} h(x)^{p_0(x)} dx \}^{\frac{1}{1+\xi}} \le c.
+
+\int_s^t E'(\tau) \int_{|\xi|>G(\tau)} (1-\tilde{\varphi}(\xi)) \hat{w}(\xi, \tau)^2 d\xi d\tau - 2 \int_s^t E(\tau) \int_{|\xi|>G(\tau)} |\xi| (1-\tilde{\varphi}(\xi)) \hat{w}(\xi, \tau)^2 d\xi d\tau
+\le \int_s^t [E'(\tau) - 2E(\tau)G^2(\tau)] \int_{|\xi|>G(\tau)} (1-\tilde{\varphi}(\xi)) \hat{w}(\tau)^2 d\xi d\tau = 0.
+
+F_{\{x_j\}}^{DG}[p, S] = x_1 \Delta S + x_2 \vec{\nabla} S \cdot (\frac{\vec{\nabla} \rho}{\rho}) + x_3 \frac{\Delta \rho}{\rho} + x_4 (\frac{\vec{\nabla} \rho}{\rho})^2 + x_5 (\vec{\nabla} S)^2.
+
+\frac{1}{|C|} \sum_{\{i,j\} \in C} x_{i,j} \ge \frac{n^3 - 3n^2 - n + 12 - (n-4)^2}{n^2 - 3n + 4} = n - 1.
+
+C_{p,f}(e^{a_1}, e^{a_2}) = e^{\max\{a_1, a_2\}} \begin{cases} e^{-1 - (\frac{p-1}{2}) - (\frac{p-1}{2})^2} & \text{if } 2 \mid a_1 + a_2, \\ -1 - (\frac{p-1}{2})^2 & \text{if } 2 \nmid a_1 + a_2. \end{cases}
+```

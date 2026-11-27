@@ -1,0 +1,3 @@
+The text "59.20" appears twice on this receipt: once small at the top after "总金额", and once larger on the right of the amount line "伍拾玖元贰角". This box is for the larger one:
+
+(712, 463, 789, 500)

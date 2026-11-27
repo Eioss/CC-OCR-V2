@@ -1,0 +1,31 @@
+\[
+p_t=-\frac{1}{4\pi}\left(\frac{\phi_{,t}\phi_{,0}}{\phi_{,0}}+\beta\dot{x}^{i}(0)\right)-\frac{1}{4\pi}\left(\frac{\dot{\phi}_{,t}-\dot{\phi}_{,0}\dot{x}^{i}(0)}{\phi_{,0}}+\frac{\dot{\phi}_{,t}+\dot{\phi}_{,0}\dot{x}^{i}(0)}{\phi_{,0}}\right)
+\]
+
+\[
+a_t=\frac{1}{2}\mu^2\int\frac{d^3k}{2k^0}\gamma^2=\frac{1}{2}\gamma^2\gamma^2
+\]
+
+\[
+d_{\mu\beta}=\alpha\cdot\beta-\delta+\delta>A
+\]
+
+\[
+\rho(t)=\sum_{n=0}^{\infty}\rho_{nn}(t)|n\rangle\langle n|+\theta(t)\rho_c(t)+\theta(-t)\rho_c(t)
+\]
+
+\[
+|t\rangle=|1\rangle\otimes|1\rangle
+\]
+
+\[
+\phi(5|1+W_0|1-5|1)=\left[1+2\lambda\sigma_1+4W^3\lambda^3\sigma_1\right]
+\]
+
+\[
+(\Delta x^4)^2(\Delta x^1)^2(\Delta x^2)^2(\Delta x^3)^2=(\Delta x^1)^2(\Delta x^2)^2(\Delta x^3)^2(\Delta x^4)^2\frac{\Delta x^4}{x^4}
+\]
+
+\[
+R_f(x)\simeq_{x\to\infty}c^2(1+b_f)N_{(1)}N_{(1)}\exp(-\gamma z)
+\]

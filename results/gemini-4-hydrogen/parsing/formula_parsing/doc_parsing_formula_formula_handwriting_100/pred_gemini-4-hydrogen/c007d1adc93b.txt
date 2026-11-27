@@ -1,0 +1,14 @@
+```latex
+\begin{align*}
+\operatorname{Tr}[(A_m \otimes A_n) R_{AB}] &= \operatorname{Tr}\{(A_m \otimes A_n)[(\rho_A \otimes \tfrac{1}{2}) E_{AB} + E_{AB} (\rho_A \otimes \tfrac{1}{2})]\} \\
+&= \frac{1}{2} \left[ \operatorname{Tr}((A_m \rho \otimes A_n) E_{AB}) + \operatorname{Tr}((A_m \otimes A_n) E_{AB} (\rho \otimes I)) \right] \\
+&= \frac{1}{2} \left[ \sum_{ij} \operatorname{Tr}(A_m \rho |i\rangle\langle j|) \operatorname{Tr}(A_n \mathcal{E}_{A|B}(|j\rangle\langle i|)) + \sum_{ij} \operatorname{Tr}(A_m |i\rangle\langle j| \rho) \operatorname{Tr}(A_n \mathcal{E}_{A|B}(|j\rangle\langle i|)) \right] \\
+&= \frac{1}{2} \left[ \sum_{ij} \langle j | (A_m \rho + \rho A_m) | i \rangle \operatorname{Tr}(A_n \mathcal{E}_{A|B}(|j\rangle\langle i|)) \right] \\
+&= \frac{1}{2} \left[ \sum_{ij} \langle j | (A_m \rho + \rho A_m) | i \rangle \operatorname{Tr}\left(A_n \sum_k V_k |j\rangle\langle i| V_k^\dagger\right) \right] \\
+&= \frac{1}{2} \left[ \sum_{ij} \langle j | (A_m \rho + \rho A_m) | i \rangle \langle i | \sum_k V_k^\dagger A_n V_k | j \rangle \right] \\
+&= \frac{1}{2} \left[ \sum_j \langle j | (A_m \rho + \rho A_m) \sum_k V_k^\dagger A_n V_k | j \rangle \right] \\
+&= \frac{1}{2} \operatorname{Tr}\left[ \sum_j |j\rangle\langle j| (A_m \rho + \rho A_m) \sum_k V_k^\dagger A_n V_k \right] \\
+&= \frac{1}{2} \operatorname{Tr}\left[ (A_m \rho + \rho A_m) \mathcal{E}_{A|B}^\dagger (A_n) \right] \\
+&= \langle A_m A_n \rangle_{\text{seq}}
+\end{align*}
+```

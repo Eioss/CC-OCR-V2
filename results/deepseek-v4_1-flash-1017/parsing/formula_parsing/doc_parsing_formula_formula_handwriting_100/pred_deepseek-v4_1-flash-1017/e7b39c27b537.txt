@@ -1,0 +1,11 @@
+```latex
+\begin{aligned}
+\{ \theta_{\alpha, \beta}, g \}_{\alpha\beta} &= \{ q_\alpha \cdot f_{\beta+1}, g \}_{\alpha\beta} - \{ q_\alpha^- \cdot f_{\beta+1}, g \}_{\alpha\beta} \\
+&= q_\alpha \{ f_{\beta+1}, g \}_{\alpha\beta} + f_{\beta+1} \{ q_\alpha, g \}_{\alpha\beta} \\
+&\quad - q_\alpha^- \{ f_{\beta+1}, g \}_{\alpha\beta} - f_{\beta+1} \{ q_\alpha^-, g \}_{\alpha\beta} \\
+&= q_\alpha \{ f_{\beta+1}, g \}_{sld} - q_\alpha^- \{ f_{\beta+1}, g \}^- + f_{\beta+1} \{ q_\alpha, g \}_{sld} \\
+&\quad - q_\alpha^- \{ f_{\beta+1}, g \}_{sld} - f_{\beta+1} \{ q_\alpha^-, g \}_{sld} \\
+&= (w_{f_{\beta+1}, g} + w_{q_\alpha, g}) q_\alpha \cdot f_{\beta+1} \cdot g \\
+&\quad - (w_{q_\alpha, g} + w_{f_{\beta+1}, g} - 3w_{\alpha\beta}(g)) q_\alpha^- \cdot f_{\beta+1} \cdot g.
+\end{aligned}
+```

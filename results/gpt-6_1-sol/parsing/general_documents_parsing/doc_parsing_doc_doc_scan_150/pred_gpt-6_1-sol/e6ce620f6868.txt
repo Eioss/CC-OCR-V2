@@ -1,0 +1,190 @@
+```latex
+\documentclass[UTF8,a4paper]{ctexart}
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{amsmath,array,tabularx}
+\usepackage[table]{xcolor}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+
+\definecolor{headinggreen}{RGB}{0,91,88}
+\definecolor{tableblue}{RGB}{204,225,228}
+
+\newcommand{\keyicon}{%
+  \tikz[baseline=-0.5ex,scale=0.13]{
+    \draw[line width=0.6pt] (0,0)--(2.8,0)
+      --(3.2,-0.4)--(3.6,0)--(4,-0.4)--(4.4,0);
+    \draw[line width=0.6pt] (5.2,0) circle (0.8);
+    \draw[line width=0.6pt] (5.2,0) circle (0.25);
+  }%
+}
+\newcommand{\clockicon}{%
+  \tikz[baseline=-0.5ex,scale=0.13]{
+    \draw[line width=0.6pt] (0,0) circle (1.1);
+    \draw[line width=0.6pt] (0,0.8)--(0,0)--(0.65,0);
+  }%
+}
+\newcommand{\bellicon}{%
+  \tikz[baseline=-0.5ex,scale=0.13]{
+    \draw[line width=0.6pt] (-1,-0.5)--(-0.7,0.2)
+      .. controls (-0.7,1.3) and (0.7,1.3) .. (0.7,0.2)
+      --(1,-0.5)--cycle;
+    \draw[line width=0.6pt] (-0.25,-0.7)
+      .. controls (0,-1) .. (0.25,-0.7);
+  }%
+}
+\newcommand{\lockicon}{%
+  \tikz[baseline=-0.5ex,scale=0.15]{
+    \draw[line width=0.7pt] (-0.6,0.3)--(-0.6,1)
+      arc[start angle=180,end angle=0,radius=0.6]--(0.6,0.3);
+    \draw[line width=0.7pt] (-0.9,-1) rectangle (0.9,0.3);
+    \fill (0,-0.1) circle (0.15);
+    \draw[line width=0.7pt] (0,-0.1)--(0,-0.6);
+  }%
+}
+\newcommand{\gridicon}{%
+  \tikz[baseline=-0.5ex,scale=0.13]{
+    \foreach \x in {0,1,2}
+      \foreach \y in {0,1,2}
+        \draw[line width=0.5pt] (\x,\y) rectangle ++(0.65,0.65);
+  }%
+}
+\newcommand{\sectiontitle}[1]{%
+  \par\medskip{\Large\bfseries\color{headinggreen}#1}\par\medskip
+}
+\newcommand{\subheading}[1]{%
+  \par\medskip{\bfseries\color{headinggreen}#1}\par\smallskip
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{儿童锁\qquad\textbf{zh}}
+\fancyfoot[R]{17}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.47\textwidth}
+\sectiontitle{\lockicon\ 儿童锁}
+
+您的电器均配备儿童锁，使儿童无法意外开启电器或更改任何设置。
+
+\subheading{提示}
+\begin{itemize}[leftmargin=1.5em,itemsep=0pt,topsep=0pt,
+  label=\textcolor{headinggreen}{\(\blacksquare\)}]
+\item 您可以在基本设置中设定是否通过该选项设置儿童锁。\\
+      \(\longrightarrow\) \textit{第 17 页的“基本设置”}
+\item 如果连接了电磁灶，电磁灶不会受烤箱上的儿童锁的影响。
+\item 切断电源后，儿童锁便告失效。
+\end{itemize}
+
+\subheading{启用和停用}
+如要激活儿童锁，必须将功能选择钮转到“关”位置。
+
+按下并按住 \keyicon\ 按键约 4 秒。
+
+代表该功能的符号将出现在显示屏上。儿童锁现已启用。
+
+{\bfseries\color{headinggreen}提示：}%
+如果已经设置定时器持续时间 \bellicon，该时间将继续倒计时。
+启用儿童锁后，无法再更改定时器持续时间。
+
+如要取消激活儿童锁，再次按下并按住 \keyicon\ 按键 4 秒，
+直到符号在显示屏上熄灭。
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\sectiontitle{\gridicon\ 基本设置}
+
+为了帮助您有效、简单地使用电器，我们为您提供了各种设置。
+您可以根据需要更改这些设置。
+
+\subheading{基本设置列表}
+根据电器的功能，并非所有基本设置都可供访问。
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.25}
+\arrayrulecolor{white}
+\begin{tabularx}{\linewidth}{
+  >{\raggedright\arraybackslash}p{0.07\linewidth}
+  >{\raggedright\arraybackslash}p{0.39\linewidth}
+  >{\raggedright\arraybackslash}X}
+\rowcolor{headinggreen}
+\multicolumn{2}{l}{\color{white}\bfseries 基本设置}
+& \color{white}\bfseries 选项\\
+\rowcolor{tableblue}
+\texttt{c1} & 显示时间
+& \(0=\) 隐藏时间\newline
+  \(1=\) 显示时间 *\\ \hline
+\rowcolor{tableblue}
+\texttt{c2} & 烹饪时间或定时器时间到时后的信号音持续时间
+& \(1=\) 约 10 秒钟\newline
+  \(2=\) 约 30 秒钟 *\newline
+  \(3=\) 约 2 分钟\\ \hline
+\rowcolor{tableblue}
+\texttt{c3} & 触碰按键时的按键音
+& \(0=\) 关\newline
+  \(1=\) 开 *\\ \hline
+\rowcolor{tableblue}
+\texttt{c4} & 冷却风扇持续运行时间
+& \(1=\) 短\newline
+  \(2=\) 中\newline
+  \(3=\) 长 *\newline
+  \(4=\) 超长\\ \hline
+\rowcolor{tableblue}
+\texttt{c5} & 应用某个设置之前需要等待的时间
+& \(1=\) 约 3 秒钟 *\newline
+  \(2=\) 约 6 秒钟\newline
+  \(3=\) 约 10 秒钟\\ \hline
+\rowcolor{tableblue}
+\texttt{c6} & 激活儿童锁
+& \(0=\) 否\newline
+  \(1=\) 是 *\\ \hline
+\rowcolor{tableblue}
+\texttt{c7} & 水硬度 **
+& \(0=\) 软化\newline
+  \(1=\) 软（最高 \(1.3\ \mathrm{mmol/l}\)）\newline
+  \(2=\) 中（\(1.3 - 2.5\ \mathrm{mmol/l}\)）\newline
+  \(3=\) 硬（\(2.5 - 3.8\ \mathrm{mmol/l}\)）\newline
+  \(4=\) 非常硬 *（高于 \(3.8\ \mathrm{mmol/l}\)）\\
+\rowcolor{headinggreen}
+\multicolumn{3}{>{\raggedright\arraybackslash}p{\dimexpr\linewidth-2\tabcolsep\relax}}{
+  \color{white}* \quad 出厂设置（出厂设置可能根据电器型号的不同而不同）}\\
+\rowcolor{headinggreen}
+\multicolumn{3}{>{\raggedright\arraybackslash}p{\dimexpr\linewidth-2\tabcolsep\relax}}{
+  \color{white}** \quad 并非所有电器型号可用。}
+\end{tabularx}
+\endgroup
+
+\subheading{更改基本设置}
+必须将功能选择钮转到“关”位置。
+
+\begin{enumerate}[
+  leftmargin=1.5em,
+  itemsep=0pt,
+  topsep=0pt,
+  label=\textcolor{headinggreen}{\textbf{\arabic*.}}
+]
+\item 按下并按住 \clockicon\ 按键大约 4 秒钟。\\
+      第一个基本设置将显示在显示屏中，如 \texttt{c11}。
+\item 用 \(\boldsymbol{-}\) 或 \(\boldsymbol{+}\) 按键更改基本设置。
+\item 按下 \clockicon\ 按键确认。\\
+      第二个基本设置将显示在显示屏中。
+\item 使用 \clockicon\ 按键继续按照说明完成所有基本设置，
+      必要时使用 \(\boldsymbol{-}\) 或 \(\boldsymbol{+}\) 按键更改设置。
+\item 结束后，再次按下并按住 \clockicon\ 按键约 4 秒，确认设置。
+\end{enumerate}
+所有基本设置现已生效。
+
+您可以随时再次更改基本设置。
+
+{\bfseries\color{headinggreen}提示：}断电后，将恢复基本出厂设置。
+\end{minipage}
+
+\end{document}
+```

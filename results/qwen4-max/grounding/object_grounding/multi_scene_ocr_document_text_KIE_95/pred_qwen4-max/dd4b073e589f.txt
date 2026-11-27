@@ -1,0 +1,7 @@
+<tool_call>
+<function=crop>
+<parameter=pattern>
+Date
+</parameter>
+</function>
+</tool_call>

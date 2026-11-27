@@ -1,0 +1,12 @@
+$$
+\begin{gathered}
+\frac{\partial v}{\partial t}-\nu\tilde{\Delta}v+(v\cdot\tilde{\nabla})v=-\tilde{\nabla}p+f\\
+\bar{D}_X\bar{S}-\bar{\rho}\bar{X}=\left(x\dot{h}-\frac{\dot{f}}{f}g(X,S)-x\rho\right)\partial_t+\frac{x\dot{f}}{f}S+\frac{h\dot{f}}{f}X+D_XS-\rho X\\
+\langle vx,w\rangle=\langle c,w\delta(x)\rangle\\
+(\tilde{\pi}_*^{bG}E)(\Sigma^\infty G/H_+):=\pi_*(E\wedge G/H_+)_{hG}\cong\pi_*E_{\tilde{h}H}\\
+\int_Y r^0A^0_0\cdot\nabla\varphi=0\quad\forall\varphi\in C^\infty(T^n)\\
+\langle\beta(\varepsilon)-\beta(\bar{\varepsilon}),\varepsilon-\bar{\varepsilon}\rangle>0,\ \text{for every }\varepsilon,\bar{\varepsilon}\in X\text{ with }\varepsilon\neq\bar{\varepsilon}.\\
+\int_\Omega\left(|p^{(n)}|^2+|\nabla_x u^{(n)}|^2\right)(x,\tau)\,dx+\int_0^\tau\!\!\int_\Omega\left(|\nabla p^{(n)}|^2+\eta|\Delta v^{(n)}|^2+|\nabla_x u_t^{(n)}|^2\right)(x,t)\,dx\,dt\\
++\int_0^\tau\!\!\int_{\partial\Omega}\alpha(x)|p^{(n)}|^2(x,t)\,ds(x)\,dt\leq C_K\left(1+\int_0^\tau\!\!\int_\Omega\left(|p^{(n)}|^2+|\operatorname{div}u^{(n)}|^2\right)(x,t)\,dx\,dt\right).
+\end{gathered}
+$$

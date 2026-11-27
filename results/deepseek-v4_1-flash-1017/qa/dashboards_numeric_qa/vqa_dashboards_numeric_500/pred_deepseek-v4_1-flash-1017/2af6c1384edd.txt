@@ -1,0 +1,11 @@
+Based on the infographic, the total number of characters is **258**.
+
+To find the number of characters other than Lesbian, we subtract the number of Lesbian characters from the total:
+*   **Total Characters:** 258
+*   **Lesbian Characters:** 139
+
+**258 - 139 = 119**
+
+There are **119** Queer female characters other than Lesbian. This consists of:
+*   **Bisexual:** 109
+*   **Undetermined:** 10

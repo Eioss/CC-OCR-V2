@@ -1,0 +1,1 @@
+{"menu": [{"nm": "BUBUR GO", "unitprice": "20.000", "cnt": "2", "price": "40.000"}, {"nm": "PUYUH GO", "price": "6.000"}, {"nm": "SATE ATI", "unitprice": "3.000", "cnt": "3", "sub": {"nm": "GO", "price": "9.000", "cnt": "6.00x"}}], "total": "55.000"}

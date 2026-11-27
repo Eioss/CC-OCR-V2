@@ -1,0 +1,112 @@
+Certainly! Below is a faithful LaTeX transcription of the provided image content, preserving all text, structure, and formatting as closely as possible within standard LaTeX conventions. Since this is a simulation with fabricated data (as noted), no real linguistic or historical claims are being made — this is purely a typographic reproduction exercise.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{caption}
+
+\title{Affiliation of the Algonquin Languages}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{VOCABULARY III.}
+\subsection*{Comparison of Pronouns.}
+
+\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{6cm} >{\raggedright\arraybackslash}p{6cm}}
+ & \textsc{Algonquin.} & \textsc{Malay-Polynesian.} \\
+I & neya, \textit{Cree} & naak, \textit{Pelew} \\
+Thou & keya, `` & kow, \textit{Pelew}; kowe, \textit{Ponape} \\
+ & ki, \textit{Delaware}; kee, \textit{Shawno} & koe, \textit{New Zealand}; coy, \textit{Tonga} \\
+He & ki, \textit{Ojibbeway} & koai, \textit{Malay} \\
+ & noh, \textit{Natick}; neha, \textit{Delaware} & na, `` \\
+ & weya, \textit{Cree} & iya, \textit{Tagala}, \textit{Malay} \\
+We & oo, \textit{Shawno} & aia, \textit{Tonga} \\
+ & keyanow, \textit{Cree} & cami, \textit{Tagala}; kami, \textit{Malay} \\
+ & kenawun, \textit{Natick} & gimowooa, \textit{Tonga} \\
+ & mow, \textit{Micmac} & mow, \textit{Tonga} \\
+you & kistahnon, \textit{Blackfoot} & kita, \textit{Ponape}; keeta, \textit{Malay} \\
+ & neyunow, \textit{Cree} & naie, \textit{Malagasy} \\
+ & keyuwow, \textit{Cree} & koe-ee-oo, \textit{Malay} \\
+they & kenauu, \textit{Natick} & kamo, \textit{Tagala}; kamu, \textit{Malay} \\
+ & kinawa, \textit{Ojibbeway} & gimooa, \textit{Tonga} \\
+ & nahoh, \textit{Natick} & now, `` \\
+ & winawa, \textit{Ojibbeway} & ginowooa, \textit{Tonga} \\
+\end{tabular}
+
+\subsection*{Prepositions and Adverbs.}
+
+\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{6cm} >{\raggedright\arraybackslash}p{6cm}}
+before & amooy$\alpha$, \textit{Cree} & mua, \textit{Tahiti}; gi-mooa, \textit{Tonga} \\
+below & utamik, \textit{Cree} & dee-mooea, \textit{Malay} \\
+behind & chupuses, \textit{Cree}; tabassish, \textit{Ojibbeway} & atas, `` \\
+near & ootak, `` & da-baoua, `` \\
+at & tcik, \textit{Algonquin}; cheke, \textit{Cree} & tooa, \textit{Tonga} \\
+against, about \} concerning. \} & kekek, \textit{Cree} & dekat, \textit{Malay} \\
+ & ooche, \textit{Cree} & ka, `` \\
+ & & gi, \textit{Tonga} \\
+\end{tabular}
+
+\bigskip
+
+\section*{VOCABULARY OF MISCELLANEOUS TERMS.}
+\subsection*{Algonquin and Malay-Polynesian.}
+
+\begin{tabular}{>{\raggedright\arraybackslash}p{2cm} >{\raggedright\arraybackslash}p{6cm} >{\raggedright\arraybackslash}p{6cm}}
+ & \textsc{Algonquin.} & \textsc{Malay-Polynesian.} \\
+all & misewa, mamo, \textit{Cree} & mau, \textit{Tahiti} \\
+alone & pikoo, \textit{Cree} & be, \textit{Tonga} \\
+ant & ayik, `` & kakai, \textit{Amblaw}; osea, \textit{Celebes} \\
+arrow & kanouins, anwi, \textit{Algonquin} & gnahow, \textit{Tonga} \\
+ & wepema, \textit{Miami} & pana, \textit{Malay}, \textit{Java} \\
+ashes & utoos, attouche, \textit{Cree} & dota, \textit{Ombay} \\
+ & pekootao, \textit{Cree}; pingwi, \textit{Ojibbeway} & aptai, \textit{Bouru}; aftuha, \textit{Sula} \\
+awake & pakoonao, \textit{Cree} & kapok, \textit{Galela} \\
+axe & togkunk, \textit{Algonquin} & peekeeis, \textit{Pelew}; bangou, \textit{Malay} \\
+ & koksakin, \textit{Blackfoot} & togi, \textit{Tonga} \\
+basket & aguewet, \textit{Ojibbeway} & kisseem, \textit{Pelew} \\
+to be & wutupevut, \textit{Cree} & ikiti, \textit{Batamerah} \\
+belly & itow, \textit{Cree} & tampat, \textit{Malay} \\
+bone & wacht ey, \textit{Delaware} & ada, \textit{Malay} \\
+boat, canoe & mutai, \textit{Cree} & wutan, \textit{Java}; butah, \textit{Boju} \\
+body & ochkunne, \textit{Shawno} & motni, \textit{Mysol} \\
+bow & wuskiwoose, \textit{Cree} & koknatea, \textit{Amblaw} \\
+bread, food & oot, \textit{Cree} & wog, \textit{Gani}; vaka, \textit{Mariannes}, \textit{Tonga} \\
+breast & misssole, \textit{Miami} & oti, \textit{Tidore} \\
+bird & eeio, \textit{Ottawa}; yoa, \textit{Ojibbeway} & mallayae, \textit{Pelew} \\
+ & iniwia, \textit{Blackfoot} & aoh, \textit{Menado}; awah, \textit{Java} \\
+ & uchap e, \textit{Cree} & inawallah, \textit{Saparua}; nanan, \textit{Amblaw} \\
+ & mechim, `` & jobi-jobi, \textit{Tidore}; djub, \textit{Sula} \\
+ & ayukoonow, \textit{Cree} & macunnan, \textit{Malay} \\
+ & pummeh, \textit{Mohican} & kännen, \textit{Bissayan} \\
+ & totosh, \textit{Ojibbeway} & fafanga, \textit{Tonga} \\
+ & penasew, \textit{Cree} & tetai, \textit{Malay}; toot, \textit{Pelew} \\
+ & pethesew, `` & namo-bangou, \textit{Tidore} \\
+ & benasew, \textit{Ojibbeway}; pinasy, \textit{Algonquin} & pitek, \textit{Java} (fowl) \\
+ & & manok, \textit{Java}, \&c. \\
+\end{tabular}
+
+\end{document}
+```
+
+---
+
+### Notes on Transcription:
+
+- All original spelling, punctuation, italics, and capitalization have been preserved.
+- The use of “``” for repeated entries has been retained as in the source.
+- Special characters like `α` (alpha) were transcribed literally; if needed, you can replace with `\alpha` for proper math mode rendering.
+- Tabular environments simulate the columnar layout. Adjust widths (`p{...}`) as needed for your output format.
+- No equations were present — only vocabulary lists and comparisons.
+- Page number “50” was omitted since it’s marginalia not part of the main textual content. If required, add via `\pagestyle{plain}` or manual placement.
+
+This LaTeX code will compile into a document that visually mirrors the structure and typography of the scanned page, suitable for academic or archival simulation purposes.
+
+Let me know if you’d like a version with enhanced styling, cross-references, or PDF output instructions.

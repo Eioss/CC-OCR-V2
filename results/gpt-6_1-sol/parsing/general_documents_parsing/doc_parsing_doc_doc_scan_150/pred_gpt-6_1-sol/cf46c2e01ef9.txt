@@ -1,0 +1,156 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+{\large INDEX OF SUBJECTS.}
+
+\medskip
+\rule{0.8in}{0.4pt}
+
+\medskip
+\textbf{ABSTRACTS. 1900. Parts I \& II.}
+
+\smallskip
+(Marked A. i and A. ii respectively); and also to Transactions, 1900\\
+(marked T.); and to Proceedings of the Session 1899---1900;\\
+Nos. 213 to 226, Nov., 1899---June, 1900 (marked P.).
+
+\medskip
+\rule{1.7in}{0.4pt}
+\end{center}
+
+\small
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\begin{center}
+\textbf{A.}
+\end{center}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\textbf{Abienic, $\alpha$- and $\beta$-Abietinolic and Abie-}\\
+\hspace*{1em}\textbf{tolic acids and Abietoresen} (\textsc{Tschirch}\\
+\hspace*{1em}and \textsc{Weigel}), A., i, 679.
+
+\textit{Abies canadensis}, balsam of (\textsc{Tschirch}\\
+\hspace*{1em}and \textsc{Brüning}), A., i, 678.
+
+\textit{Abies pectinata}, balsam of (\textsc{Tschirch}\\
+\hspace*{1em}and \textsc{Weigel}), A., i, 679.
+
+\textbf{Absorption} in the small intestine (\textsc{Cohn-}\\
+\hspace*{1em}\textsc{heim}), A., ii, 289.
+
+\hspace*{1em}of carbohydrates, fats, and proteids\\
+\hspace*{2em}(\textsc{Masso}), A., ii, 605.
+
+\hspace*{1em}of fat (\textsc{Hofbauer}), A., ii, 605;\\
+\hspace*{2em}(\textsc{Pflüger}), A., ii, 667; (\textsc{Frieden-}\\
+\hspace*{2em}\textsc{thal}), A., ii, 168.
+
+\hspace*{1em}of fat in the large intestine (\textsc{Ham-}\\
+\hspace*{2em}\textsc{burger}), A., ii, 418.
+
+\hspace*{1em}of iodides by the skin (\textsc{Gallard}), A.,\\
+\hspace*{2em}ii, 419.
+
+\hspace*{1em}of iron by the intestine (\textsc{Abder-}\\
+\hspace*{2em}\textsc{halden}), A., ii, 223, 289, 416.
+
+\hspace*{1em}of free oxygen by normal urine (\textsc{Ben-}\\
+\hspace*{2em}\textsc{ghiolt}), A., ii, 740.
+
+\hspace*{1em}of saline solutions by the small in-}\\
+\hspace*{2em}testine (\textsc{Wallace} and \textsc{Cushny}),\\
+\hspace*{2em}A., ii, 31.
+
+\hspace*{1em}of sugars in the intestine (\textsc{Hédon}), A.,\\
+\hspace*{2em}ii, 223.
+
+\textbf{Acenitine} from \textit{Robinia Pseudacacia} and\\
+\hspace*{1em}its acetyl derivative (\textsc{Perkin}), T.,\\
+\hspace*{1em}430; P., \textbf{1900}, 45.
+
+\textbf{Accumulators.} See Electrochemistry.
+
+\textbf{Acet-.} See also Aceto-, Acetyl-, and\\
+\hspace*{1em}under the Parent Substance.
+
+\textbf{Acetal-}\textit{m}- and -\textit{p}-\textbf{cresol and -resorcinol}\\
+\hspace*{1em}(\textsc{Fosse} and \textsc{Ettlinger}), A., i, 392.
+
+\textbf{Acetaldehyde,} heat of combustion and\\
+\hspace*{1em}of formation of (\textsc{Berthelot} and\\
+\hspace*{1em}\textsc{Delépine}), A., ii, 334.
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\textbf{Acetaldehyde,} condensation of, with\\
+\hspace*{1em}propylaldehyde (\textsc{Schmalzhofer}), A.,\\
+\hspace*{1em}i, 626.
+
+\hspace*{1em}colour reaction of (\textsc{Rimini}), A., ii, 56,\\
+\hspace*{2em}464; (\textsc{Lewin}), A., ii, 179.
+
+\hspace*{1em}detection of, in ether (\textsc{Blasek}), A.,\\
+\hspace*{2em}ii, 179.
+
+\hspace*{1em}detection of, in fermentation vinegar\\
+\hspace*{2em}(\textsc{Böttinger}), A., ii, 773.
+
+\textbf{Acetaldehyde,} dibromo-, hydrate of\\
+\hspace*{1em}(\textsc{Butenko}), A., i, 421.
+
+\textbf{Acetaldoxime,} spectrum of (\textsc{Hartley}\\
+\hspace*{1em}and \textsc{Dobbie}), T., 321; P., \textbf{1900},\\
+\hspace*{1em}14.
+
+\textbf{Acetamide,} action of chloronitrobenzene\\
+\hspace*{1em}on (\textsc{Kym}), A., i, 158.
+
+\hspace*{1em}thiocyano- (\textsc{Frerichs} and \textsc{Beckurts}),\\
+\hspace*{2em}A., i, 478.
+
+\textbf{Acetanilide,} action of dry silver oxide\\
+\hspace*{1em}on ethyl iodide on (\textsc{Lander}), T.,\\
+\hspace*{1em}737; P., \textbf{1900}, 6, 90.
+
+\textbf{Acetanilide,} 3:5-dibromo-, 4:2- and 2:4-\\
+\hspace*{1em}dichlorobromo-, 2:4-bromonitro-, and\\
+\hspace*{1em}2:6:4-dibromonitro- (\textsc{Chattaway}\\
+\hspace*{1em}and \textsc{Orton}), A., i, 643.
+
+\hspace*{1em}\textit{o}-mono-and2:4-di-bromo-and-\textit{o}-chloro-,\\
+\hspace*{2em}formation of (\textsc{Chattaway} and\\
+\hspace*{2em}\textsc{Orton}), T., 798; P., \textbf{1900}, 112.
+
+\hspace*{1em}\textit{m}-chloro-, action of bleaching powder\\
+\hspace*{2em}on a hot acetic acid solution of\\
+\hspace*{2em}(\textsc{Chattaway}, \textsc{Orton}, and \textsc{Hurt-}\\
+\hspace*{2em}\textsc{ley}), T., 804.
+
+\hspace*{1em}substituted nitrogen chlorides from,\\
+\hspace*{2em}and their transformation (\textsc{Chatt-}\\
+\hspace*{2em}\textsc{away}, \textsc{Orton}, and \textsc{Hurtley}),\\
+\hspace*{2em}T., 800; P., \textbf{1900}, 125.
+
+\hspace*{1em}\textit{di-, tri-,} and \textit{tetra-}chloro-derivatives of,\\
+\hspace*{2em}from substituted nitrogen chlorides\\
+\hspace*{2em}(\textsc{Chattaway}, \textsc{Orton} and \textsc{Hurt-}\\
+\hspace*{2em}\textsc{ley}), T., 800; P., \textbf{1900}, 125.
+
+\end{minipage}
+
+\end{document}
+```

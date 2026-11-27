@@ -1,0 +1,14 @@
+```latex
+\begin{align*}
+&= \sum_{t=1}^T \mathcal{R}_t \\
+&\le \sum_{t=1}^T \mathbb{E}_{x_{t,i}, z \in \mathcal{N}} \left[ \left| f_2(\phi(x_t, i, z; \theta_{t-1}^{2,*}) ; \theta_{t-1}^{2,*}) - (r_{t,i} z^* - f_1(x_t, i, z; \theta_{t-1}^{1,*})) \right| \right] \\
+&\quad + \sum_{t=1}^T \left| f_2(\phi(x_t, i, z^*; \theta_{t-1}^{2,*}) - f_2(\phi(x_t, i, z^*); \theta_{t-1}^1); \theta_{t-1}^2) \right| \\
+&\quad + \sum_{t=1}^T \left| f_1(x_t, i, z^*; \theta_{t-1}^{1,*}) - f_1(x_t, i, z^*; \theta_{t-1}^1) \right| \\
+&\quad + \sum_{t=1}^T \mathbb{E}_{x_{t,i}, z \in \mathcal{N}} \left[ \left| f_2(\phi(x_t, i, \hat{z}); \theta_{t-1}^2) - (r_{t,i} \hat{z} - f_1(x_t, i, \hat{z}; \theta_{t-1}^1)) \right| \right] \\
+&\le 2 \sum_{t=1}^T \left( \frac{\sqrt{\Psi(\theta_0^2, R/m^{1/4})} + \mathcal{O}(1)}{\sqrt{T}} + \sqrt{\frac{2 \log(\mathcal{O}(1)/\delta)}{T}} \right) \\
+&\quad + 2 \sum_{t=1}^T \left( \mathcal{O}(\sqrt{L} R/m^{1/4}) + \mathcal{O}(R^{4/3} L^2 \sqrt{\log m}/m^{1/3}) \right) \\
+&\le \sum_{t=1}^T \left( \frac{2\sqrt{\Psi(\theta_0^2, R/m^{1/4})} + \mathcal{O}(1)}{\sqrt{T}} + 2 \sqrt{\frac{2 \log(\mathcal{O}(1)/\delta)}{T}} \right) \\
+&\quad + \mathcal{O}(\sqrt{L T} R/m^{1/4}) + \mathcal{O}(T R^{4/3} L^2 \sqrt{\log m}/m^{1/3}) \\
+&\le 2 \sqrt{\Psi(\theta_0^2, R/m^{1/4}) T} + 2 \sqrt{2 \log(\mathcal{O}(1)/\delta) T} + \mathcal{O}(1)
+\end{align*}
+```

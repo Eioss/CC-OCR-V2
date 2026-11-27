@@ -1,0 +1,19 @@
+\[
+H=
+\begin{pmatrix}
+x_{1} & x_{1}c+1 & \cdots & x_{1}c(p-1)+1\\
+x_{1}d+1 & x_{1}d+c+1 & \cdots & x_{1}d+c(p-1)+1\\
+\vdots & \vdots & \ddots & \vdots\\
+x_{1}d(q-1)+1 & x_{1}d(q-1)+c+1 & \cdots & x_{1}d(q-1)+c(p-1)+1
+\end{pmatrix}
+\]
+
+\[
+H'=
+\begin{pmatrix}
+x_{2} & x_{2}c+2 & \cdots & x_{2}c(p-1)+2\\
+x_{2}d+2 & x_{2}d+c+2 & \cdots & x_{2}d+c(p-1)+2\\
+\vdots & \vdots & \ddots & \vdots\\
+x_{2}d(q-1)+2 & x_{2}d(q-1)+c+2 & \cdots & x_{2}d(q-1)+c(p-1)+2
+\end{pmatrix}
+\]

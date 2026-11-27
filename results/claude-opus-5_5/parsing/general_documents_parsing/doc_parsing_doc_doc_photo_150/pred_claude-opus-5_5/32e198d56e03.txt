@@ -1,0 +1,71 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% Top line partially cut off in the image
+\textit{[\ldots] member of the party was garlanded.}
+
+\vspace{0.3em}
+\begin{tabularx}{\textwidth}{XXXX}
+(a) each & (b) many & (c) several & (d) every \\
+\end{tabularx}
+
+\vspace{1em}
+\textbf{4. Transform the following sentences as directed.} \hfill \textbf{2}\\
+(a) I am very tired. I can scarcely walk. \textbf{(Use so\ldots\ldots. that)}\\
+(b) Rishabh is not taller than many boys in the class. \textbf{(Change into superlative degree)}
+
+\vspace{1.5em}
+\begin{center}
+\underline{\textbf{Section-C Literature (15 marks)}}
+\end{center}
+
+\textbf{1. Read the extract and answer the questions that follow} \hfill \textbf{3}\\
+When did my childhood go?\\
+Was it the day I ceased to be eleven,\\
+Was it the time I realised that Hell and Heaven,\\
+Could not be found in Geography,\\
+And therefore could not be,\\
+(a) What is the problem that grips the mind of the poet?\\
+(b) Why does the poet mention the age of eleven?\\
+(c) Which poetic device is used in the above extract?
+
+\vspace{1em}
+\textbf{2. Answer \underline{any three} of the following in about 20-30 words} \hfill \textbf{3}\\
+(i) Why is Taplow worried about his remove?\\
+(ii) What does the phrase ``\textit{strange to tell}'' mean in the poem `voice of the rain'?\\
+(iii) What does the concept of sustainable development mean?\\
+(iv) There are two voices in the poem `voice of the rain'. Who do they belong to?
+
+\vspace{1em}
+\textbf{3. Answer \underline{any one} of the following questions in about 100 words:} \hfill \textbf{3}\\
+(i) ``No generation has a freehold on this earth. All we have is a life tenancy--- with a full repairing lease''. Justify this statement with reference to \textit{the Ailing Planet.}\\
+(ii) Meeting Norbu came as an immense relief to the narrator, comment with reference with the chapter \textit{Silk Road.}
+
+\vspace{1em}
+\textbf{4. Answer \underline{any three} of the following questions in about 50-60 words} \hfill \textbf{6}\\
+(i) Justify the title of the play \textit{the mother's day.}\\
+(ii) How did Albert Einstein decide to get rid of his school?\\
+(iii) I have done something real at last, oh God! Something real''. Why does Andrew say this? What does it mean?\\
+(iv) What was Andrew's view of marriage? Why was he resentful and confused?
+
+\vspace{2em}
+\begin{center}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+\end{center}
+
+\vfill
+\hfill 4
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The first line is cut off at the top of the photo, so only the visible fragment ("...member of the party was garlanded.") is included, marked as partial.
+- The original wording, punctuation, and inconsistencies are kept as printed. These include the missing opening quotation mark in Q4(iii), "with reference with the chapter" in Q3(ii), and the lowercase titles.
+- The marks on the right margin are aligned with `\hfill`.

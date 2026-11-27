@@ -1,0 +1,33 @@
+\[
+\begin{aligned}
+&\mathbb{E}\!\left[\varphi_{3}(X,A,Z,M,Y)S_{0}(O)\right]\\
+&=\mathbb{E}\!\left[\varphi_{3}(X,A,Z,M,Y)\left(S_{0}(X)+S_{0}(A\mid X)+S_{0}(Z\mid X,A)+S_{0}(M\mid X,A,Z)+S_{0}(Y\mid X,A,Z,M)\right)\right]\\
+&=\mathbb{E}\!\left[\left(S_{0}(X)+S_{0}(A\mid X)+S_{0}(Z\mid X,A)+S_{0}(M\mid X,A,Z)\right)
+\underbrace{\mathbb{E}\!\left[\varphi_{3}(X,A,Z,M,Y)\mid X,A,Z,M\right]}_{=0}\right]\\
+&\quad+\mathbb{E}\!\left[\varphi_{3}(X,A,Z,M,Y)S_{0}(Y\mid X,A,Z,M)\right]\\
+&=\mathbb{E}\!\left[\varphi_{3}(X,A,Z,M,Y)S_{0}(Y\mid X,A,Z,M)\right]\\
+&=\mathbb{E}\!\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)Y S_{0}(Y\mid X,A,Z,M)}
+{\Pr[A=a\mid X]\Pr[M=m\mid X,A=a,Z]}\right]\\
+&\quad-\mathbb{E}\!\left[\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)\mathbb{E}[Y\mid X,A=a,Z,M=m]}
+{\Pr[A=a\mid X]\Pr[M=m\mid X,A=a,Z]}
+\underbrace{\mathbb{E}\!\left[S_{0}(Y\mid X,A,Z,M)\mid X,A,Z,M\right]}_{=0}\right]\\
+&=\mathbb{E}\!\left\{\mathbb{E}\!\left[\left.
+\frac{\mathbb{I}(A=a)\mathbb{I}(M=m)Y S_{0}(Y\mid X,A,Z,M)}
+{\Pr[A=a\mid X]\Pr[M=m\mid X,A=a,Z]}
+\right|X,A,Z,M=m\right]\Pr[M=m\mid X,A,Z]\right\}\\
+&=\mathbb{E}_{X,A}\mathbb{E}\!\left[\left.
+\frac{\mathbb{I}(A=a)\Pr[M=m\mid X,A,Z]\,
+\mathbb{E}\!\left[Y S_{0}(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]}
+{\Pr[A=a\mid X]\Pr[M=m\mid X,A=a,Z]}
+\right|X,A\right]\\
+&=\mathbb{E}_{X}\!\left\{\mathbb{E}\!\left[\left.
+\frac{\mathbb{I}(A=a)\Pr[M=m\mid X,A,Z]\,
+\mathbb{E}\!\left[Y S_{0}(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]}
+{\Pr[A=a\mid X]\Pr[M=m\mid X,A=a,Z]}
+\right|X,A=a\right]\Pr[A=a\mid X]\right\}\\
+&=\mathbb{E}_{X}\!\left\{\mathbb{E}\!\left[\left.
+\mathbb{E}\!\left[Y S_{0}(Y\mid X,A,Z,M)\mid X,A,Z,M=m\right]
+\right|X,A=a\right]\right\}\\
+&=\phi_{3}.
+\end{aligned}
+\]

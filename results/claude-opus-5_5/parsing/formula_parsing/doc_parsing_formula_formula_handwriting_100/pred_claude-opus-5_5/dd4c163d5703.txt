@@ -1,0 +1,11 @@
+\begin{aligned}
+&\|\Psi(u)-\Psi(v)\|_{X}\\
+&\lesssim \left\|D^{s_p-\frac{1}{2}}\left(|u|^{p-1}u\,g(|u|)-|v|^{p-1}v\,g(|v|)\right)\right\|_{\tilde{W}([0,T_1])}+\left\|D^{2-\frac{1}{2}}\left(|u|^{p-1}u\,g(|u|)-|v|^{p-1}v\,g(|v|)\right)\right\|_{\tilde{W}([0,T_1])}\\
+&\lesssim g\left(\|u\|_{L_t^{\infty}L_x^{\infty}([0,T_1])}\right)\times\\
+&\quad\left(\begin{aligned}
+&\left(\|u\|_{S([0,T_1])}^{p-1}+\|v\|_{S([0,T_1])}^{p-1}\right)\left(\|D^{s_p-\frac{1}{2}}(u-v)\|_{W([0,T_1])}+\|D^{2-\frac{1}{2}}(u-v)\|_{W([0,T_1])}\right)\\
+&+\left(\|u\|_{S([0,T_1])}^{p-2}+\|v\|_{S([0,T_1])}^{p-2}\right)\left(\begin{aligned}&\|D^{s_p-\frac{1}{2}}u\|_{W([0,T_1])}+\|D^{2-\frac{1}{2}}u\|_{W([0,T_1])}+\|D^{s_p-\frac{1}{2}}v\|_{W([0,T_1])}\\&+\|D^{2-\frac{1}{2}}v\|_{W([0,T_1])}\end{aligned}\right)\\
+&\|u-v\|_{S([0,T_1])}
+\end{aligned}\right)\\
+&\lesssim \left(g(2CM)(2\delta)^{p-1}+(2\delta)^{p-2}(2CM)\right)\|u-v\|_{X}
+\end{aligned}

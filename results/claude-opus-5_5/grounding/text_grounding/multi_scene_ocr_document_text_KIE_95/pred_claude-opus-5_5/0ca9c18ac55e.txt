@@ -1,0 +1,3 @@
+The text '174.90' appears four times on this receipt: the line-item amount, the Total Qty line, Total Sales (Inclusive of GST), and CASH. This is the bounding box for the first one, the line-item amount next to "SR":
+
+(746, 548, 841, 561)

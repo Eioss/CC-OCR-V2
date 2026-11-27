@@ -1,0 +1,11 @@
+```json
+{
+  "Departure Date": "2020-11-12",
+  "Arrival Date": "2020-11-08",
+  "Total Amount": "1,233.27",
+  "Name": "Carol Lopez",
+  "Balance": "1,233.27",
+  "Address": "5201 Sanderson Rd, Hangzhou, Zhejiang Province, China 310012",
+  "Hotel Name": "Holiday Inn Express Hangzhou Gongshu"
+}
+```

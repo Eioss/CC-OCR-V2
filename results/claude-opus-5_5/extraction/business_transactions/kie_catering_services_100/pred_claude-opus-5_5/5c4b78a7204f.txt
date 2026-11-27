@@ -1,0 +1,3 @@
+```json
+{"menu": [{"cnt": "1", "nm": "BLACK PEPPER MEATBALL PAS", "price": "79,000"}, {"cnt": "1", "nm": "TRUFFLE CREAM", "price": "77,000"}, {"cnt": "1", "nm": "EARL GREY MILK TEA", "price": "59,000"}], "sub_total": {"subtotal_price": "215,000", "service_price": "12,900", "tax_price": "22,790"}, "total": {"total_price": "250,690"}}
+```

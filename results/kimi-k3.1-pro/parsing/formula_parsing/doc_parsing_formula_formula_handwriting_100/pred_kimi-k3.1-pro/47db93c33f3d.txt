@@ -1,0 +1,34 @@
+\[
+\tan h(z)=\frac{\left(D_{12}\frac{\partial h}{\partial z_2}+E_{12}\frac{\partial h}{\partial z_1}-(D_{11}-E_{11})\right)\sin h(z)}{T_1-T_2}.
+\]
+\[
+T_i=L(\pi/4)i],\qquad i=1,\ldots,3
+\]
+\[
+S_{\Theta}^{+}(t)=\left\{s\in S_{\Theta}:s^{-1}\in S_{\Theta}^{-}(t)\right\}.
+\]
+\[
+\left(\int_{\mathcal C}t^{1-2s}|\nabla u^{-}|^{2}\,dx\,dy\right)
+\left(\int_{\mathcal C}t^{1-2s}|\nabla v^{-}|^{2}\,dx\,dy\right)
+\]
+\[
+\leq |\Omega\cap\{u(\cdot,0)>0\}|^{1/4}
+|\Omega\cap\{v(\cdot,0)>0\}|^{2s/n}
+\|u\|_{L^\infty(\Omega)}\|v\|_{L^\infty(\Omega)}
+\|u\|_{H^s(\Omega)}^{2s}\|v\|_{H^s(\Omega)}^{2(1-2s)}.
+\]
+\[
+\left\|\mathcal F_{x\to\xi}\mathcal S_{\Lambda}[F^a,F^b,F^c]\right\|_{L^\infty_\xi L^2_\Lambda}
+\lesssim k\|F^a\|_S\|F^b\|_S\|F^c\|_S,
+\]
+\[
+\lim_{n\to\infty}
+\frac{\sup_{a^n\leq t\leq a^{n+1}}|X(t)-X(a^n)|}
+{a^{nH}(\log a^n)^{1/p+\varepsilon}}=0
+\qquad\text{a.s.}
+\]
+\[
+\varphi=|\angle u^{+}v|=\pi-\alpha-\beta
+\geq\pi-|\angle vus|-|\angle svu|
+=|\angle usv|=\frac{2\pi}{5}.
+\]

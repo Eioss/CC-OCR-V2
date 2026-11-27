@@ -1,0 +1,13 @@
+```latex
+\begin{gather*}
+A_{2m+2}(\nu, z) \sim (-\zeta)^{1/4} \left\{ 1 + \frac{1}{2} \tilde{\mathcal{E}}_{2m+2, \gamma}(\nu, i\infty) \right\}, \\
+\mathbb{P}^{\mathcal{G}}(R_k^i = \ell_k^i, i=1, \dots, \bar{n}) \le \bar{n} \Upsilon(w, \bar{n}, (\ell_0^{u_i})_{i=1, \dots, \bar{n}}, (\ell_k^i)_{i=1, \dots, \bar{n}}). \\
+d = O(\log n + \log(1/\epsilon)) \\
+L_f = \sup_{x \neq y} \Omega_f(x, y) \frac{|f(x) - f(y)|}{|x - y|} \\
+I^+ \frac{1}{2}(V^+ + V^-) = \frac{1}{2}(V^+ - V^-)I^+, \\
+I^- \frac{1}{2}(V^+ + V^-) = \frac{1}{2}(-V^+ - V^-)I^-, \\
+-u_1 \cdot n_1 + \alpha p_{1,\gamma} + s_\gamma \partial_t p_{1,\gamma} + \operatorname{div}_\tau u_{\gamma, 1} = -u_2 \cdot n_1 + \alpha p_{2,\gamma} \quad \text{on } \gamma \times (0, T), \\
+u_{\gamma, 1} = -k_\gamma \delta \nabla_\tau p_{1,\gamma} \\
+|z_0\rangle \otimes |\xi(z_0)\rangle \stackrel{T}{\mapsto} |z_0\rangle \otimes |\phi(z_0)\rangle,
+\end{gather*}
+```

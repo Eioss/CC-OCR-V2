@@ -1,0 +1,20 @@
+\[
+\begin{aligned}
+\int_{\mathbb{R}^{2}}\Lambda^{\frac32}(u\cdot\nabla\theta)\Lambda^{\frac32}\theta\,dx
+&=\int_{\mathbb{R}^{2}}\Lambda^{\frac32}(u_i\partial_i\theta)\Lambda^{\frac32}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}\Lambda(u_i\partial_i\theta)\Lambda^2\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb{R}^{2}}u_i\Lambda\partial_i\theta\,\Lambda^2\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb{R}^{2}}\Lambda^{\frac12}(u_i\Lambda\partial_i\theta)\Lambda^{\frac32}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{\frac12},u_i]\Lambda\partial_i\theta\,\Lambda^{\frac32}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^{2}}u_i\Lambda^{\frac12}\Lambda\partial_i\theta\,\Lambda^{\frac32}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{\frac12},u_i]\Lambda\partial_i\theta\,\Lambda^{\frac32}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^{2}}u_i\partial_i\Lambda^{\frac32}\theta\,\Lambda^{\frac32}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\,\Lambda^2\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{\frac12},u_i]\Lambda\partial_i\theta\,\Lambda^{\frac32}\theta\,dx\\
+&\triangleq \widetilde{I}_1+\widetilde{I}_2.
+\end{aligned}
+\]

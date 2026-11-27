@@ -1,0 +1,8 @@
+Based on the "Incidence by Age" chart in the infographic, **82%** of cancer incidences in women occur in those over the age of 50. 
+
+This is calculated by adding the percentages for the age groups over 50:
+* **50 to 64 yrs:** 27%
+* **65 to 74 yrs:** 25%
+* **Over 74 yrs:** 30%
+
+*(27% + 25% + 30% = 82%, or 100% - 18% for those under 50)*

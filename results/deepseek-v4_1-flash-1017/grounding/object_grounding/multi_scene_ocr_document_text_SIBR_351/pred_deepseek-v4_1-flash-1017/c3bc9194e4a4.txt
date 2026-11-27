@@ -1,0 +1,25 @@
+```json
+[
+  {"bbox_2d": [562, 73, 663, 91], "label": "Conf. No. 确认号码"},
+  {"bbox_2d": [562, 96, 663, 114], "label": "Room No. 房号"},
+  {"bbox_2d": [562, 119, 663, 137], "label": "Folio No. 账单号码"},
+  {"bbox_2d": [562, 142, 663, 160], "label": "Arrival 抵店日期"},
+  {"bbox_2d": [562, 165, 663, 183], "label": "Departure 离店日期"},
+  {"bbox_2d": [562, 188, 663, 206], "label": "Cashier 收银员"},
+  {"bbox_2d": [562, 211, 663, 229], "label": "Page(s) 页数"},
+  {"bbox_2d": [562, 234, 663, 252], "label": "Time 时间"},
+  {"bbox_2d": [51, 96, 150, 114], "label": "地址"},
+  {"bbox_2d": [51, 188, 150, 206], "label": "Cashier 收银员"},
+  {"bbox_2d": [51, 211, 150, 229], "label": "Page(s) 页数"},
+  {"bbox_2d": [51, 234, 150, 252], "label": "Time 时间"},
+  {"bbox_2d": [51, 280, 150, 298], "label": "Date 日期"},
+  {"bbox_2d": [51, 303, 150, 321], "label": "Description 项目"},
+  {"bbox_2d": [51, 326, 150, 344], "label": "Reference 备注"},
+  {"bbox_2d": [51, 349, 150, 367], "label": "Debits 消费"},
+  {"bbox_2d": [51, 372, 150, 390], "label": "Credits 付款"},
+  {"bbox_2d": [51, 395, 150, 413], "label": "Balance 余额(CNY)"},
+  {"bbox_2d": [51, 418, 150, 436], "label": "redits 付款"},
+  {"bbox_2d": [51, 441, 150, 459], "label": "传真F"},
+  {"bbox_2d": [51, 464, 150, 482], "label": "电话T"}
+]
+```

@@ -1,0 +1,48 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\noindent{\small\itshape Candidate Statement of Results}
+
+\vspace{1em}
+\noindent\textbf{Season:} Summer Season 2019
+\hfill
+\textbf{Series:} (All)
+
+\vspace{0.5em}
+\noindent\textbf{Name:} Anisha
+\hfill
+\textbf{Year:} 11
+
+\vspace{0.5em}
+\noindent\textbf{Candidate No:}
+
+\vspace{0.5em}
+\noindent\textbf{UCI:}
+
+\vspace{1.5em}
+\noindent{\large Exam Results}
+
+\vspace{0.5em}
+\noindent{\small
+\begin{tabular}{@{}llllcc@{}}
+\hline
+Board & Level & Element Code & Title & Grd1 & Grd2 \\
+\hline
+AQA & GCSE/9DA & 8464H & Combined Sci: Trilogy Tier H & 99 & \\
+EDEXL/GC & GCSE/9FC & 1GB0 & Geography B & 9 & \\
+AQA & GCSE/9FC & 8062BA & Religious Studies A Option BA & 9 & \\
+AQA & GCSE/9FC & 8668H & German Tier H & 9 & \\
+AQA & GCSE/9FC & 8698H & Spanish Tier H & 9 & \\
+AQA & GCSE/9FC & 8700 & English Language & 9 & \\
+AQA & GCSE/9FC & 8702 & English Literature & 9 & \\
+OCR & GCSE/9FC & J560H & Mathematics (Higher Tier) & 7 & \\
+\hline
+\end{tabular}
+}
+
+\end{document}
+```

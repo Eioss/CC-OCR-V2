@@ -1,0 +1,192 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\usepackage[margin=0.6in]{geometry}
+
+\begin{document}
+\small
+
+\noindent
+\begin{minipage}[t]{0.51\textwidth}
+\textbf{formulas for discrete-time LTI signals and systems}
+
+\medskip
+\begin{tabular}{@{}ll@{}}
+\hline
+name & formula \\
+\hline
+area under impulse
+& $\displaystyle \sum_n \delta(n)=1$ \\[10pt]
+
+multiplication by impulse
+& $f(n)\delta(n)=f(0)\delta(n)$ \\[8pt]
+
+$\ldots$ by shifted impulse
+& $f(n)\delta(n-n_0)=f(n_0)\delta(n-n_0)$ \\[8pt]
+
+convolution
+& $\displaystyle f(n)*g(n)=\sum_k f(k)\,g(n-k)$ \\[10pt]
+
+$\ldots$ with an impulse
+& $f(n)*\delta(n)=f(n)$ \\[8pt]
+
+$\ldots$ with a shifted impulse
+& $f(n)*\delta(n-n_0)=f(n-n_0)$ \\[8pt]
+
+transfer function
+& $\displaystyle H(z)=\sum_n h(n)\,z^{-n}$ \\[10pt]
+
+frequency response
+& $\displaystyle H^f(\omega)=\sum_n h(n)\,e^{-j\omega n}$ \\[8pt]
+
+$\ldots$ their connection
+& $\begin{gathered}
+H^f(\omega)=H(e^{j\omega})\\
+\text{provided unit circle}\subset\text{ROC}
+\end{gathered}$ \\[10pt]
+\hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\textbf{formulas for continuous-time LTI signals and systems}
+
+\medskip
+\begin{tabular}{@{}ll@{}}
+\hline
+name & formula \\
+\hline
+area under impulse
+& $\displaystyle \int \delta(t)\,dt=1$ \\[10pt]
+
+multiplication by impulse
+& $f(t)\delta(t)=f(0)\delta(t)$ \\[8pt]
+
+$\ldots$ by shifted impulse
+& $f(t)\delta(t-t_0)=f(t_0)\delta(t-t_0)$ \\[8pt]
+
+convolution
+& $\displaystyle f(t)*g(t)=\int f(\tau)\,g(t-\tau)\,d\tau$ \\[10pt]
+
+$\ldots$ with an impulse
+& $f(t)*\delta(t)=f(t)$ \\[8pt]
+
+$\ldots$ with a shifted impulse
+& $f(t)*\delta(t-t_0)=f(t-t_0)$ \\[8pt]
+
+transfer function
+& $\displaystyle H(s)=\int h(t)\,e^{-st}\,dt$ \\[10pt]
+
+frequency response
+& $\displaystyle H^f(\omega)=\int h(t)\,e^{-j\omega t}\,dt$ \\[8pt]
+
+$\ldots$ their connection
+& $\begin{gathered}
+H^f(\omega)=H(j\omega)\\
+\text{provided }j\omega\text{-axis}\subset\text{ROC}
+\end{gathered}$ \\[10pt]
+\hline
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+\textbf{useful formulas}
+
+\medskip
+\begin{tabular}{@{}ll@{}}
+\hline
+name & formula \\
+\hline
+Euler's formula
+& $e^{j\theta}=\cos(\theta)+j\sin(\theta)$ \\[10pt]
+
+$\ldots$ for cosine
+& $\displaystyle \cos(\theta)=\frac{e^{j\theta}+e^{-j\theta}}{2}$ \\[10pt]
+
+$\ldots$ for sine
+& $\displaystyle \sin(\theta)=\frac{e^{j\theta}-e^{-j\theta}}{2j}$ \\[10pt]
+
+Sinc function
+& $\displaystyle \operatorname{sinc}(\theta)=\frac{\sin(\pi\theta)}{\pi\theta}$ \\[10pt]
+\hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\textbf{Z-transform transform pairs}
+
+\medskip
+\begin{tabular}{@{}lll@{}}
+\hline
+$x(n)$ & $X(z)$ & ROC \\
+\hline
+$x(n)$
+& $\displaystyle \sum_n x(n)\,z^{-n}\quad\text{(def.)}$
+& \\[10pt]
+
+$\delta(n)$
+& $1$
+& all $z$ \\[8pt]
+
+$u(n)$
+& $\displaystyle \frac{z}{z-1}$
+& $|z|>1$ \\[10pt]
+
+$a^n u(n)$
+& $\displaystyle \frac{z}{z-a}$
+& $|z|>|a|$ \\[10pt]
+
+$-a^n u(-n-1)$
+& $\displaystyle \frac{z}{z-a}$
+& $|z|<|a|$ \\[10pt]
+
+$\cos(\omega_0 n)\,u(n)$
+& $\displaystyle \frac{z^2-\cos(\omega_0)\,z}
+{z^2-2\cos(\omega_0)\,z+1}$
+& $|z|>1$ \\[12pt]
+
+$\sin(\omega_0 n)\,u(n)$
+& $\displaystyle \frac{\sin(\omega_0)\,z}
+{z^2-2\cos(\omega_0)\,z+1}$
+& $|z|>1$ \\[12pt]
+
+$a^n\cos(\omega_0 n)\,u(n)$
+& $\displaystyle \frac{z^2-a\cos(\omega_0)\,z}
+{z^2-2a\cos(\omega_0)\,z+a^2}$
+& $|z|>|a|$ \\[12pt]
+
+$a^n\sin(\omega_0 n)\,u(n)$
+& $\displaystyle \frac{a\sin(\omega_0)\,z}
+{z^2-2a\cos(\omega_0)\,z+a^2}$
+& $|z|>|a|$ \\[12pt]
+\hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\textbf{Z-transform transform properties}
+
+\medskip
+\begin{tabular}{@{}ll@{}}
+\hline
+$x(n)$ & $X(z)$ \\
+\hline
+$a\,x(n)+b\,g(n)$
+& $a\,X(z)+b\,G(z)$ \\[8pt]
+
+$x(n-n_0)$
+& $z^{-n_0}X(z)$ \\[8pt]
+
+$x(n)*f(n)$
+& $X(z)\,F(z)$ \\[8pt]
+\hline
+\end{tabular}
+\end{minipage}
+
+\vfill
+\begin{flushright}
+Page 8 of 169
+\end{flushright}
+
+\end{document}
+```

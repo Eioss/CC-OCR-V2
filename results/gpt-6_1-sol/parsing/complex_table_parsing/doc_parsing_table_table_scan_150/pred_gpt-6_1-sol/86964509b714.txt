@@ -1,0 +1,39 @@
+<table>
+  <tr><td colspan="3"><strong>Example:</strong></td></tr>
+  <tr><td colspan="3" style="text-align:center"><strong>ABC Design</strong></td></tr>
+  <tr><td colspan="3" style="text-align:center"><strong>Balance Sheet</strong></td></tr>
+  <tr><td colspan="3" style="text-align:center"><strong>As at December 31, 2022</strong></td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td colspan="3"><strong>ASSETS</strong></td></tr>
+  <tr><td colspan="3" style="padding-left:2em"><strong>Current Assets</strong></td></tr>
+  <tr><td style="padding-left:4em">Cash and cash equivalents</td><td>$</td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em">Accounts Receivable</td><td></td><td style="text-align:right">150.00</td></tr>
+  <tr><td style="padding-left:4em">Inventories</td><td></td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em">Prepaid and other assets</td><td></td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em"><strong>Total Current Assets</strong></td><td style="border-top:1px solid;border-bottom:1px solid"></td><td style="text-align:right;border-top:1px solid;border-bottom:1px solid">450.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td style="padding-left:4em">Long-term Investment</td><td></td><td style="text-align:right">200.00</td></tr>
+  <tr><td style="padding-left:4em">Property &amp; Equipment</td><td></td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em">Other assets</td><td></td><td style="text-align:right">100.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td><strong>TOTAL ASSETS</strong></td><td style="border-top:1px solid;border-bottom:3px double">$</td><td style="text-align:right;border-top:1px solid;border-bottom:3px double">850.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td colspan="3"><strong>LIABILITIES</strong></td></tr>
+  <tr><td colspan="3" style="padding-left:2em"><strong>Current Liabilities</strong></td></tr>
+  <tr><td style="padding-left:4em">Accounts Payable</td><td>$</td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em">Unearned Revenue</td><td></td><td style="text-align:right">50.00</td></tr>
+  <tr><td style="padding-left:4em">Short-term debt</td><td></td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em"><strong>Total Current Liabilities</strong></td><td style="border-top:1px solid;border-bottom:1px solid"></td><td style="text-align:right;border-top:1px solid;border-bottom:1px solid">250.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td style="padding-left:4em">Long-term debt</td><td></td><td style="text-align:right">200.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td><strong>TOTAL LIABILITIES</strong></td><td style="border-top:1px solid;border-bottom:1px solid">$</td><td style="text-align:right;border-top:1px solid;border-bottom:1px solid">450.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td colspan="3"><strong>OWNER'S EQUITY</strong></td></tr>
+  <tr><td style="padding-left:4em">Equity</td><td>$</td><td style="text-align:right">100.00</td></tr>
+  <tr><td style="padding-left:4em">Retained Earnings</td><td></td><td style="text-align:right">300.00</td></tr>
+  <tr><td><strong>TOTAL EQUITY</strong></td><td style="border-top:1px solid;border-bottom:1px solid">$</td><td style="text-align:right;border-top:1px solid;border-bottom:1px solid">400.00</td></tr>
+  <tr><td colspan="3">&nbsp;</td></tr>
+  <tr><td><strong>TOATL LIABILITIES AND OWNER'S EQUITY</strong></td><td style="border-top:1px solid;border-bottom:3px double">$</td><td style="text-align:right;border-top:1px solid;border-bottom:3px double">850.00</td></tr>
+</table>

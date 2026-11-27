@@ -1,0 +1,196 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .no-border-top {
+    border-top: none;
+  }
+  .no-border-bottom {
+    border-bottom: none;
+  }
+  .no-border-left {
+    border-left: none;
+  }
+  .no-border-right {
+    border-right: none;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Header Section -->
+  <tr>
+    <td colspan="6" style="border: none; text-align: center; font-size: 20px; font-weight: bold; padding-bottom: 5px;">
+      高温合金熔铸事业部
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" style="border: none; text-align: center; font-size: 18px; font-weight: bold; padding-bottom: 15px;">
+      入厂器材复验结果证明书
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6" style="border: none; text-align: right; padding-bottom: 5px;">
+      编号：FYBH2022-005
+    </td>
+  </tr>
+
+  <!-- Main Table Content -->
+  <tr>
+    <td>器材名称</td>
+    <td>电钴</td>
+    <td>规格</td>
+    <td>---</td>
+    <td>复验规定编号</td>
+    <td>FYGD-90-14-2020</td>
+  </tr>
+  <tr>
+    <td>产品材质</td>
+    <td>---</td>
+    <td>产品牌号</td>
+    <td>Co9995</td>
+    <td>批号</td>
+    <td>见备注</td>
+  </tr>
+  <tr>
+    <td>型号</td>
+    <td>---</td>
+    <td>器材类别</td>
+    <td>Ⅱ</td>
+    <td>计量单位</td>
+    <td>kg</td>
+  </tr>
+  <tr>
+    <td>重量</td>
+    <td>15000</td>
+    <td>包装数量</td>
+    <td>60 桶</td>
+    <td rowspan="2">生产厂家</td>
+    <td rowspan="2">兰州金川新材料科技<br>股份有限公司</td>
+  </tr>
+  <tr>
+    <td>生产日期</td>
+    <td>---</td>
+    <td>有效期</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>存放地点</td>
+    <td>熔铸事业部</td>
+    <td>出厂质保单编号</td>
+    <td colspan="3">--</td>
+  </tr>
+
+  <!-- Routine Re-inspection Section -->
+  <tr>
+    <td rowspan="5">常规<br>复验</td>
+    <td colspan="4" class="text-left">1.器材外包装是否完好</td>
+    <td>
+      <span style="display:inline-block; width:50%;">是 ☑</span>
+      <span style="display:inline-block; width:50%;">否 ☐</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" class="text-left">2.器材外观是否良好</td>
+    <td>
+      <span style="display:inline-block; width:50%;">是 ☑</span>
+      <span style="display:inline-block; width:50%;">否 ☐</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" class="text-left">3.器材质量证明文件是否齐全有效</td>
+    <td>
+      <span style="display:inline-block; width:50%;">是 ☑</span>
+      <span style="display:inline-block; width:50%;">否 ☐</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" class="text-left">4.器材名称、牌号、批号、数量是否与质量证明文件一致</td>
+    <td>
+      <span style="display:inline-block; width:50%;">是 ☑</span>
+      <span style="display:inline-block; width:50%;">否 ☐</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" class="text-left">5.其他</td>
+    <td></td>
+  </tr>
+
+  <!-- Physical & Chemical Re-inspection Section -->
+  <tr>
+    <td rowspan="2">理化<br>复验</td>
+    <td>检测承接单位</td>
+    <td colspan="4">钢研纳克检测技术有限公司</td>
+  </tr>
+  <tr>
+    <td>检测报告编号</td>
+    <td colspan="4">2022BJR04491</td>
+  </tr>
+
+  <!-- Remarks Section -->
+  <tr>
+    <td>备注</td>
+    <td colspan="5">
+      批号：21-1-292/295/273<br>
+      22-1-001
+    </td>
+  </tr>
+
+  <!-- Conclusion Section -->
+  <tr>
+    <td>结论</td>
+    <td colspan="5" class="text-left">
+      电钴 Co9995 经复验符合进院器材复验规定编号：FYGD-90-14-2020 的要求
+    </td>
+  </tr>
+
+  <!-- Signatures Section -->
+  <tr>
+    <td colspan="2" class="text-left" style="vertical-align: top; padding-top: 10px;">
+      检验：<br><br><br>
+      2022 年 1 月 8 日
+    </td>
+    <td colspan="2" class="text-left" style="vertical-align: top; padding-top: 10px;">
+      复核：<br>
+      <div style="border: 1px solid #999; display: inline-block; padding: 2px 5px; margin-top: 5px; font-family: monospace;">JY320</div><br><br>
+      2022 年 1 月 8 日
+    </td>
+    <td colspan="2" class="text-left" style="vertical-align: top; padding-top: 10px;">
+      批准：<br>
+      <div style="height: 40px; display: flex; align-items: center; justify-content: center;">
+        <!-- Placeholder for signature -->
+        <span style="font-family: cursive; font-size: 24px;">姜 华</span>
+      </div>
+      年&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;日
+    </td>
+  </tr>
+
+  <!-- Footer Section -->
+  <tr>
+    <td colspan="6" class="text-left" style="border-top: none; padding-top: 10px;">
+      附：<br>
+      本证明书需填写完整，并另附供应商出厂质保单、检测报告（检验记录）方为有效。
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+```

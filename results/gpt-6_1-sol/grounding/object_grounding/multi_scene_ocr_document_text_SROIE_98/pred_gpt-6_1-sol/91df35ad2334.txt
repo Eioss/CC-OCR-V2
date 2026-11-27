@@ -1,0 +1,1 @@
+[{"bbox_2d":[186,260,735,354],"label":"address"},{"bbox_2d":[169,227,735,255],"label":"company"},{"bbox_2d":[711,490,883,516],"label":"date"},{"bbox_2d":[750,619,843,646],"label":"total"}]

@@ -1,0 +1,27 @@
+$$
+\mathbb{E}\left|\sum_{j=1}^{n}\mathbb{E}_{j-1}x_{ij}\right|^{p}=O\left(\frac{|z|^{2p}}{\delta_z^{2p}}\right)+O\left(\frac{|z|^{2p}}{\delta_z^{5p}}\right)+O\left(\frac{|z|^{2p}}{\delta_z^{5p}}\right)\leq\Phi_1\left(|z|,|z|\Psi,\delta_z^{-1}\right).
+$$
+
+$$
+\nabla^{i}\cdot\xi_i=\frac{1}{2}\left(a_i^{\nu}+3\left(a_{i+1}^{\nu}+\cdots+a_n^{\nu}\right)\right),
+$$
+
+$$
+J(u):=\|Tu-g\|_2^2+2\alpha|D(u)|(\Omega),
+$$
+
+$$
+r_i:=\inf_{\nu}\left(\frac{(1+\rho)[\nu][\nu]_{p,q}^{\kappa}(\nu-\eta)\{1+([\nu]_{p,q}-1)-\eta\}[1+(\nu-1)+[\eta]_{\varepsilon}]}{(\nu-\rho)(1-\eta)}\right)^{1/(\nu-1)}\quad(\nu\geq 2).
+$$
+
+$$
+\sum_{j=0}^{N-1}\left(H_{ij}-wS_{ij}\right)c_j=0,\quad i=0,1,\ldots,N-1
+$$
+
+$$
+H_{ij}=\int_{a_0}^{\infty}f_i(a)\hat{H}f_j(a)\,da,\quad S_{ij}=\int_{a_0}^{\infty}f_i(a)f_j(a)\,da
+$$
+
+$$
+\mathbb{E}\phi\left(f(G_a)-f(G_b)\right)\leq\mathbb{E}\phi\left(\frac{\pi}{2}\|a-b\|_2\langle\nabla f(X),Y\rangle\right),
+$$

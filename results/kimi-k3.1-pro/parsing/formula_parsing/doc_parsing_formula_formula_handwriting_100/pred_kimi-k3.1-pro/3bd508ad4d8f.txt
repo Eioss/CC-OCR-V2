@@ -1,0 +1,19 @@
+\[
+\begin{aligned}
+\int_{\mathbb{R}^{2}}\Lambda^{3}(u\cdot\nabla\theta)\Lambda^{3}\theta\,dx
+&=\int_{\mathbb{R}^{2}}\Lambda(u_i\partial_i\theta)\Lambda^{5}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\Lambda^{5}\theta\,dx
++\int_{\mathbb{R}^{2}}u_i\Lambda\partial_i\theta\Lambda^{5}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\Lambda^{5}\theta\,dx
++\int_{\mathbb{R}^{2}}\Lambda^{2}(u_i\Lambda\partial_i\theta)\Lambda^{3}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\Lambda^{5}\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{2},u_i]\Lambda\partial_i\theta\Lambda^{3}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^{2}}u_i\Lambda^{3}\partial_i\theta\Lambda^{3}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\Lambda^{5}\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{2},u_i]\Lambda\partial_i\theta\Lambda^{3}\theta\,dx\\
+&\quad+\int_{\mathbb{R}^{2}}u_i\partial_i\Lambda^{3}\theta\Lambda^{3}\theta\,dx\\
+&=\int_{\mathbb{R}^{2}}[\Lambda,u_i]\partial_i\theta\Lambda^{5}\theta\,dx
++\int_{\mathbb{R}^{2}}[\Lambda^{2},u_i]\Lambda\partial_i\theta\Lambda^{3}\theta\,dx\\
+&\simeq I+II .
+\end{aligned}
+\]

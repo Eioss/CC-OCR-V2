@@ -1,0 +1,30 @@
+```json
+[
+  {"bbox_2d": [68, 196, 137, 211], "label": "Arrival 入住日期"},
+  {"bbox_2d": [68, 211, 137, 226], "label": "Arrival 入住日期"},
+  {"bbox_2d": [386, 361, 461, 376], "label": "Balance 余额"},
+  {"bbox_2d": [568, 313, 646, 328], "label": "CHARGES 消费"},
+  {"bbox_2d": [759, 313, 836, 328], "label": "CREDITS 付款"},
+  {"bbox_2d": [583, 128, 646, 143], "label": "Cashier 收银员"},
+  {"bbox_2d": [583, 108, 646, 123], "label": "Confirmation No. 确认号"},
+  {"bbox_2d": [68, 271, 137, 286], "label": "DATE 日期"},
+  {"bbox_2d": [178, 271, 287, 286], "label": "DESCRIPTION 项目"},
+  {"bbox_2d": [386, 196, 455, 211], "label": "Depart 离店日期"},
+  {"bbox_2d": [386, 211, 455, 226], "label": "Depart 离店日期"},
+  {"bbox_2d": [583, 46, 646, 61], "label": "Fax 传真"},
+  {"bbox_2d": [759, 196, 836, 211], "label": "Invoice # 账单号"},
+  {"bbox_2d": [583, 88, 646, 103], "label": "Loyalty No. 会员号码"},
+  {"bbox_2d": [583, 68, 646, 83], "label": "No. of Guests 住店人数"},
+  {"bbox_2d": [583, 148, 646, 163], "label": "Page # 页数"},
+  {"bbox_2d": [583, 26, 646, 41], "label": "RoomNo. 房号"},
+  {"bbox_2d": [583, 6, 646, 21], "label": "Tel 电话"},
+  {"bbox_2d": [583, 168, 646, 183], "label": "Time printed 打印时间"},
+  {"bbox_2d": [178, 196, 247, 211], "label": "Time 入住时间"},
+  {"bbox_2d": [178, 211, 247, 226], "label": "Time 入住时间"},
+  {"bbox_2d": [496, 196, 565, 211], "label": "Time 离店时间"},
+  {"bbox_2d": [496, 211, 565, 226], "label": "Time 离店时间"},
+  {"bbox_2d": [146, 896, 396, 911], "label": "公司名"},
+  {"bbox_2d": [68, 121, 287, 166], "label": "地址"},
+  {"bbox_2d": [68, 46, 237, 61], "label": "标题"}
+]
+```

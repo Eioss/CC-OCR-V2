@@ -1,0 +1,3 @@
+Looking at the receipt, there are three instances of '65.10' (Sub-total, Total Sales Incl GST, and Total After Adj Incl GST). I'll provide the bounding box for the first occurrence next to "Sub-total".
+
+(746, 452, 843, 470)

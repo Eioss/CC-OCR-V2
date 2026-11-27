@@ -1,0 +1,257 @@
+Here is the HTML code transcribing the tables from the image. I have organized the document into three main sections (Assets, Liabilities, and Shareholder's Equity) to reflect the visual layout, using `<table>`, `<tr>`, and `<td>` tags. I have used `colspan` to handle the header rows and `&nbsp;` to represent indentation and empty cells.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body {
+        font-family: sans-serif;
+        font-size: 12px;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+    td {
+        padding: 2px 5px;
+        vertical-align: top;
+    }
+    .header-text {
+        text-align: center;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .header-text div {
+        margin-bottom: 2px;
+    }
+    .section-title {
+        font-weight: bold;
+        text-decoration: underline;
+        padding-top: 15px;
+        padding-bottom: 5px;
+    }
+    .col-header {
+        font-weight: bold;
+        text-align: right;
+        border-bottom: 1px solid black;
+    }
+    .col-header-left {
+        font-weight: bold;
+        text-align: left;
+    }
+    .amount {
+        text-align: right;
+    }
+    .indent {
+        padding-left: 20px;
+    }
+    .total-row td {
+        border-top: 1px solid black;
+        font-weight: bold;
+    }
+    .double-underline {
+        border-bottom: 3px double black;
+    }
+    .single-underline {
+        border-bottom: 1px solid black;
+    }
+    .center-text {
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+
+    <!-- Document Header -->
+    <div class="header-text">
+        <div>XYZ COMPANY LIMITED</div>
+        <div>BALANCE SHEET</div>
+        <div>AS AT</div>
+        <div>JUNE 30, 2002</div>
+        <br>
+        <div style="text-decoration: underline;">UNAUDITED - See "Notice to Reader"</div>
+    </div>
+
+    <!-- Main Table Structure -->
+    <table>
+        <!-- Column Headers -->
+        <tr>
+            <td class="col-header-left"></td>
+            <td class="col-header" style="width: 15%;">2002</td>
+            <td class="col-header" style="width: 15%;">2001</td>
+        </tr>
+
+        <!-- ASSETS SECTION -->
+        <tr>
+            <td colspan="3" class="section-title">ASSETS</td>
+        </tr>
+        
+        <!-- Current Assets -->
+        <tr>
+            <td style="font-weight: bold;">CURRENT</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="indent">Cash</td>
+            <td class="amount">$ 11,552</td>
+            <td class="amount">$ -</td>
+        </tr>
+        <tr>
+            <td class="indent">Accounts receivable</td>
+            <td class="amount">42,970</td>
+            <td class="amount">50,585</td>
+        </tr>
+        <tr>
+            <td class="indent">Deposits and prepaid expenses</td>
+            <td class="amount">2,942</td>
+            <td class="amount">2,688</td>
+        </tr>
+        <tr>
+            <td class="indent">Inventory</td>
+            <td class="amount single-underline">159,144</td>
+            <td class="amount single-underline">156,657</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="amount">216,608</td>
+            <td class="amount">209,940</td>
+        </tr>
+
+        <!-- Property, Plant and Equipment -->
+        <tr>
+            <td style="padding-top: 10px;">PROPERTY, PLANT AND EQUIPMENT (Note 2)</td>
+            <td class="amount single-underline" style="padding-top: 10px;">59,890</td>
+            <td class="amount single-underline" style="padding-top: 10px;">76,318</td>
+        </tr>
+
+        <!-- Investments -->
+        <tr>
+            <td style="padding-top: 10px;">INVESTMENTS</td>
+            <td class="amount single-underline" style="padding-top: 10px;">--</td>
+            <td class="amount single-underline" style="padding-top: 10px;">45,001</td>
+        </tr>
+
+        <!-- Total Assets -->
+        <tr class="total-row">
+            <td></td>
+            <td class="amount double-underline">$ 276,498</td>
+            <td class="amount double-underline">$ 331,259</td>
+        </tr>
+
+        <!-- LIABILITIES SECTION -->
+        <tr>
+            <td colspan="3" class="section-title">LIABILITIES</td>
+        </tr>
+
+        <!-- Current Liabilities -->
+        <tr>
+            <td style="font-weight: bold;">CURRENT</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="indent">Bank overdraft</td>
+            <td class="amount">$ --</td>
+            <td class="amount">$ 9,474</td>
+        </tr>
+        <tr>
+            <td class="indent">Bank loan</td>
+            <td class="amount">--</td>
+            <td class="amount">60,000</td>
+        </tr>
+        <tr>
+            <td class="indent">Accounts payable and accrued liabilities</td>
+            <td class="amount">82,053</td>
+            <td class="amount">91,343</td>
+        </tr>
+        <tr>
+            <td class="indent">Long-term debt - current portion</td>
+            <td class="amount">25,200</td>
+            <td class="amount">--</td>
+        </tr>
+        <tr>
+            <td class="indent">Income tax payable</td>
+            <td class="amount single-underline">14,387</td>
+            <td class="amount single-underline">--</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="amount">121,640</td>
+            <td class="amount">160,817</td>
+        </tr>
+
+        <!-- Due to Shareholder -->
+        <tr>
+            <td style="padding-top: 10px;">DUE TO SHAREHOLDER (Note 3)</td>
+            <td class="amount single-underline" style="padding-top: 10px;">51,591</td>
+            <td class="amount single-underline" style="padding-top: 10px;">231,791</td>
+        </tr>
+
+        <!-- Long-term Debt -->
+        <tr>
+            <td style="padding-top: 10px;">LONG-TERM DEBT (Note 4)</td>
+            <td class="amount single-underline" style="padding-top: 10px;">86,100</td>
+            <td class="amount single-underline" style="padding-top: 10px;">--</td>
+        </tr>
+
+        <!-- Total Liabilities -->
+        <tr class="total-row">
+            <td></td>
+            <td class="amount single-underline">259,331</td>
+            <td class="amount single-underline">392,608</td>
+        </tr>
+
+        <!-- SHAREHOLDER'S EQUITY SECTION -->
+        <tr>
+            <td colspan="3" class="section-title">SHAREHOLDER'S EQUITY</td>
+        </tr>
+
+        <!-- Stated Capital -->
+        <tr>
+            <td style="padding-top: 10px;">STATED CAPITAL (Note 5)</td>
+            <td class="amount" style="padding-top: 10px;">1</td>
+            <td class="amount" style="padding-top: 10px;">1</td>
+        </tr>
+
+        <!-- Retained Earnings -->
+        <tr>
+            <td style="padding-top: 10px;">RETAINED EARNINGS (DEFICIT)</td>
+            <td class="amount single-underline" style="padding-top: 10px;">17,166</td>
+            <td class="amount single-underline" style="padding-top: 10px;">(61,350)</td>
+        </tr>
+
+        <!-- Total Equity -->
+        <tr>
+            <td></td>
+            <td class="amount single-underline">17,167</td>
+            <td class="amount single-underline">(61,349)</td>
+        </tr>
+
+        <!-- Grand Total -->
+        <tr class="total-row">
+            <td></td>
+            <td class="amount double-underline">$ 276,498</td>
+            <td class="amount double-underline">$ 331,259</td>
+        </tr>
+    </table>
+
+    <!-- Footer Section -->
+    <table>
+        <tr>
+            <td style="width: 50%; text-align: center; padding-top: 30px;">
+                APPROVED
+            </td>
+            <td style="width: 50%;"></td>
+        </tr>
+        <tr>
+            <td style="border-top: 1px solid black; width: 30%; margin-left: 10%;"></td>
+            <td></td>
+        </tr>
+    </table>
+
+</body>
+</html>
+```

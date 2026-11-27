@@ -1,0 +1,67 @@
+```latex
+\begin{tabular}{ccccc}
+A & 1 & 8 & 9 & 16 \\
+B & 2 & 7 & 10 & 15 \\
+C & 3 & 6 & 11 & 14 \\
+D & 4 & 5 & 12 & 13 \\
+\end{tabular}
+
+\begin{enumerate}
+\setcounter{enumi}{6}
+    \item In which row is the number 600? \\
+    (1) 1st row \quad (2) 2nd row \quad (3) 3rd row \quad (4) 4th row
+    
+    \item How many columns are there in Row A if 200 is the last number? \\
+    (1) 48 \quad (2) 50 \quad (3) 52 \quad (4) 54
+    
+    \item Compute the following. \\
+    $37 + 397 + 3997 + 39\,997$ \\
+    (1) 42\,284 \quad (2) 42\,482 \quad (3) 44\,248 \quad (4) 44\,428
+    
+    \item Compute the following. \\
+    $298 + 2998 + 29\,998 + 299\,998$ \\
+    (1) 333\,292 \quad (2) 334\,222 \quad (3) 334\,292 \quad (4) 335\,222
+    
+    \item Compute the following. \\
+    $9 + 99 + 999 + 9999 + 99\,999$ \\
+    (1) 110\,215 \quad (2) 110\,745 \quad (3) 110\,995 \quad (4) 111\,105
+    
+    \item A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have? \\
+    (1) 24 \quad (2) 25 \quad (3) 26 \quad (4) 27
+    
+    \item A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there? \\
+    (1) 10 \quad (2) 11 \quad (3) 12 \quad (4) 13
+    
+    \item Find the values of A and B in the following. \\
+    % Triangle diagrams represented as nested tabulars for visual approximation
+    \begin{center}
+    \begin{tabular}{c}
+        \begin{tabular}{c}
+            18 \\
+            \hline
+            10 \\
+            \hline
+            12 \quad 16
+        \end{tabular}
+        \quad
+        \begin{tabular}{c}
+            34 \\
+            \hline
+            A \\
+            \hline
+            25 \quad 15
+        \end{tabular}
+        \quad
+        \begin{tabular}{c}
+            20 \\
+            \hline
+            22 \\
+            \hline
+            B \quad 18
+        \end{tabular}
+    \end{tabular}
+    \end{center}
+    (1) A = 6, B = 18 \quad (3) A = 8, B = 20 \\
+    (2) A = 6, B = 24 \quad (4) A = 8, B = 22
+\end{enumerate}
+```

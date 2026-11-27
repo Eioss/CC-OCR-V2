@@ -1,0 +1,149 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{tikz}
+\usetikzlibrary{patterns}
+
+\begin{document}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|p{0.27\textwidth}|p{0.27\textwidth}|p{0.27\textwidth}|}
+\hline
+110 -- withdrawn socially
+&
+460 -- can't sleep at night
+&
+43 -- become asthmatic
+\\ \hline
+20 -- become deaf
+&
+21 -- become blind
+&
+566 -- have frequent headache and stomach ache
+\\ \hline
+1,164 -- can't concentrate
+&
+117 -- refuse to go to school
+&
+276 -- are in shock
+\\ \hline
+\end{tabular}
+\end{center}
+
+\noindent
+2. The natural calamities have tragically affected the lives of about
+15000 children in recent years in India. The tsunami waves and earthquakes
+created havoc on a large scale. About 5430 children became homeless due to
+the tsunami and 5438 were the victims of the earthquakes. Floods displaced
+2602 and droughts affected 2036 children. Epidemics affected 1313 children.
+
+\noindent
+Out of these figures, 1093 children live constantly in general fear;
+110 children have withdrawn socially; 20 children have become deaf and
+16 of them can't speak any more. More than 450 children can't sleep at
+night while 1164 can't concentrate on anything. The tragedy is that
+21 of them have become blind, 43 asthmatic and 276 are still in shock.
+566 suffer from frequent headache and stomach ache. About 850 children
+fear water and sound and 117 have refused to go to school.
+
+\medskip
+
+\noindent
+3. Disaster management programmes have not proved up to the mark and up
+to the task. The Government and the concerned agencies should provide
+comprehensive aids and help to the survivors, particularly the children.
+They must provide nutritious food, clothes, shelters and medical aids
+to them. The efforts should be made to wipe out the scars left by these
+disasters.
+
+\begin{center}
+\begin{tikzpicture}[x=1cm,y=1cm]
+    \fill[gray!25] (-0.25,-0.85) rectangle (7.5,4.9);
+
+    \node[font=\bfseries\small] at (3.6,4.5)
+        {Number of Children Surviving various Disasters};
+
+    % Bars and their printed values
+    \draw[pattern=horizontal lines]
+        (0,0) rectangle (0.75,3.8);
+    \draw[pattern=north east lines]
+        (0.75,0) rectangle (1.5,3.805);
+    \draw[pattern=crosshatch]
+        (1.5,0) rectangle (2.25,3.15);
+    \draw[pattern=north east lines]
+        (2.25,0) rectangle (3,2.5);
+    \draw
+        (3,0) rectangle (3.75,1.85);
+
+    \node[above,font=\small] at (0.375,3.8) {5430};
+    \node[above,font=\small] at (1.125,3.805) {5438};
+    \node[above,font=\small] at (1.875,3.15) {2602};
+    \node[above,font=\small] at (2.625,2.5) {2035};
+    \node[above,font=\small] at (3.375,1.85) {1313};
+
+    % Legend
+    \draw[pattern=horizontal lines]
+        (4.3,2.8) rectangle (5.05,3.3);
+    \node[right,font=\small] at (5.15,3.05) {Tsunami};
+
+    \draw[pattern=north east lines]
+        (4.3,2.2) rectangle (5.05,2.7);
+    \node[right,font=\small] at (5.15,2.45) {Earthquake};
+
+    \draw[pattern=crosshatch]
+        (4.3,1.6) rectangle (5.05,2.1);
+    \node[right,font=\small] at (5.15,1.85) {Floods};
+
+    \draw[pattern=north east lines]
+        (4.3,1.0) rectangle (5.05,1.5);
+    \node[right,font=\small] at (5.15,1.25) {Drought};
+
+    \draw
+        (4.3,0.4) rectangle (5.05,0.9);
+    \node[right,font=\small] at (5.15,0.65) {Epidemic};
+
+    \node[font=\bfseries,align=center] at (3.6,-0.45)
+        {Children haunted with fear, out of the\\
+         16,818 surveyed:};
+\end{tikzpicture}
+\end{center}
+
+\medskip
+
+\noindent
+\textbf{Based on your understanding of the passage, answer the following questions.}
+
+\medskip
+
+\noindent
+(i) Based on your understanding of the passage, choose the option that
+lists the statements that are TRUE.
+
+\medskip
+
+\noindent
+1.
+
+\medskip
+
+\noindent
+\fbox{%
+    \parbox{0.94\textwidth}{%
+        Some people are hugely benefited by a natural calamity.
+    }%
+}
+
+\bigskip
+
+\begin{flushright}
+CL X/ PB-I /ENG/PAGE 3 OF
+\end{flushright}
+
+\begin{center}
+\textcircled{3}
+\end{center}
+
+\end{document}
+```

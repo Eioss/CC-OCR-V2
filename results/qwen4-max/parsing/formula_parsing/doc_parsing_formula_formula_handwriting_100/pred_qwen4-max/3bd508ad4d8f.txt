@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+\int_{\mathbb{R}^{2}} \Lambda^{\frac{3}{5}}(u \cdot \nabla \theta) \Lambda^{\frac{3}{5}} \theta d x & =\int_{\mathbb{R}^{2}} \Lambda^{\frac{3}{5}}\left(u_{i} \partial_{i} \theta\right) \Lambda^{\frac{3}{5}} \theta d x \\
+& =\int_{\mathbb{R}^{2}} \Lambda\left(u_{i} \partial_{i} \theta\right) \Lambda^{2} \theta d x \\
+& =\int_{\mathbb{R}^{2}}\left[\Lambda, u_{i}\right] \partial_{i} \theta \Lambda^{2} \theta d x+\int_{\mathbb{R}^{2}} u_{i} \Lambda \partial_{i} \theta \Lambda^{2} \theta d x \\
+& =\int_{\mathbb{R}^{2}}\left[\Lambda, u_{i}\right] \partial_{i} \theta \Lambda^{2} \theta d x+\int_{\mathbb{R}^{2}} \Lambda^{\frac{1}{5}}\left(u_{i} \Lambda \partial_{i} \theta\right) \Lambda^{\frac{3}{5}} \theta d x \\
+& =\int_{\mathbb{R}^{2}}\left[\Lambda, u_{i}\right] \partial_{i} \theta \Lambda^{2} \theta d x+\int_{\mathbb{R}^{2}}\left[\Lambda^{\frac{1}{5}}, u_{i}\right] \Lambda \partial_{i} \theta \Lambda^{\frac{3}{5}} \theta d x \\
+& +\int_{\mathbb{R}^{2}} u_{i} \Lambda^{\frac{1}{5}} \Lambda \partial_{i} \theta \Lambda^{\frac{3}{5}} \theta d x \\
+& =\int_{\mathbb{R}^{2}}\left[\Lambda, u_{i}\right] \partial_{i} \theta \Lambda^{2} \theta d x+\int_{\mathbb{R}^{2}}\left[\Lambda^{\frac{1}{5}}, u_{i}\right] \Lambda \partial_{i} \theta \Lambda^{\frac{3}{5}} \theta d x \\
+& +\int_{\mathbb{R}^{2}} u_{i} \partial_{i} \Lambda^{\frac{3}{5}} \theta \Lambda^{\frac{3}{5}} \theta d x \\
+& =\int_{\mathbb{R}^{2}}\left[\Lambda, u_{i}\right] \partial_{i} \theta \Lambda^{2} \theta d x+\int_{\mathbb{R}^{2}}\left[\Lambda^{\frac{1}{5}}, u_{i}\right] \Lambda \partial_{i} \theta \Lambda^{\frac{3}{5}} \theta d x \\
+& \triangleq \widetilde{\Gamma}_{1}+\widetilde{\Gamma}_{2} .
+\end{aligned}
+\]

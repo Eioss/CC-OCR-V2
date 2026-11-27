@@ -1,0 +1,7 @@
+Looking at the receipt, the GST ID number '000750673920' appears after "GST ID :" on that line.
+
+Estimating coordinates: The text starts around x=455 and ends around x=700. Vertically it's around y=280 to y=296.
+
+Let me look more carefully. The line "GST ID : 000750673920" is at roughly y=288. The number portion begins after the colon space, around x=455, ending near x=700.
+
+(455, 279, 700, 296)

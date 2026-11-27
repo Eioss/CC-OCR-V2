@@ -1,0 +1,17 @@
+```latex
+\begin{align*}
+\partial_{\xi_j}(\nabla \mathcal{L}) &= (\prod_{l=1}^n \lambda_l)^2 \nabla \mathcal{L} \\
+&\quad + |\nabla \mathcal{L}|^2 \sum_{j=1}^n \sum_{k=1}^n \varepsilon_j \tau_{jk}^2 X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad + 2 \lambda_j \partial_j \Lambda e_1 \wedge \dots \wedge e_n + \tau \sum_{k=1}^n \sum_{j \neq k}^n \varepsilon_j \tau_{jk}^2 \Lambda e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad - \tau \sum_{k=1}^n \varepsilon_j \delta_{jk} \Lambda e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad - \tau \sum_{\substack{j,k=1 \\ j \neq k}}^n \varepsilon_j \omega_{jl}(e_j) X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad - \tau \sum_{\substack{j,k=1 \\ j \neq k}}^n \sum_{\substack{l=1 \\ l \neq j}}^n \varepsilon_j \tau_{jk}^2 X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad + \tau \sum_{k=1}^n \varepsilon_k (\Lambda D_{e_k} \Lambda(e_j), e_j) X \wedge e_1 \wedge \dots \wedge e_n \\
+&\quad - \tau \sum_{k=1}^n X \wedge e_1 \wedge \dots \wedge \widehat{D_{e_k} \Lambda e_j} \wedge \dots \wedge e_n \\
+&\quad + \tau \sum_{\substack{j,k=1 \\ j \neq k}}^n \varepsilon_j \varepsilon_k \tau_{jk}^2 \langle R_{jk}^i e_j, R_{jk}^i e_j \rangle e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad + \tau \sum_{\substack{j,k,l=1 \\ j \neq k \neq l}}^n \varepsilon_j \varepsilon_k R_{jk}^i \tau_{jk}^2 \sum_{l=1}^n \varepsilon_l \omega_{jl}(e_l) X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad \wedge \dots \wedge e_n + \tau \sum_{\substack{j,k=1 \\ j \neq k}}^n \varepsilon_j \tau_{jk}^2 X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad + \tau \sum_{\substack{j,k,l=1 \\ j \neq k \neq l}}^n \varepsilon_j \varepsilon_k R_{jk}^i \tau_{jk}^2 X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n \\
+&\quad - \tau \sum_{\substack{j,k,l=1 \\ j \neq k \neq l}}^n \varepsilon_j \varepsilon_k R_{jk}^i \omega_{kl}(e_l) X \wedge e_1 \wedge \dots \wedge \widehat{e_j} \wedge \dots \wedge \widehat{e_k} \wedge \dots \wedge e_n
+\end{align*}
+```

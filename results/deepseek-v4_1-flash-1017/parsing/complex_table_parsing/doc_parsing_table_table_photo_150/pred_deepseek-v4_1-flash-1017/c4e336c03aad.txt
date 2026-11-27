@@ -1,0 +1,212 @@
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Wave/<br>Year</th>
+      <th>Variable<br>name</th>
+      <th>Values</th>
+      <th>Values label</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">1/2006</td>
+      <td rowspan="4">XOWN2006</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">2/2007</td>
+      <td rowspan="4">XOWN2007</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">3/2008</td>
+      <td rowspan="4">XOWN2008</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">4/2009</td>
+      <td rowspan="4">XOWN2009</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">5/2010</td>
+      <td rowspan="4">XOWN2010</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">6/2011</td>
+      <td rowspan="4">XOWN2011</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">7/2012</td>
+      <td rowspan="4">XOWN2012</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">8/2013</td>
+      <td rowspan="4">XOWN2013</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">9/2014</td>
+      <td rowspan="4">XOWN2014</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">10/2015</td>
+      <td rowspan="4">XOWN2015</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+    <tr>
+      <td rowspan="4">11/2016</td>
+      <td rowspan="4">XOWN2016</td>
+      <td>1</td>
+      <td>1 Currently own or buying</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2 Currently renting</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3 Not living in own home</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>99 Unknown</td>
+    </tr>
+  </tbody>
+</table>
+```

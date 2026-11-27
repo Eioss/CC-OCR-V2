@@ -1,0 +1,72 @@
+```latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+
+\begin{document}
+
+\begin{center}
+\textbf{ADDITIONS TO THE LIBRARY OF THE CHEMICAL SOCIETY}\\
+\textbf{DURING THE YEAR 1935.}
+\end{center}
+
+ACTA PHYSICOCHIMICA U.R.S.S. Vol. I, etc. Moscow 1934 +. [Reference.]
+
+ADIE, R. W. See INDIAN LAC RESEARCH INSTITUTE.
+
+ALEXANDER, W. B. See DEPARTMENT OF SCIENTIFIC AND INDUSTRIAL RESEARCH. Water Pollution Research. Technical Paper No. 5.
+
+ALLSOP, G. See MINES DEPARTMENT. Safety in Mines Research Board. Papers Nos. 89 and 91.
+
+ALUMINIUM COMPANY OF AMERICA. Chemical analysis of aluminium. New Kensington, Pa. 1935. pp. 83.
+
+AMERICAN PETROLEUM INSTITUTE. A report on fundamental research in petroleum. New York 1932. pp. 56. ill.
+
+AMERICAN PUBLIC HEALTH ASSOCIATION and ASSOCIATION OF OFFICIAL AGRICULTURAL CHEMISTS. Standard methods of milk analysis, bacteriological and chemical. 6th edition. New York 1934. pp. xiv + 105. ill.
+
+ANGERER, ERNST VON. Apparate und Methoden der Spektroskopie. (Handbuch der Experimentalphysik, 21, pp. 265--396.) Leipzig 1927. ill.
+
+ARMSTRONG, E. F., and ARMSTRONG, K. F. The carbohydrates. 5th edition. (Monographs on Biochemistry.) London 1934. pp. viii + 252.
+
+ARMSTRONG, K. F. See ARMSTRONG, E. F.
+
+ASSOCIATION OF BRITISH CHEMICAL MANUFACTURERS. British chemicals and their manufacturers. London 1935. pp. 450. [Reference.]
+
+ASSOCIATION OF OFFICIAL AGRICULTURAL CHEMISTS. See AMERICAN PUBLIC HEALTH ASSOCIATION.
+
+AUSTRALIA, COMMONWEALTH OF. Council for Scientific and Industrial Research. Bulletin No. 83. Natural pastures : their response to superphosphate. By J. G. Davies, A. E. Scott, and K. M. Fraser. Melbourne 1934. pp. 76. ill.
+
+\textemdash\textemdash\ Bulletin No. 84. The basal (standard) metabolism of the Australian merino sheep---II. By A. W. Peirce. Melbourne 1934. pp. 22.
+
+AUSTRALIA, COMMONWEALTH OF. Council for Scientific and Industrial Research. Bulletin No. 86. Studies on the phosphorus requirements of sheep. II. By H. R. Marston [and others]. Melbourne 1934. pp. 22. ill.
+
+\textemdash\textemdash\ Bulletin No. 89. A soil survey of the Berri, Cobdogla, Kingston, and Moorook irrigation areas, and the Lyrup village district, South Australia. By T. J. Marshall and P. D. Hooper. Melbourne 1935. pp. 55. ill.
+
+\textemdash\textemdash\ Bulletin No. 92. The apple-growing soils of Tasmania. By C. G. Stephens and J. K. Taylor. Melbourne 1935. pp. 65. ill.
+
+\textemdash\textemdash\ Pamphlet No. 49. Some important poison plants of North Australia. Compiled by the Poison Plants Committee. Melbourne 1934. pp. 44. ill.
+
+\textemdash\textemdash\ Pamphlet No. 51. The chemistry of Australian timbers. Part 4---A study of the lignin determination. By W. E. Cohen. Melbourne 1934. pp. 20. ill.
+
+\textemdash\textemdash\ Pamphlet No. 53. The identification of some commercial timbers of Australia. By W. E. Cohen. Melbourne 1935. pp. 23.
+
+\textemdash\textemdash\ Pamphlet No. 55. The selection, preservation, and utilisation of Australian pole timbers. By J. E. Cummins and H. E. Dadswell. Melbourne 1935. pp. 79. ill.
+
+\textemdash\textemdash\ Pamphlet No. 57. Tests of the efficacy of the oxy-acetylene scouring and chipping process for sterilising partly decayed poles. By J. E. Cummins. Melbourne 1935. pp. 43. ill.
+
+AYKROYD, W. R. Three philosophers (Lavoisier, Priestley and Cavendish). London 1935. pp. xii + 277. ill.
+
+BARKER, A. S. The use of fertilizers. A guide to the manuring of crops in Great Britain. London 1935. pp. x + 204.
+
+BARONI, A. See LEVI, GIORGIO RENATO.
+
+BARRY, T. HEDLEY, and DUNSTER, GEORGE WILLIAM. Varnish making. London [1934]. pp. xii + 132. ill.
+
+BASLE. SOCIETY OF CHEMICAL INDUSTRY. (Fifty years' history) 1884--1934. Basle 1934. pp. 85. ill.
+
+BASSINDALE, R. See DEPARTMENT OF SCIENTIFIC AND INDUSTRIAL RESEARCH. Water Pollution Research. Technical Paper No. 5.
+
+\end{document}
+```

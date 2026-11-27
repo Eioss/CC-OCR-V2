@@ -1,0 +1,14 @@
+$$
+\begin{aligned}
+&\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{\frac{r}{p}}\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{\frac{r}{q}} \le \frac{r}{p}\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}+\frac{r}{q}\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\\
+&\quad-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\left(\frac{r}{p}\right)+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right)\\
+&\quad\times\left(\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j}\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j}}-\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}}\right)^{2}\\
+&\hspace{12cm}(\text{by } (??))\\
+&\le \frac{r}{p}\sum_{i=1}^{n}\langle |T_i|^{p}x,y\rangle+\frac{r}{q}\sum_{i=1}^{n}\langle |T_i^*|^{q}x,y\rangle-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\left(\frac{r}{p}\right)+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right)\\
+&\quad\times\left(\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j}\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j}}-\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}}\right)^{2}\\
+&\hspace{12cm}(\text{by Lemma } (??),\ (a))\\
+&=\frac{r}{p}\left\langle\left(\sum_{i=1}^{n}|T_i|^{p}\right)x,y\right\rangle+\frac{r}{q}\left\langle\left(\sum_{i=1}^{n}|T_i^*|^{q}\right)x,y\right\rangle\\
+&\quad-\sum_{j=1}^{N}\left((-1)^{r_j}2^{j-1}\left(\frac{r}{p}\right)+(-1)^{r_j+1}\left[\frac{r_j+1}{2}\right]\right)\\
+&\quad\times\left(\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j}\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j}}-\sqrt[2^{j-1}]{\left(\sum_{i=1}^{n}\langle |T_i|x,y\rangle^{p}\right)^{k_j+1}\left(\sum_{i=1}^{n}\langle |T_i^*|x,y\rangle^{q}\right)^{2^{j-1}-k_j-1}}\right)^{2}
+\end{aligned}
+$$

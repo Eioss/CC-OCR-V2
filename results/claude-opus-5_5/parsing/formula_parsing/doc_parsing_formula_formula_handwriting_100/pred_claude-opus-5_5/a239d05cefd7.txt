@@ -1,0 +1,12 @@
+$$
+\begin{aligned}
+\tilde{r}_0(\zeta)(z,w) &= \frac{z_0+\bar{z}_0}{2} - t\,\bar{z}_\alpha A z_\alpha = 0,\\
+\tilde{r}_1(\zeta)(z,w) &= \frac{i w_0}{\zeta} - i\zeta \bar{w}_0 = 0,\\
+\tilde{r}_2(\zeta)(z,w) &= \left(w_1 - 2w_0\partial_{z_1} r(z)\right) + \overline{\left(w_1 - 2w_0\partial_{z_1} r(z)\right)} = 0,\\
+&\;\;\vdots\\
+\tilde{r}_{n+1}(\zeta)(z,w) &= \left(w_n - 2w_0\partial_{z_n} r(z)\right) + \overline{\left(w_n - 2w_0\partial_{z_n} r(z)\right)} = 0,\\
+\tilde{r}_{n+2}(\zeta)(z,w) &= i\left(w_1 - 2w_0\partial_{z_1} r(z)\right) - i\,\overline{\left(w_1 - 2w_0\partial_{z_1} r(z)\right)} = 0,\\
+&\;\;\vdots\\
+\tilde{r}_{2n+1}(\zeta)(z,w) &= i\left(w_n - 2w_0\partial_{z_n} r(z)\right) - i\,\overline{\left(w_n - 2w_0\partial_{z_n} r(z)\right)} = 0,
+\end{aligned}
+$$

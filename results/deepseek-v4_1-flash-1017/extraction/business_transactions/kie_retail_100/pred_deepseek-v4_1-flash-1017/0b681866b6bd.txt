@@ -1,0 +1,8 @@
+```json
+{
+  "company": "FamilyMart",
+  "date": "10/04/2018",
+  "address": "No 16A, Jalan Asaka U8/83, Bukit Jelutong, 40150 Shah Alam, Selangor, DE.",
+  "total": "5.80"
+}
+```

@@ -1,0 +1,61 @@
+\[
+\begin{aligned}
+\left(D^{i_1 i_2\cdots i_p=0,\,i_q=1,\,\cdots i_N}\right)'
+={}&\frac{1}{1+|x|^2}\Bigg[
+D^{i_1 i_2\cdots i_p=0,\,i_p=0,\,i_q=1,\,\cdots i_N}
+-|x|^2D^{i_1 i_2\cdots i_p=0,\,i_q=0,\,\cdots i_N}\\
+&\quad+xD^{i_1 i_2\cdots i_p=0\cdots,\,i_{q-1},\,i_{q+1},\,\cdots i_N}_{(Aq)_0}
+-x^{*}D^{i_1 i_2\cdots i_p=0\cdots,\,i_{q-1},\,i_{q+1},\,\cdots i_N}_{(Aq)_1}
+\Bigg].
+\end{aligned}
+\]
+
+\[
+S(n,k)=\frac{1}{k!}\sum_{d_1+\cdots+d_k=n}\frac{n!}{d_1!\cdots d_k!}
+\]
+
+\[
+g_1,\cdots,g_k\in G(A\cup\mathcal{R})\subset\langle A\rangle\cdot\langle\mathcal{R}\rangle
+\]
+
+\[
+\eta_q^2\xrightarrow[q\to\infty]{}\nu(k)|\nabla u|^2
+\quad\text{a.e. in }\Omega
+\]
+
+\[
+\eta_q^2\leq \nu(k)|\nabla u|^2
+\]
+
+\[
+(1-\delta)\|F_j(\Delta)f\|^2
+\leq\sum_{\nu}\sum_k\left|\left\langle F_j(\Delta)f,\theta_{\nu;j,k}\right\rangle\right|^2
+\leq(1+\delta)\|F_j(\Delta)f\|^2
+\]
+
+\[
+|\lambda|>R>\max\left\{|\mu^\sigma|:\mu^\sigma\in L^\sigma(\mathcal{U})\right\}
+\]
+
+\[
+\underline{S}_{\alpha}:=
+\begin{cases}
+S & \text{if }\alpha=\alpha_0,\\
+0 & \text{if }\alpha\neq\alpha_0,
+\end{cases}
+\]
+
+\[
+\frac{1}{\sqrt{d}}\|v\|_x
+\leq\|v\|_x^{(1)}
+\leq Ce^{\varepsilon k}\|v\|_x,
+\quad \forall v\in T_xM,\quad x\in\Lambda_k,
+\quad\cdots\ (3.1.2)
+\]
+
+\[
+V_{\mathrm{drift}}
+=\frac{d}{dt}\,
+\frac{\langle\phi_{NL}|x|\phi_{NL}\rangle}
+{\langle\phi_{NL}|\phi_{NL}\rangle}
+\]

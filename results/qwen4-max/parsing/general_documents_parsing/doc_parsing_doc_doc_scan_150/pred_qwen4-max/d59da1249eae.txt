@@ -1,0 +1,59 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+\textbf{\Large Mathematics Chart}
+\end{center}
+
+\begin{tabular}{lll}
+\toprule
+\textbf{Perimeter} & rectangle & $P = 2l + 2w \quad \text{or} \quad P = 2(l+w)$ \\
+\midrule
+\textbf{Circumference} & circle & $C = 2\pi r \quad \text{or} \quad C = \pi d$ \\
+\midrule
+\textbf{Area} & rectangle & $A = lw \quad \text{or} \quad A = bh$ \\
+& triangle & $A = \frac{1}{2}bh \quad \text{or} \quad A = \frac{bh}{2}$ \\
+& trapezoid & $A = \frac{1}{2}(b_1+b_2)h \quad \text{or} \quad A = \frac{(b_1+b_2)h}{2}$ \\
+& circle & $A = \pi r^2$ \\
+\midrule
+\textbf{Surface Area} & cube & $S = 6s^2$ \\
+& cylinder (lateral) & $S = 2\pi rh$ \\
+& cylinder (total) & $S = 2\pi rh + 2\pi r^2 \quad \text{or} \quad S = 2\pi r(h+r)$ \\
+& cone (lateral) & $S = \pi rl$ \\
+& cone (total) & $S = \pi rl + \pi r^2 \quad \text{or} \quad S = \pi r(l+r)$ \\
+& sphere & $S = 4\pi r^2$ \\
+\midrule
+\textbf{Volume} & prism or cylinder & $V = Bh^*$ \\
+& pyramid or cone & $V = \frac{1}{3}Bh^*$ \\
+& sphere & $V = \frac{4}{3}\pi r^3$ \\
+\multicolumn{3}{l}{\small $^*B$ represents the area of the Base of a solid figure.} \\
+\midrule
+\textbf{Pi} & $\pi$ & $\pi \approx 3.14 \quad \text{or} \quad \pi \approx \frac{22}{7}$ \\
+\midrule
+\textbf{Pythagorean Theorem} & & $a^2 + b^2 = c^2$ \\
+\midrule
+\textbf{Distance Formula} & & $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ \\
+\midrule
+\textbf{Slope of a Line} & & $m = \frac{y_2 - y_1}{x_2 - x_1}$ \\
+\midrule
+\textbf{Midpoint Formula} & & $M = \left( \frac{x_1+x_2}{2}, \frac{y_1+y_2}{2} \right)$ \\
+\midrule
+\textbf{Quadratic Formula} & & $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\
+\midrule
+\textbf{Slope-Intercept Form of an Equation} & & $y = mx + b$ \\
+\midrule
+\textbf{Point-Slope Form of an Equation} & & $y - y_1 = m(x - x_1)$ \\
+\midrule
+\textbf{Standard Form of an Equation} & & $Ax + By = C$ \\
+\midrule
+\textbf{Simple Interest Formula} & & $I = prt$ \\
+\bottomrule
+\end{tabular}
+
+\end{document}
+```

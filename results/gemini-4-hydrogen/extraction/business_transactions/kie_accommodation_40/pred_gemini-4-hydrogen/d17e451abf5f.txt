@@ -1,0 +1,11 @@
+```json
+{
+  "Departure Date": "01-NOV-20 12:58:00",
+  "Arrival Date": "30-OCT-20 23:59:00",
+  "Total Amount": "1,000.00",
+  "Name": "Brett Vance",
+  "Balance": "0.00 CNY",
+  "Address": "No.2, North 3rd Ring Road East Road, Chaoyang District, Beijing 100028, P.R.China",
+  "Hotel Name": "精芯网络酒店"
+}
+```

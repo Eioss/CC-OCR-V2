@@ -1,0 +1,59 @@
+\[
+\begin{aligned}
+&\int_{B(0,5R_0^{-1})\setminus B(R)}
+\nabla v\,\nabla\varphi_\alpha\,dV_{g_\alpha}
+\leq C\|\varphi\|_{H^1(M)}
+\left(
+\int_{B(0,5R_0^{-1})\setminus B(R)}
+|\nabla v|^2\,dx
+\right)^{1/2}
+=o\!\left(\|\varphi\|_{H^1(M)}\right)\in\mathbb R,
+\\[1em]
+&K_Y^{[1]}(u)=
+\begin{cases}
+K_X^{[1]}(u), & \text{if }u\notin(u_a,u_b),\\
+\bigl(a(u-u_a)+K_X^{[1]}(u_a)\bigr)
+\vee
+\bigl(b(u-u_b)+K_X^{[1]}(u_b)\bigr),
+& \text{if }u\in(u_a,u_b).
+\end{cases}
+\\[1em]
+&f(x)+f(y)
+=f(p(x))+f(p(y))
+\geq f\bigl(p(x)\to p(y)\bigr)+f\bigl(p(y)\to p(x)\bigr)
+\\
+&\qquad
+=f\bigl(p(x\to y)\bigr)+f\bigl(p(y\to x)\bigr)
+=f(x\to y)+f(y\to x),
+\\[1em]
+&-qh''\!\left(\frac{d(x)}{\varepsilon/3}\right)
++W''\!\left(q\!\left(\frac{d(x)}{\varepsilon/3}\right)\right)
+-b\left(
+q\!\left(\frac{d(x)}{\varepsilon/3}\right)
+-q\!\left(\frac{d(x)}{\varepsilon/3}\right)^2
+\right)\Delta d(x)
+\\
+&\qquad
++30\left(
+q\!\left(\frac{d(x)}{\varepsilon/3}\right)
+-q\!\left(\frac{d(x)}{\varepsilon/3}\right)^2
+\right)^2\lambda_0=0,
+\\[1em]
+&E_n(\omega)=\hbar\omega n,\qquad n=0,1,2,\ldots,
+\\[1em]
+&p[r(m_1),p(m_2)]=[r(m_1),p(m_2)]\neq0,
+\\[1em]
+&v(t,x,p)\approx1,
+\qquad
+\left|D_p^\beta v(t,x,p)\right|\lesssim(p^0)^{-1},
+\qquad |p|>0,
+\\[1em]
+&\left(
+i\omega\cdot l-
+\underbrace{\bigl(d_r(\omega,j)-d_r(\omega,k)\bigr)}
+_{=:i\delta_{j,k}(\omega)}
+\right)\Psi_j^k(l)
++\overline{R}_j^k(l)
+=([R])_j^k(l).
+\end{aligned}
+\]

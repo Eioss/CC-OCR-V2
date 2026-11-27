@@ -1,0 +1,34 @@
+\[
+\begin{aligned}
+\mathfrak m(T,v)
+&:=\frac{1}{|\mathcal D_\psi|}
+\sum_{x\in\mathcal D_\psi}
+\epsilon_\psi(\bar x)\langle x,\bar x\rangle v(x)^{-1}
+(\lambda_{\max}x),\\[4pt]
+V(t_0,T,\bar e)
+&\ge 1-\exp\!\left(-\frac{\delta^2}{C(T-t_0)^2}\right),
+\qquad \bar e\ge \Lambda+\ell(T-t_0)+\delta,\\[4pt]
+V(t_0,T,\bar e)
+&\le \exp\!\left(-\frac{\delta^2-1}{C(T-t_0)^2}\right),
+\qquad \bar e\le \Lambda-\delta,\\[4pt]
+S_\lambda(\theta)
+&\le S_1(\theta)
+\le e^{c(e^{2|\theta|}-1)}S_1(0)
+\qquad \text{for every }\theta,\\[4pt]
+c_{\kappa-1}\frac{H-\frac12\varphi^H(x)}{H-\frac12}
+&\le
+\int_0^1
+(v+\kappa-1)^{H-\frac12}
+(v+\kappa-1-x)^{H-\frac32}\,dv
+\le
+\kappa\frac{H-\frac12\varphi^H(x)}{H-\frac12},\\[4pt]
+D_{k,k}^{\,l}\!\left(h_{k,k}^{(l)}\right)
+&=\frac12\sigma'''\!\left(\ell_{k,k}^{(l)}\right)
+M_{k,k}^{\,l}\left(h_{k,k}^{(l)}\right)^2
++N_{k,k}^{\,l}\!\left(h_{k,k}^{(l)}\right)\\
+&=-\frac12\sigma'''\!\left(\ell_{k,k}^{(l)}\right)
+M_{k,k}^{\,l}\left(h_{k,k}^{(l)}\right)^2
++\frac12\sigma''(0)
+\left(X_{k,k}^{(l)}+Y_{k,k}^{(l)}+J_{k,k}^{(l)}\right).
+\end{aligned}
+\]

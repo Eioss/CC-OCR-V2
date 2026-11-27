@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "BASO TAHU", "price": "46000"}, {"nm": "NASI PUTIH", "price": "6000"}, {"nm": "BASO TAHU", "price": "46000"}, {"nm": "NASI PUTIH", "cnt": "2x", "unitprice": "6000", "price": "12000"}], "total": {"total_price": "110000", "cashprice": "110000", "menuqty_cnt": "5Q"}}
+```

@@ -1,0 +1,19 @@
+$$
+\begin{aligned}
+&E\left[\sum_{a}\sum_{z}\frac{I\{PS=S4\}\,I\{Z=z\}\,I\{A_0=z\}\,a(a+z)\gamma_a}{2}\,\middle|\,X\right]\\
+&=\left[\sum_{a}\sum_{z}\frac{I(PS=S4)\,I(A_0=a)\,a(a+z)\gamma_a}{2}\right]f(z\,|\,X)\\
+&\lambda_{\ell}-\lambda_{\ell+1}\geq
+\begin{cases}
+w(c_\ell)+\delta(c_\ell,c_{\ell+1}), & \text{if } c_\ell<2^{n-1}\\
+w(c_\ell)+\delta(c_\ell-2^{n-1},c_{\ell+1}), & \text{if } c_\ell>2^{n-1}
+\end{cases}\\
+&h_{\min}(x^{S-1})>h_{\min}(x^{S})>h_{\min}(x^{S+1})>\cdots>h_{\min}(x^{2n}).\\
+&\sum_{\ell}\kappa(\tilde{u}_\ell)\leq\sum_{\ell}\left(\kappa(u_\ell)-1\right)\leq\sum_{\ell}\kappa(u_\ell)-d\leq n\\
+&P_0(\bar{E}_r)=P\left(\beta_{y(r),k(r)}=0,\ \beta_{k(r),y(r)}=0\,\middle|\,y\right)\\
+&\qquad\leq\min\left\{P\left(\beta_{y(r),k(r)}=0\,\middle|\,y\right),\ P\left(\beta_{k(r),y(r)}=0\,\middle|\,y\right)\right\}\\
+&A_0\lesssim\int_0^t\|u^{k/4}\|_{L^\infty_{xy}}\|D_x^{\alpha}(u^{k/4}u_x)\|_{L^2_{xy}}\,dt'+\int_0^t\|D_x^{\alpha}(u^{k/4})\,u^{k/4}u_x\|_{L^2_{xy}}\,dt'\\
+&\quad=A_1+A_2.\\
+&\|Du\|_{L^2(\partial\Omega)}\geq\left\|\frac{\lambda(\Omega)}{N}|x-x_0|-|Du|\right\|_{L^2(\partial\Omega)}\\
+&\qquad\geq\left\|\frac{\lambda(\Omega)}{N}|x-x_0|-1\right\|_{L^2(\partial\Omega)}-\left\||Du|-1\right\|_{L^2(\partial\Omega)},
+\end{aligned}
+$$

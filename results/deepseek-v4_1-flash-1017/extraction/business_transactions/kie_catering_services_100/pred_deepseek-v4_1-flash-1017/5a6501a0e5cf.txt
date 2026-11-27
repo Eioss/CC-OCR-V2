@@ -1,0 +1,23 @@
+```json
+{
+  "menu": [
+    {
+      "name": "Kopi Susu Kampung. Ice",
+      "quantity": "1",
+      "price": "19.000"
+    },
+    {
+      "name": "Kopi Susu Kampung Less Ice",
+      "quantity": "0",
+      "price": "0"
+    },
+    {
+      "name": "Kopi Susu Kampung. Ice",
+      "quantity": "2",
+      "price": "38.000"
+    }
+  ],
+  "sub_total": "57.000",
+  "total": "57.000"
+}
+```

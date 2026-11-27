@@ -1,0 +1,91 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large \textbf{\underline{TRIGONOMETRY}}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \begin{itemize}
+        \item \(\sin(A+B) = \sin A \cdot \cos B + \cos A \cdot \sin B\)
+        \item \(\sin(A-B) = \sin A \cdot \cos B - \cos A \cdot \sin B\)
+        \item \(\cos(A+B) = \cos A \cdot \cos B - \sin A \cdot \sin B\)
+        \item \(\cos(A-B) = \cos A \cdot \cos B + \sin A \cdot \sin B\)
+        \item \(\tan(A+B) = \frac{\tan A + \tan B}{1 - \tan A \tan B}\)
+        \item \(\tan(A-B) = \frac{\tan A - \tan B}{1 + \tan A \cdot \tan B}\)
+        \item \(\cot(A+B) = \frac{\cot B \cdot \cot A - 1}{\cot B + \cot A}\)
+        \item \(\cot(A-B) = \frac{\cot B \cdot \cot A + 1}{\cot B - \cot A}\)
+    \end{itemize}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \begin{itemize}
+        \item odd \(F(x) \Rightarrow f(-x) = -f(x)\)
+        \item Even \(f(x) \Rightarrow F(-x) = +F(x)\)
+        \item[] \(\cos(-x) = \cos x\) \quad \(\sec(-x) = \sec x\)
+        \item[] \(\sin(-x) = -\sin x\) \quad \(\csc(-x) = -\csc x\)
+        \item[] \(\tan(-x) = -\tan x\) \quad \(\cot(-x) = -\cot x\)
+        \item \(2 \sin A \cdot \cos B = \sin(A+B) + \sin(A-B)\)
+        \item \(2 \cos A \cdot \sin B = \sin(A+B) - \sin(A-B)\)
+        \item \(2 \cos A \cdot \cos B = \cos(A+B) + \cos(A-B)\)
+        \item \(-2 \sin A \cdot \sin B = \cos(A+B) - \cos(A-B)\)
+        \item \(\sin(A+B) \cdot \sin(A-B) = \sin^2 A - \sin^2 B\)
+        \item \(\cos(A+B) \cdot \cos(A-B) = \cos^2 A - \sin^2 B\)
+    \end{itemize}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \begin{itemize}
+        \item \(\sin C + \sin D = 2 \cdot \sin\left(\frac{C+D}{2}\right) \cdot \cos\left(\frac{C-D}{2}\right)\)
+        \item \(\sin C - \sin D = 2 \cos\left(\frac{C+D}{2}\right) \cdot \sin\left(\frac{C-D}{2}\right)\)
+        \item \(\cos C + \cos D = 2 \cos\left(\frac{C+D}{2}\right) \cdot \cos\left(\frac{C-D}{2}\right)\)
+        \item \(\cos C - \cos D = -2 \sin\left(\frac{C+D}{2}\right) \cdot \sin\left(\frac{C-D}{2}\right)\)
+        \item[] \hspace{1.5cm} \(= 2 \sin\left(\frac{C+D}{2}\right) \cdot \sin\left(\frac{D-C}{2}\right)\)
+        \item \(\sin 2x = 2 \sin x \cdot \cos x = \frac{2 \tan x}{1 + \tan^2 x}\)
+        \item \(\cos 2x = \cos^2 x - \sin^2 x = 2 \cos^2 x - 1\)
+        \item[] \hspace{1.5cm} \(= 1 - 2 \sin^2 x = \frac{1 - \tan^2 x}{1 + \tan^2 x}\)
+        \item \(\tan 2x = \frac{2 \tan x}{1 - \tan^2 x}\)
+        \item \(\sin 3x = 3 \sin x - 4 \sin^3 x\)
+        \item \(\cos 3x = 4 \cos^3 x - 3 \cos x\)
+        \item \(\tan 3x = \frac{3 \tan x - \tan^3 x}{1 - 3 \tan^2 x}\)
+        \item \(a \sin x + b \cos x \xrightarrow{\hspace{1cm}} \text{Max. value} = +\sqrt{a^2+b^2}\)
+        \item[] \hspace{3.5cm} \(\text{Min. value} = -\sqrt{a^2+b^2}\)
+    \end{itemize}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \begin{itemize}
+        \item[] \fbox{\begin{minipage}{0.9\textwidth}
+            \(\sin^2\theta + \cos^2\theta = 1\) \quad \(1+\cos2x = 2\cos^2x\) \\
+            \(\sec^2\theta - \tan^2\theta = 1\) \quad \(1-\cos2x = 2\sin^2x\) \\
+            \(\csc^2\theta - \cot^2\theta = 1\) \quad \(\tan x = \frac{1-\cos2x}{\sin2x}\)
+        \end{minipage}}
+        \vspace{0.2cm}
+        \item \textbf{\underline{*General Solution of trigonometry}}
+        \item \(\sin x = 0 \Rightarrow x = n\pi\)
+        \item \(\cos x = 0 \Rightarrow x = (2n+1)\frac{\pi}{2}\)
+        \item \(\tan x = 0 \Rightarrow x = n\pi\)
+        \item \(\sin x = \sin y \Rightarrow x = n\pi + (-1)^n y\)
+        \item \(\cos x = \cos y \Rightarrow x = 2n\pi \pm y\)
+        \item \(\tan x = \tan y \Rightarrow x = n\pi + y\)
+        \item[] \(\left. \begin{aligned} \sin^2 x &= \sin^2 y \\ \cos^2 x &= \cos^2 y \\ \tan^2 x &= \tan^2 y \end{aligned} \right\} \Rightarrow x = n\pi \pm y\)
+        \item[] \hfill \(\boxed{n \in \mathbb{Z}}\)
+    \end{itemize}
+\end{minipage}
+
+\end{document}
+```

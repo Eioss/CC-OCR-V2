@@ -1,0 +1,10 @@
+[
+  {"bbox_2d":[631,246,832,264],"label":"date"},
+  {"bbox_2d":[662,212,829,241],"label":"doc_no_receipt_no"},
+  {"bbox_2d":[255,72,742,110],"label":"seller_address"},
+  {"bbox_2d":[462,129,699,147],"label":"seller_gst_id"},
+  {"bbox_2d":[54,52,958,73],"label":"seller_name"},
+  {"bbox_2d":[270,110,491,128],"label":"seller_phone"},
+  {"bbox_2d":[717,765,829,794],"label":"total_amount"},
+  {"bbox_2d":[739,643,828,670],"label":"total_tax"}
+]

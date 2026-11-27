@@ -1,0 +1,30 @@
+\[
+H ^ { \prime } ( \xi _ { 1 } ) = 3 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } + 3 \xi ^ { 2 } - 6 \xi \xi _ { 1 } \geq 3 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } - 3 - 6 | \xi _ { 1 } | \geq 2 ( 1 - \alpha ) \xi _ { 1 } ^ { 2 } .
+\]
+\[
+\int _ { 0 } ^ { T } ( | \hat { \theta } ( t ) | _ { q } ^ { q } ) ^ { ( 5 - b ) / 3 ( q - 1 - b ) } d t \leq C ( 1 + \int _ { 0 } ^ { T } | \nabla \hat { \theta } ( t ) | _ { 2 } ^ { 2 } d t ) \leq C ( 1 + \int _ { 0 } ^ { T } | \hat { \theta } ( t ) | _ { 2 - a } ^ { 2 - a } d t ) .
+\]
+\[
+I \leq \| f \| _ { D } ^ { 2 } 2 ^ { n d - 2 a n } \sum _ { \sigma _ { k } \in G _ { 1 } } \sum _ { \sigma _ { k } \in G _ { 2 } } \int _ { \sigma _ { 2 } } \int _ { \sigma _ { k } } | x - u | ^ { - 2 a } d u d x =
+\]
+\[
+\| f \| _ { D } ^ { 2 } 2 ^ { n d - 2 a n } \int _ { Q } \int _ { R ^ { d } \setminus Q ^ { \prime } } | x - u | ^ { - 2 a } d u d x ,
+\]
+\[
+\| E _ { 0 } ( \frac { f ^ { 2 } ( \zeta _ { k } ) } { | \zeta _ { k } | } ( 1 - | \zeta _ { k } | ) ^ { n - k + 1 } ) \| _ { p / 2 } \leq \| \zeta _ { 0 } \| _ { p / 2 } \sum _ { \ell = 0 } ^ { k - 1 } \int _ { E } ( 1 - | y | ) ^ { n - \ell } \frac { f ^ { 2 } ( y ) } { | y | } d \nu ( y )
+\]
+\[
++ \| f ^ { 2 } ( \zeta _ { 0 } ) | \zeta _ { 0 } | ^ { - 1 } ( 1 - | \zeta _ { 0 } | ) ^ { n + 1 } \| _ { p / 2 } .
+\]
+\[
+\Big | \sum _ { m \in C } \frac { 1 } { m ^ { p } \| m a \| ^ { p } } - \zeta ( 2 p ) a _ { \ell } ^ { p } \Big | \leq \frac { 3 ^ { p } } { 2 p - 1 } + 2 p 3 ^ { p - 1 } \zeta ( 2 p ) a _ { \ell } ^ { p - 1 } .
+\]
+\[
+d \nu ( x ) = \left \{ \begin{array} { l l } { - s ^ { 2 } x ^ { s - 1 } \log x \, d x \quad \mathrm { i f } \, \, s = t } \\ { s t \frac { x ^ { t - 1 } - x ^ { s - 1 } } { s - t } d x \quad \mathrm { i f } \, \, s \neq t \, \, . } \end{array} \right .
+\]
+\[
+\frac { \Gamma ( n - \gamma j ) } { \Gamma ( n + 1 ) } = n ^ { - \gamma j } \left( n ^ { - 1 } + { \cal O } ( n ^ { - 2 } ) \right) , \, \mathrm { a s } \, \, n \to \infty \, .
+\]
+\[
+\int _ { 0 } ^ { \infty } u ^ { b - 1 } ( u + 1 ) ^ { a - c } ( w + v u ) ^ { - a } d u = w ^ { - a } B ( b , c - b ) _ { 2 } F _ { 1 } [ a , b ; c ; 1 - v / w ] ,
+\]

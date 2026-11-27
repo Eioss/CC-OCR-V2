@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "TALAM UNGU", "cnt": "1X", "unitprice": "6500", "price": "6,500", "discountprice": "-2,600"}, {"nm": "AREM - AREM", "cnt": "1X", "unitprice": "8000", "price": "8,000", "discountprice": "-3,200"}, {"nm": "LEMPER", "cnt": "2X", "unitprice": "9000", "price": "18,000", "discountprice": "-7,200"}, {"nm": "MIKA SEDANG", "cnt": "1X", "unitprice": "0", "price": "0"}, {"nm": "PLASTIK KECIL", "cnt": "1X", "unitprice": "0", "price": "0"}, {"nm": "TEH KOTAK", "cnt": "1X", "unitprice": "5000", "price": "5,000"}], "sub_total": "24,500", "total": "24,500"}
+```

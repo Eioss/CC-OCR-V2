@@ -1,0 +1,4 @@
+The text '住宿服务' appears twice on the invoice, in the 02.11.20 and 03.11.20 rows:
+
+(156, 358, 205, 369)
+(156, 375, 205, 387)

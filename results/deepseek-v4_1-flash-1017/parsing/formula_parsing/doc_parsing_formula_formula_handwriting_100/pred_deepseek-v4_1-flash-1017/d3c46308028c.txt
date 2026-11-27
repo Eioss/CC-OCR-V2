@@ -1,0 +1,9 @@
+\frac{C_1}{K_{n,j+1}^2} \leq \left| \int \frac{Q_{n,j+1}^2(x) \ H_{n,j+1}(x) d\sigma_{j+1}(x)}{x-\bar{x}} \frac{}{Q_{n,j}(x)Q_{n,j+2}(x)} \right| \leq \frac{C_2}{K_{n,j+1}^2},
+
+E_\nu[\mathcal{Q}_\lambda(w;v)] \leq E_\nu[\mathcal{Q}_\lambda(\tilde{w};v)] + \varepsilon
+
+\|h^m\|_{L^2(0,T;H^1(\mathcal{O}))}^2 \leq C|\Delta^2 h^m|_{L^2(0,T;L^2(\mathcal{O}))}^2
+
+\langle P_{i,A}, P_{j,A} \rangle = -1 = \langle P_{j,A'}, P_{j,A'} \rangle
+
+(x_{[k-j]\lor d_2}, y_d^i - t_d, a_k) \in V

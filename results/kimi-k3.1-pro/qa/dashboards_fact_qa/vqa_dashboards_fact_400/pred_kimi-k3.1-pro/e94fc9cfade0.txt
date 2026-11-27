@@ -1,0 +1,5 @@
+The three basic approaches are:
+
+1. **Crawling** — Following links to browse the pages that make up the web.
+2. **Sorting** — Organizing results using a variety of ranking factors.
+3. **Indexing** — Storing sorted pages in an index so search engines can match queries with results faster.

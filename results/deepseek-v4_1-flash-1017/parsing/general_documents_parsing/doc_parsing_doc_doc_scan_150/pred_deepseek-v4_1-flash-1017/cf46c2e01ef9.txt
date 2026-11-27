@@ -1,0 +1,74 @@
+Here is the transcription of the text from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{top=1in, bottom=1in, left=1in, right=1in}
+
+\begin{document}
+
+\begin{center}
+    {\Large INDEX OF SUBJECTS.}
+    
+    \vspace{1em}
+    
+    {\large ABSTRACTS. 1900. Parts I \& II.}
+    
+    \vspace{0.5em}
+    
+    (Marked A. i and A. ii respectively); and also to Transactions, 1900 \\
+    (marked T.); and to Proceedings of the Session 1899---1900; \\
+    Nos. 213 to 226, Nov., 1899---June, 1900 (marked P.).
+\end{center}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\noindent \textbf{A.}
+
+\vspace{0.5em}
+
+\noindent \textbf{Abietic}, \(\alpha\)- and \(\beta\)-Abietinellic and Abietolic acids and Abietoreten (Tschirch and Weigel), A., i, 679.
+
+\noindent \textbf{Abietis canadensis}, balsam of (Tschirch and Bruning), A., i, 678.
+
+\noindent \textbf{Abietis pectinata}, balsam of (Tschirch and Weigel), A., i, 679.
+
+\noindent \textbf{Absorption} in the small intestine (Connheim), A., ii, 293.---of carbohydrates, fats, and proteids (Mosso), A., ii, 605.---of fat (Hofbauer), A., ii, 605; (Pflüger), A., ii, 667; (Friedemann), A., ii, 667.---of fat in the large intestine (Hamburger), A., ii, 418.---of iodides by the skin (Gaillard), A., ii, 419.---of iron by the intestine (Anderhalden), A., ii, 223, 289, 416.---of free oxygen by normal urine (Brie-Howitz), A., ii, 740.---of saline solutions by the small intestine (Wallace and Cushny), A., ii, 31.---of sugars in the intestine (Hédon), A., ii, 31.
+
+\noindent \textbf{Acacetin} from \textit{Robinia Pseudacacia} and its acetyl derivative (Perkin), T., 430; P., 1900, 45.
+
+\noindent \textbf{Acenaphthene}. See Aceto-Electrometry.
+
+\noindent \textbf{Acet-}. See also Aceto-, Acetyl, and under the Parent Substance.
+
+\noindent \textbf{Acetal} and \(p\)-cresol and resorcinol (Pose and Ettlinger), A., i, 392.
+
+\noindent \textbf{Acetaldehyde}, heat of combustion and of formation of (Berthelot and Delépine), A., ii, 334.
+
+\vspace{1em}
+
+\noindent \textbf{Acetaldehyde}, condensation of, with phenylhydrazine (Sonnholzer), A., i, 626.---estimation of, by the carbon reduction method (Rimini), A., ii, 56, 454; (Lewin), A., ii, 379.---detection of, in ether (Blaser), A., ii, 172.---detection of, in fermentation vinegar (Böttinger), A., ii, 773.
+
+\noindent \textbf{Acetaldehyde}, dibromo-, hydrate of (Fosse), A., i, 421.
+
+\noindent \textbf{Acetaldoxime}, spiroin of (Hartley and Dobbie), T., 321; P., 1900, 14.
+
+\noindent \textbf{Acetamide}, action of chloronitrobenzene on (Cohen), A., i, 421.
+
+\noindent \textbf{Acetamide}, action of silver oxide on (Lander), T., 737; P., 1900, 90.
+
+\noindent \textbf{Acetamide}, 3:5-dibromo-, 4:2- and 2:4-dichloro-, 2:4-dibromo-, and 2:4:6-tribromo- (Chattaway and Orton), A., ii, 642.
+
+\noindent \textbf{Acetamide}, \(o\)-mono- and 2:4-di-mono-chloro-, formation of (Chattaway and Orton), T., 760; P., 1900, 112.
+
+\noindent \textbf{Acetamide}, behaviour of, on heating with a hot acetic acid solution of (Chattaway, Orton, and Hurtley), T., 967.
+
+\noindent \textbf{Acetamides}, substituted, conversion of, into substituted nitrogen chlorides from their transformation (Chattaway, Orton, and Hurtley), T., 800; P., 1900, 125.
+
+\noindent \textbf{Acetamides}, \(p\)-chloro- and \(p\)-bromo-derivatives of, from substituted nitrogen chlorides (Chattaway, Orton and Hurtley), T., 800; P., 1900, 125.
+
+\end{document}
+```

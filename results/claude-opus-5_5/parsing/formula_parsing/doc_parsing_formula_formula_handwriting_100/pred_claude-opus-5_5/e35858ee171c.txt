@@ -1,0 +1,12 @@
+\begin{align*}
+&F_t = 4\langle(\Delta \hat{h})^2\rangle \\
+&\partial_t u_t(x) = \frac{1}{2}\Delta u_t(x) + \sigma(x, u_t(x))\dot{W}_t(x), \quad t \in [0,T],\ x \in \mathbb{R}, \\
+&D_u(z) = 0 \quad \forall z \in \Omega \setminus \partial U. \\
+&A \oplus B \in SC(X \times X \times \mathbb{R}) \\
+&\limsup_{t \to \infty} t^{\frac{d}{4} + \frac{1}{2}} \left| I_3^{\varepsilon}(t) \right| \leq C \lim_{t \to \infty} \int_0^{\infty} \int_{|w| \geq t^{\frac{1}{4}}} |U_f(w,r)|\, dw\, dr = 0. \\
+&|\varepsilon^T S_g \varepsilon| = \frac{\varepsilon^T A \varepsilon}{(x^T A_0^{-1} A A_0^{-1} x)^2} \left| (C^T x)^T (y - x) - (y - x)^T C x \right| \leq \frac{\varepsilon^T A \varepsilon \left( |Cx| + |C^T x| \right) |x - y|}{(x^T A_0^{-1} A A_0^{-1} x)^2} \\
+&m \circ \exp_{\varrho}(t D_1 \otimes D_2) = m \circ \left( \mathrm{id} \otimes \mathrm{id} + t D_1 \otimes D_2 + \frac{1}{H_2^{\varrho}} (t^2 D_1^2 \otimes D_2^2) \right) \\
+&\sum_{n \geq 1} \mu\{ T_m = i \} < \infty \\
+&\Lambda_1 = -2k \frac{p}{\langle p \rangle} \partial_p = -2k \sum_{j=1}^{3} \frac{z_j}{\langle z \rangle} \partial_{z_j}, \\
+&\Lambda_2 = \frac{k^2 |z|^2 \langle z \rangle - k}{\langle z \rangle^3} + \frac{k |z| \cosh |z|}{\langle z \rangle \sinh |z|}
+\end{align*}

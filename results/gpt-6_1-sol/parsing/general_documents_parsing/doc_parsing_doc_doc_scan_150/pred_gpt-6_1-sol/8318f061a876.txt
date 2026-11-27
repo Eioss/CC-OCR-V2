@@ -1,0 +1,187 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amsmath,amssymb,multicol}
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{12pt}
+\setlength{\columnseprule}{0.4pt}
+
+\newcommand{\heading}[1]{\par\medskip\underline{#1}\par\smallskip}
+\newcommand{\formula}[1]{\par\(\displaystyle #1\)\par\smallskip}
+
+\begin{document}
+
+\begin{center}
+Formula Sheet for Physics 251
+\end{center}
+
+\begin{multicols}{4}
+
+\heading{Constants}
+
+\formula{R=8.3145\,\frac{\mathrm{J}}{\mathrm{m}\cdot\mathrm{K}}}
+\formula{N_A=6.02\times10^{23}}
+\formula{k_B=\frac{R}{N_A}
+=1.38\times10^{-23}\,\frac{\mathrm{J}}{\mathrm{mol}\cdot\mathrm{K}}}
+\formula{e=1.602\times10^{-19}\,\mathrm{C}}
+\formula{k=\frac{1}{4\pi\epsilon_0}
+=9\times10^9\,\frac{\mathrm{N}\cdot\mathrm{m}^2}{\mathrm{C}^2}}
+\formula{\mu_0=4\pi\times10^{-7}\,\frac{\mathrm{T}\cdot\mathrm{m}}{\mathrm{A}}}
+\formula{c=3\times10^8\,\frac{\mathrm{m}}{\mathrm{s}}}
+
+\heading{Thermal Expansion}
+
+\formula{\Delta L=\alpha L_0\Delta T}
+\formula{\beta=3\alpha}
+
+\heading{Heat}
+
+\formula{Q=mc\Delta T}
+\formula{Q=\pm mL}
+\formula{Q=nC_V\Delta T}
+\formula{Q=nC_P\Delta T}
+
+\heading{Heat Current}
+
+\formula{H=k\frac{A}{L}(T_H-T_C)}
+\formula{H=Ae\sigma T^4}
+
+\heading{Quantities}
+
+\heading{Work}
+
+\formula{W=\int_{V_i}^{V_f}P\,dV}
+
+\heading{Isochoric Processes}
+
+\formula{W=0}
+\formula{Q=nC_V\Delta T}
+\formula{*\,\Delta U=nC_V\Delta T}
+
+\columnbreak
+
+\formula{m_{\mathrm{tot}}=nM}
+\formula{M=N_A m}
+\formula{N=N_A n}
+
+\heading{Ideal gases}
+
+\formula{*\,PV=nRT}
+\formula{*\,PV=NkT}
+\formula{*\,v_{\mathrm{RMS}}=\sqrt{\frac{3RT}{M}}}
+\formula{*\,C_V=\frac{3}{2}R\ \text{(monatomic)}}
+\formula{*\,C_V=\frac{5}{2}R\ \text{(diatomic)}}
+\formula{*\,C_P=C_V+R}
+
+\heading{Isobaric Processes}
+
+\formula{W=P\Delta V}
+\formula{Q=nC_P\Delta T}
+\formula{*\,\Delta U=nC_V\Delta T}
+
+\heading{Isothermal Processes}
+
+\formula{*\,W=nRT\ln\left(\frac{V_f}{V_i}\right)}
+\formula{*\,Q=nRT\ln\left(\frac{V_f}{V_i}\right)}
+\formula{*\,\Delta U=0}
+
+\heading{Adiabatic Processes}
+
+\formula{*\,W=-nC_V\Delta T}
+\formula{Q=0}
+\formula{*\,\Delta U=nC_V\Delta T}
+\formula{*\,P_iV_i^\gamma=P_fV_f^\gamma}
+\formula{*\,T_iV_i^{\gamma-1}=T_fV_f^{\gamma-1}}
+\formula{\gamma=\frac{C_P}{C_V}}
+
+\heading{Cyclic Processes}
+
+\formula{W=Q}
+\formula{\Delta U=0}
+
+\columnbreak
+
+\heading{Heat Engines}
+
+\formula{W=Q_H+Q_C}
+\formula{e=\frac{W}{Q_H}}
+\formula{e_c=1-\frac{T_C}{T_H}}
+
+\heading{Refrigerators}
+
+\formula{W=Q_H+Q_C}
+\formula{K=\frac{|Q_C|}{|W|}}
+\formula{K_c=\frac{T_C}{T_H-T_C}}
+
+\heading{Force, Field, Energy}
+\underline{and Potential}
+
+\formula{\vec F=q\vec E}
+\formula{\Delta U=q\Delta V}
+\formula{V_{ab}=\int_a^b\vec E\cdot d\vec l}
+\formula{\vec E=-\nabla V}
+
+\heading{1 Point Charge}
+
+\formula{\vec E=k\frac{q}{r^2}\hat r}
+\formula{V=k\frac{q}{r}}
+
+\heading{2 Point Charges}
+
+\formula{\vec F=k\frac{q_1q_2}{r^2}\hat r}
+\formula{U=k\frac{q_1q_2}{r}}
+
+\heading{Distributed Charge}
+
+\formula{\vec E=\int k\frac{dq}{r^2}\hat r}
+\formula{V=\int k\frac{dq}{r}}
+
+\columnbreak
+
+\heading{Many Sources}
+
+\formula{\vec E_T=\sum_i\vec E_i}
+\formula{U_T=\sum_{\mathrm{pairs}}U_{ij}}
+
+\heading{``Elementary'' E Fields}
+
+\formula{\vec E=k\frac{Q}{r^2}\hat r\ \text{sphere}}
+\formula{\vec E=\frac{\lambda}{2\pi\epsilon_0r}\hat r\ \text{line}}
+\formula{\vec E=\frac{\sigma}{2\epsilon_0}\hat n\ \text{plane}}
+\formula{\vec E=\frac{\sigma}{\epsilon_0}\hat n\
+\begin{gathered}
+\text{conducting}\\[-2pt]
+\text{surface}
+\end{gathered}}
+
+\heading{Capacitors}
+
+\formula{C=\frac{Q}{V}}
+\formula{C_T=\sum_i C_i\ \text{parallel}}
+\formula{\frac{1}{C_T}=\sum_i\frac{1}{C_i}\ \text{series}}
+\formula{U=\frac{1}{2}CV^2=\frac{Q^2}{2C}=\frac{1}{2}QV}
+\formula{\dagger\,C=\epsilon_0\frac{A}{d}}
+\formula{\dagger\,|\vec E|=\frac{V}{d}=\frac{\sigma}{\epsilon_0}}
+
+\heading{Flux and Gauss's Law}
+
+\formula{\varphi=\iint\vec E\cdot d\vec a}
+\formula{\varphi_{\mathrm{closed}}=\frac{Q_{\mathrm{enclosed}}}{\epsilon_0}}
+
+\heading{Current and Current}
+\underline{Density}
+
+\formula{I=\frac{dq}{dt}}
+\formula{I=\iint\vec j\cdot d\vec a}
+\formula{\vec j=nqv_d}
+
+\end{multicols}
+
+\bigskip
+* indicates formulas that are specific to ideal gases
+
+\(\dagger\) indicates formulas that are specific to parallel-plate capacitors
+
+\end{document}
+```

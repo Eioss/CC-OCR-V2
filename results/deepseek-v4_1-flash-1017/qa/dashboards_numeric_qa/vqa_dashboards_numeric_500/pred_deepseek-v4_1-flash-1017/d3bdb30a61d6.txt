@@ -1,0 +1,44 @@
+Based on the map in the top section of the infographic, the states are color-coded by cost, with a legend on the left indicating:
+*   **Red:** Highest
+*   **Orange:** Second-highest
+*   **Yellow:** Middle
+*   **Light Green:** Second-lowest
+*   **Dark Green:** Lowest
+
+To find the states with the **second-lowest** average monthly cost, we need to count the states colored **light green**.
+
+Looking at the map, the light green states are:
+1.  Washington ($1,061)
+2.  Oregon ($944)
+3.  Nevada ($821)
+4.  Arizona ($786)
+5.  Utah ($720)
+6.  New Mexico ($662)
+7.  Colorado ($1,096)
+8.  Kansas ($933)
+9.  Oklahoma ($566)
+10. Texas ($730)
+11. Arkansas ($500)
+12. Louisiana ($479)
+13. Mississippi ($402)
+14. Alabama ($470)
+15. Georgia ($637)
+16. Florida ($725)
+17. South Carolina ($540)
+18. North Carolina ($771)
+19. Virginia ($872)
+20. West Virginia ($661)
+21. Delaware ($917)
+22. Pennsylvania ($887)
+23. New Jersey ($961)
+24. New York ($1,179)
+25. Connecticut ($1,157)
+26. Rhode Island ($1,072)
+27. Massachusetts ($1,422)
+28. Vermont ($939)
+29. New Hampshire ($984)
+30. Maine ($793)
+
+*(Note: Alaska and Hawaii are shown in orange, which is the second-highest tier).*
+
+Counting the light green states listed above, there are **30** states in the second-lowest category.

@@ -1,0 +1,231 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{array}
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+\begin{center}
+{\large\textbf{PHY 231C FORMULAS}}
+\end{center}
+
+\textbf{Quadratic Formula}
+\[
+ax^2 + bx + c = 0
+\]
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\textbf{Geometry}\\
+Circle: circumference$=2\pi R$, area$=\pi R^2$\\
+Sphere: area$=4\pi R^2$, volume$=4\pi R^3/3$
+
+\textbf{Trigonometry}
+
+\begin{minipage}{0.45\linewidth}
+\begin{tikzpicture}[scale=0.9]
+  \draw (0,0) -- (3.5,0) -- (3.5,2) -- cycle;
+  \draw (3.25,0) -- (3.25,0.25) -- (3.5,0.25);
+  \node at (1.75,-0.3) {B};
+  \node[right] at (3.5,1) {A};
+  \node[above left] at (1.6,1.0) {C};
+  \node at (0.8,0.15) {$\alpha$};
+  \node at (3.15,1.5) {$\beta$};
+\end{tikzpicture}
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+\[
+\sin\alpha = \frac{A}{C}, \quad \cos\alpha = \frac{B}{C}
+\]
+\[
+\tan\alpha = \frac{A}{B}
+\]
+\end{minipage}
+
+\vspace{0.3em}
+\begin{minipage}{0.45\linewidth}
+\begin{tikzpicture}[scale=0.9]
+  \draw (0,0) -- (3.5,0) -- (3.2,2) -- cycle;
+  \node at (1.75,-0.3) {B};
+  \node[right] at (3.35,1) {A};
+  \node[above left] at (1.6,1.0) {C};
+  \node at (0.8,0.15) {$\alpha$};
+  \node at (2.95,1.5) {$\beta$};
+  \node at (3.1,0.25) {$\gamma$};
+\end{tikzpicture}
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+\[
+\frac{\sin\alpha}{A} = \frac{\sin\beta}{B} = \frac{\sin\gamma}{C}
+\]
+\[
+A^2 + B^2 - 2AB\cos\gamma = C^2
+\]
+\end{minipage}
+
+\textbf{Polar Coordinates}
+\[
+x = r\cos\theta, \quad y = r\sin\theta
+\]
+\[
+r = \sqrt{x^2 + y^2}, \quad \tan\theta = y/x
+\]
+
+\textbf{SI Units and Constants}
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+quantity & unit & abbreviation \\
+\hline\hline
+Mass $m$ & kilograms & kg \\
+\hline
+Distance $x$ & meters & m \\
+\hline
+Time $t$ & seconds & s \\
+\hline
+Force $F$ & Newtons & N=kg m/s$^2$ \\
+\hline
+Energy $E$ & Joules & J=N m \\
+\hline
+Power $P$ & Watts & W=J/s \\
+\hline
+Temperature $T$ & $^\circ$C, $^\circ$K or $^\circ$F & $T_{^\circ F} = 32 + (9/5)T_{^\circ C}$ \\
+\hline
+Pressure $P$ & Pascals & Pa=N/m$^2$ \\
+\hline
+\end{tabular}
+\end{center}
+
+$g = 9.8$ m/s$^2$, G$=6.67\times10^{-11}$ Nm$^2$/kg$^2$, 0$^\circ$C$=273.15^\circ$K\\
+$R = 8.31$ J/(mol$^\circ$K), $N_A = 6.023\times10^{23}$\\
+$k_B = R/N_A = 1.38\times10^{-23}$ J/$^\circ$K, 1 cal$=4.1868$ J\\
+$\sigma = 5.67\times10^{-8}$ W/(m$^2$K$^4$), $v_{\text{sound}} = 331\sqrt{T/273}$ m/s.
+
+\textbf{1-d motion, constant $a$}
+\[
+a = \frac{v_f - v_0}{t}
+\]
+\[
+v_{\text{av}} = \frac{v_0 + v_f}{2}, \quad (x_f - x_0) = v_{\text{av}}t
+\]
+\[
+(x_f - x_0) = v_0 t + \frac{1}{2}at^2 = v_f t - \frac{1}{2}at^2
+\]
+\[
+\frac{1}{2}v_f^2 - \frac{1}{2}v_0^2 = a(x_f - x_0)
+\]
+
+\textbf{Projectile Motion}
+\[
+\text{Range} = \frac{v^2}{g}\sin 2\theta, \qquad \text{Max. height} = \frac{v_0^2}{2g}\sin^2\theta
+\]
+
+\textbf{Momentum, Force and Impulse}
+\[
+p = mv, \;\; F = \frac{\Delta p}{\Delta t} = ma, I = F\Delta t = \Delta p
+\]
+
+\textbf{Work, Energy and Power}
+\[
+W = \vec{F}\cdot(\vec{r} - \vec{r}_0), KE = \frac{1}{2}mv^2, \;\; P = \frac{\Delta E}{\Delta t}
+\]
+
+\columnbreak
+
+\textbf{Gravity and circular orbits}
+\[
+PE = -G\frac{Mm}{r}, \;\; \Delta PE = mgh(\text{small } h), \;\; F = G\frac{Mm}{r^2} = mg
+\]
+\[
+a = \frac{v^2}{r}, \;\; \frac{GM}{4\pi^2} = \frac{R^3}{T^2}
+\]
+
+\textbf{Rotational Motion \& Gravity}
+\[
+v = \omega r = \frac{2\pi r}{T}, \quad \omega = 2\pi f = \frac{2\pi}{T}, f = 1/T
+\]
+\[
+\alpha = \frac{\omega_f - \omega_0}{t} = \frac{a}{r}
+\]
+\[
+L = I\omega = mvr\sin\theta, \;\; (\theta\text{= angle between v and r})
+\]
+\[
+KE = \frac{L^2}{2I} = \frac{1}{2}I\omega^2
+\]
+\[
+\tau = rF\sin\theta, \;\; I\alpha = \tau, \;\; I_{\text{point}} = mR^2
+\]
+\[
+I_{\text{cyl.shell}} = mR^2, \;\; I_{\text{sphere}} = \frac{2}{5}mR^2 \;\; I_{\text{solid cyl.}} = \frac{1}{2}mR^2.
+\]
+
+\textbf{Gases, liquids and solids}
+\[
+PV = NRT, \;\; \Delta P = \rho g h, \langle\frac{1}{2}mv^2\rangle = \frac{3}{2}k_B T
+\]
+\[
+F_{\text{bouyant}} = \rho_{\text{displaced liq.}} V_{\text{displaced liq.}} g
+\]
+\[
+\text{Stress} = F/A, \;\; \text{Strain} = \Delta L/L, \;\; Y = \text{Stress/Strain}
+\]
+\[
+\frac{\Delta L}{L} = \frac{F/A}{B} = \frac{-\Delta P}{B}.
+\]
+\[
+P_a + \frac{1}{2}\rho_a v_a^2 + \rho_a g h_a = P_b + \frac{1}{2}\rho_b v_b^2 + \rho_b g h_b
+\]
+\[
+\Delta L/L = \alpha\Delta T, \;\; \Delta V/V = 3\alpha\Delta T
+\]
+\[
+Q = mC_v\Delta T + mL(\text{if phase trans.}), \;\; \Delta Q/\Delta t = \frac{kA(T_b - T_a)}{x_b - x_a}
+\]
+
+\textbf{Radiation}
+\[
+P = e\sigma A T^4
+\]
+
+\textbf{Thermodynamics}\\
+$\Delta U = Q - W, \;\; W = P\Delta V$, ideal gas: $\Delta U = nC_V\Delta T$\\
+Adiabatic exp: $pV^\gamma = $const, $TV^{\gamma-1} = $const\\
+$\gamma = C_p/C_V$=5/3 for monotonic gas=7/5 for diatomic gas\\
+$Q = T\Delta S$, $\Delta S > 0$\\
+Engines: $\epsilon = W/Q_H < (T_H - T_L)/T_H < 1$\\
+Refrigerators and heat pumps: $\epsilon = Q_L/W < T_L/(T_H - T_L)$
+
+\vspace{0.8em}
+\textbf{Simple Harmonic Motion and Waves}\\
+Spring: $F = -kx$, $PE = (1/2)kx^2$, $\omega = \sqrt{k/m}$\\
+$f = \omega/(2\pi)$, $x(t) = A\cos(\omega t) + B\sin(\omega t)$\\
+Pendulum: $T = 2\pi\sqrt{L/g}$\\
+Waves: $y(x,t) = A\sin[2\pi(ft - x/\lambda + \delta)]$, $v = f\lambda$\\
+$I = \text{const}A^2 f^2$, $I_2/I_1 = R_1^2/R_2^2$\\
+Standing waves: $\lambda_n = 2L/n$\\
+Strings: $v = \sqrt{T/\mu}$, Solid/Liquid: $v = \sqrt{B/\rho}$\\
+Sound: $I = E/(A\cdot\Delta t) = $ Power$/A$\\
+$I_0 \equiv 10^{-12}$ W/m$^2$, Intensity in decibels$=10\log_{10}(I/I_0)$\\
+Beat freq.$=|f_1 - f_2|$, Doppler:\\
+\hspace*{2em}$f_{\text{obs}} = f_{\text{source}}(V_{\text{sound}} \pm v_{\text{obs}})/(V_{\text{sound}} \pm v_{\text{source}})$\\
+Pipes: same at both ends: $L = \lambda/2, \lambda, 3\lambda/2$\\
+Pipes: open at only one end: $L = \lambda/4, 3\lambda/4\cdots$
+
+\end{multicols}
+
+\end{document}
+```
+
+Notes on the transcription:
+- Original spellings from the sheet (e.g., "bouyant", "monotonic") were preserved as-is, per the "without alteration" instruction.
+- The two triangle diagrams were recreated with TikZ, using the same labels (A, B, C, α, β, γ) and the right-angle marker.

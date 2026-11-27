@@ -1,0 +1,7 @@
+```latex
+\begin{align*}
+&\frac{1}{2} \begin{bmatrix} D^{F_0} & Q^{F_0 F_0} & Q^{F_0 U} & Q^{F_0 F_1} \\ U & Q^{U F_0} & Q^{U U} & Q^{U F_1} \\ F_1 & Q^{F_1 F_0} & Q^{F_1 U} & Q^{F_1 F_1} \end{bmatrix} \begin{bmatrix} D^{F_0} & C^{F_0} & T \\ U & C^U & X \\ F_1 & C^{F_1} & \end{bmatrix} \\
+&= \frac{1}{2} \begin{bmatrix} X^U & T \\ F_1 & \end{bmatrix} \begin{bmatrix} Q^{U U} & Q^{U F_1} \\ Q^{F_1 U} & Q^{F_1 F_1} \end{bmatrix} \begin{bmatrix} C^U & T \\ C^{F_1} & \end{bmatrix} \begin{bmatrix} X \\ F_1 \end{bmatrix} \\
+&= \frac{1}{2} (X^U)^T Q^{U U} X^U + (X^U)^T Q^{U F_1} F_1 + (C^U)^T Q^{F_1 U} X^U + \xi_1
+\end{align*}
+```

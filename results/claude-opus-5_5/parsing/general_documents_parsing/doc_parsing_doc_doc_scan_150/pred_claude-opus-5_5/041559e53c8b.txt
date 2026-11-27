@@ -1,0 +1,38 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\begin{center}
+\textbf{\Large Important Algebraic Formulas}
+\end{center}
+
+\begin{align*}
+&(a+b)^2 = a^2 + b^2 + 2ab \\[6pt]
+&(a-b)^2 = a^2 + b^2 - 2ab \\[6pt]
+&a^2 - b^2 = (a+b)(a-b) \\[6pt]
+&a^2 + b^2 = (a+b)^2 - 2ab \qquad \text{or} \qquad a^2 + b^2 = (a-b)^2 + 2ab \\[6pt]
+&a^3 + b^3 = (a+b)(a^2 - ab + b^2) = (a+b)^3 - 3ab(a+b) \\[6pt]
+&a^3 - b^3 = (a-b)(a^2 + ab + b^2) = (a-b)^3 + 3ab(a-b) \\[6pt]
+&2(a^2 + b^2) = (a+b)^2 + (a-b)^2 \\[6pt]
+&(a+b)^2 - (a-b)^2 = 4ab \\[6pt]
+&a^4 + b^4 = (a+b)(a-b)\left[(a+b)^2 - 2ab\right] \\[6pt]
+&(a-b)^2 = (a+b)^2 - 4ab \\[6pt]
+&(a+b)^2 = (a-b)^2 + 4ab \\[6pt]
+&a^4 + b^4 = \left[(a+b)^2 - 2ab\right]^2 - 2(ab)^2 \\[6pt]
+&(a+b+c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca \\[6pt]
+&(a+b-c)^2 = a^2 + b^2 + c^2 + 2ab - 2bc - 2ca \\[6pt]
+&(a-b-c)^2 = a^2 + b^2 + c^2 - 2ab + 2bc - 2ca \\[6pt]
+&a^3 + b^3 + c^3 - 3abc = (a+b+c)(a^2 + b^2 + c^2 - ab - bc - ca) \\[6pt]
+&a^4 + a^2b^2 + b^4 = (a^2 + ab + b^2)(a^2 - ab + b^2 \\[6pt]
+&a^4 + a^2 + 1 = (a^2 + a + 1)(a^2 - a + 1) \\
+&\textit{if } a+b+c = 0 \textit{ then } a^3 + b^3 + c^3 = 3abc \\
+&a^8 - b^8 = (a^4 + b^4)(a^2 + b^2)(a+b)(a-b)
+\end{align*}
+
+\end{document}
+```
+
+**Notes on the source (transcribed as-is, per your request):**
+1. The ninth formula, $a^4 + b^4 = (a+b)(a-b)[(a+b)^2 - 2ab]$, is incorrect in the original. The right-hand side equals $a^4 - b^4$, so the correct identity is $a^4 - b^4 = (a+b)(a-b)\left[(a+b)^2 - 2ab\right]$.
+2. The formula $a^4 + a^2b^2 + b^4 = (a^2 + ab + b^2)(a^2 - ab + b^2$ is missing its closing parenthesis in the original.

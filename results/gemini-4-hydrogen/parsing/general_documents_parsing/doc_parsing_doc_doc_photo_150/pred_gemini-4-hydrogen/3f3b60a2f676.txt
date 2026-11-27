@@ -1,0 +1,148 @@
+Below is the faithful LaTeX transcription of the provided image:
+
+```latex
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+
+\setlength{\columnsep}{1.5em}
+\setlength{\columnseprule}{0.5pt}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+    \fbox{\textbf{\large MODEL TEST}} \colorbox{black}{\textcolor{white}{\textbf{\large 56}}}
+\end{center}
+
+\vspace{0.5em}
+
+\begin{multicols}{2}
+
+\textbf{Part--A : Reading Test [50 Marks]}
+
+\vspace{0.3em}
+\noindent\colorbox{gray!30}{\textbf{SEEN PASSAGE}} $\blacktriangleright$ \textbf{Read the following passage carefully and answer the questions 1, 2 \& 3.}
+
+\vspace{0.3em}
+Eid is the main \dots\dots\dots\dots empty and lost. \textit{[Unit--12; Lesson--1(B)]}
+
+\vspace{0.5em}
+\textbf{1. Choose the best answer from the alternatives.} $1 \times 7 = 7$
+
+\begin{enumerate}
+    \item[(a)] Eid is a --- festival of Muslims. \\
+    \begin{tabular}{@{}llll@{}}
+        i. social & ii. cultural & iii. religious & iv. communal
+    \end{tabular}
+
+    \item[(b)] What is the meaning of Eid? \\
+    \begin{tabular}{@{}ll@{}}
+        i. A feeling of joy & ii. Enrichment \\
+        iii. Enhancement & iv. Enchantment
+    \end{tabular}
+
+    \item[(c)] The roots of the trees are ---. \\
+    \begin{tabular}{@{}ll@{}}
+        i. invisible & ii. visible \\
+        iii. slightly visible & iv. visible or invisible
+    \end{tabular}
+
+    \item[(d)] The roots of human beings lie in their ---. \\
+    \begin{tabular}{@{}llll@{}}
+        i. home & ii. society & iii. country & iv. minds
+    \end{tabular}
+
+    \item[(e)] The rootless are ---. \\
+    \begin{tabular}{@{}llll@{}}
+        i. entity & ii. identical & iii. nonentity & iv. relatives
+    \end{tabular}
+
+    \item[(f)] Which one develops our identity? \\
+    \begin{tabular}{@{}ll@{}}
+        i. Our culture & ii. Our roots \\
+        iii. Our religion & iv. Our environment
+    \end{tabular}
+
+    \item[(g)] What is pull of roots? \\
+    \begin{tabular}{@{}ll@{}}
+        i. Affection for roots & ii. Attraction of roots \\
+        iii. Assistance of roots & iv. Addiction to roots
+    \end{tabular}
+\end{enumerate}
+
+\vspace{0.3em}
+\hrule
+\vspace{0.2em}
+\textit{\textbf{Additional Questions}}
+\vspace{0.2em}
+\hrule
+
+\begin{enumerate}
+    \item[(h)] What do the roots make between us and others? \\
+    \begin{tabular}{@{}ll@{}}
+        i. Friendship & ii. Intimacy \\
+        iii. Fellow feelings & iv. Bond
+    \end{tabular}
+
+    \item[(i)] Wherever we stay, we have a --- pull of our roots. \\
+    \begin{tabular}{@{}llll@{}}
+        i. routine & ii. ceaseless & iii. careless & iv. tireless
+    \end{tabular}
+
+    \item[(j)] The rootless have ---. \\
+    \begin{tabular}{@{}llll@{}}
+        i. no hunger & ii. no parents & iii. no identity & iv. entity
+    \end{tabular}
+\end{enumerate}
+
+\columnbreak
+
+\textbf{2. Answer the following questions in your own words :} $2 \times 5 = 10$
+
+\begin{enumerate}
+    \item[(a)] What do most of the people living outside home desire during the Eid vacations?
+    \item[(b)] What happens to transport during Eid vacations?
+    \item[(c)] What makes people rush for their homes in spite of serious hazards?
+    \item[(d)] What are the roots of human beings?
+    \item[(e)] How do human beings become rootless?
+\end{enumerate}
+
+\vspace{0.3em}
+\hrule
+\vspace{0.2em}
+\textit{\textbf{Additional Questions}}
+\vspace{0.2em}
+\hrule
+
+\begin{enumerate}
+    \item[(f)] What are human beings called without roots?
+    \item[(g)] What are rootless people devoid of?
+    \item[(h)] What makes the rootless feel empty and lost?
+    \item[(i)] What does everyone want on Eid day?
+    \item[(j)] What is the significance of Eid?
+\end{enumerate}
+
+\vspace{0.5em}
+\textbf{3. Fill in each gap with a suitable word of your own based on the information from the text in `A'.} \hfill $0.5 \times 10 = 5$
+
+There are many (a) ---, cultural and religious (b) --- of the people of Bangladesh. (c) --- is the main (d) --- festival (e) ---. Eid means (f) ---. So, the (g) --- of Eid (h) --- in (i) --- happiness with (j) ---.
+
+\vspace{0.6em}
+\noindent\colorbox{gray!30}{\textbf{UNSEEN PASSAGE}} $\blacktriangleright$ \textbf{Read the following text carefully and answer the question no. 4 and 5 :}
+
+\vspace{0.3em}
+\begin{wrapfigure}{r}{0.22\linewidth}
+    \centering
+    \fbox{\parbox{0.85\linewidth}{\centering \vspace{2.5em} [Portrait] \vspace{1em} \\ \scriptsize 1873--1965}}
+\end{wrapfigure}
+Khan Bahadur Ahsanullah was born in a respectable Muslim family at Nalta in Satkhira district on 27 December, 1873. He passed the Entrance examination with a scholarship and distinction from the London Missionary School of Bhabanipur, Kolkata in 1890. He passed the F.A. examination with a scholarship from the Hoogli College, Kolkata in 1892. He obtained BA in 1894 and MA in Philosophy in 1895 from Presidency College under the University of Kolkata
+
+\end{multicols}
+
+\end{document}
+```

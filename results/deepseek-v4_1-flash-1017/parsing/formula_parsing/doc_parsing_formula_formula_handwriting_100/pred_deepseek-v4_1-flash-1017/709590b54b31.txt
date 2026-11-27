@@ -1,0 +1,14 @@
+\begin{aligned}
+&\quad \mathcal{L}(x, s, \hat{\lambda}, q, Q_r; Z, t_K, p_K, P_K, \forall k \in [K]) \\
+&= s + \gamma_2 \mathcal{I}_{m_1} \cdot Q_r + \sqrt{r_1} \|q_r\|_2 - Z \cdot \left( \sum_{i=1}^m (\Delta_2 x_i + \Delta_0) - \sum_{k=1}^K \begin{bmatrix} t_K \\ p_K \end{bmatrix} \cdot p_K \right) \\
+&\quad \left[ s - y_k^\circ(x) - \lambda_K^\top b - y_k(x)^\top u_K + \lambda_K^\top A u_K \quad \frac{1}{2}(q_r + (U \wedge \frac{1}{2} B)^\top (A^\top \lambda_K - y_k(x)))^\top \right. \\
+&\quad \left. \frac{1}{2}(q_r + (U \wedge \frac{1}{2} B)^\top (A^\top \lambda_K - y_k(x))) \quad Q_r \right] \\
+&= (1 - \sum_{k=1}^K t_k)s - \sum_{k=1}^K (t_k(Au - b)^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top A^\top)\lambda_K + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^K p_K^\top q_r \\
+&\quad + (\gamma_2 \mathcal{I}_{m_1} - \sum_{k=1}^K P_K) \cdot Q_r - \sum_{i=1}^I \sum_{j=1}^J z_{ij} (a_{ij}x + a_{ij}^\circ) + \sum_{k=1}^K (t_k y_k^\circ(x) + (t_k u_K^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top) y_k(x)) \\
+&= (1 - \sum_{k=1}^K t_k)s - \sum_{k=1}^K (t_k(Au - b)^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top A^\top)\lambda_K + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^K p_K^\top q_r \\
+&\quad + (\gamma_2 \mathcal{I}_{m_1} - \sum_{k=1}^K P_K) \cdot Q_r - \sum_{i=1}^I \sum_{j=1}^J z_{ij} a_{ij} x - \sum_{i=1}^I \sum_{j=1}^J z_{ij} a_{ij}^\circ + \sum_{k=1}^K (t_k W_k^\circ + (t_k u_K^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top) W_k) \cdot \\
+&\quad + \sum_{k=1}^K (t_k d_k^\circ + (t_k u_K^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top) d_k) \\
+&= (1 - \sum_{k=1}^K t_k)s - \sum_{k=1}^K (t_k(Au - b)^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top A^\top)\lambda_K + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^K p_K^\top q_r \\
+&\quad + (\gamma_2 \mathcal{I}_{m_1} - \sum_{k=1}^K P_K) \cdot Q_r + (\sum_{k=1}^K (t_k W_k^\circ + (t_k u_K^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top) W_k) - \sum_{i=1}^I \sum_{j=1}^J z_{ij} a_{ij}) x \\
+&\quad + \sum_{k=1}^K (t_k d_k^\circ + (t_k u_K^\top + p_K^\top (U \wedge \frac{1}{2} B)^\top) d_k) - \sum_{i=1}^I \sum_{j=1}^J z_{ij} a_{ij}^\circ.
+\end{aligned}

@@ -1,0 +1,1 @@
+Based on the **VMware vSphere vs. Microsoft Hyper-V** comparison table at the bottom of the infographic, the minimum number of max host processors among the Microsoft Hyper-V editions is **4**, which is in **Microsoft Standard** (compared to 8 in Microsoft Ent. and 64 in Microsoft DC).

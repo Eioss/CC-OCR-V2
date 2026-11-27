@@ -1,0 +1,78 @@
+```latex
+\begin{center}
+    \underline{\textbf{Fourier Transform Pairs}}
+\end{center}
+
+\noindent
+$(n,t,\omega,a,\omega_o,t_o$ are Real numbers ; $j=$complex number ; $n=$integer ; $\omega=$ angular frequency)
+
+\begin{center}
+\renewcommand{\arraystretch}{2.4}
+\begin{tabular}{|c|c||c|c|}
+\hline
+\textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} &
+\textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} \\
+\hline
+$f(t)$ &
+$\displaystyle \int_{-\infty}^{+\infty} f(t)e^{-j\omega t}dt$ &
+$\displaystyle \frac{1}{2\pi}\int_{-\infty}^{+\infty}F(\omega)e^{j\omega t}d\omega$ &
+$F(\omega)$ \\
+\hline
+$a_1f_1(t)+a_2f_2(t)$ &
+$a_1F_1(\omega)+a_2F_2(\omega)$ &
+\shortstack{$f(a\cdot t)$\\$a\neq0$} &
+$\displaystyle \frac{1}{|a|}F\left(\frac{\omega}{a}\right)$ \\
+\hline
+$e^{j\omega_o t}f(t)$ &
+$F(\omega-\omega_o)$ &
+$f(t-t_o)$ &
+$e^{-j\omega t_o}F(\omega)$ \\
+\hline
+\shortstack{$\displaystyle \frac{d^n[f(t)]}{dt^n}$\\$(n>0)$} &
+$(j\omega)^nF(\omega)$ &
+\shortstack{$(-jt)^nf(t)$\\$(n>0)$} &
+$\displaystyle \frac{d^n[F(\omega)]}{d\omega^n}$ \\
+\hline
+\shortstack{$e^{-at}u(t)$\\$a>0$} &
+$\displaystyle \frac{1}{a+j\omega}$ &
+\shortstack{$e^{at}u(-t)$\\$a>0$} &
+$\displaystyle \frac{1}{a-j\omega}$ \\
+\hline
+$\cos(\omega_o t)$ &
+$\pi[\delta(\omega-\omega_o)+\delta(\omega+\omega_o)]$ &
+$\sin(\omega_o t)$ &
+$\displaystyle \frac{\pi}{j}[\delta(\omega-\omega_o)-\delta(\omega+\omega_o)]$ \\
+\hline
+$\delta(t)$ &
+$1$ &
+$\delta(t-t_o)$ &
+$e^{-j\omega t_o}$ \\
+\hline
+$1$ &
+$2\pi\cdot\delta(\omega)$ &
+$e^{j\omega_o t}$ &
+$2\pi\cdot\delta(\omega-\omega_o)$ \\
+\hline
+$u(t)$ &
+$\displaystyle \pi\cdot\delta(\omega)+\frac{1}{j\omega}$ &
+$u(-t)$ &
+$\displaystyle \pi\cdot\delta(\omega)-\frac{1}{j\omega}$ \\
+\hline
+$u(t)-u(-t)$ &
+$\displaystyle \frac{2}{j\omega}$ &
+$u(t)+u(-t)$ &
+$2\pi\delta(\omega)$ \\
+\hline
+\shortstack{$t^{(n-1)}\cdot e^{-a\cdot t}\cdot u(t)$\\$a>0\ ;\ n>0$} &
+$\displaystyle \frac{(n-1)!}{(a+j\omega)^n}$ &
+\shortstack{$t^{(n-1)}\cdot e^{a\cdot t}\cdot u(-t)$\\$a>0\ ;\ n>0$} &
+$\displaystyle \frac{(n-1)!}{(a-j\omega)^n}\cdot(-1)^{n-1}$ \\
+\hline
+$\cos(\omega_o t)\cdot f(t)$ &
+$\displaystyle \frac{1}{2}[F(\omega-\omega_o)+F(\omega+\omega_o)]$ &
+$\sin(\omega_o t)\cdot f(t)$ &
+$\displaystyle \frac{1}{2j}[F(\omega-\omega_o)-F(\omega+\omega_o)]$ \\
+\hline
+\end{tabular}
+\end{center}
+```

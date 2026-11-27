@@ -1,0 +1,14 @@
+```latex
+\text{完美} \\
+(D_{t_1 t_2 \cdots t_p = 0, t_q = 1, \cdots, t_N}^{i_1 i_2 \cdots i_p})' = \frac{1}{1+|x|^2} \left[ D_{t_1 t_2 \cdots t_p = 0, t_p = 0, t_q = 1, \cdots, t_N}^{i_1 i_2 \cdots i_p} - |x|^2 D_{t_1 t_2 \cdots t_p = 0, t_q = 0, \cdots, t_N}^{i_1 i_2 \cdots i_p} \right. \\
+\left. + x D_{(A_1)}^{i_1 i_2 \cdots i_p = 0, \cdots, t_{q-1}, t_{q+1}, \cdots, t_N} - x^* D_{(A_q)}^{i_1 i_2 \cdots i_p = 0, \cdots, t_{q-1}, t_{q+1}, \cdots, t_N} \right] \\
+S(n, k) = \frac{1}{k!} \sum_{d_1 + \cdots + d_k = n} \frac{n!}{d_1! \cdots d_k!} \\
+g_1, \cdots, g_k \in G(A \cup \mathcal{R}) \subset \langle A \rangle \cdot \langle \mathcal{R} \rangle \\
+\eta_q^2 \xrightarrow{q \to \infty} v(\kappa) |\nabla u|^2 \quad \text{a.e. in } \Omega \\
+\eta_q^2 \leq v(\kappa) |\nabla u|^2 \\
+(1-\delta) \|F_j(\Delta) f\|^2 \leq \sum_j \sum_k |\langle F_j(\Delta) f, \theta_{\nu; j, k} \rangle|^2 \leq (1+\delta) \|F_j(\Delta) f\|^2 \\
+|\lambda| > R > \max\{|\mu^\sigma| : \mu^\sigma \in L^\sigma(\mu)\} \\
+\Sigma_a := \begin{cases} S & \text{if } a = a_0, \\ 0 & \text{if } a \neq a_0, \end{cases} \\
+\frac{1}{\sqrt{a}} \|v\|_x \leq \|v\|_x^{(l)} \leq C e^{\varepsilon \kappa} \|v\|_x, \forall v \in T_x M, x \in \Lambda_k, \cdots (3.1.2) \\
+V_{drift} = \frac{\frac{d \langle \phi_{N_L} | x | \phi_{N_L} \rangle}{dt}}{\langle \phi_{N_L} | \phi_{N_L} \rangle}
+```

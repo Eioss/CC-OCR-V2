@@ -1,0 +1,22 @@
+\[
+\widetilde{Q}(x):=\frac{2}{\kappa}\Omega,\qquad \widetilde{T}:=T,\qquad \widetilde{H}=\widetilde{h}T,\qquad \widetilde{h}=\frac{1}{m}\sum_{j=1}^{m}w_j-z_i .
+\]
+
+\[
+L(p_n;m_1^n)+L(m_1^n;m_s^n)+L(m_s^n;q_n)=L(m_n;q_n)
+\]
+
+\[
+I^{m,-}(l+1)=\inf\left\{I^{m,-}(l)<i<X_m\,\middle|\,L_i^{m,-}<(\ln n)^3\right\}
+\]
+
+\[
+i\hbar\,\partial_t\psi(x)+\frac{\hbar^2}{2m}\partial_x^2\psi(x)-V(x)\psi(x)=\int d^3y\,K(x,y)\psi(y),
+\]
+
+\[
+\int_{B_1(0)}|r(w)|^3\,dy
+=\lim_{n\to\infty}\int_{B_1(0)}|r(w_n)|^3\,dy
+=\lim_{n\to\infty}\int_{B_1(y_n)}|r(u_n)|^3\,dy
+\geq \beta>0,
+\]

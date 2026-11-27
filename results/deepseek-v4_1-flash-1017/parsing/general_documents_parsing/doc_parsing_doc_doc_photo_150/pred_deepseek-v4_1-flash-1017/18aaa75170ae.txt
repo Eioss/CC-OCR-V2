@@ -1,0 +1,124 @@
+Here is the transcription of the image into LaTeX format.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large English First Paper} \hfill \textbf{Subject code: 107} \\
+    Full marks : 100 \hfill Time : 3 hours
+\end{center}
+
+\noindent [Answer all the questions. Figures in the margin indicate full marks]
+
+\begin{center}
+    \textbf{\Large Sample Question} \\
+    \textbf{Section--A : (Reading)}
+\end{center}
+
+\noindent \textbf{Read the text and answer questions 1, 2 and 3.}
+
+With only 2,500 taka in her pocket, Rona Begum began her small business. She also had a sewing machine from her sister. She attended a six-month vocational training run by the Department of Youth Development before that.
+
+Rona's Utsab Tailors Training and Sales Center began in 1997.
+
+Fifteen years later, she now owns a small production house of fashion garments.
+
+Traditional items, block print work and embroidery are done at her production house. ``Despite serious trouble in my personal life, I worked very hard to survive,'' said Rona.
+
+She supported herself by working at three places. At a time she worked at a local diagnostic centre, at a private medical college, as well as at her own training and boutique centre. She continued this till 2007.
+
+``At first, I got almost no support from my family. Instead, I faced objections. But I'm happy now and busy with my business. The atmosphere at home also changed,'' said Rona.
+
+Ms Rona has just started several more commercial projects with partners. She decided to expand business earlier. But she did not get support from any bank or financial institutions. Then she joined the Women Business Forum (WBF), Sylhet and things started to change. At present, she is the General Secretary of WBF, Sylhet.
+
+In the last 15 years, Rona received much appreciation and a number of awards. Along with other awards, she received Jatiya Juba Padak in 2012. (adapted from The Daily Star)
+
+\begin{enumerate}
+    \item \textbf{Guess the meaning of the following words and choose the correct meaning closest to the text.} \hfill \(1 \times 5 = 5\)
+    \begin{enumerate}[label=(\roman*)]
+        \item \textbf{business}
+        \begin{enumerate}[label=(\alph*)]
+            \item profession
+            \item commerce
+            \item trade
+            \item production
+        \end{enumerate}
+        \item \textbf{traditional}
+        \begin{enumerate}[label=(\alph*)]
+            \item hereditary
+            \item historic
+            \item remarkable
+            \item habitual
+        \end{enumerate}
+        \item \textbf{diagnostic}
+        \begin{enumerate}[label=(\alph*)]
+            \item picking
+            \item detecting
+            \item discovering
+            \item cornerwise
+        \end{enumerate}
+        \item \textbf{atmosphere}
+        \begin{enumerate}[label=(\alph*)]
+            \item climate
+            \item character
+            \item context
+            \item surroundings
+        \end{enumerate}
+        \item \textbf{appreciation}
+        \begin{enumerate}[label=(\alph*)]
+            \item recognition
+            \item realization
+            \item perception
+            \item improvement
+        \end{enumerate}
+    \end{enumerate}
+
+    \item \textbf{Answer the following questions :} \hfill \(2 \times 5 = 10\)
+    \begin{enumerate}[label=(\alph*)]
+        \item Why did Rona get appreciation and awards?
+        \item How was vocational training helpful for Rona?
+        \item How did Rona overcome problems in her personal life?
+        \item Why did Rona leave the other two jobs?
+        \item Do you think the initiatives of Rona are examples for the poor? Why?
+    \end{enumerate}
+
+    \item \textbf{Summarize the text in section A in your own words (around 85 words).} \hfill 10
+\end{enumerate}
+
+\noindent \textbf{Read the following text carefully and answer questions 4 and 5.}
+
+\begin{enumerate}
+    \setcounter{enumi}{3}
+    \item \textbf{Complete the following table with the information given in the passage.} \hfill \(1 \times 5 = 5\)
+\end{enumerate}
+
+The city with the highest temperature yesterday was Singapore. At noon the temperature in Singapore was \(33^\circ\text{C}\) and at midnight the temperature there was \(25^\circ\text{C}\). Tokyo had the second highest temperature. It was only \(2^\circ\text{C}\) lower than in Singapore at noon. The temperature in Rome at noon was \(30^\circ\text{C}\), the same as in New York. However, New York's temperature at midnight was one degree lower than Rome's. The noon temperature in Cairo was \(29^\circ\text{C}\), one degree higher than that in Hong Kong. The temperature at midnight in Paris was \(11^\circ\text{C}\) less than that at noon in Paris yesterday. Although Stockholm's temperature at midnight was the same as the temperature at midnight in Paris, its noon temperature was \(14^\circ\text{C}\). The coolest city was London, with a temperature of only \(22^\circ\text{C}\) at noon and \(13^\circ\text{C}\) at midnight.
+
+The cities with the highest temperature had a lot of sunshine throughout the day. It was cloudy and dry at Stockholm, but it rained heavily in both London and Hong Kong.
+
+(adapted from `Writing English language Tests' edited by J.B Heaton, 1989)
+
+\begin{center}
+    \textbf{Yesterday's Weather Around the World}
+\end{center}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c|c|c|}
+\hline
+\multicolumn{1}{|c|}{\textbf{City}} & \multicolumn{1}{c|}{\textbf{Noon}} & \multicolumn{1}{c|}{\textbf{Midnight}} & \multicolumn{1}{c|}{\textbf{Condition}} \\ \hline
+Singapore & \(33^\circ\text{C}\) & (i) \dots\dots & S \\ \hline
+\end{tabular}
+\end{table}
+
+\end{document}
+```

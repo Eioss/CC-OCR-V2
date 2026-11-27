@@ -1,0 +1,22 @@
+```json
+[
+  {"bbox_2d": [88, 224, 132, 565], "label": "Company Name"},
+  {"bbox_2d": [132, 182, 146, 782], "label": "Address"},
+  {"bbox_2d": [171, 198, 183, 521], "label": "Company Name"},
+  {"bbox_2d": [189, 197, 239, 490], "label": "Address"},
+  {"bbox_2d": [244, 263, 256, 502], "label": "TELP"},
+  {"bbox_2d": [263, 253, 275, 415], "label": "FAX"},
+  {"bbox_2d": [285, 261, 297, 434], "label": "NPWP"},
+  {"bbox_2d": [175, 738, 186, 845], "label": "Invoice No."},
+  {"bbox_2d": [194, 738, 204, 826], "label": "S/C No."},
+  {"bbox_2d": [212, 738, 224, 837], "label": "Date of Invoice"},
+  {"bbox_2d": [313, 431, 327, 527], "label": "Title"},
+  {"bbox_2d": [333, 195, 344, 282], "label": "From"},
+  {"bbox_2d": [338, 734, 348, 809], "label": "Destination"},
+  {"bbox_2d": [401, 193, 451, 540], "label": "Descriptions & Quantities"},
+  {"bbox_2d": [423, 629, 434, 720], "label": "Unit Price"},
+  {"bbox_2d": [424, 759, 436, 882], "label": "Amount"},
+  {"bbox_2d": [568, 756, 579, 879], "label": "Amount"},
+  {"bbox_2d": [637, 373, 649, 435], "label": "企业管理信息查询结果"}
+]
+```

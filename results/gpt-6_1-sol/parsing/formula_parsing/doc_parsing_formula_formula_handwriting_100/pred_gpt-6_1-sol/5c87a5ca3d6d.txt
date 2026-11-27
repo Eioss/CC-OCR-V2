@@ -1,0 +1,52 @@
+\[
+\begin{aligned}
+&\underbrace{\int_{D_m} f_2\Delta f_2\,dx}_{I_1}
++\int_{D_m}\frac{1}{\rho^3}f_2\partial_\rho f_2\,dx
++\int_{D_m}(5-\cot^2\phi)\frac{f_2^2}{\rho^2}\,dx
+=\underbrace{\int_{D_m}\frac{f_2^2}{\rho^4}
+\partial_\rho\!\left(\rho^4\sin\phi\,\Omega\right)\,dx}_{I_2}.
+\\[1ex]
+&|\Delta_{m2}|=
+\left|
+\int_{A_m}
+\left[
+\mathbb{E}_a\phi\!\left(f_{m,h}^b(x)\right)
+-\phi\!\left(f_\theta(x)\right)
+-\left(\mathbb{E}_a f_{m,h}^b(x)-f_\theta(x)\right)
+\phi'\!\left(f_\theta(x)\right)
+\right]dx
+\right.
+\\
+&\hspace{4em}\left.
++\int_{A_m}
+\left[
+\phi(f(x))-\phi\!\left(f_\theta(x)\right)
+-\left(f(x)-f_\theta(x)\right)\phi'\!\left(f_\theta(x)\right)
+\right]dx
+\right|.
+\\[1ex]
+&I_1\leq
+\epsilon\int_0^t\int_0^\infty
+\frac{R\theta v_x^2}{v^3}\,dx\,ds
++C(\epsilon)\int_0^t\int_0^\infty
+\frac{\kappa r^{2(n-1)}\theta_x^2}{v\theta^2}
+\cdot\frac{\theta}{\kappa r^{2(n-1)}}\,dx
+\\
+&\hspace{1.5em}\leq
+\epsilon\int_0^t\int_0^\infty
+\frac{R\theta v_x^2}{v^3}\,dx\,ds+C(\epsilon).
+\\[1ex]
+&T_h\int h(x)\,\partial_tP(t,x)\,dx
+\cong
+\int h(x)\bigl(P(t+1,x)-P(t,x)\bigr)\,dx.
+\\[1ex]
+&\widehat{P_T}\varphi_\pm
+\neq e^{i\omega_\pm}\varphi_\pm,
+\qquad
+\widehat{P_T}\widetilde{\varphi}_\pm
+=e^{i\widetilde{\omega}_\pm}\widetilde{\varphi}_\pm.
+\\[1ex]
+&\frac{1}{(1-t_1)^\pi}
+=\sum_{m\in\mathbb{N}}C_m t_1^m.
+\end{aligned}
+\]

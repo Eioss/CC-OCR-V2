@@ -1,0 +1,5 @@
+The text '03-87686092' appears twice in the image, once after "TEL" and once after "FAX". This box is for the first one, after "TEL":
+
+(250, 199, 469, 213)
+
+The second one, after "FAX", is at about (614, 199, 833, 213).

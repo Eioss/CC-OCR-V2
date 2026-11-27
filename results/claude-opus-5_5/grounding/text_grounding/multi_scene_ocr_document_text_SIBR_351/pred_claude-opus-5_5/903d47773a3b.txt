@@ -1,0 +1,3 @@
+The text "103.00" appears three times on this receipt. These are the inspection fee (检查费) line, the cash payment (现金支付) line, and the total (合计) line. This box is for the first one, the inspection fee amount:
+
+(567, 394, 709, 425)

@@ -1,0 +1,3 @@
+```json
+{"date_issue": "10/14/2020 9:00:15 AM", "vendor_name": "KDEM-FM/KOTS-AM", "vendor_address": "P.O. Box 470 1700 S. Gold Avenue Deming, NM 88031", "customer_id": ",", "customer_billing_name": "Crystal Diamond for NM invoices@mediafinancial.com", "customer_other_name": "Crystal Diamond for NM", "amount_total_net": "$822.38", "amount_total_gross": "$967.50", "amount_due": ""}
+```

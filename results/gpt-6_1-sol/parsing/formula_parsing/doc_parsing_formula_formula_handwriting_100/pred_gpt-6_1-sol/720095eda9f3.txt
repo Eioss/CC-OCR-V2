@@ -1,0 +1,26 @@
+\[
+\begin{aligned}
+\|H(s)\|_{C,1}
+&=\max_{i=1,\ldots,n}\left(\sum_{j=1}^{m}\|H_{ij}(s)\|_{C,1}\right),\\[4pt]
+\mathcal{N}(x;\mathfrak{m},\nu)
+&=\frac{\mathcal{N}(x)}{N\mathfrak{m}}
++O\!\left(x^{1-\frac1n}\right),\\[4pt]
+P(k_{\mathrm{signal}},r,T,t)
+&=2\operatorname{Re}\sum_j
+\exp\!\left(i k_{\mathrm{signal}}\cdot r_j\right)
+\sum_{\alpha\leq\beta}
+\mu_{\alpha\beta}^{(j)}
+\rho_{\alpha\beta}^{(j)}(E_j;t),\\[4pt]
+\left\|
+\partial_{\rho}^{\beta}\partial_z\phi[\eta]\,
+\langle D\rangle^{-\frac{|\beta|+1}{2}}h
+\right\|_{L_t^2H_x^s}
+&\leq_s
+\left\|\partial_z a[\eta]\right\|_{s+s_0+\frac12+|\beta|}^{t_0,T}
+\|h\|_{L_t^2H_x^s},
+\qquad \forall s\in[0,s_1],\\[4pt]
+\varepsilon(u)
+&=\frac12\left(Du+(Du)^T\right)
+=\frac12\left(\partial_i u_k+\partial_k u_i\right)_{1\leq i,k\leq2}.
+\end{aligned}
+\]

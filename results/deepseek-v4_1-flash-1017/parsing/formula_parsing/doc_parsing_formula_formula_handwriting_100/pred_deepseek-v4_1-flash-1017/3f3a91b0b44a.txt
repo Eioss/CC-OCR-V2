@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+S &\leq \sum_{d|W} \sum_{b_1,\dots,b_k \in B} \frac{w}{d} \prod_{p|W/d} \left(1 - \frac{\gamma p(b_1,\dots,b_k)+1}{p}\right) \\
+&\leq \sum_{d|W} \sum_{b_1,\dots,b_k \in B} \frac{w}{d} \prod_{p|W/d} \left(1 - \frac{3}{p}\right) \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{\gamma p(b_1,\dots,b_k)+1}{p}\right) \\
+&= \sum_{d|W} \varphi(w_1/d_1) \sum_{b_1,\dots,b_k \in B} \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{\gamma p(b_1,\dots,b_k)+1}{p}\right) \\
+&\leq \sum_{d|W} \varphi(w_1/d_1) \sum_{j=-\infty}^{\infty} \sum_{\substack{b_1,\dots,b_k \in B \\ f(b_1,\dots,b_k) \in [2^j, 2^{j+1})}} \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{2k+1}{p}\right) \prod_{\substack{p|w_2/d_2 \\ \gamma p(b_1,\dots,b_k) \geq 2k+1}} \left(1 - \frac{2k+1}{p}\right)^{-1} \\
+&\leq \sum_{d|W} \varphi(w_1/d_1) \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{2k+1}{p}\right) \sum_{j=-\infty}^{\infty} \sum_{\substack{b_1,\dots,b_k \in B \\ f(b_1,\dots,b_k) \in [2^j, 2^{j+1})}} e^{(2k+1)2^{j+2}} \\
+&\leq \sum_{d|W} k^2 |B|^{k-2} \varphi(w_1/d_1) \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{2k+1}{p}\right) \sum_{j=0}^{\infty} 2 \cdot \exp(c_1 2^{j+2}) e^{(2k+1)2^{j+2}} \\
+&= C_4 k^2 |B|^{k-2} \varphi(w_1) \sum_{d|W} \varphi(w_1/d_1) \frac{w_2}{d_2} \prod_{p|w_2/d_2} \left(1 - \frac{2k+1}{p}\right),
+\end{align*}
+```

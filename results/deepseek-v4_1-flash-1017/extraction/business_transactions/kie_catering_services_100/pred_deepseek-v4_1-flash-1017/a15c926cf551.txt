@@ -1,0 +1,12 @@
+```json
+{
+  "menu": [
+    {
+      "name": "PHO BO TAI",
+      "price": "55,000"
+    }
+  ],
+  "sub_total": "55,000",
+  "total": "60,500"
+}
+```

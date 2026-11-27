@@ -1,0 +1,191 @@
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>2010<br>million</th>
+      <th>2009<br>million</th>
+      <th>2008<br>million</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4"><strong>Cash flows from operating activities:</strong></td>
+    </tr>
+    <tr>
+      <td>Cash receipts from customers</td>
+      <td>4,821</td>
+      <td>8,850</td>
+      <td>3,875</td>
+    </tr>
+    <tr>
+      <td>Cash paid to suppliers and employees</td>
+      <td>(5,210)</td>
+      <td>(2,520)</td>
+      <td>(6,438)</td>
+    </tr>
+    <tr>
+      <td>Cash generated from operations</td>
+      <td>(389)</td>
+      <td>6,330</td>
+      <td>(2,563)</td>
+    </tr>
+    <tr>
+      <td>Interest paid</td>
+      <td>(38)</td>
+      <td>(265)</td>
+      <td>(273)</td>
+    </tr>
+    <tr>
+      <td>Dividends paid</td>
+      <td>(118)</td>
+      <td>(734)</td>
+      <td>(736)</td>
+    </tr>
+    <tr>
+      <td>Net cash from operating activities</td>
+      <td>(545)</td>
+      <td>5,331</td>
+      <td>(3,572)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Cash flows from investing activities:</strong></td>
+    </tr>
+    <tr>
+      <td>Addition of property, plant and equipment</td>
+      <td>(4,359)</td>
+      <td>(4,969)</td>
+      <td>(4,976)</td>
+    </tr>
+    <tr>
+      <td>Purchase of intangible assets</td>
+      <td>(1,059)</td>
+      <td>(1,773)</td>
+      <td>(1,679)</td>
+    </tr>
+    <tr>
+      <td>Acquisition of subsidiaries</td>
+      <td>(579)</td>
+      <td>-</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Acquisition of additional interests in subsidiaries</td>
+      <td>-</td>
+      <td>(4)</td>
+      <td>(1,300)</td>
+    </tr>
+    <tr>
+      <td>Decrease (increase) in restricted cash</td>
+      <td>105</td>
+      <td>(278)</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>New other loans and receivables</td>
+      <td>(1,900)</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Recovery of other loans and receivables</td>
+      <td>865</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Disposal of subsidiaries</td>
+      <td>47</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Other investing cash flows</td>
+      <td>(147)</td>
+      <td>(36)</td>
+      <td>1,281</td>
+    </tr>
+    <tr>
+      <td>Net cash from investing activities</td>
+      <td>(7,027)</td>
+      <td>(7,060)</td>
+      <td>(6,619)</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Cash flows from financing activities:</strong></td>
+    </tr>
+    <tr>
+      <td>New borrowings</td>
+      <td>25,206</td>
+      <td>26,713</td>
+      <td>21,300</td>
+    </tr>
+    <tr>
+      <td>Repayment of borrowings</td>
+      <td>(19,618)</td>
+      <td>(19,205)</td>
+      <td>(15,332)</td>
+    </tr>
+    <tr>
+      <td>Acquisition of additional interests in subsidiaries</td>
+      <td>(134)</td>
+      <td>-</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Capital contribution from non-controlling interests</td>
+      <td>339</td>
+      <td>158</td>
+      <td>688</td>
+    </tr>
+    <tr>
+      <td>Interest paid</td>
+      <td>(1,357)</td>
+      <td>(1,550)</td>
+      <td>(1,116)</td>
+    </tr>
+    <tr>
+      <td>Dividends paid</td>
+      <td>(586)</td>
+      <td>(242)</td>
+      <td>(5)</td>
+    </tr>
+    <tr>
+      <td>Share issue expenses paid</td>
+      <td>(2)</td>
+      <td>-</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Net cash from financing activities</td>
+      <td>3,848</td>
+      <td>5,874</td>
+      <td>5,535</td>
+    </tr>
+    <tr>
+      <td><strong>Net (decrease) increase in cash and cash equivalents</strong></td>
+      <td>(3,724)</td>
+      <td>4,145</td>
+      <td>(4,656)</td>
+    </tr>
+    <tr>
+      <td>Effect of foreign exchange rate changes</td>
+      <td>(218)</td>
+      <td>660</td>
+      <td>(670)</td>
+    </tr>
+    <tr>
+      <td>Cash and cash equivalents at the beginning of the period</td>
+      <td>49,432</td>
+      <td>46,846</td>
+      <td>56,726</td>
+    </tr>
+    <tr>
+      <td><strong>Cash and cash equivalents at the end of the period</strong></td>
+      <td>45,490</td>
+      <td>51,651</td>
+      <td>51,400</td>
+    </tr>
+  </tbody>
+</table>
+```

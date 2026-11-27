@@ -1,0 +1,17 @@
+```latex
+\sum_{\vec{x} \in S_{n,q}} \left( q^{-\frac{4n}{3}} \sum_{a_1, \dots, a_n \in \mathbb{F}_q} \chi(1 + \sum_{i} a_i x_i^3) \psi(a_n) \right)^m
+
+X_0 T_0 = U_{\pi} X_0 \quad \text{and} \quad \bigvee_{n \ge 0} U_{\pi}^{-n} X_0 \mathcal{N} = L^2(\mathbb{T}).
+
+\hat{\Sigma}_{out} = \hat{\Sigma}_{in} - (\hat{X}_A - \hat{X}_B), \quad \hat{P}_{out} = \hat{P}_{in} + (\hat{P}_A + \hat{P}_B).
+
+(D_{u, x^*}) \quad \sup_{\mu} \frac{1}{2} \psi_{\mu} \nabla^2 G(\vec{x} | \psi_{\mu}) \quad \text{subject to} \quad \mu \in K^{\infty} \quad \text{and} \quad \nabla G(\vec{x})^* \mu = x^*.
+
+\frac{d}{dt} \|\psi(t)\|_{L^2}^2 + (2A_p(t) - (d+2k)) B_p(t) \|\psi(t)\|_{L^2}^2 + 2k B_p(t) \|\psi(t)\|_{L^2}^2
+= 2(1-\alpha) \int_{\mathbb{R}^d} \mathcal{Q}(t, \psi(t, \xi), \xi) |\xi|^{2k} d\xi - \int_{\mathbb{R}^d} \mathcal{Q}(t, \psi(t, \xi), \xi) \psi(t, \xi) \langle \xi \rangle^{2k} d\xi.
+
+\frac{\partial L}{\partial w} = 2(y - w\hat{l}_1 - (2-w)\hat{l}_2)(-\hat{l}_1 + \hat{l}_2),
+\frac{\partial^2 L}{\partial w^2} = 2(-\hat{l}_1 + \hat{l}_2)^2 > 0,
+
+G(y) = \sup_{a \le s \le b} \left| \sum_{j=1}^{\infty} (y + \Gamma_j)^{-1/\alpha} W_j(s) \right|
+```

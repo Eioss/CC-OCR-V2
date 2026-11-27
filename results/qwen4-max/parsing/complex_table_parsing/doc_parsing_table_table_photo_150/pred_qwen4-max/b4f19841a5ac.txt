@@ -1,0 +1,40 @@
+```html
+<table border="1">
+	<tr>
+		<td colspan="4">Topic: Should we ban human cloning</td>
+		<td>Gold</td>
+		<td>PL</td>
+		<td>MT</td>
+	</tr>
+	<tr>
+		<td colspan="4">Claim: Cloning humans could reduce the im-<br>pact of diseases in ways that vaccinations can-<br>not.</td>
+		<td>C</td>
+		<td>C</td>
+		<td>C</td>
+	</tr>
+	<tr>
+		<td colspan="4">This method could help countries like Japan<br>who are struggling with low birth rates.</td>
+		<td></td>
+		<td>E</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="4">The Japanese culture could see a reduction<br>of up to 40 million people by the year 2060<br>without the introduction of cloning measures.</td>
+		<td></td>
+		<td>E</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td colspan="4">Human cloning could help us to begin curing<br>genetic diseases such as cystic fibrosis or tha-<br>lassemia.</td>
+		<td>E</td>
+		<td>E</td>
+		<td>E</td>
+	</tr>
+	<tr>
+		<td colspan="4">Genetic modification could also help us deal<br>with complicated maladies such as heart dis-<br>ease or schizophrenia.</td>
+		<td>E</td>
+		<td></td>
+		<td>E</td>
+	</tr>
+</table>
+```

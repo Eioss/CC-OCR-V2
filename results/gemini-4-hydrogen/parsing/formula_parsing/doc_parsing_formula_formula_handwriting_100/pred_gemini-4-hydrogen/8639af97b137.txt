@@ -1,0 +1,12 @@
+```latex
+\begin{aligned}
+\mathbb{P}_{zK} \left[ T_{\alpha M_{\Sigma}}^{z u_{\Sigma}} < T_0^{z u_{\Sigma}} \right] &= \frac{\sum_{n=1}^{zK} \frac{1}{1 - p_{\Sigma}(n)} \frac{1}{\mu(n)}}{\sum_{n=1}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \frac{1}{1 - p_{\Sigma}(n)} \frac{1}{\mu(n)}} \\
+&= \frac{\sum_{n=1}^{zK} \prod_{k=1}^{n-1} \frac{1 + 2 C_0 k K^{-1}}{1 - 2 C_0 k K^{-1}}}{\sum_{n=1}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \prod_{k=1}^{n-1} \frac{1 + 2 C_0 k K^{-1}}{1 - 2 C_0 k K^{-1}}} \\
+&= \frac{\sum_{n=1}^{zK} \exp\left( \sum_{k=1}^{n-1} \ln \left( \frac{1 + 2 C_0 k K^{-1}}{1 - 2 C_0 k K^{-1}} \right) \right)}{\sum_{n=1}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \exp\left( \sum_{k=1}^{n-1} \ln \left( \frac{1 + 2 C_0 k K^{-1}}{1 - 2 C_0 k K^{-1}} \right) \right)} \\
+&\leq \frac{\sum_{n=1}^{zK} \exp\left( \sum_{k=1}^{n-1} 4 C_0 k K^{-1} \right)}{\sum_{n=1}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \exp\left( \sum_{k=1}^{n-1} 4 C_0 k K^{-1} - O((k K^{-1})^2) \right)} \\
+&\leq \frac{\sum_{n=1}^{zK} \exp\left( 2 C_0 n^2 K^{-1} - 2 C_0 n K^{-1} \right)}{\sum_{n=1}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \exp\left( 2 C_0 n^2 K^{-1} - 2 C_0 n K^{-1} - O(n (n K^{-1})^2) \right)} \\
+&\leq \frac{z K \exp\left( 2 C_0 z^2 K \right)}{\sum_{n=2 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K}^{3 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} K} \exp\left( 2 C_0 n^2 K^{-1} - 2 C_0 n K^{-1} - O(n (n K^{-1})^2) \right)} \\
+&\leq \frac{z}{M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha}} \frac{\exp(2 C_0 z^2 K)}{\exp\left( 8 C_0 M_{\Sigma}^2 (x^{4i} \epsilon^4)^{1+\alpha} K - 4 C_0 M_{\Sigma} (x^{2i} \epsilon^2)^{1+\alpha} - O((x^{6i} \epsilon^6)^{1+\alpha} K) \right)} \\
+&\leq \exp\left( -2 C_0 K \left( 2 M_{\Sigma}^2 (x^{4i} \epsilon^4)^{1+\alpha} - z^2 \right) \right).
+\end{aligned}
+```

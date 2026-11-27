@@ -1,0 +1,4 @@
+Based on the **"VMWARE VSPHERE VS. MICROSOFT HYPER-V"** table at the bottom of the infographic, there are **2** Microsoft Hyper-V versions that have Failover nodes equal to 16:
+
+* **Microsoft ENT.** (16)
+* **Microsoft DC** (16)

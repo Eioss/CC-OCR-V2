@@ -1,0 +1,80 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{flushright}
+    \textbf{Tnkalvi.Net}
+\end{flushright}
+
+\noindent
+\textbf{11th Std.} \hfill \textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \hfill \\
+\begin{center}
+    \textbf{Standard - 11} \hfill Reg. No. $\square\square\square\square\square\square$ \\
+    \vspace{0.2cm}
+    \textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent
+Time Allowed: 2.30 Hours \hfill Maximum Marks: 70
+
+\vspace{0.3cm}
+\noindent
+\textbf{Instructions: 1. Check the question paper for fairness of printing.} \\
+\hspace*{2.4cm} \textbf{If there is any lack of fairness, inform the Hall} \\
+\hspace*{2.4cm} \textbf{Supervisor immediately.} \\
+\hspace*{2.1cm} \textbf{2. Use Blue or Black ink to write and underline.}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\noindent
+\textbf{Answer the following questions:} \hfill $\mathbf{15 \times 1 = 15}$
+
+\begin{enumerate}
+    \item[1)] The \underline{\hspace{1.5cm}} patterns of questions are commonly known as interrogative sentences. \\
+    a) 4 \hspace{1.5cm} b) 3 \hspace{1.5cm} c) 2 \hspace{1.5cm} d) 5
+
+    \item[2)] A cruise is a journey on a \\
+    a) ferry \hspace{1.1cm} b) ocean lines \hspace{0.7cm} c) ship \hspace{1.3cm} d) boat
+
+    \item[3)] An information paper document is \\
+    a) brochure \hspace{0.7cm} b) pamphlet \hspace{0.8cm} c) itinerary \hspace{0.9cm} d) notice
+
+    \item[4)] The pair of words 'united-untied' is an example of \\
+    a) homograph \hspace{0.4cm} b) contranyms \hspace{0.5cm} c) homophones \hspace{0.4cm} d) antigrams
+
+    \item[5)] A \underline{\hspace{1.5cm}} is a short informal performance intended to educate or inform. \\
+    a) play \hspace{1.3cm} b) parody \hspace{1.1cm} c) skit \hspace{1.4cm} d) drama
+
+    \item[6)] The association of one word with multiple meanings is known as \underline{\hspace{1.5cm}}. \\
+    a) polygenesis \hspace{0.4cm} b) polysemy \hspace{0.7cm} c) polycentric \hspace{0.5cm} d) polynomial
+
+    \item[7)] The process of reading quickly to get the specific information from a given text. \\
+    a) decoding \hspace{0.7cm} b) scanning \hspace{0.8cm} c) encoding \hspace{0.8cm} d) skimming
+
+    \item[8)] One who treats old people \\
+    a) geriatrician \hspace{0.4cm} b) pediatrician \hspace{0.5cm} c) neurologist \hspace{0.6cm} d) pathologist
+
+    \item[9)] Epitasis means \\
+    a) gum disease \hspace{0.3cm} b) iron deficiency \hspace{0.2cm} c) nose bleed \hspace{0.6cm} d) feverishness
+
+    \item[10)] Bluefin is a type of \underline{\hspace{1.5cm}}. \\
+    a) bass \hspace{1.3cm} b) cod \hspace{1.5cm} c) gold \hspace{1.4cm} d) tuna
+
+    \item[11)] Hud Herd cyclone is named after a bird \underline{\hspace{1.5cm}}. \\
+    a) Hawk \hspace{1.1cm} b) Heron \hspace{1.2cm} c) Hoopoe \hspace{1.1cm} d) Hainan
+\end{enumerate}
+
+\vspace{1cm}
+\begin{center}
+    \textbf{Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com}
+\end{center}
+
+\end{document}
+```

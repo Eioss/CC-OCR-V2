@@ -1,0 +1,13 @@
+$$A = \begin{pmatrix} -z & \cdots & -z \\ -w & \cdots & -w \end{pmatrix}.$$
+
+$$\frac{1}{NW} \sum_{n=1}^{NW} \Lambda'(n) e(a q(n) \lambda) - \frac{1}{\phi(W)} \sum_{r \in R(W)} \frac{1}{N} \sum_{n=1}^{N} e(a q(Wn+r) \lambda) | < \epsilon.$$
+
+$$\min_{1 \le j \le n} \lambda_1(F_{(j)}) \ge \max_{1 \le j \le n} N^{-1} \|\tilde{y}_j\|^2$$
+
+$$(X \circ Y)(n) = \bigvee_{d} X(d) \wedge \Sigma_{d} \left( \bigvee_{\phi: n \to d} Y(n_1(\phi)) \wedge \cdots \wedge Y(n_d(\phi)) \right),$$
+
+$$\frac{1}{N} z_j^* \left( \frac{1}{n} \sum_{i \neq j} \psi(\tau_i q) z_i z_i^* \right)^{-1} z_j < 1$$
+
+$$\psi_r(x; k) = x + \int_0^r u k(u) du + E(x; k),$$
+
+$$I_4 + I_5 \le (\delta + \beta) \tilde{K} \mu \epsilon^{1 - \frac{\gamma}{2}} d_\beta^{\gamma - 2}.$$

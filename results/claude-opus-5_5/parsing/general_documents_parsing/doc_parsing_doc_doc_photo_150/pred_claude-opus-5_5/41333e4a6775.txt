@@ -1,0 +1,61 @@
+# LaTeX Transcription of Exercise 55
+
+The right edge of the page is cut off in the image, so several questions end mid-sentence. I've transcribed them exactly as visible and marked each cut with `[\ldots]`. Handwritten annotations are kept as comments.
+
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{tfrupee}   % provides \rupee for the ₹ symbol
+\usepackage{enumitem}
+
+\begin{document}
+
+% Handwritten at top of page: 2-2-2022
+
+\section*{Exercise 55}
+
+\begin{enumerate}[label=\textbf{\arabic*.}]
+  \item The cost of 1 bicycle is \rupee\,1475. Find the cost of 23 bicycles.
+
+  \item A man makes 87 toys in 1 day. How many toys does he make in four w[\ldots]
+
+  \item Buttons are packed in packets of 576 each. How many buttons are ther[\ldots]
+
+  \item The consumption of petrol in a scooter is 54 km per litre. How much di[\ldots]
+        of petrol?
+
+  \item The price of 17 table fans is \rupee\,6545. What is the cost of 1 table fan? W[\ldots]
+        of 8 table fans?
+
+  \item Three planes can carry 1185 passengers. How many passengers can b[\ldots]
+        planes?
+
+  \item 2250 clips are equally packed in 18 packets. How many clips are there ir[\ldots]
+
+  \item A car covers 2025 km in 25 hours. How much distance does it cover in [\ldots]
+
+  \item An off-set printing machine prints 37600 forms in 16 hours. How many f[\ldots]
+
+  \item A factory produces 6816 motor horns in 12 days. How many horns does[\ldots]
+        % Handwritten "12" written near 6816
+
+  \item If 13 buses can carry 715 passengers, how many passengers can be carri[\ldots]
+
+  \item A car runs 285 km on 15 litres of petrol. How many kilometres can it ru[\ldots]
+        on 22 litres of petrol?
+
+  \item The annual rent of a house is \rupee\,58500. What is its rent for 17 months?
+
+  \item A worker earned \rupee\,1080 in 8 days. How much did he earn in 3 days?
+        % Handwritten tick mark beside question; "8" written below 1080;
+        % "X" mark near end of line
+\end{enumerate}
+
+% Photo timestamp: 2022/02/02 09:36
+
+\end{document}
+```
+
+**Notes:**
+- Compile with **pdfLaTeX** (requires the `tfrupee` package). If you use XeLaTeX or LuaLaTeX with a font that supports it, you can type ₹ directly instead of `\rupee`.
+- The page contains no tables or mathematical equations. All content is plain-text word problems.

@@ -1,0 +1,68 @@
+<table>
+  <tr>
+    <td>code</td>
+    <td>left side label</td>
+    <td>right side label</td>
+    <td>dump die number</td>
+  </tr>
+  <tr>
+    <td>lla</td>
+    <td>left</td>
+    <td>left</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>llb</td>
+    <td>left</td>
+    <td>left</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>lra</td>
+    <td>left</td>
+    <td>right</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>lrb</td>
+    <td>left</td>
+    <td>right</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>rla</td>
+    <td>right</td>
+    <td>left</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>rlb</td>
+    <td>right</td>
+    <td>left</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>rra</td>
+    <td>right</td>
+    <td>right</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>rrb</td>
+    <td>right</td>
+    <td>right</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>no label</td>
+    <td>no label</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>b</td>
+    <td>no label</td>
+    <td>no label</td>
+    <td>2</td>
+  </tr>
+</table>

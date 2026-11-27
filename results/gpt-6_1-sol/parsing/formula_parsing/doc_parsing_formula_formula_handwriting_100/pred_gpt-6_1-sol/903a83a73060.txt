@@ -1,0 +1,40 @@
+\[
+\begin{aligned}
+\lambda^{2}
+&=\lambda_n^{2}
+=\left(\frac{\pi n}{\ell}\right)^{2},
+\qquad n\in\mathbb N,
+\\[4pt]
+V_1
+&=\sum_{e_h\in\mathcal E_h}\int_{e_h}[u_h]
+\left(
+\left\{F_h\nabla_{\Gamma_h}z_h;\,
+\left(\delta_{e_h}x^b-p^b n_h\right)\right\}
++d\left\{F_h\nabla_{\Gamma_h}z_h;\,Hn_h\right\}
+\right)\,dS_h
+\\
+&=\sum_{\rho\in\mathbb N_0^d}\sum_{e_h}
+\int_{e_h}
+\chi_\rho^+[u_h]
+\left\{F_h\nabla_{\Gamma_h}\varphi_\rho;\,
+\left(\delta_{e_h}x^{\rho+1}-p^{\rho+1}n_h\right)\right\}
++\chi_\rho^+[u_h]\,d
+\left\{F_h\nabla_{\Gamma_h}\varphi_\rho;\,Hn_h\right\}\,dS_h,
+\\[4pt]
+\Delta_pu
+&\equiv
+\left[(u_x)^2+(u_y)^2\right]^{p/2}\Delta u
++p\left[(u_x)^2+(u_y)^2\right]^{(p-2)/2}
+\left[(u_x)^2u_{xx}+2u_xu_yu_{xy}+(u_y)^2u_{yy}\right],
+\\[4pt]
+\#(0)
+&=\left|\left\{X\mid B(X)=0\ \text{and}\ \phi(X)=0\right\}\right|,
+\\[4pt]
+\left\|R_{T,A_1}u\right\|_{L^{\frac{p\widetilde p}{p-\widetilde p}}(\Omega)}
+&\le C\|u\|_{W^{1,\widetilde p}(\Omega)}^{1+\delta},
+\qquad \forall T\ge T_1,
+\\[4pt]
+H
+&=\frac{x_1'x_2''-x_1''x_2'}{2\sqrt{1+(r')^2}}\,n_1.
+\end{aligned}
+\]

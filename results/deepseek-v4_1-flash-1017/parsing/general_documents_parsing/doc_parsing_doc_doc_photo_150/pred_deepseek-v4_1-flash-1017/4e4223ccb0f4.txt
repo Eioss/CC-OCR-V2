@@ -1,0 +1,68 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent \underline{\textbf{NCERT Solutions for class 10 Maths}} \\
+\underline{\textbf{Chapter 1 - Real Numbers Ex - 1.1}}
+
+\vspace{1em}
+
+\noindent 1. Express each number as a product of its prime factors:
+
+\vspace{0.5em}
+
+\noindent (i) 140 \\
+\hspace*{2em} Prime factors of \(140 = 2, 2, 5, 7\) \\
+\hspace*{8.5em} \(= 2^2 \times 5 \times 7\)
+
+\vspace{0.5em}
+
+\noindent (ii) 156 \\
+\hspace*{2em} Prime factors of \(156 = 2 \times 2 \times 3 \times 13\) \\
+\hspace*{8.5em} \(= 2^2 \times 3 \times 13\)
+
+\vspace{0.5em}
+
+\noindent (iii) 3825 \\
+\hspace*{2em} Prime factors of \(3825 = 3 \times 3 \times 5 \times 5 \times 17\) \\
+\hspace*{9em} \(= 3^2 \times 5^2 \times 17\)
+
+\vspace{0.5em}
+
+\noindent (iv) 5005 \\
+\hspace*{2em} Prime factors of \(5005 = 5 \times 7 \times 11 \times 13\)
+
+\vspace{0.5em}
+
+\noindent (v) 7429 \\
+\hspace*{2em} Prime factors of \(7429 = 17 \times 19 \times 23\)
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\noindent 2. Find the LCM and HCF of the following pairs of integers and verify that LCM \(\times\) HCF = product of the two numbers
+
+\vspace{0.5em}
+
+\noindent (i) 26 and 91 \\
+\hspace*{2em} Prime factors of \(26 = 2 \times 13\) \\
+\hspace*{2em} Prime factors of \(91 = 7 \times 13\) \\
+\hspace*{2em} HCF of 26 and 91 = 13 \\
+\hspace*{2em} LCM of 26 and 91 = \(2 \times 7 \times 13\) \\
+\hspace*{8.5em} \(= 182\)
+
+\vspace{0.5em}
+
+\noindent Product of two numbers = \(26 \times 91 = 2366\) \\
+\noindent LCM \(\times\) HCF = \(182 \times 13 = 2366\) \\
+\noindent So, Product of two numbers = LCM \(\times\) HCF
+
+\end{document}
+```

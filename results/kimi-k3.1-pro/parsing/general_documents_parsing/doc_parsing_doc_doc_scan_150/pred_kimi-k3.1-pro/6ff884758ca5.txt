@@ -1,0 +1,136 @@
+```latex
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\setlength{\tabcolsep}{4pt}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcommand{\ditto}{``}
+
+\begin{document}
+
+\noindent 50\hfill
+\textsc{Affiliation of the Algonquin Languages.}\hfill
+\phantom{50}
+
+\vspace{2em}
+
+\begin{center}
+    \textsc{Vocabulary III.}\\[0.5em]
+    \textit{Comparison of Pronouns.}
+\end{center}
+
+{\small
+\begin{tabular}{@{}l L{0.43\textwidth} L{0.40\textwidth}@{}}
+& \multicolumn{1}{c}{\textsc{Algonquin.}}
+& \multicolumn{1}{c}{\textsc{Malay-Polynesian.}}\\
+I & neya, \textit{Cree} & naak, \textit{Pelew}\\
+Thou & keya, \ditto & kow, \textit{Pelew}; kowe, \textit{Ponape}\\
+& ki, \textit{Delaware}; kee, \textit{Shawno}
+& koe, \textit{New Zealand}; eoy, \textit{Tonga}\\
+& ki, \textit{Ojibbeway} & koai, \textit{Malay}\\
+He & noh, \textit{Natick}; neha, \textit{Delaware} & na, \ditto\\
+& weya, \textit{Cree} & iya, \textit{Tagala}, \textit{Malay}\\
+& oo, \textit{Shawno} & aia, \textit{Tonga}\\
+We & keyanow, \textit{Cree} & cami, \textit{Tagala}; kami, \textit{Malay}\\
+& kenawun, \textit{Natick} & gimowooa, \textit{Tonga}\\
+& mow, \textit{Micmac} & mow, \textit{Tonga}\\
+& kistahnon, \textit{Blackfoot}
+& kita, \textit{Ponape}; keeta, \textit{Malay}\\
+& neyunow, \textit{Cree} & naie, \textit{Malagasy}\\
+you & keyuwow, \textit{Cree} & koe-ee-oo, \textit{Malay}\\
+& kenaau, \textit{Natick} & kamo, \textit{Tagala}; kamu, \textit{Malay}\\
+& kinawa, \textit{Ojibbeway} & gimooa, \textit{Tonga}\\
+they & nahoh, \textit{Natick} & now, \ditto\\
+& winawa, \textit{Ojibbeway} & ginowooa, \textit{Tonga}\\
+\end{tabular}
+}
+
+\vspace{1.5em}
+
+\begin{center}
+    \textit{Prepositions and Adverbs.}
+\end{center}
+
+{\small
+\begin{tabular}{@{}l L{0.36\textwidth} L{0.38\textwidth}@{}}
+before & amooya, \textit{Cree}
+& mua, \textit{Tahiti}; gi-mooa, \textit{Tonga}\\
+& & dee-mooea, \textit{Malay}\\
+below & utamik, \textit{Cree} & atas, \ditto\\
+& chupuses, \textit{Cree}; tabassish, \textit{Ojibbeway}
+& da-baoua, \ditto\\
+behind & ootak, \ditto & tooa, \textit{Tonga}\\
+near & teik, \textit{Algonquin}; cheke, \textit{Cree}
+& dekat, \textit{Malay}\\
+at & kekek, \textit{Cree} & ka, \ditto\\
+\(\left.\begin{array}{@{}l@{}}
+\text{against, about}\\
+\text{concerning.}
+\end{array}\right\}\)
+& ooche, \textit{Cree} & gi, \textit{Tonga}\\
+\end{tabular}
+}
+
+\vspace{1em}
+\begin{center}
+    \rule{2.5cm}{0.4pt}
+\end{center}
+\vspace{1em}
+
+\begin{center}
+    \textsc{Vocabulary of Miscellaneous Terms.}\\[0.5em]
+    \textit{Algonquin and Malay-Polynesian.}
+\end{center}
+
+{\small
+\begin{tabular}{@{}l L{0.43\textwidth} L{0.40\textwidth}@{}}
+& \multicolumn{1}{c}{\textsc{Algonquin.}}
+& \multicolumn{1}{c}{\textsc{Malay-Polynesian.}}\\
+all & misewa, mamo, \textit{Cree} & mau, \textit{Tahiti}\\
+alone & pikoo, \textit{Cree} & be, \textit{Tonga}\\
+ant & ayik, \ditto & kakai, \textit{Amblaw}; osea, \textit{Celebes}\\
+arrow & kanouins, anwi, \textit{Algonquin} & gnahow, \textit{Tonga}\\
+& wepema, \textit{Miami} & pana, \textit{Malay}, \textit{Java}\\
+& uto\"{o}s, attouche, \textit{Cree} & dota, \textit{Ombay}\\
+ashes & pekootao, \textit{Cree}; pingwi, \textit{Ojibbeway}
+& aptai, \textit{Bouru}; aftuha, \textit{Sula}\\
+& & kapok, \textit{Galela}\\
+awake & pakoonao, \textit{Cree}
+& peekeeis, \textit{Pelew}; bangou, \textit{Malay}\\
+axe & togkunk, \textit{Algonquin} & togi, \textit{Tonga}\\
+& koksakin, \textit{Blackfoot} & kisseem, \textit{Pelew}\\
+& aguewet, \textit{Ojibbeway} & ikiti, \textit{Batamerah}\\
+basket & wutupewut, \textit{Cree} & tampat, \textit{Malay}\\
+to be & itow, \textit{Cree} & ada, \textit{Malay}\\
+belly & wachtey, \textit{Delaware}
+& wutan, \textit{Java}; butah, \textit{Baju}\\
+& mutai, \textit{Cree} & motni, \textit{Mysol}\\
+bone & ochkunne, \textit{Shawno} & koknatea, \textit{Amblaw}\\
+boat, canoe & wuskiwoose, \textit{Cree}
+& wog, \textit{Gani}; vaka, \textit{Mariannes}, \textit{Tonga}\\
+& oot, \textit{Cree} & oti, \textit{Tidore}\\
+& missole, \textit{Miami} & mallayae, \textit{Pelew}\\
+body & eeio, \textit{Ottawa}; yoa, \textit{Ojibbeway}
+& aoh, \textit{Menado}; awah, \textit{Java}\\
+& iniwia, \textit{Blackfoot}
+& inawallah, \textit{Saparua}; nanau, \textit{Amblaw}\\
+bow & uchape, \textit{Cree}
+& jobi-jobi, \textit{Tidore}; djub, \textit{Sula}\\
+bread, food & mechim, \ditto & macunnan, \textit{Molay}\\
+& ayukoonow, \textit{Cree} & k\`{a}nnon, \textit{Bissayan}\\
+& pummeh, \textit{Mohican} & fafanga, \textit{Tonga}\\
+breast & totosh, \textit{Ojibbeway}
+& tetai, \textit{Malay}; toot, \textit{Pelew}\\
+bird & penasew, \textit{Cree} & namo-bangou, \textit{Tidore}\\
+& pethesew, \ditto & pitek, \textit{Java} (fowl)\\
+& benasew, \textit{Ojibbeway}; pinasy, \textit{Algonquin}
+& manok, \textit{Java}, \&c.\\
+\end{tabular}
+}
+
+\end{document}
+```

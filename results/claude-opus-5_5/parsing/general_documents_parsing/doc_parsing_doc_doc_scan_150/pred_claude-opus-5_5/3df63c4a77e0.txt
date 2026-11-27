@@ -1,0 +1,192 @@
+# Physics Formula Sheet in LaTeX
+
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{array}
+\usepackage{multicol}
+\usepackage{tikz}
+
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.6}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Physics Formula Sheet}}
+\end{center}
+
+%==================== MECHANICS ====================
+\section*{Mechanics}
+
+\begin{tabular}{p{0.32\textwidth} p{0.30\textwidth} p{0.32\textwidth}}
+$x = x_0 + v_{x0}t + \tfrac{1}{2}a_x t^2$ &
+$a_c = \dfrac{v^2}{r}$ &
+$\left|\vec{F}_{\text{spring}}\right| = k\left|\vec{x}\right|$ \\
+
+$v = v_0 + at$ &
+$\theta = \theta_0 + \omega_0 t + \tfrac{1}{2}\alpha t^2$ &
+$PE_{\text{spring}} = \tfrac{1}{2}kx^2$ \\
+
+$v_x^2 - v_{x0}^2 = 2a(x - x_0)$ &
+$\omega = \omega_0 + \alpha t$ &
+$T_{\text{spring}} = 2\pi\sqrt{\dfrac{m}{k}}$ \\
+
+$\vec{a} = \dfrac{\sum \vec{F}}{m} = \dfrac{\vec{F}_{\text{net}}}{m}$ &
+$T = \dfrac{2\pi}{\omega} = \dfrac{1}{f}$ &
+$T_{\text{pendulum}} = 2\pi\sqrt{\dfrac{\ell}{g}}$ \\
+
+$\left|\vec{F}_{\text{friction}}\right| \leq \mu\left|\vec{F}_{\text{Normal}}\right|$ &
+$\nu = f\lambda$ &
+\\
+
+$\vec{p} = m\vec{v}$ &
+$x = A\cos(2\pi f t)$ &
+$\left|\vec{F}_{\text{gravity}}\right| = G\dfrac{m_1 m_2}{r^2}$ \\
+
+$\Delta\vec{p} = \vec{F}\Delta t$ &
+$\vec{\alpha} = \dfrac{\sum \vec{\tau}}{I} = \dfrac{\vec{\tau}_{\text{net}}}{I}$ &
+$\left|\vec{F}_{\text{gravity}}\right| = m\vec{g}$ \\
+
+$KE = \tfrac{1}{2}mv^2$ &
+$\vec{\tau} = r \times F$ &
+$PE_{\text{gravity}} = -G\dfrac{m_1 m_2}{r}$ \\
+
+$\Delta PE = mg\Delta y$ &
+$L = I\,\omega$ &
+$\rho = \dfrac{m}{V}$ \\
+
+$\Delta E = W = Fd\cos\theta$ &
+$\Delta L = \tau\Delta t$ &
+$KE = \tfrac{1}{2}I\,\omega^2$ \\
+\end{tabular}
+
+%==================== ELECTRICITY ====================
+\section*{Electricity}
+
+\begin{tabular}{p{0.32\textwidth} p{0.30\textwidth} p{0.32\textwidth}}
+$\left|\vec{F}_E\right| = k\left|\dfrac{q_1 q_2}{r^2}\right|$ &
+$\Delta V = IR$ &
+$R = \dfrac{\rho\,\ell}{A}$ \\
+
+$I = \dfrac{\Delta q}{\Delta t}$ &
+$P = I\Delta V$ &
+\\
+\end{tabular}
+
+\[
+R_{\text{series}} = R_1 + R_2 + \dots + R_n
+\qquad\qquad
+\frac{1}{R_{\text{Parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}
+\]
+
+%==================== GEOMETRY ====================
+\section*{Geometry}
+
+\begin{tabular}{l l l l l l}
+Rectangle & $A = bh$ &
+Rectangular Solid & $V = \ell wh$ &
+Triangle & $A = \tfrac{1}{2}bh$ \\
+
+Circle & $\begin{array}{l} A = \pi r^2 \\ C = 2\pi r \end{array}$ &
+Cylinder & $\begin{array}{l} V = \pi r^2 \ell \\ S = 2\pi r\ell + 2\pi r^2 \end{array}$ &
+Sphere & $\begin{array}{l} V = \tfrac{4}{3}\pi r^3 \\ S = 4\pi r^2 \end{array}$ \\
+\end{tabular}
+
+%==================== TRIGONOMETRY ====================
+\section*{Trigonometry}
+
+\begin{minipage}{0.35\textwidth}
+\centering
+\begin{tikzpicture}[scale=1.0]
+    \draw (0,0) -- (3,0) -- (3,1.2) -- cycle;
+    \draw (2.8,0) -- (2.8,0.2) -- (3,0.2);
+    \node at (1.5,-0.25) {$b$};
+    \node at (3.25,0.6) {$a$};
+    \node at (1.3,0.85) {$c$};
+    \node at (0.75,0.13) {$\theta$};
+\end{tikzpicture}
+\end{minipage}%
+\begin{minipage}{0.65\textwidth}
+\[
+c^2 = a^2 + b^2 \qquad
+\sin\theta = \frac{a}{c} \qquad
+\cos\theta = \frac{b}{c} \qquad
+\tan\theta = \frac{a}{b}
+\]
+\end{minipage}
+
+\vspace{1em}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+$\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin\theta$ & $0$ & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & $1$ \\
+\hline
+$\cos\theta$ & $1$ & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & $0$ \\
+\hline
+$\tan\theta$ & $0$ & $\sqrt{3}/3$ & $3/4$ & $1$ & $1$ & $\sqrt{3}$ & $\infty$ \\
+\hline
+\end{tabular}
+\end{center}
+
+%==================== VARIABLES ====================
+\section*{Variables}
+
+\begin{multicols}{3}
+\begin{itemize}\setlength{\itemsep}{0pt}
+    \item[] $a$ = acceleration
+    \item[] $A$ = amplitude
+    \item[] $A$ = Area
+    \item[] $b$ = base length
+    \item[] $C$ = circumference
+    \item[] $d$ = distance
+    \item[] $E$ = energy
+    \item[] $f$ = frequency
+    \item[] $F$ = force
+    \item[] $h$ = height
+    \item[] $I$ = current
+    \item[] $I$ = rotational inertia
+    \item[] $KE$ = kinetic energy
+    \item[] $k$ = spring constant
+    \item[] $L$ = angular momentum
+    \item[] $\ell$ = length
+    \item[] $m$ = mass
+    \item[] $P$ = power
+    \item[] $p$ = momentum
+    \item[] $q$ = charge
+    \item[] $r$ = radius
+    \item[] $R$ = resistance
+    \item[] $S$ = surface area
+    \item[] $T$ = period
+    \item[] $t$ = time
+    \item[] $PE$ = potential energy
+    \item[] $V$ = electric potential
+    \item[] $V$ = volume
+    \item[] $v$ = velocity
+    \item[] $w$ = width
+    \item[] $W$ = work
+    \item[] $x$ = position
+    \item[] $y$ = height
+    \item[] $\alpha$ = angular acceleration
+    \item[] $\lambda$ = wavelength
+    \item[] $\mu$ = coefficient of friction
+    \item[] $\nu$ = wave speed
+    \item[] $\theta$ = angle
+    \item[] $\rho$ = density
+    \item[] $\rho$ = resistivity
+    \item[] $\tau$ = torque
+    \item[] $\omega$ = angular speed
+\end{itemize}
+\end{multicols}
+
+\end{document}
+```
+
+**Transcription notes:**
+- All content is transcribed as it appears in the image.
+- The table lists $\tan 53^\circ = 1$. The correct value, consistent with the sheet's own $\sin 53^\circ = 4/5$ and $\cos 53^\circ = 3/5$, is $4/3$. I kept the original as instructed.
+- Compiling requires the `amsmath`, `amssymb`, `array`, `multicol`, and `tikz` packages. TikZ is used to redraw the right-triangle diagram.

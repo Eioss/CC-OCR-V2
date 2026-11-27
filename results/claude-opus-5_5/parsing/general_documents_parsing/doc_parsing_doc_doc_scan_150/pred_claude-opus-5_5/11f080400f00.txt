@@ -1,0 +1,126 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{multirow}
+
+\definecolor{sjsublue}{RGB}{0,85,162}
+\definecolor{sjsugold}{RGB}{229,168,35}
+\definecolor{headgray}{RGB}{220,220,220}
+\definecolor{lightblue}{RGB}{200,215,240}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+{\color{sjsublue}\Huge\textbf{SJSU}} {\color{sjsugold}\scriptsize\textsc{San José State University}}
+
+\vspace{4pt}
+{\color{sjsublue}\LARGE\textbf{INTERNATIONAL APPLICANT FINANCIAL FORM}}
+
+\vspace{4pt}
+International applicants must affirm that they are responsible for paying all tuition, fees and living expenses for the entire period of intended study by completing the Declaration of Finance form. In order to issue your I-20, we are required to collect documentation that shows you have funds available to pay for the total estimated expense for the first year of your academic program. Estimated expenses include tuition, fees, living expenses and health insurance. Actual expenses may vary.
+
+\vspace{10pt}
+\begin{tabular}{@{}l l p{0.62\textwidth}@{}}
+{\color{sjsublue}\large\textbf{INSTRUCTIONS}} & {\color{sjsublue}$\blacktriangleright$ \textbf{Part I.}} & Answer questions 1--8 completely.\\[4pt]
+ & {\color{sjsublue}$\blacktriangleright$ \textbf{Part II.}} & Indicate the source(s) of your funding and the amount available from each source; have your sponsor(s) verify their sponsorship by signing the form. Submit the required documentation as indicated below to show that you and your sponsor(s) have available liquid assets equal to or greater than at least one year's cost.
+\end{tabular}
+
+\vspace{10pt}
+{\color{sjsublue}\large\textbf{ESTIMATED EXPENSES}}
+
+\vspace{4pt}
+\begin{tabular}{|r|c|c|}
+\hline
+\rowcolor{lightblue}
+\textbf{Fall 2019-Spring 2020} & \textbf{Undergraduate} & \textbf{Graduate} \\
+\rowcolor{lightblue}
+\textbf{Academic Year} & {\tiny (12 units/semester)} & {\tiny (9 units/semester)} \\
+\hline
+Tuition Fees & \textbf{\$17,300} & \textbf{\$16,358} \\
+\hline
+Living Expenses & \textbf{\$21,397} & \textbf{\$21,397} \\
+\hline
+Medical Insurance & \textbf{\$1,888} & \textbf{\$1888} \\
+\hline
+\textbf{Total} & \textbf{\$40,585} & \textbf{\$39,643*} \\
+\hline
+\end{tabular}
+\hfill
+\begin{tabular}{|r|c|c|}
+\hline
+\rowcolor{lightblue}
+\textbf{Fall 2018-Spring 2019} & \textbf{Undergraduate} & \textbf{Graduate} \\
+\rowcolor{lightblue}
+\textbf{Academic Year} & {\tiny (12 units/semester)} & {\tiny (9 units/semester)} \\
+\hline
+Tuition Fees & \textbf{\$17,225} & \textbf{\$16,283} \\
+\hline
+Living Expenses & \textbf{\$20,445} & \textbf{\$20,445} \\
+\hline
+Medical Insurance & \textbf{\$1,529} & \textbf{\$1,529} \\
+\hline
+\textbf{Total} & \textbf{\$39,199} & \textbf{\$38,257*} \\
+\hline
+\end{tabular}
+
+{\footnotesize *The Graduate School of Business and Special Session programs have different amounts. Please check program websites for fee information.}
+
+\vspace{6pt}
+Financial documents that demonstrate proof of funding must be in English and must:
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\item Be on official bank letterhead with a stamp/seal and/or bank officer's signature.
+\item Demonstrate at least the minimum total estimated expenses for one academic year in your academic program.
+\item Include an issue date that is within the recent 6 months of when you submit your online application.
+\item Include the account holder's name.
+\item Include a specific amount in dollars (USD).
+\end{itemize}
+
+{\color{sjsublue}\large\textbf{DEPENDENT SUPPORT}}
+
+Students wishing to have a spouse or children accompany them to San José State University (SJSU) must be able to provide proof of funding for an additional \$5,000 for each family member. \textbf{A copy of marriage certificate and passport are required for adding a spouse. A copy of birth certificate(s) and passport(s) are required for each child. Additional proof of funding will also be required. *Please note a dependent cannot also be a sponsor.}
+
+\vspace{8pt}
+{\color{sjsublue}\large\textbf{FINANCIAL DOCUMENTATION}}
+
+\vspace{4pt}
+\begin{tabular}{|p{0.6\textwidth}|c|c|}
+\hline
+\rowcolor{headgray}
+{\color{sjsublue}\textbf{Type of Documentation*}} & \textbf{Acceptable} & \textbf{Not Acceptable} \\
+\hline
+Bank Letters & \checkmark & \\
+\hline
+Bank Statements (Savings or Checking Accounts) & \checkmark & \\
+\hline
+Fixed/Term/Time Deposits - \textbf{must be able to be withdrawn at any time without penalty} & \checkmark & \\
+\hline
+Loan Letters & \checkmark & \\
+\hline
+Scholarship Letters (Private, Government, School, etc.) & \checkmark & \\
+\hline
+Solvency Letter - Bank letter indicating funds immediately available to the individual & \checkmark & \\
+\hline
+Employer Letters / Salary Statements & & x \\
+\hline
+Line of Credit Letters & & x \\
+\hline
+Provident (Retirement) Fund Statements & & x \\
+\hline
+Stock Market, Equity, or Mutual Fund Statements & & x \\
+\hline
+Valuation Statements (\textbf{Jewelry}, Gold, Property) & & x \\
+\hline
+\end{tabular}
+
+\vspace{4pt}
+{\footnotesize\textbf{*This information is required for visa eligibility determination.}} \hfill {\scriptsize\textbf{Revised(5) Sept. 2018}}
+
+\end{document}
+```

@@ -1,0 +1,53 @@
+I need to identify the values for each labeled field on this medical receipt. Let me work through the document systematically, reading the printed values associated with each category label.
+
+Looking at the layout: top has title and serial numbers; middle has patient info and itemized charges; bottom has payment breakdowns and totals. I'll extract each value carefully.
+
+```json
+[
+	{"bbox_2d": [743, 166, 855, 196], "label": "NO."},
+	{"bbox_2d": [200, 187, 329, 204], "label": "业务流水号"},
+	{"bbox_2d": [864, 827, 892, 845], "label": "个人支付金额"},
+	{"bbox_2d": [324, 855, 352, 873], "label": "个人账户支付"},
+	{"bbox_2d": [444, 227, 496, 251], "label": "医保类型"},
+	{"bbox_2d": [467, 186, 521, 208], "label": "医疗机构类型"},
+	{"bbox_2d": [285, 345, 334, 365], "label": "单价"},
+	{"bbox_2d": [679, 347, 728, 368], "label": "单价"},
+	{"bbox_2d": [340, 344, 395, 368], "label": "单位"},
+	{"bbox_2d": [734, 347, 789, 370], "label": "单位"},
+	{"bbox_2d": [324, 820, 352, 839], "label": "单位补充险[原公疗]支付"},
+	{"bbox_2d": [225, 883, 320, 906], "label": "合计(大写)"},
+	{"bbox_2d": [324, 786, 352, 806], "label": "基金支付"},
+	{"bbox_2d": [183, 139, 195, 156], "label": "实时结算"},
+	{"bbox_2d": [702, 932, 730, 951], "label": "年"},
+	{"bbox_2d": [592, 788, 621, 808], "label": "年度门诊大额累计支付"},
+	{"bbox_2d": [355, 228, 367, 249], "label": "性别"},
+	{"bbox_2d": [445, 929, 480, 949], "label": "收款人"},
+	{"bbox_2d": [795, 348, 850, 369], "label": "数量"},
+	{"bbox_2d": [195, 165, 324, 182], "label": "文易流水号"},
+	{"bbox_2d": [751, 934, 759, 951], "label": "月"},
+	{"bbox_2d": [578, 721, 621, 741], "label": "本次医保范围内金额"},
+	{"bbox_2d": [593, 857, 621, 875], "label": "本次支付后个人账户余额"},
+	{"bbox_2d": [367, 84, 642, 126], "label": "标题"},
+	{"bbox_2d": [324, 752, 352, 772], "label": "残军补助支付"},
+	{"bbox_2d": [709, 232, 770, 250], "label": "社会保障卡号"},
+	{"bbox_2d": [464, 345, 504, 368], "label": "等级"},
+	{"bbox_2d": [858, 347, 899, 370], "label": "等级"},
+	{"bbox_2d": [572, 754, 620, 775], "label": "累计医保内范围金额"},
+	{"bbox_2d": [904, 432, 917, 492], "label": "联次"},
+	{"bbox_2d": [850, 691, 892, 711], "label": "自付一"},
+	{"bbox_2d": [856, 792, 892, 812], "label": "自付二"},
+	{"bbox_2d": [850, 859, 892, 879], "label": "自费"},
+	{"bbox_2d": [613, 179, 703, 198], "label": "财"},
+	{"bbox_2d": [850, 725, 892, 744], "label": "起付金额"},
+	{"bbox_2d": [864, 759, 892, 778], "label": "超封顶金额"},
+	{"bbox_2d": [324, 718, 352, 738], "label": "退休补充支付"},
+	{"bbox_2d": [779, 892, 821, 911], "label": "金额"},
+	{"bbox_2d": [400, 313, 443, 333], "label": "金额"},
+	{"bbox_2d": [400, 346, 455, 367], "label": "金额"},
+	{"bbox_2d": [795, 348, 850, 369], "label": "金额"},
+	{"bbox_2d": [324, 718, 352, 738], "label": "门诊大额支支付"},
+	{"bbox_2d": [120, 308, 161, 330], "label": "项目规格"},
+	{"bbox_2d": [120, 341, 279, 366], "label": "项目规格"},
+	{"bbox_2d": [515, 344, 675, 369], "label": "项目规格"}
+]
+```

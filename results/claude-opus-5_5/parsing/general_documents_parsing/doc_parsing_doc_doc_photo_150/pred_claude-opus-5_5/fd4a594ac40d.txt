@@ -1,0 +1,120 @@
+# LaTeX Transcription
+
+Compile with **XeLaTeX**, because the header contains Bengali characters. A Bengali font such as *Noto Sans Bengali* must be installed.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{enumitem}
+\geometry{margin=2cm}
+
+% Bengali font for the header line
+\newfontfamily\bengalifont[Script=Bengali]{Noto Sans Bengali}
+
+\newcommand{\blank}{\rule{1.6cm}{0.4pt}}
+\newcommand{\marks}[1]{\hfill\makebox[1.5cm][r]{#1}}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% ---------- Header ----------
+{\bengalifont অয়োময়} \hfill {\bengalifont ৪৭} \hfill {\bengalifont ১৩৭}
+
+\vspace{0.4cm}
+\begin{center}
+    {\Large\bfseries Ka Set}\\[0.3cm]
+    {\bfseries JUNIOR SCHOOL CERTIFICATE EXAMINATION,}\\[0.2cm]
+    ENGLISH\\[0.1cm]
+    \textsc{Second Paper}
+\end{center}
+
+\hfill \textbf{Subject Code :}\quad
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{1} & \textbf{0} & \textbf{8} \\
+\hline
+\end{tabular}
+
+\begin{center}
+    Time---2 hours\\
+    Full marks---50\\[0.2cm]
+    \textit{[N.B.---The figures in the right margin indicate full marks.]}\\[0.4cm]
+    \textbf{Section A---Grammar}\\
+    Marks---30
+\end{center}
+
+\hfill Marks
+
+% ---------- Question 1 ----------
+\begin{enumerate}[label=\arabic*., leftmargin=*]
+
+\item Fill in the gaps of the following text with appropriate articles. Put a
+cross ($\times$) where there is no article applicable :---
+\marks{$0{\cdot}5\times6$}\\
+\mbox{}\marks{$=3$}
+
+I live in Rajshahi. My elder brother who is \textit{(a)} \blank{} engineer,
+works in Dhaka. Last summer he asked me to stay \textit{(b)} \blank{} few
+days with him and sent me \textit{(c)} \blank{} plane ticket. That was my first
+journey by air. I arrived at \textit{(d)} \blank{} airport about \textit{(e)} \blank{} hour
+before the flight. It was \textit{(f)} \blank{} enjoyable plane journey.
+
+% ---------- Question 2 ----------
+\item Fill in the blanks of the following text with prepositions given in the
+box :---
+\marks{$0{\cdot}5\times6$}\\
+\mbox{}\marks{$=3$}
+
+\begin{center}
+\begin{tabular}{|p{2cm}|p{2cm}|p{2.2cm}|p{2.2cm}|p{3.5cm}|p{1.5cm}|}
+\hline
+\centering for & \centering to & \centering in & \centering with & \centering about & \centering\arraybackslash after \\
+\hline
+\end{tabular}
+\end{center}
+
+Money is a must \textit{(a)} \blank{} our life. But one should not run after
+money because those who hanker \textit{(b)} \blank{} money cannot enjoy
+mental peace. Sometimes, it may lead one \textit{(c)} \blank{} some
+unexpected troubles. It also happens that greed \textit{(d)} \blank{} money
+brings \textit{(e)} \blank{} many problems. So we should be contented
+\textit{(f)} \blank{} what we have.
+
+% ---------- Question 3 ----------
+\item Make \textbf{four} meaningful sentences from the substitution table :---
+\marks{$1\times4=4$}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.6}
+\begin{tabular}{|>{\centering\arraybackslash}p{4.2cm}|>{\centering\arraybackslash}p{1.6cm}|p{7.5cm}|}
+\hline
+Youth            & \multirow{2}{*}{is}   & be built properly. \\[0.4cm]
+\cline{3-3}
+It               &                        & the time of sowing seeds of life. \\
+\cline{3-3}
+We               & must                   & \multirow{2}{7.5cm}{sow the seeds of industry and honesty in this time.} \\
+Thus our future  & will                   & \\
+\cline{3-3}
+                 &                        & the best time of life. \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{enumerate}
+
+\vfill
+\hfill \textit{[Please turn over}
+
+\end{document}
+```
+
+## Notes on the Transcription
+- **Header:** The Bengali header characters (অয়োময়, ৪৭, ১৩৭) are kept as in the original.
+- **Blanks:** Each blank (\rule{1.6cm}{0.4pt}) stands for the dashed lines in the original.
+- **Marks:** The mark notations ($0{\cdot}5\times6 = 3$ and $1\times4=4$) are right-aligned, as in the margin of the paper.
+- **Substitution table:** The table keeps the original column structure. The vertically merged cells are approximated with `\multirow` and `\cline` to match the visual layout.

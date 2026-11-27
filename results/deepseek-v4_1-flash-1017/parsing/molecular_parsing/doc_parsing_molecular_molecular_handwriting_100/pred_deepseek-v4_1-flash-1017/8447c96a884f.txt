@@ -1,0 +1,3 @@
+Based on the provided image, here is the extracted chemical structure in SMILES format:
+
+CCC1=C2C(=NC3=C1C=C(C=C3)OC(N4CCN(CC4)C5=CC=C(C=C5)N6C(=NN=C6O)C7=CC(=C(C=C7)O)C(C)C)O)CN8C2=CC9=C(C8=O)C(COC9=O)(CC)O

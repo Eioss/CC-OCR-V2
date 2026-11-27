@@ -1,0 +1,6 @@
+The full circular text cannot be completely recognized with certainty due to low image resolution and overlapping horizontal text:
+
+- **Company name:** `祥□(常州)包装有限公司`
+  - The second character (between `祥` and `(`) is obscured by the overlapping horizontal characters (`一四`) and cannot be reliably identified.
+  - `公` (between `限` and `司`) is partially covered by `二日` and faint, though inferable from `有限公司`.
+- **Bottom registration number:** Appears to begin with `3204` (ending around `...0003961`), but the middle and trailing digits are too blurry to verify reliably.

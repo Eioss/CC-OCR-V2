@@ -1,0 +1,5 @@
+There are two instances of "25.00" on the receipt. The one in the unit-price column (单价) is at:
+
+(681, 472, 723, 498)
+
+The other "25.00" is in the amount column (金额), on the same row, at approximately (843, 464, 887, 491).

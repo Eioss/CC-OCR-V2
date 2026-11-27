@@ -1,0 +1,14 @@
+```latex
+\begin{gathered}
+\frac{d}{dt}p(t)=H_{i,i+1}(p(t),t)\,\vec{n}_{i,i+1}(p(t),t)+\left(\bar{T}_{i,i+1}(p(t),(t)\cdot\frac{d}{dt}p(t)\right)\bar{T}_{i,i+1}(p(t),t)\\[2ex]
+h(\varepsilon)=pk\left(\frac{p}{k}-1-\varepsilon\right)=(k+1)\varepsilon^{2}-(2p+pk)+p^{2}-pk>0,\\[2ex]
+\sum_{l\in[n]\setminus\{i,j\}}\det(A[\{i,j,l\}])\\[2ex]
+\sup_{t\geq 0,\,E_{R}^{(\alpha)}(u)(0)\leq 1}e^{kt}E_{R}(t)<\infty\\[2ex]
+\tilde{P}=\{(H,p_{D})\xrightarrow{v^{+}}(H',p)\}\\[2ex]
+\begin{aligned}
+|T_{P_{2}}[a]|_{m,s,\eta}&\leq p_{e,s,\eta}|a|_{m,s+\mu_{0},\eta}+|a|_{m,s_{0}+\mu_{0},\eta}|\bar{p}|_{1,s+\mu_{0},\eta+1}\\
+&\leq p_{e,s,\eta}|a|_{m,s+\mu_{0},\eta}+\gamma^{-1}\varepsilon^{2}|a|_{m,s_{0}+\mu_{0},\eta}\|\mathfrak{I}_{\delta}\|_{s+\mu_{0}}
+\end{aligned}\\[2ex]
+G/B^{+}=\bigsqcup_{w\in W}B^{+}/B^{+}=\bigsqcup_{w\in W}B^{-}\dot{w}B^{+}/B^{+}
+\end{gathered}
+```

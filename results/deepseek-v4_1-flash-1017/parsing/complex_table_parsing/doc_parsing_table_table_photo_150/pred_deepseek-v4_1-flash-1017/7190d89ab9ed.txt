@@ -1,0 +1,113 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+  }
+  td {
+    border: 1px solid black;
+    padding: 8px;
+    vertical-align: top;
+  }
+  .center-text {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    border: none;
+    padding-bottom: 20px;
+  }
+  .label {
+    width: 15%;
+    white-space: nowrap;
+  }
+  .content {
+    width: 35%;
+  }
+  .handwriting {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 1.1em;
+  }
+  .large-cell {
+    height: 300px;
+    position: relative;
+  }
+  .signature-area {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Title Row -->
+  <tr>
+    <td colspan="4" class="center-text">竣工验收申请报告</td>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td class="label">项目名称</td>
+    <td class="content handwriting">2021年道路维修<br>一期一标段</td>
+    <td class="label">施工范围</td>
+    <td class="content handwriting">千童大道</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td class="label">监理单位</td>
+    <td class="content"></td>
+    <td class="label">施工单位</td>
+    <td class="content handwriting">中安城投建设<br>有限公司</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td class="label">开工时间</td>
+    <td class="content"></td>
+    <td class="label">竣工时间</td>
+    <td class="content"></td>
+  </tr>
+
+  <!-- Row 4 (Large merged cell) -->
+  <tr>
+    <td class="label" style="vertical-align: middle;">竣工报告<br>申请说明</td>
+    <td colspan="3" class="large-cell">
+      <p>一、工程概况 <span class="handwriting">千童大道</span></p>
+      <br><br>
+      <p>二、工程现已完工，并自检、初验合格。申请沧州市市政设施管理中心组织竣工验收。</p>
+      
+      <div class="signature-area">
+        <span>监理单位盖章</span>
+        <span>施工单位盖章</span>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td class="label">申请单位</td>
+    <td colspan="2" class="handwriting">中安城投建设有限公司</td>
+    <td></td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td class="label">申请日期</td>
+    <td class="handwriting">2022年5月7日</td>
+    <td class="label">联系方式</td>
+    <td class="handwriting">150 3076 8706</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+```

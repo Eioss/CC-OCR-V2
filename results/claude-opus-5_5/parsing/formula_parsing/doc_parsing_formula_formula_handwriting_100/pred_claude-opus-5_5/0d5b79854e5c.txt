@@ -1,0 +1,9 @@
+```latex
+\begin{gathered}
+\eta^{e}(v)\bar{v}^{e}(v)+\eta^{e'}(v)\bar{v}^{e'}(v)=0, \quad \eta^{e'}(v)\bar{v}^{e'}(v)=1, \quad \text{and} \quad \bar{v}\equiv 0 \text{ on } \mathcal{E}\setminus\{e,e'\} \\
+H^{\mathfrak{X}}=-\hbar\int\left(n_{H}|H\rangle_{S}\langle H|+n_{V}|V\rangle_{S}\langle V|\right)\otimes\omega|\omega\rangle_{e}\langle\omega|\,d\omega, \\
+\sup_{0\leq t\leq T}\|v^{M}(t)-u(t)\|_{1}=O\left(\|v^{M}(0)-u(0)\|_{1}+\|W^{(M)}-W\|_{\mathrm{op},1}\right). \\
+\hat{R}_{i}^{(j,m)}=\Phi\left(Q_{i}^{(j)},N_{i}^{(j)},\{C_{(i,r)}^{(j)}\},\{\hat{R}_{(i,r)}^{(j-1,m)}\}\right), \quad i=1,\ldots,m, \\
+C_{n}(-T)=(-1)^{n}C_{n}(T)
+\end{gathered}
+```

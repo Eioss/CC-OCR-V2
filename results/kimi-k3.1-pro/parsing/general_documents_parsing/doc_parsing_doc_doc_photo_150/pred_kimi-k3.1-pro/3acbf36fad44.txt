@@ -1,0 +1,82 @@
+Redacted or seal-obscured characters are marked rather than guessed.
+
+```latex
+\documentclass{ctexart}
+\usepackage[margin=0.65in]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+
+\setlength{\parindent}{0pt}
+\newcommand{\redacted}{\textit{[redacted]}}
+\newcommand{\obscured}{\textit{[obscured/illegible]}}
+\newcommand{\signature}{\textit{[signature]}}
+
+\begin{document}
+
+\begin{center}
+    {\Large\bfseries Ruijin Hospital Shanghai Jiaotong University School of Medicine}\\[4pt]
+    {\large\bfseries Clinical Laboratory Report}
+\end{center}
+
+\noindent\hfill Sample Number : \obscured 43
+
+\begin{tabularx}{\textwidth}{@{}X X@{}}
+Name : \redacted & \\
+PatientNo/PassportNo : 1320021\obscured & Birthday: 1\obscured \\
+Gender : \redacted & \\
+Clinical Diagnosis : Regular inspection & Sample Type : Nasopharynx swab \\
+Age : \redacted & Testing Time : 2021-08-14 \\
+\end{tabularx}
+
+\textbf{Application Section Office} : Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\vspace{4pt}
+\hrule
+\vspace{4pt}
+
+\begin{tabularx}{\textwidth}{@{}lll>{\raggedright\arraybackslash}X@{}}
+\textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+\hline
+SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\end{tabularx}
+
+\vspace{2em}
+\textbf{Statement:}
+
+1. The testing result may be affected by the sampling time, sampling body parts as well as the\\
+methodology limitations. The result should be analyzed with clinical manifestations.
+
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{1em}
+\begin{tabularx}{\textwidth}{@{}X X@{}}
+Sampling Time : 21-08-14 09:52 & Reporting Time : 21-08-1\obscured \\
+Received Time : 21-08-14 11:03 & Printing Time : 21-08-15 07\obscured \\
+\end{tabularx}
+
+\noindent
+Inspector \signature \hfill Auditor: \signature
+
+% A red circular seal and a black circular seal overlap this section.
+% Their small Chinese text is not fully legible in the image.
+
+The test results are just responsible for the sample;and used only for reference by clinical doctors.
+
+\vspace{1em}
+\hrule
+\vspace{2pt}
+
+\begin{tabularx}{\textwidth}{@{}X r@{}}
+add.:No197 Ruijin 2 Road,Huangpu district,Shanghai & Tel.: 8621-64370045 \\
+\end{tabularx}
+
+\vspace{1em}
+\begin{center}
+Sheet 1 \hspace{8em} (病毒室)
+\end{center}
+
+\end{document}
+```

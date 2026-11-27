@@ -1,0 +1,38 @@
+\[
+\begin{aligned}
+\left|\mathbb{E}\left[F_t^{BA}(s_t,a_t)\mid\mathcal{F}_t\right]\right|
+&=\gamma\left|\mathbb{E}\left[
+\min\left\{Q_t^B(s_{t+1},a_K),Q_t^A(s_{t+1},a^*)\right\}
+-\min\left\{Q_t^A(s_{t+1},b_K),Q_t^B(s_{t+1},b^*)\right\}
+\mid\mathcal{F}_t\right]\right|\\
+&\leq\gamma\mathbb{E}\left[
+\min\left\{Q_t^B(s_{t+1},b^*),Q_t^A(s_{t+1},a^*)\right\}
+-\min\left\{Q_t^A(s_{t+1},b^*),Q_t^B(s_{t+1},b^*)\right\}
+\mid\mathcal{F}_t\right]\\
+&\leq\gamma\mathbb{E}\left[Q_t^B(s_{t+1},b^*)\mid\mathcal{F}_t\right]
+-\gamma\mathbb{E}\left[
+\min\left\{Q_t^A(s_{t+1},b^*),Q_t^B(s_{t+1},b^*)\right\}
+\mid\mathcal{F}_t\right]\\
+&=\gamma P\left(Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*)\mid\mathcal{F}_t\right)
+\mathbb{E}\left[Q_t^B(s_{t+1},b^*)\mid
+Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*),\mathcal{F}_t\right]\\
+&\quad+\gamma P\left(Q_t^B(s_{t+1},b^*)<Q_t^A(s_{t+1},b^*)\mid\mathcal{F}_t\right)
+\mathbb{E}\left[Q_t^B(s_{t+1},b^*)\mid
+Q_t^B(s_{t+1},b^*)<Q_t^A(s_{t+1},b^*),\mathcal{F}_t\right]\\
+&\quad-\gamma P\left(Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*)\mid\mathcal{F}_t\right)
+\mathbb{E}\left[Q_t^A(s_{t+1},b^*)\mid
+Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*),\mathcal{F}_t\right]\\
+&\quad-\gamma P\left(Q_t^B(s_{t+1},b^*)<Q_t^A(s_{t+1},b^*)\mid\mathcal{F}_t\right)
+\mathbb{E}\left[Q_t^B(s_{t+1},b^*)\mid
+Q_t^B(s_{t+1},b^*)<Q_t^A(s_{t+1},b^*),\mathcal{F}_t\right]\\
+&=\gamma P\left(Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*)\mid\mathcal{F}_t\right)
+\mathbb{E}\left[
+\underbrace{Q_t^B(s_{t+1},b^*)-Q_t^A(s_{t+1},b^*)}_{\leq\|\Delta_t^{BA}\|}
+\;\middle|\;
+Q_t^B(s_{t+1},b^*)\geq Q_t^A(s_{t+1},b^*),\mathcal{F}_t
+\right]\\
+&\leq\gamma P\left(Q_t^B(s_t,a^*)\geq Q_t^A(s_t,a^*)\mid\mathcal{F}_t\right)
+\|\Delta_t^{BA}\|
+\leq\gamma\|\Delta_t^{BA}\|.
+\end{aligned}
+\]

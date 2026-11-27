@@ -1,0 +1,3 @@
+Based on the provided image, here is the chemical structure represented in SMILES format:
+
+`N#Cc1ccc2c(c1)c1ccccc1n2-c1ccc(-c2cccc(-c3ccccc3)c2-c2ccc3c(c2)oc2ccccc23)cc1`

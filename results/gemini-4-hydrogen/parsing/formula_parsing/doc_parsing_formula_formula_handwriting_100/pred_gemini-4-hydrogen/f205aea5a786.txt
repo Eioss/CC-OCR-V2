@@ -1,0 +1,14 @@
+```latex
+\begin{gather*}
+\left| \frac{\partial \Gamma_\epsilon^{\alpha\beta}}{\partial x_i} (x, t; y, s) - \frac{\partial \Gamma_0^{\alpha\beta}}{\partial x_i} (x, t; y, s) - \frac{\partial \chi_j^{\alpha\gamma}}{\partial x_i} (x/\epsilon, t/\epsilon^2) \frac{\partial \Gamma_0^{\gamma\beta}}{\partial x_j} (x, t; y, s) \right| \\
+\deg(T\chi_0|_{C_1}) - \deg(\mathcal{I}^{\alpha_1})|_{C_1} - \deg(\mathcal{I}^{-1}/\mathcal{I}^{\alpha_1})|_{C_1} \\
+= \deg(\mathcal{I}^{-2}/\mathcal{I})|_{C_1} + \deg(\mathcal{I}^{-3}/\mathcal{I}^{-2})|_{C_1}. \\
+\langle A_{w,t} u, u \rangle \ge \max \{ c_1(w, t) \|u\|_V^\alpha - m_1(w, t), c_2(w, t) \|Au\|_{V^*}^\beta - m_2(w, t) \}, \\
+S_{BS} \approx N^{1/2} (2\lambda + 4 r_2^2)^{1/2} \approx (2 N \lambda)^{1/2}, \\
+(g_A^* \circ h \circ e)_f (x_{i_1 j_1} \cdots x_{i_s j_s} \otimes y_{l_1} \cdots y_{l_t}) = (\psi^* \circ g_K^*)_f (x_{i_1 j_1} \cdots x_{i_s j_s} \otimes y_{l_1} \cdots y_{l_t}) \\
+(g_A^* \circ h)_f (x_{i_1} \cdots x_{i_s} \otimes y_{l_1} \cdots y_{l_t}) = \left( \prod_{u=1}^s \prod_{k=1}^{c_{i_u}} z_{i_u j_u k} \right) \otimes y_{l_1} \cdots y_{l_t}. \\
+\ell \le H_{\min}^{\epsilon_1} (Z_D | S_D D B') - 2 \log_2 \frac{1}{\epsilon_A - 4\epsilon_1} \\
+\mathbb{D} : D(A_w - \mathrm{dgmod})^\circ \to D(A_w - \mathrm{dgmod}) : M \mapsto R\mathrm{Hom}_{H_G^*(pt)}(M, H_G^*(pt)), \\
+S_\epsilon(r(E)) = S_\epsilon(r(VE)) = Q(S_\epsilon)^{VE} + \sum_{\lambda \in VE} Q(S_\epsilon)_\lambda^{VE} = \sum_{\lambda \in VE} Q(S_\epsilon)_\lambda^{VE}.
+\end{gather*}
+```

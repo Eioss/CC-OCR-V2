@@ -1,0 +1,5 @@
+The text "196.30" appears twice in the image. The clearest instance, next to 现金支付 (cash payment), is at:
+
+(73, 636, 140, 662)
+
+The second instance, next to 自负 (self-paid), is at roughly (286, 715, 353, 742).

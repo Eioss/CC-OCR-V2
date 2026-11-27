@@ -1,0 +1,250 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amsmath,amssymb,array}
+\usepackage{graphicx}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+    {\Large\bfseries Physics Formula Sheet}
+\end{center}
+
+\begin{minipage}[t]{0.72\textwidth}
+\begin{center}
+    \textbf{Mechanics}
+\end{center}
+\fbox{%
+\begin{minipage}{0.96\linewidth}
+\[
+\begin{array}{lll}
+x=x_0+v_{x0}t+\dfrac12 a_x t^2
+&
+a_c=\dfrac{v^2}{r}
+&
+|\vec F_{\mathrm{spring}}|=k|\vec x|
+\\[1.3em]
+v=v_0+at
+&
+\theta=\theta_0+\omega_0t+\dfrac12\alpha t^2
+&
+\mathrm{PE}_{\mathrm{spring}}=\dfrac12 kx^2
+\\[1.3em]
+v_x^2-v_{x0}^2=2a(x-x_0)
+&
+\omega=\omega_0+\alpha t
+&
+T_{\mathrm{spring}}=2\pi\sqrt{\dfrac{m}{k}}
+\\[1.3em]
+\vec a=\dfrac{\sum\vec F}{m}=\dfrac{\vec F_{\mathrm{net}}}{m}
+&
+T=\dfrac{2\pi}{\omega}=\dfrac1f
+&
+T_{\mathrm{pendulum}}=2\pi\sqrt{\dfrac{\ell}{g}}
+\\[1.3em]
+|\vec F_{\mathrm{friction}}|\leq\mu|\vec F_{\mathrm{Normal}}|
+&
+v=f\lambda
+&
+\\[1.3em]
+\vec p=m\vec v
+&
+x=A\cos(2\pi ft)
+&
+|\vec F_{\mathrm{gravity}}|
+=G\dfrac{m_1m_2}{r^2}
+\\[1.3em]
+\Delta\vec p=\vec F\Delta t
+&
+\vec\alpha=\dfrac{\sum\vec\tau}{I}
+=\dfrac{\vec\tau_{\mathrm{net}}}{I}
+&
+|\vec F_{\mathrm{gravity}}|=m\vec g
+\\[1.3em]
+\mathrm{KE}=\dfrac12 mv^2
+&
+\vec\tau=\vec r\times\vec F
+&
+\mathrm{PE}_{\mathrm{gravity}}
+=-G\dfrac{m_1m_2}{r}
+\\[1.3em]
+\Delta\mathrm{PE}=mg\Delta y
+&
+L=I\omega
+&
+\rho=\dfrac{m}{V}
+\\[1.3em]
+\Delta E=W=Fd\cos\theta
+&
+\Delta L=\tau\Delta t
+&
+\mathrm{KE}=\dfrac12 I\omega^2
+\end{array}
+\]
+\end{minipage}%
+}
+
+\begin{center}
+    \textbf{Electricity}
+\end{center}
+\fbox{%
+\begin{minipage}{0.96\linewidth}
+\[
+\begin{array}{lll}
+|\vec F_E|=k\left|\dfrac{q_1q_2}{r^2}\right|
+&
+\Delta V=IR
+&
+R=\dfrac{\rho\ell}{A}
+\\[1.4em]
+I=\dfrac{\Delta q}{\Delta t}
+&
+P=I\Delta V
+&
+\end{array}
+\]
+\[
+R_{\mathrm{series}}=R_1+R_2+\ldots+R_n
+\qquad
+\frac{1}{R_{\mathrm{parallel}}}
+=\frac1{R_1}+\frac1{R_2}+\ldots+\frac1{R_n}
+\]
+\end{minipage}%
+}
+
+\begin{center}
+    \textbf{Geometry}
+\end{center}
+\fbox{%
+\begin{minipage}{0.96\linewidth}
+\[
+\begin{array}{ll ll ll}
+\text{Rectangle} & A=bh
+&
+\text{Rectangular Solid} & V=\ell wh
+&
+\text{Triangle} & A=\dfrac12 bh
+\\[0.7em]
+\text{Circle} & A=\pi r^2
+&
+\text{Cylinder} & V=\pi r^2\ell
+&
+\text{Sphere} & V=\dfrac43\pi r^3
+\\[0.5em]
+& C=2\pi r
+&
+& S=2\pi r\ell+2\pi r^2
+&
+& S=4\pi r^2
+\end{array}
+\]
+\end{minipage}%
+}
+
+\begin{center}
+    \textbf{Trigonometry}
+\end{center}
+\fbox{%
+\begin{minipage}{0.96\linewidth}
+\begin{center}
+\setlength{\unitlength}{0.7mm}
+\begin{picture}(65,30)
+    \put(5,5){\line(1,0){50}}
+    \put(55,5){\line(0,1){20}}
+    \put(5,5){\line(5,2){50}}
+    \put(51,5){\line(0,1){4}}
+    \put(51,9){\line(1,0){4}}
+    \put(57,13){$a$}
+    \put(29,0){$b$}
+    \put(29,20){$c$}
+    \put(20,7){$\theta$}
+\end{picture}
+\[
+c^2=a^2+b^2
+\qquad
+\sin\theta=\frac ac
+\qquad
+\cos\theta=\frac bc
+\qquad
+\tan\theta=\frac ab
+\]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+$\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$
+& $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+\hline
+$\sin\theta$ & $0$ & $1/2$ & $3/5$
+& $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & $1$ \\
+\hline
+$\cos\theta$ & $1$ & $\sqrt{3}/2$ & $4/5$
+& $\sqrt{2}/2$ & $3/5$ & $1/2$ & $0$ \\
+\hline
+$\tan\theta$ & $0$ & $\sqrt{3}/3$ & $3/4$
+& $1$ & $1$ & $\sqrt{3}$ & $\infty$ \\
+\hline
+\end{tabular}
+\end{center}
+\end{minipage}%
+}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.25\textwidth}
+\begin{center}
+    \textbf{Variables}
+\end{center}
+\fbox{%
+\begin{minipage}{0.91\linewidth}
+\renewcommand{\arraystretch}{1.35}
+\begin{tabular}{@{}l@{}}
+$a$ = acceleration \\
+$A$ = amplitude \\
+$A$ = Area \\
+$b$ = base length \\
+$C$ = circumference \\
+$d$ = distance \\
+$E$ = energy \\
+$f$ = frequency \\
+$F$ = force \\
+$h$ = height \\
+$I$ = current \\
+$I$ = rotational inertia \\
+$\mathrm{KE}$ = kinetic energy \\
+$k$ = spring constant \\
+$L$ = angular momentum \\
+$\ell$ = length \\
+$m$ = mass \\
+$P$ = power \\
+$p$ = momentum \\
+$q$ = charge \\
+$r$ = radius \\
+$R$ = resistance \\
+$S$ = surface area \\
+$T$ = period \\
+$t$ = time \\
+$\mathrm{PE}$ = potential energy \\
+$V$ = electric potential \\
+$V$ = volume \\
+$v$ = velocity \\
+$w$ = width \\
+$W$ = work \\
+$x$ = position \\
+$y$ = height \\
+$\alpha$ = angular acceleration \\
+$\lambda$ = wavelength \\
+$\mu$ = coefficient of friction \\
+$v$ = wave speed \\
+$\theta$ = angle \\
+$\rho$ = density \\
+$\rho$ = resistivity \\
+$\tau$ = torque \\
+$\omega$ = angular speed
+\end{tabular}
+\end{minipage}%
+}
+\end{minipage}
+
+\end{document}
+```

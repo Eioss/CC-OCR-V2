@@ -1,0 +1,100 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{gensymb}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\definecolor{awblue}{RGB}{0,51,204}
+\definecolor{awteal}{RGB}{102,204,204}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{awteal}{\Huge awinic}\quad
+  \textcolor{awteal}{\small shanghai awinic technology co., ltd.}}
+\fancyhead[R]{\textbf{\large AW32905E}\\ Mar. 2023 V1.0}
+\fancyfoot[L]{\small www.awinic.com}
+\fancyfoot[C]{\small 5}
+\fancyfoot[R]{\small \copyright\ 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+\setlength{\headheight}{36pt}
+
+\begin{document}
+
+\section*{\textcolor{awblue}{Ordering Information}}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\textbf{Part Number} & \textbf{Temperature} & \textbf{Package} & \textbf{Marking} &
+\begin{tabular}[c]{@{}c@{}}\textbf{Moisture}\\ \textbf{Sensitivity}\\ \textbf{Level}\end{tabular} &
+\begin{tabular}[c]{@{}c@{}}\textbf{Environmental}\\ \textbf{Information}\end{tabular} &
+\begin{tabular}[c]{@{}c@{}}\textbf{Delivery}\\ \textbf{Form}\end{tabular} \\
+\hline
+AW32905EFCR & $-40\,\degree$C -- $85\,\degree$C &
+\begin{tabular}[c]{@{}c@{}}FCQFN\\ 1.3mm$\times$1.8mm\\ -12L\end{tabular} &
+RZR & MSL1 & ROHS+HF &
+\begin{tabular}[c]{@{}c@{}}3000 units/\\ Tape and\\ Reel\end{tabular} \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\section*{\textcolor{awblue}{Absolute Maximum Ratings} $^{\text{\tiny (NOTE 1)}}$}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{|c|p{3.8cm}|p{3.8cm}|c|c|c|}
+\hline
+\textbf{Symbol} & \textbf{Parameter} & \textbf{Condition} & \textbf{Min.} & \textbf{Max.} & \textbf{Unit} \\
+\hline
+$V_{\mathrm{IN}}$ & Input voltage & & $-0.3$ & 29 & V \\
+\hline
+$V_{\mathrm{OUT}}$ & Output voltage & & $-0.3$ & See$^{\text{(NOTE 2)}}$ & V \\
+\hline
+$V_{\mathrm{OVLO}}$ & OVLO voltage & & $-0.3$ & 6 & V \\
+\hline
+$V_{\overline{\mathrm{ACOK}}}$ & $\overline{\mathrm{ACOK}}$ voltage & & $-0.3$ & 6 & V \\
+\hline
+$V_{\overline{\mathrm{EN}}}$ & $\overline{\mathrm{EN}}$ voltage & & $-0.3$ & 6 & V \\
+\hline
+$I_{\mathrm{SW}}$ & Continuous current of switch IN-OUT$^{\text{(NOTE 3)}}$ &
+Continuous current on IN and OUT pin & & 5 & A \\
+\hline
+$I_{\mathrm{PEAK}}$ & Peak current &
+Peak input and output current on IN and OUT pin(10ms) & & 8 & A \\
+\hline
+$I_{\mathrm{DIODE}}$ & Continuous diode current &
+Continuous forward current through the nFET body diode & & 1.5 & A \\
+\hline
+$T_{\mathrm{A}}$ & Ambient temperature & & $-40$ & 85 & $\degree$C \\
+\hline
+$T_{\mathrm{J}}$ & Junction temperature & & $-40$ & 150 & $\degree$C \\
+\hline
+$T_{\mathrm{STG}}$ & Storage temperature & & $-65$ & 150 & $\degree$C \\
+\hline
+$T_{\mathrm{LEAD}}$ & Soldering temperature & At leads, 10 seconds & & 260 & $\degree$C \\
+\hline
+Surge & Input surge protection &
+IEC61000-4-5 test with $2\,\Omega$ equivalent series resistance & 120 & & V \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\medskip
+\noindent\textit{NOTE2: 29V or $V_{IN}$+0.3V, whichever is smaller.}
+
+\medskip
+\noindent\textit{NOTE3: Limited by thermal design.}
+
+\end{document}
+```

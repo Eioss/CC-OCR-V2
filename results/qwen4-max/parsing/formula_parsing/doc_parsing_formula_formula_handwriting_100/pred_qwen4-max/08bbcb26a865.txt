@@ -1,0 +1,9 @@
+$$\sum _ { \chi \in S _ { n , q } } \left( q ^ { - \frac { n + 1 } { 2 } } \sum _ { a _ { 1 } , \ldots , a _ { n } \in \mathbb { F } _ { q } } \chi ( 1 + \sum _ { i } a _ { i } x ^ { i } ) \psi ( a _ { n } ) \right) ^ { m }$$
+$$x _ { 0 } T _ { 0 } = U _ { \pi } x _ { 0 } \quad a n d \quad V _ { n \geq 0 } U _ { \pi } ^ { - n } x _ { 0 } { \cal N } = L ^ { 2 } ( \mathbb { T } ) .$$
+$$\hat { \chi } _ { o u t } = \hat { \chi } _ { i n } - ( \hat { x } _ { A } - \hat { x } _ { B } ) , \; \; \; \hat { p } _ { o u t } = \hat { p } _ { i n } + ( \hat { p } _ { A } + \hat { p } _ { B } ) .$$
+$$( D _ { \nu , z ^ { * } } ) \operatorname* { s u p } _ { \mu } \frac { 1 } { 2 } \langle \mu , \nabla ^ { 2 } G ( \bar { z } ) ( \nu , \nu ) \rangle \; \, s u b j e c t \; t o \; \mu \in { \cal K } ^ { * } \; a n d \; \nabla G ( \bar { z } ) ^ { * } \mu = z ^ { * } .$$
+$$\frac { d } { d t } \| \psi ( t ) \| _ { L _ { x } ^ { 2 } } ^ { 2 } + ( 2 A _ { \psi } ( t ) - ( d + 2 k ) B _ { \psi } ( t ) ) \| \psi ( t ) \| _ { L _ { x } ^ { 2 } } ^ { 2 } + 2 k B _ { \psi } ( t ) \| \psi ( t ) \| _ { L _ { x } ^ { 2 } } ^ { 2 }$$
+$$= 2 ( 1 - \alpha ) \int _ { { \mathbb R } ^ { d } } { \mathcal Q } _ { + } ( \psi , \psi ) ( t , \xi ) \psi ( t , \xi ) \langle \xi \rangle ^ { 2 k } \, d \xi - 2 \int _ { { \mathbb R } ^ { d } } { \mathcal Q } _ { - } ( \psi , \psi ) ( t , \xi ) \psi ( t , \xi ) \langle \xi \rangle ^ { 2 k } d \xi .$$
+$$\frac { \partial L } { \partial w } = 2 ( y - w \hat { l } _ { 1 } - ( 2 - w ) \hat { l } _ { 2 } ) ( - \hat { l } _ { 1 } + \hat { l } _ { 2 } ) ,$$
+$$\frac { \partial ^ { 2 } L } { \partial w ^ { 2 } } = 2 ( - \hat { l } _ { 1 } + \hat { l } _ { 2 } ) ^ { 2 } \geq 0 .$$
+$$G ( y ) = s u p _ { a \leq s \leq b } | \Sigma _ { j = 1 } ^ { \infty } ( y + \Gamma _ { j } ) ^ { - 1 / \alpha } W _ { j } ( s ) |$$

@@ -1,0 +1,110 @@
+<table>
+  <tr>
+    <td colspan="5">CA9 Month began study</td>
+  </tr>
+  <tr>
+    <td>LGCA009M</td>
+    <td>Frequency</td>
+    <td>Percent</td>
+    <td>Cumulative Frequency</td>
+    <td>Cumulative Percent</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>5108</td>
+    <td>93.30</td>
+    <td>5108</td>
+    <td>93.30</td>
+  </tr>
+  <tr>
+    <td>1 January</td>
+    <td>24</td>
+    <td>0.44</td>
+    <td>5132</td>
+    <td>93.74</td>
+  </tr>
+  <tr>
+    <td>2 February</td>
+    <td>124</td>
+    <td>2.26</td>
+    <td>5256</td>
+    <td>96.00</td>
+  </tr>
+  <tr>
+    <td>3 March</td>
+    <td>66</td>
+    <td>1.21</td>
+    <td>5322</td>
+    <td>97.21</td>
+  </tr>
+  <tr>
+    <td>4 April</td>
+    <td>9</td>
+    <td>0.16</td>
+    <td>5331</td>
+    <td>97.37</td>
+  </tr>
+  <tr>
+    <td>5 May</td>
+    <td>8</td>
+    <td>0.15</td>
+    <td>5339</td>
+    <td>97.52</td>
+  </tr>
+  <tr>
+    <td>6 June</td>
+    <td>24</td>
+    <td>0.44</td>
+    <td>5363</td>
+    <td>97.95</td>
+  </tr>
+  <tr>
+    <td>7 July</td>
+    <td>50</td>
+    <td>0.91</td>
+    <td>5413</td>
+    <td>98.87</td>
+  </tr>
+  <tr>
+    <td>8 August</td>
+    <td>20</td>
+    <td>0.37</td>
+    <td>5433</td>
+    <td>99.23</td>
+  </tr>
+  <tr>
+    <td>9 September</td>
+    <td>15</td>
+    <td>0.27</td>
+    <td>5448</td>
+    <td>99.51</td>
+  </tr>
+  <tr>
+    <td>10 October</td>
+    <td>8</td>
+    <td>0.15</td>
+    <td>5456</td>
+    <td>99.65</td>
+  </tr>
+  <tr>
+    <td>11 November</td>
+    <td>6</td>
+    <td>0.11</td>
+    <td>5462</td>
+    <td>99.76</td>
+  </tr>
+  <tr>
+    <td>12 December</td>
+    <td>5</td>
+    <td>0.09</td>
+    <td>5467</td>
+    <td>99.85</td>
+  </tr>
+  <tr>
+    <td>88 Month unknown</td>
+    <td>8</td>
+    <td>0.15</td>
+    <td>5475</td>
+    <td>100.00</td>
+  </tr>
+</table>

@@ -1,0 +1,1 @@
+[{"bbox_2d": [108, 79, 274, 95], "label": "email"}, {"bbox_2d": [87, 40, 174, 60], "label": "name"}, {"bbox_2d": [309, 81, 442, 94], "label": "phone"}]

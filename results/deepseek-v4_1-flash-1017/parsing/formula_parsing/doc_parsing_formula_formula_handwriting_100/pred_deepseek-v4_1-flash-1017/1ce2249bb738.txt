@@ -1,0 +1,9 @@
+\begin{align*}
+& E\left[\int_{0}^{1} |V(T^{-1}\tau)|_{t}^{2} \frac{1}{R^{2}} d\tau\right] - E\left[\int_{0}^{1} |V(\tau)|_{t}^{2} \frac{1}{R^{2}} d\tau d\varphi\right] \\
+&\quad \le E\left[\exp\left\{\int_{0}^{1} |V(\tau)|_{t}^{2} \frac{1}{R^{2}} d\tau\right\} \varphi\right] = E\left[\frac{1}{\varphi^{2}}\right] < \infty \\
+& = \sum_{i \in N_{M}} (2\nu_{i_{0}}(\pi) + 2\gamma_{i_{0}}(\pi)) + \sum_{i \in N_{0}} 2\nu_{i_{0}}(\pi) \\
+& \frac{n}{\sum_{t=1}} \tilde{L}_{t}^{u} w_{t} - \sum_{t=1}^{n} \tilde{L}_{t}^{u} u \le D_{l^{1}}(u, w_{t}) + \sum_{t=1}^{n} \sum_{i=1}^{d} \frac{\tilde{L}_{i, t}^{2}}{2(\psi^{-1})''(w_{i, t})} \\
+& C^{h}(D) := \{f \in C(D) \mid \|f\|_{C^{h}(D)} < \infty\}, \\
+& \|u\|_{2} + |x|)L_{\infty} + (d-1)v\|L_{2} + \|(1+|x|)L_{2}v + (d-1)v\|_{L_{2}} \lesssim \varepsilon(t)^{1/2}, \\
+& \int_{|x| \le |t| \le \pi} L_{\pi}(t) d\varphi_{x}(t) \le C \left( \int_{|t| \le |x| \le \pi} \frac{|d\varphi_{x}(t)|}{n t^{2}} + \int_{|x| \le |t| \le \pi} \frac{|d\varphi_{x}(t)|}{n t^{3}} + \int_{|x| \le |t| \le \pi} \frac{|d\varphi_{x}(t)|}{n^{2} t^{2}} \right)
+\end{align*}

@@ -1,0 +1,5 @@
+The amount given in the voucher is **$900.00**.
+
+This is shown in two places on the form:
+- In the "ISSUE CHECK TO" box: **900** with cents marked as **xx** (i.e., .00)
+- In the "Amount" column at the bottom: **$900.00**

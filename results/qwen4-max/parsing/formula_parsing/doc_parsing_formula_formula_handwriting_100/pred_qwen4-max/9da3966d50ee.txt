@@ -1,0 +1,11 @@
+$$\chi _ { p , \mathrm { c y c } } ^ { j } \phi ( \mathcal { L } _ { p , \mathrm { C M } } ^ { \mathrm { c y c } } ( \eta ) ) = \Gamma ( j t - k _ { \mu , 1 } ) G ( \phi ) \frac { p | p t _ { F } t \prod _ { p \in S t } A _ { p } ( v ( \eta ) ^ { p - s t } , \phi , j ) L ( v ( \eta ) ^ { p - s t } , \phi ^ { - 1 } , j ) } { ( - 2 \pi \sqrt { - 1 } ) ^ { j d } ( - \widetilde \Omega _ { \mathrm { C M } , \infty } ) ^ { k _ { \mu , 2 } } ( - \Omega _ { \mathrm { C M } , \infty } ) ^ { - k _ { \mu , 1 } } }$$
+
+$$y ^ { T } \mathbb { E } \Big [ \sum _ { r = 1 } ^ { m } a _ { r } a _ { r } ^ { T } \Big ] y = \sum _ { r = 1 } ^ { m } \mathbb { E } [ \langle a _ { r } , y \rangle ^ { 2 } ] = \sum _ { r = 1 } ^ { m } \sum _ { j = 1 } ^ { d } y _ { j } ^ { 2 } = \sum _ { r = 1 } ^ { m } | | y | | ^ { 2 } .$$
+
+$$\eta _ { T } ^ { 2 } : = \left( \sum _ { T \in \mathcal { T } } \eta _ { T } ^ { 2 } \right) ^ { 1 / 2 } \cdot \left( \sum _ { T \in \mathcal { T } } h _ { T } ^ { 2 } \eta _ { T } ^ { 2 } \right) ^ { 1 / 2 } ,$$
+
+$$g _ { 1 } \cdot \ldots \cdot g _ { r _ { i } } = R _ { 0 } R _ { 1 } \cdot \ldots \cdot R _ { n }$$
+
+$$v ( \theta , r ) = - 1 \; \mathrm { f o r } \; r \; \mathrm { n e a r } \; 0 , \quad v ( \theta , r ) = 1 \; \; \mathrm { f o r } \; \; r \geqslant R e ^ { 1 \theta ! } .$$
+
+$$\int _ { 1 } ^ { \infty } h ( y ) e ^ { - \cos y ^ { - \gamma / ( \gamma - 1 ) } } \cdot \frac { d y } { y ^ { ( 2 \gamma - 1 ) / ( \gamma - 1 ) } } \leqslant h ( 1 ) \int _ { 1 } ^ { \infty } \frac { d y } { y ^ { ( 2 \gamma - 1 ) / ( \gamma - 1 ) } } < \infty ,$$

@@ -1,0 +1,87 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{amsmath}
+
+\begin{document}
+
+\begin{center}
+\textbf{Verification of the Formula of a Hydrated Salt Data Sheet}
+\end{center}
+
+\noindent
+Name \underline{\hspace{4cm}}
+\hfill
+Partner's Name \underline{\hspace{4cm}}
+
+\medskip
+
+\noindent
+Hydrated salt you were given
+\underline{\(\mathrm{CaSO_4\cdot 2H_2O}\)}
+
+\medskip
+
+\renewcommand{\arraystretch}{1.5}
+\noindent
+\begin{tabular}{|p{6.4cm}|p{2.3cm}|p{2.3cm}|p{2.3cm}|}
+\hline
+& Trial 1 & Trial 2 & Trial 3 \\ \hline
+Mass of crucible and lid (g)
+& \(28.326\,g\) & \(26.247\,g\) & \\ \hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g)
+& \(33.713\,g\) & \(30.200\,g\) & \\ \hline
+Mass of hydrated salt (g)
+& \(5.387\,g\) & \(3.953\,g\) & \\ \hline
+Mass of crucible, lid, salt AFTER heating (g)
+& \(32.656\,g\) & \(29.690\,g\) & \\ \hline
+Mass of anhydrous salt (g)
+& \(4.330\,g\) & \(3.443\,g\) & \\ \hline
+Moles of anhydrous salt (mole)
+& \(0.0318\,g\) & \(0.02530\,g\) & \\ \hline
+Mass of water of crystallization removed (g)
+& \(1.057\,g\) & \(0.510\,g\) & \\ \hline
+Moles of water of crystallization removed (mole)
+& \(0.05870\,g\) & \(0.02830\,g\) & \\ \hline
+\end{tabular}
+
+\bigskip
+
+\noindent
+\begin{tabular}{|p{6.4cm}|p{2.3cm}|p{2.3cm}|p{2.3cm}|}
+\hline
+Ratio moles water : moles salt & \(?\) & \(?\) & \\ \hline
+\end{tabular}
+
+\bigskip
+
+\noindent
+\begin{tabular}{|p{4.8cm}|p{4.1cm}|p{4.1cm}|}
+\hline
+& \centering Individual & \centering Class \tabularnewline \hline
+Average Ratio
+& \centering \(?\) & \tabularnewline \hline
+Standard Deviation
+& & \centering \(\mathrm{X}\) \tabularnewline \hline
+Relative Standard Deviation (\%)
+& \centering \(?\) & \centering \(\mathrm{X}\) \tabularnewline \hline
+\end{tabular}
+
+\bigskip
+
+\noindent
+The Chemical Formula for the hydrate is
+\underline{\hspace{1cm}\( ? \)\hspace{1cm}}.
+
+\vfill
+
+\noindent
+This document was prepared by D. Fineman, J. Tierney.
+
+\begin{center}
+45
+\end{center}
+
+\end{document}
+```

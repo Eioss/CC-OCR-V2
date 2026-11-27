@@ -1,0 +1,14 @@
+```latex
+\begin{aligned}
+&F_{\pm} = 4 \langle (\Delta \hat{n})^2 \rangle \\
+&\partial_t u_t(x) = \frac{1}{2} \Delta u_t(x) + \sigma(x, u_t(x)) \dot{W}_t(x), \ t \in [0, T], \ x \in R, \\
+&\overline{D}_u(z) = 0 \quad \forall z \in \Omega \setminus \partial U. \\
+&A \oplus B \in SC(X \times X \times R) \\
+&\limsup_{t \to \infty} t^{\frac{3}{4} + \frac{1}{2}} |I_{3,1}^{\delta}(t)| \le C \lim_{t \to \infty} \int_0^{\infty} \int_{|w| \ge t^{\frac{3}{4}}} |U_f(w, \tau)| \, dw d\tau = 0. \\
+&|\varepsilon^T S_g \varepsilon| = \frac{\varepsilon^T A \varepsilon}{(x^T A_0^{-1} A A_0^{-1} x)^2} |(C^T x)^T (y-x) - (y-x)^T C x| \le \frac{\varepsilon^T A \varepsilon (|C x| + |C^T x|) |x-y|}{(x^T A_0^{-1} A A_0^{-1} x)^2} \\
+&m \circ \exp_q(t D_1 \otimes D_2) = m \circ \left( id \otimes id + t D_1 \otimes D_2 + \frac{1}{H q} (t^2 D_1^2 \otimes D_2^2) \right) \\
+&\sum_{n \ge 1} \mu \{ T_m = i \} < \infty \\
+&\Lambda_1 = -2\kappa \frac{\rho}{\langle \rho \rangle} \partial_{\rho} = -2\kappa \sum_{j=1}^2 \frac{z_j}{\langle z \rangle} \partial_{z_j}, \\
+&\Lambda_2 = \frac{\kappa^2 |z|^2 \langle z \rangle - \kappa}{\langle z \rangle^3} + \frac{\kappa |z| \cosh |z|}{\langle z \rangle \sinh |z|}
+\end{aligned}
+```

@@ -1,0 +1,62 @@
+Hello! I'd be happy to help you transcribe this table into HTML. Here is the structured representation of the data from the image:
+
+```html
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="4">OSM-FSQ</th>
+      <th colspan="4">OSM-Yelp</th>
+      <th rowspan="2">Avg</th>
+    </tr>
+    <tr>
+      <th>Singapore</th>
+      <th>Edinburgh</th>
+      <th>Toronto</th>
+      <th>Pittsburgh</th>
+      <th>Singapore</th>
+      <th>Edinburgh</th>
+      <th>Toronto</th>
+      <th>Pittsburgh</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Geo-ER</td>
+      <td><strong>89.8%</strong></td>
+      <td><strong>95.7%</strong></td>
+      <td><strong>94.6%</strong></td>
+      <td><strong>92.7%</strong></td>
+      <td><strong>92.9%</strong></td>
+      <td><strong>97.1%</strong></td>
+      <td><strong>96.6%</strong></td>
+      <td><strong>97.6%</strong></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>w/o Neigh. emb.</td>
+      <td>-1.8%</td>
+      <td>-1.3%</td>
+      <td>-2.2%</td>
+      <td>-0.9%</td>
+      <td>-1.9%</td>
+      <td>-1.5%</td>
+      <td>-1.4%</td>
+      <td>-2.4%</td>
+      <td>-1.7%</td>
+    </tr>
+    <tr>
+      <td>w/o Dist. emb.</td>
+      <td>-5.5%</td>
+      <td>-2.3%</td>
+      <td>-4.2%</td>
+      <td>-3.1%</td>
+      <td>-4.8%</td>
+      <td>-1.4%</td>
+      <td>-3.7%</td>
+      <td>-1.7%</td>
+      <td>-3.3%</td>
+    </tr>
+  </tbody>
+</table>
+```

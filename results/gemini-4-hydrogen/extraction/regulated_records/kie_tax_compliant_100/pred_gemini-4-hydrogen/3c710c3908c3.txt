@@ -1,0 +1,12 @@
+```json
+{
+  "date": "28/05/22",
+  "doc_no_receipt_no": "7698/0601/00601",
+  "seller_address": "Menara Dion #02-03, Level 2, 27, Jalan Sultan Ismail, 50250 Kuala Lumpur.",
+  "seller_gst_id": "000850247680",
+  "seller_name": "Dion Realties Sdn Bhd",
+  "seller_phone": "+6 03 2026 6386",
+  "total_amount": "5.00",
+  "total_tax": "0.28"
+}
+```

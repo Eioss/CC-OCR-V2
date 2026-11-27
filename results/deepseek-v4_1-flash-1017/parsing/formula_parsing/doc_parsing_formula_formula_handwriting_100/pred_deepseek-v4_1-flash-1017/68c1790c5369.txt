@@ -1,0 +1,13 @@
+[\tilde{\phi}_k^{(n)\dagger}\tilde{\phi}_k^{(n)}]|f_0\rangle^{\otimes n-1}\otimes|f_{in}\rangle = d^{\lambda_k^*(\lambda_{in},k^*)}|f_0\rangle^{\otimes n-1}\otimes|f_{in}\rangle,
+
+L_{[n\tau]-1} < L_{[n\tau]}
+
+d \cdot L/T = d \cdot MW(J(f)) \subseteq M
+
+\sum_{r=\gamma_i+1}^{\delta-\delta_0+\gamma_i} S(\gamma_i, r) = \sum_{r=\gamma_i+1}^{\delta-\delta_0+\gamma_i} (-1)^r \frac{(\delta-\delta_0+\gamma_i-1)!}{r!(r-\gamma_i)!(\delta-\delta_0+\gamma_i-r)!} \binom{d-d_0-1}{\gamma_i-1};
+
+= (-1)^{\gamma_i+1} \binom{\delta-\delta_0+\gamma_i-1}{\gamma_i-1} \binom{d-d_0-1}{\gamma_i-1}.
+
+\bar{x} = x, \quad x + \bar{x} = n(x, 1)1, \quad x \cdot \bar{x} = \bar{x} \cdot x = n(x)1,
+
+\mu^{x, x+1}((\mu_{j \to i}, \lambda_{i \to j}), (\mu, \lambda)) = q^{\mu_i + \dots + \mu_{j-1}} \{\mu_j\}_{q^2} q^{\lambda_i + \dots + \lambda_j} \{\lambda_i\}_{q^2} q^{\mu_j + \dots + \mu_{n-1}} z^{(u_i + \dots + \mu_{n-1})}

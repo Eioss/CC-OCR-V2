@@ -1,0 +1,28 @@
+\[
+\begin{aligned}
+&\beta k_i=\operatorname{Re}F\!\left(\lambda_k-\lambda_0+i(\mu_j-\mu_k)\right)\\
+&F(\lambda_k-\lambda_0)=\frac{\operatorname{Re}F\!\left(-\lambda_0+i(\mu_j-\mu_k)\right)}{\beta k_i},\quad F(-\lambda_0)\\
+&\tilde{A}_{\mu_0}^{n}\in C_0\!\left(\partial\Omega_1\times\partial\Omega_2\times\mathbb{R}^{n}\right).\\
+&\sum_j[E_{jt}\le C]\int_0^t
+\|\lambda^j-\mu_p\|_{\beta_{2,2}^{n}}
+\|\nabla b_a\|_{\beta_{2,2}^{n}}
+\|b_a\cdot b_p\|_{L_x^\infty(\beta_{2,2}^{n})}\,dt\\
+&\quad\le 4\|\mu_a-\mu_p\|_{L_t^2(\beta_{2,2}^{n})}^{2}
++C+\|b_a\|_{L_t^2(\beta_{2,2}^{n})}^{2}
+-p\|b_a\|_{L_t^\infty(\beta_{2,2}^{n})}^{2}\\
+&\frac{ie^{i\varphi}}{2}(1-ir(j))-e^{i2\varphi}T-f(S)\\
+&\partial^2\mu_1+a\mu_1+2ie^x\frac{\partial A(X)}{\partial x}
+-A(X)e^{i\varphi_{12}}e^{i\tau}
++\left(2i\frac{\partial A^*(X)}{\partial A}+A(X)\right)e^{-i\varphi_{12}}e^{i\tau}\\
+&\quad-A^*(X)e^{2i\tau+i\varphi_{12}}
+-A(X)e^{2i\tau-i\varphi_{12}}=0.\\
+&\|\mu_{t^A}-\mu_0\|_{L_t^2(\partial\Omega)}
+\le C(1+\lambda)\varepsilon\|F\|_{L_t^2(\partial\Omega)}
++\|C\|_{L_t^2(\partial\Omega)}\\
+&\partial_t\|\gamma\theta_1h\|_X^2+\|\gamma\theta_2h\|_X^2+\phi_{x+r\infty}
+=\delta\|h\|_X\cdot\phi_{x+r\infty}+\varepsilon_s\\
+&\psi_f(\phi,\zeta)=\int\exp\!\left(-\int_S\alpha(r)\,dr\right)
+\frac{1}{ifs\epsilon|-|0|}\\
+&zi-s-if_{st}\phi(f_s)\qquad\text{if }s\le-i
+\end{aligned}
+\]

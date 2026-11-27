@@ -1,0 +1,71 @@
+Here is the transcription of the image content into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{graphicx}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Huge \textbf{\textcolor{purple}{The passive voice}}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{|>{\bfseries}p{3.5cm}|p{5.5cm}|p{5.5cm}|}
+\hline
+\rowcolor{teal!80!black} \textcolor{white}{Active Voice} & \textcolor{white}{Passive Voice} \\ \hline
+Present Simple & They \textcolor{red}{serve} dinner at 6pm & Dinner \textcolor{red}{is served} at 6pm \\ \hline
+\rowcolor{green!20} Present Continuous & They \textcolor{red}{are serving} dinner now. & Dinner \textcolor{red}{is being served} now. \\ \hline
+Past Simple & They \textcolor{red}{served} dinner. & Dinner \textcolor{red}{was served}. \\ \hline
+\rowcolor{green!20} Past Continuous & They \textcolor{red}{were serving} dinner. & Dinner \textcolor{red}{was being served}. \\ \hline
+Future Simple & They \textcolor{red}{will serve} dinner. & Dinner \textcolor{red}{will be served}. \\ \hline
+\rowcolor{green!20} Present Perfect & They \textcolor{red}{have served} dinner. & Dinner \textcolor{red}{has been served}. \\ \hline
+Past Perfect & They \textcolor{red}{had served} dinner. & Dinner \textcolor{red}{had been served}. \\ \hline
+\rowcolor{green!20} Future Perfect & They \textcolor{red}{will have served} dinner. & Dinner \textcolor{red}{will have been served}. \\ \hline
+Present infinitive & They \textcolor{red}{should serve} dinner. & Dinner \textcolor{red}{should be served}. \\ \hline
+\rowcolor{green!20} Perfect infinitive & They \textcolor{red}{should have served} dinner. & Dinner \textcolor{red}{should have been served}. \\ \hline
+-ing form & He likes people \textcolor{red}{serving} his dinner & He likes his dinner \textcolor{red}{being served} \\ \hline
+\rowcolor{green!20} Perfect-ing form & \textcolor{red}{Having served} dinner,... & Dinner \textcolor{red}{having been served}... \\ \hline
+Modals+ be + p.p. & You \textcolor{red}{must serve} dinner. & Dinner \textcolor{red}{must be served}. \\ \hline
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\noindent \textbf{\Large Exercise}
+
+\vspace{0.3cm}
+
+\noindent \textit{Karen is writing an article about Vivienne Tam for the school newspaper. Help her to complete the article using the correct passive form of the verbs in brackets. One of the verbs is negative.}
+
+\vspace{0.5cm}
+
+\noindent Fashion designer Vivienne Tam \underline{\hspace{1cm}(1)\hspace{1cm}} (name) "Yin Yok" when she was born. She \underline{\hspace{1cm}(2)\hspace{1cm}} (give) her English name when she started studying in Hong Kong. She \underline{\hspace{1cm}(3)\hspace{1cm}} (teach) English at school but spoke Cantonese at home. She \underline{\hspace{1cm}(4)\hspace{1cm}} (tell) to always remember her Chinese culture. At the same time, western ideas \underline{\hspace{1cm}(5)\hspace{1cm}} (introduce) to her since people from many cultures were living in Hong Kong. This mix of East and West in her life \underline{\hspace{1cm}(6)\hspace{1cm}} (see) in her designs even now.
+
+\vspace{0.3cm}
+
+\noindent Vivienne moved to New York when she was twenty-five. Her new and interesting designs \underline{\hspace{1cm}(7)\hspace{1cm}} (like) by important shops there, so a lot of orders for her clothing \underline{\hspace{1cm}(8)\hspace{1cm}} (place). Today her East-meets-West clothes \underline{\hspace{1cm}(9)\hspace{1cm}} (sell) only in New York, but also in cities around the world.
+
+\vspace{1cm}
+
+\begin{figure}[h!]
+    \centering
+    \begin{tabular}{c}
+        \textit{\Large \textcolor{blue}{Try your best!}} \\
+        % Placeholder for the cartoon character
+    \end{tabular}
+\end{figure}
+
+\end{document}
+```

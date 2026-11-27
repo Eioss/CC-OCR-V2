@@ -1,0 +1,39 @@
+\[
+\begin{aligned}
+&\mathbb{E}\left\|A^{\eta}\left[X_{1}(t)-X_{1}(s)\right]\right\|^{2}\\
+&\quad\leq 4\iota_{1-\rho}^{2}\iota_{\eta+\rho-\beta}^{2}
+\mathbb{E}\left\|A^{\beta}\xi\right\|_{E}^{2}
+\epsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}\\
+&\qquad+4\left[
+\frac{\iota_{1-\rho}\iota_{\eta+\rho}B(\beta,1-\eta-\rho)}{\rho}
++\iota_{\eta}B(\eta+\rho,1-\eta)
+\right]^{2}\\
+&\qquad\quad\times \mathbb{E}\left\|F_{1}\right\|_{\mathcal{F}^{0}(E)}^{2}
+\epsilon^{2(\beta-\eta-\rho)}(t-s)^{2\rho}\\
+&\qquad+\frac{
+8\iota_{1-\rho}^{2}\iota_{\eta+\rho}^{2}C_{F_{2}}^{2}K^{2}
+B(1+2\beta-2\eta,1-\eta-\rho)
+}{
+\rho^{2}(1-\eta-\rho)
+}\\
+&\qquad\quad\times
+\max\left\{
+\epsilon^{2(1+\beta-2\eta-\rho)},
+T_{\mathrm{loc}}^{2(1+\beta-2\eta-\rho)}
+\right\}(t-s)^{2\rho}\\
+&\qquad+\frac{
+8\iota_{1-\rho}^{2}\iota_{\eta+\rho}^{2}
+\mathbb{E}\left\|F_{2}(0)\right\|^{2}
+}{\rho}
+T_{\mathrm{loc}}^{2(1-\eta-\rho)}(t-s)^{2\rho}\\
+&\qquad+8\iota_{\eta}^{2}C_{F_{2}}^{2}K^{2}
+B\!\left(\frac{1}{2}+\beta,1-2\eta\right)
+T_{\mathrm{loc}}^{\frac{1}{2}+\beta-2\eta}
+(t-s)^{\frac{3}{2}+\beta-2\eta}\\
+&\qquad+\frac{
+8\iota_{\eta}^{2}\mathbb{E}\left\|F_{2}(0)\right\|^{2}
+}{1-2\eta}
+(t-s)^{2(1-\eta)},
+\qquad \epsilon\leq s<t\leq T_{\mathrm{loc}}.
+\end{aligned}
+\]

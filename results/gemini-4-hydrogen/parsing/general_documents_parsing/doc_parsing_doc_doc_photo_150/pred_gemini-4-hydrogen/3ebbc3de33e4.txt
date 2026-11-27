@@ -1,0 +1,21 @@
+\textbf{Graph each equation using the vertex formula. Include the intercepts. Determine the domain and range.}
+
+\begin{enumerate}
+    \item[93)] $x = -\frac{1}{2}y^2 - 3y - \frac{5}{2}$
+    \item[94)] $x = 3y^2 - 12y$
+\end{enumerate}
+
+\textbf{(9.7) Solve each inequality. Graph the solution set and write the solution in interval notation.}
+
+\begin{enumerate}
+    \item[95)] $a^2 + 2a - 3 < 0$
+    \item[96)] $4m^2 + 8m \ge 21$
+    \item[97)] $64v^2 \ge 25$
+    \item[98)] $36 - r^2 > 0$
+    \item[99)] $(5c + 2)(c - 4)(3c + 1) < 0$
+    \item[100)] $(p - 6)^2 \le -5$
+    \item[101)] $\frac{t + 7}{2t - 3} > 0$
+    \item[102)] $\frac{6}{g - 7} \le 0$
+    \item[103)] $\frac{z}{z - 2} \le 3$
+    \item[104)] $\frac{1}{n - 4} > -3$
+\end{enumerate}

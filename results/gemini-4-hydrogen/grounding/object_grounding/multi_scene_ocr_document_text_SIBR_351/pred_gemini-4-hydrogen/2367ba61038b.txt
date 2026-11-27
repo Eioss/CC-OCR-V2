@@ -1,0 +1,30 @@
+```json
+[
+  {"bbox_2d": [311, 50, 608, 69], "label": "TITLE"},
+  {"bbox_2d": [644, 71, 720, 83], "label": "NO"},
+  {"bbox_2d": [646, 88, 728, 99], "label": "DATE"},
+  {"bbox_2d": [646, 104, 836, 117], "label": "SITE"},
+  {"bbox_2d": [194, 121, 470, 149], "label": "COMPANY NAME"},
+  {"bbox_2d": [155, 171, 455, 198], "label": "ADDRESS"},
+  {"bbox_2d": [581, 170, 784, 198], "label": "ADDRESS"},
+  {"bbox_2d": [152, 221, 268, 233], "label": "FAX"},
+  {"bbox_2d": [156, 238, 273, 249], "label": "TEL"},
+  {"bbox_2d": [581, 252, 689, 263], "label": "TEL"},
+  {"bbox_2d": [154, 254, 333, 268], "label": "E-MAIL"},
+  {"bbox_2d": [153, 270, 297, 284], "label": "WEBSITE"},
+  {"bbox_2d": [64, 359, 224, 370], "label": "1.Description of Goods"},
+  {"bbox_2d": [255, 359, 290, 370], "label": "2.Standard"},
+  {"bbox_2d": [353, 359, 446, 370], "label": "3.Packing"},
+  {"bbox_2d": [521, 359, 581, 369], "label": "4.Quantity"},
+  {"bbox_2d": [626, 358, 736, 369], "label": "5.Unit Price"},
+  {"bbox_2d": [755, 359, 853, 369], "label": "6.Amount"},
+  {"bbox_2d": [171, 407, 368, 418], "label": "7.Price Terms"},
+  {"bbox_2d": [155, 424, 397, 437], "label": "8.Shipment"},
+  {"bbox_2d": [156, 443, 354, 456], "label": "9.Insurance"},
+  {"bbox_2d": [214, 461, 364, 472], "label": "10.Payment Terms"},
+  {"bbox_2d": [79, 712, 458, 739], "label": "COMPANY NAME"},
+  {"bbox_2d": [78, 742, 728, 771], "label": "ADDRESS"},
+  {"bbox_2d": [203, 775, 327, 786], "label": "SWIFT CODE"},
+  {"bbox_2d": [157, 792, 326, 803], "label": "A/C NO."}
+]
+```

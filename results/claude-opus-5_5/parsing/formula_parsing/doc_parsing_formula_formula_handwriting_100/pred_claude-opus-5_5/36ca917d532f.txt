@@ -1,0 +1,12 @@
+```latex
+\begin{gathered}
+\hat{\mathbb{E}}_t\Big[\Big(\int_t^T |Z_s|^2 ds\Big)^{\frac{\alpha}{2}}\Big] \leq C\Big\{1+\hat{\mathbb{E}}_t\Big[\sup_{s\in[t,T]}|Y_s|^{\alpha}\Big]+\Big(\hat{\mathbb{E}}_t\Big[\sup_{s\in[t,T]}|Y_s|^{\alpha}\Big]\Big)^{1/2}\Big(\hat{\mathbb{E}}_t\Big[\Big(\int_t^T h_s ds\Big)^{\alpha}\Big]\Big)^{1/2}\Big\}, \\
+\hat{\mathbb{E}}_t\big[|A_T-A_t|^{\alpha}\big] \leq C\Big\{1+\hat{\mathbb{E}}_t\Big[\sup_{s\in[t,T]}|Y_s|^{\alpha}\Big]+\hat{\mathbb{E}}_t\Big[\Big(\int_t^T h_s ds\Big)^{\alpha}\Big]\Big\}, \\[2ex]
+\mathbb{P}(\overline{X}_{e(q)}\in dx)=\vec{a}(\rho,\varsigma)^{T}\times\vec{v}(\varsigma,x)dx, \quad \mathbb{P}(-\underline{X}_{e(q)}\in dx)=\vec{a}(\hat{\rho},\hat{\varsigma})^{T}\times\vec{v}(\hat{\varsigma},x)dx. \\[2ex]
+\sum_{\substack{0\leq h<k\leq N\\(h,k)=1}}\ \sum_{2a+2b+2c=r} k(a,b,c)(kT)^{a}\frac{1}{k\sqrt{n}}\Big(\frac{n}{k}\Big)^{|\frac{1}{2}-a-2c|} \ll_{r,T} \sum_{k\leq N}\ \sum_{2a+2b+2c=r} n^{|\frac{1}{2}-a-2c|-\frac{1}{2}}k^{a-|\frac{1}{2}-a-2c|}. \\[2ex]
+\delta_t=\delta\circ\gamma_t:\Gamma_t\to\Delta \\[2ex]
+X_t=x+Y_t+\int_0^t u(s,X_s)\,ds,\quad t\in[0,T], \\[2ex]
+\int_{\Omega}[A(x)\cdot\nabla T_j(u_m)]\cdot\nabla\varphi\, S(u_n)\,dx+\int_{\Omega}[A(x)\cdot\nabla T_j(u_n)]\cdot\nabla T_j(u_n)\,S'(u_n)\,\varphi\,dx \\
+=\int_{\Omega}H(x,u_n,\nabla u_n)\,\varphi\,dx+\int_{\Omega}(T_n(f)S(u_n))\,\varphi\,dx.
+\end{gathered}
+```

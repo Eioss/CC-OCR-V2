@@ -1,0 +1,193 @@
+```latex
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.6in, top=0.5in, bottom=0.5in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+\usepackage{helvet}
+\usepackage{parskip}
+
+% Define colors matching the document
+\definecolor{mtiyellow}{RGB}{244, 192, 46}
+\definecolor{mtinavy}{RGB}{18, 25, 51}
+\definecolor{mtigray}{RGB}{100, 100, 100}
+
+\setlength{\columnsep}{18pt}
+\pagestyle{empty}
+
+\begin{document}
+
+% Header
+\begin{flushright}
+\sffamily\footnotesize
+\textcolor{mtinavy}{CHAIRMAN'S LETTER} \hspace{1.5em} \textcolor{mtigray}{MINERALS TECHNOLOGIES INC.} \hspace{1em} \textbf{\textcolor{mtiyellow}{5}}
+\end{flushright}
+\vspace{-6pt}
+\noindent\textcolor{mtinavy}{\rule{\linewidth}{2.5pt}}
+
+\vspace{16pt}
+
+% Title Block aligned over columns 2 and 3
+\noindent
+\begin{minipage}[t]{0.31\textwidth}
+\mbox{}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+{\sffamily\bfseries\fontsize{28}{30}\selectfont\textcolor{mtiyellow}{BOTH BUSINESS\\ SEGMENTS\rule[0.32em]{1.5em}{2pt}}}
+
+\vspace{8pt}
+{\rmfamily\large\textcolor{mtinavy}{Specialty Minerals and Refractories---contributed to this outstanding performance through record-breaking financial results.}}
+\end{minipage}
+
+\vspace{18pt}
+
+% Three-column layout
+\noindent
+\begin{minipage}[t]{0.31\textwidth}
+\small\textcolor{mtigray}{%
+Contributing to these financial results was excellent execution of our 2013 operating plan initiatives, which included growth, return on capital, productivity improvements, expense control, and safety. Since 2007, the company has improved productivity by 5 percent compounded annually and we kept our 2013 expenses flat with 2012 while continuing to grow our Asia positions profitably.
+
+\vspace{8pt}
+The company's safety performance continued on a strong track in 2013. We achieved our lowest lost workday rate of 0.386 injuries per 100 employees, which is approaching world class safety levels, and our recordable injury rate declined from the previous year to 1.594 injuries per 100 employees. We are committed to making MTI a safe working environment for our employees. Our goal is for our employees to go home each day after work in the same condition they arrived.
+
+\vspace{8pt}
+MTI's Return on Capital continued to improve. Our return is now 9.5 percent compared to 9.2 percent in 2012. The company generated \$138 million in cash from operations and we repurchased \$52 million of our shares during the year.
+
+\vspace{10pt}
+{\sffamily\bfseries\normalsize\textcolor{mtiyellow!80!green!40!white}{Accomplishments}}\\
+Let's take a look at what drove our outstanding 2013 performance. Our two major strategies---geographic expansion and new product innovation---continue to gain traction. In 2013, we signed contracts for two new satellites, one in China, and
+}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+\small\textcolor{mtigray}{%
+the second in Europe. The plant in China is a joint venture agreement with Nanning Jindaxing Paper Industry Co. Ltd. for the construction of a 45,000-metric ton satellite PCC facility at Jindaxing Paper's papermaking facility in Guangxi Province, China. The satellite plant, which will produce PCC for paper filling, will become operational in the fourth quarter of 2014. The satellite facility in Europe is for paper filling and is with a papermaker that wished to remain unnamed for competitive reasons.
+
+\vspace{8pt}
+More recently, in early January, we announced an agreement with UPM-Kymmene Corporation to build a satellite PCC plant on site at UPM's paper mill in Changshu, China, located in Jiangsu province. The satellite plant, scheduled to begin operation early in 2015, will provide PCC for paper filling and will have an initial capacity of 100,000 tons.
+}
+
+\vspace{18pt}
+% Chart 1: Return on Capital*
+{\sffamily\small\textcolor{mtinavy}{Return on Capital*}}
+
+\vspace{4pt}
+\begin{tikzpicture}
+\begin{axis}[
+    ybar,
+    width=\linewidth,
+    height=4.8cm,
+    ymin=5, ymax=10,
+    ytick={5,10},
+    ylabel={\sffamily\scriptsize\textcolor{mtigray}{ROC \%}},
+    ylabel style={yshift=-4pt},
+    xtick={2010,2011,2012,2013},
+    xticklabels={2010,2011,2012,2013},
+    xtick style={draw=none},
+    ytick style={draw=none},
+    axis x line*=bottom,
+    axis y line*=left,
+    axis line style={draw=none},
+    tick label style={font=\sffamily\scriptsize, text=mtigray},
+    bar width=14pt,
+    enlarge x limits=0.2,
+    nodes near coords,
+    every node near coord/.append style={font=\sffamily\scriptsize}
+]
+\addplot[fill=mtiyellow, draw=none, nodes near coords style={text=mtiyellow}] coordinates {
+    (2010,8.4)
+    (2011,8.8)
+    (2012,9.2)
+};
+\addplot[fill=mtinavy, draw=none, nodes near coords style={text=mtinavy}] coordinates {
+    (2013,9.5)
+};
+\end{axis}
+\end{tikzpicture}
+
+\vspace{2pt}
+{\sffamily\scriptsize\textcolor{mtigray}{* Bloomberg Method}}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.31\textwidth}
+\small\textcolor{mtigray}{%
+In total, we are now constructing four new satellite PCC plants in China. These include the plant at Jianghe Paper in Henan Province and the 100,000-ton coating facility for Sun Paper in Shandong Province, both of which we signed in the fourth quarter of 2012. Our growth in China will continue. We have developed the operational capability through added resources to further expand in this growing market.
+
+\vspace{8pt}
+During the year, we also began ramping up three satellite facilities, two in India and one in Thailand. MTI now has seven satellite plants in China and 16 in Asia, which is now second only to the 25 satellites we operate in North America. In addition, our North American PCC plant expansions are moving forward and we expect them to be contributing volume in 2014.
+}
+
+\vspace{28pt}
+% Chart 2: Quarterly Underlying Sales Growth
+{\sffamily\small\textcolor{mtinavy}{Quarterly Underlying Sales Growth}}
+
+\vspace{4pt}
+\begin{tikzpicture}
+\begin{axis}[
+    width=\linewidth,
+    height=5.0cm,
+    ymin=-3, ymax=8,
+    ytick={-3,-2,-1,0,1,2,3,4,5,6,7,8},
+    yticklabels={-3\%,-2\%,-1\%,0\%,1\%,2\%,3\%,4\%,5\%,6\%,7\%,8\%},
+    xtick={1,2,3,4},
+    xticklabels={Q1,Q2,Q3,Q4},
+    xtick style={draw=none},
+    ytick style={draw=none},
+    axis x line=middle,
+    axis y line=left,
+    y axis line style={draw=none},
+    x axis line style={draw=mtigray, thin},
+    xticklabel style={yshift=6pt, font=\sffamily\scriptsize, text=mtigray},
+    yticklabel style={font=\sffamily\scriptsize, text=mtigray},
+    enlarge x limits=0.22,
+    clip=false
+]
+
+% Reported Sales Growth (Bars)
+\addplot[ybar, bar width=14pt, fill=mtinavy, draw=none] coordinates {
+    (1,-2)
+    (2,2)
+    (3,2)
+    (4,6)
+};
+
+% Underlying Sales Growth (Dashed Line with Markers)
+\addplot[color=mtiyellow, dashed, thick, mark=*, mark options={solid, fill=mtiyellow, scale=0.8}] coordinates {
+    (1,-1)
+    (2,4)
+    (3,4)
+    (4,7)
+};
+
+% Data labels for Reported Sales Growth
+\node[font=\sffamily\scriptsize, text=mtigray, below] at (axis cs:1,-2) {-2\%};
+\node[font=\sffamily\scriptsize, text=mtinavy, above] at (axis cs:2,2) {2\%};
+\node[font=\sffamily\scriptsize, text=mtinavy, above] at (axis cs:3,2) {2\%};
+\node[font=\sffamily\scriptsize, text=white, below] at (axis cs:4,5.9) {6\%};
+
+% Data labels for Underlying Sales Growth
+\node[font=\sffamily\scriptsize, text=white, below] at (axis cs:1,-1.1) {-1\%};
+\node[font=\sffamily\scriptsize, text=mtiyellow, above] at (axis cs:2,4.2) {4\%};
+\node[font=\sffamily\scriptsize, text=mtiyellow, above] at (axis cs:3,4.2) {4\%};
+\node[font=\sffamily\scriptsize, text=mtiyellow, above] at (axis cs:4,7.2) {7\%};
+
+\end{axis}
+\end{tikzpicture}
+
+\vspace{2pt}
+\begin{flushleft}
+\hspace{1.8em}\sffamily\scriptsize\textcolor{mtigray}{%
+\tikz\fill[mtinavy] (0,0) rectangle (0.15,0.15); \hspace{0.4em} Reported Sales Growth\\
+\hspace{1.5em}\tikz{\draw[mtiyellow, dashed, thick] (0,0.07) -- (0.35,0.07); \fill[mtiyellow] (0.175,0.07) circle (0.06);} \hspace{0.4em} Underlying Sales Growth
+}
+\end{flushleft}
+\end{minipage}
+
+\end{document}
+```

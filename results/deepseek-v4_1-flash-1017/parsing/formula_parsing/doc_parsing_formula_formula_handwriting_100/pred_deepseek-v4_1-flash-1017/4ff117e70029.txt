@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+&\langle \rho_N(1d-\Delta_{-1})u_N - \rho u_{HF}, \psi \rangle = \langle \rho_N(1d-\Delta_{-1})u_N - u_{HF}, \psi \rangle + \langle \rho-\rho_N, \psi u_{HF} \rangle. \\
+&D_T := (0,T) \times D, \partial D_T := (0,T) \times \partial D, \mathbb{R}^n_T := (0,T) \times \mathbb{R}^n. \\
+&\liminf_{\varepsilon \to 0} \sum_{j=0}^m \int_{S_\varepsilon^j} \Theta_\varepsilon^j |[(u_\varepsilon)_T]_{S_\varepsilon^j}| d\sigma(x) \ge \sum_{j=0}^m \langle G_j, |[U_T]_{S^j} + r_j^+| \rangle_{C_\varepsilon(wx^j, M(wx^j))} \\
+&A_\infty = \lim_{k \to \infty} A_k = \lim_{k \to \infty} \sum_{i=1}^d \chi_{K_i^m} = \sum_{i=1}^d \chi_{O_i^m} \in C^{p, m}(K), \\
+&r := \max\{r_i\}_{i \in \{1, \dots, m\}} \\
+&A \gamma_{O_{M_x}} = A_x, \quad A_{-x^c} = A_x \\
+&a\{n\} = (a_2) \dots (a_k) \\
+&V(\varepsilon_1, \varepsilon_2) = V \setminus (\{ |z| < \varepsilon_1 \} \cup \{ |\zeta| < \varepsilon_2 \}). \\
+&\frac{a_2^3}{a_2^3 - 27a_3^3} \to -\infty \text{ as } A \downarrow 0 \text{ and } \frac{a_3^3}{a_2^3 - 27a_3^3} \uparrow 1 \text{ as } A \uparrow \infty.
+\end{align*}
+```

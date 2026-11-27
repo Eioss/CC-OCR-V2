@@ -1,0 +1,110 @@
+```html
+<table border="1">
+  <tr>
+    <td colspan="3"><b>Patel<br>Statement of financial position at 31 December 2014</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><b>$</b></td>
+    <td><b>$</b></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>ASSETS</b></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Non-current assets</b></td>
+  </tr>
+  <tr>
+    <td>Land and buildings</td>
+    <td></td>
+    <td>60000</td>
+  </tr>
+  <tr>
+    <td>Fixtures and fittings</td>
+    <td></td>
+    <td>7000</td>
+  </tr>
+  <tr>
+    <td>Vehicles</td>
+    <td></td>
+    <td>21000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>88000</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Current assets</b></td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td>1010</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Trade receivables</td>
+    <td>1740</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank balance</td>
+    <td>1840</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td>480</td>
+    <td>5070</td>
+  </tr>
+  <tr>
+    <td><b>Total assets</b></td>
+    <td></td>
+    <td>93070</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>CAPITAL AND LIABILITIES</b></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Capital</b></td>
+  </tr>
+  <tr>
+    <td>Capital introduced</td>
+    <td></td>
+    <td>70000</td>
+  </tr>
+  <tr>
+    <td><i>Add</i> Profit</td>
+    <td></td>
+    <td>23750</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>93750</td>
+  </tr>
+  <tr>
+    <td><i>Less</i> Drawings</td>
+    <td></td>
+    <td>2170</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>91580</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Current liabilities</b></td>
+  </tr>
+  <tr>
+    <td>Trade payables</td>
+    <td></td>
+    <td>1490</td>
+  </tr>
+  <tr>
+    <td><b>Total capital and liabilities</b></td>
+    <td></td>
+    <td>93070</td>
+  </tr>
+</table>
+```

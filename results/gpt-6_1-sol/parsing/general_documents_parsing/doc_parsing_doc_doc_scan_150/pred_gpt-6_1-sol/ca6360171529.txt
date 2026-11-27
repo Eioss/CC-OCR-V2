@@ -1,0 +1,139 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[margin=1.5cm]{geometry}
+\pagestyle{empty}
+
+\begin{document}
+
+\noindent
+{\Large 12}\quad
+Katy weighed out some sugar from a full 2 kg bag.
+The mass of the sugar is shown on the scale.
+
+\begin{center}
+% Scale and sugar-bag illustration from the original image.
+\includegraphics[
+  width=5cm,
+  trim={285bp 840bp 190bp 35bp},
+  clip
+]{image.png}
+\end{center}
+
+\noindent
+How much sugar was left in the bag?
+
+\begin{center}
+\begin{tabular}{lllll}
+\textbf{A}\enspace 1.55 kg &
+\textbf{B}\enspace 1.65 kg &
+\textbf{C}\enspace 165 g &
+\textbf{D}\enspace 155 g &
+\textbf{E}\enspace 1550 kg
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+{\Large 13}\quad
+What is the total cost of 8 rulers and 8 pens?
+
+\begin{center}
+% Pen (£1.23) and ruler (£1.77), with the original ruler markings.
+\includegraphics[
+  width=6cm,
+  trim={240bp 625bp 190bp 290bp},
+  clip
+]{image.png}
+\end{center}
+
+\begin{center}
+\begin{tabular}{lllll}
+\textbf{A}\enspace \pounds 2 &
+\textbf{B}\enspace \pounds 3 &
+\textbf{C}\enspace \pounds 16 &
+\textbf{D}\enspace \pounds 24 &
+\textbf{E}\enspace \pounds 32
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+{\Large 14}\quad
+Round 7.038 to the nearest hundredth.
+
+\begin{center}
+\begin{tabular}{lllll}
+\textbf{A}\enspace 7.00 &
+\textbf{B}\enspace 7.03 &
+\textbf{C}\enspace 7.04 &
+\textbf{D}\enspace 7.038 &
+\textbf{E}\enspace 7.039
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+{\Large 15}\quad
+These shapes are made from 1 cm cubes.
+
+\begin{center}
+% Original cube diagrams and labels P, Q, R, S.
+\includegraphics[
+  width=10cm,
+  trim={120bp 315bp 160bp 555bp},
+  clip
+]{image.png}
+\end{center}
+
+\noindent
+Which two shapes have the same volume?
+
+\begin{center}
+\begin{tabular}{lllll}
+\textbf{A}\enspace P and Q &
+\textbf{B}\enspace P and R &
+\textbf{C}\enspace P and S &
+\textbf{D}\enspace Q and R &
+\textbf{E}\enspace R and S
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+
+\noindent
+{\Large 16}\quad
+Which of these shapes are prisms?
+
+\begin{center}
+% Original solid-shape diagrams and labels P, Q, R, S, T.
+\includegraphics[
+  width=13cm,
+  trim={110bp 85bp 65bp 815bp},
+  clip
+]{image.png}
+\end{center}
+
+\begin{center}
+\begin{tabular}{lll}
+\textbf{A}\enspace P and S only &
+\textbf{B}\enspace R and T only &
+\textbf{C}\enspace Q, R and T \\[0.4em]
+\textbf{D}\enspace P, Q and S &
+\textbf{E}\enspace Only S &
+\end{tabular}
+\end{center}
+
+\vfill
+
+\noindent
+{\footnotesize 11+ Maths / 10--11 / 1 / Paper 1}
+\hfill 4 \hfill
+{\footnotesize \copyright\ CGP 2018}
+
+\end{document}
+```

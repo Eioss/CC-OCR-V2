@@ -1,0 +1,180 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{amsmath,array,booktabs,graphicx}
+\usepackage{tikz}
+\usetikzlibrary{patterns}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{flushright}
+证券研究报告
+\end{flushright}
+
+\noindent\textbf{图19：机载雷达天线罩常用透波纤维及性能}
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccc}
+\toprule
+性能
+& \shortstack{E玻璃\\纤维}
+& \shortstack{S玻璃\\纤维}
+& \shortstack{M玻璃\\纤维}
+& \shortstack{D玻璃\\纤维}
+& \shortstack{高硅氧玻璃\\纤维}
+& \shortstack{石英玻璃\\纤维}
+& Kevlar49
+& Spectra 1000 \\
+\midrule
+密度/$(\mathrm{g}/\mathrm{cm}^{3})$
+& 2.54 & 2.49 & 2.77 & 2.16 & 2.30 & 2.20 & 1.45 & 0.97 \\
+拉伸强度/GPa
+& 3.45 & 4.00 & 3.7 & 2.40 & 2.50 & 1.70 & 3.45 & 3.0 \\
+杨氏模量/GPa
+& 72.0 & 85.0 & 91.6 & 52.0 & 52.0 & 72.0 & 137 & 95.3 \\
+$\varepsilon$/1GHz
+& 6.13 & 5.21 & 7.0 & 4.00 & 4.00 & 3.78 & 3.85 & 2.30 \\
+$\tan\delta$/1GHz
+& 0.0038 & 0.0068 & 0.0039 & 0.0026
+& 0.0048 & 0.0002 & 0.0010 & 0.0001 \\
+\bottomrule
+\end{tabular}%
+}
+\end{center}
+
+\noindent
+资料来源：机载雷达天线罩常用透波复合材料研究进展（李大进），国海证券研究所
+
+\bigskip
+
+当前，我国军机规模与美国相比还存在较大差距，我国全部军机数量约为其
+1/4；运输机数量约为其1/9；武装直升机数量不到其1/10；教练机数量约为其
+1/6；战斗机总量约为其3/4，但其中含有超过500架二代战机。在数量和结构方面与
+美军差距明显，仅战斗机数量提升和老旧装备更新换代需求就超过千架。随着世
+界一流军队建设目标的提出，以及J-20、Y-20等新一代军机制造进度加快，航
+空装备产业链景气度有望进一步提升。雷达罩作为军机结构的重要组成部分，其
+需求将随着军机需求的增长而快速增长。
+
+\bigskip
+
+\noindent
+\begin{minipage}[t]{0.52\textwidth}
+\textbf{图20：中美全部军机数量对比}
+
+\medskip
+\hrule
+\medskip
+
+\centering
+\begin{tikzpicture}[x=0.83cm,y=0.34cm,font=\small]
+  \fill[gray!55] (1.35,17.7) rectangle (1.52,18.1);
+  \node[anchor=west] at (1.57,17.9) {中国（架）};
+  \fill[black!80] (3.75,17.7) rectangle (3.92,18.1);
+  \node[anchor=west] at (3.97,17.9) {美国（架）};
+
+  \draw (0,0) -- (0,16);
+  \draw (0,0) -- (6.25,0);
+  \foreach \y/\lab in {
+    0/0,2/2000,4/4000,6/6000,8/8000,
+    10/10000,12/12000,14/14000,16/16000
+  } {
+    \draw (0,\y) -- (0.08,\y);
+    \node[anchor=east] at (-0.12,\y) {\lab};
+  }
+
+  \fill[gray!55] (0.28,0) rectangle (0.66,3.5);
+  \fill[black!80] (0.68,0) rectangle (1.06,13.9);
+
+  \fill[gray!55] (1.52,0) rectangle (1.90,2.7);
+  \fill[black!80] (1.92,0) rectangle (2.30,3.7);
+
+  \fill[gray!55] (2.76,0) rectangle (3.14,0.35);
+  \fill[black!80] (3.16,0) rectangle (3.54,1.5);
+
+  \fill[gray!55] (4.00,0) rectangle (4.38,0.5);
+  \fill[black!80] (4.40,0) rectangle (4.78,5.3);
+
+  \fill[gray!55] (5.24,0) rectangle (5.62,0.7);
+  \fill[black!80] (5.64,0) rectangle (6.02,3.2);
+
+  \node[anchor=north] at (0.67,-0.35) {全部军机};
+  \node[anchor=north] at (1.91,-0.35) {作战飞机};
+  \node[anchor=north] at (3.15,-0.35) {运输机};
+  \node[anchor=north] at (4.39,-0.35) {武装直升机};
+  \node[anchor=north] at (5.63,-0.35) {教练机};
+\end{tikzpicture}
+
+\medskip
+\hrule
+\medskip
+
+\raggedright
+资料来源：World air forces 2017，国海证券研究所
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+\textbf{图21：中美空军战斗机结构}
+
+\medskip
+\hrule
+\medskip
+
+\centering
+\begin{tikzpicture}[x=0.85cm,y=0.28cm,font=\small]
+  \fill[black!90] (0.65,21.7) rectangle (0.79,22.1);
+  \node[anchor=west] at (0.84,21.9) {五代};
+  \fill[gray!65] (1.85,21.7) rectangle (1.99,22.1);
+  \node[anchor=west] at (2.04,21.9) {四代};
+  \fill[black!75] (3.05,21.7) rectangle (3.19,22.1);
+  \node[anchor=west] at (3.24,21.9) {三代};
+  \fill[gray!45] (4.25,21.7) rectangle (4.39,22.1);
+  \node[anchor=west] at (4.44,21.9) {二代};
+
+  \draw (0,0) -- (0,20);
+  \draw (0,0) -- (5.65,0);
+  \foreach \y/\lab in {
+    0/0,2/200,4/400,6/600,8/800,10/1000,
+    12/1200,14/1400,16/1600,18/1800,20/2000
+  } {
+    \draw (0,\y) -- (0.08,\y);
+    \node[anchor=east] at (-0.12,\y) {\lab};
+  }
+
+  \fill[gray!45] (0.85,0) rectangle (2.05,4.0);
+  \fill[black!75] (0.85,4.0) rectangle (2.05,5.1);
+  \fill[gray!65] (0.85,5.1) rectangle (2.05,9.0);
+  \fill[black!90] (0.85,9.0) rectangle (2.05,9.08);
+
+  \fill[gray!65] (3.65,0) rectangle (4.85,15.3);
+  \fill[black!90] (3.65,15.3) rectangle (4.85,16.4);
+
+  \node[anchor=north] at (1.45,-0.5) {中国};
+  \node[anchor=north] at (4.25,-0.5) {美国};
+\end{tikzpicture}
+
+\medskip
+\hrule
+\medskip
+
+\raggedright
+资料来源：World air forces 2017，维基百科，国海证券研究所
+\end{minipage}
+
+\bigskip
+
+在航天领域，公司产品主要用于制作隔热和耐高温材料。根据《2016中国的航
+天》白皮书，我国将航天事业作为国家战略的重要组成部分，历来高度重视。未
+来五年，我国还将继续推进载人航天、月球探测、北斗卫星导航系统、高分辨率
+对地观测系统、新一代运载火箭等重大工程，并启动一批新的重大科技项目和工
+程项目。从近年来看，我国航天发射的次数稳步增加，未来有望保持年均20次
+以上。石英棉、石英布以及石英纱作为航天飞行器隔热、耐高温部件的重要原材
+料，未来需求有望随着我国航天事业的发展，保持稳定的增长。
+
+\bigskip
+
+\noindent\textbf{图22：飞船返回大气层}
+
+\end{document}
+```

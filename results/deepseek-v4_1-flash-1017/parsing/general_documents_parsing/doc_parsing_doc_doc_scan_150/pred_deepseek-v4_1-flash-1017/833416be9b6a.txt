@@ -1,0 +1,121 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+% Header
+\noindent
+\begin{minipage}{0.5\textwidth}
+    \textbf{\Large 国信证券} \\
+    \small GUOSEN SECURITIES
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+    \raggedleft
+    \textbf{\large 证券研究报告}
+\end{minipage}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+% Charts Section
+\begin{figure}[h!]
+    \centering
+    \begin{minipage}{0.48\textwidth}
+        \centering
+        \textbf{图47：《火影忍者》iOS 畅销榜排名（总榜）} \\
+        \vspace{0.5em}
+        % Placeholder for chart image
+        \framebox{\begin{minipage}{0.9\textwidth}
+            \centering
+            \vspace{2cm}
+            [Chart Graphic: Line graph showing rankings from 0 to 25 over dates from New Year's Eve to the 6th day of the New Year. Lines for 2022 and 2023.]
+            \vspace{2cm}
+        \end{minipage}}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.48\textwidth}
+        \centering
+        \textbf{图48：《使命召唤手游》iOS 畅销榜排名（总榜）} \\
+        \vspace{0.5em}
+        % Placeholder for chart image
+        \framebox{\begin{minipage}{0.9\textwidth}
+            \centering
+            \vspace{2cm}
+            [Chart Graphic: Line graph showing rankings from 0 to 45 over dates from New Year's Eve to the 6th day of the New Year. Lines for 2022 and 2023.]
+            \vspace{2cm}
+        \end{minipage}}
+    \end{minipage}
+\end{figure}
+
+\noindent
+\small 资料来源：七麦数据，国信证券经济研究所整理 \hfill 资料来源：七麦数据，国信证券经济研究所整理
+
+\vspace{1.5em}
+
+% Main Text Section
+\noindent
+\(\blacklozenge\) \textbf{本土市场：新产品储备丰富，预计今年为产品大周期}
+
+\vspace{0.5em}
+
+\noindent
+\textbf{新产品储备丰富，预计 2023 年为腾讯的产品大周期。}2022 年腾讯在国内上线新产品较少，仅《暗区突围》等 3 个中腰部产品。目前，腾讯已有至少 8 款已经获得版号、今年有望上线的产品，推荐重点关注端游《无畏契约》《命运方舟》、手游《黎明觉醒：生机》《王者万象棋》《合金弹头：觉醒》，其余待获版号产品有《王者荣耀：星之破晓》等。今年腾讯的供给侧显著优于去年。
+
+\vspace{1em}
+
+% Table Section
+\begin{table}[h!]
+    \centering
+    \caption{表11：腾讯今年有望在本土市场上线的储备产品及版号情况}
+    \vspace{0.5em}
+    \small
+    \begin{tabular}{llllll}
+        \toprule
+        \textbf{公司} & \textbf{游戏名称（代号）} & \textbf{品类} & \textbf{平台} & \textbf{研运商} & \textbf{版号情况} \\
+        \midrule
+        腾讯 & 无畏契约 & 射击 & PC 端游 & 自研 (Riot Games) & 12 月获批 \\
+        腾讯 & 命运方舟 & MMORPG & PC 端游 & 代理 (Smile Gate) & 12 月获批 \\
+        腾讯 & 黎明觉醒：生机 & MMO+射击 & 手游 & 自研 & 1 月获批 \\
+        腾讯 & 重生边缘 & 射击 & PC 端游 & 自研 & 12 月获批 \\
+        腾讯 & 合金弹头：觉醒 & 横版射击 & 手游 & 自研 & 11 月获批 \\
+        腾讯 & 宝可梦大集结 & MOBA & 手游、游戏机 & 自研 & 12 月获批 \\
+        腾讯 & 饥荒：新家园 & 冒险 & 手游 & 自研 (Klei Entertainment) & 12 月获批 \\
+        腾讯 & 王者荣耀：星之破晓 & 动作 & 手游 & 自研 & 无 \\
+        腾讯 & 王者万象棋 & 自走棋 & 手游 & 自研 & 2 月获批 \\
+        腾讯 & 白夜极光 & 战术 RPG & 手游 & 自研 (永航科技) & 1 月获批 \\
+        腾讯 & 大航海时代：海上霸主 & SLG & 手游 & 代理 (盛天网络) & 12 月获批 \\
+        腾讯 & 战地无疆 & SLG & 手游 & 代理 (星辉娱乐) & 7 月获批 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\noindent
+\small 数据来源：公司公告、公司官网、国家新闻出版署，国信证券经济研究所整理
+
+\vspace{1.5em}
+
+% Bottom Text Section
+\noindent
+\textbf{《黎明觉醒：生机》定档今年 2 月。}1 月 31 日晚，腾讯旗下 SOC 手游《黎明觉醒：生机》在视频号直播宣布，于 2023 年 2 月开启不限号不删档测试。《黎明觉醒：生机》是由腾讯光子工作室群研发的开放世界生存射击手游，自 2020 年首次公布以来，已经进行多轮测试，产品完成度较高。根据官方公众号宣布，目前游戏全网总预约数已经超过 7000 万。“MMO+射击”在 PC 端游市场具有重要地位，陆续有成功产品推出，如《全境封锁》《命运 2》《星际战甲》，但在手游端仅有《明日之后》一个成功产品，这主要是由于供给侧短缺。考虑到 MMO 品类天然不具备“赢者通吃”的特点，我们相信“MMO+射击”手游仍然具有较大空间。当前已获版号的同类型产品较少，《黎明觉醒：生机》完成度较高，有望占据先机。
+
+\vspace{2em}
+\hrule
+\vspace{0.5em}
+\noindent
+\footnotesize \textit{请务必阅读正文之后的免责声明及其项下所有内容} \hfill \textbf{26}
+
+\end{document}
+```

@@ -1,0 +1,117 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{ctex}
+
+\begin{document}
+
+\begin{center}
+{\Large\bfseries Ruijin Hospital Shanghai Jiaotong University School of Medicine}\\
+{\large\bfseries Clinical Laboratory Report}
+\end{center}
+
+\noindent
+\begin{tabular}{@{}p{0.24\textwidth}p{0.38\textwidth}p{0.33\textwidth}@{}}
+\textbf{Name :} [obscured]
+&
+\textbf{PatientNo/PassportNo :} 1320021[obscured]
+&
+\textbf{Sample Number :} [partially obscured]
+\\
+\textbf{Gender :} [obscured]
+&
+\textbf{Clinical Diagnosis :} Regular inspection
+&
+\textbf{Birthday:} [partially obscured]
+\\
+\textbf{Age :} [obscured]
+&
+&
+\textbf{Sample Type :} Nasopharynx swab
+\\
+&
+&
+\textbf{Testing Time :} 2021-08-14
+\end{tabular}
+
+\medskip
+\noindent
+\textbf{Application Section Office :}
+Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\medskip
+\noindent
+\begin{tabular}{@{}p{0.23\textwidth}p{0.14\textwidth}p{0.17\textwidth}p{0.41\textwidth}@{}}
+\hline
+\textbf{Test Name}
+&
+\textbf{Result}
+&
+\textbf{Reference Value}
+&
+\textbf{Testing Method}
+\\
+\hline
+SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml)\\
+ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml)\\
+N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml)\\
+E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml)\\
+\end{tabular}
+
+\vspace{1.5cm}
+
+\noindent
+Statement:
+
+\noindent
+1. The testing result may be affected by the sampling time, sampling body parts, as well as the
+methodology limitations. The result should be analyzed with clinical manifestations.
+
+\noindent
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\medskip
+\hrule
+\smallskip
+
+\noindent
+\begin{tabular}{@{}ll@{\qquad}ll@{}}
+\textbf{Sampling Time :} & 21-08-14 09:52
+& \textbf{Reporting Time :} & 21-08-14 12:26\\
+\textbf{Received Time :} & 21-08-14 11:03
+& \textbf{Printing Time :} & 21-08-15 07:59
+\end{tabular}
+
+\medskip
+\noindent
+\textbf{Inspector :} [handwritten signature]
+\hfill
+\textbf{Auditor :} [handwritten signature]
+
+\medskip
+\noindent
+\textbf{The test results are just responsible for the sample;and used only for reference by clinical doctors.}
+
+\medskip
+\noindent
+\textbf{add.:No197 Ruijin 2 Road,Huangpu district,Shanghai}
+\qquad
+\textbf{Tel.: 8621-64370045}
+
+\smallskip
+\hrule
+
+\noindent
+[partially obscured text]
+
+\begin{center}
+Sheet 1 \hspace{3cm} (病毒室)
+\end{center}
+
+\noindent
+[Red circular stamp, partially illegible and overlapping text]\\
+[Blue circular stamp with a central star; surrounding text partially illegible]
+
+\end{document}
+```

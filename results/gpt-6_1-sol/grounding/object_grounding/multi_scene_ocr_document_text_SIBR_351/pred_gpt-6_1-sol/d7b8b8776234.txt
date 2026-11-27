@@ -1,0 +1,21 @@
+[
+  {"bbox_2d":[394,50,560,66],"label":"Title"},
+  {"bbox_2d":[149,84,347,100],"label":"Supplier"},
+  {"bbox_2d":[792,87,868,100],"label":"Address"},
+  {"bbox_2d":[791,104,887,118],"label":"Contract No."},
+  {"bbox_2d":[791,121,913,135],"label":"Date"},
+  {"bbox_2d":[103,274,331,303],"label":"Name"},
+  {"bbox_2d":[379,281,450,296],"label":"Manufactory Code"},
+  {"bbox_2d":[490,281,576,296],"label":"Commodity"},
+  {"bbox_2d":[617,281,649,296],"label":"Quantity"},
+  {"bbox_2d":[707,281,753,296],"label":"Unit Price (USD)"},
+  {"bbox_2d":[856,281,936,296],"label":"Total price (USD)"},
+  {"bbox_2d":[617,318,649,333],"label":"Quantity"},
+  {"bbox_2d":[847,318,933,333],"label":"Total price (USD)"},
+  {"bbox_2d":[78,362,563,378],"label":"Shipment time"},
+  {"bbox_2d":[592,363,905,378],"label":"Inspection standards"},
+  {"bbox_2d":[590,398,711,409],"label":"Destination ports"},
+  {"bbox_2d":[592,434,704,448],"label":"Price term"},
+  {"bbox_2d":[78,441,563,472],"label":"Terms of payment"},
+  {"bbox_2d":[78,499,925,616],"label":"Remark"}
+]

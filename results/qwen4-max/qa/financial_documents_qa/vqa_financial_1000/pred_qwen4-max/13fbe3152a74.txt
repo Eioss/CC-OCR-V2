@@ -1,0 +1,5 @@
+The invoice number is **027-0093**.
+
+This appears in two places on the document:
+- In the top-right header box under "INVOICE NO." (shown as `027-0093`)
+- At the bottom of the invoice: "INVOICE NO: 027-0093"

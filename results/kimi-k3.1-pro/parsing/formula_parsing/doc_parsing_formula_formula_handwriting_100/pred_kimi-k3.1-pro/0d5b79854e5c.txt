@@ -1,0 +1,7 @@
+\[
+\begin{aligned}
+H &= \frac{1}{2m}\left(p-\frac{q}{c}A\right)^2+q\phi,\\
+p &= mv+\frac{q}{c}A,\qquad v=\frac{dx}{dt},\\
+L &= \frac{1}{2}mv^2-q\phi+\frac{q}{c}\left(v\cdot A\right).
+\end{aligned}
+\]

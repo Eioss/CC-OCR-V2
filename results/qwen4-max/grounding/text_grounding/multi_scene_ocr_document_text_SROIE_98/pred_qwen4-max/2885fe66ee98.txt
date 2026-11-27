@@ -1,0 +1,7 @@
+Looking at the receipt, the address text spans two lines:
+- Line 1: "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X" starting around y=123
+- Line 2: "40170 SETIA ALAM" ending around y=152
+
+The text starts at approximately x=68 and extends to about x=808.
+
+(68, 123, 808, 152)

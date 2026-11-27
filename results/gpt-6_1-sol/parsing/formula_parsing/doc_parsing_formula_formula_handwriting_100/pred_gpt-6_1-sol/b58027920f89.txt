@@ -1,0 +1,50 @@
+\[
+\begin{aligned}
+\inf_{u\in\mathcal E}\int_{\mathbb T}\langle u\rangle m\,dx
+&=
+\inf_{\theta\in[-\frac18,\frac38]}
+\int_{\mathbb T}\langle u^\theta\rangle m\,dx,
+\\[6pt]
+\partial_\ell(u_1,\ldots,u_n)
+&=
+\frac{1}{\delta_\ell}
+\int_V v\,\mathcal T_\ell'
+[M_1u_1,\ldots,M_nu_n](M_\ell(v))\,dv,
+\\[6pt]
+B[w,\phi;t]
+&:=
+\int\left(
+\frac12\nabla w\cdot\nabla\phi\,\mu
+-w\mu k_m\cdot\nabla\phi
+-kw\phi
+\right)\,dm,
+\\[6pt]
+\nu\left|\int_0^T k_1\,dt\right|
+&\le
+C_0T^{1/4}
+\left(
+\left\|\sqrt{\rho t}\,\dot v\right\|_{L^\infty(0,T;L_2)}^{1/4}
++\nu^{-3/4}T^{1/8}
+\right)
+\\
+&\quad\times
+\left(
+\nu^{1/8}
+\left\|\sqrt{\rho t}\,\dot v\right\|_{L^\infty(0,T;L_2)}^{1/4}
++\nu^{1/4}T^{1/8}
+\right)
+\left\|\sqrt t\,\operatorname{div}\dot v\right\|_{L_2(0,T;L_2)},
+\\[6pt]
+&\mathbb E\left[
+\sup_{0\le s\le t}\|h_n(s,\omega)\|^p
+\right],
+\\[6pt]
+\operatorname{Var}\left(\sum_{i=1}^k X_i\right)
+&\le k^2\sup_i\operatorname{Var}(X_i),
+\\[6pt]
+C_1^+J_m\left(\sqrt{\frac{\widehat\lambda}{\beta^+}}\,R_0\right)
+&+
+C_2^+Y_m\left(\sqrt{\frac{\widehat\lambda}{\beta}}\,R_0\right)
+=0.
+\end{aligned}
+\]

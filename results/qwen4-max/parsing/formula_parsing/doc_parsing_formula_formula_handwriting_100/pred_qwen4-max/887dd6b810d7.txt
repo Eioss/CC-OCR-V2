@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+& (\Gamma_{\beta_1,\ldots,\beta_5} \circ \Lambda(f) \circ \Omega_{\beta_1,\ldots,\beta_5})(c) = (b-a)y_0 + \sum_{i=1}^5 A_i y_i \\
+& = (b-a) \cdot f(c) + \left[ \frac{(b-c)^2 - (a-c)^2}{2\beta_1} - \frac{\beta_3 A_2}{\beta_1} - \frac{\beta_2 A_3}{\beta_1} - \frac{\beta_4 A_4}{\beta_1} + \right. \\
+& \quad \left. - \frac{\beta_5 A_5}{\beta_1} \right] \cdot \underbrace{\beta_1 f'(c)}_{1} + \left[ \frac{(b-c)^3 - (a-c)^3}{3\beta_1^2} - \frac{2\beta_3 A_2}{\beta_1} + \right. \\
+& \quad \left. - \left( \frac{2\beta_3}{\beta_1} + \frac{\beta_2^2}{\beta_1^2} \right) A_4 - 2 \left( \frac{\beta_4}{\beta_1} + \frac{\beta_2 \beta_3}{\beta_1^2} \right) A_5 \right] \cdot \left\{ \underbrace{\beta_2 f'(c)}_{1} + \underbrace{\frac{1}{2!} \beta_1^2 f^{(2)}(c)}_{2} \right\} + \\
+& \quad + \left[ \frac{(b-c)^4 - (a-c)^4}{4\beta_1^3} - \frac{3\beta_2 A_4}{\beta_1} - 3 \left( \frac{\beta_3}{\beta_1} + \frac{\beta_2^2}{\beta_1^2} \right) A_5 \right] \cdot \left\{ \underbrace{\beta_3 f'(c)}_{1} + \right. \\
+& \quad \left. + \underbrace{\beta_1 \beta_2 f^{(2)}(c)}_{2} + \underbrace{\frac{1}{3!} \beta_1^3 f^{(3)}(c)}_{3} \right\} + \left[ \frac{(b-c)^5 - (a-c)^5}{5\beta_1^4} - \frac{4\beta_3 A_5}{\beta_1} \right] \cdot \left\{ \underbrace{\beta_4 f'(c)}_{1} + \right. \\
+& \quad \left. + \underbrace{(\beta_1 \beta_3 + \frac{1}{2} \beta_2^2) f^{(2)}(c)}_{2} + \underbrace{\frac{1}{2} \beta_1^2 \beta_2 f^{(3)}(c)}_{3} + \underbrace{\frac{1}{4!} \beta_1^4 f^{(4)}(c)}_{4} \right\} + \\
+& \quad + \left[ \frac{(b-c)^6 - (a-c)^6}{6\beta_1^5} \right] \cdot \left\{ \underbrace{\beta_5 f'(c)}_{1} + \underbrace{(\beta_1 \beta_4 + \beta_2 \beta_3) f^{(2)}(c)}_{2} + \right. \\
+& \quad \left. + \underbrace{\frac{1}{2} (\beta_1^2 \beta_3 + \beta_1 \beta_2^2) f^{(3)}(c)}_{3} + \underbrace{\frac{1}{6} \beta_1^3 \beta_2 f^{(4)}(c)}_{4} + \underbrace{\frac{1}{5!} \beta_1^5 f^{(5)}(c)}_{5} \right\}.
+\end{aligned}
+\]

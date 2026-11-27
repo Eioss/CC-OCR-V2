@@ -1,0 +1,62 @@
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage[UTF8]{ctex}
+\usepackage{array}
+\usepackage[margin=2.5cm]{geometry}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+\begin{document}
+
+截至募集说明书签署日，发行人、发行人子公司及其控股子公司无已发行尚未兑付或逾期未兑付的企业（公司）债券、中期票据、短期融资券、资产证券化产品、信托计划、保险债权计划、理财产品，不存在代建回购、融资租赁、售后回租等方式融资情况。
+
+\textbf{第十二条\quad 筹集资金用途}
+
+一、募集资金总量及用途
+
+本期债券募集资金总额为人民币\underline{\hspace{1.5cm}}万元，其中人民币\underline{\hspace{1.5cm}}万元用于补充营运资金，占比20\%；剩余80\%的募集资金即人民币\underline{\hspace{1.5cm}}万元拟用于\underline{\hspace{3.5cm}}项目建设，具体情况如下：
+
+募集资金使用情况表
+
+单位：万元
+
+\begin{tabular}{|p{2.2cm}|p{2.2cm}|p{2.2cm}|p{3.8cm}|p{4.2cm}|p{4.2cm}|}
+\hline
+\textbf{项目名称} & \textbf{项目建设主体} & \textbf{项目总投资额} & \textbf{拟使用本期债券募集资金} & \textbf{债券资金占项目总投资比例} & \textbf{占本期债券募集资金的比例} \\
+\hline
+项目 & 有限责任公司 & & & & \\
+\hline
+补充营运资金 & & & & & \\
+\hline
+\textbf{合计} & & & & & 100\% \\
+\hline
+\end{tabular}
+
+二、募集资金投资项目概况
+
+1.\underline{\hspace{3.5cm}}项目
+
+1.项目概况
+
+2.项目审批情况
+
+\underline{\hspace{3.5cm}}项目已经获得相关主管部门的批准，具体批准文件情况如下表所示：
+
+\begin{tabular}{|p{0.8cm}|p{6.5cm}|p{1.6cm}|p{3.5cm}|p{3.5cm}|}
+\hline
+\textbf{序号} & \textbf{批准文件} & \textbf{批准部门} & \textbf{文件编号} & \textbf{批准时间} \\
+\hline
+1 & 《关于\hspace{2.5cm}项目节能评估报告表的批复》 & 发改局 & 发改[\hspace{1.5cm}]号 & 年\quad 月\quad 日 \\
+\hline
+2 & 《建设项目选址意见书》 & 规划局 & 选字第\hspace{1.5cm}号 & 年\quad 月\quad 日 \\
+\hline
+3 & 《建设项目选址意见书》 & 规划局 & 选字第\hspace{1.5cm}号 & 年\quad 月\quad 日 \\
+\hline
+4 & 《关于\hspace{1.5cm}项目社会稳定风险评估报告的 & 信访办 & / & 年\quad 月\quad 日 \\
+\hline
+\end{tabular}
+
+\end{document}
+```
+
+Notes: The document contains no equations. Blank fields in the original template are reproduced as underlines or horizontal spaces, and the last table row is transcribed as it appears in the image, which is truncated: 《关于 项目社会稳定风险评估报告的.

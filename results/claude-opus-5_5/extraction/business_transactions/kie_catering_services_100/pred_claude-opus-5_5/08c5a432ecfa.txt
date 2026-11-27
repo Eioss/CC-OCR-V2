@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "S-Bubble Milk Tea", "cnt": "1X", "unitprice": "@20,000", "price": "20,000", "sub": "100%"}, {"nm": "S-Caramel Milk Tea", "cnt": "1X", "unitprice": "@20,000", "price": "20,000", "sub": "100%"}], "total": {"total_price": "40,000", "cashprice": "40,000", "changeprice": "0"}}
+```

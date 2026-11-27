@@ -1,0 +1,17 @@
+$$T: W^{k,\psi}(\Omega, Cl_n) \to \widetilde{W}^{k-1,\psi,\psi}(\partial\Omega, Cl_n)$$
+
+$$\begin{aligned}
+I &\leq \sum_{j=0}^{\infty} 2^{-jn\frac{\varepsilon}{1+\varepsilon}} \left\{ \sum_{\{m : h_{j,m} \leq 1\}} \int_{Q_{j,m}} h_{j,m}^{p_0(x)}\, dx \right\}^{\frac{1}{1+\varepsilon}} \\
+&\leq \sum_{j=0}^{\infty} 2^{-jn\frac{\varepsilon}{1+\varepsilon}} \left\{ \int_{\mathbb{R}^n} h(x)^{p_0(x)}\, dx \right\}^{\frac{1}{1+\varepsilon}} \leq c.
+\end{aligned}$$
+
+$$\begin{aligned}
+&\int_s^t E'(\tau) \int_{|\xi|>G(t)} \left|(1-\check{\varphi}(\xi))\hat{\omega}(\xi,\tau)\right|^2 d\xi\, d\tau - 2\int_s^t E(\tau) \int_{|\xi|>G(t)} |\xi| \left|(1-\check{\varphi}(\xi))\hat{\omega}(\xi,\tau)\right|^2 d\xi\, d\tau \\
+&\quad \leq \int_s^t \left[E'(\tau) - 2E(\tau)G^2(\tau)\right] \int_{|\xi|>G(t)} \left|(1-\check{\varphi}(\xi))\hat{\omega}(\tau)\right|^2 d\xi\, d\tau = 0.
+\end{aligned}$$
+
+$$F^{DG}_{\{x\}}[\rho, S] = x_1 \Delta S + x_2 \vec{\nabla} S \cdot \left(\frac{\vec{\nabla}\rho}{\rho}\right) + x_3 \frac{\Delta \rho}{\rho} + x_4 \left(\frac{\vec{\nabla}\rho}{\rho}\right)^2 + x_5 \left(\vec{\nabla} S\right)^2.$$
+
+$$\frac{1}{|C|} \sum_{(i,j)\in C} x_{i,j} \geq \frac{n^3 - 3n^2 - n + 12 - (n-4)^2}{n^2 - 3n + 4} = n-1.$$
+
+$$C_{p,f}(\ell^{a_1}, \ell^{a_2}) = \ell^{\max\{a_1,a_2\}-1} \begin{cases} \ell - 1 - \left(\frac{p}{\ell}\right) - \left(\frac{p-1}{\ell}\right)^2 & \text{if } 2 \mid a_1 + a_2, \\ -1 - \left(\frac{p-1}{\ell}\right)^2 & \text{if } 2 \nmid a_1 + a_2. \end{cases}$$

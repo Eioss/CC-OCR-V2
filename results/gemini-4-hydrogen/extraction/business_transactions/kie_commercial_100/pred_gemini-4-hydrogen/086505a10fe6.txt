@@ -1,0 +1,3 @@
+```json
+{"date_issue": "05-Mar-02", "order_id": "", "vendor_name": "THE HONG KONG UNIVERSITY OF SCIENCE & TECHNOLOGY", "vendor_address": "Clear Water Bay, Kowloon, Hong Kong", "customer_billing_name": "Philip Morris Incorporated", "customer_billing_address": "4201 Commerce Road\nRichmond, VA 23234\nU.S.A.", "amount_total_gross": "US$ 25,462", "amount_due": "US$ 25,462", "payment_terms": "PAYABLE UPON RECEIPT OF INVOICE"}
+```

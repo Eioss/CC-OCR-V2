@@ -1,0 +1,41 @@
+\begin{aligned}
+\Sigma_{1}
+&=\frac{(N-N_{de})!}{N!}
+\sum_{\alpha_{1}\neq\alpha_{2}\neq\cdots\neq\alpha_{N_{de}}}
+\sum_{i\in D}\sum_{j\neq i}\Gamma_{ij}\Gamma_{ji}\\
+&=\frac{(N-N_{de})!}{N!}
+\sum_{\alpha_{1},\,\alpha_{2}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}-1}}
+\left(
+\sum_{j\neq\alpha_{1}}\Gamma_{\alpha_{1}j}\Gamma_{j\alpha_{1}}
++\cdots+
+\sum_{j\neq\alpha_{N_{de}}}\Gamma_{\alpha_{N_{de}}j}\Gamma_{j\alpha_{N_{de}}}
+\right)\\
+&=\frac{N_{de}(N-N_{de})!}{N!}
+\sum_{\alpha_{1}}\sum_{j\neq\alpha_{1}}
+\Gamma_{\alpha_{1}j}\Gamma_{j\alpha_{1}}
+\left(
+\sum_{\alpha_{2}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}-1}}
+\right)\\
+&=\frac{N_{de}}{N}\sum_{i}\sum_{j\neq i}\Gamma_{ij}\Gamma_{ji},\\[6pt]
+\Sigma_{2}
+&=\frac{(N-N_{de})!}{N!}
+\sum_{\alpha_{1},\,\alpha_{2}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}-1}}
+\sum_{i\in D}\sum_{j\in D,\,j\neq i}\Gamma_{ij}\Gamma_{ji}\\
+&=\frac{(N-N_{de})!}{N!}
+\sum_{\alpha_{1},\,\alpha_{2}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}-1}}
+\left(
+\Gamma_{\alpha_{1}\alpha_{2}}\Gamma_{\alpha_{2}\alpha_{1}}
++\cdots+
+\Gamma_{\alpha_{1}\alpha_{N_{de}}}\Gamma_{\alpha_{N_{de}}\alpha_{1}}
++\Gamma_{\alpha_{2}\alpha_{3}}\Gamma_{\alpha_{3}\alpha_{2}}
++\cdots
+\right)\\
+&=\frac{N_{de}(N_{de}-1)(N-N_{de})!}{N!}
+\sum_{\alpha_{1}}\sum_{\alpha_{2}\neq\alpha_{1}}
+\Gamma_{\alpha_{1}\alpha_{2}}\Gamma_{\alpha_{2}\alpha_{1}}
+\left(
+\sum_{\alpha_{3}\neq\alpha_{1},\alpha_{2},\,\ldots,\,\alpha_{N_{de}}\neq\alpha_{1},\,\ldots,\,\alpha_{N_{de}-1}}
+\right)\\
+&=\frac{N_{de}(N_{de}-1)}{N(N-1)}
+\sum_{i}\sum_{j\neq i}\Gamma_{ij}\Gamma_{ji}.
+\end{aligned}

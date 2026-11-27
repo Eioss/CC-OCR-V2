@@ -1,0 +1,14 @@
+```latex
+\begin{aligned}
+&\left| y_1^*(t) - y_2^*(t) \right| \\
+&\le \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} (\Psi(t)-\Psi(a))^\mu + \left| y_1^{(a)} - y_2^{(a)} \right| \Omega \xi^\rho(t,a) \\
+&\quad + \int_a^t \sum_{k=1}^\infty \frac{L^k}{\Gamma(k\mu+1)} \xi_{k\mu}^\mu(t,\eta) \left( \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} (\Psi(\eta)-\Psi(a))^\mu + \left| y_1^{(a)} - y_2^{(a)} \right| \Omega \xi^\rho(t,a) \right) d\eta \\
+&= \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} (\Psi(t)-\Psi(a))^\mu + \left| y_1^{(a)} - y_2^{(a)} \right| \Omega \xi^\rho(t,a) \\
+&\quad + \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} \sum_{k=1}^\infty L^k I_{a^+}^{k\mu} \xi^\mu(\Psi(t)-\Psi(a))^\mu + \frac{\left| y_1^{(a)} - y_2^{(a)} \right|}{\Gamma(\rho)} \sum_{k=1}^\infty L^k I_{a^+}^{k\mu} \xi^\mu(\Psi(t)-\Psi(a))^{\rho-1} \\
+&= \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} (\Psi(t)-\Psi(a))^\mu + \left| y_1^{(a)} - y_2^{(a)} \right| \Omega \xi^\rho(t,a) \\
+&\quad + \frac{(\epsilon_1+\epsilon_2)}{\Gamma(\mu+1)} \sum_{k=1}^\infty L^k \frac{\Gamma(\mu+1)}{\Gamma((k+1)\mu+1)} (\Psi(t)-\Psi(a))^{(k+1)\mu} \\
+&\quad + \frac{\left| y_1^{(a)} - y_2^{(a)} \right|}{\Gamma(\rho)} \sum_{k=1}^\infty \frac{L^k \Gamma(\rho)}{\Gamma(\rho+k\mu)} (\Psi(t)-\Psi(a))^{k\mu+\rho-1} \\
+&= (\epsilon_1+\epsilon_2) \left( \frac{(\Psi(t)-\Psi(a))^\mu}{\Gamma(\mu+1)} + \sum_{k=1}^\infty \frac{L^k}{\Gamma((k+1)\mu+1)} (\Psi(t)-\Psi(a))^{(k+1)\mu} \right) \\
+&\quad + \left| y_1^{(a)} - y_2^{(a)} \right| \left( \frac{(\Psi(t)-\Psi(a))^{\rho-1}}{\Gamma(\rho)} + \sum_{k=1}^\infty \frac{L^k}{\Gamma(\rho+k\mu)} (\Psi(t)-\Psi(a))^{k\mu+\rho-1} \right)
+\end{aligned}
+```

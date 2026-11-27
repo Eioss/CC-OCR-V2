@@ -1,0 +1,8 @@
+\begin{align*}
+&m=|E(G)| \ge \begin{cases} (13n-14)/8 & \text{for even } n, \\ (13n-7)/8 & \text{for odd } n. \end{cases} \\
+&U_k(X_1, \dots, X_k) \overset{\text{def}}{=} \frac{1}{k} \sum_{\sigma \in S_k} \text{sgn}(\sigma) \text{Tr}(X_{\sigma(1)} \circ X_{\sigma(2)} \circ \dots \circ X_{\sigma(k)}) \\
+&V \cap U = N = W \cap U \\
+&Y_r^{t,w} = F^{t,w} + \int_r^T g_u^{t,w}(W_u^t, Y_u^{t,w}, Z_u^{t,w}) du - \int_r^T Z_u^{t,w} dW_u^t, \mathbb{P}^t\text{-a.s. } r \in [t, T]. \\
+&\text{Hom}(I_0/I_0^2, I_0/I_0^2) \simeq I_0/I_0^2 \simeq \mathcal{O}_O(-K_D) \\
+&\phi(E) = \phi(E_1) \cup \rho' \phi(E_2)
+\end{align*}

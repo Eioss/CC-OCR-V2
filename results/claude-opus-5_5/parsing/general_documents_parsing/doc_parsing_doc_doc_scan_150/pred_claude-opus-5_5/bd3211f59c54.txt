@@ -1,0 +1,72 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+
+\definecolor{headergray}{RGB}{240,242,245}
+\definecolor{totalgray}{RGB}{232,236,241}
+
+\newcommand{\lvlA}{\hspace{0.3em}}
+\newcommand{\lvlB}{\hspace{1.2em}}
+\newcommand{\lvlC}{\hspace{2.1em}}
+\newcommand{\expd}{$\vee$\ }
+\newcommand{\clps}{$>$\ }
+
+\begin{document}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.35}
+\begin{tabular}{l r r r r r}
+\rowcolor{headergray}
+\textbf{BALANCE SHEET - Months} & \textbf{Jan 2021} & \textbf{Feb 2021} & \textbf{Mar 2021} & \textbf{Apr 2021} & \textbf{May 2021} \\
+\midrule
+\lvlB\textbf{ASSETS} & & & & & \\
+\lvlA\expd Fixed Assets & & & & & \\
+\lvlB\expd Assets & & & & & \\
+\lvlC\clps On-site assets & 5,843.33 & 5,786.77 & 6,350.31 & 6,283.95 & 6,217.70 \\
+\lvlC\clps Other assets & 5,950.00 & 5,900.42 & 5,851.25 & 5,802.49 & 5,754.13 \\
+\lvlC\textbf{Total of Assets} & \textbf{11,793.33} & \textbf{11,687.19} & \textbf{12,201.56} & \textbf{12,086.44} & \textbf{11,971.83} \\
+\rowcolor{totalgray}
+\lvlB\textbf{Total of Fixed Assets} & \textbf{11,793.33} & \textbf{11,687.19} & \textbf{12,201.56} & \textbf{12,086.44} & \textbf{11,971.83} \\
+\lvlA\expd Investments & & & & & \\
+\lvlB\expd Funding & & & & & \\
+\lvlC\clps Borrowing & 1,004.17 & 1,008.35 & 1,012.55 & 1,016.77 & 1,021.01 \\
+\lvlC\textbf{Total of Funding} & \textbf{1,004.17} & \textbf{1,008.35} & \textbf{1,012.55} & \textbf{1,016.77} & \textbf{1,021.01} \\
+\rowcolor{totalgray}
+\lvlB\textbf{Total of Investments} & \textbf{1,004.17} & \textbf{1,008.35} & \textbf{1,012.55} & \textbf{1,016.77} & \textbf{1,021.01} \\
+\rowcolor{totalgray}
+\lvlB\textbf{Non - Current Assets} & \textbf{12,797.50} & \textbf{12,695.54} & \textbf{13,214.11} & \textbf{13,103.21} & \textbf{12,992.84} \\
+ & & & & & \\
+\lvlA\expd Accounts Receivable & & & & & \\
+\lvlB\clps Sales & 800.00 & 800.00 & 800.00 & 800.00 & \\
+\rowcolor{totalgray}
+\lvlB\textbf{Total of Accounts Receivable} & \textbf{800.00} & \textbf{800.00} & \textbf{800.00} & \textbf{800.00} & \\
+\lvlA\expd Inventory & & & & & \\
+\lvlB\expd Sales & & & & & \\
+\lvlC\clps Coffee - Hot Drinks & 2,428.40 & 4,449.82 & 6,472.31 & 8,495.92 & 10,520.72 \\
+\lvlC\clps Other Hot Drinks & 333.38 & 364.48 & 398.59 & 435.99 & 477.00 \\
+\lvlC\clps Cold Beverages & 103.00 & 108.00 & 118.00 & 133.00 & 143.00 \\
+\lvlC\textbf{Total of Sales} & \textbf{2,864.78} & \textbf{4,922.30} & \textbf{6,988.90} & \textbf{9,064.91} & \textbf{11,140.72} \\
+\rowcolor{totalgray}
+\lvlB\textbf{Total of Inventory} & \textbf{2,864.78} & \textbf{4,922.30} & \textbf{6,988.90} & \textbf{9,064.91} & \textbf{11,140.72} \\
+\lvlB Surplus Cash & 5,435.07 & 4,366.74 & 2,774.01 & 1,743.97 & 2,559.79 \\
+\lvlB VAT Asset & 2,059.41 & 1,426.00 & & & \\
+\rowcolor{totalgray}
+\lvlB\textbf{Current Assets} & \textbf{11,159.26} & \textbf{11,515.04} & \textbf{10,562.91} & \textbf{11,608.88} & \textbf{13,700.51} \\
+ & & & & & \\
+\rowcolor{totalgray}
+\lvlB\textbf{Total Assets} & \textbf{23,956.76} & \textbf{24,210.58} & \textbf{23,777.02} & \textbf{24,712.09} & \textbf{26,693.35} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
+```
+
+Notes on the transcription:
+- $\vee$ marks the expanded sections and $>$ marks the collapsed rows, matching the image's expand/collapse arrows.
+- The blank cells are kept as they appear in the source: Accounts Receivable has no value for May 2021, and VAT Asset has no values for Mar to May 2021.
+- Indentation commands (`\lvlA`, `\lvlB`, `\lvlC`) reproduce the image's hierarchy. Bold text and shaded rows reproduce the subtotal and total formatting.

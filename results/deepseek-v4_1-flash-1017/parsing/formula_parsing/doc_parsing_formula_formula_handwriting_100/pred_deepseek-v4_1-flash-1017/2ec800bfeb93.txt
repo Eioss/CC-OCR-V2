@@ -1,0 +1,15 @@
+```latex
+\begin{align*}
+&\int_{B(x, r_1) \setminus B(x, r_2)} \nabla \nabla \nabla a \cdot \operatorname{diag} \dots \le C \|a\|_{L^\infty} \lim_{R \to \infty} \left( \int_{B(x, R) \setminus B(x, r_2)} |\nabla v|^2 dx \right)^{\frac{1}{2}} \\
+&\qquad = O(|a|_{C^1(B(x, r_2))}) \varepsilon(R), \\
+&K_\gamma^{[1]}(w) = \begin{cases} K_X^{[1]}(w), & \text{if } w \in (u_\alpha, u_b), \\ (a(u - u_\alpha) + K_X^{[1]}(u_\alpha)) \vee (b(u - u_b) + K_X^{[1]}(u_b)), & \text{if } w \in (u_\alpha, u_b). \end{cases} \\
+&f(x) + f(y) = f(p(x)) + f(p(y)) \ge f(p(x)) + p(y) + f(p(y)) \to p(x) = \\
+&f(p(x \to y)) + f(p(y \to x)) = f(x \to y) + f(y \to x) \\
+&- q'' \left( \frac{dx}{d\xi} \right) + W'' \left( q \left( \frac{dx}{d\xi} \right) \right) - 6 \left( q \left( \frac{dx}{d\xi} \right)^2 - q \left( \frac{dx}{d\xi} \right) \right) \Delta(dx) \\
+&\qquad + 30 \left( q \left( \frac{dx}{d\xi} \right) - q \left( \frac{dx}{d\xi} \right)^2 \right) \lambda_0 = 0. \\
+&\varepsilon_n(w) = \varepsilon_{w, n}, \quad n = 0, 1, 2, \dots \\
+&P[r(m_1), p(m_2)] = [r(m_1), p(m_2)] \neq 0, \\
+&v(t, x, p) \approx 1, \quad \text{and} \quad |D_p^\alpha v(t, x, p)| \le \xi(p^0)^{-1}, \quad |p| > 0. \\
+&(i w \cdot 1 - (d_r(w, j) - d_r(w, k))) \underbrace{V_j^k(w) + R_j^k(w)}_{=: \delta_{j, k}(w)} = (R_j^k)_j^*(1).
+\end{align*}
+```

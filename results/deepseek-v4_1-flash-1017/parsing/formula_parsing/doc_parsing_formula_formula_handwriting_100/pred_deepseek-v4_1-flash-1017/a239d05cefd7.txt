@@ -1,0 +1,10 @@
+\begin{align*}
+\tilde{r}_0(s)(z,w) &= \frac{z_0 + z_0}{2} - \frac{z_0}{2} A z_0 = 0, \\
+\tilde{r}_1(s)(z,w) &= \frac{z_0 w}{2} - \frac{z_0 w}{2} = 0, \\
+\tilde{r}_2(s)(z,w) &= (w_1 - 2 w_0 \partial z_1 \gamma(z)) + (w_1 - 2 w_0 \partial z_1 \gamma(z)) = 0, \\
+&\vdots \\
+\tilde{r}_{n+1}(s)(z,w) &= (w_n - 2 w_0 \partial z_n \gamma(z)) + (w_n - 2 w_0 \partial z_n \gamma(z)) = 0, \\
+\tilde{r}_{n+2}(s)(z,w) &= (w_1 - 2 w_0 \partial z_1 \gamma(z)) - (w_1 - 2 w_0 \partial z_1 \gamma(z)) = 0, \\
+&\vdots \\
+\tilde{r}_{2n+1}(s)(z,w) &= (w_n - 2 w_0 \partial z_n \gamma(z)) - (w_n - 2 w_0 \partial z_n \gamma(z)) = 0,
+\end{align*}

@@ -1,0 +1,89 @@
+Here is the transcription of the text from the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large PRACTICE TEST 9}
+\end{center}
+
+\vspace{1em}
+
+\noindent \textbf{\textit{Ex1. ERROR IDENTIFICATION: Mark the letter A, B, C or D to indicate the underlined part that needs correction.}}
+
+\begin{enumerate}
+    \item They \underline{work} in a hospital \underline{sponsoring} by the government. \\
+    \hspace*{1.5em} A. work \hspace{3em} B. in \hspace{3em} C. sponsoring \hspace{3em} D. by
+    
+    \item Mary \underline{write} another letter \underline{to} the little girls yesterday, \underline{and} her father helped her \underline{send} it. \\
+    \hspace*{1.5em} A. write \hspace{3em} B. to \hspace{3em} C. and \hspace{3em} D. send
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{\textit{Ex2. Choose the word (A, B, C or D) that has underlined part is pronounced differently from the rest.}}
+
+\begin{enumerate}
+    \item A. s\underline{w}allow \hspace{3em} B. s\underline{w}itch \hspace{3em} C. s\underline{w}eet \hspace{3em} D. s\underline{w}ord
+    \item A. \underline{s}aying \hspace{3em} B. \underline{s}ervice \hspace{3em} C. \underline{s}ixty \hspace{3em} D. \underline{s}ugar
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{\textit{Ex3. Choose the best option (A, B, C or D) to complete the following sentences.}}
+
+\begin{enumerate}
+    \item Many efforts have been made to protect \_\_\_\_\_\_ nature. \\
+    \hspace*{1.5em} A. danger \hspace{3em} B. dangerous \hspace{3em} C. endanger \hspace{3em} D. endangered
+    
+    \item The natural environment consists \_\_\_\_\_\_ all natural resources. \\
+    \hspace*{1.5em} A. in \hspace{3em} B. of \hspace{3em} C. to \hspace{3em} D. on
+    
+    \item Because power demand is increasing very rapidly, fossil fuels will be \_\_\_\_\_\_ within a relatively short time. \\
+    \hspace*{1.5em} A. set up \hspace{3em} B. come across \hspace{3em} C. taken in \hspace{3em} D. used up
+    
+    \item Their efforts were much \_\_\_\_\_\_ when they won 2 gold, medals in bodybuilding and billiards. \\
+    \hspace*{1.5em} A. considered \hspace{3em} B. required \hspace{3em} C. expended \hspace{3em} D. appreciated
+    
+    \item Non-renewable energy sources are running \_\_\_\_\_\_. \\
+    \hspace*{1.5em} A. up \hspace{3em} B. on \hspace{3em} C. to \hspace{3em} D. out
+    
+    \item My friend, \_\_\_\_\_\_ I visited last week, is taking a holiday soon. \\
+    \hspace*{1.5em} A. that \hspace{3em} B. whom \hspace{3em} C. which \hspace{3em} D. whose
+    
+    \item Tom, \_\_\_\_\_\_ sits next to me, is from Canada. \\
+    \hspace*{1.5em} A. that \hspace{3em} B. whom \hspace{3em} C. who \hspace{3em} D. whose
+    
+    \item My friend \_\_\_\_\_\_ shows a great talent for art. \\
+    \hspace*{1.5em} A. , that lives next to my house, \hspace{3em} B. that lives next to my house, \\
+    \hspace*{1.5em} C. , who lives next to my house, \hspace{3em} D. who lives next to my house
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{\textit{Ex4. Read the following passage and choose the letter (A, B, C or D) to indicate the correct word or phrase that best fits each of the numbered blanks.}}
+
+\noindent When man first learned how making a fire, he began to (1) \_\_\_\_\_\_\_\_ fuel for the first time. The first fuel he used was probably wooden. As time passed, man eventually discovered that substance such as coal and oil will burn. Coal (2) \_\_\_\_\_\_\_\_ not used very wide as a source of energy until the 19th century. With the coming of the (3) \_\_\_\_\_\_\_\_ revolution, it was soon realized that production would double if coal was used instead of wood. Nowadays, much of the huge factories and electricity generating stations would be impossible to function if there was no coal. In the last twenty or thirty years, (4) \_\_\_\_\_\_\_\_, the use of coal has declined. As (5) \_\_\_\_\_\_\_\_ result, there were changes in the coal industry.
+
+\begin{enumerate}
+    \item A. store \hspace{3em} B. make \hspace{3em} C. use \hspace{3em} D. create
+    \item A. is \hspace{3em} B. were \hspace{3em} C. was \hspace{3em} D. are
+    \item A. industry \hspace{3em} B. industrial \hspace{3em} C. industrious \hspace{3em} D. industrialized
+    \item A. however \hspace{3em} B. although \hspace{3em} C. despite \hspace{3em} D. because
+    \item A. the \hspace{3em} B. an \hspace{3em} C. a \hspace{3em} D. any
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent \textbf{\textit{Ex5. Read the following passage and circle the letter A, B, C, or D to indicate the correct answer to each of the questions.}}
+
+\noindent Fifty - three years ago, two Americans landed on the moon, taking the human race to another planet for the first time. On July 16, 1969 Armstrong, Aldrin and Collins climbed into Apollo 11. The unit's Saturn V rocket, equipped with the most powerful engines ever built, blasted them into space. Their trajectory took them around the Earth and toward the moon when a third-
+
+\end{document}
+```

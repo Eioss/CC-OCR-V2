@@ -1,0 +1,25 @@
+```json
+[
+  {"bbox_2d": [20, 196, 77, 662], "label": "Company Name"},
+  {"bbox_2d": [81, 355, 118, 571], "label": "Title"},
+  {"bbox_2d": [123, 88, 134, 531], "label": "ADD"},
+  {"bbox_2d": [142, 87, 153, 191], "label": "Tel"},
+  {"bbox_2d": [142, 401, 152, 500], "label": "Fax"},
+  {"bbox_2d": [163, 98, 175, 214], "label": "Company Name"},
+  {"bbox_2d": [174, 96, 184, 333], "label": "Address"},
+  {"bbox_2d": [187, 132, 196, 218], "label": "TEL"},
+  {"bbox_2d": [159, 811, 169, 922], "label": "No"},
+  {"bbox_2d": [181, 811, 191, 902], "label": "Date"},
+  {"bbox_2d": [279, 40, 289, 125], "label": "Name Of Commodity And specification Packing And Shipping Mark"},
+  {"bbox_2d": [278, 399, 289, 453], "label": "Quantity"},
+  {"bbox_2d": [281, 644, 290, 670], "label": "Unit Price"},
+  {"bbox_2d": [280, 901, 290, 955], "label": "Amount(USD)"},
+  {"bbox_2d": [308, 804, 319, 863], "label": "Total Amount USD"},
+  {"bbox_2d": [361, 176, 374, 680], "label": "*Time of Shipment"},
+  {"bbox_2d": [381, 175, 391, 322], "label": "*Port of Loading"},
+  {"bbox_2d": [381, 634, 391, 666], "label": "Port of Destination"},
+  {"bbox_2d": [399, 175, 448, 834], "label": "Terms of Payment"},
+  {"bbox_2d": [455, 176, 485, 746], "label": "*Insurance"},
+  {"bbox_2d": [509, 36, 773, 967], "label": "Remarks"}
+]
+```

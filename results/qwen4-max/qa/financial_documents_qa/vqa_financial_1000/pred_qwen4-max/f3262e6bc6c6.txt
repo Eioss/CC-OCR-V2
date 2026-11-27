@@ -1,0 +1,3 @@
+The destination point is **Nashville**.
+
+The ticket shows the route as LaGuardia → Nashville (flight AA 232, Jan 02), then returning to LaGuardia. The "DESTINATION" field at the top is coded "LGA" (LaGuardia), reflecting the round-trip origin/return point, but the travel destination itself is Nashville.

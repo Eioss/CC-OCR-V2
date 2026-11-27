@@ -1,0 +1,5 @@
+The infographic mentions **3** approaches to organizing websites:
+
+1. **Crawling**: search engines follow links to browse the 60 trillion (and growing) pages that make up the web.
+2. **Sorting**: results get sorted by a variety of factors.
+3. **Indexing**: sorted pages are stored in an index so search engines can match queries with results faster.

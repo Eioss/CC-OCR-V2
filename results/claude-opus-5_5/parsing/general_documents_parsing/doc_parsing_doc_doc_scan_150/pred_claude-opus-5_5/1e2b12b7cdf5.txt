@@ -1,0 +1,141 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{multicol}
+
+\definecolor{pinkbg}{RGB}{246,208,214}
+\newcommand{\blank}{\rule{5cm}{0.4pt}}
+\newcommand{\arr}{$\dashrightarrow$ \blank}
+\newcommand{\exercise}[2]{\par\medskip\noindent\colorbox{pinkbg}{\textsc{Exercise} #1}\ \textbf{\underline{#2}}\par\smallskip}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+%=====================================================
+\section*{3 \quad PRESENT CONTINUOUS}
+
+\begin{multicols}{2}
+
+{\rowcolors{1}{pinkbg}{pinkbg}
+\begin{tabular}{>{\bfseries}p{2.5cm}|p{5cm}}
+Form & am, is, or are + verb + ing \\ \hline
+Use & actions happening now, at the moment of speaking. \\ \hline
+Signal words & now, at the moment, still, Look! Listen!\ldots \\
+\end{tabular}}
+
+\exercise{1}{Find the signal words for present continuous.}
+1. Which is a signal word for present continuous?\\
+last -- now -- every night\\
+2. Which is \textbf{not} a signal word for present continuous?\\
+now - already - still
+
+\columnbreak
+
+\exercise{2}{Put these verbs in present continuous.}
+\begin{tabular}{ll}
+1. They / play & \arr \\
+2. Sara and Leila/ dance & \arr \\
+3. I/ not, speak & \arr \\
+4. He/ to sing & \arr \\
+5. David / not, to write & \arr \\
+\end{tabular}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+1. Now, it (rain) heavily outside.\\
+2. She (not, speak) French at the moment.\\
+3. Many people (still, ght) against poverty in Africa.\\
+4. Mark's children (to play) video games at the moment.\\
+5. (Sandra, to do) her homework now?\\[0.5em]
+\blank
+
+\end{multicols}
+
+\noindent\rule{\textwidth}{2pt}
+
+%=====================================================
+\section*{4 \quad PAST CONTINUOUS}
+
+\begin{multicols}{2}
+
+{\rowcolors{1}{pinkbg}{pinkbg}
+\begin{tabular}{>{\bfseries}p{2.5cm}|p{5cm}}
+Form & was or were + verb + ing \\ \hline
+Use & For actions which were in progress in the past. \\ \hline
+Signal words & when, while + long action in the past \\
+\end{tabular}}
+
+\exercise{1}{Find the signal words for past continuous.}
+1. Which is a signal word for past continuous?\\
+while - by next week - tomorrow\\
+2. Which is \textbf{not} a signal word for past continuous?\\
+next week -- when - while
+
+\columnbreak
+
+\exercise{2}{Put these verbs in past continuous.}
+\begin{tabular}{ll}
+1. She/ watch & \arr \\
+2. They/ to play & \arr \\
+3. It/ rain & \arr \\
+4. Many students/ to work & \arr \\
+5. He/ not, to drive & \arr \\
+\end{tabular}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+1- Barbara (to do) her homework yesterday when I came in.\\
+2- When I (write) the E-mail last time, Mary (to watch) TV.\\
+3- I saw my teacher yesterday when I (wait) \blank\ for the bus.\\
+4- When Sandra (arrive) home yesterday, her father (not, to cook) lunch.\\
+5- (Your brother, to play) the game when the computer crashed down?
+
+\end{multicols}
+
+\noindent\rule{\textwidth}{2pt}
+
+%=====================================================
+\section*{5 \quad PRESENT PERFECT}
+
+\begin{multicols}{2}
+
+{\rowcolors{1}{pinkbg}{pinkbg}
+\begin{tabular}{>{\bfseries}p{2.5cm}|p{5cm}}
+Form & have or has + Past Participle \\ \hline
+Use & For actions which started in the past and continued up to the present. \\ \hline
+Signal words & just, already, yet, for, since, so far, recently, ever\ldots \\
+\end{tabular}}
+
+\medskip
+{\small NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give more emphasis on the duration of the action. However, some verbs can't be used in the continuous form such as own, smell, need, belong, cost, agree, contain\ldots, etc.}
+
+\exercise{1}{Find the signal words for present perfect.}
+1. Which is a signal word for present perfect?\\
+still -- usually -- since\\
+2. Which is \textbf{not} a signal word for present perfect?\\
+since -- before -- for
+
+\columnbreak
+
+\exercise{2}{Put these verbs in present perfect.}
+\begin{tabular}{ll}
+1. They/ to do & \arr \\
+2. Jack / to publish & \arr \\
+3. He/ not, to have & \arr \\
+4. She/ to study & \arr \\
+5. Mike and Lina / to have & \arr \\
+\end{tabular}
+
+\exercise{3}{Put the following verbs in the correct tense.}
+1. He (just, phone) Sabrina; she is in Chicago now.\\
+2. I (buy, recently) a laptop to Louis. 3. The maid (not, cook) the dinner yet. 4. She (drive) this car for two hours. 5. He (to be) in prison since 2003. 6. (you, ever, read) Hemingway's novels?\\[1em]
+\blank\\[0.5em]
+\blank
+
+\end{multicols}
+
+\end{document}
+```

@@ -1,0 +1,13 @@
+```json
+{
+  "seller_name": "Huangshi Jincheng Information Co., Ltd.",
+  "seller_address": "6613 Schneider Bypass Apt. 337 North Sherrystad, NM 81355 PSC 3052, Box 6835 APO AA 46214",
+  "buyer_name": "ASSA ABLOY Global Solutions AB",
+  "buyer_address": "BOX 47112 SE-100 74 STOCKHOLM Sweden",
+  "ship_to_name": "Rico Logistics",
+  "ship_to_address": "Horsterweg 20 6199 AC Unit 7102 Box 4162 DPO AA 27890",
+  "invoice_number": "",
+  "invoice_date": "2021-11-05",
+  "amount_total": "CNY 244216.11"
+}
+```

@@ -1,0 +1,69 @@
+\[
+\begin{aligned}
+&\sum_{2r+|\beta|\le \bar s_{k+1}+2}
+\left\|
+\partial_t^r\nabla_\parallel^\beta
+\bigl(\partial_y u_{k+1}^{\pm},\partial_y\bar\theta_{k+1}^{\pm}\bigr)
+(t,x_\parallel,0)
+\right\|_{L_{x_\parallel}^2}
+\\
+&\le C\Bigg(
+\sum_{i=0}^{1}
+\sum_{2r+|\beta|\le \bar s_{k+1}+4}
+\left\|
+\tilde\rho_{k,i}\,\partial_t^r\nabla_x^\beta f_i(t)
+\right\|_{L_{x_\parallel}^2L_y^\infty}
++
+\sum_{2r+|\beta|\le \bar s_{k+1}+4}
+\left\|
+\rho_{k,i}\,\partial_t^r\nabla_x^\beta f_i^\pm(t)
+\right\|_{L_{x_\parallel}^2L_y^\infty}
+\\
+&\qquad+
+\sum_{2r+|\beta|\le \bar s_{k+1}+2}
+\Bigg[
+\left\|
+\partial_t^r\nabla_\parallel^\beta
+\hat u_{k+1,3}^{\pm}(t,x_\parallel,0)
+\right\|_{L_{x_\parallel}^2}
++
+\left\|
+\partial_t^r\nabla_\parallel^\beta\hat a_{k+1}^{\pm}
+\right\|_{L_{x_\parallel}^2L_y^\infty}
+\\
+&\qquad\qquad+
+\sum_{i=1}^{2}
+\left\|
+\partial_t^r\nabla_\parallel^\beta
+\bigl(
+\langle A_{ki},J_k^{\pm,0}\rangle,
+\langle B_{ki},J_k^{\pm,0}\rangle
+\bigr)
+\right\|_{L_{x_\parallel}^2L_y^\infty}
+\\
+&\qquad\qquad+
+\left\|
+\partial_t^r\nabla_\parallel^\beta
+\bigl(\hat A_{k+2}^{\pm},\hat B_{k+2}^{\pm},\hat C_{k+2}^{\pm}\bigr)
+(t,x_\parallel,0)
+\right\|_{L_{x_\parallel}^2}
+\\
+&\qquad\qquad+
+\left\|
+\partial_t^r\nabla_\parallel^\beta
+\bigl(\hat A_{k+3}^{\pm},\hat B_{k+3}^{\pm},\hat C_{k+3}^{\pm}\bigr)
+(t,x_\parallel,0)
+\right\|_{L_{x_\parallel}^2}
+\Bigg]\Bigg)
+\\
+&\le C\left(
+D_k+\tilde D_k^\pm
++\hat D_k^\pm
+\sum_{2r+|\beta|\le s_{k+1}}
+\left\|
+\partial_t^r\nabla_x^\beta
+(P_{k+1},u_{k+1},\theta_{k+1})(0)
+\right\|_{L_x^2}
+\right).
+\end{aligned}
+\]

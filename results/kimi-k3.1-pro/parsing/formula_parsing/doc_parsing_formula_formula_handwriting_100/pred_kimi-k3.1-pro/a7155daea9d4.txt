@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+&\Sigma_j(r):=\left\{\xi\in\Sigma\cap B_{r/4}(p):\Pi_{p+G_\mu}(\xi)\in(p+G_\mu)\cap B_{r/4}(p)\right\}\\
+&\phi_0(x)=1\quad\left(0\le x<\tfrac12\right),\qquad \phi_0(x+1)=\phi_0(x)\\
+&\phi_0(x)=-1\quad\left(\tfrac12\le x<1\right),\qquad \phi_k(x)=\phi_0(2^k x)\\
+&q\in\begin{cases}
+\left(\tfrac32,\infty\right),&\text{if }0\le s\le\tfrac12,\\[2pt]
+(s,\infty),&\text{if }\tfrac12<s,
+\end{cases}\\
+&\left\langle1_{D_j}^{G},\chi_0-\psi_i\right\rangle
+=\left\langle1_{D_j}^{G},\chi_0\right\rangle
+-\left\langle1_{D_j}^{G},\psi_i\right\rangle
+=1-\delta(i,j)\\
+&v(x,\vec P^{(j+1)})-v(x,\vec P^{(j)})
+=\sum_{k=0}^{j-1}\left(v(x,\vec Q^{(k+1)})-v(x,\vec Q^{(k)})\right)
+=v(x,\vec Q^{(j)})-v(x,\vec Q^{(0)})\\
+&\alpha=\frac12\left(1+1-\frac{\epsilon}{2\sqrt n}\right)\\
+&\Theta_Q\!\left(\begin{pmatrix}y_\infty&x_\infty\\&1\end{pmatrix}\right)
+=|y_\infty|^{k}\sum_{r\in F}\psi\!\left(Q(r)(x_\infty+iy_\infty)\right)
+=|y_\infty|^{k}\sum_{q\in Q_F}\psi\!\left(Q(q)(x_\infty+iy_\infty)\right)\\
+&i\oplus j\equiv(i+j)\pmod 2
+\end{aligned}
+\]

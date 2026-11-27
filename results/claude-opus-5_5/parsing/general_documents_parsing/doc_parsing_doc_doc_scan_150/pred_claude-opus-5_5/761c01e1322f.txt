@@ -1,0 +1,108 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{array}
+
+\begin{document}
+
+\[
+\begin{array}{ccccccc}
+A & 1 & 8 & 9  & 16 & \cdots \\
+B & 2 & 7 & 10 & 15 & \cdots \\
+C & 3 & 6 & 11 & 14 & \cdots \\
+D & 4 & 5 & 12 & 13 & \cdots
+\end{array}
+\]
+
+\noindent 7. In which row is the number 600?\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 1st row & (2) 2nd row & (3) 3rd row & (4) 4th row
+\end{tabular}
+
+\bigskip
+\noindent 8. How many columns are there in Row $A$ if 200 is the last number?\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 48 & (2) 50 & (3) 52 & (4) 54
+\end{tabular}
+
+\bigskip
+\noindent 9. Compute the following.\\
+$37 + 397 + 3997 + 39\,997$\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 42\,284 & (2) 42\,482 & (3) 44\,248 & (4) 44\,428
+\end{tabular}
+
+\bigskip
+\noindent 0. Compute the following.\\
+$298 + 2998 + 29\,998 + 299\,998$\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 333\,292 & (2) 334\,222 & (3) 334\,292 & (4) 335\,222
+\end{tabular}
+
+\bigskip
+\noindent 1. Compute the following.\\
+$9 + 99 + 999 + 9999 + 99\,999$\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 110\,215 & (2) 110\,745 & (3) 110\,995 & (4) 111\,105
+\end{tabular}
+
+\bigskip
+\noindent 2. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 24 & (2) 25 & (3) 26 & (4) 27
+\end{tabular}
+
+\bigskip
+\noindent 3. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?\\
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 10 & (2) 11 & (3) 12 & (4) 13
+\end{tabular}
+
+\bigskip
+\noindent 4. Find the values of A and B in the following.
+
+\begin{center}
+\begin{tikzpicture}[scale=1]
+  % Triangle 1
+  \begin{scope}[shift={(0,0)}]
+    \draw (0,0) -- (3,0) -- (1.5,2.6) -- cycle;
+    \fill[gray!40] (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \draw (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \node at (1.5,1.75) {18};
+    \node at (0.8,0.4) {12};
+    \node at (2.2,0.4) {16};
+    \node at (1.5,0.85) {10};
+  \end{scope}
+  % Triangle 2
+  \begin{scope}[shift={(4,0)}]
+    \draw (0,0) -- (3,0) -- (1.5,2.6) -- cycle;
+    \fill[gray!40] (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \draw (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \node at (1.5,1.75) {34};
+    \node at (0.8,0.4) {25};
+    \node at (2.2,0.4) {15};
+    \node at (1.5,0.85) {A};
+  \end{scope}
+  % Triangle 3
+  \begin{scope}[shift={(8,0)}]
+    \draw (0,0) -- (3,0) -- (1.5,2.6) -- cycle;
+    \fill[gray!40] (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \draw (0.75,1.3) -- (2.25,1.3) -- (1.5,0) -- cycle;
+    \node at (1.5,1.75) {20};
+    \node at (0.8,0.4) {B};
+    \node at (2.2,0.4) {18};
+    \node at (1.5,0.85) {22};
+  \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\begin{tabular}{p{6cm}p{6cm}}
+(1) $A = 6,\ B = 18$ & (3) $A = 8,\ B = 20$ \\
+(2) $A = 6,\ B = 24$ & (4) $A = 8,\ B = 22$
+\end{tabular}
+
+\end{document}
+```
+
+Note: The question numbers (7, 8, 9, 0, 1, 2, 3, 4) are transcribed exactly as visible; the leading digits appear to be cropped off the left edge of the image.

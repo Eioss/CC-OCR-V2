@@ -1,0 +1,9 @@
+Looking at the "Failover nodes" row in the comparison table, the Microsoft Hyper-V columns show:
+
+- Microsoft STANDARD: 16
+- Microsoft ENT.: 16
+- Microsoft DC: 16
+
+All three Microsoft Hyper-V editions have Failover nodes equal to 16.
+
+**Answer: 3**

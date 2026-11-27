@@ -1,0 +1,28 @@
+```json
+[
+  {"bbox_2d": [122, 62, 132, 177], "label": "Tel"},
+  {"bbox_2d": [124, 357, 134, 472], "label": "Fax"},
+  {"bbox_2d": [169, 275, 177, 338], "label": "Invoice No (发票号码)"},
+  {"bbox_2d": [180, 274, 188, 338], "label": "Invoice Date (发票日期)"},
+  {"bbox_2d": [201, 275, 210, 329], "label": "Purchase Order (订单号)"},
+  {"bbox_2d": [170, 720, 193, 794], "label": "Title"},
+  {"bbox_2d": [255, 20, 264, 163], "label": "Company Name"},
+  {"bbox_2d": [266, 22, 275, 400], "label": "Address"},
+  {"bbox_2d": [255, 483, 264, 626], "label": "Company Name"},
+  {"bbox_2d": [266, 482, 274, 862], "label": "Address"},
+  {"bbox_2d": [299, 241, 308, 294], "label": "Port of shipment (装运口岸)"},
+  {"bbox_2d": [299, 736, 308, 795], "label": "Port of destination (目的口岸)"},
+  {"bbox_2d": [310, 242, 317, 264], "label": "Mode of delivery (交货方式)"},
+  {"bbox_2d": [344, 77, 355, 84], "label": "No"},
+  {"bbox_2d": [344, 106, 357, 374], "label": "Item name"},
+  {"bbox_2d": [344, 464, 357, 532], "label": "Quantity"},
+  {"bbox_2d": [344, 542, 355, 580], "label": "Unit"},
+  {"bbox_2d": [344, 707, 355, 761], "label": "Price"},
+  {"bbox_2d": [344, 861, 357, 930], "label": "Amount"},
+  {"bbox_2d": [362, 861, 375, 930], "label": "USD"},
+  {"bbox_2d": [431, 170, 440, 232], "label": "Payment Terms"},
+  {"bbox_2d": [440, 169, 449, 445], "label": "Banker"},
+  {"bbox_2d": [452, 177, 460, 235], "label": "SWIFT"},
+  {"bbox_2d": [463, 170, 472, 279], "label": "Account No"}
+]
+```

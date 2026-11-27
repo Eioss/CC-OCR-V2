@@ -1,0 +1,142 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+其他 & 6,661,995.51 & 4,588,467.60 \\
+\textbf{合 计} & \textbf{94,758,024.28} & \textbf{89,871,230.50} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（三十七）财务费用}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+利息支出 & 147,344,183.04 & 154,044,323.30 \\
+减：利息收入 & 14,461,263.80 & 20,709,052.57 \\
+手续费支出 & 671,382.41 & 457,291.01 \\
+汇兑净损益 & & \\
+\textbf{合 计} & \textbf{133,554,301.65} & \textbf{133,792,561.74} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（三十八）资产减值损失}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+坏账准备 & -6,594,710.00 & -244,540.38 \\
+\textbf{合 计} & \textbf{-6,594,710.00} & \textbf{-244,540.38} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（三十九）其他收益}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+稳岗补贴 & 22,858.25 & 35,572.01 \\
+土地开发及配套设施补贴 & 89,454,208.00 & 100,740,000.00 \\
+\textbf{合 计} & \textbf{89,477,066.25} & \textbf{100,775,572.01} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（四十）投资收益}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+处置子公司确认的投资收益 & & -4,518,780.65 \\
+权益法核算的长期股权投资收益 & 637,698.05 & -12,071.37 \\
+可供出售金融资产在持有期间的投资收益 & 7,680,000.00 & 19,200,000.00 \\
+理财产品收益 & 37,503,807.01 & 81,307,300.59 \\
+\textbf{合 计} & \textbf{45,821,505.06} & \textbf{95,976,448.57} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（四十一）公允价值变动}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{\textbf{产生公允价值变动收益的来源}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} \\
+\midrule
+按公允价值计量的投资性房地产 & 51,749,200.00 & \\
+\textbf{合 计} & \textbf{51,749,200.00} & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\textbf{（四十二）营业外收入}
+
+\begin{table}[h]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrrl}
+\toprule
+\multicolumn{1}{c}{\textbf{项 目}} & \multicolumn{1}{c}{\textbf{本年发生额}} & \multicolumn{1}{c}{\textbf{上年发生额}} & \multicolumn{1}{c}{\begin{tabular}[c]{@{}l@{}}计入当期非经常\\性损益的金额\end{tabular}} \\
+\midrule
+ & & & \\
+ & & & \\
+ & & & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1cm}
+\begin{center}
+67
+\end{center}
+
+\end{document}
+```

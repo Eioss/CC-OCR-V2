@@ -1,0 +1,7 @@
+Looking at the receipt, there are two instances of '03-89410243' (Tel and Fax). I'll provide the bounding box for the Tel number.
+
+The Tel number "03-89410243" appears after "Tel :" on the contact line. Estimating pixel positions: left ≈ 205, top ≈ 378, right ≈ 368, bottom ≈ 403. Image dimensions ≈ 750×1300.
+
+Normalized: x1 = 205/750×1000 ≈ 273, y1 = 378/1300×1000 ≈ 291, x2 = 368/750×1000 ≈ 491, y2 = 403/1300×1000 ≈ 310.
+
+(273, 218, 483, 238)

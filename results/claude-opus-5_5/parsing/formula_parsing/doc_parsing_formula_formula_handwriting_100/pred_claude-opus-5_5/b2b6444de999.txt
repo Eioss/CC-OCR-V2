@@ -1,0 +1,14 @@
+```latex
+\begin{gathered}
+S_{\omega}(Z(a,h(a)))-S_{\omega}(\Phi_{\omega})=\frac{a^{2}}{2}\frac{d^{2}}{da^{2}}S_{\omega}(Z_{\omega}(a,h(a)))\Big|_{a=\theta a}<0 \text{ for all } a\in(-a_{1},a_{1}),\\
+t\to+\infty,\quad \mathrm{Im}(\lambda)\to+\infty,\quad \zeta_{0}+\zeta_{1}\to-i(\xi',-j),\\
+\zeta_{0}\cdot\zeta_{1}-\lambda\to-\frac{1}{2}(|\xi'|^{2}+j^{2}).\\
+n\cdot\mathbb{E}\left(\mathbb{1}_{x'_{0}=1}\mathbb{1}_{\sum_{1\le j\le p-1}x'_{j}\ge 1}\right)\le n\sum_{i\le p}\mathbb{E}\,\mathbb{1}_{B_{r}(q)\times S^{1}}\mathbb{1}_{B_{r}(q)\times S^{1}}\circ f^{i}\\
+0\to\,]\beta[_{!}F'\to F\to\,]\alpha[_{*}F''\to 0.\\
+\|V\|_{X,+}=\sup_{x\in[0,X]}e^{\alpha(X-x)}|V(x)|\\
+\|V\|_{X,-}=\sup_{x\in[-X,0]}e^{\alpha(X+x)}|V(x)|,\\
+d\langle\hat{Q}\rangle=\mathrm{Tr}[d\hat{\rho}_{AB})\hat{H}_{AB}]=0,\\
+\mu_{w}=iu\,v_{x}\\
+\|\varphi-\varphi^{\varepsilon}\|_{L^{2}(\mathbb{T}^{2})}<\varepsilon/4M
+\end{gathered}
+```

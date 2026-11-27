@@ -1,0 +1,42 @@
+```html
+<table border="1" style="border-collapse: collapse;">
+  <caption>2021年度师德考核学生评价表</caption>
+  <tr>
+    <td rowspan="2">项目</td>
+    <td>分值</td>
+    <td rowspan="2">考核主要内容</td>
+    <td colspan="25">教师姓名</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>安宗志</td>
+    <td>万里明</td>
+    <td>徐根前</td>
+    <td>林水根</td>
+    <td>蒋立平</td>
+    <td>沈金鸥</td>
+    <td>蒋卫民</td>
+    <td>蒋奇松</td>
+    <td>柳阳春</td>
+    <td>殷节峰</td>
+    <td>蒋正宏</td>
+    <td>汪童</td>
+    <td>蒋徐尉</td>
+    <td>刘畅</td>
+    <td>储江敏</td>
+    <td>王瑞</td>
+    <td>王青</td>
+    <td>柳欣欣</td>
+    <td>李钰茜</td>
+    <td>胡森茂</td>
+    <td>徐瑶</td>
+    <td>刘同锐</td>
+    <td>华莹莹</td>
+    <td>王超</td>
+    <td>刘姣</td>
+  </tr>
+  <tr>
+    <td rowspan="3">爱国守法</td>
+    <td>5</td>
+    <td>热爱祖国，热爱人民，拥护中国共产党领导，拥护社会主义；</td>
+    <td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</

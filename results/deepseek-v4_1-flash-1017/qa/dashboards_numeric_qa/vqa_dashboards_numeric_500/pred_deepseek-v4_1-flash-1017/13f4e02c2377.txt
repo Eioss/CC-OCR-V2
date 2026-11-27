@@ -1,0 +1,7 @@
+Based on the flowchart:
+
+1.  Start at the top and follow the path for **"Are you in Canada?"** -> **No**.
+2.  Next, answer **"Is it before 10:30 AM?"** -> **Yes**.
+3.  The next question asks, **"Are you a police officer?"** -> **No**.
+
+Following the "No" arrow from that question leads you to **McDonald's**.

@@ -1,0 +1,16 @@
+```latex
+\begin{align*}
+\left( \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{\frac{1}{p}} \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{\frac{1}{q}} \right)^r &\le \frac{r}{p} \sum_{i=1}^n \langle |T_i| x, y \rangle^p + \frac{r}{q} \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \\
+&\quad - \sum_{j=1}^N \left( (-1)^{\gamma_j} 2^{j-1} \left( \frac{r}{p} \right) + (-1)^{\gamma_j + 1} \left[ \frac{\gamma_j + 1}{2} \right] \right) \\
+&\quad \times \left( \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j} \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j} } \right. \\
+&\quad \left. - \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j + 1} \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j - 1} } \right)^2 \\
+&\le \frac{r}{p} \sum_{i=1}^n \langle |T_i|^p x, y \rangle + \frac{r}{q} \sum_{i=1}^n \langle |T_i^*|^q x, y \rangle \quad \text{(by (??))} \\
+&\quad - \sum_{j=1}^N \left( (-1)^{\gamma_j} 2^{j-1} \left( \frac{r}{p} \right) + (-1)^{\gamma_j + 1} \left[ \frac{\gamma_j + 1}{2} \right] \right) \\
+&\quad \times \left( \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j} \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j} } \right. \\
+&\quad \left. - \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j + 1} \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j - 1} } \right)^2 \\
+&= \frac{r}{p} \left\langle \left( \sum_{i=1}^n |T_i|^p \right) x, y \right\rangle + \frac{r}{q} \left\langle \left( \sum_{i=1}^n |T_i^*|^q \right) x, y \right\rangle \quad \text{(by Lemma (??), (a))} \\
+&\quad - \sum_{j=1}^N \left( (-1)^{\gamma_j} 2^{j-1} \left( \frac{r}{p} \right) + (-1)^{\gamma_j + 1} \left[ \frac{\gamma_j + 1}{2} \right] \right) \\
+&\quad \times \left( \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j} \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j} } \right. \\
+&\quad \left. - \sqrt[2^j]{ \left( \sum_{i=1}^n \langle |T_i| x, y \rangle^p \right)^{k_j + 1} \left( \sum_{i=1}^n \langle |T_i^*| x, y \rangle^q \right)^{2^{j-1} - k_j - 1} } \right)^2
+\end{align*}
+```

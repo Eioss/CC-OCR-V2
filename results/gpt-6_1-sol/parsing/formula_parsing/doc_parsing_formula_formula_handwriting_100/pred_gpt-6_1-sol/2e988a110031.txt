@@ -1,0 +1,63 @@
+\[
+\begin{aligned}
+&\int_{\Omega} u^{+}(x)(\Delta_{\lambda})^{s}\varphi(x)\,dx
+\leq
+\int_{\{f\geq 0\}} I_{\varepsilon}'(u(x))f(x)\varphi(x)\,dx
++
+\int_{\{f<0\}} I_{\varepsilon}'(u(x))f(x)\varphi(x)\,dx.
+\\[6pt]
+&W_h^k[f](a,x,\theta)
+=
+a^{-1}\int_{\mathbb{R}^{2}}
+f(x)e^{\frac{i a_1}{2b_1}(x_1^2-y_1^2)}
+\psi\!\left(r_{\theta}a^{-1}(x-y)\right)
+e^{\frac{i a_2}{2b_2}(x_2^2-y_2^2)}\,dx.
+\\[6pt]
+&\psi(t_{\lambda})
+=
+\frac{-(8\cos^{2}(\alpha\lambda)+1)+\delta}
+{-(8\cos^{2}(\alpha\lambda)+1)-\delta}
+=
+\frac{\operatorname{tr}(U)+1-\delta}
+{\operatorname{tr}(U)+1+\delta}.
+\tag{3.11}
+\\[6pt]
+&\frac{1}{\delta}+\frac{7u(t)}{4}
+\leq
+\frac{\left|D_{\lambda}\!\left(1,\frac{\tau^{2}}{12L},xt\right)\right|}
+{\left|D_{\lambda}\!\left(\frac{\tau^{2}}{12L},xt\right)\right|}.
+\\[6pt]
+&\widetilde{V}(t+T_7,M')
+\geq u(t+T_6,M'),
+\qquad t\geq 0.
+\\[6pt]
+&\left(\int_{0}^{t_1}S(t_1-\tau)B_u(\tau)\,d\tau,g\right)
+=
+\int_{0}^{t_1}\left(S(t_1-\tau)B_u(\tau),g\right)\,d\tau.
+\\[6pt]
+&T_{\varepsilon}(t)
+=
+\alpha_{\lambda}^{s}(t)
+-
+(\alpha_{\lambda}+1)
+\left(\frac{\gamma_s}{2}+i\Delta c_{\mathrm{LS}}\right)
+e^{-i(\omega_{\varepsilon}+\Delta c_{\mathrm{LS}})t}
+e^{-\Gamma_{\varepsilon}t}\Theta(t).
+\\[6pt]
+&\frac{h_K}{\rho_K}\leq C_s,
+\qquad
+\forall K\in\mathcal{T}
+\ \text{and}\ 
+\forall\mathcal{T}\in\mathcal{F}.
+\\[6pt]
+&v^{T}Q^{(k+1,k+1)}v
+=
+v^{T}D^{(k+1,k+1)}v
+-
+v^{T}\beta^{(k+1,k+1)}v
++
+2v^{T}\tau_v
+-
+\lambda(G\tau_1)^2.
+\end{aligned}
+\]

@@ -1,0 +1,13 @@
+```latex
+\begin{gather*}
+\int_{\Omega} u_+(x) (-\Delta)^s \varphi(x) dx \le \int_{\{f \ge 0\}} \bar{r}_\varepsilon(u(x)) f(x) \varphi(x) dx + \int_{\{f < 0\}} \underline{r}_\varepsilon(u(x)) f(x) \varphi(x) dx. \\
+W_\psi^H[f](a, y, \theta) = a^{-1} \int_{\mathbb{R}^2} f(x) e^{\frac{i}{2b_2}(x_2^2 - y_2^2)} \overline{\psi(r_{-\theta} a^{-1}(x - y))} e^{\frac{i}{2b_1}(x_1^2 - y_1^2)} dx. \\
+\psi(p_A) = \frac{-(8\cos^2(\alpha_2) + 1) + \delta}{-(8\cos^2(\alpha_2) + 1) - \delta} = \frac{\operatorname{tr}(U) + 1 - \delta}{\operatorname{tr}(U) + 1 + \delta} \qquad (3.11) \\
+\frac{1}{8} + \frac{3\mu(\tau)}{4} \le \frac{|D_t(1, \frac{\gamma^2}{128 L}, X_t)|}{|D_t(\frac{\gamma^2}{128 L}, X_t)|} \\
+\tilde{V}(t + T_7, M^0) \ge u(t + T_6, M^0) \text{ for } t \ge 0, \\
+\left(\int_0^{t_1} S(t_1 - \tau) B u(\tau) d\tau, g\right) = \int_0^{t_1} (S(t_1 - \tau) B u(\tau), g) d\tau. \\
+T_t(t) = \alpha_t \delta(t) - (\alpha_t + 1)\left(\frac{\gamma_s}{2} + i \Delta_{CLS}\right) \times e^{-i(\omega_t + \Delta_{CLS}) t_e} - \Gamma c^t \Theta(t), \\
+\frac{h_K}{\rho_K} \le C_s \quad \forall K \in T \text{ and } \forall T \in F, \\
+v^T Q^{(k+1, k+1)} v = v^T D^{(k+1, k+1)} v - v^T \beta^{(k+1, k+1)} v + z v^T v - \lambda (v^T 1)^2
+\end{gather*}
+```

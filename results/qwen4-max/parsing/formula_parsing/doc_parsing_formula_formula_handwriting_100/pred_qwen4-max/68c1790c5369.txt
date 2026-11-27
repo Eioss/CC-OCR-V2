@@ -1,0 +1,9 @@
+\begin{align*}
+[\tilde{\Phi}_k^{(n)\dagger}\tilde{\Phi}_k^{(n)}]|f_0\rangle^{\otimes n-1}\otimes|f_{in}\rangle &= d^{2\gamma}\hat{\chi}(i_n,k)^2|f_0\rangle^{\otimes n-1}\otimes|f_{in}\rangle, \\[1em]
+L_{\lfloor N/2 \rfloor - 1} &< L_{\lfloor N/2 \rfloor} \\[1em]
+d \cdot L/T &= d \cdot MW(\mathcal{I}(f)) \subseteq M \\[1em]
+\sum_{r=r_1+1}^{\delta-\delta_0+r_1} S(r_1,r) &= \sum_{r=r_1+1}^{\delta-\delta_0+r_1} (-1)^{r-r_1} \frac{(\delta-\delta_0+r_1-1)!}{r_1!(r-r_1)!(\delta-\delta_0+r_1-r)!} \binom{d-\delta_0-1}{r_1-1}; \\
+&= (-1)^{r_1+1} \binom{\delta-\delta_0+r_1-1}{r_1-1} \binom{d-\delta_0-1}{r_1-1}. \\[1em]
+\bar{\bar{x}} = x, \quad x + \bar{x} &= n(x,1)1, \quad x \cdot \bar{x} = \bar{\bar{x}} \cdot x = n(x)1, \\[1em]
+\hat{\pi}^{x,x+1}((\mu_j \to i, \lambda_i \to j), (\mu, \lambda)) &= q^{\mu_{i+1} + \dots + \mu_{j-1}} \{\mu_j\}_{q^2} q^{\lambda_{i+1} + \dots + \lambda_j} \{\lambda_i\}_{q^2} t^{\ell(\lambda_{j+1} + \dots + \lambda_n)} q^{2(\mu_{i+1} + \dots + \mu_{j-1})}.
+\end{align*}

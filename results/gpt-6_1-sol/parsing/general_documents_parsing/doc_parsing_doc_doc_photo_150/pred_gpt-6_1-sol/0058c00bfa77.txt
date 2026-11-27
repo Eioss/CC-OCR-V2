@@ -1,0 +1,106 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{enumerate}
+\setcounter{enumi}{3}
+\item The given table shows the number of students enrolled in history, liberal arts math, and English during the fall and Spring semesters. If there are 197 full time teaching positions available for apportionment among the three departments based on course enrollment, answer each of the following questions.
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Fall} & \textbf{Spring} \\
+\hline
+\textbf{History} & 1902 & 1922 \\
+\hline
+\textbf{Liberal Arts Math} & 14200 & 14200 \\
+\hline
+\textbf{English} & 3898 & 3938 \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{enumerate}
+\renewcommand{\labelenumii}{\alph{enumii}.}
+
+\item Find the number of teaching positions that should be apportioned to each department in the fall using Jefferson's Method
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\textbf{Subject}
+& \shortstack[l]{\textbf{Standard}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Lower}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Modified}\\\textbf{Quota (if}\\\textbf{needed)}}
+& \shortstack[l]{\textbf{New}\\\textbf{Lower}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Modified}\\\textbf{Quota (if}\\\textbf{needed)}}
+& \shortstack[l]{\textbf{New}\\\textbf{Lower}\\\textbf{Quota}} \\
+\hline
+\textbf{History} & 18.08 & 18 & 18.99 & 18 & & \\
+\hline
+\shortstack[l]{\textbf{Liberal Arts}\\\textbf{Math}}
+& 139.66 & 139 & 141.08 & 141 & & \\
+\hline
+\textbf{English} & 38.53 & 38 & 38.92 & 38 & & \\
+\hline
+\end{tabular}%
+}
+\end{center}
+
+\item Find the number of teaching positions that should be apportioned to each department in the fall using Hamilton's Method
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Subject}
+& \shortstack[l]{\textbf{Standard}\\\textbf{Quota}}
+& \textbf{Lower Quota}
+& \shortstack[l]{\textbf{Additional}\\\textbf{(based on}\\\textbf{decimals)}}
+& \textbf{Final allocation} \\
+\hline
+\textbf{History} & 18.08 & 18 & 0 & 18 \\
+\hline
+\shortstack[l]{\textbf{Liberal Arts}\\\textbf{Math}}
+& 139.66 & 139 & 1 & 140 \\
+\hline
+\textbf{English} & 38.53 & 38 & 1 & 39 \\
+\hline
+\end{tabular}%
+}
+\end{center}
+
+\item Find the number of teaching positions that should be apportioned to each department in the fall using Webster's Method.
+
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|l|l|l|l|l|}
+\hline
+\textbf{Subject}
+& \shortstack[l]{\textbf{Standard}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Rounded}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Modified}\\\textbf{Quota (if}\\\textbf{needed)}}
+& \shortstack[l]{\textbf{New}\\\textbf{Rounded}\\\textbf{Quota}}
+& \shortstack[l]{\textbf{Modified}\\\textbf{Quota (If}\\\textbf{needed)}}
+& \shortstack[l]{\textbf{New}\\\textbf{Rounded}\\\textbf{Quota}} \\
+\hline
+\textbf{History} & 18.08 & 18 & & & & \\
+\hline
+\shortstack[l]{\textbf{Liberal}\\\textbf{Arts Math}}
+& 139.66 & 140 & & & & \\
+\hline
+\textbf{English} & 38.53 & 39 & & & & \\
+\hline
+\end{tabular}%
+}
+\end{center}
+
+\end{enumerate}
+\end{enumerate}
+
+\end{document}
+```

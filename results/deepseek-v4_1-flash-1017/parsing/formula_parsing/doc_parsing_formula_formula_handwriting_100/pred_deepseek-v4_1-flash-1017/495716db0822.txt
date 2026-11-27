@@ -1,0 +1,13 @@
+\begin{align*}
+&[Z_1, Z_2]_{m\{d_1, d_2, d_3\}} = \sqrt{\frac{\gamma_1}{\gamma_2}} X_1 - \sqrt{\frac{\gamma_2}{\gamma_1}} Y_1, [Z_1, Z_3]_{m\{d_1, d_2, d_3\}} = \sqrt{\frac{\gamma_1}{2\mu_2}} X_2 + \sqrt{\frac{\gamma_2}{2\mu_1}} Y_2, \\
+&[Z_1, Z_4]_{m\{d_1, d_2, d_3\}} = \sqrt{\frac{\gamma_1}{2\mu_1}} X_3 + \sqrt{\frac{\gamma_2}{2\mu_2}} Y_3, [Z_2, Z_3]_{m\{d_1, d_2, d_3\}} = \sqrt{\frac{\gamma_1}{2\mu_2}} X_3 - \sqrt{\frac{\gamma_2}{2\mu_1}} Y_3, \\
+&[Z_2, Z_4]_{m\{d_1, d_2, d_3\}} = -\sqrt{\frac{\gamma_1}{2\mu_1}} X_2 + \sqrt{\frac{\gamma_2}{2\mu_2}} Y_2, [Z_3, Z_4]_{m\{d_1, d_2, d_3\}} = \sqrt{\frac{\gamma_1}{2\mu_2}} X_1 + \sqrt{\frac{\gamma_2}{2\mu_1}} Y_1, \\
+&[Z_1, X_1]_{m\{d_1, d_2, d_3\}} = -\frac{Z_3}{\sqrt{2\gamma_1}}, [Z_1, Y_1]_{m\{d_1, d_2, d_3\}} = -\frac{Z_4}{\sqrt{2\gamma_1}}, [Z_1, X_3]_{m\{d_1, d_2, d_3\}} = -\frac{Z_4}{\sqrt{2\gamma_1}}, \\
+&[Z_1, Y_1]_{m\{d_1, d_2, d_3\}} = \frac{Z_4}{\sqrt{2\gamma_2}}, [Z_1, Y_2]_{m\{d_1, d_2, d_3\}} = -\frac{Z_3}{\sqrt{2\gamma_2}}, [Z_1, Y_3]_{m\{d_1, d_2, d_3\}} = -\frac{Z_4}{\sqrt{2\gamma_1}}, \\
+&[Z_2, X_1]_{m\{d_1, d_2, d_3\}} = \frac{Z_4}{\sqrt{2\gamma_1}}, [Z_2, X_2]_{m\{d_1, d_2, d_3\}} = \frac{Z_4}{\sqrt{2\gamma_1}}, [Z_2, X_3]_{m\{d_1, d_2, d_3\}} = -\frac{Z_3}{\sqrt{2\gamma_2}}, \\
+&[Z_2, Y_1]_{m\{d_1, d_2, d_3\}} = -\frac{Z_3}{\sqrt{2\gamma_2}}, [Z_2, Y_2]_{m\{d_1, d_2, d_3\}} = -\frac{Z_4}{\sqrt{2\gamma_2}}, [Z_2, Y_3]_{m\{d_1, d_2, d_3\}} = \frac{Z_3}{\sqrt{2\gamma_2}}, \\
+&[Z_3, X_1]_{m\{d_1, d_2, d_3\}} = -\frac{Z_2}{\sqrt{2\gamma_1}}, [Z_3, X_2]_{m\{d_1, d_2, d_3\}} = \frac{Z_1}{\sqrt{2\gamma_1}}, [Z_3, X_3]_{m\{d_1, d_2, d_3\}} = \frac{Z_2}{\sqrt{2\gamma_1}}, \\
+&[Z_3, Y_1]_{m\{d_1, d_2, d_3\}} = -\frac{Z_1}{\sqrt{2\gamma_2}}, [Z_3, Y_2]_{m\{d_1, d_2, d_3\}} = \frac{Z_1}{\sqrt{2\gamma_2}}, [Z_3, Y_3]_{m\{d_1, d_2, d_3\}} = -\frac{Z_2}{\sqrt{2\gamma_2}}, \\
+&[Z_4, X_1]_{m\{d_1, d_2, d_3\}} = \frac{Z_3}{\sqrt{2\gamma_1}}, [Z_4, X_2]_{m\{d_1, d_2, d_3\}} = -\frac{Z_2}{\sqrt{2\gamma_1}}, [Z_4, X_3]_{m\{d_1, d_2, d_3\}} = \frac{Z_1}{\sqrt{2\gamma_1}}, \\
+&[Z_4, Y_1]_{m\{d_1, d_2, d_3\}} = \frac{Z_3}{\sqrt{2\gamma_2}}, [Z_4, Y_2]_{m\{d_1, d_2, d_3\}} = \frac{Z_2}{\sqrt{2\gamma_2}}, [Z_4, Y_3]_{m\{d_1, d_2, d_3\}} = \frac{Z_1}{\sqrt{2\gamma_2}}.
+\end{align*}

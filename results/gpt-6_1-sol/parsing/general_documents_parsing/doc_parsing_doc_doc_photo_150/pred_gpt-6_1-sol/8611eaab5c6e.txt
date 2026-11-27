@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\begin{center}
+    {\Huge\bfseries Contents}
+\end{center}
+
+\vspace{2em}
+
+\begin{tabular}{@{}p{0.88\textwidth}r@{}}
+\textbf{FOREWORD} & vii \\[2em]
+\textbf{INTRODUCTION:} Why; Basic Equipment; Raw Materials & \\
+and Where to Get Them; Some Helpful Hints & ix \\[2em]
+
+\textbf{1. AROUND THE HOUSE} & 17 \\
+\hspace{2em}Floor Care & 17 \\
+\hspace{2em}Furniture Care and Some Other Treatments for Wood & 24 \\
+\hspace{2em}Dishwashing Help & 28 \\
+\hspace{2em}Laundry Help & 31 \\
+\hspace{2em}Shoes and Leather & 34 \\
+\hspace{2em}General Cleaning and Polishing & 35 \\
+\hspace{2em}Fires in Their Places and Out of Them & 42 \\
+\hspace{2em}Controlling Bugs and Other Pests & 47 \\
+\hspace{2em}Paints and Brushes & 50 \\
+\hspace{2em}In the Kitchen & 52 \\
+\hspace{2em}Miscellaneous Home Goodies & 56 \\[2em]
+
+\textbf{2. PERSONAL} & 62 \\
+\hspace{2em}Making Soap & 62 \\
+\hspace{2em}Hair Care & 64 \\
+\hspace{2em}Body Things & 68 \\
+\hspace{2em}Hands and Face & 73 \\
+\hspace{2em}Teeth & 79 \\
+\hspace{2em}Eyes & 80 \\
+\hspace{2em}Feet & 81 \\[2em]
+
+\textbf{3. AUTOMOTIVE AND MECHANICAL} & 83 \\
+\hspace{2em}Taking Care of the Outside & 84 \\
+\hspace{2em}Taking Care of the Inside & 86 \\
+\hspace{2em}Cleaning Up & 90
+\end{tabular}
+
+\vspace{1em}
+\begin{flushright}
+\textbf{v}
+\end{flushright}
+
+\end{document}

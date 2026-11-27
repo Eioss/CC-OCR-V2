@@ -1,0 +1,12 @@
+```latex
+\begin{align*}
+&\frac{\partial v}{\partial t} - \nu \bar{\Delta} v + (v \cdot \tilde{\nabla}) v = -\bar{\nabla} p + f \\
+&\bar{D}_{\bar{X}} \bar{S} - \rho \bar{X} = (x \dot{h} - f \dot{f} g(X, G) - x \rho) \partial_i + \frac{x \dot{f}}{f} S + \frac{h \dot{f}}{f} X + D_X S - \rho X \\
+&\langle \nu x, w \rangle = \langle c, w \sigma(x) \rangle \\
+&(\pi_*^b E)(\Sigma^\infty G / H_+) := \pi_* (E \wedge G / H_+)_{h G} \cong \pi_* E_{\tilde{h} H}. \\
+&\int_Y \gamma^0 A^0 e_1 \cdot \nabla \varphi = 0 \quad \forall \varphi \in C^\infty(T^n). \\
+&\langle \beta(\varepsilon) - \beta(\bar{\varepsilon}), \varepsilon - \bar{\varepsilon} \rangle > 0, \text{ for every } \varepsilon, \bar{\varepsilon} \in X \text{ with } \varepsilon \neq \bar{\varepsilon}. \\
+&\int_\Omega (|p^{(n)}|^2 + |\nabla_\infty u^{(n)}|^2)(x, \tau) dx + \int_0^\tau \int_\Omega (|\nabla p^{(n)}|^2 + \eta |\Delta u^{(n)}|^2 + |\nabla_s u_t^{(n)}|^2)(x, t) dx dt \\
+&+ \int_0^\tau \int_{\partial \Omega} \alpha(x) |p^{(n)}|^2 (x, t) ds(x) dt \leq C_K \left( 1 + \int_0^\tau \int_\Omega (|p^{(n)}|^2 + |\operatorname{div} u^{(n)}|^2)(x, t) dx dt \right).
+\end{align*}
+```

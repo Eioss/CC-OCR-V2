@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+&S_1\cdot\lambda_{n(t^\beta,1)+1}\le t^{2\beta}<S_1\cdot\lambda_{n(t^\beta,1)}.\\[4pt]
+&\beta(\theta)=L_1\cdot\left\|\frac{\partial\mathcal L(\theta)}{\partial\theta}\right\|_2
++L_0\cdot\left(\frac{\left\|\frac{\partial\mathcal L(\theta)}{\partial\theta}\right\|_2^2}{\mathcal L(\theta)}\right).\\[4pt]
+&+\Omega^{\langle r+1|}\cdots\Omega^{\langle1|}
+X_{|1,\ldots,r+1\rangle}^{\langle1,\ldots,r|}
+\left(\sum_{k=1}^{r}(-1)^{r-k}\sigma_{\langle k}^{-1}\right)
+\gamma_{|1\rangle}\cdots\gamma_{|r-1\rangle}\chi_{|r\rangle}+\cdots\\[4pt]
+&0\to P_n\to\cdots\to P_3\to P_2\to G_1'\to B\to0.\\[4pt]
+&x_n\le y_n+\sum_{1\le k\le R_0 2^n}
+\nu(k2^{-n})\,N_{k2^{-n}}\!\left(\left\langle\ell^{k2^{-n}}\right\rangle\right)y_n.\\[4pt]
+&\left|\rho-\frac{m}{n}\right|\ge\frac{K}{|n|^{2+\nu}}.\\[4pt]
+&(I-J)D_1PD_1^{-1}I=(I-J)^2D_2PD_2^{-1}I=I_1.
+\end{aligned}
+\]

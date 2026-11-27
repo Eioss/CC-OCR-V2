@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [128, 151, 422, 160], "label": "ADDRESS"},
+	{"bbox_2d": [775, 621, 841, 632], "label": "AMOUNT"},
+	{"bbox_2d": [233, 739, 430, 750], "label": "Account Number"},
+	{"bbox_2d": [186, 679, 483, 692], "label": "Beneficiary"},
+	{"bbox_2d": [88, 709, 672, 721], "label": "Beneficiary Bank"},
+	{"bbox_2d": [295, 75, 728, 109], "label": "COMPANY NAME"},
+	{"bbox_2d": [730, 295, 881, 306], "label": "CONTRACT NO."},
+	{"bbox_2d": [268, 502, 322, 513], "label": "COUNTRY OF ORIGIN"},
+	{"bbox_2d": [709, 153, 864, 162], "label": "Email"},
+	{"bbox_2d": [546, 153, 612, 160], "label": "FAX"},
+	{"bbox_2d": [349, 560, 472, 572], "label": "GROSS WEIGHT"},
+	{"bbox_2d": [730, 280, 824, 291], "label": "INVOICE DATE"},
+	{"bbox_2d": [730, 256, 881, 267], "label": "INVOICE NO."},
+	{"bbox_2d": [349, 545, 472, 557], "label": "NET WEIGHT"},
+	{"bbox_2d": [88, 428, 207, 440], "label": "PRODUCT NAME"},
+	{"bbox_2d": [483, 154, 517, 162], "label": "Post Code"},
+	{"bbox_2d": [371, 516, 412, 527], "label": "QUANTITY"},
+	{"bbox_2d": [349, 531, 444, 542], "label": "QUANTITY OF PACKING"},
+	{"bbox_2d": [88, 770, 123, 780], "label": "SHIPPING MARKS"},
+	{"bbox_2d": [190, 724, 326, 735], "label": "Swift Code"},
+	{"bbox_2d": [642, 153, 713, 161], "label": "TEL"},
+	{"bbox_2d": [348, 634, 476, 647], "label": "TERMS OF PAYMENT"},
+	{"bbox_2d": [372, 186, 618, 220], "label": "TITLE"},
+	{"bbox_2d": [261, 604, 608, 618], "label": "UNIT PRICE"}
+]
+```

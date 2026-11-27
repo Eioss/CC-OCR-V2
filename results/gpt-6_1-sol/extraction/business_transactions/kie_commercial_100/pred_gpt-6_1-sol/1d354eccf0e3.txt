@@ -1,0 +1,11 @@
+{
+  "date_issue": "09/10/2018",
+  "vendor_name": "WARU-FM",
+  "vendor_email": "djones@regionalreps.com",
+  "customer_billing_name": "Regional Reps",
+  "customer_billing_address": "6505 Rockside Road\nSuite 200\nCleveland, OH 44131",
+  "customer_other_name": "Buying Time, LLC",
+  "customer_other_address": "",
+  "amount_total_gross": "$516.00",
+  "amount_due": ""
+}

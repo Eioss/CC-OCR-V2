@@ -1,0 +1,5 @@
+In the **CURRENT MONTH** column of the report, the total values shown are:
+
+* **`*** ACCOUNT TOTAL ***`**: **0.00**
+* **`110 TOTAL`**: **2,029.57**
+* **`130 TOTAL`**: **2,029.57-** (negative 2,029.57)

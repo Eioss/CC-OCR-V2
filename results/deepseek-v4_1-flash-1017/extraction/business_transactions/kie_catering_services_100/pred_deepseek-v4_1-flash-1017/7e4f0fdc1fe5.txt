@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "name": "Kroket",
+      "quantity": "1x",
+      "price": "12.000"
+    },
+    {
+      "name": "Arem Arem",
+      "quantity": "2x",
+      "price": "24.000"
+    }
+  ],
+  "sub_total": "Rp 36.000",
+  "total": "Rp 39.600"
+}
+```

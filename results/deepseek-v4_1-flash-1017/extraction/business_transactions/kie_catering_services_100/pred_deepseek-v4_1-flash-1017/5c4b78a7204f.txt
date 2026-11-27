@@ -1,0 +1,23 @@
+```json
+{
+  "menu": [
+    {
+      "name": "BLACK PEPPER MEATBALL PAS",
+      "quantity": "1",
+      "price": "79,000"
+    },
+    {
+      "name": "TRUFFLE CREAM",
+      "quantity": "1",
+      "price": "77,000"
+    },
+    {
+      "name": "EARL GREY MILK TEA",
+      "quantity": "1",
+      "price": "59,000"
+    }
+  ],
+  "sub_total": "215,000",
+  "total": "250,690"
+}
+```

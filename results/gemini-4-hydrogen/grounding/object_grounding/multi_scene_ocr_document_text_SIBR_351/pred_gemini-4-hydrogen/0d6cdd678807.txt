@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [107, 148, 120, 369], "label": "地址"},
+  {"bbox_2d": [141, 142, 155, 241], "label": "人名"},
+  {"bbox_2d": [168, 300, 178, 342], "label": "Confirmation确认号"},
+  {"bbox_2d": [185, 299, 196, 348], "label": "A/R Number 应收号码"},
+  {"bbox_2d": [217, 293, 226, 378], "label": "Company Name 公司"},
+  {"bbox_2d": [113, 811, 122, 836], "label": "Room No.房号"},
+  {"bbox_2d": [131, 809, 142, 922], "label": "Arrival 入住日期"},
+  {"bbox_2d": [148, 809, 159, 923], "label": "Departure 退房日期"},
+  {"bbox_2d": [167, 811, 176, 840], "label": "Page No.页码"},
+  {"bbox_2d": [185, 808, 195, 852], "label": "Folio No. 账单号码"},
+  {"bbox_2d": [205, 808, 217, 926], "label": "Date 日期"},
+  {"bbox_2d": [221, 808, 232, 839], "label": "Cashier No. 出纳员"},
+  {"bbox_2d": [238, 809, 249, 860], "label": "User ID"},
+  {"bbox_2d": [250, 653, 263, 794], "label": "标题"},
+  {"bbox_2d": [306, 112, 316, 160], "label": "Date 日期"},
+  {"bbox_2d": [325, 111, 335, 159], "label": "Date 日期"},
+  {"bbox_2d": [345, 110, 354, 158], "label": "Date 日期"},
+  {"bbox_2d": [309, 200, 322, 276], "label": "Description 项目"},
+  {"bbox_2d": [328, 199, 341, 275], "label": "Description 项目"},
+  {"bbox_2d": [348, 199, 360, 261], "label": "Description 项目"},
+  {"bbox_2d": [331, 810, 340, 848], "label": "Charges 消费 CNY"},
+  {"bbox_2d": [349, 809, 359, 847], "label": "Charges 消费 CNY"},
+  {"bbox_2d": [373, 904, 384, 952], "label": "Credits 付款 CNY"},
+  {"bbox_2d": [429, 812, 439, 875], "label": "Balance 余额"},
+  {"bbox_2d": [915, 384, 926, 477], "label": "Tel 电话"},
+  {"bbox_2d": [921, 545, 932, 640], "label": "Fax 传真"},
+  {"bbox_2d": [918, 799, 928, 838], "label": "邮政编码"}
+]
+```

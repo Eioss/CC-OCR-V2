@@ -1,0 +1,22 @@
+[
+  {"bbox_2d":[297,39,440,58],"label":"Title"},
+  {"bbox_2d":[120,81,290,94],"label":"Supplier"},
+  {"bbox_2d":[119,101,347,117],"label":"Buyer"},
+  {"bbox_2d":[616,103,690,117],"label":"Contract No"},
+  {"bbox_2d":[616,123,715,136],"label":"Date"},
+  {"bbox_2d":[58,314,250,328],"label":"Name"},
+  {"bbox_2d":[296,314,347,328],"label":"Manufactory Code"},
+  {"bbox_2d":[377,314,455,328],"label":"Commodity"},
+  {"bbox_2d":[483,314,506,328],"label":"Quantity"},
+  {"bbox_2d":[547,314,592,328],"label":"Unit Price (RMB)"},
+  {"bbox_2d":[617,314,682,328],"label":"Total price (RMB)"},
+  {"bbox_2d":[483,343,506,356],"label":"Quantity"},
+  {"bbox_2d":[617,343,682,356],"label":"Total price (RMB)"},
+  {"bbox_2d":[38,389,110,402],"label":"Shipment time"},
+  {"bbox_2d":[460,389,700,403],"label":"Inspection standard"},
+  {"bbox_2d":[38,435,144,450],"label":"Loading port"},
+  {"bbox_2d":[460,435,591,450],"label":"Destination port"},
+  {"bbox_2d":[38,478,264,493],"label":"Terms of payment"},
+  {"bbox_2d":[460,478,540,493],"label":"Price term"},
+  {"bbox_2d":[38,531,711,725],"label":"Remark"}
+]

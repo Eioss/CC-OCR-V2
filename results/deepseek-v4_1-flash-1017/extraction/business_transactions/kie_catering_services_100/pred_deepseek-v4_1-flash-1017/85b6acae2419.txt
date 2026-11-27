@@ -1,0 +1,38 @@
+```json
+{
+  "menu": [
+    {
+      "name": "TALAM UNGU",
+      "quantity": "1X",
+      "price": "6 500"
+    },
+    {
+      "name": "AREN - AREN",
+      "quantity": "1X",
+      "price": "8 000"
+    },
+    {
+      "name": "LEMPER",
+      "quantity": "2X",
+      "price": "18 000"
+    },
+    {
+      "name": "MIKA SEDANG",
+      "quantity": "1X",
+      "price": "0"
+    },
+    {
+      "name": "PLASTIK KECIL",
+      "quantity": "1X",
+      "price": "0"
+    },
+    {
+      "name": "TEH KOTAK",
+      "quantity": "1X",
+      "price": "5 000"
+    }
+  ],
+  "sub_total": "24,500",
+  "total": "24,500"
+}
+```

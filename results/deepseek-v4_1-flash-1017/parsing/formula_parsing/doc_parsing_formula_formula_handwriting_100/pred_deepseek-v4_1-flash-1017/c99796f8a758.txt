@@ -1,0 +1,28 @@
+The image has been rotated 90 degrees counterclockwise.Extracted text:
+$$
+\mathbb{E}\left[\sum_{j=1}^{N} \mathbb{E}_{j-1} x_{ij}\right]^p = O\left(\frac{|z|^{2p}}{\delta_2^{2p}}\right) + O\left(\frac{|z|^{2p}}{\delta_2^{2p}}\right) \leq \Phi_1(|z|) \Psi_1(\delta_2^{-1}).
+$$
+
+$$
+\nu^2 \cdot \xi_i = \frac{1}{2}(\alpha_i^\nu + 3(\alpha_{i+1}^\nu + \dots + \alpha_i^\nu)),
+$$
+
+$$
+J(u) := \|Tu - g\|_2^2 + 2\alpha |D(u)|(\Omega),
+$$
+
+$$
+r_i := \inf_{v} \left\{ (1-p) |v|^p + \frac{(v-\eta)\{H + (v-\eta)p q - 1\} - \xi_i[(H + (v-\eta)p q - 1) - \eta]^{\frac{1}{\nu-1}}}{(v-p)(1-\eta)} \right\} \quad (\nu \geq 2).
+$$
+
+$$
+\sum_{j=0}^{N-1} (H_{ij} - u S_{ij}) c_j = 0, \quad i = 0, 1, \dots, N-1
+$$
+
+$$
+H_{ij} = \int_{-\infty}^{\infty} f_i(q) \hat{f}_j(q) dq, \quad S_{ij} = \int_{-\infty}^{\infty} f_i(q) f_j(q) dq
+$$
+
+$$
+\mathbb{E} \phi(f(G_a) - f(G_b)) \leq \mathbb{E} \Phi\left(\frac{\pi}{2} \|a - b\|_2 < \nabla f(X), Y>\right),
+$$

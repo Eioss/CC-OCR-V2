@@ -1,0 +1,151 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{flushright}
+Tnkalvi.Net
+\end{flushright}
+
+\begin{center}
+\textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019}
+
+\medskip
+\textbf{Standard - 11}
+
+\medskip
+\textbf{PART - III - MATHEMATICS}
+\end{center}
+
+\begin{flushright}
+Reg. No.
+\fbox{\phantom{1}}\fbox{\phantom{1}}\fbox{1}\fbox{1}\fbox{1}\fbox{4}
+\end{flushright}
+
+\noindent
+Time Allowed: 2.30 Hours
+\hfill
+Maximum Marks: 90
+
+\medskip
+\noindent
+\textbf{Instructions:}
+\begin{enumerate}
+    \item \textbf{Check the question paper for fairness of printing. If there is any
+    lack of fairness, inform the Hall Supervisor immediately.}
+    \item \textbf{Use Blue or Black ink to write and underline and pencil to draw
+    diagrams.}
+\end{enumerate}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\begin{flushright}
+\textbf{$20 \times 1 = 20$}
+\end{flushright}
+
+\noindent
+\textbf{Note:}
+\begin{tabular}[t]{@{}l@{\ }p{0.83\textwidth}}
+i) & \textbf{Answer all the questions.}\\
+ii) & \textbf{Choose the most appropriate answer from the given four alternatives
+and write the option code and the corresponding answer.}
+\end{tabular}
+
+\begin{enumerate}
+    \item The range of the function $\displaystyle \frac{1}{1-2\sin x}$ is
+    \[
+    \begin{array}{ll}
+    \text{a) }(-\infty,-1)\cup\left(\frac{1}{3},\infty\right)
+    &
+    \text{b) }\left(-1,\frac{1}{3}\right)
+    \\[12pt]
+    \text{c) }\left[-1,\frac{1}{3}\right]
+    &
+    \text{d) }(-\infty,-1]\cup\left[\frac{1}{3},\infty\right)
+    \end{array}
+    \]
+
+    \item The function $f:[0,2\pi]\to\{-1,1\}$ defined by
+    $f(x)=\sin x$ is
+    \[
+    \begin{array}{llll}
+    \text{a) one-to-one} &
+    \text{b) onto} &
+    \text{c) bijection} &
+    \text{d) cannot be defined}
+    \end{array}
+    \]
+
+    \item The solution set of the following inequality
+    $|x-1|\geq |x-3|$ is
+    \[
+    \begin{array}{llll}
+    \text{a) }[0,2] &
+    \text{b) }[2,\infty) &
+    \text{c) }(0,2) &
+    \text{d) }(-\infty,2)
+    \end{array}
+    \]
+
+    \item If 3 is the logarithm of 343, then the base is
+    \[
+    \begin{array}{llll}
+    \text{a) }5 & \text{b) }7 & \text{c) }6 & \text{d) }9
+    \end{array}
+    \]
+
+    \item In a $\triangle ABC$, $\displaystyle \tan\left(\frac{A}{2}\right)=$
+    \[
+    \begin{array}{ll}
+    \text{a) }\displaystyle\sqrt{\frac{(s-b)(s-c)}{bc}}
+    &
+    \text{b) }\displaystyle\sqrt{\frac{s(s-a)}{bc}}
+    \\[16pt]
+    \text{c) }\displaystyle\sqrt{\frac{(s-b)(s-c)}{s(s-a)}}
+    &
+    \text{d) }\displaystyle\sqrt{s(s-a)(s-b)(s-c)}
+    \end{array}
+    \]
+
+    \item There are 10 points in a plane and 4 of them are collinear.
+    The number of straight lines joining any two points is
+    \[
+    \begin{array}{llll}
+    \text{a) }45 & \text{b) }40 & \text{c) }39 & \text{d) }38
+    \end{array}
+    \]
+
+    \item The $n^{\text{th}}$ term of the sequence
+    $1,2,4,7,11,\ldots$ is
+    \[
+    \begin{array}{llll}
+    \text{a) }n^3+3n^2+2n &
+    \text{b) }n^3-3n^2+3n &
+    \text{c) }\displaystyle\frac{n(n+1)(n+2)}{3} &
+    \text{d) }\displaystyle\frac{n^2-n+2}{2}
+    \end{array}
+    \]
+
+    \item The slopes of the lines which makes an angle $45^\circ$
+    with the line $3x-y=-5$ are
+    \[
+    \begin{array}{llll}
+    \text{a) }1,-1 &
+    \text{b) }\displaystyle\frac{1}{2},-2 &
+    \text{c) }\displaystyle 1,\frac{1}{2} &
+    \text{d) }\displaystyle 2,-\frac{1}{2}
+    \end{array}
+    \]
+\end{enumerate}
+
+\vfill
+\begin{center}
+Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com
+\end{center}
+
+\end{document}
+```

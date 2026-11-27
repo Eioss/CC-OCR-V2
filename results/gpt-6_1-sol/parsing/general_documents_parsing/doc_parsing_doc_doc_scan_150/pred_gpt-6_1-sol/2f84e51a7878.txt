@@ -1,0 +1,182 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=1.8cm]{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{pgfplots}
+\usepackage{xcolor}
+\pgfplotsset{compat=1.18}
+\definecolor{orientred}{RGB}{160,20,25}
+\definecolor{domesticpink}{RGB}{222,151,151}
+\definecolor{overseasred}{RGB}{192,0,0}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{minipage}{0.30\textwidth}
+{\LARGE\bfseries 东方证券}\\
+{\large\bfseries ORIENT SECURITIES}
+\end{minipage}
+\hfill
+\begin{minipage}{0.66\textwidth}
+\raggedleft
+{\color{gray}石头科技首次报告——专注研发的扫地机器人新贵，产品端全球竞争力逐步展现}
+\end{minipage}
+
+\hrule
+\vspace{1.5cm}
+
+\begin{minipage}[t]{0.48\textwidth}
+{\color{orientred}
+\hrule
+\vspace{0.2cm}
+\textbf{图45：以美国市场为例，公司扫地机器人产品可比型号美国亚马逊零售价较国内市场售价高出15\%以上}
+}
+
+\vspace{0.5cm}
+
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{中国型号}
+&
+\begin{tabular}{c}\textbf{中国售价}\\\textbf{（元/台）}\end{tabular}
+&
+\textbf{美国可比型号}
+&
+\begin{tabular}{c}\textbf{美国售价}\\\textbf{（美元/台）}\end{tabular}
+&
+\begin{tabular}{c}\textbf{美国售价}\\\textbf{（元/台）}\end{tabular}
+\\ \hline
+P5    & 2,499 & S6 Pure & 519.99 & 3,341 \\ \hline
+T6    & 2,799 & S6      & 599.99 & 3,855 \\ \hline
+T7Pro & 3,899 & S6 MaxV & 699.99 & 4,497 \\ \hline
+T7S   & 2,499 & S7      & 649.99 & 4,176 \\ \hline
+\end{tabular}
+
+\vspace{0.4cm}
+\raggedright
+{\small\color{gray}
+注：此处中国市场售价为参考天猫旗舰店到手价格；美国市场售价为参考亚马逊prime会员价格；汇率采用2021/5/19数据计算
+
+\vspace{0.3cm}
+资料来源：iRobot，东方证券研究所
+}
+\vspace{0.15cm}
+{\color{orientred}\hrule}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+{\color{orientred}
+\hrule
+\vspace{0.2cm}
+\textbf{图46：公司境外业务毛利率整体高于境内业务毛利率}
+}
+
+\vspace{0.35cm}
+
+\begin{tikzpicture}
+\begin{axis}[
+    width=\linewidth,
+    height=6cm,
+    ybar,
+    bar width=30pt,
+    ymin=0,
+    ymax=70,
+    ytick={0,10,20,30,40,50,60,70},
+    yticklabels={0\%,10\%,20\%,30\%,40\%,50\%,60\%,70\%},
+    symbolic x coords={2019,2020},
+    xtick=data,
+    enlarge x limits=0.45,
+    axis lines*=left,
+    tick align=outside,
+    ylabel={毛利率},
+    ylabel style={rotate=-90,at={(axis description cs:0,1.1)},anchor=west},
+    legend style={
+        at={(0.5,1.18)},
+        anchor=north,
+        legend columns=2,
+        draw=none
+    },
+    nodes near coords={\pgfmathprintnumber{\pgfplotspointmeta}\%},
+    every node near coord/.append style={font=\small},
+    point meta=y
+]
+\addplot[fill=domesticpink,draw=domesticpink]
+coordinates {(2019,33) (2020,46)};
+\addplot[fill=overseasred,draw=overseasred]
+coordinates {(2019,55) (2020,58)};
+\legend{境内,境外}
+\end{axis}
+\end{tikzpicture}
+
+\vspace{0.2cm}
+{\small\color{gray}资料来源：公司公告，东方证券研究所}
+\vspace{0.15cm}
+{\color{orientred}\hrule}
+\end{minipage}
+
+\vspace{1cm}
+
+{\Huge\bfseries\color{gray}盈利预测与投资建议}
+
+\vspace{0.5cm}
+
+{\LARGE\bfseries\color{gray}盈利预测}
+
+\vspace{0.3cm}
+
+我们对公司2021-2023年盈利预测做如下假设：
+
+\begin{enumerate}
+\renewcommand{\labelenumi}{\arabic{enumi})}
+
+\item
+伴随米家ODM占比逐步下降，未来公司收入的大幅增长主要来自于自主品牌扫地机器人内外销共同驱动：
+①自主品牌内销：国内扫地机器人渗透率提升驱动行业规模增长，公司有望依托产品优势实现市占率稳步提升，假设2021-2023年公司自主品牌内销收入同比增速将分别达60.13\%、42.15\%、32.75\%；
+②自主品牌外销：受益于亚马逊、海外自建渠道逐步完善，假设2021-2023年公司自主品牌海外自建渠道收入（即直接境外收入）同比增速将分别达54.11\%、46.30\%、41.46\%；假设国内线下经销商收入（即间接境外收入）同比增速将分别达15.00\%、10.00\%、10.00\%。
+③米家ODM：假设2021-2023年米家品牌扫地机器人收入将分别下降50.00\%、20.00\%、10.00\%。
+
+\item
+伴随技术创新推动产品价格中枢上行，以及公司收入结构中自有品牌占比快速提升，预计2021-2023年公司毛利率将分别达52.59\%、53.03\%、53.34\%。
+
+\item
+公司国内、海外市场自主品牌广告投入力度将稳步提升，假设2021-2023年销售费用率分别为14.47\%、14.63\%、14.63\%；管理费用率均为1.84\%；研发费用率2021-2023年为6.20\%、6.50\%、6.70\%。
+
+\item
+公司2021-2023年的所得税率维持15.00\%
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\colorbox{gray!40}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{\textbf{盈利预测核心假设}}%
+}
+
+\begin{tabularx}{\textwidth}{@{}Xrrrrr@{}}
+& \textbf{2019A} & \textbf{2020A} & \textbf{2021E} & \textbf{2022E} & \textbf{2023E} \\
+\midrule
+\multicolumn{6}{@{}l}{\textbf{智能扫地机器人-米家}} \\
+销售收入（百万元） & 1,194.6 & 308.6 & 154.3 & 123.4 & 111.1 \\
+\textit{增长率} & \textit{-17.0\%} & \textit{-74.2\%} & \textit{-50.0\%} & \textit{-20.0\%} & \textit{-10.0\%} \\
+毛利率 & 15.0\% & 15.0\% & 15.0\% & 15.0\% & 15.0\% \\
+\multicolumn{6}{@{}l}{\textbf{智能扫地机器人-石头}} \\
+\end{tabularx}
+
+\vfill
+\hrule
+\vspace{0.15cm}
+
+{\small\bfseries
+有关分析师的申明，见本报告最后部分。其他重要信息披露见分析师申明之后部分，或请与您的投资代表联系。并请阅读本证券研究报告最后一页的免责声明。
+}
+
+\vspace{0.3cm}
+\begin{center}
+24
+\end{center}
+
+\end{document}
+```

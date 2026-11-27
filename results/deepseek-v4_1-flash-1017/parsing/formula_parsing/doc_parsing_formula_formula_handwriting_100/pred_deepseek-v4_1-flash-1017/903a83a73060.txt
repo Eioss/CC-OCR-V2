@@ -1,0 +1,15 @@
+```latex
+\lambda^2 = \lambda_n^2 = \left(\frac{\pi n}{l}\right)^2, \quad n \in \mathbb{N}
+
+V_t = \sum_{\text{even } n} \int_{\Omega_n} |u_n| \left( \xi F_n \nabla \eta_n \cdot \nabla \eta_n z_n - p^{l-n} u_n \right) + d \left\{ F_n \nabla \eta_n z_n H_{n, \text{odd}} \right\} ds_n
+
+= \sum_{\text{even } n} \sum_{p \in \mathbb{Z}} \int_{\Omega_n} z_p^+ |u_n| \left\{ F_n \nabla \eta_n \cdot \nabla \eta_n \psi_n (\delta_{\epsilon, n} - p^{l-n}) + z_p^+ |u_n| d \cdot \left\{ F_n \nabla \eta_n \cdot \nabla \eta_n H_{n, \text{odd}} \right\} ds_n \right.
+
+\Delta p_n = \left[ (u_x)^2 + (u_y)^2 \right]^{\frac{3}{2}} \Delta u_n + \left[ (u_x)^2 + (u_y)^2 \right]^{\frac{1}{2}} \left[ (u_x)^2 u_{xx} + 2 u_x u_y u_{xy} + (u_y)^2 u_{yy} \right] = 0
+
+\# (0) = |\{ x | B(x) = 0 \text{ and } \phi(x) = 0 \}|,
+
+\| R_{\gamma, A, u} \|_{L^p_{t, x} L^q_{t, x}(\Omega)} \le C \| u \|_{L^p_{t, x} L^q_{t, x}(\Omega)} + \delta \quad \forall t \ge T_0,
+
+H = \frac{X_i' X_i'' - X_i' X_i'}{2 \sqrt{1 + (\delta')^2}} n_i,
+```

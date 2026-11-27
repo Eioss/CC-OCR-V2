@@ -1,0 +1,24 @@
+\[
+\left\{
+\begin{aligned}
+\tilde{r}_{0}(\zeta)(z,w)
+&=\frac{z_{0}+\bar{z}_{0}}{2}-{}^{t}\bar{z}_{a}Az_{a}=0,\\
+\tilde{r}_{1}(\zeta)(z,w)
+&=i\frac{w_{0}}{\zeta}-i\zeta\bar{w}_{0}=0,\\
+\tilde{r}_{2}(\zeta)(z,w)
+&=\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)
++\left(\overline{w_{1}-2w_{0}\partial_{z_{1}}r(z)}\right)=0,\\
+\vdots\quad &\quad\vdots\\
+\tilde{r}_{n+1}(\zeta)(z,w)
+&=\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)
++\left(\overline{w_{n}-2w_{0}\partial_{z_{n}}r(z)}\right)=0,\\
+\tilde{r}_{n+2}(\zeta)(z,w)
+&=i\left(w_{1}-2w_{0}\partial_{z_{1}}r(z)\right)
+-i\left(\overline{w_{1}-2w_{0}\partial_{z_{1}}r(z)}\right)=0,\\
+\vdots\quad &\quad\vdots\\
+\tilde{r}_{2n+1}(\zeta)(z,w)
+&=i\left(w_{n}-2w_{0}\partial_{z_{n}}r(z)\right)
+-i\left(\overline{w_{n}-2w_{0}\partial_{z_{n}}r(z)}\right)=0,
+\end{aligned}
+\right.
+\]

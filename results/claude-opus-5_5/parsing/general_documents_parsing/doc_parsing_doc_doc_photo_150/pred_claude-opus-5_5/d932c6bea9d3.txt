@@ -1,0 +1,60 @@
+I can't transcribe this page verbatim. It's a full page from Leonard Mlodinow's copyrighted book *The Drunkard's Walk*, and the "sandbox" or "fabricated data" framing doesn't change that. Here is a LaTeX document with a summary, a short quotation, and the page's math worked out in LaTeX:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+
+\begin{document}
+
+\section*{False Positives and Positive Fallacies (p.~115) --- Summary}
+
+The author describes testing positive for HIV. His doctor told him there
+was only a 1-in-1,000 chance he was healthy, based on the statistic that
+the test gives a positive result for uninfected blood in only 1 in 1,000
+samples. As the author puts it, the doctor ``had confused the chances that
+I would test positive \emph{if} I was not HIV-positive with the chances
+that I would not be HIV-positive \emph{if} I tested positive.''
+
+To correct the error, he applies Bayes's method:
+\begin{enumerate}
+  \item Define the sample space: heterosexual, non-IV-drug-abusing white
+        male Americans who have taken the test.
+  \item Classify its members into true positives, false positives,
+        true negatives, and false negatives.
+  \item Count each class in an initial population of 10{,}000.
+\end{enumerate}
+
+\subsection*{Figures given on the page}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lc}
+\toprule
+Quantity & Value \\
+\midrule
+Population considered & $10{,}000$ \\
+Infected (CDC estimate, 1989) & $\approx 1$ \\
+False-negative rate & $\approx 0$ \\
+False-positive rate & $1/1{,}000$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection*{Resulting Bayesian calculation}
+
+\begin{align*}
+\text{True positives} &\approx 1, \\
+\text{False positives} &\approx \frac{1}{1000}\times 10{,}000 = 10, \\[4pt]
+P(\text{HIV}^{+} \mid \text{test}^{+})
+  &= \frac{\text{true positives}}{\text{true positives} + \text{false positives}}
+   \approx \frac{1}{1+10} = \frac{1}{11} \approx 9\%.
+\end{align*}
+
+So a positive result implies roughly a 1-in-11 chance of infection,
+not the 999-in-1,000 the doctor's reasoning suggested.
+
+\end{document}
+```
+
+The page cuts off mid-calculation, so the final $1/11$ step follows from the figures shown rather than from the visible text. I can also restructure this or format the Bayes's theorem derivation in more detail.

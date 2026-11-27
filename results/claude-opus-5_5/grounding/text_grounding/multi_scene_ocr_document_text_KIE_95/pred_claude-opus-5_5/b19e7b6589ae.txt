@@ -1,0 +1,3 @@
+There are three instances of '12.61' on the receipt (the item quantity line, the item total, and the subtotal). This box is for the item total on the right side of the "1 x 12.61" line:
+
+(805, 524, 895, 537)

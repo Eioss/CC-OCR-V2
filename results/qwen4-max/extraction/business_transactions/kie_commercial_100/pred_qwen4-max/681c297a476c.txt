@@ -1,0 +1,12 @@
+```json
+{
+    "date_issue": "02/12/20",
+    "vendor_name": "WTVX",
+    "vendor_address": "1100 Fairfield Dr West Palm Beach, FL 33407",
+    "customer_billing_name": "Assembly",
+    "customer_billing_address": "711 Third Ave 3rd Floor New York, NY 10017",
+    "amount_total_gross": "$175.00",
+    "amount_paid": "",
+    "amount_due": ""
+}
+```

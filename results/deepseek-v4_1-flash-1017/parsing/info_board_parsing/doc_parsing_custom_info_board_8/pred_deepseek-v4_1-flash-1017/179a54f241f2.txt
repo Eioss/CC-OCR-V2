@@ -1,0 +1,94 @@
+<div style="text-align: center;"><img src="imgs/img_in_image_box_178_140_260_212.jpg" alt="Image" width="6%" /></div>
+
+公示编号/发布日期
+
+**发放批次表 / 场馆预约表**
+
+单位：岚原省云栖市极光云栖城市运营有限公司
+负责人：蒋若溪
+联系电话：15007684690
+位置/地址：澄岳省北屿市西岭区青岚街226号 13栋
+
+文档编号 RB-403913
+日期 2025-10-06
+
+<table>
+  <tr>
+    <td colspan="7" style="text-align: center; background-color: #4a72b8; color: white;">环境监测公示</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center;">环境监测</td>
+    <td colspan="4" style="text-align: center;">监测数据/阈值判定</td>
+  </tr>
+  <tr>
+    <td rowspan="4" style="text-align: center;">点位监测</td>
+    <td style="text-align: center;">点位</td>
+    <td style="text-align: center;">采样时</td>
+    <td style="text-align: center;">指标</td>
+    <td style="text-align: center;">数值</td>
+    <td style="text-align: center;">阈值</td>
+    <td style="text-align: center;">超标</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">河道边</td>
+    <td style="text-align: center;">16:10</td>
+    <td style="text-align: center;">TVOC</td>
+    <td style="text-align: center;">24</td>
+    <td style="text-align: center;">1.5</td>
+    <td style="text-align: center;">否</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">机房侧</td>
+    <td style="text-align: center;">08:30</td>
+    <td style="text-align: center;">浊度</td>
+    <td style="text-align: center;">24</td>
+    <td style="text-align: center;">1.5</td>
+    <td style="text-align: center;">否</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">大厅角</td>
+    <td style="text-align: center;">14:20</td>
+    <td style="text-align: center;">甲醛</td>
+    <td style="text-align: center;">0.03</td>
+    <td style="text-align: center;">0.08</td>
+    <td style="text-align: center;">否</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: center; background-color: #4a72b8; color: white;">处置与复测</td>
+  </tr>
+  <tr>
+    <td rowspan="4" style="text-align: center;">处置闭环</td>
+    <td style="text-align: center;">处置</td>
+    <td style="text-align: center;">责任</td>
+    <td style="text-align: center;">时限</td>
+    <td style="text-align: center;">复测</td>
+    <td style="text-align: center;">结果</td>
+    <td style="text-align: center;">备注</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">更换滤芯(QC)</td>
+    <td style="text-align: center;">运维组</td>
+    <td style="text-align: center;">当日</td>
+    <td style="text-align: center;">√</td>
+    <td style="text-align: center;">通过</td>
+    <td style="text-align: center;">留痕</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">冲洗管线</td>
+    <td style="text-align: center;">物业</td>
+    <td style="text-align: center;">当日</td>
+    <td style="text-align: center;">√</td>
+    <td style="text-align: center;">待复测</td>
+    <td style="text-align: center;">留痕</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">设备调试</td>
+    <td style="text-align: center;">厂商ID</td>
+    <td style="text-align: center;">48h</td>
+    <td style="text-align: center;">×</td>
+    <td style="text-align: center;">待定</td>
+    <td style="text-align: center;">需ETA</td>
+  </tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_780_830_850_910.jpg" alt="Image" width="6%" /></div>

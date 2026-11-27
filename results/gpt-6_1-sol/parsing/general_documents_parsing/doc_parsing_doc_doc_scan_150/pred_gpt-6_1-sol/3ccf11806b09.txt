@@ -1,0 +1,251 @@
+```latex
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=18mm]{geometry}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usetikzlibrary{arrows.meta}
+
+\definecolor{awinicblue}{RGB}{0,112,192}
+\definecolor{awinicmint}{RGB}{133,211,200}
+\definecolor{circuitred}{RGB}{180,20,25}
+
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{12mm}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[L]{www.awinic.com.cn}
+\fancyfoot[C]{1}
+\fancyfoot[R]{\small Copyright \copyright\ 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\newcommand{\sectiontitle}[1]{%
+  \par\medskip
+  {\Large\bfseries\color{awinicblue}#1}
+  \par\medskip
+}
+
+\begin{document}
+
+\begin{tikzpicture}[remember picture,overlay]
+  \node[
+    rotate=45,
+    text=red,
+    opacity=0.14,
+    font=\fontsize{65}{70}\selectfont
+  ] at (current page.center) {awinic Confidential};
+\end{tikzpicture}
+
+\begin{minipage}[c]{0.24\textwidth}
+  {\fontsize{36}{40}\selectfont\color{awinicmint}awinic}
+\end{minipage}
+\begin{minipage}[c]{0.49\textwidth}
+  {\large\bfseries\color{awinicmint}上海艾为电子技术股份有限公司}\\
+  {\small\color{awinicmint}shanghai awinic technology co. ltd.}
+\end{minipage}
+\begin{minipage}[c]{0.25\textwidth}
+  \raggedleft
+  {\Large\bfseries AW36526}\\
+  July 2019 V1.3
+\end{minipage}
+
+\medskip
+\hrule
+\bigskip
+
+\begin{center}
+  {\Large\bfseries
+  Inductorless, Triple Channel Flash \& Indicator 2in1 LED Driver}
+\end{center}
+
+\begin{multicols}{2}
+
+\sectiontitle{FEATURES}
+
+\begin{itemize}[leftmargin=1.3em,itemsep=5pt]
+  \item Flash and Indicator 2in1 application
+
+  \item Dual Independent 1.0A LED1/LED2 Current Source
+  \begin{itemize}[label=$\triangleright$,leftmargin=1.5em,itemsep=4pt]
+    \item Flash: \(3.91\mathrm{mA}\sim1.0\mathrm{A}\), 256 levels\\
+          3.91mA/level
+    \item Torch: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+          1.46mA/level
+    \item Indicator: \(0.37\mathrm{mA}\sim375\mathrm{mA}\), 1024 levels\\
+          0.37mA/level
+    \item Flash Timeout: \(40\mathrm{ms}\sim1.6\mathrm{s}\), 16 levels
+  \end{itemize}
+
+  \item Independent 375 mA LED3 Current Sink
+  \begin{itemize}[label=$\triangleright$,leftmargin=1.5em,itemsep=4pt]
+    \item Flash: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+          1.46mA/level
+    \item Torch: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+          1.46mA/level
+    \item Indicator: \(0.73\mathrm{mA}\sim375\mathrm{mA}\), 512 levels\\
+          0.73mA/level
+    \item Flash Timeout: \(40\mathrm{ms}\sim1.6\mathrm{s}\), 16 levels
+  \end{itemize}
+
+  \item Optimized Flash LED Current During Low Battery Conditions (IVFM)
+  \item Hardware Strobe Enable (STROBE)
+  \item 400kHz \(\mathrm{I}^{2}\mathrm{C}\): AW36526
+        (\(\mathrm{I}^{2}\mathrm{C}\) Address=0x63)
+  \item 0.4mm Pitch, FCQFN-10L Package
+\end{itemize}
+
+\sectiontitle{APPLICATION}
+
+Smartphone Camera Flash
+
+\columnbreak
+
+\sectiontitle{GENERAL DESCRIPTION}
+
+The AW36526 is a inductorless triple channel flash \& Indicator 2in1
+LED driver that provides a high level of adjustability within a ultra-small
+solution size. The AW36526 includes two current sources and a current sink
+which is controlled independently by \(\mathrm{I}^{2}\mathrm{C}\)-compatible
+interface. The AW36526 provides IVFM protection mode to prevent system
+reset or shutdown under low battery condition.
+
+\bigskip
+
+The AW36526 is controlled via an \(\mathrm{I}^{2}\mathrm{C}\)-compatible
+interface. The main features of the AW36526 include: flash / torch / IR /
+Indicator current, flash timeout duration, IVFM and breath features. The
+AW36526 also provides hardware flash pin (STROBE) to control flash event.
+
+\bigskip
+
+The device operates over a \(-40^{\circ}\mathrm{C}\) to
+\(+85^{\circ}\mathrm{C}\) ambient temperature range.
+
+\bigskip
+
+The AW36526 is available in small 0.4mm pitch
+\(1.6\mathrm{mm}\times1.2\mathrm{mm}\) FCQFN-10L package.
+
+\end{multicols}
+
+\sectiontitle{TYPICAL APPLICATION CIRCUIT}
+
+\begin{center}
+\begin{circuitikz}[x=1cm,y=1cm,font=\small]
+
+  % Driver package.
+  \draw (3,0.6) rectangle (6,5.1);
+  \node[text=awinicmint,font=\LARGE] at (4.5,4.25) {awinic};
+  \node[font=\large\bfseries] at (4.5,3.55) {AW36526FCR};
+
+  \node[anchor=north] at (4.35,5.04) {IN};
+  \node[anchor=south] at (4.35,0.66) {GND};
+
+  \node[anchor=west] at (3.05,2.2) {STROBE};
+  \node[anchor=west] at (3.05,1.6) {SDA};
+  \node[anchor=west] at (3.05,1.2) {SCL};
+
+  \node[anchor=east] at (5.95,3.0) {LED3};
+  \node[anchor=east] at (5.95,2.2) {LED2};
+  \node[anchor=east] at (5.95,1.4) {LED1};
+
+  % Package pin identifiers.
+  \node[font=\tiny,anchor=south east] at (4.35,5.1) {A2};
+  \node[font=\tiny,anchor=north east] at (4.35,0.6) {A1};
+  \node[font=\tiny,anchor=south east,rotate=90] at (3,2.2) {C3};
+  \node[font=\tiny,anchor=south east,rotate=90] at (3,1.6) {A3};
+  \node[font=\tiny,anchor=south east,rotate=90] at (3,1.2) {B3};
+  \node[font=\tiny,anchor=south west] at (6,3.0) {C1,C2};
+  \node[font=\tiny,anchor=south west] at (6,2.2) {D1};
+  \node[font=\tiny,anchor=south west] at (6,1.4) {D3};
+
+  % Input supply and bypass capacitor.
+  \draw[color=circuitred,very thick]
+    (0.45,5.6) node[ocirc] {} -- (7.2,5.6);
+  \node[anchor=east] at (0.15,5.6) {VIN};
+
+  \draw[color=circuitred,very thick]
+    (4.35,5.6) node[circ] {} -- (4.35,5.1);
+
+  \draw (2.05,5.6) to[C] (2.05,4.5) node[ground] {};
+  \node[circ,color=circuitred] at (2.05,5.6) {};
+  \node[anchor=east,align=left] at (1.82,5.03)
+    {\(C_{\mathrm{IN}}\)\\10\(\mu\)F\\10V};
+
+  % Third LED: supply-connected anode and current-sink cathode.
+  \draw[color=circuitred,very thick]
+    (7.2,5.6) -- (7.2,4.55);
+  \draw (7.2,4.55) to[led] (7.2,3.75);
+  \node[anchor=west] at (7.4,4.6) {D3};
+  \draw[color=circuitred,very thick]
+    (7.2,3.75) -- (7.2,3.0) -- (6,3.0);
+
+  % First and second LEDs: current-source outputs.
+  \draw[color=circuitred,very thick]
+    (6,1.4) -- (7.2,1.4) -- (7.2,1.0);
+  \draw (7.2,1.0) to[led] (7.2,0.25);
+  \node[anchor=west] at (7.4,1.02) {D1};
+  \draw[color=circuitred,very thick]
+    (7.2,0.25) -- (7.2,0.05);
+  \draw (7.2,0.05) node[ground] {};
+
+  \draw[color=circuitred,very thick]
+    (6,2.2) -- (8.4,2.2) -- (8.4,1.0);
+  \draw (8.4,1.0) to[led] (8.4,0.25);
+  \node[anchor=west] at (8.6,1.02) {D2};
+  \draw[color=circuitred,very thick]
+    (8.4,0.25) -- (8.4,0.05);
+  \draw (8.4,0.05) node[ground] {};
+
+  \draw[color=circuitred,very thick]
+    (4.35,0.6) -- (4.35,0.05);
+  \draw (4.35,0.05) node[ground] {};
+
+  % MCU.
+  \draw (-0.2,0.6) rectangle (1.0,2.8);
+  \node[font=\large] at (0.4,1.7) {MCU};
+
+  % Logic supply and pull-up resistors.
+  \draw (1.0,3.85) -- (2.55,3.85);
+  \node[anchor=east] at (0.95,3.85) {VIO};
+  \node[anchor=south] at (1.9,3.95) {\(1.8v\sim3.3v\)};
+
+  \draw (1.7,3.85) node[circ] {}
+    -- (1.7,3.35) to[R] (1.7,2.65) -- (1.7,1.2);
+  \node[anchor=east,align=center] at (1.6,3.16)
+    {4.7k\(\Omega\)\\R1};
+
+  \draw (2.55,3.85)
+    -- (2.55,3.35) to[R] (2.55,2.65) -- (2.55,1.6);
+  \node[anchor=east,align=center] at (2.45,3.16)
+    {4.7k\(\Omega\)\\R2};
+
+  % Control and serial interface connections.
+  \draw[-{Triangle[length=2mm]}] (1.0,2.2) -- (3,2.2);
+  \draw[{Triangle[length=2mm]}-] (1.0,1.6) -- (3,1.6);
+  \draw[-{Triangle[length=2mm]}] (1.0,1.2) -- (3,1.2);
+
+  \node[circ] at (2.55,1.6) {};
+  \node[circ] at (1.7,1.2) {};
+
+  % Strobe pulse symbol.
+  \draw (1.05,2.3) -- (1.25,2.3)
+    -- (1.25,2.45) -- (1.48,2.45);
+
+\end{circuitikz}
+
+\medskip
+\textbf{Fig 1 \qquad Typical Application Circuit of AW36526}
+\end{center}
+
+\bigskip
+{\footnotesize\itshape
+All trademarks are the property of their respective owners.}
+
+\end{document}
+```

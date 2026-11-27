@@ -1,0 +1,107 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{enumitem}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+(vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+\medskip
+Mother: Why are you looking so worried?\\
+Daughter: My exams are approaching.
+
+\medskip
+In response to the question of the mother, the daughter replied that \underline{\hspace{4cm}}.
+
+\bigskip
+(viii) Identify the error in the given sentence:
+
+\medskip
+The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+\medskip
+Use the given format for your response
+
+\medskip
+\begin{tabular}{|p{4cm}|p{4cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\[0.5cm]
+\hline
+\end{tabular}
+
+\bigskip
+(ix) Ritu and Randeep are talking. Report Ritu's question.
+
+\medskip
+Ritu: Where are you going?
+
+\medskip
+Ritu asked \underline{\hspace{3cm}}.
+
+\bigskip
+(x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\medskip
+\underline{\hspace{2.5cm}} smile and pass it to others.
+
+\medskip
+\begin{tabular}{p{4.5cm}p{4.5cm}}
+(a) Happy & (b) Short \\
+(c) Always & (d) Humble \\
+\end{tabular}
+
+\bigskip
+(xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+\medskip
+Anil: Where are you going?\\
+Sanjeev: To the airport.\\
+Anil: May I drop you there as I'm going in that direction?
+
+\medskip
+Anil asked Sanjeev where he was going and offered to drop him as \underline{\hspace{3cm}}.
+
+\medskip
+\begin{enumerate}[label=(\alph*), leftmargin=1.5cm]
+  \item he could be going in that direction.
+  \item he would be going in the direction.
+  \item he is going in the direction
+  \item he was going in that direction
+\end{enumerate}
+
+\bigskip
+(xii) Identify the error in the newspaper headline.
+
+\medskip
+Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+\medskip
+Use the given format for your response:
+
+\medskip
+\begin{tabular}{|p{5cm}|p{5.5cm}|}
+\hline
+\textbf{Error} & \textbf{Correction} \\
+\hline
+ & \\[0.7cm]
+\hline
+\end{tabular}
+
+\vfill
+\hfill \textbf{CL X/ PB-I /ENG/PAC}
+
+\begin{center}
+6
+\end{center}
+
+\end{document}
+```
+
+Notes on the transcription:
+- The footer code "CL X/ PB-I /ENG/PAC" is cut off at the right edge of the image, so its final characters may be incomplete.
+- The page number "6" is handwritten and circled in the original. It is rendered as plain text here.

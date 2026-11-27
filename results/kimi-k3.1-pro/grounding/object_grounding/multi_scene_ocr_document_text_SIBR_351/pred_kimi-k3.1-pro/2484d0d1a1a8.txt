@@ -1,0 +1,20 @@
+[
+  {"bbox_2d": [108, 96, 353, 116], "label": "Buyer"},
+  {"bbox_2d": [369, 307, 451, 329], "label": "Commodity"},
+  {"bbox_2d": [613, 97, 689, 115], "label": "Contract No"},
+  {"bbox_2d": [613, 117, 717, 134], "label": "Date"},
+  {"bbox_2d": [454, 425, 587, 444], "label": "Destination port"},
+  {"bbox_2d": [454, 387, 701, 407], "label": "Inspection standard"},
+  {"bbox_2d": [33, 425, 147, 444], "label": "Loading port"},
+  {"bbox_2d": [290, 307, 348, 329], "label": "Manufactory Code"},
+  {"bbox_2d": [50, 307, 247, 329], "label": "Name"},
+  {"bbox_2d": [454, 472, 540, 494], "label": "Price term"},
+  {"bbox_2d": [474, 307, 504, 329], "label": "Quantity"},
+  {"bbox_2d": [33, 527, 707, 725], "label": "Remark"},
+  {"bbox_2d": [33, 387, 112, 407], "label": "Shipment time"},
+  {"bbox_2d": [109, 77, 287, 93], "label": "Supplier"},
+  {"bbox_2d": [33, 472, 268, 494], "label": "Terms of payment"},
+  {"bbox_2d": [294, 34, 440, 54], "label": "Title"},
+  {"bbox_2d": [615, 307, 683, 329], "label": "Total price (RMB)"},
+  {"bbox_2d": [543, 307, 590, 329], "label": "Unit Price (RMB)"}
+]

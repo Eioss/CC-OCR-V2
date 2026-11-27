@@ -1,0 +1,21 @@
+[
+  {"bbox_2d":[67,109,393,134],"label":"Address"},
+  {"bbox_2d":[394,125,553,137],"label":"Address"},
+  {"bbox_2d":[816,189,871,202],"label":"Arrival入住日期"},
+  {"bbox_2d":[911,378,956,391],"label":"Balance CNY"},
+  {"bbox_2d":[808,344,854,357],"label":"Charges"},
+  {"bbox_2d":[316,109,427,128],"label":"Company Name"},
+  {"bbox_2d":[816,236,880,250],"label":"Confirmation No 确认号"},
+  {"bbox_2d":[67,338,121,351],"label":"Date"},
+  {"bbox_2d":[816,205,871,218],"label":"Departure 离店日期"},
+  {"bbox_2d":[164,338,225,352],"label":"Description"},
+  {"bbox_2d":[310,138,414,152],"label":"Fax 传真"},
+  {"bbox_2d":[816,220,891,234],"label":"Loyalty No 会员号码"},
+  {"bbox_2d":[816,173,849,186],"label":"Room No. 房号"},
+  {"bbox_2d":[136,137,238,151],"label":"Tel 电话"},
+  {"bbox_2d":[914,415,956,427],"label":"Total Amount Before Taxes"},
+  {"bbox_2d":[909,476,954,488],"label":"Total Amount with Taxes"},
+  {"bbox_2d":[924,453,953,465],"label":"Total VAT"},
+  {"bbox_2d":[450,114,659,129],"label":"Website"},
+  {"bbox_2d":[622,131,667,142],"label":"邮政编码"}
+]

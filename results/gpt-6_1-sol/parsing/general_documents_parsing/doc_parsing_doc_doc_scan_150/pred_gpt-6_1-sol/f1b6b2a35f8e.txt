@@ -1,0 +1,203 @@
+```latex
+\documentclass[a4paper,11pt]{ctexart}
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{amsmath}
+\usepackage{array,tabularx}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+
+\definecolor{awinicgreen}{RGB}{142,210,200}
+\definecolor{headingblue}{RGB}{0,0,180}
+
+\renewcommand{\familydefault}{\sfdefault}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.5}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+\fancyfoot[L]{\small www.awinic.com}
+\fancyfoot[C]{\small 5}
+\fancyfoot[R]{\scriptsize © 2023 Shanghai Awinic Technology Co. Ltd All Rights Reserved}
+
+\begin{document}
+
+\begin{tabularx}{\textwidth}{@{}l X r@{}}
+{\fontsize{34}{38}\selectfont\color{awinicgreen} awinic}
+&
+\begin{tabular}[b]{@{}l@{}}
+{\color{awinicgreen}\bfseries 上海艾为电子技术股份有限公司}\\
+{\color{awinicgreen}\small shanghai awinic technology co., ltd.}
+\end{tabular}
+&
+\begin{tabular}[b]{@{}r@{}}
+{\Large\bfseries AW32905E}\\
+Mar. 2023 V1.0
+\end{tabular}
+\end{tabularx}
+
+\vspace{0.5cm}
+\hrule
+\vspace{0.5cm}
+
+{\Large\bfseries\color{headingblue} Ordering Information}
+
+\vspace{0.6cm}
+
+\begin{tabularx}{\textwidth}{|
+>{\centering\arraybackslash}X|
+>{\centering\arraybackslash}X|
+>{\centering\arraybackslash}X|
+>{\centering\arraybackslash}p{1.3cm}|
+>{\centering\arraybackslash}p{1.8cm}|
+>{\centering\arraybackslash}X|
+>{\centering\arraybackslash}p{1.9cm}|}
+\hline
+\textbf{Part Number}
+& \textbf{Temperature}
+& \textbf{Package}
+& \textbf{Marking}
+& \textbf{Moisture Sensitivity Level}
+& \textbf{Environmental Information}
+& \textbf{Delivery Form}\\
+\hline
+AW32905EFCR
+& $-40^{\circ}\mathrm{C}$ -- $85^{\circ}\mathrm{C}$
+& \begin{tabular}{@{}c@{}}FCQFN\\1.3mm$\times$1.8mm\\-12L\end{tabular}
+& RZR
+& MSL1
+& ROHS+HF
+& \begin{tabular}{@{}c@{}}3000 units/\\Tape and\\Reel\end{tabular}\\
+\hline
+\end{tabularx}
+
+\vspace{1.2cm}
+
+{\Large\bfseries\color{headingblue} Absolute Maximum Ratings}
+\textsuperscript{(NOTE 1)}
+
+\vspace{0.5cm}
+
+\begin{tabularx}{\textwidth}{|
+>{\centering\arraybackslash}p{1.3cm}|
+>{\raggedright\arraybackslash}X|
+>{\raggedright\arraybackslash}X|
+>{\centering\arraybackslash}p{1.3cm}|
+>{\centering\arraybackslash}p{1.5cm}|
+>{\centering\arraybackslash}p{1.0cm}|}
+\hline
+\textbf{Symbol}
+& \textbf{Parameter}
+& \textbf{Condition}
+& \textbf{Min.}
+& \textbf{Max.}
+& \textbf{Unit}\\
+\hline
+$V_{\mathrm{IN}}$
+& Input voltage
+&
+& -0.3
+& 29
+& V\\
+\hline
+$V_{\mathrm{OUT}}$
+& Output voltage
+&
+& -0.3
+& See\textsuperscript{(NOTE 2)}
+& V\\
+\hline
+$V_{\mathrm{OVLO}}$
+& OVLO voltage
+&
+& -0.3
+& 6
+& V\\
+\hline
+$V_{\overline{\mathrm{ACOK}}}$
+& $\overline{\mathrm{ACOK}}$ voltage
+&
+& -0.3
+& 6
+& V\\
+\hline
+$V_{\overline{\mathrm{EN}}}$
+& $\overline{\mathrm{EN}}$ voltage
+&
+& -0.3
+& 6
+& V\\
+\hline
+$I_{\mathrm{SW}}$
+& Continuous current of switch IN-OUT\textsuperscript{(NOTE 3)}
+& Continuous current on IN and OUT pin
+&
+& 5
+& A\\
+\hline
+$I_{\mathrm{PEAK}}$
+& Peak current
+& Peak input and output current on IN and OUT pin(10ms)
+&
+& 8
+& A\\
+\hline
+$I_{\mathrm{DIODE}}$
+& Continuous diode current
+& Continuous forward current through the nFET body diode
+&
+& 1.5
+& A\\
+\hline
+$T_{\mathrm{A}}$
+& Ambient temperature
+&
+& -40
+& 85
+& $^{\circ}\mathrm{C}$\\
+\hline
+$T_{\mathrm{J}}$
+& Junction temperature
+&
+& -40
+& 150
+& $^{\circ}\mathrm{C}$\\
+\hline
+$T_{\mathrm{STG}}$
+& Storage temperature
+&
+& -65
+& 150
+& $^{\circ}\mathrm{C}$\\
+\hline
+$T_{\mathrm{LEAD}}$
+& Soldering temperature
+& At least, 10 seconds
+&
+& 260
+& $^{\circ}\mathrm{C}$\\
+\hline
+Surge
+& Input surge protection
+& IEC61000-4-5 test with $2\Omega$ equivalent series resistance
+& 120
+&
+& V\\
+\hline
+\end{tabularx}
+
+\vspace{0.15cm}
+
+\textit{NOTE1: Conditions out of those ranges listed in ``absolute maximum ratings'' may cause permanent damages to the device. In spite of the limits above, functional operation conditions of the device should within the ranges listed in ``recommended operating conditions''. Exposure to absolute-maximum-rated conditions for prolonged periods may affect device reliability.}
+
+\vspace{0.2cm}
+
+\textit{NOTE2: 29V or $V_{\mathrm{IN}}$+0.3V, whichever is smaller.}
+
+\vspace{0.2cm}
+
+\textit{NOTE3: Limited by thermal design.}
+
+\end{document}
+```

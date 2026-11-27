@@ -1,0 +1,73 @@
+```html
+<table>
+  <tr>
+    <td colspan="3"><strong>Topic: Will artificial intelligence replace humans</strong></td>
+    <td>Claim</td>
+    <td>Source</td>
+    <td>Evidence</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td colspan="2">Job opportunities will grow with the advent of AI; however, some jobs might be lost because AI would replace them.</td>
+    <td>C1</td>
+    <td>+1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td colspan="2">Any job that involves repetitive tasks is at risk of being replaced.</td>
+    <td>C2</td>
+    <td>+1</td>
+    <td>E1, E2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td colspan="2">In 2017, Gartner predicted 500,000 jobs would be created because of AI, but also predicted that up to 900,000 jobs could be lost because of it.</td>
+    <td>E3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td colspan="2">The number of industrial robots has increased significantly since the 2000s.</td>
+    <td>E3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td colspan="2">The low operating costs of robots make them competitive with human workers.</td>
+    <td>E3</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td colspan="2">In the finance sector, computer algorithms can execute stock trades much faster than a human, needing only a fraction of a second.</td>
+    <td>C3</td>
+    <td>+1</td>
+    <td>E4</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td colspan="2">As these technologies become cheaper and more accessible, they will be implemented more widely, and humans might be increasingly replaced by AI.</td>
+    <td>C4</td>
+    <td>+1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td colspan="2">According to Harvard Business Review, most operations groups adopting RPA have promised their employees that automation would not result in layoffs.</td>
+    <td>C5</td>
+    <td>+1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td colspan="2">AI is incredibly smart, but it will never match human creativity.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```

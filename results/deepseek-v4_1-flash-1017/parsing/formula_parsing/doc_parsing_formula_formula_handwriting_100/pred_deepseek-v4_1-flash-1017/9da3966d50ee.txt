@@ -1,0 +1,13 @@
+```latex
+\chi_{p, c, c}^j \phi(F_{p, c, M}^{c, c}(\eta)) = \Gamma(jt - \kappa_{\mu, 1}) G(\phi) \frac{\prod_{p \in \mathcal{P}} A_p(\langle \eta \rangle^{p-st}, \phi, j) L(\langle \eta \rangle^{p-st}, \phi, j)}{(-2\pi\sqrt{-1})^j d(-\Omega_{CM, \infty})^{\kappa_{\mu, 2}} (\Omega_{CM, \infty})^{\kappa_{\mu, 1}}}
+
+y^T \mathbb{E} \left[ \sum_{r=1}^m a_r a_r^T \right] y = \sum_{r=1}^m \mathbb{E}[\langle a_r, y \rangle^2] = \sum_{r=1}^m \sum_{j=1}^d y_j^2 = \sum_{r=1}^m \|y\|^2.
+
+\eta_r^2 := \left( \sum_{t \in \mathcal{T}} \eta_t^2 \right)^{1/2} \cdot \left( \sum_{t \in \mathcal{T}} h_t^2 \eta_t^2 \right)^{1/2},
+
+g_1 \cdots g_r = R_0 R_1 \cdots R_n
+
+\nu(\theta, r) = -1 \text{ for } r \text{ near } 0, \quad \nu(\theta, r) = 1 \text{ for } r \geq R e^{i\theta}.
+
+\int_1^\infty h(y) e^{-\cos \gamma \cdot y / (c_1 - 1)} \frac{dy}{y^{(2\nu - 1)/(c_1 - 1)}} \leq h(1) \int_1^\infty \frac{dy}{y^{(2\nu - 1)/(c_1 - 1)}} < \infty,
+```

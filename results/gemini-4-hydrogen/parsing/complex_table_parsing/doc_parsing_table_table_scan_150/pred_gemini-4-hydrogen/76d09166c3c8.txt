@@ -1,0 +1,125 @@
+```html
+<table>
+  <tr>
+    <td colspan="3"><b>Patel</b></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Statement of financial position at 31 December 2014</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><b>$</b></td>
+    <td><b>$</b></td>
+  </tr>
+  <tr>
+    <td><b>ASSETS</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Non-current assets</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Land and buildings</td>
+    <td></td>
+    <td>60 000</td>
+  </tr>
+  <tr>
+    <td>Fixtures and fittings</td>
+    <td></td>
+    <td>7 000</td>
+  </tr>
+  <tr>
+    <td>Vehicles</td>
+    <td></td>
+    <td>21 000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>88 000</td>
+  </tr>
+  <tr>
+    <td><b>Current assets</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td>1 010</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Trade receivables</td>
+    <td>1 740</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank balance</td>
+    <td>1 840</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td>480</td>
+    <td>5 070</td>
+  </tr>
+  <tr>
+    <td><b>Total assets</b></td>
+    <td></td>
+    <td>93 070</td>
+  </tr>
+  <tr>
+    <td><b>CAPITAL AND LIABILITIES</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Capital</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Capital introduced</td>
+    <td></td>
+    <td>70 000</td>
+  </tr>
+  <tr>
+    <td><i>Add</i> Profit</td>
+    <td></td>
+    <td>23 750</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>93 750</td>
+  </tr>
+  <tr>
+    <td><i>Less</i> Drawings</td>
+    <td></td>
+    <td>2 170</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>91 580</td>
+  </tr>
+  <tr>
+    <td><b>Current liabilities</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Trade payables</td>
+    <td></td>
+    <td>1 490</td>
+  </tr>
+  <tr>
+    <td><b>Total capital and liabilities</b></td>
+    <td></td>
+    <td>93 070</td>
+  </tr>
+</table>
+```

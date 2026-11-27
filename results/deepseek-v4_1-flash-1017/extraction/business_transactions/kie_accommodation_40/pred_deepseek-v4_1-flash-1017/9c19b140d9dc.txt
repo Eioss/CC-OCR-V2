@@ -1,0 +1,11 @@
+```json
+{
+  "Departure Date": "07/12/20",
+  "Arrival Date": "06/11/20",
+  "Total Amount": "499.99",
+  "Name": "Mr Lee Smith",
+  "Balance": "499.99",
+  "Address": "787 Michelle Drives Mezamount, NY 59502",
+  "Hotel Name": "COURTYARD Shanghai-Pudong"
+}
+```

@@ -1,0 +1,111 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textbf{Tnkalvi.Net}}
+\cfoot{\small Send Your Study Materials to Our Email Id - Tnkalvi.Net@gmail.com}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+
+\noindent\textbf{\Large 11}th Std. \hfill COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019
+
+\vspace{0.3em}
+\begin{center}
+\textbf{Standard - 11} \hfill Reg. No \fbox{\phantom{0}}\fbox{\phantom{0}}\fbox{\phantom{0}}\fbox{\phantom{0}}\fbox{\phantom{0}}\fbox{\phantom{0}}
+\end{center}
+
+\begin{center}
+\textbf{PART - III - COMMUNICATIVE ENGLISH}
+\end{center}
+
+\noindent Time Allowed: 2.30 Hours \hfill Maximum Marks: 70
+
+\vspace{0.5em}
+\noindent\textbf{Instructions:}
+\begin{enumerate}[label=\arabic*.]
+  \item \textbf{Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.}
+  \item \textbf{Use Blue or Black ink to write and underline.}
+\end{enumerate}
+
+\begin{center}
+\textbf{PART - I}
+\end{center}
+
+\noindent\textbf{Answer the following questions:} \hfill $15\times1=15$
+
+\begin{enumerate}[label=\arabic*)]
+  \item The \underline{\hspace{1.5cm}} patterns of questions are commonly known as interrogative sentences.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) 4 & b) 3 & c) 2 & d) 5
+  \end{tabularx}
+
+  \item A cruise is a journey on a
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) ferry & b) ocean lines & c) ship & d) boat
+  \end{tabularx}
+
+  \item An information paper document is
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) brochure & b) pamphlet & c) itinerary & d) notice
+  \end{tabularx}
+
+  \item The pair of words `united-untied' is an example of
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) homograph & b) contranyms & c) homophones & d) antigrams
+  \end{tabularx}
+
+  \item A \underline{\hspace{1.5cm}} is a short informal performance intended to educate or inform.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) play & b) parody & c) skit & d) drama
+  \end{tabularx}
+
+  \item The association of one word with multiple meanings is known as \underline{\hspace{1.5cm}}.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) polygenesis & b) polysemy & c) polycentric & d) polynomial
+  \end{tabularx}
+
+  \item The process of reading quickly to get the specific information from a given text.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) decoding & b) scanning & c) encoding & d) skimming
+  \end{tabularx}
+
+  \item One who treats old people
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) geriatrician & b) pediatrician & c) neurologist & d) pathologist
+  \end{tabularx}
+
+  \item Epitasis means
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) gum disease & b) iron deficiency & c) nose bleed & d) feverishness
+  \end{tabularx}
+
+  \item Bluefin is a type of \underline{\hspace{1.5cm}}.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) bass & b) cod & c) gold & d) tuna
+  \end{tabularx}
+
+  \item Hud Herd cyclone is named after a bird \underline{\hspace{1.5cm}}.
+
+  \begin{tabularx}{\linewidth}{XXXX}
+  a) Hawk & b) Heron & c) Hoopoc & d) Hainan
+  \end{tabularx}
+\end{enumerate}
+
+\end{document}
+```

@@ -1,0 +1,35 @@
+Here is the LaTeX representation of the formulas in the image. I have transcribed them line by line as they appear.
+
+```latex
+H'(\xi_1) = 3(1-\alpha)\xi_1^2 + 3\xi_1^2 - 6\xi_1\xi_1 - 3(1-\alpha)\xi_1^2 - 3(1-\alpha)\xi_1^2 - 6|\xi_1| \ge 2(1-\alpha)\xi_1^2
+```
+```latex
+\int_0^T (|\theta(t)|_Q^{5-b/3(4-1-b)}) dt \le C \left( 1 + \int_0^T |\nabla \theta(t)|_2^2 dt \right) \le C \left( 1 + \int_0^T |\theta(t)|_{H^2}^2 dt \right).
+```
+```latex
+1 \le \|f\|_{L^2}^{2} \int_{0}^{nd-2\alpha n} \sum_{\alpha \in \mathbb{N}, \alpha \le n} \int_{\Omega} |x-u|^{-2\alpha} dx dx =
+```
+```latex
+\|f\|_{L^2}^2 \int_{0}^{nd-2\alpha n} \int_{\Omega} |x-u|^{-2\alpha} dx dx,
+```
+```latex
+\| E_n \frac{f^2(\xi_k)}{|\xi_k|} (1-|\xi_k|)^{n-k+1} \|_{H^{p/2}} \le \| S_0 \|_{H^{p/2}} \sum_{k=0}^{n} \frac{(1-|\xi_k|)^{n-k+2} f^2(\xi_k)}{|\xi_k|} d\nu(y)
+```
+```latex
++ \| f^2(\xi_0) |\xi_0|^{-1} (1-|\xi_0|)^{n+1} \|_{H^{p/2}}.
+```
+```latex
+\sum_{n \in \mathbb{Z}} \frac{1}{n^p |\ln n|^{p/2}} - \zeta(2p) a_1^p \le \sum_{n=1}^{\infty} \frac{3^p}{2^{p-1}} + 2p^3 \zeta(2p) a_1^p.
+```
+```latex
+d\nu(\eta) = \begin{cases} \frac{-s^2 x^{s-1} \log x}{s-t} dx & \text{if } s=t \\ \frac{x^{t-1} - x^{s-1}}{s-t} dx & \text{if } s \neq t. \end{cases}
+```
+```latex
+\frac{\Gamma(n-\gamma)}{\Gamma(n+1)} = n^{-\gamma} (n^{-1} + O(n^{-2})), \text{ as } n \to \infty.
+```
+```latex
+\int_0^\infty \frac{u^{b-1}(u+1)^{a-c}}{(u+v)^{a-b}} du = v^{-a} B(b, c-b) {}_2F_1[a, b; c; 1-v/v].
+```
+```latex
+1722 (66)
+```

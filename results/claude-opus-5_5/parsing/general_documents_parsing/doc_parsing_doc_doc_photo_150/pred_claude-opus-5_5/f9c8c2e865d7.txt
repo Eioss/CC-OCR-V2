@@ -1,0 +1,43 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{xcolor}
+
+\newcommand{\sg}[1]{\textcolor{violet}{#1}} % singular forms (violet ink)
+\newcommand{\pl}[1]{\textcolor{black}{#1}}  % plural forms (black ink)
+
+\begin{document}
+
+\section*{7.\quad Singular -- plural}
+
+\renewcommand{\arraystretch}{1.4}
+\noindent
+\begin{tabular}{l}
+\sg{axis \quad crisis \quad analysis \quad basis \quad thesis \quad criterion} \\ \hline
+\pl{axes \quad crises \quad analyses \quad bases \quad theses \quad criteria} \\ \hline
+\sg{datum \quad medium \quad erratum \quad stratum \quad memorandum \quad agendum} \\ \hline
+\pl{data \quad media \quad errata \quad strata \quad memoranda \quad agenda} \\ \hline
+\sg{alumna \quad formula \quad antenna \quad bacterium \quad aquarium} \\ \hline
+\pl{alumnae \quad formulae \quad antennae \quad bacteria \quad aquaria} \\ \hline
+\sg{focus \quad locus \quad terminus \quad alumnus \quad fungus} \\ \hline
+\pl{foci \quad loci \quad termini \quad alumni \quad fungi} \\ \hline
+\sg{Syllabus \quad radius \quad Stimulus \quad tooth \quad foot \quad goose} \\ \hline
+\pl{syllabi \quad radii \quad stimuli \quad teeth \quad feet \quad geese} \\ \hline
+\sg{matrix \quad index \quad appendix \quad apex \quad vertex \quad genie} \\ \hline
+\pl{matrices \quad indices \quad appendices \quad apices \quad vertices \quad genies} \\ \hline
+\sg{cupful \quad dining room \quad grown up \quad spoonful \quad daughter-in-law} \\ \hline
+\pl{Cupfuls \quad dining rooms \quad grown ups \quad spoonfuls \quad daughters-in-law} \\ \hline
+\sg{Son-in-law \quad runner-up \quad governor-general \quad army \quad baby \quad boy \quad toy \quad buffalo} \\ \hline
+\pl{Sons-in-law \quad runners-up \quad governors-general \quad armies \quad babies \quad boys \quad toys \quad buffaloes} \\ \hline
+\sg{man \quad Woman \quad child \quad leaf \quad thief \quad knife \quad wife \quad life \quad man-servant} \\ \hline
+\pl{men \quad Women \quad Children \quad leaves \quad thieves \quad knives \quad wives \quad lives \quad men-servants} \\ \hline
+\sg{Virus \quad photo \quad sheep \quad deer \quad aircraft \quad furniture \quad cattle} \\ \hline
+\pl{Viruses \quad photos \quad sheep \quad deer \quad aircraft \quad furniture \quad Cattle} \\ \hline
+\sg{Corps \quad Species \quad spectacles \quad means \quad premises \quad series} \\ \hline
+\pl{Corps \quad species \quad spectacles \quad means \quad premises \quad series} \\ \hline
+\sg{innings \quad pants} \\ \hline
+\pl{innings \quad pants} \\
+\end{tabular}
+
+\end{document}
+```

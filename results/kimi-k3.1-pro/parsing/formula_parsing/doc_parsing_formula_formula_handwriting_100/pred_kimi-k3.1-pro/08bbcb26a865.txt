@@ -1,0 +1,44 @@
+\[
+\sum_{x\in S_{n,q}}\left(\frac{q}{n+1}\sum_{a_1,\ldots,a_n\in\mathbb{F}_q}\chi\left(1+\sum_i a_i x^i\right)\psi(a_n)\right)^m
+\]
+
+\[
+X_0T_0=U_\pi X_0
+\quad\text{and}\quad
+\bigvee_{n\ge 0}U_\pi^{-n}X_0\mathcal{N}=L^2(\pi).
+\]
+
+\[
+\hat{x}_{\mathrm{out}}=\hat{x}_{\mathrm{in}}-(\hat{x}_A-\hat{x}_B),\qquad
+\hat{p}_{\mathrm{out}}=\hat{p}_{\mathrm{in}}+(\hat{p}_A+\hat{p}_B).
+\]
+
+\[
+(D_{\mu,z^*})\quad
+\sup_\mu \frac{1}{2}\left\langle\mu,\nabla^2G(\bar z)(v,v)\right\rangle
+\quad\text{subject to }\mu\in K^*\text{ and }\nabla G(\bar z)^*\mu=z^*.
+\]
+
+\[
+\begin{aligned}
+&\frac{d}{dt}\|\psi(t)\|_{L^2_k}^2
++\left(2A_\psi(t)-(d+2k)B_\psi(t)\right)\|\psi(t)\|_{L^2_k}^2
++2kB_\psi(t)\|\psi(t)\|_{L^2_{k+1}}^2\\
+&\quad=2(1-\alpha)\int_{\mathbb{R}^d}Q_+(\psi,\psi)(t,\xi)\psi(t,\xi)\langle\xi\rangle^{2k}\,d\xi
+-2\int_{\mathbb{R}^d}Q_-(\psi,\psi)(t,\xi)\psi(t,\xi)\langle\xi\rangle^{2k}\,d\xi.
+\end{aligned}
+\]
+
+\[
+\frac{\partial L}{\partial w}
+=2\left(y-w\hat{i}_1-(2-w)\hat{i}_2\right)\left(-\hat{i}_1+\hat{i}_2\right),
+\]
+
+\[
+\frac{\partial^2L}{\partial w^2}
+=2\left(-\hat{i}_1+\hat{i}_2\right)^2>0.
+\]
+
+\[
+G(y)=\sup_{a\le s\le b}\left|\sum_{j=1}^{\infty}(y+\Gamma_j)^{-1/\alpha}W_j(s)\right|
+\]

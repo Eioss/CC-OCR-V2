@@ -1,0 +1,14 @@
+\[
+\begin{aligned}
+\operatorname{Tr}\left[\left(A_{m} \otimes A_{n}\right) R_{A B}\right] & =\operatorname{Tr}\left\{\left(A_{m} \otimes A_{n}\right)\left[\left(\rho_{A} \otimes \frac{1}{2}\right) E_{A B}+E_{A B}\left(\rho_{A} \otimes \frac{1}{2}\right)\right]\right\} \\
+& =\frac{1}{2}\left[\operatorname{Tr}\left(\left(A_{m} \rho \otimes A_{n}\right) E_{A B}\right)+\operatorname{Tr}\left(\left(A_{m} \otimes A_{n}\right) E_{A B}(\rho \otimes 1)\right)\right] \\
+& =\frac{1}{2}\left[\sum_{i j} \operatorname{Tr}\left(A_{m} \rho|i\rangle\langle j|\right) \operatorname{Tr}\left(A_{n} \varepsilon_{A \mid B}(|j\rangle\langle i|)\right)+\sum_{i j} \operatorname{Tr}\left(A_{m}|i\rangle\langle j| \rho\right) \operatorname{Tr}\left(A_{n} \varepsilon_{A \mid B}(|j\rangle\langle i|)\right)\right] \\
+& =\frac{1}{2}\left[\sum_{i j}\langle j|\left(A_{m} \rho+\rho A_{m}\right)|i\rangle \operatorname{Tr}\left(A_{n} \varepsilon_{A \mid B}(|j\rangle\langle i|)\right)\right] \\
+& =\frac{1}{2}\left[\sum_{i j}\langle j|\left(A_{m} \rho+\rho A_{m}\right)|i\rangle \operatorname{Tr}\left(A_{n} \sum_{k} V_{k}|j\rangle\langle i| V_{k}^{\dagger}\right)\right] \\
+& =\frac{1}{2}\left[\sum_{i j}\langle j|\left(A_{m} \rho+\rho A_{m}\right)|i\rangle\langle i| \sum_{k} V_{k}^{\dagger} A_{n} V_{k}|j\rangle\right] \\
+& =\frac{1}{2}\left[\sum_{j}\langle j|\left(A_{m} \rho+\rho A_{m}\right) \sum_{k} V_{k}^{\dagger} A_{n} V_{k}|j\rangle\right] \\
+& =\frac{1}{2} \operatorname{Tr}\left[\sum_{j}|j\rangle\langle j|\left(A_{m} \rho+\rho A_{m}\right) \sum_{k} V_{k}^{\dagger} A_{n} V_{k}\right] \\
+& =\frac{1}{2} \operatorname{Tr}\left[\left(A_{m} \rho+\rho A_{m}\right) \varepsilon_{A \mid B}^{\dagger}\left(A_{n}\right)\right] \\
+& =\left\langle A_{m} A_{n}\right\rangle_{\text {seq }}
+\end{aligned}
+\]

@@ -1,0 +1,57 @@
+Here is the transcription of the text from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Large{ADDITIONS TO THE LIBRARY OF THE CHEMICAL SOCIETY} \\
+    \Large{DURING THE YEAR 1935.}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \raggedright
+    Acta Physicochimica U.R.S.S. Vol. I, etc. Moscow 1934 + . (Reference.) \\
+    \textit{Allmand, A. J. W.} See Inst. Lawes Agricultural Research. \\
+    \textit{Alexander, W. B.} See Department of Scientific and Industrial Research. Water Pollution Research. Technical Paper No. 5. \\
+    \textit{Allen, N. G.} See Medical Research Council. Safety in Mines Research Papers. Nos. 89 and 91. \\
+    \textit{Allgemein Elektricitäts-Gesellschaft.} Contribution à l'étude des médicaments de synthèse contre la malaria. Delft 1935. pp. 182. \\
+    \textit{American Cyanamid Co. of America.} Chemical analysis of aluminium. New Kensington, Pa. 1935. pp. 83. \\
+    \textit{American Petroleum Institute.} A report on fundamental research in petroleum. New York 1932. pp. 56. \\
+    \textit{American Public Health Association} and Association of Official Agricultural Chemists. Standard methods of milk analysis, bacteriological and chemical. 6th edn. New York 1935. pp. 105. \\
+    \textit{Angerer, E. von.} Apparate und Methoden der Spektroskopie. (Handbuch der Experimentalphysik, Bd. 21.) pp. 306-396. Leipzig 1927. \\
+    \textit{Armsstrong, E. F.,} and \textit{Armsstrong, K. F.} The glyoxalines : their chemistry, properties and applications. (Monograph on Biochemistry.) London 1934. pp. vii + 232. \\
+    \textit{Armstrong, K. F.} See Armstrong, E. F. \\
+    \textit{Association of British Chemical Manufacturers.} British chemicals and their manufacturers. London 1935. pp. 439. (Reference.) \\
+    \textit{Association of Official Agricultural Chemists.} See American Public Health Association. \\
+    \textit{Australia. Commonwealth of.} Council for Scientific and Industrial Research. Bulletin No. 83. Studies on the superphosphate. By J. G. Davies, A. E. Scott, and K. M. Fraser. Melbourne 1934. pp. 76. ill. \\
+    \textit{---} Bulletin No. 84. The basal (standard) metabolism of the Australian merino sheep. By A. W. Peirce. Melbourne 1934. pp. 22.
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \raggedright
+    \textit{Australia. Commonwealth of.} Council for Scientific and Industrial Research. Bulletin No. 88. Studies on the phosphorus requirements of sheep. II. By H. R. Marston (and others). Melbourne 1934. pp. 22. ill. \\
+    \textit{---} Pamphlet No. 52. The ecology of the Berri, Cobbigo, Kingston, and Moorook irrigation areas, and the Lyrup Village district of South Australia. By J. Davidson and P. D. Hooper. Melbourne 1935. pp. 53. \\
+    \textit{---} Bulletin No. 92. The apple-growing soils of Tasmania. By C. G. Stephens and J. K. Taylor. Melbourne 1935. pp. 32. \\
+    \textit{---} Pamphlet No. 49. Some important poison plants of North Australia. Compiled by the Poison Plants Committee. Melbourne 1934. pp. 44. ill. \\
+    \textit{---} Pamphlet No. 51. The chemistry of Australian timbers. Part 4---A study of the lignin determination. By W. E. Cohen. Melbourne 1934. pp. 20. ill. \\
+    \textit{---} Pamphlet No. 53. The identification of Australian timbers. By J. E. Cummins. Melbourne 1935. pp. 23. \\
+    \textit{---} Pamphlet No. 55. The selection, preservation, distribution, and identification of timber for telephone lines. By H. E. Dadswell. Melbourne 1935. pp. 79. ill. \\
+    \textit{---} Pamphlet No. 57. Tests of the efficiency of the oxy-acetylene scarfing and chipping process for sterilising partly decayed poles. By E. E. Commins. Melbourne 1935. pp. 43. \\
+    \textit{Avigdor, W. R.} Three philosophers : Lavater, Priestley and Cavendish. London 1935. pp. 199. \\
+    \textit{Baker, A. S.} The use of fertilizers. A guide to the manuring of crops in Great Britain. London 1935. pp. 70. \\
+    \textit{Banosi, A.} See Levi, Giorgio Renato. \\
+    \textit{Barnes, T. H., Dewar, J.,} and \textit{Dunston, G.} Research on photographic emulsions. London [1934]. pp. xii + 132. ill. \\
+    \textit{Basel, Society of Chemical Industry.} Verhandlungen 1884-1894. Basel 1934. pp. 85. \\
+    \textit{Basindale, R.} See Department of Scientific and Industrial Research. Water Pollution Research. Technical Paper No. 5.
+\end{minipage}
+
+\end{document}
+```

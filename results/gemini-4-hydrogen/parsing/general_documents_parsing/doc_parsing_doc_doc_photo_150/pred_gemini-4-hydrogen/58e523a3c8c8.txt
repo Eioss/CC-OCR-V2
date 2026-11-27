@@ -1,0 +1,99 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath, amssymb}
+
+\begin{document}
+
+\begin{center}
+    \textbf{COMMON QUARTERLY EXAMINATION - SEPTEMBER 2019} \\
+    \textbf{Standard - 11} \hfill Reg. No. \framebox{\phantom{0}} \framebox{\phantom{0}} \framebox{\phantom{0}} \framebox{\phantom{0}} \framebox{\phantom{0}} \\
+    \textbf{PART - III - MATHEMATICS}
+\end{center}
+
+\noindent Time Allowed: 2.30 Hours \hfill Maximum Marks: 90
+
+\vspace{0.5cm}
+
+\noindent \textbf{Instructions:}
+\begin{enumerate}
+    \item Check the question paper for fairness of printing. If there is any lack of fairness, inform the Hall Supervisor immediately.
+    \item Use Blue or Black ink to write and underline and pencil to draw diagrams.
+\end{enumerate}
+
+\begin{center}
+    \textbf{PART - I}
+\end{center}
+
+\noindent \textbf{Note:} i) Answer all the questions. \hfill $20 \times 1 = 20$ \\
+\hspace*{1cm} ii) Choose the most appropriate answer from the given four alternatives and write the option code and the corresponding answer.
+
+\vspace{0.3cm}
+
+\begin{enumerate}
+    \item The range of the function $\dfrac{1}{1 - 2\sin x}$ is
+    \begin{enumerate}
+        \item[a)] $(-\infty, -1) \cup \left(\dfrac{1}{3}, \infty\right)$
+        \item[b)] $\left(-1, \dfrac{1}{3}\right)$
+        \item[c)] $\left[-1, \dfrac{1}{3}\right]$
+        \item[d)] $(-\infty, -1] \cup \left[\dfrac{1}{3}, \infty\right)$
+    \end{enumerate}
+
+    \item The function $f : [0, 2\pi] \to [-1, 1]$ defined by $f(x) = \sin x$ is
+    \begin{enumerate}
+        \item[a)] one-to-one
+        \item[b)] onto
+        \item[c)] bijection
+        \item[d)] cannot be defined
+    \end{enumerate}
+
+    \item The solution set of the following inequality $|x - 1| \ge |x - 3|$ is
+    \begin{enumerate}
+        \item[a)] $[0, 2]$
+        \item[b)] $[2, \infty)$
+        \item[c)] $(0, 2)$
+        \item[d)] $(-\infty, 2)$
+    \end{enumerate}
+
+    \item If 3 is the logarithm of 343, then the base is
+    \begin{enumerate}
+        \item[a)] 5
+        \item[b)] 7
+        \item[c)] 6
+        \item[d)] 9
+    \end{enumerate}
+
+    \item In a $\Delta ABC$, $\tan\left(\dfrac{A}{2}\right) =$
+    \begin{enumerate}
+        \item[a)] $\sqrt{\dfrac{(s-b)(s-c)}{bc}}$
+        \item[b)] $\sqrt{\dfrac{s(s-a)}{bc}}$
+        \item[c)] $\sqrt{\dfrac{(s-b)(s-c)}{s(s-a)}}$
+        \item[d)] $\sqrt{s(s-a)(s-b)(s-c)}$
+    \end{enumerate}
+
+    \item There are 10 points in a plane and 4 of them are collinear. The number of straight lines joining any two points is
+    \begin{enumerate}
+        \item[a)] 45
+        \item[b)] 40
+        \item[c)] 39
+        \item[d)] 38
+    \end{enumerate}
+
+    \item The $n^{\text{th}}$ term of the sequence $1, 2, 4, 7, 11, \dots\dots\dots$ is
+    \begin{enumerate}
+        \item[a)] $n^3 + 3n^2 + 2n$
+        \item[b)] $n^3 - 3n^2 + 3n$
+        \item[c)] $\dfrac{n(n+1)(n+2)}{3}$
+        \item[d)] $\dfrac{n^2 - n + 2}{2}$
+    \end{enumerate}
+
+    \item The slopes of the line which makes an angle $45^\circ$ with the line $3x - y = -5$ are
+    \begin{enumerate}
+        \item[a)] $1, -1$
+        \item[b)] $\dfrac{1}{2}, -2$
+        \item[c)] $1, \dfrac{1}{2}$
+        \item[d)] $2, \dfrac{-1}{2}$
+    \end{enumerate}
+\end{enumerate}
+
+\end{document}
+```

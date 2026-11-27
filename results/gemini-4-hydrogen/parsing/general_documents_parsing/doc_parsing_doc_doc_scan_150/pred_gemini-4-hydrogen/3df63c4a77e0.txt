@@ -1,0 +1,89 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}
+\usepackage[margin=0.5in]{geometry}
+
+\begin{document}
+
+\begin{center}
+    \LARGE \textbf{Physics Formula Sheet}
+\end{center}
+
+\section*{Mechanics}
+\begin{tabular}{p{0.32\textwidth} p{0.32\textwidth} p{0.32\textwidth}}
+    $x = x_0 + v_{x0}t + \frac{1}{2}a_x t^2$ & $a_c = \frac{v^2}{r}$ & $|\vec{F}_{\text{spring}}| = k|\vec{x}|$ \\[10pt]
+    $v = v_0 + at$ & $\theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2$ & $PE_{\text{spring}} = \frac{1}{2}kx^2$ \\[10pt]
+    $v_x^2 - v_{x0}^2 = 2a(x - x_0)$ & $\omega = \omega_0 + \alpha t$ & $T_{\text{spring}} = 2\pi\sqrt{\frac{m}{k}}$ \\[10pt]
+    $\vec{a} = \frac{\Sigma \vec{F}}{m} = \frac{\vec{F}_{\text{net}}}{m}$ & $T = \frac{2\pi}{\omega} = \frac{1}{f}$ & $T_{\text{pendulum}} = 2\pi\sqrt{\frac{\ell}{g}}$ \\[10pt]
+    $|\vec{F}_{\text{friction}}| \le \mu |\vec{F}_{\text{Normal}}|$ & $v = f\lambda$ & \\[10pt]
+    $\vec{p} = m\vec{v}$ & $x = A\cos(2\pi f t)$ & $|\vec{F}_{\text{gravity}}| = G\frac{m_1 m_2}{r^2}$ \\[10pt]
+    $\Delta \vec{p} = \vec{F}\Delta t$ & $\vec{\alpha} = \frac{\Sigma \vec{\tau}}{I} = \frac{\vec{\tau}_{\text{net}}}{I}$ & $|\vec{F}_{\text{gravity}}| = m\vec{g}$ \\[10pt]
+    $KE = \frac{1}{2}mv^2$ & $\vec{\tau} = r \times F$ & $PE_{\text{gravity}} = -G\frac{m_1 m_2}{r}$ \\[10pt]
+    $\Delta PE = mg\Delta y$ & $L = I\omega$ & $\rho = \frac{m}{V}$ \\[10pt]
+    $\Delta E = W = Fd\cos\theta$ & $\Delta L = \tau \Delta t$ & $KE = \frac{1}{2}I\omega^2$ \\
+\end{tabular}
+
+\section*{Electricity}
+\begin{tabular}{p{0.32\textwidth} p{0.32\textwidth} p{0.32\textwidth}}
+    $|\vec{F}_E| = k\left|\frac{q_1 q_2}{r^2}\right|$ & $\Delta V = IR$ & $R = \frac{\rho \ell}{A}$ \\[12pt]
+    \multicolumn{1}{c}{$I = \frac{\Delta q}{\Delta t}$} & \multicolumn{1}{c}{$P = I\Delta V$} & \\[12pt]
+    $R_{\text{series}} = R_1 + R_2 + \dots + R_n$ & \multicolumn{2}{c}{$\frac{1}{R_{\text{Parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$} \\
+\end{tabular}
+
+\section*{Geometry}
+\begin{tabular}{p{0.32\textwidth} p{0.32\textwidth} p{0.32\textwidth}}
+    Rectangle \quad $A = bh$ & Rectangular Solid \quad $V = \ell wh$ & Triangle \quad $A = \frac{1}{2}bh$ \\[8pt]
+    Circle \quad $A = \pi r^2$ & Cylinder \quad $V = \pi r^2 \ell$ & Sphere \quad $V = \frac{4}{3}\pi r^3$ \\
+    \hspace*{1.1cm} $C = 2\pi r$ & \hspace*{1.4cm} $S = 2\pi r \ell + 2\pi r^2$ & \hspace*{1.3cm} $S = 4\pi r^2$ \\
+\end{tabular}
+
+\section*{Trigonometry}
+\begin{center}
+    $c^2 = a^2 + b^2 \qquad \sin\theta = \frac{a}{c} \qquad \cos\theta = \frac{b}{c} \qquad \tan\theta = \frac{a}{b}$
+\end{center}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+    \hline
+    $\theta$ & $0^\circ$ & $30^\circ$ & $37^\circ$ & $45^\circ$ & $53^\circ$ & $60^\circ$ & $90^\circ$ \\
+    \hline
+    $\sin\theta$ & $0$ & $1/2$ & $3/5$ & $\sqrt{2}/2$ & $4/5$ & $\sqrt{3}/2$ & $1$ \\
+    \hline
+    $\cos\theta$ & $1$ & $\sqrt{3}/2$ & $4/5$ & $\sqrt{2}/2$ & $3/5$ & $1/2$ & $0$ \\
+    \hline
+    $\tan\theta$ & $0$ & $\sqrt{3}/3$ & $3/4$ & $1$ & $1$ & $\sqrt{3}$ & $\infty$ \\
+    \hline
+\end{tabular}
+\end{center}
+
+\section*{Variables}
+\begin{tabular}{ll}
+    $a = \text{acceleration}$ & $q = \text{charge}$ \\
+    $A = \text{amplitude}$ & $r = \text{radius}$ \\
+    $A = \text{Area}$ & $R = \text{resistance}$ \\
+    $b = \text{base length}$ & $S = \text{surface area}$ \\
+    $C = \text{circumference}$ & $T = \text{period}$ \\
+    $d = \text{distance}$ & $t = \text{time}$ \\
+    $E = \text{energy}$ & $PE = \text{potential energy}$ \\
+    $f = \text{frequency}$ & $V = \text{electric potential}$ \\
+    $F = \text{force}$ & $V = \text{volume}$ \\
+    $h = \text{height}$ & $v = \text{velocity}$ \\
+    $I = \text{current}$ & $w = \text{width}$ \\
+    $I = \text{rotational inertia}$ & $W = \text{work}$ \\
+    $KE = \text{kinetic energy}$ & $x = \text{position}$ \\
+    $k = \text{spring constant}$ & $y = \text{height}$ \\
+    $L = \text{angular momentum}$ & $\alpha = \text{angular acceleration}$ \\
+    $\ell = \text{length}$ & $\lambda = \text{wavelength}$ \\
+    $m = \text{mass}$ & $\mu = \text{coefficient of friction}$ \\
+    $P = \text{power}$ & $v = \text{wave speed}$ \\
+    $p = \text{momentum}$ & $\theta = \text{angle}$ \\
+    & $\rho = \text{density}$ \\
+    & $\rho = \text{resistivity}$ \\
+    & $\tau = \text{torque}$ \\
+    & $\omega = \text{angular speed}$ \\
+\end{tabular}
+
+\end{document}
+```

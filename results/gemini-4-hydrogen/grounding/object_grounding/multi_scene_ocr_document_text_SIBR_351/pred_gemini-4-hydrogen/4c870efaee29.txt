@@ -1,0 +1,23 @@
+```json
+[
+  {"bbox_2d": [38, 304, 120, 675], "label": "标题"},
+  {"bbox_2d": [129, 108, 162, 253], "label": "业务流水 Serial number"},
+  {"bbox_2d": [122, 565, 155, 642], "label": "ID"},
+  {"bbox_2d": [175, 603, 206, 667], "label": "医院类型 Hospital type"},
+  {"bbox_2d": [157, 703, 188, 745], "label": "年 Y"},
+  {"bbox_2d": [160, 779, 187, 797], "label": "月 M"},
+  {"bbox_2d": [236, 123, 276, 165], "label": "姓名 Name"},
+  {"bbox_2d": [240, 381, 271, 416], "label": "就诊类型"},
+  {"bbox_2d": [303, 203, 331, 219], "label": "性别 Gender"},
+  {"bbox_2d": [292, 608, 323, 673], "label": "个人缴费 Individual payment"},
+  {"bbox_2d": [315, 882, 342, 901], "label": "银行刷卡"},
+  {"bbox_2d": [425, 232, 459, 272], "label": "诊查费 Physical examination"},
+  {"bbox_2d": [426, 384, 456, 434], "label": "金额 Amount"},
+  {"bbox_2d": [618, 369, 649, 434], "label": "补收 Re-charge"},
+  {"bbox_2d": [753, 108, 864, 487], "label": "备注"},
+  {"bbox_2d": [866, 165, 895, 317], "label": "收费单位(盖章) Payee(seal)"},
+  {"bbox_2d": [869, 579, 901, 621], "label": "收款人 Cashier"},
+  {"bbox_2d": [868, 690, 898, 738], "label": "时间"},
+  {"bbox_2d": [477, 919, 756, 940], "label": "第一联"}
+]
+```

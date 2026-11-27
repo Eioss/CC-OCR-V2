@@ -1,0 +1,17 @@
+\[
+\begin{aligned}
+a_{k,j} &= \frac{\operatorname{Re} F(\lambda_k - \lambda_0 + i(\mu_j - \mu_k))}{F(\lambda_k - \lambda_0)}, \quad b_{k,j} = \frac{\operatorname{Re} F(-\lambda_0 + i(\mu_j - \mu_k))}{F(-\lambda_0)} \\
+\tilde{A}_{\varepsilon,0}^{(k)} &\in C_0^\infty(\partial\Omega \times \partial\Omega \times \Omega \times \mathbb{R}^{n-1}). \\
+\sum_j |E_{4}| &\leq C \int_0^t \|u_n - u_p\|_{B_{2,2}^1} \|\nabla b_n\|_{B_{2,2}^{s-1}} \|b_n - b_p\|_{\tilde{L}_t^\infty(\dot{B}_{2,2}^0)} \, dt' \\
+&\leq \frac{1}{4} \|u_n - u_p\|_{\tilde{L}_t^2(\dot{B}_{2,2}^0)}^2 + C t \|b_n\|_{\tilde{L}_t^\infty(B_{2,2}^s)}^2 \|b_n - p\|_{\tilde{L}_t^\infty(\dot{B}_{2,2}^0)}^2. \\
+\frac{1-\varepsilon/10}{2} ((1-1/r)^{i-1} (1-\varepsilon/2) \text{OPT} - f(S)) \\
+\partial_r^2 y_1 + a y_1 + \left(2i \frac{\partial A(X)}{\partial X} - A^*(X) e^{i\phi_{d2}}\right) e^{i\tau} + \left(2i \frac{\partial A^*(X)}{\partial A} + A(X) e^{-i\phi_{d2}}\right) e^{-i\tau} \\
+- A(X) e^{3i\tau + i\phi_{d2}} - A^*(X) e^{-3i\tau - i\phi_{d2}} = 0. \\
+\|u_{\varepsilon,\lambda} - u_{0,\lambda}\|_{L^2(\Omega)} &\leq C(1+\lambda)\varepsilon \left\{\|F\|_{L^2(\Omega)} + \|G\|_{H^2(\Omega)}\right\}, \\
+\delta(\|r\theta_1 h\|_{X'(0<t<\infty)}^2 + \|r\theta_2 h\|_{X'(0<r<\infty)}^2) &= \delta \|h\|_{X'(\mathbb{R}^3)}^2 + \mathcal{E}_5, \\
+U_f(0,s) &= \begin{cases}
+\exp\left(-\int_s^0 \alpha(r) dr\right) & \text{if } s \in [-1,0], \\
+z(-s-1,f_{s+1},\phi(f_s)) & \text{if } s \leq -1.
+\end{cases}
+\end{aligned}
+\]

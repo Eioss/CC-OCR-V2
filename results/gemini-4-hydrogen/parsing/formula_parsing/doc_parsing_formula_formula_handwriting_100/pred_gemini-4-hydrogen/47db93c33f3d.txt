@@ -1,0 +1,12 @@
+```latex
+\begin{gather*}
+\tan h(z) = \frac{\left(D_{12} \frac{\partial h}{\partial z_2} + E_{12} \frac{\partial h}{\partial z_1} - (D_{11} - E_{11})\right) \sin h(z)}{T_1 - T_2}. \\
+\tau_i = \lfloor (n/4) i \rfloor, \quad i = 1, \dots, 3 \\
+S_{\Theta}^+(t) = \{s \in S_{\Theta} : s^{-1} \in S_{\Theta}^-(t)\}. \\
+\left(\int_C t^{1-2s} |\nabla u^-|^2 \, dx \, dy\right) \left(\int_C t^{1-2s} |\nabla v^-|^2 \, dx \, dy\right) \\
+\le |\Omega \cap \{u^-(\cdot, 0) > 0\}|^{1/n} |\Omega \cap \{v^-(\cdot, 0) > 0\}|^{2s/n} \|c\|_{L^\infty(\Omega)} \|d\|_{L^\infty(\Omega)} \|u^-\|_{L^{2n/(n-2s)}(\Omega)}^2 \|v^-\|_{L^{2(n-2s)}(\Omega)}^2. \\
+\|\mathcal{F}_{x \to \xi} \mathcal{Z}_\Lambda [F^a, F^b, F^c]\|_{L_\xi^\infty L_y^2} \lesssim K \|F^a\|_S \|F^b\|_S \|F^c\|_S, \\
+\lim_{n \to \infty} \frac{\sup_{a^n \le t \le a^{n+1}} |X(t) - X(a^n)|}{a^{nH} (\log a^n)^{1/p + \epsilon}} = 0 \quad \text{a.s.} \\
+\varphi = |\angle utv| = \pi - \alpha - \beta \ge \pi - |\angle vus| - |\angle svu| = |\angle usv| = 2\pi/5.
+\end{gather*}
+```

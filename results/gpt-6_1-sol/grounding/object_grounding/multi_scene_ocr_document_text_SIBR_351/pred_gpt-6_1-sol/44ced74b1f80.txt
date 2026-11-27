@@ -1,0 +1,21 @@
+[
+  {"bbox_2d":[94,245,450,276],"label":"ADD"},
+  {"bbox_2d":[781,555,866,570],"label":"Amount (USD)"},
+  {"bbox_2d":[778,597,867,611],"label":"Amount (USD)"},
+  {"bbox_2d":[192,439,225,453],"label":"BUYER"},
+  {"bbox_2d":[666,231,812,245],"label":"BUYER NO."},
+  {"bbox_2d":[173,81,837,130],"label":"COMPANY NAME"},
+  {"bbox_2d":[100,182,427,198],"label":"COMPANY NAME"},
+  {"bbox_2d":[714,182,879,197],"label":"CONTRACT NO."},
+  {"bbox_2d":[608,267,741,282],"label":"DATE"},
+  {"bbox_2d":[340,547,503,578],"label":"Descriptions Of Goods"},
+  {"bbox_2d":[589,290,790,305],"label":"FAX"},
+  {"bbox_2d":[673,387,837,402],"label":"INVOICE NO"},
+  {"bbox_2d":[160,556,244,569],"label":"Mark&Nos"},
+  {"bbox_2d":[155,633,533,648],"label":"SAY"},
+  {"bbox_2d":[152,291,346,306],"label":"TEL"},
+  {"bbox_2d":[322,315,686,364],"label":"TITLE"},
+  {"bbox_2d":[654,555,705,569],"label":"Unit Price (USD/KG)"},
+  {"bbox_2d":[552,555,614,569],"label":"Weight (KG)"},
+  {"bbox_2d":[551,597,615,611],"label":"Weight (KG)"}
+]

@@ -1,0 +1,3 @@
+```json
+{"date_issue": "08/27/2018", "customer_id": "00778793", "customer_billing_name": "ELECTION IMPACT GROUP", "customer_billing_address": "18 31st St\nGulfport, Mississippi 39507", "customer_other_name": "Tim Aalders for US Senate", "amount_total_gross": "$2,000.00", "amount_due": "", "payment_terms": ""}
+```

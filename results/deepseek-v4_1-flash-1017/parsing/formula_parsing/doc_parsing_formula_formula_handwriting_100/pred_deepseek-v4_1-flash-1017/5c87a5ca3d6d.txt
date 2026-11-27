@@ -1,0 +1,27 @@
+```latex
+\int_{D_m} f_\pm \Delta f_\pm dx dt + \int_{D_m} \frac{i}{2} f_\pm \partial_t f_\pm dx dt + \int_{D_m} \frac{i}{2} \rho \partial_t \phi (P^4 \sin \phi \Omega) dx dt,
+```
+
+```latex
+|\Delta_{n2}| = \left| \int_{t_n}^{t_{n+1}} \left[ \Phi(\phi_{n,\lambda}(x)) - \Phi(f_n(x)) - (\Phi(f_{n,\lambda}(x)) - \Phi(f_n(x))) \right] dx + \int_{t_n}^{t_{n+1}} \left[ \Phi(f_{n,\lambda}(x)) - \Phi(f_n(x)) - \Phi'(f_n(x))(f_{n,\lambda}(x) - f_n(x)) \right] dx \right|
+```
+
+```latex
+I_1 \le \varepsilon \int_{0}^{t} \int_{0}^{\infty} \frac{R v_\pm^2}{v^3} dx ds + C(\varepsilon) \int_{0}^{t} \int_{0}^{\infty} \frac{\beta}{v^3} \frac{\kappa x^{2(n-1)} \partial_x^2}{n^2} dx ds
+```
+
+```latex
+\le \varepsilon \int_{0}^{t} \int_{0}^{\infty} \frac{R v_\pm^2}{v^3} dx ds + C(\varepsilon)
+```
+
+```latex
+\pi_n \int h(x) \partial_x P(t,x) dx \lesssim \int h(x) (P(t+\tau, x) - P(t,x)) dx,
+```
+
+```latex
+\mathcal{T} \varphi_\pm \ne e^{i \omega_\pm t} \varphi_\pm \quad \text{and} \quad \mathcal{T} \tilde{\varphi}_\pm = e^{i \tilde{\omega}_\pm t} \tilde{\varphi}_\pm.
+```
+
+```latex
+\frac{1}{(1-t_i)^m} = \sum_{m \in \mathbb{N}} c_m t_i^m
+```

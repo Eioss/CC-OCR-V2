@@ -1,0 +1,425 @@
+```latex
+% Legible content transcribed from the image.
+% Cropped, torn, or illegible portions are noted in comments.
+
+\textbf{MATHEMATICS RU} % Title continues beyond the right edge of the image.
+
+\section*{Trigonometry}
+
+\subsection*{1) Trigonometry Ratios:}
+
+% Diagram: right triangle ABC, right-angled at B.
+% AB is labelled ``Opp'', AC ``Hyp'', and BC ``Adj''.
+
+\[
+\sin\theta=\frac{\text{Opp}}{\text{Hyp}};
+\qquad
+\cos\theta=\frac{\text{Adj}}{\text{Hyp}}
+\]
+
+\[
+\tan\theta=\frac{\text{Opp}}{\text{Adj}};
+\qquad
+\cot\theta=\frac{\text{Adj}}{\text{Opp}}
+\]
+
+\[
+\sec\theta=\frac{\text{Hyp}}{\text{Adj}};
+\qquad
+\operatorname{Cosec}\theta=\frac{\text{Hyp}}{\text{Opp}}
+\]
+
+\subsection*{2) Imp - Results:}
+
+\begin{align*}
+\text{i)}\quad &\sin\theta\cdot\operatorname{Cosec}\theta=1
+&
+\text{ii)}\quad &\cos\theta\cdot\sec\theta=1\\
+\text{iii)}\quad &\tan\theta\cdot\cot\theta=1
+&
+\text{iv)}\quad &\tan\theta=\frac{\sin\theta}{\cos\theta}\\
+\text{v)}\quad &\cot\theta=\frac{\cos\theta}{\sin\theta}
+&
+\text{vi)}\quad &\sin^2\theta+\cos^2\theta=1\\
+\text{vii)}\quad &\sec^2\theta=1+\tan^2\theta
+&
+\text{viii)}\quad &\operatorname{Cosec}^2\theta=1+\cot^2\theta
+\end{align*}
+
+\[
+\text{ix)}\quad \pi^{c}=180^\circ
+\]
+
+\[
+\text{x)}\quad \text{length of arc }s=r\theta
+\]
+
+\[
+\text{xi)}\quad \text{Area of sector}=\frac{1}{2}r^2\theta
+\]
+
+\subsection*{3) Trigonometry Ratios of Standard Angles:}
+
+\[
+\begin{array}{c|c|c|c|c|c|c|c|c}
+\text{T. Ratios} & 0^\circ & 30^\circ & 45^\circ & 60^\circ
+& 90^\circ & 180^\circ & 270^\circ & 360^\circ\\ \hline
+\sin & 0 & \frac12 & \frac1{\sqrt2} & \frac{\sqrt3}{2}
+& 1 & 0 & -1 & 0\\[4pt]
+\cos & 1 & \frac{\sqrt3}{2} & \frac1{\sqrt2} & \frac12
+& 0 & -1 & 0 & 1\\[4pt]
+\tan & 0 & \frac1{\sqrt3} & 1 & \sqrt3
+& \infty & 0 & \infty & 0
+\end{array}
+\]
+
+\subsection*{3) Sign Convention:}
+
+\[
+\begin{array}{c|c}
+\text{Sin} & \text{All}\\
+\text{II} & \text{I}\\ \hline
+\text{Tan} & \text{Cos}\\
+\text{III} & \text{IV}
+\end{array}
+\qquad\qquad
+\begin{array}{c|c|c|c}
+\text{Quadrant} & \sin & \cos & \tan\\ \hline
+\text{I} & + & + & +\\
+\text{II} & + & - & -\\
+\text{III} & - & - & +\\
+\text{IV} & - & + & -
+\end{array}
+\]
+
+The above information can be conveniently remembered with the phrase
+``Add Sugar To Coffee''
+
+\subsection*{4) Allied - Angles:}
+
+\[
+\begin{aligned}
+\text{1)}\quad
+\sin(-\theta)&=-\sin\theta\\
+\cos(-\theta)&=\cos\theta\\
+\tan(-\theta)&=-\tan\theta\\
+\cot(-\theta)&=-\cot\theta\\
+\sec(-\theta)&=\sec\theta\\
+\operatorname{Cosec}(-\theta)&=-\operatorname{Cosec}\theta
+\end{aligned}
+\qquad
+\begin{aligned}
+\text{2)}\quad
+\sin(90^\circ-\theta)&=\cos\theta\\
+\cos(90^\circ-\theta)&=\sin\theta\\
+\tan(90^\circ-\theta)&=\cot\theta\\
+\cot(90^\circ-\theta)&=\tan\theta\\
+\sec(90^\circ-\theta)&=\operatorname{Cosec}\theta\\
+\operatorname{Cosec}(90^\circ-\theta)&=\sec\theta
+\end{aligned}
+\]
+
+\subsection*{5) Compound Angles:}
+
+\begin{align*}
+\text{i)}\quad
+\sin(A+B)&=\sin A\cos B+\cos A\sin B\\
+\text{ii)}\quad
+\sin(A-B)&=\sin A\cos B-\cos A\sin B\\
+\text{iii)}\quad
+\cos(A+B)&=\cos A\cos B-\sin A\sin B\\
+\text{iv)}\quad
+\cos(A-B)&=\cos A\cos B+\sin A\sin B
+\end{align*}
+
+\[
+\text{v)}\quad
+\tan(A+B)=\frac{\tan A+\tan B}{1-\tan A\tan B}
+\]
+
+\[
+\text{vi)}\quad
+\tan(A-B)=\frac{\tan A-\tan B}{1+\tan A\tan B}
+\]
+
+\subsection*{6) Multiple Angle and Sub Multiple Angle:}
+
+\[
+\sin 2A=2\sin A\cos A
+\]
+
+\[
+\cos 2A=\cos^2A-\sin^2A
+\]
+
+\[
+\tan 2A=\frac{2\tan A}{1-\tan^2A}
+\]
+
+% Part of the left-hand side of this section is obscured by a tear.
+
+\begin{align*}
+\text{i)}\quad
+\sin A&=2\sin\frac{A}{2}\cos\frac{A}{2}\\[4pt]
+\text{ii)}\quad
+\cos A&=\cos^2\frac{A}{2}-\sin^2\frac{A}{2}\\[4pt]
+\text{iii)}\quad
+\cos A&=1-2\sin^2\frac{A}{2}\\[4pt]
+\text{iv)}\quad
+\cos A&=2\cos^2\frac{A}{2}-1\\[4pt]
+\text{v)}\quad
+\cos A&=\frac{1-\tan^2\frac{A}{2}}{1+\tan^2\frac{A}{2}}\\[4pt]
+\text{vi)}\quad
+\sin A&=\frac{2\tan\frac{A}{2}}{1+\tan^2\frac{A}{2}}\\[4pt]
+\text{vii)}\quad
+\tan A&=\frac{2\tan\frac{A}{2}}{1-\tan^2\frac{A}{2}}\\[4pt]
+\text{viii)}\quad
+1-\cos A&=2\sin^2\frac{A}{2}
+\end{align*}
+
+\subsection*{7) Triple Angle Formulae :-}
+
+\begin{align*}
+\text{i)}\quad
+\sin3\theta&=3\sin\theta-4\sin^3\theta\\
+\text{ii)}\quad
+\cos3\theta&=4\cos^3\theta-3\cos\theta
+\end{align*}
+
+\[
+\text{iii)}\quad
+\tan3\theta=\frac{3\tan\theta-\tan^3\theta}{1-3\tan^2\theta}
+\]
+
+\[
+\text{iv)}\quad
+\cos^3\theta=\frac{\cos3\theta+3\cos\theta}{4}
+\qquad
+\text{v)}\quad
+\sin^3\theta=\frac{3\sin\theta-\sin3\theta}{4}
+\]
+
+\subsection*{8) Factorization Formulae :-}
+
+\[
+\text{i.}\quad
+\sin C+\sin D
+=2\sin\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)
+\]
+
+\[
+\text{ii.}\quad
+\sin C-\sin D
+=2\cos\left(\frac{C+D}{2}\right)\sin\left(\frac{C-D}{2}\right)
+\]
+
+\[
+\text{iii.}\quad
+\cos C+\cos D
+=2\cos\left(\frac{C+D}{2}\right)\cos\left(\frac{C-D}{2}\right)
+\]
+
+\[
+\begin{aligned}
+\text{iv.}\quad\cos C-\cos D
+&=2\sin\left(\frac{C+D}{2}\right)
+  \sin\left(\frac{C-D}{2}\right)
+&&\text{if }C>D\\
+&=2\sin\left(\frac{C+D}{2}\right)
+  \sin\left(\frac{D-C}{2}\right)
+&&\text{if }D>C
+\end{aligned}
+\]
+
+\subsection*{9) Defactorization formulae :-}
+
+\begin{align*}
+\text{i.}\quad
+2\sin A\cos B&=\sin(A+B)+\sin(A-B)\\
+\text{ii.}\quad
+2\cos A\sin B&=\sin(A+B)-\sin(A-B)\\
+\text{iii.}\quad
+2\cos A\cos B&=\cos(A+B)+\cos(A-B)\\
+\text{iv.}\quad
+2\sin A\sin B&=\cos(A-B)-\cos(A+B)
+\end{align*}
+
+\section*{Co - Ordinate Geometry (2D)}
+
+\noindent\textbf{1. Distance Formula:}
+\[
+\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}
+\]
+
+\noindent\textbf{2. Section Formula:}
+\[
+P(x,y)=
+\left(
+\frac{mx_2+nx_1}{m+n},
+\frac{my_2+ny_1}{m+n}
+\right)
+\qquad\text{Internally}
+\]
+
+\[
+Q(x,y)=
+\left(
+\frac{mx_2-nx_1}{m-n},
+\frac{my_2-ny_1}{m-n}
+\right)
+\qquad\text{Externally}
+\]
+
+\noindent\textbf{3. Mid point Formula:}
+\[
+\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)
+\]
+
+\noindent\textbf{4. Centroid of triangle:}
+\[
+G\left(
+\frac{x_1+x_2+x_3}{3},
+\frac{y_1+y_2+y_3}{3}
+\right)
+\]
+
+\noindent\textbf{5. Area of triangle:}
+\[
+\triangle=\frac12
+\left[
+x_1(y_2-y_3)+x_2(y_3-y_1)+x_3(y_1-y_2)
+\right]
+\]
+
+\noindent\textbf{6. Slope of straight line:}
+\[
+m=\tan\theta
+\]
+
+\noindent\textbf{7. One point Form:}
+\[
+y-y_1=m(x-x_1)
+\]
+
+\noindent\textbf{8. Slope Intercept from:}
+\[
+y=mx+C
+\]
+
+\noindent\textbf{9. Two point Form:}
+\[
+\frac{y-y_1}{x-x_1}
+=
+\frac{y_2-y_1}{x_2-x_1}
+\]
+
+\noindent\textbf{10. Intercept Form:}
+\[
+\frac{x}{a}+\frac{y}{b}=1
+\]
+
+\noindent\textbf{11. Normal Form:}
+\[
+x\cos\alpha+y\sin\alpha=p
+\]
+
+\noindent\textbf{12. Slope of line \(ax+by+c=0\) is}
+\[
+-\frac{a}{b}
+\]
+
+\noindent\textbf{13. Intersection fo two lines:}
+\[
+L_1+\lambda L_2=0
+\]
+
+\noindent\textbf{14. Angle between two s.t lines:}
+\[
+\tan\theta=
+\left|
+\frac{m_1-m_2}{1+m_1m_2}
+\right|
+\]
+
+\noindent\textbf{15. If the lines are parallel:}
+\[
+m_1=m_2
+\]
+If the lines are \(\perp\):
+\[
+m_1m_2=-1
+\]
+
+\noindent\textbf{16. Length of \(\perp\) form:}
+\[
+\left|
+\frac{ax_1+by_1+c}{\sqrt{a^2+b^2}}
+\right|
+\]
+
+\noindent\textbf{17. Bisector Equations:}
+\[
+\frac{ax+by+c}{\sqrt{a^2+b^2}}
+=
+\pm
+\frac{a_1x+b_1y+c_1}{\sqrt{a_1^2+b_1^2}}
+\]
+
+\noindent\textbf{18. Distance bet\(^{\mathrm{n}}\) parallel lines:}
+\[
+\left|
+\frac{c_1-c_2}{\sqrt{a^2+b^2}}
+\right|
+\]
+
+\noindent\textbf{19. Homogeneous Equation:}
+\[
+ax^2+2hxy+by^2=0
+\]
+\[
+\tan\theta=
+\left|
+\frac{2\sqrt{h^2-ab}}{a+b}
+\right|
+\]
+
+\noindent\textbf{20. General Equation:}
+\[
+ax^2+2hxy+by^2+2gx+2fy+c=0
+\]
+represents a pair of lines
+
+If
+\[
+abc+2fgh-af^2-bg^2-ch^2=0
+\]
+
+Point of intersection
+\[
+(x,y)=
+\left(
+\frac{hf-bg}{ab-h^2},
+\frac{hg-af}{ab-h^2}
+\right)
+\]
+
+\section*{Co - Ordinate Geometry (3D)}
+
+\noindent\textbf{1. Distance Formula:}
+\[
+\sqrt{(x_2-x_1)^2+(y_2-y_1)^2+(z_2-z_1)^2}
+\]
+
+\noindent\textbf{2. Section Formula:}
+\[
+\left(
+\frac{mx_2+nx_1}{m+n},
+\frac{my_2+ny_1}{m+n},
+\frac{mz_2+nz_1}{m+n}
+\right)
+\qquad\text{Internally}
+\]
+
+% The sheet continues below the crop.
+% A narrow additional column at the extreme right is too cropped to transcribe.
+```

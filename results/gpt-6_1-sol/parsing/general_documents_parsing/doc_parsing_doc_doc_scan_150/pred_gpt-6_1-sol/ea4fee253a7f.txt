@@ -1,0 +1,156 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{tikz}
+\usepackage{enumitem}
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+\textbf{Prerana Model paper-1}
+\qquad
+\textbf{MCQ questions}
+\qquad
+\tikz[baseline=(click.base)]{
+  \node[draw=blue,ellipse,inner sep=2pt] (click) {\textbf{click}};
+}
+\textbf{the correct one}
+\end{center}
+
+\begin{enumerate}[label=\arabic*.,leftmargin=*,itemsep=1.3em]
+
+\item Sum of ``\(n\)'' terms of the Arithmetic Progression
+\(\mathbf{1+3+5+7+9+\ldots\ldots\ldots}\) which one is correct
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) \(n(n+1)\)} &
+\textbf{B) \(n^2\)} &
+\textbf{C) 25} &
+\textbf{D) \(2n\)}
+\end{tabular*}
+
+\item Solutions of the equation
+\(a_1x+b_1y+c_1=0\) and \(a_2x+b_2y+c_2=0\) are
+consistent then the correct form among the following is.
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A)} \(\displaystyle \frac{a_1}{a_2}\ne\frac{b_1}{b_2}\) &
+\textbf{B)} \(\displaystyle \frac{a_1}{a_2}=\frac{b_1}{b_2}\) &
+\textbf{C)} \(\displaystyle \frac{a_1}{b_1}=\frac{a_2}{b_2}=\frac{c_2}{c_1}\) &
+\textbf{D)} \(\displaystyle \frac{a_1}{a_2}=\frac{b_1}{b_2}\ne\frac{c_1}{c_2}\)
+\end{tabular*}
+
+\item In a quadratic equation the value of the discriminant is -33 then the equation has
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}ll}
+\textbf{A) Real \& distinct roots} &
+\textbf{B) Real \& equal roots} \\
+\textbf{C)not real roots} &
+\textbf{D) rational and distinct roots.}
+\end{tabular*}
+
+\item If \(\mathbf{\tan A=1}\) then the value A is
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) \(90^0\)} &
+\textbf{B) \(0^0\)} &
+\textbf{C) \(60^0\)} &
+\textbf{D) \(45^0\)}
+\end{tabular*}
+
+\item When a cone is cut by a plane horizontally, parallel to base of the cone then the part
+other than smaller cone obtained is called.
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) Frustum of cone} &
+\textbf{B) cylinder} &
+\textbf{C) major cone} &
+\textbf{D) Hemisphere}
+\end{tabular*}
+
+\item Formula used to find volume of right circular cylinder is
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A)} \(\boldsymbol{\pi rh^2}\) &
+\textbf{B)} \(\displaystyle \boldsymbol{\frac{2}{3}\pi r^2h}\) &
+\textbf{C)} \(\displaystyle \boldsymbol{\frac{1}{3}\pi r^2h}\) &
+\textbf{D)} \(\boldsymbol{\pi r^2h}\)
+\end{tabular*}
+
+\item The coordinates of the midpoint of the line joining the points (3,7) and (5,5) is
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) (4,6)} &
+\textbf{B) (6,4)} &
+\textbf{C) (2,-2)} &
+\textbf{D) (4,4)}
+\end{tabular*}
+
+\item Roots of the quadratic equation
+\(\mathbf{(2x+1)(x+2)=0}\) are
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A)} \(\displaystyle \boldsymbol{\frac{1}{2}}\) \textbf{and 2} &
+\textbf{B)} \(\displaystyle \boldsymbol{\frac{-1}{2}}\) \textbf{and -2} &
+\textbf{C)} \(\displaystyle \boldsymbol{\frac{-1}{2}}\) \textbf{and 2} &
+\textbf{D)} \(\displaystyle \boldsymbol{\frac{1}{2}}\) \textbf{and -2}
+\end{tabular*}
+
+\item \(\mathbf{2x^2+3x-5=0}\) Discriminant value of this quadratic equation?
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) 19} &
+\textbf{B) -49} &
+\textbf{C) -31} &
+\textbf{D) 49}
+\end{tabular*}
+
+\item \textbf{AR, AD, AB, AP \& PC} are the tangents of the circle of centre O .\\
+which relations is correct?
+
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}llll}
+\textbf{A) AP=AR} &
+\textbf{B) AR = RD} &
+\textbf{C) RA = PC} &
+\textbf{D) RA = RB}
+\end{tabular*}
+
+\begin{flushright}
+\begin{tikzpicture}[scale=1.05,line width=0.8pt]
+  \coordinate (O) at (0,0);
+  \coordinate (P) at (-2.2,-0.25);
+  \coordinate (R) at (2.5,0.65);
+  \coordinate (A) at (-0.03,1);
+  \coordinate (B) at (0.55,-0.84);
+  \coordinate (C) at (-0.37,-0.93);
+  \coordinate (D) at (0.20,-0.43);
+
+  \draw (O) circle (1);
+  \draw (O) circle (0.48);
+  \draw (P)--(A)--(R)--(B);
+  \draw (P)--(C);
+  \draw (D)--(R);
+
+  \node[above] at (A) {\small A};
+  \node[right] at (R) {\small R};
+  \node[below right] at (B) {\small B};
+  \node[below] at (C) {\small C};
+  \node[below right] at (D) {\small D};
+  \node[left] at (P) {\small P};
+  \node[above] at (O) {\small O};
+  \fill (O) circle (0.02);
+\end{tikzpicture}
+\end{flushright}
+
+\end{enumerate}
+
+\vfill
+\noindent
+{\scriptsize\textbf{SUDEESHA BC MYSURU}}
+\hfill
+{\Large\textbf{LIVEWORKSHEETS}}
+
+\end{document}
+```

@@ -1,0 +1,58 @@
+\[
+\langle x,y\rangle \equiv \sum_{\tau\in\Gamma/\Gamma_{n}}
+\left(\tau^{-1}\operatorname{pr}_{n}(x),\operatorname{pr}_{n}(y)\right)_{n}\tau
+\pmod{\gamma_{n}-1}
+\]
+
+\[
+\begin{aligned}
+\int_{U_{n}(n^{-1/2+\varepsilon})}
+\phi_{1}^{4}e^{-a_{n}\vec{\theta}^{T}\hat{Q}\vec{\theta}-R_{1}(\vec{\theta})}
+\,d\vec{\theta}
+&\le c'n^{2}\int_{U_{n}(n^{-1/2+\varepsilon})}
+e^{-a_{n}\vec{\theta}^{T}\hat{Q}\vec{\theta}-R_{1}(\vec{\theta})}
+\,d\vec{\theta} \\
+&\quad+O\!\left(\exp(-cn^{2\varepsilon})\right)
+\int_{\mathbb{R}^{n}}e^{-a_{n}\vec{\theta}^{T}\hat{Q}\vec{\theta}}
+\,d\vec{\theta}
+\end{aligned}
+\]
+
+\[
+\sqrt{qr}\,\varepsilon_{(qr)}^{*}\tilde{c}\,
+\delta_{\tilde{c}\mid h+\beta\tilde{r}}
+\sum_{x(qr)}^{*}e\!\left(\frac{k\bar{x}}{qr}\right)
+\chi_{(qr)}^{*}(x)e\!\left(\frac{-4\bar{x}\gamma^{2}}{qr}\right)
+\]
+
+\[
+\left(\mathcal{G}_{\Lambda(r,k,m)}(|a|,|b|)\right)
+=
+\left\{
+\sum_{k=-\infty}^{\infty}
+|a_{n+k}b_{n-k}|\,\Lambda_{k}^{(r,k,m)}
+\right\}_{n=-\infty}^{\infty}
+\]
+
+\[
+\frac{1}{\sqrt{N}}\sin(\sqrt{N}\eta t)
+\sum_{j=1}^{N}|1\rangle_{1}\cdots|0\rangle_{j}\cdots|1\rangle_{N}|1\rangle_{c}
+\]
+
+\[
+F_{\varepsilon_{n}}(u_{n},A)
+\ge c\sum_{i\in Z_{\varepsilon}(A)}\sum_{k=1}^{N}
+\varepsilon^{N}\left|D_{\varepsilon_{n}}^{e_{k}}u_{n}(i)\right|^{p}
+-cN|A|
+\]
+
+\[
+\tilde{R}_{h}^{\frac{1}{2};j}
+=
+\begin{pmatrix}
+\tilde{T} & h\tilde{T}^{\frac{1}{2}}e &
+-h\tilde{H}+\frac{h}{4}\left(\tilde{T}-\tilde{T}^{-1}\right)\\
+0 & 1 & -h\tilde{T}^{-\frac{1}{2}}e\\
+0 & 0 & \tilde{T}^{-1}
+\end{pmatrix},
+\]

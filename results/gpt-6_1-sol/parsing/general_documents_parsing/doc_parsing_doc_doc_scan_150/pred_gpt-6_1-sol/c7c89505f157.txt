@@ -1,0 +1,247 @@
+```latex
+\documentclass[UTF8,a4paper]{ctexart}
+\usepackage[margin=1.7cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{tikz}
+\usepackage{circuitikz}
+\usepackage{caption}
+\usepackage{xcolor}
+\pagestyle{empty}
+
+\begin{document}
+
+\noindent
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lll}
+第28卷第2期 & 水\quad 电\quad 能\quad 源\quad 科\quad 学 & Vol.28 No.2\\
+2010年2月 & Water Resources and Power & Feb.2010
+\end{tabular*}
+\par\noindent\rule{\textwidth}{0.5pt}
+\vspace{-1em}
+\par\noindent\rule{\textwidth}{0.5pt}
+
+\medskip
+\noindent\textbf{文章编号：}1000-7709(2010)02-0155-03
+
+\vspace{1.8cm}
+\begin{center}
+{\LARGE\bfseries 变频串联谐振在变压器交流耐压试验中的应用}
+
+\vspace{1cm}
+{\large 林梅芬$^{1}$\qquad 许\quad 晶$^{2}$}
+
+\medskip
+（1. 福建水利电力职业技术学院，福建 永安 366000；
+2. 绍兴电力局，浙江 绍兴 312000）
+\end{center}
+
+\medskip
+\noindent\textbf{摘要：}
+采用变频串联谐振对大中型变压器进行交流耐压试验，并与常规的交流耐压试验方法进行比较。
+结果表明，变频串联谐振耐压试验技术电源容量小、试验设备体积小、不对试验品造成损伤，
+可完成常规试验变压器不能解决的试验。
+
+\noindent\textbf{关键词：}
+变频；串联谐振；大中型变压器；耐压试验；容量
+
+\noindent
+\textbf{中图分类号：}TM406
+\hspace{5cm}
+\textbf{文献标志码：}A
+
+\bigskip
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\setlength{\parindent}{2em}
+
+在电力系统交接预防性试验中，交流耐压试验是鉴定电力设备绝缘强度的最严格、
+最有效和最直接的试验方法之一，也是确保设备绝缘水平、
+避免发生绝缘事故的重要手段$^{[1]}$。
+交流耐压试验虽对发现绝缘缺陷有效，但受试验条件限制。
+35 kV及8 000 kVA以上变压器耐压试验因电容电流较大，
+要求高电压试验变压器的额定电流为100 mA以上，
+目前这样的高电压试验变压器及调压器尚不够普遍$^{[2]}$，
+且试验变压器容量大、试验设备笨重，不便搬运，给现场试验带来了难度。
+鉴此，本文采用变频串联谐振法实现利用电压及容量小得多的设备产生所需的试验电压，
+满足了试验要求$^{[2]}$，效果较好。
+
+\section*{1\quad 原理}
+
+图1为串联谐振基本原理图。串联回路电流：
+\begin{equation}
+I=U/\left\{R^{2}+\left[\omega L-1/(\omega C)\right]^{2}\right\}^{1/2}
+\tag{1}
+\end{equation}
+式中，$R$为电阻；$\omega$为角频率；$L$为电感；$C$为电容。
+
+\begin{center}
+\begin{circuitikz}[scale=0.82,transform shape]
+\draw
+(0,0) to[sV,l_=$U_s$] (0,2)
+to[R,l=$R$] (2.4,2)
+to[L,l=$L$] (4.8,2)
+-- (5.5,2)
+to[C,l=$C$] (5.5,0)
+-- (0,0);
+\draw[->] (1.1,1.65) -- (2.1,1.65)
+node[midway,below] {$I$};
+\node at (-0.38,1.55) {$+$};
+\node at (-0.38,0.45) {$-$};
+\end{circuitikz}
+
+\textbf{图1\quad 串联谐振基本原理图}
+
+\smallskip
+Fig.1\quad Basic principle diagram of series resonance
+\end{center}
+
+对串联回路，流过各元件的电流相等。
+当$\omega L=1/(\omega C)$时，回路即处于串联谐振状态$^{[3]}$，
+此时的频率称为谐振频率：
+\begin{equation}
+f_0=1/\left(2\pi\sqrt{LC}\right)
+\tag{2}
+\end{equation}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\setlength{\parindent}{2em}
+
+流过整个串联回路的电流$I=U/R$最大$^{[3]}$，则：
+\begin{equation}
+\begin{aligned}
+U_{\mathrm{Cmax}}
+&=I[1/(\omega C)]\\
+&=U/(\omega CR)=U(\omega L/R)
+\end{aligned}
+\tag{3}
+\end{equation}
+
+令
+\[
+Q=1/(\omega CR)=\omega L/R
+\]
+式中，$Q$为谐振回路的品质因数，则$U_{\mathrm{Cmax}}=QU$。
+
+一般回路中的$R$较小，$Q$很大。
+在大多数正常情况下$Q$值约达50$^{[4]}$。
+
+根据不同调节方式，串联谐振装置分为工频串联谐振装置
+（带可调电抗器或带固定电抗器和调谐用电容器组，工作频率50 Hz）
+和变频串联谐振装置
+（带固定电抗器，工作频率一般10～300 Hz）两大类。
+本文采用变频串联谐振装置，其原理如图2所示。
+装置由变频电源、励磁变、高压电抗器
+（Ⅰ组：每台额定电压55 kV，额定电流1 A，
+额定电感量200 H，共4台；Ⅱ组：每台额定电压60 kV，
+额定电流2.5 A，额定电感量120 H，共4台）、
+分压器（电容量1 000 pF）、高压补偿电容器、被试品电容等组成。
+
+\begin{center}
+\begin{tikzpicture}[x=0.7cm,y=0.7cm,font=\small]
+% 变频电源
+\draw (0,0) rectangle (1.8,2.1);
+\node[above] at (0.9,2.1) {变频电源};
+\draw (0.9,1.05) circle (0.47);
+\draw[->] (0.58,1.05) -- (1.22,1.05);
+\foreach \y/\lab in {1.65/U,1.1/V,0.55/W}{
+  \draw (-0.7,\y) -- (0,\y);
+  \node[left] at (-0.7,\y) {$\lab$};
+}
+
+% 励磁变
+\draw (1.8,1.7) -- (2.35,1.7);
+\draw (1.8,0.35) -- (2.35,0.35);
+\draw (2.35,1.7)
+  .. controls (2.7,1.65) and (2.7,1.4) .. (2.35,1.35)
+  .. controls (2.7,1.3) and (2.7,1.05) .. (2.35,1)
+  .. controls (2.7,0.95) and (2.7,0.7) .. (2.35,0.65)
+  .. controls (2.7,0.6) and (2.7,0.4) .. (2.35,0.35);
+\draw (2.83,0.35) -- (2.83,1.7);
+\draw (2.95,0.35) -- (2.95,1.7);
+\draw (3.4,1.7)
+  .. controls (3.05,1.65) and (3.05,1.4) .. (3.4,1.35)
+  .. controls (3.05,1.3) and (3.05,1.05) .. (3.4,1)
+  .. controls (3.05,0.95) and (3.05,0.7) .. (3.4,0.65)
+  .. controls (3.05,0.6) and (3.05,0.4) .. (3.4,0.35);
+\node[above] at (2.9,1.95) {励磁变};
+
+% 电抗器
+\draw (3.4,1.7) -- (3.8,1.7);
+\draw (3.8,1.7)
+  .. controls (3.85,2.02) and (4.1,2.02) .. (4.15,1.7)
+  .. controls (4.2,2.02) and (4.45,2.02) .. (4.5,1.7)
+  .. controls (4.55,2.02) and (4.8,2.02) .. (4.85,1.7);
+\draw (4.85,1.7) -- (8.25,1.7);
+\node[above] at (4.35,2) {电抗器};
+
+% 公共回路
+\draw (3.4,0.35) -- (8.25,0.35);
+
+% 分压器
+\draw (4.85,1.7) -- (4.85,0.35);
+\node[align=center,left] at (4.85,1.03) {分\\压\\器};
+
+% 补偿电容
+\draw (5.65,1.7) -- (5.65,1.15);
+\draw (5.38,1.15) -- (5.92,1.15);
+\draw (5.38,0.96) -- (5.92,0.96);
+\draw (5.65,0.96) -- (5.65,0.35);
+\node[align=center,right] at (5.82,1.25) {补偿\\电容};
+\node[right] at (5.78,0.63) {$C$};
+
+% 被试品电容
+\draw (7.15,1.7) -- (7.15,1.08);
+\draw (6.88,1.08) -- (7.42,1.08);
+\draw (6.88,0.89) -- (7.42,0.89);
+\draw (7.15,0.89) -- (7.15,0.35);
+\node[above] at (7.65,1.08) {被试品};
+\node[right] at (7.18,0.7) {$C_x$};
+
+% 接地
+\draw (8.25,1.7) -- (8.25,-0.2);
+\draw (8.05,-0.2) -- (8.45,-0.2);
+\draw (8.11,-0.29) -- (8.39,-0.29);
+\draw (8.17,-0.38) -- (8.33,-0.38);
+\node[left] at (8.1,0.04) {接地};
+
+% 峰值测量
+\draw (1.8,0.35) -- (1.8,-0.4) -- (2.55,-0.4);
+\draw (2.55,-0.68) rectangle (4.25,-0.13);
+\node at (3.4,-0.405) {峰值测量};
+\draw (4.25,-0.4) -- (4.85,-0.4) -- (4.85,0.35);
+\end{tikzpicture}
+
+\textbf{图2\quad 变频串联谐振成套试验装置原理图}
+
+\smallskip
+Fig.2\quad Diagram of experiments equipment using series
+
+resonance with variational frequency
+\end{center}
+
+\section*{2\quad 实例}
+
+以浙江绍兴电力局现有设备对变压器进行交
+
+\end{minipage}
+
+\bigskip
+\noindent\rule{0.24\textwidth}{0.4pt}
+
+\small
+\noindent\textbf{收稿日期：}2009-10-01，
+\textbf{修回日期：}2009-10-30
+
+\noindent\textbf{作者简介：}
+林梅芬（1975-），女，讲师，研究方向为电力系统预防性试验。
+E-mail:lmf2835@126.com
+
+\medskip
+\noindent{\color{gray}
+(C)1994-2023 China Academic Journal Electronic Publishing House.
+All rights reserved.\quad http://www.cnki.net
+}
+
+\end{document}
+```

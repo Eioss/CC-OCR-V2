@@ -1,0 +1,12 @@
+```latex
+\begin{align*}
+&\|\psi(u) - \psi(v)\|_X \\
+&\le \| |D|^{s_p - \frac{1}{2}} (|u|^{p-1} u g(|u|) - |v|^{p-1} v g(|v|)) \|_{\widetilde{W}^{(0,T_1)}} + \| |D|^{2 - \frac{1}{2}} (|u|^{p-1} u g(|u|) - |v|^{p-1} v g(|v|)) \|_{\widetilde{W}^{(0,T_1)}} \\
+&\le g(\|u\|_{L^\infty_{t} L^\infty_x([0,T_1])}) \times \\
+&\quad \left( (\|u\|_{S([0,T_1])}^{p-1} + \|v\|_{S([0,T_1])}^{p-1}) (\| |D|^{s_p - \frac{1}{2}} (u-v) \|_{W([0,T_1])} + \| |D|^{2 - \frac{1}{2}} (u-v) \|_{W([0,T_1])}) \right. \\
+&\quad \left. + (\|u\|_{S([0,T_1])}^{p-2} + \|v\|_{S([0,T_1])}^{p-2}) (\| |D|^{s_p - \frac{1}{2}} u \|_{W([0,T_1])} + \| |D|^{2 - \frac{1}{2}} u \|_{W([0,T_1])} + \| |D|^{s_p - \frac{1}{2}} v \|_{W([0,T_1])} \right. \\
+&\quad \left. + \| |D|^{2 - \frac{1}{2}} v \|_{W([0,T_1])}) \right) \\
+&\quad \|u-v\|_{S([0,T_1])} \\
+&\le (g(2CM)(2\delta)^{p-1} + (2\delta)^{p-2}(2CM)) \|u-v\|_X
+\end{align*}
+```

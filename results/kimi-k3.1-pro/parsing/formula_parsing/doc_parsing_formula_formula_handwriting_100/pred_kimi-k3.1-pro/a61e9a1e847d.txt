@@ -1,0 +1,43 @@
+\[
+T
+\begin{bmatrix}
+Q_{F}^{p} & Q_{F}^{u} & Q_{F}^{b} \\
+Q_{uF}^{p} & Q_{uF}^{u} & Q_{uF}^{b} \\
+Q_{bF}^{p} & Q_{bF}^{u} & Q_{bF}^{b}
+\end{bmatrix}
+\begin{bmatrix}
+X_{U}^{p} \\
+X_{U}^{u} \\
+X_{U}^{b}
+\end{bmatrix}
+=
+-\frac{1}{3}
+\begin{bmatrix}
+X_{F}^{p} \\
+X_{F}^{u} \\
+X_{F}^{b}
+\end{bmatrix}
+-\frac{1}{2}
+\begin{bmatrix}
+X_{T}^{p} & X_{T}^{u} & X_{T}^{b} \\
+X_{U}^{p} & X_{U}^{u} & X_{U}^{b} \\
+X_{C}^{p} & X_{C}^{u} & X_{C}^{b}
+\end{bmatrix}
+\begin{bmatrix}
+Q_{F}^{p} \\
+Q_{F}^{u} \\
+Q_{F}^{b}
+\end{bmatrix}
+=
+-\frac{2}{3}
+\begin{bmatrix}
+X_{U}^{p} & X_{U}^{u} & X_{U}^{b} \\
+X_{U}^{p} & X_{U}^{u} & X_{U}^{b} \\
+X_{C}^{p} & X_{C}^{u} & X_{C}^{b}
+\end{bmatrix}
+\begin{bmatrix}
+Q_{F}^{p} \\
+Q_{F}^{u} \\
+Q_{F}^{b}
+\end{bmatrix}
+\]

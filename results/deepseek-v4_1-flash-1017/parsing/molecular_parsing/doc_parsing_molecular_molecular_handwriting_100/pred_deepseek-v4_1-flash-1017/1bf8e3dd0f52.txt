@@ -1,0 +1,9 @@
+Based on the provided image, here is the extracted chemical structure in SMILES format:
+
+`CN1C(=O)[C@@H](NC(=O)c2cc(Oc3ccccc3)ccn2)COc4cc(C#CC5CCO5)cnc41`
+
+**Explanation of the structure:**
+*   **Core:** The central part is a bicyclic system containing a pyridine ring fused to a 7-membered oxazepanone ring.
+*   **Left side:** A cyclobutyl ring (drawn as a square) is connected via an alkyne (triple bond) to the pyridine ring.
+*   **Right side:** An amide linker connects the central core to a pyridine ring, which is further substituted with a phenoxy group.
+*   **Stereochemistry:** The `[C@@H]` notation indicates the specific stereochemistry at the chiral center on the 7-membered ring, as depicted by the wedged bond in the image.

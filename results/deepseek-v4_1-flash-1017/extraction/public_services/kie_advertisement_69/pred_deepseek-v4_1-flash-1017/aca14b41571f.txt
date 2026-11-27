@@ -1,0 +1,8 @@
+```json
+{
+  "gross_amount": "$1,450.00",
+  "advertiser": "POL/American Action Network PAC",
+  "flight_from": "01/18/20",
+  "flight_to": "01/24/20"
+}
+```

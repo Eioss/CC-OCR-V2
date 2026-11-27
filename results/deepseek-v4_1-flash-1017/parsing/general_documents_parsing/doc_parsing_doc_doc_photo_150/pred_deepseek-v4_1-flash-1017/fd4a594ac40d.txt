@@ -1,0 +1,153 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{graphicx}
+
+% Adjust margins to match the document layout
+\geometry{
+    top=1in,
+    bottom=1in,
+    left=1in,
+    right=1in
+}
+
+\begin{document}
+
+% Header Section
+\noindent
+\begin{minipage}{0.2\textwidth}
+    \raggedright
+    \textbf{অযোোমর}
+\end{minipage}%
+\begin{minipage}{0.6\textwidth}
+    \centering
+    \textbf{89}
+\end{minipage}%
+\begin{minipage}{0.2\textwidth}
+    \raggedleft
+    \textbf{১০৯}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{\Large Ka Set} \\
+    \vspace{0.3cm}
+    \textbf{\large JUNIOR SCHOOL CERTIFICATE EXAMINATION,} \\
+    \vspace{0.2cm}
+    \textbf{ENGLISH} \\
+    \vspace{0.2cm}
+    SECOND PAPER
+\end{center}
+
+\vspace{0.3cm}
+
+\noindent
+\begin{minipage}{0.6\textwidth}
+    \raggedright
+    \textbf{Subject Code :}
+\end{minipage}%
+\begin{minipage}{0.4\textwidth}
+    \raggedleft
+    \framebox[3cm]{\textbf{1 \hspace{0.3cm} 0 \hspace{0.3cm} 8}}
+\end{minipage}
+
+\vspace{0.3cm}
+
+\begin{center}
+    Time---2 hours \\
+    Full marks---50
+\end{center}
+
+\vspace{0.2cm}
+
+\noindent
+\textit{[N.B.---The figures in the right margin indicate full marks.]}
+
+\vspace{0.3cm}
+
+\begin{center}
+    \textbf{Section A---Grammar} \\
+    Marks---30
+\end{center}
+
+\vspace{0.3cm}
+
+% Question 1
+\noindent
+\begin{minipage}{\textwidth}
+    \textbf{1.} Fill in the gaps of the following text with appropriate articles. Put a cross (\(\times\)) where there is no article applicable :--- \hfill \textbf{0.5\(\times\)6} \\
+    \hfill \textbf{=3}
+\end{minipage}
+
+\vspace{0.2cm}
+
+\noindent
+I live in Rajshahi. My elder brother who is \textit{(a)} \underline{\hspace{1.5cm}} engineer, works in Dhaka. Last summer he asked me to stay \textit{(b)} \underline{\hspace{1.5cm}} few days with him and sent me \textit{(c)} \underline{\hspace{1.5cm}} plane ticket. That was my first journey by air. I arrived at \textit{(d)} \underline{\hspace{1.5cm}} airport about \textit{(e)} \underline{\hspace{1.5cm}} hour before the flight. It was \textit{(f)} \underline{\hspace{1.5cm}} enjoyable plane journey.
+
+\vspace{0.5cm}
+
+% Question 2
+\noindent
+\begin{minipage}{\textwidth}
+    \textbf{2.} Fill in the blanks of the following text with prepositions given in the box :--- \hfill \textbf{0.5\(\times\)6} \\
+    \hfill \textbf{=3}
+\end{minipage}
+
+\vspace{0.2cm}
+
+\begin{center}
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|c|c|c|c|c|c|}
+        \hline
+        for & to & in & with & about & after \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\vspace{0.2cm}
+
+\noindent
+Money is a must \textit{(a)} \underline{\hspace{1.5cm}} our life. But one should not run after money because those who hanker \textit{(b)} \underline{\hspace{1.5cm}} money cannot enjoy mental peace. Sometimes, it may lead one \textit{(c)} \underline{\hspace{1.5cm}} some unexpected troubles. It also happens that greed \textit{(d)} \underline{\hspace{1.5cm}} money brings \textit{(e)} \underline{\hspace{1.5cm}} many problems. So we should be contented \textit{(f)} \underline{\hspace{1.5cm}} what we have.
+
+\vspace{0.5cm}
+
+% Question 3
+\noindent
+\begin{minipage}{\textwidth}
+    \textbf{3.} Make four meaningful sentences from the substitution table :--- \hfill \textbf{1\(\times\)4=4}
+\end{minipage}
+
+\vspace{0.3cm}
+
+\begin{center}
+    \renewcommand{\arraystretch}{1.8}
+    \begin{tabular}{|c|c|l|}
+        \hline
+        Youth & \multirow{4}{*}{is} & be built properly. \\
+        \cline{1-1} \cline{3-3}
+        It & & the time of sowing seeds of life. \\
+        \cline{1-1} \cline{3-3}
+        We & \multirow{2}{*}{must} & \\
+        \cline{1-1} \cline{3-3}
+        Thus our future & & sow the seeds of industry and \\
+        & & honesty in this time. \\
+        \cline{1-1} \cline{3-3}
+        & will & the best time of life. \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\hfill \textit{[Please turn over}
+
+\end{document}
+```

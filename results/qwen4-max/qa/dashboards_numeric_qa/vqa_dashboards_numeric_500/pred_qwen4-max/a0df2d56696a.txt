@@ -1,0 +1,12 @@
+To find the difference between **cases per million population** and **deaths per million population** in **Germany**, we extract the values from the chart:
+
+- **Cases per million population (Germany)** = **2,158**
+- **Deaths per million population (Germany)** = **101**
+
+Now, subtract deaths from cases:
+
+> **2,158 - 101 = 2,057**
+
+---
+
+✅ **Final Answer: 2,057**

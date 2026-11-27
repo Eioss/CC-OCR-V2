@@ -1,0 +1,8 @@
+```json
+{
+  "gross_amount": "$360.00",
+  "advertiser": "Civic Nebraska",
+  "flight_from": "02/10/20",
+  "flight_to": "03/29/20"
+}
+```

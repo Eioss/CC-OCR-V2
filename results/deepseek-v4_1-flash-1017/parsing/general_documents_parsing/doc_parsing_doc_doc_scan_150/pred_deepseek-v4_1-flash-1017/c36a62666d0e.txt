@@ -1,0 +1,101 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent 绍兴市上虞区交通投资有限公司\\
+财务报表附注\\
+2018 年度（除特别注明外，金额单位为人民币元）
+
+\vspace{1em}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{clr}
+\toprule
+\textbf{序号} & \textbf{受影响的报表项目名称} & \textbf{\shortstack{影响 2017 年 12 月 31 日/2017 年度金额增\\加+/减少-}} \\
+\midrule
+\multirow{3}{*}{1} & 应收票据 & - \\
+ & 应收账款 & -29,654,391.62 \\
+ & 应收票据及应收账款 & 29,654,391.62 \\
+\midrule
+\multirow{3}{*}{2} & 应付票据 & -523,008.00 \\
+ & 应付账款 & -46,500,502.61 \\
+ & 应付票据及应付账款 & 47,023,510.61 \\
+\midrule
+\multirow{3}{*}{3} & 应付利息 & -45,424,497.77 \\
+ & 应付股利 & - \\
+ & 其他应付款 & 45,424,497.77 \\
+\midrule
+\multirow{2}{*}{4} & 专项应付款 & -420,488,070.43 \\
+ & 长期应付款 & 420,488,070.43 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+\noindent \textbf{四、税项}
+
+\vspace{0.5em}
+
+\noindent \textbf{1、主要税种及税率}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{lll}
+\toprule
+\textbf{税种} & \textbf{计税依据} & \textbf{税率\%} \\
+\midrule
+增值税 & 应税收入 & \shortstack[l]{1-4月份: 17.00、11.00、6.00、5.00;\\5-12月份: 16.00、10.00、6.00、\\5.00} \\
+城市建设维护税 & 实际缴纳的流转税额 & 7.00 \\
+教育费附加 & 实际缴纳的流转税额 & 3.00 \\
+地方教育费附加 & 实际缴纳的流转税额 & 2.00 \\
+企业所得税 & 应纳税所得额 & 25.00、10.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{0.5em}
+
+\noindent \textbf{2、优惠税负及批文}
+
+\vspace{0.5em}
+
+\noindent 对年应纳税所得额低于 100 万元（含 100 万元）的小型微利企业，其所得减按 50\% 计入应纳税所得额，按 20\% 的税率缴纳企业所得税。本公司 3 家子公司绍兴市上虞区舜地公路水运工程试验检测有限公司、绍兴市上虞区交通资产经营有限公司、绍兴市上虞区交通开发有限公司为小微企，所得税实际税率 10\%。
+
+\vspace{1em}
+
+\noindent \textbf{五、合并财务报表项目注释}
+
+\vspace{0.5em}
+
+\noindent \textbf{1、货币资金}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lrr}
+\toprule
+\textbf{项目} & \textbf{2018.12.31} & \textbf{2017.12.31} \\
+\midrule
+库存现金 & 96,712.26 & 103,371.55 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\vspace{2em}
+\centerline{34}
+
+\end{document}
+```

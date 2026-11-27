@@ -1,0 +1,9 @@
+To find the combined percentage of the case fatality ratio for the UK and the US, we add their individual ratios:
+
+- **UK**: 13.5%
+- **US**: 5.5%
+
+**Calculation:**
+$$13.5\% + 5.5\% = 19.0\%$$
+
+The total is **19.0%**.

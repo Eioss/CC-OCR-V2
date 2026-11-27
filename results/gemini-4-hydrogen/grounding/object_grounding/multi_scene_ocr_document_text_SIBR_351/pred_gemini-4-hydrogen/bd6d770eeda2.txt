@@ -1,0 +1,23 @@
+```json
+[
+  {"bbox_2d": [29, 11, 50, 213], "label": "TITLE"},
+  {"bbox_2d": [26, 283, 66, 650], "label": "ADDRESS"},
+  {"bbox_2d": [70, 318, 80, 443], "label": "Tel"},
+  {"bbox_2d": [70, 488, 80, 606], "label": "Fax"},
+  {"bbox_2d": [119, 610, 130, 695], "label": "EN Nb."},
+  {"bbox_2d": [133, 142, 143, 430], "label": "COMPANY NAME"},
+  {"bbox_2d": [147, 338, 158, 424], "label": "COMPANY NO"},
+  {"bbox_2d": [147, 611, 158, 693], "label": "EN Date"},
+  {"bbox_2d": [162, 142, 173, 366], "label": "Address"},
+  {"bbox_2d": [162, 611, 173, 693], "label": "Pickup Date"},
+  {"bbox_2d": [176, 610, 187, 636], "label": "Shipped per"},
+  {"bbox_2d": [218, 142, 257, 458], "label": "Address"},
+  {"bbox_2d": [247, 660, 258, 704], "label": "Country of Origin"},
+  {"bbox_2d": [261, 143, 272, 241], "label": "Price Term"},
+  {"bbox_2d": [276, 618, 288, 710], "label": "Payment Term"},
+  {"bbox_2d": [403, 9, 414, 94], "label": "NUMBER"},
+  {"bbox_2d": [460, 9, 471, 94], "label": "NUMBER"},
+  {"bbox_2d": [545, 51, 855, 212], "label": "SHIPPING MARKS"},
+  {"bbox_2d": [944, 874, 955, 884], "label": "PAGE NUMBER"}
+]
+```

@@ -1,0 +1,4 @@
+Based on the invoice, the total amount is **2050.00**.
+
+This is calculated from the line item:
+*   2 tickets @ 1025.00 each = 2050.00

@@ -1,0 +1,20 @@
+```latex
+\limsup_{a} (\mathcal{E}_a(u_a) + \|u_a\|_{H_a}^2) < +\infty
+
+\vec{\gamma} = \sum_m p_m (\cos(\gamma_m)\vec{b}_m + \sin(\gamma_m)\hat{n}_m \times \vec{b}_m + (1 - \cos(\gamma_m))\hat{n}_m \hat{n}_m \cdot \vec{b}_m).
+
+T \in T_{\rightarrow}, T_{\leftrightarrow}, T_{sep}, \text{ or } T_g
+
+\begin{cases}
+\int_{\Omega} z_h \cdot w_h - \int_{\Omega} p_h \nabla \cdot w_h = \int_{\Omega} v \cdot w_h, & \forall w_h \in X_h, \\
+\int_{\Omega} q_h \nabla \cdot z_h = \int_{\Omega} q_h \nabla \cdot v, & \forall q_h \in M_h.
+\end{cases}
+
+\sigma_1(\zeta, \eta) = \int_0^\zeta \int_0^\eta \sigma_1''(x+y) \, dy \, dx \le \sigma(0)\zeta\eta, \quad (\zeta, \eta) \in (0, \infty)^2.
+
+\langle (S_\eta, (t_0, \eta, t_1, \eta)) \mid \eta < \delta \rangle
+
+D_t^\alpha f(t) := \frac{d}{dt} (g_{1-\alpha} * f)(t) = \frac{d}{dt} \int_0^t g_{1-\alpha}(t-\tau)f(\tau) \, d\tau.
+
+\int_{\Pi} \ln \frac{\varepsilon}{|x-y|} \zeta(y) \, dy = \int_{|x-y| \le R_E} \ln \frac{\varepsilon}{|x-y|} \zeta(y) \, dy + \int_{|x-y| \ge R_E} \ln \frac{\varepsilon}{|x-y|} \zeta(y) \, dy,
+```

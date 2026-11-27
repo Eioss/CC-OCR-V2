@@ -1,0 +1,3 @@
+```json
+{"CE-P1": "1700", "CE-PS": "85", "CE-D": "Energy kJ", "TF-P1": "<0.5g", "TF-PS": "<0.5g", "TF-D": "Fat", "CAR-P1": "100.0g", "CAR-PS": "5.0g", "CAR-D": "Carbohydrate", "PRO-P1": "<0.5g", "PRO-PS": "<0.5g", "PRO-D": "Protein", "SS": "100.0g"}
+```

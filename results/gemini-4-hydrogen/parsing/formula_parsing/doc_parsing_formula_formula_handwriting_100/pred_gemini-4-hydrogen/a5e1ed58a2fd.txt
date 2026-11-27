@@ -1,0 +1,14 @@
+```latex
+\begin{align*}
+&\mathbb{E} \int_Q \int_Q | K_g(t,x) - K_g(s,y) |^p \, dt dx ds dy \\
+&= \mathbb{E} \int_Q \int_Q \left| \int_0^t \int_{\mathbb{R}^d} K(t-r, z) g(x-z) \, dz dW(r) \right. \\
+&\quad \left. - \int_0^s \int_{\mathbb{R}^d} K(s-r, z) g(y-z) \, dz dW(r) \right|^p \, dt dx ds dy \\
+&\leq N(p) \mathbb{E} \int_Q \int_Q \left| \int_0^s \int_{\mathbb{R}^d} (K(t-r,z) - K(s-r,z)) g(y-z) \, dz dW(r) \right|^p \\
+&\quad + N(p) \mathbb{E} \int_Q \int_Q \left| \int_0^s \int_{\mathbb{R}^d} K(t-r,z) (g(x-z) - g(y-z)) \, dz dW(r) \right|^p \\
+&\quad + N(p) \mathbb{E} \int_Q \int_Q \left| \int_s^t \int_{\mathbb{R}^d} K(t-r,z) g(x-z) \, dz dW(r) \right|^p \, dt dx ds dy \\
+&\leq N(p) \mathbb{E} \int_Q \int_Q \left( \int_0^s \left| \int_{\mathbb{R}^d} (K(t-r,z) - K(s-r,z)) g(y-z) \, dz \right|^2 dr \right)^{\frac{p}{2}} \\
+&\quad + N(p) \mathbb{E} \int_Q \int_Q \left( \int_0^s \left| \int_{\mathbb{R}^d} K(t-r,z) (g(x-z) - g(y-z)) \, dz \right|^2 dr \right)^{\frac{p}{2}} \\
+&\quad + N(p) \mathbb{E} \int_Q \int_Q \left( \int_s^t \left| \int_{\mathbb{R}^d} K(t-r,z) g(x-z) \, dz \right|^2 dr \right)^{\frac{p}{2}} \\
+&=: I_1 + I_2 + I_3.
+\end{align*}
+```

@@ -1,0 +1,30 @@
+```json
+[
+  {"bbox_2d": [68, 380, 86, 653], "label": "Title"},
+  {"bbox_2d": [105, 593, 115, 669], "label": "Contract No."},
+  {"bbox_2d": [122, 594, 132, 669], "label": "Date"},
+  {"bbox_2d": [137, 583, 150, 896], "label": "Company Name"},
+  {"bbox_2d": [151, 189, 163, 439], "label": "Company Name"},
+  {"bbox_2d": [171, 191, 197, 461], "label": "Address"},
+  {"bbox_2d": [170, 587, 182, 909], "label": "Address"},
+  {"bbox_2d": [221, 224, 231, 331], "label": "TEL"},
+  {"bbox_2d": [221, 194, 247, 411], "label": "FAX"},
+  {"bbox_2d": [220, 587, 229, 726], "label": "Tel"},
+  {"bbox_2d": [327, 87, 336, 93], "label": "Item"},
+  {"bbox_2d": [327, 191, 336, 279], "label": "Commodity Name"},
+  {"bbox_2d": [327, 511, 336, 555], "label": "Quantity"},
+  {"bbox_2d": [327, 628, 336, 646], "label": "Unit"},
+  {"bbox_2d": [327, 696, 336, 759], "label": "Unit Price"},
+  {"bbox_2d": [320, 796, 345, 839], "label": "Amount"},
+  {"bbox_2d": [360, 511, 369, 555], "label": "Quantity"},
+  {"bbox_2d": [360, 789, 369, 850], "label": "Amount"},
+  {"bbox_2d": [420, 276, 429, 329], "label": "4. Packing"},
+  {"bbox_2d": [471, 276, 480, 352], "label": "5. Time of Shipment"},
+  {"bbox_2d": [522, 275, 531, 303], "label": "8.Terms of Payment"},
+  {"bbox_2d": [571, 68, 600, 602], "label": "The Seller shall Send the following documents to Buyer via courier"},
+  {"bbox_2d": [624, 67, 683, 918], "label": "10.Quality Guarantee"},
+  {"bbox_2d": [961, 141, 972, 186], "label": "复核状态"},
+  {"bbox_2d": [959, 514, 973, 557], "label": "复核人"},
+  {"bbox_2d": [961, 809, 972, 941], "label": "复核时间"}
+]
+```

@@ -1,0 +1,74 @@
+<table>
+  <tr>
+    <td></td>
+    <td>R<sub>1</sub></td>
+    <td>R<sub>2</sub></td>
+    <td>R<sub>L</sub></td>
+  </tr>
+  <tr>
+    <td>Source Generic</td>
+    <td>27.58</td>
+    <td>3.97</td>
+    <td>14.14</td>
+  </tr>
+  <tr>
+    <td>Target Generic</td>
+    <td><b>27.98</b></td>
+    <td><b>5.52</b></td>
+    <td><b>15.01</b></td>
+  </tr>
+  <tr>
+    <td>MMR, <i>unctrl</i></td>
+    <td>31.43</td>
+    <td>5.45</td>
+    <td>16.31</td>
+  </tr>
+  <tr>
+    <td>LexRank, <i>unctrl</i></td>
+    <td>31.74</td>
+    <td>6.67</td>
+    <td>16.71</td>
+  </tr>
+  <tr>
+    <td>TextRank, <i>unctrl</i></td>
+    <td>32.72</td>
+    <td><b>7.37</b></td>
+    <td>17.25</td>
+  </tr>
+  <tr>
+    <td>MMR, <i>sent-ctrl</i></td>
+    <td>32.37</td>
+    <td>6.28</td>
+    <td>17.58</td>
+  </tr>
+  <tr>
+    <td>LexRank, <i>sent-ctrl</i></td>
+    <td>32.60</td>
+    <td>6.66</td>
+    <td>17.48</td>
+  </tr>
+  <tr>
+    <td>TextRank, <i>sent-ctrl</i></td>
+    <td><b>33.52</b></td>
+    <td>7.20</td>
+    <td><b>17.75</b></td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, <i>unctrl</i></td>
+    <td>33.31</td>
+    <td>8.63</td>
+    <td>19.67</td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, <i>sent-ctrl</i></td>
+    <td><b>38.73</b></td>
+    <td><b>10.82</b></td>
+    <td><b>23.05</b></td>
+  </tr>
+  <tr>
+    <td>bart-large-cnn, <i>seg-ctrl</i></td>
+    <td>36.38</td>
+    <td>10.04</td>
+    <td>21.90</td>
+  </tr>
+</table>

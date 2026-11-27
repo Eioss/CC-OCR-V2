@@ -1,0 +1,475 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 12px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .left-align {
+    text-align: left;
+  }
+  .header-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .no-border {
+    border: none;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Top Header Section -->
+  <tr>
+    <td colspan="4" rowspan="2" class="left-align" style="padding: 10px;">
+      <div style="display: flex; align-items: center;">
+        <div style="font-size: 24px; font-weight: bold; margin-right: 10px;">H</div>
+        <div>
+          <div style="font-size: 16px; font-weight: bold;">华陆工程科技有限责任公司</div>
+          <div style="font-size: 10px;">HUALU ENGINEERING & TECHNOLOGY CO.,LTD</div>
+          <div style="font-size: 10px;">(化学工业部第六设计院)</div>
+        </div>
+      </div>
+    </td>
+    <td colspan="4" class="header-title">管道专业图纸目录</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>李政</td>
+    <td>李歆</td>
+    <td>2020.11.25</td>
+  </tr>
+  <tr>
+    <td colspan="4" class="left-align">项目名称：德州德化3万吨 年DMAC项目</td>
+    <td colspan="4" rowspan="2"></td>
+    <td>0</td>
+    <td>李政</td>
+    <td>李歆</td>
+    <td>2020.10.22</td>
+  </tr>
+  <tr>
+    <td colspan="4" class="left-align">主项代号：DMAC装置（00810）</td>
+    <td>版次</td>
+    <td>编制</td>
+    <td>校核</td>
+    <td>日期</td>
+  </tr>
+  <tr>
+    <td colspan="4" class="left-align">设计阶段：详细设计</td>
+    <td colspan="4">第 1 页 共 4 页</td>
+    <td colspan="4" class="left-align">图号： 19150-00810-F</td>
+  </tr>
+
+  <!-- Table Column Headers -->
+  <tr>
+    <td>(1)<br>序号</td>
+    <td colspan="2">(2)<br>名称</td>
+    <td>(3)<br>图号或编号</td>
+    <td>(4)<br>复用或标准图编号</td>
+    <td>(5)<br>张数</td>
+    <td>(6)<br>折合<br>图纸</td>
+    <td>(7)<br>备注</td>
+    <td colspan="2">修改<br>标记</td>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td>1</td>
+    <td colspan="2">管道专业图纸目录</td>
+    <td>19150-00810-F</td>
+    <td></td>
+    <td>3</td>
+    <td></td>
+    <td>修改</td>
+    <td colspan="2">2</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td>2</td>
+    <td colspan="2">管道专业设计说明</td>
+    <td>19150-00810-F-2</td>
+    <td></td>
+    <td>29</td>
+    <td></td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td>3</td>
+    <td colspan="2">设备布置图</td>
+    <td>19150-00810-F-11</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>修改</td>
+    <td colspan="2">施1版</td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td>4</td>
+    <td colspan="2">设备布置图</td>
+    <td>19150-00810-F-12</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>修改</td>
+    <td colspan="2">施1版</td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td></td>
+    <td colspan="2">A-A B-B C-C剖视</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td>5</td>
+    <td colspan="2">地下管道布置图</td>
+    <td>19150-00810-F-200</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 7 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL±0以下</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 8 -->
+  <tr>
+    <td>6</td>
+    <td colspan="2">管道布置索引图</td>
+    <td>19150-00810-F-1000</td>
+    <td></td>
+    <td>1</td>
+    <td>0.5</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 9 -->
+  <tr>
+    <td>7</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1101</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 10 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL±0～5000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 11 -->
+  <tr>
+    <td>8</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1102</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 12 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL5000～8000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 13 -->
+  <tr>
+    <td>9</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1103</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 14 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL8000～11400</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 15 -->
+  <tr>
+    <td>10</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1104</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 16 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL11400以上</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 17 -->
+  <tr>
+    <td>11</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1201</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 18 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL±0～5000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 19 -->
+  <tr>
+    <td>12</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1202</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 20 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL5000～8000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 21 -->
+  <tr>
+    <td>13</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1203</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 22 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL8000～11400</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 23 -->
+  <tr>
+    <td>14</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1204</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 24 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL11400～15100</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 25 -->
+  <tr>
+    <td>15</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1205</td>
+    <td></td>
+    <td>1</td>
+    <td>2</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 26 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL15100以上</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 27 -->
+  <tr>
+    <td>16</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1301</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 28 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL±0～5000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 29 -->
+  <tr>
+    <td>17</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1302</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 30 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL5000～8000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- Row 31 -->
+  <tr>
+    <td>18</td>
+    <td colspan="2">管道布置图</td>
+    <td>19150-00810-F-1303</td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>已发</td>
+    <td colspan="2">0</td>
+  </tr>
+
+  <!-- Row 32 -->
+  <tr>
+    <td></td>
+    <td colspan="2">EL8000～11400</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+
+</table>
+
+</body>
+</html>
+```

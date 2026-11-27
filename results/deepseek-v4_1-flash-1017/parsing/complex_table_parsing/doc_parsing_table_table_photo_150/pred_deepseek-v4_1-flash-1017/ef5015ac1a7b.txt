@@ -1,0 +1,35 @@
+```html
+<table>
+  <tr>
+    <td colspan="3">2. Contribution format income statement</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: center;">The Alpine House, Inc.<br>Contribution Format Income Statement</td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>$150,000</td>
+  </tr>
+  <tr>
+    <td>Variable expenses:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Cost of goods sold<br>&nbsp;&nbsp;&nbsp;&nbsp;($30,000 + $100,000 - $40,000)</td>
+    <td></td>
+    <td>$90,000</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Selling expenses<br>&nbsp;&nbsp;&nbsp;&nbsp;($50 per unit &times; 200 pairs of skis)</td>
+    <td>10,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;Administrative expenses</td>
+    <td>2,000</td>
+    <td>102,000</td>
+  </tr>
+</table>
+```

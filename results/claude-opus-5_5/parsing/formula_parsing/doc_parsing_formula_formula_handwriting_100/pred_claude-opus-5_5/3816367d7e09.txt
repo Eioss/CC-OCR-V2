@@ -1,0 +1,17 @@
+```latex
+\begin{gather*}
+\langle x,y\rangle \equiv \sum_{\tau\in\Gamma/\Gamma_n} \left(\tau^{-1} pr_n'(x),\, pr_n(y)\right)_n \tau \mod (\gamma_n - 1)
+\\[1em]
+\int_{U_n(n^{-1/2+\varepsilon})} \phi_1^{*}\, e^{-a_n\vec{\theta}^{T}\hat{Q}\vec{\theta} - R_1(\vec{\theta})}\, d\vec{\theta} \le c' n^2 \int_{U_n(n^{-1/2+\varepsilon})} e^{-a_n\vec{\theta}^{T}\hat{Q}\vec{\theta} - R_1(\vec{\theta})}\, d\vec{\theta} + O\left(\exp(-c n^{2\varepsilon})\right) \int_{\mathbb{R}^n} e^{-a_n\vec{\theta}^{T}\hat{Q}\vec{\theta}}\, d\vec{\theta}
+\\[1em]
+\sqrt{qr}\,\epsilon_{(qr)^*}\,\tilde{c}\,\delta_{\bar{c}lh+\beta\bar{r}} \sum_{x(qr)}^{*} e\left(\frac{k\bar{x}}{qr}\right) \chi_{(qr)^*}(x)\, e\left(\frac{-\overline{4x}\,r^2}{qr}\right)
+\\[1em]
+\left(G_{\Lambda(r,k,m)}(|a|,|b|)\right) = \left\{ \sum_{k=-\infty}^{\infty} |a_{n+k} b_{n+k}|\, \Lambda_k^{(r,k,m)} \right\}_{n=-\infty}^{\infty}.
+\\[1em]
+(1/\sqrt{N}) \sin(\sqrt{N}\eta t) \sum_{j=1}^{N} |1\rangle_1 \cdots |0\rangle_j \cdots |1\rangle_N |1\rangle_c
+\\[1em]
+F_{\varepsilon_n}(u_n, A) \ge c \sum_{i\in Z_{\varepsilon}(A)} \sum_{k=1}^{N} \varepsilon^N \left|D_{\varepsilon_n}^{e_k} u_n(i)\right|^p - cN|A|.
+\\[1em]
+\tilde{R}_h^{\frac{1}{2};j} = \begin{pmatrix} \tilde{T} & h\tilde{T}^{\frac{1}{2}} e & -h\tilde{H} + \frac{h}{4}\left(\tilde{T} - \tilde{T}^{-1}\right) \\ 0 & 1 & -h\tilde{T}^{-\frac{1}{2}} e \\ 0 & 0 & \tilde{T}^{-1} \end{pmatrix},
+\end{gather*}
+```

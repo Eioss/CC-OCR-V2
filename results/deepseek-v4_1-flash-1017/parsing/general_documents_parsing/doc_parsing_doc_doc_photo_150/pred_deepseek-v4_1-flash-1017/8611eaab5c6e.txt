@@ -1,0 +1,64 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Huge \textbf{Contents}
+\end{center}
+
+\vspace{1em}
+
+\noindent \textbf{FOREWORD} \hfill vii
+
+\vspace{1em}
+
+\noindent \textbf{INTRODUCTION: Why; Basic Equipment; Raw Materials} \\
+\noindent \textbf{and Where to Get Them; Some Helpful Hints} \hfill ix
+
+\vspace{1em}
+
+\noindent \textbf{1. AROUND THE HOUSE} \hfill 17 \\
+\hspace*{1.5em} Floor Care \hfill 17 \\
+\hspace*{1.5em} Furniture Care and Some Other Treatments for Wood \hfill 24 \\
+\hspace*{1.5em} Dishwashing Help \hfill 28 \\
+\hspace*{1.5em} Laundry Help \hfill 31 \\
+\hspace*{1.5em} Shoes and Leather \hfill 34 \\
+\hspace*{1.5em} General Cleaning and Polishing \hfill 35 \\
+\hspace*{1.5em} Fires in Their Places and Out of Them \hfill 42 \\
+\hspace*{1.5em} Controlling Bugs and Other Pests \hfill 47 \\
+\hspace*{1.5em} Paints and Brushes \hfill 50 \\
+\hspace*{1.5em} In the Kitchen \hfill 52 \\
+\hspace*{1.5em} Miscellaneous Home Goodies \hfill 56
+
+\vspace{1em}
+
+\noindent \textbf{2. PERSONAL} \hfill 62 \\
+\hspace*{1.5em} Making Soap \hfill 62 \\
+\hspace*{1.5em} Hair Care \hfill 64 \\
+\hspace*{1.5em} Body Things \hfill 68 \\
+\hspace*{1.5em} Hands and Face \hfill 73 \\
+\hspace*{1.5em} Teeth \hfill 79 \\
+\hspace*{1.5em} Eyes \hfill 80 \\
+\hspace*{1.5em} Feet \hfill 81
+
+\vspace{1em}
+
+\noindent \textbf{3. AUTOMOTIVE AND MECHANICAL} \hfill 83 \\
+\hspace*{1.5em} Taking Care of the Outside \hfill 84 \\
+\hspace*{1.5em} Taking Care of the Inside \hfill 86 \\
+\hspace*{1.5em} Cleaning Up \hfill 90
+
+\vfill
+
+\begin{flushright}
+    \textbf{v}
+\end{flushright}
+
+\end{document}
+```

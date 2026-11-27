@@ -1,0 +1,17 @@
+```json
+{
+  "SS": "Salt",
+  "CE-PS": "Energy",
+  "CE-D": "118kJ",
+  "CE-P1": "130kJ",
+  "TF-PS": "Fat",
+  "TF-D": "0.1g",
+  "TF-P1": "0.1g",
+  "CAR-PS": "Carbohydrate",
+  "CAR-D": "5.5g",
+  "CAR-P1": "6.1g",
+  "PRO-PS": "Protein",
+  "PRO-D": "0.4g",
+  "PRO-P1": "0.4g"
+}
+```

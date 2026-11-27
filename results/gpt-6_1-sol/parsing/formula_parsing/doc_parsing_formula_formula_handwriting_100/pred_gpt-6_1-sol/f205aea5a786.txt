@@ -1,0 +1,78 @@
+\[
+\begin{gathered}
+\left|
+\frac{\partial \Gamma_{\varepsilon}^{\alpha\beta}}{\partial x_i}(x,t;y,s)
+-
+\frac{\partial \Gamma_{0}^{\alpha\beta}}{\partial x_i}(x,t;y,s)
+-
+\frac{\partial \chi_j^{\alpha\gamma}}{\partial x_i}
+\left(\frac{x}{\varepsilon},\frac{t}{\varepsilon^2}\right)
+\frac{\partial \Gamma_{0}^{\gamma\beta}}{\partial x_j}(x,t;y,s)
+\right|
+\\[6pt]
+\deg(TX_0|_{C_i})
+-\deg(\mathcal{D}^{\alpha_i})_{C_i}
+-\deg(\mathcal{D}^{-1}/\mathcal{D}^{\alpha_i})|_{C_i}
+\\
+=\deg(\mathcal{D}^{-2}/\mathcal{D})|_{C_i}
++\deg(\mathcal{D}^{-3}/\mathcal{D}^{-2})|_{C_i}.
+\\[6pt]
+\langle A_{w,t}u,u\rangle
+\geq
+\max\left\{
+c_1(w,t)\|u\|_V^\alpha-m_1(w,t),\,
+c_2(w,t)\|A_2u\|_{V^*}^{\beta}-m_2(w,t)
+\right\}.
+\\[6pt]
+S_{\mathrm{BS}}
+\approx N^{1/2}(2\lambda+4r_2^2)^{1/2}
+\approx (2N\lambda)^{1/2};
+\\[6pt]
+(g_A^*\circ h\circ e)_f
+\left(
+x_{i_1j_1}\cdots x_{i_sj_s}\otimes
+y_{l_1}\cdots y_{l_t}
+\right)
+=
+(\psi_0^*\circ g_K^*)_f
+\left(
+x_{i_1j_1}\cdots x_{i_sj_s}\otimes
+y_{l_1}\cdots y_{l_t}
+\right)
+\\[6pt]
+(g_A^*\circ h)_f
+\left(
+x_{i_1}\cdots x_{i_s}\otimes
+y_{l_1}\cdots y_{l_t}
+\right)
+=
+\left(
+\prod_{u=1}^{s}\prod_{k=1}^{c_{i_u}}x_{i_uj_uk}
+\right)
+\otimes y_{l_1}\cdots y_{l_t}.
+\\[6pt]
+\ell\leq
+H_{\min}^{\varepsilon_1}(Z_D\mid S_D B')
+-
+2\log_2\frac{1}{\varepsilon_A-4\varepsilon_1}
+\\[6pt]
+\mathbb{D}:
+D(A_W\text{-}\mathrm{dgmod})^{o}
+\longrightarrow
+D(A_W\text{-}\mathrm{dgmod});
+\qquad
+M\longmapsto
+R\operatorname{Hom}_{H_G^*(pt)}
+\bigl(M,H_G^*(pt)\bigr),
+\\[6pt]
+S_\varepsilon(\gamma(E))
+=
+S_\varepsilon(r(VE))
+=
+Q(S_\varepsilon)^{VE}
++
+\sum_{\lambda\in VE}Q(S_\varepsilon)_{\lambda}^{VE}
+=
+\sum_{\lambda\in VE}Q(S_\varepsilon)_{\lambda}^{VE}.
+\end{gathered}
+\]

@@ -1,0 +1,19 @@
+To determine the percentage decrease in spam mail from 2010 to 2013, we refer to the section titled **“EMAIL ATTACKS MOSTLY DOWN”** in the infographic.
+
+- In **2010**, spam accounted for **89%** of email attacks.
+- In **2013**, spam dropped to **69%**.
+
+### Calculation:
+**Decrease = 89% - 69% = 20 percentage points**
+
+This means spam decreased by **20 percentage points** from 2010 to 2013.
+
+> ⚠️ Note: This is a **20 percentage point decrease**, not a 20% *relative* decrease. If you were calculating relative percent decrease (i.e., what percent of the original 89% was lost), it would be:
+>
+> `(20 / 89) × 100 ≈ 22.47%`
+>
+> But since the question asks “how much percentage... decreased”, and given the context of comparing two percentages over time in an infographic like this, it’s standard to report the **absolute difference in percentage points** — which is **20**.
+
+---
+
+✅ **Final Answer: 20**

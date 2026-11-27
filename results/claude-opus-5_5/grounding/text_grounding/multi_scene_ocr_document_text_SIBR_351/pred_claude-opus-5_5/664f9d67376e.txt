@@ -1,0 +1,3 @@
+The text "￥0.00" appears twice on this receipt: under 帐户支付 (account payment) and next to 帐户余额 (account balance). The bounding box below is for the first one, under 帐户支付:
+
+(268, 694, 402, 728)

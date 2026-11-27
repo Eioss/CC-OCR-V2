@@ -1,0 +1,12 @@
+H_1 = \begin{pmatrix}
+X(p-1)d+s & X(p-1)d+c+s & \cdots & X(p-1)d+(p-1)c+s \\
+\vdots & \vdots & \ddots & \vdots \\
+Xd+s & Xd+c+s & \cdots & Xd+(p-1)c+s \\
+X & Xc+s & \cdots & X(p-1)c+s
+\end{pmatrix}, \quad
+H = \begin{pmatrix}
+X(p-1)d+1 & X(p-1)d+c+1 & \cdots & X(p-1)d+(p-1)c+1 \\
+\vdots & \vdots & \ddots & \vdots \\
+Xd+1 & Xd+c+1 & \cdots & Xd+(p-1)c+1 \\
+X_1 & Xc+1 & \cdots & X(p-1)c+1
+\end{pmatrix}

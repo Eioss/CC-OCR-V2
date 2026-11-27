@@ -1,0 +1,27 @@
+```json
+[
+  {"bbox_2d": [178, 82, 545, 112], "label": "Company Name"},
+  {"bbox_2d": [178, 112, 818, 136], "label": "Address"},
+  {"bbox_2d": [287, 84, 545, 112], "label": "Title"},
+  {"bbox_2d": [581, 172, 692, 192], "label": "Invoice No."},
+  {"bbox_2d": [581, 193, 692, 213], "label": "S/C No."},
+  {"bbox_2d": [581, 213, 735, 233], "label": "Date of Invoice"},
+  {"bbox_2d": [178, 172, 525, 192], "label": "Company Name"},
+  {"bbox_2d": [178, 193, 525, 213], "label": "Address"},
+  {"bbox_2d": [178, 213, 525, 233], "label": "Address"},
+  {"bbox_2d": [178, 233, 525, 253], "label": "Address"},
+  {"bbox_2d": [178, 253, 525, 273], "label": "TELP"},
+  {"bbox_2d": [178, 273, 525, 293], "label": "FAX"},
+  {"bbox_2d": [178, 293, 525, 313], "label": "NPWP"},
+  {"bbox_2d": [137, 343, 250, 363], "label": "From"},
+  {"bbox_2d": [727, 343, 818, 363], "label": "Destination"},
+  {"bbox_2d": [178, 393, 525, 433], "label": "Descriptions & Quantities"},
+  {"bbox_2d": [581, 393, 692, 413], "label": "Unit Price"},
+  {"bbox_2d": [727, 393, 818, 413], "label": "Amount"},
+  {"bbox_2d": [178, 433, 525, 453], "label": "Descriptions & Quantities"},
+  {"bbox_2d": [581, 433, 692, 453], "label": "Unit Price"},
+  {"bbox_2d": [727, 433, 818, 453], "label": "Amount"},
+  {"bbox_2d": [727, 563, 818, 583], "label": "Amount"},
+  {"bbox_2d": [178, 663, 525, 683], "label": "企业管理信息查询结果"}
+]
+```

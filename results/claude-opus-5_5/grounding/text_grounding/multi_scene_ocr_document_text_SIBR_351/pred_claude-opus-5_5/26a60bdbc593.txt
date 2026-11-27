@@ -1,0 +1,7 @@
+The text '2769.00' appears twice on the receipt:
+
+1. In the 西药费 (Western medicine fee) row:
+(634, 446, 795, 477)
+
+2. In the 合计 (total) row:
+(527, 700, 688, 733)

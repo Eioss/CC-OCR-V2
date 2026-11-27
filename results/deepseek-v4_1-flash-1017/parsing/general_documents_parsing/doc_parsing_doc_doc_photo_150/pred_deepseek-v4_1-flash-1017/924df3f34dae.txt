@@ -1,0 +1,89 @@
+Here is the transcription of the document into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{Verification of the Formula of a Hydrated Salt Data Sheet}
+\end{center}
+
+\noindent
+Name: \underline{\hspace{5cm}} \hfill Partner's Name: \underline{\hspace{5cm}}
+
+\vspace{0.5cm}
+
+\noindent
+Hydrated salt you were given: \underline{CaSO\(_4\) \(\cdot\) 2H\(_2\)O}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|l|c|c|c|}
+    \hline
+     & \textbf{Trial 1} & \textbf{Trial 2} & \textbf{Trial 3} \\
+    \hline
+    Mass of crucible and lid (g) & 26.3369 & 26.247 & \\
+    \hline
+    Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 23.7189 & 30.2009 & \\
+    \hline
+    Mass of hydrated salt (g) & 5.3820 & 3.9539 & \\
+    \hline
+    Mass of crucible, lid, salt AFTER heating (g) & 32.6564 & 29.0909 & \\
+    \hline
+    Mass of anhydrous salt (g) & 4.3394 & 3.4439 & \\
+    \hline
+    Moles of anhydrous salt (mole) & 0.03109 & 0.02530 & \\
+    \hline
+    Mass of water of crystallization removed (g) & 1.0574 & 0.5100 & \\
+    \hline
+    Moles of water of crystallization removed (mole) & 0.05870 & 0.02830 & \\
+    \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|l|c|c|c|}
+    \hline
+    Ratio moles water : moles salt & ? & ? & \\
+    \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{|l|c|c|}
+    \hline
+     & \textbf{Individual} & \textbf{Class} \\
+    \hline
+    Average Ratio & ? & ? \\
+    \hline
+    Standard Deviation & & ? \\
+    \hline
+    Relative Standard Deviation (\%) & ? & ? \\
+    \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent
+The Chemical Formula for the hydrate is \underline{\hspace{3cm}} ?
+
+\vspace{1cm}
+
+\noindent
+This document was prepared by D. Finneran, J. Tierney.
+
+\vspace{0.5cm}
+
+\begin{center}
+    45
+\end{center}
+
+\end{document}
+```

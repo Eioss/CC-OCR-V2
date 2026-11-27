@@ -1,0 +1,82 @@
+```latex
+\begin{enumerate}
+    \setcounter{enumi}{6}
+    \item Report the dialogue between a mother and a daughter by completing the sentence:
+
+    Mother: Why are you looking so worried? \\
+    Daughter: My exams are approaching.
+
+    In response to the question of the mother, the daughter replied that \underline{\hspace{4cm}}.
+
+    \item Identify the error in the given sentence:
+
+    The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+    Use the given format for your response
+
+    \begin{center}
+    \begin{tabular}{|c|c|}
+        \hline
+        \textbf{Error} & \textbf{Correction} \\
+        \hline
+         & \\
+        \hline
+    \end{tabular}
+    \end{center}
+
+    \item Ritu and Randeep are talking. Report Ritu's question.
+
+    Ritu: Where are you going?
+
+    Ritu asked \underline{\hspace{4cm}}.
+
+    \item Fill in the blank by choosing the correct option, to complete the slogan:
+
+    \underline{\hspace{4cm}} smile and pass it to others.
+    \begin{enumerate}
+        \item Happy
+        \item Short
+        \item Always
+        \item Humble
+    \end{enumerate}
+
+    \item Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+    Anil: Where are you going? \\
+    Sanjeev: To the airport. \\
+    Anil: May I drop you there as I'm going in that direction?
+
+    Anil asked Sanjeev where he was going and offered to drop him as \underline{\hspace{4cm}}.
+    \begin{enumerate}
+        \item he could be going in that direction.
+        \item he would be going in the direction.
+        \item he is going in the direction
+        \item he was going in that direction
+    \end{enumerate}
+
+    \item Identify the error in the newspaper headline.
+
+    Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+    Use the given format for your response:
+
+    \begin{center}
+    \begin{tabular}{|c|c|}
+        \hline
+        \textbf{Error} & \textbf{Correction} \\
+        \hline
+         & \\
+        \hline
+    \end{tabular}
+    \end{center}
+\end{enumerate}
+
+\vfill
+\begin{flushright}
+CL X/ PB-I /ENG/PAC
+\end{flushright}
+
+\begin{center}
+\textcircled{6}
+\end{center}
+```

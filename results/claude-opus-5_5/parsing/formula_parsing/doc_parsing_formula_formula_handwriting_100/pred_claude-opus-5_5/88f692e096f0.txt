@@ -1,0 +1,14 @@
+$$
+\begin{gathered}
+|TE_1(x,N)| \le c\left(NH^{\frac{1}{2}}L^{-\frac{1}{2}}+L^{\frac{1}{2}}\right)\\[2ex]
+\int_{Q_R^{T-R^m,T}} u^p\,dx\,dt>0.\\[2ex]
+\mathcal{L}\left\{{}_a^R\mathcal{D}_t^\alpha f(t)\right\}=\sum_{k=0}^{+\infty}\frac{f^{(k)}(a)}{s^{k+-\alpha}}\,\frac{e^{-as}\gamma(k+\alpha+1,-as)}{\Gamma(k+\alpha+1)},\\[2ex]
+\sum_{\lambda}\left[\frac{\mu}{\lambda}\right]^{3-\varepsilon}\left[\frac{\nu}{\lambda}\right]^{3-\varepsilon}\lesssim_{\varepsilon}\left(1+\log\left[\frac{\mu}{\nu}\right]\right)\left[\frac{\mu}{\nu}\right]^{3-\varepsilon}=C_{\mu/\nu}.\\[2ex]
+x\longmapsto x\tilde{V}'(x)=xV'(x)+\int\frac{x}{x-s}\,d\nu^{*}(s)\\[2ex]
+\Phi_R+\Phi_R^{*}=2\times\operatorname{Re}\{\Phi_R\},\\
+\Phi_R-\Phi_R^{*}=2i\times\operatorname{Im}\{\Phi_R\},\\[2ex]
+\sigma(A_i)=A_i,\quad \sigma(B_i)=B_i+A_i^{e_i}\\[2ex]
+\phi(r)=\int_0^r\chi^2\left(\frac{s}{2R}\right)ds=\int_0^r\psi\left(\frac{s}{2R}\right)ds,\\[2ex]
+\frac{1}{b-a}\int_a^b f(x)\,dx\le\min\left\{L\left(f(a),f\left(\frac{b}{m}\right)^m\right),\,L\left(f(b),f\left(\frac{a}{m}\right)^m\right)\right\},
+\end{gathered}
+$$

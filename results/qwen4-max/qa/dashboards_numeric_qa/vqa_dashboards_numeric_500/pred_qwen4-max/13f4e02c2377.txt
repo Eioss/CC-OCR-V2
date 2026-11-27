@@ -1,0 +1,9 @@
+Based on the flowchart provided:
+
+1.  Start at the question **"Is it before 10:30 AM?"**.
+2.  Follow the **"Yes"** arrow to the left.
+3.  This leads to the question **"Are you a police officer?"**.
+4.  Since you are not a police officer, follow the **"No"** arrow down.
+5.  This leads directly to the **McDonald's** logo.
+
+So, you should eat at **McDonald's**.

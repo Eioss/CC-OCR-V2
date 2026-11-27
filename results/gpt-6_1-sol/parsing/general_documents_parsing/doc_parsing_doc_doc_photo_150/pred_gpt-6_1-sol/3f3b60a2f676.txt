@@ -1,0 +1,168 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=1.2cm]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\setlength{\parindent}{0pt}
+\setlist[enumerate]{nosep,leftmargin=*}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{MODEL TEST \quad 56}
+\end{center}
+
+\begin{multicols}{2}
+
+\textbf{Part--A : Reading Test [50 Marks]}
+
+\medskip
+
+\textbf{\underline{SEEN PASSAGE}}
+\(\blacktriangleright\)
+\textbf{Read the following passage carefully and answer the questions 1, 2 \& 3.}
+
+Eid is the main \ldots\ldots empty and lost.
+\hfill \textit{[Unit--12; Lesson--1(B)]}
+
+\medskip
+
+\textbf{1. Choose the best answer from the alternatives.}
+\hfill \(1 \times 7 = 7\)
+
+\begin{enumerate}[label=(\alph*)]
+    \item Eid is a --- festival of Muslims.
+
+    \begin{tabular}{@{}ll@{}}
+        i. social & ii. cultural \\
+        iii. religious & iv. communal
+    \end{tabular}
+
+    \item What is the meaning of Eid?
+
+    \begin{tabular}{@{}ll@{}}
+        i. A feeling of joy & ii. Enrichment \\
+        iii. Enhancement & iv. Enchantment
+    \end{tabular}
+
+    \item The roots of the trees are ---.
+
+    \begin{tabular}{@{}ll@{}}
+        i. invisible & ii. visible \\
+        iii. slightly visible & iv. visible or invisible
+    \end{tabular}
+
+    \item The roots of human beings lie in their ---.
+
+    \begin{tabular}{@{}ll@{}}
+        i. home & ii. society \\
+        iii. country & iv. minds
+    \end{tabular}
+
+    \item The rootless are ---.
+
+    \begin{tabular}{@{}ll@{}}
+        i. entity & ii. identical \\
+        iii. nonentity & iv. relatives
+    \end{tabular}
+
+    \item Which one develops our identity?
+
+    \begin{tabular}{@{}ll@{}}
+        i. Our culture & ii. Our roots \\
+        iii. Our religion & iv. Our environment
+    \end{tabular}
+
+    \item What is pull of roots?
+
+    \begin{tabular}{@{}ll@{}}
+        i. Affection for roots & ii. Attraction of roots \\
+        iii. Assistance of roots & iv. Addiction to roots
+    \end{tabular}
+\end{enumerate}
+
+\medskip
+
+\textbf{\textit{\underline{Additional Questions}}}
+
+\begin{enumerate}[label=(\alph*),start=8]
+    \item What do the roots make between us and others?
+
+    \begin{tabular}{@{}ll@{}}
+        i. Friendship & ii. Intimacy \\
+        iii. Fellow feelings & iv. Bond
+    \end{tabular}
+
+    \item Wherever we stay, we have a --- pull of our roots.
+
+    \begin{tabular}{@{}ll@{}}
+        i. routine & ii. ceaseless \\
+        iii. careless & iv. tireless
+    \end{tabular}
+
+    \item The rootless have ---.
+
+    \begin{tabular}{@{}ll@{}}
+        i. no hunger & ii. no parents \\
+        iii. no identity & iv. entity
+    \end{tabular}
+\end{enumerate}
+
+\columnbreak
+
+\textbf{2. Answer the following questions in your own words:}
+\hfill \(2 \times 5 = 10\)
+
+\begin{enumerate}[label=(\alph*)]
+    \item What do most of the people living outside
+    \textit{[cropped]} desire during the Eid vacations?
+    \item What happens to transport during Eid vacations?
+    \item What makes people rush for their homes in spite of serious hazards?
+    \item What are the roots of human beings?
+    \item How do human beings become rootless?
+\end{enumerate}
+
+\medskip
+
+\textbf{\textit{\underline{Additional Questions}}}
+
+\begin{enumerate}[label=(\alph*),start=6]
+    \item What are human beings called without roots?
+    \item What are rootless people devoid of?
+    \item What makes the rootless feel empty and lost?
+    \item What does everyone want on Eid day?
+    \item What is the significance of Eid?
+\end{enumerate}
+
+\medskip
+
+\textbf{3. Fill in each gap with a suitable word of your own based on the information from the text in `A'.}
+\hfill \(0.5 \times 10 = 5\)
+
+There are many (a) ---, cultural and religious (b) ---
+\textit{[cropped]} people of Bangladesh. (c) --- is the main
+(d) --- festival \textit{[cropped]} (e) ---. Eid means (f) ---.
+So, the (g) --- of Eid (h) --- \textit{[cropped]}
+--- happiness with (i) ---.
+
+\medskip
+
+\textbf{\underline{UNSEEN PASSAGE}}
+\(\blacktriangleright\)
+\textbf{Read the following text carefully and answer the question no. 4 \& 5:}
+
+Khan Bahadur Ahsanullah was born in a respectable Muslim family
+at Nalta in Satkhira district on 27 December, 1873. He passed the
+Entrance examination with a scholarship and distinction from
+the London Missionary School of Bhowanipur, Kolkata in 1890.
+He passed the F.A. examination with a scholarship from the
+Hoogli College, Kolkata in 1892. He obtained BA in 1894 and MA
+in Philosophy \textit{[obscured]} in 1895 from Presidency College
+under the University of Kolkata.
+
+\end{multicols}
+
+\end{document}
+```

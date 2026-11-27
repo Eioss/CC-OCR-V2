@@ -1,0 +1,5 @@
+Looking at the invoice, I need to locate the phone number '1032-25558365' which appears in the TEL line near the top of the document under the company address.
+
+The text is positioned after "TEL:" on the left side of the header area.
+
+(142, 115, 235, 127)

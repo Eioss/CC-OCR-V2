@@ -1,0 +1,48 @@
+\[
+\begin{gathered}
+\mathcal{P}_{\pm}
+=
+\frac{
+\left(\dfrac{\varphi^{\pm}(x^{0},0)}
+{\left(\beta^{+}(x^{0},0)\right)^{2}}\right)^{\frac{1}{\gamma+1}}
+}{
+\left(\dfrac{\varphi^{-}(x^{0},0)}
+{\left(\beta^{+}(x^{0},0)\right)^{2}}\right)^{\frac{1}{\gamma+1}}
++
+\left(\dfrac{\varphi^{+}(x^{0},0)}
+{\left(\beta^{+}(x^{0},0)\right)^{2}}\right)^{\frac{1}{\gamma+1}}
+}
+\\[1em]
+\sigma_i=\mu_1,\mu_2,\ldots,\mu_n
+\quad\text{and}\quad
+\sigma_{i+2}=\nu_1,\nu_2,\ldots,\nu_n
+\\[1em]
+\dim_B(\partial N)<d_0:=d-1+\delta<d
+\\[1em]
+\rho(t)=
+\sum_{n=0,m=0}
+\rho_{nm}(t)\,
+|n\rangle\langle m|_c
+\otimes
+|\phi_n(x,t)\rangle\langle\phi_m(x,t)|_m
+\\[1em]
+\|t\|=\|\Theta_+t\|
+\\[1em]
+\Phi\!\left(\frac12[I+\mathbf{w}\cdot\boldsymbol{\sigma}]\right)
+=
+\frac12\left[I+w_1\lambda_1\sigma_1+(t+w_3\lambda_3)\sigma_3\right]
+\\[1em]
+(\widetilde{\nabla}_{X_1}(\nabla T_*))(X_2,X_3)
+=
+\nabla_{X_1}^{T^\perp}(\nabla T_*)(X_2,X_3)
+-
+(\nabla T_*)(\nabla_{X_1}^{M_1}X_2,X_3)
+-
+(\nabla T_*)(X_2,\nabla_{X_1}^{M_1}X_3)
+\\[1em]
+R_{j,l}(z)
+\overset{z\to+\infty}{\simeq}
+c_H^2(1+\delta_{j,l})\,
+\varphi(j/N)\varphi(l/N)\exp(-2\lambda z).
+\end{gathered}
+\]

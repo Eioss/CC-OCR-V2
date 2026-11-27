@@ -1,0 +1,178 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=1.8cm]{geometry}
+\usepackage{array,multirow,tabularx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,decorations.pathreplacing}
+\definecolor{blue}{RGB}{0,157,195}
+\pagestyle{empty}
+
+\begin{document}
+
+\noindent
+{\color{blue}\textbf{KEEP AWAKE}\quad 觉晓教育}
+\qquad
+{\large\textbf{民法主观题知识点 + 小案例}}
+\par\noindent\rule{\textwidth}{0.4pt}
+
+\vspace{1em}
+
+\renewcommand{\arraystretch}{1.8}
+\noindent
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}p{1.6cm}|X|}
+\hline
+&
+问 4：丙公司与戊公司签订房产买卖合同效力如何？为什么？
+（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力）
+\\ \hline
+\multirow{3}{*}{2010 年}
+&
+问 2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？
+（多重买卖不影响买卖合同效力）
+\\ \cline{2-2}
+&
+问 6：甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？
+（被代理人以履行合同的方式追认无权代理）
+\\ \cline{2-2}
+&
+问 7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？
+（无权处分不影响买卖合同的效力）
+\\ \hline
+\end{tabularx}
+
+\vspace{1.5em}
+\begin{center}
+{\Large\color{blue}\textbf{第一节\quad 合同的成立}}
+\end{center}
+
+\begin{center}
+\begin{tikzpicture}[
+    x=1cm,y=1cm,
+    box/.style={
+        draw,
+        rounded corners=3pt,
+        line width=1pt,
+        align=center,
+        inner sep=7pt
+    },
+    brace/.style={
+        decorate,
+        decoration={brace,amplitude=8pt},
+        line width=1pt
+    }
+]
+% 事实判断与价值判断
+\node[box,align=left,text width=2.05cm,minimum height=2.2cm]
+    (fact) at (4.05,7.5) {
+    {\color{blue}\textbf{事实判断}}\\
+    1.当事人\\
+    2.意思表示\\
+    3.标的
+};
+
+\node[box,align=left,text width=3.65cm,minimum height=2.2cm]
+    (value) at (7.65,7.5) {
+    {\color{blue}\textbf{价值判断}}\\
+    1.民事行为能力\\
+    2.意思表示真实、自由\\
+    3.不违反强制性规定、\\
+    不违背公序良俗
+};
+
+\draw[densely dashed,line width=1pt] (5.4,0.1) -- (5.4,9.4);
+
+% 向下的空心箭头
+\draw[line width=1pt]
+    (3.97,6.05) -- (4.13,6.05) -- (4.13,5.15) --
+    (4.3,5.15) -- (4.05,4.9) -- (3.8,5.15) --
+    (3.97,5.15) -- cycle;
+
+\draw[line width=1pt]
+    (7.22,6.05) -- (7.38,6.05) -- (7.38,5.15) --
+    (7.55,5.15) -- (7.3,4.9) -- (7.05,5.15) --
+    (7.22,5.15) -- cycle;
+
+% 成立
+\node[box,minimum width=2.65cm,minimum height=0.8cm]
+    (act) at (1.2,3.4) {民事法律行为};
+\node[box,minimum width=1.5cm,minimum height=0.75cm]
+    (notformed) at (4.05,4.05) {不成立};
+\node[box,minimum width=1.5cm,minimum height=0.75cm]
+    (formed) at (4.05,2.55) {成立};
+
+\draw[brace] (2.75,4.25) -- (2.75,2.45);
+
+% 有效与效力瑕疵
+\node[box,minimum width=1.8cm,minimum height=0.75cm]
+    (valid) at (7.2,3.5) {有效};
+\node[box,minimum width=1.8cm,minimum height=0.75cm]
+    (defect) at (7.2,1.65) {效力瑕疵};
+
+\draw[brace] (5.65,3.55) -- (5.65,1.65);
+
+% 生效与未生效
+\node[box,minimum width=1.8cm,minimum height=0.75cm]
+    (effective) at (9.75,4.4) {生效};
+\node[box,minimum width=1.8cm,minimum height=0.75cm]
+    (ineffective) at (9.75,2.95) {未生效};
+
+\draw[brace] (8.35,4.4) -- (8.35,2.95);
+
+\node[box,minimum width=3.1cm,minimum height=0.75cm]
+    (ordinary) at (13.05,4.4) {大多数合同、婚姻};
+\draw[-{Stealth[length=3mm]},line width=1pt]
+    (effective.east) -- (ordinary.west);
+
+\node[align=left,anchor=west] at (11.35,2.9) {
+    附延缓条件\\
+    附始期\\
+    需要审批\\
+    遗嘱
+};
+\draw[brace] (10.95,3.65) -- (10.95,2.15);
+
+% 效力瑕疵的类型
+\node[align=left,anchor=west] at (8.8,1.55) {
+    无效\\
+    可撤销\\
+    效力待定
+};
+\draw[brace] (8.55,2.05) -- (8.55,1.05);
+\end{tikzpicture}
+
+【民事法律行为成立、有效、生效关系图】
+\end{center}
+
+\vspace{1em}
+
+合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，
+意味着双方当事人形成合意，合同即告成立。
+
+\vspace{1.5em}
+
+\noindent{\large\textbf{一、合同的订立：要约与承诺}}
+
+\vspace{1em}
+
+\noindent\textbf{（一）要约}
+
+\vspace{0.5em}
+
+要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+\noindent
+1. 向希望与之订立合同的{\color{blue}\textbf{受要约人}}作出。
+
+\noindent
+2. 内容{\color{blue}\textbf{具体}}且{\color{blue}\textbf{确定}}：
+受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+\noindent
+3. 具有订立合同的目的并表明{\color{blue}\textbf{一经承诺即受拘束}}的意思。
+
+\vfill
+\noindent 2
+
+\end{document}
+```

@@ -1,0 +1,125 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\noindent
+(vii) Report the dialogue between a mother and a daughter by completing the sentence:
+
+\medskip
+\noindent
+Mother: Why are you looking so worried?\\
+Daughter: My exams are approaching.
+
+\medskip
+\noindent
+In response to the question of the mother, the daughter replied that
+\underline{\hspace{3cm}}.
+
+\bigskip
+\noindent
+(viii) Identify the error in the given sentence:
+
+\medskip
+\noindent
+The ship Titanic and her fate continues to fascinate the imagination of the people.
+
+\medskip
+\noindent
+Use the given format for your response
+
+\medskip
+\begin{center}
+\begin{tabular}{|p{3.5cm}|p{4cm}|}
+\hline
+\centering\textbf{Error} & \centering\arraybackslash\textbf{Correction}\\
+\hline
+\rule{0pt}{0.7cm} & \\
+\hline
+\end{tabular}
+\end{center}
+
+\bigskip
+\noindent
+(ix) Ritu and Randeep are talking. Report Ritu's question.
+
+\medskip
+\noindent
+Ritu: Where are you going?
+
+\medskip
+\noindent
+Ritu asked \underline{\hspace{3cm}}.
+
+\bigskip
+\noindent
+(x) Fill in the blank by choosing the correct option, to complete the slogan:
+
+\medskip
+\noindent
+\underline{\hspace{3cm}} smile and pass it to others.
+
+\medskip
+\begin{tabular}{ll}
+(a) Happy & (b) Short\\
+(c) Always & (d) Humble
+\end{tabular}
+
+\bigskip
+\noindent
+(xi) Select the correct option to complete the narration of the dialogue between Anil and Sanjeev:
+
+\medskip
+\noindent
+Anil: Where are you going?\\
+Sanjeev: To the airport.\\
+Anil: May I drop you there as I'm going in that direction?
+
+\medskip
+\noindent
+Anil asked Sanjeev where he was going and offered to drop him as
+\underline{\hspace{3cm}}.
+
+\medskip
+\noindent
+(a) he could be going in that direction.\\
+(b) he would be going in the direction.\\
+(c) he is going in the direction\\
+(d) he was going in that direction
+
+\bigskip
+\noindent
+(xii) Identify the error in the newspaper headline.
+
+\medskip
+\noindent
+Attractive packages for different Tourist destination- Mizoram, Kashmir, Kerala, Goa.
+
+\medskip
+\noindent
+Use the given format for your response:
+
+\medskip
+\begin{center}
+\begin{tabular}{|p{3.5cm}|p{4cm}|}
+\hline
+\centering\textbf{Error} & \centering\arraybackslash\textbf{Correction}\\
+\hline
+\rule{0pt}{0.7cm} & \\
+\hline
+\end{tabular}
+\end{center}
+
+\vfill
+\begin{flushright}
+\textbf{CL X/ PB-I /ENG/PAG}
+\end{flushright}
+
+\begin{center}
+\textcircled{6}
+\end{center}
+
+\end{document}
+```

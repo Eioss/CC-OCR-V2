@@ -1,0 +1,91 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{margin=2cm}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% ---------------- Question 12 ----------------
+\textbf{\Large 12} \quad Katy weighed out some sugar from a full 2 kg bag. The mass of the sugar is shown on the scale.
+
+\begin{center}
+% [Figure: weighing scale with dial marked 0, 200, 400, 600, 800, 1000 (g), next to a bag labelled "2 kg Sugar"]
+\fbox{\parbox{0.5\textwidth}{\centering Scale (g): 0, 200, 400, 600, 800, 1000 \\ Bag: 2 kg Sugar}}
+\end{center}
+
+How much sugar was left in the bag?
+
+\medskip
+\begin{tabular}{lllll}
+\textbf{A} \ 1.55 kg & \textbf{B} \ 1.65 kg & \textbf{C} \ 165 g & \textbf{D} \ 155 g & \textbf{E} \ 1550 kg
+\end{tabular}
+
+\vspace{1cm}
+
+% ---------------- Question 13 ----------------
+\textbf{\Large 13} \quad What is the total cost of 8 rulers and 8 pens?
+
+\begin{center}
+% [Figure: a pen with price tag £1.23 and a ruler with price tag £1.77]
+\fbox{\parbox{0.5\textwidth}{\centering Pen: \pounds1.23 \qquad Ruler: \pounds1.77}}
+\end{center}
+
+\begin{tabular}{lllll}
+\textbf{A} \ \pounds2 & \textbf{B} \ \pounds3 & \textbf{C} \ \pounds16 & \textbf{D} \ \pounds24 & \textbf{E} \ \pounds32
+\end{tabular}
+
+\vspace{1cm}
+
+% ---------------- Question 14 ----------------
+\textbf{\Large 14} \quad Round 7.038 to the nearest hundredth.
+
+\medskip
+\begin{tabular}{lllll}
+\textbf{A} \ 7.00 & \textbf{B} \ 7.03 & \textbf{C} \ 7.04 & \textbf{D} \ 7.038 & \textbf{E} \ 7.039
+\end{tabular}
+
+\vspace{1cm}
+
+% ---------------- Question 15 ----------------
+\textbf{\Large 15} \quad These shapes are made from 1 cm cubes.
+
+\begin{center}
+% [Figure: four cuboids built from 1 cm cubes, labelled P, Q, R and S]
+\fbox{\parbox{0.6\textwidth}{\centering P \qquad Q \qquad R \qquad S}}
+\end{center}
+
+Which two shapes have the same volume?
+
+\medskip
+\begin{tabular}{lllll}
+\textbf{A} \ P and Q & \textbf{B} \ P and R & \textbf{C} \ P and S & \textbf{D} \ Q and R & \textbf{E} \ R and S
+\end{tabular}
+
+\vspace{1cm}
+
+% ---------------- Question 16 ----------------
+\textbf{\Large 16} \quad Which of these shapes are prisms?
+
+\begin{center}
+% [Figure: P = pentagonal prism, Q = triangular prism, R = square-based pyramid, S = cube, T = cone]
+\fbox{\parbox{0.7\textwidth}{\centering P \qquad\quad Q \qquad\quad R \qquad\quad S \qquad\quad T}}
+\end{center}
+
+\begin{tabular}{lll}
+\textbf{A} \ P and S only & \textbf{B} \ R and T only & \textbf{C} \ Q, R and T \\
+\textbf{D} \ P, Q and S & \textbf{E} \ Only S &
+\end{tabular}
+
+\vfill
+\noindent 11+ Maths / 10-11 / 1 / Paper 1 \hfill 4 \hfill \copyright\ CGP 2018
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- The diagrams (scale, pen/ruler, cube shapes, 3D solids) can't be reproduced as text, so I've used labelled placeholder boxes with comments describing each figure. You could replace these with `\includegraphics` or TikZ drawings.
+- The `\pounds` command is used for the £ symbol.
+- The text, answer options and footer are transcribed exactly as they appear.

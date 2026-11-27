@@ -1,0 +1,10 @@
+\begin{cases}
+\tilde{\gamma}_0(\zeta)(z,w) = \frac{z_0+\bar{z}_0}{2} - t_{\bar{z}_0} A z_d = 0, \\
+\tilde{\gamma}_0(\zeta)(z,w) = i \frac{w_0}{\zeta} - i \zeta \bar{w}_0 = 0, \\
+\tilde{\gamma}_2(\zeta)(z,w) = (w_1 - 2w_0\partial_{z_1}\gamma(z)) + \overline{(w_1 - 2w_0\partial_{z_1}\gamma(z))} = 0, \\
+\vdots \qquad \vdots \\
+\tilde{\gamma}_{n+1}(\zeta)(z,w) = (w_n - 2w_0\partial_{z_n}\gamma(z)) + \overline{(w_n - 2w_0\partial_{z_n}\gamma(z))} = 0, \\
+\tilde{\gamma}_{n+2}(\zeta)(z,w) = i(w_1 - 2w_0\partial_{z_1}\gamma(z)) - i\overline{(w_1 - 2w_0\partial_{z_1}\gamma(z))} = 0, \\
+\vdots \qquad \vdots \\
+\tilde{\gamma}_{2n+1}(\zeta)(z,w) = i(w_n - 2w_0\partial_{z_n}\gamma(z)) - i\overline{(w_n - 2w_0\partial_{z_n}\gamma(z))} = 0,
+\end{cases}

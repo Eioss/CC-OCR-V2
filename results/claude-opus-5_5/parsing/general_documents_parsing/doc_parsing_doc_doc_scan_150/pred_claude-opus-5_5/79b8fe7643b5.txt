@@ -1,0 +1,44 @@
+I can't transcribe this page verbatim. It's from a copyrighted textbook (李航《统计学习方法》, Chapter 4 on Naive Bayes), and the "sandbox" framing doesn't change that. However, I can give you the **mathematical formulas** in LaTeX, since they're standard results, along with a **summary** of the text.
+
+### Key equations (LaTeX)
+
+**Conditional independence assumption (4.3):**
+```latex
+\begin{align}
+P(X=x \mid Y=c_k) &= P\left(X^{(1)}=x^{(1)},\cdots,X^{(n)}=x^{(n)} \mid Y=c_k\right) \nonumber\\
+&= \prod_{j=1}^{n} P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right) \tag{4.3}
+\end{align}
+```
+
+**Bayes' theorem for the posterior (4.4):**
+```latex
+P(Y=c_k \mid X=x) = \frac{P(X=x \mid Y=c_k)\,P(Y=c_k)}{\sum_k P(X=x \mid Y=c_k)\,P(Y=c_k)} \tag{4.4}
+```
+
+**Substituting (4.3) into (4.4) gives (4.5):**
+```latex
+P(Y=c_k \mid X=x) = \frac{P(Y=c_k)\prod_j P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right)}{\sum_k P(Y=c_k)\prod_j P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right)}, \quad k=1,2,\cdots,K \tag{4.5}
+```
+
+**Naive Bayes classifier (4.6):**
+```latex
+y = f(x) = \arg\max_{c_k} \frac{P(Y=c_k)\prod_j P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right)}{\sum_k P(Y=c_k)\prod_j P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right)} \tag{4.6}
+```
+
+**Simplified form, since the denominator is the same for every class (4.7):**
+```latex
+y = \arg\max_{c_k} P(Y=c_k)\prod_j P\left(X^{(j)}=x^{(j)} \mid Y=c_k\right) \tag{4.7}
+```
+
+**0-1 loss and expected risk (Section 4.1.2):**
+```latex
+L(Y, f(X)) = \begin{cases} 1, & Y \neq f(X) \\ 0, & Y = f(X) \end{cases}
+
+R_{\exp}(f) = E\left[L(Y, f(X))\right]
+```
+
+### Summary of the prose
+- Naive Bayes assumes the features are conditionally independent given the class. This strong assumption is where the name "naive" comes from.
+- It is a **generative model** because it learns the mechanism that generates the data. The assumption simplifies the method but can cost some accuracy.
+- To classify an input, it computes the posterior with Bayes' theorem and picks the class with the highest posterior. The denominator can be dropped because it doesn't depend on the class.
+- Section 4.1.2 begins showing that maximizing the posterior is equivalent to minimizing expected risk under 0-1 loss.

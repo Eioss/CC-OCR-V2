@@ -1,0 +1,80 @@
+青岚省临澜州南桥岚原信息技术有限公司
+出行提示表 / 景观维修工单
+负责人：何昊然 | 联系电话：13035204202
+https://example.com/doc-33932628
+
+<table border="1">
+<tr>
+<td rowspan="10" style="text-align: center; vertical-align: middle;">工单列表/验证记录</td>
+<td colspan="4"><b>A. 系统工单/问题跟踪</b></td>
+<td><b>文档编号 RB-613675</b></td>
+<td><b>日期 2024-11-23</b></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align: center;"><b>问题工单</b></td>
+<td colspan="3" style="text-align: center;"><b>影响评估</b></td>
+</tr>
+<tr>
+<td style="text-align: center;"><b>工单</b></td>
+<td style="text-align: center;"><b>模块</b></td>
+<td style="text-align: center;"><b>版本</b></td>
+<td style="text-align: center;"><b>影响</b></td>
+<td style="text-align: center;"><b>负责人</b></td>
+<td style="text-align: center;"><b>状态</b></td>
+</tr>
+<tr>
+<td style="text-align: center;">IT-628528</td>
+<td style="text-align: center;">登录</td>
+<td style="text-align: center;">v1.8</td>
+<td style="text-align: center;">一般</td>
+<td style="text-align: center;">卫泽宇</td>
+<td style="text-align: center;">处理中 ✓</td>
+</tr>
+<tr>
+<td style="text-align: center;">IT-118708</td>
+<td style="text-align: center;">接口</td>
+<td style="text-align: center;">v1.8</td>
+<td style="text-align: center;">一般</td>
+<td style="text-align: center;">赵欣妍</td>
+<td style="text-align: center;">待确认</td>
+</tr>
+<tr>
+<td style="text-align: center;">IT-901234</td>
+<td style="text-align: center;">支付</td>
+<td style="text-align: center;">v1.9</td>
+<td style="text-align: center;">严重</td>
+<td style="text-align: center;">李明</td>
+<td style="text-align: center;">已解决：李</td>
+</tr>
+<tr>
+<td colspan="6"><b>B. 验证与回滚记录</b></td>
+</tr>
+<tr>
+<td style="text-align: center;"><b>验证项</b></td>
+<td style="text-align: center;"><b>结果</b></td>
+<td style="text-align: center;"><b>回滚</b></td>
+<td style="text-align: center;"><b>复核</b></td>
+<td colspan="2" style="text-align: center;"><b>备注</b></td>
+</tr>
+<tr>
+<td style="text-align: center;">数据一致</td>
+<td style="text-align: center;">未通过</td>
+<td style="text-align: center;">无需</td>
+<td style="text-align: center;">严子航</td>
+<td colspan="2">留痕：需复核</td>
+</tr>
+<tr>
+<td style="text-align: center;">数据一致</td>
+<td style="text-align: center;">复查中</td>
+<td style="text-align: center;">已回滚</td>
+<td style="text-align: center;">张若溪</td>
+<td colspan="2">留痕 OK ok</td>
+</tr>
+<tr>
+<td style="text-align: center;">功能正常</td>
+<td style="text-align: center;">通过</td>
+<td style="text-align: center;">无需</td>
+<td style="text-align: center;">王强</td>
+<td colspan="2" style="text-align: center;">存档</td>
+</tr>
+</table>

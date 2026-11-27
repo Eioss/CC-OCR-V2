@@ -1,0 +1,4 @@
+There are two instances of "Accommodation" in the image:
+
+(161, 445, 257, 459) # first row, dated 11-05-20
+(161, 464, 258, 479) # second row, dated 11-06-20

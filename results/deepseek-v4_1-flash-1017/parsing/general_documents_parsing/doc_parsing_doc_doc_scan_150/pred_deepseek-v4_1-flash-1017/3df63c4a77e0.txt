@@ -1,0 +1,149 @@
+Here is the transcription of the physics formula sheet into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{booktabs}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \Huge \textbf{Physics Formula Sheet}
+\end{center}
+
+\section*{Mechanics}
+
+\begin{minipage}[t]{0.7\textwidth}
+    \begin{align*}
+        & x = x_0 + v_{x0}t + \frac{1}{2}a_x t^2 & a_c = \frac{v^2}{r} & & |\vec{F}_{\text{spring}}| = k|\vec{x}| \\
+        & v = v_0 + at & \theta = \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2 & & PE_{\text{spring}} = \frac{1}{2}kx^2 \\
+        & v_x^2 - v_{x0}^2 = 2a_x(x - x_0) & \omega = \omega_0 + \alpha t & & T_{\text{spring}} = 2\pi\sqrt{\frac{m}{k}} \\
+        & \bar{a} = \frac{\sum \vec{F}}{m} = \frac{\vec{F}_{\text{net}}}{m} & T = \frac{2\pi}{\omega} = \frac{1}{f} & & T_{\text{pendulum}} = 2\pi\sqrt{\frac{\ell}{g}} \\
+        & |\vec{F}_{\text{friction}}| \leq \mu |\vec{F}_{\text{Normal}}| & v = f\lambda & & \\
+        & \vec{p} = m\vec{v} & x = A\cos(2\pi ft) & & |\vec{F}_{\text{gravity}}| = G\frac{m_1 m_2}{r^2} \\
+        & \Delta\vec{p} = \vec{F}\Delta t & \bar{a} = \frac{\sum \tau}{I} = \frac{\tau_{\text{net}}}{I} & & |\vec{F}_{\text{gravity}}| = mg \\
+        & KE = \frac{1}{2}mv^2 & \bar{\tau} = r \times F & & PE_{\text{gravity}} = -G\frac{m_1 m_2}{r} \\
+        & \Delta PE = mg\Delta y & L = I\omega & & \rho = \frac{m}{V} \\
+        & \Delta E = W = Fd\cos\theta & \Delta L = \tau\Delta t & & KE = \frac{1}{2}I\omega^2
+    \end{align*}
+\end{minipage}%
+\begin{minipage}[t]{0.3\textwidth}
+    \textbf{Variables}
+    \vspace{0.2cm}
+    \small
+    \begin{tabular}{ll}
+        a = & acceleration \\
+        A = & amplitude \\
+        A = & Area \\
+        b = & base length \\
+        C = & circumference \\
+        d = & distance \\
+        E = & energy \\
+        f = & frequency \\
+        F = & force \\
+        h = & height \\
+        I = & current \\
+        I = & rotational inertia \\
+        KE = & kinetic energy \\
+        k = & spring constant \\
+        L = & angular momentum \\
+        \ell = & length \\
+        m = & mass \\
+        P = & power \\
+        p = & momentum \\
+        q = & charge \\
+        r = & radius \\
+        R = & resistance \\
+        S = & surface area \\
+        T = & period \\
+        t = & time \\
+        PE = & potential energy \\
+        V = & electric potential \\
+        V = & volume \\
+        v = & velocity \\
+        w = & width \\
+        W = & work \\
+        x = & position \\
+        y = & height \\
+        \alpha = & angular acceleration \\
+        \lambda = & wavelength \\
+        \mu = & coefficient of friction \\
+        v = & wave speed \\
+        \theta = & angle \\
+        \rho = & density \\
+        \rho = & resistivity \\
+        \tau = & torque \\
+        \omega = & angular speed
+    \end{tabular}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\section*{Electricity}
+\begin{minipage}{\textwidth}
+    \begin{align*}
+        |\vec{F}_e| = k\left|\frac{q_1 q_2}{r^2}\right| & \quad \Delta V = IR & \quad R = \frac{\rho \ell}{A} \\
+        I = \frac{\Delta q}{\Delta t} & \quad P = I\Delta V & \\
+        R_{\text{series}} = R_1 + R_2 + \dots + R_n & \quad \frac{1}{R_{\text{parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n} &
+    \end{align*}
+\end{minipage}
+
+\section*{Geometry}
+\begin{minipage}{\textwidth}
+    \begin{align*}
+        \text{Rectangle} \quad A &= bh & \text{Rectangular Solid} \quad V &= \ell wh & \text{Triangle} \quad A &= \frac{1}{2}bh \\
+        \text{Circle} \quad A &= \pi r^2 & \text{Cylinder} \quad V &= \pi r^2 \ell & \text{Sphere} \quad V &= \frac{4}{3}\pi r^3 \\
+        C &= 2\pi r & S &= 2\pi r \ell + 2\pi r^2 & S &= 4\pi r^2
+    \end{align*}
+\end{minipage}
+
+\section*{Trigonometry}
+\begin{minipage}{\textwidth}
+    \begin{minipage}{0.3\textwidth}
+        \vspace{0.5cm}
+        % Placeholder for the triangle diagram
+        \begin{center}
+        \begin{tikzpicture}
+            \draw (0,0) -- (3,0) -- (3,1.5) -- cycle;
+            \draw (3,0) -- (3,0.2) -- (2.8,0.2);
+            \node at (1.5, -0.3) {b};
+            \node at (3.2, 0.75) {a};
+            \node at (1.2, 0.9) {c};
+            \node at (0.5, 0.2) {\(\theta\)};
+        \end{tikzpicture}
+        \end{center}
+    \end{minipage}%
+    \begin{minipage}{0.7\textwidth}
+        \begin{align*}
+            c^2 &= a^2 + b^2 \\
+            \sin\theta &= \frac{a}{c} \quad \cos\theta = \frac{b}{c} \quad \tan\theta = \frac{a}{b}
+        \end{align*}
+    \end{minipage}
+\end{minipage}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|}
+        \hline
+        \(\theta\) & \(0^\circ\) & \(30^\circ\) & \(37^\circ\) & \(45^\circ\) & \(53^\circ\) & \(60^\circ\) & \(90^\circ\) \\
+        \hline
+        \(\sin\theta\) & 0 & \(1/2\) & \(3/5\) & \(\sqrt{2}/2\) & \(4/5\) & \(\sqrt{3}/2\) & 1 \\
+        \hline
+        \(\cos\theta\) & 1 & \(\sqrt{3}/2\) & \(4/5\) & \(\sqrt{2}/2\) & \(3/5\) & \(1/2\) & 0 \\
+        \hline
+        \(\tan\theta\) & 0 & \(\sqrt{3}/3\) & \(3/4\) & 1 & \(4/3\) & \(\sqrt{3}\) & \(\infty\) \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\end{document}
+```

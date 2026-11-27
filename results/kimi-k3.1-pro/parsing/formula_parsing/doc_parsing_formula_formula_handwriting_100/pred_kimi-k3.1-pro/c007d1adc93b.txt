@@ -1,0 +1,25 @@
+\[
+\begin{aligned}
+\operatorname{Tr}\!\left[(A_m\otimes A_n)R_{AB}\right]
+&=\operatorname{Tr}\!\left\{(A_m\otimes A_n)\left[\left(\rho_A\otimes\frac{I}{2}\right)E_{AB}
++E_{AB}\left(\rho_A\otimes\frac{I}{2}\right)\right]\right\}\\
+&=\frac{1}{2}\left[\operatorname{Tr}\!\left((A_m\rho\otimes A_n)E_{AB}\right)
++\operatorname{Tr}\!\left((A_m\otimes A_n)E_{AB}(\rho\otimes I)\right)\right]\\
+&=\frac{1}{2}\left[\sum_{ij}\operatorname{Tr}\!\left(A_m\rho|i\rangle\langle j|\right)
+\operatorname{Tr}\!\left(A_n\mathcal{E}_{A|B}(|j\rangle\langle i|)\right)
++\sum_{ij}\operatorname{Tr}\!\left(A_m|i\rangle\langle j|\rho\right)
+\operatorname{Tr}\!\left(A_n\mathcal{E}_{A|B}(|j\rangle\langle i|)\right)\right]\\
+&=\frac{1}{2}\left[\sum_{ij}\langle j|(A_m\rho+\rho A_m)|i\rangle
+\operatorname{Tr}\!\left(A_n\mathcal{E}_{A|B}(|j\rangle\langle i|)\right)\right]\\
+&=\frac{1}{2}\left[\sum_{ij}\langle j|(A_m\rho+\rho A_m)|i\rangle
+\operatorname{Tr}\!\left(A_n\sum_k V_k|j\rangle\langle i|V_k^\dagger\right)\right]\\
+&=\frac{1}{2}\left[\sum_{ij}\langle j|(A_m\rho+\rho A_m)|i\rangle
+\sum_k\langle i|V_k^\dagger A_nV_k|j\rangle\right]\\
+&=\frac{1}{2}\left[\sum_j\langle j|(A_m\rho+\rho A_m)
+\sum_kV_k^\dagger A_nV_k|j\rangle\right]\\
+&=\frac{1}{2}\operatorname{Tr}\!\left[\sum_j|j\rangle\langle j|(A_m\rho+\rho A_m)
+\sum_kV_k^\dagger A_nV_k\right]\\
+&=\frac{1}{2}\operatorname{Tr}\!\left[(A_m\rho+\rho A_m)\mathcal{E}_{A|B}^{\dagger}(A_n)\right]\\
+&=\langle A_mA_n\rangle_{\mathrm{seq}}
+\end{aligned}
+\]

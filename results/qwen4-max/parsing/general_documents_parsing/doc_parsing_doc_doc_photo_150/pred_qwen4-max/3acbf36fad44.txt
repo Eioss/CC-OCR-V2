@@ -1,0 +1,56 @@
+\begin{center}
+\textbf{Ruijin Hospital Shanghai Jiaotong University School of Medicine} \\
+\textbf{Clinical Laboratory Report}
+\end{center}
+
+\begin{tabular}{ll}
+Name : & Sample Number : 17143 \\
+Gender : & PatientNo/PassportNo : 1320021c \\
+Age : & Birthday: 1 \\
+& Clinical Diagnosis : Regular inspection \\
+& Sample Type : Nasopharynx swab \\
+& Testing Time : 2021-08-14 \\
+\multicolumn{2}{l}{Application Section Office : Ruijin Hospital Shanghai Jiaotong University School of Medicine} \\
+\end{tabular}
+
+\begin{tabular}{llll}
+\hline
+\textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+\hline
+SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+Statement: \\
+1. The testing result may be affected by the sampling time, sampling body parts, as well as the methodology limitations. The result should be analyzed with clinical manifestations. \\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{1em}
+
+\begin{tabular}{ll}
+Sampling Time : 21-08-14 09:52 & Reporting Time : 21-08-14 12:26 \\
+Received Time : 21-08-14 11:03 & Printing Time : 21-08-14 07:09 \\
+\end{tabular}
+
+\vspace{1em}
+
+Inspector: [Signature] \quad Auditor: [Signature]
+
+\vspace{1em}
+
+The test results are just responsible for the sample; and used only for reference by clinical doctors.
+
+\vspace{1em}
+
+add.: No 107 Ruijin 2 Road, Huangpu district, Shanghai \quad Tel.: 8621-64370045
+
+\vspace{1em}
+
+\begin{center}
+Sheet 1 \quad (病毒室)
+\end{center}

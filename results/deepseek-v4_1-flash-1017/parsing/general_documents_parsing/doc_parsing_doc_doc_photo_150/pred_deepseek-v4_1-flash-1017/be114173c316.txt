@@ -1,0 +1,68 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{array}
+
+\begin{document}
+
+\noindent \textbf{第二条 激励金发放}
+
+\vspace{1em}
+\noindent 根据甲方评估及乙方确认，双方就乙方“激励计划”具体约定如下：
+
+\vspace{0.5em}
+\noindent 1.乙方于\_\_年\_\_月\_\_日正式入选甲方“激励计划”。
+
+\vspace{0.5em}
+\noindent 2.甲方向乙方发放“激励金”人民币（大写）\_\_\_\_元（\textyen\_\_）（税前），发放计划如下：
+
+\vspace{0.5em}
+\begin{table}[h!]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|l|l|}
+\hline
+考核年度 & 发放时间（暂定） & 税前金额（\textyen） \\ \hline
+第一年： &  &  \\ \hline
+第二年： &  &  \\ \hline
+第三年： &  &  \\ \hline
+\end{tabular}
+\end{table}
+
+\vspace{0.5em}
+\noindent 3.发生以下情形之一者，“激励计划”自动终止，未发放“激励金”不再发放，已发放“激励金”无须退还：
+
+\begin{itemize}
+    \item[(1)] 考核年度内，乙方岗位晋升至经理级以上（含）；
+    \item[(2)] 乙方连续两年考核成绩未达到部门（及调动部门）70分位以上水平（不含）。
+\end{itemize}
+
+\vspace{0.5em}
+\noindent 4.考核年度内发生以下情形之一者，该年度“激励金”取消：
+
+\begin{itemize}
+    \item[(1)] 乙方在指定考核年度内累计事假/连续事假超过三十天；
+    \item[(2)] 乙方在指定考核年度的考核成绩未达到部门（及调动部门）70分位以上水平（不含）。
+\end{itemize}
+
+\vspace{0.5em}
+\noindent 5.若乙方满足“激励金”发放条件，则甲方向乙方如下账户实施“激励金”发放。乙方银行账户信息：
+
+\vspace{0.5em}
+\noindent 指定收款账号：\_\_\_\_\_\_\_\_
+
+\vspace{0.5em}
+\noindent 开户行：\_\_\_\_\_\_\_\_
+
+\vspace{0.5em}
+\noindent 户名：\_\_\_\_\_\_\_\_
+
+\vspace{1.5em}
+\noindent \textbf{第三条 服务期}
+
+\vspace{1em}
+\noindent 1.乙方服务期自\_\_年\_\_月\_\_日起至\_\_年\_\_月\_\_日止，共计\_\_个月。
+
+\end{document}
+```

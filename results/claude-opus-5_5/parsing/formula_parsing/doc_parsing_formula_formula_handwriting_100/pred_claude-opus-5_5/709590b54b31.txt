@@ -1,0 +1,15 @@
+$$
+\begin{aligned}
+&\mathcal{L}(x, s, \hat{\lambda}, q_r, Q_r; Z, t_k, p_k, P_k, \forall k\in[K]) \\
+&= s + r_2 I_{m_1}\cdot Q_r + \sqrt{r_1}\|q_r\|_2 - Z\cdot\Big(\sum_{i=1}^{K}(\Delta_i x_i) + \Delta_0\Big) - \sum_{k=1}^{K}\begin{bmatrix} t_k & p_k^T \\ p_k & P_k \end{bmatrix}\cdot \\
+&\quad \begin{bmatrix} s - y_k^0(x) - \lambda_k^T b - y_k(x)^T u + \lambda_k^T A u & \frac{1}{2}\big(q_r + (U\Lambda^{\frac{1}{2}}B)^T(A^T\lambda_k - y_k(x))\big)^T \\ \frac{1}{2}\big(q_r + (U\Lambda^{\frac{1}{2}}B)^T(A^T\lambda_k - y_k(x))\big) & Q_r \end{bmatrix} \\
+&= \Big(1-\sum_{k=1}^{K}t_k\Big)s - \sum_{k=1}^{K}\big(t_k(Au-b)^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T A^T\big)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K}p_k^T q_r \\
+&\quad + \Big(r_2 I_{m_1} - \sum_{k=1}^{K}P_k\Big)\cdot Q_r - \sum_{i=1}^{T}\sum_{j=1}^{T} z_{ij}\big(a_{ij}x + a_{ij}^0\big) + \sum_{k=1}^{K}\Big(t_k y_k^0(x) + \big(t_k u^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T\big)y_k(x)\Big) \\
+&= \Big(1-\sum_{k=1}^{K}t_k\Big)s - \sum_{k=1}^{K}\big(t_k(Au-b)^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T A^T\big)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K}p_k^T q_r \\
+&\quad + \Big(r_2 I_{m_1} - \sum_{k=1}^{K}P_k\Big)\cdot Q_r - \sum_{i=1}^{T}\sum_{j=1}^{T} z_{ij}a_{ij}x - \sum_{i=1}^{T}\sum_{j=1}^{T} z_{ij}a_{ij}^0 + \sum_{k=1}^{K}\Big(t_k w_k^0 + \big(t_k u^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T\big)W_k\Big)x \\
+&\quad + \sum_{k=1}^{K}\Big(t_k d_k^0 + \big(t_k u^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T\big)d_k\Big) \\
+&= \Big(1-\sum_{k=1}^{K}t_k\Big)s - \sum_{k=1}^{K}\big(t_k(Au-b)^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T A^T\big)\lambda_k + \sqrt{r_1}\|q_r\|_2 - \sum_{k=1}^{K}p_k^T q_r \\
+&\quad + \Big(r_2 I_{m_1} - \sum_{k=1}^{K}P_k\Big)\cdot Q_r + \Big(\sum_{k=1}^{K}\Big(t_k w_k^0 + \big(t_k u^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T\big)W_k\Big) - \sum_{i=1}^{T}\sum_{j=1}^{T} z_{ij}a_{ij}\Big)x \\
+&\quad + \sum_{k=1}^{K}\Big(t_k d_k^0 + \big(t_k u^T + p_k^T(U\Lambda^{\frac{1}{2}}B)^T\big)d_k\Big) - \sum_{i=1}^{T}\sum_{j=1}^{T} z_{ij}a_{ij}^0.
+\end{aligned}
+$$

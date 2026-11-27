@@ -1,0 +1,3 @@
+The image contains several "0" values, all of them in the payment fields. I took the standalone "0" printed just before "年" in the bottom date area to be the one meant:
+
+(663, 913, 672, 930)

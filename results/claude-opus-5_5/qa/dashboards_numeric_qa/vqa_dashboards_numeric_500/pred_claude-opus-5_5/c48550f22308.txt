@@ -1,0 +1,1 @@
+**Microsoft Standard** supports the fewest host processors, with a maximum of **4**, compared with 8 for Enterprise and 64 for Datacenter.

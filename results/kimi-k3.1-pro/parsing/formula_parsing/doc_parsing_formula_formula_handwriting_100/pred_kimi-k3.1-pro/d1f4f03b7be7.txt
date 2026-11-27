@@ -1,0 +1,35 @@
+\[
+\begin{aligned}
+D_{\theta}\Xi(s)
+={}&
+\begin{pmatrix}
+\chi_{1}(\theta-s)\\
+\chi_{d}(\theta-s)
+\end{pmatrix}
++\sum_{m=1}^{\infty}\int_{\Delta_{\theta,s}^{m}}
+\Bigg\{
+\nabla b^{n}\!\left(\langle x_{s_{m}}^{n},e_{1}\rangle+\varepsilon w_{1}B^{H_{1}}(s_{m}),\ldots\right)
+\cdot
+\begin{pmatrix}
+\chi_{1}(\theta-s_{m})\\
+\vdots\\
+\chi_{d}(\theta-s_{m})
+\end{pmatrix}
+\\
+&\quad\cdot\prod_{l=1}^{m-1}
+\nabla b^{n}\!\left(\langle x_{s_{l}}^{n},e_{1}\rangle+\varepsilon w_{1}B^{H_{1}}(s_{l}),\ldots\right)
+\cdot
+\begin{pmatrix}
+\chi_{1}(s_{l+1}-s_{l})\\
+\vdots\\
+\chi_{d}(s_{l+1}-s_{l})
+\end{pmatrix}
+\Bigg\}
+\begin{pmatrix}
+\chi_{1}(s_{1}-s)\\
+\vdots\\
+\chi_{d}(s_{1}-s)
+\end{pmatrix}
+\,ds_{m}\ldots ds_{1}.
+\end{aligned}
+\]

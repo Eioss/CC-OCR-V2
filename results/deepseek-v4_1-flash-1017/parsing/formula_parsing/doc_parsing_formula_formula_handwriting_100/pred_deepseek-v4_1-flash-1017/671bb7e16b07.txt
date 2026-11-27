@@ -1,0 +1,14 @@
+```latex
+\pi(k, z, \theta | y, p, P, \gamma) \propto \frac{(2\pi)^{-n/2}}{\sqrt{k+1}\sigma^2} p^k (1-p)^{n-k-1} \\
+\prod_{j=1}^{k+1} \left( T_j - T_{j-1} + \frac{1}{\nu^2} \right)^{1/2} \exp \left\{ -\frac{1}{2\sigma^2} \left( SS_j + \frac{\mu_0^2}{\nu^2} - \frac{(S_j + \frac{\mu_0}{\nu^2})^2}{T_j - T_{j-1} + \frac{1}{\nu^2}} \right) \right\} \\
+R'_{n}(t) := \frac{\gamma(2^{n+p_N^n})}{4} \left( \frac{(1+2^{n-1}\gamma_{n-1}^N)^2}{(1+2^n\gamma_n^N)} - 1 \right) (p_{n-1}^N - p_n^N) \\
+- \bar{\mu}_n (A^N(A^N(t)), p^N(t)) \gamma (2^{n+p_N^n}) \left( \frac{(1+2^n\gamma_n^N \gamma_{n-1}^N)}{(1+2^n\gamma_n^N)} - 1 \right) (p_n^N - p_{n+1}^N), \\
+gen_H(f^z) \le gen_H(f^y) + \#\{(u_1, u_2) : C_1 \le f(u_i) \le C_2, f'(u_i) = 0\}, \\
+P(T_* \in A | \min_{a \le t \le b} X(t) > u) \\
+= \frac{\int_0^\infty \exp\{-ux / \sigma_*^2(a,b)\} P(Y \le x, \min_{a \le t \le b} X(t) > 0, T_* \in A) dx}{\int_0^\infty \exp\{-ux / \sigma_*^2(a,b)\} P(Y \le x, \min_{a \le t \le b} X(t) > 0) dx}, \\
+S_j \ge \frac{C(1+9\varepsilon/10)d^{-2j}}{2^j} \ge \frac{1+9\varepsilon/10}{1+\varepsilon/10} d_j - 1 \ge (1+7\varepsilon/10)d_j. \\
+I^{syn}(\alpha_1 \square \alpha_2) \subseteq I^{syn}(\alpha'_1 \square \alpha'_2) \text{ and } O^{syn}(\alpha_1 \square \alpha_2) \subseteq O^{syn}(\alpha'_1 \square \alpha'_2). \\
+X = (0, 0, \cdots, 0, x_{i+1}, \cdots, x_n) \\
+\frac{t_i}{64(1+t_i d(X_i, \partial B_R)^{-4})} f_{k,i}(x,t) \le \frac{(t_i + \frac{1}{\sigma_i^2})}{H(t_i + \frac{1}{\sigma_i^2}) d(X_i + \frac{X}{\sigma_i^2}, \partial B_R)^{-4}} f_{k,i}(x,t) \\
+\le \frac{t_i}{1+t_i d(X_i, \partial B_R)^{-4}} f_{k,i}(0,0).
+```

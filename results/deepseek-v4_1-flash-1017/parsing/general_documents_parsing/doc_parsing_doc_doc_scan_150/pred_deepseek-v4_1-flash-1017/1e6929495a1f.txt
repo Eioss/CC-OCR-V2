@@ -1,0 +1,87 @@
+Here is the transcription of the document into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{makecell}
+
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c|c|c|c|c|}
+\hline
+\multicolumn{1}{|c|}{\multirow{2}{*}{项\quad 目}} & \multirow{2}{*}{年初余额} & 本期 & 本期 & \multirow{2}{*}{期末余额} & 持股 \\ \cline{3-4}
+\multicolumn{1}{|c|}{} & & 增加 & 减少 & & 比例 \\ \hline
+潜江市国资委 & 50,000,000.00 & & & 50,000,000.00 & 1.1552\% \\ \hline
+天门市国资委 & 50,000,000.00 & & & 50,000,000.00 & 1.1552\% \\ \hline
+合\quad 计 & 4,328,339,232.79 & 200,000,000.00 & 200,000,000.00 & 4,328,339,232.79 & 100.00\% \\ \hline
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+37、其他权益工具
+
+\vspace{0.5em}
+
+（1）分类情况
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{|l|c|c|}
+\hline
+\multicolumn{1}{|c|}{项\quad 目} & 期末余额 & 年初余额 \\ \hline
+永续债 & 21,193,120,000.00 & 18,293,690,000.00 \\ \hline
+合\quad 计 & 21,193,120,000.00 & 18,293,690,000.00 \\ \hline
+\end{tabular}
+\end{table}
+
+\vspace{1em}
+
+（2）期末发行在外的永续债基本情况
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.5}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+\hline
+其他权益 & 发行 & 会计 & 投资 & 约定投资/借款 & 到期日 & 实际收到款项 & 权益工具余额 \\ 
+工具名称 & 时间 & 分类 & 收益率 & 额（万元） & 或续期 & （万元） & （万元） \\ 
+ & & & & & 情况 & & \\ \hline
+华能贵诚信托 & 2015年 & 权益 & \multirow{2}{*}{M1=8.8\%} & \multirow{2}{*}{500,000.00} & 无固定到 & \multirow{2}{*}{500,000.00} & \multirow{2}{*}{240,000.00} \\ 
+50亿永续债(注 & & 工具 & & & 期日 & & \\ 
+1) & & & & & & & \\ \hline
+平安财务满溢 & 2016年 & 权益 & \multirow{2}{*}{M1=7.5\%} & \multirow{2}{*}{30,000.00} & 无固定到 & \multirow{2}{*}{30,000.00} & \multirow{2}{*}{30,000.00} \\ 
+16号单-资金信 & & & & & 期日 & & \\ 
+托之永续债权 & & 工具 & & & & & \\ 
+益投资计划(注 & & & & & & & \\ 
+4) & & & & & & & \\ \hline
+兴业信托-兴发 & 2016年 & 权益 & \multirow{2}{*}{基准利率上浮 5\%} & \multirow{2}{*}{100,000.00} & 60个月(可 & \multirow{2}{*}{100,000.00} & \multirow{2}{*}{100,000.00} \\ 
+53号单-资金信 & & 工具 & & & 续期) & & \\ 
+托(1期) (注5) & & & & & & & \\ \hline
+兴业信托-兴发 & 2016年 & 权益 & \multirow{2}{*}{基准利率上浮 5\%} & \multirow{2}{*}{100,000.00} & 60个月(可 & \multirow{2}{*}{100,000.00} & \multirow{2}{*}{100,000.00} \\ 
+53号单-资金信 & & 工具 & & & 续期) & & \\ 
+托(2期) (注5) & & & & & & & \\ \hline
+16 鄂 联 投 & 2016年 & 权益 & M1=3.99\% & 100,000.00 & 60个月 & 100,000.00 & 100,000.00 \\ \hline
+\end{tabular}
+}
+\end{table}
+
+\vspace{2em}
+
+\begin{center}
+本报告书共 218 页第 114 页
+\end{center}
+
+\end{document}
+```

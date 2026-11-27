@@ -1,0 +1,9 @@
+In the third row of the infographic, there are **5 beer cans** displayed. They correspond to the following beers:
+
+1. **Modelo Especial** (#11)
+2. **Keystone Light** (#12)
+3. **Miller High Life** (#13)
+4. **Natural Ice** (#14)
+5. **Bud Light Platinum** (#15)
+
+So, the total number of beer cans in the third row is **boxed{5}**.

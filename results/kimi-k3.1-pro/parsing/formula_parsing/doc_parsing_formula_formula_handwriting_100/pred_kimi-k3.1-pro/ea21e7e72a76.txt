@@ -1,0 +1,13 @@
+\[
+\begin{aligned}
+M' &\simeq L_B \circ L_{B^{\perp\perp}} \\
+&\simeq L_{B^{\perp\perp}}[1] \\
+&= i_{A^-}^{L} \circ i_{A^+}[1] \\
+&\simeq i_{A^+}^{L} \circ S \circ i_{A^+}[1] \\
+&\simeq i_{A^+}^{L} \circ i_{A^-} \circ i_{A^-}^{L} \circ S \circ i_{A^+}[1] \\
+&= L_B \circ i_{A^-}^{L} \circ S \circ i_{A^+}[1] \\
+&\simeq i_{A^-}^{L} \circ S \circ i_{A^+}[2] \\
+&\simeq i_{A^+}^{L} \circ S \circ i_{A^-} \circ i_{A^-}^{L} \circ S \circ i_{A^+}[2] \\
+&= i_{A^+}^{L} \circ S^2 \circ i_{A^+}[2].
+\end{aligned}
+\]

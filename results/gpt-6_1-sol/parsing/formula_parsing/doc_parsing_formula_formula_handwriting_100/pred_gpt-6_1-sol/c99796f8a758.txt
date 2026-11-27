@@ -1,0 +1,43 @@
+\[
+\begin{aligned}
+\mathbb{E}\left|\sum_{j=1}^{n}\mathbb{E}_{j-1}X_{ij}\right|^{p}
+&=O\left(\frac{|x|^{2p}}{\delta_x^{4p}}\right)
++O\left(\frac{|x|^{3p}}{\delta_x^{5p}}\right)
++O\left(\frac{|x|^{2p}}{\delta_x^{3p}}\right)
+\leq \Phi_1(|x|)\Psi_1(\delta_x^{-1}).
+\\[6pt]
+\nu^2\cdot\xi_x
+&=\frac12\left(\alpha_i^\vee
++3\left(\alpha_{i+1}^\vee+\cdots+\alpha_\ell^\vee\right)\right).
+\\[6pt]
+J(u)&:=\|Tu-g\|_2^2+2\alpha\,|D(u)|(\Omega).
+\\[6pt]
+\gamma_2
+&:=\inf_{\nu}
+\left(
+\frac{
+(1-\rho)[\nu]_{p,q}^{\kappa}(\nu-\eta)
+\left\{1+([\nu]_{p,q}-1)\tau^2
+[1+(\nu-1)\tau]^{\varepsilon}\right\}^{1/(\nu-1)}
+}{
+(\nu-\rho)(1-\eta)
+}
+\right),
+\qquad (\nu\geq2).
+\\[6pt]
+\sum_{j=0}^{N-1}(H_{ij}-\omega S_{ij})c_j
+&=0,\qquad i=0,1,\ldots,N-1.
+\\[6pt]
+H_{ij}
+&=\int_{-\infty}^{\infty}f_i(q)\,\widehat{H}f_j(q)\,dq,
+\qquad
+S_{ij}=\int_{-\infty}^{\infty}f_i(q)f_j(q)\,dq.
+\\[6pt]
+\mathbb{E}\phi\bigl(f(Ga)-f(Gb)\bigr)
+&\leq
+\mathbb{E}\phi\left(
+\frac{\pi}{2}\|a-b\|_2
+\left\langle\nabla f(X),Y\right\rangle
+\right).
+\end{aligned}
+\]

@@ -1,0 +1,158 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+\newcommand{\sechead}[1]{\vspace{6pt}\underline{#1}\par\vspace{3pt}}
+
+\begin{document}
+
+\begin{center}
+    {\large Formula Sheet for Physics 251}
+\end{center}
+
+\vspace{4pt}
+
+\noindent
+\begin{minipage}[t]{0.24\textwidth}
+\sechead{Constants}
+$R = 8.3145\ \dfrac{\text{J}}{\text{m}\cdot\text{K}}$ \\[6pt]
+$N_A = 6.02 \times 10^{23}$ \\[6pt]
+$k_B = \dfrac{R}{N_A} = 1.38 \times 10^{-23}\ \dfrac{\text{J}}{\text{m}\cdot\text{K}}$ \\[6pt]
+$e = 1.602 \times 10^{-19}\ \text{C}$ \\[6pt]
+$k = \dfrac{1}{4\pi\varepsilon_0} = 9 \times 10^9\ \dfrac{\text{N}\cdot\text{m}^2}{\text{C}^2}$ \\[6pt]
+$\mu_0 = 4\pi \times 10^{-7}\ \dfrac{\text{T}\cdot\text{m}}{\text{A}}$ \\[6pt]
+$c = 3 \times 10^8\ \dfrac{\text{m}}{\text{s}}$
+
+\sechead{Thermal Expansion}
+$\Delta L = \alpha L_0 \Delta T$ \\[4pt]
+$\beta = 3\alpha$
+
+\sechead{Heat}
+$Q = mc\Delta T$ \\[4pt]
+$Q = \pm mL$ \\[4pt]
+$Q = nC_v\Delta T$ \\[4pt]
+$Q = nC_p\Delta T$
+
+\sechead{Heat Current}
+$H = k\dfrac{A}{L}(T_H - T_C)$ \\[6pt]
+$H = Ae\sigma T^4$
+
+\sechead{Quantities}
+
+\sechead{Work}
+$W = \displaystyle\int\limits_{V_i}^{V_f} P\,dV$
+
+\sechead{Isochoric Processes}
+$W = 0$ \\[4pt]
+$Q = nC_v\Delta T$ \\[4pt]
+$*\ \Delta U = nC_v\Delta T$
+\end{minipage}
+\hfill\vrule\hfill
+\begin{minipage}[t]{0.23\textwidth}
+$m_{\text{tot}} = nM$ \\[4pt]
+$M = N_A m$ \\[4pt]
+$N = N_A n$
+
+\sechead{Ideal gases}
+$*\ PV = nrT$ \\[4pt]
+$*\ PV = NkT$ \\[4pt]
+$*\ v_{RMS} = \sqrt{\dfrac{3RT}{M}}$ \\[6pt]
+$*\ C_v = \dfrac{3}{2}R\ (\text{monatomic})$ \\[6pt]
+$*\ C_v = \dfrac{5}{2}R\ (\text{diatomic})$ \\[6pt]
+$*\ C_p = C_v + R$
+
+\sechead{Isobaric Processes}
+$W = P\Delta V$ \\[4pt]
+$Q = nC_p\Delta T$ \\[4pt]
+$*\ \Delta U = nC_v\Delta T$
+
+\sechead{Isothermal Processes}
+$*\ W = nRT \ln\!\left(\dfrac{V_f}{V_i}\right)$ \\[8pt]
+$*\ Q = nRT \ln\!\left(\dfrac{V_f}{V_i}\right)$ \\[8pt]
+$*\ \Delta U = 0$
+
+\sechead{Adiabatic Processes}
+$*\ W = -nC_v\Delta T$ \\[4pt]
+$Q = 0$ \\[4pt]
+$*\ \Delta U = nC_v\Delta T$ \\[4pt]
+$*\ P_1 V_1^\gamma = P_2 V_2^\gamma$ \\[4pt]
+$*\ T_1 V_1^{\gamma - 1} = T_2 V_2^{\gamma - 1}$ \\[4pt]
+$\gamma = \dfrac{C_P}{C_V}$
+
+\sechead{Cyclic Processes}
+$W = Q$ \\[4pt]
+$\Delta U = 0$
+\end{minipage}
+\hfill\vrule\hfill
+\begin{minipage}[t]{0.22\textwidth}
+\sechead{Heat Engines}
+$W = Q_H + Q_C$ \\[4pt]
+$e = \dfrac{W}{Q_H}$ \\[6pt]
+$e_c = 1 - \dfrac{T_C}{T_H}$
+
+\sechead{Refrigerators}
+$W = Q_H + Q_C$ \\[4pt]
+$K = \dfrac{|Q_C|}{|W|}$ \\[6pt]
+$K_c = \dfrac{T_C}{T_H - T_C}$
+
+\sechead{Force, Field, Energy\\and Potential}
+$\vec{F} = q\vec{E}$ \\[4pt]
+$\Delta U = q\Delta V$ \\[4pt]
+$V_{ab} = \displaystyle\int_a^b \vec{E} \cdot d\vec{l}$ \\[6pt]
+$\vec{E} = -\nabla V$
+
+\sechead{1 Point Charge}
+$\vec{E} = k\dfrac{q}{r^2}\hat{r}$ \\[6pt]
+$V = k\dfrac{q}{r}$
+
+\sechead{2 Point Charges}
+$\vec{F} = k\dfrac{q_1 q_2}{r^2}\hat{r}$ \\[6pt]
+$U = k\dfrac{q_1 q_2}{r}$
+
+\sechead{Distributed Charge}
+$\vec{E} = \displaystyle\int k\dfrac{dq}{r^2}\hat{r}$ \\[6pt]
+$V = \displaystyle\int k\dfrac{dq}{r}$
+\end{minipage}
+\hfill\vrule\hfill
+\begin{minipage}[t]{0.24\textwidth}
+\sechead{Many Sources}
+$\vec{E}_T = \displaystyle\sum_i \vec{E}_i$ \\[6pt]
+$U_T = \displaystyle\sum_{\text{pairs}} U_{ij}$
+
+\sechead{``Elementary'' \textit{E} Fields}
+$\vec{E} = k\dfrac{Q}{r^2}\hat{r}\ \text{sphere}$ \\[6pt]
+$\vec{E} = \dfrac{\lambda}{2\pi\varepsilon_0 r}\hat{r}\ \text{line}$ \\[6pt]
+$\vec{E} = \dfrac{\sigma}{2\varepsilon_0}\hat{n}\ \text{plane}$ \\[6pt]
+$\vec{E} = \dfrac{\sigma}{\varepsilon_0}\hat{n}\ \begin{tabular}{@{}l@{}}\text{conducting}\\\text{surface}\end{tabular}$
+
+\sechead{Capacitors}
+$C = \dfrac{Q}{V}$ \\[6pt]
+$C_T = \displaystyle\sum_i C_i\ \text{parallel}$ \\[6pt]
+$\dfrac{1}{C_T} = \displaystyle\sum_i \dfrac{1}{C_i}\ \text{series}$ \\[8pt]
+$U = \dfrac{1}{2}CV^2 = \dfrac{Q^2}{2C} = \dfrac{1}{2}QV$ \\[6pt]
+$\dagger\, C = \varepsilon_0 \dfrac{A}{d}$ \\[6pt]
+$\dagger\, |E| = \dfrac{V}{d} = \dfrac{\sigma}{\varepsilon_0}$
+
+\sechead{Flux and Gauss's Law}
+$\varphi = \displaystyle\iint \vec{E} \cdot d\vec{a}$ \\[6pt]
+$\varphi_{\text{closed}} = \dfrac{Q_{\text{enclosed}}}{\varepsilon_0}$
+
+\sechead{Current and Current\\Density}
+$I = \dfrac{dq}{dt}$ \\[6pt]
+$I = \displaystyle\iint \vec{J} \cdot d\vec{a}$ \\[6pt]
+$\vec{J} = nqv_d$
+\end{minipage}
+
+\vspace{12pt}
+
+\noindent
+$*$ indicates formulas that are specific to ideal gases \\
+$\dagger$ indicates formulas that are specific to parallel-plate capacitors
+
+\end{document}
+```

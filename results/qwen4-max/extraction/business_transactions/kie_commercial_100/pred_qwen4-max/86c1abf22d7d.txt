@@ -1,0 +1,14 @@
+```json
+{
+    "date_issue": "Oct/23/2020",
+    "date_due": "Oct/26/2020",
+    "order_id": "016855",
+    "vendor_name": "Waterfront Strategies",
+    "vendor_address": "3050 K Street NW, Suite 100 Washington, DC 20007-3606",
+    "customer_billing_name": "Katz Media Group",
+    "customer_billing_address": "125 West 55th 8th Floor New York, NY 10019-5366 United States",
+    "amount_total_net": "$98,600.00",
+    "amount_total_gross": "$98,600.00",
+    "amount_due": "$98,600.00"
+}
+```

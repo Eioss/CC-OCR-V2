@@ -1,0 +1,94 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\section*{7. Singular - plural}
+
+\noindent
+\begin{tabular}{@{}llllll@{}}
+axis & crisis & analysis & basis & thesis & criterion \\
+axes & crises & analyses & bases & theses & criteria \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}llllll@{}}
+datum & medium & erratum & stratum & memorandum & agendum \\
+data & media & errata & strata & memoranda & agenda \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}lllll@{}}
+alumna & formula & antenna & bacterium & aquarium \\
+alumnae & formulae & antennae & bacteria & aquaria \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}lllll@{}}
+focus & locus & terminus & alumnus & fungus \\
+foci & loci & termini & alumni & fungi \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}llllll@{}}
+Syllabus & radius & stimulus & tooth & foot & goose \\
+syllabi & radii & stimuli & teeth & feet & geese \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}llllll@{}}
+matrix & index & appendix & apex & vertex & genie \\
+matrices & indices & appendices & apices & vertices & genies \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}lllll@{}}
+cupful & dining room & grown up & spoonful & daughter-in-law \\
+cupfuls & dining rooms & grown ups & spoonfuls & daughters-in-law \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}llllllll@{}}
+Son-in-law & runner-up & governor-general & army & baby & boy & toy & buffalo \\
+sons-in-law & runners-up & governors-general & armies & babies & boys & toys & buffaloes \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}lllllllll@{}}
+man & woman & child & leaf & thief & knife & wife & life & man-servant \\
+men & women & children & leaves & thieves & knives & wives & lives & men-servants \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}lllllll@{}}
+Virus & photo & sheep & deer & aircraft & furniture & cattle \\
+Viruses & photos & sheep & deer & aircraft & furniture & cattle \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}llllll@{}}
+Corps & species & spectacles & means & premises & series \\
+Corps & species & spectacles & means & premises & series \\
+\end{tabular}
+
+\medskip
+\noindent
+\begin{tabular}{@{}ll@{}}
+innings & pants \\
+innings & pants \\
+\end{tabular}
+
+\end{document}
+```

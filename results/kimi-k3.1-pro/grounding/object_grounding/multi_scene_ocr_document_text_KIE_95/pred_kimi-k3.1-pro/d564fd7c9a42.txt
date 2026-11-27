@@ -1,0 +1,1 @@
+[{"bbox_2d":[337,283,493,299],"label":"date"},{"bbox_2d":[240,149,774,181],"label":"seller_address"},{"bbox_2d":[471,194,656,210],"label":"seller_gst_id"},{"bbox_2d":[301,118,716,136],"label":"seller_name"},{"bbox_2d":[326,180,499,195],"label":"seller_phone"},{"bbox_2d":[732,484,831,500],"label":"total_amount"},{"bbox_2d":[754,617,827,634],"label":"total_tax"}]

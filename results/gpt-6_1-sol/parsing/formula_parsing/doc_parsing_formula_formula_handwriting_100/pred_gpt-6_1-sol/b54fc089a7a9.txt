@@ -1,0 +1,36 @@
+\[
+\begin{gathered}
+A=
+\begin{pmatrix}
+-\bar z & \cdots & -\bar z\\
+-w & \cdots & -w
+\end{pmatrix}.
+\\[6pt]
+\left|
+\frac{1}{NW}\sum_{n=1}^{NW}\Lambda'(n)e\bigl(aq(n)\lambda\bigr)
+-\frac{1}{\phi(W)}\sum_{r\in R(W)}
+\frac{1}{N}\sum_{n=1}^{N}e\bigl(aq(Wn+r)\lambda\bigr)
+\right|<\epsilon.
+\\[6pt]
+\min_{1\le j\le n}\lambda_1\bigl(F(j)\bigr)
+\ge
+\max_{1\le j\le n}\tilde N^{-1}\|\tilde y_j\|^2.
+\\[6pt]
+(X\circ Y)(n)
+=
+\bigvee_d X(d)\wedge_{\le d}
+\left(
+\bigvee_{\phi:n\to d}
+Y\bigl(n_1(\phi)\bigr)\wedge\cdots\wedge Y\bigl(n_d(\phi)\bigr)
+\right).
+\\[6pt]
+\frac{1}{N}z_j^*
+\left(
+\frac{1}{n}\sum_{i\ne j}\psi(\tau_i,q)z_i z_i^*
+\right)^{-1}z_j<1.
+\\[6pt]
+\Psi_r(x;k)=x+\int_0^r u_k(u)\,du+E(x;k).
+\\[6pt]
+I_u+I_t\le(\delta+\beta)\tilde K\mu\epsilon^{1-\frac{\gamma}{2}}d_\beta^{\gamma-2}.
+\end{gathered}
+\]

@@ -1,0 +1,47 @@
+\[
+A=\begin{bmatrix}-1 & -1 & -2\end{bmatrix}
+\]
+
+\[
+\hat{\Sigma}=\frac{1}{N}\sum_{i=1}^{N}(x_i-\mu)(x_i-\mu)^T\in\mathbb{R}^{n\times n}
+\]
+
+\[
+\min_{\substack{y_i\in\mathbb{R}^{k}\\F:\mathbb{R}^{k}\to\mathbb{R}^{n}}}
+\sum_{i=1}^{N}\left\|x_i-F(y_i)\right\|_2^2
+\quad \text{s.t.} \quad F(y_i)=Uy_i+\mu
+\]
+
+\[
+\begin{aligned}
+\left\|x_i-Uy_i-\mu\right\|_2^2
+&=(x_i-Uy_i-\mu)^T(x_i-Uy_i-\mu)\\
+&=x_i^Tx_i+y_i^TU^TUy_i+\mu^T\mu
+-2x_i^TUy_i-2x_i^T\mu+2y_i^TU^T\mu
+\end{aligned}
+\]
+
+\[
+\min_{y_i\in\mathbb{R}^{k}}\sum_{i=1}^{N}
+\left(
+x_i^Tx_i+y_i^Ty_i+\mu^T\mu
+-2x_i^TUy_i-2x_i^T\mu+2y_i^TU^T\mu
+\right)
+\]
+
+\[
+\frac{\partial L}{\partial y_i}
+=2y_i-2U^Tx_i+2U^T\mu=0
+\]
+
+\[
+y_i=U^T(x_i-\mu)
+\]
+
+\[
+\hat{x}_i=Uy_i+\mu=UU^T(x_i-\mu)+\mu
+\]
+
+\[
+\hat{x}_i=UU^Tx_i+(I-UU^T)\mu
+\]

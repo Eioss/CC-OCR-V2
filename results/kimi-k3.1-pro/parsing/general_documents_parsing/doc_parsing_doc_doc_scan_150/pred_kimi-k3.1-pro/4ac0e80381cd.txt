@@ -1,0 +1,106 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{amsmath}
+
+\setlength{\parindent}{0pt}
+\newcommand{\blank}[1]{\underline{\hspace{#1}}}
+
+\begin{document}
+
+CLASS : IV
+
+\begin{center}
+    \textbf{MODEL QUESTION PAPER}\\
+    \textbf{SUB:MATHS}
+\end{center}
+
+\begin{center}
+\small
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+COMP &
+\shortstack{ENC\\(15)} &
+\shortstack{UBC\\(20)} &
+\shortstack{AIC\\(20)} &
+\shortstack{PSA\\(15)} &
+\shortstack{ORAL\\(30)} &
+\shortstack{Total\\(100)} &
+Tr's sign\\
+\hline
+MARKS & & & & & & & \\[2ex]
+\hline
+GRADE & & & & & & & \\[2ex]
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+    \underline{\textbf{I. FORMING NUMBERS CORRECTLY (15 marks)}}
+\end{center}
+
+(1) \underline{Fill in the blanks.} \hfill (5x1=5)
+
+\vspace{0.5em}
+a.\quad Arrange 5, 3, 7, 2 to form the smallest 4 digit number \blank{3.5cm}\\
+\hspace*{2em}and the greatest 4 digit number \blank{3.5cm}
+
+\vspace{0.5em}
+b.\quad $1000 + 300 + 4 =$ \blank{4cm}
+
+\vspace{0.5em}
+c.\quad Expand $4287 = 4000 +$ \blank{3cm} $+$ \blank{2cm} $+ 7$
+
+\vspace{0.5em}
+d.\quad 1 kilometre = \blank{2.5cm} metres and 1 metre = \blank{1.5cm} cm
+
+\vspace{0.5em}
+e.\quad A brick has \blank{2cm} faces and \blank{2.5cm} edges.
+
+\vspace{0.8em}
+(2) \underline{Do as directed.} \hfill (5x2= 10)
+
+\vspace{0.5em}
+(i) \underline{Write the place value of 4 in each number.}
+
+\begin{center}
+\begin{tabular}{|cccc|cl}
+\cline{1-4}
+4 & 6 & 0 & 9 & $\longrightarrow$ & \blank{4cm}\\
+\cline{1-4}
+6 & 3 & 4 & 7 & $\longrightarrow$ & \blank{4cm}\\
+\cline{1-4}
+\end{tabular}
+\end{center}
+
+(ii) \underline{Encircle the pairs of numbers which when added makes more than 500?}
+
+\vspace{0.5em}
+\hspace*{2em}a.\quad 152 and 241
+
+\hspace*{2em}b.\quad 321 and 192
+
+\hspace*{2em}c.\quad 420 and 184
+
+\hspace*{2em}d.\quad 209 and 290
+
+\vspace{0.8em}
+(iii) \underline{Express as 24- hours clock time}
+
+\vspace{0.5em}
+\hspace*{2em}a.\quad 3.15 a.m \blank{4cm}
+
+\vspace{0.5em}
+\hspace*{2em}b.\quad 7.40 p.m \blank{4cm}
+
+\vspace{0.8em}
+(iv) \underline{In a circle, if the lengths of the:}
+
+\vspace{0.5em}
+\hspace*{2em}(a)\quad Radius is 4 cm, then the Diameter is \blank{3cm}
+
+\vspace{0.5em}
+\hspace*{2em}(b)\quad Diameter is 12 cm, then the Radius is \blank{3cm}
+
+\end{document}
+```

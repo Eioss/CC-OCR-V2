@@ -1,0 +1,5 @@
+The text "200" appears twice in the Quantity column: once in the product row and once in the "Total amount" row. This box is for the product-row instance:
+
+(487, 311, 508, 326)
+
+The "Total amount" instance is at roughly (487, 340, 508, 354).

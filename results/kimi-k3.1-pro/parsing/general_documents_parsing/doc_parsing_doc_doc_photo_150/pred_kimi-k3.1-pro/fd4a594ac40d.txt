@@ -1,0 +1,105 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{array}
+\usepackage{amsmath}
+
+\setlength{\parindent}{0pt}
+\newcommand{\blank}{\rule{1.8cm}{0.4pt}}
+
+\begin{document}
+
+\noindent
+অনুশীলন \hfill ৪৭ \hfill ১০৭
+
+\begin{center}
+    \textbf{\Large Ka Set}\\[6pt]
+    \textbf{JUNIOR SCHOOL CERTIFICATE EXAMINATION,}\\[6pt]
+    ENGLISH\\[6pt]
+    \textsc{Second Paper}\\[12pt]
+
+    Subject Code : \qquad
+    \begin{tabular}{|c|c|c|}
+        \hline
+        1 & 0 & 8\\
+        \hline
+    \end{tabular}\\[12pt]
+
+    Time---2 hours\\[4pt]
+    Full marks---50\\[12pt]
+
+    \emph{[N.B.---The figures in the right margin indicate full marks.]}\\[12pt]
+
+    \textbf{Section A---Grammar}\\
+    Marks---30
+\end{center}
+
+\hfill Marks
+
+\noindent
+1.\quad Fill in the gaps of the following text with appropriate articles. Put a
+\hfill $0{\cdot}5\times6$\\
+cross ($\times$) where there is no article applicable :---
+\hfill $=3$
+
+\noindent
+I live in Rajshahi. My elder brother who is (a) \blank{} engineer,\\
+works in Dhaka. Last summer he asked me to stay (b) \blank{} few\\
+days with him and sent me (c) \blank{} plane ticket. That was my first\\
+journey by air. I arrived at (d) \blank{} airport about (e) \blank{} hour\\
+before the flight. It was (f) \blank{} enjoyable plane journey.
+
+\vspace{10pt}
+
+\noindent
+2.\quad Fill in the blanks of the following text with prepositions given in the
+\hfill $0{\cdot}5\times6$\\
+box :---
+\hfill $=3$
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    for & to & in & with & about & after\\
+    \hline
+\end{tabular}
+\end{center}
+
+\noindent
+Money is a must (a) \blank{} our life. But one should not run after\\
+money because those who hanker (b) \blank{} money cannot enjoy\\
+mental peace. Sometimes, it may lead one (c) \blank{} some\\
+unexpected troubles. It also happens that greed (d) \blank{} money\\
+brings (e) \blank{} many problems. So we should be contented\\
+(f) \blank{} what we have.
+
+\vspace{10pt}
+
+\noindent
+3.\quad Make \textbf{four} meaningful sentences from the substitution table :---
+\hfill $1\times4=4$
+
+\begin{center}
+\renewcommand{\arraystretch}{1.6}
+\begin{tabular}{
+    |>{\centering\arraybackslash}p{3.5cm}
+    |>{\centering\arraybackslash}p{1.5cm}
+    |p{8cm}|
+}
+    \hline
+    Youth & is & be built properly.\\
+    \cline{3-3}
+    It & must & the time of sowing seeds of life.\\
+    \cline{3-3}
+    We & will & sow the seeds of industry and honesty in this time.\\
+    \cline{3-3}
+    Thus our future & & the best time of life.\\
+    \hline
+\end{tabular}
+\end{center}
+
+\vfill
+\hfill \emph{[Please turn over}
+
+\end{document}
+```

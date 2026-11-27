@@ -1,0 +1,46 @@
+Based on the infographic, there are **12** universities listed.
+
+Here is the breakdown of where they appear:
+
+**In the "Quick Stats" section (top half):**
+1.  Harvard University
+2.  Princeton University
+3.  Yale University
+4.  Columbia University
+5.  California Institute of Technology
+6.  Massachusetts Institute of Technology
+7.  Stanford University
+8.  University of Chicago
+9.  University of Pennsylvania
+10. Duke University
+
+**In the "Financials" section (bottom half):**
+The same 10 universities are listed again, plus two additional ones that were not in the top section:
+11. **University of Pennsylvania** (already listed above, but appears here)
+12. **Duke University** (already listed above, but appears here)
+
+Wait, looking closely at the bottom list, there are actually 12 entries:
+1. University of Pennsylvania
+2. Duke University
+3. Harvard University
+4. Stanford University
+5. Columbia University
+6. University of Chicago
+7. Massachusetts Institute of Technology
+8. California Institute of Technology
+9. Yale University
+10. Princeton University
+
+Actually, counting the distinct names across the entire graphic:
+1.  Harvard University
+2.  Princeton University
+3.  Yale University
+4.  Columbia University
+5.  California Institute of Technology
+6.  Massachusetts Institute of Technology
+7.  Stanford University
+8.  University of Chicago
+9.  University of Pennsylvania
+10. Duke University
+
+There are **10** unique universities listed in the infographic.

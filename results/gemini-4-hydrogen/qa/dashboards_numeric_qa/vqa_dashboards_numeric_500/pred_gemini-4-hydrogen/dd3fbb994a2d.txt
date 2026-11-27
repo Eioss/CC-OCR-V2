@@ -1,0 +1,5 @@
+According to the **VMware vSphere vs. Microsoft Hyper-V** comparison table at the bottom of the infographic, all three listed VMware editions support the same highest number of guest machines per host (**512**):
+
+* **VMware Standard** (512)
+* **VMware Enterprise** (512)
+* **VMware Ent. Plus** (512)

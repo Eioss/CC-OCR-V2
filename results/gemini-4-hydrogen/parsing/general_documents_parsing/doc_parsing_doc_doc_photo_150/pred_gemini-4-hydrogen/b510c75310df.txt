@@ -1,0 +1,46 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{booktabs}
+
+\begin{document}
+
+\noindent 56 \hfill \textsc{Chapter 2. Equations}
+\hrule
+
+\vspace{1em}
+
+\noindent \textbf{\large 2.5 \quad Finance formulas -- Practice exercises}
+
+\vspace{1em}
+\hrule
+\vspace{1em}
+
+\noindent \textsc{Compound Interest Formula:} \quad $a = p \left(1 + \frac{r}{12}\right)^{12y}$
+
+\vspace{0.8em}
+
+\noindent \textsc{Equivalent APR Formula:} \quad $\mathrm{APR} = \left(1 + \frac{r}{12}\right)^{12} - 1$
+
+\vspace{0.8em}
+
+\noindent \textsc{Future Value Annuity Formula:} \quad $a = p * \dfrac{\left(1 + \frac{r}{12}\right)^{12y} - 1}{\frac{r}{12}}$
+
+\vspace{0.8em}
+
+\noindent \textsc{Loan Payment Formula:} \quad $p = \dfrac{a * \frac{r}{12}}{1 - \left(1 + \frac{r}{12}\right)^{-12y}}$
+
+\vspace{1em}
+
+\noindent where
+\begin{align*}
+a &= \text{account balance or loan amount (\$)} \\
+p &= \text{initial deposit (principal), regular deposit, or regular payment (\$)} \\
+y &= \text{time invested (years)} \\
+r &= \text{interest rate compounded monthly (as a decimal)}
+\end{align*}
+
+\hrule
+
+\end{document}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "date_issue": "08/06/2020",
+    "vendor_name": "Mark Turcotte WSB",
+    "vendor_address": "1601 W. Peachtree Street NE Atlanta, GA 30309",
+    "customer_billing_name": "Neighborhood Research and Media",
+    "customer_billing_address": "PO BOX 297 RODANTHE, NC 27968 US",
+    "customer_delivery_name": "Neighborhood Research and Media",
+    "customer_delivery_address": "PO BOX 297 RODANTHE, NC 27968 US",
+    "amount_total_gross": "$3,485.00",
+    "amount_due": ""
+}
+```

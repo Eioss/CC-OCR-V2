@@ -1,0 +1,122 @@
+# 安全生产责任公示牌
+安全负责人 / 风险提示 / 巡查记录
+文档编号 SG-042402
+日 期 2025-12-04
+
+<table border="1" cellspacing="0" cellpadding="5" width="100%">
+  <tr>
+    <td rowspan="6" width="10%" align="center"><b>项目信息</b></td>
+    <td width="25%">施工/项目名称：</td>
+    <td width="25%">临澜皓月二期</td>
+    <td colspan="4" align="center"><b>责任与联系方式表</b></td>
+  </tr>
+  <tr>
+    <td>单位名称：</td>
+    <td>北屿省皓月市临澜皓月工程有限公司</td>
+    <td align="center"><b>岗位</b></td>
+    <td align="center"><b>姓名</b></td>
+    <td align="center"><b>电话</b></td>
+    <td align="center"><b>在岗状态</b></td>
+  </tr>
+  <tr>
+    <td>工程地点：</td>
+    <td>北屿省云栖市松影区星港大道63号 8栋</td>
+    <td align="center">项目经理</td>
+    <td align="center">褚昊然</td>
+    <td align="center">13905710001</td>
+    <td align="center">在岗</td>
+  </tr>
+  <tr>
+    <td>项目负责人：</td>
+    <td>褚昊然</td>
+    <td align="center">安全主管</td>
+    <td align="center">李清越</td>
+    <td align="center">13158847664</td>
+    <td align="center">巡查中</td>
+  </tr>
+  <tr>
+    <td>安全员：</td>
+    <td>李清越</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>联系电话：</td>
+    <td>13158847664</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="7" align="center"><b>风险点清单与措施表</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>风险编号</b></td>
+    <td align="center"><b>风险点描述</b></td>
+    <td align="center"><b>风险等级</b></td>
+    <td align="center"><b>整改措施</b></td>
+    <td align="center"><b>复查结果</b></td>
+    <td align="center"><b>责任人</b></td>
+    <td align="center"><b>备注(计费规则/要求)</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">RK-001</td>
+    <td align="center">高处作业坠落</td>
+    <td align="center">一级</td>
+    <td>佩戴安全带，设置防护网</td>
+    <td align="center">已整改(合格)</td>
+    <td align="center">李清越</td>
+    <td>计费规则：按工时；<br>备注：每日检查</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">RK-002</td>
+    <td align="center">高处作业坠落</td>
+    <td align="center">一级</td>
+    <td>佩戴安全带，设置防护网</td>
+    <td align="center">已整改(合格)</td>
+    <td align="center">李清越</td>
+    <td>计费规则：按工时；<br>备注：每日检查</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">RK-002</td>
+    <td align="center">临时用电短路</td>
+    <td align="center">二级</td>
+    <td>定期检查电路，接地保护</td>
+    <td align="center">待复查(未完成)</td>
+    <td align="center">张工</td>
+    <td>要求：需持证上岗</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">RK-003</td>
+    <td align="center">机械伤害</td>
+    <td align="center">一级</td>
+    <td>操作规程培训，防护罩</td>
+    <td align="center">已整改(合格)</td>
+    <td align="center">王强</td>
+    <td>条目编码：<br>836456451153300945</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">—</td>
+    <td align="center">¥500.00 (手写)</td>
+    <td align="center">—</td>
+    <td>整改费用：¥500.00 (手写)</td>
+    <td align="center">¥300.00</td>
+    <td align="center">李清越</td>
+    <td>需加强巡查</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">—</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
+    <td align="center">—</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<div style="text-align: center;"><img src="imgs/img_in_image_box_805_785_875_865.jpg" alt="Image" width="6%" /></div>
+https://example.com/doc-98336975

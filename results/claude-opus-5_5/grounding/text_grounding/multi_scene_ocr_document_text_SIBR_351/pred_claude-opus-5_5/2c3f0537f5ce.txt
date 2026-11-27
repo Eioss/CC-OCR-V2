@@ -1,0 +1,3 @@
+The text '150,600.00' appears three times on this purchase order: in the Amount (USD) column, next to "Net amount", and next to "Total amount(USD)". These are the coordinates for the first one, in the Amount (USD) column of the line item:
+
+(564, 479, 631, 491)

@@ -1,0 +1,216 @@
+```html
+<table>
+  <tr>
+    <td>Example:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>*ABC Design</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Balance Sheet</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>As at December 31, 2022</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ASSETS</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Current Assets</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Cash and cash equivalents</td>
+    <td>$ 100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Accounts Receivable</td>
+    <td>150.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Inventories</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Prepaid and other assets</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Total Current Assets</td>
+    <td>450.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Long-term Investment</td>
+    <td>200.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Property &amp; Equipment</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Other assets</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3">TOTAL ASSETS</td>
+    <td>$ 850.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LIABILITIES</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Current Liabilities</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Accounts Payable</td>
+    <td>$ 100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Unearned Revenue</td>
+    <td>50.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Short-term debt</td>
+    <td>100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Total Current Liabilities</td>
+    <td>250.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Long-term debt</td>
+    <td>200.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3">TOTAL LIABILITIES</td>
+    <td>$ 450.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3">OWNER'S EQUITY</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Equity</td>
+    <td>$ 100.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Retained Earnings</td>
+    <td>300.00</td>
+  </tr>
+  <tr>
+    <td colspan="3">TOTAL EQUITY</td>
+    <td>$ 400.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3">TOATL LIABILITIES AND OWNER'S EQUITY</td>
+    <td>$ 850.00</td>
+  </tr>
+</table>
+```

@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+&\int_{\mathbb{R}^3} \Lambda^{\frac{1}{3}}(u \cdot \nabla v) \Lambda^{\frac{2}{3}} \partial_3 v dx = \int_{\mathbb{R}^3} \Lambda^{\frac{1}{3}}(u_1 \partial_1 v) \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&= \int_{\mathbb{R}^3} \Lambda^{\frac{1}{3}}(u_1 \partial_1 v) \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&= \int_{\mathbb{R}^3} [\Lambda^{\frac{1}{3}}(u_1 \partial_1 v) - u_1 \Lambda^{\frac{1}{3}} \partial_1 v] \Lambda^{\frac{2}{3}} \partial_3 v dx + \int_{\mathbb{R}^3} u_1 \Lambda^{\frac{1}{3}} \partial_1 v \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&= \int_{\mathbb{R}^3} [\Lambda^{\frac{1}{3}}(u_1 \partial_1 v) - u_1 \Lambda^{\frac{1}{3}} \partial_1 v] \Lambda^{\frac{2}{3}} \partial_3 v dx + \int_{\mathbb{R}^3} \Lambda^{\frac{1}{3}} \partial_1 v \Lambda^{\frac{2}{3}} (u_1 \partial_3 v) dx \\
+&\quad + \int_{\mathbb{R}^3} u_1 \Lambda^{\frac{1}{3}} \partial_1 v \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&= \int_{\mathbb{R}^3} [\Lambda^{\frac{1}{3}}(u_1 \partial_1 v) - u_1 \Lambda^{\frac{1}{3}} \partial_1 v] \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&\quad + \int_{\mathbb{R}^3} u_1 \Lambda^{\frac{1}{3}} \partial_1 v \Lambda^{\frac{2}{3}} \partial_3 v dx \\
+&= \int_{\mathbb{R}^3} [\Lambda^{\frac{1}{3}}(u_1 \partial_1 v) - u_1 \Lambda^{\frac{1}{3}} \partial_1 v] \Lambda^{\frac{2}{3}} \partial_3 v dx + \int_{\mathbb{R}^3} \Lambda^{\frac{1}{3}} \partial_1 v \Lambda^{\frac{2}{3}} (u_1 \partial_3 v) dx \\
+&\quad \triangleq F_1 + F_2.
+\end{align*}
+```

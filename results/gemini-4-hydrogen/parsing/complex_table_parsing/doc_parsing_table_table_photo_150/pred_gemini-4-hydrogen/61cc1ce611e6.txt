@@ -1,0 +1,42 @@
+```html
+<table>
+  <tr>
+    <td colspan="3"><strong>The Alpine House, Inc.<br>Traditional Income Statement</strong></td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>$150,000</td>
+  </tr>
+  <tr>
+    <td>Cost of goods sold ($30,000 + $100,000 &minus; $40,000)</td>
+    <td></td>
+    <td><u>90,000</u></td>
+  </tr>
+  <tr>
+    <td>Gross margin</td>
+    <td></td>
+    <td>60,000</td>
+  </tr>
+  <tr>
+    <td>Selling and administrative expenses:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Selling expenses (($50 per unit &times; 200 pairs of skis*) + $20,000)</td>
+    <td>$30,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;Administrative expenses (($10 per unit &times; 200 pairs of skis) + $20,000)</td>
+    <td><u>22,000</u></td>
+    <td><u>52,000</u></td>
+  </tr>
+  <tr>
+    <td>Net operating income</td>
+    <td></td>
+    <td><u>$ 8,000</u></td>
+  </tr>
+</table>
+```

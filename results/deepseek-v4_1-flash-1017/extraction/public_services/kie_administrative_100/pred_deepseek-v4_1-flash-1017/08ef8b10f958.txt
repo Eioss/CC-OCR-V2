@@ -1,0 +1,10 @@
+```json
+{
+  "address": "One Park Avenue\nNew York, NY 10016-5895",
+  "date": "March 30, 1993",
+  "amount_or_value**": "28,482.00\n19,603.00",
+  "total_expenditures_or_disbursements_on_this_report": "48,085.00",
+  "total_expenditures_for_disbursements_previously_reported": "508,789.00",
+  "total_expenditures_or_disbursements_to_date": "556,874.00"
+}
+```

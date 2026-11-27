@@ -1,0 +1,19 @@
+```latex
+\frac{C_1}{K_{n,j+1}^2} \leq \left| \int \frac{Q_{n,j+1}^2(x)}{z-x} \frac{H_{n,j+1}(x)\,d\sigma_{j+1}(x)}{Q_{n,j}(x)\,Q_{n,j+2}(x)} \right| \leq \frac{C_2}{K_{n,j+1}^2},
+```
+
+```latex
+E_{\nu}[\mathcal{D}_{\lambda}(w;\nu)] \leq E_{\nu}[\mathcal{D}_{\lambda}(\bar{w};\nu)] + \epsilon
+```
+
+```latex
+|h^m|^2_{L^2_{\mathcal{F}}(0,T;H^4(G))} \leq C\,|\Delta^2 h^m|^2_{L^2_{\mathcal{F}}(0,T;L^2(G))}.
+```
+
+```latex
+\langle P_{j,A}, P_{j,A} \rangle = -1 = \langle P_{j,A'}, P_{j,A'} \rangle
+```
+
+```latex
+(x_{[k-1]\setminus\{d\}},\, y_d^i - t_d,\, a_k) \in V
+```

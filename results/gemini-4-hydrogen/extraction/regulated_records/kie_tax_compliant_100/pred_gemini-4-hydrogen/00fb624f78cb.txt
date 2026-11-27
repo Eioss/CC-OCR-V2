@@ -1,0 +1,12 @@
+```json
+{
+  "date": "26/02/2018",
+  "doc_no_receipt_no": "BWMC02000047293",
+  "seller_address": "Lot F1-01, 6, Jalan 8/27A, Seksyen 5 Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia.",
+  "seller_gst_id": "000313901056",
+  "seller_name": "Eco-Shop Marketing Sdn Bhd",
+  "seller_phone": "",
+  "total_amount": "16.30",
+  "total_tax": "0.91"
+}
+```

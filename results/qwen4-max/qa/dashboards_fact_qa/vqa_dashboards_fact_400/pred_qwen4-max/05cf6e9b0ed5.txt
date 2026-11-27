@@ -1,0 +1,10 @@
+Looking at the "Best platform aspects" section, I need to find which best aspect categories include the Apple (iPhone) icon.
+
+The three best-aspect rows are:
+- **Quick coding and prototyping:** Android + Flash icons
+- **Great UI in apps:** Apple + Flash icons
+- **Low-cost developer tools:** Android + Java icons
+
+The Apple icon appears only in the "Great UI in apps" row.
+
+**Answer: Great UI in apps**

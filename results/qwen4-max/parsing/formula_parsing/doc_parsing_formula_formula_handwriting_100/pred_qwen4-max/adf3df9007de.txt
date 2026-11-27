@@ -1,0 +1,12 @@
+\[
+\begin{array}{l}
+\| ( a _ { \varepsilon } k _ { i } ) \ast ( w _ { 0 } ^ { n } - w _ { 0 } ^ { m } ) \| _ { L ^ { 2 } } ^ { 2 } = \int _ { R ^ { 2 } } | \int _ { B _ { 2 \varepsilon } ( x ) } a _ { \varepsilon } ( x - y ) k _ { i } ( x - y ) ( w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) ) d y | ^ { 2 } d x \\
+\leq \int _ { R ^ { 2 } } ( \int _ { B _ { 2 \varepsilon } ( x ) } \frac { 1 } { | x - y | } | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | d y ) ^ { 2 } d x \\
+= \int _ { R ^ { 2 } } ( \int _ { B _ { 2 \varepsilon } ( x ) } \frac { 1 } { | x - y | ( \log ( 1 / | x - y | ) ) ^ { \alpha } } \sqrt { | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | } ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } \\
+\times ( \log ( \frac { 1 } { | x - y | } ) ) ^ { \alpha } \sqrt { \frac { | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | } { ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } } } d y ) ^ { 2 } d x \\
+\leq \int _ { R ^ { 2 } } \int _ { B _ { 2 \varepsilon } ( x ) } \frac { 1 } { | x - y | ^ { 2 } ( \log ( 1 / | x - y | ) ) ^ { 2 \alpha } } | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } d y \\
+\times \int _ { B _ { 2 \varepsilon } ( x ) } ( \log ( \frac { 1 } { | x - y | } ) ) ^ { 2 \alpha } \frac { ( w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) ) } { ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } } d y d x \\
+\leq \sup _ { x } \int _ { B _ { 2 \varepsilon } ( x ) } ( \log ( \frac { 1 } { | x - y | } ) ) ^ { 2 \alpha } \frac { ( w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) ) } { ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } } d y \\
+\times \underbrace { \int _ { R ^ { 2 } } \int _ { B _ { 2 \varepsilon } ( x ) } \frac { 1 } { | x - y | ^ { 2 } ( \log ( 1 / | x - y | ) ) ^ { 2 \alpha } } | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ( \log ( e + | w _ { 0 } ^ { n } ( y ) - w _ { 0 } ^ { m } ( y ) | ) ) ^ { \alpha } d y d x } _ { ( I I \ast ) }
+\end{array}
+\]

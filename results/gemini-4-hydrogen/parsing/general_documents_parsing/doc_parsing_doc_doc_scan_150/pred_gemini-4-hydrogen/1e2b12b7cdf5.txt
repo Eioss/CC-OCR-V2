@@ -1,0 +1,198 @@
+```latex
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\definecolor{sectionred}{RGB}{198,108,113}
+\definecolor{tablepink}{RGB}{246,219,221}
+\definecolor{dividerpurple}{RGB}{137,138,191}
+
+\newcommand{\blank}[1][3cm]{\underline{\hspace{#1}}}
+\newcommand{\dashedarrow}{$\cdots\!\!\rightarrow$}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+% ==========================================
+% SECTION 3: PRESENT CONTINUOUS
+% ==========================================
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\Large \colorbox{sectionred}{\textcolor{white}{3}} \hspace{0.2cm} PRESENT CONTINUOUS}
+    \vspace{0.3cm}
+
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\bfseries}l|p{5.5cm}|}
+        \hline
+        Form & am, is, or are + verb + ing \\
+        \hline
+        Use & actions happening now, at the moment of speaking. \\
+        \hline
+        Signal words & now, at the moment, still, Look! Listen!... \\
+        \hline
+    \end{tabular}
+    \vspace{0.4cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 1}} \underline{Find the signal words for present continuous.}}
+    \vspace{0.2cm}
+
+    1. Which is a signal word for present continuous? \\
+    last -- now -- every night
+
+    2. Which is \textbf{not} a signal word for present continuous? \\
+    now - already - still
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 2}} \underline{Put these verbs in present continuous.}}
+    \vspace{0.2cm}
+
+    \begin{tabular}{@{}p{3.5cm} l l@{}}
+        1. They / play & \dashedarrow & \blank[3.2cm] \\
+        2. Sara and Leila/ dance & \dashedarrow & \blank[3.2cm] \\
+        3. I/ not, speak & \dashedarrow & \blank[3.2cm] \\
+        4. He/ to sing & \dashedarrow & \blank[3.2cm] \\
+        5. David / not, to write & \dashedarrow & \blank[3.2cm] \\
+    \end{tabular}
+    \vspace{0.4cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 3}} \underline{Put the following verbs in the correct tense.}}
+    \vspace{0.2cm}
+
+    1. Now, it (rain) heavily outside. \blank[2.5cm] \\
+    2. She (not, speak) French at the moment. \blank[1.8cm] \\
+    3. Many people (still, ght) against poverty \blank[1.8cm] \\
+    in Africa. \\
+    4. Mark's children (to play) video games at the moment. \blank[1.2cm] \\
+    5. (Sandra, to do) her homework now? \blank[2cm]
+\end{minipage}
+
+\vspace{0.6cm}
+\noindent\textcolor{dividerpurple}{\rule{\textwidth}{2pt}}
+\vspace{0.6cm}
+
+% ==========================================
+% SECTION 4: PAST CONTINUOUS
+% ==========================================
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\Large \colorbox{sectionred}{\textcolor{white}{4}} \hspace{0.2cm} PAST CONTINUOUS}
+    \vspace{0.3cm}
+
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\bfseries}l|p{5.5cm}|}
+        \hline
+        Form & was or were + verb + ing \\
+        \hline
+        Use & For actions which were in progress in the past. \\
+        \hline
+        Signal words & when, while + long action in the past \\
+        \hline
+    \end{tabular}
+    \vspace{0.4cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 1}} \underline{Find the signal words for past continuous.}}
+    \vspace{0.2cm}
+
+    1. Which is a signal word for past continuous? \\
+    while - by next week - tomorrow
+
+    2. Which is \textbf{not} a signal word for past continuous? \\
+    next week -- when - while
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small 2EXERCISE}} \underline{Put these verbs in past continuous.}}
+    \vspace{0.2cm}
+
+    \begin{tabular}{@{}p{3.5cm} l l@{}}
+        1. She/ watch & \dashedarrow & \blank[3.2cm] \\
+        2. They/ to play & \dashedarrow & \blank[3.2cm] \\
+        3. It/ rain & \dashedarrow & \blank[3.2cm] \\
+        4. Many students/ to work & \dashedarrow & \blank[3.2cm] \\
+        5. He/ not, to drive & \dashedarrow & \blank[3.2cm] \\
+    \end{tabular}
+    \vspace{0.4cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 3}} \underline{Put the following verbs in the correct tense.}}
+    \vspace{0.2cm}
+
+    1- Barbara (to do) \blank[1.8cm] yesterday \\
+    when I came in. \\
+    2- When I (write) the E-mail last time, \blank[2cm] \\
+    Mary (to watch) TV. \blank[2.5cm] \\
+    3- I saw my teacher yesterday when I (wait) \blank[2.2cm] \\
+    for the bus. \\
+    4- When Sandra (arrive) \blank[1.5cm] yesterday, her father (not, to cook) \\
+    lunch. \blank[3cm] \\
+    5- (Your brother, to play) \blank[2cm] the game when the \\
+    computer crashed down?
+\end{minipage}
+
+\vspace{0.6cm}
+\noindent\textcolor{dividerpurple}{\rule{\textwidth}{2pt}}
+\vspace{0.6cm}
+
+% ==========================================
+% SECTION 5: PRESENT PERFECT
+% ==========================================
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\Large \colorbox{sectionred}{\textcolor{white}{5}} \hspace{0.2cm} PRESENT PERFECT}
+    \vspace{0.3cm}
+
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|>{\bfseries}l|p{5.5cm}|}
+        \hline
+        Form & have or has + Past Participle \\
+        \hline
+        Use & For actions which started in the past and continued up to the present. \\
+        \hline
+        Signal words & just, already, yet, for, since, so far, recently, ever... \\
+        \hline
+    \end{tabular}
+    \vspace{0.2cm}
+
+    {\footnotesize NB. We use Present Perfect Continuous (have/has+ been + verb +ing) to give more emphasis on the duration of the action. However, some verbs can't be used in the continuous form such as own, smell, need, belong, cost, agree, contain..., etc.}
+    \vspace{0.3cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 1}} \underline{Find the signal words for present perfect.}}
+    \vspace{0.2cm}
+
+    1. Which is a signal word for present perfect? \\
+    still -- usually -- since
+
+    2. Which is \textbf{not} a signal word for present perfect? \\
+    since -- before -- for
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 2}} \underline{Put these verbs in present perfect.}}
+    \vspace{0.2cm}
+
+    \begin{tabular}{@{}p{3.5cm} l l@{}}
+        1. They/ to do & \dashedarrow & \blank[3.2cm] \\
+        2. Jack / to publish & \dashedarrow & \blank[3.2cm] \\
+        3. He/ not, to have & \dashedarrow & \blank[3.2cm] \\
+        4. She/ to study & \dashedarrow & \blank[3.2cm] \\
+        5. Mike and Lina / to have & \dashedarrow & \blank[3.2cm] \\
+    \end{tabular}
+    \vspace{0.4cm}
+
+    \textbf{\colorbox{sectionred}{\textcolor{white}{\small EXERCISE \quad 3}} \underline{Put the following verbs in the correct tense.}}
+    \vspace{0.2cm}
+
+    1. He (just, phone) Sabrina; she is in \blank[2cm] \\
+    Chicago now. \\
+    2. I (buy, recently) a laptop to Louis. 3. The maid (not, cook) the dinner yet. 4. She (drive) this car for two hours. 5. He (to be) in prison since 2003. 6. (you, ever, read) Hemingway's novels?
+\end{minipage}
+
+\end{document}
+```

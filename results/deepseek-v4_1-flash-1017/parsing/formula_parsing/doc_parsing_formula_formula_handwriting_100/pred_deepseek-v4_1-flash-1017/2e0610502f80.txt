@@ -1,0 +1,19 @@
+```latex
+a_{(\lambda, j)} = \frac{\text{Re} F(\lambda_j - \lambda_0 + i(\mu_j - \mu_{*j}))}{F(\lambda_k - \lambda_0)} \cdot \frac{b_{n, j}}{F(-\lambda_0)} \\
+
+\tilde{A}_{k, 0}^{(\lambda)} \in C_0^\infty(\partial \Omega \times \partial \Omega \times \Omega \times \mathbb{R}^n). \\
+
+\sum_j |E_{4j}| \le C \int_0^t \|u_n - u_{pl}\|_{B_{2, 2}^{3, 2}}^2 \|\nabla b_n\|_{B_{2, 2}^{3, 2}} \|b_n - b_{pl}\|_{B_{2, 2}^{3, 2}} dt' \\
+\le \frac{1}{4} \|u_n - u_{pl}\|_{L^\infty(0, t; B_{2, 2}^{3, 2})}^2 + C + \|b_n\|_{L^\infty(0, t; B_{2, 2}^{3, 2})}^2 \|b_n - b_{pl}\|_{L^2(0, t; B_{2, 2}^{3, 2})}^2. \\
+
+\frac{1 - \epsilon/10}{2} ((1 - 1/r^2)^{-1} (1 - \epsilon/2) \text{OPT} - f(S)) \\
+
+\partial_{x_j}^2 y_j + a y_j + \left(2i \frac{\partial A(X)}{\partial x_j} e^{i \phi_{22}}\right) e^{i \tau} + \left(2i \frac{\partial A^*(X)}{\partial x_j} e^{-i \phi_{22}}\right) e^{-i \tau} \\
+- A(X) e^{3i \tau + i \phi_{22}} - A^*(X) e^{-3i \tau - i \phi_{22}} = 0. \\
+
+\|u_{\epsilon, n} - u_{0, n}\|_{L^2(\Omega)}^2 \le C(1 + \lambda) \epsilon \{ \|F\|_{L^2(\Omega)}^2 + \|G\|_{H^2(\Omega)}^2 \}, \\
+
+\delta(\|r \partial_r h\|_{L^\infty(0, \infty)}^2 + \|r \partial_r h\|_{L^\infty(0, \infty)}^2) = \delta(\|h\|_{L^\infty(0, \infty)}^2 + \epsilon_5, \\
+
+U(t, 0, z) = \begin{cases} \exp(-\int_S^0 \alpha(r) dr) & \text{if } s \in [-1, 0], \\ z(1 - s^{-1}, f_{su}, \phi(f_{s1})) & \text{if } s \le -1. \end{cases}
+```

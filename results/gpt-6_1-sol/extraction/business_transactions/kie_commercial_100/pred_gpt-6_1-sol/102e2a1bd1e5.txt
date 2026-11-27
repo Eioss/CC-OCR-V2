@@ -1,0 +1,14 @@
+{
+  "date_due": "",
+  "vendor_name": "KVEG 97 5",
+  "vendor_address": "3999 LAS VEGAS BLVD S\nLAS VEGAS, NV 89119\nUS",
+  "customer_id": "#3911",
+  "customer_billing_name": "Ilya Rockwell\nNReal Media Strategies",
+  "customer_billing_address": "557 Actola Street\nLas Vegas, NV 89144\nUSA",
+  "amount_total_tax": "0.00",
+  "amount_total_gross": "USD 5,304.00",
+  "amount_due": "",
+  "payment_reference": "#3911",
+  "tax_detail_tax": "",
+  "tax_detail_gross": ""
+}

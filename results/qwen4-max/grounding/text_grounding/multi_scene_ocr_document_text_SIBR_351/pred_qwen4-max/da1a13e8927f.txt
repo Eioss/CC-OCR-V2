@@ -1,0 +1,11 @@
+Looking at the table under the 'Type' column, I can identify three instances of the text 'PALLET'. I will locate each one.
+
+1.  **First instance**: Located in the first row of the dimensions table.
+2.  **Second instance**: Located in the second row.
+3.  **Third instance**: Located in the third row.
+
+I will provide the coordinates for each occurrence.
+
+(293, 660, 339, 667) # First PALLET
+(293, 676, 340, 683) # Second PALLET
+(292, 691, 340, 699) # Third PALLET

@@ -1,0 +1,20 @@
+[
+  {"bbox_2d":[58,123,291,137],"label":"ADD"},
+  {"bbox_2d":[22,143,250,157],"label":"Address"},
+  {"bbox_2d":[24,232,225,246],"label":"Address"},
+  {"bbox_2d":[602,579,688,595],"label":"Amount"},
+  {"bbox_2d":[23,103,321,120],"label":"Company Name"},
+  {"bbox_2d":[20,210,266,224],"label":"Company Name"},
+  {"bbox_2d":[468,496,523,512],"label":"Country of origin of goods"},
+  {"bbox_2d":[573,321,638,337],"label":"Date"},
+  {"bbox_2d":[478,690,539,704],"label":"GROSS WEIGHT"},
+  {"bbox_2d":[410,321,480,337],"label":"Invoice No"},
+  {"bbox_2d":[135,578,294,595],"label":"Numbers and kind of package description of go"},
+  {"bbox_2d":[433,579,442,594],"label":"Quantity"},
+  {"bbox_2d":[420,623,456,659],"label":"TOTAL"},
+  {"bbox_2d":[411,443,436,459],"label":"Terms of payment"},
+  {"bbox_2d":[418,163,657,210],"label":"Title"},
+  {"bbox_2d":[477,579,562,595],"label":"Unit Price"},
+  {"bbox_2d":[154,166,238,179],"label":"fax"},
+  {"bbox_2d":[42,166,126,179],"label":"tel"}
+]

@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [83, 309, 184, 319], "label": "Address"},
+	{"bbox_2d": [752, 684, 824, 699], "label": "Amount"},
+	{"bbox_2d": [677, 327, 834, 341], "label": "BC110 PO No."},
+	{"bbox_2d": [563, 908, 650, 922], "label": "China"},
+	{"bbox_2d": [104, 58, 440, 94], "label": "Company Name"},
+	{"bbox_2d": [85, 364, 137, 377], "label": "Country"},
+	{"bbox_2d": [676, 362, 726, 377], "label": "Date"},
+	{"bbox_2d": [340, 684, 431, 699], "label": "Description"},
+	{"bbox_2d": [675, 889, 823, 904], "label": "Email"},
+	{"bbox_2d": [571, 889, 637, 902], "label": "Europe"},
+	{"bbox_2d": [227, 564, 316, 578], "label": "Fax."},
+	{"bbox_2d": [676, 401, 738, 415], "label": "HS Code"},
+	{"bbox_2d": [373, 890, 516, 904], "label": "IBAN"},
+	{"bbox_2d": [86, 907, 232, 920], "label": "ISO 14001"},
+	{"bbox_2d": [86, 924, 234, 937], "label": "ISO 45001"},
+	{"bbox_2d": [86, 890, 227, 904], "label": "ISO 9001"},
+	{"bbox_2d": [676, 289, 883, 304], "label": "Invoice No."},
+	{"bbox_2d": [86, 684, 309, 698], "label": "Model Code"},
+	{"bbox_2d": [676, 497, 783, 511], "label": "Notify Party"},
+	{"bbox_2d": [677, 307, 761, 322], "label": "PO No."},
+	{"bbox_2d": [676, 381, 835, 398], "label": "Payment Terms"},
+	{"bbox_2d": [105, 564, 197, 579], "label": "Ph."},
+	{"bbox_2d": [41, 685, 63, 697], "label": "Quantity"},
+	{"bbox_2d": [534, 497, 641, 511], "label": "Ship To"},
+	{"bbox_2d": [394, 907, 448, 920], "label": "Swift BIC"},
+	{"bbox_2d": [713, 70, 899, 89], "label": "Title"},
+	{"bbox_2d": [557, 871, 640, 887], "label": "USA"},
+	{"bbox_2d": [581, 685, 626, 698], "label": "Unit Price"},
+	{"bbox_2d": [115, 164, 253, 178], "label": "Website"}
+]
+```

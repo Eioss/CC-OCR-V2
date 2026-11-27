@@ -1,0 +1,103 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+2
+\end{center}
+
+\begin{flushright}
+ME 831\\
+Score
+\end{flushright}
+
+\begin{center}
+\textbf{SECTION - B}
+\end{center}
+
+(Answer any 4 questions from 6 to 10. Each question carries 2 scores.)
+
+\medskip
+
+\textbf{6.}\quad The molecular mass of water ($\mathrm{H}_{2}\mathrm{O}$) is 18.
+
+(a)\quad Find the mass of 1 GMM $\mathrm{H}_{2}\mathrm{O}$. \hfill 1
+
+(b)\quad How many moles of molecules are there in 180 g of $\mathrm{H}_{2}\mathrm{O}$ ? \hfill 1
+
+\medskip
+
+\textbf{7.}\quad Haematite is converted into iron by using the blast furnace.
+
+(a)\quad Which are the substances fed into the blast furnace along with the ore of iron ? \hfill 1
+
+(b)\quad Which compound acts as the reducing agent in the blast furnace ? \hfill 1
+
+\medskip
+
+\textbf{8.}\quad $\mathrm{FeCl}_{2}$ and $\mathrm{FeCl}_{3}$ are two different chlorides of iron.
+
+\begin{tabular}[t]{@{}l@{}}
+[Hint : Atomic number of Fe = 26\\
+Oxidation state of Cl = $(-1)$]
+\end{tabular}
+
+(a)\quad Find the oxidation state of Fe in $\mathrm{FeCl}_{2}$. \hfill 1
+
+(b)\quad Write down the subshell wise electronic configuration of $\mathrm{Fe}^{3+}$. \hfill 1
+
+\medskip
+
+\textbf{9.}\quad (a)\quad Which homologous series do the hydrocarbons with general formula
+$\mathrm{C}_{n}\mathrm{H}_{2n}$ belong to ? \hfill 1
+
+[alkane, alkene, alkyne]
+
+(b)\quad Write the structural formula of a member of the same homologous series having
+3 carbon atoms. \hfill 1
+
+\medskip
+
+\textbf{10.}\quad Soaps and detergents are cleansing agents.
+
+(a)\quad Name the byproduct in the industrial production of soap. \hfill 1
+
+(b)\quad How does excessive use of detergents destroy aquatic life ? \hfill 1
+
+\medskip
+
+\begin{center}
+\textbf{SECTION - C}
+\end{center}
+
+(Answer any 4 questions from 11 to 15. Each question carries 3 scores.)
+
+\medskip
+
+\textbf{11.}\quad The relation between the volume and temperature of a fixed mass of gas at constant pressure
+is shown in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Volume ($V$) & Temperature ($T$)\\
+($L$) & ($K$)\\
+\hline
+$600$ & $300$\\
+\hline
+$400$ & \underline{$(P)$}\\
+\hline
+\underline{$(Q)$} & $500$\\
+\hline
+\end{tabular}
+\end{center}
+
+(a)\quad Find $(P)$ and $(Q)$. \hfill 2
+
+(b)\quad Which gas law is associated with the given relation ? \hfill 1
+
+\end{document}
+```

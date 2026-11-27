@@ -1,0 +1,52 @@
+\[
+\Gamma=\{(x,y):\|x\|=u(y),|y|\leq d\}
+\]
+
+\[
+P_{est}=\frac{4}{3}\frac{n(\mathcal{N}_{U}^{P})-n_{00}(\mathcal{N}_{U}^{P})}{n(\mathcal{N}_{U}^{P})},
+\]
+
+\[
+\|\mu\|_{BL}:=\sup_{\psi\in\mathcal{L}}\int_{\mathbb{R}_{0}^{+}}\psi\mu,\quad\mu\in\mathcal{M}
+\]
+
+\[
+\begin{aligned}
+V:=\{\check{\sigma}_{u,((x_{1},s_{1}),\ldots,(x_{t},s_{t})),\pi_{B}}\mid\\
+(u,((x_{1},s_{1}),\ldots,(x_{t},s_{t})),\pi_{B})\in\check{V}\}.
+\end{aligned}
+\]
+
+\[
+\begin{aligned}
+&\frac{1}{h}(\eta_{h,i}^{v}-\eta_{h,i-1}^{v},w)_{L^{2}(\Omega)}+(\nabla\eta_{h,i}^{v},\nabla w)_{L^{2}(\Omega)^{N}}+(g(\eta_{h,i}^{v}),w)_{L^{2}(\Omega)}\\
+&+(\alpha'(\eta_{h,i}^{v})|\nabla\theta_{h,i-1}^{v}|_{V},w)_{L^{2}(\Omega)}=0,\text{ for every }w\in H^{1}(\Omega)\text{ and }i\in\mathbb{N},
+\end{aligned}
+\]
+
+\[
+\sum_{i=1}^{4}(C_{trace}^{NO(k_{i})})^{2}\geq 2(1+r^{2})\ \forall r,
+\]
+
+\[
+\sum_{i=1}^{4}(C_{trace}^{NO(k_{i})})^{2}\leq 2(1+2r^{2})\text{ for }r\leq\frac{1}{\sqrt{2}}
+\]
+
+\[
+[A_{u,v}=2\mu(\epsilon(u),\epsilon(v)),]\ [B_{p,v}=(p,\nabla\cdot v),]
+\]
+
+\[
+[C_{p,q}=(p,q),]\qquad[D_{\eta,v}=(\eta,v)]
+\]
+
+\[
+\mathfrak{h}_{\theta}=\theta^{\perp}=\{X\in\mathfrak{h}\mid\alpha(X)=0\ \forall\alpha\in\theta\},\ \mathfrak{l}_{\theta}=\mathfrak{z}_{\mathfrak{g}}(\mathfrak{h}_{\theta})=\mathfrak{h}\oplus\sum\mathfrak{g}^{\alpha},\ \mathfrak{n}_{\theta}^{\pm}=\sum_{\alpha\in\Sigma^{\pm}\setminus\langle\theta\rangle^{\pm}}\mathfrak{g}^{\alpha}
+\]
+
+\[
+\begin{aligned}
+&\exp\Big(\sum_{\xi\in\mathcal{B}_{0}}\chi_{J_{0}\cup\xi}(t)\Big)\prod_{\xi\in\mathcal{B}_{0}}\|BA_{0}^{-1}e_{J_{0}}\wedge e_{\xi}\|\\
+&=\exp\Big(|\mathcal{B}_{0}|\sum_{j=0}^{a_{0}}(d_{j}/l_{j}-d_{j+1}/l_{j+1})\Big(\sum_{i=1}^{j}\chi_{J_{0}}(t)+\chi_{[l_{i}]}(t)\Big)\Big)\prod_{\xi\in\mathcal{B}_{0}}\|BA_{0}^{-1}e_{J_{0}}\wedge e_{\xi}\|
+\end{aligned}
+\]

@@ -1,0 +1,5 @@
+There are two '0元' entries on the receipt. This is the one after '精准扶贫：' (targeted poverty alleviation):
+
+(555, 882, 599, 920)
+
+The other '0元', after '扫码支付：' (QR code payment), is at about (815, 882, 866, 920).

@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+m(\pi, \nu) &= \frac{1}{|S_\psi|} \sum_{\bar{x} \in S_\psi} \epsilon_\psi(\bar{x}) \langle x, \bar{x} \rangle \nu(x)^{-1} \langle \lambda_{n\infty}, x \rangle. \\
+v(t_0, p, e) &\ge 1 - \exp\left(-c \frac{\delta^2}{(T-t_0)^3}\right), \; \bar{e} \ge \Lambda + l(T-t_0) + \delta. \\
+v(t_0, p, e) &\le \exp\left(-c \frac{\delta^2}{(T-t_0)^3}\right), \; \bar{e} \le \Lambda - \delta. \\
+S_2(\theta) &\le S_1(\theta) \le e^{c(e^{2|\theta|} - 1)} S_1(0) \text{ for every } \theta \\
+(n-1)^{H-\frac{1}{2}} \frac{\phi_n^H(x)}{H-\frac{1}{2}} &\le \int_0^1 (v+n-1)^{H-\frac{1}{2}} (v+n-1-x)^{H-\frac{3}{2}} \, dv \le n^{H-\frac{1}{2}} \frac{\phi_n^H(x)}{H-\frac{1}{2}}. \\
+D_{k,i}^{(L)}(h_k^{(L)}) &= \frac{1}{6} \sigma'''(\varepsilon_{k,i}^{(L)}) M_{k,i}^{(L)} (h_k^{(L)})^3 + N_{k,i}^{(L)}(h_k^{(L)}) \\
+&= \frac{1}{6} \sigma'''(\varepsilon_{k,i}^{(L)}) M_{k,i}^{(L)} (h_k^{(L)})^3 + \frac{1}{2} \sigma''(0) \left(X_{k,i}^{(L)} + Y_{k,i}^{(L)} + J_{k,i}^{(L)}\right).
+\end{align*}
+```

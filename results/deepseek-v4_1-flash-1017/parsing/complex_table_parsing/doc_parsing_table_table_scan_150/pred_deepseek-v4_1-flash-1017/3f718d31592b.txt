@@ -1,0 +1,90 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px 4px;
+    vertical-align: top;
+    text-align: left;
+  }
+  .header-row th {
+    font-weight: normal;
+    border-bottom: 1px solid #000;
+  }
+  .col-seq { width: 5%; }
+  .col-name { width: 30%; }
+  .col-brand { width: 8%; }
+  .col-origin { width: 10%; }
+  .col-spec { width: 8%; }
+  .col-weight { width: 12%; }
+  .col-date { width: 27%; }
+  .center-text { text-align: center; }
+  .top-right { text-align: right; margin-bottom: 20px; }
+  .page-title { text-align: center; font-size: 16px; margin-bottom: 30px; }
+  .asterisks { text-align: center; letter-spacing: 2px; margin-top: 20px; }
+</style>
+</head>
+<body>
+
+<div class="top-right">224820221000057428001</div>
+
+<div class="page-title">附页</div>
+
+<table>
+  <thead>
+    <tr class="header-row">
+      <th class="col-seq">序号</th>
+      <th class="col-name">货物品名</th>
+      <th class="col-brand">品牌</th>
+      <th class="col-origin">原产国</th>
+      <th class="col-spec">规格</th>
+      <th class="col-weight">数/重量</th>
+      <th class="col-date">生产日期(批号)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>冷冻牛骨/冷冻牛前<br>腿骨/FROZEN BONES<br>CUBE ROLL BONE</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**4500 千克</td>
+      <td>(20220216、20220217、<br>20220218、20220219、<br>20220221、20220222、<br>20220223、20220224)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>冷冻牛骨/冷冻牛腩<br>椎骨/FROZEN BONES<br>LUMBAR BONE</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**13500 千克</td>
+      <td>(20220216、20220217、<br>20220218、20220219、<br>20220221、20220222、<br>20220223)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>冷冻牛骨/冷冻牛肩<br>部脊椎骨/FROZEN<br>BONES CHUCK BONE</td>
+      <td>***</td>
+      <td>乌拉圭</td>
+      <td>***</td>
+      <td>**7000 千克</td>
+      <td>(20220216、20220217、<br>20220218、20220219、<br>20220221、20220222、<br>20220223)</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="asterisks">********</div>
+
+</body>
+</html>
+```

@@ -1,0 +1,96 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{array}
+\usepackage[a4paper,margin=2cm]{geometry}
+
+\begin{document}
+\renewcommand{\arraystretch}{1.35}
+
+\noindent
+\begin{tabular}{@{}p{9.2cm}rr@{}}
+\hline
+\multicolumn{1}{c}{补充资料} &
+\multicolumn{1}{c}{本年金额} &
+\multicolumn{1}{c}{上年金额} \\
+\hline
+加：现金等价物的期末余额 & & \\
+减：现金等价物的期初余额 & & \\
+现金及现金等价物净增加额 & -444,430,290.95 & -832,049,298.50 \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+\noindent\textbf{（2）现金及现金等价物的构成}
+
+\noindent
+\begin{tabular}{@{}p{9.2cm}rr@{}}
+\hline
+\multicolumn{1}{c}{项\hspace{2em}目} &
+\multicolumn{1}{c}{年末余额} &
+\multicolumn{1}{c}{年初余额} \\
+\hline
+一、现金 & 296,528,795.28 & 740,959,086.23 \\
+\hspace{2em}其中：库存现金 & 25,744.69 & 15,792.59 \\
+\hspace{4em}可随时用于支付的银行存款 & 296,503,050.59 & 740,943,293.64 \\
+\hspace{4em}可随时用于支付的其他货币资金 & & \\
+二、现金等价物 & & \\
+\hspace{2em}其中：三个月内到期的债券投资 & & \\
+三、年末现金及现金等价物余额 & 296,528,795.28 & 740,959,086.23 \\
+\hspace{2em}其中：母公司或集团内子公司使用受限制的现金和现金等价物 & & \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+\noindent\textbf{（四十六）所有权或使用权受限的资产}
+
+\noindent
+\begin{tabular}{@{}p{4.5cm}r>{\centering\arraybackslash}p{5cm}@{}}
+\hline
+\multicolumn{1}{c}{项\hspace{2em}目} &
+\multicolumn{1}{c}{年末账面价值} &
+受限原因 \\
+\hline
+货币资金 & 398,790,442.67 & 保证金 \\
+无形资产 & 578,552,325.00 & 抵押借款 \\
+投资性房地产 & 3,187,971,800.00 & 抵押借款 \\
+固定资产 & 88,335,290.10 & 抵押借款 \\
+存货 & 102,620,000.00 & 抵押借款 \\
+\multicolumn{1}{c}{合\hspace{2em}计} & 4,356,269,857.77 & \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+\noindent\textbf{七、在其他主体中的权益}
+
+\vspace{0.5em}
+\noindent\textbf{1、在子公司中的权益}
+
+\vspace{0.5em}
+\noindent\textbf{（1）企业集团的构成}
+
+{\small
+\setlength{\tabcolsep}{4pt}
+\noindent
+\begin{tabular}{@{}p{4.2cm}cccccc@{}}
+\hline
+子公司名称 & 主要经营地 & 注册地 & 业务性质 &
+\multicolumn{2}{c}{持股比例（\%）} & 取得方式 \\
+ & & & & 直接 & 间接 & \\
+\hline
+扬州市恒茂化工实业有限公司 &
+仪征市 & 仪征市 & 商品销售 & 92.50\% & —— & 设立 \\
+扬州化工产业园公共管廊有限公司 &
+仪征市 & 仪征市 & 管廊建设 & 98.13\% & 1.73\% & 设立 \\
+扬州华泰石化物流有限公司 &
+仪征市 & 仪征市 & 港口码头 & 90.00\% & 10.00\% & 设立 \\
+\hline
+\end{tabular}
+}
+
+\vfill
+\begin{center}
+70
+\end{center}
+
+\end{document}
+```

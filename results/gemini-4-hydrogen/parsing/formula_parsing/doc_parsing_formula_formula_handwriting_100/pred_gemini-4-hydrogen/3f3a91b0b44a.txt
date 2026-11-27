@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+S &\le \sum_{d \mid w} \sum_{b_1, \dots, b_k \in B} \frac{w}{d} \prod_{p \mid w/d} \left( 1 - \frac{r_p(b_1, \dots, b_k) + 1}{p} \right) \\
+&\le \sum_{d \mid w} \sum_{b_1, \dots, b_k \in B} \frac{w}{d} \prod_{p \mid w_1/d_1} \left( 1 - \frac{2}{p} \right) \frac{w_2}{d_2} \prod_{p \mid w_2/d_2} \left( 1 - \frac{r_p(b_1, \dots, b_k) + 1}{p} \right) \\
+&= \sum_{d \mid w} \varphi w_1 / d_1 \sum_{b_1, \dots, b_k \in B} \frac{w_2}{d_2} \prod_{p \mid w_2/d_2} \left( 1 - \frac{r_p(b_1, \dots, b_k) + 1}{p} \right) \\
+&\le \sum_{d \mid w} \varphi w_1 / d_1 \sum_{j = -\infty}^{\infty} \sum_{\substack{b_1, \dots, b_k \in B \\ f(b_1, \dots, b_k) \in [2j, 2j+1)}} \frac{w_2}{d_2} \prod \left( 1 - \frac{2k + 1}{p} \right) \prod_{\substack{p \mid w_2/d_2 \\ r_p(b_1, \dots, b_k) \le 2k - 1}} \left( 1 - \frac{2k + 1}{p} \right)^{-1} \\
+&\le \sum_{d \mid w} \varphi w_1 / d_1 \frac{w_2}{d_2} \prod_{p \mid w_2/d_2} \left( 1 - \frac{2k + 1}{p} \right) \sum_{j = -\infty}^{\infty} \sum_{\substack{b_1, \dots, b_k \in B \\ f(b_1, \dots, b_k) \in [2j, 2j+1)}} e^{(2k+1) 2j + 2} \\
+&\le \sum_{d \mid w} k^2 |B|^{k-2} \varphi_w^2 \varphi w_1 / d_1 \frac{w_2}{d_2} \prod_{p \mid w_2/d_2} \left( 1 - \frac{2k + 1}{p} \right) \sum_{j = 0}^{\infty} 2^{-\exp(2j / c k^2)} e^{(2k+1) 2j + 2} \\
+&= C_k k^2 |B|^{k-2} \varphi_w^2 \sum_{d \mid w} \varphi w_1 / d_1 \frac{w_2}{d_2} \prod_{p \mid w_2/d_2} \left( 1 - \frac{2k + 1}{p} \right),
+\end{align*}
+```

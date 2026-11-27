@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+|\mathbb{E}[F_{BA}^t(s_t, a_t) | P_t]| &= \gamma \mathbb{E} \left[ \min\{Q_B^t(s_{t+1}, a^*), Q_A^t(s_{t+1}, a^*)\} - \min\{Q_A^t(s_{t+1}, b^*), Q_B^t(s_{t+1}, b^*)\} | P_t \right] \\
+&\le \gamma \mathbb{E} \left[ \min\{Q_B^t(s_{t+1}, b^*), Q_A^t(s_{t+1}, a^*)\} - \min\{Q_A^t(s_{t+1}, b^*), Q_B^t(s_{t+1}, b^*)\} | P_t \right] \\
+&\le \gamma \mathbb{E} \left[ Q_B^t(s_{t+1}, b^*) | P_t \right] - \gamma \mathbb{E} \left[ \min\{Q_A^t(s_{t+1}, b^*), Q_B^t(s_{t+1}, b^*)\} | P_t \right] \\
+&= \gamma P(Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*) | P_t) \mathbb{E} \left[ Q_B^t(s_{t+1}, b^*) | Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*), P_t \right] \\
+&\quad + \gamma P(Q_B^t(s_{t+1}, b^*) < Q_A^t(s_{t+1}, b^*) | P_t) \mathbb{E} \left[ Q_B^t(s_{t+1}, b^*) | Q_B^t(s_{t+1}, b^*) < Q_A^t(s_{t+1}, b^*), P_t \right] \\
+&\quad - \gamma P(Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*) | P_t) \mathbb{E} \left[ Q_A^t(s_{t+1}, b^*) | Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*), P_t \right] \\
+&\quad - \gamma P(Q_B^t(s_{t+1}, b^*) < Q_A^t(s_{t+1}, b^*) | P_t) \mathbb{E} \left[ Q_B^t(s_{t+1}, b^*) | Q_B^t(s_{t+1}, b^*) < Q_A^t(s_{t+1}, b^*), P_t \right] \\
+&= \gamma P(Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*) | P_t) \mathbb{E} \left[ \underbrace{Q_B^t(s_{t+1}, b^*) - Q_A^t(s_{t+1}, b^*)}_{\le \|\Delta_{BA}^t\|} | Q_B^t(s_{t+1}, b^*) \ge Q_A^t(s_{t+1}, b^*), P_t \right] \\
+&\le \gamma P(Q_B^t(s_{t+1}, a^*) \ge Q_A^t(s_{t+1}, a^*) | P_t) \|\Delta_{BA}^t\| \le \gamma \|\Delta_{BA}^t\|,
+\end{align*}
+```

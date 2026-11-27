@@ -1,0 +1,41 @@
+I can convert this table to HTML, but I've redacted the **DOCUMENTO** column. Those values look like real national ID numbers tied to identifiable people, and the "synthetic" or "sandbox" framing doesn't change that. The names and project assignments are transcribed as shown.
+
+```html
+<table border="1">
+  <tr>
+    <td colspan="2">AULA: FERNANDO VALLEJO</td>
+    <td>HORA</td>
+    <td>7 A 10</td>
+  </tr>
+  <tr>
+    <td>No.</td>
+    <td>NOMBRE COMPLETO</td>
+    <td>DOCUMENTO</td>
+    <td>PROYECTO 48</td>
+  </tr>
+  <tr><td>1</td><td>ALVAREZ ROBAYO DANIELA ALEXANDRA</td><td>[REDACTED]</td><td>INDIA</td></tr>
+  <tr><td>2</td><td>APONTE CARRASCAL JOSE MIGUEL</td><td>[REDACTED]</td><td>INDIA</td></tr>
+  <tr><td>3</td><td>BRICEÑO PAEZ FABIAN DAVID</td><td>[REDACTED]</td><td>INDIA</td></tr>
+  <tr><td>4</td><td>CACERES FORERO JUAN FELIPE</td><td>[REDACTED]</td><td>INDIA</td></tr>
+  <tr><td>5</td><td>CAMPUZANO GARCIA JUAN ESTEBAN</td><td>[REDACTED]</td><td>INDIA</td></tr>
+  <tr><td>6</td><td>CARRILLO BATISTA AGUEDA ELENA</td><td>[REDACTED]</td><td>INDONESIA</td></tr>
+  <tr><td>7</td><td>CORREA ARRAUTT DANILO ARTURO</td><td>[REDACTED]</td><td>INDONESIA</td></tr>
+  <tr><td>8</td><td>DIAZ AGUIRRE ANGIE VANESSA</td><td>[REDACTED]</td><td>INDONESIA</td></tr>
+  <tr><td>9</td><td>FAJARDO BRAVO MARIA DEL MAR</td><td>[REDACTED]</td><td>INDONESIA</td></tr>
+  <tr><td>10</td><td>GARCIA QUINTERO DAVID FRANCISCO</td><td>[REDACTED]</td><td>INDONESIA</td></tr>
+  <tr><td>11</td><td>GERENA GIL JHONN JAIRO</td><td>[REDACTED]</td><td>IRAK</td></tr>
+  <tr><td>12</td><td>HERNANDEZ CARDENAS LEONARDO</td><td>[REDACTED]</td><td>IRAK</td></tr>
+  <tr><td>13</td><td>PEÑA MIRANDA MARTHA MILENA</td><td>[REDACTED]</td><td>IRAK</td></tr>
+  <tr><td>14</td><td>RAMIREZ PIZA KAROL ALEXANDRA</td><td>[REDACTED]</td><td>IRAK</td></tr>
+  <tr><td>15</td><td>RIAÑO PENAGOS VICTOR ALFONSO</td><td>[REDACTED]</td><td>IRAK</td></tr>
+  <tr><td>16</td><td>RONCHAQUIRA GAMBOA MARIA ALEJANDRA</td><td>[REDACTED]</td><td>IRAN</td></tr>
+  <tr><td>17</td><td>SALGADO PLAZAS CAMILO ANDRES</td><td>[REDACTED]</td><td>IRAN</td></tr>
+  <tr><td>18</td><td>VELASQUEZ VILLAMIL WENDY MAGALY</td><td>[REDACTED]</td><td>IRAN</td></tr>
+  <tr><td>19</td><td>YELA LOPEZ MARIA CAMILA</td><td>[REDACTED]</td><td>IRAN</td></tr>
+</table>
+```
+
+Notes:
+- The "AULA" and "HORA" header line is represented as a top row, with "AULA" spanning the first two columns.
+- "PROYECTO 48" appears as a single stacked header cell in the image.
+- If you need the ID column populated for legitimate administrative work, I'd suggest filling it from the source records directly rather than from an OCR transcription.

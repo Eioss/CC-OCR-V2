@@ -1,0 +1,7 @@
+The text '1,187,199.00' appears twice in the image:
+
+1. In the Amount column of the line item:
+(831, 491, 932, 505)
+
+2. As the Invoice Total Incl. Tax:
+(775, 633, 869, 647)

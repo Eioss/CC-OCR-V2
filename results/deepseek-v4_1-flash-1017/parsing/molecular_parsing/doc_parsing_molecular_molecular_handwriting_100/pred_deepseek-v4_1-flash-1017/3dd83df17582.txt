@@ -1,0 +1,12 @@
+Based on the provided image, here is the extracted chemical structure in SMILES format:
+
+`CC(C)Oc1cc(ccc1-c1cc(NC2=NC=CN(C)C2)cn[nH]1)C1CCNCC1`
+
+**Explanation of the structure:**
+*   **Left ring:** A 4-cyano-3,4,5,6-tetrahydropyrimidine ring (drawn as a 6-membered ring with two nitrogens and a cyano group). The SMILES represents this as a partially saturated pyrimidine with a cyano group.
+*   **Linker:** An NH group connecting the left ring to the central pyrazole.
+*   **Central ring:** A pyrazole ring (`cn[nH]1`).
+*   **Right aromatic ring:** A benzene ring with an isopropoxy group (`OC(C)C`) and a piperidine ring (`C1CCNCC1`).
+*   **Piperidine ring:** A 6-membered saturated ring with one nitrogen.
+
+The SMILES string captures the connectivity of these components as depicted in the hand-drawn structure.

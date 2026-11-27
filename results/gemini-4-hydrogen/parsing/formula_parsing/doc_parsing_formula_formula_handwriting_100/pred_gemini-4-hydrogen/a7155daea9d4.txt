@@ -1,0 +1,11 @@
+\begin{align*}
+&\Sigma_p(r) := \{ \xi \in \Sigma \cap B_{r/2}(p) : \Pi_{p + Gp}(\xi) \in (p + Gp) \cap B_{r/4}(p) \} \\
+&\phi_0(x) = 1 \quad (0 \le x < 1/2) \qquad \phi_0(x+1) = \phi_0(x) \\
+&\phi_0(x) = -1 \quad (1/2 \le x < 1) \qquad \phi_k(x) = \phi_0(2^k x) \\
+&q \in \begin{cases} (3/2, \infty) & \text{if } 0 \le s \le 1/2 \\ (s, \infty) & \text{if } 1/2 < s \end{cases} \\
+&\langle 1_{D_g}^G, \chi_0 - \psi_i \rangle = \langle 1_{D_g}^G, \chi_0 \rangle - \langle 1_{D_g}^G, \psi_i \rangle - 1 - \delta(i, g) \\
+&v(x, \vec{P}^{(j+1)}) - v(x, \vec{P}^{(j)}) = \sum_{k=0}^{r-1} \left( v(x, \vec{Q}'^{(k+1)}) - v(x, \vec{Q}'^{(k)}) \right) = v(x, \vec{Q}'^{(r)}) - v(x, \vec{Q}'^{(0)}). \\
+&a = \frac{1}{2} \left( |I| + 1 - \frac{\epsilon}{2rk} \right). \\
+&\Theta_Q \left( \begin{pmatrix} y_\infty & x_\infty \\ & 1 \end{pmatrix} \right) = |y_\infty|^{\frac{1}{2}} \sum_{r \in F} \psi(Q(r)(x_\infty + i y_\infty)) = |y_\infty|^{\frac{1}{2}} \sum_{q \in O_F} \psi(Q(q)(x_\infty + i y_\infty)). \\
+&i \oplus j \equiv (i + j) \bmod 2
+\end{align*}

@@ -1,0 +1,7 @@
+\begin{align*}
+&\tilde{Q}(x) := \frac{1}{\kappa}\Omega, \quad \tilde{T} := T, \quad \tilde{H} := \tilde{h}T, \quad \tilde{h} := \frac{1}{\kappa}\sum_{j=1}^{m} w_j - z_1. \\
+&L(p_n; m_n^1) + L(x_1^n; m_2^n) + L(m_2^n; q_n) = L(m_n; q_n) \\
+&I^{m, -}(L+1) := i_n + \{ I^{m, -}(L) < i < X_m \mid L_i^{m, -} < (l_n \kappa)^2 \} \\
+&i\hbar \partial_t \psi(x) + \frac{\hbar^2}{2m} \partial^2 \partial_x^2 \psi(x) - V(x) \psi(x) = \int d^3y K(x, y) \psi(y), \\
+&\int_{B_r(0)} |\gamma(w)|^2 dy = \lim_{n \to \infty} \int_{B_r(0)} |\gamma(w_n)|^2 dy = \lim_{n \to \infty} \int_{B_r(y_n)} |\gamma(u_n)|^2 dy \geq \beta > 0,
+\end{align*}

@@ -1,0 +1,16 @@
+```latex
+\begin{align*}
+& E[\psi_3(X, A, Z, M, Y) S_0(0)] \\
+&= E[\psi_3(X, A, Z, M, Y) (S_0(X) + S_0(Z|X, A) + S_0(M|X, A, Z) + S_0(Y|X, A, Z, M))] \\
+&= E[S_0(X) + S_0(A|X) + S_0(Z|X, A) + S_0(M|X, A, Z)] E[\psi_3(X, A, Z, M, Y) | X, A, Z, M] \\
+&\quad + E[\psi_3(X, A, Z, M, Y) S_0(Y|X, A, Z, M)] \\
+&= E[\psi_3(X, A, Z, M, Y) S_0(Y|X, A, Z, M)] \\
+&= E \left[ \frac{\mathbb{I}(A=a)\mathbb{I}(M=m)}{Pr[A=a|X] Pr[M=m|X, A=a, Z]} S_0(Y|X, A, Z, M) \right] \\
+&\quad - E \left[ \frac{\mathbb{I}(A=a)\mathbb{I}(M=m)}{Pr[A=a|X] Pr[M=m|X, A=a, Z]} E[S_0(Y|X, A, Z, M) | X, A, Z, M] \right] \\
+&= E \left\{ E \left[ \frac{\mathbb{I}(A=a)\mathbb{I}(M=m) Y S_0(Y|X, A, Z, M)}{Pr[A=a|X] Pr[M=m|X, A=a, Z]} \middle| X, A, Z, M=m \right] Pr[M=m|X, A, Z] \right\} \\
+&= E_{X, A} E \left[ \frac{\mathbb{I}(A=a) Pr[M=m|X, A, Z] E[Y S_0(Y|X, A, Z, M) | X, A, Z, M=m]}{Pr[A=a|X] Pr[M=m|X, A=a, Z]} \middle| X, A \right] \\
+&= E_{X} \left\{ E \left[ \frac{\mathbb{I}(A=a) Pr[M=m|X, A, Z] E[Y S_0(Y|X, A, Z, M) | X, A, Z, M=m]}{Pr[A=a|X] Pr[M=m|X, A=a, Z]} \middle| X, A=a \right] \right\} \\
+&= E_{X} \left\{ E \left[ E[Y S_0(Y|X, A, Z, M) | X, A, Z, M=m] \middle| X, A=a \right] \right\} \\
+&= \phi_3
+\end{align*}
+```

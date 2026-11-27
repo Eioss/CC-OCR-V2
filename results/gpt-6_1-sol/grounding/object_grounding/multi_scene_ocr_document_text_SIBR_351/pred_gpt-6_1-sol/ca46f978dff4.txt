@@ -1,0 +1,16 @@
+[
+  {"bbox_2d":[300,156,742,192],"label":"Add"},
+  {"bbox_2d":[132,424,655,439],"label":"Add"},
+  {"bbox_2d":[127,309,239,323],"label":"Date"},
+  {"bbox_2d":[149,548,415,598],"label":"Description of Goods"},
+  {"bbox_2d":[547,202,680,214],"label":"Fax"},
+  {"bbox_2d":[179,291,287,305],"label":"Invoice No"},
+  {"bbox_2d":[106,576,119,590],"label":"No."},
+  {"bbox_2d":[546,576,675,591],"label":"Price"},
+  {"bbox_2d":[458,576,501,591],"label":"Qty"},
+  {"bbox_2d":[137,460,244,474],"label":"TEL"},
+  {"bbox_2d":[371,202,494,214],"label":"Tel"},
+  {"bbox_2d":[364,251,660,273],"label":"Title"},
+  {"bbox_2d":[748,576,877,591],"label":"Total"},
+  {"bbox_2d":[762,641,858,656],"label":"Total"}
+]

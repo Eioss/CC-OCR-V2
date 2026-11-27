@@ -1,0 +1,107 @@
+```latex
+\documentclass{article}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+{\Large 12}\quad Katy weighed out some sugar from a full $2\ \mathrm{kg}$ bag. The mass of the sugar is shown on the scale.
+
+\begin{center}
+% Analogue scale illustration, with dial markings 1000, 0, 200, 400,
+% 600 and 800, and the unit g; sugar-bag illustration alongside.
+\begin{tabular}{c}
+$2\ \mathrm{kg}$\\
+Sugar
+\end{tabular}
+\end{center}
+
+How much sugar was left in the bag?
+
+\begin{center}
+\begin{tabular}{@{}lllll@{}}
+A\ $1.55\ \mathrm{kg}$ &
+B\ $1.65\ \mathrm{kg}$ &
+C\ $165\ \mathrm{g}$ &
+D\ $155\ \mathrm{g}$ &
+E\ $1550\ \mathrm{kg}$
+\end{tabular}
+\end{center}
+
+\bigskip
+
+{\Large 13}\quad What is the total cost of $8$ rulers and $8$ pens?
+
+\begin{center}
+% Pen and ruler illustrations, with their respective price tags.
+\pounds{}1.23 \qquad\qquad \pounds{}1.77
+\end{center}
+
+\begin{center}
+\begin{tabular}{@{}lllll@{}}
+A\ \pounds{}2 &
+B\ \pounds{}3 &
+C\ \pounds{}16 &
+D\ \pounds{}24 &
+E\ \pounds{}32
+\end{tabular}
+\end{center}
+
+\bigskip
+
+{\Large 14}\quad Round $7.038$ to the nearest hundredth.
+
+\begin{center}
+\begin{tabular}{@{}lllll@{}}
+A\ $7.00$ &
+B\ $7.03$ &
+C\ $7.04$ &
+D\ $7.038$ &
+E\ $7.039$
+\end{tabular}
+\end{center}
+
+\bigskip
+
+{\Large 15}\quad These shapes are made from $1\ \mathrm{cm}$ cubes.
+
+\begin{center}
+% Illustrations of four solids constructed from cubes.
+P \qquad\qquad Q \qquad\qquad R \qquad\qquad S
+\end{center}
+
+Which two shapes have the same volume?
+
+\begin{center}
+\begin{tabular}{@{}lllll@{}}
+A\ P and Q &
+B\ P and R &
+C\ P and S &
+D\ Q and R &
+E\ R and S
+\end{tabular}
+\end{center}
+
+\bigskip
+
+{\Large 16}\quad Which of these shapes are prisms?
+
+\begin{center}
+% Illustrations of five three-dimensional shapes.
+P \qquad\qquad Q \qquad\qquad R \qquad\qquad S \qquad\qquad T
+\end{center}
+
+\begin{center}
+\begin{tabular}{@{}lll@{}}
+A\ P and S only & B\ R and T only & C\ Q, R and T\\[4pt]
+D\ P, Q and S & E\ Only S &
+\end{tabular}
+\end{center}
+
+\vfill
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}c@{\extracolsep{\fill}}r@{}}
+11+ Maths / 10-11 / 1 / Paper 1 & 4 & \textcopyright\ CGP 2018
+\end{tabular*}
+
+\end{document}
+```

@@ -1,0 +1,97 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blank}{\rule{1.2em}{0.4pt}}
+\newcommand{\opts}[4]{%
+  \par\noindent\hspace*{1.5em}%
+  \begin{tabular}{@{}p{0.4\columnwidth}p{0.4\columnwidth}@{}}
+  i. #1 & ii. #2\\
+  iii. #3 & iv. #4
+  \end{tabular}\par}
+
+\begin{document}
+
+\begin{center}
+{\Large\textbf{MODEL TEST 56}}
+\end{center}
+
+\begin{multicols}{2}
+
+\textbf{Part--A : Reading Test [50 Marks]}
+
+\fbox{\textbf{SEEN PASSAGE}} $\blacktriangleright$ \textbf{Read the following passage carefully and answer the questions 1, 2 \& 3.}
+
+Eid is the main \dots\dots\dots\ empty and lost. \quad \textit{[Unit--12; Lesson--1(B)]}
+
+\begin{enumerate}[label=\textbf{\arabic*.},leftmargin=*]
+\item \textbf{Choose the best answer from the alternatives.} \hfill $1 \times 7 = 7$
+\begin{enumerate}[label=(\alph*)]
+  \item Eid is a \blank\ festival of Muslims.
+  \opts{social}{cultural}{religious}{communal}
+  \item What is the meaning of Eid?
+  \opts{A feeling of joy}{Enrichment}{Enhancement}{Enchantment}
+  \item The roots of the trees are \blank.
+  \opts{invisible}{visible}{slightly visible}{visible or invisible}
+  \item The roots of human beings lie in their \blank.
+  \par\hspace*{1.5em} i. home \quad ii. society \quad iii. country \quad iv. minds
+  \item The rootless are \blank.
+  \par\hspace*{1.5em} i. entity \quad ii. identical \quad iii. nonentity \quad iv. relatives
+  \item Which one develops our identity?
+  \opts{Our culture}{Our roots}{Our religion}{Our environment}
+  \item What is pull of roots?
+  \opts{Affection for roots}{Attraction of roots}{Assistance of roots}{Addiction to roots}
+\end{enumerate}
+
+\underline{\textbf{Additional Questions}}
+\begin{enumerate}[label=(\alph*),start=8]
+  \item What do the roots make between us and others?
+  \opts{Friendship}{Intimacy}{Fellow feelings}{Bond}
+  \item Wherever we stay, we have a \blank\ pull of our roots.
+  \par\hspace*{1.5em} i. routine \quad ii. ceaseless \quad iii. careless \quad iv. tireless
+  \item The rootless have \blank.
+  \par\hspace*{1.5em} i. no hunger \quad ii. no parents \quad iii. no identity \quad iv. entity
+\end{enumerate}
+
+\columnbreak
+
+\item \textbf{Answer the following questions in your own words:} \hfill $2 \times 5 = \dots$
+\begin{enumerate}[label=(\alph*)]
+  \item What do most of the people living outside home desire during the Eid vacations?
+  \item What happens to transport during Eid vacations?
+  \item What makes people rush for their homes in spite of serious hazards?
+  \item What are the roots of human beings?
+  \item How do human beings become rootless?
+\end{enumerate}
+
+\underline{\textbf{Additional Questions}}
+\begin{enumerate}[label=(\alph*),start=6]
+  \item What are human beings called without roots?
+  \item What are rootless people devoid of?
+  \item What makes the rootless feel empty and lost?
+  \item What does everyone want on Eid day?
+  \item What is the significance of Eid?
+\end{enumerate}
+
+\item \textbf{Fill in each gap with a suitable word of your own based on the information from the text in `A'.} \hfill $0.5 \times 10 = 5$
+
+There are many (a) \blank, cultural and religious (b) \blank\ of the people of Bangladesh. (c) \blank\ is the main (d) \blank\ festival (e) \blank. Eid means (f) \blank. So, the (g) \blank\ of Eid (h) \blank\ (i) \blank\ happiness with (j) \blank.
+\end{enumerate}
+
+\fbox{\textbf{UNSEEN PASSAGE}} $\blacktriangleright$ \textbf{Read the following text carefully and answer the question no. 4 and 5 :}
+
+Khan Bahadur Ahsanullah was born in a respectable Muslim family at Nalta in Satkhira district on 27 December, 1873. He passed the Entrance examination with a scholarship and distinction from the London Missionary School of Bhabanipur, Kolkata in 1890. He passed the F.A.\ examination with a scholarship from the Hoogli College, Kolkata in 1892. He obtained BA in 1894 and MA in Philosophy in 1895 from Presidency College under the University of Kolkata.
+
+\hfill [\textit{Photograph: Khan Bahadur Ahsanullah, 1873--19\dots}]
+
+\end{multicols}
+
+\end{document}
+```
+
+Notes: Some text at the right edge of the image is cut off (e.g., the marks for question 2, "outside home," "in spite of," "Muslim family," and the end date on the photograph caption). These words have been completed from context where obvious, and the unreadable portions are marked with "\dots".

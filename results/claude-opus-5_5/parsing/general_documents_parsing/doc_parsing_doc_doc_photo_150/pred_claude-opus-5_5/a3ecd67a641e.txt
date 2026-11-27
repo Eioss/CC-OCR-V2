@@ -1,0 +1,56 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+
+\begin{document}
+
+\noindent The steps to derive the quadratic formula are shown below:
+
+\vspace{1em}
+
+\renewcommand{\arraystretch}{2.2}
+\begin{tabular}{|>{\bfseries}l|l|}
+\hline
+Step 1 & $ax^2 + bx + c = 0$ \\
+\hline
+Step 2 & $ax^2 + bx = -c$ \\
+\hline
+Step 3 & $x^2 + \dfrac{b}{a}x = -\dfrac{c}{a}$ \\
+\hline
+Step 4 & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{c}{a} + \dfrac{b^2}{4a^2}$ \\
+\hline
+Step 5 & $x^2 + \dfrac{b}{a}x + \dfrac{b^2}{4a^2} = -\dfrac{4ac}{4a^2} + \dfrac{b^2}{4a^2}$ \\
+\hline
+Step 6 & $\left(x + \dfrac{b}{2a}\right)^2 = \dfrac{b^2 - 4ac}{4a^2}$ \\
+\hline
+Step 7 & $\left(x + \dfrac{b}{2a}\right) = \pm\sqrt{\dfrac{b^2 - 4ac}{4a^2}} = \pm\dfrac{\sqrt{b^2 - 4ac}}{4a}$ \\
+\hline
+Step 8 & $x = -\dfrac{b}{2a} \pm \dfrac{\sqrt{b^2 - 4ac}}{2a}$ \\
+\hline
+Step 9 & $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ \\
+\hline
+\end{tabular}
+
+\vspace{1.5em}
+
+\noindent Which of the following is the first incorrect step?
+
+\begin{itemize}
+  \item[$\bullet$] Step 4 \quad \textit{(selected)}
+  \item[$\circ$] Step 6
+  \item[$\circ$] Step 7
+  \item[$\circ$] Step 8
+\end{itemize}
+
+% Handwritten margin notes (green ink):
+% \left(\frac{b}{2a}\right)^2 ; "its b/2a squared then" ; \frac{b}{2}/2a
+
+\end{document}
+```
+
+**Notes:**
+- Step 7 is transcribed exactly as shown, with $4a$ in the final denominator.
+- The handwritten margin notes are only partly legible, so they appear as approximate LaTeX comments.
+
+On the math itself, Step 7 is the first incorrect step, not the selected Step 4. Since $\sqrt{4a^2} = 2a$, the expression should be $\pm\frac{\sqrt{b^2-4ac}}{2a}$. Step 4 is correct because it adds $\left(\frac{b}{2a}\right)^2 = \frac{b^2}{4a^2}$ to both sides to complete the square.

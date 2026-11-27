@@ -1,0 +1,14 @@
+```latex
+\left\{
+\begin{aligned}
+\tilde{r}_0(\zeta)(z, w) &= \frac{z_0 + \bar{z}_0}{2} - {}^t\bar{z}_\alpha A z_\alpha = 0, \\
+\tilde{r}_0(\zeta)(z, w) &= i\frac{w_0}{\zeta} - i\zeta\overline{w_0} = 0, \\
+\tilde{r}_2(\zeta)(z, w) &= (w_1 - 2w_0 \partial_{z_1} r(z)) + (\overline{w_1 - 2w_0 \partial_{z_1} r(z)}) = 0, \\
+\vdots \qquad\qquad &\quad\vdots \\
+\tilde{r}_{n+1}(\zeta)(z, w) &= (w_n - 2w_0 \partial_{z_n} r(z)) + (\overline{w_n - 2w_0 \partial_{z_n} r(z)}) = 0, \\
+\tilde{r}_{n+2}(\zeta)(z, w) &= i(w_1 - 2w_0 \partial_{z_1} r(z)) - i(\overline{w_1 - 2w_0 \partial_{z_1} r(z)}) = 0, \\
+\vdots \qquad\qquad &\quad\vdots \\
+\tilde{r}_{2n+1}(\zeta)(z, w) &= i(w_n - 2w_0 \partial_{z_n} r(z)) - i(\overline{w_n - 2w_0 \partial_{z_n} r(z)}) = 0,
+\end{aligned}
+\right.
+```

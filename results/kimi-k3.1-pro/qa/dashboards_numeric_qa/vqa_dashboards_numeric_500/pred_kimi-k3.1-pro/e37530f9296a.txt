@@ -1,0 +1,10 @@
+According to the infographic, the Bureau of Labor Statistics calculates the fatality rate as:
+
+\[
+\text{Fatality rate} =
+\frac{\text{Number of fatal injuries}}
+{\text{Total hours worked by all employees during the calendar year}}
+\times 200{,}000{,}000
+\]
+
+The result is the number of fatalities **per 100,000 full-time workers or equivalent**. The 200 million hours represents 100,000 workers each working 40 hours per week for 50 weeks.

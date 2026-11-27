@@ -1,0 +1,7 @@
+```latex
+\begin{aligned}
+&D_\theta \Xi(s) \\
+&= \begin{pmatrix} \chi_1(\theta - s) \\ \chi_d(\theta - s) \end{pmatrix} + \sum_{m=1}^{\infty} \int_{\Delta_{\theta, s}^m} \left\{ \nabla b^n(\langle X_{s_m}^n, e_1 \rangle + \varepsilon w_1 B^{H_1}(s_m), \cdots) \cdot \begin{pmatrix} \chi_1(\theta - s_m) \\ \vdots \\ \chi_d(\theta - s_m) \end{pmatrix} \right. \\
+&\cdot \left. \prod_{l=1}^{m-1} \nabla b^n(\langle X_{s_l}^n, e_1 \rangle + \varepsilon w_1 B^{H_1}(s_l), \cdots) \cdot \begin{pmatrix} \chi_1(s_{l+1} - s_l) \\ \vdots \\ \chi_d(s_{l+1} - s_l) \end{pmatrix} \right\} \begin{pmatrix} \chi_1(s_1 - s) \\ \vdots \\ \chi_d(s_1 - s) \end{pmatrix} ds_m \dots ds_1.
+\end{aligned}
+```

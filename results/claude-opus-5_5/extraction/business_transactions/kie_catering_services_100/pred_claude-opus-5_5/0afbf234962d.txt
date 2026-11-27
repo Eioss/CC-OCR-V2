@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "BASO TAHU", "cnt": "1", "unitprice": "43,181", "price": "43,181"}, {"nm": "ES JERUK", "cnt": "1", "unitprice": "13,000", "price": "13,000"}], "sub_total": {"subtotal_price": "56,181", "tax_price": "5,618"}, "total": {"total_price": "61,799", "cashprice": "62,000", "changeprice": "201"}}
+```

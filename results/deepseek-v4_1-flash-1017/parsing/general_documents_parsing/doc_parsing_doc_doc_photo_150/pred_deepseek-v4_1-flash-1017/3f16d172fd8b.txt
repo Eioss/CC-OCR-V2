@@ -1,0 +1,112 @@
+Here is the transcription of the text from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{multicol}
+
+\begin{document}
+
+\begin{multicols}{2}
+
+\noindent \textbf{48.} Pre-Ur III, dated (Umma).
+
+\noindent Baked clay envelope, still intact and well preserved. Light brown. \(42 \times 42 \times 26\) mm. Obv. 3 ll.: one on top, one in center and one at bottom. Rev. 2 ll.: one on top and one in center. Covered with seal impression.
+
+\noindent \v{S}ubati document: food provision.
+
+\noindent Month: iti ur (Umma calendar, IX).
+
+\noindent Date formula: mu 4 kam \v{u}\v{s}.
+\newline
+Month name: \textit{CCTE}, p. 177; d.f.: unidentified: Schneider, 39, 6, f; \textit{CCTE}, p. 175 (I 28).
+\newline
+Seal impression: Lugal-ga-mu/dumu Ur-d\v{S}ar\'a.
+
+\vspace{1em}
+
+\noindent \textbf{49.} Ur III, dated (Umma).
+
+\noindent Baked clay tablet. Light reddish brown. Complete and well preserved. \(22 \times 20 \times 11\) mm. Obv. 5 ll. rev. 2 ll.
+
+\noindent Mu-DU document: asses.
+
+\noindent Month: RI (Umma calendar, V).
+
+\vspace{1em}
+
+\noindent \textbf{50.} Ur III, dated (Umma ?).
+
+\noindent Baked clay tablet. Light reddish brown. \(25 \times 24 \times 12\) mm. Complete and fairly well preserved, except for a notch on obverse. Obv. 6 ll., rev. 4 ll.
+
+\noindent Income record: Livestock (ki-x).
+
+\noindent Date formula: \v{S}ulgi, 37.
+\newline
+Obv. 1: `udu' bar-rug-ga cf. \textit{CCTE}, note 94; \textit{SETU}, 130: 181; obv. 3--4: m\'a\v{s} \v{s}u-nir \(^d\)Nin-ur\(_4\)-ra cf. \textit{SETU}, 130 (from Umma) ll. 188--189.
+
+\vspace{1em}
+
+\noindent \textbf{51.} Ur III, dated (Umma ?).
+
+\noindent Baked clay tablet. Reddish brown. \(45 \times 42 \times 12\) mm. Complete and well preserved. Obv. 6 ll., rev. 3 ll. Covered with a seal impression.
+
+\noindent Endorsed assignment of day labourers (ki\v{s}ib; ugula).
+
+\columnbreak
+
+\noindent Date formula: \v{S}u-Sin, 7.
+\newline
+Cf. parallel, \textit{CCTE}, KK, 11; obv. 3: \v{s}u-\`ur-ra cf. \textit{CCTE}, D 24, a.
+\newline
+Seal impression: name of scribe is \d{S}a-nin-g\'a dumu lugal-la: (cf. \textit{CCTE}, KK 11: 11; E 21: 8).
+
+\vspace{1em}
+
+\noindent \textbf{52.} Ur III, dated (Puzri\v{s}-Dag\={a}n).
+
+\noindent Baked clay tablet. Reddish brown. Complete and well preserved. \(32 \times 30 \times 14\) mm. Obv. 5 ll., rev. 8 ll.
+
+\noindent Balanced account (n\'ig-\v{S}ID-ak) document: grain.
+
+\noindent Months: Ma\v{s}-k\`u-k\`u and \v{s}e\v{s}-da-k\`u (Ur calendar, I--II).
+
+\noindent Date formula: \v{S}ulgi, 37 (Schneider 34, Bd). Puzri\v{s}-Dag\={a}n: A. Goetze, \v{S}ellu\v{s}-Dag\={a}n cf. \textit{JCS} 17 (1963), pp. 34--35.
+
+\vspace{1em}
+
+\noindent \textbf{53.} Ur III, dated (Puzri\v{s}-Dag\={a}n).
+
+\noindent Baked clay tablet. Light brown. \(30 \times 32 \times 15\) mm. Obv. 6 ll., rev. 6 ll., Chipped at lower left corner.
+
+\noindent \d{I}-dib document: grain-fed oxen.
+
+\noindent Month: ezen An-na (Ur calendar, X).
+
+\noindent Date formula: \v{S}ulgi, 46 (Schneider 43, Bd).
+
+\noindent Photo: Pl. 41.
+
+\vspace{1em}
+
+\noindent \textbf{54.} Ur III, dated (Puzri\v{s}-Dag\={a}n).
+
+\noindent Baked clay tablet. Bleached white. Complete. \(31 \times 27 \times 13\) mm. Obv. 6 ll., rev. 7 ll.
+
+\noindent \v{S}ubati document: killed livestock.
+
+\noindent Month: \v{s}e\v{s}-da-k\`u (Ur calendar, II).
+
+\noindent Date formula: \v{S}ulgi, 47 (Schneider 44 A, a).
+\newline
+Rev. 2: Ur-nigin-gar, receiver of killed animals from \v{S}ulgi 44 to AMAR-\d{S}\'in 3, cf. \textit{SETU}, p. 223 (W. W. Hallo, \textit{HUCA} 29 (1959), pp. 80--81); cf. also our Nos. 56, 57.
+
+\end{multicols}
+
+\vspace{2em}
+\noindent \hfill 9
+
+\end{document}
+```

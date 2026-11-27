@@ -1,0 +1,71 @@
+\[
+\begin{aligned}
+e_i(\Delta\widetilde{\nu})
+={}&(\|h\|^2)_i\widetilde{\nu}\\
+&+\|h\|^2\sum_{\tau=m+1}^{n}\sum_{\ell=1}^{m}
+\varepsilon_\tau h_{i\ell}^{\tau}\,
+X\wedge e_1\wedge\cdots\wedge e_{\ell-1}
+\wedge e_\tau\wedge e_{\ell+1}\wedge\cdots\wedge e_n\\
+&+2nD_{e_i}H\wedge e_1\wedge\cdots\wedge e_n
++n\sum_{\ell=1}^{m}\sum_{\tau=m+1}^{n}
+\varepsilon_\tau h_{i\ell}^{\tau}\,
+H\wedge e_1\wedge\cdots\wedge
+\underbrace{e_\tau}_{\ell\text{-th}}\wedge\cdots\wedge e_n\\
+&-n\sum_{k=1}^{m}\varepsilon_k\delta_{ik}\,
+H\wedge e_1\wedge\cdots\wedge e_{k-1}
+\wedge e_{k+1}\wedge\cdots\wedge e_n\\
+&-n\sum_{\substack{j,k,\ell=1\\j\ne k}}^{m}
+\varepsilon_\ell\omega_{j\ell}(e_i)\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_\ell}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{D_{e_k}H}_{k\text{-th}}\wedge\cdots\wedge e_n\\
+&-n\sum_{\substack{j,k=1\\j\ne k}}^{m}
+\sum_{\tau=m+1}^{n}\varepsilon_\tau h_{ij}^{\tau}\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_\tau}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{D_{e_k}H}_{k\text{-th}}\wedge\cdots\wedge e_n\\
+&+n\sum_{\ell=1}^{m}\varepsilon_\ell
+\left\langle A_{D_{e_\ell}H}(e_i),e_\ell\right\rangle
+X\wedge e_1\wedge\cdots\wedge e_n\\
+&-n\sum_{k=1}^{m}
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{D_{e_i}D_{e_k}H}_{k\text{-th}}
+\wedge\cdots\wedge e_n\\
+&+\sum_{\substack{r,s=m+1\\r<s}}^{n}
+\sum_{\substack{j,k=1\\j\ne k}}^{m}
+\varepsilon_r\varepsilon_s
+\left\{e_i\!\left(R^{r}_{sjk}\right)X+R^{r}_{sjk}e_i\right\}
+\wedge e_1\wedge\cdots\wedge
+\underbrace{e_r}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{e_s}_{k\text{-th}}\wedge\cdots\wedge e_n\\
+&+\sum_{\substack{r,s=m+1\\r<s}}^{n}
+\sum_{\substack{j,k=1\\j\ne k}}^{m}
+\varepsilon_r\varepsilon_sR^{r}_{sjk}
+\left\{
+\sum_{\ell=1}^{m}\varepsilon_\ell\omega_{\ell\ell}(e_i)\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_\ell}_{\ell\text{-th}}\wedge\cdots\wedge
+\underbrace{e_r}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{e_s}_{k\text{-th}}\wedge\cdots\wedge e_n
+\right.\\
+&\hspace{7em}\left.
++\sum_{\tau=m+1}^{n}\varepsilon_\tau h_{i\ell}^{\tau}\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_\tau}_{\ell\text{-th}}\wedge\cdots\wedge
+\underbrace{e_r}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{e_s}_{k\text{-th}}\wedge\cdots\wedge e_n
+\right\}\\
+&+\sum_{\substack{r,s=m+1\\r<s}}^{n}
+\sum_{\substack{j,k=1\\j\ne k}}^{m}
+\varepsilon_r\varepsilon_sR^{r}_{sjk}\omega_{rs}(e_i)\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_r}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{e_r}_{k\text{-th}}\wedge\cdots\wedge e_n\\
+&-\sum_{\substack{r,s=m+1\\r<s}}^{n}
+\sum_{\substack{j,k=1\\j\ne k}}^{m}
+\varepsilon_r\varepsilon_sR^{r}_{sjk}\omega_{sr}(e_i)\,
+X\wedge e_1\wedge\cdots\wedge
+\underbrace{e_s}_{j\text{-th}}\wedge\cdots\wedge
+\underbrace{e_s}_{k\text{-th}}\wedge\cdots\wedge e_n .
+\end{aligned}
+\]

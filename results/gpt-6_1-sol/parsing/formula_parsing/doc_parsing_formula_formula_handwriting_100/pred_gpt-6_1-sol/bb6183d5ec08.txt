@@ -1,0 +1,47 @@
+\[
+\begin{aligned}
+&\mathbb{E}\!\left[
+\left.
+\frac{\displaystyle\sum_a\sum_z I\{ps=s_4\}I\{Z=z\}I\{A_a=z\}\,a(a\pm z)Y_a}{2}
+\right|X
+\right]\\
+&\qquad=
+\left[
+\frac{\displaystyle\sum_a\sum_z I\{ps=s_4\}I\{A_a=z\}\,a(a\pm z)Y_a}{2}
+\right]f(z\mid X),\\[4pt]
+&\lambda_\ell-\lambda_{\ell+1}\ge
+\begin{cases}
+w(c_\ell)+\delta(c_\ell,c_{\ell+1}),&c_\ell\le 2^{k-1},\\
+w(c_\ell)+\delta(c_\ell-k-1,c_{\ell+1}),&c_\ell>2^{k-1},
+\end{cases}\\[4pt]
+&h_{\min}(x^{s-1})>h_{\min}(x^s)>h_{\min}(x^{s+1})>\cdots>h_{\min}(x^{2^m}),\\[4pt]
+&\sum_\ell k(\widetilde u_\ell)
+\le \sum_\ell\bigl(k(u_\ell)-1\bigr)
+\le \sum_\ell k(u_\ell)-d
+\le n,\\[4pt]
+&P_0(kr)
+=P\!\left(\beta_{y(r),k(r)}=0,\ \beta_{k(r),y(r)}=0\mid y\right)\\
+&\qquad\le
+\min\!\left\{
+P\!\left(\beta_{y(r),k(r)}=0\mid y\right),
+P\!\left(\beta_{k(r),y(r)}=0\mid y\right)
+\right\},\\[4pt]
+&A_0\lesssim
+\int_0^T
+\left\|u^{3k/4}\right\|_{L_{xy}^{\infty}}
+\left\|D_x^\delta\!\left(u^{k/4}u_{xx}\right)\right\|_{L_{xy}^{2}}\,dt'
++
+\int_0^T
+\left\|D_x^\delta\!\left(u^{3k/4}\right)u^{k/4}u_{xx}\right\|_{L_{xy}^{2}}\,dt'\\
+&\qquad=A_1+A_2,\\[4pt]
+&\|Du\|_{L^1(\partial\Omega)}
+\ge
+\left\|
+\frac{|\lambda(\Omega)|}{N}(x-x_0)-1
+\right\|Du\|
+\right\|_{L^1(\partial\Omega)}\\
+&\qquad\ge
+\left\|\frac{|\lambda(\Omega)|}{N}(x-x_0)\right\|_{L^1(\partial\Omega)}
+-\|Du\|-\|1\|_{L^1(\partial\Omega)}.
+\end{aligned}
+\]

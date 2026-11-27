@@ -1,0 +1,43 @@
+```latex
+\begin{aligned}
+\int_{B(2\delta R^{-1}) \setminus B(R)} \nabla v \nabla \varphi_\alpha \, d v_{g_\alpha} &\le C \|\varphi\|_{H^1(M)} \left( \int_{B(2\delta R^{-1}) \setminus B(R)} |\nabla v|^2 dx \right)^{\frac{1}{2}} \\
+&= O(\|\varphi\|_{H^1(M)}) \varepsilon(R),
+\end{aligned}
+```
+
+```latex
+K_Y^{[1]}(u) = \begin{cases}
+K_X^{[1]}(u), & \text{if } u \notin (u_a, u_b), \\
+(a(u - u_a) + K_X^{[1]}(u_a)) \vee (b(u - u_b) + K_X^{[1]}(u_b)), & \text{if } u \in (u_a, u_b).
+\end{cases}
+```
+
+```latex
+\begin{aligned}
+f(x) + f(y) &= f(p(x)) + f(p(y)) \ge f(p(x) \to p(y)) + f(p(y) \to p(x)) = \\
+&= f(p(x \to y)) + f(p(y \to x)) = f(x \to y) + f(y \to x)
+\end{aligned}
+```
+
+```latex
+\begin{aligned}
+-q_h''\left(\frac{d(x)}{\epsilon/3}\right) + W''\left(q\left(\frac{d(x)}{\epsilon/3}\right)\right) &- 6\left(q\left(\frac{d(x)}{\epsilon/3}\right) - q\left(\frac{d(x)}{\epsilon/3}\right)^2\right) \Delta d(x) \\
+&+ 30\left(q\left(\frac{d(x)}{\epsilon/3}\right) - q\left(\frac{d(x)}{\epsilon/3}\right)^2\right)^2 \lambda_0 = 0.
+\end{aligned}
+```
+
+```latex
+\epsilon_n(\omega) = \hbar \omega n, \quad n = 0, 1, 2, \dots
+```
+
+```latex
+p[r(m_1), p(m_2)] = [r(m_1), p(m_2)] \neq 0,
+```
+
+```latex
+v(t,x,p) \approx 1, \quad \text{and} \quad |D_p^\beta v(t,x,p)| \lesssim (p^0)^{-1}, \quad |p| > 0.
+```
+
+```latex
+\underbrace{(i \omega \cdot l - (d_r(\omega, j) - d_r(\omega, k)))}_{:= b_{l,j,k}(\omega)} \psi_j^k(l) + R_j^k(l) = ([R])_j^k(l).
+```

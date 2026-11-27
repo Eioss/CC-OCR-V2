@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "GRILLED BABY POTATO (R", "cnt": "1", "price": "50,500"}, {"nm": "HOT TUNA", "cnt": "1", "price": "67,000"}, {"nm": "HOT TUNA", "cnt": "1", "price": "67,000", "discountprice": "-67,000"}], "sub_total": {"subtotal_price": "117,500", "service_price": "11,070", "tax_price": "19,557"}, "total": {"total_price": "148,127"}}
+```

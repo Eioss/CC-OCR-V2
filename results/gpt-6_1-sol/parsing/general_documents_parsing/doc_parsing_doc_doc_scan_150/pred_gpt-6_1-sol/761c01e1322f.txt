@@ -1,0 +1,145 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage[margin=1in]{geometry}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\[
+\begin{array}{c|rrrrc}
+A & 1 & 8 & 9  & 16 & \cdots \\
+B & 2 & 7 & 10 & 15 & \cdots \\
+C & 3 & 6 & 11 & 14 & \cdots \\
+D & 4 & 5 & 12 & 13 & \cdots
+\end{array}
+\]
+
+7. In which row is the number 600?
+\[
+\begin{array}{llll}
+(1)\ \text{1st row} &
+(2)\ \text{2nd row} &
+(3)\ \text{3rd row} &
+(4)\ \text{4th row}
+\end{array}
+\]
+
+8. How many columns are there in Row \(A\) if 200 is the last number?
+\[
+\begin{array}{llll}
+(1)\ 48 & (2)\ 50 & (3)\ 52 & (4)\ 54
+\end{array}
+\]
+
+9. Compute the following.
+\[
+37 + 397 + 3\,997 + 39\,997
+\]
+\[
+\begin{array}{llll}
+(1)\ 42\,284 & (2)\ 42\,482 & (3)\ 44\,248 & (4)\ 44\,428
+\end{array}
+\]
+
+10. Compute the following.
+\[
+298 + 2\,998 + 29\,998 + 299\,998
+\]
+\[
+\begin{array}{llll}
+(1)\ 333\,292 & (2)\ 334\,222 & (3)\ 334\,292 & (4)\ 335\,222
+\end{array}
+\]
+
+11. Compute the following.
+\[
+9 + 99 + 999 + 9\,999 + 99\,999
+\]
+\[
+\begin{array}{llll}
+(1)\ 110\,215 & (2)\ 110\,745 & (3)\ 110\,995 & (4)\ 111\,105
+\end{array}
+\]
+
+12. A farmer has 45 chickens and rabbits. There are 140 legs altogether.
+How many chickens does the farmer have? How many rabbits does the farmer have?
+\[
+\begin{array}{llll}
+(1)\ 24 & (2)\ 25 & (3)\ 26 & (4)\ 27
+\end{array}
+\]
+
+13. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies
+have 200 legs altogether. How many spiders are there? How many dragonflies
+are there?
+\[
+\begin{array}{llll}
+(1)\ 10 & (2)\ 11 & (3)\ 12 & (4)\ 13
+\end{array}
+\]
+
+14. Find the values of A and B in the following.
+
+\begin{center}
+\begin{tikzpicture}[scale=1.2]
+  \begin{scope}
+    \coordinate (T) at (1,1.732);
+    \coordinate (L) at (0,0);
+    \coordinate (R) at (2,0);
+    \coordinate (ML) at (0.5,0.866);
+    \coordinate (MR) at (1.5,0.866);
+    \coordinate (MB) at (1,0);
+    \fill[gray!25] (ML)--(MR)--(MB)--cycle;
+    \draw (T)--(L)--(R)--cycle;
+    \draw (ML)--(MR)--(MB)--cycle;
+    \node at (1,1.20) {18};
+    \node at (1,0.58) {10};
+    \node at (0.5,0.25) {12};
+    \node at (1.5,0.25) {16};
+  \end{scope}
+
+  \begin{scope}[xshift=3cm]
+    \coordinate (T) at (1,1.732);
+    \coordinate (L) at (0,0);
+    \coordinate (R) at (2,0);
+    \coordinate (ML) at (0.5,0.866);
+    \coordinate (MR) at (1.5,0.866);
+    \coordinate (MB) at (1,0);
+    \fill[gray!25] (ML)--(MR)--(MB)--cycle;
+    \draw (T)--(L)--(R)--cycle;
+    \draw (ML)--(MR)--(MB)--cycle;
+    \node at (1,1.20) {34};
+    \node at (1,0.58) {\(A\)};
+    \node at (0.5,0.25) {25};
+    \node at (1.5,0.25) {15};
+  \end{scope}
+
+  \begin{scope}[xshift=6cm]
+    \coordinate (T) at (1,1.732);
+    \coordinate (L) at (0,0);
+    \coordinate (R) at (2,0);
+    \coordinate (ML) at (0.5,0.866);
+    \coordinate (MR) at (1.5,0.866);
+    \coordinate (MB) at (1,0);
+    \fill[gray!25] (ML)--(MR)--(MB)--cycle;
+    \draw (T)--(L)--(R)--cycle;
+    \draw (ML)--(MR)--(MB)--cycle;
+    \node at (1,1.20) {20};
+    \node at (1,0.58) {22};
+    \node at (0.5,0.25) {\(B\)};
+    \node at (1.5,0.25) {18};
+  \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\[
+\begin{array}{ll}
+(1)\ A=6,\ B=18 & (3)\ A=8,\ B=20 \\[4pt]
+(2)\ A=6,\ B=24 & (4)\ A=8,\ B=22
+\end{array}
+\]
+
+\end{document}
+```

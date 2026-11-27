@@ -1,0 +1,19 @@
+```json
+[
+  {"bbox_2d": [15, 464, 198, 492], "label": "Arrival Time/到店时间"},
+  {"bbox_2d": [417, 390, 612, 419], "label": "Bill No./账单号"},
+  {"bbox_2d": [809, 613, 897, 644], "label": "Credit/付款"},
+  {"bbox_2d": [38, 654, 114, 679], "label": "Date/日期"},
+  {"bbox_2d": [695, 719, 777, 746], "label": "Debit/消费"},
+  {"bbox_2d": [15, 520, 198, 549], "label": "Departure Time/离店时间"},
+  {"bbox_2d": [181, 649, 316, 676], "label": "Description/项目"},
+  {"bbox_2d": [68, 314, 198, 342], "label": "Name/宾客姓名"},
+  {"bbox_2d": [417, 452, 550, 481], "label": "Operator/操作员"},
+  {"bbox_2d": [417, 483, 575, 511], "label": "Print Time/打印时间"},
+  {"bbox_2d": [417, 353, 575, 381], "label": "Res.No./预订单号"},
+  {"bbox_2d": [15, 415, 198, 444], "label": "Room No./房间号码"},
+  {"bbox_2d": [501, 654, 598, 679], "label": "Room No/房号"},
+  {"bbox_2d": [15, 568, 130, 596], "label": "公司名"},
+  {"bbox_2d": [342, 198, 584, 235], "label": "标题"}
+]
+```

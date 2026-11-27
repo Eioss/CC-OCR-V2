@@ -1,0 +1,21 @@
+```latex
+\pi(k, z, \theta \mid y, p, p, r) \propto \frac{(2\pi)^{-n/2}}{v^{k+1}\sigma^n} p^k (1-p)^{n-k-1} \\
+\prod_{j=1}^{k+1} \left( T_j - T_{j-1} + \frac{1}{v^2} \right)^{1/2} \exp\left\{ -\frac{1}{2\sigma^2} \left( SS_j + \frac{\mu_0^2}{v^2} - \frac{(S_j + \frac{\mu_0}{v^2})^2}{T_j - T_{j-1} + \frac{1}{v^2}} \right) \right\}
+
+R_n'(t) := \frac{r(2^n + P_n^N)}{4} \left( \frac{(1 + 2^{n-1} y_{n+1}^N)^2}{(1 + 2^n y_n^N)} - 1 \right) (P_{n+1}^N - P_n^N) \\
+- \bar{\mu}_n (A^N(A^N(t), P^N(t)) r(2^{n+1} + P_{n+1}^N) \left( \frac{(1 + 2^{n+1} y_{n+1}^N)}{(1 + 2^n y_n^N)} - 1 \right) (P_n^N - P_{n+1}^N),
+
+\mathrm{gen}_H(f^{c_2}) \le \mathrm{gen}_H(f^{c_1}) + \#\{(-u_i, u_i) : c_1 \le f(u_i) \le c_2, f'(u_i) = 0\},
+
+P(T_* \in A \mid \min_{a \le t \le b} X(t) > u) \\
+= \frac{\int_0^\infty \exp\{-ux / \sigma_*^2(a,b)\} P(Y \le x, \min_{a \le t \le b} X(t) > 0, T_* \in A) \, dx}{\int_0^\infty \exp\{-ux / \sigma_*^2(a,b)\} P(Y \le x, \min_{a \le t \le b} X(t) > 0) \, dx},
+
+S_j \ge \frac{(1 + 9\varepsilon/10)d - 2^j}{2^j} \ge \frac{1 + 9\varepsilon/10}{1 + \varepsilon/10} d_j - 1 \ge (1 + 7\varepsilon/10) d_j.
+
+I^{\mathrm{syn}}(\alpha_1 \boxdot \alpha_2) \subseteq I^{\mathrm{syn}}(\alpha_1' \boxdot \alpha_2') \text{ and } O^{\mathrm{syn}}(\alpha_1 \boxdot \alpha_2) \subseteq O^{\mathrm{syn}}(\alpha_1' \boxdot \alpha_2').
+
+x = (0, 0, \dots, 0, x_{l+1}, \dots, x_n)
+
+\frac{t_i}{64(1 + t_i d(x_i, \partial B_R)^{-4})} f_{k,i}(x,t) \le \frac{(t_i + \frac{t}{\sigma_i})}{1 + (t_i + \frac{t}{\sigma_i}) d(x_i + \frac{x}{\sqrt{\sigma_i}}, \partial B_R)^{-4}} f_{k,i}(x,t) \\
+\le \frac{t_i}{1 + t_i d(x_i, \partial B_R)^{-4}} f_{k,i}(0,0).
+```

@@ -1,0 +1,15 @@
+```json
+{
+  "date_issue": "Sep/27/2021",
+  "date_due": "Sep/28/2021",
+  "order_id": "039747",
+  "vendor_name": "Katz Media Group",
+  "vendor_address": "125 West 55th\n3rd Floor\nNew York, NY 10019-5366\nUnited States",
+  "customer_billing_name": "GMMB Inc",
+  "customer_billing_address": "3050 K Street NW, Suite 100\nWashington, DC 20007-3606",
+  "customer_other_name": "",
+  "amount_total_gross": "38,237.25",
+  "amount_paid": "38,237.25",
+  "amount_due": "0.00"
+}
+```

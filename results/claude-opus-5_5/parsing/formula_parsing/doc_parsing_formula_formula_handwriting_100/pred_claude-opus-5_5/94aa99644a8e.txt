@@ -1,0 +1,32 @@
+```latex
+\begin{aligned}
+|TX^R|_{L^r_\omega L^\infty_{[0,T]} L^2_x} &\le |X_0|_{L^r_\omega L^2_x} + \left| \int_0^t S_\beta(t,s)\,\theta_R(X^R)(s)\,|X^R(s)|^{2\sigma} X^R(s)\,ds \right|_{L^r_\omega L^\infty_{[0,T]} L^2_x} \\
+&\le |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\bar\beta} \left| \theta_R(X^R)\,|X^R|^{2\sigma+1} \right|_{L^r_\omega L^{r'}_{[0,T]} L^{p'}_x} \\
+&= |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\bar\beta} \left| \left[ \int_0^T \theta_R(X^R)^{r'}(t) \left( \int_\Gamma |X^R(t)|^{(2\sigma+1)p'}\,dx \right)^{\frac{r'}{p'}} dt \right]^{1/r'} \right|_{L^r_\omega}
+\end{aligned}
+
+\text{Since } p' = \frac{2\sigma+2}{2\sigma+1}, \text{ the right hand side equals}
+
+\begin{aligned}
+&= |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\bar\beta} \left| \left( \int_0^T \theta_R(X^R)^{r'}(t)\, |X^R(t)|_{L^p_x}^{(2\sigma+1)r'}\,dt \right)^{\frac{1}{r'}} \right|_{L^r_\omega}
+\end{aligned}
+
+\text{Since } r \ge p = 2\sigma+2, \text{ we can apply H\"older's inequality to get}
+
+\begin{aligned}
+&\le |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\bar\beta} \left| \left( \int_0^T [\theta_R(X^R)(t)]^{r/(2\sigma+1)}\, |X^R(t)|_{L^p_x}^{r}\,dt \right)^{\frac{2\sigma+1}{r}} T^{\frac{r-r'(2\sigma+1)}{rr'}} \right|_{L^r_\omega}
+\end{aligned}
+
+\text{Letting } \tilde t(\omega) := \inf\{ s : |X^R(\omega)|_{L^r([0,s];L^p_x)} \ge 2R \}, \text{ from definition of } \theta_R \text{ in (??), we have}
+
+\begin{aligned}
+&= |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\tilde\beta} \left| \left( \int_0^{\tilde t} [\theta_R(X^R)(t)]^{r/(2\sigma+1)}\, |X^R(t)|_{L^p_x}^{r}\,dt \right)^{\frac{2\sigma+1}{r}} \right|_{L^r_\omega}
+\end{aligned}
+
+\text{where } \tilde\beta = \bar\beta + \frac{r-r'(2\sigma+1)}{rr'} > 0. \text{ Furthermore,}
+
+\begin{aligned}
+&\le |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\tilde\beta} \left| \left( \int_0^{\tilde t} |X^R(t)|_{L^p_x}^{r}\,dt \right)^{\frac{2\sigma+1}{r}} \right|_{L^r_\omega} \\
+&\le |X_0|_{L^r_\omega L^2_x} + C_{r,p} T^{\tilde\beta} (2R)^{2\sigma} |X^R|_{L^r_\omega L^r_{[0,T]} L^p_x},
+\end{aligned}
+```

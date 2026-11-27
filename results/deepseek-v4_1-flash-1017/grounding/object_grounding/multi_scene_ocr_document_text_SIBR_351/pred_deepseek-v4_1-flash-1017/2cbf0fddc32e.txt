@@ -1,0 +1,19 @@
+```json
+[
+  {"bbox_2d": [576, 190, 714, 212], "label": "入住日期 CHECK IN"},
+  {"bbox_2d": [133, 344, 347, 361], "label": "协议单位 AGENT"},
+  {"bbox_2d": [157, 721, 260, 739], "label": "合计金额 AMOUNT"},
+  {"bbox_2d": [122, 208, 287, 227], "label": "客户名称 GUEST NAME"},
+  {"bbox_2d": [157, 772, 310, 790], "label": "已收定金 DEPOSIT RECEIVED"},
+  {"bbox_2d": [133, 300, 287, 318], "label": "帐号 ACCOUNT NUM"},
+  {"bbox_2d": [133, 256, 260, 275], "label": "房号 ROOM NUMBER"},
+  {"bbox_2d": [180, 643, 240, 661], "label": "房费"},
+  {"bbox_2d": [386, 391, 620, 409], "label": "摘要 DESCRIPTION"},
+  {"bbox_2d": [548, 836, 650, 855], "label": "收款员 CASHIER"},
+  {"bbox_2d": [168, 401, 285, 419], "label": "日期DATE"},
+  {"bbox_2d": [342, 126, 646, 183], "label": "标题"},
+  {"bbox_2d": [576, 242, 714, 263], "label": "离店日期 CHECK OUT"},
+  {"bbox_2d": [578, 952, 700, 971], "label": "第二联 The second"},
+  {"bbox_2d": [698, 387, 860, 405], "label": "金额 AMOUNT"}
+]
+```

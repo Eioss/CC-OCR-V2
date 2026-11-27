@@ -1,0 +1,17 @@
+Looking at the **Content Strategy** chart, the gray bars represent the **Number of Posts** for each content category. I need to count categories where posts exceed 100:
+
+- Promotions: **133** ✓
+- Engagement Oriented Posts: 83 ✗
+- Corporate Social Responsibility: 33 ✗
+- Question to Fans: **140** ✓
+- Events: 88 ✗
+- Careers: 7 ✗
+- Ad Campaigns: 10 ✗
+- Contests: **109** ✓
+- FB App: 6 ✗
+- Customer Loyalty Programs: 89 ✗
+- Brand News: **103** ✓
+
+Four categories have more than 100 posts.
+
+**Answer: 4**

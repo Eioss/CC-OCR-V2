@@ -1,0 +1,133 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{fontspec}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\noindent অয়োময় \hfill ৪৭ \hfill ১৩৭
+
+\begin{center}
+    {\Large Ka Set}\\[6pt]
+    {\large\bfseries JUNIOR SCHOOL CERTIFICATE EXAMINATION,}\\[5pt]
+    {\large ENGLISH}\\[5pt]
+    {\large SECOND PAPER}
+\end{center}
+
+\begin{flushright}
+    \textbf{Subject Code :}\quad
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{1} & \textbf{0} & \textbf{8}\\
+        \hline
+    \end{tabular}
+\end{flushright}
+
+\begin{center}
+    Time---2 hours\\[5pt]
+    Full marks---50
+\end{center}
+
+\begin{center}
+    \textit{[N.B.---The figures in the right margin indicate full marks.]}
+\end{center}
+
+\begin{center}
+    {\large\bfseries Section A---Grammar}\\
+    Marks---30
+\end{center}
+
+\begin{flushright}
+    Marks
+\end{flushright}
+
+\begin{enumerate}
+    \item
+    Fill in the gaps of the following text with appropriate articles.
+    Put a cross ($\times$) where there is no article applicable :---
+    \hfill
+    \(\begin{gathered}0.5\times6\\=3\end{gathered}\)
+
+    I live in Rajshahi. My elder brother who is \textit{(a)}
+    \underline{\hspace{1.3cm}} engineer, works in Dhaka. Last summer
+    he asked me to stay \textit{(b)} \underline{\hspace{1.3cm}} few
+    days with him and sent me \textit{(c)}
+    \underline{\hspace{1.3cm}} plane ticket. That was my first journey
+    by air. I arrived at \textit{(d)} \underline{\hspace{1.3cm}} airport
+    about \textit{(e)} \underline{\hspace{1.3cm}} hour before the flight.
+    It was \textit{(f)} \underline{\hspace{1.3cm}} enjoyable plane journey.
+
+    \item
+    Fill in the blanks of the following text with prepositions given
+    in the box :---
+    \hfill
+    \(\begin{gathered}0.5\times6\\=3\end{gathered}\)
+
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|}
+            \hline
+            \hspace{0.4cm}for\hspace{0.4cm} &
+            \hspace{0.4cm}to\hspace{0.4cm} &
+            \hspace{0.4cm}in\hspace{0.4cm} &
+            \hspace{0.4cm}with\hspace{0.4cm} &
+            \hspace{0.8cm}about\hspace{0.8cm} &
+            \hspace{0.3cm}after\hspace{0.3cm}\\
+            \hline
+        \end{tabular}
+    \end{center}
+
+    Money is a must \textit{(a)} \underline{\hspace{1.3cm}} our life.
+    But one should not run after money because those who hanker
+    \textit{(b)} \underline{\hspace{1.3cm}} money cannot enjoy mental
+    peace. Sometimes, it may lead one \textit{(c)}
+    \underline{\hspace{1.3cm}} some unexpected troubles. It also happens
+    that greed \textit{(d)} \underline{\hspace{1.3cm}} money brings
+    \textit{(e)} \underline{\hspace{1.3cm}} many problems. So we should
+    be contented \textit{(f)} \underline{\hspace{1.3cm}} what we have.
+
+    \item
+    Make four meaningful sentences from the substitution table :---
+    \hfill \(1\times4=4\)
+
+    \begin{center}
+        \begin{tabular}{|>{\centering\arraybackslash}p{3.1cm}|
+                         >{\centering\arraybackslash}p{1cm}|
+                         p{6cm}|}
+            \hline
+            \multirow{4}{3.1cm}{%
+                \centering
+                Youth\\[0.8cm]
+                It\\[0.8cm]
+                We\\[0.6cm]
+                Thus our future
+            }
+            &
+            \multirow{4}{1cm}{%
+                \centering
+                is\\[0.9cm]
+                must\\[0.8cm]
+                will
+            }
+            &
+            be built properly.\rule{0pt}{1.1cm}\\
+            \cline{3-3}
+            & & the time of sowing seeds of life.\rule{0pt}{0.7cm}\\
+            \cline{3-3}
+            & & sow the seeds of industry and honesty in this time.
+                \rule{0pt}{2.1cm}\\
+            \cline{3-3}
+            & & the best time of life.\rule{0pt}{0.6cm}\\
+            \hline
+        \end{tabular}
+    \end{center}
+\end{enumerate}
+
+\begin{flushright}
+    \textit{[Please turn over}
+\end{flushright}
+
+\end{document}
+```

@@ -1,0 +1,5 @@
+The text "¥ 30.0" appears twice on the receipt. This box is for the first one, the amount next to 应收额 (amount due):
+
+(251, 382, 360, 416)
+
+The second "¥ 30.0", next to 实收额 (amount received), is at about (665, 380, 780, 414).

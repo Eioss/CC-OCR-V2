@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "COPIA 1 /GB", "num": "2100252000358", "cnt": "1", "unitprice": "45,000.00", "price": "45,000.00"}, {"nm": "PLASTIC BAG RED CENTRAL SI", "num": "9100544260074", "cnt": "1", "unitprice": "0.00", "price": "0.00"}, {"nm": "COPIA 1 /GB", "num": "2100252000358", "cnt": "1", "unitprice": "18,000.00", "price": "18,000.00"}], "sub_total": {"discount_price": "0.00"}, "total": {"total_price": "63,000.00", "total_qty": "3", "creditcardprice": "63,000.00"}}
+```

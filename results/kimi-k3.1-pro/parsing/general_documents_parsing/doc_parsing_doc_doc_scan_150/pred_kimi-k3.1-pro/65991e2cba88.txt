@@ -1,0 +1,111 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\newcommand{\blank}[1]{\rule{#1}{0.4pt}}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.24\textwidth}
+\textbf{CLASS : IV}
+\end{minipage}%
+\begin{minipage}[t]{0.72\textwidth}
+\centering
+\textbf{MODEL QUESTION PAPER}\\
+\textbf{SUB:MATHS}
+\end{minipage}
+
+\vspace{0.5em}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.8}
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+COMP & \shortstack{ENC\\(15)} & \shortstack{UBC\\(20)} &
+\shortstack{AIC\\(20)} & \shortstack{PSA\\(15)} &
+\shortstack{ORAL\\(30)} & \shortstack{Total\\(100)} & Tr's sign \\
+\hline
+MARKS & & & & & & & \\
+\hline
+GRADE & & & & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\underline{\textbf{I. FORMING NUMBERS CORRECTLY} (15 marks)}
+\end{center}
+
+(1) \underline{\textbf{Fill in the blanks.}} \hfill (5x1=5)
+
+\vspace{0.5em}
+
+\hspace*{1em}a. Arrange 5, 3, 7, 2 to form the smallest 4 digit number
+\blank{3cm}
+
+\hspace*{3em}and the greatest 4 digit number \blank{3cm}
+
+\hspace*{1em}b. \(1000 + 300 + 4 =\) \blank{4cm}
+
+\hspace*{1em}c. Expand \(4287 = 4000 +\) \blank{3cm} \(+\) \blank{2cm} \(+ 7\)
+
+\hspace*{1em}d. 1 kilometre = \blank{2.5cm} metres and 1 metre = \blank{2cm} cm
+
+\hspace*{1em}e. A brick has \blank{2cm} faces and \blank{2.5cm} edges.
+
+\vspace{0.5em}
+
+(2) \underline{\textbf{Do as directed.}} \hfill (5x2= 10)
+
+\vspace{0.5em}
+
+(i) \underline{\textbf{Write the place value of 4 in each number.}}
+
+\vspace{0.5em}
+
+\hspace*{1em}
+\fbox{%
+\begin{tabular}{cccc}
+4 & 6 & 0 & 9 \\[2em]
+6 & 3 & 4 & 7
+\end{tabular}%
+}
+\hspace{1cm}
+\begin{tabular}{c}
+\(\longrightarrow\) \blank{4cm} \\[2em]
+\(\longrightarrow\) \blank{4cm}
+\end{tabular}
+
+\vspace{0.5em}
+
+(ii) \underline{\textbf{Encircle the pairs of numbers which when added makes more than 500?}}
+
+\hspace*{2em}a. 152 and 241
+
+\hspace*{2em}b. 321 and 192
+
+\hspace*{2em}c. 420 and 184
+
+\hspace*{2em}d. 209 and 290
+
+\vspace{0.5em}
+
+(iii) \underline{\textbf{Express as 24- hours clock time}}
+
+\hspace*{2em}a. 3.15 a.m \blank{4cm}
+
+\hspace*{2em}b. 7.40 p.m \blank{4cm}
+
+\vspace{0.5em}
+
+(iv) \underline{\textbf{In a circle, if the lengths of the:}}
+
+\hspace*{2em}(a) Radius is 4 cm, then the Diameter is \blank{3cm}
+
+\hspace*{2em}(b) Diameter is 12 cm, then the Radius is \blank{3cm}
+
+\end{document}
+```

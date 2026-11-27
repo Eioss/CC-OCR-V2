@@ -1,0 +1,53 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\begin{document}
+
+\section*{Exercises}
+
+\textit{\textbf{Concept Check}} In Exercises 1--4, decide whether each statement is true or false.
+
+\begin{enumerate}[label=\textbf{\arabic*.}]
+  \item The solution set of $2x + 5 = x - 3$ is $\{-8\}$.
+  \item The equation $5(x - 8) = 5x - 40$ is an example of an identity.
+  \item The equations $x^2 = 4$ and $x + 2 = 4$ are equivalent equations.
+  \item It is possible for a linear equation to have exactly two solutions.
+  \item Explain the difference between an identity and a conditional equation.
+  \item Make a complete list of the steps needed to solve a linear equation. (Some equations will not require every step.)
+  \item \textit{\textbf{Concept Check}} Which one is not a linear equation?
+
+  \begin{tabular}{ll}
+    \textbf{A.} $5x + 7(x - 1) = -3x$ \qquad & \textbf{B.} $9x^2 - 4x + 3 = 0$ \\[4pt]
+    \textbf{C.} $7x + 8x = 13x$ & \textbf{D.} $0.04x - 0.08x = 0.40$
+  \end{tabular}
+
+  \item In solving the equation $3(2x - 8) = 6x - 24$, a student obtains the result $0 = 0$ and gives the solution set $\{0\}$. Is this correct? Explain.
+\end{enumerate}
+
+\noindent\textit{Solve each equation. See Examples 1 and 2.}
+
+\begin{tabular}{p{0.47\textwidth}p{0.47\textwidth}}
+\textbf{9.} $5x + 4 = 3x - 4$ & \textbf{10.} $9x + 11 = 7x + 1$ \\[8pt]
+\textbf{11.} $6(3x - 1) = 8 - (10x - 14)$ & \textbf{12.} $4(-2x + 1) = 6 - (2x - 4)$ \\[8pt]
+\textbf{13.} $\dfrac{5}{6}x - 2x + \dfrac{4}{3} = \dfrac{5}{3}$ & \textbf{14.} $\dfrac{7}{4} + \dfrac{1}{5}x - \dfrac{3}{2} = \dfrac{4}{5}x$ \\[10pt]
+\textbf{15.} $3x + 5 - 5(x + 1) = 6x + 7$ & \textbf{16.} $5(x + 3) + 4x - 3 = -(2x - 4) + 2$ \\[8pt]
+\textbf{17.} $2[x - (4 + 2x) + 3] = 2x + 2$ & \textbf{18.} $4[2x - (3 - x) + 5] = -6x - 28$ \\[8pt]
+\textbf{19.} $\dfrac{1}{14}(3x - 2) = \dfrac{x + 10}{10}$ & \textbf{20.} $\dfrac{1}{15}(2x + 5) = \dfrac{x + 2}{9}$ \\[10pt]
+\textbf{21.} $0.2x - 0.5 = 0.1x + 7$ & \textbf{22.} $0.01x + 3.1 = 2.03x - 2.96$ \\[8pt]
+\textbf{23.} $-4(2x - 6) + 8x = 5x + 24 + x$ & \textbf{24.} $-8(3x + 4) + 6x = 4(x - 8) + 4x$ \\[8pt]
+\textbf{25.} $0.5x + \dfrac{4}{3}x = x + 10$ & \textbf{26.} $\dfrac{2}{3}x + 0.25x = x + 2$ \\[10pt]
+\textbf{27.} $0.08x + 0.06(x + 12) = 7.72$ & \textbf{28.} $0.04(x - 12) + 0.06x = 1.52$ \\
+\end{tabular}
+
+\vspace{8pt}
+\noindent\textit{Determine whether each equation is an identity, a conditional} [\ldots] \textit{tion. Give the solution set. See Example 3} [\ldots]
+
+\end{document}
+```
+
+Notes on the transcription:
+- Exercises 3, 7, 20, and 25 are circled in the original image (hand-marked), and exercises 5, 6, and 8 have a writing-exercise icon. These are annotations and are not reproduced in the LaTeX.
+- The final instruction line is cut off at the bottom and right edge of the image. Bracketed ellipses mark the missing text.

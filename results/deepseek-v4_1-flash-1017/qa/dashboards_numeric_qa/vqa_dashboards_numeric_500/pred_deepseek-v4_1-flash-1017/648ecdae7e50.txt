@@ -1,0 +1,6 @@
+Based on the table at the bottom of the infographic titled "VMware vSphere vs. Microsoft Hyper-V," there are **3** different types of Microsoft Hyper-V editions listed.
+
+They are:
+1.  **Microsoft Hyper-V Standard**
+2.  **Microsoft Hyper-V Ent. Plus** (Enterprise Plus)
+3.  **Microsoft Hyper-V DC** (Datacenter)

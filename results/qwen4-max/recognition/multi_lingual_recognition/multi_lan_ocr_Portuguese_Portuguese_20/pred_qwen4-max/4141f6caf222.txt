@@ -1,0 +1,23 @@
+Capítulo 6 A sabedoria e a loucura dos pen tests
+
+Mas de ficaria contente de pular outra parte do teste. Se não precisar tentar entrar no edifício, não fará isso. Para ele, esse é o último recurso, mesmo portando seu cartão de passe livre da prisão. "Se alguma coisa der errado, provavelmente será quando estiver tentando entrar num edifício sem ser notado pelos seguranças ou por algum funcionário desconfiado."
+
+Finalmente, a equipe de pen test também precisa saber qual é o Santo Graal. Nesse jogo muito arriscado de investigação eletrônica, é vital saber isso. Para a indústria farmacêutica, o Santo Graal eram seus registros financeiros, seus clientes, seus fornecedores, seus processos de manufatura e seus arquivos sobre projetos de P&D.
+
+Planejando
+
+O plano de Dustin para o teste exigia que ele começasse com o chamado 'running silent'. ou seja, funcionando silenciosamente: manter pouca visibilidade e se tornar, pouco a pouco, cada vez mais visível, até que alguém acabasse notando e levantasse a bandeira. Essa abordagem nasce da filosofia de Dustin sobre projetos pen test, aos quais ele se refere como trabalho em equipe.
+
+O que tento realizar nos trabalhos em equipe provém da postura defensiva que vejo as empresas assumindo. Eles pensam: "Vamos assumir o modo de pensar do atacante. Como nos defenderíamos contra ele?". Isso já é um golpe contra eles, que não sabem como vão agir ou reagir, a menos que tenham consciência do que é importante para si.
+
+Concordo. Como Sun Tzu escreveu: "Conhece teu inimigo e a ti mesmo, e serás vitorioso". Todos os pen tests completos — quando o cliente concorda — usam os mesmos tipos de ataque descritos neste capítulo.
+
+Identificamos quatro áreas em nossa metodologia: entrada técnica na rede, que trata em grande parte do que falamos; engenharia social, [que para nos também inclui] escutar secretamente e o surfe de ombro; 'virar latas', e também a entrada física. Então, essas são as quatro áreas.
+
+{Surfe de ombro é uma expressão interessante usada para se referir à observação clandestina da senha de um funcionário no momento em que ele a digita. Um atacante hábil nessa arte aprendeu a observar os dedos com cuidado suficiente para saber o que a pessoa digitou, mesmo fingindo não estar prestando atenção.)
+
+Ataque!
+
+No primeiro dia, Dustin entrou no saguão da Biotech. À direita da guarita havia um banheiro e o refeitório da empresa, ambos acessíveis aos visitantes. Do outro lado da guarita estava a mesma sala de conferência onde a equipe de Dustin tinha se reunido para seu primeiro encontro com os executivos da Biotech. O guarda estava posicionado no centro para vigiar o acesso a entradas seguras, mas a sala
+
+109

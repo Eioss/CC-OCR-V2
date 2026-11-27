@@ -1,0 +1,44 @@
+<table>
+  <tr>
+    <td>Procedure</td>
+    <td>2010–11</td>
+    <td>2011–12</td>
+    <td>2012–13</td>
+    <td>2013–14</td>
+  </tr>
+  <tr>
+    <td>Whole Blood</td>
+    <td>168</td>
+    <td>265</td>
+    <td>308</td>
+    <td>307</td>
+  </tr>
+  <tr>
+    <td>Plasmapheresis</td>
+    <td>82</td>
+    <td>92</td>
+    <td>120</td>
+    <td>158</td>
+  </tr>
+  <tr>
+    <td>Plateletpheresis</td>
+    <td>177</td>
+    <td>288</td>
+    <td>449</td>
+    <td>935</td>
+  </tr>
+  <tr>
+    <td>All apheresis</td>
+    <td>90</td>
+    <td>111</td>
+    <td>146</td>
+    <td>212</td>
+  </tr>
+  <tr>
+    <td>Total procedures</td>
+    <td>190</td>
+    <td>220</td>
+    <td>251</td>
+    <td>26</td>
+  </tr>
+</table>

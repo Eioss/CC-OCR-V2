@@ -1,0 +1,31 @@
+```json
+[
+  {"bbox_2d": [191, 59, 666, 91], "label": "Company Name"},
+  {"bbox_2d": [370, 116, 594, 138], "label": "Title"},
+  {"bbox_2d": [161, 186, 437, 203], "label": "Company Name"},
+  {"bbox_2d": [161, 205, 437, 222], "label": "Address"},
+  {"bbox_2d": [161, 241, 301, 257], "label": "Tel"},
+  {"bbox_2d": [161, 262, 301, 278], "label": "Fax;"},
+  {"bbox_2d": [161, 282, 301, 298], "label": "Contact"},
+  {"bbox_2d": [452, 186, 600, 203], "label": "Date"},
+  {"bbox_2d": [452, 205, 600, 222], "label": "Contract No."},
+  {"bbox_2d": [452, 225, 850, 241], "label": "Name of Bank"},
+  {"bbox_2d": [452, 244, 850, 260], "label": "Bank Address"},
+  {"bbox_2d": [452, 263, 850, 279], "label": "Account No."},
+  {"bbox_2d": [452, 282, 850, 298], "label": "SWIFT Code"},
+  {"bbox_2d": [452, 301, 850, 317], "label": "Payment"},
+  {"bbox_2d": [64, 342, 200, 358], "label": "Address"},
+  {"bbox_2d": [64, 361, 400, 377], "label": "Consignee"},
+  {"bbox_2d": [64, 380, 200, 396], "label": "Tel"},
+  {"bbox_2d": [64, 399, 200, 415], "label": "Fax"},
+  {"bbox_2d": [64, 454, 200, 470], "label": "P/O No."},
+  {"bbox_2d": [452, 454, 600, 470], "label": "Shipment"},
+  {"bbox_2d": [64, 530, 120, 546], "label": "Item"},
+  {"bbox_2d": [250, 530, 550, 546], "label": "Name&Description of Goods"},
+  {"bbox_2d": [590, 530, 660, 546], "label": "Quantity (KGS)"},
+  {"bbox_2d": [680, 530, 750, 546], "label": "Price (USD/KG)"},
+  {"bbox_2d": [780, 530, 850, 546], "label": "Amount (USD)"},
+  {"bbox_2d": [780, 600, 850, 616], "label": "Amount (USD)"},
+  {"bbox_2d": [520, 675, 850, 695], "label": "FOB SHANGHAI"}
+]
+```

@@ -1,0 +1,28 @@
+```html
+<table>
+  <tr>
+    <td>length</td>
+    <td>R<sub>1</sub></td>
+    <td>R<sub>2</sub></td>
+    <td>R<sub>L</sub></td>
+  </tr>
+  <tr>
+    <td>1024</td>
+    <td>38.39</td>
+    <td>10.60</td>
+    <td>22.86</td>
+  </tr>
+  <tr>
+    <td>2048</td>
+    <td><b>38.73</b></td>
+    <td><b>10.82</b></td>
+    <td><b>23.05</b></td>
+  </tr>
+  <tr>
+    <td>3072</td>
+    <td>38.30</td>
+    <td>10.34</td>
+    <td>22.57</td>
+  </tr>
+</table>
+```

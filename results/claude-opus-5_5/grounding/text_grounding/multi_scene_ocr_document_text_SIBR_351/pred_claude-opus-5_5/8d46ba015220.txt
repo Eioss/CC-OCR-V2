@@ -1,0 +1,3 @@
+There are several instances of "0.00" on this receipt. The bounding box below is for the first one, next to "门诊大额支付" (outpatient large-amount payment):
+
+(325, 720, 353, 739)

@@ -1,0 +1,5 @@
+Looking at the medical receipt, I need to locate the text '社区医院' which appears in the medical institution type field area.
+
+The text '社区医院' is positioned in the upper portion of the document, near the medical institution type label. Based on its location:
+
+(518, 152, 608, 187)

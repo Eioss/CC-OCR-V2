@@ -1,0 +1,15 @@
+$$\langle x , y \rangle \equiv \sum _ { \tau \in \Gamma / \Gamma _ { n } } ( \tau ^ { - 1 } \mathrm { p r } _ { n } ^ { \prime } ( x ) , \mathrm { p r } _ { n } ( y ) ) _ { n } \tau \mod ( \gamma _ { n } - 1 )$$
+
+$$\int _ { U _ { n } ( n ^ { - 1 / 2 + \varepsilon } ) } \phi _ { 1 } ^ { * } e ^ { - a _ { n } { \vec { \theta } } ^ { \top } { \hat { Q } } { \vec { \theta } } - R _ { 1 } ( { \vec { \theta } } ) } d { \vec { \theta } } \leq c ^ { \prime } n ^ { 2 } \int _ { U _ { n } ( n ^ { - 1 / 2 + \varepsilon } ) } e ^ { - a _ { n } { \vec { \theta } } ^ { \top } { \hat { Q } } { \vec { \theta } } - R _ { 1 } ( { \vec { \theta } } ) } d { \vec { \theta } } +$$
+
+$$+ O ( \exp ( - c n ^ { 2 \varepsilon } ) ) \int _ { \mathbb { R } ^ { n } } e ^ { - a _ { n } { \vec { \theta } } ^ { \top } { \hat { Q } } { \vec { \theta } } } d { \vec { \theta } }$$
+
+$$\sqrt { q _ { r } } \epsilon _ { ( q r ) } { * \tilde { c } \, \delta } _ { \tilde { c } | h + B \tilde { r } } \sum _ { x ( q r ) } ^ { * } e \left( \frac { \kappa \bar { x } } { q r } \right) \chi _ { ( q r ) } { * ( x ) } e \left( \frac { - \overline { { { 4 \pi } } } \gamma ^ { 2 } } { q r } \right)$$
+
+$$( { \bf G } _ { \Lambda ^ { ( r , k , m ) } } ( | a | , | b | ) ) = \left\{ \sum _ { k = - \infty } ^ { \infty } | a _ { n + k } b _ { n - k } | \Lambda _ { k } ^ { ( r , k , m ) } \right\} _ { n = - \infty } ^ { \infty } .$$
+
+$$( 1 / \sqrt { N } ) \sin ( \sqrt { N } \eta t ) \sum _ { j = 1 } ^ { N } | 1 \rangle _ { 1 } \cdots | 0 \rangle _ { j } \cdots | 1 \rangle _ { N } | 1 \rangle _ { c }$$
+
+$$F _ { \varepsilon _ { n } } ( u _ { n } , A ) \geq c \sum _ { i \in Z _ { \varepsilon } ( A ) } \sum _ { \kappa = 1 } ^ { N } \varepsilon ^ { N } | D _ { \varepsilon _ { n } } ^ { e _ { \kappa } } u _ { n } ( i ) | ^ { p } - c N | A | .$$
+
+$$\widetilde R _ { h } ^ { \frac { 1 } { 2 } ; j } = \left( \begin{array} { c c c } { { \widetilde T } } & { { h \widetilde T ^ { \frac { 1 } { 2 } } e } } & { { - h \widetilde H + \frac { h } { 4 } ( \widetilde T - \widetilde T ^ { - 1 } ) } } \\ { { 0 } } & { { 1 } } & { { - h \widetilde T ^ { - \frac { 1 } { 2 } } e } } \\ { { 0 } } & { { 0 } } & { { \widetilde T ^ { - 1 } } } \end{array} \right) ,$$

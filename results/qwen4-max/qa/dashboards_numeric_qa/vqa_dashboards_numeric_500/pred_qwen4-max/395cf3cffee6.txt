@@ -1,0 +1,9 @@
+Looking at the "Total Reported" column on the left side of the dashboard, which lists the top 16 countries by total cases as of May 05, 2020:
+
+- **US**: 1,204,351 (highest)
+- **Spain**: 219,329 (second-highest)
+- Italy: 213,013
+- United Kingdom: 194,990
+- ...and so on.
+
+The country with the second-highest number of reported cases is **Spain**, with 219,329 cases.

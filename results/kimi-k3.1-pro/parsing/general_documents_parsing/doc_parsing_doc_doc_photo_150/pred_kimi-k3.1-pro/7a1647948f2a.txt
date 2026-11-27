@@ -1,0 +1,92 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+\noindent
+\begin{tabular}{|p{0.27\textwidth}|p{0.27\textwidth}|p{0.27\textwidth}|}
+\hline
+110 -- withdrawn\newline socially &
+460 -- can't sleep at\newline night &
+43 -- become asthmatic \\
+\hline
+20 -- become deaf &
+21 -- become blind &
+566 -- have frequent\newline headache and stomach\newline ache \\
+\hline
+1,164 -- can't\newline concentrate &
+117 -- refuse to go to\newline school &
+276 -- are in shock \\
+\hline
+\end{tabular}
+
+\vspace{1em}
+
+\noindent
+2. The natural calamities have tragically affected the lives of about 15000 children in recent years in India. The tsunami waves and earthquakes created havoc on a large scale. About 5430 children became homeless due to the tsunami and 5438 were the victims of the earthquakes. Floods displaced 2602 and droughts affected 2036 children. Epidemics affected 1313 children.
+
+\noindent
+Out of these figures, 1093 children live constantly in general fear; 110 children have withdrawn socially; 20 children have become deaf and 16 of them can't speak any more. More than 450 children can't sleep at night while 1164 can't concentrate on anything. The tragedy is that 21 of them have become blind, 43 asthmatic and 276 are still in shock. 566 suffer from frequent headache and stomachache. About 850 children fear water and sound and 117 have refused to go to school.
+
+\vspace{1em}
+
+\noindent
+3. Disaster management programmes have not proved up to the mark and up to the task. The Government and the concerned agencies should provide comprehensive aids and help to the survivors, particularly the children. They must provide nutritious food, clothes, shelters and medical aids to them. The efforts should be made to wipe out the scars left by these disasters.
+
+\begin{center}
+\fbox{%
+\begin{minipage}{0.65\textwidth}
+\centering
+\textbf{Number of Children Surviving various Disasters}
+
+\vspace{0.5em}
+
+\begin{tabular}{cc}
+5430 & Tsunami \\
+5438 & Earthquake \\
+2602 & Floods \\
+2035 & Drought \\
+1313 & Epidemic
+\end{tabular}
+
+\vspace{0.5em}
+
+\textbf{Children haunted with fear, out of the}\\
+\textbf{16,818 surveyed:}
+\end{minipage}%
+}
+\end{center}
+
+\vspace{1em}
+
+\noindent
+Based on your understanding of the passage, answer the following questions.
+
+\vspace{0.5em}
+
+\noindent
+(i) Based on your understanding of the passage, choose the option that lists the statements that are TRUE.
+
+\vspace{0.5em}
+
+\noindent
+1.
+
+\begin{center}
+\fbox{\parbox{0.85\textwidth}{Some people are hugely benefited by a natural calamity.}}
+\end{center}
+
+\vfill
+
+\begin{flushright}
+CL X/ PB-I /ENG/PAGE 3 OF
+\end{flushright}
+
+\begin{center}
+\textcircled{3}
+\end{center}
+
+\end{document}
+```

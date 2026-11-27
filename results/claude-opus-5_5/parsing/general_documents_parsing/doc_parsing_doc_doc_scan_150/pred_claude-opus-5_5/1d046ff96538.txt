@@ -1,0 +1,52 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage[margin=0.6in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\textbf{\underline{Fourier Transform Pairs}}\\[4pt]
+$\left( n, t, \omega, a, \omega_o, t_o \text{ are Real numbers ; } j = \text{complex number ; } n = \text{integer ; } \omega = \text{angular frequency} \right)$
+\end{center}
+
+\renewcommand{\arraystretch}{2.2}
+\begin{center}
+\begin{tabular}{|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{4.2cm}|m{0.2cm}|>{\centering\arraybackslash}m{3.2cm}|>{\centering\arraybackslash}m{4.2cm}|}
+\cline{1-2}\cline{4-5}
+\textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} & & \textbf{\textit{Time Domain}} & \textbf{\textit{Fourier Transform}} \\
+\cline{1-2}\cline{4-5}
+$f(t)$ & $\displaystyle\int_{-\infty}^{+\infty} f(t)e^{-j\omega t}\,dt$ & & $\displaystyle\frac{1}{2\pi}\int_{-\infty}^{+\infty} F(\omega)e^{j\omega t}\,d\omega$ & $F(\omega)$ \\
+\cline{1-2}\cline{4-5}
+$a_1 f_1(t) + a_2 f_2(t)$ & $a_1 F_1(\omega) + a_2 F_2(\omega)$ & & $\begin{array}{c} f(a\cdot t) \\ a \neq 0 \end{array}$ & $\displaystyle\frac{1}{|a|}F\!\left(\frac{\omega}{a}\right)$ \\
+\cline{1-2}\cline{4-5}
+$e^{j\omega_o t} f(t)$ & $F(\omega - \omega_o)$ & & $f(t - t_o)$ & $e^{-j\omega t_o}F(\omega)$ \\
+\cline{1-2}\cline{4-5}
+$\begin{array}{c} \dfrac{d^n[f(t)]}{dt^n} \\ (n>0) \end{array}$ & $(j\omega)^n F(\omega)$ & & $\begin{array}{c} (-jt)^n f(t) \\ (n>0) \end{array}$ & $\dfrac{d^n[F(\omega)]}{d\omega^n}$ \\
+\cline{1-2}\cline{4-5}
+$\begin{array}{c} e^{-at}u(t) \\ a>0 \end{array}$ & $\dfrac{1}{a + j\omega}$ & & $\begin{array}{c} e^{at}u(-t) \\ a>0 \end{array}$ & $\dfrac{1}{a - j\omega}$ \\
+\cline{1-2}\cline{4-5}
+$\cos(\omega_o t)$ & $\pi\left[\delta(\omega-\omega_o) + \delta(\omega+\omega_o)\right]$ & & $\sin(\omega_o t)$ & $\dfrac{\pi}{j}\left[\delta(\omega-\omega_o) - \delta(\omega+\omega_o)\right]$ \\
+\cline{1-2}\cline{4-5}
+$\delta(t)$ & $1$ & & $\delta(t - t_o)$ & $e^{-j\omega t_o}$ \\
+\cline{1-2}\cline{4-5}
+$1$ & $2\pi\cdot\delta(\omega)$ & & $e^{j\omega_o t}$ & $2\pi\cdot\delta(\omega-\omega_o)$ \\
+\cline{1-2}\cline{4-5}
+$u(t)$ & $\pi\cdot\delta(\omega) + \dfrac{1}{j\omega}$ & & $u(-t)$ & $\pi\cdot\delta(\omega) - \dfrac{1}{j\omega}$ \\
+\cline{1-2}\cline{4-5}
+$u(t) - u(-t)$ & $\dfrac{2}{j\omega}$ & & $u(t) + u(-t)$ & $2\pi\delta(\omega)$ \\
+\cline{1-2}\cline{4-5}
+$\begin{array}{c} t^{(n-1)}\cdot e^{-a\cdot t}\cdot u(t) \\ a>0\,;\, n>0 \end{array}$ & $\dfrac{(n-1)!}{(a+j\omega)^n}$ & & $\begin{array}{c} t^{(n-1)}\cdot e^{a\cdot t}\cdot u(-t) \\ a>0\,;\, n>0 \end{array}$ & $\dfrac{(n-1)!}{(a-j\omega)^n}\cdot(-1)^{n-1}$ \\
+\cline{1-2}\cline{4-5}
+$\cos(\omega_o t)\cdot f(t)$ & $\dfrac{1}{2}\left[F(\omega-\omega_o) + F(\omega+\omega_o)\right]$ & & $\sin(\omega_o t)\cdot f(t)$ & $\dfrac{1}{2j}\left[F(\omega-\omega_o) - F(\omega+\omega_o)\right]$ \\
+\cline{1-2}\cline{4-5}
+\end{tabular}
+\end{center}
+
+\end{document}
+```
+
+Notes:
+- I omitted the partial "Activate W..." Windows watermark in the bottom-right corner, since it's not part of the table content.
+- The table is wide. If it overflows the page, add `\usepackage{graphicx}` and wrap the `tabular` in `\resizebox{\textwidth}{!}{...}`, or use landscape orientation.

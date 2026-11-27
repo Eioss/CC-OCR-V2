@@ -1,0 +1,98 @@
+```latex
+\noindent
+awinic \hfill \textbf{AW36526}\\
+上海艾为电子技术股份有限公司 \hfill July 2019 V1.3\\
+shanghai awinic technology co., ltd.
+
+\hrule
+
+\begin{center}
+    {\Large\bfseries Inductorless, Triple Channel Flash \& Indicator 2in1 LED Driver}
+\end{center}
+
+\section*{FEATURES}
+
+\begin{itemize}
+    \item Flash and Indicator 2in1 application
+    \item Dual Independent \(1.0\mathrm{A}\) LED1/LED2 Current Source
+    \begin{itemize}
+        \item Flash: \(3.91\mathrm{mA}\sim1.0\mathrm{A}\), 256 levels\\
+        \(3.91\mathrm{mA}/\mathrm{level}\)
+        \item Torch: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+        \(1.46\mathrm{mA}/\mathrm{level}\)
+        \item Indicator: \(0.37\mathrm{mA}\sim375\mathrm{mA}\), 1024 levels\\
+        \(0.37\mathrm{mA}/\mathrm{level}\)
+        \item Flash Timeout: \(40\mathrm{ms}\sim1.6\mathrm{s}\), 16 levels
+    \end{itemize}
+    \item Independent \(375\ \mathrm{mA}\) LED3 Current Sink
+    \begin{itemize}
+        \item Flash: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+        \(1.46\mathrm{mA}/\mathrm{level}\)
+        \item Torch: \(1.46\mathrm{mA}\sim375\mathrm{mA}\), 256 levels\\
+        \(1.46\mathrm{mA}/\mathrm{level}\)
+        \item Indicator: \(0.73\mathrm{mA}\sim375\mathrm{mA}\), 512 levels\\
+        \(0.73\mathrm{mA}/\mathrm{level}\)
+        \item Flash Timeout: \(40\mathrm{ms}\sim1.6\mathrm{s}\), 16 levels
+    \end{itemize}
+    \item Optimized Flash LED Current During Low Battery Conditions (IVFM)
+    \item Hardware Strobe Enable (STROBE)
+    \item \(400\mathrm{kHz}\) I\textsuperscript{2}C: AW36526
+    (I\textsuperscript{2}C Address=0x63)
+    \item \(0.4\mathrm{mm}\) Pitch, FCQFN-10L Package
+\end{itemize}
+
+\section*{GENERAL DESCRIPTION}
+
+The AW36526 is a inductorless triple channel flash \& Indicator 2in1 LED driver
+that provides a high level of adjustability within a ultra-small solution size.
+The AW36526 includes two current sources and a current sink which is controlled
+independently by I\textsuperscript{2}C-compatible interface. The AW36526 provides
+IVFM protection mode to prevent system reset or shutdown under low battery
+condition.
+
+The AW36526 is controlled via an I\textsuperscript{2}C-compatible interface.
+The main features of the AW36526 include: flash / torch / IR / Indicator current,
+flash timeout duration, IVFM and breath features. The AW36526 also provides
+hardware flash pin (STROBE) to control flash event.
+
+The device operates over a \(-40^{\circ}\mathrm{C}\) to
+\(+85^{\circ}\mathrm{C}\) ambient temperature range.
+
+The AW36526 is available in small \(0.4\mathrm{mm}\) pitch
+\(1.6\mathrm{mm}\times1.2\mathrm{mm}\) FCQFN-10L package.
+
+\section*{APPLICATION}
+
+Smartphone Camera Flash
+
+\section*{TYPICAL APPLICATION CIRCUIT}
+
+\begin{center}
+VIN\\
+\(C_{\mathrm{IN}}\)\\
+\(10\mu\mathrm{F}\)\\
+\(10\mathrm{V}\)\\[0.5em]
+VIO \qquad \(1.8v \sim 3.3v\)\\
+\(4.7\mathrm{k}\Omega\) \qquad \(4.7\mathrm{k}\Omega\)\\
+R1 \qquad R2\\[0.5em]
+MCU\\
+STROBE \qquad SDA \qquad SCL\\[0.5em]
+IN \qquad GND\\
+AW36526FCR\\
+LED3 \qquad LED2 \qquad LED1\\
+D3 \qquad D1 \qquad D2
+\end{center}
+
+\begin{center}
+\textbf{Fig 1} \qquad \textbf{Typical Application Circuit of AW36526}
+\end{center}
+
+\noindent
+{\small All trademarks are the property of their respective owners.}
+
+\hrule
+
+\noindent
+www.awinic.com.cn \hfill 1 \hfill
+Copyright \(\copyright\) 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD
+```

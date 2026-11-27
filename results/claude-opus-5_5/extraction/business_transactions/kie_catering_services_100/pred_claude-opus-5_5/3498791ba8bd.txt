@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "(TA) NASI GRG TERI MEDAN", "cnt": "4", "price": "165,460"}, {"nm": "(TA) BIHUN GORENG SEAFOOD", "cnt": "1", "price": "40,456"}, {"nm": "(TA) KWETIAW SEAFOOD SIRAM", "cnt": "1", "price": "42,274"}, {"nm": "(TA) NASI GORENG", "cnt": "2", "price": "55,456"}], "sub_total": {"subtotal_price": "303,646", "tax_price": "30,365", "etc": "-11"}, "total": {"total_price": "334,000", "creditcardprice": "334,000", "menuqty_cnt": "8"}}
+```

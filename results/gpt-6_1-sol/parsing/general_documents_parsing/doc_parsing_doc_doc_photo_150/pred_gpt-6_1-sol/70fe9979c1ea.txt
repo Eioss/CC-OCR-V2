@@ -1,0 +1,73 @@
+```latex
+\ldots{} ১৯৬৫ সালের ৯ ফেব্রুয়ারি মৃত্যুবরণ করেন।
+
+\noindent
+4. Complete the table below with information from the passage.
+\hfill \(1 \times 5 = 5\)
+
+\begin{center}
+\begin{tabular}{|p{3.2cm}|p{2.4cm}|p{1.8cm}|p{2.6cm}|}
+\hline
+\textbf{Name/ Events} & \textbf{Time/ Year} & \textbf{Place} & \textbf{Achievement} \\
+\hline
+Ahsanullah & 1895 & (i) --- & MA \\
+\hline
+Ahsanullah & 1911 & & (ii) --- \\
+\hline
+(iii) --- & 1914 & & \\
+\hline
+Member of Royal Society & (iv) --- & & \\
+\hline
+& 1919 & & (v) --- \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+5. Write a summary of the passage in no more than 90 to 100 words.
+\hfill 10
+
+\medskip
+\noindent
+6. Match the parts of sentences given in column `A' and column `B' to write five complete sentences. There are more parts of sentences in column `B' than required.
+\hfill \(1 \times 5 = 5\)
+
+\begin{center}
+\begin{tabular}{|p{6.2cm}|p{5.3cm}|}
+\hline
+\centering\textbf{Column `A'} &
+\centering\arraybackslash\textbf{Column `B'} \\
+\hline
+\begin{tabular}[t]{@{}p{0.6cm}p{5.2cm}@{}}
+(a) & Man can turn a clean environment \\
+(b) & Clean environment is essential \\
+(c) & Our total environment influences \\
+(d) & When the relationship between things is disturbed, life \\
+(e) & By many unwise acts
+\end{tabular}
+&
+\begin{tabular}[t]{@{}p{0.6cm}p{4.3cm}@{}}
+i. & man improves his environment \\
+ii. & man pollutes his environment. \\
+iii. & our way of living. \\
+iv. & really beautiful. \\
+v. & into a bad polluted one. \\
+vi. & for a healthier and happier life. \\
+vii. & becomes difficult or impossible.
+\end{tabular}
+\\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent
+7. Re-arrange the following sentences according to sequence and re-write them in a paragraph.
+\hfill \(1 \times 8 = 8\)
+
+\begin{enumerate}[label=(\alph*)]
+\item The first friend climbed up a tree but the later could not climb.
+\item Suddenly a bear came there.
+\item Once upon a time two friends were passing by a forest.
+\item They were talking about their love for each other.
+\end{enumerate}
+```

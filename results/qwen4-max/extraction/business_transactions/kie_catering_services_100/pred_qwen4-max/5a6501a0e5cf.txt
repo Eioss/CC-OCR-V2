@@ -1,0 +1,1 @@
+{"menu": [{"nm": "Kopi Susu Kampung.", "unitprice": "19.000", "cnt": "x1", "sub": {"nm": "Ice", "sub": {"nm": "Kopi Susu Kampung - Less Ice", "cnt": "0"}}}, {"nm": "Kopi Susu Kampung.", "unitprice": "38.000", "cnt": "x2", "sub": {"nm": "Ice"}}], "sub_total": "57.000", "total": "57.000"}

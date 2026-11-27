@@ -1,0 +1,13 @@
+```latex
+\begin{align*}
+&\frac{1}{2} \frac{d}{dt} \| \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \|_{L^2_{x,v}}^2 + \frac{\delta_1}{\varepsilon^2} \| \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \|_{L^2_{x,v}}^2 \\
+&\leqslant \frac{\delta_2}{\varepsilon^2} \sum_{|\alpha|+|\beta| \leqslant m} \| \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \|_{L^2_{x,v}}^2 \\
+&\quad + \frac{1}{\varepsilon} \sum_{|\beta|=1} C_\beta \partial_v^\beta \nabla_x \partial_v^\beta (I-P) g^{n+1} \cdot \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \Big|_{L^2_{x,v}} \\
+&\quad - \int \langle \partial_x^\alpha \partial_v^\beta (I-P) (\nabla_x \Phi \cdot \nabla_v (I-P) g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \rangle_{L^2_{x,v}} \\
+&\quad + \int \langle \partial_x^\alpha \partial_v^\beta (I-P) (\nabla_x \Phi^{n+1} \cdot \nabla_v (I-P) g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \rangle_{L^2_{x,v}} \\
+&\quad + \frac{1}{\varepsilon} \langle \partial_x^\alpha \partial_v^\beta (Q(g^{n+1}, g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1}) \rangle_{L^2_{x,v}} \\
+&\quad + \int \langle \partial_x^\alpha \partial_v^\beta (I-P) (\nu \cdot \nabla_x \Phi^{n+1} g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \rangle_{L^2_{x,v}} \\
+&\quad - \frac{1}{\varepsilon} \langle \partial_x^\alpha \partial_v^\beta (I-P) (\nu \cdot \nabla_x \Phi^{n+1} g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \rangle_{L^2_{x,v}} \\
+&\quad + \frac{1}{\varepsilon} \langle \partial_x^\alpha \partial_v^\beta P (\nu \cdot \nabla_x (I-P) g^{n+1}), \partial_x^\alpha \partial_v^\beta (I-P) g^{n+1} \rangle_{L^2_{x,v}}
+\end{align*}
+```

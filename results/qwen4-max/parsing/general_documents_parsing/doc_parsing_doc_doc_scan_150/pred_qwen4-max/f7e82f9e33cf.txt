@@ -1,0 +1,72 @@
+\textbf{formulas for discrete-time LTI signals and systems}
+
+\begin{tabular}{ll}
+name & formula \\
+\hline
+area under impulse & $\sum_n \delta(n) = 1$ \\
+multiplication by impulse & $f(n)\,\delta(n) = f(0)\,\delta(n)$ \\
+...by shifted impulse & $f(n)\,\delta(n - n_o) = f(n_o)\,\delta(n - n_o)$ \\
+convolution & $f(n) * g(n) = \sum_k f(k)\,g(n - k)$ \\
+...with an impulse & $f(n) * \delta(n) = f(n)$ \\
+...with a shifted impulse & $f(n) * \delta(n - n_o) = f(n - n_o)$ \\
+transfer function & $H(z) = \sum_n h(n)\,z^{-n}$ \\
+frequency response & $H^f(\omega) = \sum_n h(n)\,e^{-j\omega n}$ \\
+...their connection & $H^f(\omega) = H(e^{j\omega})$ \\
+& provided unit circle $\subset$ ROC \\
+\end{tabular}
+
+\textbf{formulas for continuous-time LTI signals and systems}
+
+\begin{tabular}{ll}
+name & formula \\
+\hline
+area under impulse & $\int \delta(t)\,dt = 1$ \\
+multiplication by impulse & $f(t)\,\delta(t) = f(0)\,\delta(t)$ \\
+...by shifted impulse & $f(t)\,\delta(t - t_o) = f(t_o)\,\delta(t - t_o)$ \\
+convolution & $f(t) * g(t) = \int f(\tau)\,g(t - \tau)\,d\tau$ \\
+...with an impulse & $f(t) * \delta(t) = f(t)$ \\
+...with a shifted impulse & $f(t) * \delta(t - t_o) = f(t - t_o)$ \\
+transfer function & $H(s) = \int h(t)\,e^{-st}\,dt$ \\
+frequency response & $H^f(\omega) = \int h(t)\,e^{-j\omega t}\,dt$ \\
+...their connection & $H^f(\omega) = H(j\omega)$ \\
+& provided $j\omega$-axis $\subset$ ROC \\
+\end{tabular}
+
+\textbf{useful formulas}
+
+\begin{tabular}{ll}
+name & formula \\
+\hline
+Euler's formula & $e^{j\theta} = \cos(\theta) + j\sin(\theta)$ \\
+...for cosine & $\cos(\theta) = \frac{e^{j\theta} + e^{-j\theta}}{2}$ \\
+...for sine & $\sin(\theta) = \frac{e^{j\theta} - e^{-j\theta}}{2j}$ \\
+Sinc function & $\mathrm{sinc}(\theta) := \frac{\sin(\pi\,\theta)}{\pi\,\theta}$ \\
+\end{tabular}
+
+\textbf{Z-transform transform pairs}
+
+\begin{tabular}{lll}
+$x(n)$ & $X(z)$ & ROC \\
+\hline
+$x(n)$ & $\sum_n x(n)\,z^{-n}$ (def.) & \\
+$\delta(n)$ & $1$ & all $z$ \\
+$u(n)$ & $\frac{z}{z - 1}$ & $|z| > 1$ \\
+$a^n\,u(n)$ & $\frac{z}{z - a}$ & $|z| > |a|$ \\
+$-a^n\,u(-n - 1)$ & $\frac{z}{z - a}$ & $|z| < |a|$ \\
+$\cos(\omega_o n)\,u(n)$ & $\frac{z^2 - \cos(\omega_o)\,z}{z^2 - 2\cos(\omega_o)\,z + 1}$ & $|z| > 1$ \\
+$\sin(\omega_o n)\,u(n)$ & $\frac{\sin(\omega_o)\,z}{z^2 - 2\cos(\omega_o)\,z + 1}$ & $|z| > 1$ \\
+$a^n \cos(\omega_o n)\,u(n)$ & $\frac{z^2 - a\cos(\omega_o)\,z}{z^2 - 2a\cos(\omega_o)\,z + a^2}$ & $|z| > |a|$ \\
+$a^n \sin(\omega_o n)\,u(n)$ & $\frac{a\sin(\omega_o)\,z}{z^2 - 2a\cos(\omega_o)\,z + a^2}$ & $|z| > |a|$ \\
+\end{tabular}
+
+\textbf{Z-transform transform properties}
+
+\begin{tabular}{ll}
+$x(n)$ & $X(z)$ \\
+\hline
+$a\,x(n) + b\,g(n)$ & $a\,X(z) + b\,G(z)$ \\
+$x(n - n_o)$ & $z^{-n_o}\,X(z)$ \\
+$x(n) * f(n)$ & $X(z)\,F(z)$ \\
+\end{tabular}
+
+Page 8 of 169

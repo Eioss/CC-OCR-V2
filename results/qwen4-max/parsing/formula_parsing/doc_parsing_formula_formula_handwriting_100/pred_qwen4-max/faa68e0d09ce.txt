@@ -1,0 +1,13 @@
+\[
+\begin{array}{l}
+\frac{1}{2}\frac{d}{dt}\|\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\|_{L_{x,v}^{2}}^{2}+\frac{\delta_{1}}{\varepsilon^{2}}\|\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\|_{L_{x,v}^{2}(v)}^{2} \\
+\leq\frac{\delta_{2}}{\varepsilon^{2}}\sum_{\beta^{\prime}<\beta}\|\partial_{x}^{\alpha}\partial_{v}^{\beta^{\prime}}(I-P)g^{n+1}\|_{L_{x,v}^{2}}^{2} \\
++\frac{1}{\epsilon}\underbrace{\sum_{|\beta_{1}|=1}C_{\beta}^{\beta_{1}}\langle\partial_{v}^{\beta_{1}}\boldsymbol{v}\cdot\nabla_{x}\partial_{x}^{\alpha}\partial_{v}^{\beta-\beta_{1}}(I-P)g^{n+1},\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{1}} \\
+-\gamma\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)(\nabla_{x}\phi^{n}\cdot\nabla_{v}(I-P)g^{n+1}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{2}} \\
++\gamma\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)(\boldsymbol{v}\cdot\nabla_{x}\phi^{n}(I-P)g^{n+1}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{3}} \\
++\frac{1}{\epsilon}\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}\mathcal{Q}(g^{n},g^{n}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{4}} \\
++\gamma\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)(\boldsymbol{v}\cdot\nabla_{x}\phi^{n}Pg^{n+1}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{5}} \\
+-\frac{1}{\epsilon}\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)(\boldsymbol{v}\cdot\nabla_{x}Pg^{n+1}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}}}_{S_{6}} \\
++\frac{1}{\epsilon}\underbrace{\langle\partial_{x}^{\alpha}\partial_{v}^{\beta}P(\boldsymbol{v}\cdot\nabla_{x}(I-P)g^{n+1}),\partial_{x}^{\alpha}\partial_{v}^{\beta}(I-P)g^{n+1}\rangle_{L_{x,v}^{2}},}_{S_{7}}
+\end{array}
+\]

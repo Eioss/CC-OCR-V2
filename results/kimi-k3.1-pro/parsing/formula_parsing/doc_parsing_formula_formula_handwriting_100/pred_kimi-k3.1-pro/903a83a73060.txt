@@ -1,0 +1,38 @@
+\[
+\lambda^{2}=\lambda_n^{2}=\left(\frac{\pi n}{\ell}\right)^{2},\qquad n\in\mathbb{N}
+\]
+
+\[
+\begin{aligned}
+V_1
+&=\sum_{e_h\in\mathcal E_h}\int_{e_h}[u_h]
+\left(
+\left\{F_h\nabla r_h z_h;(\delta e_h n^{-i}-p_{nn}^{-i})\right\}
++\alpha\left\{F_h\nabla r_h z_h;Hn_h\right\}
+\right)\,dS_h\\
+&=\sum_{p\in\mathcal N_h}\int_{e_h}
+\chi_p^{t}[u_h]\left\{F_h\nabla r_h\varphi_p;(\delta e_h n^{-i}-p_{nn}^{-i})\right\}
++\chi_p^{t}[u_h]\alpha\left\{F_h\nabla r_h\varphi_p;Hn_h\right\}\,dS_h
+\end{aligned}
+\]
+
+\[
+\Delta_p u\equiv
+\left[(u_x)^2+(u_y)^2\right]^{\frac{n}{2}}\Delta u
++n\left[(u_x)^2+(u_y)^2\right]^{\frac{n-2}{2}}
+\left[(u_x)^2u_{xx}+2u_xu_yu_{xy}+(u_y)^2u_{yy}\right]=0
+\]
+
+\[
+\#(0)=\left|\left\{X\mid B(X)=0\ \text{and}\ \phi(X)=0\right\}\right|
+\]
+
+\[
+\left\|R_{T,A_1}u\right\|_{L^{\tilde p}(\Omega)}
+\le C\left\|u\right\|_{W_p^{1}(\Omega)}^{1-\delta},
+\qquad \forall T\ge T_1
+\]
+
+\[
+H=\frac{x_1'x_2''-x_1''x_2'}{2\sqrt{1+(\sigma')^2}}\,n
+\]

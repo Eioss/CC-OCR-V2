@@ -1,0 +1,137 @@
+# 文明施工与进度公示牌
+进度计划 / 现场管理 / 联系方式
+文档编号 SG-995946
+日 期 2024-07-12
+
+施工/项目名称（虚构）
+单位名称 星海省临澜州皓月松影物业管理有限公司
+工程地点 澄岳省星港市东泽区兴业路199号 3栋
+项目负责人 张亦晨；安全员 韩昊然；联系电话 15645687056
+项目： 
+定价：3200
+新价：154.30
+<div style="text-align: center;"><img src="imgs/img_in_image_box_729_237_829_337.jpg" alt="Image" width="6%" /></div>
+https://example.com/doc-92812557
+
+<table>
+  <tr>
+    <td colspan="6" style="text-align: center;">里程碑计划表</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">日期</td>
+    <td style="text-align: center;">节点名称</td>
+    <td style="text-align: center;">责任人</td>
+    <td style="text-align: center;">状态</td>
+    <td style="text-align: center;">签字</td>
+    <td style="text-align: center;">备注</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-05-20</td>
+    <td style="text-align: center;">基础完工</td>
+    <td style="text-align: center;">张亦晨</td>
+    <td style="text-align: center;">已完成（手写勾选）</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-07-15</td>
+    <td style="text-align: center;">主体结构封顶</td>
+    <td style="text-align: center;">韩昊然</td>
+    <td style="text-align: center;">进行中（手写）</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-09-30</td>
+    <td style="text-align: center;">竣工验收</td>
+    <td style="text-align: center;">张亦晨</td>
+    <td style="text-align: center;">未开始</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="6" style="text-align: center;">现场管理检查记录</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">检查日期</td>
+    <td style="text-align: center;">问题描述</td>
+    <td style="text-align: center;">整改措施</td>
+    <td style="text-align: center;">复验结果</td>
+    <td style="text-align: center;">签字</td>
+    <td style="text-align: center;">备注</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-07-10</td>
+    <td style="text-align: center;">材料堆放混乱</td>
+    <td style="text-align: center;">限期清理整改</td>
+    <td style="text-align: center;">已复验（手写）</td>
+    <td style="text-align: center;">韩昊然（手写签字）</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024-07-11</td>
+    <td style="text-align: center;">安全网破损</td>
+    <td style="text-align: center;">立即更换</td>
+    <td style="text-align: center;">待复验（手写）</td>
+    <td style="text-align: center;">张亦晨（手写签字）</td>
+    <td style="text-align: center;">337027936250027424（手写编号）</td>
+  </tr>
+  <tr>
+    <td colspan="6" style="text-align: center;">A区（东侧工段）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">条目编码</td>
+    <td style="text-align: center;">任务内容</td>
+    <td style="text-align: center;">计划开始</td>
+    <td style="text-align: center;">计划结束</td>
+    <td style="text-align: center;">实际进度</td>
+    <td style="text-align: center;">备注要求</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">T-001</td>
+    <td style="text-align: center;">土方开挖</td>
+    <td style="text-align: center;">2024-05-01</td>
+    <td style="text-align: center;">2024-05-15</td>
+    <td style="text-align: center;">100%</td>
+    <td style="text-align: center;">按图施工</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">T-002</td>
+    <td style="text-align: center;">基坑支护</td>
+    <td style="text-align: center;">2024-05-16</td>
+    <td style="text-align: center;">2024-05-31</td>
+    <td style="text-align: center;">100%</td>
+    <td style="text-align: center;">注意监测</td>
+  </tr>
+  <tr>
+    <td colspan="6" style="text-align: center;">B区（西侧工段）</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">T-003</td>
+    <td style="text-align: center;">主体施工</td>
+    <td style="text-align: center;">2024-06-01</td>
+    <td style="text-align: center;">2024-07-31</td>
+    <td style="text-align: center;">50%</td>
+    <td style="text-align: center;">加强安全</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">T-004</td>
+    <td style="text-align: center;">砌体工程</td>
+    <td style="text-align: center;">2024-06-01</td>
+    <td style="text-align: center;">2024-08-31</td>
+    <td style="text-align: center;">20%</td>
+    <td style="text-align: center;">按规范</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">汇总小计</td>
+    <td style="text-align: center;">合计</td>
+    <td style="text-align: center;">2024-08-01</td>
+    <td style="text-align: center;">2024-08-31</td>
+    <td style="text-align: center;">20%</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">备注条款/整改要求</td>
+    <td colspan="5">1.严格按照施工规范执行。<br>2.每周五进行安全大检查。<br>3.整改期限不超过3天（手写修改）。<br>4.如遇紧急情况立即上报。</td>
+  </tr>
+</table>

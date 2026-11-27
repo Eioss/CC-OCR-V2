@@ -1,0 +1,147 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  th {
+    font-weight: bold;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .footer-text {
+    text-align: left;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td colspan="5" style="border: none; text-align: left; font-weight: bold; padding-bottom: 10px;">附表3</td>
+  </tr>
+  <tr>
+    <td colspan="5" style="border: none; text-align: center; font-size: 18px; font-weight: bold; padding-bottom: 15px;">观山湖区2021年孕前优生健康检查项目工作经费明细表（第三季度）</td>
+  </tr>
+  <tr>
+    <th>编号</th>
+    <th>经费受拨单位名称</th>
+    <th>检查/随访数（对）</th>
+    <th>划拨金额（元）</th>
+    <th>备注</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td class="text-left">金华镇中心卫生院</td>
+    <td>91</td>
+    <td>27300</td>
+    <td>300元/对</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td class="text-left">朱昌镇卫生院</td>
+    <td>206</td>
+    <td>61800</td>
+    <td>300元/对</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td class="text-left">百花湖镇卫生院</td>
+    <td>92</td>
+    <td>27600</td>
+    <td>300元/对</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td class="text-left">碧海区卫生服务中心（碧海和云潭）</td>
+    <td>110</td>
+    <td>3300</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td class="text-left">金阳街道第二社区卫生服务中心（逸景和宾阳）</td>
+    <td>124</td>
+    <td>3720</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td class="text-left">观山街道社区卫生服务中心</td>
+    <td>17</td>
+    <td>510</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td class="text-left">世纪城街道社区卫生服务中心</td>
+    <td>120</td>
+    <td>3600</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td class="text-left">世纪城街道第二社区卫生服务中心（观山）</td>
+    <td>19</td>
+    <td>570</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td class="text-left">金华园社区卫生服务中心</td>
+    <td>31</td>
+    <td>930</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td class="text-left">会展社区卫生服务中心</td>
+    <td>20</td>
+    <td>600</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td class="text-left">长岭街道第二社区卫生服务中心</td>
+    <td>41</td>
+    <td>1230</td>
+    <td>30元/对</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td class="text-left">观山湖区妇幼保健院计生科</td>
+    <td>482</td>
+    <td>130140</td>
+    <td>270元/对</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>合计</td>
+    <td></td>
+    <td>261300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="5" class="footer-text">
+      拨付标准说明：三个乡镇参与孕前优生全程工作，即按每对330元标准拨付，七个街道办事处参与每对孕前优生夫妇的宣教（每对30元）及其辖区内卫生服务中心参与早孕及妊娠结局随访（每对30元），每对共计60元拨付。
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+```

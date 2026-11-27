@@ -1,0 +1,48 @@
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+
+\begin{document}
+
+{\small Candidate Statement of Results}
+
+\medskip
+
+\begin{tabular}{@{}ll@{\qquad}ll@{}}
+\textbf{Season:} & Summer Season 2019 & \textbf{Series:} & (All) \\
+\textbf{Name:}   & Anisha             & \textbf{Year:}   & 11 \\
+\textbf{Can}     &                    &                  & \\
+\textbf{UCI:}   &                    &                  &
+\end{tabular}
+
+\bigskip
+
+{\Large Exam Results}
+
+\medskip
+
+\begin{tabular}{@{}llllccc@{}}
+\hline
+\textbf{Board} &
+\textbf{Level} &
+\shortstack[l]{\textbf{Element}\\\textbf{Code}} &
+\textbf{Title} &
+\textbf{Grd1} &
+\textbf{Grd2} &
+\textbf{M} \\
+\hline
+AQA      & GCSE/9DA & 8464H & Combined Sci. Trilogy Tier H & 99 & & \\
+EDEXL/GC & GCSE/9FC & 1GB0  & Geography B                  & 9  & & \\
+AQA      & GCSE/9FC & 8062BA & Religious Studies A Option BA & 9 & & \\
+AQA      & GCSE/9FC & 8668H & German Tier H                & 9  & & \\
+AQA      & GCSE/9FC & 8698H & Spanish Tier H               & 9  & & \\
+AQA      & GCSE/9FC & 8700  & English Language             & 9  & & \\
+AQA      & GCSE/9FC & 8702  & English Literature           & 9  & & \\
+OCR      & GCSE/9FC & J560H & Mathematics (Higher Tier)    & 7  & &
+\end{tabular}
+
+\end{document}
+```
+
+Obscured text is left blank; partially visible labels are transcribed only to the extent readable.

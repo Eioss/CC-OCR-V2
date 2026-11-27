@@ -1,0 +1,130 @@
+```latex
+\documentclass[11pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage[table]{xcolor}
+\usepackage{newtxtext,newtxmath}
+
+\definecolor{buffaloblue}{RGB}{0,45,110}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+{\Huge\bfseries\color{buffaloblue} UB}
+\quad
+\begin{tabular}{l}
+{\LARGE\bfseries\color{buffaloblue} University at Buffalo}\\
+{\Large\itshape The State University of New York}
+\end{tabular}
+\end{center}
+
+\bigskip
+
+{\large\bfseries\color{buffaloblue}
+2014 INTERNATIONAL APPLICANT FINANCIAL FORM -- STANDARD GRADUATE}
+
+\bigskip
+
+International applicants must affirm that they are responsible for paying all tuition, fees and living expenses for the entire period of the intended study program. Applicants must document the full cost of only the first year of study before the university can issue a Certificate of Visa Eligibility (Form I-20 or DS-2019).
+
+\medskip
+
+\begin{tabularx}{\textwidth}{@{}l l X@{}}
+\textbf{\color{buffaloblue}Instructions:}
+& \textbf{\color{buffaloblue}Part I}
+& Answer questions 1--7 completely.\\
+& \textbf{\color{buffaloblue}Part II}
+& Indicate the sources of your funding, the amounts available, and the totals for each year, and have the sponsors verify these amounts by signing this form. Include required documentation as indicated below.
+\end{tabularx}
+
+\medskip
+
+Applicants must document financial support equal to or greater than the amounts indicated below (one year of study).
+
+\textit{These figures are estimated costs and are subject to increase without notice.}
+
+\bigskip
+
+{\bfseries\color{buffaloblue}
+Estimated Budget for International Graduate Students (Standard Programs)}
+
+\begin{tabular}{@{\hspace{0.1in}}l r}
+TUITION\textsuperscript{1} & \$20,190\\
+FEES (including health insurance)\textsuperscript{2} & \$3,579\\
+ROOM AND BOARD\textsuperscript{3} & \$12,410\\
+\textbf{\color{buffaloblue}ESTIMATED TOTAL} {\small (per year of study)} & \$36,179
+\end{tabular}
+
+\begin{quote}
+\footnotesize
+\textsuperscript{1}Tuition indicated above is the actual 2014-15 tuition rate for the academic year only (September--May). Tuition may increase up to 10\% per year. Above tuition for Fall and Spring semesters is based on the ``full tuition'' model where the cost is the same for 12 or more credits (flat per credit). Summer and Winter session tuition and fees are not included above; Summer and Winter sessions are optional; students are not required to study in the summer and winter sessions. Costs for Summer and Winter courses charged per credit; standard graduate tuition and fees are approximately \$990 per credit hour.
+
+\textsuperscript{2}Fees and health insurance are listed for the full year.
+
+\textsuperscript{3}This includes housing and food costs for nine months. Students will need additional funds for books, supplies, personal expenses and incidental costs.
+\end{quote}
+
+\bigskip
+
+{\bfseries\color{buffaloblue}Dependent Support}
+
+\medskip
+
+A student who wishes to have his or her spouse or children accompany him or her must document the following amounts for each family member per academic year of intended study (freshman: four -- five years; transfer: two -- three years).
+
+\medskip
+
+\begin{tabular}{@{\hspace{0.15in}}l l}
+For spouse: & \$7,000 per academic year\\
+For each child: & \$5,000 per academic year
+\end{tabular}
+
+\bigskip
+\bigskip
+
+{\bfseries\color{buffaloblue}Forms of Financial Documentation}
+
+\medskip
+
+\begingroup
+\small
+\renewcommand{\arraystretch}{1.05}
+\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.36\textwidth}|>{\raggedright\arraybackslash}X|}
+\hline
+\rowcolor{buffaloblue}
+\multicolumn{2}{|l|}{\color{white}\bfseries Type of Documentation\textsuperscript{4}}\\
+\hline
+Bank Letters & Acceptable\\
+\hline
+Bank Statements (Savings or Checking Accounts) & Acceptable\\
+\hline
+Certificates of Deposit (CD) Statements & Acceptable - maturity date must be earlier than anticipated enrollment date.\\
+\hline
+Chartered Accountant Statements & Not Acceptable\\
+\hline
+Employer Letters / Salary Statements & Not Acceptable\\
+\hline
+Line of Credit Letters & Acceptable\\
+\hline
+Loan Letters & Acceptable\\
+\hline
+Provident (Retirement) Fund Statements & Acceptable - if fund permits early withdrawal; value will be calculated at 75 percent of face value (or as determined by terms of the fund).\\
+\hline
+Scholarship Letters (Private, Government, School, etc.) & Acceptable\\
+\hline
+Stock Market Statements & Not Acceptable\\
+\hline
+Valuation Statements (Jewelry, Gold, Property) & Not Acceptable\\
+\hline
+\end{tabularx}
+\endgroup
+
+\begin{quote}
+\footnotesize
+\textsuperscript{4}This information is required for visa eligibility determination only. All acceptable forms of documentation must be printed on official letterhead paper from the institution that issued the document. Documents must be dated within one year of the anticipated date the student will commence studies. Documents can be clear photocopies, scanned, faxed or original. All documents submitted to UB become the property of UB; they cannot be returned or forwarded to another person/institution.
+\end{quote}
+
+\end{document}
+```

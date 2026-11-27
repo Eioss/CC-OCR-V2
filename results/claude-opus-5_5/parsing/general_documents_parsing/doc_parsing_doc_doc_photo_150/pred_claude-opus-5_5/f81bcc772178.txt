@@ -1,0 +1,49 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+    {\Large \textbf{Quadratic Formula Assignment}}\\[0.5em]
+    Recite, from memory, the quadratic formula to one teacher,\\
+    one family member, and one additional person of your choice.
+\end{center}
+
+\vspace{1em}
+
+\noindent\textbf{In Math:}
+
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\vspace{1em}
+
+\noindent\textbf{In English:}
+
+\vspace{0.5em}
+
+\noindent\textbf{X equals negative b plus or minus the square root of b squared minus 4ac all over 2a.}
+
+\vspace{1.5em}
+
+\noindent
+\begin{tabular}{|p{0.95\textwidth}|}
+\hline
+I do hereby testify that \underline{\hspace{6cm}} recited the quadratic formula to me from memory with zero mistakes. \\[1em]
+Signature \underline{\hspace{8cm}} Date \underline{\hspace{2.5cm}} \\
+\hline
+I do hereby testify that \underline{\hspace{6cm}} recited the quadratic formula to me from memory with zero mistakes. \\[1em]
+Signature \underline{\hspace{8cm}} Date \underline{\hspace{2.5cm}} \\
+\hline
+I do hereby testify that \underline{\hspace{6cm}} recited the quadratic formula to me from memory with zero mistakes. \\[1em]
+Signature \underline{\hspace{8cm}} Date \underline{\hspace{2.5cm}} \\
+\hline
+\end{tabular}
+
+\end{document}
+```
+
+**Note:** The original worksheet uses dashed borders around the signature boxes. To reproduce those exactly, you can add `\usepackage{arydshln}` to the preamble and replace `|` with `:` in the column specification and `\hline` with `\hdashline`.

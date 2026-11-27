@@ -1,0 +1,91 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.33\textwidth}
+অয়োময়
+\end{minipage}%
+\begin{minipage}[t]{0.33\textwidth}
+\centering ৪৭
+\end{minipage}%
+\begin{minipage}[t]{0.33\textwidth}
+\raggedleft ১৩৭
+\end{minipage}
+
+\begin{center}
+    {\large \textbf{Ka Set}} \\[0.5em]
+    \textbf{JUNIOR SCHOOL CERTIFICATE EXAMINATION,} \\
+    ENGLISH \\
+    SECOND PAPER
+\end{center}
+
+\begin{flushright}
+    \textbf{Subject Code :} 
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \textbf{1} & \textbf{0} & \textbf{8} \\
+        \hline
+    \end{tabular}
+\end{flushright}
+
+\begin{center}
+    Time—2 hours \\
+    Full marks—50 \\[0.5em]
+    \textit{[N.B.—The figures in the right margin indicate full marks.]} \\[0.5em]
+    \textbf{Section A—Grammar} \\
+    Marks—30
+\end{center}
+
+\begin{flushright}
+    Marks
+\end{flushright}
+
+\begin{enumerate}
+    \item Fill in the gaps of the following text with appropriate articles. Put a cross ($\times$) where there is no article applicable :— \hfill $0.5 \times 6 = 3$
+    
+    I live in Rajshahi. My elder brother who is \textit{(a)} \underline{\hspace{1.5cm}} engineer, works in Dhaka. Last summer he asked me to stay \textit{(b)} \underline{\hspace{1.5cm}} few days with him and sent me \textit{(c)} \underline{\hspace{1.5cm}} plane ticket. That was my first journey by air. I arrived at \textit{(d)} \underline{\hspace{1.5cm}} airport about \textit{(e)} \underline{\hspace{1.5cm}} hour before the flight. It was \textit{(f)} \underline{\hspace{1.5cm}} enjoyable plane journey.
+
+    \item Fill in the blanks of the following text with prepositions given in the box :— \hfill $0.5 \times 6 = 3$
+    
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|c|c|}
+            \hline
+            \hspace{0.3cm} for \hspace{0.3cm} & \hspace{0.3cm} to \hspace{0.3cm} & \hspace{0.3cm} in \hspace{0.3cm} & \hspace{0.3cm} with \hspace{0.3cm} & \hspace{0.3cm} about \hspace{0.3cm} & \hspace{0.1cm} after \hspace{0.1cm} \\
+            \hline
+        \end{tabular}
+    \end{center}
+    
+    Money is a must \textit{(a)} \underline{\hspace{1.5cm}} our life. But one should not run after money because those who hanker \textit{(b)} \underline{\hspace{1.5cm}} money cannot enjoy mental peace. Sometimes, it may lead one \textit{(c)} \underline{\hspace{1.5cm}} some unexpected troubles. It also happens that greed \textit{(d)} \underline{\hspace{1.5cm}} money brings \textit{(e)} \underline{\hspace{1.5cm}} many problems. So we should be contented \textit{(f)} \underline{\hspace{1.5cm}} what we have.
+
+    \item Make \textbf{four} meaningful sentences from the substitution table :— \hfill $1 \times 4 = 4$
+    
+    \begin{center}
+        \begin{tabular}{|c|c|l|}
+            \hline
+            Youth & & be built properly. \\
+            \cline{3-3}
+            It & is & the time of sowing seeds of life. \\
+            \cline{3-3}
+            We & must & \multirow{2}{6.5cm}{sow the seeds of industry and honesty in this time.} \\
+            Thus our future & will & \\
+            \cline{3-3}
+            & & the best time of life. \\
+            \hline
+        \end{tabular}
+    \end{center}
+\end{enumerate}
+
+\begin{flushright}
+    \textit{[Please turn over}
+\end{flushright}
+
+\end{document}
+```

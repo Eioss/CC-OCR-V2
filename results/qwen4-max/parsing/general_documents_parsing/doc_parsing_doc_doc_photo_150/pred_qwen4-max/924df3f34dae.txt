@@ -1,0 +1,93 @@
+Certainly! Below is the LaTeX transcription of the provided image content, preserving all text, tables, and handwritten entries as they appear. Note that since this is a simulation with fabricated data, we are transcribing exactly what is visible — including question marks and incomplete fields — without interpretation or correction.
+
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\title{Verification of the Formula of a Hydrated Salt Data Sheet}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\noindent Name: \underline{\hspace{4cm}} \quad Partner's Name: \underline{\hspace{4cm}}
+
+\vspace{0.5cm}
+
+\noindent Hydrated salt you were given: \underline{CoSO$_4$ $\cdot$ 2H$_2$O}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & Trial 1 & Trial 2 & Trial 3 \\
+\hline
+Mass of crucible and lid (g) & 26.3269 & 26.247 & \\
+\hline
+Mass of crucible, lid, and hydrated salt BEFORE heating (g) & 33.7139 & 30.2009 & \\
+\hline
+Mass of hydrated salt (g) & 5.3879 & 3.9539 & \\
+\hline
+Mass of crucible, lid, salt AFTER heating (g) & 32.6569 & 29.699 & \\
+\hline
+Mass of anhydrous salt (g) & 4.339 & 3.4439 & \\
+\hline
+Moles of anhydrous salt (mole) & 0.03105 & 0.025305 & \\
+\hline
+Mass of water of crystallization removed (g) & 1.0579 & 0.51009 & \\
+\hline
+Moles of water of crystallization removed (mole) & 0.58709 & 0.28305 & \\
+\hline
+Ratio moles water : moles salt & ? & ? & \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|c|c|}
+\hline
+ & Individual & Class \\
+\hline
+Average Ratio & ? & \\
+\hline
+Standard Deviation & & X \\
+\hline
+Relative Standard Deviation (\%) & ? & X \\
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\noindent The Chemical Formula for the hydrate is \underline{?}.
+
+\vspace{1cm}
+
+\noindent This document was prepared by D. Fineran, J. Tierney.
+
+\vspace{0.5cm}
+
+\begin{center}
+45
+\end{center}
+
+\end{document}
+```
+
+---
+
+### Notes on Transcription:
+
+- All handwritten values have been transcribed verbatim, including decimal places and trailing digits.
+- Question marks (`?`) and `X` symbols are preserved as written.
+- The chemical formula “CoSO₄ · 2H₂O” is typeset using LaTeX math mode for subscripts.
+- Table structure matches the original layout with vertical and horizontal lines.
+- Page number “45” centered at bottom.
+- No assumptions made about missing data or corrections to calculations.
+
+This LaTeX code will compile into a document visually matching the original sheet’s structure and content. You may adjust formatting (e.g., font size, spacing) as needed for presentation.

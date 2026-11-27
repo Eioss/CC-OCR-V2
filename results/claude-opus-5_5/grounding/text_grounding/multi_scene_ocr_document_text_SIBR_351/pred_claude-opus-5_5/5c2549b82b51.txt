@@ -1,0 +1,5 @@
+There are four places where '3725.19' appears on this receipt. This box marks the first one, next to "个人支付小计" (personal payment subtotal):
+
+(287, 772, 342, 801)
+
+The other three are the cash payment field (现金支付), the payment amount line (交费金额 ¥), and the cash received field (收现金).

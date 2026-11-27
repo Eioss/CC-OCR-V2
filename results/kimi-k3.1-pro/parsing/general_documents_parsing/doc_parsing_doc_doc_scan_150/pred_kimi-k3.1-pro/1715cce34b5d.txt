@@ -1,0 +1,79 @@
+```latex
+\documentclass[UTF8,a4paper,12pt]{ctexart}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{xcolor}
+\usepackage{setspace}
+
+\setlength{\parindent}{0pt}
+\setstretch{1.55}
+
+% 原图中模糊遮盖的内容以灰色块表示。
+\newcommand{\masked}[1]{%
+  \colorbox{gray!18}{\rule[-0.25em]{0pt}{1.25em}\hspace*{#1}}%
+}
+
+\begin{document}
+
+\begin{center}
+  \fontsize{13pt}{21pt}\selectfont
+  临港松江科技绿洲三期项目新建生产及辅助用房（1\#楼）工艺装修与工艺机电设\\
+  计服务中标结果公告\\[0.4em]
+  （招标编号：KC-2021-129）
+\end{center}
+
+\vspace{2em}
+
+\textbf{一、中标人信息：}
+
+\hspace*{2em}标段(包)[001]临港松江科技绿洲三期项目 1\#楼工艺装修与工艺机电设计服务：
+
+\hspace*{4em}中标人：中国电子系统工程第二建设有限公司
+\hspace*{3em}中标价格：158.55~万元
+
+\textbf{二、其他：}
+
+\hspace*{2em}根据招标文件规定招标人将确定排名第一的中标候选人为中标人：中国电子系统工程第\\
+二建设有限公司
+
+\textbf{三、监督部门}
+
+\hspace*{2em}本招标项目的监督部门为无。
+
+\textbf{四、联系方式}
+
+\hspace*{2em}招 标 人：上海临港松江高新产业发展有限公司
+
+\hspace*{2em}地\quad 址：上海市莘砖公路 668 号 1 楼
+
+\hspace*{2em}联 系 人：\masked{2.5em}
+
+\hspace*{2em}电\quad 话：\masked{6em}
+
+\hspace*{2em}电子邮件：\masked{8em}
+
+\vspace{2em}
+
+\hspace*{2em}招标代理机构：上海康诚建设工程咨询有限公司
+
+\hspace*{2em}地\quad 址：上海市松江区乐都西路 841 号 4 楼
+
+\hspace*{2em}联 系 人：\masked{2.5em}
+
+\hspace*{2em}电\quad 话：\masked{8em}
+
+\hspace*{2em}电子邮件：\masked{9em}
+
+\vspace{4em}
+
+\hspace*{2em}招标人或其招标代理机构主要负责人（项目负责人）：\masked{4em}（签名）
+
+\vspace{4em}
+
+\begin{flushright}
+  招标人或其招标代理机构：\underline{\hspace*{5cm}}（盖章）
+\end{flushright}
+
+% 原图此处有红色圆形印章，可见印文为：上海康诚建设工程咨询有限公司。
+
+\end{document}
+```

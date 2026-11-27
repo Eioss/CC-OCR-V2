@@ -1,0 +1,10 @@
+Looking at the comparison table "VMWARE VSPHERE VS. MICROSOFT HYPER-V," I need to find the row "Max host processors" and count how many VMware columns show 160.
+
+The VMware columns are: STANDARD, ENTERPRISE, ENT. PLUS.
+- VMware STANDARD: 160
+- VMware ENTERPRISE: 160
+- VMware ENT. PLUS: 160
+
+All three VMware editions show 160.
+
+**3**

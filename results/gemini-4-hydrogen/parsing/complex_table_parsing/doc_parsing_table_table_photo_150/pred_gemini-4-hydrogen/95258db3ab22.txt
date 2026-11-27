@@ -1,0 +1,46 @@
+```html
+<table>
+  <tr>
+    <td>Seq</td>
+    <td>Nº INSC</td>
+    <td>CANDIDATO</td>
+    <td>RG</td>
+    <td>CPF</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>116646</td>
+    <td>Anilton Coelho Silva</td>
+    <td>6132228</td>
+    <td>056.270.571-65</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>119969</td>
+    <td>Carla Rejane Ferreira Ribeiro</td>
+    <td>5316167</td>
+    <td>029.980.871-83</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>115982</td>
+    <td>Isaias Rodrigues Da Silva</td>
+    <td>4833000</td>
+    <td>008.716.101-08</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>120757</td>
+    <td>Selma Maria Barbosa</td>
+    <td>3961448</td>
+    <td>925.080.221-87</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>121466</td>
+    <td>Thaiz Zago</td>
+    <td>5515405</td>
+    <td>030.854.521-41</td>
+  </tr>
+</table>
+```

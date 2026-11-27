@@ -1,0 +1,38 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+
+\begin{document}
+
+I, for one, am far from ready to use online courses for my learning. Don't get me \underline{\hspace{0.5cm}1\hspace{0.5cm}}. I am very happy about all the communication and learning opportunities the courses have given us. But for me those opportunities should not be used to replace classroom activities. In other words, they are only \underline{\hspace{0.5cm}2\hspace{0.5cm}} to help me learn what has already been \underline{\hspace{0.5cm}3\hspace{0.5cm}} in the classroom.
+
+I love the classroom. I love having classmates. There are forty students in my class right now, and I think it's great. I even love having classmates who are better than me. And, let's \underline{\hspace{0.5cm}4\hspace{0.5cm}} forget the smell of ink on paper, the sound of chalk on a blackboard, the hardness of a wooden bench or the heat inside the classroom in early September. I love it all. But most of \underline{\hspace{0.5cm}5\hspace{0.5cm}}, I love having a teacher---a ``real live'' teacher. I get excited when I am in the classroom with a good teacher. I learn in a way that has been proven to work. I am given insight not only \underline{\hspace{0.5cm}6\hspace{0.5cm}} a certain subject, but also into the world.
+
+What makes having a classroom teacher so \underline{\hspace{0.5cm}7\hspace{0.5cm}}? A good teacher pushes me to \underline{\hspace{0.5cm}8\hspace{0.5cm}}. A good teacher rewards me with praise when I have done well and stays \underline{\hspace{0.5cm}9\hspace{0.5cm}} and gives me hope when I am down. I don't believe that a teacher using a virtual classroom can \underline{\hspace{0.5cm}10\hspace{0.5cm}} me in the same way. A teacher communicating \underline{\hspace{0.5cm}11\hspace{0.5cm}} the Internet cannot share the same type of \underline{\hspace{0.5cm}12\hspace{0.5cm}} a classroom teacher and student share.
+
+I guess that I am lucky to have had \underline{\hspace{0.5cm}13\hspace{0.5cm}} to so many excellent classroom teachers. I will never forget the kindness and \underline{\hspace{0.5cm}14\hspace{0.5cm}} that those teachers have shown me. Their examples make it hard for me to accept a way of learning that \underline{\hspace{0.5cm}15\hspace{0.5cm}} include them. You can call me ``old-fashioned'', but as long as there is a classroom, that's where I will be learning.
+
+\vspace{0.5cm}
+
+\noindent
+\begin{tabular}{@{} l l l l @{}}
+1. & A. unhappy & B. wrong & C. troubled \\
+2. & A. tools & B. terms & C. directions \\
+3. & A. served & B. offered & C. appeared \\
+4. & A. don't & B. not & C. always \\
+5. & A. everything & B. anything & C. all \\
+6. & A. at & B. to & C. into \\
+7. & A. virtual & B. special & C. favorite \\
+8. & A. succeed & B. increase & C. accept \\
+9. & A. positive & B. negative & C. favorite \\
+10. & A. stay out with & B. reach out to & C. go out with \\
+11. & A. through & B. to & C. in \\
+12. & A. relationship & B. situation & C. relative \\
+13. & A. path & B. access & C. entrance \\
+14. & A. commitment & B. assignment & C. companion \\
+15. & A. does & B. does not & C. may \\
+\end{tabular}
+
+\end{document}
+```

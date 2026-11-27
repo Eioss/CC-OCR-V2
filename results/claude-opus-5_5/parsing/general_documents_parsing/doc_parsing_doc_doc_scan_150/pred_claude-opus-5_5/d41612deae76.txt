@@ -1,0 +1,42 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{array}
+
+\begin{document}
+
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{|l|l|l|}
+\hline
+Perimeter & \begin{tabular}[c]{@{}l@{}}Square\\ Rectangle\end{tabular}
+          & \begin{tabular}[c]{@{}l@{}}$P = 4a$\\ $P = 2(l+b)$\end{tabular} \\
+\hline
+Circumference & Circle & $C = 2 * \pi * r$ \\
+\hline
+Area & \begin{tabular}[c]{@{}l@{}}Square\\ Rectangle\\ Triangle\\ Trapezoid\\ Circle\end{tabular}
+     & \begin{tabular}[c]{@{}l@{}}$A = a^2$\\ $A = l * b$\\ $A = bh/2$\\ $A = (b_1+b_2)h/2$\\ $A = \pi * r^2$\end{tabular} \\
+\hline
+Surface Area & \begin{tabular}[c]{@{}l@{}}Cube\\ Cylinder\\ Cone\\ Sphere\end{tabular}
+             & \begin{tabular}[c]{@{}l@{}}$S = 6a^2$\\ $S = 2 * \pi * r * h$\\ $S = \pi * r * l$\\ $S = 4 * \pi * r^2$\end{tabular} \\
+\hline
+Volume & \begin{tabular}[c]{@{}l@{}}Cylinder\\ Cone\\ Sphere\end{tabular}
+       & \begin{tabular}[c]{@{}l@{}}$V = bh$\\ $V = bh/3$\\ $V = 4 * \pi * r^3/3$\end{tabular} \\
+\hline
+Pythagorus Theorem & \multicolumn{2}{c|}{$a^2 + b^2 = c^2$} \\
+\hline
+Distance Formula & \multicolumn{2}{c|}{$d = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$} \\
+\hline
+Slope of a line & \multicolumn{2}{c|}{$m = (y_2-y_1)/(x_2-x_1)$} \\
+\hline
+Midpoint Formula & \multicolumn{2}{c|}{$M = \left((x_1+x_2)/2, (y_1+y_2)/2\right)$} \\
+\hline
+\end{tabular}
+
+\end{document}
+```
+
+**Transcription notes (content kept exactly as shown):**
+- "Pythagorus" is spelled as in the image (standard spelling: *Pythagoras*).
+- The cylinder surface area $S = 2\pi r h$ and cone $S = \pi r l$ in the source are **lateral** surface areas. Total surface areas would be $2\pi r h + 2\pi r^2$ and $\pi r l + \pi r^2$, respectively.
+- In the volume formulas, $b$ denotes the base area.

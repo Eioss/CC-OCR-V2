@@ -1,0 +1,9 @@
+```latex
+\begin{gather*}
+n^e(v)\tilde{v}^e(v) + n^{e'}(v)v^{e'}(v) = 0, \quad n^{e'}(v)\tilde{v}^{e'}(v) = 1, \quad \text{and} \quad \hat{v} \equiv 0 \text{ on } E \setminus \{e, e'\}. \\
+H^{se} = -\hbar \int \left(n_H |H\rangle_s \langle H| + n_V |V\rangle_s \langle V|\right) \otimes \omega |\omega\rangle_e \langle \omega| \, d\omega, \\
+\sup_{0 \le t \le T} \|u^M(t) - u(t)\|_1 = O\left(\|u^M(0) - u(0)\|_1 + \|W^{(M)} - W\|_{op,1}\right). \\
+\hat{R}_i^{(j,m)} = \phi\left(Q_i^{(j)}, N_i^{(j)}, \{C_{(i,r)}^{(j)}\}, \{\hat{R}_{(i,r)}^{(j-1,m)}\}\right), \quad i = 1, \dots, m, \\
+C_n(-T) = (-1)^n C_n(T)
+\end{gather*}
+```

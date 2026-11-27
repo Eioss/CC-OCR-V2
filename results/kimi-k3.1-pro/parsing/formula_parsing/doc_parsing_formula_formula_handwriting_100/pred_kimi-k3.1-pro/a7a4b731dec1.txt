@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+&m(\pi,\nu)=\frac{1}{|S_{\psi}|}\sum_{\tilde{x}\in S_{\psi}}e_{\psi}(\tilde{x})\langle x,\tilde{c}\rangle\,\nu(\tilde{x})^{-1}\langle\lambda_{\mathrm{new}},x\rangle,\\
+&\nu(t_{0},p,e)\ge 1-\exp\!\left(-c\frac{\delta^{2}}{(T-t_{0})^{2}}\right),\qquad \tilde{e}\ge \Lambda+\ell(T-t_{0})+\delta,\\
+&\nu(t_{0},p,e)\le \exp\!\left(-c\frac{\delta^{2}}{(T-t_{0})^{2}}\right),\qquad \tilde{e}\le \Lambda-\delta,\\
+&S_{\varepsilon}(\theta)\le S_{1}(\theta)\le e^{c\left(e^{2|\theta|}-1\right)}S_{1}(0)\qquad \text{for every }\theta,\\
+&(n-1)^{H-\frac12}\frac{\phi_{n}^{(1)}(x)}{H-\frac12}
+\le \int_{0}^{1}(v+n-1)^{H-\frac12}(v+n-1-x)^{H-\frac32}\,dv
+\le n^{H-\frac12}\frac{\phi_{n}^{(1)}(x)}{H-\frac12},\\
+&\nu_{k,k}^{(L)}(h_{k}^{(L)})
+=\frac16\sigma'''(\varepsilon_{k,k}^{(L)})M_{k,k}^{(L)}(h_{k}^{(L)})^{3}
++N_{k,k}^{(L)}(h_{k}^{(L)})\\
+&\qquad=\frac16\sigma'''(\varepsilon_{k,k}^{(L)})M_{k,k}^{(L)}(h_{k}^{(L)})^{3}
++\frac12\sigma''(0)\left(X_{k,k}^{(L)}+Y_{k,k}^{(L)}+J_{k,k}^{(L)}\right).
+\end{aligned}
+\]

@@ -1,0 +1,110 @@
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Case</th>
+      <th>Age</th>
+      <th>Sex</th>
+      <th>Side</th>
+      <th>AIS</th>
+      <th>ISS</th>
+      <th>Suicidal jump</th>
+      <th>Longitudinal displacement</th>
+      <th>Sacral transverse fracture</th>
+      <th>Type of pelvic fracture (AO)</th>
+      <th>Denis</th>
+      <th>Functional deficit (MMT)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>55</td>
+      <td>M</td>
+      <td>lt</td>
+      <td>5</td>
+      <td>34</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>(-)</td>
+      <td>IP 3, Quad 3, TA 3</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>62</td>
+      <td>M</td>
+      <td>rt</td>
+      <td>5</td>
+      <td>25</td>
+      <td>(-)</td>
+      <td>(+)</td>
+      <td>(-)</td>
+      <td>C</td>
+      <td>Zone I</td>
+      <td>Quad 3, TA 3</td>
+    </tr>
+    <tr>
+      <td rowspan="2">3</td>
+      <td rowspan="2">31</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">34</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 0, TA 0</td>
+    </tr>
+    <tr>
+      <td>lt</td>
+      <td>C</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+    <tr>
+      <td rowspan="2">4</td>
+      <td rowspan="2">37</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">29</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td>C</td>
+      <td>Zone II</td>
+      <td>Quad 2, TA 0</td>
+    </tr>
+    <tr>
+      <td>lt</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 2, TA 0</td>
+    </tr>
+    <tr>
+      <td rowspan="2">5</td>
+      <td rowspan="2">25</td>
+      <td rowspan="2">F</td>
+      <td>rt</td>
+      <td rowspan="2">5</td>
+      <td rowspan="2">29</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td rowspan="2">(+)</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+    <tr>
+      <td>lt</td>
+      <td>B</td>
+      <td>Zone II</td>
+      <td>Quad 1, TA 1</td>
+    </tr>
+  </tbody>
+</table>
+```

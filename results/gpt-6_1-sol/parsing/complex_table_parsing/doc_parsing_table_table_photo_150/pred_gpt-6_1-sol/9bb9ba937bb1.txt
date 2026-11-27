@@ -1,0 +1,112 @@
+<h3>施工现场类隐患排查清单</h3>
+<h4>作业活动隐患排查清单</h4>
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <td colspan="5">风险点</td>
+    <td colspan="2" rowspan="2">作业步骤</td>
+    <td colspan="3" rowspan="2">排查内容与排查标准</td>
+    <td colspan="2">日常检查</td>
+    <td>专项检查</td>
+    <td colspan="2">综合性检查</td>
+  </tr>
+  <tr>
+    <td rowspan="2">编号</td>
+    <td rowspan="2">类型</td>
+    <td rowspan="2">名称</td>
+    <td rowspan="2">等级</td>
+    <td rowspan="2">责任单位</td>
+    <td>班中巡检</td>
+    <td>班中交接班</td>
+    <td rowspan="2">车间级/企业</td>
+    <td rowspan="2">班组/项目部</td>
+    <td rowspan="2">领导/企业</td>
+  </tr>
+  <tr>
+    <td>序号</td>
+    <td>名称</td>
+    <td>危险源或潜在事件</td>
+    <td colspan="2">管控措施</td>
+    <td>班子/班组</td>
+    <td>每天/作业人员</td>
+  </tr>
+  <tr>
+    <td rowspan="7">1</td>
+    <td rowspan="7">操作及作业活动</td>
+    <td rowspan="7">临时用电作业</td>
+    <td rowspan="7">Ⅲ</td>
+    <td rowspan="7">班组</td>
+    <td rowspan="5">1</td>
+    <td rowspan="5">作业前</td>
+    <td rowspan="5">不按规定要求办理（临时用电审批），而接电源。</td>
+    <td>工程技术措施</td>
+    <td>/</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>管理措施</td>
+    <td>不按规定要求办理（临时用电审批），而接电源。严格落实动火、临时用电作业许可证制度。</td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>培训教育措施</td>
+    <td>
+      1、车间每季度对全员进行安全培训；<br>
+      2、班组每日对当班的员工进行安全教育培训；<br>
+      3、每月工队前进行安全教育培训；<br>
+      4、定期参加公司组织安全培训；
+    </td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>个体防护措施</td>
+    <td>按要求穿戴工作服，袖口、领口、纽扣系好，佩戴橡胶电工帽、绝缘手套、绝缘鞋。</td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>应急处置措施</td>
+    <td>员工发生触电事故后，发现者应立即拉下电源开关，也可以干燥的竹竿、木棒等绝缘器材挑开触电者身上的电线，并要及时切断电源后再抢救伤者。</td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">2</td>
+    <td rowspan="2">作业过程控制</td>
+    <td rowspan="2">电源线路绝缘不良，电工个人防护用品佩戴不全或不当</td>
+    <td>工程技术措施</td>
+    <td>加设漏电保护</td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>管理措施</td>
+    <td>电源线路绝缘不良、电工个人防护用品佩戴不全或不当，严格落实执行（临时用电作业许可证制度）</td>
+    <td></td>
+    <td>√</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>

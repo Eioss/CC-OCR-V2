@@ -1,0 +1,12 @@
+```json
+{
+  "date": "28/05/18",
+  "doc_no_receipt_no": "7698/0601/00601",
+  "seller_address": "Henara Dian #02-03, Level 2, 27, Jalan Sultan Ismail, 50250 Kuala Lumpur.",
+  "seller_gst_id": "000850247680",
+  "seller_name": "Dian Realties Sdn Bhd (Co. No:20154-T)",
+  "seller_phone": "+6 03 2026 6306",
+  "total_amount": "5.00",
+  "total_tax": "0.28"
+}
+```

@@ -1,0 +1,126 @@
+```latex
+\documentclass{article}
+\usepackage[a4paper,landscape,margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{graphicx}
+
+\begin{document}
+
+\noindent Candidate Statement of Results
+
+\bigskip
+
+\noindent
+\begin{tabular}{@{}ll@{\hspace{5cm}}ll@{}}
+\textbf{Season:} & Summer 2018 & \textbf{Series:} & (All) \\
+\textbf{Name:} & \textnormal{[Blacked out]} & \textbf{Year:} & 11 \\
+\textbf{Candidate Number:} & \textnormal{[Blacked out]} &
+\textbf{Reg. Group:} & 11S \\
+\textbf{UCI:} & \textnormal{[Blacked out]} &
+\textbf{ULN:} & \textnormal{[Blacked out]}
+\end{tabular}
+
+\bigskip
+
+\section*{Exam Results}
+
+\noindent
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lll l cc rr cc r@{}}
+\hline
+\textbf{Board} &
+\textbf{Level} &
+\begin{tabular}[t]{@{}l@{}}\textbf{Element}\\\textbf{Code}\end{tabular} &
+\textbf{Title} &
+\textbf{Grd1} &
+\textbf{Grd2} &
+\textbf{Mark} &
+\textbf{Equiv} &
+\textbf{End1} &
+\textbf{End2} &
+\textbf{Points} \\
+\hline
+EDEXL/GV & DIDA/CE2 & GCDA2 &
+Cert.in Dig.Apps.Level 2 &
+C & & & 41 & & & 4 \\
+
+EDEXL/GC & GCSE/9FC & 1MA1H &
+Mathematics Option H &
+4 & & & 58 & & & 4 \\
+
+EDEXL/GC & GCSE/9FC & 1RA0ZS &
+Religious Studies A Option ZS &
+2 & & & 42 & & & 2 \\
+
+AQA & GCSE/9FC & 8700 &
+English Language &
+4 & & & & P & & 4 \\
+
+AQA & GCSE/9FC & 8702 &
+English Literature &
+5 & & & & & & 5 \\
+
+OCR & GCSE/9FC & J276 &
+Computer Science &
+2 & & & & & & 2 \\
+
+AQA & GCSE/DA & 8464H &
+Combined Sci: Trilogy Tier H &
+44 & & & & & & 8 \\
+
+AQA & GCSE/FC & 4688 &
+Polish &
+B & & & 303 & & & 5.5 \\
+
+EDEXL/GV & DIDA/B & DA201 &
+Digital Applications UN 1 &
+& & 5 & u & & & \\
+
+EDEXL/GV & DIDA/B & DA204E &
+Digital Applications UN 4 Option E &
+& & 36 & b & & & \\
+
+AQA & GCSE/B & 46851 &
+Polish Unit 1 &
+& & 74 & b & & & \\
+
+AQA & GCSE/B & 46852 &
+Polish Unit 2 &
+& & 78 & b & & & \\
+
+AQA & GCSE/B & 46853 &
+Polish Unit 3 &
+& & 73 & b & & & \\
+
+AQA & GCSE/B & 46854 &
+Polish Unit 4 &
+& & 78 & b & & & \\
+\end{tabular}%
+}
+
+\medskip
+\noindent
+\textit{Handwritten annotations: the ``P'' in the End1 column is circled;
+below it are handwritten marks resembling ``1'', ``2'', and ``.0''.}
+
+\section*{Additional Results}
+
+\noindent
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lll l cr@{}}
+\hline
+\textbf{Board} &
+\textbf{Level} &
+\begin{tabular}[t]{@{}l@{}}\textbf{Subject}\\\textbf{Code}\end{tabular} &
+\textbf{Title} &
+\textbf{Grade} &
+\textbf{Points} \\
+\hline
+NCFE & NQF/L2 & HJ1 &
+NCFE Level 2 Certificate in Health and Fitness &
+Merit & 5.5 \\
+\end{tabular}%
+}
+
+\end{document}
+```

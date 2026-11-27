@@ -1,0 +1,126 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{tikz}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\begin{tabular}{cccccc}
+$A$ & 1 & 8 & 9 & 16 & $\cdots$ \\
+$B$ & 2 & 7 & 10 & 15 & $\cdots$ \\
+$C$ & 3 & 6 & 11 & 14 & $\cdots$ \\
+$D$ & 4 & 5 & 12 & 13 & $\cdots$ \\
+\end{tabular}
+\end{center}
+
+\noindent 7. In which row is the number 600?
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 1st row & (2) 2nd row & (3) 3rd row & (4) 4th row
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 8. How many columns are there in Row $A$ if 200 is the last number?
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 48 & (2) 50 & (3) 52 & (4) 54
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 9. Compute the following.
+
+$37 + 397 + 3997 + 39\,997$
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 42 284 & (2) 42 482 & (3) 44 248 & (4) 44 428
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 0. Compute the following.
+
+$298 + 2998 + 29\,998 + 299\,998$
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 333 292 & (2) 334 222 & (3) 334 292 & (4) 335 222
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 1. Compute the following.
+
+$9 + 99 + 999 + 9999 + 99\,999$
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 110 215 & (2) 110 745 & (3) 110 995 & (4) 111 105
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 2. A farmer has 45 chickens and rabbits. There are 140 legs altogether. How many chickens does the farmer have? How many rabbits does the farmer have?
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 24 & (2) 25 & (3) 26 & (4) 27
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 3. A spider has 8 legs. A dragonfly has 6 legs. 28 spiders and dragonflies have 200 legs altogether. How many spiders are there? How many dragonflies are there?
+
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{3cm}}
+(1) 10 & (2) 11 & (3) 12 & (4) 13
+\end{tabular}
+
+\vspace{1em}
+
+\noindent 4. Find the values of A and B in the following.
+
+\begin{center}
+\begin{tikzpicture}[scale=1.1]
+    % First Triangle
+    \begin{scope}[shift={(0,0)}]
+        \fill[gray!35] (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \draw (0,0) -- (2,0) -- (1,1.732) -- cycle;
+        \draw (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \node at (1,1.155) {18};
+        \node at (1,0.577) {10};
+        \node at (0.5,0.289) {12};
+        \node at (1.5,0.289) {16};
+    \end{scope}
+
+    % Second Triangle
+    \begin{scope}[shift={(3,0)}]
+        \fill[gray!35] (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \draw (0,0) -- (2,0) -- (1,1.732) -- cycle;
+        \draw (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \node at (1,1.155) {34};
+        \node at (1,0.577) {A};
+        \node at (0.5,0.289) {25};
+        \node at (1.5,0.289) {15};
+    \end{scope}
+
+    % Third Triangle
+    \begin{scope}[shift={(6,0)}]
+        \fill[gray!35] (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \draw (0,0) -- (2,0) -- (1,1.732) -- cycle;
+        \draw (0.5,0.866) -- (1.5,0.866) -- (1,0) -- cycle;
+        \node at (1,1.155) {20};
+        \node at (1,0.577) {22};
+        \node at (0.5,0.289) {B};
+        \node at (1.5,0.289) {18};
+    \end{scope}
+\end{tikzpicture}
+\end{center}
+
+\begin{tabular}{p{6cm}p{6cm}}
+(1) A = 6, B = 18 & (3) A = 8, B = 20 \\
+(2) A = 6, B = 24 & (4) A = 8, B = 22
+\end{tabular}
+
+\end{document}
+```

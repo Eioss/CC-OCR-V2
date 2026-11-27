@@ -1,0 +1,75 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\noindent 4. The given table shows the number of students enrolled in history, liberal arts math, and English during the fall and Spring semesters. If there are 197 full time teaching positions available for apportionment among the three departments based on course enrollment, answer each of the following questions.
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Subject} & \textbf{Fall} & \textbf{Spring} \\
+\hline
+\textbf{History} & 1902 & 1922 \\
+\hline
+\textbf{Liberal Arts Math} & 14200 & 14200 \\
+\hline
+\textbf{English} & 3898 & 3938 \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent a. Find the number of teaching positions that should be apportioned to each department in the fall using Jefferson's Method
+
+\begin{center}
+\begin{tabular}{|p{2cm}|p{1.6cm}|p{1.4cm}|p{1.8cm}|p{1.4cm}|p{1.8cm}|p{1.4cm}|}
+\hline
+\textbf{Subject} & \textbf{Standard Quota} & \textbf{Lower Quota} & \textbf{Modified Quota (if needed)} & \textbf{New Lower Quota} & \textbf{Modified Quota (if needed)} & \textbf{New Lower Quota} \\
+\hline
+\textbf{History} & 18.08 & 18 & 18.99 & 18 & & \\
+\hline
+\textbf{Liberal Arts Math} & 139.66 & 139 & 141.08 & 141 & & \\
+\hline
+\textbf{English} & 38.53 & 38 & 38.92 & 38 & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent b. Find the number of teaching positions that should be apportioned to each department in the fall using Hamilton's Method
+
+\begin{center}
+\begin{tabular}{|p{2.2cm}|p{2cm}|p{2cm}|p{2.2cm}|p{2.2cm}|}
+\hline
+\textbf{Subject} & \textbf{Standard Quota} & \textbf{Lower Quota} & \textbf{Additional (based on decimals)} & \textbf{Final allocation} \\
+\hline
+\textbf{History} & 18.08 & 18 & 0 & 18 \\
+\hline
+\textbf{Liberal Arts Math} & 139.66 & 139 & 1 & 140 \\
+\hline
+\textbf{English} & 38.53 & 38 & 1 & 39 \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent c. Find the number of teaching positions that should be apportioned to each department in the fall using Webster's Method.
+
+\begin{center}
+\begin{tabular}{|p{2cm}|p{1.6cm}|p{1.5cm}|p{1.8cm}|p{1.5cm}|p{1.8cm}|p{1.5cm}|}
+\hline
+\textbf{Subject} & \textbf{Standard Quota} & \textbf{Rounded Quota} & \textbf{Modified Quota (if needed)} & \textbf{New Rounded Quota} & \textbf{Modified Quota (If needed)} & \textbf{New Rounded Quota} \\
+\hline
+\textbf{History} & 18.08 & 18 & & & & \\
+\hline
+\textbf{Liberal Arts Math} & 139.66 & 140 & & & & \\
+\hline
+\textbf{English} & 38.53 & 39 & & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

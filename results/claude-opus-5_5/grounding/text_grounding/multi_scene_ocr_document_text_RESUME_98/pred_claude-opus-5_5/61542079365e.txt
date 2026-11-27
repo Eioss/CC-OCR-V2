@@ -1,0 +1,5 @@
+The large name heading "梦瑶" at the top of the page is located at:
+
+(263, 38, 340, 67)
+
+The name also appears in the "姓名：梦瑶" line in the left sidebar, but these coordinates are for the main heading.

@@ -1,0 +1,26 @@
+```latex
+\begin{center}
+A \\
+{\Huge \textcolor{red}{DICTIONARY}} \\
+ENGLISH, GERMAN AND FRENCH, \\
+CONTAINING NOT ONLY \\
+{\Large \textcolor{red}{THE ENGLISH WORDS}} \\
+IN THEIR ALPHABETICAL ORDER, \\
+TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS; \\
+BUT ALSO \\
+THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES, \\
+IDIOMS, AND PROVERBS, \\
+TAKEN FROM THE BEST NEW \\
+{\Large \textcolor{red}{ENGLISH DICTIONARIES}} \\
+BY \\
+{\large Mr. CHRISTIAN LUDWIG.} \\
+\textcolor{red}{SECOND EDITION} \\
+CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY \\
+AUGMENTED. \\
+\vspace{0.5cm}
+% Image of a Pegasus is present here
+\vspace{0.5cm}
+\textcolor{red}{LEIPZIG AND FRANCFURT} \\
+MDCCXXXVI
+\end{center}
+```

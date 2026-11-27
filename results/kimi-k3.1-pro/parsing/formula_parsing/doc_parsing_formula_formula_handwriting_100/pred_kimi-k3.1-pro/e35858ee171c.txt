@@ -1,0 +1,55 @@
+\[
+F_{1}=4\left\langle(\Delta f_{i})^{2}\right\rangle
+\]
+
+\[
+\partial_{t}u_{t}(x)=\frac{1}{2}\Delta u_{t}(x)+\sigma\!\left(x,u_{t}(x)\right)\dot{W}_{t}(x),\qquad t\in[0,T],\quad x\in\mathbb{R},
+\]
+
+\[
+\overline{D}u(z)=0\qquad \forall z\in\Omega\setminus\partial U.
+\]
+
+\[
+A\oplus B\in SC(X\times X\times\mathbb{R})
+\]
+
+\[
+\limsup_{t\to\infty}t^{\frac{3}{4}+\frac{1}{2}}\left|I_{3}^{\delta}(t)\right|
+\le C\lim_{t\to\infty}\int_{0}^{\infty}\int_{|w|\ge t^{\frac{3}{4}}}
+\left|U_{f}(w,r)\right|\,dw\,dr=0.
+\]
+
+\[
+\left|\xi^{T}S_{g}\xi\right|
+=\frac{\left|\xi^{T}A\xi\right|}
+{\left(x^{T}A_{0}^{-1}AA_{0}^{-1}x\right)^{2}}
+\left|(C^{T}x)^{T}(y-x)-(y-x)^{T}Cx\right|
+\le
+\frac{\xi^{T}A\xi\left(|Cx|+|C^{T}x|\right)|x-y|}
+{\left(x^{T}A_{0}^{-1}AA_{0}^{-1}x\right)^{2}}
+\]
+
+\[
+m\circ\exp_{q}\!\left(tD_{1}\otimes D_{2}\right)
+=m\circ\left(
+id\otimes id+tD_{1}\otimes D_{2}
++\frac{1}{1+q}\left(t^{2}D_{1}^{2}\otimes D_{2}^{2}\right)
+\right)
+\]
+
+\[
+\sum_{n\ge1}M\{T_{n}=z\}<\infty
+\]
+
+\[
+\Lambda_{1}
+=-2\kappa\frac{\rho}{\langle z\rangle}\partial_{\rho}
+=-2\kappa\sum_{j=1}^{2}\frac{z_{j}}{\langle z\rangle}\partial_{z_{j}},
+\]
+
+\[
+\Lambda_{2}
+=\frac{\kappa^{2}|z|^{2}\langle z\rangle-\kappa}{\langle z\rangle^{3}}
++\frac{\kappa|z|\cosh|z|}{\langle z\rangle\sinh|z|}
+\]

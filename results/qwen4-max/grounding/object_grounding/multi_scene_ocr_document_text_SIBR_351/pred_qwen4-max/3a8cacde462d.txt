@@ -1,0 +1,9 @@
+I need to extract values for each labeled field from this medical receipt. Let me carefully read each field and its corresponding value, mapping bounding boxes in 0-1000 relative coordinates.
+
+Working through the fields: title at top, business serial number, name, gender, insurance type, social security number, the table items with specs/quantities/amounts, totals, payment breakdowns, date, and signatures. I'll provide value boxes for each requested category.<tool_call>
+<function>
+<parameter=reasoning>
+Need to map each requested label to its value region. The image is roughly 2338x1500. I'll estimate relative coords (0-1000). Title spans top center. 业务流水号 value 3906450071 near top left. 姓名 陈颖. 性别 女. 医保类型 泾县农合. 社会保障号码 3010219029. 皖财专(2016)P No value 3406157900 top right. Table rows: 项目 names, 规格 specs, 数量 quantities, 金额 amounts. 合计大写 叁佰玖拾捌元捌角捌分. 医保余额 0. 医保统筹支付 220.93. 个人账户支付 0. 其他医保支付 0. 个人支付金额 177.95. 收款人签章 陈磊/2126. 收款单位章 时空盒数字网络人民医院. 年 2017 月 12. TEL vertical left (0553)6666000. I'll produce boxes for values.
+</parameter>
+</function>
+</tool_call>

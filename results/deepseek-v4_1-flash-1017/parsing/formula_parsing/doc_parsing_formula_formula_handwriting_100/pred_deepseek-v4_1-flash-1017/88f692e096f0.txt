@@ -1,0 +1,20 @@
+```latex
+|TE_\epsilon(x, N)| \le c \left( N H^{\frac{1}{2}} L^{-\frac{1}{2}} + L^{\frac{1}{2}} \right)
+
+\int_{Q_R^{T-R^{2m}, \pi}} u^p dxdt > 0.
+
+\mathcal{L} \left\{ \int_a^R \mathcal{D}_t^\alpha f(t) \right\} = \sum_{k=0}^{+\infty} \frac{f^{(k)}(a)}{s^{k+1-\alpha}} \frac{e^{-as} \Gamma(k+\alpha+1, -as)}{\Gamma(k+\alpha+1)},
+
+\sum_\lambda \left[ \frac{\mu}{\lambda} \right]^{-\epsilon} \left[ \frac{\nu}{\lambda} \right]^{-\epsilon} \le \epsilon \left( 1 + \log \left[ \frac{\mu}{\nu} \right] \right) \left[ \frac{\mu}{\nu} \right]^{-\epsilon} = C_\mu / \nu.
+
+x \mapsto x \tilde{V}'(x) = x V'(x) + \int \frac{x}{x-s} dV^*(s)
+
+\Phi_R + \Phi_R^* = 2 \times \text{Re}\{\Phi_R\},
+\Phi_R - \Phi_R^* = 2i \times \text{Im}\{\Phi_R\},
+
+\sigma(A_i) = A_i, \quad \sigma(B_i) = B_i + A_i^{e_i}
+
+\phi(r) = \int_0^r x^2 \left( \frac{s}{2R} \right) ds = \int_0^r \psi \left( \frac{s}{2R} \right) ds,
+
+\frac{1}{b-a} \int_a^b f(x) dx \le \min \left\{ L \left( f(a), f\left(\frac{b}{m}\right)^m \right), L \left( f(b), f\left(\frac{a}{m}\right)^m \right) \right\},
+```

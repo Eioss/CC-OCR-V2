@@ -1,0 +1,112 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows.meta, decorations.pathreplacing}
+
+\begin{document}
+
+% 页眉
+\noindent\textsf{KEEP AWAKE 觉晓教育} \hfill \textbf{民法主观题知识点＋小案例}
+
+\vspace{1em}
+
+% 表格
+\noindent
+\begin{tabular}{|>{\centering\arraybackslash}m{2cm}|m{12.5cm}|}
+\hline
+ & 问4：丙公司与戊公司签订房产买卖合同效力如何？为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+\hline
+\multirow{3}{*}{2010年}
+ & 问2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？（多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+ & 问6：甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？（被代理人以履行合同的方式追认无权代理） \\
+\cline{2-2}
+ & 问7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？（无权处分不影响买卖合同的效力） \\
+\hline
+\end{tabular}
+
+\vspace{2em}
+
+\begin{center}
+{\Large\textbf{第一节\quad 合同的成立}}
+\end{center}
+
+\vspace{1em}
+
+% 关系图
+\begin{center}
+\begin{tikzpicture}[
+  box/.style={draw, thick, rounded corners=2pt, align=left, font=\small, inner sep=5pt},
+  sbox/.style={draw, thick, rounded corners=2pt, font=\small, minimum width=1.8cm, minimum height=0.7cm},
+  brace/.style={decorate, decoration={brace, amplitude=6pt, mirror}, thick},
+  bigarrow/.style={-{Triangle[open, length=3mm, width=4mm]}, line width=1.2pt}
+]
+  % 虚线
+  \draw[dashed, thick] (0,4.2) -- (0,-5);
+
+  % 事实判断 / 价值判断
+  \node[box] (fact) at (-1.6,2.8) {事实判断\\1.当事人\\2.意思表示\\3.标的};
+  \node[box] (value) at (2.6,2.8) {价值判断\\1.民事行为能力\\2.意思表示真实、自由\\3.不违反强制性规定、\\不违背公序良俗};
+
+  \draw[bigarrow] (fact.south) ++(0,-0.2) -- ++(0,-1.2);
+  \draw[bigarrow] (value.south) ++(0,-0.2) -- ++(0,-1.2);
+
+  % 民事法律行为
+  \node[sbox] (act) at (-5,-2.2) {民事法律行为};
+  \node[sbox] (no) at (-1.5,-1.2) {不成立};
+  \node[sbox] (yes) at (-1.5,-3.2) {成立};
+  \draw[brace] (-3.4,-1.2) -- (-3.4,-3.2);
+
+  % 有效 / 效力瑕疵
+  \node[sbox] (valid) at (2,-1.6) {有效};
+  \node[sbox] (defect) at (2,-4.0) {效力瑕疵};
+  \draw[brace] (0.6,-1.6) -- (0.6,-4.0);
+
+  % 生效 / 未生效
+  \node[sbox] (eff) at (5,-0.4) {生效};
+  \node[sbox] (noeff) at (5,-2.4) {未生效};
+  \draw[brace] (3.6,-0.4) -- (3.6,-2.4);
+
+  \node[sbox] (most) at (8.3,-0.4) {大多数合同、婚姻};
+  \draw[-{Stealth}, thick] (eff.east) -- (most.west);
+
+  % 未生效分类
+  \node[align=left, font=\small, anchor=west] at (6.6,-2.4) {附延缓条件\\附始期\\需要审批\\遗嘱};
+  \draw[brace] (6.5,-1.6) -- (6.5,-3.2);
+
+  % 效力瑕疵分类
+  \node[align=left, font=\small, anchor=west] at (3.6,-4.0) {无效\\可撤销\\效力待定};
+  \draw[brace] (3.5,-3.4) -- (3.5,-4.6);
+\end{tikzpicture}
+
+\vspace{0.5em}
+\textbf{【民事法律行为成立、有效、生效关系图】}
+\end{center}
+
+\vspace{1em}
+
+合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\section*{一、合同的订立：要约与承诺}
+
+\subsection*{（一）要约}
+
+要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+1. 向希望与之订立合同的受要约人作出。
+
+2. 内容具体且确定：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+3. 具有订立合同的目的并表明一经承诺即受拘束的意思。
+
+\end{document}
+```
+
+**Notes:**
+- The page contains no mathematical equations, so none appear in the output.
+- The diagram is reproduced with TikZ to approximate the original layout, including the dashed dividing line, hollow arrows, braces and boxes.
+- Compile with XeLaTeX, which `ctexart` needs to render Chinese text.

@@ -1,0 +1,18 @@
+I need to extract specific fields from this medical receipt image. Let me analyze each category and locate the corresponding values.
+
+Looking at the document, I can identify:
+- 标题 (title): 湖北省医疗单位门诊收费票据
+- 收费单位: 艾提科信网络人民医院
+- 日期: 2019-0... 16:14:56
+- 姓名: 戴英
+- 就诊科室: 妇产科
+- 项目: 化验费
+- 人民币大写: 肆佰伍拾元整
+- 自费: ￥450.00元
+- 公费: ￥0元
+- 收费员: 199918175000125
+- 收款: 徐洁
+- 门诊号: 01081099
+- 第一联: 收据
+
+Let me map bounding boxes for each value.

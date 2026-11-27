@@ -1,0 +1,3 @@
+```json
+{"date_issue": "10/18/2020", "order_id": "228936", "vendor_name": "WXXV-TV", "vendor_address": "P.O. Box 2500\nGulfport, MS 39505", "customer_id": "1005", "customer_billing_name": "Maggie Clark Media Ser", "customer_billing_address": "139 Bent Creek Drive\nBrandon, MS 39047", "customer_other_name": "Pol - Cindy Hyde-Smith", "amount_total_gross": "$825.00", "amount_due": "$701.25", "payment_terms": "Cash In Advance"}
+```

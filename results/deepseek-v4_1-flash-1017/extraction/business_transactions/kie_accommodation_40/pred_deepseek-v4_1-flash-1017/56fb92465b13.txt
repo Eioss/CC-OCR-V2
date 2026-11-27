@@ -1,0 +1,11 @@
+```json
+{
+  "Departure Date": "10/30/20",
+  "Arrival Date": "10/26/20",
+  "Total Amount": "2,400.00",
+  "Name": "Derek Wise",
+  "Balance": "2,400.00 RMB",
+  "Address": "brook Resort, zijingang Road, zhou, zhejiang, 310030, P.R. China",
+  "Hotel Name": "Sheraton Grand Hangzhou Wetland Park Resort"
+}
+```

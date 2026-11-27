@@ -1,0 +1,17 @@
+```json
+[
+  {"bbox_2d": [38, 68, 695, 88], "label": "ADDRESS"},
+  {"bbox_2d": [791, 386, 951, 403], "label": "Amount (EURO)"},
+  {"bbox_2d": [211, 8, 721, 47], "label": "COMPANY NAME"},
+  {"bbox_2d": [482, 89, 695, 105], "label": "FAX"},
+  {"bbox_2d": [142, 173, 230, 189], "label": "INV.DATE"},
+  {"bbox_2d": [142, 123, 330, 168], "label": "INV.NO"},
+  {"bbox_2d": [165, 394, 315, 411], "label": "Item no.&Description"},
+  {"bbox_2d": [11, 359, 85, 375], "label": "Marks&Nos."},
+  {"bbox_2d": [490, 393, 570, 411], "label": "Quantity (PKGS)"},
+  {"bbox_2d": [663, 123, 951, 168], "label": "S/C NO"},
+  {"bbox_2d": [258, 89, 465, 105], "label": "TEL"},
+  {"bbox_2d": [388, 143, 465, 161], "label": "TITLE"},
+  {"bbox_2d": [594, 393, 695, 411], "label": "Unit Price (EURO)"}
+]
+```

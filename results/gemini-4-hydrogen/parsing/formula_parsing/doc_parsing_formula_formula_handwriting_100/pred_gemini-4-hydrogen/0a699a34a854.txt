@@ -1,0 +1,10 @@
+$$
+\begin{aligned}
+&\mathbb{E} \Bigg[ \int_{t_0}^{(t_0+h) \wedge \mu(u) \wedge \tau_S} f\left(s, X_s^{t_0, x_0, u}\right) ds + \sum_{j \ge 1} c(\tau_j, \xi_j) \cdot 1_{\{\tau_j \le (t_0+h) \wedge \mu(u) \wedge \tau_S\}} \\
+&\qquad\qquad\qquad\qquad\qquad\qquad + G\left(\mu(u) \wedge \tau_S, X_{\mu(u) \wedge \tau_S}^{t_0, x_0, u}\right) \cdot 1_{\{\mu(u) \wedge \tau_S \le t_0+h\}} \Bigg] \\
+&+ \mathbb{E} \Bigg[ \int_{t_0+h}^{\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S} f\left(s, X_s^{t_0+h, X_{t_0+h}^{t_0, x_0, u}, u_{[t_0+h, \tau_S]}}\right) ds \\
+&\qquad + \sum_{j \ge 1} c(\tau_j', \xi_j') \cdot 1_{\{\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S \ge \tau_j' > t_0+h\}} \\
+&\qquad + G\left(\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S, X_{\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S}^{t_0+h, X_{t_0+h}^{t_0, x_0, u}, u_{[t_0+h, \tau_S]}}\right) \cdot 1_{\{\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S < \infty\}} \\
+&\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \Bigg] \cdot 1_{\{\hat{\mu}(u_{[t_0+h, \tau_S]}) \wedge \tau_S \ge t_0+h\}} - \epsilon.
+\end{aligned}
+$$

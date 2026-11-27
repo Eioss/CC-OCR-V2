@@ -1,0 +1,28 @@
+```json
+[
+  {"bbox_2d": [30, 92, 203, 108], "label": "Title"},
+  {"bbox_2d": [30, 113, 143, 126], "label": "C/I No"},
+  {"bbox_2d": [30, 134, 68, 147], "label": "Date"},
+  {"bbox_2d": [30, 168, 68, 181], "label": "Sold to"},
+  {"bbox_2d": [30, 257, 115, 270], "label": "Delivery Address"},
+  {"bbox_2d": [263, 122, 308, 135], "label": "Company Name"},
+  {"bbox_2d": [263, 137, 520, 150], "label": "Address"},
+  {"bbox_2d": [263, 170, 308, 183], "label": "TEL"},
+  {"bbox_2d": [263, 184, 308, 197], "label": "Terms of Delivery"},
+  {"bbox_2d": [263, 211, 308, 224], "label": "Terms of Payment"},
+  {"bbox_2d": [263, 272, 308, 285], "label": "Currency"},
+  {"bbox_2d": [403, 170, 443, 183], "label": "FAX"},
+  {"bbox_2d": [403, 184, 468, 197], "label": "Port of Loading"},
+  {"bbox_2d": [403, 211, 468, 224], "label": "Port of Discharge"},
+  {"bbox_2d": [403, 272, 468, 285], "label": "Destination"},
+  {"bbox_2d": [560, 122, 640, 135], "label": "Company Name"},
+  {"bbox_2d": [560, 137, 820, 150], "label": "Address"},
+  {"bbox_2d": [560, 170, 605, 183], "label": "TEL"},
+  {"bbox_2d": [560, 184, 605, 197], "label": "Type of Container"},
+  {"bbox_2d": [560, 211, 605, 224], "label": "ETD"},
+  {"bbox_2d": [560, 257, 605, 270], "label": "PO NO."},
+  {"bbox_2d": [680, 170, 720, 183], "label": "FAX"},
+  {"bbox_2d": [680, 184, 720, 197], "label": "Cust NO."},
+  {"bbox_2d": [680, 211, 720, 224], "label": "Your Cont."}
+]
+```

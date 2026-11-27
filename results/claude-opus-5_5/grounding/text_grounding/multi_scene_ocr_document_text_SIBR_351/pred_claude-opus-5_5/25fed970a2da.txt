@@ -1,0 +1,5 @@
+There are several '元' characters on this receipt, so the target is ambiguous. I picked the one after "分类自负" in the "现金支付中" row:
+
+(269, 696, 281, 717)
+
+Other '元' characters appear in the "金额（元）" header, after "自负", after "自费 3", and in the total "壹拾玖元整".

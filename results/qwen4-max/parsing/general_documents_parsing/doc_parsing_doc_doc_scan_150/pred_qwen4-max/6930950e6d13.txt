@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage{ctex}
+\usepackage{titletoc}
+
+% Define the formatting for the table of contents entries
+\dottedcontents{section}[2.3em]{\bfseries}{2.3em}{5pt}
+\dottedcontents{subsection}[4.6em]{}{3.2em}{5pt}
+\dottedcontents{subsubsection}[7.8em]{}{4.1em}{5pt}
+
+\begin{document}
+
+\begin{center}
+    \Large\textcolor{blue}{资源循环代谢性能驱动的城市街区形态生成与优化设计研究}
+\end{center}
+
+\vspace{1cm}
+
+{\LARGE 目录}
+
+\vspace{0.5cm}
+
+% Manually create the TOC entries to match the image exactly
+\contentsline {section}{绪论}{5}
+\contentsline {subsection}{\numberline {0.1}研究背景}{5}
+\contentsline {subsubsection}{\numberline {0.1.1}城市所面临的生态危机}{5}
+\contentsline {subsubsection}{\numberline {0.1.2}多学科交叉研究}{5}
+\contentsline {subsubsection}{\numberline {0.1.3}发展循环经济的国家政策导向}{6}
+\contentsline {subsubsection}{\numberline {0.1.4}计算性设计发展}{7}
+\contentsline {subsection}{\numberline {0.2}国内外研究现状}{8}
+\contentsline {subsubsection}{\numberline {0.2.1}资源循环代谢相关理论与方法研究}{8}
+\contentsline {subsubsection}{\numberline {0.2.2}城市空间形态与循环潜力的相关研究}{10}
+\contentsline {subsubsection}{\numberline {0.2.3}性能驱动的数字化生态城市设计研究}{11}
+\contentsline {subsubsection}{\numberline {0.2.4}研究评述}{13}
+\contentsline {subsection}{\numberline {0.3}目的意义}{13}
+\contentsline {subsubsection}{\numberline {0.3.1}理论意义}{13}
+\contentsline {subsubsection}{\numberline {0.3.2}方法意义}{14}
+\contentsline {subsubsection}{\numberline {0.3.3}实践意义}{14}
+\contentsline {subsection}{\numberline {0.4}论文内容}{14}
+\contentsline {subsubsection}{\numberline {0.4.1}循环代谢、微气候和街区空间形态的耦合机制研究}{14}
+\contentsline {subsubsection}{\numberline {0.4.2}资源代谢分析和潜力挖掘}{14}
+\contentsline {subsubsection}{\numberline {0.4.3}多智能体形态生成与迭代寻优}{15}
+\contentsline {subsubsection}{\numberline {0.4.4}数据统计分析与形态优化分析}{15}
+\contentsline {subsection}{\numberline {0.5}研究方法}{15}
+\contentsline {subsubsection}{\numberline {0.5.1}田野调查法}{15}
+\contentsline {subsubsection}{\numberline {0.5.2}逻辑推演法}{15}
+\contentsline {subsubsection}{\numberline {0.5.3}模拟运算法}{15}
+\contentsline {subsubsection}{\numberline {0.5.4}城市收获法 (Urban Harvesting/UH)}{15}
+\contentsline {subsubsection}{\numberline {0.5.5}实证反馈法}{15}
+\contentsline {subsubsection}{\numberline {0.5.6}物质流分析法}{15}
+\contentsline {subsubsection}{\numberline {0.5.7}统计分析法}{15}
+
+\end{document}

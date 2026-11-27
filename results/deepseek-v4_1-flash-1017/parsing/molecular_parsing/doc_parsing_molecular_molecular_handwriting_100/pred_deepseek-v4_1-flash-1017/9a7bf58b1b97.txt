@@ -1,0 +1,3 @@
+Based on the provided image, here is the extracted chemical structure in SMILES format:
+
+`O=C1C(C(O)/C=C/C=C/c2cn(-c3ccccc3)nc2-c4ccccc4)=C(c5ccccc5)c6cc([N+](=O)[O-])ccc6[C@@H]1`

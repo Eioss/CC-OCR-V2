@@ -1,0 +1,3 @@
+```json
+[{"bbox_2d": [471, 72, 586, 87], "label": "email"}, {"bbox_2d": [57, 55, 183, 89], "label": "name"}, {"bbox_2d": [614, 72, 748, 87], "label": "phone"}]
+```

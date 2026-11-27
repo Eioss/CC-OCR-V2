@@ -1,0 +1,1 @@
+All three VMware vSphere editions—**Standard, Enterprise, and Enterprise Plus**—support the highest number shown: **512 guest machines (VMs) per host**. Microsoft Hyper-V supports 384 per host.

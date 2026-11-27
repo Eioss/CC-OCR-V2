@@ -1,0 +1,11 @@
+```latex
+\begin{aligned}
+&[\tilde{\Phi}_k^{(n)\dagger} \tilde{\Phi}_k^{(n)}] |f_0\rangle^{\otimes n-1} \otimes |f_{i_n}\rangle = d^2 \tilde{\lambda}(i_n, k)^2 |f_0\rangle^{\otimes n-1} \otimes |f_{i_n}\rangle, \\
+&L_{\lfloor nT \rfloor - 1} < L_{\lfloor nT \rfloor} \\
+&d \cdot L/T = d \cdot MW(J(f)) \subseteq M \\
+&\sum_{r=r_1+1}^{\delta-\delta_0+r_1} S(r_1, r) = \sum_{r=r_1+1}^{\delta-\delta_0+r_1} (-1)^r r \frac{(\delta-\delta_0+r_1-1)!}{r_1!(r-r_1)!(\delta-\delta_0+r_1-r)!} \binom{d-d_0-1}{r_1-1}; \\
+&\phantom{\sum_{r=r_1+1}^{\delta-\delta_0+r_1} S(r_1, r)} = (-1)^{r_1+1} \binom{\delta-\delta_0+r_1-1}{r_1-1} \binom{d-d_0-1}{r_1-1}. \\
+&\bar{\bar{x}} = x, \quad x + \bar{x} = n(x, 1)1, \quad x \cdot \bar{x} = \bar{x} \cdot x = n(x)1, \\
+&h^{x, x+1}((\mu_{j \to i}, \lambda_{i \to j}), (\mu, \lambda)) = q^{\mu_i + \dots + \mu_{j-1}} \{\mu_j\}_{q^2} q^{\lambda_{i+1} + \dots + \lambda_j} \{\lambda_i\}_{q^2} \cdot q^{2(\lambda_{j+1} + \dots + \lambda_n)} \cdot q^{2(\mu_1 + \dots + \mu_{i-1})}.
+\end{aligned}
+```

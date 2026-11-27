@@ -1,0 +1,16 @@
+To find the percentage of paid apps across both the iPhone and Android app stores combined, we can use the app totals and paid-app percentages from the infographic:
+
+1. **Total Available Apps** (*Top Mobile App Stores* section):
+   * **iPhone (Apple App Store):** 375,566 apps
+   * **Android (Google Android Market):** 224,808 apps
+   * **Combined Total:** $375,566 + 224,808 = 600,374\text{ apps}$
+
+2. **Number of Paid Apps** (*Heavy Hitters: Paid versus Free Apps in Store* section):
+   * **iPhone:** $71\%$ of $375,566 \approx 266,652\text{ paid apps}$
+   * **Android:** $41\%$ of $224,808 \approx 92,171\text{ paid apps}$
+   * **Combined Paid Apps:** $266,651.86 + 92,171.28 = 358,823.14\text{ paid apps}$
+
+3. **Combined Percentage:**
+   $$\frac{358,823.14}{600,374} \approx 0.5977 \text{ or } \mathbf{59.8\%}$$
+
+Taken together, approximately **59.8%** (or **59.77%**) of apps on the iPhone and Android stores are paid apps.

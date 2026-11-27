@@ -1,0 +1,18 @@
+```json
+{
+  "menu": [
+    {
+      "item_name": "SALMON PESTO",
+      "quantity": "1",
+      "price": "85,500"
+    },
+    {
+      "item_name": "SALMON PESTO",
+      "quantity": "1",
+      "price": "85,500"
+    }
+  ],
+  "sub_total": "85,500",
+  "total": "113,886"
+}
+```

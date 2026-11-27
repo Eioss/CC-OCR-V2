@@ -1,0 +1,436 @@
+```json
+[
+  {
+    "bbox_2d": [
+      111,
+      69,
+      401,
+      89
+    ],
+    "label": "Company Name"
+  },
+  {
+    "bbox_2d": [
+      111,
+      91,
+      679,
+      114
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      111,
+      114,
+      259,
+      129
+    ],
+    "label": "TEL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      132,
+      259,
+      147
+    ],
+    "label": "ATTN"
+  },
+  {
+    "bbox_2d": [
+      461,
+      66,
+      546,
+      86
+    ],
+    "label": "Title"
+  },
+  {
+    "bbox_2d": [
+      649,
+      116,
+      799,
+      132
+    ],
+    "label": "Invoice"
+  },
+  {
+    "bbox_2d": [
+      649,
+      132,
+      735,
+      147
+    ],
+    "label": "Date"
+  },
+  {
+    "bbox_2d": [
+      111,
+      147,
+      168,
+      162
+    ],
+    "label": "ATTN"
+  },
+  {
+    "bbox_2d": [
+      111,
+      162,
+      331,
+      177
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      111,
+      177,
+      331,
+      192
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      111,
+      192,
+      331,
+      207
+    ],
+    "label": "TEL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      207,
+      331,
+      222
+    ],
+    "label": "FAX"
+  },
+  {
+    "bbox_2d": [
+      111,
+      222,
+      206,
+      237
+    ],
+    "label": "ATTN"
+  },
+  {
+    "bbox_2d": [
+      111,
+      237,
+      206,
+      252
+    ],
+    "label": "Company Name"
+  },
+  {
+    "bbox_2d": [
+      111,
+      252,
+      331,
+      267
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      111,
+      267,
+      331,
+      282
+    ],
+    "label": "TEL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      282,
+      331,
+      297
+    ],
+    "label": "FAX"
+  },
+  {
+    "bbox_2d": [
+      111,
+      297,
+      206,
+      312
+    ],
+    "label": "ATTN"
+  },
+  {
+    "bbox_2d": [
+      111,
+      312,
+      206,
+      327
+    ],
+    "label": "Vessels"
+  },
+  {
+    "bbox_2d": [
+      111,
+      327,
+      331,
+      342
+    ],
+    "label": "From"
+  },
+  {
+    "bbox_2d": [
+      111,
+      342,
+      331,
+      357
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      111,
+      357,
+      206,
+      372
+    ],
+    "label": "Payment terms"
+  },
+  {
+    "bbox_2d": [
+      111,
+      372,
+      206,
+      387
+    ],
+    "label": "Payment terms"
+  },
+  {
+    "bbox_2d": [
+      476,
+      312,
+      546,
+      327
+    ],
+    "label": "On or About"
+  },
+  {
+    "bbox_2d": [
+      476,
+      327,
+      546,
+      342
+    ],
+    "label": "Date"
+  },
+  {
+    "bbox_2d": [
+      649,
+      162,
+      799,
+      177
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      649,
+      177,
+      799,
+      192
+    ],
+    "label": "Address"
+  },
+  {
+    "bbox_2d": [
+      649,
+      192,
+      799,
+      207
+    ],
+    "label": "NET WEIGHT"
+  },
+  {
+    "bbox_2d": [
+      649,
+      207,
+      799,
+      222
+    ],
+    "label": "GROSS WEIGHT"
+  },
+  {
+    "bbox_2d": [
+      649,
+      222,
+      799,
+      237
+    ],
+    "label": "Origin"
+  },
+  {
+    "bbox_2d": [
+      111,
+      417,
+      331,
+      432
+    ],
+    "label": "Description of Goods MATERIAL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      477,
+      679,
+      492
+    ],
+    "label": "Description of Goods MATERIAL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      492,
+      679,
+      507
+    ],
+    "label": "Description of Goods MATERIAL"
+  },
+  {
+    "bbox_2d": [
+      111,
+      507,
+      679,
+      522
+    ],
+    "label": "Description of Goods MATERIAL"
+  },
+  {
+    "bbox_2d": [
+      586,
+      417,
+      649,
+      432
+    ],
+    "label": "Quantity"
+  },
+  {
+    "bbox_2d": [
+      586,
+      477,
+      649,
+      492
+    ],
+    "label": "Quantity"
+  },
+  {
+    "bbox_2d": [
+      586,
+      492,
+      649,
+      507
+    ],
+    "label": "Quantity"
+  },
+  {
+    "bbox_2d": [
+      586,
+      507,
+      649,
+      522
+    ],
+    "label": "Quantity"
+  },
+  {
+    "bbox_2d": [
+      699,
+      417,
+      759,
+      432
+    ],
+    "label": "Unit Price CIF"
+  },
+  {
+    "bbox_2d": [
+      699,
+      477,
+      759,
+      492
+    ],
+    "label": "Unit Price CIF"
+  },
+  {
+    "bbox_2d": [
+      699,
+      492,
+      759,
+      507
+    ],
+    "label": "Unit Price CIF"
+  },
+  {
+    "bbox_2d": [
+      699,
+      507,
+      759,
+      522
+    ],
+    "label": "Unit Price CIF"
+  },
+  {
+    "bbox_2d": [
+      799,
+      417,
+      859,
+      432
+    ],
+    "label": "Amount USD"
+  },
+  {
+    "bbox_2d": [
+      799,
+      477,
+      859,
+      492
+    ],
+    "label": "Amount USD"
+  },
+  {
+    "bbox_2d": [
+      799,
+      492,
+      859,
+      507
+    ],
+    "label": "Amount USD"
+  },
+  {
+    "bbox_2d": [
+      799,
+      507,
+      859,
+      522
+    ],
+    "label": "Amount USD"
+  },
+  {
+    "bbox_2d": [
+      586,
+      687,
+      679,
+      702
+    ],
+    "label": "Quantity"
+  },
+  {
+    "bbox_2d": [
+      799,
+      687,
+      859,
+      702
+    ],
+    "label": "Amount USD"
+  }
+]
+```

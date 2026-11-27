@@ -1,0 +1,39 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\begin{document}
+
+\noindent\textbf{Graph each equation using the vertex formula. Include the intercepts. Determine the domain and range.}
+
+\begin{enumerate}[label=\arabic*)]
+  \setcounter{enumi}{92}
+  \item $x = -\dfrac{1}{2}y^2 - 3y - \dfrac{5}{2}$
+  \item $x = 3y^2 - 12y$
+\end{enumerate}
+
+\noindent\textbf{(9.7) Solve each inequality. Graph the solution set and write the solution in interval notation.}
+
+\begin{enumerate}[label=\arabic*)]
+  \setcounter{enumi}{94}
+  \item $a^2 + 2a - 3 < 0$
+  \item $4m^2 + 8m \geq 21$
+  \item $64v^2 \geq 25$
+  \item $36 - r^2 > 0$
+  \item $(5c + 2)(c - 4)(3c + 1) < 0$
+  \item $(p - 6)^2 \leq -5$
+  \item $\dfrac{t + 7}{2t - 3} > 0$
+  \item $\dfrac{6}{g - 7} \leq 0$
+  \item $\dfrac{z}{z - 2} \leq 3$
+  \item $\dfrac{1}{n - 4} > -3$
+\end{enumerate}
+
+% The next problem is cut off at the bottom of the image; only "r^2 + 4" is visible.
+
+\end{document}
+```
+
+Notes:
+- Problems 94, 96, 98, 100, 102, and 104 are circled by hand on the worksheet.
+- The last line is cut off in the image, so only the fragment $r^2 + 4$ (likely the start of problem 105's numerator) is visible.

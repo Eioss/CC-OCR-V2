@@ -1,0 +1,75 @@
+```latex
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xeCJK} % For Chinese characters
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large Ruijin Hospital Shanghai Jiaotong University School of Medicine} \\
+    \vspace{0.2cm}
+    \textbf{\large Clinical Laboratory Report}
+\end{center}
+
+\begin{flushright}
+    Sample Number : \underline{\hspace{2cm}} 1\underline{\hspace{0.5cm}}43
+\end{flushright}
+
+\noindent
+\begin{tabular}{@{} p{4cm} p{5.5cm} p{5.5cm} @{}}
+    \textbf{Name :} & \textbf{PatientNo/PassportNo :} 13200210 & \textbf{Birthday:} 1 \\
+    \textbf{Gender :} & \textbf{Clinical Diagnosis :} Regular inspection & \textbf{Sample Type :} Nasopharynx swab \\
+    \textbf{Age :} & & \textbf{Testing Time :} 2021-08-14 \\
+\end{tabular}
+
+\vspace{0.2cm}
+\noindent
+\textbf{Application Section Office :} Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\vspace{0.3cm}
+
+\noindent
+\begin{tabular}{@{} l l l l @{}}
+    \toprule
+    \textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+    \midrule
+    SARS-COV-2 & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    ORF1AB GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    N GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    E GENE & Neg(-) & Neg(-) & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+    \bottomrule
+\end{tabular}
+
+\vspace{1.5cm}
+
+\noindent
+Statement: \\
+1. The testing result may be affected by the sampling time, sampling body part(s) as well as the methodology limitations. The result should be analyzed with clinical manifestations. \\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{0.3cm}
+\noindent\rule{\textwidth}{0.4pt}
+
+\noindent
+\begin{tabular}{@{} p{5cm} p{5.5cm} p{4.5cm} @{}}
+    \textbf{Sampling Time :} 21-08-14 09:52 & \textbf{Reporting Time :} 21-08-14 13:26 & \\
+    \textbf{Received Time :} 21-08-14 11:03 & \textbf{Printing Time :} 21-08-15 07:59 & \textbf{Inspector :} \textit{[Signature]} \quad \textbf{Auditor :} \textit{[Signature]} \\
+\end{tabular}
+
+\vspace{0.2cm}
+\noindent
+\textbf{The test results are just responsible for the sample;and used only for reference by clinical doctors.}
+
+\vspace{0.3cm}
+\noindent
+\textbf{add.:} No197 Ruijin 2 Road,Huangpu district,Shanghai \qquad \textbf{Tel.:} 8621-64370045 \\
+\noindent\rule{\textwidth}{0.8pt}
+
+\begin{center}
+    Sheet 1 \hspace{3cm} (病毒室)
+\end{center}
+
+\end{document}
+```

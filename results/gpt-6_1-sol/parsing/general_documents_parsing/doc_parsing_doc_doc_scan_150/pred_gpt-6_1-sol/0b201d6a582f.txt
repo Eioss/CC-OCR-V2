@@ -1,0 +1,293 @@
+```latex
+\documentclass[10pt]{article}
+\usepackage[margin=0.45in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{0.3in}
+
+\begin{document}
+\begin{multicols}{2}
+
+\begin{center}
+{\Large\bfseries PHY 231C FORMULAS}
+\end{center}
+
+\textbf{Quadratic Formula}
+\[
+ax^2+bx+c=0
+\]
+\[
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\]
+
+\textbf{Geometry}
+
+Circle: circumference\(=2\pi R\), area\(=\pi R^2\)
+
+Sphere: area\(=4\pi R^2\), volume\(=4\pi R^3/3\)
+
+\textbf{Trigonometry}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.75]
+  \draw (0,0)--(3.1,0)--(3.1,2)--cycle;
+  \draw (2.75,0)--(2.75,0.35)--(3.1,0.35);
+  \node[below] at (2.1,0) {$B$};
+  \node[right] at (3.1,0.95) {$A$};
+  \node[above left] at (1.55,1) {$C$};
+  \node at (0.66,0.17) {$\alpha$};
+  \node at (2.92,1.66) {$\beta$};
+  \draw[-{Stealth}] (0.93,0.60) arc[start angle=33,end angle=0,radius=1.1];
+  \draw[-{Stealth}] (3.1,1.30) arc[start angle=-90,end angle=-147,radius=0.70];
+\end{tikzpicture}
+\qquad
+\(\begin{aligned}
+\sin\alpha&=\frac{A}{C},&
+\cos\alpha&=\frac{B}{C}\\[1ex]
+\tan\alpha&=\frac{A}{B}
+\end{aligned}\)
+\end{center}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.75]
+  \draw (0,0)--(3.3,0)--(2.9,1.9)--cycle;
+  \node[below] at (2,0) {$B$};
+  \node[right] at (3.10,1) {$A$};
+  \node[above left] at (1.45,0.95) {$C$};
+  \node at (0.65,0.16) {$\alpha$};
+  \node at (2.77,1.55) {$\beta$};
+  \node at (3.03,0.24) {$\gamma$};
+  \draw[-{Stealth}] (0.92,0.60) arc[start angle=33,end angle=0,radius=1.1];
+  \draw[-{Stealth}] (2.65,1.26)--(2.87,1.20);
+  \draw[-{Stealth}] (2.79,0.08) arc[start angle=170,end angle=104,radius=0.48];
+\end{tikzpicture}
+\qquad
+\(\begin{aligned}
+\frac{\sin\alpha}{A}
+&=\frac{\sin\beta}{B}
+=\frac{\sin\gamma}{C}\\[1ex]
+A^2+B^2-2AB\cos\gamma&=C^2
+\end{aligned}\)
+\end{center}
+
+\textbf{Polar Coordinates}
+\[
+x=r\cos\theta,\qquad y=r\sin\theta
+\]
+\[
+r=\sqrt{x^2+y^2},\qquad \tan\theta=y/x
+\]
+
+\textbf{SI Units and Constants}
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+quantity & unit & abbreviation\\
+\hline
+Mass \(m\) & kilograms & kg\\
+\hline
+Distance \(x\) & meters & m\\
+\hline
+Time \(t\) & seconds & s\\
+\hline
+Force \(F\) & Newtons & \(\mathrm{N=kg\,m/s^2}\)\\
+\hline
+Energy \(E\) & Joules & \(\mathrm{J=N\,m}\)\\
+\hline
+Power \(P\) & Watts & \(\mathrm{W=J/s}\)\\
+\hline
+Temperature \(T\) &
+\(^{\circ}\mathrm{C},\,^{\circ}\mathrm{K}\text{ or }{}^{\circ}\mathrm{F}\) &
+\(T_F=32+(9/5)T_{{}^{\circ}C}\)\\
+\hline
+Pressure \(P\) & Pascals & \(\mathrm{Pa=N/m^2}\)\\
+\hline
+\end{tabular}
+\end{center}
+
+\(g=9.8\ \mathrm{m/s^2},\ 
+G=6.67\times10^{-11}\ \mathrm{N\,m^2/kg^2},\
+0^{\circ}\mathrm{C}=273.15^{\circ}\mathrm{K}\)
+
+\(R=8.31\ \mathrm{J/(mol\,{}^{\circ}K)},\
+N_A=6.023\times10^{23}\)
+
+\(k_B=R/N_A=1.38\times10^{-23}\ \mathrm{J/{}^{\circ}K},\
+1\ \mathrm{cal}=4.1868\ \mathrm{J}\)
+
+\(\sigma=5.67\times10^{-8}\ \mathrm{W/(m^2K^4)},\
+v_{\mathrm{sound}}=331\sqrt{T/273}\ \mathrm{m/s}.\)
+
+\textbf{1-d motion, constant \(a\)}
+\[
+a=\frac{v_f-v_0}{t}
+\]
+\[
+v_{\mathrm{av}}=\frac{v_0+v_f}{2},\qquad
+(x_f-x_0)=v_{\mathrm{av}}t
+\]
+\[
+(x_f-x_0)=v_0t+\frac12at^2
+=v_ft-\frac12at^2
+\]
+\[
+\frac12v_f^2-\frac12v_0^2=a(x_f-x_0)
+\]
+
+\textbf{Projectile Motion}
+\[
+\text{Range}=\frac{v^2}{g}\sin2\theta,\qquad
+\text{Max. height}=\frac{v_0^2}{2g}\sin^2\theta
+\]
+
+\textbf{Momentum, Force and Impulse}
+\[
+p=mv,\quad
+F=\frac{\Delta p}{\Delta t}=ma,\quad
+I=F\Delta t=\Delta p
+\]
+
+\textbf{Work, Energy and Power}
+\[
+W=\vec F\cdot(\vec r-\vec r_0),\quad
+KE=\frac12mv^2,\quad
+P=\frac{\Delta E}{\Delta t}
+\]
+
+\columnbreak
+
+\textbf{Gravity and circular orbits}
+\[
+PE=-G\frac{Mm}{r},\quad
+\Delta PE=mgh\text{(small }h\text{)},\quad
+F=G\frac{Mm}{r^2}=mg
+\]
+\[
+a=\frac{v^2}{r},\qquad
+\frac{GM}{4\pi^2}=\frac{R^3}{T^2}
+\]
+
+\textbf{Rotational Motion \& Gravity}
+\[
+v=\omega r=\frac{2\pi r}{T},\quad
+\omega=2\pi f=\frac{2\pi}{T},\quad f=1/T
+\]
+\[
+\alpha=\frac{\omega_f-\omega_0}{t}=\frac{a}{r}
+\]
+\[
+L=I\omega=mvr\sin\theta,\quad
+(\theta=\text{angle between }\mathbf{v}\text{ and }\mathbf{r})
+\]
+\[
+KE=\frac{L^2}{2I}=\frac12I\omega^2
+\]
+\[
+\tau=rF\sin\theta,\quad I\alpha=\tau,\quad
+I_{\mathrm{point}}=mR^2
+\]
+\[
+I_{\mathrm{cyl.shell}}=mR^2,\quad
+I_{\mathrm{sphere}}=\frac25mR^2,\quad
+I_{\mathrm{solid\ cyl.}}=\frac12mR^2.
+\]
+
+\textbf{Gases, liquids and solids}
+\[
+PV=NRT,\quad
+\Delta P=\rho gh,\quad
+\left\langle\frac12mv^2\right\rangle=\frac32k_BT
+\]
+\[
+F_{\mathrm{buoyant}}
+=\rho_{\mathrm{displaced\ liq.}}
+ V_{\mathrm{displaced\ liq.}}g
+\]
+\[
+\text{Stress}=F/A,\quad
+\text{Strain}=\Delta L/L,\quad
+Y=\text{Stress}/\text{Strain}
+\]
+\[
+\frac{\Delta L}{L}=\frac{F/A}{B}=-\frac{\Delta P}{B}.
+\]
+\[
+P_a+\frac12\rho_av_a^2+\rho_agh_a
+=P_b+\frac12\rho_bv_b^2+\rho_bgh_b
+\]
+\[
+\Delta L/L=\alpha\Delta T,\quad
+\Delta V/V=3\alpha\Delta T
+\]
+\[
+Q=mC_v\Delta T+mL\text{(if phase trans.)},\quad
+\Delta Q/\Delta t=\frac{kA(T_b-T_a)}{x_b-x_a}
+\]
+
+\textbf{Radiation}
+\[
+P=\epsilon\sigma AT^4
+\]
+
+\textbf{Thermodynamics}
+
+\(\Delta U=Q-W,\quad W=P\Delta V,\quad
+\text{ideal gas: }\Delta U=nC_V\Delta T\)
+
+Adiabatic exp: \(pV^\gamma=\mathrm{const},\
+TV^{\gamma-1}=\mathrm{const}\)
+
+\(\gamma=C_P/C_V=5/3\text{ for monotonic gas}
+=7/5\text{ for diatomic gas}\)
+
+\(Q=T\Delta S,\quad \Delta S>0\)
+
+Engines: \(\epsilon=W/Q_H<(T_H-T_L)/T_H<1\)
+
+Refrigerators and heat pumps:
+\(\epsilon=Q_L/W<T_L/(T_H-T_L)\)
+
+\bigskip
+\textbf{Simple Harmonic Motion and Waves}
+
+Spring: \(F=-kx,\ PE=(1/2)kx^2,\ \omega=\sqrt{k/m}\)
+
+\(f=\omega/(2\pi),\
+x(t)=A\cos(\omega t)+B\sin(\omega t)\)
+
+Pendulum: \(T=2\pi\sqrt{L/g}\)
+
+Waves: \(y(x,t)=A\sin[2\pi(ft-x/\lambda+\delta)],\
+v=f\lambda\)
+
+\(I=\mathrm{const}\,A^2f^2,\quad
+I_2/I_1=R_1^2/R_2^2\)
+
+Standing waves: \(\lambda_n=2L/n\)
+
+Strings: \(v=\sqrt{T/\mu}\), Solid/Liquid: \(v=\sqrt{B/\rho}\)
+
+Sound: \(I=E/(A\cdot\Delta t)=\mathrm{Power}/A\)
+
+\(I_0=10^{-12}\ \mathrm{W/m^2},\
+\text{Intensity in decibels}=10\log_{10}(I/I_0)\)
+
+Beat freq.\(=|f_1-f_2|\), Doppler:
+\[
+f_{\mathrm{obs}}
+=f_{\mathrm{source}}
+\frac{v_{\mathrm{sound}}\pm v_{\mathrm{obs}}}
+     {v_{\mathrm{sound}}\pm v_{\mathrm{source}}}
+\]
+
+Pipes: same at both ends: \(L=\lambda/2,\lambda,3\lambda/2\)
+
+Pipes: open at only one end: \(L=\lambda/4,3\lambda/4\cdots\)
+
+\end{multicols}
+\end{document}
+```

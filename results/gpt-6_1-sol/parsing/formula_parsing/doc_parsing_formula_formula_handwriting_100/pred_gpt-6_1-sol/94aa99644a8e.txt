@@ -1,0 +1,86 @@
+\[
+\begin{aligned}
+\|X^R\|_{L_\omega^rL_{[0,T]}^\infty L_x^2}
+&\le \|X_0\|_{L_\omega^rL_x^2}
++\left\|\int_0^t S_\beta(t,s)\theta_R(X^R)(s)
+|X^R(s)|^{2\sigma}X^R(s)\,ds
+\right\|_{L_\omega^rL_{[0,T]}^\infty L_x^2}\\
+&\le \|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\|\theta_R(X^R)|X^R|^{2\sigma+1}
+\right\|_{L_\omega^rL_{[0,T]}^{\gamma'}L_x^{p'}}\\
+&=\|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\|
+\left[
+\int_0^T\theta_R(X^R)^{\gamma'}(t)
+\left(\int_{\mathbb R}|X^R(t)|^{(2\sigma+1)p'}\,dx\right)^{\gamma'/p'}
+dt
+\right]^{1/\gamma'}
+\right\|_{L_\omega^r}.
+\end{aligned}
+\]
+
+\[
+\text{Since }p'=\frac{2\sigma+2}{2\sigma+1},
+\text{ the right-hand side equals}
+\]
+
+\[
+\|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\|
+\left(\int_0^T\theta_R(X^R)^{\gamma'}(t)
+\|X^R(t)\|_{L_x^p}^{(2\sigma+1)\gamma'}\,dt\right)^{1/\gamma'}
+\right\|_{L_\omega^r}.
+\]
+
+\[
+\text{Since }\gamma\ge p=2\sigma+2,
+\text{ we can apply Hölder's inequality to get}
+\]
+
+\[
+\le \|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\bar\beta}
+\left\|
+\left(\int_0^T[\theta_R(X^R)(t)]^{\gamma/(2\sigma+1)}
+\|X^R(t)\|_{L_x^p}^{\gamma}\,dt\right)^{(2\sigma+1)/\gamma}
+T^{\frac{\gamma-\gamma'(2\sigma+1)}{\gamma\gamma'}}
+\right\|_{L_\omega^r}.
+\]
+
+\[
+\text{Letting }\widetilde\tau(\omega)
+=\inf\left\{s:\|X^R(\omega)\|_{L^\gamma([0,s];L_x^p)}>2R\right\},
+\text{ from the definition of }\theta_R\text{ we have}
+\]
+
+\[
+=\|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\widetilde\beta}
+\left\|
+\left(\int_0^T[\theta_R(X^R)(t)]^{\gamma/(2\sigma+1)}
+\|X^R(t)\|_{L_x^p}^{\gamma}\,dt\right)^{(2\sigma+1)/\gamma}
+\right\|_{L_\omega^r},
+\]
+
+\[
+\text{where }\widetilde\beta
+=\bar\beta+\frac{\gamma-\gamma'(2\sigma+1)}{\gamma\gamma'}>0.
+\quad\text{Furthermore,}
+\]
+
+\[
+\begin{aligned}
+&\le \|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\widetilde\beta}
+\left\|
+\left(\int_0^{\widetilde\tau}
+\|X^R(t)\|_{L_x^p}^{\gamma}\,dt\right)^{(2\sigma+1)/\gamma}
+\right\|_{L_\omega^r}\\
+&\le \|X_0\|_{L_\omega^rL_x^2}
++C_{1,p}T^{\widetilde\beta}(2R)^{2\sigma}
+\|X^R\|_{L_\omega^rL_{[0,T]}^\gamma L_x^p}.
+\end{aligned}
+\]

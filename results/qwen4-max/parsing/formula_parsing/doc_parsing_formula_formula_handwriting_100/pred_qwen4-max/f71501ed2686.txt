@@ -1,0 +1,16 @@
+\[
+\begin{aligned}
+& \mathbb{E}\left[\left[\psi_{3}(X, A, Z, M, Y) S_{0}(0)\right]\right. \\
+& =\mathbb{E}\left[\psi_{3}(X, A, Z, M, Y)\left(S_{0}(X)+S_{0}(Z \mid X, A)+S_{0}(M \mid X, A, Z)+S_{0}(Y \mid X, A, Z, M)\right)\right] \\
+& =\mathbb{E}\left[S_{0}(X)+S_{0}(A \mid X)+S_{0}(Z \mid X, A)+S_{0}(M \mid X, A, Z)\right] \underbrace{\mathbb{E}\left[\psi_{3}(X, A, Z, M, Y) \mid X, A, Z, M\right]}_{=0} \\
+& +\mathbb{E}\left[\psi_{3}(X, A, Z, M, Y) S_{0}(Y \mid X, A, Z, M)\right] \\
+& =\mathbb{E}\left[\psi_{3}(X, A, Z, M, Y) S_{0}(Y \mid X, A, Z, M)\right] \\
+& =\mathbb{E}\left[\frac{\mathbb{I}(A=a) \mathbb{I}(M=m) Y S_{0}(Y \mid X, A, Z, M)}{\operatorname{Pr}[A=a \mid X] \operatorname{Pr}[M=m \mid X, A=a, Z]}\right] \\
+& -\mathbb{E}\left[\frac{\mathbb{I}(A=a) \mathbb{I}(M=m) \mathbb{E}[Y \mid X, A=a, Z, M=m]}{\operatorname{Pr}[A=a \mid X] \operatorname{Pr}[M=m \mid X, A=a, Z} \underbrace{\mathbb{E}\left[S_{0}(Y \mid X, A, Z, M) \mid X, A, Z, M\right]}_{=0}\right] \\
+& =\mathbb{E}\left\{\mathbb{E}\left[\frac{\mathbb{I}(A=a) \mathbb{I}(M=m) Y S_{0}(Y \mid X, A, Z, M)}{\operatorname{Pr}[A=a \mid X] \operatorname{Pr}[M=m \mid X, A=a, Z} \mid X, A, Z, M=m\right] \operatorname{Pr}[M=m \mid X, A, Z]\right\} \\
+& =\mathbb{E}_{X, A} \mathbb{E}\left[\frac{\mathbb{I}(A=a) \operatorname{Pr}[M=m \mid X, A, Z] \mathbb{E}\left[Y S_{0}(Y \mid X, A, Z, M) \mid X, A, Z, M=m\right]}{\operatorname{Pr}[A=a \mid X] \operatorname{Pr}[M=m \mid X, A=a, Z]} \mid X, A\right] \\
+& =\mathbb{E}_{X}\left\{\mathbb{E}\left[\mathbb{I}(A=a) \operatorname{Pr}[M=m \mid X, A, Z] \mathbb{E}\left[Y S_{0}(Y \mid X, A, Z, M) \mid X, A, Z, M=m\right]_{X, A=a}\right]_{M \mid X=a}\right\} \\
+& =\mathbb{E}_{X}\left\{\mathbb{E}\left[\mathbb{E}\left[Y S_{0}(Y \mid X, A, Z, M) \mid X, A, Z, M=m\right] \mid X, A=a\right]\right\} \\
+& =\phi_{3}
+\end{aligned}
+\]

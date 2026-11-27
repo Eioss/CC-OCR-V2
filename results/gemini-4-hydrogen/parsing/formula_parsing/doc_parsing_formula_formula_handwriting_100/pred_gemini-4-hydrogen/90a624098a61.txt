@@ -1,0 +1,31 @@
+```latex
+p_{\pm} = \frac{\left( \frac{\varphi^+(x^0, 0)}{(\beta^+(x^0, 0))^2} \right)^{\frac{1}{\gamma+1}}}{\left( \frac{\varphi^-(x^0, 0)}{(\beta^-(x^0, 0))^2} \right)^{\frac{1}{\gamma+1}} + \left( \frac{\varphi^+(x^0, 0)}{(\beta^+(x^0, 0))^2} \right)^{\frac{1}{\gamma+1}}}
+```
+
+```latex
+\sigma_i = u_1, u_2, \dots, u_a \quad \text{and} \quad \sigma_{i+2} = v_1, v_2, \dots, v_a
+```
+
+```latex
+\dim_B(\partial N) < d_0 := d - 1 + \delta < d
+```
+
+```latex
+\rho(t) = \sum_{n=0, m=0} \rho_{nm}(t) |n\rangle\langle m|_c \otimes |\phi_n(\gamma, t)\rangle\langle\phi_m(\gamma, t)|_m.
+```
+
+```latex
+\|t\| = \|1 \otimes_\mu t\|
+```
+
+```latex
+\Phi\left(\frac{1}{2} [I + w \cdot \sigma]\right) = \frac{1}{2} [I + w_1 \lambda_1 \sigma_1 + (t + w_3 \lambda_3)\sigma_3].
+```
+
+```latex
+(\tilde{\nabla}_{X_1}(\nabla T_*))(X_2, X_3) = \nabla_{X_1}^{T^\perp}(\nabla T_*)(X_2, X_3) - (\nabla T_*)(\nabla_{X_1}^{\mathfrak{m}} X_2, X_3) - (\nabla T_*)(X_2, \nabla_{X_1}^{\mathfrak{m}} X_3)
+```
+
+```latex
+R_{jl}(x) \stackrel{x \to +\infty}{\simeq} c_v^2 (1 + \delta_{jl}) \varphi(j/N) \varphi(l/N) \exp(-2\lambda x).
+```

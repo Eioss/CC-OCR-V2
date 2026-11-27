@@ -1,0 +1,23 @@
+```latex
+m=|E(G)| \geq \begin{cases} (13n-14)/8 & \text{for even } n, \\ (13n-7)/8 & \text{for odd } n. \end{cases}
+```
+
+```latex
+W_k(X_1,\dots,X_k) \stackrel{\text{def}}{=} \frac{1}{k}\sum_{\sigma\in S_k} \operatorname{sgn}(\sigma)\operatorname{Tr}\left(X_{\sigma(1)}\circ X_{\sigma(2)}\circ\cdots\circ X_{\sigma(k)}\right)
+```
+
+```latex
+V\cap U = N = W\cap U
+```
+
+```latex
+Y_r^{t,w} = F^{t,w} + \int_r^T g_u^{t,w}\left(W^t, Y_u^{t,w}, Z_u^{t,w}\right)du - \int_r^T Z_u^{t,w}\,dW_u^t, \quad P^t\text{-a.s. } r\in[t,T].
+```
+
+```latex
+\mathcal{H}om\left(I_D/I_D^2, I_D^2/I_D^3\right) \simeq I_D/I_D^2 \simeq \mathcal{O}_D(-K_D)
+```
+
+```latex
+\phi(E)=\phi(E_1)\cup_{p'}\phi(E_2)
+```

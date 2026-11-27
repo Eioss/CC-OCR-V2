@@ -1,0 +1,28 @@
+\[
+\begin{gathered}
+\eta^e(v)\tilde v^e(v)+\eta^e(v)v^e(v)=0,\qquad
+\eta^e(v)\hat v^e(v)=1,\qquad
+\hat v\equiv0\ \text{on }E\setminus\{e,e'\},
+\\[6pt]
+H^{se}
+=-\hbar\int
+\left(n_H|H\rangle_s\langle H|+n_V|V\rangle_s\langle V|\right)
+\otimes\omega|\omega\rangle_e\langle\omega|\,d\omega,
+\\[6pt]
+\sup_{0\le t\le T}\|v^M(t)-u(t)\|_1
+=O\!\left(
+\|v^M(0)-u(0)\|_1
++\|\Delta X^{(M)}-\Delta X\|_{\infty,1}
+\right),
+\\[6pt]
+\hat R_i^{(j,m)}
+=\Phi\!\left(
+Q_i^{(j)},N_i^{(j)},
+\{C_{(i,n)}^{(j)}\},
+\{\hat R_{(i,n)}^{(j-1,m)}\}
+\right),
+\qquad i=1,\ldots,m_j,
+\\[6pt]
+C_n(-r)=(-1)^nC_n(r).
+\end{gathered}
+\]

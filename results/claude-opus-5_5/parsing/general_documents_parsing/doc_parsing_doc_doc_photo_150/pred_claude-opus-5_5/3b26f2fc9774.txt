@@ -1,0 +1,61 @@
+```latex
+\documentclass{article}
+\usepackage[version=4]{mhchem}
+\usepackage{array}
+\usepackage{enumitem}
+
+\begin{document}
+
+\noindent\textbf{Data (Sodium Bicarbonate - \ce{NaHCO3}):}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\
+\hline
+Evaporating Dish + Watch Glass & 97.20 g & X & X \\
+\hline
+\begin{tabular}[c]{@{}l@{}}Evaporating Dish + Watch Glass +\\ \ce{NaHCO3}\end{tabular} & 97.59 g & X & X \\
+\hline
+\ce{NaHCO3} & 0.39 g & & \\
+\hline
+\ce{NaCl} & 0.13 g & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent\textbf{Analysis}
+
+\begin{enumerate}
+  \item \textbf{According to the balanced chemical equation, what would you expect the molar ratio of \ce{NaHCO3} to \ce{NaCl} to be? Do your results agree with this? Explain.}
+  \item \textbf{What was your percent yield of NaCl? (Hint: First calculate the theoretical yield of NaCl from the mole ratio of reactant to product. HCl is added in excess).}
+  \item \textbf{List at least two possible sources of error that may have caused your yield to be lower than 100\%.}
+\end{enumerate}
+
+\vspace{1em}
+
+\noindent\textbf{Data (Sodium Carbonate Decahydrate - \ce{Na2CO3*10H2O}):}
+
+\begin{center}
+\begin{tabular}{|l|c|c|c|}
+\hline
+ & \textbf{Mass (g)} & \textbf{Molar Mass} & \textbf{Moles} \\
+\hline
+Evaporating Dish + Watch Glass & 88.59 g & X & X \\
+\hline
+\begin{tabular}[c]{@{}l@{}}Evaporating Dish + Watch Glass +\\ \ce{Na2CO3*10H2O}\end{tabular} & 88.95 g & X & X \\
+\hline
+\ce{Na2CO3*10H2O} & 0.36 g & & \\
+\hline
+\ce{NaCl} & & & \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```
+
+**Notes on the transcription:**
+- Handwritten values (e.g., 97.20 g, 0.39 g, 0.13 g, 88.59 g, 0.36 g) are transcribed as they appear. The "0.13 g" entry is slightly ambiguous in the handwriting.
+- Blank cells in the original (Molar Mass and Moles for the compounds, and the NaCl mass in the second table) are left empty.
+- The `mhchem` package (`\ce{}`) is used to render chemical formulas, including the hydrate dot in \ce{Na2CO3*10H2O}.

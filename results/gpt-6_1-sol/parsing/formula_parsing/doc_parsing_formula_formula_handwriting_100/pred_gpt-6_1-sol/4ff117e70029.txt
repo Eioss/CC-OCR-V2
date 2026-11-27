@@ -1,0 +1,42 @@
+\[
+\begin{aligned}
+&\left\langle P_N(\mathrm{Id}-\Delta-1)u_N-Pu_{\mathrm{HF}},\psi\right\rangle
+=\left\langle P_N\bigl((\mathrm{Id}-\Delta-1)u_N-u_{\mathrm{HF}}\bigr),\psi\right\rangle
++\left\langle P-P_N,\psi u_{\mathrm{HF}}\right\rangle.
+\\[1em]
+&D_T:=(0,T)\times D,\qquad
+\partial D_T:=(0,T)\times\partial D,\qquad
+\mathbb{R}_T^n:=(0,T)\times\mathbb{R}^n.
+\\[1em]
+&\liminf_{\varepsilon\to0}\sum_{j=0}^{m}
+\int_{S_\varepsilon^j}
+G_\varepsilon^j
+\left|\left[(u_\varepsilon)_T\right]_{S_\varepsilon^j}\right|
+\,d\sigma(x)
+\geq
+\sum_{j=0}^{m}
+\left\langle
+G^j,\left|[u_T]_{S^j}+\gamma^j\right|
+\right\rangle_{C_0(\omega\times S^j),\,M(\omega\times S^j)}.
+\\[1em]
+&A_\infty=\lim_{k\to\infty}A_k
+=\lim_{k\to\infty}\sum_{i=1}^{d}x_{ki}^{\odot m}
+=\sum_{i=1}^{d}x_{\infty i}^{\odot m}
+\in\mathrm{CP}^{n,m}(K),
+\\[1em]
+&r:=\max\{r_i\}_{i\in\{1,\ldots,m\}}.
+\\[1em]
+&A_y\circ M_x=A_x,\qquad A_{-x}\circ C=A_x.
+\\[1em]
+&a\{n\}=(a_2)\cdots(a_k).
+\\[1em]
+&V(\varepsilon_1,\varepsilon_2)
+=V\setminus\bigl(\{|z|<\varepsilon_1\}\cup\{|\zeta|<\varepsilon_2\}\bigr).
+\\[1em]
+&\frac{a_2^3}{a_2^3-27a_3^2}\searrow-\infty
+\quad\text{as }A\searrow0,
+\qquad
+\frac{a_2^3}{a_2^3-27a_3^2}\nearrow1
+\quad\text{as }A\nearrow\infty.
+\end{aligned}
+\]

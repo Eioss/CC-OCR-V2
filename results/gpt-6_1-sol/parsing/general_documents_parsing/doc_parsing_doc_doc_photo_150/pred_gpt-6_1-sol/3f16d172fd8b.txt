@@ -1,0 +1,166 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{amsmath,amssymb}
+\setmainfont{Libertinus Serif}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{48. Pre-Ur III, dated (Umma).}
+
+\medskip
+Baked clay envelope, still intact and well preserved. Light brown.
+\(42 \times 42 \times 26\) mm.
+Obv. 3 ll.: one on top, one in center and one at bottom.
+Rev. 2 ll.: one on top and one in center. Covered with seal impression.
+
+\medskip
+Šubati document: food provision.
+
+\medskip
+Month: iti ur (Umma calendar, IX).
+
+\medskip
+Date formula: mu 4 kam úš.
+
+\begin{quote}
+Month name: \textit{CCTE}, p. 177; d.f.: unidentified:
+Schneider, 39, 6, f; \textit{CCTE}, p. 175 (I 28).
+
+Seal impression: Lugal-ga-mu/dumu Ur-\textsuperscript{d}Šará.
+\end{quote}
+
+\bigskip
+\textbf{49. Ur III, dated (Umma).}
+
+\medskip
+Baked clay tablet. Light reddish brown. Complete and well preserved.
+\(22 \times 20 \times 11\) mm. Obv. 5 ll. rev. 2 ll.
+
+\medskip
+Mu-DU document: asses.
+
+\medskip
+Month: RI (Umma calendar, V).
+
+\bigskip
+\textbf{50. Ur III, dated (Umma ?).}
+
+\medskip
+Baked clay tablet. Light reddish brown.
+\(25 \times 24 \times 12\) mm.
+Complete and fairly well preserved, except for a notch on obverse.
+Obv. 6 ll., rev. 4 ll.
+
+\medskip
+Income record: Livestock (ki-x).
+
+\medskip
+Date formula: Shulgi, 37.
+
+\begin{quote}
+Obv. 1: \(\ulcorner\)\textnormal{udu}\(\urcorner\) bar-rug-ga
+cf. \textit{CCTE}, note 94; \textit{SETU}, 130: 181; obv. 3--4:
+máš šu-nir \textsuperscript{d}Nin-ur\textsubscript{4}-ra
+cf. \textit{SETU}, 130 (from Umma) ll. 188--189.
+\end{quote}
+
+\bigskip
+\textbf{51. Ur III, dated (Umma ?).}
+
+\medskip
+Baked clay tablet. Reddish brown.
+\(45 \times 42 \times 12\) mm.
+Complete and well preserved. Obv. 6 ll., rev. 3 ll.
+Covered with a seal impression.
+
+\medskip
+Endorsed assignment of day labourers (kišib; ugula).
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+Date formula: Šu-Sîn, 7.
+
+\begin{quote}
+Cf. parallel, \textit{CCTE}, KK, 11; obv. 3:
+šu-ur-ra cf. \textit{CCTE}, D 24, a.
+
+Seal impression: name of scribe is Šà-nin-gá dumu lugal-la:
+(cf. \textit{CCTE}, KK 11: 11; E 21: 8).
+\end{quote}
+
+\bigskip
+\textbf{52. Ur III, dated (Puzriš-Dagān).}
+
+\medskip
+Baked clay tablet. Reddish brown. Complete and well preserved.
+\(32 \times 30 \times 14\) mm.
+Obv. 5 ll., rev. 8 ll.
+
+\medskip
+Balanced account (níg-ŠID-ak) document: grain.
+
+\medskip
+Months: Maš-ku-kú and šeš-da-kú (Ur calendar, I-II).
+
+\medskip
+Date formula: Shulgi, 37 (Schneider 34, Bd).
+
+\begin{quote}
+Puzriš-Dagān: A. Goetze, Ṣelluš-Dagān
+cf. \textit{JCS} 17 (1963), pp. 34-35.
+\end{quote}
+
+\bigskip
+\textbf{53. Ur III, dated (Puzriš-Dagān).}
+
+\medskip
+Baked clay tablet. Light brown.
+\(30 \times 32 \times 15\) mm.
+Obv. 6 ll., rev. 6 ll., Chipped at lower left corner.
+
+\medskip
+Ì-díb document: grain-fed oxen.
+
+\medskip
+Month: ezen An-na (Ur calendar, X).
+
+\medskip
+Date formula: Shulgi, 46 (Schneider 43, Bd).
+
+Photo: Pl. 41.
+
+\bigskip
+\textbf{54. Ur III, dated (Puzriš-Dagān).}
+
+\medskip
+Baked clay tablet. Bleached white. Complete.
+\(31 \times 27 \times 13\) mm.
+Obv. 6 ll., rev. 7 ll.
+
+\medskip
+Šubati document: killed livestock.
+
+\medskip
+Month: šeš-da-kú (Ur calendar, II).
+
+\medskip
+Date formula: Shulgi, 47 (Schneider 44 A, a).
+
+\begin{quote}
+Rev. 2: Ur-nigin-gar, receiver of killed animals from Shulgi 44
+to AMAR-Sîn 3, cf. \textit{SETU}, p. 223 (W. W. Hallo,
+\textit{HUCA} 29 (1959), pp. 80--81); cf. also our Nos. 56, 57.
+\end{quote}
+\end{minipage}
+
+\vfill
+\begin{flushright}
+9
+\end{flushright}
+
+\end{document}
+```

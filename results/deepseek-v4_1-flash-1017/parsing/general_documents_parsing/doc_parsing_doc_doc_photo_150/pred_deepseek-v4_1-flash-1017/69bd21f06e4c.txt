@@ -1,0 +1,224 @@
+Here is the transcription of the image into LaTeX format.
+
+```latex
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+
+\geometry{
+    a4paper,
+    total={170mm,257mm},
+    left=15mm,
+    top=15mm,
+    right=15mm,
+    bottom=15mm,
+}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Large First Paper} \\
+    \textbf{\large SECTION -- A} \\
+    \textbf{\large READING TEST (SEEN PASSAGE)} \\
+    {[Question Nos. 1--3]}
+\end{center}
+
+\noindent পঠিতব্য থেকে যেকোনো একটি Passage থাকবে। উক্ত Passage-টি পড়ে নিম্নোক্ত ১-৩ নং প্রশ্নের উত্তর দিতে হবে। \\
+\textbf{1. Multiple Choice Questions \quad 2. Answering questions \quad 3. Summarizing} \\
+১-৩ নং প্রশ্নের উত্তর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Lesson গুলো গুরুত্ব সহকারে পড়তে হবে এবং এই বইয়ে প্রদত্ত Exercise গুলো অনুশীলন করতে হবে।
+
+\vspace{0.5cm}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|c|p{10cm}|}
+\hline
+\textbf{SL} & \textbf{Given Passage} \\
+\hline
+1 & Nakshi kantha --- embroidered on them.[U-1: L-2] \\
+  & \textit{\footnotesize [Ctgb '16; SB '15; DB '14; RB '14; DinajB '14; CB '14; BB '14]} \\
+\hline
+2 & The ethnic people --- in Mymensingh.[U-1: L-3] \\
+  & \textit{\footnotesize [BB '16]} \\
+\hline
+3 & Bangladeshi cuisine --- Bangladeshi people. [U-1: L-5] \\
+\hline
+4 & Health is the --- things of life. [U-3: L-1] \\
+  & \textit{\footnotesize [RB '15]} \\
+\hline
+5 & The word `hygiene' --- happy life. [U-3: L-3] \\
+  & \textit{\footnotesize [DinajB '16; '15; CB '15; JB '14; SB '14]} \\
+\hline
+6 & Shamima's misery --- designer. [U-5: L-3] \\
+  & \textit{\footnotesize [RB '16; DB '15]} \\
+\hline
+7 & At the farthest corner --- round in nature. [U-5: L-4] \\
+  & \textit{\footnotesize [DB '16]} \\
+\hline
+8 & Once upon a time a dove --- think about me?'' \\
+  & \textit{\footnotesize [U-5: L-5] [JB '16; CtgB '15]} \\
+\hline
+9 & Zara lives with --- start filling in the forms. \\
+  & \textit{\footnotesize [U-6: L-1] [CB '16; CtgB '14]} \\
+\hline
+10 & Oxygen and air --- on enjoyable flight. [U-6: L-6] \\
+\hline
+11 & Thousands of years --- for good luck. [U-7: L-1] \\
+  & \textit{\footnotesize [SB '16]} \\
+\hline
+12 & River gypsies are an ethnic --- special power. [U-7: L-3] \\
+\hline
+13 & River gypsies in Bangladesh --- children in some areas. \\
+  & \textit{\footnotesize [U-7 L-4] [BB '15]} \\
+\hline
+14 & With only 2500 --- Juba Padak in 2012. [U-8: L-3] \\
+\hline
+15 & Human beings conquered --- a major accident. \\
+  & \textit{\footnotesize [U-9; L-4] [JB '15]} \\
+\hline
+16 & Communication of ideas --- has changed our life. \\
+  & \textit{\footnotesize [U-9; L-6]} \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent\textbf{বোর্ড অনুযায়ী গুরুত্বপূর্ণ নির্দেশক ছক:} উপরের ব্যবহৃত সিরিয়াল নম্বর ছকে ব্যবহার করা হয়েছে। \\
+\textbf{[N.B. DB = Dhaka Board; বাকিগুলো ক্রমাবর]} \\
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \textbf{DB} & \textbf{RB} & \textbf{DinajB} & \textbf{JB} & \textbf{CB} & \textbf{CtgB} & \textbf{SB} & \textbf{BB} \\
+\hline
+*** & 1,3,4, & 1,2,4, & 1,2,6, & 1,2,4, & 1,2,3, & 2,3,4, & 1,2,5, & 1,4,6, \\
+ & 5,6,9 & 5,7,15 & 7, 8, & 5,6,11 & 5,6,11 & 6,15 & 6,9,10 & 5,9,11 \\
+ & 15 & ,11 & 15,19 & ,15 & ,15 & ,11 & & \\
+\hline
+** & 2,8, & 3,8,9, & 9,10, & 3,7,9, & 4,10, & 5,7,9, & 4,7,8, & 3,7,8, \\
+ & 10, & 10,13 & 11,13, & 10,13, & 12,13 & 13 & 13 & 10,13 \\
+ & 11,13 & 16 & 16 & 12,13 & 13 & & & \\
+\hline
+* & 7,12, & 12, & 3,12, & 12, & 7,8,16 & 8,12, & 12,14, & 12,14, \\
+ & 14,16 & 14,16 & 14 & 14,16 & ,14 & 14,16 & 16 & 15,16 \\
+\hline
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{\large READING TEST (UNSEEN PASSAGE)}
+\end{center}
+
+\noindent এই অংশে পাঠ্যবইয়ে বর্হিভূত একটি Passage থাকবে যা থেকে 4. Information transfer ও 5. True/ False এর উপর প্রশ্নপত্র প্রণয়ন করা হবে। \\
+৪-৫ নং প্রশ্নের উত্তর যথাযথ প্রস্তুতির জন্য নিম্নোক্ত Topic গুলো সম্পর্কে ধারণা থাকতে হবে এবং এই বইয়ে প্রদত্ত Exercise গুলো অনুশীলন করতে হবে। \\
+\textbf{ক.} বিখ্যাত ব্যক্তিত্বের জীবনী যেমন : বঙ্গবন্ধু শেখ মুজিবুর রহমান, কাজী নজরুল ইসলাম, বেগম রোকেয়া, হেলেন কেলার, মাদার তেরেসা, নেলসন ম্যান্ডেলা, নীল আর্মস্ট্রং, জয়নুল আবেদীন, জন ডান, শেক্সপিয়ার, আইনস্টাইন, জন কিটস, রবীন্দ্রনাথ ঠাকুর, বীরশ্রেষ্ঠ ক্যাপ্টেন মহিউদ্দিন জাহাঙ্গীর, বীরশ্রেষ্ঠ মুন্সী আব্দুর রউফ, ফ্লোরেন্স নাইটিঙ্গেল, হাজী মোহাম্মদ মহসিন। \\
+\textbf{খ.} বিখ্যাত স্থাপনা যেমন : জাতীয় স্মৃতিসৌধ, ষাট গম্বুজ মসজিদ, শহীদ মিনার, পাহাড়পুর বিহার, মহাস্থানগড়, সোনারগাঁও, ময়নামতি, সোমপুর বিহার। \\
+\textbf{গ.} ঐতিহাসিক নিদর্শন যেমন : মহাস্থানগড়, সোনারগাঁও, ময়নামতি, সোমপুর বিহার। \\
+\textbf{ঘ.} পর্যটন স্থান যেমন : কক্সবাজার, সুন্দরবন, কুয়াকাটা ইত্যাদি। \\
+\textbf{ঙ.} ঐতিহাসিক ঘটনা যেমন : ভাষা আন্দোলন, বাংলাদেশের স্বাধীনতা, টাইটানিক দুর্ঘটনা, ইত্যাদি। \\
+\textbf{চ.} পুরস্কার : নোবেল পুরস্কার, স্বাধীনতা পদক, একুশে পদক ইত্যাদি। \\
+\textbf{ছ.} প্রকৃতি : চাঁদ, সূর্য, গ্রহ, তারা ইত্যাদি। \\
+এছাড়া, \textbf{6. Gap filling without clues, 7. Rearranging, 8. Gap filling with clues ও 9. Matching} এই item গুলো Unseen হবে। \\
+তাই এই অংশের Suggestion দেয়া হয়নি। এই অংশে ভালো করার জন্য এই বইয়ে সংযোজিত Exercise গুলো অনুশীলন কর।
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{\Large SECTION -- B WRITING TEST} \\
+    \textbf{\Large DIALOGUE} \\
+    {[Question No. 10]}
+\end{center}
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|c|p{11cm}|}
+\hline
+\textbf{SL} & \textbf{Topic} \\
+\hline
+1 & Between two friends about reading newspaper. \\
+  & \textit{\footnotesize [DinajB '16; CtgB '16; CB '15; SB '15; RB '14]} \\
+\hline
+2 & Between two friends/father and son about the preparation for the JSC Exam. \\
+  & \textit{\footnotesize [CB '16; DinajB '15; JSC '13, '11]} \\
+\hline
+3 & Between two friends about your favourite hobby/gardening. \\
+  & \textit{\footnotesize [JB '16; BB '15; DinajB '14]} \\
+\hline
+4 & Between two friends about the necessity of physical exercise. \\
+  & \textit{\footnotesize [BB '16; RB '15]} \\
+\hline
+5 & Between two friends about the bad effects of illiteracy. \\
+  & \textit{\footnotesize [RB '16; CtgB '14]} \\
+\hline
+6 & Between two friends about benefits of early rising. \\
+  & \textit{\footnotesize [SB '16; JB '14]} \\
+\hline
+7 & Between two friends about how to make a good result. \\
+  & \textit{\footnotesize [DB '16]} \\
+\hline
+8 & Between two friends about how to improve English. \\
+  & \textit{\footnotesize [SB '14]} \\
+\hline
+9 & Between two friends about importance of learning English. \\
+  & \textit{\footnotesize [DB '15]} \\
+\hline
+10 & Between you and your friend about aim in life. \\
+  & \textit{\footnotesize [JB '15]} \\
+\hline
+11 & Between two friends about merits and demerits of using mobile phone. \\
+  & \textit{\footnotesize [CtgB '15]} \\
+\hline
+12 & Between two friends about the dangers of smoking. \\
+  & \textit{\footnotesize [CB '14]} \\
+\hline
+13 & Between a doctor and a patient about illness. \\
+  & \textit{\footnotesize [BB '14]} \\
+\hline
+14 & Between two friends about an exciting football match. \\
+  & \textit{\footnotesize [DB '14]} \\
+\hline
+15 & Between two friends on what they intend to do after JSC Examination. \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent\textbf{বোর্ড অনুযায়ী গুরুত্বপূর্ণ নির্দেশক ছক:} উপরের ব্যবহৃত সিরিয়াল নম্বর ছকে ব্যবহার করা হয়েছে।
+
+\begin{table}[h!]
+\centering
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline
+ & \textbf{DB} & \textbf{RB} & \textbf{DinajB} & \textbf{JB} & \textbf{CB} & \textbf{CtgB} & \textbf{SB} & \textbf{BB} \\
+\hline
+*** & 1,3,4, & 1,12, & 1,2,4, & 1,2,5, & 1,3,4, & 2,3,4, & 1,2,3, & 1,3,4, \\
+ & 5,9,12 & 3,4,9, & 5,7,10 & 7,8,9, & 6,9,12 & 5,7,10 & 4,9, & 5,6,9, \\
+ & ,14 & 13 & ,13 & 10 & & ,10 & 12 & \\
+\hline
+** & 2,6, & 2,6,7, & 3,6,8, & 4,6,11 & 5,7, & 6,8,9, & 5,7,8, & 2,8,10 \\
+ & 13,10 & 8,11, & 9 & ,13 & 15,13 & 11,12, & 11,12 & ,11,14 \\
+ & & 14 & & & & 13 & & \\
+\hline
+* & 7,8,11 & 5,10, & 1,11, & 12,14, & 2,8,10 & 14,15 & 6,13, & 7,13, \\
+ & ,15 & 15 & 14,15 & 15 & ,11,14 & & 14,15 & 14,15 \\
+\hline
+\end{tabular}
+\end{table}
+
+\noindent\textit{[N.B. উত্তরোর জন্য অনুপম JSC Communicative English Model Questions বইয়ের Dialogue অংশ দেখ।]}
+
+\end{document}
+```

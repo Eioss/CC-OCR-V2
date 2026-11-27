@@ -1,0 +1,3 @@
+There are four instances of "13.10" on this receipt (item price, SubTotal, Net Total and Tax Summary amount). This is the first one, the item price for Cheese Matcha:
+
+(567, 477, 602, 488)

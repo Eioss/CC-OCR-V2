@@ -1,0 +1,30 @@
+Looking at the **Science Scale** column (orange bars) in the “Which Countries Lead the STEM Race?” section, we need to count how many countries have a science score **less than 500**.
+
+Let’s go through the list from top to bottom and identify those with Science scores < 500:
+
+- **Iceland**: 496 ✅
+- **Denmark**: 499 ✅
+- **Norway**: 500 ❌ (not less than 500)
+- **Ireland**: 508 ❌
+- **France**: 508 ❌
+- **Hungary**: 503 ❌
+- **United States**: 502 ❌
+- **Sweden**: 495 ✅
+- **Portugal**: 493 ✅
+- **Latvia**: 494 ✅
+- **Italy**: 489 ✅
+
+Now let’s count them:
+
+1. Iceland — 496  
+2. Denmark — 499  
+3. Sweden — 495  
+4. Portugal — 493  
+5. Latvia — 494  
+6. Italy — 489  
+
+✅ That’s **6 countries**.
+
+---
+
+**Answer: 6**

@@ -1,0 +1,37 @@
+\[
+\begin{aligned}
+\left|\mathbb{E}\!\left[F_{BA}^{t}(s_t,a_t)\mid P_t\right]\right|
+&=\gamma\,\mathbb{E}\!\left[
+\min\{Q_B^t(s_{t+1},a_*),Q_A^t(s_{t+1},a_*)\}
+-\min\{Q_A^t(s_{t+1},a_*),Q_B^t(s_{t+1},b_*)\}
+\mid P_t\right]\\
+&\le \gamma\,\mathbb{E}\!\left[
+\min\{Q_B^t(s_{t+1},b_*),Q_A^t(s_{t+1},a_*)\}
+-\min\{Q_B^t(s_{t+1},b_*),Q_A^t(s_{t+1},b_*)\}
+\mid P_t\right]\\
+&\le \gamma\,\mathbb{E}\!\left[Q_B^t(s_{t+1},b_*)\mid P_t\right]
+-\gamma\,\mathbb{E}\!\left[
+\min\{Q_A^t(s_{t+1},b_*),Q_B^t(s_{t+1},b_*)\}
+\mid P_t\right]\\
+&=\gamma P\!\left(Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\mathbb{E}\!\left[Q_B^t(s_{t+1},b_*)\mid
+Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*),P_t\right]\\
+&\quad+\gamma P\!\left(Q_B^t(s_{t+1},b_*)<Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\mathbb{E}\!\left[Q_B^t(s_{t+1},b_*)\mid
+Q_B^t(s_{t+1},b_*)<Q_A^t(s_{t+1},b_*),P_t\right]\\
+&\quad-\gamma P\!\left(Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\mathbb{E}\!\left[Q_A^t(s_{t+1},b_*)\mid
+Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*),P_t\right]\\
+&\quad-\gamma P\!\left(Q_B^t(s_{t+1},b_*)<Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\mathbb{E}\!\left[Q_B^t(s_{t+1},b_*)\mid
+Q_B^t(s_{t+1},b_*)<Q_A^t(s_{t+1},b_*),P_t\right]\\
+&=\gamma P\!\left(Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\mathbb{E}\!\left[
+Q_B^t(s_{t+1},b_*)-Q_A^t(s_{t+1},b_*)
+\mid Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*),P_t
+\right]\\
+&\le \gamma P\!\left(Q_B^t(s_{t+1},b_*)\ge Q_A^t(s_{t+1},b_*)\mid P_t\right)
+\|\Delta_t^{BA}\|
+\le \lambda\|\Delta_t^{BA}\|.
+\end{aligned}
+\]

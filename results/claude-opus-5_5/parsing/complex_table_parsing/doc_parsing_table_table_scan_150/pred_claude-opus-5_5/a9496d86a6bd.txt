@@ -1,0 +1,20 @@
+```html
+<table>
+  <tr>
+    <td>Languages</td>
+    <td>Zh</td>
+    <td>Es</td>
+    <td>Id</td>
+    <td>Avg</td>
+  </tr>
+  <tr>
+    <td>BLEU Score</td>
+    <td>55.61</td>
+    <td>49.33</td>
+    <td>48.97</td>
+    <td>51.30</td>
+  </tr>
+</table>
+```
+
+The table has no merged cells. It has one header row and one data row, each with five columns.

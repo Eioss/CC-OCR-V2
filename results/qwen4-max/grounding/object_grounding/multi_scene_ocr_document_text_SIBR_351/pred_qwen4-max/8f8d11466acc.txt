@@ -1,0 +1,5 @@
+I need to extract values for each labeled field from this medical receipt. Let me work through the document systematically, reading each field and its corresponding value, then assign bounding boxes.
+
+Let me trace through the fields: title at top, computer number, ticket code, No, medical record number, name, gender, insurance type, social security number, then the table headers and rows, totals, payment sections, and footer.
+
+I'll provide the JSON with values and bboxes.

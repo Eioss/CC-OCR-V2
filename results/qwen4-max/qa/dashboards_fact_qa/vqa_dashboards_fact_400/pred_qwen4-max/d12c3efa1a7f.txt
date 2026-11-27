@@ -1,0 +1,10 @@
+To find the combined food price change of beef and bread, we need to add their individual percentage changes:
+
+- Beef: 29.4%
+- Bread: 40.9%
+
+Adding these together:
+
+29.4% + 40.9% = **70.3%**
+
+So, the combined food price change for beef and bread is **70.3%**.

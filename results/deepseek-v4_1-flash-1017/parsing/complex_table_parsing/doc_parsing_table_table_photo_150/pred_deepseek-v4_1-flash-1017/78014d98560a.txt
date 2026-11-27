@@ -1,0 +1,124 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+  td {
+    border: 1px solid black;
+    padding: 8px;
+    vertical-align: top;
+  }
+  .no-border-bottom {
+    border-bottom: none;
+  }
+  .no-border-top {
+    border-top: none;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      A. Main Dimensions<br><br>
+      (i) LOA (m)<br><br>
+      (ii) Length between perpendiculars<br>(m)<br><br>
+      (iii) Deadweight capacity (DWT) (mts)<br><br>
+      (iv) Design draft (m)
+    </td>
+    <td style="width: 50%;">
+      B. cargo capacity<br><br>
+      (i) Cubic capacity<br><br>
+      (ii)Rold capacity
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td rowspan="2">
+      Main engine<br><br>
+      (i) Maker/Type<br><br>
+      (ii) Max. continuous rating<br>(kilowatts at MCR)<br><br>
+      (iii) RPM at MCR<br><br>
+      (iv) Specific Fuel Oil Consumption at<br>MCR
+    </td>
+    <td>
+      B2. TEU carrying<br>capacity(state number of<br>containers)<br><br>
+      (i) Total on deck<br><br>
+      a. 20' /40' /45' TEU<br><br>
+      b. No. of reefers<br><br>
+      (ii) Total under deck<br><br>
+      a. 20' /40' /45' TEU<br><br>
+      b. No. of reefers
+    </td>
+  </tr>
+  
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      D. Average speed<br><br>
+      (i) Service speed (knot)at design draft<br><br>
+      E. Other matters (optional )
+    </td>
+  </tr>
+  
+  <!-- Row 4 -->
+  <tr>
+    <td>
+      5. BUILDER' s Hull Number
+    </td>
+    <td>
+      6. Flag State
+    </td>
+  </tr>
+  
+  <!-- Row 5 -->
+  <tr>
+    <td>
+      7. Classification Society/Class<br>character
+    </td>
+    <td>
+      8. Contract Price and Currency<br><br>
+      (a) Price<br><br>
+      (b) Currency
+    </td>
+  </tr>
+  
+  <!-- Row 6 -->
+  <tr>
+    <td>
+      9. Contractual Date of Delivery
+    </td>
+    <td>
+      10. Payments
+    </td>
+  </tr>
+  
+  <!-- Row 7 -->
+  <tr>
+    <td>
+      11. BUILDER' s Bank Account Data<br><br>
+      Name:<br><br><br>
+      Address:<br><br><br>
+      Country:
+    </td>
+    <td>
+      1st installment<br><br><br>
+      2nd installment<br><br><br>
+      3rd installment<br><br><br>
+      4th installment
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+```

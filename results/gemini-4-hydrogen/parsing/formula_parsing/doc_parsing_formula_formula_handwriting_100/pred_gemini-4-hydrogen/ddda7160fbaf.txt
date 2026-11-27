@@ -1,0 +1,16 @@
+```latex
+\begin{aligned}
+&\limsup_{\alpha} (\mathcal{E}_{\alpha}(u_{\alpha}) + \|u_{\alpha}\|_{H_{\alpha}}^{2}) < +\infty \\[1em]
+&\vec{r} = \sum_{m} P_{m} \big(\cos(\gamma_{m}) \vec{b}_{m} + \sin(\gamma_{m}) \hat{n}_{m} \times \vec{b}_{m} \\
+&\quad + (1 - \cos(\gamma_{m})) \hat{n}_{m} \hat{n}_{m} \cdot \vec{b}_{m}\big). \\[1em]
+&T \in T_{\rightarrow}, T_{\leftrightarrow}, T_{\mathrm{sep}}, \text{ or } T_{g} \\[1em]
+&\begin{cases}
+\int_{\Omega} z_{h} \cdot w_{h} - \int_{\Omega} p_{h} \nabla \cdot w_{h} = \int_{\Omega} v \cdot w_{h}, & \forall w_{h} \in \mathbf{X}_{h}, \\[0.5em]
+\int_{\Omega} q_{h} \nabla \cdot z_{h} = \int_{\Omega} q_{h} \nabla \cdot v, & \forall q_{h} \in M_{h}.
+\end{cases} \\[1em]
+&\sigma_{1}(\zeta, \eta) = \int_{0}^{\zeta} \int_{0}^{\eta} \sigma_{1}''(x + y) \, dy \, dx \leqslant \sigma(0)\zeta\eta, \qquad (\zeta, \eta) \in (0, \infty)^{2}. \\[1em]
+&\langle (S_{\eta}, (t_{0,\eta}, t_{1,\eta})) \mid \eta < \delta \rangle \\[1em]
+&D_{t}^{\alpha} f(t) := \frac{d}{dt} (g_{1-\alpha} * f)(t) = \frac{d}{dt} \int_{0}^{t} g_{1-\alpha}(t - \tau) f(\tau) \, d\tau. \\[1em]
+&\int_{\Pi} \ln \frac{\varepsilon}{|x - y|} \zeta(y) \, dy = \int_{|x - y| \leqslant R_{\varepsilon}} \ln \frac{\varepsilon}{|x - y|} \zeta(y) \, dy + \int_{|x - y| \geqslant R_{\varepsilon}} \ln \frac{\varepsilon}{|x - y|} \zeta(y) \, dy,
+\end{aligned}
+```

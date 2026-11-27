@@ -1,0 +1,19 @@
+```json
+[
+	{"bbox_2d": [748, 180, 890, 219], "label": "入住日期 CHECK IN"},
+	{"bbox_2d": [293, 288, 381, 305], "label": "协议单位 AGENT"},
+	{"bbox_2d": [262, 709, 351, 726], "label": "合计金额 AMOUNT"},
+	{"bbox_2d": [286, 185, 346, 207], "label": "客户名称 GUEST NAME"},
+	{"bbox_2d": [462, 770, 575, 788], "label": "已收定金 DEPOSIT RECEIVED"},
+	{"bbox_2d": [290, 234, 335, 250], "label": "房号 ROOM NUMBER"},
+	{"bbox_2d": [351, 436, 403, 556], "label": "摘要 DESCRIPTION"},
+	{"bbox_2d": [714, 915, 804, 937], "label": "收款员 CASHIER"},
+	{"bbox_2d": [152, 439, 287, 558], "label": "日期 DATE"},
+	{"bbox_2d": [376, 52, 666, 105], "label": "标题"},
+	{"bbox_2d": [748, 223, 889, 264], "label": "离店日期 CHECK OUT"},
+	{"bbox_2d": [307, 946, 493, 980], "label": "第一联 The first"},
+	{"bbox_2d": [571, 944, 755, 978], "label": "第二联 The second"},
+	{"bbox_2d": [464, 436, 505, 552], "label": "账号 ACCOUNT NUMBER"},
+	{"bbox_2d": [466, 857, 577, 876], "label": "退补差额 BALANCE COMPENSATION"}
+]
+```

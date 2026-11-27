@@ -1,0 +1,3 @@
+Based on the table at the bottom of the infographic titled **"VMWARE VSPHERE VS. MICROSOFT HYPER-V"**, under the column **"Microsoft ENT. PLUS"** (Enterprise Plus), the row for **"Max host processors"** lists the value **4**.
+
+Therefore, the minimum number of host processors for Microsoft Hyper-V shown in this comparison is **4**.

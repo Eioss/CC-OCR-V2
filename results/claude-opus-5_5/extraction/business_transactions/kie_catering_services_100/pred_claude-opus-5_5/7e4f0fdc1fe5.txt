@@ -1,0 +1,3 @@
+```json
+{"menu": [{"nm": "Kroket", "cnt": "1x", "unitprice": "@12.000", "price": "12.000"}, {"nm": "Arem Arem", "cnt": "2x", "unitprice": "@12.000", "price": "24.000"}], "sub_total": {"subtotal_price": "Rp 36.000", "tax_price": "Rp 3.600"}, "total": {"total_price": "Rp 39.600", "other_price": "Rp 39.600"}}
+```

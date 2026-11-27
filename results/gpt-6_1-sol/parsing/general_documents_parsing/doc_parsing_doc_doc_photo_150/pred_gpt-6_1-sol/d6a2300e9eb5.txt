@@ -1,0 +1,49 @@
+```latex
+\text{(Q3) [4 points] Given the divided difference table}
+\qquad
+\begin{array}{|c|c|c|c|}
+\hline
+x & f(x) & \text{1st D.D.} & \text{2nd D.D.} \\
+\hline
+0 & -3 & & \\
+\hline
+1 & -1 & -2 & \\
+\hline
+2 & A & 6 & B \\
+\hline
+\end{array}
+\qquad
+\text{Find the constants } A, B.
+```
+
+```latex
+\text{(Q4) [4 points] Use the Gauss-Legendre two-point rule to estimate }
+\int_a^{a+2h} (x-a)\,dx.
+```
+
+```latex
+\text{(Q5) [4 points] Consider the data } (2.3,3),\ (2.6,-9),\
+(2.9,A),\ (3.2,B).
+\text{ If } f'(2.9)\approx 95
+\text{ using backward difference formula, and } f'(2.9)\approx 40
+\text{ using the centered difference formula. Find } A \text{ and } B.
+```
+
+```latex
+\text{(Q6) [4 points] Consider the quadrature formula: }
+\int_{-6}^{6} f(x)\,dx \approx A f(-6)+9f(B).
+\text{ If the degree of precision is 1. Find the constants } A, B.
+```
+
+```latex
+\text{(Q7) [4 points] Find the Root Mean square error for the linear approximation }
+y=8.6-1.6x
+\text{ to the data } (-1,9.5),\ (0,9),\ (1,7).
+```
+
+```latex
+\text{(Q8) [4 points] Find the optimal } h
+\text{ of the difference formula: }
+f''(x_0)=\frac{f_3-4f_0+3f_{-1}}{6h^2}
+-\frac{2h f'''(c)}{3}.
+```

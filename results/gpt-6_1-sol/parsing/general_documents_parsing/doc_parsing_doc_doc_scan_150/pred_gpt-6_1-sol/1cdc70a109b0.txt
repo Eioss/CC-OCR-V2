@@ -1,0 +1,112 @@
+```latex
+\documentclass{article}
+\usepackage[margin=0.75in]{geometry}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE Second multicols Demo\par}
+    \vspace{1em}
+    {\large Overleaf\par}
+    \vspace{0.75em}
+    {\large April 2021\par}
+\end{center}
+
+\section{First Section}
+
+\noindent
+All human things are subject to decay. And when fate summons, Monarchs
+must obey.
+
+\vspace{1em}
+
+\noindent
+\begin{minipage}[t]{0.28\textwidth}
+\hspace*{1.5em}Lorem ipsum do-\\
+lor sit amet, con-\\
+sectetuer adipiscing\\
+elit. Etiam lobortis\\
+facilisis sem. Nul-\\
+lam nec mi et neque\\
+pharetra sollicitudin.\\
+Praesent imperdiet mi\\
+nec ante. Donec ul-\\
+lamcorper, felis non\\
+sodales commodo,\\
+lectus velit ultrices\\
+augue, a dignissim\\
+nibh lectus placerat\\
+pede. Vivamus nunc\\
+nunc, molestie ut, ul-\\
+tricies vel, semper in,\\
+velit. Ut porttitor.\\
+Praesent in sapien.\\
+Lorem ipsum dolor\\
+sit amet, consectetuer\\
+adipiscing elit. Duis\\
+fringilla tristique\\
+neque. Sed inter-\\
+dum libero ut metus.\\
+Pellentesque placerat.\\
+Nam rutrum augue a\\
+leo. Morbi sed elit\\
+sit amet ante lobor-
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.28\textwidth}
+tis sollicitudin. Prae-\\
+sent blandit blandit\\
+mauris. Praesent lec-\\
+tus tellus, aliquet ali-\\
+quam, luctus a, eges-\\
+tas a, turpis. Mau-\\
+ris lacinia lorem sit\\
+amet ipsum. Nunc\\
+quis urna dictum\\
+turpis accumsan sem-\\
+per. Lorem ipsum\\
+dolor sit amet, con-\\
+sectetuer adipiscing\\
+elit. Etiam lobortis\\
+facilisis sem. Nul-\\
+lam nec mi et neque\\
+pharetra sollicitudin.\\
+Praesent imperdiet mi\\
+nec ante. Donec ul-\\
+lamcorper, felis non\\
+sodales commodo,\\
+lectus velit ultrices\\
+augue, a dignissim\\
+nibh lectus placerat\\
+pede. Vivamus nunc\\
+nunc, molestie ut, ul-\\
+tricies vel, semper in,\\
+velit. Ut porttitor.\\
+Praesent in sapien.
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.28\textwidth}
+Lorem ipsum dolor\\
+sit amet, consectetuer\\
+adipiscing elit. Duis\\
+fringilla tristique\\
+neque. Sed inter-\\
+dum libero ut metus.\\
+Pellentesque placerat.\\
+Nam rutrum augue a\\
+leo. Morbi sed elit\\
+sit amet ante lobor-\\
+tis sollicitudin. Prae-\\
+sent blandit blandit\\
+mauris. Praesent lec-\\
+tus tellus, aliquet ali-\\
+quam, luctus a, eges-\\
+tas a, turpis. Mauris\\
+lacinia lorem sit amet\\
+ipsum. Nunc quis\\
+urna dictum turpis\\
+accumsan semper.
+\end{minipage}
+
+\end{document}
+```

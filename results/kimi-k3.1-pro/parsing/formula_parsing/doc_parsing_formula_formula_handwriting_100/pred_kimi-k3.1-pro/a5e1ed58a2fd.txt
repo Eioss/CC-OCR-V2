@@ -1,0 +1,23 @@
+\[
+\begin{aligned}
+&\mathbb{E}\int_{Q}\int_{Q}\left|K_{g}(t,x)-K_{g}(s,y)\right|^{p}\,dt\,dx\,ds\,dy\\
+&\quad=\mathbb{E}\int_{Q}\int_{Q}\left|\int_{0}^{t}\int_{\mathbb{R}^{d}}K(t-r,z)g(x-z)\,dz\,dW(r)\right.\\
+&\qquad\left.-\int_{0}^{s}\int_{\mathbb{R}^{d}}K(s-r,z)g(y-z)\,dz\,dW(r)\right|^{p}\,dt\,dx\,ds\,dy\\
+&\quad\le N(p)\mathbb{E}\int_{Q}\int_{Q}\left|\int_{0}^{s}\int_{\mathbb{R}^{d}}
+\bigl(K(t-r,z)-K(s-r,z)\bigr)g(y-z)\,dz\,dW(r)\right|^{p}\\
+&\qquad+N(p)\mathbb{E}\int_{Q}\int_{Q}\left|\int_{0}^{s}\int_{\mathbb{R}^{d}}
+K(t-r,z)\bigl(g(x-z)-g(y-z)\bigr)\,dz\,dW(r)\right|^{p}\\
+&\qquad+N(p)\mathbb{E}\int_{Q}\int_{Q}\left|\int_{s}^{t}\int_{\mathbb{R}^{d}}
+K(t-r,z)g(x-z)\,dz\,dW(r)\right|^{p}\,dt\,dx\,ds\,dy\\
+&\quad\le N(p)\mathbb{E}\int_{Q}\int_{Q}
+\left(\int_{0}^{s}\left|\int_{\mathbb{R}^{d}}
+\bigl(K(t-r,z)-K(s-r,z)\bigr)g(y-z)\,dz\right|^{2}dr\right)^{\frac{p}{2}}\\
+&\qquad+N(p)\mathbb{E}\int_{Q}\int_{Q}
+\left(\int_{0}^{s}\left|\int_{\mathbb{R}^{d}}
+K(t-r,z)\bigl(g(x-z)-g(y-z)\bigr)\,dz\right|^{2}dr\right)^{\frac{p}{2}}\\
+&\qquad+N(p)\mathbb{E}\int_{Q}\int_{Q}
+\left(\int_{s}^{t}\left|\int_{\mathbb{R}^{d}}
+K(t-r,z)g(x-z)\,dz\right|^{2}dr\right)^{\frac{p}{2}}\\
+&\quad=:I_{1}+I_{2}+I_{3}.
+\end{aligned}
+\]

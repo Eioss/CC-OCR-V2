@@ -1,0 +1,127 @@
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Attribute</th>
+      <th>Method</th>
+      <th>Generation Results</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Negative Sentiment Section -->
+    <tr>
+      <td rowspan="5">Negative Sentiment</td>
+      <td>Finetune</td>
+      <td><i>Once upon a time, I was very</i> <span style="background-color: #fce4d6;">disappointed</span> <i>. The meat was</i> <span style="background-color: #fce4d6;">bland</span> <i>and the beans tasted as if they had been sitting out all day...</i></td>
+    </tr>
+    <tr>
+      <td>Adapter</td>
+      <td><i>Once upon a time in the restaurant it was</i> <span style="background-color: #fce4d6;">still dark</span> <i>and people</i> <span style="background-color: #fce4d6;">weren 't</span> <i>even talking...</i></td>
+    </tr>
+    <tr>
+      <td>PPLM</td>
+      <td><i>Once upon a time, computers would have been able read, interpret and write, and listen, listen and read...</i></td>
+    </tr>
+    <tr>
+      <td>GeDi</td>
+      <td><i>Once upon a time you either enter base build states or begin switching context switches and magic spells that alter your manifest...</i></td>
+    </tr>
+    <tr>
+      <td><b>Tailor<sup>Single</sup></b></td>
+      <td><i>Once upon a time, you had to order your dinner. the food</i> <span style="background-color: #fce4d6;">came out cold</span> <i>with</i> <span style="background-color: #fce4d6;">no</span> <i>seasoning or flavor</i> <span style="background-color: #fce4d6;">whatsoever</span> <i>...</i></td>
+    </tr>
+
+    <!-- Positive Sentiment Section -->
+    <tr>
+      <td rowspan="5">Positive Sentiment</td>
+      <td>Finetune</td>
+      <td><i>Once upon a time they were busy but the food was</i> <span style="background-color: #dae3f3;">amazing</span> <i>and service</i> <span style="background-color: #dae3f3;">fast</span> <i>.</i> <span style="background-color: #dae3f3;">highly recommend</span> <i>for date night / evening out...</i></td>
+    </tr>
+    <tr>
+      <td>Adapter</td>
+      <td><i>Once upon a time I 'd</i> <span style="background-color: #dae3f3;">like</span> <i>to visit the city of lg, it was atlas!</i> <span style="background-color: #dae3f3;">great</span> <i>food and</i> <span style="background-color: #dae3f3;">amazing</span> <i>bartenders...</i></td>
+    </tr>
+    <tr>
+      <td>PPLM</td>
+      <td><i>Once upon a time in the world in which a</i> <span style="background-color: #dae3f3;">great</span> <i>deal of the work was done with the work was done in the world in the most...</i></td>
+    </tr>
+    <tr>
+      <td>GeDi</td>
+      <td><i>Once upon a time, mankind thought of themselves as</i> <span style="background-color: #dae3f3;">merciful</span> <i>,</i> <span style="background-color: #dae3f3;">enlightened</span> <i>princes, with</i> <span style="background-color: #dae3f3;">loving</span> <i>hearts. That prosperity and flourishing...</i></td>
+    </tr>
+    <tr>
+      <td><b>Tailor<sup>Single</sup></b></td>
+      <td><i>Once upon a time, I was so</i> <span style="background-color: #dae3f3;">excited</span> <i>to have my friends and family there that we wanted our food. the staff is</i> <span style="background-color: #dae3f3;">great</span> <i>! they make us</i> <span style="background-color: #dae3f3;">feel at home</span> <i>when...</i></td>
+    </tr>
+
+    <!-- Mexican Food Section -->
+    <tr>
+      <td rowspan="5">Mexican Food</td>
+      <td>Finetune</td>
+      <td><i>Once upon a time I had the</i> <span style="background-color: #fce4d6;">carne asada burritos</span> <i>, they looked great. my wife's quesadilla was the only thing that she liked...</i></td>
+    </tr>
+    <tr>
+      <td>Adapter</td>
+      <td><i>Once upon a time in my family I ordered the</i> <span style="background-color: #fce4d6;">taco</span> <i>and they came out with two different varieties of beans. when it was finished we were asked...</i></td>
+    </tr>
+    <tr>
+      <td>PPLM</td>
+      <td><i>Once upon a time the user would use a calculator to get a price for the price of the goods that...</i></td>
+    </tr>
+    <tr>
+      <td>GeDi</td>
+      <td><i>Once upon a time Mexico had started</i> <span style="background-color: #fce4d6;">guacamole</span> <i>called empty beans and children with Luis María de Leonos. Juan said he didn't tell a Hispanic what he did...</i></td>
+    </tr>
+    <tr>
+      <td><b>Tailor<sup>Single</sup></b></td>
+      <td><i>Once upon a time I was in the area and had one of these</i> <span style="background-color: #fce4d6;">burritos</span> <i>that were so delicious. we ordered them for...</i></td>
+    </tr>
+
+    <!-- American Food Section -->
+    <tr>
+      <td rowspan="5">American Food</td>
+      <td>Finetune</td>
+      <td><i>Once upon a time I was eating my</i> <span style="background-color: #c6e0b4;">burger</span> <i>, the server looked at me and said something to him " you have no idea how bad that is...</i></td>
+    </tr>
+    <tr>
+      <td>Adapter</td>
+      <td><i>Once upon a time, I ordered the</i> <span style="background-color: #c6e0b4;">lobster bbq</span> <i>and we both got no meat. our server had been on call for over an hour before she left after talking to us again...</i></td>
+    </tr>
+    <tr>
+      <td>PPLM</td>
+      <td><i>Once upon a time there were some people who used the same the machines as they could be to get their hands on and get the best results...</i></td>
+    </tr>
+    <tr>
+      <td>GeDi</td>
+      <td><i>Once upon a time turkey</i> <span style="background-color: #c6e0b4;">sandwiches</span> <i>turned Uhhh ... majestic, religious grunge, weened suburban</i> <span style="background-color: #c6e0b4;">ham sandwich</span> <i>— Americans applaud! Dove Bruffer » Briggs atte...</i></td>
+    </tr>
+    <tr>
+      <td><b>Tailor<sup>Single</sup></b></td>
+      <td><i>Once upon a time I 'd go to the bbq and it was pretty empty. my friend had our</i> <span style="background-color: #c6e0b4;">burger</span> <i>, which we ordered with</i> <span style="background-color: #c6e0b4;">fries</span> <i>but not in advance of eating at dinner...</i></td>
+    </tr>
+
+    <!-- Asian Food Section -->
+    <tr>
+      <td rowspan="5">Asian Food</td>
+      <td>Finetune</td>
+      <td><i>Once upon a time I've had the</i> <span style="background-color: #fce4d6;">spicy tofu dish</span> <i>, but that was my only meal. It came out cold and tasted awful...</i></td>
+    </tr>
+    <tr>
+      <td>Adapter</td>
+      <td><i>Once upon a time I was craving something spicy, it tasted like the best</i> <span style="background-color: #fce4d6;">Chinese food</span> <i>out there...</i></td>
+    </tr>
+    <tr>
+      <td>PPLM</td>
+      <td><i>Once upon a time I made a stone of silver ring mail "Garden of the Winds Winds"...</i></td>
+    </tr>
+    <tr>
+      <td>GeDi</td>
+      <td><i>Once upon a time bamboo</i> <span style="background-color: #fce4d6;">noodles</span> <i>were the classical medicine and lemongrass fetish...</i></td>
+    </tr>
+    <tr>
+      <td><b>Tailor<sup>Single</sup></b></td>
+      <td><i>Once upon a time, I got here for the</i> <span style="background-color: #fce4d6;">sushi roll</span> <i>. After getting home from work at 4pm and finding...</i></td>
+    </tr>
+  </tbody>
+</table>
+```

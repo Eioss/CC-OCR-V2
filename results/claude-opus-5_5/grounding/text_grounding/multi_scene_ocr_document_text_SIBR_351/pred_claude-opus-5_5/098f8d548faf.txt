@@ -1,0 +1,3 @@
+The receipt shows "0.00" in five places: 自费, 当年支付, 当年余额, 历年支付 and 历年余额. This box is for the one after 自费 (self-paid):
+
+(346, 560, 411, 576)

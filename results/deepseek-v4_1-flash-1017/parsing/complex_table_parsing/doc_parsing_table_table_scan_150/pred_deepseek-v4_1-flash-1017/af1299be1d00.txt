@@ -1,0 +1,245 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  th {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .main-title {
+    color: #d32f2f;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  .sub-title {
+    font-size: 14px;
+    color: #333;
+    font-weight: normal;
+    margin-top: 5px;
+  }
+  .header-line {
+    border-top: 2px solid #d32f2f;
+    margin-bottom: 15px;
+  }
+  td {
+    padding: 4px 8px;
+    font-size: 18px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  .col-rank {
+    width: 10%;
+    text-align: left;
+    color: #000;
+  }
+  .col-school {
+    width: 65%;
+    text-align: left;
+  }
+  .col-score {
+    width: 25%;
+    text-align: right;
+    color: #000;
+  }
+  .school-blue {
+    color: #1a237e;
+  }
+  .school-purple {
+    color: #c2185b;
+  }
+  .footer-text {
+    text-align: right;
+    font-size: 12px;
+    color: #555;
+    margin-top: 10px;
+    font-weight: normal;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">
+        <div class="main-title">南京最强高中一览</div>
+        <div class="sub-title">【萌虎王】知识分享</div>
+        <div class="header-line"></div>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="col-rank">1</td>
+      <td class="col-school school-blue">南京师范大学附属中学</td>
+      <td class="col-score">637</td>
+    </tr>
+    <tr>
+      <td class="col-rank">2</td>
+      <td class="col-school school-blue">金陵中学</td>
+      <td class="col-score">630</td>
+    </tr>
+    <tr>
+      <td class="col-rank">3</td>
+      <td class="col-school school-blue">第二十九中学</td>
+      <td class="col-score">625</td>
+    </tr>
+    <tr>
+      <td class="col-rank">4</td>
+      <td class="col-school school-blue">第一中学中山南路校区</td>
+      <td class="col-score">622</td>
+    </tr>
+    <tr>
+      <td class="col-rank">5</td>
+      <td class="col-school school-blue">中华中学</td>
+      <td class="col-score">619</td>
+    </tr>
+    <tr>
+      <td class="col-rank">6</td>
+      <td class="col-school school-blue">南师大附中(江宁分校)</td>
+      <td class="col-score">615</td>
+    </tr>
+    <tr>
+      <td class="col-rank">7</td>
+      <td class="col-school school-blue">第十三中学</td>
+      <td class="col-score">614</td>
+    </tr>
+    <tr>
+      <td class="col-rank">8</td>
+      <td class="col-school school-blue">第一中学江北校区</td>
+      <td class="col-score">612</td>
+    </tr>
+    <tr>
+      <td class="col-rank">9</td>
+      <td class="col-school school-blue">南京东山外国语学校</td>
+      <td class="col-score">610</td>
+    </tr>
+    <tr>
+      <td class="col-rank">10</td>
+      <td class="col-school school-blue">第九中学</td>
+      <td class="col-score">606</td>
+    </tr>
+    <tr>
+      <td class="col-rank">11</td>
+      <td class="col-school school-blue">金陵中学河西分校</td>
+      <td class="col-score">605</td>
+    </tr>
+    <tr>
+      <td class="col-rank">12</td>
+      <td class="col-school school-blue">南师大附中秦淮科技高中</td>
+      <td class="col-score">604</td>
+    </tr>
+    <tr>
+      <td class="col-rank">13</td>
+      <td class="col-school school-blue">雨花台中学</td>
+      <td class="col-score">600</td>
+    </tr>
+    <tr>
+      <td class="col-rank">14</td>
+      <td class="col-school school-blue">宁海中学</td>
+      <td class="col-score">598</td>
+    </tr>
+    <tr>
+      <td class="col-rank">15</td>
+      <td class="col-school school-blue">南京田家炳高级中学</td>
+      <td class="col-score">592</td>
+    </tr>
+    <tr>
+      <td class="col-rank">16</td>
+      <td class="col-school school-purple">雨花台中学岱山分校</td>
+      <td class="col-score">587</td>
+    </tr>
+    <tr>
+      <td class="col-rank">17</td>
+      <td class="col-school school-purple">江宁高级中学</td>
+      <td class="col-score">586</td>
+    </tr>
+    <tr>
+      <td class="col-rank">18</td>
+      <td class="col-school school-purple">溧水高级中学</td>
+      <td class="col-score">584</td>
+    </tr>
+    <tr>
+      <td class="col-rank">19</td>
+      <td class="col-school school-purple">南师大附属扬子中学</td>
+      <td class="col-score">583</td>
+    </tr>
+    <tr>
+      <td class="col-rank">20</td>
+      <td class="col-school school-purple">南航附属高级中学</td>
+      <td class="col-score">580</td>
+    </tr>
+    <tr>
+      <td class="col-rank">21</td>
+      <td class="col-school school-purple">高淳高级中学</td>
+      <td class="col-score">579</td>
+    </tr>
+    <tr>
+      <td class="col-rank">22</td>
+      <td class="col-school school-purple">燕子矶中学</td>
+      <td class="col-score">577</td>
+    </tr>
+    <tr>
+      <td class="col-rank">23</td>
+      <td class="col-school school-purple">六合高级中学</td>
+      <td class="col-score">572</td>
+    </tr>
+    <tr>
+      <td class="col-rank">24</td>
+      <td class="col-school school-purple">第十二中学</td>
+      <td class="col-score">569</td>
+    </tr>
+    <tr>
+      <td class="col-rank">25</td>
+      <td class="col-school school-purple">南京河西外国语学校</td>
+      <td class="col-score">567</td>
+    </tr>
+    <tr>
+      <td class="col-rank">26</td>
+      <td class="col-school school-purple">建邺高级中学</td>
+      <td class="col-score">565</td>
+    </tr>
+    <tr>
+      <td class="col-rank">27</td>
+      <td class="col-school school-purple">人民中学(汇文女子中学)</td>
+      <td class="col-score">559</td>
+    </tr>
+    <tr>
+      <td class="col-rank">28</td>
+      <td class="col-school school-purple">南京大学附属中学</td>
+      <td class="col-score">558</td>
+    </tr>
+    <tr>
+      <td class="col-rank">29</td>
+      <td class="col-school school-purple">江浦高级中学</td>
+      <td class="col-score">557</td>
+    </tr>
+    <tr>
+      <td class="col-rank">30</td>
+      <td class="col-school school-purple">江宁区天印高级中学</td>
+      <td class="col-score">556</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="footer-text">
+  头条 @萌虎王知识分享<br>
+  (2020年第一批次高中投档分)
+</div>
+
+</body>
+</html>
+```

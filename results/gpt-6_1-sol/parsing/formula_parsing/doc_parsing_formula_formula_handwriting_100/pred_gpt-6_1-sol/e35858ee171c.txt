@@ -1,0 +1,48 @@
+\[
+\begin{gathered}
+F_{\pm}=4\ell(\Delta\hat{\mu})^{2},\\[4pt]
+\partial_t\mu_t(x)
+=\frac12\Delta\mu_t(x)
++\sigma\!\left(x,\mu_t(x)\right)\dot W_t(x),
+\qquad t\in[0,T],\quad x\in\mathbb R,\\[4pt]
+\overline D\mu(z)=0,
+\qquad \forall z\in\Omega\setminus\partial U,\\[4pt]
+A\oplus B\in SC(X\times X\times\mathbb R),\\[4pt]
+\limsup_{t\to\infty}
+t^{\frac32\pm\frac12}
+\left|\dot I^{\,i}_{z_i}(t)\right|
+\le
+C\lim_{t\to\infty}
+\int_0^\infty
+\int_{|w|\ge t/2}
+|D_j(w,\tau)|\,dw\,d\tau
+=0,\\[4pt]
+\left|e^TS_\theta E\right|
+=
+\frac{e^TAE}{(T+A_i'AA_i)x^2}
+\left[c_\theta^T(y-x)-\gamma-x\right]Tc_\chi
+\le
+\frac{e^TAE\left[(c_\chi+|c^Tx|)\tau(y-x)\right]}
+{(T+A_i'AA_i)\lambda_\theta^2x^2},\\[4pt]
+m\circ\exp_t(D\otimes D)
+=
+m_0\left(
+\mathrm{id}\otimes\mathrm{id}
++D\otimes D
++\frac{1}{1+\theta^2}
+\left(t^2D^1\otimes D^2\right)
+\right),\\[4pt]
+\sum_{n\ge1}\mu\{T_n=i\}<\infty,\\[4pt]
+\Lambda_1
+=-2\kappa\frac{z}{\langle z\rangle}\partial_z
+=-2\kappa\sum_{j=1}^{d}
+\frac{z_j}{\langle z\rangle}\partial_{z_j},\\[4pt]
+\Lambda_2
+=
+\frac{\kappa^2|z|^2\langle z\rangle-\kappa}
+{\langle z\rangle^3}
++
+\frac{\kappa|z|\cosh|z|}
+{\langle z\rangle\sinh|z|}.
+\end{gathered}
+\]

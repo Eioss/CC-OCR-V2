@@ -1,0 +1,130 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{textcomp}
+
+\begin{document}
+\pagestyle{empty}
+
+\noindent
+{\Large\bfseries 蝴蝶里(hudieli)}
+\hfill
+{\Large\bfseries 月销售报表}
+\hfill
+编号：621d2683a441e15f9c0727f2
+
+\medskip
+\noindent 南京河西天街 \quad | 河西天街-5F-22
+
+\noindent\rule{\textwidth}{0.8pt}
+
+\medskip
+\noindent 销售数据（2022 年 08 月 - 2022 年 08 月）
+
+\medskip
+\begin{center}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{|c|r|r|r|}
+\hline
+销售周期 / 类别 & 销售金额 & 月销售笔数 & 计提金额 \\
+\hline
+2022-08-01 到 2022-08-31
+& \textyen1,041,401.50
+& 5,154
+& \textyen1,041,401.50 \\
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{1cm}
+\begin{flushright}
+公司/授权签章：
+\end{flushright}
+
+\begin{flushright}
+\textcolor{red}{南京蝴蝶里餐饮有限公司}\\
+\textcolor{red}{★}\\
+\textcolor{red}{[印章小号数字无法清晰辨认]}
+\end{flushright}
+
+\noindent\rule{\textwidth}{0.4pt}
+
+\medskip
+\noindent 附：销售明细
+
+\medskip
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{|c|r|r|c|}
+\hline
+日期 & 销售金额 & 日销售笔数 & 上报人 \\
+\hline
+2022 年 08 月 01 日 & \textyen27,555.53 & 147 & 徐洋 \\
+\hline
+2022 年 08 月 02 日 & \textyen21,156.02 & 119 & 徐洋 \\
+\hline
+2022 年 08 月 03 日 & \textyen27,131.93 & 149 & 徐洋 \\
+\hline
+2022 年 08 月 04 日 & \textyen52,787.87 & 231 & 徐洋 \\
+\hline
+2022 年 08 月 05 日 & \textyen37,208.17 & 173 & 徐洋 \\
+\hline
+2022 年 08 月 06 日 & \textyen47,855.70 & 223 & 徐洋 \\
+\hline
+2022 年 08 月 07 日 & \textyen44,463.96 & 213 & 徐洋 \\
+\hline
+2022 年 08 月 08 日 & \textyen20,856.42 & 117 & 徐洋 \\
+\hline
+2022 年 08 月 09 日 & \textyen23,901.38 & 134 & 徐洋 \\
+\hline
+2022 年 08 月 10 日 & \textyen24,888.90 & 133 & 徐洋 \\
+\hline
+2022 年 08 月 11 日 & \textyen32,011.27 & 161 & 徐洋 \\
+\hline
+2022 年 08 月 12 日 & \textyen30,475.82 & 156 & 徐洋 \\
+\hline
+2022 年 08 月 13 日 & \textyen52,727.27 & 243 & 徐洋 \\
+\hline
+2022 年 08 月 14 日 & \textyen41,710.20 & 192 & 徐洋 \\
+\hline
+2022 年 08 月 15 日 & \textyen22,200.41 & 121 & 徐洋 \\
+\hline
+2022 年 08 月 16 日 & \textyen22,716.71 & 134 & 徐洋 \\
+\hline
+2022 年 08 月 17 日 & \textyen18,731.60 & 123 & 徐洋 \\
+\hline
+2022 年 08 月 18 日 & \textyen25,510.61 & 136 & 徐洋 \\
+\hline
+2022 年 08 月 19 日 & \textyen34,933.94 & 167 & 徐洋 \\
+\hline
+2022 年 08 月 20 日 & \textyen52,780.03 & 228 & 徐洋 \\
+\hline
+2022 年 08 月 21 日 & \textyen52,653.13 & 242 & 徐洋 \\
+\hline
+2022 年 08 月 22 日 & \textyen26,519.72 & 157 & 徐洋 \\
+\hline
+2022 年 08 月 23 日 & \textyen21,931.63 & 134 & 徐洋 \\
+\hline
+2022 年 08 月 24 日 & \textyen34,727.67 & 155 & 徐洋 \\
+\hline
+2022 年 08 月 25 日 & \textyen25,512.45 & 137 & 徐洋 \\
+\hline
+2022 年 08 月 26 日 & \textyen39,292.33 & 183 & 徐洋 \\
+\hline
+2022 年 08 月 27 日 & \textyen54,662.32 & 240 & 徐洋 \\
+\hline
+2022 年 08 月 28 日 & \textyen46,923.92 & 207 & 徐洋 \\
+\hline
+2022 年 08 月 29 日 & \textyen20,789.00 & 99 & 徐洋 \\
+\hline
+2022 年 08 月 30 日 & \textyen27,087.95 & 136 & 徐洋 \\
+\hline
+2022 年 08 月 31 日 & \textyen29,697.64 & 164 & 徐洋 \\
+\hline
+\end{tabular}
+\end{center}
+
+\end{document}
+```

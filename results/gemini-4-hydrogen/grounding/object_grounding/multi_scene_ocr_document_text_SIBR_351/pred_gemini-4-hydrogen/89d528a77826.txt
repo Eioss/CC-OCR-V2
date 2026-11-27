@@ -1,0 +1,29 @@
+```json
+[
+  {"bbox_2d": [22, 622, 32, 773], "label": "地址"},
+  {"bbox_2d": [69, 79, 85, 241], "label": "公司名"},
+  {"bbox_2d": [70, 770, 82, 816], "label": "邮政编码/Postcode"},
+  {"bbox_2d": [84, 686, 97, 800], "label": "电话/Tel"},
+  {"bbox_2d": [100, 624, 114, 757], "label": "网址"},
+  {"bbox_2d": [125, 707, 136, 738], "label": "房间号码/Room NO"},
+  {"bbox_2d": [135, 76, 149, 236], "label": "标题"},
+  {"bbox_2d": [146, 740, 157, 825], "label": "到达日期/Arrival Date"},
+  {"bbox_2d": [155, 168, 169, 217], "label": "姓名/Name"},
+  {"bbox_2d": [168, 758, 179, 843], "label": "离店日期/Departure Date"},
+  {"bbox_2d": [190, 713, 203, 765], "label": "收银员/Cashier NO"},
+  {"bbox_2d": [213, 718, 224, 802], "label": "打印日期/PrintDate"},
+  {"bbox_2d": [223, 216, 234, 267], "label": "账单号/Folio NO"},
+  {"bbox_2d": [237, 669, 248, 675], "label": "页码/PageNO."},
+  {"bbox_2d": [261, 391, 276, 716], "label": "公司名称及旅行社/CompanyName&Agent"},
+  {"bbox_2d": [334, 734, 344, 785], "label": "Charges CNY"},
+  {"bbox_2d": [339, 402, 350, 480], "label": "Reference 明细"},
+  {"bbox_2d": [342, 179, 355, 297], "label": "Description 内容"},
+  {"bbox_2d": [345, 79, 355, 162], "label": "Date 日期"},
+  {"bbox_2d": [350, 735, 360, 786], "label": "Charges CNY"},
+  {"bbox_2d": [355, 403, 366, 480], "label": "Reference 明细"},
+  {"bbox_2d": [358, 179, 371, 298], "label": "Description 内容"},
+  {"bbox_2d": [360, 80, 371, 163], "label": "Date 日期"},
+  {"bbox_2d": [818, 771, 829, 837], "label": "合计 Total"},
+  {"bbox_2d": [849, 772, 860, 839], "label": "结算Balance"}
+]
+```

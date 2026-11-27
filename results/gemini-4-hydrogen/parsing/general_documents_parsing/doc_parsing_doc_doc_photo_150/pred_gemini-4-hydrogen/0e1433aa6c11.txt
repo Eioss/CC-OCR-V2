@@ -1,0 +1,32 @@
+```latex
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+\begin{center}
+    {\normalsize A} \\[0.2cm]
+    {\Huge \textcolor{red}{DICTIONARY}} \\[0.2cm]
+    {\large ENGLISH, GERMAN AND FRENCH,} \\[0.3cm]
+    {\scriptsize CONTAINING NOT ONLY} \\[0.1cm]
+    {\large \textcolor{red}{THE ENGLISH WORDS}} \\[0.1cm]
+    {\footnotesize IN THEIR ALPHABETICAL ORDER,} \\[0.1cm]
+    {\footnotesize TOGETHER WITH THEIR SEVERAL SIGNIFICATIONS;} \\[0.1cm]
+    {\scriptsize BUT ALSO} \\[0.1cm]
+    {\footnotesize THEIR PROPER ACCENT, PHRASES, FIGURATIVE SPEECHES,} \\[0.1cm]
+    {\footnotesize IDIOMS, AND PROVERBS,} \\[0.3cm]
+    {\footnotesize TAKEN FROM THE BEST NEW} \\[0.1cm]
+    {\Large \textcolor{red}{ENGLISH DICTIONARIES}} \\[0.2cm]
+    {\scriptsize BY} \\[0.1cm]
+    {\large Mr. CHRISTIAN LUDWIG.} \\[0.3cm]
+    {\small \textcolor{red}{SECOND EDITION}} \\[0.1cm]
+    {\scriptsize CAREFULLY REVISED, CORRECTED, AND CONSIDERABLY} \\[0.05cm]
+    {\scriptsize AUGMENTED.} \\[1.5cm]
+    % [Illustration of Pegasus]
+    {\small \textcolor{red}{LEIPZIG {\scriptsize AND} FRANCFURT}} \\[0.1cm]
+    {\small M DCC XXXVI.}
+\end{center}
+
+\end{document}
+```

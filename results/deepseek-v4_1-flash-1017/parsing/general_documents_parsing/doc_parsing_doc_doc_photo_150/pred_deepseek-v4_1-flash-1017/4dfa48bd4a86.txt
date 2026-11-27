@@ -1,0 +1,66 @@
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{setspace}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{XX 学院与 XX 有限公司}\\
+    \Large\textbf{合作办学协议}
+\end{center}
+
+\vspace{1em}
+
+\noindent 甲方：XX 学院\\
+\noindent 乙方：XX 有限公司
+
+\vspace{1em}
+
+\noindent 为了更好的发挥各自优势，合作培养高技能动漫影视设计与制作人才，甲乙双方经友好协商，达成如下合作协议：
+
+\vspace{1em}
+
+\noindent \textbf{一、合作范围和性质}
+
+\noindent 1. 合作范围\\
+甲、乙双方合作举办“动漫影视设计制作专业”与“软件游戏制作专业”教学与培训，并由乙方按照国家有关部门的授权和要求进行实习、就业安置。
+
+\noindent 2. 合作性质\\
+该合作办学项目属于成人类教育办学项目。
+
+\vspace{1em}
+
+\noindent \textbf{二、合同期限}\\
+本合同有效期为 6 年，自甲乙双方签字并盖章确认之日起正式生效。
+
+\vspace{1em}
+
+\noindent \textbf{三、培养层次}
+
+\noindent 1. 类别：一年定向班、中专、大专、本科。
+
+\noindent 2. 学制：定向培养班 \hfill 学制一年\\
+\hspace*{3.5em} 中专班（招收初中毕业生） \hfill 学制三年\\
+\hspace*{3.5em} 大专班（招收高中毕业生） \hfill 学制为全日制三年\\
+\hspace*{3.5em} 本科班（招收大专毕业生） \hfill 学制为全日制三年
+
+\noindent 3. 专业：动漫影视设计与制作。
+
+\vspace{1em}
+
+\noindent \textbf{四、教学工作}\\
+采用订单式教育，实行半工半读和全日制教学模式。
+
+\noindent 1. 教学计划\\
+原则上，教学计划的制定根据国家职业教育的有关要求，由甲乙双方协商制定。实习培训课程由乙方具体负责，文化课程由甲方具体负责，最
+
+\vspace{2em}
+\begin{center}
+    1
+\end{center}
+
+\end{document}
+```

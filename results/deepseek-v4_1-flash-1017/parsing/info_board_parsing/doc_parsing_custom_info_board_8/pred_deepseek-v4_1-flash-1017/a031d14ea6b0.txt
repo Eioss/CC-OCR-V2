@@ -1,0 +1,79 @@
+# 场馆预约表 / 办理指南表
+文档编号 RB-412153
+日期 2025-04-16
+单位：青岚省临澜州临澜极光综合服务有限公司
+负责人：朱明哲
+联系电话：18677514068
+位置：临澜省云栖市北湾区兴业路206号 8栋
+https://example.com/doc-57115397
+<div style="text-align: center;"><img src="imgs/img_in_image_box_714_213_781_298.jpg" alt="Image" width="6%" /></div>
+<table>
+  <tr>
+    <td colspan="6" style="text-align: center;">问题工单/影响评估</td>
+  </tr>
+  <tr>
+    <td rowspan="4" style="text-align: center;">工单列表</td>
+    <td style="text-align: center;">工单</td>
+    <td style="text-align: center;">模块</td>
+    <td style="text-align: center;">版本</td>
+    <td style="text-align: center;">影响</td>
+    <td style="text-align: center;">负责人</td>
+    <td style="text-align: center;">状态</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">IT-129024</td>
+    <td style="text-align: center;">接口</td>
+    <td style="text-align: center;">v2.0</td>
+    <td style="text-align: center;">一般</td>
+    <td style="text-align: center;">褚明哲</td>
+    <td style="text-align: center;">处理中</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">IT-244455</td>
+    <td style="text-align: center;">接口</td>
+    <td style="text-align: center;">v2.0</td>
+    <td style="text-align: center;">一般</td>
+    <td style="text-align: center;">张泽宇</td>
+    <td style="text-align: center;">处理中</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">IT-255102</td>
+    <td style="text-align: center;">数据库</td>
+    <td style="text-align: center;">v2.1</td>
+    <td style="text-align: center;">严重</td>
+    <td style="text-align: center;">王伟</td>
+    <td style="text-align: center;">待处理</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align: center;">验证与回滚记录</td>
+  </tr>
+  <tr>
+    <td rowspan="4" style="text-align: center;">验证记录</td>
+    <td style="text-align: center;">验证项</td>
+    <td style="text-align: center;">结果</td>
+    <td style="text-align: center;">回滚</td>
+    <td style="text-align: center;">复核</td>
+    <td colspan="2" style="text-align: center;">备注</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">权限正常</td>
+    <td style="text-align: center;">未通过</td>
+    <td style="text-align: center;">无需</td>
+    <td style="text-align: center;">姜泽宇</td>
+    <td colspan="2" style="text-align: center;">姜泽宇</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">延迟&lt;5m</td>
+    <td style="text-align: center;">未通过</td>
+    <td style="text-align: center;">预案</td>
+    <td style="text-align: center;">魏安然</td>
+    <td colspan="2" style="text-align: center;">留痕 需复查</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">数据一致性</td>
+    <td style="text-align: center;">通过</td>
+    <td style="text-align: center;">无需</td>
+    <td style="text-align: center;">李娜</td>
+    <td colspan="2" style="text-align: center;">已归档</td>
+  </tr>
+</table>

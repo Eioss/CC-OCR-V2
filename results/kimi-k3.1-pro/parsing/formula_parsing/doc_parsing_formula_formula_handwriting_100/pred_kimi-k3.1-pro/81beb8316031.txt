@@ -1,0 +1,56 @@
+\[
+\begin{gathered}
+\left(\sum_{j=1}^{s}w(a_j)\Delta T_j\delta_t^{a_j}p_h^n,\nu_1\right)_{D^k}
++\varepsilon_1(Q_h^n,\nu_1)_{D^k}
++\varepsilon_2\left(f\left(|u_{1h}^n|^2,|u_{2h}^n|^2\right)q_h^n,\nu_1\right)_{D^k}=0,\\
+(Q_h^n,\beta_1)_{D^k}
+=\left(\Delta_{(\beta-2)/2}r_h^n,\beta_1\right)_{D^k},\\
+(r_h^n,\phi)_{D^k}
+=-(s_h^n,\phi_x)_{D^k}
++\left((\hat{s}_h^n\phi^-)_{k+\frac12}
+-(\hat{s}_h^n\phi^+)_{k-\frac12}\right),\\
+(s_h^n,\varphi)_{D^k}
+=-(q_h^n,\varphi_x)_{D^k}
++\left((\hat{q}_h^n\varphi^-)_{k+\frac12}
+-(\hat{q}_h^n\varphi^+)_{k-\frac12}\right),\\
+\left(\sum_{j=1}^{s}w(a_j)\Delta T_j\delta_t^{a_j}q_h^n,\chi\right)_{D^k}
+-\varepsilon_1(H_h^n,\chi)_{D^k}
+-\varepsilon_2\left(f\left(|u_{1h}^n|^2,|u_{2h}^n|^2\right)p_h^n,\chi\right)_{D^k}=0,\\
+(H_h^n,\beta_2)_{D^k}
+=\left(\Delta_{(\beta-2)/2}w_h^n,\beta_2\right)_{D^k},\\
+(w_h^n,\psi)_{D^k}
+=-(z_h^n,\psi_x)_{D^k}
++\left((\hat{z}_h^n\psi^-)_{k+\frac12}
+-(\hat{z}_h^n\psi^+)_{k-\frac12}\right),\\
+(z_h^n,\zeta)_{D^k}
+=-(p_h^n,\zeta_x)_{D^k}
++\left((\hat{p}_h^n\zeta^-)_{k+\frac12}
+-(\hat{p}_h^n\zeta^+)_{k-\frac12}\right),\\
+\left(\sum_{j=1}^{s}w(a_j)\Delta T_j\delta_t^{a_j}v_h^n,\gamma\right)_{D^k}
++\varepsilon_3(L_h^n,\gamma)_{D^k}
++\varepsilon_4\left(g\left(|u_{1h}^n|^2,|u_{2h}^n|^2\right)\vartheta_h^n,\gamma\right)_{D^k}=0,\\
+(L_h^n,\beta_3)_{D^k}
+=\left(\Delta_{(\beta-2)/2}\rho_h^n,\beta_3\right)_{D^k},\\
+(\rho_h^n,\delta)_{D^k}
+=-(\varpi_h^n,\delta_x)_{D^k}
++\left((\hat{\varpi}_h^n\delta^-)_{k+\frac12}
+-(\hat{\varpi}_h^n\delta^+)_{k-\frac12}\right),\\
+(\varpi_h^n,\varsigma)_{D^k}
+=-(\vartheta_h^n,\varsigma_x)_{D^k}
++\left((\hat{\vartheta}_h^n\varsigma^-)_{k+\frac12}
+-(\hat{\vartheta}_h^n\varsigma^+)_{k-\frac12}\right),\\
+\left(\sum_{j=1}^{s}w(a_j)\Delta T_j\delta_t^{a_j}\vartheta_h^n,\theta\right)_{D^k}
+-\varepsilon_3(E_h^n,\theta)_{D^k}
+-\varepsilon_4\left(g\left(|u_{1h}^n|^2,|u_{2h}^n|^2\right)v_h^n,\theta\right)_{D^k}=0,\\
+(E_h^n,\beta_4)_{D^k}
+=\left(\Delta_{(\beta-2)/2}\xi_h^n,\beta_4\right)_{D^k},\\
+(\xi_h^n,\omega)_{D^k}
+=-(\varrho_h^n,\omega_x)_{D^k}
++\left((\hat{\varrho}_h^n\omega^-)_{k+\frac12}
+-(\hat{\varrho}_h^n\omega^+)_{k-\frac12}\right),\\
+(\varrho_h^n,\kappa)_{D^k}
+=-(v_h^n,\kappa_x)_{D^k}
++\left((\hat{v}_h^n\kappa^-)_{k+\frac12}
+-(\hat{v}_h^n\kappa^+)_{k-\frac12}\right).
+\end{gathered}
+\]

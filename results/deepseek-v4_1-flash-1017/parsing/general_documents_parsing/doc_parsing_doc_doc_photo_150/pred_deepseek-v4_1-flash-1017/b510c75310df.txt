@@ -1,0 +1,43 @@
+Here is the transcription of the image into LaTeX format:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{geometry}
+
+\begin{document}
+
+\noindent 56 \hfill CHAPTER 2. EQUATIONS
+\vspace{0.5cm}
+
+\noindent \textbf{2.5 Finance formulas -- Practice exercises}
+\vspace{0.2cm}
+\hrule
+\vspace{0.5cm}
+
+\noindent \textsc{Compound Interest Formula}: \quad \(a = p\left(1 + \frac{r}{12}\right)^{12y}\)
+
+\vspace{0.5cm}
+
+\noindent \textsc{Equivalent APR Formula}: \quad \(\text{APR} = \left(1 + \frac{r}{12}\right)^{12} - 1\)
+
+\vspace{0.5cm}
+
+\noindent \textsc{Future Value Annuity Formula}: \quad \(a = p * \frac{\left(1 + \frac{r}{12}\right)^{12y} - 1}{\frac{r}{12}}\)
+
+\vspace{0.5cm}
+
+\noindent \textsc{Loan Payment Formula}: \quad \(p = \frac{a * \frac{r}{12}}{1 - \left(1 + \frac{r}{12}\right)^{-12y}}\)
+
+\vspace{0.5cm}
+
+\noindent where
+\begin{itemize}
+    \item[\(a =\)] account balance or loan amount (\$)
+    \item[\(p =\)] initial deposit (principal), regular deposit, or regular payment (\$)
+    \item[\(y =\)] time invested (years)
+    \item[\(r =\)] interest rate compounded monthly (as a decimal)
+\end{itemize}
+
+\end{document}
+```

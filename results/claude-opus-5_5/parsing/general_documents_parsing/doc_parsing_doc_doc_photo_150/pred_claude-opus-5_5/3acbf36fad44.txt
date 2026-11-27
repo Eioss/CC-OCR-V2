@@ -1,0 +1,69 @@
+I can transcribe the visible text and table. Redacted or illegible fields are marked as such, and the official seals and handwritten signatures are noted in brackets rather than reproduced.
+
+```latex
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{Ruijin Hospital Shanghai Jiaotong University School of Medicine}}\\[4pt]
+{\large \textbf{Clinical Laboratory Report}} \hfill Sample Number: [redacted]7443
+\end{center}
+
+\noindent
+\begin{tabular}{@{}l l l l l l@{}}
+\textbf{Name:} & [redacted] & \textbf{PatientNo/PassportNo:} & 13200210[redacted] & \textbf{Birthday:} & 1[redacted] \\
+\textbf{Gender:} & [redacted] & \textbf{Clinical Diagnosis:} & Regular inspection & \textbf{Sample Type:} & Nasopharynx swab \\
+\textbf{Age:} & [redacted] & & & \textbf{Testing Time:} & 2021-08-14 \\
+\end{tabular}
+
+\vspace{4pt}
+\noindent\textbf{Application Section Office:} Ruijin Hospital Shanghai Jiaotong University School of Medicine
+
+\vspace{6pt}
+\noindent
+\begin{tabular}{@{}l l l l@{}}
+\toprule
+\textbf{Test Name} & \textbf{Result} & \textbf{Reference Value} & \textbf{Testing Method} \\
+\midrule
+SARS-COV-2 & Neg($-$) & \textbf{Neg($-$)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\quad ORF1AB GENE & Neg($-$) & \textbf{Neg($-$)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\quad N GENE & Neg($-$) & \textbf{Neg($-$)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\quad E GENE & Neg($-$) & \textbf{Neg($-$)} & e.g. Real-time Fluorescent PCR(500copies/ml) \\
+\bottomrule
+\end{tabular}
+
+\vspace{24pt}
+\noindent Statement:\\
+1. The testing result may be affected by the sampling time, sampling body part(s) as well as the methodology limitations. The result should be analyzed with clinical manifestations.\\
+2. The testing result in this report is only applicable to the delivered specimen.
+
+\vspace{6pt}
+\noindent
+\begin{tabular}{@{}l l l l@{}}
+\textbf{Sampling Time:} & 21-08-14 09:52 & \textbf{Reporting Time:} & 21-08-14 13:26 \\
+\textbf{Received Time:} & 21-08-14 11:03 & \textbf{Printing Time:} & 21-08-15 07:59 \\
+\end{tabular}
+\hfill \textbf{Inspector:} [handwritten signature] \quad \textbf{Auditor:} [handwritten signature]
+
+\vspace{4pt}
+\noindent\textbf{The test results are just responsible for the sample; and used only for reference by clinical doctors.}
+
+\vspace{4pt}
+\noindent [Red official seal overlapping text] \quad [Circular institutional seal, upper right]
+
+\vspace{6pt}
+\noindent\textbf{add.:} No.197 Ruijin 2 Road, Huangpu district, Shanghai \hfill \textbf{Tel.:} 8621-64370045
+
+\vspace{6pt}
+\noindent [redacted] \hfill Sheet 1 \hfill (病毒室)
+
+\end{document}
+```
+
+**Notes:**
+- The final line includes the Chinese text "病毒室" (Virology Lab). To compile it, use XeLaTeX with the `xeCJK` package or `ctex`.
+- Fields obscured in the original image (name, gender, age, and parts of the ID and sample numbers) remain marked as `[redacted]`.

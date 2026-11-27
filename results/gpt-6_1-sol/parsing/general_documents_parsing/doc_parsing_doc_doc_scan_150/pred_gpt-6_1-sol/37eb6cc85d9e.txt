@@ -1,0 +1,157 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath,amssymb,array}
+\usepackage[margin=0.6in]{geometry}
+
+\begin{document}
+
+\begin{center}
+\textbf{Statistical Analysis and Probability}
+\end{center}
+
+\noindent
+\begin{minipage}[t]{0.49\textwidth}
+\textbf{\underline{Mean}}
+\[
+\bar{x}=\frac{1}{n}\sum_{i=1}^{n}x_i
+\]
+
+\textbf{\underline{Standard Deviation}\textsuperscript{*}}
+\[
+S=\sqrt{\frac{\sum(x_i-\bar{x})^2}{n-1}}
+\]
+
+\textbf{\underline{Standard Error of the Mean}\textsuperscript{*}}
+\[
+SE_{\bar{x}}=\frac{S}{\sqrt{n}}
+\]
+
+\textbf{\underline{Chi-Square}}
+\[
+\chi^2=\sum\frac{(o-e)^2}{e}
+\]
+
+\begin{center}
+\textbf{\underline{Chi-Square Table}}
+
+\small
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{|c|*{8}{c|}}
+\hline
+$p$ & \multicolumn{8}{c|}{\textbf{Degrees of Freedom}} \\
+\cline{2-9}
+value & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+\hline
+0.05 & 3.84 & 5.99 & 7.82 & 9.49 & 11.07 & 12.59 & 14.07 & 15.51 \\
+\hline
+0.01 & 6.64 & 9.21 & 11.34 & 13.28 & 15.09 & 16.81 & 18.48 & 20.09 \\
+\hline
+\end{tabular}
+\end{center}
+
+\textbf{\underline{Laws of Probability}}
+
+If A and B are mutually exclusive, then:
+\[
+P(\text{A or B})=P(\text{A})+P(\text{B})
+\]
+
+If A and B are independent, then:
+\[
+P(\text{A and B})=P(\text{A})\times P(\text{B})
+\]
+
+\textbf{\underline{Hardy-Weinberg Equations}}
+
+\begin{tabular}{@{}ll@{}}
+$p^2+2pq+q^2=1$
+&
+\begin{tabular}[t]{@{}l@{}}
+$p=$ frequency of the dominant allele \\
+\hspace{1.7em}in a population
+\end{tabular}
+\\[4pt]
+$p+q=1$
+&
+\begin{tabular}[t]{@{}l@{}}
+$q=$ frequency of the recessive allele \\
+\hspace{1.7em}in a population
+\end{tabular}
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.47\textwidth}
+$\bar{x}=$ sample mean
+
+\medskip
+$n=$ size of the sample
+
+\medskip
+$s=$ sample standard deviation (i.e., the sample-based
+estimate of the standard deviation of the population)
+
+\medskip
+$o=$ observed results
+
+\medskip
+$e=$ expected results
+
+\medskip
+Degrees of freedom are equal to the number of distinct
+possible outcomes minus one.
+
+\bigskip
+\hrule
+\medskip
+
+\begin{center}
+\textbf{Metric Prefixes}
+
+\medskip
+\begin{tabular}{lll}
+\textbf{\underline{Factor}} &
+\textbf{\underline{Prefix}} &
+\textbf{\underline{Symbol}} \\[4pt]
+$10^9$     & giga  & G \\
+$10^6$     & mega  & M \\
+$10^3$     & kilo  & k \\
+$10^{-2}$  & centi & c \\
+$10^{-3}$  & milli & m \\
+$10^{-6}$  & micro & $\mu$ \\
+$10^{-9}$  & nano  & n \\
+$10^{-12}$ & pico  & p \\
+\end{tabular}
+\end{center}
+\end{minipage}
+
+\bigskip
+\hrule
+\medskip
+
+\noindent
+Mode = value that occurs most frequently in a data set
+
+\medskip
+\noindent
+Median = middle value that separates the greater and lesser halves of a data set
+
+\medskip
+\noindent
+Mean = sum of all data points divided by number of data points
+
+\medskip
+\noindent
+Range = value obtained by subtracting the smallest observation
+(sample minimum) from the greatest (sample maximum)
+
+\medskip
+\hrule
+\smallskip
+
+\noindent
+\textit{* For the purposes of the AP Exam, students will not be required
+to perform calculations using this equation; however, they must
+understand the underlying concepts and applications.}
+
+\end{document}
+```

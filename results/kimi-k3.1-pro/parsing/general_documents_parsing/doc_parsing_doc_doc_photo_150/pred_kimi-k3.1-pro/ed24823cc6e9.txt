@@ -1,0 +1,95 @@
+```latex
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\geometry{a4paper,margin=2.5cm}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{center}
+    {\large\bfseries 民法主观题知识点+小案例}
+\end{center}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|c|>{\raggedright\arraybackslash}X|}
+\hline
+\multirow{4}{*}{2010年}
+& 问4：丙公司与戊公司签订房产买卖合同效力如何？为什么？（物权未变动不影响买卖合同效力、多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+& 问2：甲公司与丁、戊公司签定的转卖大蒜的合同的效力如何？为什么？（多重买卖不影响买卖合同效力） \\
+\cline{2-2}
+& 问6：甲公司与乙公司签订的绿豆买卖合同效力如何？为什么？（被代理人以履行合同的方式追认无权代理） \\
+\cline{2-2}
+& 问7：丙公司将绿豆转卖给己公司的买卖合同的效力如何？为什么？（无权处分不影响买卖合同的效力） \\
+\hline
+\end{tabularx}
+\end{center}
+
+\begin{center}
+    {\large\bfseries 第一节\quad 合同的成立}
+\end{center}
+
+\begin{center}
+\begin{tikzpicture}[
+    box/.style={draw, rectangle, align=center, inner sep=6pt, font=\small},
+    leftbox/.style={draw, rectangle, align=left, inner sep=8pt, font=\small},
+    listbox/.style={align=left, inner sep=4pt, font=\small},
+    arr/.style={->, thick}
+]
+\node[leftbox] (shishi) at (3.2,4.2) {事实判断\\1.当事人\\2.意思表示\\3.标的};
+\node[leftbox] (jiazhi) at (7.8,4.2) {价值判断\\1.民事行为能力\\2.意思表示真实、自由\\3.不违反强制性规定、\\不违背公序良俗};
+
+\draw[arr] (shishi.south) -- ++(0,-1.2);
+\draw[arr] (jiazhi.south) -- ++(0,-1.2);
+\draw[dashed] (5.3,5.8) -- (5.3,-3.7);
+
+\node[box] (minshi) at (0,0) {民事法律行为};
+\node[box] (bcl) at (3.2,1.0) {不成立};
+\node[box] (cl) at (3.2,-1.0) {成立};
+\node[box] (yx) at (6.4,-0.2) {有效};
+\node[box] (xlwc) at (6.4,-2.4) {效力瑕疵};
+\node[box] (sx) at (9.2,0.6) {生效};
+\node[box] (wsx) at (9.2,-1.0) {未生效};
+\node[box] (dd) at (12.6,0.6) {大多数合同、婚姻};
+\node[listbox, anchor=west] (wsxlist) at (10.8,-1.0) {附延缓条件\\附始期\\需要审批\\遗嘱};
+\node[listbox, anchor=west] (xclist) at (8.4,-2.4) {无效\\可撤销\\效力待定};
+
+\draw (minshi.east) -- ++(0.6,0) coordinate (a);
+\draw (a) |- (bcl.west);
+\draw (a) |- (cl.west);
+
+\draw (cl.east) -- ++(0.8,0) coordinate (b);
+\draw (b) |- (yx.west);
+\draw (b) |- (xlwc.west);
+
+\draw (yx.east) -- ++(0.6,0) coordinate (c);
+\draw (c) |- (sx.west);
+\draw (c) |- (wsx.west);
+
+\draw[->] (sx.east) -- (dd.west);
+\draw (wsx.east) -- (wsxlist.west);
+\draw (xlwc.east) -- (xclist.west);
+\end{tikzpicture}
+
+【民事法律行为成立、有效、生效关系图】
+\end{center}
+
+合同的订立，通常要经过要约与承诺的过程。一方当事人的要约与另一方当事人的承诺达成一致，意味着双方当事人形成合意，合同即告成立。
+
+\noindent{\bfseries 一、合同的订立：要约与承诺}
+
+\noindent{\bfseries （一）要约}
+
+要约，是希望与他人订立合同的意思表示，需满足以下构成要件：
+
+\noindent 1.向希望与之订立合同的受要约人作出。
+
+\noindent 2.内容具体且确定：受要约人只要表示接受即可成立合同，所以要约的内容必须包含合同的必备内容。
+
+\noindent 3.具有订立合同的目的并表明一经承诺即受拘束的意思。
+
+\end{document}
+```

@@ -1,0 +1,69 @@
+```html
+<table>
+  <tr>
+    <td>Approach</td>
+    <td>Identical@P1</td>
+    <td>Relevance@P1</td>
+    <td>MAP</td>
+    <td>MRR</td>
+  </tr>
+  <tr>
+    <td><i>DSSM</i></td>
+    <td>4.70%</td>
+    <td>11.48%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Triplet-I</i></td>
+    <td>9.79%</td>
+    <td>19.36%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Triplet</i></td>
+    <td>9.79%</td>
+    <td>19.36%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Triplet-C</i></td>
+    <td>1.09%</td>
+    <td>3.66%</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Ensemble</i></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Mixer-I</i></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Mixer-Ens</i></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Mixer</i></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+```
+
+The table has no merged cells. The MAP and MRR columns are empty in the image, as are the data cells for the last four rows (Ensemble, Mixer-I, Mixer-Ens, Mixer), so those are left as empty `<td>` elements. The approach names are wrapped in `<i>` tags because they appear in italics in the image.

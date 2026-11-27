@@ -1,0 +1,5 @@
+There are two instances of '27/06/18' on this receipt. The standalone one, at the top right next to the order number, is here:
+
+(658, 311, 806, 331)
+
+The other instance is part of the timestamp line "27/06/18 14:30" near the bottom.

@@ -1,0 +1,21 @@
+\[
+\begin{aligned}
+\{\theta_k,g\}_{\alpha\beta}
+&=\{q_k\cdot f_{1,\beta+1},g\}_{\alpha\beta}
+-\{q_k^{\rightarrow}\cdot f_{1,\beta+1}^{\leftarrow},g\}_{\alpha\beta}\\
+&=q_k\{f_{1,\beta+1},g\}_{\alpha\beta}
++f_{1,\beta+1}\{q_k,g\}_{\alpha\beta}\\
+&\quad-q_k^{\rightarrow}\{f_{1,\beta+1}^{\leftarrow},g\}_{\alpha\beta}
+-f_{1,\beta+1}^{\leftarrow}\{q_k^{\rightarrow},g\}_{\alpha\beta}\\
+&=q_k\{f_{1,\beta+1},g\}_{\mathrm{std}}
+-q_k f_{1,\beta+1}^{\leftarrow}\cdot g^{\rightarrow}
++f_{1,\beta+1}\{q_k,g\}_{\mathrm{std}}\\
+&\quad-q_k^{\rightarrow}\{f_{1,\beta+1}^{\leftarrow},g\}_{\mathrm{std}}
+-f_{1,\beta+1}^{\leftarrow}\{q_k^{\rightarrow},g\}_{\mathrm{std}}\\
+&=\bigl(\omega_{f_{1,\beta+1},g}+\omega_{q_k,g}\bigr)
+q_k\cdot f_{1,\beta+1}\cdot g\\
+&\quad-\bigl(\omega_{q_k,g}+\omega_{f_{1,\beta+1},g}
+-s\omega_{\alpha\beta}(g)\bigr)
+q_k^{\rightarrow}\cdot f_{1,\beta+1}^{\leftarrow}\cdot g.
+\end{aligned}
+\]

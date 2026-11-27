@@ -1,0 +1,145 @@
+# LaTeX Transcription: AW36526 Register Detailed Description (Page 20)
+
+The page has a diagonal "awinic Confidential" watermark. It's noted in a comment rather than reproduced. The header contains Chinese characters, so compile with **XeLaTeX**.
+
+```latex
+\documentclass[10pt,a4paper]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{xeCJK}          % for the Chinese company name; compile with XeLaTeX
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage{multirow}
+
+\definecolor{hdrblue}{RGB}{220,230,242}
+\definecolor{awteal}{RGB}{90,190,190}
+
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{{\color{awteal}\Huge\textsf{awinic}}\quad
+  \begin{tabular}[b]{@{}l@{}}
+  {\color{awteal}\large 上海艾为电子技术股份有限公司}\\
+  {\color{awteal}\scriptsize\textsf{shanghai awinic technology co., ltd.}}
+  \end{tabular}}
+\fancyhead[R]{\begin{tabular}[b]{@{}r@{}}
+  \textbf{\Large AW36526}\\ July 2019 V1.3\end{tabular}}
+\fancyfoot[L]{www.awinic.com.cn}
+\fancyfoot[C]{20}
+\fancyfoot[R]{Copyright \textcopyright{} 2017 SHANGHAI AWINIC TECHNOLOGY CO., LTD}
+\renewcommand{\headrulewidth}{0.8pt}
+\renewcommand{\footrulewidth}{0.8pt}
+\setlength{\headheight}{40pt}
+
+% Watermark on original page: "awinic Confidential" (diagonal, light red)
+
+\newcommand{\bitheader}{%
+  \rowcolor{hdrblue}
+  \textbf{Bit 7} & \textbf{Bit 6} & \textbf{Bit 5} & \textbf{Bit 4} &
+  \textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} & \textbf{Bit 0} \\ \hline}
+
+\begin{document}
+
+\section*{REGISTER DETAILED DESCRIPTION}
+
+%--------------------------------------------------
+\subsection*{$\diamondsuit$\quad Chip ID Register (0x00), default(0x17)}
+
+\noindent
+\begin{tabular}{|*{8}{C{1.75cm}|}}
+\hline
+\bitheader
+\multicolumn{8}{|L{16.3cm}|}{\textbf{Chip ID:\quad ``0001 0111''}} \\
+\multicolumn{8}{|L{16.3cm}|}{Write 55H To Reset All Registers} \\
+\hline
+\end{tabular}
+
+%--------------------------------------------------
+\subsection*{$\diamondsuit$\quad Enable Register (0x01), default(0x00)}
+
+\noindent
+\begin{tabular}{|*{8}{C{1.75cm}|}}
+\hline
+\bitheader
+\multicolumn{1}{|L{1.75cm}|}{\textbf{Strobe Type}\newline 0=Level Triggered (Default)\newline 1=Edge Triggered} &
+\multicolumn{1}{L{1.75cm}|}{\textbf{Strobe Enable}\newline 0=Disabled (Default)\newline 1=Enabled} &
+\multicolumn{2}{L{3.9cm}|}{\textbf{Mode Bits: M1, M0}\newline 00=Standby (Default)\newline 01=IR Drive\newline 10=Torch\newline 11=Flash} &
+\multicolumn{1}{L{1.75cm}|}{\textbf{RFU}} &
+\multicolumn{1}{L{1.75cm}|}{\textbf{LED3 Enable}\newline 0=OFF (Default)\newline 1=ON} &
+\multicolumn{1}{L{1.75cm}|}{\textbf{LED2 Enable}\newline 0=OFF (Default)\newline 1=ON} &
+\multicolumn{1}{L{1.75cm}|}{\textbf{LED1 Enable}\newline 0=OFF (Default)\newline 1=ON} \\
+\hline
+\end{tabular}
+
+\medskip
+\noindent\textbf{Note:}
+
+\noindent In Edge or Level Strobe Mode, it is recommended that the trigger pulse width be set greater than 1ms to ensure proper turn-on of the device.
+
+%--------------------------------------------------
+\subsection*{$\diamondsuit$\quad IVFM Register (0x02) , default(0xE1)}
+
+\noindent
+\begin{tabular}{|L{2.8cm}|L{1.9cm}|L{1.9cm}|L{1.9cm}|C{1.3cm}|C{1.3cm}|C{1.3cm}|L{1.9cm}|}
+\hline
+\rowcolor{hdrblue}
+\multicolumn{1}{|c|}{\textbf{Bit 7}} & \multicolumn{1}{c|}{\textbf{Bit 6}} &
+\multicolumn{1}{c|}{\textbf{Bit 5}} & \multicolumn{1}{c|}{\textbf{Bit 4}} &
+\textbf{Bit 3} & \textbf{Bit 2} & \textbf{Bit 1} &
+\multicolumn{1}{c|}{\textbf{Bit 0}} \\ \hline
+\textbf{LEDX Enable Setting}\newline 0= if LED1 or LED2 is Enabled, LED3 is Disabled Internally\newline 1=No Limitation (Default) &
+\textbf{LED3 Pin Short Fault Detect}\newline 0=Disabled\newline 1=Enabled (Default) &
+\textbf{LED1/2 Pin Short Fault Detect}\newline 0=Disabled\newline 1=Enabled (Default) &
+\textbf{UVLO Enable}\newline 0=Disabled (Default)\newline 1=Enabled &
+\multicolumn{3}{L{4.5cm}|}{\textbf{IVFM Levels}\newline 000=2.9 V (Default)\newline 001=3.0 V\newline 010=3.1 V\newline 011=3.2 V\newline 100=3.3 V\newline 101=3.4 V\newline 110=3.5 V\newline 111=3.6 V} &
+\textbf{IVFM Enable}\newline 0=Disabled\newline 1=Enabled (Default) \\
+\hline
+\end{tabular}
+
+%--------------------------------------------------
+\subsection*{$\diamondsuit$\quad LED1 Flash Brightness Register (0x03) , default(0x7F)}
+
+\noindent
+\begin{tabular}{|*{8}{C{1.75cm}|}}
+\hline
+\bitheader
+\multicolumn{8}{|L{16.3cm}|}{%
+\textbf{LED1 Flash Brightness Levels}\newline
+$I_{\mathrm{FLASH}}(\mathrm{mA}) \approx (\text{Brightness Code} * 3.91\,\mathrm{mA}) + 3.91\,\mathrm{mA}$\newline\newline
+00000000=3.91 mA\newline
+\dotfill\newline
+01111111=500 mA\quad (Default)\newline
+\dotfill\newline
+11111111=1.0 A} \\
+\hline
+\end{tabular}
+
+%--------------------------------------------------
+\subsection*{$\diamondsuit$\quad LED1 Torch Brightness Register (0x04) , default(0x7F)}
+
+\noindent
+\begin{tabular}{|*{8}{C{1.75cm}|}}
+\hline
+\bitheader
+\multicolumn{8}{|L{16.3cm}|}{%
+\textbf{LED1 Torch Brightness Levels}\newline
+$I_{\mathrm{TORCH}}(\mathrm{mA}) \approx (\text{Brightness Code} * 1.46\,\mathrm{mA}) + 1.46\,\mathrm{mA}$\newline\newline
+00000000=1.46 mA\newline
+\dotfill\newline
+01111111=187.5 mA\quad (Default)\newline
+\dotfill\newline
+11111111=375 mA} \\
+\hline
+\end{tabular}
+
+\end{document}
+```
+
+**Notes:**
+- The short dotted lines in the original (`...............`) are rendered with `\dotfill`. Replace them with `\ldots\ldots` if you want short dots instead of full-width leaders.
+- If you can't use XeLaTeX, remove `\usepackage{xeCJK}` and the Chinese line in the header. Everything else compiles with pdfLaTeX.

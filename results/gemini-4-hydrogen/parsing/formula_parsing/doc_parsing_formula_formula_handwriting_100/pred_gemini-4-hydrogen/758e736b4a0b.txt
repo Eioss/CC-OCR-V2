@@ -1,0 +1,14 @@
+\begin{align*}
+H &= \begin{pmatrix}
+X_1 & X_1 + c & \dots & X_1 + (p-1)c \\
+X_1 + d & X_1 + d + c & \dots & X_1 + d + (p-1)c \\
+\vdots & \vdots & \ddots & \vdots \\
+X_1 + (q-1)d & X_1 + (q-1)d + c & \dots & X_1 + (q-1)d + (p-1)c
+\end{pmatrix}, \\
+H' &= \begin{pmatrix}
+X_2 & X_2 + c & \dots & X_2 + (p-1)c \\
+X_2 + d & X_2 + d + c & \dots & X_2 + d + (p-1)c \\
+\vdots & \vdots & \ddots & \vdots \\
+X_2 + (q-1)d & X_2 + (q-1)d + c & \dots & X_2 + (q-1)d + (p-1)c
+\end{pmatrix}.
+\end{align*}

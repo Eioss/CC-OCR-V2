@@ -1,0 +1,6 @@
+Looking at the receipt, there are multiple instances of '5'. The standalone digit '5' appears in the date field "2020/5/" near the bottom right.
+
+Let me locate the '5' in the date "2020/5/":
+- It's positioned after "2020/" and before the masked day portion.
+
+(731, 892, 746, 910)

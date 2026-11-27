@@ -1,0 +1,14 @@
+$$
+\begin{aligned}
+&\mathbb{E}\int_{Q}\int_{Q}\left|K_g(t,x)-K_g(s,y)\right|^{p}\,dt\,dx\,ds\,dy\\
+=&\ \mathbb{E}\int_{Q}\int_{Q}\Big|\int_{0}^{t}\int_{\mathbb{R}^d}K(t-r,z)g(x-z)\,dz\,dW(r)\\
+&-\int_{0}^{s}\int_{\mathbb{R}^d}K(s-r,z)g(y-z)\,dz\,dW(r)\Big|^{p}\,dt\,dx\,ds\,dy\\
+\leq&\ N(p)\mathbb{E}\int_{Q}\int_{Q}\Big|\int_{0}^{s}\int_{\mathbb{R}^d}\big(K(t-r,z)-K(s-r,z)\big)g(y-z)\,dz\,dW(r)\Big|^{p}\\
+&+N(p)\mathbb{E}\int_{Q}\int_{Q}\Big|\int_{0}^{s}\int_{\mathbb{R}^d}K(t-r,z)\big(g(x-z)-g(y-z)\big)\,dz\,dW(r)\Big|^{p}\\
+&+N(p)\mathbb{E}\int_{Q}\int_{Q}\Big|\int_{s}^{t}\int_{\mathbb{R}^d}K(t-r,z)g(x-z)\,dz\,dW(r)\Big|^{p}\,dt\,dx\,ds\,dy\\
+\leq&\ N(p)\mathbb{E}\int_{Q}\int_{Q}\Big(\int_{0}^{s}\Big|\int_{\mathbb{R}^d}\big(K(t-r,z)-K(s-r,z)\big)g(y-z)\,dz\Big|^{2}dr\Big)^{\frac{p}{2}}\\
+&+N(p)\mathbb{E}\int_{Q}\int_{Q}\Big(\int_{0}^{s}\Big|\int_{\mathbb{R}^d}K(t-r,z)\big(g(x-z)-g(y-z)\big)\,dz\Big|^{2}dr\Big)^{\frac{p}{2}}\\
+&+N(p)\mathbb{E}\int_{Q}\int_{Q}\Big(\int_{s}^{t}\Big|\int_{\mathbb{R}^d}K(t-r,z)g(x-z)\,dz\Big|^{2}dr\Big)^{\frac{p}{2}}\\
+=:&\ I_1+I_2+I_3.
+\end{aligned}
+$$

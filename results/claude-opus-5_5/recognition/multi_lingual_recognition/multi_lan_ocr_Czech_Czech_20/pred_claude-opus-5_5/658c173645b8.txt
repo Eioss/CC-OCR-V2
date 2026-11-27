@@ -1,0 +1,27 @@
+178 UŽIVATELSKÁ PŘÍRUČKA PROGRAMU ÚČTO
+
+Pro každý modul si můžete vytisknout /Seznam sestav, který rozlišuje původní a upravené sestavy, nebo jen seznam upravených /Vlastních sestav s Typem R.
+
+27.5 Vlastní sestavy po upgrade
+
+Při upgrade na novou verzi (ročník) program připojí upravené vlastní sestavy (tj. ty, které měly v předchozí verzi Typ R) na konec seznamu vlastních sestav pod nadpis Upravené sestavy z verze 200x, ale s prázdným Typem, tedy neaktivní. Může se totiž stát, že po upgrade některé z vlastních sestav nebude možno bez úprav použít, např. pro změnu skladby souboru, z něhož se sestava tiskne.
+
+Je na uživateli takové sestavy přezkoušet Shift F6 a jsou-li v pořádku, aktivovat; nefungují-li, opravit.
+
+Nápověda: Sestavy po upgrade, slovo: sestavy po, klíč: hses.
+
+27.6 Vlastní programy
+
+Nabídka Ostatní /Vlastní programy je určena k rozšíření Účta o další funkce. Doplňky programu jsou rozděleny do nabídek:
+
+1) /Speciální podprogramy: Jsou určeny k tvorbě jednoúčelových doplňkových nástrojů, které si typicky naprogramuje nebo nechá naprogramovat uživatel. Předlohy těchto podprogramů (SPEC01 až SPEC07) jsou součástí Účta; v původním stavu jen hlásí Pro modul 0X není zatím žádný speciální podprogram.
+
+2) /Import dat umožní přidání účetních dat z jiného programu k Peněžnímu deníku, k Závazkům a pohledávkám nebo k Adresáři firem. V nabídce je také popis deklarací importovaných souborů.
+
+3) /Programy jiných autorů: Nabídka – u nového programu nefunkční – je určena k připojení programů, které si uživatel koupí od externích firem. Nabídky najdete pod Nápověda /Zpravodaj /Programy ve formuláři nebo /Seznam programů. Na naší stránce www.ucto2000.cz najdete seznam firem nabízejících programy v oddílu Služby.
+
+Nápověda: Vlastní programy, slovo: programy, heslo: hvlas;
+Cizí podprogramy, slovo: programy, heslo: hciz;
+Speciální podprogramy, slovo: programy, heslo: hspe.
+
+K programování doplňkových programů je nutné mít programátorskou verzi PC FANDu (od Účta 2000 verzi 4.2) a ovládat programování v něm. My dodáváme program Účto s tzv. uživatelskou verzí PC FANDu (UFAND), ve které programovat nelze. Programátoři mohou získat otevřené deklarace programových souborů Účta (SOUBORY.RDB) na instalačním CD a na naší stránce www.ucto2000.cz, v oddílu Ke stažení pod označením Podpora pro programátory.

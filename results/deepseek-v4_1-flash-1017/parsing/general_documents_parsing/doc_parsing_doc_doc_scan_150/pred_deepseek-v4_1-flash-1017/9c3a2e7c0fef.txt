@@ -1,0 +1,63 @@
+Here is the transcription of the text from the image into LaTeX format.
+
+```latex
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\begin{document}
+
+\begin{center}
+    \small FRAGMENTS OF NORN \hfill CXV
+\end{center}
+
+\vspace{1em}
+
+\begin{center}
+    \textit{A proverbial Phrase.}
+\end{center}
+
+Da dombvida voga da vidla voga pésa (or \textit{passion}) vóga. Given with following explanation: \textit{Easter-Sunday weather will last all the week. More correct probably: the weather of Passion-week will be the weather of Easter-week.}
+
+The Conningsburgh phrase (acc. to Low): ``Myrk in e Lióra, Luce in e Liunga, Tim in e Guest in e geunga'' (It's dark in the Chimney, but it's light thro' the Heath, it's still time for the stranger to be gone).
+
+In Yell (in ``de Herra'') this phrase is still preserved in the following form:
+
+\begin{quote}
+    Mörka lóra, lestra linga, tämra gestra gångara [myrkt er í ljóra, ljóst er í lyngi, tími er, at gestr(inn) gengr]. With regard to the form \textit{gångara}, cf. \textit{Fær. gongur}.
+\end{quote}
+
+Our Lord's Prayer\(^1\) from Foula (reported by Low in his ``Tour thro' Orkney and Shetland'', reprinted by Barry and in ``Annaler for nordisk oldkyndighed'', 1860):
+
+\begin{quote}
+    Fy vor o er i Chimeri. Halaght vara nam det. La Konungdum din cumma. La vill din vera guerde i vrildin sinda eri Chimeri. Gav vus dagh u dagloght brau. Forgive sindor wara (wara?) sin vi forgiva gem ao sinda gainst wus. Lia wus ikè o vera tempa, but de-livra vo fro adlu idru, for do i Konungdum, u puri, u glori. Amen.
+\end{quote}
+
+\begin{center}
+    \textit{An Incantation.}
+\end{center}
+
+This is found in the tale: ``Da Tief i' de Neean'' (Shetland Times 1879).
+
+The tale itself, as well as the language used in it, doubtless originates from Al. (West.).
+
+The formula, which is mainly in Scoto-English, has Norn words sprinkled throughout, some of which show old grammatical endings, that have lost their significance. It runs as follows:
+
+\begin{quote}
+    Da stuil es scarp an fien,\\
+    Da sacheles emer a snean,\\
+    Da vird es sicer en pura,\\
+    A glimer i' mirk-as-dim hura,\\
+    La stuil an vird ay gyrda\\
+    An prof er an skyla, an svirda.
+\end{quote}
+
+\vspace{2em}
+\noindent\rule{0.5\textwidth}{0.4pt}
+\footnotesize
+\(^1\) A man still living in Unst was formerly able, according to his own and other's statements, to recite Our Lord's Prayer in Norn, or at any rate, the greater part of it. Some time ago, however, he had an illness which gradually enfeebled his memory, and when I looked him up, he could only remember the following corrupted fragments: \textit{halaght wari nam} (hallowed be Thy name) --- see \textit{himbins} (as in Heaven).
+
+\end{document}
+```

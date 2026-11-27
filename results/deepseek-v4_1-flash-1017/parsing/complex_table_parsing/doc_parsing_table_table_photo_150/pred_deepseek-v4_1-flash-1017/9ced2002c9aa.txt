@@ -1,0 +1,170 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .center-text {
+    text-align: center;
+  }
+  .header-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  .title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+  }
+  .date-container {
+    text-align: right;
+    margin-bottom: 5px;
+    font-size: 16px;
+  }
+  .checkbox {
+    font-family: sans-serif;
+  }
+</style>
+</head>
+<body>
+
+<div class="header-info">
+  <span>文件编号：JHWV-HR-001</span>
+  <span>久鸿万洋农博城</span>
+  <span>版本：A版</span>
+</div>
+
+<div class="title">员工调动申请单</div>
+
+<div class="date-container">
+  2021 年 9 月 26 日
+</div>
+
+<table>
+  <tr>
+    <td class="center-text" style="width: 8%;">姓名</td>
+    <td style="width: 17%;">李杨</td>
+    <td class="center-text" style="width: 8%;">部门</td>
+    <td style="width: 17%;">物业部</td>
+    <td class="center-text" style="width: 10%;">入职日期</td>
+    <td style="width: 15%;">2020.10.19</td>
+    <td class="center-text" style="width: 10%;">调动执行<br>日期</td>
+    <td style="width: 15%;">2021.10.1</td>
+  </tr>
+  <tr>
+    <td class="center-text">调动类型</td>
+    <td colspan="7">
+      <span class="checkbox">□调动</span> &nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□借调</span> &nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□公司调动</span> &nbsp;&nbsp;&nbsp;
+      <span class="checkbox">☑岗位调动</span> &nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□其他</span>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4" class="center-text" style="width: 8%;">异<br>动<br>前</td>
+    <td class="center-text" style="width: 12%;">部门</td>
+    <td style="width: 30%;">物业部</td>
+    <td rowspan="4" class="center-text" style="width: 8%;">异<br>动<br>后</td>
+    <td class="center-text" style="width: 12%;">部门</td>
+    <td style="width: 30%;">物业部</td>
+  </tr>
+  <tr>
+    <td class="center-text">岗位</td>
+    <td>勤杂工</td>
+    <td class="center-text">岗位</td>
+    <td>水电工</td>
+  </tr>
+  <tr>
+    <td class="center-text">薪资</td>
+    <td>3000 + 500</td>
+    <td class="center-text">薪资</td>
+    <td>3500 + 500</td>
+  </tr>
+  <tr>
+    <td class="center-text">调出日期</td>
+    <td>2021年 9 月 26 日</td>
+    <td class="center-text">调入日期</td>
+    <td>2021年 10 月 1 日</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="4" class="center-text">调整意见</td>
+  </tr>
+  <tr>
+    <td rowspan="3" class="center-text" style="width: 15%;">部门意见</td>
+    <td style="width: 35%;">
+      <span class="checkbox">□职务调整</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□不同意</span>
+    </td>
+    <td colspan="2">
+      <span class="checkbox">☑同意并调整为</span> <u>水电工</u>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span class="checkbox">□工资调整</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□不同意</span>
+    </td>
+    <td colspan="2">
+      <span class="checkbox">☑同意并调整为</span> <u>叁</u> 仟 <u>伍</u> 佰 <u>&nbsp;&nbsp;&nbsp;</u> 拾元整
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <span class="checkbox">□岗位调整</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="checkbox">□不同意</span>
+    </td>
+    <td colspan="2">
+      <span class="checkbox">☑同意</span> 原岗位 <u>勤杂工</u> 调整为现岗位 <u>水电工</u>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td class="center-text" style="width: 20%;">转出部门意见</td>
+    <td style="width: 30%;">同意</td>
+    <td class="center-text" style="width: 20%;">转入部门意见</td>
+    <td style="width: 30%;">同意</td>
+  </tr>
+  <tr>
+    <td class="center-text">部门负责人意见</td>
+    <td><i>(Signature)</i></td>
+    <td class="center-text">综合办人事处意见</td>
+    <td><i>(Signature)</i></td>
+  </tr>
+  <tr>
+    <td class="center-text">商管公司意见</td>
+    <td><i>(Signature)</i></td>
+    <td class="center-text">总经理意见</td>
+    <td><i>(Signature)</i></td>
+  </tr>
+</table>
+
+</body>
+</html>
+```

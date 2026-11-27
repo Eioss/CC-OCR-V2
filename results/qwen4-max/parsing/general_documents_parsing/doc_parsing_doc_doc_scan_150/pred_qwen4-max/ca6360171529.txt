@@ -1,0 +1,81 @@
+```latex
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{enumitem}
+
+\begin{document}
+
+\begin{enumerate}[start=12]
+    \item Katy weighed out some sugar from a full 2 kg bag. The mass of the sugar is shown on the scale.
+    \begin{center}
+        % Scale image placeholder
+        \includegraphics[width=0.3\textwidth]{scale_image_placeholder}
+        \quad
+        % Sugar bag image placeholder
+        \includegraphics[width=0.2\textwidth]{sugar_bag_image_placeholder}
+    \end{center}
+    How much sugar was left in the bag?
+    \begin{enumerate}[label=\Alph*]
+        \item 1.55 kg
+        \item 1.65 kg
+        \item 165 g
+        \item 155 g
+        \item 1550 kg
+    \end{enumerate}
+
+    \item What is the total cost of 8 rulers and 8 pens?
+    \begin{center}
+        % Pen and ruler image placeholder
+        \includegraphics[width=0.5\textwidth]{pen_ruler_image_placeholder}
+    \end{center}
+    \begin{enumerate}[label=\Alph*]
+        \item £2
+        \item £3
+        \item £16
+        \item £24
+        \item £32
+    \end{enumerate}
+
+    \item Round 7.038 to the nearest hundredth.
+    \begin{enumerate}[label=\Alph*]
+        \item 7.00
+        \item 7.03
+        \item 7.04
+        \item 7.038
+        \item 7.039
+    \end{enumerate}
+
+    \item These shapes are made from 1 cm cubes.
+    \begin{center}
+        % Shapes P, Q, R, S image placeholder
+        \includegraphics[width=0.8\textwidth]{shapes_PQRS_image_placeholder}
+    \end{center}
+    Which two shapes have the same volume?
+    \begin{enumerate}[label=\Alph*]
+        \item P and Q
+        \item P and R
+        \item P and S
+        \item Q and R
+        \item R and S
+    \end{enumerate}
+
+    \item Which of these shapes are prisms?
+    \begin{center}
+        % Shapes P, Q, R, S, T image placeholder
+        \includegraphics[width=0.8\textwidth]{shapes_PQRST_image_placeholder}
+    \end{center}
+    \begin{enumerate}[label=\Alph*]
+        \item P and S only
+        \item R and T only
+        \item Q, R and T
+        \item P, Q and S
+        \item Only S
+    \end{enumerate}
+\end{enumerate}
+
+\vfill
+\noindent 11+ Maths / 10-11 / 1 / Paper 1 \hfill 4 \hfill \copyright\ CGP 2018
+
+\end{document}
+```

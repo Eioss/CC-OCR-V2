@@ -1,0 +1,19 @@
+The image has been rotated 90 degrees clockwise.The recognized content is as follows:
+$$
+\begin{align*}
+&\le \frac{\alpha}{p} \sum_{j=1}^n \langle T_j^* |x, y\rangle^p + \frac{\alpha}{q} \sum_{j=1}^n \langle T_j^* |x, y\rangle^q \\
+&- \sum_{j=1}^n (-1)^{2j-1} \left(\frac{\alpha}{p}\right) + (-1)^{2j+1} \left[\frac{\gamma_j+1}{2}\right] \\
+&\times \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j} \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j} \\
+&- \sum_{j=1}^n \langle T_j |x, y\rangle^p \left( \frac{k_j+1}{2} \right) \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j-1} \\
+&\times \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j} \\
+&\le \frac{\alpha}{p} \sum_{j=1}^n \langle T_j |x, y\rangle^p + \frac{\alpha}{q} \sum_{j=1}^n \langle T_j^* |x, y\rangle^q \\
+&- \sum_{j=1}^n (-1)^{2j-1} \left(\frac{\alpha}{p}\right) + (-1)^{2j+1} \left[\frac{\gamma_j+1}{2}\right] \\
+&\times \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j} \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j} \\
+&- \sum_{j=1}^n \langle T_j |x, y\rangle^p \left( \frac{k_j+1}{2} \right) \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j-1} \\
+&\times \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j} \\
+&= \frac{\alpha}{p} \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right) + \frac{\alpha}{q} \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^q \right) \\
+&- \sum_{j=1}^n (-1)^{2j-1} \left(\frac{\alpha}{p}\right) + (-1)^{2j+1} \left[\frac{\gamma_j+1}{2}\right] \\
+&\times \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j} \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j} \\
+&- 2j \left( \sum_{j=1}^n \langle T_j |x, y\rangle^p \right)^{k_j+1} \left( \sum_{j=1}^n \langle T_j^* |x, y\rangle^p \right)^{2j-1-k_j-1}
+\end{align*}
+$$

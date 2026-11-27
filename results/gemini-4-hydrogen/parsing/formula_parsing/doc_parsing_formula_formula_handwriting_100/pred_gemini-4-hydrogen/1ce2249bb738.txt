@@ -1,0 +1,11 @@
+```latex
+\begin{align*}
+E\left[\int_{0}^{1}|V(T^{-1}r)_{t}|_{R^{d}}^{2}dt\right] &= E\left[\int_{0}^{1}|V(r)_{t}|_{R^{d}}^{2}dt\,\varphi\right] \\
+&\le E\left[\exp\left\{\int_{0}^{1}|V(r)_{t}|_{R^{d}}^{2}dt\right\}\varphi\right] = E\left[\frac{1}{\varphi^{-}}\right] < \infty \\
+&= \sum_{i\in N_{u}}(2v_{i}(\pi)+2\gamma_{i}(\pi))+\sum_{i\in N_{v}}2v_{i}(\pi) \\
+\sum_{t=1}^{n}\tilde{l}_{t}^{T}w_{t}-\sum_{t=1}^{n}\tilde{l}_{t}^{T}u &\le D_{F}(u,w_{1})+\sum_{t=1}^{n}\sum_{i=1}^{d}\frac{\tilde{l}_{i,t}^{2}}{2(\psi-1)'(w_{i,t})}. \\
+C^{h}(D) &:= \{f\in C(D)\mid \|f\|_{C^{h}(D)}<\infty\}, \\
+\|(t+|x|)Lv+(d-1)v\|_{L^{2}} &+ \|(t-|x|)\underline{L}v+(d-1)v\|_{L^{2}} \lesssim \mathcal{E}(t)^{1/2}, \\
+\left|\int_{\frac{1}{n}\le|t|\le\pi}L_{n}(t)\,d\varphi_{x}(t)\right| &\le C\left(\int_{\frac{1}{n}\le|t|\le\pi}\frac{|d\varphi_{x}(t)|}{nt^{2}}+\int_{\frac{1}{n}\le|t|\le\pi}\frac{|d\varphi_{x}(t)|}{n^{2}t^{3}}+\int_{\frac{1}{n}\le|t|\le\pi}\frac{|d\varphi_{x}(t)|}{n^{3}t^{4}}\right).
+\end{align*}
+```

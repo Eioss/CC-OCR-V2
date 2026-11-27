@@ -1,0 +1,12 @@
+\begin{align*}
+&\int_{\Omega} u(t, x)(\Delta u)^2 \varphi \, dx \leq \int_{\{t \geq 0\}} \gamma_1(u(x)) f(x) \varphi(x) \, dx + \int_{\{t \geq 0\}} \gamma_2(u(x)) f(x) \varphi(x) \, dx. \\
+&W_{\pm}^1[f](x, y, \theta) = a^{-1} \int_{\mathbb{R}} f(x) e^{\pm \frac{i}{\hbar} (x_1^2 - y_1^2)} \varphi(\tau - \theta, a^{-1}(x - y)) e^{\frac{i}{\hbar} (x_1^2 - y_1^2)} \, dx, \\
+&\psi(\phi_A) = \frac{-(\csc^2(\alpha_x) + 1) + \delta}{-(\csc^2(\alpha_x) + 1) - \delta} = \frac{\text{tr}(U) + 1 - \delta}{\text{tr}(U) + 1 + \delta} \tag{3.11} \\
+&\frac{1}{\delta} + \frac{\Im \tau(t)}{4} \leq \frac{|D_t(\frac{\gamma^2}{\mu \epsilon L}, X_t)|}{|D_t(\frac{\gamma^2}{\mu \epsilon L}, X_t)|} \\
+&\tilde{V}(t + T_i, M^\circ) \geq u(t + T_i, M^\circ) \text{ for } t \geq 0, \\
+&\int_0^t S(t_1 - \tau) B u(\tau) d\tau, g) = \int_0^t (S(t_1 - \tau) B u(\tau), g) d\tau. \\
+&T_t(t) = \alpha_t \delta^t(t) - (\alpha_t + 1) \left( \frac{\gamma_s}{2} + \epsilon \Delta c L s \right) \\
+&\qquad \times e^{-t(w_\epsilon + \Delta c L s)} t e^{-\Gamma \epsilon^t} \Theta(t), \\
+&\frac{h_K}{p_K} \leq C_S \quad \forall K \in \mathcal{T} \text{ and } \forall T \in \mathcal{F}, \\
+&v^T Q^{(k+1, k+1)} v = v^T D^{(k+1, k+1)} v - v^T \beta^{(k+1, k+1)} v + z v^T v - \lambda(v, T)^2
+\end{align*}

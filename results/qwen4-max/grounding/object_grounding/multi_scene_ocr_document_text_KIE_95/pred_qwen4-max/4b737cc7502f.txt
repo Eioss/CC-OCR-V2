@@ -1,0 +1,4 @@
+<tool_call>
+<function=Read>
+</function>
+</tool_call>

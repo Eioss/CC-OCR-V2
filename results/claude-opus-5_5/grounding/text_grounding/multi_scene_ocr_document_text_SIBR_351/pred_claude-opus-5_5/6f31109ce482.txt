@@ -1,0 +1,6 @@
+The text "51.46" appears four times in the image, once for each date's room service charge (客房服务费):
+
+(771, 396, 804, 407) # 10/26/20
+(775, 451, 807, 461) # 10/27/20
+(779, 505, 811, 516) # 10/28/20
+(783, 559, 816, 571) # 10/29/20

@@ -1,0 +1,8 @@
+From the chart, the figures for **India** are:
+* **Total cases:** 22,68,675 (2,268,675)
+* **Active cases:** 6,39,929 (639,929)
+
+**Calculation:**
+$$2,268,675 - 639,929 = 1,628,746$$
+
+The difference between total cases and active cases in India is **16,28,746** (or **1,628,746**).

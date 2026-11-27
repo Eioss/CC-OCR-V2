@@ -1,0 +1,5 @@
+The text "56.00" appears twice on this receipt. The box below is for the first one, next to "Total Incl GST":
+
+(751, 614, 905, 638)
+
+The second "56.00", next to "Pay Cash", is at about (751, 654, 905, 678).
