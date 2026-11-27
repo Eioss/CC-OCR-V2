@@ -1085,7 +1085,7 @@ h2 {
 
 .diagnostic-stage {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 272px;
+  grid-template-columns: minmax(0, 1fr) 294px;
   gap: 28px;
   align-items: center;
 }
@@ -1178,7 +1178,7 @@ h2 {
 
 .readout-row {
   display: grid;
-  grid-template-columns: 106px minmax(0, 1fr) 40px;
+  grid-template-columns: 126px minmax(0, 1fr) 40px;
   align-items: center;
   gap: 10px;
   font-size: 12px;
