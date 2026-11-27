@@ -189,9 +189,13 @@ function renderScores({ resetScrollTop = true } = {}) {
   const tableEl = document.getElementById('score-table');
   tableEl.classList.toggle('category-table', state.view === 'categories');
 
-  document.getElementById('model-count').textContent =
-    `${visible.length}${visible.length !== group.length ? ` of ${group.length}` : ''} models · Higher is better`;
-  document.getElementById('score-updated').textContent = formatSnapshot(scoreData.snapshot);
+  const modelCountEl = document.getElementById('model-count');
+  if (modelCountEl) {
+    modelCountEl.textContent =
+      `${visible.length}${visible.length !== group.length ? ` of ${group.length}` : ''} models · Higher is better`;
+  }
+  const updatedEl = document.getElementById('score-updated');
+  if (updatedEl) updatedEl.textContent = formatSnapshot(scoreData.snapshot);
 
   const coverageNote = document.getElementById('category-coverage-note');
   if (coverageNote) {
@@ -298,7 +302,8 @@ if (window.CCOCR_SCORES) {
 } else {
   document.getElementById('score-body').innerHTML =
     '<tr><td class="empty">Scores could not load.</td></tr>';
-  document.getElementById('model-count').textContent = 'Score data unavailable';
+  const modelCountEl = document.getElementById('model-count');
+  if (modelCountEl) modelCountEl.textContent = 'Score data unavailable';
 }
 
 // Accessible keyboard arrow navigation for all tablists
